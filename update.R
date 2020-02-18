@@ -23,8 +23,10 @@ while(date <= Sys.Date()) {
     n <- nrow(schedule)
     for(i in 1:n) {
       print(paste("Getting Game", i, "of", n, "on", date))
+      # x <- try(w_get_pbp_game(schedule$game_id[i]))
       x <- try(w_get_pbp_game(schedule$game_id[i]))
-      if(!is.null(x) & class(x) != "try-error") {
+      
+      if(is.data.frame(x)) {
         write_csv(x, paste("2019-20/pbp_logs", date, paste0(schedule$game_id[i], ".csv"), sep = "/"))
       }
     }
