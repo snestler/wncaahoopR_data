@@ -1,0 +1,282 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:51,2391,2391,Brittany Brewer missed Jumper.,0,0,0,3,0.5,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,NA
+2,1,9:48,2388,2388,Ashley Joens Defensive Rebound.,0,0,0,13,0.5,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+3,1,9:35,2375,2375,Rae Johnson made Three Point Jumper.,0,3,-3,13,0.4333894536323005,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Iowa State
+4,1,9:22,2362,2362,Alexis Tucker missed Jumper.,0,3,-3,3,0.43297657689473573,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+5,1,9:19,2359,2359,Alexis Tucker Offensive Rebound.,0,3,-3,1,0.4328808175338899,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+6,1,9:18,2358,2358,Alexis Tucker Turnover.,0,3,-3,0,0.43284885863257627,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+7,1,9:18,2358,2358,Rae Johnson Steal.,0,3,-3,19,0.43284885863257627,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+8,1,8:59,2339,2339,Maggie Espenmiller-McGraw made Three Point Jumper. Assisted by Rae Johnson.,0,6,-6,18,0.3669203163822375,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Iowa State
+9,1,8:41,2321,2321,Lexi Gordon made Layup.,2,6,-4,11,0.4093117278015457,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Texas Tech
+10,1,8:30,2310,2310,Kristin Scott made Layup. Assisted by Maggie Espenmiller-McGraw.,2,8,-6,11,0.3651334803999549,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Iowa State
+11,1,8:19,2299,2299,Brittany Brewer missed Jumper.,2,8,-6,4,0.36444973995471724,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+12,1,8:15,2295,2295,Ashley Joens Defensive Rebound.,2,8,-6,15,0.36420036050917026,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+13,1,8:00,2280,2280,Ashley Joens made Three Point Jumper. Assisted by Kristin Scott.,2,11,-9,15,0.30114491827100304,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Iowa State
+14,1,7:45,2265,2265,Alexis Tucker made Jumper. Assisted by Sydney Goodson.,4,11,-7,17,0.3408441931221266,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Texas Tech
+15,1,7:28,2248,2248,Rae Johnson made Three Point Jumper.,4,14,-10,11,0.27889545933105186,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Iowa State
+16,1,7:17,2237,2237,Lexi Gordon made Three Point Jumper. Assisted by Sydney Goodson.,7,14,-7,19,0.33883447512693,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Texas Tech
+17,1,6:58,2218,2218,Maggie Espenmiller-McGraw made Three Point Jumper. Assisted by Ashley Joens.,7,17,-10,16,0.2761302661850152,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Iowa State
+18,1,6:42,2202,2202,Alexis Tucker missed Layup.,7,17,-10,0,0.2746530176978512,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+19,1,6:42,2202,2202,Kristin Scott Block.,7,17,-10,5,0.2746530176978512,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+20,1,6:37,2197,2197,Adriana Camber Defensive Rebound.,7,17,-10,12,0.27419122893115644,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+21,1,6:25,2185,2185,Kristin Scott made Layup. Assisted by Ashley Joens.,7,19,-12,1,0.23598044857816272,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Iowa State
+22,1,6:24,2184,2184,Texas Tech  Timeout,7,19,-12,16,0.2358797972051283,Texas Tech,Iowa State,3,4,1,0,NA,401176895,2020-01-03,
+23,1,6:08,2168,2168,Brittany Brewer missed Layup.,7,19,-12,5,0.23427096140446768,Texas Tech,Iowa State,3,4,1,0,NA,401176895,2020-01-03,
+24,1,6:03,2163,2163,Brittany Brewer Offensive Rebound.,7,19,-12,1,0.23376853812236872,Texas Tech,Iowa State,3,4,1,0,NA,401176895,2020-01-03,
+25,1,6:02,2162,2162,Brittany Brewer missed Layup.,7,19,-12,2,0.2336680442283124,Texas Tech,Iowa State,3,4,1,0,NA,401176895,2020-01-03,
+26,1,6:00,2160,2160,Foul on Sydney Goodson.,7,19,-12,0,0.23346704628048895,Texas Tech,Iowa State,3,4,1,0,NA,401176895,2020-01-03,
+27,1,6:00,2160,2160,Jade Thurmon missed Free Throw.,7,19,-12,0,0.23346704628048895,Texas Tech,Iowa State,3,4,1,0,NA,401176895,2020-01-03,
+28,1,6:00,2160,2160,Iowa State Offensive Rebound.,7,19,-12,0,0.23346704628048895,Texas Tech,Iowa State,3,4,1,0,NA,401176895,2020-01-03,
+29,1,6:00,2160,2160,Jade Thurmon made Free Throw.,7,20,-13,1,0.2162073713424407,Texas Tech,Iowa State,3,4,1,0,NA,401176895,2020-01-03,Iowa State
+30,1,5:59,2159,2159,Ashley Joens Defensive Rebound.,7,20,-13,16,0.21610427293643955,Texas Tech,Iowa State,3,4,1,0,NA,401176895,2020-01-03,
+31,1,5:43,2143,2143,Chrislyn Carr made Three Point Jumper. Assisted by Maka Jackson.,10,20,-10,12,0.26920173982293144,Texas Tech,Iowa State,3,4,1,0,NA,401176895,2020-01-03,Texas Tech
+32,1,5:31,2131,2131,Foul on Maka Jackson.,10,20,-10,0,0.26808941585763574,Texas Tech,Iowa State,3,4,1,0,NA,401176895,2020-01-03,
+33,1,5:31,2131,2131,Jade Thurmon made Free Throw.,10,21,-11,0,0.24884691462873632,Texas Tech,Iowa State,3,4,1,0,NA,401176895,2020-01-03,Iowa State
+34,1,5:31,2131,2131,Jade Thurmon made Free Throw.,10,22,-12,12,0.23055050916085554,Texas Tech,Iowa State,3,4,1,0,NA,401176895,2020-01-03,Iowa State
+35,1,5:19,2119,2119,Lexi Gordon made Three Point Jumper.,13,22,-9,12,0.2871999739739122,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,Texas Tech
+36,1,5:07,2107,2107,Kristin Scott made Three Point Jumper. Assisted by Jade Thurmon.,13,25,-12,18,0.2281326042312934,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,Iowa State
+37,1,4:49,2089,2089,Lexi Gordon missed Jumper.,13,25,-12,3,0.22631570494769326,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+38,1,4:46,2086,2086,Lexi Gordon Offensive Rebound.,13,25,-12,3,0.2260125499603783,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+39,1,4:43,2083,2083,Lexi Gordon Turnover.,13,25,-12,5,0.22570929093948397,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+40,1,4:38,2078,2078,Adriana Camber made Three Point Jumper. Assisted by Jade Thurmon.,13,28,-15,11,0.1758829134647811,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,Iowa State
+41,1,4:27,2067,2067,Andrayah Adams made Three Point Jumper. Assisted by Sydney Goodson.,16,28,-12,22,0.22409004105155594,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,Texas Tech
+42,1,4:05,2045,2045,Jade Thurmon made Layup.,16,30,-14,20,0.18785361585490723,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,Iowa State
+43,1,3:45,2025,2025,Brittany Brewer missed Layup.,16,30,-14,4,0.1857568684304021,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+44,1,3:41,2021,2021,Ashley Joens Defensive Rebound.,16,30,-14,7,0.18533720068967252,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+45,1,3:34,2014,2014,Adriana Camber made Three Point Jumper. Assisted by Jade Thurmon.,16,33,-17,12,0.14139081162262523,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,Iowa State
+46,1,3:22,2002,2002,Lexi Gordon missed Layup.,16,33,-17,3,0.14015768685445532,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+47,1,3:19,1999,1999,Ashley Joens Defensive Rebound.,16,33,-17,10,0.13984960524887466,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+48,1,3:09,1989,1989,Kristin Scott missed Jumper.,16,33,-17,3,0.13882321016763655,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+49,1,3:06,1986,1986,Andrayah Adams Defensive Rebound.,16,33,-17,4,0.13851544861935156,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+50,1,3:02,1982,1982,Chrislyn Carr made Layup.,18,33,-15,22,0.16579987276351155,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,Texas Tech
+51,1,2:40,1960,1960,Jade Thurmon Turnover.,18,33,-15,0,0.16348572302388392,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+52,1,2:40,1960,1960,Chrislyn Carr Steal.,18,33,-15,24,0.16348572302388392,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+53,1,2:16,1936,1936,Chrislyn Carr missed Three Point Jumper.,18,33,-15,2,0.1609579937411028,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+54,1,2:14,1934,1934,Iowa State Defensive Rebound.,18,33,-15,18,0.16074717544283906,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+55,1,1:56,1916,1916,Ashley Joens made Jumper. Assisted by Maggie Espenmiller-McGraw.,18,35,-17,10,0.1313589923440783,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,Iowa State
+56,1,1:46,1906,1906,Brittany Brewer made Layup. Assisted by Sydney Goodson.,20,35,-15,13,0.1578154765584423,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,Texas Tech
+57,1,1:33,1893,1893,Adriana Camber missed Three Point Jumper.,20,35,-15,2,0.1564712617073533,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+58,1,1:31,1891,1891,Iowa State Offensive Rebound.,20,35,-15,0,0.15626529185127824,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+59,1,1:31,1891,1891,Foul on Lexi Gordon.,20,35,-15,11,0.15626529185127824,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+60,1,1:20,1880,1880,Kristin Scott missed Layup.,20,35,-15,3,0.15513603757416725,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+61,1,1:17,1877,1877,Andrayah Adams Defensive Rebound.,20,35,-15,14,0.15482904151505514,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+62,1,1:03,1863,1863,Lexi Gordon made Three Point Jumper. Assisted by Chrislyn Carr.,23,35,-12,17,0.20318014421092076,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,Texas Tech
+63,1,0:46,1846,1846,Inès Nezerwa Turnover.,23,35,-12,11,0.20145766048962155,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+64,1,0:35,1835,1835,Lexi Gordon missed Layup.,23,35,-12,0,0.20034447940581251,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+65,1,0:35,1835,1835,Kristin Scott Block.,23,35,-12,0,0.20034447940581251,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+66,1,0:35,1835,1835,Texas Tech Offensive Rebound.,23,35,-12,4,0.20034447940581251,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+67,1,0:31,1831,1831,Brittany Brewer missed Jumper.,23,35,-12,3,0.19993977122818132,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+68,1,0:28,1828,1828,Kristin Scott Defensive Rebound.,23,35,-12,22,0.19963623460993457,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+69,1,0:06,1806,1806,Adriana Camber missed Three Point Jumper.,23,35,-12,4,0.19740869398452643,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+70,1,0:02,1802,1802,Texas Tech Defensive Rebound.,23,35,-12,2,0.1970031104192733,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+71,1,0:00,1800,1800,Chrislyn Carr missed Three Point Jumper.,23,35,-12,0,0.1968002221847849,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+72,1,0:00,1800,1800,Texas Tech Offensive Rebound.,23,35,-12,0,0.1968002221847849,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+73,1,0:00,1800,1800,End of 1st Quarter,23,35,-12,11,0.1968002221847849,Texas Tech,Iowa State,3,4,0,0,NA,401176895,2020-01-03,
+74,2,9:49,1789,1789,Jade Thurmon made Layup.,23,37,-14,21,0.16123325210591358,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Iowa State
+75,2,9:28,1768,1768,Foul on Jade Thurmon.,23,37,-14,10,0.1590893716902489,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+76,2,9:18,1758,1758,Brittany Brewer missed Layup.,23,37,-14,1,0.15806540231775698,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+77,2,9:17,1757,1757,Iowa State Defensive Rebound.,23,37,-14,23,0.1579628682445365,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+78,2,8:54,1734,1734,Foul on Jade Thurmon.,23,37,-14,0,0.155596260098251,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+79,2,8:54,1734,1734,Jade Thurmon Turnover.,23,37,-14,8,0.155596260098251,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+80,2,8:46,1726,1726,Andrayah Adams missed Three Point Jumper.,23,37,-14,5,0.15476875952955296,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+81,2,8:41,1721,1721,Maka Jackson Offensive Rebound.,23,37,-14,5,0.15425026602313235,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+82,2,8:36,1716,1716,Brittany Brewer made Layup. Assisted by Lexi Gordon.,25,37,-12,20,0.1881657379948447,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Texas Tech
+83,2,8:16,1696,1696,Maggie Espenmiller-McGraw made Jumper.,25,39,-14,21,0.1516407554399902,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Iowa State
+84,2,7:55,1675,1675,Foul on Rae Johnson.,25,39,-14,0,0.14945482519042536,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+85,2,7:55,1675,1675,Chrislyn Carr made Free Throw.,26,39,-13,0,0.16594023074312877,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Texas Tech
+86,2,7:55,1675,1675,Chrislyn Carr made Free Throw.,27,39,-12,20,0.18385097678022638,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Texas Tech
+87,2,7:35,1655,1655,Ashley Joens missed Jumper.,27,39,-12,4,0.18181977788665882,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+88,2,7:31,1651,1651,Lexi Gordon Defensive Rebound.,27,39,-12,2,0.18142103714298016,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+89,2,7:29,1649,1649,Lexi Gordon missed Three Point Jumper.,27,39,-12,9,0.1812224942464427,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+90,2,7:20,1640,1640,Rae Johnson Defensive Rebound.,27,39,-12,13,0.18033536238036982,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+91,2,7:07,1627,1627,Rae Johnson missed Three Point Jumper.,27,39,-12,4,0.17906982661876794,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+92,2,7:03,1623,1623,Brittany Brewer Defensive Rebound.,27,39,-12,8,0.17868360623248156,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+93,2,6:55,1615,1615,Lexi Gordon made Layup. Assisted by Andrayah Adams.,29,39,-10,29,0.21832587960501637,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Texas Tech
+94,2,6:26,1586,1586,Maggie Espenmiller-McGraw Turnover.,29,39,-10,0,0.21563773377062664,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+95,2,6:26,1586,1586,Brittany Brewer Steal.,29,39,-10,4,0.21563773377062664,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+96,2,6:22,1582,1582,Foul on Chrislyn Carr.,29,39,-10,0,0.21526776532572747,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+97,2,6:22,1582,1582,Chrislyn Carr Turnover.,29,39,-10,9,0.21526776532572747,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+98,2,6:13,1573,1573,Jade Thurmon Turnover.,29,39,-10,15,0.21443454590285632,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+99,2,5:58,1558,1558,Brittany Brewer made Layup. Assisted by Lexi Gordon.,31,39,-8,16,0.2601178364680114,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Texas Tech
+100,2,5:42,1542,1542,Maggie Espenmiller-McGraw missed Three Point Jumper.,31,39,-8,5,0.25873863246763945,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+101,2,5:37,1537,1537,Brittany Brewer Defensive Rebound.,31,39,-8,0,0.2583035111863332,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+102,2,5:37,1537,1537,Foul on Inès Nezerwa.,31,39,-8,6,0.2583035111863332,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+103,2,5:31,1531,1531,Maka Jackson Turnover.,31,39,-8,14,0.2577782942866787,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+104,2,5:17,1517,1517,Inès Nezerwa missed Layup.,31,39,-8,3,0.2565378853778489,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+105,2,5:14,1514,1514,Sydney Goodson Defensive Rebound.,31,39,-8,12,0.25626905745887274,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+106,2,5:02,1502,1502,Brittany Brewer made Jumper. Assisted by Lexi Gordon.,33,39,-6,29,0.30930438458121373,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Texas Tech
+107,2,4:33,1473,1473,Rae Johnson made Jumper. Assisted by Kristin Scott.,33,41,-8,11,0.25246073164959876,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Iowa State
+108,2,4:22,1462,1462,Brittany Brewer made Jumper. Assisted by Sydney Goodson.,35,41,-6,26,0.3060999881619132,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Texas Tech
+109,2,3:56,1436,1436,Inès Nezerwa Turnover.,35,41,-6,0,0.30390335113433664,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+110,2,3:56,1436,1436,Lexi Gordon Steal.,35,41,-6,6,0.30390335113433664,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+111,2,3:50,1430,1430,Chrislyn Carr made Layup. Assisted by Lexi Gordon.,37,41,-4,16,0.3649182547784468,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Texas Tech
+112,2,3:34,1414,1414,Official TV Timeout,37,41,-4,9,0.3639722153372846,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+113,2,3:25,1405,1405,Adriana Camber missed Three Point Jumper.,37,41,-4,4,0.3634500566579852,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+114,2,3:21,1401,1401,Sydney Goodson Defensive Rebound.,37,41,-4,2,0.3632198330072369,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+115,2,3:19,1399,1399,Chrislyn Carr Turnover.,37,41,-4,17,0.3631050924051297,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+116,2,3:02,1382,1382,Rae Johnson Turnover.,37,41,-4,0,0.3621375252295142,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+117,2,3:02,1382,1382,Lexi Gordon Steal.,37,41,-4,15,0.3621375252295142,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+118,2,2:47,1367,1367,Brittany Brewer missed Jumper.,37,41,-4,3,0.36129031257729405,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+119,2,2:44,1364,1364,Ashley Joens Defensive Rebound.,37,41,-4,17,0.3611210307779102,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+120,2,2:27,1347,1347,Kristin Scott missed Three Point Jumper.,37,41,-4,3,0.360159183435142,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+121,2,2:24,1344,1344,Chrislyn Carr Defensive Rebound.,37,41,-4,4,0.35998857379510757,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+122,2,2:20,1340,1340,Chrislyn Carr made Jumper.,39,41,-2,20,0.4284441216355076,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Texas Tech
+123,2,2:00,1320,1320,Kristin Scott made Layup. Assisted by Ashley Joens.,39,43,-4,19,0.3586057159782127,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Iowa State
+124,2,1:41,1301,1301,Brittany Brewer made Jumper. Assisted by Lexi Gordon.,41,43,-2,15,0.42722903042319654,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Texas Tech
+125,2,1:26,1286,1286,Foul on Kristin Scott.,41,43,-2,0,0.42673820168926335,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+126,2,1:26,1286,1286,Kristin Scott Turnover.,41,43,-2,10,0.42673820168926335,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+127,2,1:16,1276,1276,Brittany Brewer made Layup. Assisted by Lexi Gordon.,43,43,0,26,0.5,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Texas Tech
+128,2,0:50,1250,1250,Ashley Joens made Layup. Assisted by Inès Nezerwa.,43,45,-2,14,0.42548058478505607,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Iowa State
+129,2,0:36,1236,1236,Lexi Gordon made Jumper. Assisted by Sydney Goodson.,45,45,0,29,0.5,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Texas Tech
+130,2,0:07,1207,1207,Ashley Joens made Layup.,45,47,-2,7,0.42378139348023847,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,Iowa State
+131,2,0:00,1200,1200,Chrislyn Carr missed Three Point Jumper.,45,47,-2,0,0.4234906714856242,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+132,2,0:00,1200,1200,Texas Tech Offensive Rebound.,45,47,-2,0,0.4234906714856242,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+133,2,0:00,1200,1200,End of 2nd Quarter,45,47,-2,9,0.4234906714856242,Texas Tech,Iowa State,4,4,0,0,NA,401176895,2020-01-03,
+134,3,9:51,1191,1191,Rae Johnson made Three Point Jumper.,45,50,-5,17,0.3154163339380173,Texas Tech,Iowa State,5,5,0,0,NA,401176895,2020-01-03,Iowa State
+135,3,9:34,1174,1174,Chrislyn Carr missed Layup.,45,50,-5,3,0.3139141793405257,Texas Tech,Iowa State,5,5,0,0,NA,401176895,2020-01-03,
+136,3,9:31,1171,1171,Ashley Joens Defensive Rebound.,45,50,-5,5,0.3136530377827787,Texas Tech,Iowa State,5,5,0,0,NA,401176895,2020-01-03,
+137,3,9:26,1166,1166,Kristin Scott made Layup. Assisted by Rae Johnson.,45,52,-7,1,0.2498988372138682,Texas Tech,Iowa State,5,5,0,0,NA,401176895,2020-01-03,Iowa State
+138,3,9:25,1165,1165,Texas Tech  Timeout,45,52,-7,15,0.24979352775133104,Texas Tech,Iowa State,4,5,1,0,NA,401176895,2020-01-03,
+139,3,9:10,1150,1150,Andrayah Adams missed Three Point Jumper.,45,52,-7,5,0.248226781958067,Texas Tech,Iowa State,4,5,1,0,NA,401176895,2020-01-03,
+140,3,9:05,1145,1145,Rae Johnson Defensive Rebound.,45,52,-7,25,0.24770863805030208,Texas Tech,Iowa State,4,5,1,0,NA,401176895,2020-01-03,
+141,3,8:40,1120,1120,Ashley Joens made Three Point Jumper. Assisted by Kristin Scott.,45,55,-10,25,0.16703245482578571,Texas Tech,Iowa State,4,5,1,0,NA,401176895,2020-01-03,Iowa State
+142,3,8:15,1095,1095,Brittany Brewer made Jumper. Assisted by Chrislyn Carr.,47,55,-8,28,0.21389971070679303,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,Texas Tech
+143,3,7:47,1067,1067,Ashley Joens made Jumper.,47,57,-10,25,0.1610470141721507,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,Iowa State
+144,3,7:22,1042,1042,Lexi Gordon missed Layup.,47,57,-10,4,0.15806386933359598,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+145,3,7:18,1038,1038,Adriana Camber Defensive Rebound.,47,57,-10,9,0.1575719262663014,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+146,3,7:09,1029,1029,Kristin Scott made Three Point Jumper. Assisted by Rae Johnson.,47,60,-13,19,0.10061890615679317,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,Iowa State
+147,3,6:50,1010,1010,Brittany Brewer Turnover.,47,60,-13,0,0.09843495153285202,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+148,3,6:50,1010,1010,Adriana Camber Steal.,47,60,-13,4,0.09843495153285202,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+149,3,6:46,1006,1006,Ashley Joens made Layup. Assisted by Rae Johnson.,47,62,-15,21,0.07164988080350648,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,Iowa State
+150,3,6:25,985,985,Maka Jackson missed Three Point Jumper.,47,62,-15,1,0.06943475981607904,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+151,3,6:24,984,984,Texas Tech Offensive Rebound.,47,62,-15,0,0.06932660370901139,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+152,3,6:24,984,984,Sydney Goodson Turnover.,47,62,-15,0,0.06932660370901139,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+153,3,6:24,984,984,Inès Nezerwa Steal.,47,62,-15,0,0.06932660370901139,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+154,3,6:24,984,984,Ashley Joens Turnover.,47,62,-15,0,0.06932660370901139,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+155,3,6:24,984,984,Sydney Goodson Steal.,47,62,-15,0,0.06932660370901139,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+156,3,6:24,984,984,Chrislyn Carr Turnover.,47,62,-15,0,0.06932660370901139,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+157,3,6:24,984,984,Jade Thurmon Steal.,47,62,-15,1,0.06932660370901139,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+158,3,6:23,983,983,Jade Thurmon Turnover.,47,62,-15,49,0.06921819563684722,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+159,3,5:34,934,934,Andrayah Adams missed Three Point Jumper.,47,62,-15,3,0.06422075718116745,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+160,3,5:31,931,931,Inès Nezerwa Defensive Rebound.,47,62,-15,14,0.06395817911069872,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+161,3,5:17,917,917,Maggie Espenmiller-McGraw made Layup.,47,64,-17,19,0.04463215904921313,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,Iowa State
+162,3,4:58,898,898,Andrayah Adams missed Layup.,47,64,-17,0,0.043411309653850635,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+163,3,4:58,898,898,Inès Nezerwa Block.,47,64,-17,4,0.043411309653850635,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+164,3,4:54,894,894,Inès Nezerwa Defensive Rebound.,47,64,-17,4,0.04316376064761887,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+165,3,4:50,890,890,Maggie Espenmiller-McGraw Turnover.,47,64,-17,0,0.042918613011641564,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+166,3,4:50,890,890,Official TV Timeout,47,64,-17,22,0.042918613011641564,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+167,3,4:28,868,868,Sydney Goodson missed Three Point Jumper.,47,64,-17,4,0.04159660075788499,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+168,3,4:24,864,864,Adriana Camber Defensive Rebound.,47,64,-17,8,0.041358128189170305,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+169,3,4:16,856,856,Jade Thurmon made Layup.,47,66,-19,24,0.02856494709859368,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,Iowa State
+170,3,3:52,832,832,Brittany Brewer missed Layup.,47,66,-19,1,0.02740876267316999,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+171,3,3:51,831,831,Lexi Gordon Offensive Rebound.,47,66,-19,0,0.027359425000733267,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+172,3,3:51,831,831,Foul on Inès Nezerwa.,47,66,-19,0,0.027359425000733267,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+173,3,3:51,831,831,Lexi Gordon made Free Throw.,48,66,-18,0,0.03283072822303017,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,Texas Tech
+174,3,3:51,831,831,Lexi Gordon made Free Throw.,49,66,-17,13,0.039351907939011055,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,Texas Tech
+175,3,3:38,818,818,Jade Thurmon Turnover.,49,66,-17,14,0.03851996278931233,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+176,3,3:24,804,804,Brittany Brewer missed Layup.,49,66,-17,4,0.0375825446341271,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+177,3,3:20,800,800,Iowa State Defensive Rebound.,49,66,-17,18,0.03730552698099294,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+178,3,3:02,782,782,Adriana Camber made Three Point Jumper. Assisted by Kristin Scott.,49,69,-20,8,0.020478562819471077,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,Iowa State
+179,3,2:54,774,774,Lexi Gordon Turnover.,49,69,-20,12,0.02006283303476456,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+180,3,2:42,762,762,Foul on Brittany Brewer.,49,69,-20,0,0.019414421093724044,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+181,3,2:42,762,762,Kristin Scott made Free Throw.,49,70,-21,0,0.016012548216530822,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,Iowa State
+182,3,2:42,762,762,Kristin Scott made Free Throw.,49,71,-22,17,0.013198741769075052,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,Iowa State
+183,3,2:25,745,745,Brittany Brewer missed Jumper.,49,71,-22,0,0.012469934948111449,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+184,3,2:25,745,745,Inès Nezerwa Block.,49,71,-22,4,0.012469934948111449,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+185,3,2:21,741,741,Kristin Scott Defensive Rebound.,49,71,-22,25,0.012292322242512936,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+186,3,1:56,716,716,Kristin Scott made Layup. Assisted by Adriana Camber.,49,73,-24,17,0.007476636764932847,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,Iowa State
+187,3,1:39,699,699,Andrayah Adams Turnover.,49,73,-24,0,0.007025297690961813,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+188,3,1:39,699,699,Inès Nezerwa Steal.,49,73,-24,17,0.007025297690961813,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+189,3,1:22,682,682,Maggie Espenmiller-McGraw made Three Point Jumper. Assisted by Rae Johnson.,49,76,-27,18,0.0035588927401305434,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,Iowa State
+190,3,1:04,664,664,Andrayah Adams missed Three Point Jumper.,49,76,-27,5,0.0033347731388755322,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+191,3,0:59,659,659,Adriana Camber Defensive Rebound.,49,76,-27,8,0.0032754636527401824,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+192,3,0:51,651,651,Kristin Scott made Layup. Assisted by Inès Nezerwa.,49,78,-29,24,0.0020811851708637504,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,Iowa State
+193,3,0:27,627,627,Chrislyn Carr missed Three Point Jumper.,49,78,-29,3,0.0018869902778411356,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+194,3,0:24,624,624,Rae Johnson Defensive Rebound.,49,78,-29,22,0.001862547975007643,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+195,3,0:02,602,602,Rae Johnson missed Jumper.,49,78,-29,2,0.0016788033886563777,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+196,3,0:00,600,600,Brittany Brewer Defensive Rebound.,49,78,-29,0,0.0016615995857008025,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+197,3,0:00,600,600,End of 3rd Quarter,49,78,-29,7,0.0016615995857008025,Texas Tech,Iowa State,4,5,0,0,NA,401176895,2020-01-03,
+198,4,9:53,593,593,Brittany Brewer Turnover.,49,78,-29,0,0.0016006253825145084,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+199,4,9:53,593,593,Adriana Camber Steal.,49,78,-29,15,0.0016006253825145084,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+200,4,9:38,578,578,Rae Johnson Turnover.,49,78,-29,0,0.001465867466709833,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+201,4,9:38,578,578,Sydney Goodson Steal.,49,78,-29,9,0.001465867466709833,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+202,4,9:29,569,569,Brittany Brewer missed Layup.,49,78,-29,5,0.001382423381302501,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+203,4,9:24,564,564,Kristin Scott Defensive Rebound.,49,78,-29,5,0.0013353163146465946,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+204,4,9:19,559,559,Adriana Camber missed Three Point Jumper.,49,78,-29,3,0.001287742331661638,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+205,4,9:16,556,556,Iowa State Offensive Rebound.,49,78,-29,30,0.0012590015046454004,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+206,4,8:46,526,526,Kristin Scott missed Three Point Jumper.,49,78,-29,3,0.0010141853194178378,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+207,4,8:43,523,523,Andrayah Adams Defensive Rebound.,49,78,-29,10,9.955127067273661e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+208,4,8:33,513,513,Sydney Goodson missed Jumper.,49,78,-29,6,9.378750105473495e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+209,4,8:27,507,507,Brittany Brewer Offensive Rebound.,49,78,-29,2,9.05821957167097e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+210,4,8:25,505,505,Foul on Kristin Scott.,49,78,-29,10,8.954362908269115e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+211,4,8:15,495,495,Brittany Brewer made Layup.,51,78,-27,5,0.0013756878987473034,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,Texas Tech
+212,4,8:10,490,490,Foul on Brittany Brewer.,51,78,-27,17,0.0013381547212979554,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+213,4,7:53,473,473,Ashley Joens missed Three Point Jumper.,51,78,-27,0,0.0012089075102371288,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+214,4,7:53,473,473,Lexi Gordon Defensive Rebound.,51,78,-27,2,0.0012089075102371288,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+215,4,7:51,471,471,Andrayah Adams missed Three Point Jumper.,51,78,-27,0,0.0011932513013455512,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+216,4,7:51,471,471,Rae Johnson Defensive Rebound.,51,78,-27,0,0.0011932513013455512,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+217,4,7:51,471,471,Adriana Camber missed Three Point Jumper.,51,78,-27,0,0.0011932513013455512,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+218,4,7:51,471,471,Ashley Joens Offensive Rebound.,51,78,-27,2,0.0011932513013455512,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+219,4,7:49,469,469,Ashley Joens Turnover.,51,78,-27,33,0.001177459115491659,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+220,4,7:16,436,436,Sydney Goodson made Layup.,53,78,-25,17,0.0015013049921684526,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,Texas Tech
+221,4,6:59,419,419,Kristin Scott made Three Point Jumper. Assisted by Rae Johnson.,53,81,-28,18,5.68713436022845e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,Iowa State
+222,4,6:41,401,401,Foul on Ashley Joens.,53,81,-28,0,4.7115198561296294e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+223,4,6:41,401,401,Lexi Gordon made Free Throw.,54,81,-27,0,6.193056133610988e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,Texas Tech
+224,4,6:41,401,401,Lexi Gordon missed Free Throw.,54,81,-27,2,6.193056133610988e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+225,4,6:39,399,399,Kristin Scott Defensive Rebound.,54,81,-27,23,6.072646867899309e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+226,4,6:16,376,376,Ashley Joens made Three Point Jumper. Assisted by Adriana Camber.,54,84,-30,14,2.0673209717058958e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,Iowa State
+227,4,6:02,362,362,Chrislyn Carr made Layup.,56,84,-28,24,3.107911023523919e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,Texas Tech
+228,4,5:38,338,338,Kristin Scott missed Three Point Jumper.,56,84,-28,3,2.2584522288286545e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+229,4,5:35,335,335,Lexi Gordon Defensive Rebound.,56,84,-28,14,2.1573246191264792e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+230,4,5:21,321,321,Lexi Gordon missed Layup.,56,84,-28,0,1.704297052708993e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+231,4,5:21,321,321,Rae Johnson Block.,56,84,-28,7,1.704297052708993e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+232,4,5:14,314,314,Ashley Joens Defensive Rebound.,56,84,-28,1,1.4919569745799443e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+233,4,5:13,313,313,Maggie Espenmiller-McGraw Turnover.,56,84,-28,0,1.462531985927502e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+234,4,5:13,313,313,Maka Jackson Steal.,56,84,-28,0,1.462531985927502e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+235,4,5:13,313,313,Foul on Ashley Joens.,56,84,-28,22,1.462531985927502e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+236,4,4:51,291,291,Chrislyn Carr missed Jumper.,56,84,-28,3,1.1242070242099535e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+237,4,4:48,288,288,Alexis Tucker Offensive Rebound.,56,84,-28,1,1.1209444043528313e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+238,4,4:47,287,287,Alexis Tucker missed Layup.,56,84,-28,5,1.1213850816225113e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+239,4,4:42,282,282,Adriana Camber Defensive Rebound.,56,84,-28,23,1.1338137643394995e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+240,4,4:19,259,259,Kristin Scott missed Three Point Jumper.,56,84,-28,3,1.3373669657916462e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+241,4,4:16,256,256,Adriana Camber Offensive Rebound.,56,84,-28,0,1.3712706523559282e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+242,4,4:16,256,256,Adriana Camber made Layup.,56,86,-30,0,7.265000821751166e-5,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,Iowa State
+243,4,4:16,256,256,Foul on Sydney Goodson.,56,86,-30,0,7.265000821751166e-5,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+244,4,4:16,256,256,Official TV Timeout,56,86,-30,0,7.265000821751166e-5,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+245,4,4:16,256,256,Adriana Camber made Free Throw.,56,87,-31,5,5.287939713774587e-5,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,Iowa State
+246,4,4:11,251,251,Foul on Ashley Joens.,56,87,-31,0,5.5164399011619056e-5,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+247,4,4:11,251,251,Andrayah Adams missed Free Throw.,56,87,-31,0,5.5164399011619056e-5,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+248,4,4:11,251,251,Texas Tech Offensive Rebound.,56,87,-31,0,5.5164399011619056e-5,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+249,4,4:11,251,251,Andrayah Adams made Free Throw.,57,87,-30,26,7.568591183910785e-5,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,Texas Tech
+250,4,3:45,225,225,Inès Nezerwa missed Layup.,57,87,-30,3,7.653280043574235e-5,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+251,4,3:42,222,222,Andrayah Adams Defensive Rebound.,57,87,-30,4,7.396912738872008e-5,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+252,4,3:38,218,218,Chrislyn Carr made Three Point Jumper.,60,87,-27,29,1.812307543576613e-4,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,Texas Tech
+253,4,3:09,189,189,Maggie Espenmiller-McGraw made Layup.,60,89,-29,10,3.2001728629418154e-5,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,Iowa State
+254,4,2:59,179,179,Foul on Inès Nezerwa.,60,89,-29,0,1.7411894108691707e-5,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+255,4,2:59,179,179,Brittany Brewer made Free Throw.,61,89,-28,0,2.5406862798782483e-5,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,Texas Tech
+256,4,2:59,179,179,Brittany Brewer made Free Throw.,62,89,-27,27,3.707272187245391e-5,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,Texas Tech
+257,4,2:32,152,152,Maggie Espenmiller-McGraw made Jumper.,62,91,-29,14,2.949599837062686e-6,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,Iowa State
+258,4,2:18,138,138,Chrislyn Carr missed Three Point Jumper.,62,91,-29,4,1.014335443280619e-6,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+259,4,2:14,134,134,Inès Nezerwa Defensive Rebound.,62,91,-29,1,7.28324433158484e-7,Texas Tech,Iowa State,5,6,0,0,NA,401176895,2020-01-03,
+260,4,2:13,133,133,Iowa State  Timeout,62,91,-29,24,6.690657448029424e-7,Texas Tech,Iowa State,5,5,0,1,NA,401176895,2020-01-03,
+261,4,1:49,109,109,Maggie Espenmiller-McGraw missed Jumper.,62,91,-29,10,6.540285528564752e-8,Texas Tech,Iowa State,5,5,0,1,NA,401176895,2020-01-03,
+262,4,1:39,99,99,Andrayah Adams Defensive Rebound.,62,91,-29,1,2.04778623201329e-8,Texas Tech,Iowa State,5,5,0,1,NA,401176895,2020-01-03,
+263,4,1:38,98,98,Foul on Nia Washington.,62,91,-29,0,1.8102811838953602e-8,Texas Tech,Iowa State,5,5,0,1,NA,401176895,2020-01-03,
+264,4,1:38,98,98,Chrislyn Carr made Free Throw.,63,91,-28,0,3.347497836499929e-8,Texas Tech,Iowa State,5,5,0,1,NA,401176895,2020-01-03,Texas Tech
+265,4,1:38,98,98,Chrislyn Carr made Free Throw.,64,91,-27,18,6.190055842587951e-8,Texas Tech,Iowa State,5,5,0,1,NA,401176895,2020-01-03,Texas Tech
+266,4,1:20,80,80,Jade Thurmon missed Layup.,64,91,-27,4,6.958552706315212e-9,Texas Tech,Iowa State,5,5,0,1,NA,401176895,2020-01-03,
+267,4,1:16,76,76,Morgan Kane Offensive Rebound.,64,91,-27,0,4.154968260613327e-9,Texas Tech,Iowa State,5,5,0,1,NA,401176895,2020-01-03,
+268,4,1:16,76,76,Morgan Kane made Layup.,64,93,-29,9,9.947658687703525e-10,Texas Tech,Iowa State,5,5,0,1,NA,401176895,2020-01-03,Iowa State
+269,4,1:07,67,67,Alexis Tucker made Layup. Assisted by Sydney Goodson.,66,93,-27,3,1.2248639791026989e-9,Texas Tech,Iowa State,5,5,0,0,NA,401176895,2020-01-03,Texas Tech
+270,4,1:04,64,64,Morgan Kane Turnover.,66,93,-27,3,8.040606437780617e-10,Texas Tech,Iowa State,5,5,0,0,NA,401176895,2020-01-03,
+271,4,1:01,61,61,Andrayah Adams missed Three Point Jumper.,66,93,-27,5,5.245901094764378e-10,Texas Tech,Iowa State,5,5,0,0,NA,401176895,2020-01-03,
+272,4,0:56,56,56,Lauren Mills Defensive Rebound.,66,93,-27,10,2.536744945508066e-10,Texas Tech,Iowa State,5,5,0,0,NA,401176895,2020-01-03,
+273,4,0:46,46,46,Jade Thurmon Turnover.,66,93,-27,0,5.572084509991102e-11,Texas Tech,Iowa State,5,5,0,0,NA,401176895,2020-01-03,
+274,4,0:46,46,46,Sydney Goodson Steal.,66,93,-27,4,5.572084509991102e-11,Texas Tech,Iowa State,5,5,0,0,NA,401176895,2020-01-03,
+275,4,0:42,42,42,Sydney Goodson Turnover.,66,93,-27,0,2.9592818070407374e-11,Texas Tech,Iowa State,5,5,0,0,NA,401176895,2020-01-03,
+276,4,0:42,42,42,Jade Thurmon Steal.,66,93,-27,26,2.9592818070407374e-11,Texas Tech,Iowa State,5,5,0,0,NA,401176895,2020-01-03,
+277,4,0:16,16,16,Nia Washington made Three Point Jumper. Assisted by Jade Thurmon.,66,96,-30,13,1.439594100163213e-14,Texas Tech,Iowa State,5,5,0,0,NA,401176895,2020-01-03,Iowa State
+278,4,0:03,3,3,Sydney Goodson missed Three Point Jumper.,66,96,-30,3,9.181946219208451e-16,Texas Tech,Iowa State,5,5,0,0,NA,401176895,2020-01-03,
+279,4,0:00,0,0,Morgan Kane Defensive Rebound.,66,96,-30,0,2.6503965530043108e-261,Texas Tech,Iowa State,5,5,0,0,NA,401176895,2020-01-03,
+280,4,0:00,0,0,End of 4th Quarter,66,96,-30,0,2.6503965530043108e-261,Texas Tech,Iowa State,5,5,0,0,NA,401176895,2020-01-03,
+281,4,0:00,0,0,End of Game,66,96,-30,0,2.6503965530043108e-261,Texas Tech,Iowa State,5,5,0,0,NA,401176895,2020-01-03,

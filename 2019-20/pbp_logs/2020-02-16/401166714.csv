@@ -1,0 +1,347 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Jump Ball won by Mississippi State,0,0,0,7,0.5,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,NA
+2,1,9:53,2393,2393,Myah Taylor made Layup.,0,2,-2,21,0.4558268782729744,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,Mississippi State
+3,1,9:32,2372,2372,Jaida Roper Turnover.,0,2,-2,0,0.4553819653286264,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+4,1,9:32,2372,2372,Myah Taylor Steal.,0,2,-2,6,0.4553819653286264,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+5,1,9:26,2366,2366,Jordan Danberry made Layup. Assisted by Myah Taylor.,0,4,-4,35,0.41121842476923365,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,Mississippi State
+6,1,8:51,2331,2331,Sabrina Haines missed Three Point Jumper.,0,4,-4,1,0.40973946553295193,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+7,1,8:50,2330,2330,Jessika Carter Defensive Rebound.,0,4,-4,13,0.40969678965383793,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+8,1,8:37,2317,2317,Rickea Jackson made Jumper. Assisted by Myah Taylor.,0,6,-6,6,0.3655669486371545,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,Mississippi State
+9,1,8:31,2311,2311,Kentucky  Timeout,0,6,-6,4,0.3651954843567671,Kentucky,Mississippi State,3,4,1,0,NA,401166714,2020-02-16,
+10,1,8:27,2307,2307,Rhyne Howard missed Three Point Jumper.,0,6,-6,0,0.3649473117852541,Kentucky,Mississippi State,3,4,1,0,NA,401166714,2020-02-16,
+11,1,8:27,2307,2307,Rhyne Howard Offensive Rebound.,0,6,-6,12,0.3649473117852541,Kentucky,Mississippi State,3,4,1,0,NA,401166714,2020-02-16,
+12,1,8:15,2295,2295,Ogechi Anyagaligbo made Jumper. Assisted by Jaida Roper.,2,6,-4,16,0.40819000054984006,Kentucky,Mississippi State,3,4,1,0,NA,401166714,2020-02-16,Kentucky
+13,1,7:59,2279,2279,Myah Taylor missed Layup.,2,6,-4,0,0.407493417154684,Kentucky,Mississippi State,3,4,1,0,NA,401166714,2020-02-16,
+14,1,7:59,2279,2279,Kentucky Deadball Team Rebound.,2,6,-4,2,0.407493417154684,Kentucky,Mississippi State,3,4,1,0,NA,401166714,2020-02-16,
+15,1,7:57,2277,2277,Foul on Jessika Carter.,2,6,-4,17,0.40740603485737253,Kentucky,Mississippi State,3,4,1,0,NA,401166714,2020-02-16,
+16,1,7:40,2260,2260,Rhyne Howard missed Jumper.,2,6,-4,0,0.40666070605256693,Kentucky,Mississippi State,3,4,1,0,NA,401166714,2020-02-16,
+17,1,7:40,2260,2260,Rhyne Howard Offensive Rebound.,2,6,-4,5,0.40666070605256693,Kentucky,Mississippi State,3,4,1,0,NA,401166714,2020-02-16,
+18,1,7:35,2255,2255,Sabrina Haines made Three Point Jumper. Assisted by Rhyne Howard.,5,6,-1,20,0.47634895989295645,Kentucky,Mississippi State,3,4,1,0,NA,401166714,2020-02-16,Kentucky
+19,1,7:15,2235,2235,Rickea Jackson missed Jumper.,5,6,-1,0,0.4761204813687841,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+20,1,7:15,2235,2235,Rhyne Howard Defensive Rebound.,5,6,-1,25,0.4761204813687841,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+21,1,6:50,2210,2210,Foul on Jordan Danberry.,5,6,-1,12,0.47583293443762664,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+22,1,6:38,2198,2198,Jaida Roper missed Three Point Jumper.,5,6,-1,0,0.4756942538677578,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+23,1,6:38,2198,2198,Jordan Danberry Defensive Rebound.,5,6,-1,12,0.4756942538677578,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+24,1,6:26,2186,2186,Jordan Danberry missed Jumper.,5,6,-1,0,0.47555520838674514,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+25,1,6:26,2186,2186,Kentucky Deadball Team Rebound.,5,6,-1,6,0.47555520838674514,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+26,1,6:20,2180,2180,Foul on Jordan Danberry.,5,6,-1,0,0.47548556302100853,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+27,1,6:20,2180,2180,Jaida Roper made Free Throw.,6,6,0,0,0.5,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Kentucky
+28,1,6:20,2180,2180,Jaida Roper made Free Throw.,7,6,1,21,0.5245144369789915,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Kentucky
+29,1,5:59,2159,2159,Rickea Jackson missed Jumper.,7,6,1,0,0.5247588679929944,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+30,1,5:59,2159,2159,Jaida Roper Defensive Rebound.,7,6,1,11,0.5247588679929944,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+31,1,5:48,2148,2148,Kentucky  Timeout,7,6,1,0,0.5248875332213728,Kentucky,Mississippi State,2,4,1,0,NA,401166714,2020-02-16,
+32,1,5:48,2148,2148,Foul on Jaida Roper.,7,6,1,0,0.5248875332213728,Kentucky,Mississippi State,2,4,1,0,NA,401166714,2020-02-16,
+33,1,5:48,2148,2148,Jaida Roper Turnover.,7,6,1,10,0.5248875332213728,Kentucky,Mississippi State,2,4,1,0,NA,401166714,2020-02-16,
+34,1,5:38,2138,2138,Myah Taylor Turnover.,7,6,1,9,0.5250049301600552,Kentucky,Mississippi State,2,4,1,0,NA,401166714,2020-02-16,
+35,1,5:29,2129,2129,Sabrina Haines missed Three Point Jumper.,7,6,1,0,0.5251109509496074,Kentucky,Mississippi State,2,4,1,0,NA,401166714,2020-02-16,
+36,1,5:29,2129,2129,Jessika Carter Defensive Rebound.,7,6,1,17,0.5251109509496074,Kentucky,Mississippi State,2,4,1,0,NA,401166714,2020-02-16,
+37,1,5:12,2112,2112,JaMya Mingo-Young Turnover.,7,6,1,5,0.5253121973569893,Kentucky,Mississippi State,2,4,1,0,NA,401166714,2020-02-16,
+38,1,5:07,2107,2107,Chasity Patterson made Jumper.,9,6,3,26,0.5755963013822354,Kentucky,Mississippi State,2,4,1,0,NA,401166714,2020-02-16,Kentucky
+39,1,4:41,2081,2081,Chloe Bibby missed Jumper.,9,6,3,0,0.576510362827849,Kentucky,Mississippi State,2,4,0,0,NA,401166714,2020-02-16,
+40,1,4:41,2081,2081,Aliyah Matharu Offensive Rebound.,9,6,3,7,0.576510362827849,Kentucky,Mississippi State,2,4,0,0,NA,401166714,2020-02-16,
+41,1,4:34,2074,2074,Aliyah Matharu missed Jumper.,9,6,3,0,0.576758114500054,Kentucky,Mississippi State,2,4,0,0,NA,401166714,2020-02-16,
+42,1,4:34,2074,2074,Sabrina Haines Block.,9,6,3,0,0.576758114500054,Kentucky,Mississippi State,2,4,0,0,NA,401166714,2020-02-16,
+43,1,4:34,2074,2074,Chasity Patterson Defensive Rebound.,9,6,3,8,0.576758114500054,Kentucky,Mississippi State,2,4,0,0,NA,401166714,2020-02-16,
+44,1,4:26,2066,2066,Chasity Patterson made Jumper.,11,6,5,1,0.6266186945781196,Kentucky,Mississippi State,2,4,0,0,NA,401166714,2020-02-16,Kentucky
+45,1,4:25,2065,2065,Mississippi State  Timeout,11,6,5,17,0.6266755315723054,Kentucky,Mississippi State,2,3,0,1,NA,401166714,2020-02-16,
+46,1,4:08,2048,2048,Aliyah Matharu missed Jumper.,11,6,5,0,0.6276452567915703,Kentucky,Mississippi State,2,3,0,1,NA,401166714,2020-02-16,
+47,1,4:08,2048,2048,Kentucky Deadball Team Rebound.,11,6,5,1,0.6276452567915703,Kentucky,Mississippi State,2,3,0,1,NA,401166714,2020-02-16,
+48,1,4:07,2047,2047,Foul on Aliyah Matharu.,11,6,5,26,0.6277025093261908,Kentucky,Mississippi State,2,3,0,1,NA,401166714,2020-02-16,
+49,1,3:41,2021,2021,Amanda Paschal missed Jumper.,11,6,5,0,0.629199638962944,Kentucky,Mississippi State,2,3,0,1,NA,401166714,2020-02-16,
+50,1,3:41,2021,2021,Aliyah Matharu Defensive Rebound.,11,6,5,5,0.629199638962944,Kentucky,Mississippi State,2,3,0,1,NA,401166714,2020-02-16,
+51,1,3:36,2016,2016,Aliyah Matharu Turnover.,11,6,5,0,0.6294894998938065,Kentucky,Mississippi State,2,3,0,1,NA,401166714,2020-02-16,
+52,1,3:36,2016,2016,Rhyne Howard Steal.,11,6,5,3,0.6294894998938065,Kentucky,Mississippi State,2,3,0,1,NA,401166714,2020-02-16,
+53,1,3:33,2013,2013,Foul on Rhyne Howard.,11,6,5,0,0.6296637285287112,Kentucky,Mississippi State,2,3,0,1,NA,401166714,2020-02-16,
+54,1,3:33,2013,2013,Rhyne Howard Turnover.,11,6,5,12,0.6296637285287112,Kentucky,Mississippi State,2,3,0,1,NA,401166714,2020-02-16,
+55,1,3:21,2001,2001,Foul on Rickea Jackson.,11,6,5,0,0.6303630272451317,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+56,1,3:21,2001,2001,Chasity Patterson made Free Throw.,12,6,6,0,0.6548731272413891,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,Kentucky
+57,1,3:21,2001,2001,Rickea Jackson Turnover.,11,6,5,0,0.6303630272451317,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+58,1,3:21,2001,2001,Technical Foul on Mississippi State.,11,6,5,0,0.6303630272451317,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+59,1,3:21,2001,2001,Chasity Patterson missed Free Throw.,12,6,6,0,0.6548731272413891,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,Kentucky
+60,1,3:21,2001,2001,Kentucky Deadball Team Rebound.,12,6,6,12,0.6548731272413891,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+61,1,3:09,1989,1989,Sabrina Haines missed Three Point Jumper.,12,6,6,0,0.6556915195865844,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+62,1,3:09,1989,1989,Aliyah Matharu Defensive Rebound.,12,6,6,7,0.6556915195865844,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+63,1,3:02,1982,1982,Aliyah Matharu made Jumper.,12,8,4,7,0.6060768998267045,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,Mississippi State
+64,1,2:55,1975,1975,Foul on JaMya Mingo-Young.,12,8,4,0,0.606416269449417,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+65,1,2:55,1975,1975,Chasity Patterson made Free Throw.,13,8,5,0,0.6318917494031964,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,Kentucky
+66,1,2:55,1975,1975,Chasity Patterson made Free Throw.,14,8,6,7,0.6566519016075473,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,Kentucky
+67,1,2:48,1968,1968,Rickea Jackson missed Jumper.,14,8,6,0,0.6571344150832432,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+68,1,2:48,1968,1968,Jessika Carter Offensive Rebound.,14,8,6,2,0.6571344150832432,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+69,1,2:46,1966,1966,Jessika Carter missed Free Throw.,14,9,5,0,0.6324254281385384,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,Mississippi State
+70,1,2:46,1966,1966,Jessika Carter made Free Throw.,14,9,5,0,0.6324254281385384,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+71,1,2:46,1966,1966,Tatyana Wyatt Defensive Rebound.,14,9,5,0,0.6324254281385384,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+72,1,2:46,1966,1966,Foul on Tatyana Wyatt.,14,9,5,10,0.6324254281385384,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+73,1,2:36,1956,1956,Amanda Paschal missed Jumper.,14,9,5,0,0.6330212242152617,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+74,1,2:36,1956,1956,JaMya Mingo-Young Defensive Rebound.,14,9,5,12,0.6330212242152617,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+75,1,2:24,1944,1944,JaMya Mingo-Young missed Jumper.,14,9,5,0,0.633740194453431,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+76,1,2:24,1944,1944,Blair Green Defensive Rebound.,14,9,5,16,0.633740194453431,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+77,1,2:08,1928,1928,Tatyana Wyatt made Layup. Assisted by Chasity Patterson.,16,9,7,18,0.6842649035987208,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,Kentucky
+78,1,1:50,1910,1910,Foul on Sabrina Haines.,16,9,7,4,0.6856821536646851,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+79,1,1:46,1906,1906,Aliyah Matharu missed Three Point Jumper.,16,9,7,0,0.6859962517092911,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+80,1,1:46,1906,1906,Chloe Bibby Offensive Rebound.,16,9,7,11,0.6859962517092911,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+81,1,1:35,1895,1895,Chloe Bibby missed Layup.,16,9,7,0,0.686858860532985,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+82,1,1:35,1895,1895,Tatyana Wyatt Block.,16,9,7,0,0.686858860532985,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+83,1,1:35,1895,1895,Amanda Paschal Defensive Rebound.,16,9,7,7,0.686858860532985,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+84,1,1:28,1888,1888,Foul on Amanda Paschal.,16,9,7,0,0.68740712281824,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+85,1,1:28,1888,1888,Amanda Paschal Turnover.,16,9,7,5,0.68740712281824,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+86,1,1:23,1883,1883,Rickea Jackson missed Jumper.,16,9,7,0,0.687798526454322,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+87,1,1:23,1883,1883,Tatyana Wyatt Defensive Rebound.,16,9,7,23,0.687798526454322,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+88,1,1:00,1860,1860,Chasity Patterson missed Jumper.,16,9,7,0,0.6895984421855925,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+89,1,1:00,1860,1860,Aliyah Matharu Defensive Rebound.,16,9,7,9,0.6895984421855925,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+90,1,0:51,1851,1851,Aliyah Matharu missed Jumper.,16,9,7,0,0.6903033314824496,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+91,1,0:51,1851,1851,Sabrina Haines Defensive Rebound.,16,9,7,8,0.6903033314824496,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+92,1,0:43,1843,1843,Sabrina Haines missed Layup.,16,9,7,0,0.6909305851235497,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+93,1,0:43,1843,1843,Rickea Jackson Defensive Rebound.,16,9,7,12,0.6909305851235497,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+94,1,0:31,1831,1831,Rickea Jackson missed Jumper.,16,9,7,0,0.6918732009063256,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+95,1,0:31,1831,1831,Chasity Patterson Defensive Rebound.,16,9,7,5,0.6918732009063256,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+96,1,0:26,1826,1826,Chasity Patterson missed Jumper.,16,9,7,0,0.6922667318121257,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+97,1,0:26,1826,1826,Rickea Jackson Defensive Rebound.,16,9,7,7,0.6922667318121257,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+98,1,0:19,1819,1819,Rickea Jackson Turnover.,16,9,7,7,0.6928185911128718,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+99,1,0:12,1812,1812,Rhyne Howard made Three Point Jumper.,19,9,10,12,0.762351299295093,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,Kentucky
+100,1,0:00,1800,1800,End of 1st Quarter,19,9,10,0,0.7635084954020187,Kentucky,Mississippi State,2,3,0,0,NA,401166714,2020-02-16,
+101,2,10:00,1800,1800,Jump Ball won by Kentucky,19,9,10,13,0.7635084954020187,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+102,2,9:47,1787,1787,Amanda Paschal missed Jumper.,19,9,10,0,0.7647665401222112,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+103,2,9:47,1787,1787,Rickea Jackson Defensive Rebound.,19,9,10,28,0.7647665401222112,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+104,2,9:19,1759,1759,Chloe Bibby made Three Point Jumper. Assisted by JaMya Mingo-Young.,19,12,7,18,0.6976140207936418,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Mississippi State
+105,2,9:01,1741,1741,Jaida Roper missed Layup.,19,12,7,0,0.6990841035756823,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+106,2,9:01,1741,1741,KeKe McKinney Offensive Rebound.,19,12,7,9,0.6990841035756823,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+107,2,8:52,1732,1732,Ogechi Anyagaligbo missed Jumper.,19,12,7,0,0.6998261014214918,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+108,2,8:52,1732,1732,Jessika Carter Defensive Rebound.,19,12,7,4,0.6998261014214918,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+109,2,8:48,1728,1728,JaMya Mingo-Young missed Jumper.,19,12,7,0,0.7001574802550292,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+110,2,8:48,1728,1728,Ogechi Anyagaligbo Defensive Rebound.,19,12,7,24,0.7001574802550292,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+111,2,8:24,1704,1704,Rhyne Howard made Jumper.,21,12,9,18,0.7507628852233013,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Kentucky
+112,2,8:06,1686,1686,Jessika Carter made Jumper. Assisted by Myah Taylor.,21,14,7,16,0.7037019863022738,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Mississippi State
+113,2,7:50,1670,1670,Rhyne Howard made Three Point Jumper. Assisted by KeKe McKinney.,24,14,10,18,0.7764189307222358,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Kentucky
+114,2,7:32,1652,1652,Jessika Carter made Jumper. Assisted by Myah Taylor.,24,16,8,13,0.731854722756971,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Mississippi State
+115,2,7:19,1639,1639,Jaida Roper missed Jumper.,24,16,8,0,0.7329862255564262,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+116,2,7:19,1639,1639,Kentucky Offensive Rebound.,24,16,8,6,0.7329862255564262,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+117,2,7:13,1633,1633,Rhyne Howard missed Three Point Jumper.,24,16,8,0,0.7335036753024412,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+118,2,7:13,1633,1633,Chloe Bibby Defensive Rebound.,24,16,8,12,0.7335036753024412,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+119,2,7:01,1621,1621,Rickea Jackson missed Jumper.,24,16,8,0,0.7345314756838383,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+120,2,7:01,1621,1621,Chloe Bibby Offensive Rebound.,24,16,8,2,0.7345314756838383,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+121,2,6:59,1619,1619,Foul on Amanda Paschal.,24,16,8,4,0.7347020184930225,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+122,2,6:55,1615,1615,Chloe Bibby missed Three Point Jumper.,24,16,8,0,0.735042580169265,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+123,2,6:55,1615,1615,Jayla Hemingway Offensive Rebound.,24,16,8,15,0.735042580169265,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+124,2,6:40,1600,1600,Myah Taylor missed Jumper.,24,16,8,0,0.7363151866750764,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+125,2,6:40,1600,1600,Ogechi Anyagaligbo Defensive Rebound.,24,16,8,8,0.7363151866750764,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+126,2,6:32,1592,1592,Rhyne Howard made Jumper. Assisted by Jaida Roper.,26,16,10,23,0.7838073714502127,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Kentucky
+127,2,6:09,1569,1569,Jessika Carter made Jumper. Assisted by Rickea Jackson.,26,18,8,21,0.7389430225958727,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Mississippi State
+128,2,5:48,1548,1548,Foul on Jayla Hemingway.,26,18,8,0,0.7407419908423832,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+129,2,5:48,1548,1548,Kentucky  Turnover.,26,18,8,11,0.7407419908423832,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+130,2,5:37,1537,1537,Myah Taylor Turnover.,26,18,8,0,0.7416964888136668,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+131,2,5:37,1537,1537,Rhyne Howard Steal.,26,18,8,9,0.7416964888136668,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+132,2,5:28,1528,1528,Tatyana Wyatt made Layup. Assisted by Rhyne Howard.,28,18,10,19,0.7897900347482932,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Kentucky
+133,2,5:09,1509,1509,Jessika Carter missed Jumper.,28,18,10,0,0.7916288106395868,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+134,2,5:09,1509,1509,Rhyne Howard Defensive Rebound.,28,18,10,9,0.7916288106395868,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+135,2,5:00,1500,1500,Rhyne Howard made Jumper.,30,18,12,23,0.833160374665518,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Kentucky
+136,2,4:37,1477,1477,Foul on Tatyana Wyatt.,30,18,12,0,0.835517272674053,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+137,2,4:37,1477,1477,Official TV Timeout,30,18,12,0,0.835517272674053,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+138,2,4:37,1477,1477,Jayla Hemingway missed Free Throw.,30,18,12,0,0.835517272674053,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+139,2,4:37,1477,1477,Mississippi State Deadball Team Rebound.,30,18,12,0,0.835517272674053,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+140,2,4:37,1477,1477,Jayla Hemingway made Free Throw.,30,19,11,1,0.8160495031467956,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Mississippi State
+141,2,4:36,1476,1476,Chasity Patterson Turnover.,30,19,11,7,0.8161540955712457,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+142,2,4:29,1469,1469,Jordan Danberry missed Layup.,30,19,11,0,0.8168915125526258,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+143,2,4:29,1469,1469,Jordan Danberry Offensive Rebound.,30,19,11,8,0.8168915125526258,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+144,2,4:21,1461,1461,Jordan Danberry made Layup.,30,21,9,4,0.7735058768708366,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Mississippi State
+145,2,4:17,1457,1457,Foul on Jordan Danberry.,30,21,9,0,0.7739216720287767,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+146,2,4:17,1457,1457,Rhyne Howard missed Free Throw.,30,21,9,0,0.7739216720287767,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+147,2,4:17,1457,1457,Kentucky Deadball Team Rebound.,30,21,9,0,0.7739216720287767,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+148,2,4:17,1457,1457,Rhyne Howard made Free Throw.,31,21,10,12,0.7969470202678446,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Kentucky
+149,2,4:05,1445,1445,Jordan Danberry made Jumper. Assisted by Myah Taylor.,31,23,8,8,0.7503132243554568,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Mississippi State
+150,2,3:57,1437,1437,Chasity Patterson missed Jumper.,31,23,8,0,0.7511050198545972,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+151,2,3:57,1437,1437,Rickea Jackson Defensive Rebound.,31,23,8,14,0.7511050198545972,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+152,2,3:43,1423,1423,Jump Ball won by Mississippi State,31,23,8,4,0.7524571887409942,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+153,2,3:39,1419,1419,Andra Espinoza-Hunter made Three Point Jumper. Assisted by Jessika Carter.,31,26,5,10,0.6673279171804747,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Mississippi State
+154,2,3:29,1409,1409,Chasity Patterson made Jumper.,33,26,7,24,0.7269072268958341,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Kentucky
+155,2,3:05,1385,1385,Andra Espinoza-Hunter missed Three Point Jumper.,33,26,7,0,0.7289664856297393,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+156,2,3:05,1385,1385,Kentucky Defensive Rebound.,33,26,7,19,0.7289664856297393,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+157,2,2:46,1366,1366,Chasity Patterson made Jumper.,35,26,9,21,0.7828798972970277,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Kentucky
+158,2,2:25,1345,1345,Rickea Jackson missed Jumper.,35,26,9,0,0.7848445963308263,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+159,2,2:25,1345,1345,Sabrina Haines Defensive Rebound.,35,26,9,9,0.7848445963308263,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+160,2,2:16,1336,1336,Rhyne Howard missed Three Point Jumper.,35,26,9,0,0.7856910354913657,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+161,2,2:16,1336,1336,Jayla Hemingway Defensive Rebound.,35,26,9,19,0.7856910354913657,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+162,2,1:57,1317,1317,Jayla Hemingway missed Jumper.,35,26,9,0,0.7874992992608865,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+163,2,1:57,1317,1317,Jessika Carter Offensive Rebound.,35,26,9,5,0.7874992992608865,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+164,2,1:52,1312,1312,Jessika Carter made Layup.,35,28,7,10,0.7351808038364842,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Mississippi State
+165,2,1:42,1302,1302,Rhyne Howard missed Three Point Jumper.,35,28,7,0,0.7360658477306085,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+166,2,1:42,1302,1302,Jayla Hemingway Defensive Rebound.,35,28,7,14,0.7360658477306085,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+167,2,1:28,1288,1288,Jump Ball won by Kentucky,35,28,7,0,0.7373327159880673,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+168,2,1:28,1288,1288,JaMya Mingo-Young Turnover.,35,28,7,0,0.7373327159880673,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+169,2,1:28,1288,1288,Sabrina Haines Steal.,35,28,7,11,0.7373327159880673,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+170,2,1:17,1277,1277,Ogechi Anyagaligbo Turnover.,35,28,7,24,0.7383549381650489,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+171,2,0:53,1253,1253,Jessika Carter made Layup. Assisted by Myah Taylor.,35,30,5,13,0.6791052624165871,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Mississippi State
+172,2,0:40,1240,1240,Rhyne Howard missed Jumper.,35,30,5,0,0.6801822273590818,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+173,2,0:40,1240,1240,Andra Espinoza-Hunter Defensive Rebound.,35,30,5,27,0.6801822273590818,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+174,2,0:13,1213,1213,Foul on Ogechi Anyagaligbo.,35,30,5,0,0.6825677115313032,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+175,2,0:13,1213,1213,Jessika Carter made Free Throw.,35,31,4,0,0.6485058056463205,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Mississippi State
+176,2,0:13,1213,1213,Jessika Carter made Free Throw.,35,32,3,5,0.6128619410927587,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Mississippi State
+177,2,0:08,1208,1208,Rhyne Howard missed Jumper.,35,32,3,0,0.6131675893006001,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+178,2,0:08,1208,1208,Jaida Roper Offensive Rebound.,35,32,3,4,0.6131675893006001,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+179,2,0:04,1204,1204,Jaida Roper missed Layup.,35,32,3,0,0.6134109091191572,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+180,2,0:04,1204,1204,Kentucky Deadball Team Rebound.,35,32,3,4,0.6134109091191572,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+181,2,0:00,1200,1200,End of 2nd Quarter,35,32,3,0,0.6136521367497382,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+182,3,10:00,1200,1200,Jump Ball won by Mississippi State,35,32,3,13,0.6136521367497382,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+183,3,9:47,1187,1187,Jessika Carter Turnover.,35,32,3,7,0.6144231947982343,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+184,3,9:40,1180,1180,Rhyne Howard made Layup. Assisted by Jaida Roper.,37,32,5,18,0.6855602838218201,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,Kentucky
+185,3,9:22,1162,1162,Foul on Ogechi Anyagaligbo.,37,32,5,0,0.687124845149949,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+186,3,9:22,1162,1162,Jessika Carter made Free Throw.,37,33,4,0,0.6523464629257459,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,Mississippi State
+187,3,9:22,1162,1162,Jessika Carter made Free Throw.,37,34,3,18,0.6158634204609368,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,Mississippi State
+188,3,9:04,1144,1144,Foul on Rhyne Howard.,37,34,3,0,0.6168797784940792,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+189,3,9:04,1144,1144,Rhyne Howard Turnover.,37,34,3,15,0.6168797784940792,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+190,3,8:49,1129,1129,Myah Taylor Turnover.,37,34,3,7,0.6177228594243718,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+191,3,8:42,1122,1122,Sabrina Haines missed Jumper.,37,34,3,0,0.6181170755635645,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+192,3,8:42,1122,1122,Ogechi Anyagaligbo Offensive Rebound.,37,34,3,17,0.6181170755635645,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+193,3,8:25,1105,1105,KeKe McKinney missed Jumper.,37,34,3,0,0.6190816353442952,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+194,3,8:25,1105,1105,Rickea Jackson Block.,37,34,3,0,0.6190816353442952,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+195,3,8:25,1105,1105,Sabrina Haines Offensive Rebound.,37,34,3,0,0.6190816353442952,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+196,3,8:25,1105,1105,Rhyne Howard Offensive Rebound.,37,34,3,10,0.6190816353442952,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+197,3,8:15,1095,1095,Ogechi Anyagaligbo made Layup.,39,34,5,22,0.692851787391721,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,Kentucky
+198,3,7:53,1073,1073,Jessika Carter made Jumper. Assisted by Myah Taylor.,39,36,3,0,0.6209529734601266,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,Mississippi State
+199,3,7:53,1073,1073,Foul on KeKe McKinney.,39,36,3,0,0.6209529734601266,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+200,3,7:53,1073,1073,Jessika Carter made Free Throw.,39,37,2,20,0.5815314659778973,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,Mississippi State
+201,3,7:33,1053,1053,Foul on Myah Taylor.,39,37,2,7,0.5823791508049622,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+202,3,7:26,1046,1046,Rhyne Howard missed Three Point Jumper.,39,37,2,0,0.5826859176460523,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+203,3,7:26,1046,1046,JaMya Mingo-Young Defensive Rebound.,39,37,2,20,0.5826859176460523,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+204,3,7:06,1026,1026,Jordan Danberry Turnover.,39,37,2,0,0.583596758598531,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+205,3,7:06,1026,1026,Ogechi Anyagaligbo Steal.,39,37,2,0,0.583596758598531,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+206,3,7:06,1026,1026,Jaida Roper missed Jumper.,39,37,2,8,0.583596758598531,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+207,3,6:58,1018,1018,Foul on JaMya Mingo-Young.,39,37,2,0,0.5839770674202643,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+208,3,6:58,1018,1018,Jaida Roper missed Free Throw.,39,37,2,0,0.5839770674202643,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+209,3,6:58,1018,1018,Kentucky Deadball Team Rebound.,39,37,2,0,0.5839770674202643,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+210,3,6:58,1018,1018,Jaida Roper made Free Throw.,40,37,3,16,0.6244974521209422,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,Kentucky
+211,3,6:42,1002,1002,Xaria Wiggins Turnover.,40,37,3,7,0.6256433142423611,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+212,3,6:35,995,995,Rhyne Howard missed Jumper.,40,37,3,0,0.6261648052812139,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+213,3,6:35,995,995,Xaria Wiggins Block.,40,37,3,0,0.6261648052812139,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+214,3,6:35,995,995,Chasity Patterson Offensive Rebound.,40,37,3,20,0.6261648052812139,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+215,3,6:15,975,975,Chasity Patterson missed Three Point Jumper.,40,37,3,0,0.627729611862876,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+216,3,6:15,975,975,JaMya Mingo-Young Block.,40,37,3,0,0.627729611862876,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+217,3,6:15,975,975,Chloe Bibby Defensive Rebound.,40,37,3,11,0.627729611862876,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+218,3,6:04,964,964,Xaria Wiggins missed Layup.,40,37,3,0,0.6286269227202942,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+219,3,6:04,964,964,Kentucky Defensive Rebound.,40,37,3,10,0.6286269227202942,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+220,3,5:54,954,954,Foul on JaMya Mingo-Young.,40,37,3,14,0.6294027823991805,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+221,3,5:40,940,940,Rhyne Howard made Jumper.,42,37,5,23,0.7088988601238831,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,Kentucky
+222,3,5:17,917,917,Jessika Carter Turnover.,42,37,5,0,0.7111695670387995,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+223,3,5:17,917,917,Sabrina Haines Steal.,42,37,5,10,0.7111695670387995,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+224,3,5:07,907,907,Chasity Patterson made Layup.,44,37,7,14,0.7803745436020032,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,Kentucky
+225,3,4:53,893,893,Jordan Danberry Turnover.,44,37,7,0,0.78185689221097,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+226,3,4:53,893,893,Sabrina Haines Steal.,44,37,7,13,0.78185689221097,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,
+227,3,4:40,880,880,Rhyne Howard made Layup.,46,37,9,3,0.8390870744945327,Kentucky,Mississippi State,4,5,0,0,NA,401166714,2020-02-16,Kentucky
+228,3,4:37,877,877,Mississippi State  Timeout,46,37,9,14,0.8394047166916062,Kentucky,Mississippi State,4,4,0,1,NA,401166714,2020-02-16,
+229,3,4:23,863,863,Aliyah Matharu made Jumper.,46,39,7,27,0.7849751957694034,Kentucky,Mississippi State,4,4,0,1,NA,401166714,2020-02-16,Mississippi State
+230,3,3:56,836,836,Jaida Roper made Three Point Jumper. Assisted by KeKe McKinney.,49,39,10,18,0.8669912570871696,Kentucky,Mississippi State,4,4,0,1,NA,401166714,2020-02-16,Kentucky
+231,3,3:38,818,818,Xaria Wiggins missed Jumper.,49,39,10,0,0.8690434748959798,Kentucky,Mississippi State,4,4,0,1,NA,401166714,2020-02-16,
+232,3,3:38,818,818,Rhyne Howard Defensive Rebound.,49,39,10,10,0.8690434748959798,Kentucky,Mississippi State,4,4,0,1,NA,401166714,2020-02-16,
+233,3,3:28,808,808,Jaida Roper Turnover.,49,39,10,0,0.870250194460269,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+234,3,3:28,808,808,Official TV Timeout,49,39,10,10,0.870250194460269,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+235,3,3:18,798,798,Foul on Yemiyah Morris.,49,39,10,0,0.8715142709448956,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+236,3,3:18,798,798,Yemiyah Morris Turnover.,49,39,10,24,0.8715142709448956,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+237,3,2:54,774,774,Rhyne Howard missed Three Point Jumper.,49,39,10,0,0.8748248487375329,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+238,3,2:54,774,774,Andra Espinoza-Hunter Defensive Rebound.,49,39,10,12,0.8748248487375329,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+239,3,2:42,762,762,Jordan Danberry missed Jumper.,49,39,10,0,0.8766483678890308,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+240,3,2:42,762,762,Rhyne Howard Defensive Rebound.,49,39,10,10,0.8766483678890308,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+241,3,2:32,752,752,Tatyana Wyatt missed Three Point Jumper.,49,39,10,0,0.8782635446102772,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+242,3,2:32,752,752,Yemiyah Morris Defensive Rebound.,49,39,10,11,0.8782635446102772,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+243,3,2:21,741,741,Andra Espinoza-Hunter made Jumper. Assisted by Jordan Danberry.,49,41,8,15,0.831326662159157,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,Mississippi State
+244,3,2:06,726,726,Rhyne Howard made Jumper. Assisted by Jaida Roper.,51,41,10,18,0.8828841931872122,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,Kentucky
+245,3,1:48,708,708,Foul on Xaria Wiggins.,51,41,10,0,0.8858971610754807,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+246,3,1:48,708,708,Xaria Wiggins Turnover.,51,41,10,16,0.8858971610754807,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+247,3,1:32,692,692,Jaida Roper Turnover.,51,41,10,9,0.8882568671043853,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+248,3,1:23,683,683,Foul on Jessika Carter.,51,41,10,0,0.8894930727101553,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+249,3,1:23,683,683,Jessika Carter Turnover.,51,41,10,9,0.8894930727101553,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+250,3,1:14,674,674,Amanda Paschal made Three Point Jumper. Assisted by Jaida Roper.,54,41,13,19,0.9386063544481421,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,Kentucky
+251,3,0:55,655,655,Mississippi State  Timeout,54,41,13,13,0.9404801655198723,Kentucky,Mississippi State,4,3,0,1,NA,401166714,2020-02-16,
+252,3,0:42,642,642,Rickea Jackson missed Jumper.,54,41,13,0,0.9417562760916021,Kentucky,Mississippi State,4,3,0,1,NA,401166714,2020-02-16,
+253,3,0:42,642,642,Kentucky Defensive Rebound.,54,41,13,28,0.9417562760916021,Kentucky,Mississippi State,4,3,0,1,NA,401166714,2020-02-16,
+254,3,0:14,614,614,Rhyne Howard made Three Point Jumper.,57,41,16,10,0.9704596353356728,Kentucky,Mississippi State,4,3,0,1,NA,401166714,2020-02-16,Kentucky
+255,3,0:04,604,604,Myah Taylor missed Jumper.,57,41,16,0,0.9712181516701484,Kentucky,Mississippi State,4,3,0,1,NA,401166714,2020-02-16,
+256,3,0:04,604,604,Rhyne Howard Defensive Rebound.,57,41,16,4,0.9712181516701484,Kentucky,Mississippi State,4,3,0,1,NA,401166714,2020-02-16,
+257,3,0:00,600,600,End of 3rd Quarter,57,41,16,0,0.9715322591030883,Kentucky,Mississippi State,4,3,0,1,NA,401166714,2020-02-16,
+258,4,10:00,600,600,Jump Ball won by Kentucky,57,41,16,13,0.9715322591030883,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,
+259,4,9:47,587,587,Chasity Patterson made Jumper.,59,41,18,20,0.9822878790052345,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,Kentucky
+260,4,9:27,567,567,Myah Taylor missed Layup.,59,41,18,0,0.9836044431458727,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,
+261,4,9:27,567,567,Tatyana Wyatt Defensive Rebound.,59,41,18,9,0.9836044431458727,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,
+262,4,9:18,558,558,Tatyana Wyatt made Jumper. Assisted by KeKe McKinney.,61,41,20,29,0.9899871385542942,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,Kentucky
+263,4,8:49,529,529,Rickea Jackson missed Jumper.,61,41,20,0,0.991340755945732,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,
+264,4,8:49,529,529,Mississippi State Deadball Team Rebound.,61,41,20,2,0.991340755945732,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,
+265,4,8:47,527,527,Foul on Amanda Paschal.,61,41,20,5,0.9914158389683061,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,
+266,4,8:42,522,522,Rickea Jackson made Layup.,61,43,18,6,0.9865275133620374,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,Mississippi State
+267,4,8:36,516,516,Tatyana Wyatt missed Layup.,61,43,18,0,0.9868210210543114,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,
+268,4,8:36,516,516,Andra Espinoza-Hunter Defensive Rebound.,61,43,18,8,0.9868210210543114,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,
+269,4,8:28,508,508,Andra Espinoza-Hunter missed Three Point Jumper.,61,43,18,0,0.9871922993056266,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,
+270,4,8:28,508,508,Tatyana Wyatt Defensive Rebound.,61,43,18,13,0.9871922993056266,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,
+271,4,8:15,495,495,Rhyne Howard Turnover.,61,43,18,0,0.9877707075449293,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,
+272,4,8:15,495,495,Foul on Rhyne Howard.,61,43,18,13,0.9877707075449293,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,
+273,4,8:02,482,482,Foul on Blair Green.,61,43,18,5,0.9883508517438604,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,
+274,4,7:57,477,477,Rickea Jackson made Jumper. Assisted by Myah Taylor.,61,45,16,10,0.9813913823843793,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,Mississippi State
+275,4,7:47,467,467,Foul on Jayla Hemingway.,61,45,16,2,0.9820854698734223,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,
+276,4,7:45,465,465,Foul on Chasity Patterson.,61,45,16,0,0.9822304877464999,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,
+277,4,7:45,465,465,Chasity Patterson Turnover.,61,45,16,16,0.9822304877464999,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,
+278,4,7:29,449,449,Rickea Jackson made Jumper. Assisted by Jessika Carter.,61,47,14,3,0.9727688131356832,Kentucky,Mississippi State,5,4,0,0,NA,401166714,2020-02-16,Mississippi State
+279,4,7:26,446,446,Kentucky  Timeout,61,47,14,27,0.9731319856786607,Kentucky,Mississippi State,4,4,1,0,NA,401166714,2020-02-16,
+280,4,6:59,419,419,Sabrina Haines Turnover.,61,47,14,18,0.9767012816357715,Kentucky,Mississippi State,4,4,1,0,NA,401166714,2020-02-16,
+281,4,6:41,401,401,Rickea Jackson missed Jumper.,61,47,14,0,0.9787502065487378,Kentucky,Mississippi State,4,4,1,0,NA,401166714,2020-02-16,
+282,4,6:41,401,401,Tatyana Wyatt Defensive Rebound.,61,47,14,27,0.9787502065487378,Kentucky,Mississippi State,4,4,1,0,NA,401166714,2020-02-16,
+283,4,6:14,374,374,Tatyana Wyatt made Jumper. Assisted by KeKe McKinney.,63,47,16,21,0.989409117635827,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,Kentucky
+284,4,5:53,353,353,Andra Espinoza-Hunter missed Three Point Jumper.,63,47,16,0,0.9907914190079162,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+285,4,5:53,353,353,Rickea Jackson Offensive Rebound.,63,47,16,6,0.9907914190079162,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+286,4,5:47,347,347,missed Layup.,63,47,16,0,0.9911965821475278,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+287,4,5:47,347,347,Rhyne Howard Block.,63,47,16,0,0.9911965821475278,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+288,4,5:47,347,347,Rickea Jackson Offensive Rebound.,63,47,16,0,0.9911965821475278,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+289,4,5:47,347,347,Rickea Jackson made Layup.,63,49,14,8,0.984223029877965,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,Mississippi State
+290,4,5:39,339,339,Sabrina Haines missed Three Point Jumper.,63,49,14,0,0.9850833454792979,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+291,4,5:39,339,339,Myah Taylor Defensive Rebound.,63,49,14,10,0.9850833454792979,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+292,4,5:29,329,329,Myah Taylor missed Layup.,63,49,14,0,0.9861951617739113,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+293,4,5:29,329,329,Rickea Jackson Offensive Rebound.,63,49,14,0,0.9861951617739113,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+294,4,5:29,329,329,Rickea Jackson missed Layup.,63,49,14,6,0.9861951617739113,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+295,4,5:23,323,323,Jessika Carter missed Jumper.,63,49,14,0,0.9868808730927041,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+296,4,5:23,323,323,KeKe McKinney Block.,63,49,14,0,0.9868808730927041,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+297,4,5:23,323,323,Jessika Carter Offensive Rebound.,63,49,14,7,0.9868808730927041,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+298,4,5:16,316,316,Rickea Jackson made Layup.,63,51,12,9,0.977223374996152,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,Mississippi State
+299,4,5:07,307,307,Chasity Patterson missed Three Point Jumper.,63,51,12,0,0.9788532122147978,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+300,4,5:07,307,307,Myah Taylor Defensive Rebound.,63,51,12,8,0.9788532122147978,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+301,4,4:59,299,299,Myah Taylor missed Layup.,63,51,12,0,0.9797464071255346,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+302,4,4:59,299,299,Andra Espinoza-Hunter Offensive Rebound.,63,51,12,2,0.9797464071255346,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+303,4,4:57,297,297,Foul on Sabrina Haines.,63,51,12,0,0.9798797113489598,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+304,4,4:57,297,297,Andra Espinoza-Hunter made Free Throw.,63,52,11,0,0.9723984227230769,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,Mississippi State
+305,4,4:57,297,297,Andra Espinoza-Hunter made Free Throw.,63,53,10,22,0.9622425693113493,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,Mississippi State
+306,4,4:35,275,275,Foul on Jayla Hemingway.,63,53,10,2,0.9620068388093879,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+307,4,4:33,273,273,Foul on Jayla Hemingway.,63,53,10,8,0.9618279732429027,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+308,4,4:25,265,265,Rhyne Howard missed Jumper.,63,53,10,0,0.9609830776328574,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+309,4,4:25,265,265,Yemiyah Morris Block.,63,53,10,0,0.9609830776328574,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+310,4,4:25,265,265,Yemiyah Morris Defensive Rebound.,63,53,10,13,0.9609830776328574,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+311,4,4:12,252,252,Jayla Hemingway missed Layup.,63,53,10,0,0.9595154709472178,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+312,4,4:12,252,252,Rhyne Howard Defensive Rebound.,63,53,10,7,0.9595154709472178,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+313,4,4:05,245,245,Foul on Myah Taylor.,63,53,10,0,0.9589110224902608,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+314,4,4:05,245,245,Jaida Roper made Free Throw.,64,53,11,0,0.9696772265174074,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,Kentucky
+315,4,4:05,245,245,Jaida Roper made Free Throw.,65,53,12,18,0.977688089837487,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,Kentucky
+316,4,3:47,227,227,Rickea Jackson Turnover.,65,53,12,3,0.9777750862461585,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+317,4,3:44,224,224,Rhyne Howard Turnover.,65,53,12,0,0.9780158636979289,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+318,4,3:44,224,224,Myah Taylor Steal.,65,53,12,7,0.9780158636979289,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,
+319,4,3:37,217,217,Rickea Jackson made Jumper.,65,55,10,6,0.9607222199060854,Kentucky,Mississippi State,4,4,0,0,NA,401166714,2020-02-16,Mississippi State
+320,4,3:31,211,211,Kentucky  Timeout,65,55,10,0,0.9624038088854447,Kentucky,Mississippi State,3,4,1,0,NA,401166714,2020-02-16,
+321,4,3:31,211,211,Kentucky  Timeout,65,55,10,23,0.9624038088854447,Kentucky,Mississippi State,3,4,1,0,NA,401166714,2020-02-16,
+322,4,3:08,188,188,Jaida Roper made Jumper.,67,55,12,17,0.9867137114248729,Kentucky,Mississippi State,3,4,1,0,NA,401166714,2020-02-16,Kentucky
+323,4,2:51,171,171,Rickea Jackson made Jumper. Assisted by Jayla Hemingway.,67,57,10,24,0.9811261760931076,Kentucky,Mississippi State,3,4,1,0,NA,401166714,2020-02-16,Mississippi State
+324,4,2:27,147,147,Jaida Roper Turnover.,67,57,10,15,0.9891990918030991,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+325,4,2:12,132,132,Andra Espinoza-Hunter made Layup. Assisted by Jayla Hemingway.,67,59,8,5,0.9810288436522284,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Mississippi State
+326,4,2:07,127,127,Foul on JaMya Mingo-Young.,67,59,8,0,0.9831691753564993,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+327,4,2:07,127,127,Jaida Roper made Free Throw.,68,59,9,0,0.9898090840632262,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Kentucky
+328,4,2:07,127,127,Jaida Roper made Free Throw.,69,59,10,8,0.9938458869304504,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Kentucky
+329,4,1:59,119,119,Rickea Jackson missed Jumper.,69,59,10,0,0.9952521773801238,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+330,4,1:59,119,119,KeKe McKinney Defensive Rebound.,69,59,10,26,0.9952521773801238,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,
+331,4,1:33,93,93,Jaida Roper made Jumper.,71,59,12,16,0.9995191053764887,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Kentucky
+332,4,1:17,77,77,Andra Espinoza-Hunter made Three Point Jumper. Assisted by Myah Taylor.,71,62,9,4,0.9983237498514612,Kentucky,Mississippi State,3,4,0,0,NA,401166714,2020-02-16,Mississippi State
+333,4,1:13,73,73,Mississippi State  Timeout,71,62,9,25,0.9985940063924996,Kentucky,Mississippi State,3,3,0,1,NA,401166714,2020-02-16,
+334,4,0:48,48,48,Rhyne Howard missed Jumper.,71,62,9,0,0.9995765961890801,Kentucky,Mississippi State,3,3,0,1,NA,401166714,2020-02-16,
+335,4,0:48,48,48,Mississippi State Deadball Team Rebound.,71,62,9,2,0.9995765961890801,Kentucky,Mississippi State,3,3,0,1,NA,401166714,2020-02-16,
+336,4,0:46,46,46,Foul on Tatyana Wyatt.,71,62,9,0,0.999618196371579,Kentucky,Mississippi State,3,3,0,1,NA,401166714,2020-02-16,
+337,4,0:46,46,46,Yemiyah Morris missed Free Throw.,71,62,9,0,0.999618196371579,Kentucky,Mississippi State,3,3,0,1,NA,401166714,2020-02-16,
+338,4,0:46,46,46,Mississippi State Deadball Team Rebound.,71,62,9,0,0.999618196371579,Kentucky,Mississippi State,3,3,0,1,NA,401166714,2020-02-16,
+339,4,0:46,46,46,Yemiyah Morris missed Free Throw.,71,62,9,0,0.999618196371579,Kentucky,Mississippi State,3,3,0,1,NA,401166714,2020-02-16,
+340,4,0:46,46,46,Rhyne Howard Defensive Rebound.,71,62,9,10,0.999618196371579,Kentucky,Mississippi State,3,3,0,1,NA,401166714,2020-02-16,
+341,4,0:36,36,36,Foul on Rickea Jackson.,71,62,9,0,0.9997767159160386,Kentucky,Mississippi State,3,3,0,1,NA,401166714,2020-02-16,
+342,4,0:36,36,36,Rhyne Howard made Free Throw.,72,62,10,0,0.9999122504408098,Kentucky,Mississippi State,3,3,0,1,NA,401166714,2020-02-16,Kentucky
+343,4,0:36,36,36,Rhyne Howard made Free Throw.,73,62,11,5,0.9999655176874523,Kentucky,Mississippi State,3,3,0,1,NA,401166714,2020-02-16,Kentucky
+344,4,0:31,31,31,Andra Espinoza-Hunter missed Three Point Jumper.,73,62,11,0,0.9999754776692309,Kentucky,Mississippi State,3,3,0,1,NA,401166714,2020-02-16,
+345,4,0:31,31,31,Tatyana Wyatt Defensive Rebound.,73,62,11,31,0.9999754776692309,Kentucky,Mississippi State,3,3,0,1,NA,401166714,2020-02-16,
+346,4,0:00,0,0,End of Game,73,62,11,0,1,Kentucky,Mississippi State,3,3,0,0,NA,401166714,2020-02-16,

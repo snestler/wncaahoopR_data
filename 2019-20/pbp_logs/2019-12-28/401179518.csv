@@ -1,0 +1,378 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:55,2395,2395,Mary Delgado Turnover.,0,0,0,15,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,NA
+2,1,9:40,2380,2380,Julia Fleecs missed Jumper.,0,0,0,3,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+3,1,9:37,2377,2377,Dionjhae Thomas Defensive Rebound.,0,0,0,3,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+4,1,9:34,2374,2374,Foul on Alaina Jarnot.,0,0,0,0,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+5,1,9:34,2374,2374,Dionjhae Thomas missed Free Throw.,0,0,0,0,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+6,1,9:34,2374,2374,New Orleans Offensive Rebound.,0,0,0,0,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+7,1,9:34,2374,2374,Dionjhae Thomas missed Free Throw.,0,0,0,3,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+8,1,9:31,2371,2371,Julia Fleecs Defensive Rebound.,0,0,0,11,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+9,1,9:20,2360,2360,Claire Orth Turnover.,0,0,0,0,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+10,1,9:20,2360,2360,Dionjhae Thomas Steal.,0,0,0,3,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+11,1,9:17,2357,2357,Foul on Claire Orth.,0,0,0,11,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+12,1,9:06,2346,2346,Asia Woods made Layup. Assisted by Dionjhae Thomas.,2,0,2,7,0.5451773968607259,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+13,1,8:59,2339,2339,Official TV Timeout,2,0,2,18,0.5453294949396444,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+14,1,8:41,2321,2321,Julia Fleecs made Jumper.,2,2,0,11,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,North Dakota
+15,1,8:30,2310,2310,Foul on Julia Fleecs.,2,2,0,0,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+16,1,8:30,2310,2310,Mary Delgado made Free Throw.,3,2,1,0,0.5230316804761159,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+17,1,8:30,2310,2310,Mary Delgado made Free Throw.,4,2,2,14,0.5459658291288992,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+18,1,8:16,2296,2296,Julia Fleecs missed Jumper.,4,2,2,0,0.5462763437592703,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+19,1,8:16,2296,2296,Whitley Larry Block.,4,2,2,5,0.5462763437592703,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+20,1,8:11,2291,2291,Mary Delgado Defensive Rebound.,4,2,2,9,0.546387725577138,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+21,1,8:02,2282,2282,Asia Woods missed Layup.,4,2,2,3,0.546588823501246,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+22,1,7:59,2279,2279,Whitley Larry Offensive Rebound.,4,2,2,12,0.5466560252495682,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+23,1,7:47,2267,2267,Dionjhae Thomas made Jumper.,6,2,4,23,0.5930318494630225,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+24,1,7:24,2244,2244,Jaclyn Jarnot missed Three Point Jumper.,6,2,4,2,0.594044675427872,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+25,1,7:22,2242,2242,New Orleans Defensive Rebound.,6,2,4,17,0.5941330918732078,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+26,1,7:05,2225,2225,Foul on Dionjhae Thomas.,6,2,4,0,0.5948866230282157,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+27,1,7:05,2225,2225,Dionjhae Thomas Turnover.,6,2,4,16,0.5948866230282157,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+28,1,6:49,2209,2209,Olivia Lane Turnover.,6,2,4,12,0.5955987646459386,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+29,1,6:37,2197,2197,Mary Delgado made Jumper.,8,2,6,19,0.6420048640253054,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+30,1,6:18,2178,2178,Olivia Lane missed Three Point Jumper.,8,2,6,1,0.6432223041612575,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+31,1,6:17,2177,2177,Kacie Borowicz Offensive Rebound.,8,2,6,0,0.6432864499079743,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+32,1,6:17,2177,2177,Kacie Borowicz missed Layup.,8,2,6,0,0.6432864499079743,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+33,1,6:17,2177,2177,North Dakota Offensive Rebound.,8,2,6,0,0.6432864499079743,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+34,1,6:17,2177,2177,Foul on Mary Delgado.,8,2,6,0,0.6432864499079743,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+35,1,6:17,2177,2177,Kacie Borowicz made Free Throw.,8,3,5,0,0.6204316744197328,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,North Dakota
+36,1,6:17,2177,2177,Kacie Borowicz made Free Throw.,8,4,4,7,0.5970298663841688,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,North Dakota
+37,1,6:10,2170,2170,Mary Delgado made Jumper.,10,4,6,11,0.6437356282249784,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+38,1,5:59,2159,2159,Maggie Manson missed Three Point Jumper.,10,4,6,4,0.6444426367988169,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+39,1,5:55,2155,2155,Asia Woods Defensive Rebound.,10,4,6,5,0.6447002174254847,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+40,1,5:50,2150,2150,Traya Bruce missed Three Point Jumper.,10,4,6,3,0.6450225712198908,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+41,1,5:47,2147,2147,Lilly Keplin Defensive Rebound.,10,4,6,5,0.6452161892721886,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+42,1,5:42,2142,2142,Olivia Lane made Jumper. Assisted by Kacie Borowicz.,10,6,4,21,0.5986057019313599,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,North Dakota
+43,1,5:21,2121,2121,Whitley Larry made Jumper. Assisted by Mary Delgado.,12,6,6,8,0.6469010468740616,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+44,1,5:13,2113,2113,Foul on Whitley Larry.,12,6,6,0,0.6474220745736735,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+45,1,5:13,2113,2113,Olivia Lane made Free Throw.,12,7,5,0,0.6239713178266638,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,North Dakota
+46,1,5:13,2113,2113,Olivia Lane made Free Throw.,12,8,4,17,0.5999246557409755,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,North Dakota
+47,1,4:56,2096,2096,Whitley Larry missed Jumper.,12,8,4,4,0.6007041507685156,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+48,1,4:52,2092,2092,Melissa Leet Defensive Rebound.,12,8,4,4,0.6008882838211239,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+49,1,4:48,2088,2088,Lilly Keplin Turnover.,12,8,4,0,0.6010727004726902,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+50,1,4:48,2088,2088,Whitley Larry Steal.,12,8,4,4,0.6010727004726902,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+51,1,4:44,2084,2084,Traya Bruce Turnover.,12,8,4,17,0.6012574047381553,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+52,1,4:27,2067,2067,Kacie Borowicz missed Jumper.,12,8,4,0,0.6020456997338557,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+53,1,4:27,2067,2067,New Orleans Defensive Rebound.,12,8,4,21,0.6020456997338557,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+54,1,4:06,2046,2046,Whitley Larry missed Jumper.,12,8,4,9,0.603027205593456,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+55,1,3:57,2037,2037,Olivia Lane Defensive Rebound.,12,8,4,3,0.6034505980602061,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+56,1,3:54,2034,2034,Olivia Lane Turnover.,12,8,4,16,0.6035921074657498,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+57,1,3:38,2018,2018,Mary Delgado Turnover.,12,8,4,0,0.6043501091286834,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+58,1,3:38,2018,2018,Olivia Lane Steal.,12,8,4,12,0.6043501091286834,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+59,1,3:26,2006,2006,Melissa Leet missed Layup.,12,8,4,3,0.6049223483005075,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+60,1,3:23,2003,2003,Whitley Larry Defensive Rebound.,12,8,4,8,0.6050659230523384,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+61,1,3:15,1995,1995,Asia Woods made Layup. Assisted by Mary Delgado.,14,8,6,19,0.6552817800863039,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+62,1,2:56,1976,1976,Kacie Borowicz missed Jumper.,14,8,6,0,0.6565830988830735,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+63,1,2:56,1976,1976,New Orleans Defensive Rebound.,14,8,6,6,0.6565830988830735,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+64,1,2:50,1970,1970,Foul on Maggie Manson.,14,8,6,9,0.6569963935816021,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+65,1,2:41,1961,1961,Dionjhae Thomas Turnover.,14,8,6,14,0.6576185131810097,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+66,1,2:27,1947,1947,Megan Zander made Jumper. Assisted by Kacie Borowicz.,14,10,4,19,0.6077861936236443,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,North Dakota
+67,1,2:08,1928,1928,Rehema Franklin made Jumper.,16,10,6,10,0.6599227345955646,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+68,1,1:58,1918,1918,Lilly Keplin missed Three Point Jumper.,16,10,6,3,0.6606246607258441,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+69,1,1:55,1915,1915,Kacie Borowicz Offensive Rebound.,16,10,6,0,0.6608349053540793,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+70,1,1:55,1915,1915,Foul on Rehema Franklin.,16,10,6,3,0.6608349053540793,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+71,1,1:52,1912,1912,Kacie Borowicz made Jumper. Assisted by Alaina Jarnot.,16,12,4,16,0.609521922768613,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,North Dakota
+72,1,1:36,1896,1896,Rehema Franklin made Jumper.,18,12,6,0,0.6621638174068232,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+73,1,1:36,1896,1896,Foul on Olivia Lane.,18,12,6,0,0.6621638174068232,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+74,1,1:36,1896,1896,Rehema Franklin missed Free Throw.,18,12,6,1,0.6621638174068232,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+75,1,1:35,1895,1895,Megan Zander Defensive Rebound.,18,12,6,9,0.6622336659792911,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+76,1,1:26,1886,1886,Foul on Kayla Thomas.,18,12,6,0,0.6628620604607947,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+77,1,1:26,1886,1886,Julia Fleecs made Free Throw.,18,13,5,0,0.6372378581825605,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,North Dakota
+78,1,1:26,1886,1886,Julia Fleecs made Free Throw.,18,14,4,11,0.6108095750804592,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,North Dakota
+79,1,1:15,1875,1875,Rehema Franklin made Jumper.,20,14,6,14,0.663629824201084,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+80,1,1:01,1861,1861,Megan Zander made Three Point Jumper. Assisted by Kacie Borowicz.,20,17,3,11,0.5846634594233817,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,North Dakota
+81,1,0:50,1850,1850,Foul on Julia Fleecs.,20,17,3,0,0.585082535254923,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+82,1,0:50,1850,1850,Kayla Thomas missed Free Throw.,20,17,3,0,0.585082535254923,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+83,1,0:50,1850,1850,New Orleans Offensive Rebound.,20,17,3,0,0.585082535254923,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+84,1,0:50,1850,1850,Kayla Thomas made Free Throw.,21,17,4,9,0.6125944530911264,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+85,1,0:41,1841,1841,Megan Zander made Three Point Jumper. Assisted by Kacie Borowicz.,21,20,1,28,0.5287257791662856,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,North Dakota
+86,1,0:13,1813,1813,Jada Duncantell missed Layup.,21,20,1,3,0.5290941604500136,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+87,1,0:10,1810,1810,Megan Zander Defensive Rebound.,21,20,1,7,0.529133898970281,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+88,1,0:03,1803,1803,Julia Fleecs Turnover.,21,20,1,0,0.5292268591232502,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+89,1,0:03,1803,1803,Jada Duncantell Steal.,21,20,1,2,0.5292268591232502,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+90,1,0:01,1801,1801,Rehema Franklin Turnover.,21,20,1,1,0.5292534828865595,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+91,1,0:00,1800,1800,Megan Zander Turnover.,21,20,1,0,0.5292668057759684,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+92,1,0:00,1800,1800,End of 1st Quarter,21,20,1,6,0.5292668057759684,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+93,2,9:54,1794,1794,Foul on Julia Fleecs.,21,20,1,0,0.5293469021072449,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+94,2,9:54,1794,1794,Julia Fleecs Turnover.,21,20,1,23,0.5293469021072449,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+95,2,9:31,1771,1771,Rehema Franklin missed Three Point Jumper.,21,20,1,1,0.5296567216656624,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+96,2,9:30,1770,1770,Claire Orth Defensive Rebound.,21,20,1,0,0.5296703015466427,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+97,2,9:30,1770,1770,Foul on Mary Delgado.,21,20,1,13,0.5296703015466427,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+98,2,9:17,1757,1757,Jaclyn Jarnot made Jumper. Assisted by Olivia Lane.,21,22,-1,19,0.4701522428732746,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,North Dakota
+99,2,8:58,1738,1738,Asia Woods missed Layup.,21,22,-1,3,0.46988956170164276,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+100,2,8:55,1735,1735,Mikayla Reinke Defensive Rebound.,21,22,-1,2,0.4698476951664201,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+101,2,8:53,1733,1733,Foul on Kayla Thomas.,21,22,-1,15,0.46981972186740945,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+102,2,8:38,1718,1718,Olivia Lane Turnover.,21,22,-1,22,0.4696082682417182,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+103,2,8:16,1696,1696,Vaquela Pimpton missed Layup.,21,22,-1,3,0.46929244693541566,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+104,2,8:13,1693,1693,Olivia Lane Defensive Rebound.,21,22,-1,5,0.4692488174678454,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+105,2,8:08,1688,1688,Mikayla Reinke Turnover.,21,22,-1,0,0.46917586547991497,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+106,2,8:08,1688,1688,Rehema Franklin Steal.,21,22,-1,5,0.46917586547991497,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+107,2,8:03,1683,1683,Rehema Franklin made Jumper.,23,22,1,17,0.5308966826705475,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+108,2,7:46,1666,1666,Jaclyn Jarnot missed Three Point Jumper.,23,22,1,3,0.5311394391212894,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+109,2,7:43,1663,1663,New Orleans Defensive Rebound.,23,22,1,13,0.5311817203704111,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+110,2,7:30,1650,1650,Asia Woods missed Three Point Jumper.,23,22,1,3,0.5313633186529686,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+111,2,7:27,1647,1647,Melissa Leet Defensive Rebound.,23,22,1,11,0.5314048937596322,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+112,2,7:16,1636,1636,Alaina Jarnot Turnover.,23,22,1,22,0.5315564604334229,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+113,2,6:54,1614,1614,Foul on Melissa Leet.,23,22,1,0,0.5318566635045101,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+114,2,6:54,1614,1614,Asia Woods made Free Throw.,24,22,2,1,0.5634557355551298,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+115,2,6:53,1613,1613,Asia Woods missed Free Throw.,24,22,2,2,0.5634825837907945,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+116,2,6:51,1611,1611,Olivia Lane Defensive Rebound.,24,22,2,19,0.56353626359315,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+117,2,6:32,1592,1592,Olivia Lane missed Jumper.,24,22,2,0,0.5640459068081034,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+118,2,6:32,1592,1592,North Dakota Offensive Rebound.,24,22,2,9,0.5640459068081034,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+119,2,6:23,1583,1583,Kacie Borowicz missed Layup.,24,22,2,3,0.5642878010337786,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+120,2,6:20,1580,1580,Melissa Leet Offensive Rebound.,24,22,2,10,0.5643686024277282,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+121,2,6:10,1570,1570,Melissa Leet missed Jumper.,24,22,2,2,0.5646388124213363,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+122,2,6:08,1568,1568,Olivia Lane Offensive Rebound.,24,22,2,2,0.5646930478938033,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+123,2,6:06,1566,1566,Olivia Lane made Layup.,24,24,0,15,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,North Dakota
+124,2,5:51,1551,1551,Foul on Olivia Lane.,24,24,0,0,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+125,2,5:51,1551,1551,Asia Woods made Free Throw.,25,24,1,1,0.5327182491595552,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+126,2,5:50,1550,1550,Asia Woods missed Free Throw.,25,24,1,1,0.532732199794286,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+127,2,5:49,1549,1549,Olivia Lane Defensive Rebound.,25,24,1,12,0.5327461649580855,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+128,2,5:37,1537,1537,Foul on Asia Woods.,25,24,1,4,0.5329149800471623,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+129,2,5:33,1533,1533,Foul on Asia Woods.,25,24,1,0,0.5329718073818928,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+130,2,5:33,1533,1533,Olivia Lane made Free Throw.,25,25,0,1,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,North Dakota
+131,2,5:32,1532,1532,Olivia Lane missed Free Throw.,25,25,0,1,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+132,2,5:31,1531,1531,Whitley Larry Defensive Rebound.,25,25,0,17,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+133,2,5:14,1514,1514,Rehema Franklin missed Jumper.,25,25,0,4,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+134,2,5:10,1510,1510,Olivia Lane Defensive Rebound.,25,25,0,4,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+135,2,5:06,1506,1506,Lilly Keplin made Jumper. Assisted by Kacie Borowicz.,25,27,-2,22,0.4335671983142847,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,North Dakota
+136,2,4:44,1484,1484,Rehema Franklin made Jumper. Assisted by Dionjhae Thomas.,27,27,0,15,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+137,2,4:29,1469,1469,Foul on Melissa Leet.,27,27,0,0,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+138,2,4:29,1469,1469,Melissa Leet Turnover.,27,27,0,0,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+139,2,4:29,1469,1469,Official TV Timeout,27,27,0,15,0.5,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+140,2,4:14,1454,1454,Rehema Franklin made Three Point Jumper. Assisted by Whitley Larry.,30,27,3,16,0.6012785292849163,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+141,2,3:58,1438,1438,Foul on Whitley Larry.,30,27,3,0,0.602045666267193,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+142,2,3:58,1438,1438,Megan Zander missed Free Throw.,30,27,3,0,0.602045666267193,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+143,2,3:58,1438,1438,North Dakota Offensive Rebound.,30,27,3,0,0.602045666267193,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+144,2,3:58,1438,1438,Megan Zander made Free Throw.,30,28,2,16,0.5685646516002714,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,North Dakota
+145,2,3:42,1422,1422,Dionjhae Thomas missed Jumper.,30,28,2,4,0.5690724651494272,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+146,2,3:38,1418,1418,Megan Zander Defensive Rebound.,30,28,2,11,0.5691972275460725,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+147,2,3:27,1407,1407,Foul on Melissa Leet.,30,28,2,0,0.5695366300108091,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+148,2,3:27,1407,1407,Melissa Leet Turnover.,30,28,2,7,0.5695366300108091,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+149,2,3:20,1400,1400,Dionjhae Thomas Turnover.,30,28,2,10,0.5697502391090505,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+150,2,3:10,1390,1390,Kacie Borowicz Turnover.,30,28,2,0,0.5700529581558398,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+151,2,3:10,1390,1390,Dionjhae Thomas Steal.,30,28,2,3,0.5700529581558398,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+152,2,3:07,1387,1387,Dionjhae Thomas Turnover.,30,28,2,11,0.5701433403888259,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+153,2,2:56,1376,1376,Melissa Leet missed Layup.,30,28,2,4,0.5704736248183312,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+154,2,2:52,1372,1372,Jada Duncantell Defensive Rebound.,30,28,2,17,0.570593466680972,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+155,2,2:35,1355,1355,Rehema Franklin missed Three Point Jumper.,30,28,2,0,0.5711030741531837,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+156,2,2:35,1355,1355,North Dakota Defensive Rebound.,30,28,2,9,0.5711030741531837,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+157,2,2:26,1346,1346,Kacie Borowicz Turnover.,30,28,2,11,0.5713741769180065,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+158,2,2:15,1335,1335,Jada Duncantell made Jumper.,32,28,4,8,0.6405257663082089,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+159,2,2:07,1327,1327,Lilly Keplin missed Three Point Jumper.,32,28,4,4,0.640986935491634,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+160,2,2:03,1323,1323,Mikayla Reinke Offensive Rebound.,32,28,4,4,0.6412192258485665,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+161,2,1:59,1319,1319,Megan Zander missed Three Point Jumper.,32,28,4,3,0.6414528063743987,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+162,2,1:56,1316,1316,Rehema Franklin Defensive Rebound.,32,28,4,4,0.6416289073665212,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+163,2,1:52,1312,1312,Rehema Franklin made Jumper.,34,28,6,11,0.7058269979004397,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+164,2,1:41,1301,1301,Kacie Borowicz missed Layup.,34,28,6,4,0.7067179922378034,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+165,2,1:37,1297,1297,Kayla Thomas Defensive Rebound.,34,28,6,16,0.7070464770735398,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+166,2,1:21,1281,1281,Asia Woods made Jumper. Assisted by Jada Duncantell.,36,28,8,19,0.7655631244134969,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,New Orleans
+167,2,1:02,1262,1262,Olivia Lane Turnover.,36,28,8,15,0.7674853000961425,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+168,2,0:47,1247,1247,Foul on Lilly Keplin.,36,28,8,0,0.7690709631267237,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+169,2,0:47,1247,1247,Jada Duncantell missed Free Throw.,36,28,8,0,0.7690709631267237,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+170,2,0:47,1247,1247,New Orleans Offensive Rebound.,36,28,8,0,0.7690709631267237,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+171,2,0:47,1247,1247,Jada Duncantell missed Free Throw.,36,28,8,1,0.7690709631267237,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+172,2,0:46,1246,1246,Olivia Lane Defensive Rebound.,36,28,8,12,0.7691790465709968,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+173,2,0:34,1234,1234,Kacie Borowicz missed Jumper.,36,28,8,2,0.7705009693794418,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+174,2,0:32,1232,1232,Olivia Lane Offensive Rebound.,36,28,8,2,0.7707259323926939,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+175,2,0:30,1230,1230,Olivia Lane missed Layup.,36,28,8,0,0.7709522730344682,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+176,2,0:30,1230,1230,North Dakota Offensive Rebound.,36,28,8,2,0.7709522730344682,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+177,2,0:28,1228,1228,Lilly Keplin missed Three Point Jumper.,36,28,8,2,0.7711800103137308,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+178,2,0:26,1226,1226,Kayla Thomas Defensive Rebound.,36,28,8,23,0.7714091631545859,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+179,2,0:03,1203,1203,Jada Duncantell Turnover.,36,28,8,3,0.7741347727953571,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+180,2,0:00,1200,1200,End of 2nd Quarter,36,28,8,16,0.774489981219977,New Orleans,North Dakota,4,4,0,0,NA,401179518,2019-12-28,
+181,3,9:44,1184,1184,Traya Bruce missed Three Point Jumper.,36,28,8,5,0.7763447750095448,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+182,3,9:39,1179,1179,Dionjhae Thomas Offensive Rebound.,36,28,8,1,0.7769123929737766,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+183,3,9:38,1178,1178,Dionjhae Thomas made Layup.,38,28,10,13,0.8264277246286237,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,New Orleans
+184,3,9:25,1165,1165,Maggie Manson missed Three Point Jumper.,38,28,10,8,0.8279289234030652,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+185,3,9:17,1157,1157,Olivia Lane Offensive Rebound.,38,28,10,0,0.8288384522701678,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+186,3,9:17,1157,1157,Olivia Lane made Layup.,38,30,8,7,0.7793588460121933,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,North Dakota
+187,3,9:10,1150,1150,Mary Delgado missed Jumper.,38,30,8,3,0.780124283464039,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+188,3,9:07,1147,1147,Lilly Keplin Defensive Rebound.,38,30,8,11,0.7804510239487972,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+189,3,8:56,1136,1136,Kacie Borowicz Turnover.,38,30,8,0,0.78164441514980465,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+190,3,8:56,1136,1136,Traya Bruce Steal.,38,30,8,0,0.78164441514980465,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+191,3,8:56,1136,1136,Foul on Kacie Borowicz.,38,30,8,6,0.78164441514980465,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+192,3,8:50,1130,1130,Foul on Megan Zander.,38,30,8,14,0.7822935440682478,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+193,3,8:36,1116,1116,Asia Woods Turnover.,38,30,8,0,0.7838085555788831,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+194,3,8:36,1116,1116,Olivia Lane Steal.,38,30,8,5,0.7838085555788831,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+195,3,8:31,1111,1111,Olivia Lane made Jumper.,38,32,6,8,0.7248013285010559,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,North Dakota
+196,3,8:23,1103,1103,Mary Delgado Turnover.,38,32,6,0,0.7255727102355465,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+197,3,8:23,1103,1103,Megan Zander Steal.,38,32,6,6,0.7255727102355465,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+198,3,8:17,1097,1097,Foul on Mary Delgado.,38,32,6,0,0.7261551340413408,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+199,3,8:17,1097,1097,Megan Zander missed Free Throw.,38,32,6,0,0.7261551340413408,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+200,3,8:17,1097,1097,North Dakota Offensive Rebound.,38,32,6,1,0.7261551340413408,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+201,3,8:16,1096,1096,Megan Zander missed Free Throw.,38,32,6,0,0.7262525842671096,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+202,3,8:16,1096,1096,Olivia Lane Offensive Rebound.,38,32,6,2,0.7262525842671096,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+203,3,8:14,1094,1094,Olivia Lane made Layup.,38,34,4,0,0.6572619607533846,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,North Dakota
+204,3,8:14,1094,1094,Foul on Dionjhae Thomas.,38,34,4,1,0.6572619607533846,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+205,3,8:13,1093,1093,Olivia Lane missed Free Throw.,38,34,4,1,0.65733588314504,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+206,3,8:12,1092,1092,Kayla Thomas Defensive Rebound.,38,34,4,28,0.6574099099169513,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+207,3,7:44,1064,1064,Dionjhae Thomas missed Jumper.,38,34,4,4,0.6595348446343553,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+208,3,7:40,1060,1060,Megan Zander Defensive Rebound.,38,34,4,4,0.6598483264744891,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+209,3,7:36,1056,1056,Olivia Lane made Jumper. Assisted by Kacie Borowicz.,38,36,2,2,0.5822493909492018,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,North Dakota
+210,3,7:34,1054,1054,Official TV Timeout,38,36,2,18,0.5823357869243388,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+211,3,7:16,1036,1036,Jada Duncantell Turnover.,38,36,2,0,0.583134601646708,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+212,3,7:16,1036,1036,Lilly Keplin Steal.,38,36,2,3,0.583134601646708,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+213,3,7:13,1033,1033,Lilly Keplin made Jumper.,38,38,0,22,0.5,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,North Dakota
+214,3,6:51,1011,1011,Rehema Franklin Turnover.,38,38,0,0,0.5,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+215,3,6:51,1011,1011,Alaina Jarnot Steal.,38,38,0,8,0.5,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+216,3,6:43,1003,1003,Megan Zander missed Three Point Jumper.,38,38,0,2,0.5,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+217,3,6:41,1001,1001,Asia Woods Defensive Rebound.,38,38,0,9,0.5,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+218,3,6:32,992,992,Rehema Franklin made Three Point Jumper. Assisted by Jada Duncantell.,41,38,3,0,0.6263923020379903,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,New Orleans
+219,3,6:32,992,992,Foul on Megan Zander.,41,38,3,0,0.6263923020379903,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+220,3,6:32,992,992,Rehema Franklin made Free Throw.,42,38,4,12,0.6657505304713511,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,New Orleans
+221,3,6:20,980,980,Olivia Lane missed Layup.,42,38,4,0,0.6669357603558058,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+222,3,6:20,980,980,Whitley Larry Block.,42,38,4,5,0.6669357603558058,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+223,3,6:15,975,975,Whitley Larry Defensive Rebound.,42,38,4,13,0.6674450834204249,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+224,3,6:02,962,962,Jada Duncantell missed Jumper.,42,38,4,3,0.6687819148491266,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+225,3,5:59,959,959,Megan Zander Defensive Rebound.,42,38,4,12,0.6690788431001071,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+226,3,5:47,947,947,Claire Orth made Free Throw.,42,39,3,0,0.6299211716679175,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,North Dakota
+227,3,5:47,947,947,Claire Orth made Free Throw.,42,40,2,1,0.5877291726702268,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,North Dakota
+228,3,5:46,946,946,Foul on Traya Bruce.,42,40,2,8,0.5877794328886166,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+229,3,5:38,938,938,Traya Bruce Turnover.,42,40,2,24,0.5881728455232507,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+230,3,5:14,914,914,Foul on Lilly Keplin.,42,40,2,0,0.5892771424475891,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+231,3,5:14,914,914,Lilly Keplin Turnover.,42,40,2,15,0.5892771424475891,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+232,3,4:59,899,899,Jada Duncantell made Jumper.,44,40,4,31,0.6742191694418034,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,New Orleans
+233,3,4:28,868,868,Jaclyn Jarnot missed Layup.,44,40,4,3,0.676596988549168,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+234,3,4:25,865,865,Asia Woods Defensive Rebound.,44,40,4,16,0.6768283882899653,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+235,3,4:09,849,849,Jada Duncantell missed Jumper.,44,40,4,2,0.6780840912574034,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+236,3,4:07,847,847,Mikayla Reinke Defensive Rebound.,44,40,4,8,0.678244484567394,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+237,3,3:59,839,839,Jaclyn Jarnot missed Layup.,44,40,4,0,0.6788960813889978,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+238,3,3:59,839,839,Asia Woods Block.,44,40,4,0,0.6788960813889978,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+239,3,3:59,839,839,North Dakota Offensive Rebound.,44,40,4,2,0.6788960813889978,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+240,3,3:57,837,837,Official TV Timeout,44,40,4,3,0.679061762325958,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+241,3,3:54,834,834,Julia Fleecs missed Layup.,44,40,4,3,0.6793125936294164,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+242,3,3:51,831,831,Jaclyn Jarnot Offensive Rebound.,44,40,4,3,0.6795663615091783,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+243,3,3:48,828,828,Maggie Manson missed Three Point Jumper.,44,40,4,5,0.6798232509141394,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+244,3,3:43,823,823,Dionjhae Thomas Defensive Rebound.,44,40,4,7,0.6802588377733042,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+245,3,3:36,816,816,Foul on Alaina Jarnot.,44,40,4,0,0.6808857092949819,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+246,3,3:36,816,816,Jada Duncantell made Free Throw.,45,40,5,0,0.7205731577522684,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,New Orleans
+247,3,3:36,816,816,Jada Duncantell made Free Throw.,46,40,6,11,0.7570856945912738,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,New Orleans
+248,3,3:25,805,805,Foul on Dionjhae Thomas.,46,40,6,9,0.7583926463509832,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+249,3,3:16,796,796,Maggie Manson made Jumper.,46,42,4,18,0.6828058612297243,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,North Dakota
+250,3,2:58,778,778,Asia Woods missed Jumper.,46,42,4,3,0.6847318354861716,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+251,3,2:55,775,775,Alaina Jarnot Defensive Rebound.,46,42,4,6,0.6850738986306649,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+252,3,2:49,769,769,Maggie Manson made Three Point Jumper. Assisted by Alaina Jarnot.,46,45,1,0,0.54862413325495,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,North Dakota
+253,3,2:49,769,769,Foul on Jaclyn Jarnot.,46,45,1,0,0.54862413325495,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+254,3,2:49,769,769,Dionjhae Thomas made Free Throw.,47,45,2,0,0.5963371840517799,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,New Orleans
+255,3,2:49,769,769,Dionjhae Thomas missed Free Throw.,47,45,2,0,0.5963371840517799,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+256,3,2:49,769,769,Megan Zander Defensive Rebound.,47,45,2,14,0.5963371840517799,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+257,3,2:35,755,755,Jaclyn Jarnot made Layup.,47,47,0,20,0.5,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,North Dakota
+258,3,2:15,735,735,Rehema Franklin made Three Point Jumper. Assisted by Dionjhae Thomas.,50,47,3,17,0.6459355659691788,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,New Orleans
+259,3,1:58,718,718,Foul on Rehema Franklin.,50,47,3,0,0.6479585646437246,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+260,3,1:58,718,718,Alaina Jarnot missed Free Throw.,50,47,3,0,0.6479585646437246,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+261,3,1:58,718,718,North Dakota Offensive Rebound.,50,47,3,0,0.6479585646437246,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+262,3,1:58,718,718,Alaina Jarnot made Free Throw.,50,48,2,21,0.6003007952078363,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,North Dakota
+263,3,1:37,697,697,Dionjhae Thomas Turnover.,50,48,2,15,0.601850358546746,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+264,3,1:22,682,682,Megan Zander Turnover.,50,48,2,0,0.6028580981481464,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+265,3,1:22,682,682,Whitley Larry Steal.,50,48,2,6,0.6028580981481464,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+266,3,1:16,676,676,Foul on Olivia Lane.,50,48,2,0,0.6032474310410325,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+267,3,1:16,676,676,Jada Duncantell made Free Throw.,51,48,3,0,0.6521542359451034,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,New Orleans
+268,3,1:16,676,676,Jada Duncantell made Free Throw.,52,48,4,7,0.6980499853434914,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,New Orleans
+269,3,1:09,669,669,Jaclyn Jarnot missed Three Point Jumper.,52,48,4,4,0.6988399827632715,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+270,3,1:05,665,665,Megan Zander Offensive Rebound.,52,48,4,5,0.6992887028224141,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+271,3,1:00,660,660,Alaina Jarnot Turnover.,52,48,4,0,0.6998490629994716,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+272,3,1:00,660,660,Asia Woods Steal.,52,48,4,6,0.6998490629994716,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+273,3,0:54,654,654,Jada Duncantell missed Jumper.,52,48,4,3,0.70052375346504,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+274,3,0:51,651,651,Jaclyn Jarnot Defensive Rebound.,52,48,4,8,0.7008631826024498,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+275,3,0:43,643,643,Megan Zander made Three Point Jumper. Assisted by Alaina Jarnot.,52,51,1,14,0.5532835958587101,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,North Dakota
+276,3,0:29,629,629,Rehema Franklin Turnover.,52,51,1,0,0.5537765090549134,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+277,3,0:29,629,629,Megan Zander Steal.,52,51,1,4,0.5537765090549134,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+278,3,0:25,625,625,Megan Zander made Jumper.,52,53,-1,0,0.4460763411342768,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,North Dakota
+279,3,0:25,625,625,Foul on Jada Duncantell.,52,53,-1,0,0.4460763411342768,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+280,3,0:25,625,625,Megan Zander made Free Throw.,52,54,-2,15,0.3933926371899241,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,North Dakota
+281,3,0:10,610,610,Foul on Melissa Leet.,52,54,-2,0,0.39226245838930834,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+282,3,0:10,610,610,Mary Delgado missed Free Throw.,52,54,-2,0,0.39226245838930834,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+283,3,0:10,610,610,New Orleans Offensive Rebound.,52,54,-2,0,0.39226245838930834,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+284,3,0:10,610,610,Mary Delgado made Free Throw.,53,54,-1,7,0.445491003000694,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,New Orleans
+285,3,0:03,603,603,Foul on Mary Delgado.,53,54,-1,0,0.4451961051208064,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+286,3,0:03,603,603,Kacie Borowicz made Free Throw.,53,55,-2,0,0.39169339149378174,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,North Dakota
+287,3,0:03,603,603,Kacie Borowicz made Free Throw.,53,56,-3,3,0.3406723331005419,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,North Dakota
+288,3,0:00,600,600,End of 3rd Quarter,53,56,-3,20,0.3403142121083677,New Orleans,North Dakota,5,5,0,0,NA,401179518,2019-12-28,
+289,4,9:40,580,580,Whitley Larry missed Jumper.,53,56,-3,6,0.33769219839909925,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+290,4,9:34,574,574,Asia Woods Offensive Rebound.,53,56,-3,0,0.3368153779950747,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+291,4,9:34,574,574,Asia Woods made Layup.,55,56,-1,12,0.44377888020406403,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,New Orleans
+292,4,9:22,562,562,Megan Zander made Three Point Jumper. Assisted by Kacie Borowicz.,55,59,-4,22,0.28603879570681473,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,North Dakota
+293,4,9:00,540,540,Jada Duncantell made Layup.,57,59,-2,10,0.38487431572932573,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,New Orleans
+294,4,8:50,530,530,Maggie Manson Turnover.,57,59,-2,0,0.38376492400504736,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+295,4,8:50,530,530,Jada Duncantell Steal.,57,59,-2,7,0.38376492400504736,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+296,4,8:43,523,523,Jada Duncantell missed Layup.,57,59,-2,4,0.3830462339476187,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+297,4,8:39,519,519,Jada Duncantell Offensive Rebound.,57,59,-2,1,0.3826512159023196,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+298,4,8:38,518,518,Jada Duncantell made Layup.,59,59,0,24,0.5,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,New Orleans
+299,4,8:14,494,494,Olivia Lane missed Jumper.,59,59,0,3,0.5,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+300,4,8:11,491,491,Asia Woods Defensive Rebound.,59,59,0,14,0.5,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+301,4,7:57,477,477,Jada Duncantell made Jumper.,61,59,2,14,0.6214408315461087,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,New Orleans
+302,4,7:43,463,463,Official TV Timeout,61,59,2,13,0.6230706738314598,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+303,4,7:30,450,450,Olivia Lane missed Layup.,61,59,2,2,0.6248502763377656,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+304,4,7:28,448,448,New Orleans Defensive Rebound.,61,59,2,0,0.6251520365733737,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+305,4,7:28,448,448,Foul on Kacie Borowicz.,61,59,2,27,0.6251520365733737,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+306,4,7:01,421,421,Rehema Franklin made Jumper.,63,59,4,5,0.7435000312179922,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,New Orleans
+307,4,6:56,416,416,Alaina Jarnot Turnover.,63,59,4,24,0.744974991992274,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+308,4,6:32,392,392,Foul on Megan Zander.,63,59,4,0,0.751635490619647,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+309,4,6:32,392,392,Rehema Franklin made Free Throw.,64,59,5,0,0.799663494872302,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,New Orleans
+310,4,6:32,392,392,Rehema Franklin made Free Throw.,65,59,6,23,0.8403763587343881,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,New Orleans
+311,4,6:09,369,369,Foul on Whitley Larry.,65,59,6,3,0.8472602943656137,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+312,4,6:06,366,366,Foul on Jaclyn Jarnot.,65,59,6,0,0.848203702514718,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+313,4,6:06,366,366,Jaclyn Jarnot Turnover.,65,59,6,20,0.848203702514718,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+314,4,5:46,346,346,Whitley Larry Turnover.,65,59,6,0,0.8549983140613995,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+315,4,5:46,346,346,Julia Fleecs Steal.,65,59,6,7,0.8549983140613995,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+316,4,5:39,339,339,Mikayla Reinke made Layup. Assisted by Jaclyn Jarnot.,65,61,4,0,0.7680287433979673,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,North Dakota
+317,4,5:39,339,339,Foul on Rehema Franklin.,65,61,4,0,0.7680287433979673,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+318,4,5:39,339,339,Mikayla Reinke made Free Throw.,65,62,3,11,0.7105198725188527,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,North Dakota
+319,4,5:28,328,328,Rehema Franklin missed Three Point Jumper.,65,62,3,4,0.7143369679536037,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+320,4,5:24,324,324,Whitley Larry Offensive Rebound.,65,62,3,1,0.7158398429034915,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+321,4,5:23,323,323,Whitley Larry made Layup.,67,62,5,20,0.8239044607984398,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,New Orleans
+322,4,5:03,303,303,Julia Fleecs missed Three Point Jumper.,67,62,5,4,0.8332103133798229,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+323,4,4:59,299,299,Dionjhae Thomas Defensive Rebound.,67,62,5,17,0.8342750953768377,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+324,4,4:42,282,282,Jada Duncantell Turnover.,67,62,5,10,0.8351061827303032,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+325,4,4:32,272,272,Megan Zander missed Three Point Jumper.,67,62,5,4,0.8336984162854664,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+326,4,4:28,268,268,Asia Woods Defensive Rebound.,67,62,5,4,0.8329212355526517,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+327,4,4:24,264,264,Rehema Franklin missed Three Point Jumper.,67,62,5,3,0.8320814007110892,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+328,4,4:21,261,261,New Orleans Offensive Rebound.,67,62,5,6,0.8314347476790295,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+329,4,4:15,255,255,Dionjhae Thomas made Jumper.,69,62,7,10,0.9021725555859491,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,New Orleans
+330,4,4:05,245,245,Olivia Lane made Layup. Assisted by Kacie Borowicz.,69,64,5,35,0.828499378371002,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,North Dakota
+331,4,3:30,210,210,Jada Duncantell missed Three Point Jumper.,69,64,5,5,0.8356007868640023,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+332,4,3:25,205,205,Mikayla Reinke Defensive Rebound.,69,64,5,13,0.8392253996398844,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+333,4,3:12,192,192,Olivia Lane Turnover.,69,64,5,0,0.8524361635433293,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+334,4,3:12,192,192,Asia Woods Steal.,69,64,5,26,0.8524361635433293,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+335,4,2:46,166,166,Rehema Franklin made Three Point Jumper.,72,64,8,19,0.9626507981000952,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,New Orleans
+336,4,2:27,147,147,Olivia Lane made Layup. Assisted by Mikayla Reinke.,72,66,6,12,0.9376351584617217,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,North Dakota
+337,4,2:15,135,135,Jada Duncantell missed Layup.,72,66,6,0,0.9481709580864015,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+338,4,2:15,135,135,Olivia Lane Block.,72,66,6,0,0.9481709580864015,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+339,4,2:15,135,135,New Orleans Offensive Rebound.,72,66,6,10,0.9481709580864015,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+340,4,2:05,125,125,Asia Woods Turnover.,72,66,6,0,0.9564192167456673,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+341,4,2:05,125,125,Mikayla Reinke Steal.,72,66,6,8,0.9564192167456673,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+342,4,1:57,117,117,Kacie Borowicz made Jumper. Assisted by Alaina Jarnot.,72,68,4,0,0.8971196403848772,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,North Dakota
+343,4,1:57,117,117,Foul on Asia Woods.,72,68,4,0,0.8971196403848772,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+344,4,1:57,117,117,Kacie Borowicz made Free Throw.,72,69,3,27,0.8353758651453015,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,North Dakota
+345,4,1:30,90,90,Foul on Olivia Lane.,72,69,3,6,0.8754341398533035,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+346,4,1:24,84,84,Foul on Julia Fleecs.,72,69,3,0,0.884044507607558,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+347,4,1:24,84,84,Rehema Franklin made Free Throw.,73,69,4,0,0.9375205692861291,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,New Orleans
+348,4,1:24,84,84,Rehema Franklin made Free Throw.,74,69,5,9,0.967248340021246,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,New Orleans
+349,4,1:15,75,75,Foul on Rehema Franklin.,74,69,5,15,0.9733571352738245,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+350,4,1:00,60,60,Foul on North Dakota.,74,69,5,7,0.981724329274764,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+351,4,0:53,53,53,Olivia Lane made Jumper.,74,71,3,4,0.924456496002796,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,North Dakota
+352,4,0:49,49,49,Foul on Kacie Borowicz.,74,71,3,0,0.9290268096339308,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+353,4,0:49,49,49,Jada Duncantell missed Free Throw.,74,71,3,0,0.9290268096339308,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+354,4,0:49,49,49,New Orleans Offensive Rebound.,74,71,3,0,0.9290268096339308,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+355,4,0:49,49,49,Jada Duncantell made Free Throw.,75,71,4,9,0.9686021294784665,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,New Orleans
+356,4,0:40,40,40,Alaina Jarnot Turnover.,75,71,4,0,0.9744030910750776,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+357,4,0:40,40,40,Dionjhae Thomas Steal.,75,71,4,2,0.9744030910750776,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+358,4,0:38,38,38,Foul on Julia Fleecs.,75,71,4,0,0.9755795512141152,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+359,4,0:38,38,38,Dionjhae Thomas missed Free Throw.,75,71,4,0,0.9755795512141152,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+360,4,0:38,38,38,New Orleans Offensive Rebound.,75,71,4,0,0.9755795512141152,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+361,4,0:38,38,38,Dionjhae Thomas made Free Throw.,76,71,5,12,0.9901414974572486,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,New Orleans
+362,4,0:26,26,26,Alaina Jarnot missed Layup.,76,71,5,3,0.9931972303454936,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+363,4,0:23,23,23,North Dakota Offensive Rebound.,76,71,5,0,0.9938176910562189,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+364,4,0:23,23,23,North Dakota Offensive Rebound.,76,71,5,4,0.9938176910562189,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+365,4,0:19,19,19,Megan Zander missed Three Point Jumper.,76,71,5,0,0.9945732917863148,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+366,4,0:19,19,19,Jada Duncantell Block.,76,71,5,0,0.9945732917863148,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+367,4,0:19,19,19,Rehema Franklin Defensive Rebound.,76,71,5,0,0.9945732917863148,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+368,4,0:19,19,19,Foul on Megan Zander.,76,71,5,0,0.9945732917863148,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+369,4,0:19,19,19,Rehema Franklin made Free Throw.,77,71,6,0,0.998079365653707,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,New Orleans
+370,4,0:19,19,19,Rehema Franklin made Free Throw.,78,71,7,8,0.9993217888798495,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,New Orleans
+371,4,0:11,11,11,Kacie Borowicz made Jumper.,78,73,5,2,0.9958675458278029,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,North Dakota
+372,4,0:09,9,9,Foul on Mikayla Reinke.,78,73,5,0,0.9961477412586438,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+373,4,0:09,9,9,Asia Woods missed Free Throw.,78,73,5,0,0.9961477412586438,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+374,4,0:09,9,9,New Orleans Offensive Rebound.,78,73,5,0,0.9961477412586438,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+375,4,0:09,9,9,Asia Woods made Free Throw.,79,73,6,6,0.9987284967472626,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,New Orleans
+376,4,0:03,3,3,Jaclyn Jarnot Turnover.,79,73,6,3,0.9990178898163832,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,
+377,4,0:00,0,0,End of Game,79,73,6,0,1,New Orleans,North Dakota,6,6,0,0,NA,401179518,2019-12-28,

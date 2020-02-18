@@ -1,0 +1,368 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:44,2384,2384,Brandy Thomas made Jumper.,0,0,0,30,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,NA
+2,1,9:14,2354,2354,Jayme DeCesare missed Jumper.,2,0,2,4,0.5450043310338967,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Long Island University
+3,1,9:10,2350,2350,Brandy Thomas Defensive Rebound.,2,0,2,11,0.5450907609955827,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+4,1,8:59,2339,2339,Kiara Bell missed Layup.,2,0,2,2,0.5453294949396444,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+5,1,8:57,2337,2337,Kiara Bell Offensive Rebound.,2,0,2,0,0.545373062929666,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+6,1,8:57,2337,2337,Foul on Denia Davis-Stewart.,2,0,2,2,0.545373062929666,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+7,1,8:55,2335,2335,Kiara Bell made Jumper. Assisted by Jeydah Johnson.,4,0,4,18,0.5900900533850184,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Long Island University
+8,1,8:37,2317,2317,Denia Davis-Stewart missed Jumper.,4,0,4,3,0.5908599636952792,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+9,1,8:34,2314,2314,Paulani Tarawa Defensive Rebound.,4,0,4,12,0.5909889497370904,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+10,1,8:22,2302,2302,Kiara Bell missed Jumper.,4,0,4,3,0.5915066978344744,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+11,1,8:19,2299,2299,Denia Davis-Stewart Defensive Rebound.,4,0,4,6,0.5916365717184265,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+12,1,8:13,2293,2293,Denia Davis-Stewart missed Three Point Jumper.,4,0,4,3,0.5918968239578065,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+13,1,8:10,2290,2290,Courtney Clasen Offensive Rebound.,4,0,4,14,0.5920271966709986,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+14,1,7:56,2276,2276,Alana Fursman made Layup.,4,2,2,14,0.5467233091847613,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Merrimack
+15,1,7:42,2262,2262,Foul on Kate Mager.,4,2,2,5,0.547038345861369,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+16,1,7:37,2257,2257,Ryan Weise Turnover.,4,2,2,0,0.5471512577612353,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+17,1,7:37,2257,2257,Courtney Clasen Steal.,4,2,2,12,0.5471512577612353,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+18,1,7:25,2245,2245,Foul on Brandy Thomas.,4,2,2,14,0.5474230472968541,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+19,1,7:11,2231,2231,Denia Davis-Stewart made Jumper.,4,4,0,24,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Merrimack
+20,1,6:47,2207,2207,Kiara Bell missed Layup.,4,4,0,3,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+21,1,6:44,2204,2204,Denia Davis-Stewart Defensive Rebound.,4,4,0,5,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+22,1,6:39,2199,2199,Jayme DeCesare missed Three Point Jumper.,4,4,0,4,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+23,1,6:35,2195,2195,Jeydah Johnson Defensive Rebound.,4,4,0,12,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+24,1,6:23,2183,2183,Jeydah Johnson made Jumper.,6,4,2,13,0.548842134538738,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Long Island University
+25,1,6:10,2170,2170,Kate Mager missed Three Point Jumper.,6,4,2,4,0.5491420970299754,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+26,1,6:06,2166,2166,Kiara Bell Defensive Rebound.,6,4,2,9,0.5492345457745712,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+27,1,5:57,2157,2157,Jeydah Johnson missed Jumper.,6,4,2,4,0.5494429884505517,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+28,1,5:53,2153,2153,Denia Davis-Stewart Defensive Rebound.,6,4,2,4,0.5495358270404799,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+29,1,5:49,2149,2149,Alana Fursman made Three Point Jumper. Assisted by Jayme DeCesare.,6,7,-1,18,0.47512418371195925,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Merrimack
+30,1,5:31,2131,2131,Foul on Alana Fursman.,6,7,-1,10,0.47491263966625974,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+31,1,5:21,2121,2121,Brandy Thomas missed Jumper.,6,7,-1,4,0.4747945087762299,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+32,1,5:17,2117,2117,Paulani Tarawa Offensive Rebound.,6,7,-1,4,0.4747471300428469,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+33,1,5:13,2113,2113,Paulani Tarawa Turnover.,6,7,-1,0,0.47469967745685804,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+34,1,5:13,2113,2113,Jayme DeCesare Steal.,6,7,-1,7,0.47469967745685804,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+35,1,5:06,2106,2106,Foul on Kaylee Thomas.,6,7,-1,0,0.47461645444133904,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+36,1,5:06,2106,2106,Kaylee Thomas Turnover.,6,7,-1,22,0.47461645444133904,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+37,1,4:44,2084,2084,Mia Perkins missed Layup.,6,7,-1,2,0.47435333693776865,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+38,1,4:42,2082,2082,Denia Davis-Stewart Defensive Rebound.,6,7,-1,9,0.47432929561141235,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+39,1,4:33,2073,2073,Official TV Timeout,6,7,-1,5,0.4742208496584454,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+40,1,4:28,2068,2068,Kate Mager Turnover.,6,7,-1,0,0.47416041489824323,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+41,1,4:28,2068,2068,Shyla Sanford Steal.,6,7,-1,6,0.47416041489824323,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+42,1,4:22,2062,2062,Shyla Sanford made Layup.,8,7,1,14,0.5259122868853792,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Long Island University
+43,1,4:08,2048,2048,Alana Fursman Turnover.,8,7,1,0,0.5260827081986277,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+44,1,4:08,2048,2048,Drew Winter Steal.,8,7,1,13,0.5260827081986277,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+45,1,3:55,2035,2035,Foul on Alana Fursman.,8,7,1,1,0.5262419720226337,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+46,1,3:54,2034,2034,Brandy Thomas made Free Throw.,9,7,2,0,0.5523641538040125,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Long Island University
+47,1,3:54,2034,2034,Brandy Thomas made Free Throw.,10,7,3,9,0.5781884500995216,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Long Island University
+48,1,3:45,2025,2025,Kate Mager made Three Point Jumper. Assisted by Jayme DeCesare.,10,10,0,19,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Merrimack
+49,1,3:26,2006,2006,Drew Winter Turnover.,10,10,0,17,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+50,1,3:09,1989,1989,Foul on Mia Perkins.,10,10,0,0,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+51,1,3:09,1989,1989,Jayme DeCesare made Free Throw.,10,11,-1,0,0.47318606490886933,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Merrimack
+52,1,3:09,1989,1989,Jayme DeCesare made Free Throw.,10,12,-2,29,0.4465259185200361,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Merrimack
+53,1,2:40,1960,1960,Kaylee Thomas missed Three Point Jumper.,12,12,0,3,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Long Island University
+54,1,2:37,1957,1957,Mia Perkins Defensive Rebound.,12,12,0,10,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+55,1,2:27,1947,1947,Brandy Thomas missed Jumper.,12,12,0,1,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+56,1,2:26,1946,1946,Merrimack Defensive Rebound.,12,12,0,13,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+57,1,2:13,1933,1933,Denia Davis-Stewart missed Three Point Jumper.,12,12,0,3,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+58,1,2:10,1930,1930,Ryan Weise Defensive Rebound.,12,12,0,5,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+59,1,2:05,1925,1925,Mia Perkins made Layup. Assisted by Ryan Weise.,14,12,2,17,0.5550994240343908,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Long Island University
+60,1,1:48,1908,1908,Jayme DeCesare missed Three Point Jumper.,14,12,2,6,0.5555369292689899,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+61,1,1:42,1902,1902,Mia Perkins Defensive Rebound.,14,12,2,4,0.555691160002145,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+62,1,1:38,1898,1898,Foul on Denia Davis-Stewart.,14,12,2,0,0.5557939551736549,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+63,1,1:38,1898,1898,Drew Winter made Free Throw.,15,12,3,0,0.5832583356008597,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Long Island University
+64,1,1:38,1898,1898,Drew Winter made Free Throw.,16,12,4,21,0.6102155219073936,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Long Island University
+65,1,1:17,1877,1877,Courtney Clasen missed Jumper.,16,12,4,4,0.6112551617720012,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+66,1,1:13,1873,1873,Mia Perkins Defensive Rebound.,16,12,4,3,0.6114532770714997,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+67,1,1:10,1870,1870,Jeydah Johnson missed Jumper.,16,12,4,3,0.6116019110409466,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+68,1,1:07,1867,1867,Denia Davis-Stewart Defensive Rebound.,16,12,4,6,0.6117505945470868,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+69,1,1:01,1861,1861,Jayme DeCesare missed Three Point Jumper.,16,12,4,5,0.6120481419218794,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+70,1,0:56,1856,1856,Courtney Clasen Offensive Rebound.,16,12,4,3,0.6122963194698661,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+71,1,0:53,1853,1853,Courtney Clasen made Layup.,16,14,2,26,0.556952112125646,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Merrimack
+72,1,0:27,1827,1827,Mia Perkins missed Jumper.,16,14,2,3,0.5576262455934166,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+73,1,0:24,1824,1824,Denia Davis-Stewart Defensive Rebound.,16,14,2,23,0.5577044293590058,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+74,1,0:01,1801,1801,Jayme DeCesare missed Layup.,16,14,2,0,0.5583073758330988,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+75,1,0:01,1801,1801,Paulani Tarawa Block.,16,14,2,0,0.5583073758330988,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+76,1,0:01,1801,1801,Merrimack Offensive Rebound.,16,14,2,1,0.5583073758330988,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+77,1,0:00,1800,1800,Kate Mager made Jumper. Assisted by Jayme DeCesare.,16,16,0,0,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Merrimack
+78,1,0:00,1800,1800,End of 1st Quarter,16,16,0,13,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+79,2,9:47,1787,1787,Courtney Clasen Turnover.,16,16,0,22,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+80,2,9:25,1765,1765,Paulani Tarawa missed Jumper.,16,16,0,3,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+81,2,9:22,1762,1762,Paulani Tarawa Offensive Rebound.,16,16,0,1,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+82,2,9:21,1761,1761,Brandy Thomas Turnover.,16,16,0,12,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+83,2,9:09,1749,1749,Kate Mager missed Three Point Jumper.,16,16,0,3,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+84,2,9:06,1746,1746,Kiara Bell Defensive Rebound.,16,16,0,9,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+85,2,8:57,1737,1737,Paulani Tarawa Turnover.,16,16,0,0,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+86,2,8:57,1737,1737,Emily Houle Steal.,16,16,0,6,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+87,2,8:51,1731,1731,Emily Houle made Three Point Jumper. Assisted by Diamond Christian.,16,19,-3,20,0.41024766156797043,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Merrimack
+88,2,8:31,1711,1711,Ryan Weise missed Jumper.,16,19,-3,4,0.4094227819985265,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+89,2,8:27,1707,1707,Denia Davis-Stewart Defensive Rebound.,16,19,-3,5,0.4092559135316822,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+90,2,8:22,1702,1702,Diamond Christian missed Three Point Jumper.,16,19,-3,4,0.4090463926027787,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+91,2,8:18,1698,1698,Kiara Bell Defensive Rebound.,16,19,-3,22,0.40887801031675786,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+92,2,7:56,1676,1676,Jeydah Johnson missed Three Point Jumper.,16,19,-3,3,0.40795020035235163,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+93,2,7:53,1673,1673,Long Island University Offensive Rebound.,16,19,-3,4,0.4078255922568191,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+94,2,7:49,1669,1669,Paulani Tarawa missed Layup.,16,19,-3,3,0.40766024453565963,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+95,2,7:46,1666,1666,Denia Davis-Stewart Defensive Rebound.,16,19,-3,5,0.4075368029248485,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+96,2,7:41,1661,1661,Denia Davis-Stewart missed Three Point Jumper.,16,19,-3,3,0.4073320868053891,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+97,2,7:38,1658,1658,Emily Houle Offensive Rebound.,16,19,-3,1,0.4072098337500521,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+98,2,7:37,1657,1657,Foul on Jeydah Johnson.,16,19,-3,3,0.40716917401941377,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+99,2,7:34,1654,1654,Foul on Kiara Bell.,16,19,-3,0,0.4070474574603655,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+100,2,7:34,1654,1654,Denia Davis-Stewart missed Free Throw.,16,19,-3,0,0.4070474574603655,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+101,2,7:34,1654,1654,Merrimack Deadball Team Rebound.,16,19,-3,0,0.4070474574603655,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+102,2,7:34,1654,1654,Denia Davis-Stewart made Free Throw.,16,20,-4,11,0.3771695649459359,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Merrimack
+103,2,7:23,1643,1643,Ryan Weise made Three Point Jumper. Assisted by Jeydah Johnson.,19,20,-1,19,0.4685398408995279,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Long Island University
+104,2,7:04,1624,1624,Denia Davis-Stewart missed Layup.,19,20,-1,3,0.46827943443802217,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+105,2,7:01,1621,1621,Emily Houle Offensive Rebound.,19,20,-1,11,0.46823855682390153,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+106,2,6:50,1610,1610,Foul on Kiara Bell.,19,20,-1,0,0.4680889977419069,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+107,2,6:50,1610,1610,Diamond Christian missed Free Throw.,19,20,-1,0,0.4680889977419069,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+108,2,6:50,1610,1610,Merrimack Deadball Team Rebound.,19,20,-1,0,0.4680889977419069,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+109,2,6:50,1610,1610,Diamond Christian made Free Throw.,19,21,-2,23,0.43643690375502325,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Merrimack
+110,2,6:27,1587,1587,Paulani Tarawa made Jumper. Assisted by Shyla Sanford.,21,21,0,10,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Long Island University
+111,2,6:17,1577,1577,Kate Mager missed Three Point Jumper.,21,21,0,4,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+112,2,6:13,1573,1573,Mia Perkins Defensive Rebound.,21,21,0,15,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+113,2,5:58,1558,1558,Paulani Tarawa Turnover.,21,21,0,23,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+114,2,5:35,1535,1535,Jayme DeCesare Turnover.,21,21,0,13,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+115,2,5:22,1522,1522,Brandy Thomas made Jumper. Assisted by Ryan Weise.,23,21,2,28,0.5659698093040033,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Long Island University
+116,2,4:54,1494,1494,Foul on Mia Perkins.,23,21,2,0,0.5667886842514865,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+117,2,4:54,1494,1494,Official TV Timeout,23,21,2,0,0.5667886842514865,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+118,2,4:54,1494,1494,Alana Fursman missed Free Throw.,23,21,2,0,0.5667886842514865,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+119,2,4:54,1494,1494,Merrimack Deadball Team Rebound.,23,21,2,0,0.5667886842514865,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+120,2,4:54,1494,1494,Alana Fursman made Free Throw.,23,22,1,14,0.5335446491899662,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Merrimack
+121,2,4:40,1480,1480,Jeydah Johnson made Three Point Jumper. Assisted by Ryan Weise.,26,22,4,31,0.6320430445036809,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Long Island University
+122,2,4:09,1449,1449,Jayme DeCesare missed Jumper.,26,22,4,5,0.6339198152775645,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+123,2,4:04,1444,1444,Brandy Thomas Defensive Rebound.,26,22,4,5,0.6342302865831494,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+124,2,3:59,1439,1439,Mia Perkins missed Jumper.,26,22,4,3,0.6345372617031436,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+125,2,3:56,1436,1436,Brandy Thomas Offensive Rebound.,26,22,4,1,0.6347198649195845,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+126,2,3:55,1435,1435,Brandy Thomas missed Layup.,26,22,4,2,0.6347804801172479,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+127,2,3:53,1433,1433,Long Island University Offensive Rebound.,26,22,4,9,0.634901342793241,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+128,2,3:44,1424,1424,Mia Perkins missed Layup.,26,22,4,2,0.6354395231136698,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+129,2,3:42,1422,1422,Denia Davis-Stewart Defensive Rebound.,26,22,4,7,0.6355579396282618,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+130,2,3:35,1415,1415,Denia Davis-Stewart missed Three Point Jumper.,26,22,4,3,0.6359693690559213,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+131,2,3:32,1412,1412,Courtney Clasen Offensive Rebound.,26,22,4,9,0.6361443642387802,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+132,2,3:23,1403,1403,Jayme DeCesare missed Layup.,26,22,4,3,0.6366651837917671,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+133,2,3:20,1400,1400,Brandy Thomas Defensive Rebound.,26,22,4,6,0.6368375667033723,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+134,2,3:14,1394,1394,Ryan Weise missed Three Point Jumper.,26,22,4,3,0.6371807937979844,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+135,2,3:11,1391,1391,Denia Davis-Stewart Defensive Rebound.,26,22,4,8,0.6373517367336093,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+136,2,3:03,1383,1383,Kate Mager missed Jumper.,26,22,4,4,0.6378058542184889,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+137,2,2:59,1379,1379,Denia Davis-Stewart Offensive Rebound.,26,22,4,0,0.6380321879819769,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+138,2,2:59,1379,1379,Foul on Mia Perkins.,26,22,4,0,0.6380321879819769,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+139,2,2:59,1379,1379,Denia Davis-Stewart made Free Throw.,26,23,3,0,0.6047089842088077,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Merrimack
+140,2,2:59,1379,1379,Denia Davis-Stewart made Free Throw.,26,24,2,17,0.5703836788824832,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Merrimack
+141,2,2:42,1362,1362,Jeydah Johnson Turnover.,26,24,2,0,0.5708930235460885,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+142,2,2:42,1362,1362,Diamond Christian Steal.,26,24,2,5,0.5708930235460885,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+143,2,2:37,1357,1357,Kaylee Thomas missed Layup.,26,24,2,3,0.5710430052874311,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+144,2,2:34,1354,1354,Courtney Clasen Offensive Rebound.,26,24,2,2,0.5711331287607592,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+145,2,2:32,1352,1352,Denia Davis-Stewart made Three Point Jumper. Assisted by Courtney Clasen.,26,27,-1,17,0.46422108500678355,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Merrimack
+146,2,2:15,1335,1335,Paulani Tarawa made Jumper. Assisted by Drew Winter.,28,27,1,13,0.5360403154048287,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Long Island University
+147,2,2:02,1322,1322,Denia Davis-Stewart made Layup. Assisted by Courtney Clasen.,28,29,-1,23,0.46375660716640044,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Merrimack
+148,2,1:39,1299,1299,Paulani Tarawa Turnover.,28,29,-1,0,0.46338698160409236,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+149,2,1:39,1299,1299,Courtney Clasen Steal.,28,29,-1,7,0.46338698160409236,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+150,2,1:32,1292,1292,Courtney Clasen missed Layup.,28,29,-1,3,0.46327112992974984,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+151,2,1:29,1289,1289,Long Island University Defensive Rebound.,28,29,-1,17,0.46322091899914714,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+152,2,1:12,1272,1272,Brandy Thomas Turnover.,28,29,-1,0,0.4629292936771474,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+153,2,1:12,1272,1272,Courtney Clasen Steal.,28,29,-1,10,0.4629292936771474,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+154,2,1:02,1262,1262,Kaylee Thomas Turnover.,28,29,-1,0,0.4627514542172851,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+155,2,1:02,1262,1262,Ryan Weise Steal.,28,29,-1,10,0.4627514542172851,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+156,2,0:52,1252,1252,Foul on Diamond Christian.,28,29,-1,5,0.4625683493102502,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+157,2,0:47,1247,1247,Ryan Weise missed Three Point Jumper.,28,29,-1,3,0.4624746697311638,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+158,2,0:44,1244,1244,Kate Mager Defensive Rebound.,28,29,-1,9,0.46241774615577314,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+159,2,0:35,1235,1235,Denia Davis-Stewart missed Layup.,28,29,-1,2,0.4622436048576007,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+160,2,0:33,1233,1233,Paulani Tarawa Defensive Rebound.,28,29,-1,23,0.4622041951435076,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+161,2,0:10,1210,1210,Foul on Diamond Christian.,28,29,-1,0,0.4617307940439419,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+162,2,0:10,1210,1210,Paulani Tarawa made Free Throw.,29,29,0,0,0.5,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Long Island University
+163,2,0:10,1210,1210,Paulani Tarawa made Free Throw.,30,29,1,10,0.5382692059560581,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,Long Island University
+164,2,0:00,1200,1200,Diamond Christian missed Layup.,30,29,1,0,0.5384812553577752,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+165,2,0:00,1200,1200,Long Island University Deadball Team Rebound.,30,29,1,0,0.5384812553577752,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+166,2,0:00,1200,1200,End of 2nd Quarter,30,29,1,6,0.5384812553577752,Long Island University,Merrimack,4,4,0,0,NA,401179176,2020-02-08,
+167,3,9:54,1194,1194,Paulani Tarawa missed Jumper.,30,29,1,3,0.5386064315317062,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+168,3,9:51,1191,1191,Paulani Tarawa Offensive Rebound.,30,29,1,1,0.5386685001849195,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+169,3,9:50,1190,1190,Paulani Tarawa Turnover.,30,29,1,22,0.5386891173127512,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+170,3,9:28,1168,1168,Denia Davis-Stewart missed Three Point Jumper.,30,29,1,4,0.5391350221601509,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+171,3,9:24,1164,1164,Brandy Thomas Defensive Rebound.,30,29,1,8,0.5392148367937986,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+172,3,9:16,1156,1156,Kiara Bell made Jumper.,32,29,3,17,0.6162033996069546,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,Long Island University
+173,3,8:59,1139,1139,Denia Davis-Stewart missed Layup.,32,29,3,0,0.6171608265478867,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+174,3,8:59,1139,1139,Kiara Bell Defensive Rebound.,32,29,3,0,0.6171608265478867,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+175,3,8:59,1139,1139,Kiara Bell Block.,32,29,3,17,0.6171608265478867,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+176,3,8:42,1122,1122,Paulani Tarawa Turnover.,32,29,3,4,0.6181170755635645,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+177,3,8:38,1118,1118,Denia Davis-Stewart made Layup. Assisted by Jayme DeCesare.,32,31,1,9,0.5401236000051486,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,Merrimack
+178,3,8:29,1109,1109,Paulani Tarawa made Jumper. Assisted by Jeydah Johnson.,34,31,3,16,0.6188534316184163,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,Long Island University
+179,3,8:13,1093,1093,Jayme DeCesare made Three Point Jumper.,34,34,0,22,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,Merrimack
+180,3,7:51,1071,1071,Paulani Tarawa Turnover.,34,34,0,0,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+181,3,7:51,1071,1071,Courtney Clasen Steal.,34,34,0,4,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+182,3,7:47,1067,1067,Courtney Clasen made Layup.,34,36,-2,14,0.4182183194252806,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,Merrimack
+183,3,7:33,1053,1053,Brandy Thomas made Jumper.,36,36,0,21,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,Long Island University
+184,3,7:12,1032,1032,Denia Davis-Stewart missed Three Point Jumper.,36,36,0,3,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+185,3,7:09,1029,1029,Brandy Thomas Defensive Rebound.,36,36,0,8,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+186,3,7:01,1021,1021,Paulani Tarawa made Jumper. Assisted by Brandy Thomas.,38,36,2,16,0.5838332999826225,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,Long Island University
+187,3,6:45,1005,1005,Denia Davis-Stewart made Layup.,38,38,0,15,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,Merrimack
+188,3,6:30,990,990,Paulani Tarawa missed Jumper.,38,38,0,3,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+189,3,6:27,987,987,Denia Davis-Stewart Defensive Rebound.,38,38,0,6,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+190,3,6:21,981,981,Foul on Ryan Weise.,38,38,0,17,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+191,3,6:04,964,964,Courtney Clasen missed Jumper.,38,38,0,3,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+192,3,6:01,961,961,Kiara Bell Defensive Rebound.,38,38,0,4,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+193,3,5:57,957,957,Brandy Thomas missed Three Point Jumper.,38,38,0,3,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+194,3,5:54,954,954,Brandy Thomas Offensive Rebound.,38,38,0,1,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+195,3,5:53,953,953,Brandy Thomas missed Jumper.,38,38,0,2,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+196,3,5:51,951,951,Brandy Thomas Offensive Rebound.,38,38,0,2,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+197,3,5:49,949,949,Brandy Thomas missed Jumper.,38,38,0,3,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+198,3,5:46,946,946,Kiara Bell Offensive Rebound.,38,38,0,2,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+199,3,5:44,944,944,Ryan Weise missed Jumper.,38,38,0,3,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+200,3,5:41,941,941,Denia Davis-Stewart Defensive Rebound.,38,38,0,9,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+201,3,5:32,932,932,Denia Davis-Stewart missed Three Point Jumper.,38,38,0,3,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+202,3,5:29,929,929,Jeydah Johnson Defensive Rebound.,38,38,0,10,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+203,3,5:19,919,919,Shyla Sanford Turnover.,38,38,0,12,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+204,3,5:07,907,907,Kaylee Thomas made Jumper.,38,40,-2,17,0.41041671694314114,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,Merrimack
+205,3,4:50,890,890,Kiara Bell made Layup. Assisted by Brandy Thomas.,40,40,0,9,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,Long Island University
+206,3,4:41,881,881,Denia Davis-Stewart Turnover.,40,40,0,0,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+207,3,4:41,881,881,Official TV Timeout,40,40,0,14,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+208,3,4:27,867,867,Brandy Thomas missed Jumper.,40,40,0,4,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+209,3,4:23,863,863,Emily Houle Defensive Rebound.,40,40,0,13,0.5,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+210,3,4:10,850,850,Kaylee Thomas made Layup.,40,42,-2,0,0.4079835504783856,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,Merrimack
+211,3,4:10,850,850,Foul on Jeydah Johnson.,40,42,-2,0,0.4079835504783856,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+212,3,4:10,850,850,Kaylee Thomas missed Free Throw.,40,42,-2,0,0.4079835504783856,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+213,3,4:10,850,850,Jayme DeCesare Offensive Rebound.,40,42,-2,7,0.4079835504783856,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+214,3,4:03,843,843,Merrimack  Timeout,40,42,-2,0,0.4076714880664396,Long Island University,Merrimack,4,5,1,0,NA,401179176,2020-02-08,
+215,3,4:03,843,843,Official TV Timeout,40,42,-2,10,0.4076714880664396,Long Island University,Merrimack,4,5,1,0,NA,401179176,2020-02-08,
+216,3,3:53,833,833,Denia Davis-Stewart missed Three Point Jumper.,40,42,-2,4,0.40721253717877826,Long Island University,Merrimack,4,5,1,0,NA,401179176,2020-02-08,
+217,3,3:49,829,829,Shyla Sanford Defensive Rebound.,40,42,-2,13,0.40702386912829414,Long Island University,Merrimack,4,5,1,0,NA,401179176,2020-02-08,
+218,3,3:36,816,816,Brandy Thomas missed Jumper.,40,42,-2,2,0.40638678542307666,Long Island University,Merrimack,4,5,1,0,NA,401179176,2020-02-08,
+219,3,3:34,814,814,Jayme DeCesare Defensive Rebound.,40,42,-2,7,0.40628516070977055,Long Island University,Merrimack,4,5,1,0,NA,401179176,2020-02-08,
+220,3,3:27,807,807,Denia Davis-Stewart missed Three Point Jumper.,40,42,-2,5,0.40592100105495804,Long Island University,Merrimack,4,5,1,0,NA,401179176,2020-02-08,
+221,3,3:22,802,802,Emily Houle Offensive Rebound.,40,42,-2,2,0.4056522797455301,Long Island University,Merrimack,4,5,1,0,NA,401179176,2020-02-08,
+222,3,3:20,800,800,Foul on Tiya Misir.,40,42,-2,3,0.40554265753338176,Long Island University,Merrimack,4,5,1,0,NA,401179176,2020-02-08,
+223,3,3:17,797,797,Foul on Paulani Tarawa.,40,42,-2,3,0.4053758423048565,Long Island University,Merrimack,4,5,1,0,NA,401179176,2020-02-08,
+224,3,3:14,794,794,Jayme DeCesare missed Layup.,40,42,-2,3,0.4052060768752956,Long Island University,Merrimack,4,5,1,0,NA,401179176,2020-02-08,
+225,3,3:11,791,791,Mia Perkins Defensive Rebound.,40,42,-2,11,0.4050332579209038,Long Island University,Merrimack,4,5,1,0,NA,401179176,2020-02-08,
+226,3,3:00,780,780,Mia Perkins missed Jumper.,40,42,-2,7,0.4043717963315911,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+227,3,2:53,773,773,Emily Houle Defensive Rebound.,40,42,-2,11,0.40392644486766927,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+228,3,2:42,762,762,Foul on Denia Davis-Stewart.,40,42,-2,0,0.4031845888152298,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+229,3,2:42,762,762,Denia Davis-Stewart Turnover.,40,42,-2,0,0.4031845888152298,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+230,3,2:42,762,762,Technical Foul on Denia Davis-Stewart.,40,42,-2,0,0.4031845888152298,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+231,3,2:42,762,762,Jeydah Johnson made Free Throw.,41,42,-1,0,0.45112984750130675,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,Long Island University
+232,3,2:42,762,762,Jeydah Johnson missed Free Throw.,41,42,-1,0,0.45112984750130675,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+233,3,2:42,762,762,Long Island University Deadball Team Rebound.,41,42,-1,15,0.45112984750130675,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+234,3,2:27,747,747,Brandy Thomas Offensive Rebound.,41,42,-1,0,0.45056239914520996,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+235,3,2:27,747,747,Foul on Emily Houle.,41,42,-1,0,0.45056239914520996,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+236,3,2:27,747,747,Brandy Thomas made Free Throw.,42,42,0,0,0.5,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,Long Island University
+237,3,2:27,747,747,Brandy Thomas made Free Throw.,43,42,1,8,0.5494376008547901,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,Long Island University
+238,3,2:19,739,739,Kaylee Thomas Turnover.,43,42,1,0,0.5497645093967024,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+239,3,2:19,739,739,Brandy Thomas Steal.,43,42,1,5,0.5497645093967024,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+240,3,2:14,734,734,Brandy Thomas Turnover.,43,42,1,0,0.5499779998304718,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+241,3,2:14,734,734,Kaylee Thomas Steal.,43,42,1,10,0.5499779998304718,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+242,3,2:04,724,724,Kaylee Thomas made Layup. Assisted by Emily Houle.,43,44,-1,22,0.4495844560438734,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,Merrimack
+243,3,1:42,702,702,Jeydah Johnson missed Jumper.,43,44,-1,2,0.4487166548003999,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+244,3,1:40,700,700,Long Island University Offensive Rebound.,43,44,-1,1,0.4486435370162313,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+245,3,1:39,699,699,Kiara Bell made Jumper. Assisted by Jeydah Johnson.,45,44,1,10,0.551392729325626,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,Long Island University
+246,3,1:29,689,689,Kaylee Thomas missed Three Point Jumper.,45,44,1,3,0.5517459669379929,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+247,3,1:26,686,686,Long Island University Defensive Rebound.,45,44,1,12,0.551849092977448,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+248,3,1:14,674,674,Mia Perkins missed Layup.,45,44,1,0,0.5522525567439597,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+249,3,1:14,674,674,Kaylee Thomas Block.,45,44,1,1,0.5522525567439597,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+250,3,1:13,673,673,Mia Perkins Offensive Rebound.,45,44,1,0,0.5522857148536152,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+251,3,1:13,673,673,Foul on Mia Perkins.,45,44,1,0,0.5522857148536152,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+252,3,1:13,673,673,Mia Perkins Turnover.,45,44,1,17,0.5522857148536152,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+253,3,0:56,656,656,Kate Mager made Layup.,45,46,-1,9,0.44715317650458747,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,Merrimack
+254,3,0:47,647,647,Jeydah Johnson made Jumper. Assisted by Ryan Weise.,47,46,1,0,0.5531476451152163,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,Long Island University
+255,3,0:47,647,647,Foul on Alana Fursman.,47,46,1,0,0.5531476451152163,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+256,3,0:47,647,647,Jeydah Johnson made Free Throw.,48,46,2,13,0.6051077109221081,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,Long Island University
+257,3,0:34,634,634,Alana Fursman made Layup.,48,48,0,9,0.5,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,Merrimack
+258,3,0:25,625,625,Foul on Kiara Bell.,48,48,0,0,0.5,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+259,3,0:25,625,625,Kiara Bell Turnover.,48,48,0,23,0.5,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+260,3,0:02,602,602,Kate Mager missed Three Point Jumper.,48,48,0,2,0.5,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+261,3,0:00,600,600,Long Island University Deadball Team Rebound.,48,48,0,0,0.5,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+262,3,0:00,600,600,End of 3rd Quarter,48,48,0,16,0.5,Long Island University,Merrimack,4,5,0,0,NA,401179176,2020-02-08,
+263,4,9:44,584,584,Kate Mager made Three Point Jumper. Assisted by Alana Fursman.,48,51,-3,20,0.3382521115473278,Long Island University,Merrimack,5,6,0,0,NA,401179176,2020-02-08,Merrimack
+264,4,9:24,564,564,Brandy Thomas missed Three Point Jumper.,48,51,-3,3,0.33524806445252725,Long Island University,Merrimack,5,6,0,0,NA,401179176,2020-02-08,
+265,4,9:21,561,561,Shyla Sanford Offensive Rebound.,48,51,-3,7,0.3347503458693498,Long Island University,Merrimack,5,6,0,0,NA,401179176,2020-02-08,
+266,4,9:14,554,554,Paulani Tarawa missed Jumper.,48,51,-3,4,0.3335364247961561,Long Island University,Merrimack,5,6,0,0,NA,401179176,2020-02-08,
+267,4,9:10,550,550,Alana Fursman Defensive Rebound.,48,51,-3,7,0.3328083264949197,Long Island University,Merrimack,5,6,0,0,NA,401179176,2020-02-08,
+268,4,9:03,543,543,Emily Houle Turnover.,48,51,-3,15,0.3315671962459856,Long Island University,Merrimack,5,6,0,0,NA,401179176,2020-02-08,
+269,4,8:48,528,528,Shyla Sanford made Three Point Jumper. Assisted by Jeydah Johnson.,51,51,0,18,0.5,Long Island University,Merrimack,5,6,0,0,NA,401179176,2020-02-08,Long Island University
+270,4,8:30,510,510,Diamond Christian made Layup.,51,53,-2,14,0.3817895811927351,Long Island University,Merrimack,5,6,0,0,NA,401179176,2020-02-08,Merrimack
+271,4,8:16,496,496,Brandy Thomas missed Three Point Jumper.,51,53,-2,4,0.38047033831338756,Long Island University,Merrimack,5,6,0,0,NA,401179176,2020-02-08,
+272,4,8:12,492,492,Alana Fursman Defensive Rebound.,51,53,-2,13,0.38008616197464645,Long Island University,Merrimack,5,6,0,0,NA,401179176,2020-02-08,
+273,4,7:59,479,479,Alana Fursman missed Three Point Jumper.,51,53,-2,3,0.37877334307447874,Long Island University,Merrimack,5,6,0,0,NA,401179176,2020-02-08,
+274,4,7:56,476,476,Brandy Thomas Defensive Rebound.,51,53,-2,7,0.3784505684381414,Long Island University,Merrimack,5,6,0,0,NA,401179176,2020-02-08,
+275,4,7:49,469,469,Brandy Thomas missed Jumper.,51,53,-2,2,0.37765872971610065,Long Island University,Merrimack,5,6,0,0,NA,401179176,2020-02-08,
+276,4,7:47,467,467,Emily Houle Defensive Rebound.,51,53,-2,13,0.3774212291762965,Long Island University,Merrimack,5,6,0,0,NA,401179176,2020-02-08,
+277,4,7:34,454,454,Diamond Christian made Layup.,51,55,-4,8,0.26591893226493424,Long Island University,Merrimack,5,6,0,0,NA,401179176,2020-02-08,Merrimack
+278,4,7:26,446,446,Long Island University  Timeout,51,55,-4,0,0.2639389571967848,Long Island University,Merrimack,5,5,0,1,NA,401179176,2020-02-08,
+279,4,7:26,446,446,Official TV Timeout,51,55,-4,8,0.2639389571967848,Long Island University,Merrimack,5,5,0,1,NA,401179176,2020-02-08,
+280,4,7:18,438,438,Kiara Bell missed Jumper.,51,55,-4,3,0.2617397668945837,Long Island University,Merrimack,5,5,0,1,NA,401179176,2020-02-08,
+281,4,7:15,435,435,Kate Mager Defensive Rebound.,51,55,-4,15,0.26085299634942094,Long Island University,Merrimack,5,5,0,1,NA,401179176,2020-02-08,
+282,4,7:00,420,420,Denia Davis-Stewart missed Layup.,51,55,-4,4,0.25620109265500945,Long Island University,Merrimack,5,5,0,1,NA,401179176,2020-02-08,
+283,4,6:56,416,416,Diamond Christian Offensive Rebound.,51,55,-4,1,0.25502500800772604,Long Island University,Merrimack,5,5,0,1,NA,401179176,2020-02-08,
+284,4,6:55,415,415,Diamond Christian missed Layup.,51,55,-4,3,0.25473544015207844,Long Island University,Merrimack,5,5,0,1,NA,401179176,2020-02-08,
+285,4,6:52,412,412,Kiara Bell Defensive Rebound.,51,55,-4,10,0.253876148038224,Long Island University,Merrimack,5,5,0,1,NA,401179176,2020-02-08,
+286,4,6:42,402,402,Kiara Bell made Jumper. Assisted by Drew Winter.,53,55,-2,28,0.366699133811541,Long Island University,Merrimack,5,5,0,1,NA,401179176,2020-02-08,Long Island University
+287,4,6:14,374,374,Kaylee Thomas missed Jumper.,53,55,-2,3,0.36189717705002494,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+288,4,6:11,371,371,Kaylee Thomas Offensive Rebound.,53,55,-2,4,0.3613533649873076,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+289,4,6:07,367,367,Foul on Paulani Tarawa.,53,55,-2,0,0.36061193918321727,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+290,4,6:07,367,367,Kaylee Thomas made Free Throw.,53,56,-3,0,0.2975349991587751,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,Merrimack
+291,4,6:07,367,367,Kaylee Thomas made Free Throw.,53,57,-4,12,0.24132694602051222,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,Merrimack
+292,4,5:55,355,355,Shyla Sanford missed Jumper.,53,57,-4,3,0.2375872081580835,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+293,4,5:52,352,352,Kiara Bell Offensive Rebound.,53,57,-4,1,0.23659523044470523,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+294,4,5:51,351,351,Kiara Bell missed Layup.,53,57,-4,5,0.23625881021088488,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+295,4,5:46,346,346,Diamond Christian Defensive Rebound.,53,57,-4,0,0.2345306752105909,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+296,4,5:46,346,346,Diamond Christian Turnover.,53,57,-4,0,0.2345306752105909,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+297,4,5:46,346,346,Drew Winter Steal.,53,57,-4,8,0.2345306752105909,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+298,4,5:38,338,338,Paulani Tarawa missed Layup.,53,57,-4,3,0.2315912550720301,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+299,4,5:35,335,335,Denia Davis-Stewart Defensive Rebound.,53,57,-4,1,0.23042842316409554,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+300,4,5:34,334,334,Foul on Kiara Bell.,53,57,-4,9,0.23003301564338713,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+301,4,5:25,325,325,Foul on Shyla Sanford.,53,57,-4,0,0.22628829679838128,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+302,4,5:25,325,325,Diamond Christian missed Free Throw.,53,57,-4,0,0.22628829679838128,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+303,4,5:25,325,325,Merrimack Deadball Team Rebound.,53,57,-4,0,0.22628829679838128,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+304,4,5:25,325,325,Diamond Christian made Free Throw.,53,58,-5,19,0.1770101394095714,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,Merrimack
+305,4,5:06,306,306,Jeydah Johnson missed Three Point Jumper.,53,58,-5,4,0.1678643075262534,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+306,4,5:02,302,302,Kate Mager Defensive Rebound.,53,58,-5,17,0.16648555932479758,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+307,4,4:45,285,285,Foul on Drew Winter.,53,58,-5,0,0.16468862642822601,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+308,4,4:45,285,285,Kaylee Thomas made Free Throw.,53,59,-6,0,0.1247172747493133,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,Merrimack
+309,4,4:45,285,285,Kaylee Thomas missed Free Throw.,53,59,-6,0,0.1247172747493133,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+310,4,4:45,285,285,Jeydah Johnson Defensive Rebound.,53,59,-6,10,0.1247172747493133,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+311,4,4:35,275,275,Shyla Sanford missed Three Point Jumper.,53,59,-6,2,0.1257611410059611,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+312,4,4:33,273,273,Merrimack Defensive Rebound.,53,59,-6,17,0.1260835945353569,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+313,4,4:16,256,256,Kaylee Thomas missed Jumper.,53,59,-6,2,0.12943575734429244,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+314,4,4:14,254,254,Brandy Thomas Defensive Rebound.,53,59,-6,10,0.12982116347523923,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+315,4,4:04,244,244,Brandy Thomas missed Layup.,53,59,-6,3,0.1313533777898907,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+316,4,4:01,241,241,Mia Perkins Offensive Rebound.,53,59,-6,0,0.13162137677472696,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+317,4,4:01,241,241,Mia Perkins missed Layup.,53,59,-6,2,0.13162137677472696,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+318,4,3:59,239,239,Long Island University Offensive Rebound.,53,59,-6,11,0.13173461876790227,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+319,4,3:48,228,228,Brandy Thomas made Layup. Assisted by Ryan Weise.,55,59,-4,25,0.22090833564289808,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,Long Island University
+320,4,3:23,203,203,Denia Davis-Stewart missed Layup.,55,59,-4,2,0.20883795556315396,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+321,4,3:21,201,201,Jeydah Johnson Defensive Rebound.,55,59,-4,7,0.20705376158286384,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+322,4,3:14,194,194,Mia Perkins missed Layup.,55,59,-4,2,0.19973336246082374,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+323,4,3:12,192,192,Denia Davis-Stewart Defensive Rebound.,55,59,-4,20,0.19732940664358808,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+324,4,2:52,172,172,Kaylee Thomas missed Three Point Jumper.,55,59,-4,4,0.17198305933867597,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+325,4,2:48,168,168,Jeydah Johnson Defensive Rebound.,55,59,-4,9,0.16703027090538414,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+326,4,2:39,159,159,Brandy Thomas missed Jumper.,55,59,-4,3,0.15591491847893774,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+327,4,2:36,156,156,Denia Davis-Stewart Defensive Rebound.,55,59,-4,19,0.1522040357272856,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+328,4,2:17,137,137,Courtney Clasen Turnover.,55,59,-4,16,0.12843354911744906,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+329,4,2:01,121,121,Brandy Thomas missed Jumper.,55,59,-4,4,0.10801232005306782,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+330,4,1:57,117,117,Denia Davis-Stewart Defensive Rebound.,55,59,-4,16,0.10288035961512279,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,
+331,4,1:41,101,101,Denia Davis-Stewart made Jumper. Assisted by Diamond Christian.,55,61,-6,9,0.02627015064046552,Long Island University,Merrimack,5,5,0,0,NA,401179176,2020-02-08,Merrimack
+332,4,1:32,92,92,Long Island University  Timeout,55,61,-6,12,0.020911685594880897,Long Island University,Merrimack,5,4,0,1,NA,401179176,2020-02-08,
+333,4,1:20,80,80,Ryan Weise Turnover.,55,61,-6,0,0.015156318754388002,Long Island University,Merrimack,5,4,0,1,NA,401179176,2020-02-08,
+334,4,1:20,80,80,Diamond Christian Steal.,55,61,-6,3,0.015156318754388002,Long Island University,Merrimack,5,4,0,1,NA,401179176,2020-02-08,
+335,4,1:17,77,77,Foul on Shyla Sanford.,55,61,-6,0,0.013930049991472295,Long Island University,Merrimack,5,4,0,1,NA,401179176,2020-02-08,
+336,4,1:17,77,77,Diamond Christian missed Free Throw.,55,61,-6,0,0.013930049991472295,Long Island University,Merrimack,5,4,0,1,NA,401179176,2020-02-08,
+337,4,1:17,77,77,Merrimack Deadball Team Rebound.,55,61,-6,0,0.013930049991472295,Long Island University,Merrimack,5,4,0,1,NA,401179176,2020-02-08,
+338,4,1:17,77,77,Diamond Christian missed Free Throw.,55,61,-6,0,0.013930049991472295,Long Island University,Merrimack,5,4,0,1,NA,401179176,2020-02-08,
+339,4,1:17,77,77,Alana Fursman Offensive Rebound.,55,61,-6,14,0.013930049991472295,Long Island University,Merrimack,5,4,0,1,NA,401179176,2020-02-08,
+340,4,1:03,63,63,Foul on Shyla Sanford.,55,61,-6,0,0.009147273742703242,Long Island University,Merrimack,5,4,0,1,NA,401179176,2020-02-08,
+341,4,1:03,63,63,Diamond Christian missed Free Throw.,55,61,-6,0,0.009147273742703242,Long Island University,Merrimack,5,4,0,1,NA,401179176,2020-02-08,
+342,4,1:03,63,63,Merrimack Deadball Team Rebound.,55,61,-6,0,0.009147273742703242,Long Island University,Merrimack,5,4,0,1,NA,401179176,2020-02-08,
+343,4,1:03,63,63,Diamond Christian made Free Throw.,55,62,-7,10,0.004210469745691283,Long Island University,Merrimack,5,4,0,1,NA,401179176,2020-02-08,Merrimack
+344,4,0:53,53,53,Foul on Kate Mager.,55,62,-7,8,0.0028893591376448666,Long Island University,Merrimack,5,4,0,1,NA,401179176,2020-02-08,
+345,4,0:45,45,45,Ryan Weise made Three Point Jumper. Assisted by Shyla Sanford.,58,62,-4,5,0.028717966465552115,Long Island University,Merrimack,5,4,0,1,NA,401179176,2020-02-08,Long Island University
+346,4,0:40,40,40,Diamond Christian Turnover.,58,62,-4,0,0.025596908924922356,Long Island University,Merrimack,5,4,0,1,NA,401179176,2020-02-08,
+347,4,0:40,40,40,Shyla Sanford Steal.,58,62,-4,11,0.025596908924922356,Long Island University,Merrimack,5,4,0,1,NA,401179176,2020-02-08,
+348,4,0:29,29,29,Ryan Weise made Three Point Jumper. Assisted by Shyla Sanford.,61,62,-1,0,0.27335537205798055,Long Island University,Merrimack,5,4,1,0,NA,401179176,2020-02-08,Long Island University
+349,4,0:29,29,29,Merrimack  Timeout,61,62,-1,4,0.27335537205798055,Long Island University,Merrimack,4,4,1,0,NA,401179176,2020-02-08,
+350,4,0:25,25,25,Foul on Jeydah Johnson.,61,62,-1,0,0.2683291171038707,Long Island University,Merrimack,4,4,1,1,NA,401179176,2020-02-08,
+351,4,0:25,25,25,Kate Mager made Free Throw.,61,63,-2,0,0.11855004383725477,Long Island University,Merrimack,4,4,1,1,NA,401179176,2020-02-08,Merrimack
+352,4,0:25,25,25,Kate Mager made Free Throw.,61,64,-3,0,0.047005273609936685,Long Island University,Merrimack,4,4,1,1,NA,401179176,2020-02-08,Merrimack
+353,4,0:25,25,25,Long Island University  Timeout,61,64,-3,13,0.047005273609936685,Long Island University,Merrimack,4,3,1,1,NA,401179176,2020-02-08,
+354,4,0:12,12,12,Brandy Thomas missed Jumper.,61,64,-3,2,0.036619526208933564,Long Island University,Merrimack,4,3,1,1,NA,401179176,2020-02-08,
+355,4,0:10,10,10,Paulani Tarawa Offensive Rebound.,61,64,-3,2,0.035163883243131466,Long Island University,Merrimack,4,3,1,1,NA,401179176,2020-02-08,
+356,4,0:08,8,8,Foul on Courtney Clasen.,61,64,-3,0,0.033749757602105614,Long Island University,Merrimack,4,3,1,1,NA,401179176,2020-02-08,
+357,4,0:08,8,8,Ryan Weise made Free Throw.,62,64,-2,0,0.09653779011040589,Long Island University,Merrimack,4,3,1,1,NA,401179176,2020-02-08,Long Island University
+358,4,0:08,8,8,Ryan Weise made Free Throw.,63,64,-1,0,0.24635462456246857,Long Island University,Merrimack,4,3,1,1,NA,401179176,2020-02-08,Long Island University
+359,4,0:08,8,8,Ryan Weise missed Free Throw.,63,64,-1,0,0.24635462456246857,Long Island University,Merrimack,4,3,1,1,NA,401179176,2020-02-08,
+360,4,0:08,8,8,Long Island University Offensive Rebound.,63,64,-1,3,0.24635462456246857,Long Island University,Merrimack,4,3,1,1,NA,401179176,2020-02-08,
+361,4,0:05,5,5,Long Island University  Timeout,63,64,-1,2,0.2423839768081326,Long Island University,Merrimack,4,2,1,1,NA,401179176,2020-02-08,
+362,4,0:03,3,3,Jeydah Johnson Turnover.,63,64,-1,0,0.23973417984034148,Long Island University,Merrimack,4,2,1,1,NA,401179176,2020-02-08,
+363,4,0:03,3,3,Courtney Clasen Steal.,63,64,-1,2,0.23973417984034148,Long Island University,Merrimack,4,2,1,1,NA,401179176,2020-02-08,
+364,4,0:01,1,1,Foul on Paulani Tarawa.,63,64,-1,0,0.23708537434148508,Long Island University,Merrimack,4,2,1,1,NA,401179176,2020-02-08,
+365,4,0:01,1,1,Courtney Clasen made Free Throw.,63,65,-2,0,0.08806836377885878,Long Island University,Merrimack,4,2,1,1,NA,401179176,2020-02-08,Merrimack
+366,4,0:01,1,1,Courtney Clasen made Free Throw.,63,66,-3,1,0.029136972928700006,Long Island University,Merrimack,4,2,1,1,NA,401179176,2020-02-08,Merrimack
+367,4,0:00,0,0,End of Game,63,66,-3,0,8.75651076269652e-27,Long Island University,Merrimack,4,2,1,1,NA,401179176,2020-02-08,

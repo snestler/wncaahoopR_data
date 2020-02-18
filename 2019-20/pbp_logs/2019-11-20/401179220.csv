@@ -1,0 +1,393 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:54,2394,2394,Foul on Hannah Niles.,0,0,0,7,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,NA
+2,1,9:47,2387,2387,Sarah Edmond made Three Point Jumper. Assisted by Ayonna Williams.,0,3,-3,15,0.43376745930001104,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Howard
+3,1,9:32,2372,2372,Laryn Edwards missed Layup.,0,3,-3,0,0.4332944795908188,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+4,1,9:32,2372,2372,Delaney Connolly Offensive Rebound.,0,3,-3,2,0.4332944795908188,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+5,1,9:30,2370,2370,Delaney Connolly missed Layup.,0,3,-3,0,0.4332310607745658,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+6,1,9:30,2370,2370,Jayla Myles Block.,0,3,-3,0,0.4332310607745658,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+7,1,9:30,2370,2370,Loyola (MD) Deadball Team Rebound.,0,3,-3,17,0.4332310607745658,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+8,1,9:13,2353,2353,Laryn Edwards missed Three Point Jumper.,0,3,-3,0,0.4326887743214508,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+9,1,9:13,2353,2353,Stephanie Karcz Offensive Rebound.,0,3,-3,22,0.4326887743214508,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+10,1,8:51,2331,2331,Foul on Sarah Edmond.,0,3,-3,5,0.43197888401428264,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+11,1,8:46,2326,2326,Hannah Niles missed Layup.,0,3,-3,0,0.4318163477183905,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+12,1,8:46,2326,2326,Krislyn Marsh Block.,0,3,-3,2,0.4318163477183905,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+13,1,8:44,2324,2324,Krislyn Marsh Defensive Rebound.,0,3,-3,6,0.43175121434183966,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+14,1,8:38,2318,2318,Jayla Thornton missed Three Point Jumper.,0,3,-3,0,0.43155541489615606,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+15,1,8:38,2318,2318,Laryn Edwards Defensive Rebound.,0,3,-3,14,0.43155541489615606,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+16,1,8:24,2304,2304,Stephanie Karcz missed Layup.,0,3,-3,0,0.4310963010761886,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+17,1,8:24,2304,2304,Jayla Myles Defensive Rebound.,0,3,-3,9,0.4310963010761886,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+18,1,8:15,2295,2295,Krislyn Marsh Turnover.,0,3,-3,1,0.4307995730338573,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+19,1,8:14,2294,2294,Delaney Connolly Steal.,0,3,-3,12,0.43076652990561287,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+20,1,8:02,2282,2282,Delaney Connolly made Layup.,2,3,-1,0,0.4766548066130588,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+21,1,8:02,2282,2282,Foul on Jayla Myles.,2,3,-1,0,0.4766548066130588,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+22,1,8:02,2282,2282,Delaney Connolly made Free Throw.,3,3,0,13,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+23,1,7:49,2269,2269,Ayonna Williams Turnover.,3,3,0,0,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+24,1,7:49,2269,2269,Stephanie Karcz Steal.,3,3,0,29,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+25,1,7:20,2240,2240,Laryn Edwards Turnover.,3,3,0,2,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+26,1,7:18,2238,2238,Krislyn Marsh Steal.,3,3,0,0,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+27,1,7:18,2238,2238,Krislyn Marsh Turnover.,3,3,0,8,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+28,1,7:10,2230,2230,Stephanie Karcz Turnover.,3,3,0,1,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+29,1,7:09,2229,2229,Brooklyn Fort-Davis Steal.,3,3,0,8,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+30,1,7:01,2221,2221,Ayonna Williams Turnover.,3,3,0,21,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+31,1,6:40,2200,2200,Alexis Gray Turnover.,3,3,0,15,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+32,1,6:25,2185,2185,Sarah Edmond missed Three Point Jumper.,3,3,0,0,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+33,1,6:25,2185,2185,Laryn Edwards Defensive Rebound.,3,3,0,8,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+34,1,6:17,2177,2177,Alexis Gray missed Three Point Jumper.,3,3,0,0,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+35,1,6:17,2177,2177,Hannah Niles Offensive Rebound.,3,3,0,11,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+36,1,6:06,2166,2166,Foul on Brooklyn Fort-Davis.,3,3,0,9,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+37,1,5:57,2157,2157,Alexis Gray missed Layup.,3,3,0,0,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+38,1,5:57,2157,2157,Krislyn Marsh Defensive Rebound.,3,3,0,5,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+39,1,5:52,2152,2152,Ayonna Williams Turnover.,3,3,0,11,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+40,1,5:41,2141,2141,Laryn Edwards missed Layup.,3,3,0,0,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+41,1,5:41,2141,2141,Laryn Edwards Offensive Rebound.,3,3,0,2,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+42,1,5:39,2139,2139,Laryn Edwards missed Jumper.,3,3,0,0,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+43,1,5:39,2139,2139,Krislyn Marsh Defensive Rebound.,3,3,0,6,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+44,1,5:33,2133,2133,Foul on Laryn Edwards.,3,3,0,5,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+45,1,5:28,2128,2128,Ayonna Williams missed Layup.,3,3,0,0,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+46,1,5:28,2128,2128,Ayonna Williams Offensive Rebound.,3,3,0,2,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+47,1,5:26,2126,2126,Foul on Delaney Connolly.,3,3,0,0,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+48,1,5:26,2126,2126,Ayonna Williams made Free Throw.,3,4,-1,0,0.47485363000024927,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Howard
+49,1,5:26,2126,2126,Ayonna Williams made Free Throw.,3,5,-2,16,0.449834147485996,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Howard
+50,1,5:10,2110,2110,Delaney Connolly made Three Point Jumper. Assisted by Hannah Niles.,6,5,1,16,0.5253359611048554,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+51,1,4:54,2094,2094,Brooklyn Fort-Davis made Layup. Assisted by Krislyn Marsh.,6,7,-1,12,0.47447323559535715,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Howard
+52,1,4:42,2082,2082,Delaney Connolly made Layup. Assisted by Laryn Edwards.,8,7,1,13,0.5256707043885878,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+53,1,4:29,2069,2069,Sarah Edmond missed Jumper.,8,7,1,0,0.5258274873158209,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+54,1,4:29,2069,2069,Stephanie Karcz Defensive Rebound.,8,7,1,9,0.5258274873158209,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+55,1,4:20,2060,2060,Laryn Edwards missed Layup.,8,7,1,0,0.5259365650576339,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+56,1,4:20,2060,2060,Jayla Thornton Defensive Rebound.,8,7,1,8,0.5259365650576339,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+57,1,4:12,2052,2052,Jayla Thornton missed Jumper.,8,7,1,0,0.5260339026034504,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+58,1,4:12,2052,2052,Stephanie Karcz Defensive Rebound.,8,7,1,13,0.5260339026034504,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+59,1,3:59,2039,2039,Delaney Connolly missed Three Point Jumper.,8,7,1,0,0.5261928612683224,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+60,1,3:59,2039,2039,Ayonna Williams Defensive Rebound.,8,7,1,6,0.5261928612683224,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+61,1,3:53,2033,2033,Krislyn Marsh made Layup. Assisted by Ayonna Williams.,8,9,-1,22,0.4737334365889509,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Howard
+62,1,3:31,2011,2011,Alexis Gray made Three Point Jumper. Assisted by Delaney Connolly.,11,9,2,5,0.5529282802411927,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+63,1,3:26,2006,2006,Howard  Timeout,11,9,2,0,0.553051780241399,Loyola (MD),Howard,3,4,1,0,NA,401179220,2019-11-20,
+64,1,3:26,2006,2006,Official TV Timeout,11,9,2,18,0.553051780241399,Loyola (MD),Howard,3,4,1,0,NA,401179220,2019-11-20,
+65,1,3:08,1988,1988,Ayonna Williams missed Jumper.,11,9,2,0,0.5534990405979654,Loyola (MD),Howard,3,4,1,0,NA,401179220,2019-11-20,
+66,1,3:08,1988,1988,Krislyn Marsh Offensive Rebound.,11,9,2,8,0.5534990405979654,Loyola (MD),Howard,3,4,1,0,NA,401179220,2019-11-20,
+67,1,3:00,1980,1980,Foul on Imani Bryant.,11,9,2,0,0.5536991954165306,Loyola (MD),Howard,3,4,1,0,NA,401179220,2019-11-20,
+68,1,3:00,1980,1980,Imani Bryant Turnover.,11,9,2,13,0.5536991954165306,Loyola (MD),Howard,3,4,1,0,NA,401179220,2019-11-20,
+69,1,2:47,1967,1967,Emma Glezen missed Layup.,11,9,2,0,0.5540263074499978,Loyola (MD),Howard,3,4,1,0,NA,401179220,2019-11-20,
+70,1,2:47,1967,1967,Imani Bryant Block.,11,9,2,3,0.5540263074499978,Loyola (MD),Howard,3,4,1,0,NA,401179220,2019-11-20,
+71,1,2:44,1964,1964,Gia Thorpe Defensive Rebound.,11,9,2,6,0.5541021283483936,Loyola (MD),Howard,3,4,1,0,NA,401179220,2019-11-20,
+72,1,2:38,1958,1958,Ayonna Williams missed Three Point Jumper.,11,9,2,0,0.554254151929457,Loyola (MD),Howard,3,4,1,0,NA,401179220,2019-11-20,
+73,1,2:38,1958,1958,Stephanie Karcz Defensive Rebound.,11,9,2,6,0.554254151929457,Loyola (MD),Howard,3,4,1,0,NA,401179220,2019-11-20,
+74,1,2:32,1952,1952,Stephanie Karcz Turnover.,11,9,2,3,0.554406690544311,Loyola (MD),Howard,3,4,1,0,NA,401179220,2019-11-20,
+75,1,2:29,1949,1949,Imani Bryant Steal.,11,9,2,8,0.5544831552342676,Loyola (MD),Howard,3,4,1,0,NA,401179220,2019-11-20,
+76,1,2:21,1941,1941,Sarah Edmond Turnover.,11,9,2,16,0.5546877061653551,Loyola (MD),Howard,3,4,0,0,NA,401179220,2019-11-20,
+77,1,2:05,1925,1925,Laryn Edwards missed Jumper.,11,9,2,0,0.5550994240343908,Loyola (MD),Howard,3,4,0,0,NA,401179220,2019-11-20,
+78,1,2:05,1925,1925,Laryn Edwards Offensive Rebound.,11,9,2,20,0.5550994240343908,Loyola (MD),Howard,3,4,0,0,NA,401179220,2019-11-20,
+79,1,1:45,1905,1905,Alexis Gray missed Three Point Jumper.,11,9,2,0,0.5556140519468978,Loyola (MD),Howard,3,4,0,0,NA,401179220,2019-11-20,
+80,1,1:45,1905,1905,Howard Deadball Team Rebound.,11,9,2,23,0.5556140519468978,Loyola (MD),Howard,3,4,0,0,NA,401179220,2019-11-20,
+81,1,1:22,1882,1882,Sarah Edmond made Jumper. Assisted by Krislyn Marsh.,11,11,0,33,0.5,Loyola (MD),Howard,3,4,0,0,NA,401179220,2019-11-20,Howard
+82,1,0:49,1849,1849,Alexis Gray missed Layup.,11,11,0,0,0.5,Loyola (MD),Howard,3,4,0,0,NA,401179220,2019-11-20,
+83,1,0:49,1849,1849,Iyanna Warren Defensive Rebound.,11,11,0,8,0.5,Loyola (MD),Howard,3,4,0,0,NA,401179220,2019-11-20,
+84,1,0:41,1841,1841,Sarah Edmond made Three Point Jumper. Assisted by Iyanna Warren.,11,14,-3,14,0.41457374246929246,Loyola (MD),Howard,3,4,0,0,NA,401179220,2019-11-20,Howard
+85,1,0:27,1827,1827,Emily McAteer missed Layup.,11,14,-3,0,0.41403714544445563,Loyola (MD),Howard,3,4,0,0,NA,401179220,2019-11-20,
+86,1,0:27,1827,1827,Imani Bryant Block.,11,14,-3,0,0.41403714544445563,Loyola (MD),Howard,3,4,0,0,NA,401179220,2019-11-20,
+87,1,0:27,1827,1827,Loyola (MD) Offensive Rebound.,11,14,-3,1,0.41403714544445563,Loyola (MD),Howard,3,4,0,0,NA,401179220,2019-11-20,
+88,1,0:26,1826,1826,Foul on Iyanna Warren.,11,14,-3,0,0.4139987142200684,Loyola (MD),Howard,3,4,0,0,NA,401179220,2019-11-20,
+89,1,0:26,1826,1826,Alexis Gray made Free Throw.,12,14,-2,0,0.44234770370639437,Loyola (MD),Howard,3,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+90,1,0:26,1826,1826,Alexis Gray made Free Throw.,13,14,-1,15,0.47107739760950207,Loyola (MD),Howard,3,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+91,1,0:11,1811,1811,Asia McCants missed Three Point Jumper.,13,14,-1,0,0.4708793537659739,Loyola (MD),Howard,3,4,0,0,NA,401179220,2019-11-20,
+92,1,0:11,1811,1811,Bri Rozzi Defensive Rebound.,13,14,-1,9,0.4708793537659739,Loyola (MD),Howard,3,4,0,0,NA,401179220,2019-11-20,
+93,1,0:02,1802,1802,Bri Rozzi Turnover.,13,14,-1,2,0.4707598326384926,Loyola (MD),Howard,3,4,0,0,NA,401179220,2019-11-20,
+94,1,0:00,1800,1800,End of 1st Quarter,13,14,-1,8,0.47073319422403154,Loyola (MD),Howard,3,4,0,0,NA,401179220,2019-11-20,
+95,2,9:52,1792,1792,Imani Bryant Turnover.,13,14,-1,2,0.47062633668484394,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+96,2,9:50,1790,1790,Emma Glezen Steal.,13,14,-1,13,0.47059954322747266,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+97,2,9:37,1777,1777,Ava Therien made Layup. Assisted by Emma Glezen.,15,14,1,19,0.5295754431710045,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+98,2,9:18,1758,1758,Asia McCants Turnover.,15,14,1,15,0.5298340442120397,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+99,2,9:03,1743,1743,Foul on Sarah Edmond.,15,14,1,8,0.5300409046759667,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+100,2,8:55,1735,1735,Bri Rozzi Turnover.,15,14,1,1,0.53015230483358,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+101,2,8:54,1734,1734,Krislyn Marsh Steal.,15,14,1,18,0.5301662852038762,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+102,2,8:36,1716,1716,Gia Thorpe missed Three Point Jumper.,15,14,1,0,0.5304201544339168,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+103,2,8:36,1716,1716,Emma Glezen Defensive Rebound.,15,14,1,10,0.5304201544339168,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+104,2,8:26,1706,1706,Foul on Asia McCants.,15,14,1,0,0.5305631173788335,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+105,2,8:26,1706,1706,Emma Glezen made Free Throw.,16,14,2,0,0.5608986918759065,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+106,2,8:26,1706,1706,Emma Glezen made Free Throw.,17,14,3,13,0.5907859067741592,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+107,2,8:13,1693,1693,Krislyn Marsh made Layup. Assisted by Gia Thorpe.,17,16,1,10,0.5307511825321546,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Howard
+108,2,8:03,1683,1683,Emily McAteer made Three Point Jumper. Assisted by Emma Glezen.,20,16,4,18,0.6212783190930349,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+109,2,7:45,1665,1665,Jayla Thornton missed Three Point Jumper.,20,16,4,0,0.622248588705112,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+110,2,7:45,1665,1665,Emily McAteer Defensive Rebound.,20,16,4,8,0.622248588705112,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+111,2,7:37,1657,1657,Delaney Connolly missed Three Point Jumper.,20,16,4,0,0.6226724756843586,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+112,2,7:37,1657,1657,Iyanna Warren Defensive Rebound.,20,16,4,7,0.6226724756843586,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+113,2,7:30,1650,1650,Iyanna Warren Turnover.,20,16,4,1,0.623040273662221,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+114,2,7:29,1649,1649,Delaney Connolly Steal.,20,16,4,5,0.6230926020775627,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+115,2,7:24,1644,1644,Emily McAteer made Layup. Assisted by Bri Rozzi.,22,16,6,24,0.6804216251153631,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+116,2,7:00,1620,1620,Jayla Thornton made Three Point Jumper. Assisted by Gia Thorpe.,22,19,3,9,0.5943108472953167,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Howard
+117,2,6:51,1611,1611,Ava Therien missed Jumper.,22,19,3,0,0.594666265872989,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+118,2,6:51,1611,1611,Imani Bryant Defensive Rebound.,22,19,3,6,0.594666265872989,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+119,2,6:45,1605,1605,Foul on Gia Thorpe.,22,19,3,0,0.5949028375599695,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+120,2,6:45,1605,1605,Gia Thorpe Turnover.,22,19,3,14,0.5949028375599695,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+121,2,6:31,1591,1591,Alexis Gray missed Three Point Jumper.,22,19,3,0,0.5954547533434028,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+122,2,6:31,1591,1591,Krislyn Marsh Defensive Rebound.,22,19,3,3,0.5954547533434028,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+123,2,6:28,1588,1588,Foul on Bri Rozzi.,22,19,3,28,0.5955731612533735,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+124,2,6:00,1560,1560,Imani Bryant made Layup. Assisted by Iyanna Warren.,22,21,1,14,0.5325933019865038,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Howard
+125,2,5:46,1546,1546,Foul on Jayla Thornton.,22,21,1,18,0.5327881503672952,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+126,2,5:28,1528,1528,Bri Rozzi Turnover.,22,21,1,10,0.5330432754334644,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+127,2,5:18,1518,1518,Foul on Stephanie Karcz.,22,21,1,4,0.5331877880822729,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+128,2,5:14,1514,1514,Krislyn Marsh made Layup. Assisted by Gia Thorpe.,22,23,-1,17,0.4667537696524527,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Howard
+129,2,4:57,1497,1497,Bri Rozzi missed Three Point Jumper.,22,23,-1,0,0.4665008221178921,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+130,2,4:57,1497,1497,Imani Bryant Defensive Rebound.,22,23,-1,12,0.4665008221178921,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+131,2,4:45,1485,1485,Jayla Thornton missed Three Point Jumper.,22,23,-1,0,0.46631729349779,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+132,2,4:45,1485,1485,Alexis Gray Defensive Rebound.,22,23,-1,9,0.46631729349779,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+133,2,4:36,1476,1476,Bri Rozzi made Three Point Jumper. Assisted by Alexis Gray.,25,23,2,10,0.5673386212780474,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+134,2,4:26,1466,1466,Official TV Timeout,25,23,2,3,0.567653501260949,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+135,2,4:23,1463,1463,Brooklyn Fort-Davis missed Layup.,25,23,2,0,0.5677493772119581,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+136,2,4:23,1463,1463,Ayonna Williams Offensive Rebound.,25,23,2,2,0.5677493772119581,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+137,2,4:21,1461,1461,Ayonna Williams made Layup.,25,25,0,16,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Howard
+138,2,4:05,1445,1445,Delaney Connolly made Layup. Assisted by Alexis Gray.,27,25,2,16,0.5683373723637162,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+139,2,3:49,1429,1429,Foul on Stephanie Karcz.,27,25,2,12,0.5688521339174273,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+140,2,3:37,1417,1417,Ayonna Williams missed Layup.,27,25,2,0,0.5692282981425869,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+141,2,3:37,1417,1417,Ayonna Williams Offensive Rebound.,27,25,2,17,0.5692282981425869,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+142,2,3:20,1400,1400,Foul on Hannah Niles.,27,25,2,0,0.5697502391090505,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+143,2,3:20,1400,1400,Krislyn Marsh missed Free Throw.,27,25,2,0,0.5697502391090505,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+144,2,3:20,1400,1400,Howard Deadball Team Rebound.,27,25,2,0,0.5697502391090505,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+145,2,3:20,1400,1400,Krislyn Marsh missed Free Throw.,27,25,2,0,0.5697502391090505,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+146,2,3:20,1400,1400,Delaney Connolly Defensive Rebound.,27,25,2,17,0.5697502391090505,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+147,2,3:03,1383,1383,Stephanie Karcz missed Layup.,27,25,2,0,0.5702636154024955,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+148,2,3:03,1383,1383,Stephanie Karcz Offensive Rebound.,27,25,2,1,0.5702636154024955,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+149,2,3:02,1382,1382,Stephanie Karcz missed Layup.,27,25,2,0,0.5702936486915247,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+150,2,3:02,1382,1382,Krislyn Marsh Defensive Rebound.,27,25,2,8,0.5702936486915247,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+151,2,2:54,1374,1374,Gia Thorpe made Layup. Assisted by Ayonna Williams.,27,27,0,0,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Howard
+152,2,2:54,1374,1374,Foul on Hannah Niles.,27,27,0,0,0.5,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+153,2,2:54,1374,1374,Gia Thorpe made Free Throw.,27,28,-1,4,0.46455600323378965,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Howard
+154,2,2:50,1370,1370,Alexis Gray Turnover.,27,28,-1,2,0.46449518583752314,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+155,2,2:48,1368,1368,Gia Thorpe Steal.,27,28,-1,12,0.4644647799960289,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+156,2,2:36,1356,1356,Gia Thorpe missed Layup.,27,28,-1,0,0.4642821382732112,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+157,2,2:36,1356,1356,Emma Glezen Defensive Rebound.,27,28,-1,17,0.4642821382732112,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+158,2,2:19,1339,1339,Laryn Edwards Turnover.,27,28,-1,14,0.46402154290519043,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+159,2,2:05,1325,1325,Krislyn Marsh missed Jumper.,27,28,-1,0,0.46380378206572137,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+160,2,2:05,1325,1325,Krislyn Marsh Offensive Rebound.,27,28,-1,3,0.46380378206572137,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,
+161,2,2:02,1322,1322,Krislyn Marsh made Jumper.,27,30,-3,18,0.3927696587195316,Loyola (MD),Howard,4,4,0,0,NA,401179220,2019-11-20,Howard
+162,2,1:44,1304,1304,Emma Glezen Turnover.,27,30,-3,0,0.3919415435079427,Loyola (MD),Howard,4,4,0,1,NA,401179220,2019-11-20,
+163,2,1:44,1304,1304,Loyola (MD)  Timeout,27,30,-3,10,0.3919415435079427,Loyola (MD),Howard,4,3,0,1,NA,401179220,2019-11-20,
+164,2,1:34,1294,1294,Krislyn Marsh missed Layup.,27,30,-3,0,0.39146931202874896,Loyola (MD),Howard,4,3,0,1,NA,401179220,2019-11-20,
+165,2,1:34,1294,1294,Delaney Connolly Defensive Rebound.,27,30,-3,25,0.39146931202874896,Loyola (MD),Howard,4,3,0,1,NA,401179220,2019-11-20,
+166,2,1:09,1269,1269,Laryn Edwards made Layup. Assisted by Delaney Connolly.,29,30,-1,8,0.4628764656547605,Loyola (MD),Howard,4,3,0,1,NA,401179220,2019-11-20,Loyola (MD)
+167,2,1:01,1261,1261,Jayla Thornton missed Three Point Jumper.,29,30,-1,0,0.4627333887289013,Loyola (MD),Howard,4,3,0,1,NA,401179220,2019-11-20,
+168,2,1:01,1261,1261,Brooklyn Fort-Davis Offensive Rebound.,29,30,-1,3,0.4627333887289013,Loyola (MD),Howard,4,3,0,1,NA,401179220,2019-11-20,
+169,2,0:58,1258,1258,Brooklyn Fort-Davis Turnover.,29,30,-1,0,0.46267887145318215,Loyola (MD),Howard,4,3,0,1,NA,401179220,2019-11-20,
+170,2,0:58,1258,1258,Foul on Brooklyn Fort-Davis.,29,30,-1,24,0.46267887145318215,Loyola (MD),Howard,4,3,0,1,NA,401179220,2019-11-20,
+171,2,0:34,1234,1234,Delaney Connolly Turnover.,29,30,-1,12,0.4622239331614002,Loyola (MD),Howard,4,3,0,0,NA,401179220,2019-11-20,
+172,2,0:22,1222,1222,Foul on Delaney Connolly.,29,30,-1,0,0.46198256019369394,Loyola (MD),Howard,4,3,0,0,NA,401179220,2019-11-20,
+173,2,0:22,1222,1222,Brooklyn Fort-Davis made Free Throw.,29,31,-2,0,0.4244021743175779,Loyola (MD),Howard,4,3,0,0,NA,401179220,2019-11-20,Howard
+174,2,0:22,1222,1222,Brooklyn Fort-Davis made Free Throw.,29,32,-3,15,0.38767602698417963,Loyola (MD),Howard,4,3,0,0,NA,401179220,2019-11-20,Howard
+175,2,0:07,1207,1207,Laryn Edwards missed Three Point Jumper.,29,32,-3,0,0.38677137772773545,Loyola (MD),Howard,4,3,0,0,NA,401179220,2019-11-20,
+176,2,0:07,1207,1207,Asia McCants Defensive Rebound.,29,32,-3,6,0.38677137772773545,Loyola (MD),Howard,4,3,0,0,NA,401179220,2019-11-20,
+177,2,0:01,1201,1201,Asia McCants Turnover.,29,32,-3,0,0.38640798088719136,Loyola (MD),Howard,4,3,0,0,NA,401179220,2019-11-20,
+178,2,0:01,1201,1201,Laryn Edwards Steal.,29,32,-3,1,0.38640798088719136,Loyola (MD),Howard,4,3,0,0,NA,401179220,2019-11-20,
+179,2,0:00,1200,1200,Laryn Edwards missed Three Point Jumper.,29,32,-3,0,0.38634786325026177,Loyola (MD),Howard,4,3,0,0,NA,401179220,2019-11-20,
+180,2,0:00,1200,1200,Loyola (MD) Deadball Team Rebound.,29,32,-3,0,0.38634786325026177,Loyola (MD),Howard,4,3,0,0,NA,401179220,2019-11-20,
+181,2,0:00,1200,1200,End of 2nd Quarter,29,32,-3,22,0.38634786325026177,Loyola (MD),Howard,4,3,0,0,NA,401179220,2019-11-20,
+182,3,9:38,1178,1178,Ayonna Williams missed Three Point Jumper.,29,32,-3,0,0.38505290147776383,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+183,3,9:38,1178,1178,Alexis Gray Defensive Rebound.,29,32,-3,27,0.38505290147776383,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+184,3,9:11,1151,1151,Stephanie Karcz missed Layup.,29,32,-3,0,0.38351432041914235,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+185,3,9:11,1151,1151,Jayla Myles Defensive Rebound.,29,32,-3,11,0.38351432041914235,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+186,3,9:00,1140,1140,Krislyn Marsh missed Layup.,29,32,-3,0,0.38289536718948036,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+187,3,9:00,1140,1140,Delaney Connolly Defensive Rebound.,29,32,-3,12,0.38289536718948036,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+188,3,8:48,1128,1128,Delaney Connolly made Three Point Jumper. Assisted by Alexis Gray.,32,32,0,11,0.5,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+189,3,8:37,1117,1117,Jayla Thornton missed Three Point Jumper.,32,32,0,0,0.5,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+190,3,8:37,1117,1117,Jayla Myles Offensive Rebound.,32,32,0,6,0.5,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+191,3,8:31,1111,1111,Jayla Myles missed Layup.,32,32,0,0,0.5,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+192,3,8:31,1111,1111,Stephanie Karcz Block.,32,32,0,1,0.5,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+193,3,8:30,1110,1110,Stephanie Karcz Defensive Rebound.,32,32,0,8,0.5,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+194,3,8:22,1102,1102,Stephanie Karcz missed Layup.,32,32,0,0,0.5,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+195,3,8:22,1102,1102,Jayla Myles Defensive Rebound.,32,32,0,5,0.5,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+196,3,8:17,1097,1097,Jayla Thornton Turnover.,32,32,0,0,0.5,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+197,3,8:17,1097,1097,Laryn Edwards Steal.,32,32,0,3,0.5,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+198,3,8:14,1094,1094,Laryn Edwards missed Layup.,32,32,0,0,0.5,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+199,3,8:14,1094,1094,Laryn Edwards Offensive Rebound.,32,32,0,19,0.5,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+200,3,7:55,1075,1075,Stephanie Karcz made Layup. Assisted by Hannah Niles.,34,32,2,18,0.5814487628445203,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+201,3,7:37,1057,1057,Jayla Thornton missed Three Point Jumper.,34,32,2,0,0.5822063562177799,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+202,3,7:37,1057,1057,Loyola (MD) Defensive Rebound.,34,32,2,13,0.5822063562177799,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+203,3,7:24,1044,1044,Foul on Krislyn Marsh.,34,32,2,5,0.5827746397311826,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+204,3,7:19,1039,1039,Foul on Jayla Myles.,34,32,2,8,0.58299864160805,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+205,3,7:11,1031,1031,Laryn Edwards Turnover.,34,32,2,1,0.5833639138585995,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+206,3,7:10,1030,1030,Gia Thorpe Steal.,34,32,2,2,0.5834101949505742,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+207,3,7:08,1028,1028,Sarah Edmond Turnover.,34,32,2,8,0.5835031862925598,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+208,3,7:00,1020,1020,Alexis Gray Turnover.,34,32,2,13,0.5838810662887756,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+209,3,6:47,1007,1007,Ayonna Williams Turnover.,34,32,2,25,0.5845166771410272,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+210,3,6:22,982,982,Hannah Niles Turnover.,34,32,2,1,0.5858235445853781,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+211,3,6:21,981,981,Gia Thorpe Steal.,34,32,2,3,0.5858783535073853,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+212,3,6:18,978,978,Ayonna Williams made Layup. Assisted by Gia Thorpe.,34,34,0,12,0.5,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,Howard
+213,3,6:06,966,966,Delaney Connolly missed Three Point Jumper.,34,34,0,0,0.5,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+214,3,6:06,966,966,Hannah Niles Offensive Rebound.,34,34,0,5,0.5,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+215,3,6:01,961,961,Laryn Edwards made Three Point Jumper. Assisted by Hannah Niles.,37,34,3,25,0.6288643222405085,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+216,3,5:36,936,936,Krislyn Marsh Turnover.,37,34,3,1,0.6306999429139066,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+217,3,5:35,935,935,Stephanie Karcz Steal.,37,34,3,4,0.6307687846021681,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+218,3,5:31,931,931,Stephanie Karcz missed Layup.,37,34,3,0,0.631041195018445,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+219,3,5:31,931,931,Ayonna Williams Defensive Rebound.,37,34,3,7,0.631041195018445,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+220,3,5:24,924,924,Ayonna Williams Turnover.,37,34,3,7,0.6315074049876971,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+221,3,5:17,917,917,Alexis Gray missed Three Point Jumper.,37,34,3,0,0.631961906050482,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+222,3,5:17,917,917,Howard Defensive Rebound.,37,34,3,18,0.631961906050482,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+223,3,4:59,899,899,Imani Bryant missed Jumper.,37,34,3,0,0.6330904131020444,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+224,3,4:59,899,899,Stephanie Karcz Defensive Rebound.,37,34,3,4,0.6330904131020444,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+225,3,4:55,895,895,Foul on Ayonna Williams.,37,34,3,0,0.633335724999105,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+226,3,4:55,895,895,Official TV Timeout,37,34,3,19,0.633335724999105,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+227,3,4:36,876,876,Laryn Edwards Turnover.,37,34,3,1,0.63449056833075,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+228,3,4:35,875,875,Imani Bryant Steal.,37,34,3,1,0.6345513218766503,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+229,3,4:34,874,874,Ayonna Williams Turnover.,37,34,3,1,0.6346121117637494,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+230,3,4:33,873,873,Laryn Edwards Steal.,37,34,3,4,0.6346729435704266,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+231,3,4:29,869,869,Laryn Edwards Turnover.,37,34,3,15,0.6349168015046496,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+232,3,4:14,854,854,Brooklyn Fort-Davis made Layup. Assisted by Sarah Edmond.,37,36,1,12,0.5463144710756004,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,Howard
+233,3,4:02,842,842,Hannah Niles made Layup. Assisted by Stephanie Karcz.,39,36,3,4,0.6366098816460054,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+234,3,3:58,838,838,Imani Bryant Turnover.,39,36,3,24,0.6368716891785073,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+235,3,3:34,814,814,Foul on Imani Bryant.,39,36,3,0,0.6385360415173226,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+236,3,3:34,814,814,Hannah Niles made Free Throw.,40,36,4,0,0.6810687541755082,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+237,3,3:34,814,814,Hannah Niles made Free Throw.,41,36,5,12,0.7207851688633232,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+238,3,3:22,802,802,Sarah Edmond made Three Point Jumper. Assisted by Ayonna Williams.,41,39,2,25,0.5943477202544699,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,Howard
+239,3,2:57,777,777,Hannah Niles missed Three Point Jumper.,41,39,2,0,0.5958166360586643,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+240,3,2:57,777,777,Sarah Edmond Defensive Rebound.,41,39,2,9,0.5958166360586643,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+241,3,2:48,768,768,Foul on Alexis Gray.,41,39,2,2,0.5964041681892613,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+242,3,2:46,766,766,Sarah Edmond missed Three Point Jumper.,41,39,2,0,0.5965394553219532,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+243,3,2:46,766,766,Imani Bryant Offensive Rebound.,41,39,2,13,0.5965394553219532,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+244,3,2:33,753,753,Foul on Laryn Edwards.,41,39,2,3,0.5974636545064567,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+245,3,2:30,750,750,Foul on Delaney Connolly.,41,39,2,2,0.597688511502826,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+246,3,2:28,748,748,Ayonna Williams Turnover.,41,39,2,4,0.5978409419188342,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+247,3,2:24,744,744,Foul on Ayonna Williams.,41,39,2,0,0.5981520000594602,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+248,3,2:24,744,744,Stephanie Karcz made Free Throw.,42,39,3,0,0.6448909923487225,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+249,3,2:24,744,744,Stephanie Karcz made Free Throw.,43,39,4,7,0.6890200627675009,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+250,3,2:17,737,737,Gia Thorpe missed Three Point Jumper.,43,39,4,0,0.6900264768726121,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+251,3,2:17,737,737,Stephanie Karcz Defensive Rebound.,43,39,4,4,0.6900264768726121,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+252,3,2:13,733,733,Foul on Gia Thorpe.,43,39,4,0,0.6906225587684166,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+253,3,2:13,733,733,Stephanie Karcz made Free Throw.,44,39,5,0,0.7318029441078894,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+254,3,2:13,733,733,Stephanie Karcz missed Free Throw.,44,39,5,0,0.7318029441078894,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+255,3,2:13,733,733,Emily McAteer Offensive Rebound.,44,39,5,4,0.7318029441078894,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+256,3,2:09,729,729,Delaney Connolly made Layup. Assisted by Emily McAteer.,46,39,7,6,0.8038147719613055,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+257,3,2:03,723,723,Foul on Bri Rozzi.,46,39,7,10,0.804969485170292,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+258,3,1:53,713,713,Foul on Stephanie Karcz.,46,39,7,0,0.806772893022527,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+259,3,1:53,713,713,Imani Bryant made Free Throw.,46,40,6,0,0.7729436619358782,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,Howard
+260,3,1:53,713,713,Imani Bryant missed Free Throw.,46,40,6,0,0.7729436619358782,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+261,3,1:53,713,713,Delaney Connolly Defensive Rebound.,46,40,6,11,0.7729436619358782,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+262,3,1:42,702,702,Stephanie Karcz missed Layup.,46,40,6,0,0.7747175755426331,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+263,3,1:42,702,702,Sarah Edmond Defensive Rebound.,46,40,6,6,0.7747175755426331,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+264,3,1:36,696,696,Gia Thorpe made Layup. Assisted by Sarah Edmond.,46,42,4,25,0.6957074103634493,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,Howard
+265,3,1:11,671,671,Bri Rozzi missed Three Point Jumper.,46,42,4,0,0.6986150706058066,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+266,3,1:11,671,671,Krislyn Marsh Defensive Rebound.,46,42,4,10,0.6986150706058066,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+267,3,1:01,661,661,Imani Bryant made Layup. Assisted by Sarah Edmond.,46,44,2,21,0.6042063416531687,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,Howard
+268,3,0:40,640,640,Bri Rozzi missed Jumper.,46,44,2,0,0.605569986373049,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+269,3,0:40,640,640,Imani Bryant Defensive Rebound.,46,44,2,2,0.605569986373049,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+270,3,0:38,638,638,Foul on Bri Rozzi.,46,44,2,0,0.6057042086192898,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+271,3,0:38,638,638,Imani Bryant made Free Throw.,46,45,1,0,0.5534562180794063,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,Howard
+272,3,0:38,638,638,Imani Bryant missed Free Throw.,46,45,1,0,0.5534562180794063,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+273,3,0:38,638,638,Delaney Connolly Defensive Rebound.,46,45,1,23,0.5534562180794063,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+274,3,0:15,615,615,Bri Rozzi made Three Point Jumper. Assisted by Delaney Connolly.,49,45,4,14,0.7052363638501313,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+275,3,0:01,601,601,Iyanna Warren made Jumper.,49,47,2,1,0.6084748145175315,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,Howard
+276,3,0:00,600,600,End of 3rd Quarter,49,47,2,10,0.6085599051970726,Loyola (MD),Howard,5,4,0,0,NA,401179220,2019-11-20,
+277,4,9:50,590,590,Delaney Connolly missed Three Point Jumper.,49,47,2,0,0.6094494884371889,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+278,4,9:50,590,590,Krislyn Marsh Defensive Rebound.,49,47,2,4,0.6094494884371889,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+279,4,9:46,586,586,Krislyn Marsh Turnover.,49,47,2,0,0.6098264545977161,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+280,4,9:46,586,586,Alexis Gray Steal.,49,47,2,3,0.6098264545977161,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+281,4,9:43,583,583,Alexis Gray Turnover.,49,47,2,1,0.6101177158867992,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+282,4,9:42,582,582,Imani Bryant Steal.,49,47,2,5,0.6102164837207776,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+283,4,9:37,577,577,Gia Thorpe Turnover.,49,47,2,1,0.6107233890979671,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+284,4,9:36,576,576,Delaney Connolly Steal.,49,47,2,14,0.610827454962585,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+285,4,9:22,562,562,Laryn Edwards Turnover.,49,47,2,1,0.6123854738767276,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+286,4,9:21,561,561,Krislyn Marsh Steal.,49,47,2,6,0.6125043879582918,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+287,4,9:15,555,555,Sarah Edmond made Jumper. Assisted by Gia Thorpe.,49,49,0,17,0.5,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,Howard
+288,4,8:58,538,538,Bri Rozzi missed Three Point Jumper.,49,49,0,0,0.5,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+289,4,8:58,538,538,Krislyn Marsh Defensive Rebound.,49,49,0,5,0.5,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+290,4,8:53,533,533,Foul on Emily McAteer.,49,49,0,27,0.5,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+291,4,8:26,506,506,Sarah Edmond made Three Point Jumper. Assisted by Iyanna Warren.,49,52,-3,19,0.3262201265695789,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,Howard
+292,4,8:07,487,487,Alexis Gray made Three Point Jumper. Assisted by Emily McAteer.,52,52,0,14,0.5,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,Loyola (MD)
+293,4,7:53,473,473,Sarah Edmond missed Jumper.,52,52,0,0,0.5,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+294,4,7:53,473,473,Howard Deadball Team Rebound.,52,52,0,1,0.5,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+295,4,7:52,472,472,Foul on Bri Rozzi.,52,52,0,3,0.5,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+296,4,7:49,469,469,Krislyn Marsh made Layup. Assisted by Iyanna Warren.,52,54,-2,19,0.37765872971610065,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,Howard
+297,4,7:30,450,450,Delaney Connolly missed Jumper.,52,54,-2,0,0.3751497236622345,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+298,4,7:30,450,450,Imani Bryant Defensive Rebound.,52,54,-2,11,0.3751497236622345,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+299,4,7:19,439,439,Foul on Delaney Connolly.,52,54,-2,0,0.3733835819543717,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+300,4,7:19,439,439,Sarah Edmond missed Free Throw.,52,54,-2,0,0.3733835819543717,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+301,4,7:19,439,439,Howard Deadball Team Rebound.,52,54,-2,0,0.3733835819543717,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,
+302,4,7:19,439,439,Sarah Edmond made Free Throw.,52,55,-3,0,0.31505474924134574,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,Howard
+303,4,7:19,439,439,Sarah Edmond made Free Throw.,52,56,-4,3,0.2620275895637998,Loyola (MD),Howard,6,5,0,0,NA,401179220,2019-11-20,Howard
+304,4,7:16,436,436,Loyola (MD)  Timeout,52,56,-4,0,0.261152521693534,Loyola (MD),Howard,6,4,0,1,NA,401179220,2019-11-20,
+305,4,7:16,436,436,Official TV Timeout,52,56,-4,1,0.261152521693534,Loyola (MD),Howard,6,4,0,1,NA,401179220,2019-11-20,
+306,4,7:15,435,435,Stephanie Karcz Turnover.,52,56,-4,1,0.26085299634942094,Loyola (MD),Howard,6,4,0,1,NA,401179220,2019-11-20,
+307,4,7:14,434,434,Ayonna Williams Steal.,52,56,-4,2,0.2605494678236337,Loyola (MD),Howard,6,4,0,1,NA,401179220,2019-11-20,
+308,4,7:12,432,432,Ayonna Williams made Layup.,52,58,-6,26,0.17228810078157478,Loyola (MD),Howard,6,4,0,1,NA,401179220,2019-11-20,Howard
+309,4,6:46,406,406,Emily McAteer missed Three Point Jumper.,52,58,-6,0,0.1637718893222671,Loyola (MD),Howard,6,4,0,1,NA,401179220,2019-11-20,
+310,4,6:46,406,406,Howard Defensive Rebound.,52,58,-6,17,0.1637718893222671,Loyola (MD),Howard,6,4,0,1,NA,401179220,2019-11-20,
+311,4,6:29,389,389,Imani Bryant made Layup. Assisted by Krislyn Marsh.,52,60,-8,18,0.09766241735032152,Loyola (MD),Howard,6,4,0,1,NA,401179220,2019-11-20,Howard
+312,4,6:11,371,371,Alexis Gray Turnover.,52,60,-8,1,0.09296315010096844,Loyola (MD),Howard,6,4,0,0,NA,401179220,2019-11-20,
+313,4,6:10,370,370,Sarah Edmond Steal.,52,60,-8,5,0.09269525920241876,Loyola (MD),Howard,6,4,0,0,NA,401179220,2019-11-20,
+314,4,6:05,365,365,Sarah Edmond Turnover.,52,60,-8,1,0.0913381018150501,Loyola (MD),Howard,6,4,0,0,NA,401179220,2019-11-20,
+315,4,6:04,364,364,Stephanie Karcz Steal.,52,60,-8,2,0.09106275742604121,Loyola (MD),Howard,6,4,0,0,NA,401179220,2019-11-20,
+316,4,6:02,362,362,Emily McAteer made Layup. Assisted by Stephanie Karcz.,54,60,-6,22,0.1505123453224983,Loyola (MD),Howard,6,4,0,0,NA,401179220,2019-11-20,Loyola (MD)
+317,4,5:40,340,340,Ayonna Williams missed Jumper.,54,60,-6,0,0.14274762124074442,Loyola (MD),Howard,6,4,0,0,NA,401179220,2019-11-20,
+318,4,5:40,340,340,Imani Bryant Offensive Rebound.,54,60,-6,18,0.14274762124074442,Loyola (MD),Howard,6,4,0,0,NA,401179220,2019-11-20,
+319,4,5:22,322,322,Foul on Emily McAteer.,54,60,-6,0,0.13523139880942453,Loyola (MD),Howard,6,4,0,0,NA,401179220,2019-11-20,
+320,4,5:22,322,322,Krislyn Marsh made Free Throw.,54,61,-7,0,0.10296365245304637,Loyola (MD),Howard,6,4,0,0,NA,401179220,2019-11-20,Howard
+321,4,5:22,322,322,Krislyn Marsh made Free Throw.,54,62,-8,9,0.07770352472637035,Loyola (MD),Howard,6,4,0,0,NA,401179220,2019-11-20,Howard
+322,4,5:13,313,313,Loyola (MD)  Timeout,54,62,-8,0,0.07427077320557296,Loyola (MD),Howard,6,3,0,1,NA,401179220,2019-11-20,
+323,4,5:13,313,313,Official TV Timeout,54,62,-8,10,0.07427077320557296,Loyola (MD),Howard,6,3,0,1,NA,401179220,2019-11-20,
+324,4,5:03,303,303,Emily McAteer missed Layup.,54,62,-8,0,0.0708514045246477,Loyola (MD),Howard,6,3,0,1,NA,401179220,2019-11-20,
+325,4,5:03,303,303,Imani Bryant Block.,54,62,-8,1,0.0708514045246477,Loyola (MD),Howard,6,3,0,1,NA,401179220,2019-11-20,
+326,4,5:02,302,302,Imani Bryant Defensive Rebound.,54,62,-8,16,0.07062107524670334,Loyola (MD),Howard,6,3,0,1,NA,401179220,2019-11-20,
+327,4,4:46,286,286,Foul on Emily McAteer.,54,62,-8,0,0.06923718589639517,Loyola (MD),Howard,6,3,0,1,NA,401179220,2019-11-20,
+328,4,4:46,286,286,Krislyn Marsh made Free Throw.,54,63,-9,0,0.05101493186650163,Loyola (MD),Howard,6,3,0,1,NA,401179220,2019-11-20,Howard
+329,4,4:46,286,286,Krislyn Marsh missed Free Throw.,54,63,-9,0,0.05101493186650163,Loyola (MD),Howard,6,3,0,1,NA,401179220,2019-11-20,
+330,4,4:46,286,286,Delaney Connolly Defensive Rebound.,54,63,-9,16,0.05101493186650163,Loyola (MD),Howard,6,3,0,1,NA,401179220,2019-11-20,
+331,4,4:30,270,270,Delaney Connolly missed Three Point Jumper.,54,63,-9,0,0.05231110542023868,Loyola (MD),Howard,6,3,0,1,NA,401179220,2019-11-20,
+332,4,4:30,270,270,Laryn Edwards Offensive Rebound.,54,63,-9,4,0.05231110542023868,Loyola (MD),Howard,6,3,0,1,NA,401179220,2019-11-20,
+333,4,4:26,266,266,Emily McAteer made Layup. Assisted by Laryn Edwards.,56,63,-7,0,0.09579059951266951,Loyola (MD),Howard,6,3,0,1,NA,401179220,2019-11-20,Loyola (MD)
+334,4,4:26,266,266,Foul on Krislyn Marsh.,56,63,-7,0,0.09579059951266951,Loyola (MD),Howard,6,3,0,1,NA,401179220,2019-11-20,
+335,4,4:26,266,266,Emily McAteer missed Free Throw.,56,63,-7,0,0.09579059951266951,Loyola (MD),Howard,6,3,0,1,NA,401179220,2019-11-20,
+336,4,4:26,266,266,Krislyn Marsh Defensive Rebound.,56,63,-7,13,0.09579059951266951,Loyola (MD),Howard,6,3,0,1,NA,401179220,2019-11-20,
+337,4,4:13,253,253,Sarah Edmond Turnover.,56,63,-7,1,0.09817100327307872,Loyola (MD),Howard,6,3,0,1,NA,401179220,2019-11-20,
+338,4,4:12,252,252,Emily McAteer Steal.,56,63,-7,4,0.0983356261295736,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+339,4,4:08,248,248,Laryn Edwards missed Layup.,56,63,-7,0,0.0989325253571335,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+340,4,4:08,248,248,Emily McAteer Offensive Rebound.,56,63,-7,10,0.0989325253571335,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+341,4,3:58,238,238,Alexis Gray missed Jumper.,56,63,-7,0,0.09978326043300241,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+342,4,3:58,238,238,Alexis Gray Offensive Rebound.,56,63,-7,3,0.09978326043300241,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+343,4,3:55,235,235,Laryn Edwards made Three Point Jumper. Assisted by Alexis Gray.,59,63,-4,21,0.22151336396521662,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,Loyola (MD)
+344,4,3:34,214,214,Gia Thorpe made Three Point Jumper. Assisted by Sarah Edmond.,59,66,-7,16,0.09513818185360644,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,Howard
+345,4,3:18,198,198,Stephanie Karcz made Free Throw.,60,66,-6,0,0.11495675487271005,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,Loyola (MD)
+346,4,3:18,198,198,Foul on Brooklyn Fort-Davis.,60,66,-6,1,0.11495675487271005,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+347,4,3:17,197,197,Stephanie Karcz made Layup. Assisted by Alexis Gray.,62,66,-4,16,0.20307779258419437,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,Loyola (MD)
+348,4,3:01,181,181,Gia Thorpe made Three Point Jumper. Assisted by Ayonna Williams.,62,69,-7,17,0.06814790716685107,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,Howard
+349,4,2:44,164,164,Laryn Edwards missed Three Point Jumper.,62,69,-7,0,0.053411775614016103,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+350,4,2:44,164,164,Stephanie Karcz Offensive Rebound.,62,69,-7,7,0.053411775614016103,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+351,4,2:37,157,157,Laryn Edwards missed Layup.,62,69,-7,0,0.0479366575357651,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+352,4,2:37,157,157,Ayonna Williams Defensive Rebound.,62,69,-7,7,0.0479366575357651,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+353,4,2:30,150,150,Ayonna Williams Turnover.,62,69,-7,0,0.042753707929594736,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+354,4,2:30,150,150,Stephanie Karcz Steal.,62,69,-7,3,0.042753707929594736,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+355,4,2:27,147,147,Laryn Edwards made Layup. Assisted by Stephanie Karcz.,64,69,-5,1,0.09460742290192886,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,Loyola (MD)
+356,4,2:26,146,146,Foul on Gia Thorpe.,64,69,-5,0,0.09350368878388579,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+357,4,2:26,146,146,Laryn Edwards made Free Throw.,65,69,-4,22,0.13976191110736993,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,Loyola (MD)
+358,4,2:04,124,124,Ayonna Williams missed Layup.,65,69,-4,0,0.1118594592650673,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+359,4,2:04,124,124,Laryn Edwards Defensive Rebound.,65,69,-4,17,0.1118594592650673,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+360,4,1:47,107,107,Emma Glezen missed Layup.,65,69,-4,0,0.0901013548462596,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+361,4,1:47,107,107,Stephanie Karcz Offensive Rebound.,65,69,-4,21,0.0901013548462596,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+362,4,1:26,86,86,Stephanie Karcz missed Jumper.,65,69,-4,0,0.06465282656395233,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+363,4,1:26,86,86,Stephanie Karcz Offensive Rebound.,65,69,-4,4,0.06465282656395233,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+364,4,1:22,82,82,Foul on Krislyn Marsh.,65,69,-4,4,0.06035129638812847,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+365,4,1:18,78,78,Foul on Imani Bryant.,65,69,-4,0,0.05622011217897148,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+366,4,1:18,78,78,Stephanie Karcz made Free Throw.,66,69,-3,0,0.1076028815171919,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,Loyola (MD)
+367,4,1:18,78,78,Stephanie Karcz made Free Throw.,67,69,-2,4,0.1961852913236813,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,Loyola (MD)
+368,4,1:14,74,74,Ayonna Williams Turnover.,67,69,-2,1,0.19013793427811604,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+369,4,1:13,73,73,Stephanie Karcz Steal.,67,69,-2,5,0.18861678162048787,Loyola (MD),Howard,6,3,0,0,NA,401179220,2019-11-20,
+370,4,1:08,68,68,Stephanie Karcz Turnover.,67,69,-2,0,0.1809780323151103,Loyola (MD),Howard,6,3,1,0,NA,401179220,2019-11-20,
+371,4,1:08,68,68,Krislyn Marsh Steal.,67,69,-2,0,0.1809780323151103,Loyola (MD),Howard,6,3,1,0,NA,401179220,2019-11-20,
+372,4,1:08,68,68,Howard  Timeout,67,69,-2,16,0.1809780323151103,Loyola (MD),Howard,5,3,1,0,NA,401179220,2019-11-20,
+373,4,0:52,52,52,Gia Thorpe Turnover.,67,69,-2,1,0.15699088046939563,Loyola (MD),Howard,5,3,1,0,NA,401179220,2019-11-20,
+374,4,0:51,51,51,Stephanie Karcz Steal.,67,69,-2,0,0.15551566776274717,Loyola (MD),Howard,5,3,1,0,NA,401179220,2019-11-20,
+375,4,0:51,51,51,Foul on Gia Thorpe.,67,69,-2,0,0.15551566776274717,Loyola (MD),Howard,5,3,1,0,NA,401179220,2019-11-20,
+376,4,0:51,51,51,Stephanie Karcz made Free Throw.,68,69,-1,0,0.3002747540702126,Loyola (MD),Howard,5,3,1,0,NA,401179220,2019-11-20,Loyola (MD)
+377,4,0:51,51,51,Stephanie Karcz made Free Throw.,69,69,0,21,0.5,Loyola (MD),Howard,5,3,1,0,NA,401179220,2019-11-20,Loyola (MD)
+378,4,0:30,30,30,Imani Bryant made Layup. Assisted by Sarah Edmond.,69,71,-2,0,0.1253491564092463,Loyola (MD),Howard,5,3,1,1,NA,401179220,2019-11-20,Howard
+379,4,0:30,30,30,Loyola (MD)  Timeout,69,71,-2,12,0.1253491564092463,Loyola (MD),Howard,5,2,1,1,NA,401179220,2019-11-20,
+380,4,0:18,18,18,Foul on Sarah Edmond.,69,71,-2,0,0.10931455159064239,Loyola (MD),Howard,5,2,1,1,NA,401179220,2019-11-20,
+381,4,0:18,18,18,Stephanie Karcz missed Free Throw.,69,71,-2,0,0.10931455159064239,Loyola (MD),Howard,5,2,1,1,NA,401179220,2019-11-20,
+382,4,0:18,18,18,Loyola (MD) Deadball Team Rebound.,69,71,-2,0,0.10931455159064239,Loyola (MD),Howard,5,2,1,1,NA,401179220,2019-11-20,
+383,4,0:18,18,18,Stephanie Karcz missed Free Throw.,69,71,-2,0,0.10931455159064239,Loyola (MD),Howard,5,2,1,1,NA,401179220,2019-11-20,
+384,4,0:18,18,18,Ayonna Williams Defensive Rebound.,69,71,-2,2,0.10931455159064239,Loyola (MD),Howard,5,2,1,1,NA,401179220,2019-11-20,
+385,4,0:16,16,16,Foul on Delaney Connolly.,69,71,-2,0,0.10671073666192735,Loyola (MD),Howard,5,2,1,1,NA,401179220,2019-11-20,
+386,4,0:16,16,16,Ayonna Williams made Free Throw.,69,72,-3,0,0.039650907899848264,Loyola (MD),Howard,5,2,1,1,NA,401179220,2019-11-20,Howard
+387,4,0:16,16,16,Ayonna Williams made Free Throw.,69,73,-4,12,0.014069488685686617,Loyola (MD),Howard,5,2,1,1,NA,401179220,2019-11-20,Howard
+388,4,0:04,4,4,Laryn Edwards missed Three Point Jumper.,69,73,-4,0,0.010075453092990712,Loyola (MD),Howard,5,2,0,1,NA,401179220,2019-11-20,
+389,4,0:04,4,4,Sarah Edmond Defensive Rebound.,69,73,-4,3,0.010075453092990712,Loyola (MD),Howard,5,2,0,1,NA,401179220,2019-11-20,
+390,4,0:01,1,1,Foul on Hannah Niles.,69,73,-4,0,0.00924024840272953,Loyola (MD),Howard,5,2,0,1,NA,401179220,2019-11-20,
+391,4,0:01,1,1,Sarah Edmond made Free Throw.,69,74,-5,0,0.002889929286074279,Loyola (MD),Howard,5,2,0,1,NA,401179220,2019-11-20,Howard
+392,4,0:01,1,1,Sarah Edmond made Free Throw.,69,75,-6,0,8.998745092052004e-4,Loyola (MD),Howard,5,2,0,1,NA,401179220,2019-11-20,Howard

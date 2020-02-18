@@ -1,0 +1,318 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Technical Foul on Idaho State.,0,0,0,0,0.5,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,NA
+2,1,10:00,2400,2400,Technical Foul on Idaho State.,0,0,0,0,0.5,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+3,1,10:00,2400,2400,Rebecca Cardenas made Free Throw.,0,1,-1,0,0.477944027154918,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,Southern Utah
+4,1,10:00,2400,2400,Rebecca Cardenas made Free Throw.,0,2,-2,10,0.455973723445544,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,Southern Utah
+5,1,9:50,2390,2390,Rebecca Cardenas Turnover.,0,2,-2,11,0.4557637165444816,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+6,1,9:39,2379,2379,Dora Goles made Three Point Jumper. Assisted by Diaba Konate.,3,2,1,23,0.5222786527948562,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,Idaho State
+7,1,9:16,2356,2356,Foul on Dora Goles.,3,2,1,11,0.5225262265573041,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+8,1,9:05,2345,2345,Ashley Larsen missed Jumper.,3,2,1,3,0.5226459033254919,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+9,1,9:02,2342,2342,Jessica Chatman Offensive Rebound.,3,2,1,2,0.5226786784543114,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+10,1,9:00,2340,2340,Jessica Chatman missed Layup.,3,2,1,0,0.522700560220778,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+11,1,9:00,2340,2340,Ellie Smith Block.,3,2,1,0,0.522700560220778,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+12,1,9:00,2340,2340,Idaho State Defensive Rebound.,3,2,1,14,0.522700560220778,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+13,1,8:46,2326,2326,Callie Bourne missed Layup.,3,2,1,2,0.5228544235375375,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+14,1,8:44,2324,2324,Southern Utah Defensive Rebound.,3,2,1,0,0.5228765001888255,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+15,1,8:44,2324,2324,Foul on Ellie Smith.,3,2,1,17,0.5228765001888255,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+16,1,8:27,2307,2307,Harley Hansen missed Layup.,3,2,1,4,0.5230650757023589,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+17,1,8:23,2303,2303,Callie Bourne Defensive Rebound.,3,2,1,3,0.5231096782180614,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+18,1,8:20,2300,2300,Diaba Konate made Layup.,5,2,3,16,0.5690354297880675,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,Idaho State
+19,1,8:04,2284,2284,Ashley Larsen Turnover.,5,2,3,0,0.5695646793277579,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+20,1,8:04,2284,2284,Diaba Konate Steal.,5,2,3,13,0.5695646793277579,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+21,1,7:51,2271,2271,Ellie Smith made Layup. Assisted by Dora Goles.,7,2,5,25,0.6153206465083175,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,Idaho State
+22,1,7:26,2246,2246,Rebecca Cardenas missed Layup.,7,2,5,0,0.6166684536086381,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+23,1,7:26,2246,2246,Callie Bourne Block.,7,2,5,4,0.6166684536086381,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+24,1,7:22,2242,2242,Tomekia Whitman Defensive Rebound.,7,2,5,5,0.6168850380572362,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+25,1,7:17,2237,2237,Callie Bourne made Three Point Jumper. Assisted by Diaba Konate.,10,2,8,3,0.6822196906728356,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,Idaho State
+26,1,7:14,2234,2234,Southern Utah  Timeout,10,2,8,0,0.682458677015476,Idaho State,Southern Utah,4,3,0,1,NA,401174635,2020-02-01,
+27,1,7:14,2234,2234,Official TV Timeout,10,2,8,9,0.682458677015476,Idaho State,Southern Utah,4,3,0,1,NA,401174635,2020-02-01,
+28,1,7:05,2225,2225,Harley Hansen missed Three Point Jumper.,10,2,8,3,0.6831763539262857,Idaho State,Southern Utah,4,3,0,1,NA,401174635,2020-02-01,
+29,1,7:02,2222,2222,Shalyn Fano Offensive Rebound.,10,2,8,10,0.6834158012684467,Idaho State,Southern Utah,4,3,0,1,NA,401174635,2020-02-01,
+30,1,6:52,2212,2212,Ashley Larsen made Jumper. Assisted by Rebecca Cardenas.,10,4,6,15,0.6410459580817187,Idaho State,Southern Utah,4,3,0,1,NA,401174635,2020-02-01,Southern Utah
+31,1,6:37,2197,2197,Delaney Moore made Jumper. Assisted by Diaba Konate.,12,4,8,23,0.6854146671169121,Idaho State,Southern Utah,4,3,0,1,NA,401174635,2020-02-01,Idaho State
+32,1,6:14,2174,2174,Harley Hansen missed Layup.,12,4,8,0,0.6872572866239602,Idaho State,Southern Utah,4,3,0,1,NA,401174635,2020-02-01,
+33,1,6:14,2174,2174,Dora Goles Defensive Rebound.,12,4,8,0,0.6872572866239602,Idaho State,Southern Utah,4,3,0,1,NA,401174635,2020-02-01,
+34,1,6:14,2174,2174,Callie Bourne Block.,12,4,8,13,0.6872572866239602,Idaho State,Southern Utah,4,3,0,1,NA,401174635,2020-02-01,
+35,1,6:01,2161,2161,Foul on Rebecca Cardenas.,12,4,8,0,0.6882999786645556,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+36,1,6:01,2161,2161,Dora Goles made Free Throw.,13,4,9,0,0.7091390768970636,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,Idaho State
+37,1,6:01,2161,2161,Dora Goles made Free Throw.,14,4,10,12,0.7291332266121306,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,Idaho State
+38,1,5:49,2149,2149,Shalyn Fano Turnover.,14,4,10,0,0.7302428124239754,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+39,1,5:49,2149,2149,Callie Bourne Steal.,14,4,10,5,0.7302428124239754,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+40,1,5:44,2144,2144,Tomekia Whitman Turnover.,14,4,10,0,0.7307056536708599,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+41,1,5:44,2144,2144,Rebecca Cardenas Steal.,14,4,10,2,0.7307056536708599,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+42,1,5:42,2142,2142,Foul on Tomekia Whitman.,14,4,10,0,0.730890879691706,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+43,1,5:42,2142,2142,Rebecca Cardenas made Free Throw.,14,5,9,0,0.7107917559670978,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,Southern Utah
+44,1,5:42,2142,2142,Rebecca Cardenas made Free Throw.,14,6,8,17,0.6898285286017019,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,Southern Utah
+45,1,5:25,2125,2125,Jordan Sweeney Turnover.,14,6,8,23,0.6912014864873841,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+46,1,5:02,2102,2102,Shalyn Fano missed Layup.,14,6,8,6,0.6930679104093008,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+47,1,4:56,2096,2096,Nuria Barrientos Defensive Rebound.,14,6,8,5,0.6935566184810649,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+48,1,4:51,2091,2091,Nuria Barrientos made Three Point Jumper. Assisted by Jordan Sweeney.,17,6,11,22,0.7550517734721365,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,Idaho State
+49,1,4:29,2069,2069,Harley Hansen missed Three Point Jumper.,17,6,11,4,0.75720596385851,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+50,1,4:25,2065,2065,Nuria Barrientos Defensive Rebound.,17,6,11,18,0.7575985079403758,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+51,1,4:07,2047,2047,Callie Bourne made Layup. Assisted by Nuria Barrientos.,19,6,13,19,0.7954621244692184,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,Idaho State
+52,1,3:48,2028,2028,Jessica Chatman Turnover.,19,6,13,0,0.7974336478652668,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+53,1,3:48,2028,2028,Dora Goles Steal.,19,6,13,9,0.7974336478652668,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+54,1,3:39,2019,2019,Dora Goles missed Three Point Jumper.,19,6,13,3,0.7983690265393547,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+55,1,3:36,2016,2016,Jessica Chatman Defensive Rebound.,19,6,13,26,0.7986810495195101,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+56,1,3:10,1990,1990,Foul on Delaney Moore.,19,6,13,0,0.8013904607273751,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+57,1,3:10,1990,1990,Rebecca Cardenas made Free Throw.,19,7,12,0,0.7837575073779492,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,Southern Utah
+58,1,3:10,1990,1990,Rebecca Cardenas made Free Throw.,19,8,11,0,0.7650180942054192,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,Southern Utah
+59,1,3:10,1990,1990,Callie Bourne missed Three Point Jumper.,19,8,11,0,0.7650180942054192,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+60,1,3:10,1990,1990,Ashley Larsen Defensive Rebound.,19,8,11,0,0.7650180942054192,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+61,1,3:10,1990,1990,Foul on Ellie Smith.,19,8,11,11,0.7650180942054192,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+62,1,2:59,1979,1979,Shalyn Fano made Free Throw.,19,9,10,0,0.7462383171732341,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,Southern Utah
+63,1,2:59,1979,1979,Shalyn Fano missed Free Throw.,19,9,10,1,0.7462383171732341,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+64,1,2:58,1978,1978,Callie Bourne Defensive Rebound.,19,9,10,32,0.7463344539219667,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+65,1,2:26,1946,1946,Diaba Konate made Layup.,21,9,12,14,0.7882933419755641,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,Idaho State
+66,1,2:12,1932,1932,Madelyn Eaton made Layup.,21,11,10,0,0.7507897297278936,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,Southern Utah
+67,1,2:12,1932,1932,Foul on Montana Oltrogge.,21,11,10,1,0.7507897297278936,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+68,1,2:11,1931,1931,Madelyn Eaton missed Free Throw.,21,11,10,1,0.7508873317504335,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+69,1,2:10,1930,1930,Ashley Larsen Offensive Rebound.,21,11,10,1,0.7509849669042918,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+70,1,2:09,1929,1929,Ashley Larsen made Jumper.,21,13,8,24,0.7075502092672897,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,Southern Utah
+71,1,1:45,1905,1905,Callie Bourne missed Layup.,21,13,8,2,0.7096164256463469,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+72,1,1:43,1903,1903,Southern Utah Defensive Rebound.,21,13,8,16,0.7097880075201256,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+73,1,1:27,1887,1887,Foul on Diaba Konate.,21,13,8,0,0.7111583578576108,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+74,1,1:27,1887,1887,Darri Frandsen missed Free Throw.,21,13,8,0,0.7111583578576108,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+75,1,1:27,1887,1887,Southern Utah Offensive Rebound.,21,13,8,0,0.7111583578576108,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+76,1,1:27,1887,1887,Darri Frandsen made Free Throw.,21,14,7,15,0.6874854152216447,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,Southern Utah
+77,1,1:12,1872,1872,Callie Bourne missed Three Point Jumper.,21,14,7,2,0.68865930432021,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+78,1,1:10,1870,1870,Tomekia Whitman Offensive Rebound.,21,14,7,0,0.6888157995825358,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+79,1,1:10,1870,1870,Foul on Darri Frandsen.,21,14,7,3,0.6888157995825358,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+80,1,1:07,1867,1867,Dora Goles made Three Point Jumper. Assisted by Tomekia Whitman.,24,14,10,28,0.7570717426587178,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,Idaho State
+81,1,0:39,1839,1839,Rebecca Cardenas missed Three Point Jumper.,24,14,10,3,0.7597571621055584,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+82,1,0:36,1836,1836,Southern Utah Offensive Rebound.,24,14,10,0,0.7600449746897773,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+83,1,0:36,1836,1836,Foul on Montana Oltrogge.,24,14,10,0,0.7600449746897773,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+84,1,0:36,1836,1836,Ashley Larsen made Free Throw.,24,15,9,0,0.738393127918031,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,Southern Utah
+85,1,0:36,1836,1836,Ashley Larsen made Free Throw.,24,16,8,15,0.7155188355331638,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,Southern Utah
+86,1,0:21,1821,1821,Tomekia Whitman made Layup.,26,16,10,15,0.761485415442402,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,Idaho State
+87,1,0:06,1806,1806,Claudia Armato missed Three Point Jumper.,26,16,10,3,0.7629294669906321,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+88,1,0:03,1803,1803,Idaho State Defensive Rebound.,26,16,10,3,0.7632188666134916,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+89,1,0:00,1800,1800,End of 1st Quarter,26,16,10,9,0.7635084954020187,Idaho State,Southern Utah,4,3,0,0,NA,401174635,2020-02-01,
+90,2,9:51,1791,1791,Callie Bourne missed Layup.,26,16,10,0,0.7643788956978254,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+91,2,9:51,1791,1791,Darri Frandsen Block.,26,16,10,4,0.7643788956978254,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+92,2,9:47,1787,1787,Claudia Armato Defensive Rebound.,26,16,10,12,0.7647665401222112,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+93,2,9:35,1775,1775,Madelyn Eaton missed Jumper.,26,16,10,2,0.7659328320893737,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+94,2,9:33,1773,1773,Darri Frandsen Offensive Rebound.,26,16,10,0,0.7661277460786942,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+95,2,9:33,1773,1773,Foul on Callie Bourne.,26,16,10,8,0.7661277460786942,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+96,2,9:25,1765,1765,Ashley Larsen made Jumper.,26,18,8,13,0.7216682255453526,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,Southern Utah
+97,2,9:12,1752,1752,Dora Goles made Jumper. Assisted by Tomekia Whitman.,28,18,10,15,0.76818491600101,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,Idaho State
+98,2,8:57,1737,1737,Darri Frandsen missed Jumper.,28,18,10,3,0.7696678086503824,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+99,2,8:54,1734,1734,Claudia Armato Offensive Rebound.,28,18,10,2,0.7699659040284182,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+100,2,8:52,1732,1732,Rebecca Cardenas missed Layup.,28,18,10,3,0.7701649309124807,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+101,2,8:49,1729,1729,Delaney Moore Defensive Rebound.,28,18,10,7,0.7704639255422338,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+102,2,8:42,1722,1722,Dora Goles missed Three Point Jumper.,28,18,10,3,0.7711637648586451,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+103,2,8:39,1719,1719,Diaba Konate Offensive Rebound.,28,18,10,29,0.7714646625398215,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+104,2,8:10,1690,1690,Darri Frandsen made Layup.,28,20,8,13,0.7284331227128641,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,Southern Utah
+105,2,7:57,1677,1677,Tomekia Whitman made Layup.,30,20,10,17,0.7757224802548479,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,Idaho State
+106,2,7:40,1660,1660,Darri Frandsen Turnover.,30,20,10,0,0.7774004979824316,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+107,2,7:40,1660,1660,Tomekia Whitman Steal.,30,20,10,13,0.7774004979824316,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+108,2,7:27,1647,1647,Foul on Claudia Armato.,30,20,10,0,0.7786560506631803,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+109,2,7:27,1647,1647,Carsyn Boswell made Free Throw.,31,20,11,0,0.7995744444480818,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,Idaho State
+110,2,7:27,1647,1647,Carsyn Boswell made Free Throw.,32,20,12,23,0.8189755192813947,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,Idaho State
+111,2,7:04,1624,1624,Claudia Armato Turnover.,32,20,12,0,0.8212199626405593,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+112,2,7:04,1624,1624,Tomekia Whitman Steal.,32,20,12,17,0.8212199626405593,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+113,2,6:47,1607,1607,Carsyn Boswell missed Three Point Jumper.,32,20,12,2,0.8228498534477379,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+114,2,6:45,1605,1605,Irene Vicente Offensive Rebound.,32,20,12,20,0.8230405111795324,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+115,2,6:25,1585,1585,Diaba Konate missed Three Point Jumper.,32,20,12,5,0.8249399625001793,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+116,2,6:20,1580,1580,Ellie Smith Offensive Rebound.,32,20,12,3,0.8254138709729694,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+117,2,6:17,1577,1577,Ellie Smith Turnover.,32,20,12,0,0.8256982431565337,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+118,2,6:17,1577,1577,Jessica Chatman Steal.,32,20,12,8,0.8256982431565337,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+119,2,6:09,1569,1569,Darri Frandsen missed Layup.,32,20,12,0,0.8264571021701547,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+120,2,6:09,1569,1569,Southern Utah Offensive Rebound.,32,20,12,7,0.8264571021701547,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+121,2,6:02,1562,1562,Harley Hansen missed Layup.,32,20,12,4,0.8271223163938067,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+122,2,5:58,1558,1558,Ellie Smith Defensive Rebound.,32,20,12,17,0.8275031993635494,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+123,2,5:41,1541,1541,Diaba Konate missed Jumper.,32,20,12,4,0.8291310909953623,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+124,2,5:37,1537,1537,Ellie Smith Offensive Rebound.,32,20,12,12,0.829516888742498,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+125,2,5:25,1525,1525,Irene Vicente made Jumper. Assisted by Ellie Smith.,34,20,14,26,0.8647774208663535,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,Idaho State
+126,2,4:59,1499,1499,Rebecca Cardenas Turnover.,34,20,14,0,0.8672743810940158,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+127,2,4:59,1499,1499,Official TV Timeout,34,20,14,20,0.8672743810940158,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+128,2,4:39,1479,1479,Idaho State  Turnover.,34,20,14,15,0.8692508977235652,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+129,2,4:24,1464,1464,Foul on Shalyn Fano.,34,20,14,0,0.8707726802418566,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+130,2,4:24,1464,1464,Shalyn Fano Turnover.,34,20,14,19,0.8707726802418566,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+131,2,4:05,1445,1445,Carsyn Boswell Turnover.,34,20,14,0,0.8727500737467047,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+132,2,4:05,1445,1445,Shalyn Fano Steal.,34,20,14,24,0.8727500737467047,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+133,2,3:41,1421,1421,Ashley Larsen missed Jumper.,34,20,14,2,0.8751592900825635,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+134,2,3:39,1419,1419,Nuria Barrientos Defensive Rebound.,34,20,14,12,0.8753537104143186,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+135,2,3:27,1407,1407,Callie Bourne made Three Point Jumper. Assisted by Diaba Konate.,37,20,17,14,0.9152636405040521,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,Idaho State
+136,2,3:13,1393,1393,Rebecca Cardenas missed Three Point Jumper.,37,20,17,3,0.9164016306494981,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+137,2,3:10,1390,1390,Callie Bourne Defensive Rebound.,37,20,17,22,0.9166419226729083,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+138,2,2:48,1368,1368,Callie Bourne missed Layup.,37,20,17,3,0.9183754143886579,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+139,2,2:45,1365,1365,Harley Hansen Defensive Rebound.,37,20,17,4,0.9186088165369397,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+140,2,2:41,1361,1361,Jessica Chatman made Layup.,37,22,15,32,0.8949315090089798,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,Southern Utah
+141,2,2:09,1329,1329,Callie Bourne missed Three Point Jumper.,37,22,15,2,0.8976887146295028,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+142,2,2:07,1327,1327,Rebecca Cardenas Defensive Rebound.,37,22,15,12,0.8978617311722241,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+143,2,1:55,1315,1315,Harley Hansen missed Three Point Jumper.,37,22,15,4,0.8989047953821061,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+144,2,1:51,1311,1311,Ashley Larsen Offensive Rebound.,37,22,15,13,0.8992548407734464,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+145,2,1:38,1298,1298,Rebecca Cardenas Turnover.,37,22,15,15,0.9004031508742747,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+146,2,1:23,1283,1283,Foul on Rebecca Cardenas.,37,22,15,0,0.9017534649717293,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+147,2,1:23,1283,1283,Montana Oltrogge made Free Throw.,38,22,16,0,0.9140918160610466,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,Idaho State
+148,2,1:23,1283,1283,Montana Oltrogge made Free Throw.,39,22,17,17,0.9250095069844371,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,Idaho State
+149,2,1:06,1266,1266,Harley Hansen missed Jumper.,39,22,17,2,0.9264024475527235,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+150,2,1:04,1264,1264,Southern Utah Offensive Rebound.,39,22,17,0,0.9265690222461079,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+151,2,1:04,1264,1264,Foul on Callie Bourne.,39,22,17,17,0.9265690222461079,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+152,2,0:47,1247,1247,Ashley Larsen made Layup.,39,24,15,18,0.9051463499277418,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,Southern Utah
+153,2,0:29,1229,1229,Foul on Jessica Chatman.,39,24,15,0,0.9069447011477222,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+154,2,0:29,1229,1229,Nuria Barrientos missed Free Throw.,39,24,15,0,0.9069447011477222,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+155,2,0:29,1229,1229,Idaho State Offensive Rebound.,39,24,15,1,0.9069447011477222,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+156,2,0:28,1228,1228,Nuria Barrientos missed Free Throw.,39,24,15,2,0.9070469026369377,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+157,2,0:26,1226,1226,Irene Vicente Offensive Rebound.,39,24,15,16,0.907252062709322,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+158,2,0:10,1210,1210,Tomekia Whitman missed Three Point Jumper.,39,24,15,3,0.9089310148250106,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+159,2,0:07,1207,1207,Irene Vicente Offensive Rebound.,39,24,15,1,0.9092507168084719,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+160,2,0:06,1206,1206,Irene Vicente missed Jumper.,39,24,15,3,0.9093565923379622,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+161,2,0:03,1203,1203,Tomekia Whitman Offensive Rebound.,39,24,15,0,0.909672202214679,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+162,2,0:03,1203,1203,Tomekia Whitman missed Layup.,39,24,15,3,0.909672202214679,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+163,2,0:00,1200,1200,Madelyn Eaton Defensive Rebound.,39,24,15,0,0.9099848741674551,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+164,2,0:00,1200,1200,End of 2nd Quarter,39,24,15,19,0.9099848741674551,Idaho State,Southern Utah,4,4,0,0,NA,401174635,2020-02-01,
+165,3,9:41,1181,1181,Dora Goles missed Layup.,39,24,15,2,0.9119039489163225,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+166,3,9:39,1179,1179,Jessica Chatman Defensive Rebound.,39,24,15,13,0.9121004711478841,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+167,3,9:26,1166,1166,Harley Hansen missed Three Point Jumper.,39,24,15,4,0.9133565962053584,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+168,3,9:22,1162,1162,Dora Goles Defensive Rebound.,39,24,15,11,0.9137364682472507,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+169,3,9:11,1151,1151,Dora Goles Turnover.,39,24,15,0,0.9147677762554756,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+170,3,9:11,1151,1151,Shalyn Fano Steal.,39,24,15,11,0.9147677762554756,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+171,3,9:00,1140,1140,Shalyn Fano made Jumper.,39,26,13,22,0.8877737111932874,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,Southern Utah
+172,3,8:38,1118,1118,Foul on Harley Hansen.,39,26,13,12,0.8900178245844942,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+173,3,8:26,1106,1106,Callie Bourne made Layup. Assisted by Ellie Smith.,41,26,15,0,0.9188667947569054,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,Idaho State
+174,3,8:26,1106,1106,Foul on Ashley Larsen.,41,26,15,0,0.9188667947569054,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+175,3,8:26,1106,1106,Callie Bourne missed Free Throw.,41,26,15,3,0.9188667947569054,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+176,3,8:23,1103,1103,Ellie Smith Offensive Rebound.,41,26,15,11,0.9191376347462049,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+177,3,8:12,1092,1092,Tomekia Whitman made Jumper.,43,26,17,18,0.9410349603695581,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,Idaho State
+178,3,7:54,1074,1074,Rebecca Cardenas missed Jumper.,43,26,17,0,0.942437209571311,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+179,3,7:54,1074,1074,Ellie Smith Block.,43,26,17,4,0.942437209571311,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+180,3,7:50,1070,1070,Callie Bourne Defensive Rebound.,43,26,17,4,0.9427511413803622,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+181,3,7:46,1066,1066,Diaba Konate missed Jumper.,43,26,17,4,0.9430661979887924,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+182,3,7:42,1062,1062,Shalyn Fano Defensive Rebound.,43,26,17,7,0.943382502820831,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+183,3,7:35,1055,1055,Harley Hansen missed Three Point Jumper.,43,26,17,6,0.943939399056207,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+184,3,7:29,1049,1049,Ashley Larsen Offensive Rebound.,43,26,17,7,0.9444205421559188,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+185,3,7:22,1042,1042,Foul on Tomekia Whitman.,43,26,17,12,0.9449868335471225,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+186,3,7:10,1030,1030,Foul on Callie Bourne.,43,26,17,0,0.9459715657299804,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+187,3,7:10,1030,1030,Rebecca Cardenas made Free Throw.,43,27,16,0,0.9366899238009637,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,Southern Utah
+188,3,7:10,1030,1030,Rebecca Cardenas made Free Throw.,43,28,15,12,0.9259386082450141,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,Southern Utah
+189,3,6:58,1018,1018,Diaba Konate missed Layup.,43,28,15,3,0.9271295409062389,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+190,3,6:55,1015,1015,Rebecca Cardenas Defensive Rebound.,43,28,15,22,0.9274317970607363,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+191,3,6:33,993,993,Shalyn Fano Turnover.,43,28,15,12,0.9297089301957873,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+192,3,6:21,981,981,Tomekia Whitman missed Jumper.,43,28,15,2,0.9309993805854548,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+193,3,6:19,979,979,Shalyn Fano Defensive Rebound.,43,28,15,6,0.9312179770368123,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+194,3,6:13,973,973,Madelyn Eaton missed Jumper.,43,28,15,2,0.9318799652869691,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+195,3,6:11,971,971,Callie Bourne Defensive Rebound.,43,28,15,5,0.9321027187163896,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+196,3,6:06,966,966,Tomekia Whitman made Layup. Assisted by Callie Bourne.,45,28,17,0,0.9515999317730544,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,Idaho State
+197,3,6:06,966,966,Foul on Madelyn Eaton.,45,28,17,0,0.9515999317730544,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+198,3,6:06,966,966,Tomekia Whitman made Free Throw.,46,28,18,21,0.9590604612718865,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,Idaho State
+199,3,5:45,945,945,Madelyn Eaton Turnover.,46,28,18,6,0.9606455503305666,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+200,3,5:39,939,939,Montana Oltrogge missed Jumper.,46,28,18,1,0.9610578333261984,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+201,3,5:38,938,938,Tomekia Whitman Offensive Rebound.,46,28,18,6,0.9611250386350438,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+202,3,5:32,932,932,Montana Oltrogge missed Three Point Jumper.,46,28,18,0,0.961519864495641,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+203,3,5:32,932,932,Tomekia Whitman Offensive Rebound.,46,28,18,36,0.961519864495641,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+204,3,4:56,896,896,Tomekia Whitman Turnover.,46,28,18,0,0.9636573157255333,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+205,3,4:56,896,896,Shalyn Fano Steal.,46,28,18,4,0.9636573157255333,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+206,3,4:52,892,892,Rebecca Cardenas made Three Point Jumper.,46,31,15,13,0.9391586248423824,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,Southern Utah
+207,3,4:39,879,879,Delaney Moore made Jumper.,48,31,17,29,0.9577462421609195,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,Idaho State
+208,3,4:10,850,850,Rebecca Black made Layup. Assisted by Rebecca Cardenas.,48,33,15,34,0.9422586759926089,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,Southern Utah
+209,3,3:36,816,816,Idaho State  Turnover.,48,33,15,26,0.9448994750843702,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+210,3,3:10,790,790,Rebecca Cardenas missed Three Point Jumper.,48,33,15,3,0.9471418534629457,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+211,3,3:07,787,787,Idaho State Defensive Rebound.,48,33,15,8,0.9474170755864668,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+212,3,2:59,779,779,Dora Goles made Layup.,50,33,17,31,0.9642258126676062,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,Idaho State
+213,3,2:28,748,748,Rebecca Cardenas missed Jumper.,50,33,17,2,0.9667554586243255,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+214,3,2:26,746,746,Idaho State Defensive Rebound.,50,33,17,23,0.9669305571200995,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+215,3,2:03,723,723,Dora Goles made Jumper.,52,33,19,13,0.9791208215103319,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,Idaho State
+216,3,1:50,710,710,Rebecca Black Turnover.,52,33,19,17,0.9799282303911316,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+217,3,1:33,693,693,Dora Goles missed Three Point Jumper.,52,33,19,4,0.9808499988560857,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+218,3,1:29,689,689,Rebecca Black Defensive Rebound.,52,33,19,5,0.9810501002752671,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+219,3,1:24,684,684,Shalyn Fano made Three Point Jumper. Assisted by Rebecca Cardenas.,52,36,16,26,0.965601000987916,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,Southern Utah
+220,3,0:58,658,658,Dora Goles made Layup.,54,36,18,0,0.9784251452837245,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,Idaho State
+221,3,0:58,658,658,Foul on Shalyn Fano.,54,36,18,0,0.9784251452837245,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+222,3,0:58,658,658,Dora Goles made Free Throw.,55,36,19,11,0.9824729561910008,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,Idaho State
+223,3,0:47,647,647,Madelyn Eaton made Layup.,55,38,17,0,0.9741119357200785,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,Southern Utah
+224,3,0:47,647,647,Foul on Diaba Konate.,55,38,17,0,0.9741119357200785,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+225,3,0:47,647,647,Madelyn Eaton made Free Throw.,55,39,16,11,0.9681499330098485,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,Southern Utah
+226,3,0:36,636,636,Jordan Sweeney made Three Point Jumper. Assisted by Irene Vicente.,58,39,19,28,0.9834330880937964,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,Idaho State
+227,3,0:08,608,608,Ashley Larsen Turnover.,58,39,19,0,0.9847164080495682,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+228,3,0:08,608,608,Diaba Konate Steal.,58,39,19,7,0.9847164080495682,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+229,3,0:01,601,601,Tomekia Whitman made Three Point Jumper. Assisted by Diaba Konate.,61,39,22,1,0.9922321405734464,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,Idaho State
+230,3,0:00,600,600,End of 3rd Quarter,61,39,22,15,0.9922623654244541,Idaho State,Southern Utah,5,5,0,0,NA,401174635,2020-02-01,
+231,4,9:45,585,585,Halle Livingston missed Layup.,61,39,22,1,0.9927311433833922,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+232,4,9:44,584,584,Callie Bourne Defensive Rebound.,61,39,22,0,0.992763463315633,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+233,4,9:44,584,584,Foul on Halle Livingston.,61,39,22,14,0.992763463315633,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+234,4,9:30,570,570,Foul on Ellie Smith.,61,39,22,0,0.9932303959024077,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+235,4,9:30,570,570,Ellie Smith Turnover.,61,39,22,13,0.9932303959024077,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+236,4,9:17,557,557,Ashley Larsen missed Jumper.,61,39,22,2,0.9936876730960482,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+237,4,9:15,555,555,Callie Bourne Defensive Rebound.,61,39,22,27,0.9937599370993231,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+238,4,8:48,528,528,Montana Oltrogge made Three Point Jumper. Assisted by Callie Bourne.,64,39,25,17,0.9973513455298032,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,Idaho State
+239,4,8:31,511,511,Rebecca Cardenas missed Three Point Jumper.,64,39,25,3,0.9975749802562192,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+240,4,8:28,508,508,Montana Oltrogge Defensive Rebound.,64,39,25,17,0.9976109552733177,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+241,4,8:11,491,491,Diaba Konate missed Three Point Jumper.,64,39,25,2,0.997806223861106,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+242,4,8:09,489,489,Darri Frandsen Defensive Rebound.,64,39,25,15,0.9978288514715081,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+243,4,7:54,474,474,Ashley Larsen missed Jumper.,64,39,25,2,0.9980014615991347,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+244,4,7:52,472,472,Dora Goles Defensive Rebound.,64,39,25,8,0.9980251686728447,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+245,4,7:44,464,464,Tomekia Whitman Turnover.,64,39,25,11,0.9981223707082671,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+246,4,7:33,453,453,Madelyn Eaton made Three Point Jumper. Assisted by Harley Hansen.,64,42,22,28,0.9962844943550041,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,Southern Utah
+247,4,7:05,425,425,Diaba Konate made Layup.,66,42,24,0,0.9982514194600798,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,Idaho State
+248,4,7:05,425,425,Foul on Rebecca Cardenas.,66,42,24,1,0.9982514194600798,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+249,4,7:04,424,424,Diaba Konate missed Free Throw.,66,42,24,1,0.9982681952778747,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+250,4,7:03,423,423,Ashley Larsen Defensive Rebound.,66,42,24,0,0.9982846970528333,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+251,4,7:03,423,423,Foul on Callie Bourne.,66,42,24,10,0.9982846970528333,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+252,4,6:53,413,413,Rebecca Cardenas Turnover.,66,42,24,0,0.9984364758303663,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+253,4,6:53,413,413,Diaba Konate Steal.,66,42,24,5,0.9984364758303663,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+254,4,6:48,408,408,Diaba Konate made Layup. Assisted by Tomekia Whitman.,68,42,26,22,0.9991298832166344,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,Idaho State
+255,4,6:26,386,386,Foul on Delaney Moore.,68,42,26,0,0.9992938286042461,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+256,4,6:26,386,386,Darri Frandsen missed Free Throw.,68,42,26,0,0.9992938286042461,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+257,4,6:26,386,386,Southern Utah Offensive Rebound.,68,42,26,0,0.9992938286042461,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+258,4,6:26,386,386,Darri Frandsen made Free Throw.,68,43,25,27,0.9990667556070736,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,Southern Utah
+259,4,5:59,359,359,Delaney Moore missed Jumper.,68,43,25,0,0.9992853221628458,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+260,4,5:59,359,359,Harley Hansen Block.,68,43,25,6,0.9992853221628458,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+261,4,5:53,353,353,Southern Utah Defensive Rebound.,68,43,25,7,0.9993315968510755,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+262,4,5:46,346,346,Darri Frandsen missed Three Point Jumper.,68,43,25,3,0.9993849195390311,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+263,4,5:43,343,343,Dora Goles Defensive Rebound.,68,43,25,17,0.9994075545686721,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+264,4,5:26,326,326,Carsyn Boswell missed Jumper.,68,43,25,2,0.9995327733566179,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+265,4,5:24,324,324,Delaney Moore Offensive Rebound.,68,43,25,0,0.9995470702027104,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+266,4,5:24,324,324,Foul on Darri Frandsen.,68,43,25,0,0.9995470702027104,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+267,4,5:24,324,324,Delaney Moore missed Free Throw.,68,43,25,0,0.9995470702027104,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+268,4,5:24,324,324,Idaho State Offensive Rebound.,68,43,25,1,0.9995470702027104,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+269,4,5:23,323,323,Delaney Moore missed Free Throw.,68,43,25,0,0.9995541755935353,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+270,4,5:23,323,323,Madelyn Eaton Defensive Rebound.,68,43,25,16,0.9995541755935353,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+271,4,5:07,307,307,Madelyn Eaton missed Layup.,68,43,25,3,0.9996610645302555,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+272,4,5:04,304,304,Montana Oltrogge Defensive Rebound.,68,43,25,4,0.9996748422847629,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+273,4,5:00,300,300,Diaba Konate missed Layup.,68,43,25,1,0.9996882175938179,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+274,4,4:59,299,299,Southern Utah Defensive Rebound.,68,43,25,0,0.9996907866885028,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+275,4,4:59,299,299,Foul on Diaba Konate.,68,43,25,0,0.9996907866885028,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+276,4,4:59,299,299,Official TV Timeout,68,43,25,16,0.9996907866885028,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+277,4,4:43,283,283,Rebecca Cardenas missed Jumper.,68,43,25,6,0.9997008469575479,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+278,4,4:37,277,277,Diaba Konate Defensive Rebound.,68,43,25,27,0.999693525031776,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+279,4,4:10,250,250,Diaba Konate missed Jumper.,68,43,25,6,0.9996298467608303,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+280,4,4:04,244,244,Rebecca Cardenas Defensive Rebound.,68,43,25,0,0.9996185012866932,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+281,4,4:04,244,244,Foul on Ellie Smith.,68,43,25,0,0.9996185012866932,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+282,4,4:04,244,244,Madelyn Eaton missed Free Throw.,68,43,25,0,0.9996185012866932,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+283,4,4:04,244,244,Southern Utah Offensive Rebound.,68,43,25,0,0.9996185012866932,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+284,4,4:04,244,244,Madelyn Eaton made Free Throw.,68,44,24,11,0.999477404794861,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,Southern Utah
+285,4,3:53,233,233,Dora Goles made Three Point Jumper. Assisted by Montana Oltrogge.,71,44,27,25,0.9997938906937659,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,Idaho State
+286,4,3:28,208,208,Foul on Ellie Smith.,71,44,27,0,0.9998541897702709,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+287,4,3:28,208,208,Ashley Larsen made Free Throw.,71,45,26,0,0.9997977711704524,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,Southern Utah
+288,4,3:28,208,208,Ashley Larsen made Free Throw.,71,46,25,8,0.999719528549616,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,Southern Utah
+289,4,3:20,200,200,Carsyn Boswell Turnover.,71,46,25,0,0.9997814556764184,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+290,4,3:20,200,200,Harley Hansen Steal.,71,46,25,3,0.9997814556764184,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+291,4,3:17,197,197,Foul on Dora Goles.,71,46,25,0,0.9998054836241114,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+292,4,3:17,197,197,Harley Hansen made Free Throw.,71,47,24,1,0.9997262462211404,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,Southern Utah
+293,4,3:16,196,196,Harley Hansen missed Free Throw.,71,47,24,1,0.9997370094872023,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+294,4,3:15,195,195,Montana Oltrogge Defensive Rebound.,71,47,24,20,0.9997477177377135,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+295,4,2:55,175,175,Montana Oltrogge missed Three Point Jumper.,71,47,24,2,0.999906176773994,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+296,4,2:53,173,173,Jessica Chatman Defensive Rebound.,71,47,24,5,0.9999154147752477,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+297,4,2:48,168,168,Foul on Delaney Moore.,71,47,24,0,0.9999349918861989,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+298,4,2:48,168,168,Rebecca Cardenas made Free Throw.,71,48,23,0,0.9999028568646572,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,Southern Utah
+299,4,2:48,168,168,Rebecca Cardenas made Free Throw.,71,49,22,11,0.9998548390611435,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,Southern Utah
+300,4,2:37,157,157,Foul on Madelyn Eaton.,71,49,22,14,0.9999167198983746,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+301,4,2:23,143,143,Delaney Moore made Jumper. Assisted by Diaba Konate.,73,49,24,17,0.9999847889821633,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,Idaho State
+302,4,2:06,126,126,Foul on Callie Bourne.,73,49,24,0,0.9999953475866915,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+303,4,2:06,126,126,Jessica Chatman made Free Throw.,73,50,23,0,0.9999922400856657,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,Southern Utah
+304,4,2:06,126,126,Jessica Chatman missed Free Throw.,73,50,23,0,0.9999922400856657,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+305,4,2:06,126,126,Delaney Moore Defensive Rebound.,73,50,23,28,0.9999922400856657,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+306,4,1:38,98,98,Nuria Barrientos missed Layup.,73,50,23,2,0.9999992762453338,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+307,4,1:36,96,96,Shalyn Fano Defensive Rebound.,73,50,23,19,0.9999994067211645,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+308,4,1:17,77,77,Halle Livingston missed Jumper.,73,50,23,3,0.9999999189961595,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+309,4,1:14,74,74,Delaney Moore Defensive Rebound.,73,50,23,16,0.9999999421153128,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+310,4,0:58,58,58,Carsyn Boswell missed Layup.,73,50,23,4,0.999999991405118,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+311,4,0:54,54,54,Shalyn Fano Defensive Rebound.,73,50,23,16,0.9999999947964978,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+312,4,0:38,38,38,Shalyn Fano made Layup.,73,52,21,23,0.9999999960908935,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,Southern Utah
+313,4,0:15,15,15,Irene Vicente missed Jumper.,73,52,21,3,0.9999999998227787,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+314,4,0:12,12,12,Shalyn Fano Defensive Rebound.,73,52,21,11,0.999999999885342,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+315,4,0:01,1,1,Shalyn Fano made Jumper.,73,54,19,1,0.9999999997729363,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,Southern Utah
+316,4,0:00,0,0,End of 4th Quarter,73,54,19,0,1,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,
+317,4,0:00,0,0,End of Game,73,54,19,0,1,Idaho State,Southern Utah,6,6,0,0,NA,401174635,2020-02-01,

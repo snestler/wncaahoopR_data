@@ -1,0 +1,356 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Jump Ball won by Tennessee,0,0,0,18,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,NA
+2,1,9:42,2382,2382,Rae Burrell Turnover.,0,0,0,0,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+3,1,9:42,2382,2382,Chennedy Carter Steal.,0,0,0,6,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+4,1,9:36,2376,2376,Chennedy Carter made Layup. Assisted by Kayla Wells.,0,2,-2,18,0.4554672025448677,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+5,1,9:18,2358,2358,Lou Brown missed Three Point Jumper.,0,2,-2,0,0.45508188965266283,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+6,1,9:18,2358,2358,N'dea Jones Defensive Rebound.,0,2,-2,13,0.45508188965266283,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+7,1,9:05,2345,2345,Ciera Johnson Turnover.,0,2,-2,29,0.45480091239566217,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+8,1,8:36,2316,2316,Jazmine Massengill missed Three Point Jumper.,0,2,-2,0,0.4541666112249718,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+9,1,8:36,2316,2316,Texas A&M Defensive Rebound.,0,2,-2,20,0.4541666112249718,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+10,1,8:16,2296,2296,Chennedy Carter made Jumper.,0,4,-4,23,0.4082333852999432,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+11,1,7:53,2273,2273,Rae Burrell Turnover.,0,4,-4,0,0.40723107319423285,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+12,1,7:53,2273,2273,Chennedy Carter Steal.,0,4,-4,20,0.40723107319423285,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+13,1,7:33,2253,2253,Kayla Wells missed Jumper.,0,4,-4,0,0.40635254024188056,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+14,1,7:33,2253,2253,Lou Brown Defensive Rebound.,0,4,-4,9,0.40635254024188056,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+15,1,7:24,2244,2244,Rae Burrell Turnover.,0,4,-4,0,0.405955324572128,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+16,1,7:24,2244,2244,Shambria Washington Steal.,0,4,-4,5,0.405955324572128,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+17,1,7:19,2239,2239,Chennedy Carter Turnover.,0,4,-4,0,0.4057341873472661,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+18,1,7:19,2239,2239,Jazmine Massengill Steal.,0,4,-4,7,0.4057341873472661,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+19,1,7:12,2232,2232,Rennia Davis missed Three Point Jumper.,0,4,-4,0,0.40542407154322074,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+20,1,7:12,2232,2232,Texas A&M Defensive Rebound.,0,4,-4,13,0.40542407154322074,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+21,1,6:59,2219,2219,Chennedy Carter missed Jumper.,0,4,-4,0,0.4048466336472945,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+22,1,6:59,2219,2219,Tamari Key Defensive Rebound.,0,4,-4,18,0.4048466336472945,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+23,1,6:41,2201,2201,Jazmine Massengill made Jumper.,2,4,-2,18,0.45157203243936533,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Tennessee
+24,1,6:23,2183,2183,Kayla Wells made Jumper.,2,6,-4,22,0.40323904489762,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+25,1,6:01,2161,2161,Tamari Key made Jumper. Assisted by Lou Brown.,4,6,-2,14,0.45064972776518214,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Tennessee
+26,1,5:47,2147,2147,Chennedy Carter missed Jumper.,4,6,-2,0,0.4503246809153073,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+27,1,5:47,2147,2147,Rae Burrell Defensive Rebound.,4,6,-2,30,0.4503246809153073,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+28,1,5:17,2117,2117,Lou Brown made Layup. Assisted by Jazmine Massengill.,6,6,0,20,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Tennessee
+29,1,4:57,2097,2097,Shambria Washington missed Jumper.,6,6,0,0,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+30,1,4:57,2097,2097,Rae Burrell Defensive Rebound.,6,6,0,9,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+31,1,4:48,2088,2088,Official TV Timeout,6,6,0,4,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+32,1,4:44,2084,2084,Rennia Davis made Jumper. Assisted by Jordan Horston.,8,6,2,14,0.5511587272416973,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Tennessee
+33,1,4:30,2070,2070,Chennedy Carter missed Jumper.,8,6,2,0,0.5514935216661594,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+34,1,4:30,2070,2070,N'dea Jones Offensive Rebound.,8,6,2,9,0.5514935216661594,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+35,1,4:21,2061,2061,N'dea Jones missed Layup.,8,6,2,0,0.5517098346757323,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+36,1,4:21,2061,2061,Tamari Key Defensive Rebound.,8,6,2,12,0.5517098346757323,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+37,1,4:09,2049,2049,Jordan Horston made Jumper. Assisted by Jazmine Massengill.,10,6,4,16,0.6028864477676771,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Tennessee
+38,1,3:53,2033,2033,Kayla Wells missed Three Point Jumper.,10,6,4,0,0.6036393198699057,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+39,1,3:53,2033,2033,Jazmine Massengill Defensive Rebound.,10,6,4,18,0.6036393198699057,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+40,1,3:35,2015,2015,Rennia Davis made Layup. Assisted by Tamari Key.,12,6,6,30,0.6539237319495322,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Tennessee
+41,1,3:05,1985,1985,Chennedy Carter missed Jumper.,12,6,6,0,0.6559652915176754,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+42,1,3:05,1985,1985,Jazmine Massengill Defensive Rebound.,12,6,6,8,0.6559652915176754,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+43,1,2:57,1977,1977,Jordan Horston Turnover.,12,6,6,0,0.6565143278633044,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+44,1,2:57,1977,1977,Kayla Wells Steal.,12,6,6,15,0.6565143278633044,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+45,1,2:42,1962,1962,Kayla Wells made Layup.,12,8,4,6,0.6070497896283937,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+46,1,2:36,1956,1956,Jordan Horston missed Three Point Jumper.,12,8,4,0,0.6073436440739437,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+47,1,2:36,1956,1956,Tennessee Offensive Rebound.,12,8,4,6,0.6073436440739437,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+48,1,2:30,1950,1950,Foul on Chennedy Carter.,12,8,4,0,0.6076384392034611,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+49,1,2:30,1950,1950,Rae Burrell made Free Throw.,13,8,5,0,0.6333801550301884,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Tennessee
+50,1,2:30,1950,1950,Rae Burrell missed Free Throw.,13,8,5,0,0.6333801550301884,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+51,1,2:30,1950,1950,N'dea Jones Defensive Rebound.,13,8,5,5,0.6333801550301884,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+52,1,2:25,1945,1945,Kayla Wells made Layup.,13,10,3,11,0.5814728164529512,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+53,1,2:14,1934,1934,Rennia Davis missed Three Point Jumper.,13,10,3,0,0.5818897497195867,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+54,1,2:14,1934,1934,Texas A&M Defensive Rebound.,13,10,3,23,0.5818897497195867,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+55,1,1:51,1911,1911,N'dea Jones missed Jumper.,13,10,3,0,0.582764792129031,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+56,1,1:51,1911,1911,Ciera Johnson Offensive Rebound.,13,10,3,11,0.582764792129031,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+57,1,1:40,1900,1900,Chennedy Carter made Layup.,13,12,1,8,0.5279584246133091,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+58,1,1:32,1892,1892,Rae Burrell missed Jumper.,13,12,1,0,0.5280621840448054,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+59,1,1:32,1892,1892,Rae Burrell Offensive Rebound.,13,12,1,2,0.5280621840448054,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+60,1,1:30,1890,1890,Jump Ball won by Tennessee,13,12,1,4,0.5280881253706348,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+61,1,1:26,1886,1886,Jordan Horston missed Three Point Jumper.,13,12,1,0,0.5281400141322726,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+62,1,1:26,1886,1886,Rennia Davis Offensive Rebound.,13,12,1,7,0.5281400141322726,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+63,1,1:19,1879,1879,Rennia Davis made Layup.,15,12,3,14,0.5839793940933239,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Tennessee
+64,1,1:05,1865,1865,Foul on Jaiden McCoy.,15,12,3,0,0.5845112947002189,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+65,1,1:05,1865,1865,Texas A&M  Turnover.,15,12,3,18,0.5845112947002189,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+66,1,0:47,1847,1847,Jordan Horston Turnover.,15,12,3,0,0.5851970156624611,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+67,1,0:47,1847,1847,Aaliyah Wilson Steal.,15,12,3,3,0.5851970156624611,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+68,1,0:44,1844,1844,Aaliyah Wilson Turnover.,15,12,3,0,0.5853115877240561,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+69,1,0:44,1844,1844,Jaiden McCoy Steal.,15,12,3,14,0.5853115877240561,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+70,1,0:30,1830,1830,Rae Burrell missed Layup.,15,12,3,0,0.5858476481295922,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+71,1,0:30,1830,1830,Ciera Johnson Defensive Rebound.,15,12,3,5,0.5858476481295922,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+72,1,0:25,1825,1825,Ciera Johnson Turnover.,15,12,3,0,0.5860397319207126,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+73,1,0:25,1825,1825,Jazmine Massengill Steal.,15,12,3,20,0.5860397319207126,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+74,1,0:05,1805,1805,Jordan Horston missed Three Point Jumper.,15,12,3,0,0.5868121336014099,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+75,1,0:05,1805,1805,N'dea Jones Defensive Rebound.,15,12,3,5,0.5868121336014099,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+76,1,0:00,1800,1800,End of 1st Quarter,15,12,3,0,0.5870063911476985,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+77,2,10:00,1800,1800,Jump Ball won by Texas A&M,15,12,3,13,0.5870063911476985,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+78,2,9:47,1787,1787,Ciera Johnson made Layup. Assisted by N'dea Jones.,15,14,1,0,0.529440708783451,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+79,2,9:47,1787,1787,Foul on Kasiyahna Kushkituah.,15,14,1,0,0.529440708783451,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+80,2,9:47,1787,1787,Ciera Johnson made Free Throw.,15,15,0,21,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+81,2,9:26,1766,1766,Jazmine Massengill missed Jumper.,15,15,0,0,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+82,2,9:26,1766,1766,Jazmine Massengill Offensive Rebound.,15,15,0,7,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+83,2,9:19,1759,1759,Jaiden McCoy made Layup. Assisted by Jazmine Massengill.,17,15,2,17,0.559429293330432,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Tennessee
+84,2,9:02,1742,1742,Chennedy Carter made Jumper.,17,17,0,36,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+85,2,8:26,1706,1706,Rae Burrell Turnover.,17,17,0,11,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+86,2,8:15,1695,1695,N'dea Jones missed Layup.,17,17,0,0,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+87,2,8:15,1695,1695,Texas A&M Offensive Rebound.,17,17,0,8,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+88,2,8:07,1687,1687,N'dea Jones missed Layup.,17,17,0,0,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+89,2,8:07,1687,1687,Jazmine Massengill Block.,17,17,0,0,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+90,2,8:07,1687,1687,Texas A&M Offensive Rebound.,17,17,0,2,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+91,2,8:05,1685,1685,Foul on Kasiyahna Kushkituah.,17,17,0,0,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+92,2,8:05,1685,1685,N'dea Jones missed Free Throw.,17,17,0,0,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+93,2,8:05,1685,1685,Texas A&M Deadball Team Rebound.,17,17,0,0,0.5,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+94,2,8:05,1685,1685,N'dea Jones made Free Throw.,17,18,-1,15,0.4691322686840231,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+95,2,7:50,1670,1670,Jordan Horston missed Jumper.,17,18,-1,0,0.4689171796634263,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+96,2,7:50,1670,1670,Ciera Johnson Defensive Rebound.,17,18,-1,4,0.4689171796634263,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+97,2,7:46,1666,1666,Foul on Jaiden McCoy.,17,18,-1,10,0.4688605608787106,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+98,2,7:36,1656,1656,Chennedy Carter made Jumper.,17,20,-3,16,0.4071285585956243,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+99,2,7:20,1640,1640,Tamari Key Turnover.,17,20,-3,0,0.40648408335447606,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+100,2,7:20,1640,1640,Aaliyah Wilson Steal.,17,20,-3,12,0.40648408335447606,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+101,2,7:08,1628,1628,Foul on Tamari Key.,17,20,-3,0,0.40600606159752234,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+102,2,7:08,1628,1628,Chennedy Carter made Free Throw.,17,21,-4,0,0.37581854158856937,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+103,2,7:08,1628,1628,Chennedy Carter made Free Throw.,17,22,-5,21,0.34656597317040994,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+104,2,6:47,1607,1607,Jazmine Massengill made Three Point Jumper. Assisted by Lou Brown.,20,22,-2,21,0.43635642828675875,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Tennessee
+105,2,6:26,1586,1586,Chennedy Carter missed Layup.,20,22,-2,0,0.43579290561586753,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+106,2,6:26,1586,1586,Rennia Davis Block.,20,22,-2,0,0.43579290561586753,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+107,2,6:26,1586,1586,Chennedy Carter Offensive Rebound.,20,22,-2,9,0.43579290561586753,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+108,2,6:17,1577,1577,Chennedy Carter made Layup.,20,24,-4,18,0.3732076237525992,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+109,2,5:59,1559,1559,Jordan Horston missed Layup.,20,24,-4,0,0.3722782024855726,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+110,2,5:59,1559,1559,N'dea Jones Defensive Rebound.,20,24,-4,19,0.3722782024855726,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+111,2,5:40,1540,1540,Chennedy Carter made Three Point Jumper. Assisted by Shambria Washington.,20,27,-7,22,0.2845992087647414,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+112,2,5:18,1518,1518,Lou Brown missed Three Point Jumper.,20,27,-7,0,0.2827976553279142,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+113,2,5:18,1518,1518,Tamari Key Offensive Rebound.,20,27,-7,5,0.2827976553279142,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+114,2,5:13,1513,1513,Foul on Shambria Washington.,20,27,-7,7,0.2823807870826336,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+115,2,5:06,1506,1506,Rennia Davis missed Jumper.,20,27,-7,0,0.2817918412757996,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+116,2,5:06,1506,1506,Jordan Horston Offensive Rebound.,20,27,-7,3,0.2817918412757996,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+117,2,5:03,1503,1503,Foul on N'dea Jones.,20,27,-7,4,0.2815374211605467,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+118,2,4:59,1499,1499,Official TV Timeout,20,27,-7,6,0.28119621751109486,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+119,2,4:53,1493,1493,Rae Burrell made Three Point Jumper. Assisted by Jordan Horston.,23,27,-4,20,0.36870733203138595,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Tennessee
+120,2,4:33,1473,1473,Aaliyah Wilson missed Jumper.,23,27,-4,0,0.36754447755432024,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+121,2,4:33,1473,1473,Texas A&M Offensive Rebound.,23,27,-4,8,0.36754447755432024,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+122,2,4:25,1465,1465,Kayla Wells missed Jumper.,23,27,-4,0,0.3670652901478298,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+123,2,4:25,1465,1465,Rae Burrell Defensive Rebound.,23,27,-4,20,0.3670652901478298,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+124,2,4:05,1445,1445,Tamari Key Turnover.,23,27,-4,12,0.365831520569353,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+125,2,3:53,1433,1433,Chennedy Carter missed Jumper.,23,27,-4,0,0.3650986572067591,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+126,2,3:53,1433,1433,N'dea Jones Offensive Rebound.,23,27,-4,6,0.3650986572067591,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+127,2,3:47,1427,1427,N'dea Jones made Layup.,23,29,-6,10,0.303162842833643,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+128,2,3:37,1417,1417,Rennia Davis missed Jumper.,23,29,-6,0,0.3023547002436151,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+129,2,3:37,1417,1417,Rae Burrell Offensive Rebound.,23,29,-6,4,0.3023547002436151,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+130,2,3:33,1413,1413,Rae Burrell made Jumper.,25,29,-4,15,0.36391388422200666,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Tennessee
+131,2,3:18,1398,1398,Kayla Wells missed Layup.,25,29,-4,0,0.36304780850275326,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+132,2,3:18,1398,1398,N'dea Jones Offensive Rebound.,25,29,-4,8,0.36304780850275326,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+133,2,3:10,1390,1390,N'dea Jones missed Layup.,25,29,-4,0,0.3625913694567498,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+134,2,3:10,1390,1390,Tamari Key Defensive Rebound.,25,29,-4,5,0.3625913694567498,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+135,2,3:05,1385,1385,Rennia Davis missed Jumper.,25,29,-4,0,0.36230747203675856,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+136,2,3:05,1385,1385,Tennessee Offensive Rebound.,25,29,-4,17,0.36230747203675856,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+137,2,2:48,1368,1368,Jordan Horston Turnover.,25,29,-4,0,0.3613467348040119,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+138,2,2:48,1368,1368,Shambria Washington Steal.,25,29,-4,16,0.3613467348040119,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+139,2,2:32,1352,1352,Foul on Kamera Harris.,25,29,-4,0,0.360442807073782,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+140,2,2:32,1352,1352,Shambria Washington made Free Throw.,25,30,-5,0,0.32809727424007096,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+141,2,2:32,1352,1352,Shambria Washington made Free Throw.,25,31,-6,14,0.29730505462724016,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+142,2,2:18,1338,1338,Rae Burrell made Jumper. Assisted by Jazmine Massengill.,27,31,-4,20,0.3596461475475433,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Tennessee
+143,2,1:58,1318,1318,Ciera Johnson made Layup. Assisted by Chennedy Carter.,27,33,-6,24,0.2946522181676971,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+144,2,1:34,1294,1294,Rennia Davis missed Three Point Jumper.,27,33,-6,0,0.2927054401073252,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+145,2,1:34,1294,1294,Lou Brown Offensive Rebound.,27,33,-6,14,0.2927054401073252,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+146,2,1:20,1280,1280,Foul on Chennedy Carter.,27,33,-6,0,0.2915262812000585,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+147,2,1:20,1280,1280,Rae Burrell missed Free Throw.,27,33,-6,0,0.2915262812000585,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+148,2,1:20,1280,1280,Tennessee Deadball Team Rebound.,27,33,-6,0,0.2915262812000585,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+149,2,1:20,1280,1280,Rae Burrell missed Free Throw.,27,33,-6,0,0.2915262812000585,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+150,2,1:20,1280,1280,Kamera Harris Offensive Rebound.,27,33,-6,2,0.2915262812000585,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+151,2,1:18,1278,1278,Kamera Harris missed Jumper.,27,33,-6,0,0.29135471066480156,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+152,2,1:18,1278,1278,Tennessee Offensive Rebound.,27,33,-6,13,0.29135471066480156,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+153,2,1:05,1265,1265,Rae Burrell missed Jumper.,27,33,-6,0,0.2902183077014585,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+154,2,1:05,1265,1265,Ciera Johnson Defensive Rebound.,27,33,-6,16,0.2902183077014585,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+155,2,0:49,1249,1249,Shambria Washington Turnover.,27,33,-6,0,0.28876372139938317,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+156,2,0:49,1249,1249,Lou Brown Steal.,27,33,-6,5,0.28876372139938317,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+157,2,0:44,1244,1244,Foul on N'dea Jones.,27,33,-6,14,0.28829515100739384,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+158,2,0:30,1230,1230,Rae Burrell made Three Point Jumper. Assisted by Rennia Davis.,30,33,-3,26,0.38814032576785695,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Tennessee
+159,2,0:04,1204,1204,Shambria Washington made Three Point Jumper. Assisted by Ciera Johnson.,30,36,-6,4,0.28427674156511656,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,Texas A&M
+160,2,0:00,1200,1200,End of 2nd Quarter,30,36,-6,0,0.28386293076294067,Tennessee,Texas A&M,4,4,0,0,NA,401166717,2020-02-16,
+161,3,10:00,1200,1200,Jump Ball won by Tennessee,30,36,-6,22,0.28386293076294067,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+162,3,9:38,1178,1178,Tamari Key missed Jumper.,30,36,-6,0,0.28164609958719,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+163,3,9:38,1178,1178,N'dea Jones Defensive Rebound.,30,36,-6,25,0.28164609958719,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+164,3,9:13,1153,1153,Shambria Washington made Jumper.,30,38,-8,15,0.22020319387320078,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Texas A&M
+165,3,8:58,1138,1138,Lou Brown missed Three Point Jumper.,30,38,-8,0,0.21857215587905873,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+166,3,8:58,1138,1138,Tennessee Offensive Rebound.,30,38,-8,10,0.21857215587905873,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+167,3,8:48,1128,1128,Rae Burrell missed Layup.,30,38,-8,0,0.2174901756093249,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+168,3,8:48,1128,1128,Tamari Key Offensive Rebound.,30,38,-8,6,0.2174901756093249,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+169,3,8:42,1122,1122,Tamari Key made Layup.,32,38,-6,0,0.2762524340072845,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Tennessee
+170,3,8:42,1122,1122,Foul on Chennedy Carter.,32,38,-6,0,0.2762524340072845,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+171,3,8:42,1122,1122,Tamari Key made Free Throw.,33,38,-5,5,0.3094682747440428,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Tennessee
+172,3,8:37,1117,1117,Chennedy Carter missed Jumper.,33,38,-5,0,0.3090422646465221,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+173,3,8:37,1117,1117,Shambria Washington Offensive Rebound.,33,38,-5,14,0.3090422646465221,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+174,3,8:23,1103,1103,Foul on Rae Burrell.,33,38,-5,0,0.30784167362862186,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+175,3,8:23,1103,1103,Kayla Wells made Free Throw.,33,39,-6,0,0.27442728976445346,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Texas A&M
+176,3,8:23,1103,1103,Kayla Wells made Free Throw.,33,40,-7,7,0.2433646000195646,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Texas A&M
+177,3,8:16,1096,1096,Lou Brown missed Jumper.,33,40,-7,0,0.2426312666605898,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+178,3,8:16,1096,1096,N'dea Jones Defensive Rebound.,33,40,-7,18,0.2426312666605898,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+179,3,7:58,1078,1078,Foul on Kayla Wells.,33,40,-7,0,0.24071613964215108,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+180,3,7:58,1078,1078,Kayla Wells Turnover.,33,40,-7,17,0.24071613964215108,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+181,3,7:41,1061,1061,Foul on Ciera Johnson.,33,40,-7,0,0.23885466326009552,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+182,3,7:41,1061,1061,Tamari Key missed Free Throw.,33,40,-7,0,0.23885466326009552,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+183,3,7:41,1061,1061,Tennessee Deadball Team Rebound.,33,40,-7,0,0.23885466326009552,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+184,3,7:41,1061,1061,Tamari Key missed Free Throw.,33,40,-7,0,0.23885466326009552,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+185,3,7:41,1061,1061,Chennedy Carter Defensive Rebound.,33,40,-7,13,0.23885466326009552,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+186,3,7:28,1048,1048,Kayla Wells missed Jumper.,33,40,-7,0,0.23738643215895144,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+187,3,7:28,1048,1048,Jordan Horston Defensive Rebound.,33,40,-7,8,0.23738643215895144,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+188,3,7:20,1040,1040,Lou Brown made Three Point Jumper. Assisted by Rennia Davis.,36,40,-4,18,0.3385371262733652,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Tennessee
+189,3,7:02,1022,1022,Chennedy Carter made Three Point Jumper. Assisted by Shambria Washington.,36,43,-7,10,0.234303651503528,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Texas A&M
+190,3,6:52,1012,1012,Jordan Horston missed Three Point Jumper.,36,43,-7,0,0.23305698297833974,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+191,3,6:52,1012,1012,N'dea Jones Defensive Rebound.,36,43,-7,13,0.23305698297833974,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+192,3,6:39,999,999,Shambria Washington made Three Point Jumper. Assisted by Chennedy Carter.,36,46,-10,27,0.1525081282297509,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Texas A&M
+193,3,6:12,972,972,Rae Burrell missed Layup.,36,46,-10,0,0.14866322414245803,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+194,3,6:12,972,972,N'dea Jones Defensive Rebound.,36,46,-10,16,0.14866322414245803,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+195,3,5:56,956,956,Chennedy Carter missed Three Point Jumper.,36,46,-10,0,0.1463711715662233,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+196,3,5:56,956,956,Rae Burrell Defensive Rebound.,36,46,-10,4,0.1463711715662233,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+197,3,5:52,952,952,Jordan Horston missed Layup.,36,46,-10,0,0.14583313987560378,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+198,3,5:52,952,952,Chennedy Carter Defensive Rebound.,36,46,-10,17,0.14583313987560378,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+199,3,5:35,935,935,Kayla Wells missed Three Point Jumper.,36,46,-10,0,0.14368013919569883,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+200,3,5:35,935,935,N'dea Jones Offensive Rebound.,36,46,-10,16,0.14368013919569883,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+201,3,5:19,919,919,Kayla Wells missed Jumper.,36,46,-10,0,0.14181493984201646,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+202,3,5:19,919,919,Rennia Davis Block.,36,46,-10,0,0.14181493984201646,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+203,3,5:19,919,919,Tamari Key Defensive Rebound.,36,46,-10,6,0.14181493984201646,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+204,3,5:13,913,913,Rae Burrell made Jumper. Assisted by Rennia Davis.,38,46,-8,26,0.19082781596484408,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Tennessee
+205,3,4:47,887,887,Chennedy Carter missed Jumper.,38,46,-8,0,0.1879974071316525,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+206,3,4:47,887,887,Rae Burrell Block.,38,46,-8,0,0.1879974071316525,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+207,3,4:47,887,887,Chennedy Carter Offensive Rebound.,38,46,-8,2,0.1879974071316525,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+208,3,4:45,885,885,Foul on Rae Burrell.,38,46,-8,0,0.1877845199451703,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+209,3,4:45,885,885,Official TV Timeout,38,46,-8,0,0.1877845199451703,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+210,3,4:45,885,885,Chennedy Carter made Free Throw.,38,47,-9,0,0.16144314368412943,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Texas A&M
+211,3,4:45,885,885,Chennedy Carter made Free Throw.,38,48,-10,14,0.13816821977503643,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Texas A&M
+212,3,4:31,871,871,Jazmine Massengill missed Jumper.,38,48,-10,0,0.1367196058441308,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+213,3,4:31,871,871,N'dea Jones Defensive Rebound.,38,48,-10,24,0.1367196058441308,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+214,3,4:07,847,847,Kayla Wells missed Three Point Jumper.,38,48,-10,0,0.1342038496804832,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+215,3,4:07,847,847,Aaliyah Wilson Offensive Rebound.,38,48,-10,11,0.1342038496804832,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+216,3,3:56,836,836,Aaliyah Wilson missed Three Point Jumper.,38,48,-10,0,0.1330087429128303,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+217,3,3:56,836,836,N'dea Jones Offensive Rebound.,38,48,-10,23,0.1330087429128303,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+218,3,3:33,813,813,Ciera Johnson missed Jumper.,38,48,-10,0,0.13035986447881848,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+219,3,3:33,813,813,Rae Burrell Defensive Rebound.,38,48,-10,19,0.13035986447881848,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+220,3,3:14,794,794,Rennia Davis made Three Point Jumper.,41,48,-7,22,0.20695685279392212,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Tennessee
+221,3,2:52,772,772,Shambria Washington Turnover.,41,48,-7,17,0.20376803459338133,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+222,3,2:35,755,755,Rennia Davis missed Three Point Jumper.,41,48,-7,0,0.20100371590396326,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+223,3,2:35,755,755,Texas A&M Defensive Rebound.,41,48,-7,23,0.20100371590396326,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+224,3,2:12,732,732,Chennedy Carter missed Three Point Jumper.,41,48,-7,0,0.19677945541807432,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+225,3,2:12,732,732,Ciera Johnson Offensive Rebound.,41,48,-7,1,0.19677945541807432,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+226,3,2:11,731,731,Foul on Rae Burrell.,41,48,-7,16,0.19658208546847664,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+227,3,1:55,715,715,Kayla Wells missed Three Point Jumper.,41,48,-7,0,0.1935766871008082,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+228,3,1:55,715,715,Rennia Davis Defensive Rebound.,41,48,-7,10,0.1935766871008082,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+229,3,1:45,705,705,Rae Burrell made Layup. Assisted by Rennia Davis.,43,48,-5,0,0.2636586748181301,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Tennessee
+230,3,1:45,705,705,Foul on Ciera Johnson.,43,48,-5,0,0.2636586748181301,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+231,3,1:45,705,705,Rae Burrell made Free Throw.,44,48,-4,18,0.3054176129745388,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Tennessee
+232,3,1:27,687,687,Jump Ball won by Texas A&M,44,48,-4,9,0.30321718190068697,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+233,3,1:18,678,678,Foul on Kasiyahna Kushkituah.,44,48,-4,2,0.30217756271443946,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+234,3,1:16,676,676,N'dea Jones made Layup. Assisted by Shambria Washington.,44,50,-6,12,0.2214831993409447,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Texas A&M
+235,3,1:04,664,664,Kasiyahna Kushkituah Turnover.,44,50,-6,10,0.2198280059359144,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+236,3,0:54,654,654,Chennedy Carter Turnover.,44,50,-6,0,0.2184555003094606,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+237,3,0:54,654,654,Jordan Horston Steal.,44,50,-6,6,0.2184555003094606,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+238,3,0:48,648,648,Rae Burrell made Layup. Assisted by Jordan Horston.,46,50,-4,0,0.29879533856286733,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Tennessee
+239,3,0:48,648,648,Foul on N'dea Jones.,46,50,-4,0,0.29879533856286733,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+240,3,0:48,648,648,Rae Burrell made Free Throw.,47,50,-3,12,0.34529611161763624,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Tennessee
+241,3,0:36,636,636,Chennedy Carter missed Jumper.,47,50,-3,0,0.344165549885496,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+242,3,0:36,636,636,Kasiyahna Kushkituah Defensive Rebound.,47,50,-3,20,0.344165549885496,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+243,3,0:16,616,616,Jordan Horston Turnover.,47,50,-3,0,0.3421360196559103,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+244,3,0:16,616,616,Chennedy Carter Steal.,47,50,-3,5,0.3421360196559103,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+245,3,0:11,611,611,Chennedy Carter made Layup.,47,52,-5,0,0.25092178612909405,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Texas A&M
+246,3,0:11,611,611,Foul on Jordan Horston.,47,52,-5,0,0.25092178612909405,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+247,3,0:11,611,611,Chennedy Carter made Free Throw.,47,53,-6,7,0.212078404974777,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Texas A&M
+248,3,0:04,604,604,Kasiyahna Kushkituah Turnover.,47,53,-6,0,0.21089278532562464,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+249,3,0:04,604,604,Kayla Wells Steal.,47,53,-6,4,0.21089278532562464,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+250,3,0:00,600,600,End of 3rd Quarter,47,53,-6,0,0.2101886602059725,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+251,4,10:00,600,600,Jump Ball won by Tennessee,47,53,-6,13,0.2101886602059725,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,
+252,4,9:47,587,587,Tamari Key made Layup. Assisted by Jordan Horston.,49,53,-4,0,0.2906223494701497,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,Tennessee
+253,4,9:47,587,587,Foul on Ciera Johnson.,49,53,-4,0,0.2906223494701497,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,
+254,4,9:47,587,587,Tamari Key missed Free Throw.,49,53,-4,0,0.2906223494701497,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,
+255,4,9:47,587,587,Ciera Johnson Defensive Rebound.,49,53,-4,11,0.2906223494701497,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,
+256,4,9:36,576,576,Chennedy Carter missed Jumper.,49,53,-4,0,0.28872521044171073,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,
+257,4,9:36,576,576,Jordan Horston Defensive Rebound.,49,53,-4,12,0.28872521044171073,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,
+258,4,9:24,564,564,Foul on Ciera Johnson.,49,53,-4,0,0.28644269354072116,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,
+259,4,9:24,564,564,Tamari Key missed Free Throw.,49,53,-4,0,0.28644269354072116,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,
+260,4,9:24,564,564,Tennessee Deadball Team Rebound.,49,53,-4,0,0.28644269354072116,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,
+261,4,9:24,564,564,Tamari Key missed Free Throw.,49,53,-4,0,0.28644269354072116,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,
+262,4,9:24,564,564,Tennessee Offensive Rebound.,49,53,-4,2,0.28644269354072116,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,
+263,4,9:22,562,562,Jordan Horston Turnover.,49,53,-4,0,0.28603879570681473,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,
+264,4,9:22,562,562,Cheah Rael-Whitsitt Steal.,49,53,-4,5,0.28603879570681473,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,
+265,4,9:17,557,557,Foul on Tamari Key.,49,53,-4,0,0.2849979593387163,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,
+266,4,9:17,557,557,Cheah Rael-Whitsitt made Free Throw.,49,54,-5,0,0.2405339784674491,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,Texas A&M
+267,4,9:17,557,557,Cheah Rael-Whitsitt made Free Throw.,49,55,-6,12,0.20105637176478128,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,Texas A&M
+268,4,9:05,545,545,Jordan Horston Turnover.,49,55,-6,0,0.19795738157274298,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,
+269,4,9:05,545,545,Shambria Washington Steal.,49,55,-6,16,0.19795738157274298,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,
+270,4,8:49,529,529,Kayla Wells missed Three Point Jumper.,49,55,-6,0,0.19432799829696437,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,
+271,4,8:49,529,529,Lou Brown Defensive Rebound.,49,55,-6,13,0.19432799829696437,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,
+272,4,8:36,516,516,Jordan Horston made Layup.,51,55,-4,14,0.277062181386908,Tennessee,Texas A&M,6,6,0,0,NA,401166717,2020-02-16,Tennessee
+273,4,8:22,502,502,Texas A&M  Timeout,51,55,-4,17,0.2748221378215285,Tennessee,Texas A&M,5,6,1,0,NA,401166717,2020-02-16,
+274,4,8:05,485,485,Foul on Jordan Horston.,51,55,-4,0,0.2720513129941554,Tennessee,Texas A&M,5,6,1,0,NA,401166717,2020-02-16,
+275,4,8:05,485,485,Chennedy Carter made Free Throw.,51,56,-5,0,0.22612895329853314,Tennessee,Texas A&M,5,6,1,0,NA,401166717,2020-02-16,Texas A&M
+276,4,8:05,485,485,Chennedy Carter made Free Throw.,51,57,-6,18,0.18597788087067257,Tennessee,Texas A&M,5,6,1,0,NA,401166717,2020-02-16,Texas A&M
+277,4,7:47,467,467,Jordan Horston missed Jumper.,51,57,-6,0,0.18219821064618846,Tennessee,Texas A&M,5,6,1,0,NA,401166717,2020-02-16,
+278,4,7:47,467,467,Shambria Washington Defensive Rebound.,51,57,-6,7,0.18219821064618846,Tennessee,Texas A&M,5,6,1,0,NA,401166717,2020-02-16,
+279,4,7:40,460,460,Foul on Anna Dreimane.,51,57,-6,0,0.18053546806673798,Tennessee,Texas A&M,5,6,1,0,NA,401166717,2020-02-16,
+280,4,7:40,460,460,Anna Dreimane Turnover.,51,57,-6,12,0.18053546806673798,Tennessee,Texas A&M,5,6,1,0,NA,401166717,2020-02-16,
+281,4,7:28,448,448,Rennia Davis made Layup. Assisted by Jordan Horston.,53,57,-4,27,0.26445342148392426,Tennessee,Texas A&M,5,6,1,0,NA,401166717,2020-02-16,Tennessee
+282,4,7:01,421,421,Aaliyah Wilson missed Jumper.,53,57,-4,0,0.2564999687820078,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+283,4,7:01,421,421,Lou Brown Defensive Rebound.,53,57,-4,20,0.2564999687820078,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+284,4,6:41,401,401,Rae Burrell Turnover.,53,57,-4,0,0.25081590646643953,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+285,4,6:41,401,401,Kayla Wells Steal.,53,57,-4,0,0.25081590646643953,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+286,4,6:41,401,401,Foul on Tamari Key.,53,57,-4,29,0.25081590646643953,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+287,4,6:12,372,372,Foul on Jordan Horston.,53,57,-4,0,0.24279625938293115,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+288,4,6:12,372,372,Chennedy Carter made Free Throw.,53,58,-5,0,0.19438548533811423,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,Texas A&M
+289,4,6:12,372,372,Chennedy Carter made Free Throw.,53,59,-6,0,0.15366835463211212,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,Texas A&M
+290,4,6:12,372,372,Chennedy Carter made Free Throw.,53,60,-7,28,0.12020746633736366,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,Texas A&M
+291,4,5:44,344,344,Foul on N'dea Jones.,53,60,-7,0,0.111347920037317,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+292,4,5:44,344,344,Jaiden McCoy missed Free Throw.,53,60,-7,0,0.111347920037317,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+293,4,5:44,344,344,Tennessee Deadball Team Rebound.,53,60,-7,0,0.111347920037317,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+294,4,5:44,344,344,Jaiden McCoy missed Free Throw.,53,60,-7,0,0.111347920037317,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+295,4,5:44,344,344,Chennedy Carter Defensive Rebound.,53,60,-7,13,0.111347920037317,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+296,4,5:31,331,331,Kayla Wells missed Three Point Jumper.,53,60,-7,0,0.10657630901602194,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+297,4,5:31,331,331,Rennia Davis Defensive Rebound.,53,60,-7,10,0.10657630901602194,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+298,4,5:21,321,321,Rennia Davis made Three Point Jumper. Assisted by Jazmine Massengill.,56,60,-4,27,0.22451016610200186,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,Tennessee
+299,4,4:54,294,294,Chennedy Carter made Three Point Jumper. Assisted by Kayla Wells.,56,63,-7,14,0.0935623982059504,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,Texas A&M
+300,4,4:40,280,280,Jaiden McCoy made Layup. Assisted by Rennia Davis.,58,63,-5,24,0.16509448780268848,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,Tennessee
+301,4,4:16,256,256,Cheah Rael-Whitsitt missed Layup.,58,63,-5,0,0.16962357563040495,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+302,4,4:16,256,256,Rennia Davis Block.,58,63,-5,0,0.16962357563040495,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+303,4,4:16,256,256,Rennia Davis Defensive Rebound.,58,63,-5,8,0.16962357563040495,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+304,4,4:08,248,248,Foul on Shambria Washington.,58,63,-5,0,0.1710847835348219,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+305,4,4:08,248,248,Official TV Timeout,58,63,-5,0,0.1710847835348219,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+306,4,4:08,248,248,Rennia Davis made Free Throw.,59,63,-4,0,0.22056671142046072,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,Tennessee
+307,4,4:08,248,248,Rennia Davis made Free Throw.,60,63,-3,24,0.27953382145089267,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,Tennessee
+308,4,3:44,224,224,Kayla Wells missed Layup.,60,63,-3,0,0.2791259755241864,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+309,4,3:44,224,224,Kayla Wells Offensive Rebound.,60,63,-3,21,0.2791259755241864,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+310,4,3:23,203,203,Foul on Jaiden McCoy.,60,63,-3,0,0.2691463125864909,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+311,4,3:23,203,203,Ciera Johnson made Free Throw.,60,64,-4,0,0.20883795556315396,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,Texas A&M
+312,4,3:23,203,203,Ciera Johnson made Free Throw.,60,65,-5,12,0.15910128121577996,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,Texas A&M
+313,4,3:11,191,191,Jaiden McCoy missed Jumper.,60,65,-5,0,0.14631991722030271,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+314,4,3:11,191,191,N'dea Jones Defensive Rebound.,60,65,-5,2,0.14631991722030271,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+315,4,3:09,189,189,Foul on Rennia Davis.,60,65,-5,0,0.14375709419731145,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+316,4,3:09,189,189,N'dea Jones made Free Throw.,60,66,-6,0,0.10514560726807366,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,Texas A&M
+317,4,3:09,189,189,N'dea Jones missed Free Throw.,60,66,-6,0,0.10514560726807366,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+318,4,3:09,189,189,Jazmine Massengill Defensive Rebound.,60,66,-6,10,0.10514560726807366,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+319,4,2:59,179,179,Rennia Davis missed Three Point Jumper.,60,66,-6,0,0.09387248889171766,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+320,4,2:59,179,179,Tennessee Offensive Rebound.,60,66,-6,10,0.09387248889171766,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+321,4,2:49,169,169,Tamari Key Turnover.,60,66,-6,26,0.0834062961380627,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+322,4,2:23,143,143,N'dea Jones missed Layup.,60,66,-6,0,0.05878035486244934,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+323,4,2:23,143,143,Rennia Davis Defensive Rebound.,60,66,-6,15,0.05878035486244934,Tennessee,Texas A&M,5,6,0,0,NA,401166717,2020-02-16,
+324,4,2:08,128,128,Tennessee  Timeout,60,66,-6,12,0.04600019417473521,Tennessee,Texas A&M,5,5,0,1,NA,401166717,2020-02-16,
+325,4,1:56,116,116,Rae Burrell missed Three Point Jumper.,60,66,-6,0,0.036636275560818554,Tennessee,Texas A&M,5,5,0,1,NA,401166717,2020-02-16,
+326,4,1:56,116,116,N'dea Jones Defensive Rebound.,60,66,-6,3,0.036636275560818554,Tennessee,Texas A&M,5,5,0,1,NA,401166717,2020-02-16,
+327,4,1:53,113,113,Foul on Rennia Davis.,60,66,-6,0,0.03443493370241985,Tennessee,Texas A&M,5,5,0,1,NA,401166717,2020-02-16,
+328,4,1:53,113,113,N'dea Jones made Free Throw.,60,67,-7,0,0.020050461362567565,Tennessee,Texas A&M,5,5,0,1,NA,401166717,2020-02-16,Texas A&M
+329,4,1:53,113,113,N'dea Jones made Free Throw.,60,68,-8,10,0.011602596900662038,Tennessee,Texas A&M,5,5,0,1,NA,401166717,2020-02-16,Texas A&M
+330,4,1:43,103,103,Jazmine Massengill made Jumper.,62,68,-6,23,0.027555536852520813,Tennessee,Texas A&M,5,5,0,1,NA,401166717,2020-02-16,Tennessee
+331,4,1:20,80,80,Foul on Rae Burrell.,62,68,-6,0,0.015156318754388002,Tennessee,Texas A&M,5,5,0,1,NA,401166717,2020-02-16,
+332,4,1:20,80,80,Chennedy Carter made Free Throw.,62,69,-7,0,0.0076168757145929425,Tennessee,Texas A&M,5,5,0,1,NA,401166717,2020-02-16,Texas A&M
+333,4,1:20,80,80,Chennedy Carter missed Free Throw.,62,69,-7,0,0.0076168757145929425,Tennessee,Texas A&M,5,5,0,1,NA,401166717,2020-02-16,
+334,4,1:20,80,80,Jaiden McCoy Defensive Rebound.,62,69,-7,8,0.0076168757145929425,Tennessee,Texas A&M,5,5,0,1,NA,401166717,2020-02-16,
+335,4,1:12,72,72,Lou Brown made Jumper. Assisted by Rennia Davis.,64,69,-5,24,0.024781701362225753,Tennessee,Texas A&M,5,5,0,1,NA,401166717,2020-02-16,Tennessee
+336,4,0:48,48,48,Foul on Rae Burrell.,64,69,-5,0,0.013191971985376541,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+337,4,0:48,48,48,Chennedy Carter made Free Throw.,64,70,-6,0,0.005608540256019785,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,Texas A&M
+338,4,0:48,48,48,Chennedy Carter missed Free Throw.,64,70,-6,0,0.005608540256019785,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+339,4,0:48,48,48,Lou Brown Defensive Rebound.,64,70,-6,0,0.005608540256019785,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+340,4,0:48,48,48,Rennia Davis missed Three Point Jumper.,64,70,-6,0,0.005608540256019785,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+341,4,0:48,48,48,Jaiden McCoy Offensive Rebound.,64,70,-6,16,0.005608540256019785,Tennessee,Texas A&M,5,5,0,0,NA,401166717,2020-02-16,
+342,4,0:32,32,32,Jordan Horston made Three Point Jumper. Assisted by Jazmine Massengill.,67,70,-3,0,0.0533281917103963,Tennessee,Texas A&M,5,5,1,0,NA,401166717,2020-02-16,Tennessee
+343,4,0:32,32,32,Texas A&M  Timeout,67,70,-3,23,0.0533281917103963,Tennessee,Texas A&M,4,5,1,0,NA,401166717,2020-02-16,
+344,4,0:09,9,9,Foul on Jazmine Massengill.,67,70,-3,0,0.03445157466119594,Tennessee,Texas A&M,4,5,1,0,NA,401166717,2020-02-16,
+345,4,0:09,9,9,Chennedy Carter made Free Throw.,67,71,-4,0,0.011610250459567963,Tennessee,Texas A&M,4,5,1,0,NA,401166717,2020-02-16,Texas A&M
+346,4,0:09,9,9,Chennedy Carter made Free Throw.,67,72,-5,6,0.003852258741356231,Tennessee,Texas A&M,4,5,1,0,NA,401166717,2020-02-16,Texas A&M
+347,4,0:03,3,3,Jazmine Massengill made Jumper.,69,72,-3,0,0.030400848236932055,Tennessee,Texas A&M,4,5,1,0,NA,401166717,2020-02-16,Tennessee
+348,4,0:03,3,3,Texas A&M  Timeout,69,72,-3,2,0.030400848236932055,Tennessee,Texas A&M,3,5,1,0,NA,401166717,2020-02-16,
+349,4,0:01,1,1,Foul on Lou Brown.,69,72,-3,0,0.029136972928700006,Tennessee,Texas A&M,3,5,1,1,NA,401166717,2020-02-16,
+350,4,0:01,1,1,Ciera Johnson made Free Throw.,69,73,-4,0,0.00924024840272953,Tennessee,Texas A&M,3,5,1,1,NA,401166717,2020-02-16,Texas A&M
+351,4,0:01,1,1,Ciera Johnson missed Free Throw.,69,73,-4,0,0.00924024840272953,Tennessee,Texas A&M,3,5,1,1,NA,401166717,2020-02-16,
+352,4,0:01,1,1,Jordan Horston Defensive Rebound.,69,73,-4,0,0.00924024840272953,Tennessee,Texas A&M,3,5,1,1,NA,401166717,2020-02-16,
+353,4,0:01,1,1,Tennessee  Timeout,69,73,-4,0,0.00924024840272953,Tennessee,Texas A&M,3,4,1,1,NA,401166717,2020-02-16,
+354,4,0:01,1,1,Rennia Davis made Layup. Assisted by Jordan Horston.,71,73,-2,1,0.08806836377885878,Tennessee,Texas A&M,3,4,1,1,NA,401166717,2020-02-16,Tennessee
+355,4,0:00,0,0,End of Game,71,73,-2,0,4.248354255291589e-18,Tennessee,Texas A&M,3,4,1,1,NA,401166717,2020-02-16,

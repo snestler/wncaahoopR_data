@@ -1,0 +1,377 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:45,2385,2385,Jackie Benitez Turnover.,0,0,0,11,0.5,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,NA
+2,1,9:34,2374,2374,Taylor Williams missed Jumper.,0,0,0,0,0.5,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+3,1,9:34,2374,2374,Rayne Tucker Block.,0,0,0,4,0.5,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+4,1,9:30,2370,2370,Rayne Tucker Defensive Rebound.,0,0,0,1,0.5,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+5,1,9:29,2369,2369,Rayne Tucker Turnover.,0,0,0,0,0.5,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+6,1,9:29,2369,2369,Taylor Williams Steal.,0,0,0,16,0.5,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+7,1,9:13,2353,2353,Foul on Tyler Collins.,0,0,0,0,0.5,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+8,1,9:13,2353,2353,Tyler Collins Turnover.,0,0,0,9,0.5,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+9,1,9:04,2344,2344,Rayne Tucker made Layup. Assisted by Lexie Barrier.,2,0,2,17,0.5452207909535292,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,James Madison
+10,1,8:47,2327,2327,Madison Taylor missed Three Point Jumper.,2,0,2,0,0.5455916255074778,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+11,1,8:47,2327,2327,Lexie Barrier Block.,2,0,2,4,0.5455916255074778,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+12,1,8:43,2323,2323,Jackie Benitez Defensive Rebound.,2,0,2,2,0.5456793799013266,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+13,1,8:41,2321,2321,Kamiah Smalls made Layup.,4,0,4,19,0.5906882721984543,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,James Madison
+14,1,8:22,2302,2302,Foul on Rayne Tucker.,4,0,4,0,0.5915066978344744,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+15,1,8:22,2302,2302,Arynn Eady missed Free Throw.,4,0,4,0,0.5915066978344744,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+16,1,8:22,2302,2302,Charleston Offensive Rebound.,4,0,4,0,0.5915066978344744,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+17,1,8:22,2302,2302,Arynn Eady made Free Throw.,4,1,3,12,0.5689695343354628,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,Charleston
+18,1,8:10,2290,2290,Jackie Benitez missed Jumper.,4,1,3,2,0.5693657856264321,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+19,1,8:08,2288,2288,Rayne Tucker Offensive Rebound.,4,1,3,10,0.5694320281024181,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+20,1,7:58,2278,2278,Kiki Jefferson made Three Point Jumper. Assisted by Lexie Barrier.,7,1,6,18,0.6368636499266205,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,James Madison
+21,1,7:40,2260,2260,Latrice Perkins Turnover.,7,1,6,0,0.6379969379207564,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+22,1,7:40,2260,2260,Kamiah Smalls Steal.,7,1,6,13,0.6379969379207564,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+23,1,7:27,2247,2247,Kamiah Smalls missed Layup.,7,1,6,5,0.6388192071863054,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+24,1,7:22,2242,2242,Arynn Eady Defensive Rebound.,7,1,6,6,0.6391362268834194,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+25,1,7:16,2236,2236,Taylor Williams made Three Point Jumper.,7,4,3,12,0.5711720209350643,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,Charleston
+26,1,7:04,2224,2224,Jackie Benitez missed Jumper.,7,4,3,5,0.5715777322884183,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+27,1,6:59,2219,2219,Latrice Perkins Defensive Rebound.,7,4,3,6,0.5717471640502922,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+28,1,6:53,2213,2213,Madison Taylor missed Three Point Jumper.,7,4,3,4,0.5719507615723202,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+29,1,6:49,2209,2209,Jackie Benitez Defensive Rebound.,7,4,3,2,0.5720866547628288,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+30,1,6:47,2207,2207,Kiki Jefferson made Layup.,9,4,5,27,0.618789285527497,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,James Madison
+31,1,6:20,2180,2180,Madison Taylor Turnover.,9,4,5,0,0.6202671196187596,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+32,1,6:20,2180,2180,Kamiah Smalls Steal.,9,4,5,6,0.6202671196187596,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+33,1,6:14,2174,2174,Kiki Jefferson made Layup. Assisted by Lexie Barrier.,11,4,7,0,0.6657248284957081,James Madison,Charleston,4,4,1,0,NA,401178602,2020-02-14,James Madison
+34,1,6:14,2174,2174,Charleston  Timeout,11,4,7,0,0.6657248284957081,James Madison,Charleston,3,4,1,0,NA,401178602,2020-02-14,
+35,1,6:14,2174,2174,Official TV Timeout,11,4,7,12,0.6657248284957081,James Madison,Charleston,3,4,1,0,NA,401178602,2020-02-14,
+36,1,6:02,2162,2162,Tyler Collins made Jumper.,11,6,5,27,0.6212555506076182,James Madison,Charleston,3,4,1,0,NA,401178602,2020-02-14,Charleston
+37,1,5:35,2135,2135,Lexie Barrier made Jumper.,13,6,7,14,0.6685675719391276,James Madison,Charleston,3,4,1,0,NA,401178602,2020-02-14,James Madison
+38,1,5:21,2121,2121,Tyler Collins made Jumper.,13,8,5,20,0.6235250671619081,James Madison,Charleston,3,4,1,0,NA,401178602,2020-02-14,Charleston
+39,1,5:01,2101,2101,Lexie Barrier Turnover.,13,8,5,13,0.6246429707478004,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+40,1,4:48,2088,2088,Tyler Collins missed Layup.,13,8,5,1,0.6253738122342009,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+41,1,4:47,2087,2087,James Madison Defensive Rebound.,13,8,5,7,0.6254301739504524,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+42,1,4:40,2080,2080,Kamiah Smalls missed Layup.,13,8,5,1,0.625825293157319,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+43,1,4:39,2079,2079,Charleston Defensive Rebound.,13,8,5,17,0.6258818235372359,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+44,1,4:22,2062,2062,Arynn Eady missed Layup.,13,8,5,1,0.6268461775951617,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+45,1,4:21,2061,2061,Charleston Offensive Rebound.,13,8,5,18,0.6269031048629435,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+46,1,4:03,2043,2043,Taylor Williams made Jumper.,13,10,3,12,0.577864370066,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,Charleston
+47,1,3:51,2031,2031,Jaylin Carodine made Layup.,15,10,5,16,0.6286218347827178,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,James Madison
+48,1,3:35,2015,2015,Tyler Collins missed Layup.,15,10,5,0,0.6295475499535355,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+49,1,3:35,2015,2015,James Madison Defensive Rebound.,15,10,5,15,0.6295475499535355,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+50,1,3:20,2000,2000,Kamiah Smalls Turnover.,15,10,5,10,0.6304214768429788,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+51,1,3:10,1990,1990,Tyler Collins missed Three Point Jumper.,15,10,5,4,0.6310074815978705,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+52,1,3:06,1986,1986,Latrice Perkins Offensive Rebound.,15,10,5,7,0.6312426617053879,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+53,1,2:59,1979,1979,Tyler Collins missed Layup.,15,10,5,1,0.6316553163282511,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+54,1,2:58,1978,1978,James Madison Defensive Rebound.,15,10,5,0,0.6317143813260071,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+55,1,2:58,1978,1978,Foul on Nia Covington.,15,10,5,20,0.6317143813260071,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+56,1,2:38,1958,1958,Foul on Latrice Perkins.,15,10,5,0,0.6329018243210727,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+57,1,2:38,1958,1958,Jaylin Carodine made Free Throw.,16,10,6,0,0.6578264755996845,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,James Madison
+58,1,2:38,1958,1958,Jaylin Carodine missed Free Throw.,16,10,6,3,0.6578264755996845,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+59,1,2:35,1955,1955,Kiki Jefferson Offensive Rebound.,16,10,6,3,0.6580347361738853,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+60,1,2:32,1952,1952,Foul on Taylor Williams.,16,10,6,6,0.6582432970252516,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+61,1,2:26,1946,1946,Lexie Barrier missed Jumper.,16,10,6,2,0.6586613280258267,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+62,1,2:24,1944,1944,Charleston Defensive Rebound.,16,10,6,25,0.6588009434086132,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+63,1,1:59,1919,1919,Foul on Nia Covington.,16,10,6,0,0.6605545475273218,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+64,1,1:59,1919,1919,Nia Covington Turnover.,16,10,6,9,0.6605545475273218,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+65,1,1:50,1910,1910,Kiki Jefferson made Three Point Jumper. Assisted by Madison Green.,19,10,9,18,0.7316223452575451,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,James Madison
+66,1,1:32,1892,1892,Tyler Collins Turnover.,19,10,9,17,0.7332747515771676,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+67,1,1:15,1875,1875,Jaylin Carodine missed Jumper.,19,10,9,5,0.7348300583594978,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+68,1,1:10,1870,1870,Tyler Collins Defensive Rebound.,19,10,9,9,0.7352869186168385,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+69,1,1:01,1861,1861,Tyler Collins missed Jumper.,19,10,9,3,0.7361089477940735,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+70,1,0:58,1858,1858,Kamiah Smalls Defensive Rebound.,19,10,9,3,0.7363829204689012,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+71,1,0:55,1855,1855,Madison Green made Three Point Jumper. Assisted by Kamiah Smalls.,22,10,12,20,0.797630893310101,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,James Madison
+72,1,0:35,1835,1835,Madison Taylor missed Layup.,22,10,12,2,0.7996555205941874,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+73,1,0:33,1833,1833,Arynn Eady Offensive Rebound.,22,10,12,1,0.7998578754916765,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+74,1,0:32,1832,1832,Arynn Eady missed Layup.,22,10,12,3,0.7999590520554465,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+75,1,0:29,1829,1829,Kayla Cooper-Williams Defensive Rebound.,22,10,12,21,0.8002625848846845,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+76,1,0:08,1808,1808,Kamiah Smalls Turnover.,22,10,12,8,0.8023886021960914,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+77,1,0:00,1800,1800,Latrice Perkins missed Three Point Jumper.,22,10,12,0,0.8031997778152151,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+78,1,0:00,1800,1800,James Madison Defensive Rebound.,22,10,12,0,0.8031997778152151,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+79,1,0:00,1800,1800,End of 1st Quarter,22,10,12,8,0.8031997778152151,James Madison,Charleston,3,4,0,0,NA,401178602,2020-02-14,
+80,2,9:52,1792,1792,Latrice Perkins missed Jumper.,22,10,12,3,0.8040120721018893,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+81,2,9:49,1789,1789,Jackie Benitez Defensive Rebound.,22,10,12,13,0.8043170256469057,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+82,2,9:36,1776,1776,James Madison  Timeout,22,10,12,0,0.8056410839986022,James Madison,Charleston,4,3,0,1,NA,401178602,2020-02-14,
+83,2,9:36,1776,1776,Official TV Timeout,22,10,12,4,0.8056410839986022,James Madison,Charleston,4,3,0,1,NA,401178602,2020-02-14,
+84,2,9:32,1772,1772,Kamiah Smalls Turnover.,22,10,12,13,0.8060494498768259,James Madison,Charleston,4,3,0,1,NA,401178602,2020-02-14,
+85,2,9:19,1759,1759,Madison Taylor made Jumper.,22,12,10,7,0.7674969192134752,James Madison,Charleston,4,3,0,1,NA,401178602,2020-02-14,Charleston
+86,2,9:12,1752,1752,Foul on Latrice Perkins.,22,12,10,16,0.76818491600101,James Madison,Charleston,4,3,0,1,NA,401178602,2020-02-14,
+87,2,8:56,1736,1736,Kamiah Smalls missed Three Point Jumper.,22,12,10,5,0.7697671150754282,James Madison,Charleston,4,3,0,1,NA,401178602,2020-02-14,
+88,2,8:51,1731,1731,Madison Taylor Defensive Rebound.,22,12,10,4,0.7702645347485813,James Madison,Charleston,4,3,0,1,NA,401178602,2020-02-14,
+89,2,8:47,1727,1727,Madison Taylor missed Three Point Jumper.,22,12,10,4,0.770663563600176,James Madison,Charleston,4,3,0,1,NA,401178602,2020-02-14,
+90,2,8:43,1723,1723,Lexie Barrier Defensive Rebound.,22,12,10,28,0.771063596346113,James Madison,Charleston,4,3,0,1,NA,401178602,2020-02-14,
+91,2,8:15,1695,1695,Kamiah Smalls made Jumper.,24,12,12,18,0.8140463547412169,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,James Madison
+92,2,7:57,1677,1677,Taylor Williams missed Three Point Jumper.,24,12,12,4,0.815942058510225,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,
+93,2,7:53,1673,1673,Jackie Benitez Defensive Rebound.,24,12,12,11,0.8163552370646626,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,
+94,2,7:42,1662,1662,Foul on Madison Taylor.,24,12,12,9,0.8174767654948838,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,
+95,2,7:33,1653,1653,Jackie Benitez missed Jumper.,24,12,12,3,0.8183798738945751,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,
+96,2,7:30,1650,1650,Deja Ford Defensive Rebound.,24,12,12,4,0.81867830151865,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,
+97,2,7:26,1646,1646,Tyler Collins Turnover.,24,12,12,1,0.8190743327347727,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,
+98,2,7:25,1645,1645,Lexie Barrier Turnover.,24,12,12,0,0.8191730200823406,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,
+99,2,7:25,1645,1645,Madison Taylor Steal.,24,12,12,10,0.8191730200823406,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,
+100,2,7:15,1635,1635,Madison Taylor missed Jumper.,24,12,12,2,0.820153411801744,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,
+101,2,7:13,1633,1633,Kiki Jefferson Defensive Rebound.,24,12,12,15,0.8203481826492006,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,
+102,2,6:58,1618,1618,Kayla Cooper-Williams made Layup. Assisted by Jackie Benitez.,26,12,14,17,0.8561081720467173,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,James Madison
+103,2,6:41,1601,1601,Taylor Williams missed Jumper.,26,12,14,3,0.8577001746584425,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,
+104,2,6:38,1598,1598,Lexie Barrier Defensive Rebound.,26,12,14,15,0.8579794421308669,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,
+105,2,6:23,1583,1583,Foul on Madison Taylor.,26,12,14,0,0.8593712199314507,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,
+106,2,6:23,1583,1583,Madison Green Turnover.,26,12,14,13,0.8593712199314507,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,
+107,2,6:10,1570,1570,Madison Taylor made Layup.,26,14,12,18,0.8263621809558519,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,Charleston
+108,2,5:52,1552,1552,Jackie Benitez missed Three Point Jumper.,26,14,12,3,0.8280758653862823,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,
+109,2,5:49,1549,1549,Charleston Defensive Rebound.,26,14,12,10,0.8283629058859964,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,
+110,2,5:39,1539,1539,Madison Taylor missed Jumper.,26,14,12,3,0.8293238362563837,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,
+111,2,5:36,1536,1536,Jaylin Carodine Defensive Rebound.,26,14,12,7,0.8296135344840682,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,
+112,2,5:29,1529,1529,Madison Green made Three Point Jumper. Assisted by Jackie Benitez.,29,14,15,3,0.8791734978495739,James Madison,Charleston,4,3,0,0,NA,401178602,2020-02-14,James Madison
+113,2,5:26,1526,1526,Charleston  Timeout,29,14,15,16,0.8794488988630661,James Madison,Charleston,3,3,1,0,NA,401178602,2020-02-14,
+114,2,5:10,1510,1510,Deja Ford made Three Point Jumper.,29,17,12,15,0.83216001395358,James Madison,Charleston,3,3,1,0,NA,401178602,2020-02-14,Charleston
+115,2,4:55,1495,1495,Kamiah Smalls made Jumper.,31,17,14,16,0.8676653384366245,James Madison,Charleston,3,3,1,0,NA,401178602,2020-02-14,James Madison
+116,2,4:39,1479,1479,Tyler Collins missed Layup.,31,17,14,2,0.8692508977235652,James Madison,Charleston,3,3,1,0,NA,401178602,2020-02-14,
+117,2,4:37,1477,1477,Kayla Cooper-Williams Defensive Rebound.,31,17,14,16,0.8694517216489536,James Madison,Charleston,3,3,1,0,NA,401178602,2020-02-14,
+118,2,4:21,1461,1461,Madison Green made Three Point Jumper. Assisted by Kiki Jefferson.,34,17,17,21,0.9105167050650562,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,James Madison
+119,2,4:00,1440,1440,Madison Taylor missed Three Point Jumper.,34,17,17,2,0.9124353169570036,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+120,2,3:58,1438,1438,Kayla Cooper-Williams Defensive Rebound.,34,17,17,1,0.9126139714072143,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+121,2,3:57,1437,1437,Kamiah Smalls Turnover.,34,17,17,3,0.9127029010930625,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+122,2,3:54,1434,1434,Deja Ford missed Three Point Jumper.,34,17,17,2,0.9129681386331187,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+123,2,3:52,1432,1432,Kiki Jefferson Defensive Rebound.,34,17,17,6,0.9131437026992086,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+124,2,3:46,1426,1426,Madison Green made Three Point Jumper. Assisted by Kamiah Smalls.,37,17,20,18,0.941340631268596,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,James Madison
+125,2,3:28,1408,1408,Taylor Williams Turnover.,37,17,20,0,0.9425870486453747,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+126,2,3:28,1408,1408,Jaylin Carodine Steal.,37,17,20,6,0.9425870486453747,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+127,2,3:22,1402,1402,Kamiah Smalls Turnover.,37,17,20,10,0.9429905418300191,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+128,2,3:12,1392,1392,Latrice Perkins missed Layup.,37,17,20,3,0.943651952364376,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+129,2,3:09,1389,1389,Madison Green Defensive Rebound.,37,17,20,5,0.9438479677584438,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+130,2,3:04,1384,1384,Madison Green missed Jumper.,37,17,20,4,0.9441724678183485,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+131,2,3:00,1380,1380,Nia Covington Defensive Rebound.,37,17,20,4,0.9444302574143111,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+132,2,2:56,1376,1376,Deja Ford Turnover.,37,17,20,18,0.9446865917005133,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+133,2,2:38,1358,1358,Foul on Rayne Tucker.,37,17,20,0,0.9458257763021,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+134,2,2:38,1358,1358,Rayne Tucker Turnover.,37,17,20,12,0.9458257763021,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+135,2,2:26,1346,1346,Arynn Eady missed Layup.,37,17,20,0,0.9465764283511984,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+136,2,2:26,1346,1346,Rayne Tucker Block.,37,17,20,5,0.9465764283511984,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+137,2,2:21,1341,1341,Rayne Tucker Defensive Rebound.,37,17,20,9,0.9468881029339835,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+138,2,2:12,1332,1332,Kamiah Smalls missed Jumper.,37,17,20,2,0.9474485198386461,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+139,2,2:10,1330,1330,Madison Taylor Defensive Rebound.,37,17,20,5,0.947573059649283,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+140,2,2:05,1325,1325,Foul on Rayne Tucker.,37,17,20,0,0.9478845795384954,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+141,2,2:05,1325,1325,Arynn Eady made Free Throw.,37,18,19,0,0.9402363277452395,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,Charleston
+142,2,2:05,1325,1325,Arynn Eady made Free Throw.,37,19,18,8,0.9315467071506148,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,Charleston
+143,2,1:57,1317,1317,Jackie Benitez missed Three Point Jumper.,37,19,18,5,0.9321272296705408,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+144,2,1:52,1312,1312,Nia Covington Defensive Rebound.,37,19,18,16,0.9324914908913411,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+145,2,1:36,1296,1296,Arynn Eady missed Jumper.,37,19,18,0,0.9336676400579074,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+146,2,1:36,1296,1296,Kayla Cooper-Williams Block.,37,19,18,5,0.9336676400579074,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+147,2,1:31,1291,1291,Arynn Eady Offensive Rebound.,37,19,18,0,0.9340393046847122,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+148,2,1:31,1291,1291,Madison Taylor missed Layup.,37,19,18,3,0.9340393046847122,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+149,2,1:28,1288,1288,Madison Taylor Offensive Rebound.,37,19,18,5,0.93426341395681,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+150,2,1:23,1283,1283,Nia Covington Turnover.,37,19,18,0,0.9346389271010077,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+151,2,1:23,1283,1283,Lexie Barrier Steal.,37,19,18,9,0.9346389271010077,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+152,2,1:14,1274,1274,Kamiah Smalls made Jumper.,39,19,20,0,0.9511210610641814,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,James Madison
+153,2,1:14,1274,1274,Foul on Tyler Collins.,39,19,20,0,0.9511210610641814,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+154,2,1:14,1274,1274,Kamiah Smalls made Free Throw.,40,19,21,17,0.9575767569001835,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,James Madison
+155,2,0:57,1257,1257,Taylor Williams missed Jumper.,40,19,21,2,0.958606654009143,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+156,2,0:55,1255,1255,James Madison Defensive Rebound.,40,19,21,10,0.9587295840506945,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+157,2,0:45,1245,1245,Kayla Cooper-Williams made Layup. Assisted by Kamiah Smalls.,42,19,23,0,0.969597014670544,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,James Madison
+158,2,0:45,1245,1245,Foul on Tyler Collins.,42,19,23,0,0.969597014670544,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+159,2,0:45,1245,1245,Kayla Cooper-Williams missed Free Throw.,42,19,23,1,0.969597014670544,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+160,2,0:44,1244,1244,Arynn Eady Defensive Rebound.,42,19,23,12,0.969648889373267,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+161,2,0:32,1232,1232,Latrice Perkins missed Jumper.,42,19,23,3,0.970277921880308,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+162,2,0:29,1229,1229,Kamiah Smalls Defensive Rebound.,42,19,23,0,0.9704371340617218,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+163,2,0:29,1229,1229,Foul on Latrice Perkins.,42,19,23,0,0.9704371340617218,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+164,2,0:29,1229,1229,Kamiah Smalls made Free Throw.,43,19,24,0,0.9744943837437005,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,James Madison
+165,2,0:29,1229,1229,Kamiah Smalls made Free Throw.,44,19,25,23,0.9780074297373572,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,James Madison
+166,2,0:06,1206,1206,Nia Covington missed Jumper.,44,19,25,3,0.9790205003260428,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+167,2,0:03,1203,1203,Kiki Jefferson Defensive Rebound.,44,19,25,3,0.9791513788710996,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+168,2,0:00,1200,1200,End of 2nd Quarter,44,19,25,10,0.9792806541052682,James Madison,Charleston,3,3,0,0,NA,401178602,2020-02-14,
+169,3,9:50,1190,1190,Jackie Benitez missed Three Point Jumper.,44,19,25,4,0.979700708714364,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+170,3,9:46,1186,1186,Arynn Eady Defensive Rebound.,44,19,25,21,0.9798643679321974,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+171,3,9:25,1165,1165,Latrice Perkins missed Jumper.,44,19,25,4,0.9806884072417431,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+172,3,9:21,1161,1161,Kayla Cooper-Williams Defensive Rebound.,44,19,25,6,0.9808395132494037,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+173,3,9:15,1155,1155,Lexie Barrier missed Layup.,44,19,25,3,0.9810631706810002,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+174,3,9:12,1152,1152,Arynn Eady Defensive Rebound.,44,19,25,9,0.9811737395751242,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+175,3,9:03,1143,1143,Foul on Kamiah Smalls.,44,19,25,6,0.9815008917037853,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+176,3,8:57,1137,1137,Madison Taylor missed Jumper.,44,19,25,0,0.9817155851689862,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+177,3,8:57,1137,1137,Lexie Barrier Block.,44,19,25,4,0.9817155851689862,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+178,3,8:53,1133,1133,Madison Taylor Offensive Rebound.,44,19,25,4,0.9818573744266508,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+179,3,8:49,1129,1129,Taylor Williams missed Jumper.,44,19,25,4,0.9819981908956109,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+180,3,8:45,1125,1125,Lexie Barrier Defensive Rebound.,44,19,25,7,0.982138116716792,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+181,3,8:38,1118,1118,Kamiah Smalls Turnover.,44,19,25,0,0.9823810824261631,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+182,3,8:38,1118,1118,Arynn Eady Steal.,44,19,25,13,0.9823810824261631,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+183,3,8:25,1105,1105,Latrice Perkins Turnover.,44,19,25,0,0.9828270974516321,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+184,3,8:25,1105,1105,Lexie Barrier Steal.,44,19,25,10,0.9828270974516321,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+185,3,8:15,1095,1095,Jackie Benitez missed Three Point Jumper.,44,19,25,3,0.9831668466932422,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+186,3,8:12,1092,1092,Arynn Eady Defensive Rebound.,44,19,25,15,0.9832683793593695,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+187,3,7:57,1077,1077,Madison Taylor Turnover.,44,19,25,0,0.9837745162797298,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+188,3,7:57,1077,1077,Lexie Barrier Steal.,44,19,25,11,0.9837745162797298,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+189,3,7:46,1066,1066,Jackie Benitez missed Jumper.,44,19,25,2,0.9841452566864365,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+190,3,7:44,1064,1064,Rayne Tucker Offensive Rebound.,44,19,25,0,0.9842127218505826,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+191,3,7:44,1064,1064,Foul on Tyler Collins.,44,19,25,0,0.9842127218505826,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+192,3,7:44,1064,1064,Rayne Tucker missed Free Throw.,44,19,25,0,0.9842127218505826,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+193,3,7:44,1064,1064,James Madison Offensive Rebound.,44,19,25,0,0.9842127218505826,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+194,3,7:44,1064,1064,Rayne Tucker made Free Throw.,45,19,26,12,0.986585888344255,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,James Madison
+195,3,7:32,1052,1052,Foul on Kamiah Smalls.,45,19,26,0,0.9869450172092324,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+196,3,7:32,1052,1052,Latrice Perkins made Free Throw.,45,20,25,0,0.9846183853689268,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,Charleston
+197,3,7:32,1052,1052,Latrice Perkins made Free Throw.,45,21,24,16,0.9818847168638365,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,Charleston
+198,3,7:16,1036,1036,Jackie Benitez made Three Point Jumper. Assisted by Kiki Jefferson.,48,21,27,16,0.9893484146600211,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,James Madison
+199,3,7:00,1020,1020,Latrice Perkins Turnover.,48,21,27,0,0.9897766356609339,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+200,3,7:00,1020,1020,Kamiah Smalls Steal.,48,21,27,6,0.9897766356609339,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+201,3,6:54,1014,1014,Kiki Jefferson Turnover.,48,21,27,0,0.9899383740951502,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+202,3,6:54,1014,1014,Madison Taylor Steal.,48,21,27,6,0.9899383740951502,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+203,3,6:48,1008,1008,Madison Taylor missed Layup.,48,21,27,3,0.9901008202545014,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+204,3,6:45,1005,1005,Latrice Perkins Offensive Rebound.,48,21,27,0,0.9901823206478864,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+205,3,6:45,1005,1005,Foul on Kiki Jefferson.,48,21,27,0,0.9901823206478864,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+206,3,6:45,1005,1005,Arynn Eady missed Free Throw.,48,21,27,0,0.9901823206478864,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+207,3,6:45,1005,1005,Charleston Offensive Rebound.,48,21,27,0,0.9901823206478864,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+208,3,6:45,1005,1005,Arynn Eady made Free Throw.,48,22,26,13,0.9883741054357172,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,Charleston
+209,3,6:32,992,992,Kamiah Smalls Turnover.,48,22,26,0,0.9887789359339217,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+210,3,6:32,992,992,Latrice Perkins Steal.,48,22,26,6,0.9887789359339217,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+211,3,6:26,986,986,Foul on Lexie Barrier.,48,22,26,0,0.9889674199929254,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+212,3,6:26,986,986,Latrice Perkins made Free Throw.,48,23,25,0,0.9869121015228689,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,Charleston
+213,3,6:26,986,986,Latrice Perkins made Free Throw.,48,24,24,14,0.9844798956413738,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,Charleston
+214,3,6:12,972,972,Kamiah Smalls made Layup.,50,24,26,19,0.9894113043445814,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,James Madison
+215,3,5:53,953,953,Foul on Latrice Perkins.,50,24,26,0,0.9899804217539534,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+216,3,5:53,953,953,Latrice Perkins Turnover.,50,24,26,17,0.9899804217539534,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+217,3,5:36,936,936,Kamiah Smalls Turnover.,50,24,26,13,0.9904212172748162,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+218,3,5:23,923,923,Nia Covington missed Jumper.,50,24,26,3,0.9907246995092837,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+219,3,5:20,920,920,Madison Green Defensive Rebound.,50,24,26,19,0.9907913545663416,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+220,3,5:01,901,901,Lexie Barrier made Layup.,52,24,28,0,0.9938574995433787,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,James Madison
+221,3,5:01,901,901,Foul on Taylor Williams.,52,24,28,0,0.9938574995433787,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+222,3,5:01,901,901,Lexie Barrier made Free Throw.,53,24,29,13,0.994872608869647,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,James Madison
+223,3,4:48,888,888,Foul on Rayne Tucker.,53,24,29,0,0.9950387200710663,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+224,3,4:48,888,888,Official TV Timeout,53,24,29,0,0.9950387200710663,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+225,3,4:48,888,888,Madison Taylor made Free Throw.,53,25,28,0,0.9940495530587427,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,Charleston
+226,3,4:48,888,888,Madison Taylor missed Free Throw.,53,25,28,2,0.9940495530587427,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+227,3,4:46,886,886,Devon Merritt Defensive Rebound.,53,25,28,11,0.99407837853787,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+228,3,4:35,875,875,Jackie Benitez made Three Point Jumper. Assisted by Kiki Jefferson.,56,25,31,18,0.9966713488979839,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,James Madison
+229,3,4:17,857,857,Nia Covington missed Layup.,56,25,31,0,0.9968308970107395,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+230,3,4:17,857,857,Jackie Benitez Block.,56,25,31,4,0.9968308970107395,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+231,3,4:13,853,853,Nia Covington Offensive Rebound.,56,25,31,3,0.9968660091609465,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+232,3,4:10,850,850,Madison Taylor missed Layup.,56,25,31,3,0.9968923229743369,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+233,3,4:07,847,847,Lexie Barrier Defensive Rebound.,56,25,31,5,0.9969186387375055,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+234,3,4:02,842,842,Lexie Barrier Turnover.,56,25,31,9,0.9969625476916885,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+235,3,3:53,833,833,Foul on Devon Merritt.,56,25,31,0,0.9970419435856328,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+236,3,3:53,833,833,Nia Covington missed Free Throw.,56,25,31,0,0.9970419435856328,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+237,3,3:53,833,833,Charleston Offensive Rebound.,56,25,31,0,0.9970419435856328,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+238,3,3:53,833,833,Nia Covington missed Free Throw.,56,25,31,1,0.9970419435856328,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+239,3,3:52,832,832,Lexie Barrier Defensive Rebound.,56,25,31,25,0.9970508072774662,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+240,3,3:27,807,807,Foul on Taylor Williams.,56,25,31,0,0.9972768334517818,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+241,3,3:27,807,807,Jackie Benitez made Free Throw.,57,25,32,0,0.9977479502639202,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,James Madison
+242,3,3:27,807,807,Jackie Benitez made Free Throw.,58,25,33,25,0.9981377145102573,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,James Madison
+243,3,3:02,782,782,Foul on Jackie Benitez.,58,25,33,0,0.9983105832375917,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+244,3,3:02,782,782,Nia Covington missed Free Throw.,58,25,33,0,0.9983105832375917,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+245,3,3:02,782,782,Charleston Offensive Rebound.,58,25,33,0,0.9983105832375917,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+246,3,3:02,782,782,Nia Covington missed Free Throw.,58,25,33,2,0.9983105832375917,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+247,3,3:00,780,780,Jaylin Carodine Defensive Rebound.,58,25,33,15,0.9983248090438361,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+248,3,2:45,765,765,Devon Merritt made Layup. Assisted by Jaylin Carodine.,60,25,35,18,0.9989402204339851,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,James Madison
+249,3,2:27,747,747,Taylor Williams missed Three Point Jumper.,60,25,35,4,0.9990364788655998,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+250,3,2:23,743,743,Jackie Benitez Defensive Rebound.,60,25,35,9,0.9990581760138332,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+251,3,2:14,734,734,Kiki Jefferson missed Layup.,60,25,35,4,0.9991072967345859,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+252,3,2:10,730,730,Arynn Eady Defensive Rebound.,60,25,35,0,0.9991292314644531,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+253,3,2:10,730,730,Arynn Eady Turnover.,60,25,35,0,0.9991292314644531,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+254,3,2:10,730,730,Jackie Benitez Steal.,60,25,35,19,0.9991292314644531,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+255,3,1:51,711,711,Jackie Benitez missed Jumper.,60,25,35,4,0.9992211675358456,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+256,3,1:47,707,707,Madison Taylor Defensive Rebound.,60,25,35,10,0.9992378644604973,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+257,3,1:37,697,697,Madison Taylor missed Jumper.,60,25,35,2,0.9992764854621541,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+258,3,1:35,695,695,Jaylin Carodine Defensive Rebound.,60,25,35,5,0.9992837398373051,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+259,3,1:30,690,690,Foul on Deja Ford.,60,25,35,0,0.9993012828742808,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+260,3,1:30,690,690,Jackie Benitez missed Free Throw.,60,25,35,0,0.9993012828742808,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+261,3,1:30,690,690,James Madison Offensive Rebound.,60,25,35,0,0.9993012828742808,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+262,3,1:30,690,690,Jackie Benitez made Free Throw.,61,25,36,0,0.9994321885691966,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,James Madison
+263,3,1:30,690,690,Jackie Benitez made Free Throw.,62,25,37,20,0.9995385802114666,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,James Madison
+264,3,1:10,670,670,Nia Covington made Jumper.,62,27,35,18,0.9993647796108244,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,Charleston
+265,3,0:52,652,652,Foul on Madison Taylor.,62,27,35,0,0.9994160562684062,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+266,3,0:52,652,652,Madison Green made Free Throw.,63,27,36,0,0.9995278962545618,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,James Madison
+267,3,0:52,652,652,Madison Green made Free Throw.,64,27,37,11,0.9996183242364998,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,James Madison
+268,3,0:41,641,641,Taylor Williams made Layup.,64,29,35,31,0.9994460372640127,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,Charleston
+269,3,0:10,610,610,Kamiah Smalls missed Layup.,64,29,35,4,0.9995297187862482,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+270,3,0:06,606,606,Arynn Eady Defensive Rebound.,64,29,35,3,0.9995406857589771,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+271,3,0:03,603,603,Foul on Madison Green.,64,29,35,0,0.9995489559157422,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+272,3,0:03,603,603,Nia Covington missed Free Throw.,64,29,35,0,0.9995489559157422,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+273,3,0:03,603,603,Charleston Offensive Rebound.,64,29,35,0,0.9995489559157422,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+274,3,0:03,603,603,Nia Covington missed Free Throw.,64,29,35,2,0.9995489559157422,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+275,3,0:01,601,601,Lexie Barrier Defensive Rebound.,64,29,35,1,0.9995544918302395,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+276,3,0:00,600,600,End of 3rd Quarter,64,29,35,19,0.9995572666915444,James Madison,Charleston,4,4,0,0,NA,401178602,2020-02-14,
+277,4,9:41,581,581,Arynn Eady missed Jumper.,64,29,35,2,0.9996108748322262,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+278,4,9:39,579,579,Nia Covington Offensive Rebound.,64,29,35,1,0.9996166103283012,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+279,4,9:38,578,578,Nia Covington missed Layup.,64,29,35,0,0.9996194838609201,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+280,4,9:38,578,578,Kamiah Smalls Block.,64,29,35,0,0.9996194838609201,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+281,4,9:38,578,578,Nia Covington Offensive Rebound.,64,29,35,0,0.9996194838609201,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+282,4,9:38,578,578,Foul on Kamiah Smalls.,64,29,35,0,0.9996194838609201,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+283,4,9:38,578,578,Nia Covington missed Free Throw.,64,29,35,0,0.9996194838609201,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+284,4,9:38,578,578,Charleston Offensive Rebound.,64,29,35,0,0.9996194838609201,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+285,4,9:38,578,578,Nia Covington made Free Throw.,64,30,34,23,0.9995235357747996,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,Charleston
+286,4,9:15,555,555,Nikki Oppenheimer missed Three Point Jumper.,64,30,34,4,0.999605002332616,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+287,4,9:11,551,551,Lexie Barrier Offensive Rebound.,64,30,34,1,0.999619270824354,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+288,4,9:10,550,550,Foul on Deja Ford.,64,30,34,0,0.9996228362782259,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+289,4,9:10,550,550,Lexie Barrier missed Free Throw.,64,30,34,0,0.9996228362782259,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+290,4,9:10,550,550,James Madison Offensive Rebound.,64,30,34,0,0.9996228362782259,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+291,4,9:10,550,550,Lexie Barrier made Free Throw.,65,30,35,15,0.9997008573544963,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,James Madison
+292,4,8:55,535,535,Taylor Williams missed Jumper.,65,30,35,2,0.9997382796569255,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+293,4,8:53,533,533,Nia Covington Offensive Rebound.,65,30,35,1,0.9997424911018113,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+294,4,8:52,532,532,Nia Covington made Layup.,65,32,33,14,0.9995902275807095,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,Charleston
+295,4,8:38,518,518,Nikki Oppenheimer missed Three Point Jumper.,65,32,33,3,0.9996289930756574,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+296,4,8:35,515,515,Rayne Tucker Offensive Rebound.,65,32,33,2,0.9996364126453223,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+297,4,8:33,513,513,Madison Green made Three Point Jumper. Assisted by Rayne Tucker.,68,32,36,18,0.9998255329187197,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,James Madison
+298,4,8:15,495,495,Deja Ford Turnover.,68,32,36,9,0.9998467417678152,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+299,4,8:06,486,486,Kamiah Smalls made Jumper.,70,32,38,13,0.9999123569610587,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,James Madison
+300,4,7:53,473,473,Foul on Kiki Jefferson.,70,32,38,0,0.9999215769534989,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+301,4,7:53,473,473,Nia Covington made Free Throw.,70,33,37,0,0.9998994286804596,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,Charleston
+302,4,7:53,473,473,Nia Covington missed Free Throw.,70,33,37,2,0.9998994286804596,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+303,4,7:51,471,471,Kiki Jefferson Defensive Rebound.,70,33,37,12,0.999901211200202,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+304,4,7:39,459,459,Foul on Kamiah Smalls.,70,33,37,0,0.9999120653115453,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+305,4,7:39,459,459,Kamiah Smalls Turnover.,70,33,37,16,0.9999120653115453,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+306,4,7:23,443,443,Tyler Collins missed Jumper.,70,33,37,3,0.9999269844543264,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+307,4,7:20,440,440,Arynn Eady Offensive Rebound.,70,33,37,1,0.9999298210542246,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+308,4,7:19,439,439,Arynn Eady made Layup.,70,35,35,12,0.9998838190615875,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,Charleston
+309,4,7:07,427,427,Kamiah Smalls missed Layup.,70,35,35,1,0.9999017467779608,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+310,4,7:06,426,426,James Madison Offensive Rebound.,70,35,35,11,0.9999031404018449,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+311,4,6:55,415,415,Nikki Oppenheimer missed Jumper.,70,35,35,4,0.9999167222051988,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+312,4,6:51,411,411,Latrice Perkins Defensive Rebound.,70,35,35,3,0.9999210010905819,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+313,4,6:48,408,408,Latrice Perkins made Layup.,70,37,33,6,0.9998693706537677,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,Charleston
+314,4,6:42,402,402,Kamiah Smalls Turnover.,70,37,33,0,0.9998785230234244,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+315,4,6:42,402,402,Nia Covington Steal.,70,37,33,4,0.9998785230234244,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+316,4,6:38,398,398,Nia Covington Turnover.,70,37,33,0,0.9998842190745053,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+317,4,6:38,398,398,Lexie Barrier Steal.,70,37,33,14,0.9998842190745053,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+318,4,6:24,384,384,Kamiah Smalls missed Three Point Jumper.,70,37,33,3,0.9999022133808975,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+319,4,6:21,381,381,Nia Covington Defensive Rebound.,70,37,33,13,0.9999057612260783,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+320,4,6:08,368,368,Tyler Collins made Layup.,70,39,31,18,0.9998586889525872,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,Charleston
+321,4,5:50,350,350,Nikki Oppenheimer missed Three Point Jumper.,70,39,31,3,0.999889199507759,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+322,4,5:47,347,347,Rayne Tucker Offensive Rebound.,70,39,31,2,0.9998940364990488,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+323,4,5:45,345,345,Rayne Tucker missed Layup.,70,39,31,0,0.999897222464274,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+324,4,5:45,345,345,Tyler Collins Block.,70,39,31,5,0.999897222464274,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+325,4,5:40,340,340,Tyler Collins Defensive Rebound.,70,39,31,3,0.999905048237772,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+326,4,5:37,337,337,Tyler Collins missed Jumper.,70,39,31,3,0.9999096445087217,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+327,4,5:34,334,334,Lexie Barrier Defensive Rebound.,70,39,31,2,0.9999141623619725,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,
+328,4,5:32,332,332,Kiki Jefferson made Layup. Assisted by Lexie Barrier.,72,39,33,1,0.9999548046503057,James Madison,Charleston,5,5,0,0,NA,401178602,2020-02-14,James Madison
+329,4,5:31,331,331,James Madison  Timeout,72,39,33,9,0.9999556570633928,James Madison,Charleston,5,4,0,1,NA,401178602,2020-02-14,
+330,4,5:22,322,322,Tyler Collins missed Jumper.,72,39,33,3,0.9999630205120795,James Madison,Charleston,5,4,0,1,NA,401178602,2020-02-14,
+331,4,5:19,319,319,Rayne Tucker Defensive Rebound.,72,39,33,6,0.9999653435226598,James Madison,Charleston,5,4,0,1,NA,401178602,2020-02-14,
+332,4,5:13,313,313,Foul on Madison Taylor.,72,39,33,0,0.9999697751260003,James Madison,Charleston,5,4,0,1,NA,401178602,2020-02-14,
+333,4,5:13,313,313,Jaylin Carodine missed Free Throw.,72,39,33,0,0.9999697751260003,James Madison,Charleston,5,4,0,1,NA,401178602,2020-02-14,
+334,4,5:13,313,313,James Madison Offensive Rebound.,72,39,33,0,0.9999697751260003,James Madison,Charleston,5,4,0,1,NA,401178602,2020-02-14,
+335,4,5:13,313,313,Jaylin Carodine missed Free Throw.,72,39,33,2,0.9999697751260003,James Madison,Charleston,5,4,0,1,NA,401178602,2020-02-14,
+336,4,5:11,311,311,Rayne Tucker Offensive Rebound.,72,39,33,0,0.9999711857875718,James Madison,Charleston,5,4,0,1,NA,401178602,2020-02-14,
+337,4,5:11,311,311,Foul on Arynn Eady.,72,39,33,14,0.9999711857875718,James Madison,Charleston,5,4,0,1,NA,401178602,2020-02-14,
+338,4,4:57,297,297,Kiki Jefferson missed Jumper.,72,39,33,3,0.9999771303756304,James Madison,Charleston,5,4,0,1,NA,401178602,2020-02-14,
+339,4,4:54,294,294,Nia Covington Defensive Rebound.,72,39,33,0,0.9999775823904329,James Madison,Charleston,5,4,0,1,NA,401178602,2020-02-14,
+340,4,4:54,294,294,Nia Covington Turnover.,72,39,33,0,0.9999775823904329,James Madison,Charleston,5,4,0,1,NA,401178602,2020-02-14,
+341,4,4:54,294,294,Kiki Jefferson Steal.,72,39,33,0,0.9999775823904329,James Madison,Charleston,5,4,0,1,NA,401178602,2020-02-14,
+342,4,4:54,294,294,Official TV Timeout,72,39,33,19,0.9999775823904329,James Madison,Charleston,5,4,0,1,NA,401178602,2020-02-14,
+343,4,4:35,275,275,Rayne Tucker Turnover.,72,39,33,21,0.9999766369334001,James Madison,Charleston,5,4,0,1,NA,401178602,2020-02-14,
+344,4,4:14,254,254,Tyler Collins missed Three Point Jumper.,72,39,33,5,0.999971454280468,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+345,4,4:09,249,249,Arynn Eady Offensive Rebound.,72,39,33,2,0.9999702267731486,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+346,4,4:07,247,247,Latrice Perkins made Layup. Assisted by Arynn Eady.,72,41,31,0,0.9999432528232839,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,Charleston
+347,4,4:07,247,247,Foul on Rayne Tucker.,72,41,31,0,0.9999432528232839,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+348,4,4:07,247,247,Latrice Perkins made Free Throw.,72,42,30,24,0.999922213565254,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,Charleston
+349,4,3:43,223,223,Devon Merritt missed Layup.,72,42,30,0,0.9999251059198607,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+350,4,3:43,223,223,Latrice Perkins Block.,72,42,30,5,0.9999251059198607,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+351,4,3:38,218,218,Nia Covington Defensive Rebound.,72,42,30,7,0.9999304115561793,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+352,4,3:31,211,211,Madison Taylor made Three Point Jumper. Assisted by Latrice Perkins.,72,45,27,27,0.9998423278062314,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,Charleston
+353,4,3:04,184,184,Nikki Oppenheimer made Layup.,74,45,29,0,0.9999763623091711,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,James Madison
+354,4,3:04,184,184,Foul on Tyler Collins.,74,45,29,0,0.9999763623091711,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+355,4,3:04,184,184,Nikki Oppenheimer made Free Throw.,75,45,30,22,0.9999836289061775,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,James Madison
+356,4,2:42,162,162,Foul on Latrice Perkins.,75,45,30,0,0.9999961131554828,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+357,4,2:42,162,162,Latrice Perkins Turnover.,75,45,30,29,0.9999961131554828,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+358,4,2:13,133,133,Nikki Oppenheimer made Three Point Jumper. Assisted by Madison Green.,78,45,33,19,0.999999905852323,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,James Madison
+359,4,1:54,114,114,Foul on Devon Merritt.,78,45,33,0,0.9999999877282126,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+360,4,1:54,114,114,Arynn Eady made Free Throw.,78,46,32,0,0.9999999786873288,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,Charleston
+361,4,1:54,114,114,Arynn Eady missed Free Throw.,78,46,32,2,0.9999999786873288,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+362,4,1:52,112,112,Jaylin Carodine Defensive Rebound.,78,46,32,13,0.9999999831032129,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+363,4,1:39,99,99,Kiki Jefferson missed Three Point Jumper.,78,46,32,4,0.9999999967198003,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+364,4,1:35,95,95,Arynn Eady Defensive Rebound.,78,46,32,9,0.999999998113501,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+365,4,1:26,86,86,Foul on Devon Merritt.,78,46,32,0,0.9999999994789044,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+366,4,1:26,86,86,Arynn Eady missed Free Throw.,78,46,32,0,0.9999999994789044,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+367,4,1:26,86,86,Charleston Offensive Rebound.,78,46,32,0,0.9999999994789044,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+368,4,1:26,86,86,Arynn Eady made Free Throw.,78,47,31,16,0.9999999989837192,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,Charleston
+369,4,1:10,70,70,Madison Green made Three Point Jumper.,81,47,34,21,0.9999999999898923,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,James Madison
+370,4,0:49,49,49,Arynn Eady missed Layup.,81,47,34,2,0.9999999999997805,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+371,4,0:47,47,47,Jaylin Carodine Defensive Rebound.,81,47,34,14,0.9999999999998511,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+372,4,0:33,33,33,Madison Green missed Three Point Jumper.,81,47,34,5,0.9999999999999915,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+373,4,0:28,28,28,Nia Covington Defensive Rebound.,81,47,34,7,0.999999999999997,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+374,4,0:21,21,21,Madison Taylor made Three Point Jumper. Assisted by Deja Ford.,81,50,31,21,0.999999999999986,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,Charleston
+375,4,0:00,0,0,End of 4th Quarter,81,50,31,0,1,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,
+376,4,0:00,0,0,End of Game,81,50,31,0,1,James Madison,Charleston,5,4,0,0,NA,401178602,2020-02-14,

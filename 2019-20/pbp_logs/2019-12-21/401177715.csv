@@ -1,0 +1,341 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:33,2373,2373,Ally Welling missed Jumper.,0,0,0,0,0.5,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,NA
+2,1,9:33,2373,2373,Sarah Donovan Offensive Rebound.,0,0,0,2,0.5,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+3,1,9:31,2371,2371,Foul on Katie Turner.,0,0,0,0,0.5,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+4,1,9:31,2371,2371,Katie Turner Turnover.,0,0,0,14,0.5,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+5,1,9:17,2357,2357,Mariah Linney missed Three Point Jumper.,0,0,0,0,0.5,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+6,1,9:17,2357,2357,Sarah Donovan Defensive Rebound.,0,0,0,23,0.5,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+7,1,8:54,2334,2334,Chloe Welch Turnover.,0,0,0,0,0.5,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+8,1,8:54,2334,2334,Jade Phillips Steal.,0,0,0,2,0.5,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+9,1,8:52,2332,2332,Christian Hithe made Layup. Assisted by Jade Phillips.,0,2,-2,21,0.45451780479293763,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Charlotte
+10,1,8:31,2311,2311,Sarah Donovan made Layup. Assisted by Katie Turner.,2,2,0,34,0.5,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Davidson
+11,1,7:57,2277,2277,Mariah Linney made Three Point Jumper. Assisted by Christian Hithe.,2,5,-3,14,0.4302026606879118,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Charlotte
+12,1,7:43,2263,2263,Chloe Welch Turnover.,2,5,-3,0,0.42973545026528054,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+13,1,7:43,2263,2263,Jade Phillips Steal.,2,5,-3,18,0.42973545026528054,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+14,1,7:25,2245,2245,Jade Phillips Turnover.,2,5,-3,17,0.42913134152548055,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+15,1,7:08,2228,2228,Suzi-Rose Deegan missed Layup.,2,5,-3,0,0.42855765366846543,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+16,1,7:08,2228,2228,Mariah Linney Defensive Rebound.,2,5,-3,3,0.42855765366846543,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+17,1,7:05,2225,2225,Mariah Linney Turnover.,2,5,-3,1,0.4284561277235158,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+18,1,7:04,2224,2224,Suzi-Rose Deegan Steal.,2,5,-3,1,0.4284222677115816,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+19,1,7:03,2223,2223,Suzi-Rose Deegan made Layup.,4,5,-1,20,0.4759827071616885,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Davidson
+20,1,6:43,2203,2203,Jada McMillian made Jumper.,4,7,-3,22,0.427709275709198,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Charlotte
+21,1,6:21,2181,2181,Suzi-Rose Deegan made Layup.,6,7,-1,23,0.47549717588611884,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Davidson
+22,1,5:58,2158,2158,Jade Phillips missed Jumper.,6,7,-1,0,0.4752294550065752,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+23,1,5:58,2158,2158,Ally Welling Defensive Rebound.,6,7,-1,10,0.4752294550065752,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+24,1,5:48,2148,2148,Ally Welling missed Jumper.,6,7,-1,0,0.47511246677862723,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+25,1,5:48,2148,2148,Christian Hithe Defensive Rebound.,6,7,-1,23,0.47511246677862723,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+26,1,5:25,2125,2125,Mariah Linney missed Three Point Jumper.,6,7,-1,0,0.4748418147482974,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+27,1,5:25,2125,2125,Sarah Donovan Defensive Rebound.,6,7,-1,4,0.4748418147482974,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+28,1,5:21,2121,2121,Suzi-Rose Deegan Turnover.,6,7,-1,1,0.4747945087762299,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+29,1,5:20,2120,2120,Jade Phillips Steal.,6,7,-1,12,0.47478267095688687,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+30,1,5:08,2108,2108,Christian Hithe missed Layup.,6,7,-1,0,0.47464025620671896,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+31,1,5:08,2108,2108,Ally Welling Block.,6,7,-1,1,0.47464025620671896,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+32,1,5:07,2107,2107,Ally Welling Defensive Rebound.,6,7,-1,6,0.4746283577171728,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+33,1,5:01,2101,2101,Sarah Donovan missed Layup.,6,7,-1,0,0.47455686567115635,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+34,1,5:01,2101,2101,Jada McMillian Defensive Rebound.,6,7,-1,21,0.47455686567115635,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+35,1,4:40,2080,2080,Dara Pearson missed Layup.,6,7,-1,0,0.4743052334352862,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+36,1,4:40,2080,2080,Dara Pearson Offensive Rebound.,6,7,-1,1,0.4743052334352862,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+37,1,4:39,2079,2079,Dara Pearson made Layup.,6,9,-3,0,0.42341892504467515,Davidson,Charlotte,4,4,1,0,NA,401177715,2019-12-21,Charlotte
+38,1,4:39,2079,2079,Foul on Sarah Donovan.,6,9,-3,0,0.42341892504467515,Davidson,Charlotte,4,4,1,0,NA,401177715,2019-12-21,
+39,1,4:39,2079,2079,Charlotte  Timeout,6,9,-3,1,0.42341892504467515,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+40,1,4:38,2078,2078,Dara Pearson missed Free Throw.,6,9,-3,0,0.4233835468592264,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+41,1,4:38,2078,2078,Cameron Tabor Defensive Rebound.,6,9,-3,21,0.4233835468592264,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+42,1,4:17,2057,2057,Sarah Donovan Turnover.,6,9,-3,0,0.4226371080257011,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+43,1,4:17,2057,2057,Lauren Harley Steal.,6,9,-3,0,0.4226371080257011,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+44,1,4:17,2057,2057,Foul on Sarah Donovan.,6,9,-3,18,0.4226371080257011,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+45,1,3:59,2039,2039,Foul on Sarah Konstans.,6,9,-3,0,0.4219917616539418,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+46,1,3:59,2039,2039,Lauren Harley made Free Throw.,6,10,-4,0,0.3966436356576595,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,Charlotte
+47,1,3:59,2039,2039,Lauren Harley made Free Throw.,6,11,-5,15,0.3718386079144089,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,Charlotte
+48,1,3:44,2024,2024,Adelaide Fuller Turnover.,6,11,-5,1,0.3709739687237947,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+49,1,3:43,2023,2023,Lauren Harley Steal.,6,11,-5,3,0.37091612506409555,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+50,1,3:40,2020,2020,Christian Hithe made Layup. Assisted by Mariah Linney.,6,13,-7,23,0.3228628365497049,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,Charlotte
+51,1,3:17,1997,1997,Foul on Jazmin Harris.,6,13,-7,2,0.32110675438876973,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+52,1,3:15,1995,1995,Katie Turner Turnover.,6,13,-7,1,0.32095328375148635,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+53,1,3:14,1994,1994,Mariah Linney Steal.,6,13,-7,0,0.3208765012374441,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+54,1,3:14,1994,1994,Mariah Linney Turnover.,6,13,-7,7,0.3208765012374441,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+55,1,3:07,1987,1987,Katie Turner made Layup.,8,13,-5,26,0.36881617547940515,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Davidson
+56,1,2:41,1961,1961,Octavia Jett-Wilson missed Layup.,8,13,-5,0,0.36727704899447666,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+57,1,2:41,1961,1961,Adelaide Fuller Defensive Rebound.,8,13,-5,18,0.36727704899447666,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+58,1,2:23,1943,1943,Adelaide Fuller missed Jumper.,8,13,-5,0,0.36619969012124537,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+59,1,2:23,1943,1943,Adelaide Fuller Offensive Rebound.,8,13,-5,2,0.36619969012124537,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+60,1,2:21,1941,1941,Adelaide Fuller missed Layup.,8,13,-5,0,0.36607936533058044,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+61,1,2:21,1941,1941,Charlotte Defensive Rebound.,8,13,-5,13,0.36607936533058044,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+62,1,2:08,1928,1928,Octavia Jett-Wilson missed Three Point Jumper.,8,13,-5,0,0.365294261319252,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+63,1,2:08,1928,1928,Chloe Welch Defensive Rebound.,8,13,-5,2,0.365294261319252,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+64,1,2:06,1926,1926,Foul on Jade Phillips.,8,13,-5,11,0.36517326880483464,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+65,1,1:55,1915,1915,Cameron Tabor missed Layup.,8,13,-5,0,0.36450880178060974,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+66,1,1:55,1915,1915,Dara Pearson Block.,8,13,-5,0,0.36450880178060974,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+67,1,1:55,1915,1915,Davidson Offensive Rebound.,8,13,-5,0,0.36450880178060974,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+68,1,1:55,1915,1915,Cameron Tabor Turnover.,8,13,-5,0,0.36450880178060974,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+69,1,1:55,1915,1915,Mariah Linney Steal.,8,13,-5,0,0.36450880178060974,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+70,1,1:55,1915,1915,Lauren Harley Turnover.,8,13,-5,0,0.36450880178060974,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+71,1,1:55,1915,1915,Cameron Tabor Steal.,8,13,-5,10,0.36450880178060974,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+72,1,1:45,1905,1905,Sarah Konstans Turnover.,8,13,-5,1,0.36390590661852107,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+73,1,1:44,1904,1904,Lauren Harley Steal.,8,13,-5,19,0.36384566362422455,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+74,1,1:25,1885,1885,Jade Phillips Turnover.,8,13,-5,8,0.3627019707774123,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+75,1,1:17,1877,1877,Katie Turner missed Layup.,8,13,-5,0,0.3622205797276978,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+76,1,1:17,1877,1877,Adelaide Fuller Offensive Rebound.,8,13,-5,2,0.3622205797276978,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+77,1,1:15,1875,1875,Adelaide Fuller made Layup.,10,13,-3,9,0.41586872048210777,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Davidson
+78,1,1:06,1866,1866,Lauren Harley Turnover.,10,13,-3,16,0.41552673061945583,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+79,1,0:50,1850,1850,Adelaide Fuller missed Jumper.,10,13,-3,0,0.4149174647450769,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+80,1,0:50,1850,1850,Lauren Harley Defensive Rebound.,10,13,-3,4,0.4149174647450769,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+81,1,0:46,1846,1846,Lauren Harley Turnover.,10,13,-3,1,0.41476480413495703,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+82,1,0:45,1845,1845,Suzi-Rose Deegan Steal.,10,13,-3,2,0.41472661352295626,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+83,1,0:43,1843,1843,Suzi-Rose Deegan made Layup.,12,13,-1,20,0.47130038577566674,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Davidson
+84,1,0:23,1823,1823,Foul on Sarah Konstans.,12,13,-1,0,0.4710378948697002,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+85,1,0:23,1823,1823,Mariah Linney made Free Throw.,12,14,-2,0,0.44226948796934684,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Charlotte
+86,1,0:23,1823,1823,Mariah Linney made Free Throw.,12,15,-3,20,0.41388333014826767,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Charlotte
+87,1,0:03,1803,1803,Katie Turner made Jumper.,14,15,-1,0,0.47077314087674993,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Davidson
+88,1,0:03,1803,1803,Foul on Octavia Jett-Wilson.,14,15,-1,0,0.47077314087674993,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+89,1,0:03,1803,1803,Katie Turner made Free Throw.,15,15,0,3,0.5,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Davidson
+90,1,0:00,1800,1800,End of 1st Quarter,15,15,0,7,0.5,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+91,2,9:53,1793,1793,Foul on Dara Pearson.,15,15,0,18,0.5,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+92,2,9:35,1775,1775,Suzi-Rose Deegan missed Layup.,15,15,0,0,0.5,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+93,2,9:35,1775,1775,Suzi-Rose Deegan Offensive Rebound.,15,15,0,3,0.5,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+94,2,9:32,1772,1772,Suzi-Rose Deegan made Layup.,17,15,2,27,0.5590786494312441,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Davidson
+95,2,9:05,1745,1745,Octavia Jett-Wilson made Three Point Jumper. Assisted by Christian Hithe.,17,18,-1,16,0.4699868252033988,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Charlotte
+96,2,8:49,1729,1729,Sarah Donovan missed Layup.,17,18,-1,0,0.46976362301874747,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+97,2,8:49,1729,1729,Sarah Donovan Offensive Rebound.,17,18,-1,7,0.46976362301874747,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+98,2,8:42,1722,1722,Foul on Christian Hithe.,17,18,-1,4,0.46966494863697683,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+99,2,8:38,1718,1718,Sarah Donovan missed Layup.,17,18,-1,0,0.4696082682417182,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+100,2,8:38,1718,1718,Sarah Donovan Offensive Rebound.,17,18,-1,2,0.4696082682417182,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+101,2,8:36,1716,1716,Foul on Octavia Jett-Wilson.,17,18,-1,0,0.46957984556608334,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+102,2,8:36,1716,1716,Sarah Donovan made Free Throw.,18,18,0,0,0.5,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Davidson
+103,2,8:36,1716,1716,Sarah Donovan missed Free Throw.,18,18,0,0,0.5,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+104,2,8:36,1716,1716,Dara Pearson Defensive Rebound.,18,18,0,8,0.5,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+105,2,8:28,1708,1708,Jada McMillian missed Layup.,18,18,0,0,0.5,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+106,2,8:28,1708,1708,Sarah Donovan Defensive Rebound.,18,18,0,9,0.5,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+107,2,8:19,1699,1699,Chloe Welch missed Three Point Jumper.,18,18,0,0,0.5,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+108,2,8:19,1699,1699,Suzi-Rose Deegan Offensive Rebound.,18,18,0,3,0.5,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+109,2,8:16,1696,1696,Suzi-Rose Deegan made Layup.,20,18,2,32,0.5611843301390249,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Davidson
+110,2,7:44,1664,1664,Christian Hithe missed Jumper.,20,18,2,0,0.5620940090229462,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+111,2,7:44,1664,1664,Suzi-Rose Deegan Defensive Rebound.,20,18,2,24,0.5620940090229462,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+112,2,7:20,1640,1640,Suzi-Rose Deegan made Layup.,22,18,4,33,0.623561414496997,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Davidson
+113,2,6:47,1607,1607,Foul on Sarah Donovan.,22,18,4,0,0.6252577158005226,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+114,2,6:47,1607,1607,Jada McMillian made Free Throw.,22,19,3,0,0.5948239997537945,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Charlotte
+115,2,6:47,1607,1607,Jada McMillian made Free Throw.,22,20,2,14,0.5636435717132413,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Charlotte
+116,2,6:33,1593,1593,Adelaide Fuller missed Layup.,22,20,2,0,0.5640190651508649,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+117,2,6:33,1593,1593,Jade Phillips Defensive Rebound.,22,20,2,0,0.5640190651508649,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+118,2,6:33,1593,1593,Foul on Sarah Konstans.,22,20,2,0,0.5640190651508649,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+119,2,6:33,1593,1593,Charlotte  Turnover.,22,20,2,2,0.5640190651508649,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+120,2,6:31,1591,1591,Adelaide Fuller missed Jumper.,22,20,2,0,0.5640727541160789,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+121,2,6:31,1591,1591,Jade Phillips Defensive Rebound.,22,20,2,19,0.5640727541160789,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+122,2,6:12,1572,1572,Jade Phillips missed Jumper.,22,20,2,0,0.5645846472145819,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+123,2,6:12,1572,1572,Suzi-Rose Deegan Defensive Rebound.,22,20,2,16,0.5645846472145819,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+124,2,5:56,1556,1556,Foul on Jade Phillips.,22,20,2,0,0.5650201787497676,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+125,2,5:56,1556,1556,Adelaide Fuller missed Free Throw.,22,20,2,0,0.5650201787497676,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+126,2,5:56,1556,1556,Davidson Deadball Team Rebound.,22,20,2,0,0.5650201787497676,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+127,2,5:56,1556,1556,Adelaide Fuller made Free Throw.,23,20,3,13,0.596846530285329,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Davidson
+128,2,5:43,1543,1543,Jada McMillian made Layup.,23,22,1,14,0.5328302764141758,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Charlotte
+129,2,5:29,1529,1529,Suzi-Rose Deegan missed Jumper.,23,22,1,0,0.5330289417930258,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+130,2,5:29,1529,1529,Suzi-Rose Deegan Offensive Rebound.,23,22,1,3,0.5330289417930258,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+131,2,5:26,1526,1526,Suzi-Rose Deegan made Layup.,25,22,3,16,0.5980734817822355,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Davidson
+132,2,5:10,1510,1510,Maddie Moore made Layup. Assisted by Mariah Linney.,25,24,1,9,0.5333050630530126,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Charlotte
+133,2,5:01,1501,1501,Foul on Maddie Moore.,25,24,1,0,0.5334389550713015,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+134,2,5:01,1501,1501,Peyton Carter made Free Throw.,26,24,2,0,0.566580120243879,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Davidson
+135,2,5:01,1501,1501,Peyton Carter made Free Throw.,27,24,3,6,0.5991362198311965,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Davidson
+136,2,4:55,1495,1495,Foul on Chloe Welch.,27,24,3,0,0.5993982149926522,Davidson,Charlotte,4,4,1,0,NA,401177715,2019-12-21,
+137,2,4:55,1495,1495,Charlotte  Timeout,27,24,3,7,0.5993982149926522,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+138,2,4:48,1488,1488,Jada McMillian missed Layup.,27,24,3,0,0.5997077231065487,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+139,2,4:48,1488,1488,Adelaide Fuller Block.,27,24,3,0,0.5997077231065487,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+140,2,4:48,1488,1488,Charlotte Offensive Rebound.,27,24,3,1,0.5997077231065487,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+141,2,4:47,1487,1487,Foul on Maddie Moore.,27,24,3,0,0.5997522913938103,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+142,2,4:47,1487,1487,Maddie Moore Turnover.,27,24,3,9,0.5997522913938103,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+143,2,4:38,1478,1478,Foul on Jada McMillian.,27,24,3,0,0.6001575751886782,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+144,2,4:38,1478,1478,Katie Turner made Free Throw.,28,24,4,0,0.632160268279437,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,Davidson
+145,2,4:38,1478,1478,Katie Turner made Free Throw.,29,24,5,17,0.6630396498969097,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,Davidson
+146,2,4:21,1461,1461,Mariah Linney made Jumper.,29,26,3,14,0.6009451420478045,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,Charlotte
+147,2,4:07,1447,1447,Ally Welling missed Jumper.,29,26,3,0,0.6016165623572215,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+148,2,4:07,1447,1447,Lauren Harley Defensive Rebound.,29,26,3,13,0.6016165623572215,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+149,2,3:54,1434,1434,Foul on Katie Turner.,29,26,3,0,0.6022337610270139,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+150,2,3:54,1434,1434,Lauren Harley missed Free Throw.,29,26,3,0,0.6022337610270139,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+151,2,3:54,1434,1434,Charlotte Deadball Team Rebound.,29,26,3,0,0.6022337610270139,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+152,2,3:54,1434,1434,Lauren Harley made Free Throw.,29,27,2,10,0.5686930434825275,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Charlotte
+153,2,3:44,1424,1424,Adelaide Fuller Turnover.,29,27,2,29,0.5690097824007856,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+154,2,3:15,1395,1395,Jada McMillian missed Jumper.,29,27,2,0,0.5699019086909004,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+155,2,3:15,1395,1395,Ally Welling Defensive Rebound.,29,27,2,17,0.5699019086909004,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+156,2,2:58,1378,1378,Cameron Tabor missed Layup.,29,27,2,0,0.5704136689365977,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+157,2,2:58,1378,1378,Jazmin Harris Defensive Rebound.,29,27,2,9,0.5704136689365977,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+158,2,2:49,1369,1369,Jada McMillian missed Layup.,29,27,2,0,0.5706833172903033,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+159,2,2:49,1369,1369,Adelaide Fuller Defensive Rebound.,29,27,2,8,0.5706833172903033,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+160,2,2:41,1361,1361,Katie Turner Turnover.,29,27,2,0,0.5709230019849232,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+161,2,2:41,1361,1361,Mariah Linney Steal.,29,27,2,7,0.5709230019849232,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+162,2,2:34,1354,1354,Mariah Linney missed Layup.,29,27,2,0,0.5711331287607592,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+163,2,2:34,1354,1354,Christian Hithe Offensive Rebound.,29,27,2,14,0.5711331287607592,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+164,2,2:20,1340,1340,Christian Hithe Turnover.,29,27,2,1,0.5715558783644923,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+165,2,2:19,1339,1339,Adelaide Fuller Steal.,29,27,2,1,0.5715862550571719,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+166,2,2:18,1338,1338,Foul on Christian Hithe.,29,27,2,0,0.57161666092055,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+167,2,2:18,1338,1338,Suzi-Rose Deegan made Free Throw.,30,27,3,0,0.6065123050186736,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Davidson
+168,2,2:18,1338,1338,Suzi-Rose Deegan made Free Throw.,31,27,4,15,0.6403538524524566,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Davidson
+169,2,2:03,1323,1323,Mariah Linney missed Three Point Jumper.,31,27,4,0,0.6412192258485665,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+170,2,2:03,1323,1323,Ally Welling Defensive Rebound.,31,27,4,16,0.6412192258485665,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+171,2,1:47,1307,1307,Peyton Carter missed Jumper.,31,27,4,0,0.6421624339041494,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+172,2,1:47,1307,1307,Lauren Harley Block.,31,27,4,2,0.6421624339041494,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+173,2,1:45,1305,1305,Jada McMillian Defensive Rebound.,31,27,4,13,0.6422821510353673,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+174,2,1:32,1292,1292,Christian Hithe made Jumper.,31,29,2,16,0.5730634866740758,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Charlotte
+175,2,1:16,1276,1276,Foul on Christian Hithe.,31,29,2,0,0.5735988234035153,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+176,2,1:16,1276,1276,Suzi-Rose Deegan missed Free Throw.,31,29,2,0,0.5735988234035153,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+177,2,1:16,1276,1276,Davidson Deadball Team Rebound.,31,29,2,0,0.5735988234035153,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+178,2,1:16,1276,1276,Suzi-Rose Deegan missed Free Throw.,31,29,2,0,0.5735988234035153,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+179,2,1:16,1276,1276,Lauren Harley Defensive Rebound.,31,29,2,12,0.5735988234035153,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+180,2,1:04,1264,1264,Cali Konek Turnover.,31,29,2,9,0.5740151669926442,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+181,2,0:55,1255,1255,Foul on Lauren Harley.,31,29,2,0,0.574336887301875,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+182,2,0:55,1255,1255,Suzi-Rose Deegan made Free Throw.,32,29,3,0,0.6104851257402714,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Davidson
+183,2,0:55,1255,1255,Suzi-Rose Deegan made Free Throw.,33,29,4,25,0.6454585740997525,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Davidson
+184,2,0:30,1230,1230,Foul on Adelaide Fuller.,33,29,4,2,0.6472214616941595,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+185,2,0:28,1228,1228,Jada McMillian made Layup.,33,31,2,0,0.5753581356307944,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Charlotte
+186,2,0:28,1228,1228,Jada McMillian made Free Throw.,33,32,1,19,0.5378955068465396,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Charlotte
+187,2,0:09,1209,1209,Foul on Mariah Linney.,33,32,1,0,0.5382906187011293,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+188,2,0:09,1209,1209,Katie Turner made Free Throw.,34,32,2,0,0.5761347311164998,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Davidson
+189,2,0:09,1209,1209,Katie Turner made Free Throw.,35,32,3,8,0.6131064177089345,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Davidson
+190,2,0:01,1201,1201,Foul on Chloe Welch.,35,32,3,0,0.6135920191128087,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+191,2,0:01,1201,1201,Jada McMillian made Free Throw.,35,33,2,0,0.5764680567375442,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Charlotte
+192,2,0:01,1201,1201,Jada McMillian missed Free Throw.,35,33,2,0,0.5764680567375442,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+193,2,0:01,1201,1201,Ally Welling Defensive Rebound.,35,33,2,1,0.5764680567375442,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+194,2,0:00,1200,1200,End of 2nd Quarter,35,33,2,12,0.5765093285143758,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+195,3,9:48,1188,1188,Jade Phillips missed Jumper.,35,33,2,0,0.5769984931950138,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+196,3,9:48,1188,1188,Sarah Donovan Defensive Rebound.,35,33,2,21,0.5769984931950138,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+197,3,9:27,1167,1167,Suzi-Rose Deegan missed Layup.,35,33,2,0,0.5778327029115884,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+198,3,9:27,1167,1167,Dara Pearson Defensive Rebound.,35,33,2,17,0.5778327029115884,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+199,3,9:10,1150,1150,Jade Phillips made Layup. Assisted by Octavia Jett-Wilson.,35,35,0,29,0.5,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,Charlotte
+200,3,8:41,1121,1121,Sarah Donovan missed Layup.,35,35,0,0,0.5,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+201,3,8:41,1121,1121,Jade Phillips Block.,35,35,0,2,0.5,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+202,3,8:39,1119,1119,Jade Phillips Defensive Rebound.,35,35,0,14,0.5,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+203,3,8:25,1105,1105,Octavia Jett-Wilson made Layup.,35,37,-2,28,0.4197577230382261,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,Charlotte
+204,3,7:57,1077,1077,Katie Turner made Layup.,37,37,0,19,0.5,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,Davidson
+205,3,7:38,1058,1058,Jade Phillips missed Jumper.,37,37,0,0,0.5,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+206,3,7:38,1058,1058,Dara Pearson Offensive Rebound.,37,37,0,1,0.5,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+207,3,7:37,1057,1057,Foul on Ally Welling.,37,37,0,3,0.5,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+208,3,7:34,1054,1054,Foul on Sarah Donovan.,37,37,0,2,0.5,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+209,3,7:32,1052,1052,Jade Phillips made Jumper. Assisted by Octavia Jett-Wilson.,37,39,-2,19,0.4175773729614239,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,Charlotte
+210,3,7:13,1033,1033,Ally Welling made Jumper. Assisted by Katie Turner.,39,39,0,30,0.5,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,Davidson
+211,3,6:43,1003,1003,Jade Phillips made Jumper.,39,41,-2,21,0.4152820100265939,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,Charlotte
+212,3,6:22,982,982,Katie Turner missed Layup.,39,41,-2,0,0.41417645541462195,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+213,3,6:22,982,982,Charlotte Defensive Rebound.,39,41,-2,14,0.41417645541462195,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+214,3,6:08,968,968,Octavia Jett-Wilson missed Jumper.,39,41,-2,0,0.41339097869063607,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+215,3,6:08,968,968,Dara Pearson Offensive Rebound.,39,41,-2,3,0.41339097869063607,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+216,3,6:05,965,965,Dara Pearson made Layup.,39,43,-4,18,0.33152025851193534,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,Charlotte
+217,3,5:47,947,947,Octavia Jett-Wilson Block.,39,43,-4,0,0.3297819254825925,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+218,3,5:47,947,947,Chloe Welch missed Layup.,39,43,-4,1,0.3297819254825925,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+219,3,5:46,946,946,Dara Pearson Defensive Rebound.,39,43,-4,9,0.3296902370116193,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+220,3,5:37,937,937,Jade Phillips made Jumper. Assisted by Jada McMillian.,39,45,-6,1,0.25543203796484243,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,Charlotte
+221,3,5:36,936,936,Davidson  Timeout,39,45,-6,9,0.2553191333952481,Davidson,Charlotte,4,4,0,1,NA,401177715,2019-12-21,
+222,3,5:27,927,927,Suzi-Rose Deegan made Layup.,41,45,-4,21,0.3280283220147901,Davidson,Charlotte,4,4,0,1,NA,401177715,2019-12-21,Davidson
+223,3,5:06,906,906,Jade Phillips made Layup.,41,47,-6,17,0.2521334795223325,Davidson,Charlotte,4,4,0,1,NA,401177715,2019-12-21,Charlotte
+224,3,4:49,889,889,Katie Turner made Three Point Jumper. Assisted by Suzi-Rose Deegan.,44,47,-3,16,0.3662984617561544,Davidson,Charlotte,4,4,0,1,NA,401177715,2019-12-21,Davidson
+225,3,4:33,873,873,Foul on Cameron Tabor.,44,47,-3,0,0.36532705642957347,Davidson,Charlotte,4,4,1,0,NA,401177715,2019-12-21,
+226,3,4:33,873,873,Charlotte  Timeout,44,47,-3,14,0.36532705642957347,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+227,3,4:19,859,859,Mariah Linney missed Three Point Jumper.,44,47,-3,0,0.3644678895126578,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+228,3,4:19,859,859,Mariah Linney Offensive Rebound.,44,47,-3,6,0.3644678895126578,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+229,3,4:13,853,853,Dara Pearson made Layup. Assisted by Mariah Linney.,44,49,-5,16,0.28304550337809314,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,Charlotte
+230,3,3:57,837,837,Katie Turner missed Three Point Jumper.,44,49,-5,0,0.2815412676872197,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+231,3,3:57,837,837,Katie Turner Offensive Rebound.,44,49,-5,3,0.2815412676872197,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+232,3,3:54,834,834,Katie Turner made Layup.,46,49,-3,15,0.3628626374241329,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,Davidson
+233,3,3:39,819,819,Octavia Jett-Wilson missed Layup.,46,49,-3,0,0.3618259181562054,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+234,3,3:39,819,819,Suzi-Rose Deegan Defensive Rebound.,46,49,-3,16,0.3618259181562054,Davidson,Charlotte,3,4,1,0,NA,401177715,2019-12-21,
+235,3,3:23,803,803,Adelaide Fuller missed Jumper.,46,49,-3,0,0.3606338340869814,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+236,3,3:23,803,803,Dara Pearson Defensive Rebound.,46,49,-3,23,0.3606338340869814,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+237,3,3:00,780,780,Jade Phillips missed Jumper.,46,49,-3,0,0.3587202699747966,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+238,3,3:00,780,780,Suzi-Rose Deegan Defensive Rebound.,46,49,-3,21,0.3587202699747966,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+239,3,2:39,759,759,Cameron Tabor missed Three Point Jumper.,46,49,-3,0,0.35671735585565245,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+240,3,2:39,759,759,Suzi-Rose Deegan Offensive Rebound.,46,49,-3,8,0.35671735585565245,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+241,3,2:31,751,751,Suzi-Rose Deegan missed Three Point Jumper.,46,49,-3,0,0.35587942132572703,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+242,3,2:31,751,751,Jade Phillips Defensive Rebound.,46,49,-3,28,0.35587942132572703,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+243,3,2:03,723,723,Jade Phillips missed Jumper.,46,49,-3,0,0.35261517993908387,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+244,3,2:03,723,723,Chloe Welch Defensive Rebound.,46,49,-3,25,0.35261517993908387,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+245,3,1:38,698,698,Suzi-Rose Deegan missed Layup.,46,49,-3,0,0.34993247863432636,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+246,3,1:38,698,698,Dara Pearson Defensive Rebound.,46,49,-3,25,0.34993247863432636,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+247,3,1:13,673,673,Jada McMillian made Layup.,46,51,-5,33,0.2593112928660583,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Charlotte
+248,3,0:40,640,640,Cameron Tabor missed Three Point Jumper.,46,51,-5,0,0.2550569244100231,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+249,3,0:40,640,640,Adelaide Fuller Offensive Rebound.,46,51,-5,2,0.2550569244100231,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+250,3,0:38,638,638,Foul on Jada McMillian.,46,51,-5,8,0.25479007472298065,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+251,3,0:30,630,630,Suzi-Rose Deegan made Layup.,48,51,-3,28,0.3435794639776565,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,Davidson
+252,3,0:02,602,602,Christian Hithe Turnover.,48,51,-3,2,0.34055387447890334,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+253,3,0:00,600,600,Ally Welling Turnover.,48,51,-3,0,0.3403142121083677,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+254,3,0:00,600,600,Maddie Moore Steal.,48,51,-3,0,0.3403142121083677,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+255,3,0:00,600,600,End of 3rd Quarter,48,51,-3,9,0.3403142121083677,Davidson,Charlotte,3,4,0,0,NA,401177715,2019-12-21,
+256,4,9:51,591,591,Foul on Lauren Harley.,48,51,-3,19,0.33918760134177783,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+257,4,9:32,572,572,Ally Welling missed Three Point Jumper.,48,51,-3,0,0.33651280495634706,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+258,4,9:32,572,572,Lauren Harley Defensive Rebound.,48,51,-3,31,0.33651280495634706,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+259,4,9:01,541,541,Jade Phillips Turnover.,48,51,-3,15,0.3312315736292984,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+260,4,8:46,526,526,Ally Welling missed Jumper.,48,51,-3,0,0.3289289454764358,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+261,4,8:46,526,526,Christian Hithe Defensive Rebound.,48,51,-3,8,0.3289289454764358,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+262,4,8:38,518,518,Foul on Ally Welling.,48,51,-3,0,0.3278151436985062,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+263,4,8:38,518,518,Christian Hithe made Free Throw.,48,52,-4,0,0.2773901005550183,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,Charlotte
+264,4,8:38,518,518,Christian Hithe made Free Throw.,48,53,-5,10,0.23204392139561508,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,Charlotte
+265,4,8:28,508,508,Suzi-Rose Deegan Turnover.,48,53,-5,0,0.23025109079444978,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+266,4,8:28,508,508,Foul on Suzi-Rose Deegan.,48,53,-5,19,0.23025109079444978,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+267,4,8:09,489,489,Christian Hithe made Three Point Jumper. Assisted by Lauren Harley.,48,56,-8,10,0.1232827378287063,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,Charlotte
+268,4,7:59,479,479,Suzi-Rose Deegan missed Three Point Jumper.,48,56,-8,0,0.12142205845281356,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+269,4,7:59,479,479,Dara Pearson Defensive Rebound.,48,56,-8,8,0.12142205845281356,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+270,4,7:51,471,471,Foul on Suzi-Rose Deegan.,48,56,-8,0,0.1198302757468492,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+271,4,7:51,471,471,Jada McMillian made Free Throw.,48,57,-9,12,0.09592955332229765,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,Charlotte
+272,4,7:39,459,459,Katie Turner missed Jumper.,48,57,-9,0,0.09350192575995503,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+273,4,7:39,459,459,Dara Pearson Defensive Rebound.,48,57,-9,1,0.09350192575995503,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+274,4,7:38,458,458,Foul on Sarah Donovan.,48,57,-9,26,0.09328571563192595,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+275,4,7:12,432,432,Lauren Harley missed Layup.,48,57,-9,0,0.08672890073125895,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+276,4,7:12,432,432,Lauren Harley Offensive Rebound.,48,57,-9,1,0.08672890073125895,Davidson,Charlotte,4,5,0,0,NA,401177715,2019-12-21,
+277,4,7:11,431,431,Foul on Ally Welling.,48,57,-9,0,0.08643662524797652,Davidson,Charlotte,4,5,0,1,NA,401177715,2019-12-21,
+278,4,7:11,431,431,Lauren Harley made Free Throw.,48,58,-10,0,0.06786642227803924,Davidson,Charlotte,4,5,0,1,NA,401177715,2019-12-21,Charlotte
+279,4,7:11,431,431,Davidson  Timeout,48,58,-10,0,0.06786642227803924,Davidson,Charlotte,4,4,0,1,NA,401177715,2019-12-21,
+280,4,7:11,431,431,Lauren Harley missed Free Throw.,48,58,-10,0,0.06786642227803924,Davidson,Charlotte,4,4,0,1,NA,401177715,2019-12-21,
+281,4,7:11,431,431,Katie Turner Defensive Rebound.,48,58,-10,18,0.06786642227803924,Davidson,Charlotte,4,4,0,1,NA,401177715,2019-12-21,
+282,4,6:53,413,413,Suzi-Rose Deegan made Layup.,50,58,-8,18,0.10404350529906994,Davidson,Charlotte,4,4,0,1,NA,401177715,2019-12-21,Davidson
+283,4,6:35,395,395,Jade Phillips Turnover.,50,58,-8,10,0.09921496381693477,Davidson,Charlotte,4,4,0,1,NA,401177715,2019-12-21,
+284,4,6:25,385,385,Katie Turner Turnover.,50,58,-8,9,0.09662965311756166,Davidson,Charlotte,4,4,0,1,NA,401177715,2019-12-21,
+285,4,6:16,376,376,Foul on Adelaide Fuller.,50,58,-8,0,0.09428795123899165,Davidson,Charlotte,4,4,0,1,NA,401177715,2019-12-21,
+286,4,6:16,376,376,Christian Hithe made Free Throw.,50,59,-9,0,0.07275204334680162,Davidson,Charlotte,4,4,0,1,NA,401177715,2019-12-21,Charlotte
+287,4,6:16,376,376,Christian Hithe made Free Throw.,50,60,-10,12,0.05583183725344234,Davidson,Charlotte,4,4,0,1,NA,401177715,2019-12-21,Charlotte
+288,4,6:04,364,364,Cameron Tabor Turnover.,50,60,-10,24,0.0533574009484957,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,
+289,4,5:40,340,340,Mariah Linney made Layup.,50,62,-12,3,0.026980011102691333,Davidson,Charlotte,4,4,0,0,NA,401177715,2019-12-21,Charlotte
+290,4,5:37,337,337,Davidson  Timeout,50,62,-12,13,0.026480305116792512,Davidson,Charlotte,4,3,0,1,NA,401177715,2019-12-21,
+291,4,5:24,324,324,Foul on Jade Phillips.,50,62,-12,0,0.024229091734007554,Davidson,Charlotte,4,3,0,1,NA,401177715,2019-12-21,
+292,4,5:24,324,324,Suzi-Rose Deegan missed Free Throw.,50,62,-12,0,0.024229091734007554,Davidson,Charlotte,4,3,0,1,NA,401177715,2019-12-21,
+293,4,5:24,324,324,Davidson Deadball Team Rebound.,50,62,-12,0,0.024229091734007554,Davidson,Charlotte,4,3,0,1,NA,401177715,2019-12-21,
+294,4,5:24,324,324,Suzi-Rose Deegan made Free Throw.,51,62,-11,5,0.03268205869126486,Davidson,Charlotte,4,3,0,1,NA,401177715,2019-12-21,Davidson
+295,4,5:19,319,319,Mariah Linney missed Layup.,51,62,-11,0,0.03157423413481657,Davidson,Charlotte,4,3,0,1,NA,401177715,2019-12-21,
+296,4,5:19,319,319,Suzi-Rose Deegan Defensive Rebound.,51,62,-11,10,0.03157423413481657,Davidson,Charlotte,4,3,0,1,NA,401177715,2019-12-21,
+297,4,5:09,309,309,Suzi-Rose Deegan missed Layup.,51,62,-11,0,0.029286765354738113,Davidson,Charlotte,4,3,0,1,NA,401177715,2019-12-21,
+298,4,5:09,309,309,Jada McMillian Defensive Rebound.,51,62,-11,2,0.029286765354738113,Davidson,Charlotte,4,3,0,1,NA,401177715,2019-12-21,
+299,4,5:07,307,307,Foul on Chloe Welch.,51,62,-11,0,0.028879481859503647,Davidson,Charlotte,4,3,0,1,NA,401177715,2019-12-21,
+300,4,5:07,307,307,Jada McMillian made Free Throw.,51,63,-12,0,0.021146787785202147,Davidson,Charlotte,4,3,0,1,NA,401177715,2019-12-21,Charlotte
+301,4,5:07,307,307,Jada McMillian made Free Throw.,51,64,-13,9,0.015451635737456006,Davidson,Charlotte,4,3,0,1,NA,401177715,2019-12-21,Charlotte
+302,4,4:58,298,298,Chloe Welch missed Three Point Jumper.,51,64,-13,0,0.014685898185163014,Davidson,Charlotte,4,3,0,1,NA,401177715,2019-12-21,
+303,4,4:58,298,298,Christian Hithe Defensive Rebound.,51,64,-13,2,0.014685898185163014,Davidson,Charlotte,4,3,0,1,NA,401177715,2019-12-21,
+304,4,4:56,296,296,Christian Hithe Turnover.,51,64,-13,0,0.01459274218595519,Davidson,Charlotte,4,3,0,1,NA,401177715,2019-12-21,
+305,4,4:56,296,296,Foul on Christian Hithe.,51,64,-13,8,0.01459274218595519,Davidson,Charlotte,4,3,0,1,NA,401177715,2019-12-21,
+306,4,4:48,288,288,Ally Welling missed Jumper.,51,64,-13,0,0.014440550501536184,Davidson,Charlotte,4,3,0,1,NA,401177715,2019-12-21,
+307,4,4:48,288,288,Adelaide Fuller Offensive Rebound.,51,64,-13,2,0.014440550501536184,Davidson,Charlotte,4,3,0,1,NA,401177715,2019-12-21,
+308,4,4:46,286,286,Adelaide Fuller made Layup.,53,64,-11,29,0.027307906894042437,Davidson,Charlotte,4,3,0,1,NA,401177715,2019-12-21,Davidson
+309,4,4:17,257,257,Foul on Katie Turner.,53,64,-11,0,0.029383897432818353,Davidson,Charlotte,4,3,0,0,NA,401177715,2019-12-21,
+310,4,4:17,257,257,Mariah Linney missed Free Throw.,53,64,-11,0,0.029383897432818353,Davidson,Charlotte,4,3,0,0,NA,401177715,2019-12-21,
+311,4,4:17,257,257,Charlotte Deadball Team Rebound.,53,64,-11,0,0.029383897432818353,Davidson,Charlotte,4,3,0,0,NA,401177715,2019-12-21,
+312,4,4:17,257,257,Mariah Linney made Free Throw.,53,65,-12,14,0.021553301222996202,Davidson,Charlotte,4,3,0,0,NA,401177715,2019-12-21,Charlotte
+313,4,4:03,243,243,Suzi-Rose Deegan made Jumper.,55,65,-10,25,0.041212585053450324,Davidson,Charlotte,4,3,0,0,NA,401177715,2019-12-21,Davidson
+314,4,3:38,218,218,Jade Phillips made Layup. Assisted by Mariah Linney.,55,67,-12,15,0.021266278205105963,Davidson,Charlotte,4,3,0,0,NA,401177715,2019-12-21,Charlotte
+315,4,3:23,203,203,Suzi-Rose Deegan made Three Point Jumper. Assisted by Sarah Konstans.,58,67,-9,1,0.04756727621298163,Davidson,Charlotte,4,3,0,0,NA,401177715,2019-12-21,Davidson
+316,4,3:22,202,202,Davidson  Timeout,58,67,-9,6,0.047029331269646354,Davidson,Charlotte,4,2,0,1,NA,401177715,2019-12-21,
+317,4,3:16,196,196,Foul on Chloe Welch.,58,67,-9,0,0.043472807482444774,Davidson,Charlotte,4,2,0,1,NA,401177715,2019-12-21,
+318,4,3:16,196,196,Jada McMillian made Free Throw.,58,68,-10,0,0.03123032468511104,Davidson,Charlotte,4,2,0,1,NA,401177715,2019-12-21,Charlotte
+319,4,3:16,196,196,Jada McMillian made Free Throw.,58,69,-11,14,0.02235490282865538,Davidson,Charlotte,4,2,0,1,NA,401177715,2019-12-21,Charlotte
+320,4,3:02,182,182,Cameron Tabor made Layup.,60,69,-9,22,0.034098519305332295,Davidson,Charlotte,4,2,0,1,NA,401177715,2019-12-21,Davidson
+321,4,2:40,160,160,Mariah Linney missed Layup.,60,69,-9,0,0.02233385766094132,Davidson,Charlotte,4,2,0,1,NA,401177715,2019-12-21,
+322,4,2:40,160,160,Mariah Linney Offensive Rebound.,60,69,-9,16,0.02233385766094132,Davidson,Charlotte,4,2,0,1,NA,401177715,2019-12-21,
+323,4,2:24,144,144,Jade Phillips made Jumper. Assisted by Christian Hithe.,60,71,-11,13,0.00633542598203187,Davidson,Charlotte,4,2,0,1,NA,401177715,2019-12-21,Charlotte
+324,4,2:11,131,131,Suzi-Rose Deegan missed Layup.,60,71,-11,0,0.004243334259494297,Davidson,Charlotte,4,2,0,0,NA,401177715,2019-12-21,
+325,4,2:11,131,131,Mariah Linney Defensive Rebound.,60,71,-11,2,0.004243334259494297,Davidson,Charlotte,4,2,0,0,NA,401177715,2019-12-21,
+326,4,2:09,129,129,Mariah Linney Turnover.,60,71,-11,1,0.0039706722097754815,Davidson,Charlotte,4,2,0,0,NA,401177715,2019-12-21,
+327,4,2:08,128,128,Chloe Welch Steal.,60,71,-11,6,0.0038389907566965344,Davidson,Charlotte,4,2,0,0,NA,401177715,2019-12-21,
+328,4,2:02,122,122,Ally Welling missed Jumper.,60,71,-11,0,0.0031119332649578897,Davidson,Charlotte,4,2,0,0,NA,401177715,2019-12-21,
+329,4,2:02,122,122,Jade Phillips Defensive Rebound.,60,71,-11,23,0.0031119332649578897,Davidson,Charlotte,4,2,0,0,NA,401177715,2019-12-21,
+330,4,1:39,99,99,Dara Pearson Turnover.,60,71,-11,1,0.0012107781305136843,Davidson,Charlotte,4,2,0,0,NA,401177715,2019-12-21,
+331,4,1:38,98,98,Suzi-Rose Deegan Steal.,60,71,-11,4,0.0011555290088078247,Davidson,Charlotte,4,2,0,0,NA,401177715,2019-12-21,
+332,4,1:34,94,94,Suzi-Rose Deegan Turnover.,60,71,-11,1,9.538403006269793e-4,Davidson,Charlotte,4,2,0,0,NA,401177715,2019-12-21,
+333,4,1:33,93,93,Mariah Linney Steal.,60,71,-11,3,9.085367548871034e-4,Davidson,Charlotte,4,2,0,0,NA,401177715,2019-12-21,
+334,4,1:30,90,90,Mariah Linney made Layup.,60,73,-13,15,2.1396092203836072e-4,Davidson,Charlotte,4,2,0,0,NA,401177715,2019-12-21,Charlotte
+335,4,1:15,75,75,Ally Welling made Layup.,62,73,-11,34,3.646873807754797e-4,Davidson,Charlotte,4,2,0,0,NA,401177715,2019-12-21,Davidson
+336,4,0:41,41,41,Mariah Linney made Layup.,62,75,-13,15,7.888287363509957e-6,Davidson,Charlotte,4,2,0,0,NA,401177715,2019-12-21,Charlotte
+337,4,0:26,26,26,Foul on Dara Pearson.,62,75,-13,0,2.3587921136159974e-6,Davidson,Charlotte,4,2,0,0,NA,401177715,2019-12-21,
+338,4,0:26,26,26,Katie Turner made Free Throw.,63,75,-12,0,6.390838793803649e-6,Davidson,Charlotte,4,2,0,0,NA,401177715,2019-12-21,Davidson
+339,4,0:26,26,26,Katie Turner made Free Throw.,64,75,-11,26,1.7315022699415856e-5,Davidson,Charlotte,4,2,0,0,NA,401177715,2019-12-21,Davidson
+340,4,0:00,0,0,End of Game,64,75,-11,0,2.852423339163565e-96,Davidson,Charlotte,4,2,0,0,NA,401177715,2019-12-21,

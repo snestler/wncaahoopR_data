@@ -1,0 +1,337 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Technical Foul on Weber State.,0,0,0,0,0.5,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,NA
+2,1,10:00,2400,2400,Darian White made Free Throw.,1,0,1,0,0.5220559728450821,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+3,1,10:00,2400,2400,Darian White made Free Throw.,2,0,2,8,0.544026276554456,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+4,1,9:52,2392,2392,Fallyn Freije missed Layup.,2,0,2,3,0.5441941605715893,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+5,1,9:49,2389,2389,Martha Kuderer Offensive Rebound.,2,0,2,1,0.5442573673894345,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+6,1,9:48,2388,2388,Fallyn Freije made Layup. Assisted by Martha Kuderer.,4,0,4,18,0.5878678438418338,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+7,1,9:30,2370,2370,Ula Chamberlin missed Layup.,4,0,4,9,0.5886144801125457,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+8,1,9:21,2361,2361,Liz Graves Offensive Rebound.,4,0,4,3,0.588991024157816,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+9,1,9:18,2358,2358,Liz Graves made Layup.,4,2,2,11,0.5449181103473372,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Weber State
+10,1,9:07,2347,2347,Darian White missed Jumper.,4,2,2,3,0.5451557187753678,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+11,1,9:04,2344,2344,Jadyn Matthews Defensive Rebound.,4,2,2,25,0.5452207909535292,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+12,1,8:39,2319,2319,Weber State  Turnover.,4,2,2,18,0.5457673174479175,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+13,1,8:21,2301,2301,Darian White Turnover.,4,2,2,0,0.5461652125929003,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+14,1,8:21,2301,2301,Kori Pentzer Steal.,4,2,2,5,0.5461652125929003,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+15,1,8:16,2296,2296,Foul on Tori Martell.,4,2,2,15,0.5462763437592703,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+16,1,8:01,2281,2281,Kayla Watkins Turnover.,4,2,2,8,0.5466112148644995,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+17,1,7:53,2273,2273,Ula Chamberlin missed Jumper.,4,2,2,5,0.5467906738870376,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+18,1,7:48,2268,2268,Fallyn Freije Defensive Rebound.,4,2,2,3,0.5469031240173988,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+19,1,7:45,2265,2265,Tori Martell missed Three Point Jumper.,4,2,2,3,0.5469706971582785,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+20,1,7:42,2262,2262,Darian White Offensive Rebound.,4,2,2,4,0.547038345861369,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+21,1,7:38,2258,2258,Fallyn Freije Turnover.,4,2,2,10,0.5471286592204017,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+22,1,7:28,2248,2248,Kori Pentzer missed Layup.,4,2,2,0,0.5473549972119557,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+23,1,7:28,2248,2248,Fallyn Freije Block.,4,2,2,2,0.5473549972119557,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+24,1,7:26,2246,2246,Weber State Offensive Rebound.,4,2,2,0,0.5474003565203939,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+25,1,7:26,2246,2246,Kayla Watkins missed Jumper.,4,2,2,0,0.5474003565203939,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+26,1,7:26,2246,2246,Tori Martell Defensive Rebound.,4,2,2,0,0.5474003565203939,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+27,1,7:26,2246,2246,Madeline Smith missed Layup.,4,2,2,0,0.5474003565203939,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+28,1,7:26,2246,2246,Kayla Watkins Block.,4,2,2,0,0.5474003565203939,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+29,1,7:26,2246,2246,Kayla Watkins Defensive Rebound.,4,2,2,0,0.5474003565203939,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+30,1,7:26,2246,2246,Ula Chamberlin made Three Point Jumper.,4,5,-1,32,0.4762463316928163,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Weber State
+31,1,6:54,2214,2214,Madeline Smith Turnover.,4,5,-1,18,0.47587907233940807,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+32,1,6:36,2196,2196,Kayla Watkins made Layup.,4,7,-3,12,0.4274708663204055,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Weber State
+33,1,6:24,2184,2184,Darian White missed Layup.,4,7,-3,2,0.42706141630147587,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+34,1,6:22,2182,2182,Weber State Defensive Rebound.,4,7,-3,0,0.4269930904046104,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+35,1,6:22,2182,2182,Tori Martell made Jumper.,6,7,-1,20,0.4755087866646665,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+36,1,6:02,2162,2162,Ciara James Turnover.,6,7,-1,0,0.4752761396797324,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+37,1,6:02,2162,2162,Martha Kuderer Steal.,6,7,-1,18,0.4752761396797324,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+38,1,5:44,2144,2144,Martha Kuderer made Layup.,8,7,1,30,0.5249344419963612,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+39,1,5:14,2114,2114,Ciara James Turnover.,8,7,1,9,0.5252884524132849,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+40,1,5:05,2105,2105,Oliana Squires made Jumper.,10,7,3,17,0.5756662813686515,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+41,1,4:48,2088,2088,Liz Graves missed Jumper.,10,7,3,0,0.5762633298081224,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+42,1,4:48,2088,2088,Blaire Braxton Block.,10,7,3,7,0.5762633298081224,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+43,1,4:41,2081,2081,Tori Martell Defensive Rebound.,10,7,3,2,0.576510362827849,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+44,1,4:39,2079,2079,Madison Jackson missed Three Point Jumper.,10,7,3,3,0.5765810749553248,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+45,1,4:36,2076,2076,Ciara James Defensive Rebound.,10,7,3,20,0.5766872539992671,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+46,1,4:16,2056,2056,Ula Chamberlin missed Three Point Jumper.,10,7,3,5,0.5773986073145357,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+47,1,4:11,2051,2051,Kola Bad Bear Defensive Rebound.,10,7,3,9,0.577577423276658,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+48,1,4:02,2042,2042,Foul on Kola Bad Bear.,10,7,3,0,0.577900312236857,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+49,1,4:02,2042,2042,Kola Bad Bear Turnover.,10,7,3,0,0.577900312236857,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+50,1,4:02,2042,2042,Ula Chamberlin made Jumper.,10,9,1,16,0.5261560906857521,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Weber State
+51,1,3:46,2026,2026,Madison Jackson missed Jumper.,10,9,1,3,0.5263528246544972,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+52,1,3:43,2023,2023,Kayla Watkins Defensive Rebound.,10,9,1,25,0.5263898859159339,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+53,1,3:18,1998,1998,Liz Graves missed Jumper.,10,9,1,5,0.5267009496278943,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+54,1,3:13,1993,1993,Oliana Squires Defensive Rebound.,10,9,1,5,0.5267636521026683,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+55,1,3:08,1988,1988,Madison Jackson Turnover.,10,9,1,12,0.5268265227868488,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+56,1,2:56,1976,1976,Liz Graves missed Jumper.,10,9,1,4,0.5269781114547611,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+57,1,2:52,1972,1972,Martha Kuderer Defensive Rebound.,10,9,1,5,0.5270288641252185,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+58,1,2:47,1967,1967,Foul on Ciara James.,10,9,1,0,0.5270924645208734,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+59,1,2:47,1967,1967,Blaire Braxton made Free Throw.,11,9,2,0,0.5540263074499978,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+60,1,2:47,1967,1967,Blaire Braxton made Free Throw.,12,9,3,21,0.5806466003782391,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+61,1,2:26,1946,1946,Ula Chamberlin Turnover.,12,9,3,0,0.5814350418975857,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+62,1,2:26,1946,1946,Darian White Steal.,12,9,3,7,0.5814350418975857,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+63,1,2:19,1939,1939,Kola Bad Bear missed Layup.,12,9,3,3,0.5816999117488562,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+64,1,2:16,1936,1936,Daryn Hickok Defensive Rebound.,12,9,3,32,0.5818137495302403,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+65,1,1:44,1904,1904,Daryn Hickok missed Three Point Jumper.,12,9,3,4,0.583030604955373,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+66,1,1:40,1900,1900,Tori Martell Defensive Rebound.,12,9,3,3,0.5831824332277011,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+67,1,1:37,1897,1897,Madeline Smith missed Layup.,12,9,3,3,0.5832962846408858,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+68,1,1:34,1894,1894,Montana State Offensive Rebound.,12,9,3,1,0.5834101258970105,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+69,1,1:33,1893,1893,Tori Martell missed Three Point Jumper.,12,9,3,4,0.5834480717837793,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+70,1,1:29,1889,1889,Liz Graves Defensive Rebound.,12,9,3,21,0.5835998553847677,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+71,1,1:08,1868,1868,Daryn Hickok Turnover.,12,9,3,9,0.5843972361919785,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+72,1,0:59,1859,1859,Fallyn Freije made Layup. Assisted by Darian White.,14,9,5,0,0.6388634494934801,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+73,1,0:59,1859,1859,Foul on Ciara James.,14,9,5,0,0.6388634494934801,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+74,1,0:59,1859,1859,Fallyn Freije made Free Throw.,15,9,6,13,0.6647471040365673,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+75,1,0:46,1846,1846,Daryn Hickok made Layup. Assisted by Ashley Thoms.,15,11,4,21,0.6127934324377025,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Weber State
+76,1,0:25,1825,1825,Fallyn Freije missed Jumper.,15,11,4,4,0.6138418025824749,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+77,1,0:21,1821,1821,Martha Kuderer Offensive Rebound.,15,11,4,1,0.6140423435420265,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+78,1,0:20,1820,1820,Martha Kuderer missed Layup.,15,11,4,3,0.6140925276724563,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+79,1,0:17,1817,1817,Jadyn Matthews Defensive Rebound.,15,11,4,9,0.6142432020612304,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+80,1,0:08,1808,1808,Ashley Thoms missed Three Point Jumper.,15,11,4,4,0.6146963912992884,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+81,1,0:04,1804,1804,Tori Martell Defensive Rebound.,15,11,4,4,0.6148984104962276,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+82,1,0:00,1800,1800,Tori Martell made Jumper.,17,11,6,0,0.6688984611571205,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+83,1,0:00,1800,1800,End of 1st Quarter,15,11,4,21,0.6151008263378087,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+84,2,9:39,1779,1779,Kori Pentzer missed Three Point Jumper.,17,11,6,5,0.6703988400927152,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+85,2,9:34,1774,1774,Fallyn Freije Defensive Rebound.,17,11,6,8,0.6707585710763991,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+86,2,9:26,1766,1766,Tori Martell made Three Point Jumper. Assisted by Darian White.,20,11,9,27,0.7448541781440464,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+87,2,8:59,1739,1739,Jadyn Matthews Turnover.,20,11,9,9,0.7473985573315332,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+88,2,8:50,1730,1730,Foul on Ashley Thoms.,20,11,9,0,0.7482558988459663,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+89,2,8:50,1730,1730,Foul on Martha Kuderer.,20,11,9,18,0.7482558988459663,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+90,2,8:32,1712,1712,Ashley Thoms Turnover.,20,11,9,12,0.749986428614603,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+91,2,8:20,1700,1700,Foul on Kayla Watkins.,20,11,9,5,0.7511529129498329,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+92,2,8:15,1695,1695,Fallyn Freije missed Three Point Jumper.,20,11,9,0,0.751642190893207,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+93,2,8:15,1695,1695,Jadyn Matthews Block.,20,11,9,4,0.751642190893207,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+94,2,8:11,1691,1691,Fallyn Freije Offensive Rebound.,20,11,9,0,0.7520350420699208,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+95,2,8:11,1691,1691,Madeline Smith made Layup.,22,11,11,0,0.7951169750232612,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+96,2,8:11,1691,1691,Foul on Jadyn Matthews.,22,11,11,0,0.7951169750232612,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+97,2,8:11,1691,1691,Madeline Smith missed Free Throw.,22,11,11,0,0.7951169750232612,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+98,2,8:11,1691,1691,Ula Chamberlin Defensive Rebound.,22,11,11,11,0.7951169750232612,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+99,2,8:00,1680,1680,Ashley Thoms made Jumper.,22,13,9,9,0.7531089919015316,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Weber State
+100,2,7:51,1671,1671,Foul on Darian White.,22,13,9,0,0.7539726079532525,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+101,2,7:51,1671,1671,Darian White Turnover.,22,13,9,18,0.7539726079532525,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+102,2,7:33,1653,1653,Kori Pentzer missed Jumper.,22,13,9,3,0.7556648301335054,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+103,2,7:30,1650,1650,Madeline Smith Defensive Rebound.,22,13,9,5,0.7559429340230546,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+104,2,7:25,1645,1645,Tori Martell made Three Point Jumper. Assisted by Darian White.,25,13,12,16,0.8191730200823406,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+105,2,7:09,1629,1629,Ula Chamberlin made Layup. Assisted by Kayla Watkins.,25,15,10,15,0.7803638603674355,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Weber State
+106,2,6:54,1614,1614,Fallyn Freije made Layup.,27,15,12,6,0.8221809434098414,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+107,2,6:48,1608,1608,Kori Pentzer Turnover.,27,15,12,13,0.8227544538573243,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+108,2,6:35,1595,1595,Tori Martell missed Jumper.,27,15,12,1,0.823991473481374,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+109,2,6:34,1594,1594,Weber State Defensive Rebound.,27,15,12,24,0.8240864022653492,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+110,2,6:10,1570,1570,Ula Chamberlin missed Three Point Jumper.,27,15,12,4,0.8263621809558519,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+111,2,6:06,1566,1566,Madison Jackson Defensive Rebound.,27,15,12,9,0.8267420153966129,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+112,2,5:57,1557,1557,Fallyn Freije missed Jumper.,27,15,12,3,0.8275985244832853,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+113,2,5:54,1554,1554,Jadyn Matthews Defensive Rebound.,27,15,12,20,0.8278847788679162,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+114,2,5:34,1534,1534,Foul on Fallyn Freije.,27,15,12,0,0.8298070735116938,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+115,2,5:34,1534,1534,Ashley Thoms missed Free Throw.,27,15,12,0,0.8298070735116938,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+116,2,5:34,1534,1534,Weber State Offensive Rebound.,27,15,12,0,0.8298070735116938,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+117,2,5:34,1534,1534,Ashley Thoms made Free Throw.,27,16,11,4,0.8103427579308768,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Weber State
+118,2,5:30,1530,1530,Foul on Daryn Hickok.,27,16,11,12,0.8107299679082483,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+119,2,5:18,1518,1518,Oliana Squires Turnover.,27,16,11,0,0.8119014386363504,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+120,2,5:18,1518,1518,Jadyn Matthews Steal.,27,16,11,13,0.8119014386363504,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+121,2,5:05,1505,1505,Kori Pentzer Turnover.,27,16,11,9,0.8131898254456188,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+122,2,4:56,1496,1496,Kola Bad Bear missed Three Point Jumper.,27,16,11,4,0.8140953878584523,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+123,2,4:52,1492,1492,Blaire Braxton Offensive Rebound.,27,16,11,7,0.8145017963565816,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+124,2,4:45,1485,1485,Madison Jackson made Layup.,29,16,13,15,0.8524764135545801,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+125,2,4:30,1470,1470,Kori Pentzer missed Jumper.,29,16,13,2,0.8540202160710253,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+126,2,4:28,1468,1468,Kola Bad Bear Defensive Rebound.,29,16,13,0,0.8542289496469584,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+127,2,4:28,1468,1468,Foul on Liz Graves.,29,16,13,0,0.8542289496469584,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+128,2,4:28,1468,1468,Official TV Timeout,29,16,13,0,0.8542289496469584,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+129,2,4:28,1468,1468,Kola Bad Bear made Free Throw.,30,16,14,0,0.8703632639319053,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+130,2,4:28,1468,1468,Kola Bad Bear made Free Throw.,31,16,15,13,0.8849523010099042,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+131,2,4:15,1455,1455,Ciara James missed Layup.,31,16,15,4,0.8862479223307151,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+132,2,4:11,1451,1451,Blaire Braxton Defensive Rebound.,31,16,15,4,0.886652211563209,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+133,2,4:07,1447,1447,Tori Martell missed Jumper.,31,16,15,4,0.8870570776847502,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+134,2,4:03,1443,1443,Madison Jackson Offensive Rebound.,31,16,15,24,0.8874572860389259,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+135,2,3:39,1419,1419,Foul on Daryn Hickok.,31,16,15,1,0.8897679353345219,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+136,2,3:38,1418,1418,Madison Jackson made Free Throw.,32,16,16,0,0.9027896959160084,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+137,2,3:38,1418,1418,Madison Jackson missed Free Throw.,32,16,16,0,0.9027896959160084,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+138,2,3:38,1418,1418,Montana State Offensive Rebound.,32,16,16,0,0.9027896959160084,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+139,2,3:38,1418,1418,Madison Jackson missed Free Throw.,32,16,16,0,0.9027896959160084,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+140,2,3:38,1418,1418,Blaire Braxton Offensive Rebound.,32,16,16,0,0.9027896959160084,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+141,2,3:38,1418,1418,Blaire Braxton missed Layup.,32,16,16,0,0.9027896959160084,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+142,2,3:38,1418,1418,Ciara James Defensive Rebound.,32,16,16,10,0.9027896959160084,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+143,2,3:28,1408,1408,Foul on Darian White.,32,16,16,31,0.9036701947994327,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+144,2,2:57,1377,1377,Weber State  Turnover.,32,16,16,16,0.9063016565961782,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+145,2,2:41,1361,1361,Madeline Smith missed Layup.,32,16,16,3,0.9076223859261925,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+146,2,2:38,1358,1358,Ciara James Defensive Rebound.,32,16,16,18,0.9078684909993157,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+147,2,2:20,1340,1340,Ciara James made Layup. Assisted by Jadyn Matthews.,32,18,14,16,0.882613294424441,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Weber State
+148,2,2:04,1324,1324,Madeline Smith missed Jumper.,32,18,14,3,0.88405714602843,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+149,2,2:01,1321,1321,Ula Chamberlin Defensive Rebound.,32,18,14,4,0.884329477048311,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+150,2,1:57,1317,1317,Liz Graves made Three Point Jumper. Assisted by Ula Chamberlin.,32,21,11,1,0.8321594859479704,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Weber State
+151,2,1:56,1316,1316,Foul on Madeline Smith.,32,21,11,0,0.8322576638307435,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+152,2,1:56,1316,1316,Liz Graves made Free Throw.,32,22,10,3,0.8109358727166359,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Weber State
+153,2,1:53,1313,1313,Tori Martell made Three Point Jumper.,35,22,13,28,0.8693739488294094,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+154,2,1:25,1285,1285,Ula Chamberlin Turnover.,35,22,13,0,0.8720829049488414,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+155,2,1:25,1285,1285,Madeline Smith Steal.,35,22,13,15,0.8720829049488414,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+156,2,1:10,1270,1270,Martha Kuderer made Three Point Jumper. Assisted by Madeline Smith.,38,22,16,29,0.915223518564678,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,Montana State
+157,2,0:41,1241,1241,Ciara James Turnover.,38,22,16,12,0.9178516314769697,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+158,2,0:29,1229,1229,Fallyn Freije missed Three Point Jumper.,38,22,16,6,0.9189883188064976,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+159,2,0:23,1223,1223,Martha Kuderer Offensive Rebound.,38,22,16,1,0.9195687280473349,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+160,2,0:22,1222,1222,Martha Kuderer missed Layup.,38,22,16,4,0.9196662750634772,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+161,2,0:18,1218,1218,Jadyn Matthews Defensive Rebound.,38,22,16,12,0.920058830791248,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+162,2,0:06,1206,1206,Kayla Watkins missed Jumper.,38,22,16,2,0.9212551655676442,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+163,2,0:04,1204,1204,Martha Kuderer Defensive Rebound.,38,22,16,4,0.9214529808434768,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+164,2,0:00,1200,1200,End of 2nd Quarter,38,21,17,3,0.9322584459832474,Montana State,Weber State,4,4,0,0,NA,401174622,2020-01-23,
+165,3,9:57,1197,1197,Fallyn Freije missed Layup.,38,22,16,6,0.9221354511676437,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Weber State
+166,3,9:51,1191,1191,Weber State Defensive Rebound.,38,22,16,23,0.9227089506809844,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+167,3,9:28,1168,1168,Ula Chamberlin missed Layup.,38,22,16,3,0.9248242452454547,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+168,3,9:25,1165,1165,Madeline Smith Defensive Rebound.,38,22,16,13,0.9250919302138298,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+169,3,9:12,1152,1152,Fallyn Freije made Layup. Assisted by Tori Martell.,40,22,18,26,0.9451383995017476,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Montana State
+170,3,8:46,1126,1126,Liz Graves made Layup.,40,24,16,14,0.9284585132514946,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Weber State
+171,3,8:32,1112,1112,Darian White missed Jumper.,40,24,16,5,0.9296370339606007,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+172,3,8:27,1107,1107,Jadyn Matthews Defensive Rebound.,40,24,16,5,0.9300567442421258,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+173,3,8:22,1102,1102,Liz Graves missed Layup.,40,24,16,4,0.9304763660211232,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+174,3,8:18,1098,1098,Fallyn Freije Defensive Rebound.,40,24,16,4,0.9308122182903972,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+175,3,8:14,1094,1094,Martha Kuderer made Layup. Assisted by Fallyn Freije.,42,24,18,23,0.9493107857346177,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Montana State
+176,3,7:51,1071,1071,Liz Graves missed Layup.,42,24,18,3,0.9509509602356525,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+177,3,7:48,1068,1068,Darian White Defensive Rebound.,42,24,18,3,0.951166569485264,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+178,3,7:45,1065,1065,Madeline Smith made Free Throw.,43,24,19,0,0.9584793134667984,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Montana State
+179,3,7:45,1065,1065,Madeline Smith made Free Throw.,44,24,20,1,0.9645785928003136,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Montana State
+180,3,7:44,1064,1064,Foul on Jadyn Matthews.,44,24,20,13,0.9646378291399527,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+181,3,7:31,1051,1051,Kori Pentzer Turnover.,44,24,20,0,0.9654123049855349,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+182,3,7:31,1051,1051,Madeline Smith Steal.,44,24,20,8,0.9654123049855349,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+183,3,7:23,1043,1043,Foul on Ciara James.,44,24,20,0,0.9658937311337147,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+184,3,7:23,1043,1043,Darian White missed Free Throw.,44,24,20,0,0.9658937311337147,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+185,3,7:23,1043,1043,Montana State Offensive Rebound.,44,24,20,0,0.9658937311337147,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+186,3,7:23,1043,1043,Darian White made Free Throw.,45,24,21,11,0.9709921315161909,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Montana State
+187,3,7:12,1032,1032,Kori Pentzer Turnover.,45,24,21,17,0.9715925840377048,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+188,3,6:55,1015,1015,Foul on Fallyn Freije.,45,24,21,0,0.9725364896978514,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+189,3,6:55,1015,1015,Fallyn Freije Turnover.,45,24,21,25,0.9725364896978514,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+190,3,6:30,990,990,Jadyn Matthews made Layup.,45,26,19,13,0.9636320622318338,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Weber State
+191,3,6:17,977,977,Fallyn Freije Turnover.,45,26,19,0,0.9645901840670759,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+192,3,6:17,977,977,Liz Graves Steal.,45,26,19,15,0.9645901840670759,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+193,3,6:02,962,962,Foul on Madeline Smith.,45,26,19,0,0.9657008893538721,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+194,3,6:02,962,962,Daryn Hickok missed Free Throw.,45,26,19,0,0.9657008893538721,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+195,3,6:02,962,962,Weber State Offensive Rebound.,45,26,19,0,0.9657008893538721,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+196,3,6:02,962,962,Daryn Hickok made Free Throw.,45,27,18,20,0.9593814725679547,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Weber State
+197,3,5:42,942,942,Martha Kuderer missed Layup.,45,27,18,3,0.9608536746148651,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+198,3,5:39,939,939,Martha Kuderer Offensive Rebound.,45,27,18,2,0.9610578333261984,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+199,3,5:37,937,937,Martha Kuderer made Layup.,47,27,20,11,0.9725127034734045,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Montana State
+200,3,5:26,926,926,Daryn Hickok missed Layup.,47,27,20,3,0.9730769724911025,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+201,3,5:23,923,923,Fallyn Freije Defensive Rebound.,47,27,20,4,0.9732248196301507,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+202,3,5:19,919,919,Madison Jackson made Layup. Assisted by Fallyn Freije.,49,27,22,17,0.9813054722672431,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Montana State
+203,3,5:02,902,902,Kayla Watkins made Three Point Jumper. Assisted by Kori Pentzer.,49,30,19,19,0.9692244587399866,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Weber State
+204,3,4:43,883,883,Oliana Squires made Jumper.,51,30,21,22,0.9791206790685211,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Montana State
+205,3,4:21,861,861,Daryn Hickok missed Jumper.,51,30,21,3,0.9799333532724681,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+206,3,4:18,858,858,Fallyn Freije Defensive Rebound.,51,30,21,5,0.9800435925082179,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+207,3,4:13,853,853,Oliana Squires missed Layup.,51,30,21,3,0.9802276383825871,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+208,3,4:10,850,850,Kori Pentzer Defensive Rebound.,51,30,21,6,0.9803383827731067,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+209,3,4:04,844,844,Kori Pentzer Turnover.,51,30,21,0,0.9805609400551005,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+210,3,4:04,844,844,Official TV Timeout,51,30,21,7,0.9805609400551005,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+211,3,3:57,837,837,Foul on Liz Graves.,51,30,21,0,0.9808230452008072,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+212,3,3:57,837,837,Madison Jackson made Free Throw.,52,30,22,0,0.9840473431583895,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Montana State
+213,3,3:57,837,837,Madison Jackson made Free Throw.,53,30,23,7,0.9867368577472452,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Montana State
+214,3,3:50,830,830,Ashley Thoms Turnover.,53,30,23,0,0.9869390974824016,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+215,3,3:50,830,830,Madison Jackson Steal.,53,30,23,17,0.9869390974824016,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+216,3,3:33,813,813,Blaire Braxton made Layup. Assisted by Oliana Squires.,55,30,25,17,0.991375203334827,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Montana State
+217,3,3:16,796,796,Ciara James Turnover.,55,30,25,0,0.9917712104620501,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+218,3,3:16,796,796,Darian White Steal.,55,30,25,16,0.9917712104620501,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+219,3,3:00,780,780,Tori Martell missed Three Point Jumper.,55,30,25,3,0.992162942298844,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+220,3,2:57,777,777,Liz Graves Defensive Rebound.,55,30,25,1,0.9922386236996669,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+221,3,2:56,776,776,Foul on Martha Kuderer.,55,30,25,20,0.9922640119040006,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+222,3,2:36,756,756,Kayla Watkins missed Three Point Jumper.,55,30,25,5,0.9927888993712993,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+223,3,2:31,751,751,Martha Kuderer Defensive Rebound.,55,30,25,12,0.9929252019953971,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+224,3,2:19,739,739,Foul on Daryn Hickok.,55,30,25,0,0.993260328354386,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+225,3,2:19,739,739,Martha Kuderer missed Free Throw.,55,30,25,0,0.993260328354386,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+226,3,2:19,739,739,Montana State Offensive Rebound.,55,30,25,0,0.993260328354386,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+227,3,2:19,739,739,Martha Kuderer missed Free Throw.,55,30,25,0,0.993260328354386,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+228,3,2:19,739,739,Blaire Braxton Offensive Rebound.,55,30,25,2,0.993260328354386,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+229,3,2:17,737,737,Tori Martell missed Three Point Jumper.,55,30,25,3,0.9933172417595465,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+230,3,2:14,734,734,Ciara James Defensive Rebound.,55,30,25,25,0.9934031555432025,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+231,3,1:49,709,709,Ashley Thoms made Jumper.,55,32,23,17,0.9910782388243882,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Weber State
+232,3,1:32,692,692,Martha Kuderer made Layup.,57,32,25,16,0.9944181940318391,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Montana State
+233,3,1:16,676,676,Ula Chamberlin made Three Point Jumper.,57,35,22,15,0.9901380526097964,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Weber State
+234,3,1:01,661,661,Foul on Ciara James.,57,35,22,0,0.9905593999937996,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+235,3,1:01,661,661,Blaire Braxton made Free Throw.,58,35,23,0,0.9923453788463584,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Montana State
+236,3,1:01,661,661,Blaire Braxton made Free Throw.,59,35,24,6,0.9937956013328576,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Montana State
+237,3,0:55,655,655,Foul on Darian White.,59,35,24,11,0.9939132403758699,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+238,3,0:44,644,644,Jadyn Matthews missed Three Point Jumper.,59,35,24,4,0.994126454504655,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+239,3,0:40,640,640,Blaire Braxton Defensive Rebound.,59,35,24,10,0.9942038079064135,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+240,3,0:30,630,630,Foul on Jadyn Matthews.,59,35,24,2,0.9943982893064924,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+241,3,0:28,628,628,Kola Bad Bear made Free Throw.,60,35,25,0,0.9955136647804249,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Montana State
+242,3,0:28,628,628,Kola Bad Bear missed Free Throw.,60,35,25,0,0.9955136647804249,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+243,3,0:28,628,628,Kori Pentzer Defensive Rebound.,60,35,25,22,0.9955136647804249,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+244,3,0:06,606,606,Ashley Thoms missed Jumper.,60,35,25,2,0.9958871257774143,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+245,3,0:04,604,604,Weber State Offensive Rebound.,60,35,25,1,0.9959222940308663,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+246,3,0:03,603,603,Gina O'Brien missed Jumper.,60,35,25,0,0.9959399672818534,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+247,3,0:03,603,603,Kola Bad Bear Block.,60,35,25,0,0.9959399672818534,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+248,3,0:03,603,603,Darian White Defensive Rebound.,60,35,25,3,0.9959399672818534,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+249,3,0:00,600,600,Darian White made Layup.,62,35,27,0,0.9974191407242069,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,Montana State
+250,3,0:00,600,600,End of 3rd Quarter,60,35,25,15,0.9959933528793595,Montana State,Weber State,5,5,0,0,NA,401174622,2020-01-23,
+251,4,9:45,585,585,Kayla Watkins Turnover.,62,35,27,0,0.9976106203060463,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,Montana State
+252,4,9:45,585,585,Kola Bad Bear Steal.,62,35,27,26,0.9976106203060463,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,
+253,4,9:19,559,559,Madison Jackson missed Jumper.,62,35,27,3,0.9979639567749174,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,
+254,4,9:16,556,556,Kola Bad Bear Offensive Rebound.,62,35,27,1,0.998006266544834,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,
+255,4,9:15,555,555,Kola Bad Bear missed Layup.,62,35,27,1,0.9980204278206332,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,
+256,4,9:14,554,554,Weber State Defensive Rebound.,62,35,27,14,0.9980346167019883,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,
+257,4,9:00,540,540,Kori Pentzer missed Three Point Jumper.,62,35,27,5,0.998221637034371,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,
+258,4,8:55,535,535,Daryn Hickok Offensive Rebound.,62,35,27,17,0.9982783026456574,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,
+259,4,8:38,518,518,Ciara James missed Layup.,62,35,27,4,0.9984419355865726,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,
+260,4,8:34,514,514,Martha Kuderer Defensive Rebound.,62,35,27,7,0.99847578818322,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,
+261,4,8:27,507,507,Tori Martell made Three Point Jumper. Assisted by Madeline Smith.,65,35,30,18,0.999288440381717,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,Montana State
+262,4,8:09,489,489,Liz Graves made Three Point Jumper. Assisted by Kori Pentzer.,65,38,27,20,0.9986693437620493,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,Weber State
+263,4,7:49,469,469,Martha Kuderer made Layup. Assisted by Fallyn Freije.,67,38,29,23,0.9992851451648699,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,Montana State
+264,4,7:26,446,446,Ciara James missed Layup.,67,38,29,4,0.9994104522987308,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,
+265,4,7:22,442,442,Fallyn Freije Defensive Rebound.,67,38,29,4,0.999433555910859,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,
+266,4,7:18,438,438,Fallyn Freije Turnover.,67,38,29,0,0.9994569987577495,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,
+267,4,7:18,438,438,Daryn Hickok Steal.,67,38,29,7,0.9994569987577495,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,
+268,4,7:11,431,431,Daryn Hickok Turnover.,67,38,29,0,0.9994987031656986,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,
+269,4,7:11,431,431,Oliana Squires Steal.,67,38,29,9,0.9994987031656986,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,
+270,4,7:02,422,422,Oliana Squires missed Three Point Jumper.,67,38,29,4,0.9995493208839308,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,
+271,4,6:58,418,418,Liz Graves Defensive Rebound.,67,38,29,4,0.9995692877027319,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,
+272,4,6:54,414,414,Daryn Hickok made Layup.,67,40,27,0,0.9992948958256151,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,Weber State
+273,4,6:54,414,414,Foul on Madeline Smith.,67,40,27,0,0.9992948958256151,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,
+274,4,6:54,414,414,Daryn Hickok made Free Throw.,67,41,26,16,0.9990776858106941,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,Weber State
+275,4,6:38,398,398,Fallyn Freije made Layup. Assisted by Martha Kuderer.,69,41,28,34,0.9995430172497979,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,Montana State
+276,4,6:04,364,364,Daryn Hickok missed Jumper.,69,41,28,1,0.9996818104339656,Montana State,Weber State,6,6,0,0,NA,401174622,2020-01-23,
+277,4,6:03,363,363,Madeline Smith Defensive Rebound.,69,41,28,0,0.9996855164966152,Montana State,Weber State,6,6,0,1,NA,401174622,2020-01-23,
+278,4,6:03,363,363,Foul on Daryn Hickok.,69,41,28,0,0.9996855164966152,Montana State,Weber State,6,6,0,1,NA,401174622,2020-01-23,
+279,4,6:03,363,363,Weber State  Timeout,69,41,28,11,0.9996855164966152,Montana State,Weber State,6,5,0,1,NA,401174622,2020-01-23,
+280,4,5:52,352,352,Foul on Kori Pentzer.,69,41,28,13,0.9997254391832016,Montana State,Weber State,6,5,0,1,NA,401174622,2020-01-23,
+281,4,5:39,339,339,Fallyn Freije Turnover.,69,41,28,0,0.9997707563373233,Montana State,Weber State,6,5,0,1,NA,401174622,2020-01-23,
+282,4,5:39,339,339,Daryn Hickok Steal.,69,41,28,11,0.9997707563373233,Montana State,Weber State,6,5,0,1,NA,401174622,2020-01-23,
+283,4,5:28,328,328,Gina O'Brien Turnover.,69,41,28,9,0.9998073400107859,Montana State,Weber State,6,5,0,1,NA,401174622,2020-01-23,
+284,4,5:19,319,319,Blaire Braxton made Layup. Assisted by Sidney Zieske.,71,41,30,21,0.9999118476370945,Montana State,Weber State,6,5,0,1,NA,401174622,2020-01-23,Montana State
+285,4,4:58,298,298,Ula Chamberlin missed Three Point Jumper.,71,41,30,4,0.999939106408848,Montana State,Weber State,6,5,0,0,NA,401174622,2020-01-23,
+286,4,4:54,294,294,Gabby Mocchi Defensive Rebound.,71,41,30,8,0.9999406738608512,Montana State,Weber State,6,5,0,0,NA,401174622,2020-01-23,
+287,4,4:46,286,286,Sidney Zieske missed Three Point Jumper.,71,41,30,3,0.9999413725537214,Montana State,Weber State,6,5,0,0,NA,401174622,2020-01-23,
+288,4,4:43,283,283,Kola Bad Bear Offensive Rebound.,71,41,30,2,0.9999409523807365,Montana State,Weber State,6,5,0,0,NA,401174622,2020-01-23,
+289,4,4:41,281,281,Kola Bad Bear made Layup.,73,41,32,8,0.9999688934577937,Montana State,Weber State,6,5,0,0,NA,401174622,2020-01-23,Montana State
+290,4,4:33,273,273,Ula Chamberlin missed Jumper.,73,41,32,5,0.9999672162391637,Montana State,Weber State,6,5,0,0,NA,401174622,2020-01-23,
+291,4,4:28,268,268,Blaire Braxton Defensive Rebound.,73,41,32,1,0.999965737742891,Montana State,Weber State,6,5,0,0,NA,401174622,2020-01-23,
+292,4,4:27,267,267,Tori Martell Turnover.,73,41,32,0,0.9999654123271121,Montana State,Weber State,6,5,0,0,NA,401174622,2020-01-23,
+293,4,4:27,267,267,Daryn Hickok Steal.,73,41,32,6,0.9999654123271121,Montana State,Weber State,6,5,0,0,NA,401174622,2020-01-23,
+294,4,4:21,261,261,Daryn Hickok missed Jumper.,73,41,32,0,0.9999633225334371,Montana State,Weber State,6,5,0,0,NA,401174622,2020-01-23,
+295,4,4:21,261,261,Tori Martell Block.,73,41,32,9,0.9999633225334371,Montana State,Weber State,6,5,0,0,NA,401174622,2020-01-23,
+296,4,4:12,252,252,Weber State Offensive Rebound.,73,41,32,3,0.9999601212595733,Montana State,Weber State,6,5,0,0,NA,401174622,2020-01-23,
+297,4,4:09,249,249,Daryn Hickok made Layup. Assisted by Kayla Watkins.,73,43,30,0,0.9999232153011713,Montana State,Weber State,6,5,0,1,NA,401174622,2020-01-23,Weber State
+298,4,4:09,249,249,Weber State  Timeout,73,43,30,9,0.9999232153011713,Montana State,Weber State,6,4,0,1,NA,401174622,2020-01-23,
+299,4,4:00,240,240,Darian White missed Layup.,73,43,30,0,0.9999197842495674,Montana State,Weber State,6,4,0,1,NA,401174622,2020-01-23,
+300,4,4:00,240,240,Jadyn Matthews Block.,73,43,30,0,0.9999197842495674,Montana State,Weber State,6,4,0,1,NA,401174622,2020-01-23,
+301,4,4:00,240,240,Montana State Offensive Rebound.,73,43,30,0,0.9999197842495674,Montana State,Weber State,6,4,0,1,NA,401174622,2020-01-23,
+302,4,4:00,240,240,Foul on Jadyn Matthews.,73,43,30,10,0.9999197842495674,Montana State,Weber State,6,4,0,1,NA,401174622,2020-01-23,
+303,4,3:50,230,230,Foul on Ula Chamberlin.,73,43,30,0,0.999920608285581,Montana State,Weber State,6,4,0,1,NA,401174622,2020-01-23,
+304,4,3:50,230,230,Blaire Braxton made Free Throw.,74,43,31,0,0.9999420422551816,Montana State,Weber State,6,4,0,1,NA,401174622,2020-01-23,Montana State
+305,4,3:50,230,230,Blaire Braxton made Free Throw.,75,43,32,16,0.999957689781994,Montana State,Weber State,6,4,0,1,NA,401174622,2020-01-23,Montana State
+306,4,3:34,214,214,Kayla Watkins missed Layup.,75,43,32,3,0.9999662643880608,Montana State,Weber State,6,4,0,1,NA,401174622,2020-01-23,
+307,4,3:31,211,211,Kola Bad Bear Defensive Rebound.,75,43,32,10,0.999968832403458,Montana State,Weber State,6,4,0,1,NA,401174622,2020-01-23,
+308,4,3:21,201,201,Gabby Mocchi missed Layup.,75,43,32,4,0.999978387467156,Montana State,Weber State,6,4,0,1,NA,401174622,2020-01-23,
+309,4,3:17,197,197,Daryn Hickok Defensive Rebound.,75,43,32,3,0.9999822186669676,Montana State,Weber State,6,4,0,1,NA,401174622,2020-01-23,
+310,4,3:14,194,194,Foul on Daryn Hickok.,75,43,32,0,0.999984943616352,Montana State,Weber State,6,4,0,1,NA,401174622,2020-01-23,
+311,4,3:14,194,194,Daryn Hickok Turnover.,75,43,32,10,0.999984943616352,Montana State,Weber State,6,4,0,1,NA,401174622,2020-01-23,
+312,4,3:04,184,184,Blaire Braxton Turnover.,75,43,32,0,0.9999921472750856,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,
+313,4,3:04,184,184,Kori Pentzer Steal.,75,43,32,25,0.9999921472750856,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,
+314,4,2:39,159,159,Foul on Sidney Zieske.,75,43,32,0,0.9999986447762911,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,
+315,4,2:39,159,159,Liz Graves made Free Throw.,75,44,31,0,0.9999979327865608,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,Weber State
+316,4,2:39,159,159,Liz Graves made Free Throw.,75,45,30,0,0.9999968467421454,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,Weber State
+317,4,2:39,159,159,Liz Graves made Free Throw.,75,46,29,15,0.999995190129265,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,Weber State
+318,4,2:24,144,144,Darian White missed Layup.,75,46,29,3,0.9999983708619897,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,
+319,4,2:21,141,141,Kayla Watkins Defensive Rebound.,75,46,29,13,0.9999987102521557,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,
+320,4,2:08,128,128,Kori Pentzer Turnover.,75,46,29,0,0.9999995679624689,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,
+321,4,2:08,128,128,Darian White Steal.,75,46,29,5,0.9999995679624689,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,
+322,4,2:03,123,123,Darian White made Jumper.,77,46,31,24,0.9999999038763142,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,Montana State
+323,4,1:39,99,99,Kayla Watkins missed Three Point Jumper.,77,46,31,4,0.9999999939601188,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,
+324,4,1:35,95,95,Blaire Braxton Defensive Rebound.,77,46,31,13,0.9999999964657904,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,
+325,4,1:22,82,82,Foul on Liz Graves.,77,46,31,0,0.9999999994247741,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,
+326,4,1:22,82,82,Gabby Mocchi made Free Throw.,78,46,32,0,0.99999999971042,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,Montana State
+327,4,1:22,82,82,Gabby Mocchi made Free Throw.,79,46,33,14,0.9999999998542196,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,Montana State
+328,4,1:08,68,68,Gina O'Brien missed Jumper.,79,46,33,2,0.9999999999848138,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,
+329,4,1:06,66,66,Liz Graves Offensive Rebound.,79,46,33,0,0.9999999999891972,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,
+330,4,1:06,66,66,Foul on Gabby Mocchi.,79,46,33,0,0.9999999999891972,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,
+331,4,1:06,66,66,Foul on Gabby Mocchi.,79,46,33,1,0.9999999999891972,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,
+332,4,1:05,65,65,Liz Graves made Three Point Jumper. Assisted by Ashley Thoms.,79,49,30,26,0.9999999999082115,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,Weber State
+333,4,0:39,39,39,Blaire Braxton made Layup. Assisted by Kola Bad Bear.,81,49,32,22,0.9999999999998129,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,Montana State
+334,4,0:17,17,17,Ashley Thoms made Three Point Jumper. Assisted by Jadyn Matthews.,81,52,29,17,0.9999999999999493,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,Weber State
+335,4,0:00,0,0,End of 4th Quarter,81,52,29,0,1,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,
+336,4,0:00,0,0,End of Game,81,52,29,0,1,Montana State,Weber State,6,4,0,0,NA,401174622,2020-01-23,

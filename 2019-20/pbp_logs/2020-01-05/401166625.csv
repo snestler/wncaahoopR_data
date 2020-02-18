@@ -1,0 +1,358 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:42,2382,2382,Jenna Staiti missed Jumper.,0,0,0,0,0.5,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,NA
+2,1,9:42,2382,2382,Jessika Carter Block.,0,0,0,6,0.5,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+3,1,9:36,2376,2376,Chloe Bibby Defensive Rebound.,0,0,0,13,0.5,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+4,1,9:23,2363,2363,Rickea Jackson missed Jumper.,0,0,0,3,0.5,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+5,1,9:20,2360,2360,Stephanie Paul Defensive Rebound.,0,0,0,9,0.5,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+6,1,9:11,2351,2351,Stephanie Paul made Jumper.,2,0,2,24,0.5450691340700113,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+7,1,8:47,2327,2327,Foul on Que Morrison.,2,0,2,0,0.5455916255074778,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+8,1,8:47,2327,2327,Jessika Carter missed Free Throw.,2,0,2,0,0.5455916255074778,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+9,1,8:47,2327,2327,Mississippi State Deadball Team Rebound.,2,0,2,0,0.5455916255074778,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+10,1,8:47,2327,2327,Jessika Carter made Free Throw.,2,1,1,7,0.5228433940572399,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+11,1,8:40,2320,2320,Gabby Connally missed Layup.,2,1,1,1,0.5229207235163268,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+12,1,8:39,2319,2319,Georgia Offensive Rebound.,2,1,1,4,0.522931793783012,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+13,1,8:35,2315,2315,Stephanie Paul Turnover.,2,1,1,0,0.5229761317984666,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+14,1,8:35,2315,2315,Myah Taylor Steal.,2,1,1,6,0.5229761317984666,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+15,1,8:29,2309,2309,Myah Taylor made Layup.,2,3,-1,19,0.4769571932307422,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+16,1,8:10,2290,2290,Stephanie Paul missed Layup.,2,3,-1,4,0.4767447867309777,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+17,1,8:06,2286,2286,Maya Caldwell Offensive Rebound.,2,3,-1,7,0.4766998354859127,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+18,1,7:59,2279,2279,Foul on Jordan Danberry.,2,3,-1,2,0.4766209850294595,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+19,1,7:57,2277,2277,Stephanie Paul missed Jumper.,2,3,-1,1,0.4765984139265295,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+20,1,7:56,2276,2276,Mississippi State Defensive Rebound.,2,3,-1,17,0.476587121439937,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+21,1,7:39,2259,2259,Rickea Jackson missed Jumper.,2,3,-1,6,0.4763944686544839,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+22,1,7:33,2253,2253,Jessika Carter Offensive Rebound.,2,3,-1,0,0.4763261811960912,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+23,1,7:33,2253,2253,Jessika Carter made Layup.,2,5,-3,9,0.4294002827316075,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+24,1,7:24,2244,2244,Gabby Connally missed Jumper.,2,5,-3,3,0.42909767566260976,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+25,1,7:21,2241,2241,Foul on Jenna Staiti.,2,5,-3,1,0.42899661567395236,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+26,1,7:20,2240,2240,Chloe Bibby Defensive Rebound.,2,5,-3,16,0.4289629084724894,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+27,1,7:04,2224,2224,Chloe Bibby missed Three Point Jumper.,2,5,-3,3,0.4284222677115816,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+28,1,7:01,2221,2221,Gabby Connally Defensive Rebound.,2,5,-3,4,0.42832063468160925,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+29,1,6:57,2217,2217,Gabby Connally made Jumper.,4,5,-1,15,0.47591364482647425,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+30,1,6:42,2202,2202,Jessika Carter made Layup. Assisted by Myah Taylor.,4,7,-3,11,0.4276752383219673,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+31,1,6:31,2191,2191,Foul on Rickea Jackson.,4,7,-3,24,0.42730037153142114,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+32,1,6:07,2167,2167,Foul on Chloe Bibby.,4,7,-3,0,0.4264799494336897,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+33,1,6:07,2167,2167,Que Morrison missed Free Throw.,4,7,-3,0,0.4264799494336897,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+34,1,6:07,2167,2167,Georgia Deadball Team Rebound.,4,7,-3,0,0.4264799494336897,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+35,1,6:07,2167,2167,Que Morrison made Free Throw.,5,7,-2,18,0.4507885773459459,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+36,1,5:49,2149,2149,Jessika Carter missed Jumper.,5,7,-2,4,0.45037120984325424,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+37,1,5:45,2145,2145,Chloe Bibby Offensive Rebound.,5,7,-2,10,0.4502781200489009,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+38,1,5:35,2135,2135,Rickea Jackson missed Jumper.,5,7,-2,3,0.4500448272291208,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+39,1,5:32,2132,2132,Que Morrison Defensive Rebound.,5,7,-2,15,0.44997467734832597,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+40,1,5:17,2117,2117,Que Morrison made Three Point Jumper. Assisted by Gabby Connally.,8,7,1,19,0.5252528699571531,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+41,1,4:58,2098,2098,Foul on Jordan Isaacs.,8,7,1,0,0.5254789461174939,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+42,1,4:58,2098,2098,Chloe Bibby missed Free Throw.,8,7,1,0,0.5254789461174939,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+43,1,4:58,2098,2098,Mississippi State Deadball Team Rebound.,8,7,1,0,0.5254789461174939,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+44,1,4:58,2098,2098,Chloe Bibby made Free Throw.,8,8,0,28,0.5,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+45,1,4:30,2070,2070,Foul on Gabby Connally.,8,8,0,0,0.5,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+46,1,4:30,2070,2070,Gabby Connally Turnover.,8,8,0,20,0.5,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+47,1,4:10,2050,2050,Rickea Jackson made Layup.,8,10,-2,7,0.4480245846669113,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+48,1,4:03,2043,2043,Gabby Connally Turnover.,8,10,-2,0,0.44785487364287885,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+49,1,4:03,2043,2043,Myah Taylor Steal.,8,10,-2,6,0.44785487364287885,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+50,1,3:57,2037,2037,Myah Taylor missed Layup.,8,10,-2,0,0.4477089600936891,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+51,1,3:57,2037,2037,Jenna Staiti Block.,8,10,-2,8,0.4477089600936891,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+52,1,3:49,2029,2029,Jordan Danberry Offensive Rebound.,8,10,-2,1,0.44751375380537767,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+53,1,3:48,2028,2028,Jessika Carter made Layup. Assisted by Jordan Danberry.,8,12,-4,9,0.3961242958040495,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+54,1,3:39,2019,2019,Foul on Chloe Bibby.,8,12,-4,20,0.39569743083988324,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+55,1,3:19,1999,1999,Que Morrison made Three Point Jumper. Assisted by Gabby Connally.,11,12,-1,20,0.47331157086917647,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+56,1,2:59,1979,1979,Rickea Jackson made Jumper.,11,14,-3,14,0.41979991049781323,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+57,1,2:45,1965,1965,Gabby Connally Turnover.,11,14,-3,15,0.41927870065997547,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+58,1,2:30,1950,1950,Xaria Wiggins made Layup.,11,16,-5,13,0.36661984496981154,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+59,1,2:17,1937,1937,Stephanie Paul missed Layup.,11,16,-5,1,0.36583833801363824,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+60,1,2:16,1936,1936,Rickea Jackson Defensive Rebound.,11,16,-5,0,0.3657780020782819,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+61,1,2:16,1936,1936,Foul on Maya Caldwell.,11,16,-5,0,0.3657780020782819,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+62,1,2:16,1936,1936,Rickea Jackson made Free Throw.,11,17,-6,0,0.3406392198457359,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+63,1,2:16,1936,1936,Rickea Jackson missed Free Throw.,11,17,-6,1,0.3406392198457359,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+64,1,2:15,1935,1935,Stephanie Paul Defensive Rebound.,11,17,-6,20,0.34056908425786936,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+65,1,1:55,1915,1915,Gabby Connally missed Jumper.,11,17,-6,6,0.33916509464592076,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+66,1,1:49,1909,1909,Myah Taylor Defensive Rebound.,11,17,-6,5,0.33874499501792377,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+67,1,1:44,1904,1904,Jordan Danberry missed Jumper.,11,17,-6,3,0.3383952551260644,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+68,1,1:41,1901,1901,Javyn Nicholson Defensive Rebound.,11,17,-6,6,0.3381855375225989,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+69,1,1:35,1895,1895,Javyn Nicholson made Jumper. Assisted by Que Morrison.,13,17,-4,16,0.38963594757705095,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+70,1,1:19,1879,1879,Andra Espinoza-Hunter Turnover.,13,17,-4,22,0.38884387403696735,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+71,1,0:57,1857,1857,Javyn Nicholson Turnover.,13,17,-4,23,0.38775333409892104,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+72,1,0:34,1834,1834,Andra Espinoza-Hunter missed Three Point Jumper.,13,17,-4,4,0.38660835012248373,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+73,1,0:30,1830,1830,Que Morrison Defensive Rebound.,13,17,-4,19,0.3864084554614844,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+74,1,0:11,1811,1811,Javyn Nicholson Turnover.,13,17,-4,7,0.38545487397824313,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+75,1,0:04,1804,1804,Yemiyah Morris missed Jumper.,13,17,-4,3,0.38510158950377243,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+76,1,0:01,1801,1801,Stephanie Paul Defensive Rebound.,13,17,-4,1,0.3849498158236416,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+77,1,0:00,1800,1800,End of 1st Quarter,13,17,-4,14,0.38489917366219123,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+78,2,9:46,1786,1786,Foul on Caitlin Hose.,13,17,-4,0,0.38418732673690625,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+79,2,9:46,1786,1786,Xaria Wiggins made Free Throw.,13,18,-5,0,0.3566886177749092,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+80,2,9:46,1786,1786,Xaria Wiggins made Free Throw.,13,19,-6,15,0.33010309168559226,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+81,2,9:31,1771,1771,Foul on Myah Taylor.,13,19,-6,8,0.32902508336148256,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+82,2,9:23,1763,1763,Foul on Jessika Carter.,13,19,-6,0,0.32844621071286473,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+83,2,9:23,1763,1763,Stephanie Paul missed Free Throw.,13,19,-6,0,0.32844621071286473,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+84,2,9:23,1763,1763,Georgia Deadball Team Rebound.,13,19,-6,0,0.32844621071286473,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+85,2,9:23,1763,1763,Stephanie Paul made Free Throw.,14,19,-5,12,0.3552553482372892,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+86,2,9:11,1751,1751,Rickea Jackson Turnover.,14,19,-5,18,0.3544988695938563,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+87,2,8:53,1733,1733,Stephanie Paul made Layup. Assisted by Javyn Nicholson.,16,19,-3,17,0.41032932441953757,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+88,2,8:36,1716,1716,Jordan Danberry missed Layup.,16,19,-3,7,0.40963045549722654,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+89,2,8:29,1709,1709,Jessika Carter Offensive Rebound.,16,19,-3,0,0.4093394298734047,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+90,2,8:29,1709,1709,Jessika Carter missed Layup.,16,19,-3,2,0.4093394298734047,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+91,2,8:27,1707,1707,Stephanie Paul Defensive Rebound.,16,19,-3,21,0.4092559135316822,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+92,2,8:06,1686,1686,Que Morrison missed Jumper.,16,19,-3,3,0.4083695544405919,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+93,2,8:03,1683,1683,Jessika Carter Defensive Rebound.,16,19,-3,9,0.4082430749110526,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+94,2,7:54,1674,1674,Xaria Wiggins Turnover.,16,19,-3,15,0.4078670700628932,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+95,2,7:39,1659,1659,Maya Caldwell made Layup. Assisted by Caitlin Hose.,18,19,-1,14,0.4687621343105921,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+96,2,7:25,1645,1645,Myah Taylor missed Jumper.,18,19,-1,1,0.4685674504664451,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+97,2,7:24,1644,1644,Jessika Carter Offensive Rebound.,18,19,-1,0,0.4685536400444692,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+98,2,7:24,1644,1644,Foul on Gabby Connally.,18,19,-1,3,0.4685536400444692,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+99,2,7:21,1641,1641,Rickea Jackson made Jumper.,18,21,-3,17,0.406524098883698,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+100,2,7:04,1624,1624,Jenna Staiti missed Jumper.,18,21,-3,0,0.40584746402487765,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+101,2,7:04,1624,1624,Jessika Carter Block.,18,21,-3,2,0.40584746402487765,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+102,2,7:02,1622,1622,Mississippi State Defensive Rebound.,18,21,-3,10,0.40576827577848446,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+103,2,6:52,1612,1612,Rickea Jackson missed Jumper.,18,21,-3,1,0.4053731843877757,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+104,2,6:51,1611,1611,Jenna Staiti Defensive Rebound.,18,21,-3,0,0.405333734127011,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+105,2,6:51,1611,1611,Foul on Jessika Carter.,18,21,-3,9,0.405333734127011,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+106,2,6:42,1602,1602,Jenna Staiti missed Layup.,18,21,-3,2,0.4049789242133671,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+107,2,6:40,1600,1600,Myah Taylor Defensive Rebound.,18,21,-3,5,0.4049001017541032,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+108,2,6:35,1595,1595,JaMya Mingo-Young made Layup.,18,23,-5,21,0.3445284508776465,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+109,2,6:14,1574,1574,Maya Caldwell made Layup. Assisted by Stephanie Paul.,20,23,-3,19,0.4038726359005002,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+110,2,5:55,1555,1555,Jordan Danberry missed Jumper.,20,23,-3,3,0.40311321478502427,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+111,2,5:52,1552,1552,Jenna Staiti Defensive Rebound.,20,23,-3,2,0.40299222487003916,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+112,2,5:50,1550,1550,Jenna Staiti Turnover.,20,23,-3,0,0.4029113694052053,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+113,2,5:50,1550,1550,Rickea Jackson Steal.,20,23,-3,0,0.4029113694052053,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+114,2,5:50,1550,1550,Foul on Maya Caldwell.,20,23,-3,4,0.4029113694052053,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+115,2,5:46,1546,1546,Rickea Jackson Turnover.,20,23,-3,0,0.4027491607345781,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+116,2,5:46,1546,1546,Que Morrison Steal.,20,23,-3,9,0.4027491607345781,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+117,2,5:37,1537,1537,Stephanie Paul missed Jumper.,20,23,-3,3,0.40238153341035887,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+118,2,5:34,1534,1534,Yemiyah Morris Defensive Rebound.,20,23,-3,5,0.40225809730575945,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+119,2,5:29,1529,1529,Foul on Chloe Chapman.,20,23,-3,0,0.40205128800129647,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+120,2,5:29,1529,1529,Myah Taylor made Free Throw.,20,24,-4,0,0.3706956185086026,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+121,2,5:29,1529,1529,Myah Taylor made Free Throw.,20,25,-5,8,0.3403932621694192,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+122,2,5:21,1521,1521,Chloe Chapman missed Layup.,20,25,-5,3,0.3398736002670359,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+123,2,5:18,1518,1518,Andra Espinoza-Hunter Defensive Rebound.,20,25,-5,5,0.3396771846569944,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+124,2,5:13,1513,1513,Foul on Malury Bates.,20,25,-5,0,0.3393478270504655,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+125,2,5:13,1513,1513,Xaria Wiggins missed Free Throw.,20,25,-5,0,0.3393478270504655,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+126,2,5:13,1513,1513,Mississippi State Deadball Team Rebound.,20,25,-5,0,0.3393478270504655,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+127,2,5:13,1513,1513,Xaria Wiggins made Free Throw.,20,26,-6,5,0.31014484141616283,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+128,2,5:08,1508,1508,Foul on Malury Bates.,20,26,-6,0,0.30976468520857625,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+129,2,5:08,1508,1508,Malury Bates Turnover.,20,26,-6,13,0.30976468520857625,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+130,2,4:55,1495,1495,Rickea Jackson missed Layup.,20,26,-6,0,0.30876132633274245,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+131,2,4:55,1495,1495,Foul on Yemiyah Morris.,20,26,-6,0,0.30876132633274245,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+132,2,4:55,1495,1495,Official TV Timeout,20,26,-6,1,0.30876132633274245,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+133,2,4:54,1494,1494,Stephanie Paul Defensive Rebound.,20,26,-6,10,0.3086831903252334,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+134,2,4:44,1484,1484,Foul on Xaria Wiggins.,20,26,-6,0,0.30789373817513715,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+135,2,4:44,1484,1484,Que Morrison missed Free Throw.,20,26,-6,0,0.30789373817513715,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+136,2,4:44,1484,1484,Georgia Deadball Team Rebound.,20,26,-6,0,0.30789373817513715,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+137,2,4:44,1484,1484,Que Morrison made Free Throw.,21,26,-5,12,0.3373809975285316,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+138,2,4:32,1472,1472,Andra Espinoza-Hunter Turnover.,21,26,-5,0,0.33653441545588614,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+139,2,4:32,1472,1472,Chloe Chapman Steal.,21,26,-5,5,0.33653441545588614,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+140,2,4:27,1467,1467,Chloe Chapman made Jumper.,23,26,-3,23,0.3993362842478114,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+141,2,4:04,1444,1444,Andra Espinoza-Hunter missed Three Point Jumper.,23,26,-3,5,0.39823945396808896,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+142,2,3:59,1439,1439,Que Morrison Defensive Rebound.,23,26,-3,23,0.3980015996582488,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+143,2,3:36,1416,1416,Malury Bates made Jumper. Assisted by Chloe Chapman.,25,26,-1,18,0.46520261222669784,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+144,2,3:18,1398,1398,Myah Taylor missed Jumper.,25,26,-1,3,0.4649227123277354,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+145,2,3:15,1395,1395,Chloe Chapman Defensive Rebound.,25,26,-1,11,0.46487657598819704,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+146,2,3:04,1384,1384,Malury Bates made Layup.,27,26,1,19,0.535291737209735,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+147,2,2:45,1365,1365,Rickea Jackson missed Layup.,27,26,1,3,0.5355808362077563,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+148,2,2:42,1362,1362,Malury Bates Defensive Rebound.,27,26,1,26,0.5356264730872795,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+149,2,2:16,1336,1336,Stephanie Paul made Layup. Assisted by Chloe Chapman.,29,26,3,20,0.6066013387056055,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+150,2,1:56,1316,1316,Xaria Wiggins made Layup. Assisted by Rickea Jackson.,29,28,1,14,0.5363383858366652,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+151,2,1:42,1302,1302,Chloe Chapman missed Layup.,29,28,1,0,0.5365638961235004,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+152,2,1:42,1302,1302,Rickea Jackson Block.,29,28,1,0,0.5365638961235004,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+153,2,1:42,1302,1302,Georgia Offensive Rebound.,29,28,1,0,0.5365638961235004,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+154,2,1:42,1302,1302,Georgia  Turnover.,29,28,1,17,0.5365638961235004,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+155,2,1:25,1285,1285,Yemiyah Morris made Layup. Assisted by Rickea Jackson.,29,30,-1,0,0.4631534162985629,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+156,2,1:25,1285,1285,Foul on Que Morrison.,29,30,-1,0,0.4631534162985629,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+157,2,1:25,1285,1285,Yemiyah Morris missed Free Throw.,29,30,-1,1,0.4631534162985629,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+158,2,1:24,1284,1284,Mississippi State Offensive Rebound.,29,30,-1,4,0.46313643829558704,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+159,2,1:20,1280,1280,Jordan Danberry made Layup.,29,32,-3,6,0.3907903100928388,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+160,2,1:14,1274,1274,Foul on Que Morrison.,29,32,-3,0,0.39049209042552635,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+161,2,1:14,1274,1274,Que Morrison Turnover.,29,32,-3,9,0.39049209042552635,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+162,2,1:05,1265,1265,Myah Taylor missed Layup.,29,32,-3,3,0.39003573482680554,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+163,2,1:02,1262,1262,Javyn Nicholson Defensive Rebound.,29,32,-3,19,0.38988105983559695,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+164,2,0:43,1243,1243,Jordan Isaacs missed Jumper.,29,32,-3,4,0.38886878560958904,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+165,2,0:39,1239,1239,Aliyah Matharu Defensive Rebound.,29,32,-3,4,0.3886479363016952,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+166,2,0:35,1235,1235,Rickea Jackson missed Three Point Jumper.,29,32,-3,4,0.3884241971897994,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+167,2,0:31,1231,1231,Jordan Isaacs Defensive Rebound.,29,32,-3,19,0.38819748047542457,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+168,2,0:12,1212,1212,Foul on Jordan Danberry.,29,32,-3,0,0.3870772220630928,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+169,2,0:12,1212,1212,Chloe Chapman made Free Throw.,30,32,-2,0,0.4239913003634705,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+170,2,0:12,1212,1212,Chloe Chapman missed Free Throw.,30,32,-2,2,0.4239913003634705,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+171,2,0:10,1210,1210,Yemiyah Morris Defensive Rebound.,30,32,-2,7,0.4239073486174386,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+172,2,0:03,1203,1203,Aliyah Matharu made Layup.,30,34,-4,3,0.35071365163007,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+173,2,0:00,1200,1200,End of 2nd Quarter,30,34,-4,14,0.3504822574627354,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+174,3,9:46,1186,1186,Gabby Connally missed Jumper.,30,34,-4,3,0.34942043814588436,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+175,3,9:43,1183,1183,Chloe Bibby Defensive Rebound.,30,34,-4,9,0.3491963379492148,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+176,3,9:34,1174,1174,Rickea Jackson missed Jumper.,30,34,-4,4,0.34853012882509166,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+177,3,9:30,1170,1170,Jordan Danberry Offensive Rebound.,30,34,-4,19,0.3482366209969002,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+178,3,9:11,1151,1151,Mississippi State  Turnover.,30,34,-4,7,0.3468583578420259,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+179,3,9:04,1144,1144,Gabby Connally made Jumper.,32,34,-2,28,0.42127289501209686,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,Georgia
+180,3,8:36,1116,1116,Jordan Danberry missed Jumper.,32,34,-2,0,0.420188381418145,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+181,3,8:36,1116,1116,Stephanie Paul Block.,32,34,-2,1,0.420188381418145,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+182,3,8:35,1115,1115,Foul on Stephanie Paul.,32,34,-2,0,0.4201494020954715,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+183,3,8:35,1115,1115,Rickea Jackson made Free Throw.,32,35,-3,0,0.3814872987700025,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,Mississippi State
+184,3,8:35,1115,1115,Rickea Jackson missed Free Throw.,32,35,-3,1,0.3814872987700025,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+185,3,8:34,1114,1114,Rickea Jackson Offensive Rebound.,32,35,-3,0,0.381430627219463,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+186,3,8:34,1114,1114,Stephanie Paul Defensive Rebound.,32,35,-3,7,0.381430627219463,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+187,3,8:27,1107,1107,Jenna Staiti made Layup. Assisted by Gabby Connally.,34,35,-1,25,0.4596572437853481,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,Georgia
+188,3,8:02,1082,1082,Rickea Jackson made Jumper.,34,37,-3,9,0.3795833362229449,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,Mississippi State
+189,3,7:53,1073,1073,Chloe Chapman Turnover.,34,37,-3,0,0.37904702653987343,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+190,3,7:53,1073,1073,Myah Taylor Steal.,34,37,-3,12,0.37904702653987343,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+191,3,7:41,1061,1061,Rickea Jackson missed Layup.,34,37,-3,6,0.3783162528845221,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+192,3,7:35,1055,1055,Jenna Staiti Defensive Rebound.,34,37,-3,5,0.3779432162154039,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+193,3,7:30,1050,1050,Chloe Chapman missed Layup.,34,37,-3,3,0.3776280567824182,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+194,3,7:27,1047,1047,Chloe Bibby Defensive Rebound.,34,37,-3,3,0.3774369807339716,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+195,3,7:24,1044,1044,Rickea Jackson missed Layup.,34,37,-3,0,0.37724435703477627,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+196,3,7:24,1044,1044,Jessika Carter Offensive Rebound.,34,37,-3,0,0.37724435703477627,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+197,3,7:24,1044,1044,Jessika Carter missed Layup.,34,37,-3,0,0.37724435703477627,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+198,3,7:24,1044,1044,Mississippi State Offensive Rebound.,34,37,-3,5,0.37724435703477627,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+199,3,7:19,1039,1039,Foul on Maya Caldwell.,34,37,-3,0,0.3769197399246155,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+200,3,7:19,1039,1039,Chloe Bibby missed Jumper.,34,37,-3,5,0.3769197399246155,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+201,3,7:14,1034,1034,Chloe Chapman Defensive Rebound.,34,37,-3,13,0.37659044665038155,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+202,3,7:01,1021,1021,Georgia  Timeout,34,37,-3,0,0.37571071334507156,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,
+203,3,7:01,1021,1021,Official TV Timeout,34,37,-3,17,0.37571071334507156,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,
+204,3,6:44,1004,1004,Georgia  Turnover.,34,37,-3,12,0.37450334947298186,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,
+205,3,6:32,992,992,Jordan Danberry missed Layup.,34,37,-3,2,0.3736076979620096,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,
+206,3,6:30,990,990,Stephanie Paul Defensive Rebound.,34,37,-3,3,0.37345466297098745,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,
+207,3,6:27,987,987,Foul on Rickea Jackson.,34,37,-3,0,0.3732230178718783,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,
+208,3,6:27,987,987,Stephanie Paul made Free Throw.,35,37,-2,0,0.4144474456717601,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,Georgia
+209,3,6:27,987,987,Stephanie Paul made Free Throw.,36,37,-1,8,0.4569059642369863,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,Georgia
+210,3,6:19,979,979,Jordan Danberry made Jumper.,36,39,-3,19,0.3725926700813277,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,Mississippi State
+211,3,6:00,960,960,Foul on Chloe Chapman.,36,39,-3,0,0.3710574516396005,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+212,3,6:00,960,960,Chloe Chapman Turnover.,36,39,-3,15,0.3710574516396005,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+213,3,5:45,945,945,Rickea Jackson missed Jumper.,36,39,-3,3,0.36993412927323976,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+214,3,5:42,942,942,Stephanie Paul Defensive Rebound.,36,39,-3,6,0.36971975301505827,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+215,3,5:36,936,936,Gabby Connally missed Jumper.,36,39,-3,2,0.36930005708609337,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+216,3,5:34,934,934,Rickea Jackson Defensive Rebound.,36,39,-3,14,0.36916267502101396,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+217,3,5:20,920,920,Jessika Carter missed Jumper.,36,39,-3,3,0.3682315708348779,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+218,3,5:17,917,917,Chloe Bibby Offensive Rebound.,36,39,-3,3,0.368038093949518,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+219,3,5:14,914,914,Foul on Jenna Staiti.,36,39,-3,2,0.36784641149979175,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+220,3,5:12,912,912,Rickea Jackson missed Layup.,36,39,-3,1,0.3677195448485827,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+221,3,5:11,911,911,Georgia Defensive Rebound.,36,39,-3,18,0.3676563710955497,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+222,3,4:53,893,893,Jenna Staiti missed Jumper.,36,39,-3,0,0.36654209484473943,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+223,3,4:53,893,893,Rickea Jackson Block.,36,39,-3,4,0.36654209484473943,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+224,3,4:49,889,889,Jordan Danberry Defensive Rebound.,36,39,-3,2,0.3662984617561544,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+225,3,4:47,887,887,Jessika Carter missed Layup.,36,39,-3,6,0.3661769191547764,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+226,3,4:41,881,881,Maya Caldwell Defensive Rebound.,36,39,-3,3,0.36581284963502847,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+227,3,4:38,878,878,Que Morrison made Jumper.,38,39,-1,27,0.45421141361650225,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,Georgia
+228,3,4:11,851,851,Rickea Jackson Turnover.,38,39,-1,0,0.45361808531531456,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+229,3,4:11,851,851,Maya Caldwell Steal.,38,39,-1,6,0.45361808531531456,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+230,3,4:05,845,845,Stephanie Paul made Layup. Assisted by Maya Caldwell.,40,39,1,2,0.5465185316317995,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,Georgia
+231,3,4:03,843,843,Mississippi State  Timeout,40,39,1,0,0.5465646414830916,Georgia,Mississippi State,4,4,0,1,NA,401166625,2020-01-05,
+232,3,4:03,843,843,Official TV Timeout,40,39,1,20,0.5465646414830916,Georgia,Mississippi State,4,4,0,1,NA,401166625,2020-01-05,
+233,3,3:43,823,823,Xaria Wiggins missed Jumper.,40,39,1,0,0.5470455226127717,Georgia,Mississippi State,4,4,0,1,NA,401166625,2020-01-05,
+234,3,3:43,823,823,Maya Caldwell Block.,40,39,1,4,0.5470455226127717,Georgia,Mississippi State,4,4,0,1,NA,401166625,2020-01-05,
+235,3,3:39,819,819,Javyn Nicholson Defensive Rebound.,40,39,1,17,0.547146842119812,Georgia,Mississippi State,4,4,0,1,NA,401166625,2020-01-05,
+236,3,3:22,802,802,Gabby Connally Turnover.,40,39,1,0,0.5476014242946581,Georgia,Mississippi State,4,4,0,1,NA,401166625,2020-01-05,
+237,3,3:22,802,802,Xaria Wiggins Steal.,40,39,1,13,0.5476014242946581,Georgia,Mississippi State,4,4,0,1,NA,401166625,2020-01-05,
+238,3,3:09,789,789,Jordan Danberry made Layup.,40,41,-1,9,0.45202037513937826,Georgia,Mississippi State,4,4,0,1,NA,401166625,2020-01-05,Mississippi State
+239,3,3:00,780,780,Foul on Maya Caldwell.,40,41,-1,0,0.4517404653039323,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+240,3,3:00,780,780,Maya Caldwell Turnover.,40,41,-1,17,0.4517404653039323,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+241,3,2:43,763,763,Jessika Carter missed Jumper.,40,41,-1,3,0.4511656935293653,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+242,3,2:40,760,760,Chloe Bibby Offensive Rebound.,40,41,-1,3,0.45105743721121183,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+243,3,2:37,757,757,Chloe Bibby missed Jumper.,40,41,-1,2,0.45094699651295334,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+244,3,2:35,755,755,Que Morrison Defensive Rebound.,40,41,-1,4,0.45087212946038546,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+245,3,2:31,751,751,Chloe Chapman missed Layup.,40,41,-1,2,0.45071934835374017,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+246,3,2:29,749,749,Jordan Danberry Defensive Rebound.,40,41,-1,5,0.4506414026679366,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+247,3,2:24,744,744,Xaria Wiggins made Three Point Jumper. Assisted by Jordan Danberry.,40,44,-4,25,0.310979937232499,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+248,3,1:59,719,719,Foul on Jessika Carter.,40,44,-4,11,0.30729916980863214,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+249,3,1:48,708,708,Foul on Chloe Bibby.,40,44,-4,0,0.30580605355435025,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+250,3,1:48,708,708,Stephanie Paul made Free Throw.,41,44,-3,0,0.35095359252407626,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+251,3,1:48,708,708,Stephanie Paul made Free Throw.,42,44,-2,18,0.39893606425668443,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+252,3,1:30,690,690,Myah Taylor made Layup.,42,46,-4,14,0.30357099420541145,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+253,3,1:16,676,676,Stephanie Paul made Layup. Assisted by Que Morrison.,44,46,-2,19,0.39675256895896754,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+254,3,0:57,657,657,Rickea Jackson made Jumper.,44,48,-4,33,0.29981412096626897,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Mississippi State
+255,3,0:24,624,624,Chloe Chapman Turnover.,44,48,-4,0,0.29593077732318884,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+256,3,0:24,624,624,Myah Taylor Steal.,44,48,-4,5,0.29593077732318884,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+257,3,0:19,619,619,Jordan Danberry missed Jumper.,44,48,-4,4,0.29529034912065766,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+258,3,0:15,615,615,Chloe Chapman Defensive Rebound.,44,48,-4,14,0.29476363614986867,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+259,3,0:01,601,601,Gabby Connally made Layup.,46,48,-2,0,0.39152518548246845,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+260,3,0:01,601,601,Foul on Myah Taylor.,46,48,-2,0,0.39152518548246845,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+261,3,0:01,601,601,Gabby Connally made Free Throw.,47,48,-1,1,0.44510891677980624,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,Georgia
+262,3,0:00,600,600,End of 3rd Quarter,47,48,-1,10,0.44506480685690686,Georgia,Mississippi State,4,4,0,0,NA,401166625,2020-01-05,
+263,4,9:50,590,590,Jordan Danberry made Jumper. Assisted by Myah Taylor.,47,50,-3,23,0.3390572753260272,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,Mississippi State
+264,4,9:27,567,567,Foul on Jordan Danberry.,47,50,-3,1,0.3357327919366174,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+265,4,9:26,566,566,Que Morrison Turnover.,47,50,-3,11,0.3355726368309816,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+266,4,9:15,555,555,Jordan Danberry made Jumper. Assisted by Myah Taylor.,47,52,-5,7,0.24005324994995747,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,Mississippi State
+267,4,9:08,548,548,Foul on Xaria Wiggins.,47,52,-5,14,0.2383166434968261,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+268,4,8:54,534,534,Gabby Connally Turnover.,47,52,-5,22,0.23515173967484532,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+269,4,8:32,512,512,Jessika Carter made Layup. Assisted by Rickea Jackson.,47,54,-7,31,0.15655960952250433,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,Mississippi State
+270,4,8:01,481,481,Que Morrison Turnover.,47,54,-7,0,0.1507764657193929,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+271,4,8:01,481,481,Jordan Danberry Steal.,47,54,-7,4,0.1507764657193929,Georgia,Mississippi State,5,5,0,0,NA,401166625,2020-01-05,
+272,4,7:57,477,477,Jordan Danberry made Layup.,47,56,-9,0,0.09704416682176788,Georgia,Mississippi State,5,5,1,0,NA,401166625,2020-01-05,Mississippi State
+273,4,7:57,477,477,Georgia  Timeout,47,56,-9,0,0.09704416682176788,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,
+274,4,7:57,477,477,Official TV Timeout,47,56,-9,10,0.09704416682176788,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,
+275,4,7:47,467,467,Foul on Xaria Wiggins.,47,56,-9,12,0.09515235410963878,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,
+276,4,7:35,455,455,Gabby Connally missed Jumper.,47,56,-9,3,0.09262282392164012,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,
+277,4,7:32,452,452,Jessika Carter Defensive Rebound.,47,56,-9,0,0.09193767186503334,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,
+278,4,7:32,452,452,Foul on Maya Caldwell.,47,56,-9,18,0.09193767186503334,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,
+279,4,7:14,434,434,Myah Taylor Turnover.,47,56,-9,0,0.08730388998387184,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,
+280,4,7:14,434,434,Gabby Connally Steal.,47,56,-9,8,0.08730388998387184,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,
+281,4,7:06,426,426,Jenna Staiti made Three Point Jumper. Assisted by Que Morrison.,50,56,-6,25,0.170177646080648,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,Georgia
+282,4,6:41,401,401,Jessika Carter made Layup. Assisted by Xaria Wiggins.,50,58,-8,12,0.10078514560412909,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,Mississippi State
+283,4,6:29,389,389,Gabby Connally missed Layup.,50,58,-8,2,0.09766241735032152,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+284,4,6:27,387,387,Rickea Jackson Defensive Rebound.,50,58,-8,14,0.09714617266611572,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+285,4,6:13,373,373,Jordan Danberry missed Jumper.,50,58,-8,0,0.09349583045879067,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+286,4,6:13,373,373,Jenna Staiti Block.,50,58,-8,5,0.09349583045879067,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+287,4,6:08,368,368,Jenna Staiti Defensive Rebound.,50,58,-8,22,0.09215609869088288,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+288,4,5:46,346,346,Foul on Jessika Carter.,50,58,-8,0,0.0858176389777497,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+289,4,5:46,346,346,Que Morrison made Free Throw.,51,58,-7,1,0.11203909776047145,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,Georgia
+290,4,5:45,345,345,Que Morrison made Layup. Assisted by Caitlin Hose.,53,58,-5,12,0.185260817763775,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,Georgia
+291,4,5:33,333,333,Xaria Wiggins made Three Point Jumper. Assisted by Jordan Danberry.,53,61,-8,10,0.08160310678829945,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,Mississippi State
+292,4,5:23,323,323,Georgia  Turnover.,53,61,-8,3,0.07807135380084813,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+293,4,5:20,320,320,Xaria Wiggins missed Jumper.,53,61,-8,0,0.07695974080616984,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+294,4,5:20,320,320,Stephanie Paul Block.,53,61,-8,0,0.07695974080616984,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+295,4,5:20,320,320,Georgia Defensive Rebound.,53,61,-8,18,0.07695974080616984,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+296,4,5:02,302,302,Que Morrison Turnover.,53,61,-8,0,0.07062107524670334,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+297,4,5:02,302,302,Jessika Carter Steal.,53,61,-8,16,0.07062107524670334,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+298,4,4:46,286,286,Foul on Caitlin Hose.,53,61,-8,0,0.06923718589639517,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+299,4,4:46,286,286,Xaria Wiggins Turnover.,53,61,-8,14,0.06923718589639517,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+300,4,4:32,272,272,Foul on Myah Taylor.,53,61,-8,0,0.07048191534983873,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+301,4,4:32,272,272,Que Morrison missed Free Throw.,53,61,-8,0,0.07048191534983873,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+302,4,4:32,272,272,Georgia Deadball Team Rebound.,53,61,-8,0,0.07048191534983873,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+303,4,4:32,272,272,Que Morrison made Free Throw.,54,61,-7,10,0.0947562582897296,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,Georgia
+304,4,4:22,262,262,Jordan Danberry missed Layup.,54,61,-7,0,0.09653608072615419,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+305,4,4:22,262,262,Jenna Staiti Block.,54,61,-7,0,0.09653608072615419,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+306,4,4:22,262,262,Mississippi State Offensive Rebound.,54,61,-7,8,0.09653608072615419,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+307,4,4:14,254,254,Jessika Carter made Layup. Assisted by Myah Taylor.,54,63,-9,15,0.054484636821933774,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,Mississippi State
+308,4,3:59,239,239,Foul on Jenna Staiti.,54,63,-9,0,0.05580011492089154,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+309,4,3:59,239,239,Jenna Staiti Turnover.,54,63,-9,24,0.05580011492089154,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+310,4,3:35,215,215,Foul on Gabby Connally.,54,63,-9,2,0.052680360164188214,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+311,4,3:33,213,213,Jessika Carter missed Jumper.,54,63,-9,2,0.052004311524558575,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+312,4,3:31,211,211,Jenna Staiti Defensive Rebound.,54,63,-9,5,0.05125736555041251,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+313,4,3:26,206,206,Foul on Rickea Jackson.,54,63,-9,0,0.04908082461456572,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+314,4,3:26,206,206,Kaila Hubbard made Free Throw.,55,63,-8,0,0.06694256860688606,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,Georgia
+315,4,3:26,206,206,Kaila Hubbard made Free Throw.,56,63,-7,16,0.0906847426350427,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,Georgia
+316,4,3:10,190,190,Rickea Jackson made Layup.,56,65,-9,0,0.03942164195503702,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,Mississippi State
+317,4,3:10,190,190,Foul on Kaila Hubbard.,56,65,-9,0,0.03942164195503702,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+318,4,3:10,190,190,Rickea Jackson made Free Throw.,56,66,-10,21,0.027976288266648275,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,Mississippi State
+319,4,2:49,169,169,Caitlin Hose made Jumper.,58,66,-8,23,0.039319524079589906,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,Georgia
+320,4,2:26,146,146,Myah Taylor Turnover.,58,66,-8,0,0.02571729683459274,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+321,4,2:26,146,146,Stephanie Paul Steal.,58,66,-8,0,0.02571729683459274,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+322,4,2:26,146,146,Foul on Rickea Jackson.,58,66,-8,0,0.02571729683459274,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+323,4,2:26,146,146,Gabby Connally made Free Throw.,59,66,-7,0,0.039916882664395734,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,Georgia
+324,4,2:26,146,146,Gabby Connally made Free Throw.,60,66,-6,19,0.061462055369897045,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,Georgia
+325,4,2:07,127,127,Jenna Staiti made Layup. Assisted by Stephanie Paul.,62,66,-4,17,0.11570113945906409,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,Georgia
+326,4,1:50,110,110,Foul on Gabby Connally.,62,66,-4,0,0.09392056016255101,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+327,4,1:50,110,110,Jordan Danberry made Free Throw.,62,67,-5,0,0.05554853897470652,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,Mississippi State
+328,4,1:50,110,110,Jordan Danberry made Free Throw.,62,68,-6,26,0.03229494916992997,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,Mississippi State
+329,4,1:24,84,84,Jenna Staiti made Layup. Assisted by Gabby Connally.,64,68,-4,30,0.062479430713870916,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,Georgia
+330,4,0:54,54,54,Rickea Jackson missed Jumper.,64,68,-4,4,0.03498561931302208,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+331,4,0:50,50,50,Stephanie Paul Defensive Rebound.,64,68,-4,6,0.032093875821752056,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+332,4,0:44,44,44,Gabby Connally missed Layup.,64,68,-4,3,0.02807332633832223,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+333,4,0:41,41,41,Rickea Jackson Defensive Rebound.,64,68,-4,3,0.026200609267929203,Georgia,Mississippi State,4,5,0,0,NA,401166625,2020-01-05,
+334,4,0:38,38,38,Foul on Que Morrison.,64,68,-4,0,0.024420448785884754,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,
+335,4,0:38,38,38,Jordan Danberry missed Free Throw.,64,68,-4,0,0.024420448785884754,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,
+336,4,0:38,38,38,Mississippi State Deadball Team Rebound.,64,68,-4,0,0.024420448785884754,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,
+337,4,0:38,38,38,Jordan Danberry made Free Throw.,64,69,-5,0,0.00985850254275146,Georgia,Mississippi State,4,5,1,0,NA,401166625,2020-01-05,Mississippi State
+338,4,0:38,38,38,Georgia  Timeout,64,69,-5,0,0.00985850254275146,Georgia,Mississippi State,3,5,1,0,NA,401166625,2020-01-05,
+339,4,0:38,38,38,Que Morrison Turnover.,64,69,-5,1,0.00985850254275146,Georgia,Mississippi State,3,5,1,0,NA,401166625,2020-01-05,
+340,4,0:37,37,37,Mississippi State  Timeout,64,69,-5,1,0.009566136167212039,Georgia,Mississippi State,3,4,1,1,NA,401166625,2020-01-05,
+341,4,0:36,36,36,Foul on Shaniya Jones.,64,69,-5,0,0.009280941701926622,Georgia,Mississippi State,3,4,1,1,NA,401166625,2020-01-05,
+342,4,0:36,36,36,Jordan Danberry made Free Throw.,64,70,-6,0,0.0036675337152034613,Georgia,Mississippi State,3,4,1,1,NA,401166625,2020-01-05,Mississippi State
+343,4,0:36,36,36,Jordan Danberry missed Free Throw.,64,70,-6,1,0.0036675337152034613,Georgia,Mississippi State,3,4,1,1,NA,401166625,2020-01-05,
+344,4,0:35,35,35,Caitlin Hose Defensive Rebound.,64,70,-6,1,0.0035353307939678708,Georgia,Mississippi State,3,4,1,1,NA,401166625,2020-01-05,
+345,4,0:34,34,34,Georgia  Timeout,64,70,-6,4,0.003407281875287406,Georgia,Mississippi State,2,4,1,1,NA,401166625,2020-01-05,
+346,4,0:30,30,30,Gabby Connally made Layup.,66,70,-4,6,0.020125371467761017,Georgia,Mississippi State,2,4,1,1,NA,401166625,2020-01-05,Georgia
+347,4,0:24,24,24,Foul on Stephanie Paul.,66,70,-4,0,0.017324842039353278,Georgia,Mississippi State,2,4,1,1,NA,401166625,2020-01-05,
+348,4,0:24,24,24,Rickea Jackson made Free Throw.,66,71,-5,0,0.006383267278336883,Georgia,Mississippi State,2,4,1,1,NA,401166625,2020-01-05,Mississippi State
+349,4,0:24,24,24,Rickea Jackson made Free Throw.,66,72,-6,10,0.0023354657003018873,Georgia,Mississippi State,2,4,1,1,NA,401166625,2020-01-05,Mississippi State
+350,4,0:14,14,14,Caitlin Hose missed Jumper.,66,72,-6,3,0.001567758667046619,Georgia,Mississippi State,2,4,1,1,NA,401166625,2020-01-05,
+351,4,0:11,11,11,Chloe Bibby Defensive Rebound.,66,72,-6,2,0.0013835869582565457,Georgia,Mississippi State,2,4,1,1,NA,401166625,2020-01-05,
+352,4,0:09,9,9,Foul on Caitlin Hose.,66,72,-6,0,0.0012715032527373625,Georgia,Mississippi State,2,4,1,1,NA,401166625,2020-01-05,
+353,4,0:09,9,9,Jordan Danberry made Free Throw.,66,73,-7,0,4.189540423381101e-4,Georgia,Mississippi State,2,4,1,1,NA,401166625,2020-01-05,Mississippi State
+354,4,0:09,9,9,Jordan Danberry missed Free Throw.,66,73,-7,2,4.189540423381101e-4,Georgia,Mississippi State,2,4,1,1,NA,401166625,2020-01-05,
+355,4,0:07,7,7,Jordan Danberry Offensive Rebound.,66,73,-7,7,3.7922442266265113e-4,Georgia,Mississippi State,2,4,1,1,NA,401166625,2020-01-05,
+356,4,0:00,0,0,End of 4th Quarter,66,73,-7,0,1.580420060273613e-61,Georgia,Mississippi State,2,4,1,1,NA,401166625,2020-01-05,
+357,4,0:00,0,0,End of Game,66,73,-7,0,1.580420060273613e-61,Georgia,Mississippi State,2,4,1,1,NA,401166625,2020-01-05,

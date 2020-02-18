@@ -1,0 +1,338 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:44,2384,2384,Jade Williams missed Three Point Jumper.,0,0,0,4,0.5,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,NA
+2,1,9:40,2380,2380,Onome Akinbode-James Offensive Rebound.,0,0,0,0,0.5,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+3,1,9:40,2380,2380,Foul on Cara Judkins.,0,0,0,0,0.5,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+4,1,9:40,2380,2380,Onome Akinbode-James missed Free Throw.,0,0,0,0,0.5,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+5,1,9:40,2380,2380,Duke Deadball Team Rebound.,0,0,0,0,0.5,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+6,1,9:40,2380,2380,Onome Akinbode-James made Free Throw.,0,1,-1,11,0.47773202597081504,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Duke
+7,1,9:29,2369,2369,Jahsyni Knight Turnover.,0,1,-1,25,0.477614162257752,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+8,1,9:04,2344,2344,Leaonna Odom made Jumper. Assisted by Jade Williams.,0,3,-3,18,0.4323994302490607,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Duke
+9,1,8:46,2326,2326,Gabbie Green Turnover.,0,3,-3,0,0.4318163477183905,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+10,1,8:46,2326,2326,Onome Akinbode-James Steal.,0,3,-3,11,0.4318163477183905,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+11,1,8:35,2315,2315,Jade Williams made Jumper. Assisted by Leaonna Odom.,0,5,-5,12,0.38702224117469486,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Duke
+12,1,8:23,2303,2303,Amber Brown missed Jumper.,0,5,-5,3,0.38638744441900696,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+13,1,8:20,2300,2300,Cara Judkins Offensive Rebound.,0,5,-5,0,0.38622822800872986,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+14,1,8:20,2300,2300,Cara Judkins missed Layup.,0,5,-5,0,0.38622822800872986,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+15,1,8:20,2300,2300,Pittsburgh Offensive Rebound.,0,5,-5,10,0.38622822800872986,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+16,1,8:10,2290,2290,Rita Igbokwe made Layup. Assisted by Amber Brown.,2,5,-3,15,0.4306342143735679,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Pittsburgh
+17,1,7:55,2275,2275,Haley Gorecki made Layup. Assisted by Onome Akinbode-James.,2,7,-5,6,0.38489398501032734,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Duke
+18,1,7:49,2269,2269,Foul on Kyra Lambert.,2,7,-5,10,0.3845719265202992,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+19,1,7:39,2259,2259,Emy Hayford missed Three Point Jumper.,2,7,-5,4,0.3840337208970851,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+20,1,7:35,2255,2255,Haley Gorecki Defensive Rebound.,2,7,-5,14,0.38381795823868775,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+21,1,7:21,2241,2241,Kyra Lambert made Three Point Jumper. Assisted by Haley Gorecki.,2,10,-8,17,0.31809875704125296,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Duke
+22,1,7:04,2224,2224,Gabbie Green Turnover.,2,10,-8,0,0.316743841959504,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+23,1,7:04,2224,2224,Onome Akinbode-James Steal.,2,10,-8,6,0.316743841959504,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+24,1,6:58,2218,2218,Leaonna Odom missed Jumper.,2,10,-8,5,0.31626477773088185,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+25,1,6:53,2213,2213,Jahsyni Knight Defensive Rebound.,2,10,-8,5,0.3158652652533636,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+26,1,6:48,2208,2208,Jahsyni Knight missed Layup.,2,10,-8,6,0.31546551294746167,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+27,1,6:42,2202,2202,Rita Igbokwe Offensive Rebound.,2,10,-8,1,0.3149855276863153,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+28,1,6:41,2201,2201,Rita Igbokwe missed Layup.,2,10,-8,5,0.31490550288649655,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+29,1,6:36,2196,2196,Jahsyni Knight Offensive Rebound.,2,10,-8,2,0.3145052736439853,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+30,1,6:34,2194,2194,Jahsyni Knight made Layup.,4,10,-6,7,0.3578030968852035,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Pittsburgh
+31,1,6:27,2187,2187,Foul on Amber Brown.,4,10,-6,0,0.3573547152944639,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+32,1,6:27,2187,2187,Haley Gorecki made Free Throw.,4,11,-7,0,0.33521875841850524,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Duke
+33,1,6:27,2187,2187,Haley Gorecki made Free Throw.,4,12,-8,15,0.31378447956421396,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Duke
+34,1,6:12,2172,2172,Cara Judkins Turnover.,4,12,-8,0,0.3125823996159715,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+35,1,6:12,2172,2172,Jade Williams Steal.,4,12,-8,30,0.3125823996159715,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+36,1,5:42,2142,2142,Haley Gorecki made Jumper.,4,14,-10,22,0.2691091203082941,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Duke
+37,1,5:20,2120,2120,Jahsyni Knight missed Jumper.,4,14,-10,4,0.2670679795295488,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+38,1,5:16,2116,2116,Onome Akinbode-James Defensive Rebound.,4,14,-10,4,0.266696090777849,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+39,1,5:12,2112,2112,Leaonna Odom made Layup. Assisted by Haley Gorecki.,4,16,-12,2,0.22863673215700406,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Duke
+40,1,5:10,2110,2110,Pittsburgh  Timeout,4,16,-12,27,0.2284351083410183,Pittsburgh,Duke,3,4,1,0,NA,401171295,2020-02-13,
+41,1,4:43,2083,2083,Rita Igbokwe Turnover.,4,16,-12,16,0.22570929093948397,Pittsburgh,Duke,3,4,1,0,NA,401171295,2020-02-13,
+42,1,4:27,2067,2067,Onome Akinbode-James Turnover.,4,16,-12,15,0.22409004105155594,Pittsburgh,Duke,3,4,1,0,NA,401171295,2020-02-13,
+43,1,4:12,2052,2052,Marcella Lamark made Layup.,6,16,-10,24,0.260706702510604,Pittsburgh,Duke,3,4,1,0,NA,401171295,2020-02-13,Pittsburgh
+44,1,3:48,2028,2028,Haley Gorecki made Three Point Jumper.,6,19,-13,22,0.20256635213473306,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,Duke
+45,1,3:26,2006,2006,Amber Brown Turnover.,6,19,-13,14,0.20027800333289236,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,
+46,1,3:12,1992,1992,Jade Williams Turnover.,6,19,-13,21,0.19881830463998937,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,
+47,1,2:51,1971,1971,Amber Brown missed Layup.,6,19,-13,4,0.19662313476707768,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,
+48,1,2:47,1967,1967,Leaonna Odom Defensive Rebound.,6,19,-13,17,0.1962041933016948,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,
+49,1,2:30,1950,1950,Haley Gorecki made Three Point Jumper. Assisted by Mikayla Boykin.,6,22,-16,9,0.14809953968849748,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,Duke
+50,1,2:21,1941,1941,Jahsyni Knight Turnover.,6,22,-16,12,0.14716200500771323,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,
+51,1,2:09,1929,1929,Leaonna Odom Turnover.,6,22,-16,0,0.14591191738044243,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,
+52,1,2:09,1929,1929,Jahsyni Knight Steal.,6,22,-16,12,0.14591191738044243,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,
+53,1,1:57,1917,1917,Emy Hayford made Layup.,8,22,-14,18,0.17437763016099278,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,Pittsburgh
+54,1,1:39,1899,1899,Miela Goodchild missed Three Point Jumper.,8,22,-14,4,0.17249666267661468,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,
+55,1,1:35,1895,1895,Emy Hayford Defensive Rebound.,8,22,-14,3,0.17208105682986055,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,
+56,1,1:32,1892,1892,Amber Brown made Layup. Assisted by Emy Hayford.,10,22,-12,10,0.20613177709989491,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,Pittsburgh
+57,1,1:22,1882,1882,Mikayla Boykin missed Three Point Jumper.,10,22,-12,2,0.20511140774455786,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,
+58,1,1:20,1880,1880,Cara Judkins Defensive Rebound.,10,22,-12,0,0.20490769856062477,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,
+59,1,1:20,1880,1880,Foul on Onome Akinbode-James.,10,22,-12,19,0.20490769856062477,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,
+60,1,1:01,1861,1861,Cara Judkins Turnover.,10,22,-12,17,0.20297729133100062,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,
+61,1,0:44,1844,1844,Onome Akinbode-James missed Jumper.,10,22,-12,4,0.20125521650486491,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,
+62,1,0:40,1840,1840,Amber Brown Defensive Rebound.,10,22,-12,16,0.2008504030597923,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,
+63,1,0:24,1824,1824,Cara Judkins missed Jumper.,10,22,-12,2,0.19923148336750499,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,
+64,1,0:22,1822,1822,Rita Igbokwe Offensive Rebound.,10,22,-12,14,0.1990290825056878,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,
+65,1,0:08,1808,1808,Rita Igbokwe made Layup.,12,22,-10,8,0.23726334567531737,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,Pittsburgh
+66,1,0:00,1800,1800,End of 1st Quarter,12,22,-10,32,0.23649150459798127,Pittsburgh,Duke,3,4,0,0,NA,401171295,2020-02-13,
+67,2,9:28,1768,1768,Jahsyni Knight missed Jumper.,12,22,-10,5,0.2333842487280083,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+68,2,9:23,1763,1763,Rita Igbokwe Offensive Rebound.,12,22,-10,1,0.23289516523374437,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+69,2,9:22,1762,1762,Rita Igbokwe missed Layup.,12,22,-10,8,0.23279721372793577,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+70,2,9:14,1754,1754,Amber Brown Offensive Rebound.,12,22,-10,2,0.2320119019184455,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+71,2,9:12,1752,1752,Amber Brown made Layup.,14,22,-8,4,0.27718415358058396,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Pittsburgh
+72,2,9:08,1748,1748,Leaonna Odom missed Jumper.,14,22,-8,6,0.2768292276200053,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+73,2,9:02,1742,1742,Haley Gorecki Offensive Rebound.,14,22,-8,2,0.2762951357388497,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+74,2,9:00,1740,1740,Haley Gorecki missed Three Point Jumper.,14,22,-8,9,0.2761166365783167,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+75,2,8:51,1731,1731,Onome Akinbode-James Offensive Rebound.,14,22,-8,0,0.27531036560259614,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+76,2,8:51,1731,1731,Jade Williams missed Layup.,14,22,-8,0,0.27531036560259614,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+77,2,8:51,1731,1731,Onome Akinbode-James Offensive Rebound.,14,22,-8,0,0.27531036560259614,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+78,2,8:51,1731,1731,Foul on Rita Igbokwe.,14,22,-8,0,0.27531036560259614,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+79,2,8:51,1731,1731,Onome Akinbode-James made Free Throw.,14,23,-9,1,0.25183961058310295,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Duke
+80,2,8:50,1730,1730,Onome Akinbode-James missed Free Throw.,14,23,-9,1,0.2517441011540337,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+81,2,8:49,1729,1729,Cara Judkins Defensive Rebound.,14,23,-9,12,0.2516485278760669,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+82,2,8:37,1717,1717,Amber Brown made Layup. Assisted by Jahsyni Knight.,16,23,-7,18,0.29892586840225494,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Pittsburgh
+83,2,8:19,1699,1699,Jade Williams made Layup. Assisted by Haley Gorecki.,16,25,-9,17,0.24874938788579443,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Duke
+84,2,8:02,1682,1682,Rita Igbokwe made Layup. Assisted by Amber Brown.,18,25,-7,0,0.29595878355556327,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Pittsburgh
+85,2,8:02,1682,1682,Foul on Jade Williams.,18,25,-7,0,0.29595878355556327,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+86,2,8:02,1682,1682,Rita Igbokwe made Free Throw.,19,25,-6,14,0.3223890373969738,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Pittsburgh
+87,2,7:48,1668,1668,Kyra Lambert made Three Point Jumper. Assisted by Haley Gorecki.,19,28,-9,18,0.24574228707044765,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Duke
+88,2,7:30,1650,1650,Marcella Lamark Turnover.,19,28,-9,0,0.2440570659769455,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+89,2,7:30,1650,1650,Jade Williams Steal.,19,28,-9,21,0.2440570659769455,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+90,2,7:09,1629,1629,Jade Williams missed Three Point Jumper.,19,28,-9,5,0.24213511353295236,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+91,2,7:04,1624,1624,Jahsyni Knight Defensive Rebound.,19,28,-9,2,0.24168271866173482,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+92,2,7:02,1622,1622,Gabbie Green Turnover.,19,28,-9,10,0.24150220061619404,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+93,2,6:52,1612,1612,Leaonna Odom made Layup. Assisted by Haley Gorecki.,19,30,-11,15,0.19705631203808455,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Duke
+94,2,6:37,1597,1597,Marcella Lamark missed Jumper.,19,30,-11,0,0.19563662827219538,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+95,2,6:37,1597,1597,Duke Defensive Rebound.,19,30,-11,0,0.19563662827219538,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+96,2,6:37,1597,1597,Foul on Amber Brown.,19,30,-11,21,0.19563662827219538,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+97,2,6:16,1576,1576,Mikayla Boykin Turnover.,19,30,-11,11,0.193656288410592,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+98,2,6:05,1565,1565,Rita Igbokwe made Jumper. Assisted by Jahsyni Knight.,21,30,-9,8,0.23639781787734673,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Pittsburgh
+99,2,5:57,1557,1557,Jade Williams made Jumper. Assisted by Kyra Lambert.,21,32,-11,9,0.1918588080604003,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Duke
+100,2,5:48,1548,1548,Foul on Jahsyni Knight.,21,32,-11,0,0.19100171784115821,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+101,2,5:48,1548,1548,Jahsyni Knight Turnover.,21,32,-11,2,0.19100171784115821,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+102,2,5:46,1546,1546,Jade Williams missed Three Point Jumper.,21,32,-11,3,0.19081056362462354,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+103,2,5:43,1543,1543,Emy Hayford Defensive Rebound.,21,32,-11,10,0.1905233004253433,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+104,2,5:33,1533,1533,Jahsyni Knight missed Three Point Jumper.,21,32,-11,3,0.1895605805854088,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+105,2,5:30,1530,1530,Kyra Lambert Defensive Rebound.,21,32,-11,8,0.18927003209175175,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+106,2,5:22,1522,1522,Leaonna Odom missed Jumper.,21,32,-11,3,0.18849080000240037,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+107,2,5:19,1519,1519,Emy Hayford Defensive Rebound.,21,32,-11,3,0.18819679417408497,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+108,2,5:16,1516,1516,Jahsyni Knight Turnover.,21,32,-11,12,0.18790173943002236,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+109,2,5:04,1504,1504,Haley Gorecki missed Jumper.,21,32,-11,1,0.18671013644107654,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+110,2,5:03,1503,1503,Pittsburgh Defensive Rebound.,21,32,-11,16,0.1866099571080295,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+111,2,4:47,1487,1487,Emy Hayford missed Jumper.,21,32,-11,0,0.1849865721414341,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+112,2,4:47,1487,1487,Duke Defensive Rebound.,21,32,-11,0,0.1849865721414341,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+113,2,4:47,1487,1487,Foul on Cara Judkins.,21,32,-11,0,0.1849865721414341,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+114,2,4:47,1487,1487,Official TV Timeout,21,32,-11,28,0.1849865721414341,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+115,2,4:19,1459,1459,Mikayla Boykin made Three Point Jumper. Assisted by Haley Gorecki.,21,35,-14,25,0.1287116657440766,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Duke
+116,2,3:54,1434,1434,Cara Judkins missed Jumper.,21,35,-14,0,0.12612702158523872,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+117,2,3:54,1434,1434,Leaonna Odom Block.,21,35,-14,5,0.12612702158523872,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+118,2,3:49,1429,1429,Leaonna Odom Defensive Rebound.,21,35,-14,4,0.12562742876025532,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+119,2,3:45,1425,1425,Haley Gorecki missed Jumper.,21,35,-14,3,0.1252322079492531,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+120,2,3:42,1422,1422,Cara Judkins Defensive Rebound.,21,35,-14,14,0.12493824722579185,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+121,2,3:28,1408,1408,Foul on Haley Gorecki.,21,35,-14,0,0.12359146531883108,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+122,2,3:28,1408,1408,Emy Hayford made Free Throw.,22,35,-13,0,0.13956196144289884,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Pittsburgh
+123,2,3:28,1408,1408,Emy Hayford made Free Throw.,23,35,-12,15,0.15722594081016908,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Pittsburgh
+124,2,3:13,1393,1393,Kyra Lambert Turnover.,23,35,-12,0,0.1557513299421066,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+125,2,3:13,1393,1393,Amber Brown Steal.,23,35,-12,0,0.1557513299421066,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+126,2,3:13,1393,1393,Foul on Jade Williams.,23,35,-12,15,0.1557513299421066,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+127,2,2:58,1378,1378,Ismini Prapa made Three Point Jumper. Assisted by Cara Judkins.,26,35,-9,18,0.21824450906337808,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Pittsburgh
+128,2,2:40,1360,1360,Kyra Lambert missed Three Point Jumper.,26,35,-9,4,0.21655917488173512,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+129,2,2:36,1356,1356,Rita Igbokwe Defensive Rebound.,26,35,-9,11,0.2161852560466467,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+130,2,2:25,1345,1345,Amber Brown Turnover.,26,35,-9,0,0.21515540366917374,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+131,2,2:25,1345,1345,Onome Akinbode-James Steal.,26,35,-9,6,0.21515540366917374,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+132,2,2:19,1339,1339,Miela Goodchild missed Three Point Jumper.,26,35,-9,3,0.21459164287090918,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+133,2,2:16,1336,1336,Leaonna Odom Offensive Rebound.,26,35,-9,11,0.21430896450863446,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+134,2,2:05,1325,1325,Miela Goodchild Turnover.,26,35,-9,11,0.21326644445232001,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+135,2,1:54,1314,1314,Marcella Lamark missed Layup.,26,35,-9,0,0.2122115655014806,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+136,2,1:54,1314,1314,Leaonna Odom Block.,26,35,-9,6,0.2122115655014806,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+137,2,1:48,1308,1308,Emy Hayford Offensive Rebound.,26,35,-9,2,0.21162962379634018,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+138,2,1:46,1306,1306,Gabbie Green missed Three Point Jumper.,26,35,-9,3,0.21143447378905983,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+139,2,1:43,1303,1303,Rita Igbokwe Offensive Rebound.,26,35,-9,0,0.2111405762789207,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+140,2,1:43,1303,1303,Rita Igbokwe missed Layup.,26,35,-9,0,0.2111405762789207,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+141,2,1:43,1303,1303,Rita Igbokwe Offensive Rebound.,26,35,-9,0,0.2111405762789207,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+142,2,1:43,1303,1303,Foul on Onome Akinbode-James.,26,35,-9,0,0.2111405762789207,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+143,2,1:43,1303,1303,Rita Igbokwe made Free Throw.,27,35,-8,0,0.23656365346904581,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Pittsburgh
+144,2,1:43,1303,1303,Rita Igbokwe made Free Throw.,28,35,-7,14,0.2640233440475149,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Pittsburgh
+145,2,1:29,1289,1289,Miela Goodchild made Three Point Jumper. Assisted by Kyra Lambert.,28,38,-10,24,0.18636188651789118,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Duke
+146,2,1:05,1265,1265,Emy Hayford Turnover.,28,38,-10,20,0.1838406846671988,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+147,2,0:45,1245,1245,Azana Baines missed Three Point Jumper.,28,38,-10,3,0.18162670106635845,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+148,2,0:42,1242,1242,Rita Igbokwe Defensive Rebound.,28,38,-10,15,0.1812843916360453,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+149,2,0:27,1227,1227,Emy Hayford made Layup.,30,38,-8,24,0.2287055913904526,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,Pittsburgh
+150,2,0:03,1203,1203,Mikayla Boykin missed Three Point Jumper.,30,38,-8,2,0.2258652272046429,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+151,2,0:01,1201,1201,Azana Baines Offensive Rebound.,30,38,-8,0,0.2256281377352615,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+152,2,0:01,1201,1201,Azana Baines missed Layup.,30,38,-8,0,0.2256281377352615,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+153,2,0:01,1201,1201,Azana Baines Offensive Rebound.,30,38,-8,1,0.2256281377352615,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+154,2,0:00,1200,1200,End of 2nd Quarter,30,38,-8,20,0.22551001878002297,Pittsburgh,Duke,4,4,0,0,NA,401171295,2020-02-13,
+155,3,9:40,1180,1180,Haley Gorecki missed Layup.,30,38,-8,4,0.2232007264893631,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+156,3,9:36,1176,1176,Jade Williams Offensive Rebound.,30,38,-8,2,0.2227493977296724,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+157,3,9:34,1174,1174,Jade Williams made Layup.,30,40,-10,13,0.173106889182296,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,Duke
+158,3,9:21,1161,1161,Cara Judkins made Jumper. Assisted by Jahsyni Knight.,32,40,-8,23,0.22108085104269423,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,Pittsburgh
+159,3,8:58,1138,1138,Leaonna Odom made Jumper. Assisted by Jade Williams.,32,42,-10,11,0.16903129232807265,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,Duke
+160,3,8:47,1127,1127,Emy Hayford missed Jumper.,32,42,-10,7,0.16780902173731507,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+161,3,8:40,1120,1120,Amber Brown Offensive Rebound.,32,42,-10,1,0.16703245482578571,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+162,3,8:39,1119,1119,Amber Brown missed Layup.,32,42,-10,6,0.16692150057073155,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+163,3,8:33,1113,1113,Haley Gorecki Defensive Rebound.,32,42,-10,8,0.1662553279741805,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+164,3,8:25,1105,1105,Leaonna Odom made Jumper. Assisted by Kyra Lambert.,32,44,-12,14,0.1253615935125076,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,Duke
+165,3,8:11,1091,1091,Foul on Amber Brown.,32,44,-12,0,0.12386729795635126,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+166,3,8:11,1091,1091,Amber Brown Turnover.,32,44,-12,9,0.12386729795635126,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+167,3,8:02,1082,1082,Leaonna Odom missed Jumper.,32,44,-12,0,0.12289800598625314,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+168,3,8:02,1082,1082,Kyra Lambert Offensive Rebound.,32,44,-12,15,0.12289800598625314,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+169,3,7:47,1067,1067,Leaonna Odom missed Jumper.,32,44,-12,3,0.12126021981581667,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+170,3,7:44,1064,1064,Onome Akinbode-James Offensive Rebound.,32,44,-12,1,0.12092857630252578,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+171,3,7:43,1063,1063,Jade Williams made Jumper. Assisted by Onome Akinbode-James.,32,46,-14,24,0.0898478159648725,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,Duke
+172,3,7:19,1039,1039,Emy Hayford missed Jumper.,32,46,-14,4,0.08741074816284282,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+173,3,7:15,1035,1035,Haley Gorecki Defensive Rebound.,32,46,-14,1,0.08699463222948421,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+174,3,7:14,1034,1034,Leaonna Odom missed Layup.,32,46,-14,4,0.08689010598434783,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+175,3,7:10,1030,1030,Amber Brown Defensive Rebound.,32,46,-14,9,0.08646994895079192,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+176,3,7:01,1021,1021,Cara Judkins missed Jumper.,32,46,-14,0,0.08551203591364952,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+177,3,7:01,1021,1021,Onome Akinbode-James Block.,32,46,-14,0,0.08551203591364952,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+178,3,7:01,1021,1021,Pittsburgh Offensive Rebound.,32,46,-14,2,0.08551203591364952,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+179,3,6:59,1019,1019,Rita Igbokwe made Jumper. Assisted by Emy Hayford.,34,46,-12,27,0.11572610658690527,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,Pittsburgh
+180,3,6:32,992,992,Jade Williams missed Three Point Jumper.,34,46,-12,5,0.11233766877250784,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+181,3,6:27,987,987,Leaonna Odom Offensive Rebound.,34,46,-12,2,0.11168355445634325,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+182,3,6:25,985,985,Leaonna Odom Turnover.,34,46,-12,0,0.11141942301957244,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+183,3,6:25,985,985,Ismini Prapa Steal.,34,46,-12,1,0.11141942301957244,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+184,3,6:24,984,984,Foul on Haley Gorecki.,34,46,-12,11,0.11128681736163881,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+185,3,6:13,973,973,Gabbie Green missed Three Point Jumper.,34,46,-12,3,0.10980386180478573,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+186,3,6:10,970,970,Duke Defensive Rebound.,34,46,-12,15,0.10939151479843966,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+187,3,5:55,955,955,Haley Gorecki missed Three Point Jumper.,34,46,-12,4,0.10742427376565124,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+188,3,5:51,951,951,Jade Williams Offensive Rebound.,34,46,-12,6,0.10693168404064671,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+189,3,5:45,945,945,Leaonna Odom made Jumper. Assisted by Haley Gorecki.,34,48,-14,23,0.07691664431115436,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,Duke
+190,3,5:22,922,922,Amber Brown missed Jumper.,34,48,-14,0,0.07470892197971073,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+191,3,5:22,922,922,Rita Igbokwe Offensive Rebound.,34,48,-14,0,0.07470892197971073,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+192,3,5:22,922,922,Foul on Kyra Lambert.,34,48,-14,3,0.07470892197971073,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+193,3,5:19,919,919,Ismini Prapa made Jumper. Assisted by Jahsyni Knight.,36,48,-12,7,0.10336743729402001,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,Pittsburgh
+194,3,5:12,912,912,Leaonna Odom made Layup. Assisted by Mikayla Boykin.,36,50,-14,14,0.07382322558229303,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,Duke
+195,3,4:58,898,898,Ismini Prapa Turnover.,36,50,-14,0,0.07263562011039262,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+196,3,4:58,898,898,Mikayla Boykin Steal.,36,50,-14,5,0.07263562011039262,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+197,3,4:53,893,893,Leaonna Odom made Layup. Assisted by Mikayla Boykin.,36,52,-16,0,0.05128252712370686,Pittsburgh,Duke,5,5,1,0,NA,401171295,2020-02-13,Duke
+198,3,4:53,893,893,Pittsburgh  Timeout,36,52,-16,11,0.05128252712370686,Pittsburgh,Duke,4,5,1,0,NA,401171295,2020-02-13,
+199,3,4:42,882,882,Rita Igbokwe missed Layup.,36,52,-16,4,0.050540192031975746,Pittsburgh,Duke,4,5,1,0,NA,401171295,2020-02-13,
+200,3,4:38,878,878,Jade Williams Defensive Rebound.,36,52,-16,16,0.050273163022710114,Pittsburgh,Duke,4,5,1,0,NA,401171295,2020-02-13,
+201,3,4:22,862,862,Leaonna Odom missed Jumper.,36,52,-16,3,0.049210395550071985,Pittsburgh,Duke,4,5,1,0,NA,401171295,2020-02-13,
+202,3,4:19,859,859,Duke Offensive Rebound.,36,52,-16,0,0.04901079134787004,Pittsburgh,Duke,4,5,1,0,NA,401171295,2020-02-13,
+203,3,4:19,859,859,Official TV Timeout,36,52,-16,5,0.04901079134787004,Pittsburgh,Duke,4,5,1,0,NA,401171295,2020-02-13,
+204,3,4:14,854,854,Haley Gorecki missed Jumper.,36,52,-16,4,0.04867697345796831,Pittsburgh,Duke,4,5,1,0,NA,401171295,2020-02-13,
+205,3,4:10,850,850,Haley Gorecki Offensive Rebound.,36,52,-16,1,0.0484084958634306,Pittsburgh,Duke,4,5,1,0,NA,401171295,2020-02-13,
+206,3,4:09,849,849,Haley Gorecki Turnover.,36,52,-16,0,0.04834113408994787,Pittsburgh,Duke,4,5,1,0,NA,401171295,2020-02-13,
+207,3,4:09,849,849,Cara Judkins Steal.,36,52,-16,6,0.04834113408994787,Pittsburgh,Duke,4,5,1,0,NA,401171295,2020-02-13,
+208,3,4:03,843,843,Amber Brown Turnover.,36,52,-16,7,0.047934524240628495,Pittsburgh,Duke,4,5,1,0,NA,401171295,2020-02-13,
+209,3,3:56,836,836,Mikayla Boykin missed Jumper.,36,52,-16,3,0.047453779885081974,Pittsburgh,Duke,4,5,1,0,NA,401171295,2020-02-13,
+210,3,3:53,833,833,Onome Akinbode-James Offensive Rebound.,36,52,-16,6,0.047245251631656146,Pittsburgh,Duke,4,5,1,0,NA,401171295,2020-02-13,
+211,3,3:47,827,827,Haley Gorecki Turnover.,36,52,-16,9,0.04682301765869423,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+212,3,3:38,818,818,Marcella Lamark missed Three Point Jumper.,36,52,-16,2,0.04617488038045242,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+213,3,3:36,816,816,Pittsburgh Offensive Rebound.,36,52,-16,10,0.046028167887872055,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+214,3,3:26,806,806,Marcella Lamark Turnover.,36,52,-16,0,0.04527824762107936,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+215,3,3:26,806,806,Onome Akinbode-James Steal.,36,52,-16,6,0.04527824762107936,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+216,3,3:20,800,800,Leaonna Odom missed Jumper.,36,52,-16,3,0.0448141001244792,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+217,3,3:17,797,797,Amber Brown Defensive Rebound.,36,52,-16,5,0.04457772307035268,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+218,3,3:12,792,792,Foul on Cara Judkins.,36,52,-16,0,0.04417707051207105,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+219,3,3:12,792,792,Cara Judkins Turnover.,36,52,-16,0,0.04417707051207105,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+220,3,3:12,792,792,Technical Foul on Cara Judkins.,36,52,-16,0,0.04417707051207105,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+221,3,3:12,792,792,Haley Gorecki made Free Throw.,36,53,-17,0,0.03673796770366538,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,Duke
+222,3,3:12,792,792,Haley Gorecki made Free Throw.,36,54,-18,4,0.03051156847010022,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,Duke
+223,3,3:08,788,788,Haley Gorecki made Three Point Jumper. Assisted by Kyra Lambert.,36,57,-21,13,0.01720332557776486,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,Duke
+224,3,2:55,775,775,Foul on Haley Gorecki.,36,57,-21,0,0.016622421447225706,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+225,3,2:55,775,775,Emy Hayford missed Free Throw.,36,57,-21,0,0.016622421447225706,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+226,3,2:55,775,775,Pittsburgh Deadball Team Rebound.,36,57,-21,0,0.016622421447225706,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+227,3,2:55,775,775,Emy Hayford missed Free Throw.,36,57,-21,0,0.016622421447225706,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+228,3,2:55,775,775,Onome Akinbode-James Defensive Rebound.,36,57,-21,26,0.016622421447225706,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+229,3,2:29,749,749,Leaonna Odom missed Jumper.,36,57,-21,4,0.015372706120080494,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+230,3,2:25,745,745,Amber Brown Defensive Rebound.,36,57,-21,11,0.01516977521931782,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+231,3,2:14,734,734,Gabbie Green missed Three Point Jumper.,36,57,-21,4,0.014597240709162669,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+232,3,2:10,730,730,Mikayla Boykin Defensive Rebound.,36,57,-21,26,0.014383892540352532,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+233,3,1:44,704,704,Mikayla Boykin made Jumper.,36,59,-23,14,0.008767969580728811,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,Duke
+234,3,1:30,690,690,Ismini Prapa missed Three Point Jumper.,36,59,-23,5,0.008371507559499806,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+235,3,1:25,685,685,Leaonna Odom Defensive Rebound.,36,59,-23,19,0.00823983948108071,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+236,3,1:06,666,666,Kyra Lambert Turnover.,36,59,-23,0,0.007771923934008057,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+237,3,1:06,666,666,Rita Igbokwe Steal.,36,59,-23,6,0.007771923934008057,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+238,3,1:00,660,660,Ismini Prapa missed Three Point Jumper.,36,59,-23,4,0.007631345503108587,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+239,3,0:56,656,656,Ismini Prapa Offensive Rebound.,36,59,-23,5,0.00753872856302608,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+240,3,0:51,651,651,Foul on Onome Akinbode-James.,36,59,-23,0,0.007423768992841096,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+241,3,0:51,651,651,Onome Akinbode-James Turnover.,36,59,-23,0,0.007423768992841096,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+242,3,0:51,651,651,Amber Brown missed Free Throw.,36,59,-23,0,0.007423768992841096,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+243,3,0:51,651,651,Pittsburgh Deadball Team Rebound.,36,59,-23,0,0.007423768992841096,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+244,3,0:51,651,651,Amber Brown made Free Throw.,37,59,-22,28,0.009168561465521424,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,Pittsburgh
+245,3,0:23,623,623,Jade Williams Turnover.,37,59,-22,18,0.00840512514567886,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+246,3,0:05,605,605,Foul on Jahsyni Knight.,37,59,-22,0,0.007887557043584422,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+247,3,0:05,605,605,Jahsyni Knight Turnover.,37,59,-22,5,0.007887557043584422,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+248,3,0:00,600,600,End of 3rd Quarter,37,59,-22,16,0.007737634575545835,Pittsburgh,Duke,4,5,0,0,NA,401171295,2020-02-13,
+249,4,9:44,584,584,Amber Brown Turnover.,37,59,-22,14,0.007236536684366998,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+250,4,9:30,570,570,Mikayla Boykin made Jumper.,37,61,-24,15,0.004312043999845422,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,Duke
+251,4,9:15,555,555,Amber Brown made Jumper.,39,61,-22,19,0.006240062900676907,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,Pittsburgh
+252,4,8:56,536,536,Mikayla Boykin missed Jumper.,39,61,-22,3,0.005600610025486162,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+253,4,8:53,533,533,Amber Brown Defensive Rebound.,39,61,-22,9,0.005515626124353647,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+254,4,8:44,524,524,Emy Hayford missed Layup.,39,61,-22,0,0.00528096408634929,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+255,4,8:44,524,524,Jade Williams Block.,39,61,-22,0,0.00528096408634929,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+256,4,8:44,524,524,Pittsburgh Offensive Rebound.,39,61,-22,11,0.00528096408634929,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+257,4,8:33,513,513,Gabbie Green made Layup.,41,61,-20,35,0.00810162857055686,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,Pittsburgh
+258,4,7:58,478,478,Mikayla Boykin missed Jumper.,41,61,-20,5,0.007018862435863818,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+259,4,7:53,473,473,Haley Gorecki Offensive Rebound.,41,61,-20,4,0.006858199077729946,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+260,4,7:49,469,469,Leaonna Odom made Jumper. Assisted by Mikayla Boykin.,41,63,-22,25,0.004092598553356371,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,Duke
+261,4,7:24,444,444,Jahsyni Knight missed Jumper.,41,63,-22,3,0.003485209225612427,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+262,4,7:21,441,441,Gabbie Green Offensive Rebound.,41,63,-22,1,0.0034054324158166844,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+263,4,7:20,440,440,Gabbie Green made Jumper.,43,63,-20,14,0.005652765189837829,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,Pittsburgh
+264,4,7:06,426,426,Jaida Patrick missed Jumper.,43,63,-20,5,0.0050604364520063306,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+265,4,7:01,421,421,Jaida Patrick Offensive Rebound.,43,63,-20,8,0.004863114015364536,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+266,4,6:53,413,413,Leaonna Odom made Jumper. Assisted by Mikayla Boykin.,43,65,-22,14,0.002675399728612447,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,Duke
+267,4,6:39,399,399,Amber Brown Turnover.,43,65,-22,17,0.0023890482925917477,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+268,4,6:22,382,382,Miela Goodchild made Three Point Jumper. Assisted by Mikayla Boykin.,43,68,-25,16,0.00089925583717254435,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,Duke
+269,4,6:06,366,366,Foul on Marcella Lamark.,43,68,-25,0,7.694314606145897e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+270,4,6:06,366,366,Marcella Lamark Turnover.,43,68,-25,19,7.694314606145897e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+271,4,5:47,347,347,Onome Akinbode-James made Layup.,43,70,-27,20,3.450877515131575e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,Duke
+272,4,5:27,327,327,Amber Brown missed Jumper.,43,70,-27,4,2.5725453134409746e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+273,4,5:23,323,323,Mikayla Boykin Defensive Rebound.,43,70,-27,15,2.405479285014258e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+274,4,5:08,308,308,Onome Akinbode-James missed Three Point Jumper.,43,70,-27,4,1.819900063361855e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+275,4,5:04,304,304,Amber Brown Defensive Rebound.,43,70,-27,7,1.7105659749195858e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+276,4,4:57,297,297,Foul on Cara Judkins.,43,70,-27,0,1.5957649958461722e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+277,4,4:57,297,297,Cara Judkins Turnover.,43,70,-27,0,1.5957649958461722e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+278,4,4:57,297,297,Official TV Timeout,43,70,-27,20,1.5957649958461722e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+279,4,4:37,277,277,Azana Baines missed Layup.,43,70,-27,3,1.6046513473891693e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+280,4,4:34,274,274,Onome Akinbode-James Offensive Rebound.,43,70,-27,1,1.6343750982391976e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+281,4,4:33,273,273,Jaida Patrick missed Jumper.,43,70,-27,2,1.6454232786394175e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+282,4,4:31,271,271,Onome Akinbode-James Offensive Rebound.,43,70,-27,0,1.6690454957035626e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+283,4,4:31,271,271,Foul on Rita Igbokwe.,43,70,-27,0,1.6690454957035626e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+284,4,4:31,271,271,Onome Akinbode-James missed Free Throw.,43,70,-27,0,1.6690454957035626e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+285,4,4:31,271,271,Duke Deadball Team Rebound.,43,70,-27,0,1.6690454957035626e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+286,4,4:31,271,271,Onome Akinbode-James made Free Throw.,43,71,-28,20,1.209434177967344e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,Duke
+287,4,4:11,251,251,Gabbie Green made Jumper.,45,71,-26,0,2.68158594590704e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,Pittsburgh
+288,4,4:11,251,251,Foul on Jada Claude.,45,71,-26,0,2.68158594590704e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+289,4,4:11,251,251,Gabbie Green made Free Throw.,46,71,-25,19,3.6788617309530783e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,Pittsburgh
+290,4,3:52,232,232,Jaida Patrick missed Jumper.,46,71,-25,3,3.8547995830460975e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+291,4,3:49,229,229,Emy Hayford Defensive Rebound.,46,71,-25,5,3.8109720373832325e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+292,4,3:44,224,224,Ismini Prapa made Jumper. Assisted by Emy Hayford.,48,71,-23,20,6.92754084364585e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,Pittsburgh
+293,4,3:24,204,204,Mikayla Boykin missed Three Point Jumper.,48,71,-23,1,4.857066318671303e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+294,4,3:23,203,203,Duke Offensive Rebound.,48,71,-23,7,4.717077678264079e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+295,4,3:16,196,196,Jada Claude missed Jumper.,48,71,-23,6,3.707299563760833e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+296,4,3:10,190,190,Rita Igbokwe Defensive Rebound.,48,71,-23,0,2.856514058825908e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+297,4,3:10,190,190,Foul on Jada Claude.,48,71,-23,20,2.856514058825908e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+298,4,2:50,170,170,Ismini Prapa missed Three Point Jumper.,48,71,-23,1,1.0753617593397417e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+299,4,2:49,169,169,Rita Igbokwe Offensive Rebound.,48,71,-23,1,1.0222092502464592e-4,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+300,4,2:48,168,168,Foul on Jada Claude.,48,71,-23,0,9.714313534285853e-5,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+301,4,2:48,168,168,Rita Igbokwe missed Free Throw.,48,71,-23,0,9.714313534285853e-5,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+302,4,2:48,168,168,Pittsburgh Deadball Team Rebound.,48,71,-23,0,9.714313534285853e-5,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+303,4,2:48,168,168,Rita Igbokwe missed Free Throw.,48,71,-23,0,9.714313534285853e-5,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+304,4,2:48,168,168,Pittsburgh Offensive Rebound.,48,71,-23,4,9.714313534285853e-5,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+305,4,2:44,164,164,Foul on Miela Goodchild.,48,71,-23,16,7.900821945879811e-5,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+306,4,2:28,148,148,Gabbie Green missed Three Point Jumper.,48,71,-23,3,3.261720213656848e-5,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+307,4,2:25,145,145,Rita Igbokwe Offensive Rebound.,48,71,-23,2,2.72779054998034e-5,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+308,4,2:23,143,143,Rita Igbokwe made Layup.,50,71,-21,15,6.086502956967573e-5,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,Pittsburgh
+309,4,2:08,128,128,Jada Claude missed Jumper.,50,71,-21,3,2.4616660385702173e-5,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+310,4,2:05,125,125,Amber Brown Defensive Rebound.,50,71,-21,14,2.019550936767594e-5,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,
+311,4,1:51,111,111,Amber Brown made Layup. Assisted by Emy Hayford.,52,71,-19,5,2.263719929653552e-5,Pittsburgh,Duke,5,6,0,0,NA,401171295,2020-02-13,Pittsburgh
+312,4,1:46,106,106,Duke  Timeout,52,71,-19,20,1.576223555045203e-5,Pittsburgh,Duke,5,5,0,1,NA,401171295,2020-02-13,
+313,4,1:26,86,86,Emy Hayford Defensive Rebound.,52,71,-19,3,3.077289720397627e-6,Pittsburgh,Duke,5,5,0,1,NA,401171295,2020-02-13,
+314,4,1:23,83,83,Gabbie Green missed Three Point Jumper.,52,71,-19,3,2.370663933214927e-6,Pittsburgh,Duke,5,5,0,1,NA,401171295,2020-02-13,
+315,4,1:20,80,80,Ismini Prapa Offensive Rebound.,52,71,-19,2,1.8178145051318534e-6,Pittsburgh,Duke,5,5,0,1,NA,401171295,2020-02-13,
+316,4,1:18,78,78,Ismini Prapa missed Layup.,52,71,-19,3,1.5182701075243759e-6,Pittsburgh,Duke,5,5,0,1,NA,401171295,2020-02-13,
+317,4,1:15,75,75,Uchenna Nwoke Defensive Rebound.,52,71,-19,6,1.1528493798645471e-6,Pittsburgh,Duke,5,5,0,1,NA,401171295,2020-02-13,
+318,4,1:09,69,69,Miela Goodchild missed Layup.,52,71,-19,3,6.507759924577965e-7,Pittsburgh,Duke,5,5,0,1,NA,401171295,2020-02-13,
+319,4,1:06,66,66,Miela Goodchild Offensive Rebound.,52,71,-19,1,4.852619310353823e-7,Pittsburgh,Duke,5,5,0,1,NA,401171295,2020-02-13,
+320,4,1:05,65,65,Miela Goodchild missed Layup.,52,71,-19,4,4.396418612457487e-7,Pittsburgh,Duke,5,5,0,1,NA,401171295,2020-02-13,
+321,4,1:01,61,61,Ismini Prapa Defensive Rebound.,52,71,-19,4,2.9478331893422135e-7,Pittsburgh,Duke,5,5,0,1,NA,401171295,2020-02-13,
+322,4,0:57,57,57,Foul on Miela Goodchild.,52,71,-19,0,1.9603714839244186e-7,Pittsburgh,Duke,5,5,0,1,NA,401171295,2020-02-13,
+323,4,0:57,57,57,Gabbie Green made Free Throw.,53,71,-18,0,4.4194994840536475e-7,Pittsburgh,Duke,5,5,0,1,NA,401171295,2020-02-13,Pittsburgh
+324,4,0:57,57,57,Gabbie Green made Free Throw.,54,71,-17,14,9.963402255408223e-7,Pittsburgh,Duke,5,5,0,1,NA,401171295,2020-02-13,Pittsburgh
+325,4,0:43,43,43,Azana Baines made Jumper.,54,73,-19,8,4.361470621680778e-8,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,Duke
+326,4,0:35,35,35,Gabbie Green missed Three Point Jumper.,54,73,-19,3,1.744077601312665e-8,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+327,4,0:32,32,32,Emy Hayford Offensive Rebound.,54,73,-19,3,1.2249836156838402e-8,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+328,4,0:29,29,29,Rita Igbokwe missed Jumper.,54,73,-19,5,8.564566199097463e-9,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+329,4,0:24,24,24,Marcella Lamark Offensive Rebound.,54,73,-19,0,4.6744627488691776e-9,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+330,4,0:24,24,24,Marcella Lamark made Jumper.,56,73,-17,22,3.520481259291991e-8,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,Pittsburgh
+331,4,0:02,2,2,Azana Baines missed Jumper.,56,73,-17,0,2.6621599659654215e-9,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+332,4,0:02,2,2,Rita Igbokwe Block.,56,73,-17,1,2.6621599659654215e-9,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+333,4,0:01,1,1,Jada Claude Offensive Rebound.,56,73,-17,0,2.351202229281169e-9,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+334,4,0:01,1,1,Jada Claude missed Jumper.,56,73,-17,0,2.351202229281169e-9,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+335,4,0:01,1,1,Ismini Prapa Defensive Rebound.,56,73,-17,1,2.351202229281169e-9,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+336,4,0:00,0,0,End of 4th Quarter,56,73,-17,0,2.1871378321977182e-148,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,
+337,4,0:00,0,0,End of Game,56,73,-17,0,2.1871378321977182e-148,Pittsburgh,Duke,5,5,0,0,NA,401171295,2020-02-13,

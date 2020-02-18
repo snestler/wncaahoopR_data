@@ -1,0 +1,354 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:41,2381,2381,Tyra James made Jumper.,0,0,0,8,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,NA
+2,1,9:33,2373,2373,Sydney Freeman missed Jumper.,0,2,-2,5,0.4554032958067534,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Urbana
+3,1,9:28,2368,2368,Tyra James Defensive Rebound.,0,2,-2,5,0.4552965036611427,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+4,1,9:23,2363,2363,Tyra James missed Jumper.,0,2,-2,4,0.45518936608070915,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+5,1,9:19,2359,2359,Blake Smith Defensive Rebound.,0,2,-2,21,0.45510341172991847,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+6,1,8:58,2338,2338,Jasmin Samz missed Jumper.,0,2,-2,4,0.4546487271837898,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+7,1,8:54,2334,2334,Weston Minnich Defensive Rebound.,0,2,-2,5,0.4545614938352706,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+8,1,8:49,2329,2329,Kami McEldowney missed Three Point Jumper.,0,2,-2,4,0.4544521819541921,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+9,1,8:45,2325,2325,Jasmin Samz Defensive Rebound.,0,2,-2,12,0.4543645204002807,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+10,1,8:33,2313,2313,Blake Smith Turnover.,0,2,-2,25,0.4541004401909216,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+11,1,8:08,2288,2288,Sylvia Hudson missed Layup.,0,2,-2,4,0.4535453277550481,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+12,1,8:04,2284,2284,Oshlynn Brown Defensive Rebound.,0,2,-2,4,0.45345593130374623,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+13,1,8:00,2280,2280,Oshlynn Brown made Jumper. Assisted by Sydney Freeman.,2,2,0,18,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Ball State
+14,1,7:42,2262,2262,Tyra James made Three Point Jumper. Assisted by Kami McEldowney.,2,5,-3,14,0.4297019859623669,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Urbana
+15,1,7:28,2248,2248,Blake Smith made Layup. Assisted by Thelma Dis Agustsdottir.,4,5,-1,19,0.4762691652220635,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Ball State
+16,1,7:09,2229,2229,Tyra James made Three Point Jumper. Assisted by Bailey Draughn.,4,8,-4,18,0.40529098552190407,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Urbana
+17,1,6:51,2211,2211,Jasmin Samz missed Three Point Jumper.,4,8,-4,2,0.40449039375625734,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+18,1,6:49,2209,2209,Weston Minnich Defensive Rebound.,4,8,-4,7,0.40440123535406136,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+19,1,6:42,2202,2202,Sa'Dera Johnson Turnover.,4,8,-4,0,0.4040888893598716,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+20,1,6:42,2202,2202,Sydney Freeman Steal.,4,8,-4,8,0.4040888893598716,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+21,1,6:34,2194,2194,Jasmin Samz made Layup.,6,8,-2,31,0.4514111445131579,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Ball State
+22,1,6:03,2163,2163,Weston Minnich missed Three Point Jumper.,6,8,-2,4,0.45069604065537827,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+23,1,5:59,2159,2159,Tyra James Offensive Rebound.,6,8,-2,17,0.4506033848195652,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+24,1,5:42,2142,2142,Tyra James missed Jumper.,6,8,-2,3,0.45020821827645324,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+25,1,5:39,2139,2139,Oshlynn Brown Defensive Rebound.,6,8,-2,5,0.4501382431299833,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+26,1,5:34,2134,2134,Thelma Dis Agustsdottir missed Three Point Jumper.,6,8,-2,5,0.45002145236819663,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+27,1,5:29,2129,2129,Oshlynn Brown Offensive Rebound.,6,8,-2,1,0.44990445106958366,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+28,1,5:28,2128,2128,Jasmin Samz made Three Point Jumper. Assisted by Sydney Freeman.,9,8,1,19,0.5251227528657562,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Ball State
+29,1,5:09,2109,2109,Foul on Blake Smith.,9,8,1,0,0.5253478500729736,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+30,1,5:09,2109,2109,Bailey Draughn made Free Throw.,9,9,0,0,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Urbana
+31,1,5:09,2109,2109,Bailey Draughn made Free Throw.,9,10,-1,0,0.47465214992702653,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Urbana
+32,1,5:09,2109,2109,Bailey Draughn made Free Throw.,9,11,-2,16,0.4494342565459519,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Urbana
+33,1,4:53,2093,2093,Thelma Dis Agustsdottir missed Jumper.,9,11,-2,3,0.449055446705604,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+34,1,4:50,2090,2090,Lexie Wright Defensive Rebound.,9,11,-2,9,0.4489841447739192,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+35,1,4:41,2081,2081,Foul on Sydney Freeman.,9,11,-2,0,0.4487697008644929,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+36,1,4:41,2081,2081,Official TV Timeout,9,11,-2,0,0.4487697008644929,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+37,1,4:41,2081,2081,Tyra James made Free Throw.,9,12,-3,0,0.42348963717215105,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Urbana
+38,1,4:41,2081,2081,Tyra James missed Free Throw.,9,12,-3,2,0.42348963717215105,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+39,1,4:39,2079,2079,Oshlynn Brown Defensive Rebound.,9,12,-3,22,0.42341892504467515,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+40,1,4:17,2057,2057,Estel Puiggros missed Jumper.,9,12,-3,3,0.4226371080257011,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+41,1,4:14,2054,2054,Oshlynn Brown Offensive Rebound.,9,12,-3,11,0.4225299142988811,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+42,1,4:03,2043,2043,Anna Clephane missed Jumper.,9,12,-3,4,0.42213562993400006,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+43,1,3:59,2039,2039,Anna Clephane Offensive Rebound.,9,12,-3,2,0.4219917616539418,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+44,1,3:57,2037,2037,Anna Clephane Turnover.,9,12,-3,0,0.4219197274312312,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+45,1,3:57,2037,2037,Lexie Wright Steal.,9,12,-3,7,0.4219197274312312,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+46,1,3:50,2030,2030,Bailey Draughn missed Layup.,9,12,-3,4,0.4216670755856227,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+47,1,3:46,2026,2026,Annie Rauch Defensive Rebound.,9,12,-3,4,0.42152232687132624,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+48,1,3:42,2022,2022,Estel Puiggros made Jumper.,11,12,-1,0,0.47359774791775133,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Ball State
+49,1,3:42,2022,2022,Foul on Lexie Wright.,11,12,-1,1,0.47359774791775133,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+50,1,3:41,2021,2021,Estel Puiggros missed Free Throw.,11,12,-1,1,0.47358537551680274,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+51,1,3:40,2020,2020,Lexie Wright Defensive Rebound.,11,12,-1,17,0.4735729968641911,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+52,1,3:23,2003,2003,Kasey Knippen missed Jumper.,11,12,-1,4,0.4733615867652871,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+53,1,3:19,1999,1999,Tyra James Offensive Rebound.,11,12,-1,3,0.47331157086917647,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+54,1,3:16,1996,1996,Sa'Dera Johnson missed Three Point Jumper.,11,12,-1,2,0.4732739894311485,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+55,1,3:14,1994,1994,Urbana Offensive Rebound.,11,12,-1,7,0.4732489017809514,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+56,1,3:07,1987,1987,Sa'Dera Johnson missed Jumper.,11,12,-1,3,0.4731608827039501,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+57,1,3:04,1984,1984,Jasmin Samz Defensive Rebound.,11,12,-1,7,0.47312305812524824,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+58,1,2:57,1977,1977,Oshlynn Brown made Jumper.,13,12,1,0,0.5269654408739634,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Ball State
+59,1,2:57,1977,1977,Foul on Lexie Wright.,13,12,1,1,0.5269654408739634,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+60,1,2:56,1976,1976,Oshlynn Brown missed Free Throw.,13,12,1,1,0.5269781114547611,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+61,1,2:55,1975,1975,Lexie Wright Defensive Rebound.,13,12,1,20,0.5269907890532686,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+62,1,2:35,1955,1955,Lexie Wright made Three Point Jumper. Assisted by Sa'Dera Johnson.,13,15,-2,11,0.44566964359135686,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Urbana
+63,1,2:24,1944,1944,Anna Clephane missed Jumper.,13,15,-2,3,0.44538911105725526,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+64,1,2:21,1941,1941,Tyra James Defensive Rebound.,13,15,-2,8,0.44531229383464493,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+65,1,2:13,1933,1933,Lexie Wright missed Jumper.,13,15,-2,4,0.4451067911198845,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+66,1,2:09,1929,1929,Oshlynn Brown Defensive Rebound.,13,15,-2,3,0.4450036878634843,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+67,1,2:06,1926,1926,Annie Rauch missed Layup.,13,15,-2,4,0.4449263465014464,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+68,1,2:02,1922,1922,Kasey Knippen Defensive Rebound.,13,15,-2,6,0.44482329195717357,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+69,1,1:56,1916,1916,Lexie Wright missed Jumper.,13,15,-2,2,0.44466883428171733,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+70,1,1:54,1914,1914,Oshlynn Brown Defensive Rebound.,13,15,-2,0,0.4446173765687488,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+71,1,1:54,1914,1914,Foul on Tyra James.,13,15,-2,17,0.4446173765687488,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+72,1,1:37,1897,1897,Arbrie Benson missed Jumper.,13,15,-2,3,0.444180347788381,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+73,1,1:34,1894,1894,Sylvia Hudson Defensive Rebound.,13,15,-2,13,0.4441032584260367,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+74,1,1:21,1881,1881,Kasey Knippen made Jumper.,13,17,-4,23,0.3889428984272638,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Urbana
+75,1,0:58,1858,1858,Arbrie Benson Turnover.,13,17,-4,0,0.3878029783446608,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+76,1,0:58,1858,1858,Sylvia Hudson Steal.,13,17,-4,5,0.3878029783446608,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+77,1,0:53,1853,1853,Sylvia Hudson Turnover.,13,17,-4,10,0.38755466095210456,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+78,1,0:43,1843,1843,Estel Puiggros missed Three Point Jumper.,13,17,-4,3,0.38705720233493374,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+79,1,0:40,1840,1840,Shalaya Heath Defensive Rebound.,13,17,-4,17,0.3869077162833774,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+80,1,0:23,1823,1823,Kasey Knippen Turnover.,13,17,-4,0,0.3860579654674773,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+81,1,0:23,1823,1823,Anna Clephane Steal.,13,17,-4,23,0.3860579654674773,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+82,1,0:00,1800,1800,Arbrie Benson made Jumper.,15,17,-2,0,0.44166625058836706,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Ball State
+83,1,0:00,1800,1800,End of 1st Quarter,15,17,-2,15,0.44166625058836706,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+84,2,9:45,1785,1785,Thelma Dis Agustsdottir made Three Point Jumper. Assisted by Sydney Freeman.,18,17,1,18,0.5294675855787017,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Ball State
+85,2,9:27,1767,1767,Sylvia Hudson made Jumper.,18,19,-1,0,0.47028889989093037,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Urbana
+86,2,9:27,1767,1767,Foul on Thelma Dis Agustsdottir.,18,19,-1,0,0.47028889989093037,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+87,2,9:27,1767,1767,Sylvia Hudson missed Free Throw.,18,19,-1,1,0.47028889989093037,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+88,2,9:26,1766,1766,Oshlynn Brown Defensive Rebound.,18,19,-1,11,0.470275280471876,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+89,2,9:15,1755,1755,Thelma Dis Agustsdottir made Jumper.,20,19,1,16,0.5298752153615465,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Ball State
+90,2,8:59,1739,1739,Jada Love made Three Point Jumper. Assisted by Sylvia Hudson.,20,22,-2,14,0.44002428916341035,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Urbana
+91,2,8:45,1725,1725,Sydney Freeman missed Three Point Jumper.,20,22,-2,4,0.4396362046104376,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+92,2,8:41,1721,1721,Sylvia Hudson Defensive Rebound.,20,22,-2,4,0.4395244079108935,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+93,2,8:37,1717,1717,Weston Minnich missed Three Point Jumper.,20,22,-2,3,0.4394121864957256,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+94,2,8:34,1714,1714,Shalaya Heath Offensive Rebound.,20,22,-2,0,0.4393277358530611,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+95,2,8:34,1714,1714,Foul on Arbrie Benson.,20,22,-2,19,0.4393277358530611,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+96,2,8:15,1695,1695,Weston Minnich missed Jumper.,20,22,-2,0,0.4387869416284818,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+97,2,8:15,1695,1695,Annie Rauch Block.,20,22,-2,6,0.4387869416284818,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+98,2,8:09,1689,1689,Thelma Dis Agustsdottir Defensive Rebound.,20,22,-2,1,0.43861396578043454,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+99,2,8:08,1688,1688,Oshlynn Brown made Layup. Assisted by Thelma Dis Agustsdottir.,22,22,0,26,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Ball State
+100,2,7:42,1662,1662,Shalaya Heath Turnover.,22,22,0,0,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+101,2,7:42,1662,1662,Oshlynn Brown Steal.,22,22,0,6,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+102,2,7:36,1656,1656,Sydney Freeman missed Jumper.,22,22,0,0,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+103,2,7:36,1656,1656,Annie Rauch Offensive Rebound.,22,22,0,0,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+104,2,7:36,1656,1656,Foul on Jada Love.,22,22,0,0,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+105,2,7:36,1656,1656,Annie Rauch made Free Throw.,23,22,1,0,0.5312798120360661,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Ball State
+106,2,7:36,1656,1656,Annie Rauch missed Free Throw.,23,22,1,3,0.5312798120360661,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+107,2,7:33,1653,1653,Tyra James Defensive Rebound.,23,22,1,16,0.5313216272177975,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+108,2,7:17,1637,1637,Kami McEldowney made Three Point Jumper. Assisted by Weston Minnich.,23,25,-2,11,0.43716460571604776,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Urbana
+109,2,7:06,1626,1626,Jasmin Samz missed Three Point Jumper.,23,25,-2,2,0.4368670883143523,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+110,2,7:04,1624,1624,Oshlynn Brown Offensive Rebound.,23,25,-2,0,0.4368131817363692,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+111,2,7:04,1624,1624,Foul on Sylvia Hudson.,23,25,-2,12,0.4368131817363692,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+112,2,6:52,1612,1612,Oshlynn Brown made Jumper. Assisted by Sydney Freeman.,25,25,0,27,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Ball State
+113,2,6:25,1585,1585,Tyra James made Jumper.,25,27,-2,17,0.4357660130236273,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Urbana
+114,2,6:08,1568,1568,Jasmin Samz missed Three Point Jumper.,25,27,-2,2,0.4353069521061968,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+115,2,6:06,1566,1566,Weston Minnich Defensive Rebound.,25,27,-2,20,0.4352526420380632,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+116,2,5:46,1546,1546,Jada Love Turnover.,25,27,-2,0,0.43470448637739734,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+117,2,5:46,1546,1546,Oshlynn Brown Steal.,25,27,-2,2,0.43470448637739734,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+118,2,5:44,1544,1544,Foul on Sylvia Hudson.,25,27,-2,0,0.4346490701294855,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+119,2,5:44,1544,1544,Annie Rauch made Free Throw.,26,27,-1,0,0.4671837816850666,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Ball State
+120,2,5:44,1544,1544,Annie Rauch made Free Throw.,27,27,0,16,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Ball State
+121,2,5:28,1528,1528,Bailey Draughn missed Jumper.,27,27,0,4,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+122,2,5:24,1524,1524,Kasey Knippen Offensive Rebound.,27,27,0,1,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+123,2,5:23,1523,1523,Kasey Knippen made Layup.,27,29,-2,7,0.43405873496742087,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Urbana
+124,2,5:16,1516,1516,Foul on Shalaya Heath.,27,29,-2,0,0.4338579924964784,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+125,2,5:16,1516,1516,Jasmin Samz missed Free Throw.,27,29,-2,0,0.4338579924964784,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+126,2,5:16,1516,1516,Ball State Offensive Rebound.,27,29,-2,0,0.4338579924964784,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+127,2,5:16,1516,1516,Jasmin Samz made Free Throw.,28,29,-1,17,0.4667830384933974,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Ball State
+128,2,4:59,1499,1499,Official TV Timeout,28,29,-1,10,0.4665309905524671,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+129,2,4:49,1489,1489,Shalaya Heath Turnover.,28,29,-1,21,0.46637896394261247,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+130,2,4:28,1468,1468,Oshlynn Brown Turnover.,28,29,-1,14,0.46604920744533973,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+131,2,4:14,1454,1454,Kami McEldowney made Three Point Jumper. Assisted by Kasey Knippen.,28,32,-4,9,0.36639194912288114,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Urbana
+132,2,4:05,1445,1445,Jasmin Samz Turnover.,28,32,-4,13,0.365831520569353,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+133,2,3:52,1432,1432,Tyra James missed Jumper.,28,32,-4,4,0.3650384060328681,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+134,2,3:48,1428,1428,Oshlynn Brown Defensive Rebound.,28,32,-4,6,0.3647985593416411,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+135,2,3:42,1422,1422,Oshlynn Brown made Jumper.,30,32,-2,20,0.43092753485057267,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Ball State
+136,2,3:22,1402,1402,Kami McEldowney Turnover.,30,32,-2,0,0.43031062939964254,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+137,2,3:22,1402,1402,Annie Rauch Steal.,30,32,-2,23,0.43031062939964254,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+138,2,2:59,1379,1379,Sydney Freeman Turnover.,30,32,-2,0,0.42961632111751674,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+139,2,2:59,1379,1379,Tyra James Steal.,30,32,-2,10,0.42961632111751674,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+140,2,2:49,1369,1369,Tyra James Turnover.,30,32,-2,13,0.4293166827096968,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+141,2,2:36,1356,1356,Foul on Kasey Knippen.,30,32,-2,0,0.42892696668356584,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+142,2,2:36,1356,1356,Anna Clephane made Free Throw.,31,32,-1,0,0.4642821382732112,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Ball State
+143,2,2:36,1356,1356,Anna Clephane made Free Throw.,32,32,0,21,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Ball State
+144,2,2:15,1335,1335,Kasey Knippen Turnover.,32,32,0,0,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+145,2,2:15,1335,1335,Oshlynn Brown Steal.,32,32,0,5,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+146,2,2:10,1330,1330,Estel Puiggros Turnover.,32,32,0,13,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+147,2,1:57,1317,1317,Sa'Dera Johnson Turnover.,32,32,0,16,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+148,2,1:41,1301,1301,Estel Puiggros missed Jumper.,32,32,0,3,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+149,2,1:38,1298,1298,Tyra James Defensive Rebound.,32,32,0,5,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+150,2,1:33,1293,1293,Tyra James missed Jumper.,32,32,0,5,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+151,2,1:28,1288,1288,Estel Puiggros Defensive Rebound.,32,32,0,9,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+152,2,1:19,1279,1279,Jasmin Samz missed Jumper.,32,32,0,6,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+153,2,1:13,1273,1273,Blake Smith Offensive Rebound.,32,32,0,9,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+154,2,1:04,1264,1264,Estel Puiggros missed Jumper.,32,32,0,5,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+155,2,0:59,1259,1259,Kasey Knippen Defensive Rebound.,32,32,0,5,0.5,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+156,2,0:54,1254,1254,Tyra James made Layup.,32,34,-2,12,0.4256268303025821,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,Urbana
+157,2,0:42,1242,1242,Oshlynn Brown missed Layup.,32,34,-2,0,0.425182538843073,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+158,2,0:42,1242,1242,Tyra James Defensive Rebound.,32,34,-2,0,0.425182538843073,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+159,2,0:42,1242,1242,Tyra James Block.,32,34,-2,27,0.425182538843073,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+160,2,0:15,1215,1215,Tyra James missed Three Point Jumper.,32,34,-2,4,0.42411610077508405,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+161,2,0:11,1211,1211,Estel Puiggros Defensive Rebound.,32,34,-2,10,0.42394940027011435,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+162,2,0:01,1201,1201,Estel Puiggros missed Layup.,32,34,-2,1,0.4235319432624558,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+163,2,0:00,1200,1200,Shalaya Heath Defensive Rebound.,32,34,-2,0,0.4234906714856242,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+164,2,0:00,1200,1200,End of 2nd Quarter,32,34,-2,14,0.4234906714856242,Ball State,Urbana,4,4,0,0,NA,401178982,2019-12-30,
+165,3,9:46,1186,1186,Sylvia Hudson Turnover.,32,34,-2,14,0.42292097991455413,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+166,3,9:32,1172,1172,Thelma Dis Agustsdottir missed Three Point Jumper.,32,34,-2,4,0.4223638977476902,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+167,3,9:28,1168,1168,Urbana Defensive Rebound.,32,34,-2,21,0.4222065339985064,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+168,3,9:07,1147,1147,Sylvia Hudson missed Layup.,32,34,-2,3,0.4213889615712744,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+169,3,9:04,1144,1144,Sylvia Hudson Offensive Rebound.,32,34,-2,0,0.42127289501209686,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+170,3,9:04,1144,1144,Foul on Blake Smith.,32,34,-2,3,0.42127289501209686,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+171,3,9:01,1141,1141,Foul on Blake Smith.,32,34,-2,6,0.42115690286835933,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+172,3,8:55,1135,1135,Foul on Sydney Freeman.,32,34,-2,12,0.42092499799856975,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+173,3,8:43,1123,1123,Kami McEldowney missed Three Point Jumper.,32,34,-2,4,0.42046049973461064,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+174,3,8:39,1119,1119,Oshlynn Brown Defensive Rebound.,32,34,-2,5,0.4203051508414351,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+175,3,8:34,1114,1114,Thelma Dis Agustsdottir made Three Point Jumper. Assisted by Jasmin Samz.,35,34,1,21,0.5402030525843314,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,Ball State
+176,3,8:13,1093,1093,Tyra James missed Jumper.,35,34,1,3,0.5406255201930539,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+177,3,8:10,1090,1090,Thelma Dis Agustsdottir Defensive Rebound.,35,34,1,2,0.5406868330463129,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+178,3,8:08,1088,1088,Foul on Bailey Draughn.,35,34,1,0,0.540727871032247,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+179,3,8:08,1088,1088,Jasmin Samz made Free Throw.,36,34,2,0,0.5809188424766013,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,Ball State
+180,3,8:08,1088,1088,Jasmin Samz missed Free Throw.,36,34,2,2,0.5809188424766013,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+181,3,8:06,1086,1086,Tyra James Defensive Rebound.,36,34,2,5,0.5809995686698094,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+182,3,8:01,1081,1081,Tyra James missed Jumper.,36,34,2,3,0.5812026105936554,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+183,3,7:58,1078,1078,Oshlynn Brown Defensive Rebound.,36,34,2,6,0.5813253296709574,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+184,3,7:52,1072,1072,Jasmin Samz made Layup. Assisted by Sydney Freeman.,38,34,4,16,0.6589160885367052,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,Ball State
+185,3,7:36,1056,1056,Sylvia Hudson made Jumper.,38,36,2,7,0.5822493909492018,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,Urbana
+186,3,7:29,1049,1049,Sydney Freeman made Three Point Jumper.,41,36,5,28,0.6970235428637034,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,Ball State
+187,3,7:01,1021,1021,Tyra James made Jumper.,41,38,3,10,0.6242892866549284,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,Urbana
+188,3,6:51,1011,1011,Annie Rauch made Layup. Assisted by Sydney Freeman.,43,38,5,26,0.7008425744966995,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,Ball State
+189,3,6:25,985,985,Foul on Tyra James.,43,38,5,0,0.7037323563387516,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+190,3,6:25,985,985,Tyra James Turnover.,43,38,5,14,0.7037323563387516,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+191,3,6:11,971,971,Jasmin Samz made Jumper.,45,38,7,11,0.7724871428087147,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,Ball State
+192,3,6:00,960,960,Foul on Oshlynn Brown.,45,38,7,15,0.774039089085516,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+193,3,5:45,945,945,Tyra James missed Jumper.,45,38,7,5,0.7759986362801451,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+194,3,5:40,940,940,Lexie Wright Offensive Rebound.,45,38,7,6,0.7766168989423341,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+195,3,5:34,934,934,Kami McEldowney missed Jumper.,45,38,7,4,0.7773387706934464,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+196,3,5:30,930,930,Oshlynn Brown Defensive Rebound.,45,38,7,9,0.7778089073335248,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+197,3,5:21,921,921,Thelma Dis Agustsdottir made Three Point Jumper. Assisted by Sydney Freeman.,48,38,10,14,0.857958877874686,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,Ball State
+198,3,5:07,907,907,Foul on Oshlynn Brown.,48,38,10,0,0.859508630429155,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+199,3,5:07,907,907,Tyra James made Free Throw.,48,39,9,0,0.8361824229762781,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,Urbana
+200,3,5:07,907,907,Tyra James made Free Throw.,48,40,8,12,0.8098401494222577,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,Urbana
+201,3,4:55,895,895,Jasmin Samz missed Three Point Jumper.,48,40,8,4,0.811146538453079,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+202,3,4:51,891,891,Tyra James Defensive Rebound.,48,40,8,6,0.8115756255105671,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+203,3,4:45,885,885,Tyra James missed Jumper.,48,40,8,0,0.8122154800548297,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+204,3,4:45,885,885,Sydney Freeman Block.,48,40,8,1,0.8122154800548297,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+205,3,4:44,884,884,Urbana Offensive Rebound.,48,40,8,1,0.8123218090790162,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+206,3,4:43,883,883,Official TV Timeout,48,40,8,6,0.8124280748417015,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+207,3,4:37,877,877,Kasey Knippen missed Three Point Jumper.,48,40,8,4,0.8130648894889312,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+208,3,4:33,873,873,Lexie Wright Offensive Rebound.,48,40,8,3,0.813489404401859,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+209,3,4:30,870,870,Lexie Wright Turnover.,48,40,8,12,0.8138082164482886,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+210,3,4:18,858,858,Annie Rauch missed Jumper.,48,40,8,2,0.8150925738552587,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+211,3,4:16,856,856,Urbana Defensive Rebound.,48,40,8,13,0.8153088029239831,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+212,3,4:03,843,843,Kasey Knippen missed Three Point Jumper.,48,40,8,3,0.8167376061976133,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+213,3,4:00,840,840,Tyra James Offensive Rebound.,48,40,8,2,0.8170743953863159,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+214,3,3:58,838,838,Tyra James made Layup.,48,42,6,9,0.7546602976189082,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,Urbana
+215,3,3:49,829,829,Annie Rauch missed Layup.,48,42,6,2,0.7556260449291836,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+216,3,3:47,827,827,Ball State Offensive Rebound.,48,42,6,3,0.7558452902162457,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+217,3,3:44,824,824,Aliyah Walker made Layup. Assisted by Estel Puiggros.,50,42,8,22,0.8189300144459083,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,Ball State
+218,3,3:22,802,802,Tyra James Turnover.,50,42,8,15,0.821694864446192,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+219,3,3:07,787,787,Thelma Dis Agustsdottir made Three Point Jumper. Assisted by Estel Puiggros.,53,42,11,31,0.8928627212575388,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,Ball State
+220,3,2:36,756,756,Sa'Dera Johnson missed Three Point Jumper.,53,42,11,4,0.8972425105734307,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+221,3,2:32,752,752,Annie Rauch Defensive Rebound.,53,42,11,5,0.8978625030952535,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+222,3,2:27,747,747,Jasmin Samz made Layup. Assisted by Estel Puiggros.,55,42,13,19,0.9295097062839416,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,Ball State
+223,3,2:08,728,728,Lexie Wright missed Three Point Jumper.,55,42,13,2,0.9322301509654941,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+224,3,2:06,726,726,Ball State Defensive Rebound.,55,42,13,15,0.9325187848835468,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+225,3,1:51,711,711,Oshlynn Brown made Jumper.,57,42,15,0,0.9555217855095305,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,Ball State
+226,3,1:51,711,711,Foul on Sylvia Hudson.,57,42,15,0,0.9555217855095305,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+227,3,1:51,711,711,Oshlynn Brown made Free Throw.,58,42,16,5,0.9634465671919454,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,Ball State
+228,3,1:46,706,706,Alivia Koenig Turnover.,58,42,16,0,0.9638791968178398,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+229,3,1:46,706,706,Estel Puiggros Steal.,58,42,16,8,0.9638791968178398,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+230,3,1:38,698,698,Thelma Dis Agustsdottir made Layup. Assisted by Estel Puiggros.,60,42,18,15,0.9762472161912209,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,Ball State
+231,3,1:23,683,683,Bailey Draughn Turnover.,60,42,18,0,0.9771129793348696,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+232,3,1:23,683,683,Anna Clephane Steal.,60,42,18,6,0.9771129793348696,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+233,3,1:17,677,677,Oshlynn Brown missed Layup.,60,42,18,2,0.9774388302099443,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+234,3,1:15,675,675,Ball State Offensive Rebound.,60,42,18,4,0.9775454841099128,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+235,3,1:11,671,671,Thelma Dis Agustsdottir missed Three Point Jumper.,60,42,18,4,0.9777563144309632,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+236,3,1:07,667,667,Alivia Koenig Defensive Rebound.,60,42,18,28,0.9779643424094294,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+237,3,0:39,639,639,Kasey Knippen missed Jumper.,60,42,18,3,0.9793885072811219,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+238,3,0:36,636,636,Annie Rauch Defensive Rebound.,60,42,18,25,0.9795420502524576,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+239,3,0:11,611,611,Thelma Dis Agustsdottir missed Three Point Jumper.,60,42,18,4,0.9808727297122126,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+240,3,0:07,607,607,Alivia Koenig Defensive Rebound.,60,42,18,6,0.9810975320276049,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+241,3,0:01,601,601,Sylvia Hudson missed Jumper.,60,42,18,0,0.9814425308530513,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+242,3,0:01,601,601,Annie Rauch Block.,60,42,18,1,0.9814425308530513,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+243,3,0:00,600,600,Urbana Offensive Rebound.,60,42,18,0,0.9815009897527635,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+244,3,0:00,600,600,End of 3rd Quarter,60,42,18,5,0.9815009897527635,Ball State,Urbana,5,5,0,0,NA,401178982,2019-12-30,
+245,4,9:55,595,595,Foul on Kami McEldowney.,60,42,18,0,0.9817976033053899,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+246,4,9:55,595,595,Sydney Freeman made Free Throw.,61,42,19,0,0.9853618547024842,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,Ball State
+247,4,9:55,595,595,Sydney Freeman missed Free Throw.,61,42,19,2,0.9853618547024842,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+248,4,9:53,593,593,Tyra James Defensive Rebound.,61,42,19,19,0.9854646798851728,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+249,4,9:34,574,574,Foul on Anna Clephane.,61,42,19,0,0.986493029113418,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+250,4,9:34,574,574,Bailey Draughn missed Free Throw.,61,42,19,0,0.986493029113418,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+251,4,9:34,574,574,Urbana Offensive Rebound.,61,42,19,0,0.986493029113418,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+252,4,9:34,574,574,Bailey Draughn made Free Throw.,61,43,18,10,0.9831284473719253,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,Urbana
+253,4,9:24,564,564,Oshlynn Brown Turnover.,61,43,18,0,0.9838135059492096,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+254,4,9:24,564,564,Tyra James Steal.,61,43,18,1,0.9838135059492096,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+255,4,9:23,563,563,Sylvia Hudson made Layup. Assisted by Kami McEldowney.,61,45,16,10,0.974786353347617,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,Urbana
+256,4,9:13,553,553,Arbrie Benson made Jumper.,63,45,18,3,0.9846057836498731,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,Ball State
+257,4,9:10,550,550,Tyra James missed Jumper.,63,45,18,0,0.9848287242953034,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+258,4,9:10,550,550,Sylvia Hudson Offensive Rebound.,63,45,18,10,0.9848287242953034,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+259,4,9:00,540,540,Sylvia Hudson missed Layup.,63,45,18,0,0.9855169603281128,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+260,4,9:00,540,540,Tyra James Offensive Rebound.,63,45,18,10,0.9855169603281128,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+261,4,8:50,530,530,Tyra James Turnover.,63,45,18,0,0.9861070702004293,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+262,4,8:50,530,530,Sydney Freeman Steal.,63,45,18,5,0.9861070702004293,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+263,4,8:45,525,525,Annie Rauch made Layup. Assisted by Sydney Freeman.,65,45,20,10,0.9914891157303761,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,Ball State
+264,4,8:35,515,515,Tyra James missed Jumper.,65,45,20,2,0.9918331458172341,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+265,4,8:33,513,513,Arbrie Benson Defensive Rebound.,65,45,20,17,0.9918983714294431,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+266,4,8:16,496,496,Arbrie Benson Turnover.,65,45,20,0,0.9924266951134942,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+267,4,8:16,496,496,Bailey Draughn Steal.,65,45,20,11,0.9924266951134942,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+268,4,8:05,485,485,Foul on Sydney Freeman.,65,45,20,0,0.9927623828079406,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+269,4,8:05,485,485,Bailey Draughn missed Free Throw.,65,45,20,0,0.9927623828079406,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+270,4,8:05,485,485,Urbana Offensive Rebound.,65,45,20,0,0.9927623828079406,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+271,4,8:05,485,485,Bailey Draughn missed Free Throw.,65,45,20,0,0.9927623828079406,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+272,4,8:05,485,485,Oshlynn Brown Defensive Rebound.,65,45,20,8,0.9927623828079406,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+273,4,7:57,477,477,Arbrie Benson missed Three Point Jumper.,65,45,20,3,0.9930129356113039,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+274,4,7:54,474,474,Annie Rauch Offensive Rebound.,65,45,20,5,0.9931093194997813,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+275,4,7:49,469,469,Foul on Sylvia Hudson.,65,45,20,0,0.9932736697971306,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+276,4,7:49,469,469,Annie Rauch made Free Throw.,66,45,21,0,0.9947524120723222,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,Ball State
+277,4,7:49,469,469,Annie Rauch missed Free Throw.,66,45,21,2,0.9947524120723222,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+278,4,7:47,467,467,Anna Clephane Offensive Rebound.,66,45,21,17,0.9948075151742611,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+279,4,7:30,450,450,Anna Gamarra Turnover.,66,45,21,23,0.9953069195153865,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+280,4,7:07,427,427,Shalaya Heath Turnover.,66,45,21,13,0.9960760255428504,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+281,4,6:54,414,414,Annie Rauch missed Layup.,66,45,21,0,0.9964734873180044,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+282,4,6:54,414,414,Annie Rauch Offensive Rebound.,66,45,21,1,0.9964734873180044,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+283,4,6:53,413,413,Annie Rauch missed Layup.,66,45,21,0,0.9965012413559726,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+284,4,6:53,413,413,Annie Rauch Offensive Rebound.,66,45,21,2,0.9965012413559726,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+285,4,6:51,411,411,Annie Rauch made Layup.,68,45,23,3,0.9979895210343377,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,Ball State
+286,4,6:48,408,408,Foul on Shalaya Heath.,68,45,23,1,0.9980403174329158,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+287,4,6:47,407,407,Annie Rauch missed Free Throw.,68,45,23,1,0.9980568550721508,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+288,4,6:46,406,406,Thelma Dis Agustsdottir Offensive Rebound.,68,45,23,0,0.9980732071893689,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+289,4,6:46,406,406,Foul on Shalaya Heath.,68,45,23,21,0.9980732071893689,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+290,4,6:25,385,385,Anna Gamarra missed Layup.,68,45,23,1,0.998384243491859,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+291,4,6:24,384,384,Thelma Dis Agustsdottir Offensive Rebound.,68,45,23,2,0.9983979371653126,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+292,4,6:22,382,382,Abi Haynes missed Three Point Jumper.,68,45,23,1,0.9984251196529385,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+293,4,6:21,381,381,Lexie Wright Defensive Rebound.,68,45,23,0,0.9984386152297829,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+294,4,6:21,381,381,Foul on Annie Rauch.,68,45,23,17,0.9984386152297829,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+295,4,6:04,364,364,Kasey Knippen missed Three Point Jumper.,68,45,23,6,0.998661131327286,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+296,4,5:58,358,358,Anna Clephane Defensive Rebound.,68,45,23,3,0.9987377121034432,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+297,4,5:55,355,355,Thelma Dis Agustsdottir made Three Point Jumper. Assisted by Anna Clephane.,71,45,26,35,0.9994890342937233,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,Ball State
+298,4,5:20,320,320,Kami McEldowney missed Three Point Jumper.,71,45,26,2,0.9996886460668705,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+299,4,5:18,318,318,Ball State Defensive Rebound.,71,45,26,16,0.9996992562299972,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+300,4,5:02,302,302,Thelma Dis Agustsdottir made Layup. Assisted by Abi Haynes.,73,45,28,14,0.9998790675791526,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,Ball State
+301,4,4:48,288,288,Jada Love missed Three Point Jumper.,73,45,28,3,0.9998879055595647,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+302,4,4:45,285,285,Abi Haynes Defensive Rebound.,73,45,28,5,0.9998875611600837,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+303,4,4:40,280,280,Abi Haynes Turnover.,73,45,28,0,0.9998856901317295,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+304,4,4:40,280,280,Tyra James Steal.,73,45,28,15,0.9998856901317295,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+305,4,4:25,265,265,Sylvia Hudson missed Jumper.,73,45,28,3,0.9998729867029327,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+306,4,4:22,262,262,Tyra James Offensive Rebound.,73,45,28,1,0.9998696656797175,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+307,4,4:21,261,261,Tyra James made Layup.,73,47,26,17,0.9997511261307143,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,Urbana
+308,4,4:04,244,244,Annie Rauch made Jumper. Assisted by Thelma Dis Agustsdottir.,75,47,28,18,0.9998516138390526,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,Ball State
+309,4,3:46,226,226,Kami McEldowney missed Three Point Jumper.,75,47,28,4,0.9998547939927644,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+310,4,3:42,222,222,Anna Gamarra Defensive Rebound.,75,47,28,6,0.9998605506332091,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+311,4,3:36,216,216,Anna Gamarra missed Three Point Jumper.,75,47,28,4,0.9998728296673414,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+312,4,3:32,212,212,Sylvia Hudson Defensive Rebound.,75,47,28,6,0.9998831745773942,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+313,4,3:26,206,206,Foul on Abi Haynes.,75,47,28,0,0.9999010909504059,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+314,4,3:26,206,206,Official TV Timeout,75,47,28,0,0.9999010909504059,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+315,4,3:26,206,206,Tyra James missed Free Throw.,75,47,28,0,0.9999010909504059,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+316,4,3:26,206,206,Urbana Offensive Rebound.,75,47,28,0,0.9999010909504059,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+317,4,3:26,206,206,Tyra James missed Free Throw.,75,47,28,0,0.9999010909504059,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+318,4,3:26,206,206,Annie Rauch Defensive Rebound.,75,47,28,3,0.9999010909504059,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+319,4,3:23,203,203,Estel Puiggros made Jumper.,77,47,30,24,0.9999541266988482,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,Ball State
+320,4,2:59,179,179,Tyra James made Jumper.,77,49,28,16,0.9999745931372012,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,Urbana
+321,4,2:43,163,163,Estel Puiggros made Jumper.,79,49,30,25,0.9999958362751395,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,Ball State
+322,4,2:18,138,138,Chloe Smith missed Jumper.,79,49,30,2,0.9999993697709905,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+323,4,2:16,136,136,Arbrie Benson Defensive Rebound.,79,49,30,2,0.9999994681186186,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+324,4,2:14,134,134,Estel Puiggros missed Three Point Jumper.,79,49,30,3,0.9999995526153875,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+325,4,2:11,131,131,Alyssa Garberich Defensive Rebound.,79,49,30,3,0.9999996571160299,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+326,4,2:08,128,128,Lexie Wright missed Three Point Jumper.,79,49,30,5,0.9999997393505698,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+327,4,2:03,123,123,Arbrie Benson Defensive Rebound.,79,49,30,8,0.9999998381209323,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+328,4,1:55,115,115,Blake Smith made Layup. Assisted by Abi Haynes.,81,49,32,22,0.9999999761086072,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,Ball State
+329,4,1:33,93,93,Kristen Dickison missed Layup.,81,49,32,0,0.9999999985786855,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+330,4,1:33,93,93,Aliyah Walker Block.,81,49,32,0,0.9999999985786855,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+331,4,1:33,93,93,Urbana Offensive Rebound.,81,49,32,3,0.9999999985786855,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+332,4,1:30,90,90,Kristen Dickison Turnover.,81,49,32,13,0.9999999990727306,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+333,4,1:17,77,77,Foul on Alyssa Garberich.,81,49,32,0,0.9999999998639894,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+334,4,1:17,77,77,Abi Haynes missed Free Throw.,81,49,32,0,0.9999999998639894,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+335,4,1:17,77,77,Ball State Offensive Rebound.,81,49,32,0,0.9999999998639894,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+336,4,1:17,77,77,Abi Haynes made Free Throw.,82,49,33,7,0.9999999999331276,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,Ball State
+337,4,1:10,70,70,Shalaya Heath missed Jumper.,82,49,33,4,0.9999999999787165,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+338,4,1:06,66,66,Estel Puiggros Defensive Rebound.,82,49,33,3,0.9999999999891972,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+339,4,1:03,63,63,Abi Haynes missed Layup.,82,49,33,5,0.9999999999935575,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+340,4,0:58,58,58,Kristen Dickison Defensive Rebound.,82,49,33,5,0.9999999999973246,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+341,4,0:53,53,53,Foul on Blake Smith.,82,49,33,0,0.999999999998915,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+342,4,0:53,53,53,Kristen Dickison missed Free Throw.,82,49,33,0,0.999999999998915,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+343,4,0:53,53,53,Urbana Offensive Rebound.,82,49,33,0,0.999999999998915,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+344,4,0:53,53,53,Kristen Dickison missed Free Throw.,82,49,33,1,0.999999999998915,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+345,4,0:52,52,52,Blake Smith Defensive Rebound.,82,49,33,7,0.999999999999097,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+346,4,0:45,45,45,Foul on Shalaya Heath.,82,49,33,0,0.9999999999997577,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+347,4,0:45,45,45,Blake Smith made Free Throw.,83,49,34,0,0.9999999999998995,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,Ball State
+348,4,0:45,45,45,Blake Smith made Free Throw.,84,49,35,28,0.9999999999999584,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,Ball State
+349,4,0:17,17,17,Alyssa Garberich missed Three Point Jumper.,84,49,35,0,1,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+350,4,0:17,17,17,Abi Haynes Block.,84,49,35,4,1,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+351,4,0:13,13,13,Anna Gamarra Defensive Rebound.,84,49,35,13,1,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+352,4,0:00,0,0,End of 4th Quarter,84,49,35,0,1,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,
+353,4,0:00,0,0,End of Game,84,49,35,0,1,Ball State,Urbana,6,6,0,0,NA,401178982,2019-12-30,

@@ -1,0 +1,320 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:44,2384,2384,Marnelle Garraud made Jumper.,0,0,0,13,0.5,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,NA
+2,1,9:31,2371,2371,Lisa Jablonowski made Layup. Assisted by Amandine Toi.,2,2,0,4,0.5,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Boston College
+3,1,9:27,2367,2367,Makayla Dickens made Three Point Jumper. Assisted by Marnelle Garraud.,5,2,3,17,0.5668642200525459,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Boston College
+4,1,9:10,2350,2350,Jocelyn Willoughby made Three Point Jumper. Assisted by Dominique Toussaint.,5,5,0,34,0.5,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Virginia
+5,1,8:36,2316,2316,Marnelle Garraud made Three Point Jumper.,8,5,3,20,0.5685099825895173,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Boston College
+6,1,8:16,2296,2296,Lisa Jablonowski missed Jumper.,8,5,3,2,0.5691673982971774,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+7,1,8:14,2294,2294,Makayla Dickens Defensive Rebound.,8,5,3,11,0.5692334700943872,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+8,1,8:03,2283,2283,Emma Guy made Layup. Assisted by Marnelle Garraud.,10,5,5,12,0.6146776706268336,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Boston College
+9,1,7:51,2271,2271,Amandine Toi Turnover.,10,5,5,0,0.6153206465083175,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+10,1,7:51,2271,2271,Makayla Dickens Steal.,10,5,5,6,0.6153206465083175,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+11,1,7:45,2265,2265,Makayla Dickens missed Layup.,10,5,5,3,0.6156431446759522,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+12,1,7:42,2262,2262,Jocelyn Willoughby Defensive Rebound.,10,5,5,10,0.6158046341003603,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+13,1,7:32,2252,2252,Amandine Toi Turnover.,10,5,5,0,0.6163440362323678,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+14,1,7:32,2252,2252,Emma Guy Steal.,10,5,5,6,0.6163440362323678,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+15,1,7:26,2246,2246,Emma Guy made Layup. Assisted by Makayla Dickens.,12,5,7,8,0.6605180693441508,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Boston College
+16,1,7:18,2238,2238,Virginia  Timeout,12,5,7,0,0.6610935226942992,Boston College,Virginia,3,4,1,0,NA,401171233,2020-01-12,
+17,1,7:18,2238,2238,Official TV Timeout,12,5,7,23,0.6610935226942992,Boston College,Virginia,3,4,1,0,NA,401171233,2020-01-12,
+18,1,6:55,2215,2215,Dominique Toussaint made Three Point Jumper. Assisted by Jocelyn Willoughby.,12,8,4,14,0.5953314058987561,Boston College,Virginia,3,4,1,0,NA,401171233,2020-01-12,Virginia
+19,1,6:41,2201,2201,Taylor Soule missed Layup.,12,8,4,5,0.5959557671447281,Boston College,Virginia,3,4,1,0,NA,401171233,2020-01-12,
+20,1,6:36,2196,2196,Jocelyn Willoughby Defensive Rebound.,12,8,4,16,0.5961791766315144,Boston College,Virginia,3,4,1,0,NA,401171233,2020-01-12,
+21,1,6:20,2180,2180,Jocelyn Willoughby missed Layup.,12,8,4,3,0.5968953817854274,Boston College,Virginia,3,4,1,0,NA,401171233,2020-01-12,
+22,1,6:17,2177,2177,Marnelle Garraud Defensive Rebound.,12,8,4,5,0.5970298663841688,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+23,1,6:12,2172,2172,Taylor Ortlepp missed Three Point Jumper.,12,8,4,3,0.5972541285291267,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+24,1,6:09,2169,2169,Dominique Toussaint Defensive Rebound.,12,8,4,9,0.5973887576949446,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+25,1,6:00,2160,2160,Dominique Toussaint missed Three Point Jumper.,12,8,4,2,0.5977933026269484,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+26,1,5:58,2158,2158,Emma Guy Defensive Rebound.,12,8,4,7,0.5978833475821144,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+27,1,5:51,2151,2151,Makayla Dickens missed Three Point Jumper.,12,8,4,3,0.5981989352663497,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+28,1,5:48,2148,2148,Jocelyn Willoughby Defensive Rebound.,12,8,4,2,0.5983343958667185,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+29,1,5:46,2146,2146,Foul on Jocelyn Willoughby.,12,8,4,0,0.5984247737818268,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+30,1,5:46,2146,2146,Jocelyn Willoughby Turnover.,12,8,4,15,0.5984247737818268,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+31,1,5:31,2131,2131,Emma Guy missed Jumper.,12,8,4,2,0.5991044686659226,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+32,1,5:29,2129,2129,Kylie Kornegay-Lucas Defensive Rebound.,12,8,4,14,0.599195349539166,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+33,1,5:15,2115,2115,Dominique Toussaint made Jumper.,12,10,2,18,0.5504243083587975,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,Virginia
+34,1,4:57,2097,2097,Emma Guy Turnover.,12,10,2,22,0.5508496210603158,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+35,1,4:35,2075,2075,Kylie Kornegay-Lucas missed Three Point Jumper.,12,10,2,3,0.5513737192187661,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+36,1,4:32,2072,2072,Taylor Soule Defensive Rebound.,12,10,2,16,0.5514455692172431,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+37,1,4:16,2056,2056,Makayla Dickens missed Layup.,12,10,2,3,0.551830387437749,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+38,1,4:13,2053,2053,Jocelyn Willoughby Defensive Rebound.,12,10,2,5,0.5519028512683306,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+39,1,4:08,2048,2048,Shemera Williams made Layup. Assisted by Dominique Toussaint.,12,12,0,16,0.5,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,Virginia
+40,1,3:52,2032,2032,Georgia Pineau missed Layup.,12,12,0,0,0.5,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+41,1,3:52,2032,2032,Shemera Williams Block.,12,12,0,5,0.5,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+42,1,3:47,2027,2027,Lisa Jablonowski Defensive Rebound.,12,12,0,5,0.5,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+43,1,3:42,2022,2022,Jocelyn Willoughby made Layup. Assisted by Shemera Williams.,12,14,-2,17,0.44734232206351526,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,Virginia
+44,1,3:25,2005,2005,Marnelle Garraud missed Three Point Jumper.,12,14,-2,3,0.44692348176974955,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+45,1,3:22,2002,2002,Dominique Toussaint Defensive Rebound.,12,14,-2,0,0.44684919122501826,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+46,1,3:22,2002,2002,Foul on Makayla Dickens.,12,14,-2,22,0.44684919122501826,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+47,1,3:00,1980,1980,Shemera Williams missed Three Point Jumper.,12,14,-2,3,0.4463008045834694,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+48,1,2:57,1977,1977,Lisa Jablonowski Offensive Rebound.,12,14,-2,1,0.44622552346837313,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+49,1,2:56,1976,1976,Lisa Jablonowski missed Layup.,12,14,-2,3,0.44620040245950554,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+50,1,2:53,1973,1973,Georgia Pineau Defensive Rebound.,12,14,-2,11,0.4461249570551584,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+51,1,2:42,1962,1962,Taylor Soule missed Jumper.,12,14,-2,3,0.44584725390703656,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+52,1,2:39,1959,1959,Kylie Kornegay-Lucas Defensive Rebound.,12,14,-2,20,0.4457712209062565,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+53,1,2:19,1939,1939,Foul on Milan Bolden-Morris.,12,14,-2,0,0.4452610080501231,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+54,1,2:19,1939,1939,Shemera Williams made Free Throw.,12,15,-3,0,0.4183000882511438,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,Virginia
+55,1,2:19,1939,1939,Shemera Williams made Free Throw.,12,16,-4,11,0.39181861638818544,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,Virginia
+56,1,2:08,1928,1928,Foul on Tihana Stojsavljevic.,12,16,-4,6,0.39127246513376573,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+57,1,2:02,1922,1922,Emma Guy Turnover.,12,16,-4,0,0.39097428559336717,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+58,1,2:02,1922,1922,Jocelyn Willoughby Steal.,12,16,-4,21,0.39097428559336717,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+59,1,1:41,1901,1901,Shemera Williams missed Layup.,12,16,-4,3,0.3899330333875773,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+60,1,1:38,1898,1898,Taylor Soule Defensive Rebound.,12,16,-4,4,0.38978447809260647,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+61,1,1:34,1894,1894,Makayla Dickens missed Three Point Jumper.,12,16,-4,3,0.389586441532188,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+62,1,1:31,1891,1891,Amandine Toi Defensive Rebound.,12,16,-4,4,0.3894379316418235,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+63,1,1:27,1887,1887,Foul on Emma Guy.,12,16,-4,0,0.38923992666547336,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+64,1,1:27,1887,1887,Amandine Toi missed Free Throw.,12,16,-4,0,0.38923992666547336,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+65,1,1:27,1887,1887,Virginia Offensive Rebound.,12,16,-4,0,0.38923992666547336,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+66,1,1:27,1887,1887,Amandine Toi made Free Throw.,12,17,-5,7,0.3628223134181614,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,Virginia
+67,1,1:20,1880,1880,Taylor Soule missed Layup.,12,17,-5,2,0.3624011114682507,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+68,1,1:18,1878,1878,Dominique Toussaint Defensive Rebound.,12,17,-5,2,0.3622807591543462,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+69,1,1:16,1876,1876,Dominique Toussaint Turnover.,12,17,-5,11,0.3621603976452531,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+70,1,1:05,1865,1865,Taylor Soule made Layup.,14,17,-3,0,0.4154887052997811,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,Boston College
+71,1,1:05,1865,1865,Foul on Lisa Jablonowski.,14,17,-3,0,0.4154887052997811,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+72,1,1:05,1865,1865,Taylor Soule made Free Throw.,15,17,-2,13,0.4433574122310975,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,Boston College
+73,1,0:52,1852,1852,Tihana Stojsavljevic missed Jumper.,15,17,-2,3,0.44302205646961973,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+74,1,0:49,1849,1849,Taylor Soule Defensive Rebound.,15,17,-2,13,0.4429445225373313,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+75,1,0:36,1836,1836,Foul on Tihana Stojsavljevic.,15,17,-2,4,0.4426077633168664,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+76,1,0:32,1832,1832,Emma Guy made Layup.,17,17,0,30,0.5,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,Boston College
+77,1,0:02,1802,1802,Kylie Kornegay-Lucas missed Layup.,17,17,0,2,0.5,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+78,1,0:00,1800,1800,Kylie Kornegay-Lucas missed Layup.,17,17,0,0,0.5,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+79,1,0:00,1800,1800,Virginia Offensive Rebound.,17,17,0,0,0.5,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+80,1,0:00,1800,1800,Kylie Kornegay-Lucas Offensive Rebound.,17,17,0,0,0.5,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+81,1,0:00,1800,1800,End of 1st Quarter,17,17,0,10,0.5,Boston College,Virginia,3,4,0,0,NA,401171233,2020-01-12,
+82,2,9:50,1790,1790,Jocelyn Willoughby made Jumper.,17,19,-2,27,0.44140169288134457,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Virginia
+83,2,9:23,1763,1763,Emma Guy Turnover.,17,19,-2,0,0.4406789550483938,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+84,2,9:23,1763,1763,Kylie Kornegay-Lucas Steal.,17,19,-2,6,0.4406789550483938,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+85,2,9:17,1757,1757,Kylie Kornegay-Lucas made Jumper.,17,21,-4,14,0.3826931801549775,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Virginia
+86,2,9:03,1743,1743,Makayla Dickens made Three Point Jumper.,20,21,-1,25,0.4699590953240333,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Boston College
+87,2,8:38,1718,1718,Shemera Williams Turnover.,20,21,-1,0,0.4696082682417182,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+88,2,8:38,1718,1718,Emma Guy Steal.,20,21,-1,27,0.4696082682417182,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+89,2,8:11,1691,1691,Taylor Soule Turnover.,20,21,-1,25,0.4692196526147364,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+90,2,7:46,1666,1666,Jocelyn Willoughby Turnover.,20,21,-1,0,0.4688605608787106,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+91,2,7:46,1666,1666,Taylor Ortlepp Steal.,20,21,-1,7,0.4688605608787106,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+92,2,7:39,1659,1659,Foul on Dominique Toussaint.,20,21,-1,2,0.4687621343105921,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+93,2,7:37,1657,1657,Foul on Dominique Toussaint.,20,21,-1,0,0.4687341551392578,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+94,2,7:37,1657,1657,Taylor Soule missed Free Throw.,20,21,-1,0,0.4687341551392578,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+95,2,7:37,1657,1657,Boston College Offensive Rebound.,20,21,-1,0,0.4687341551392578,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+96,2,7:37,1657,1657,Taylor Soule missed Free Throw.,20,21,-1,1,0.4687341551392578,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+97,2,7:36,1656,1656,Lisa Jablonowski Defensive Rebound.,20,21,-1,8,0.4687201879639339,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+98,2,7:28,1648,1648,Jocelyn Willoughby missed Three Point Jumper.,20,21,-1,3,0.4686089521417577,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+99,2,7:25,1645,1645,Taylor Soule Defensive Rebound.,20,21,-1,7,0.4685674504664451,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+100,2,7:18,1638,1638,Emma Guy Turnover.,20,21,-1,15,0.4684710047155523,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+101,2,7:03,1623,1623,Jocelyn Willoughby Turnover.,20,21,-1,0,0.46826580314931165,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+102,2,7:03,1623,1623,Marnelle Garraud Steal.,20,21,-1,5,0.46826580314931165,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+103,2,6:58,1618,1618,Taylor Ortlepp made Layup. Assisted by Marnelle Garraud.,22,21,1,17,0.5318022761536136,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Boston College
+104,2,6:41,1601,1601,Foul on Taylor Ortlepp.,22,21,1,0,0.5320331777955251,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+105,2,6:41,1601,1601,Carole Miller missed Free Throw.,22,21,1,0,0.5320331777955251,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+106,2,6:41,1601,1601,Virginia Offensive Rebound.,22,21,1,0,0.5320331777955251,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+107,2,6:41,1601,1601,Carole Miller missed Free Throw.,22,21,1,1,0.5320331777955251,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+108,2,6:40,1600,1600,Taylor Soule Defensive Rebound.,22,21,1,8,0.5320467518552061,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+109,2,6:32,1592,1592,Foul on Kylie Kornegay-Lucas.,22,21,1,2,0.5321553964350793,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+110,2,6:30,1590,1590,Taylor Ortlepp missed Three Point Jumper.,22,21,1,3,0.5321825821190477,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+111,2,6:27,1587,1587,Virginia Defensive Rebound.,22,21,1,20,0.5322233879710383,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+112,2,6:07,1567,1567,Lisa Jablonowski missed Jumper.,22,21,1,2,0.5324967910774822,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+113,2,6:05,1565,1565,Taylor Ortlepp Defensive Rebound.,22,21,1,27,0.5325243121837794,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+114,2,5:38,1538,1538,Foul on Amandine Toi.,22,21,1,8,0.5329008191371134,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+115,2,5:30,1530,1530,Marnelle Garraud missed Three Point Jumper.,22,21,1,2,0.5330146284419034,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+116,2,5:28,1528,1528,Jocelyn Willoughby Defensive Rebound.,22,21,1,0,0.5330432754334644,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+117,2,5:28,1528,1528,Taylor Soule made Free Throw.,24,21,3,0,0.5979902433320406,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Boston College
+118,2,5:28,1528,1528,Taylor Soule made Free Throw.,23,21,2,0,0.5657991774203687,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+119,2,5:28,1528,1528,Foul on Jocelyn Willoughby.,24,21,3,24,0.5979902433320406,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Boston College
+120,2,5:04,1504,1504,Jocelyn Willoughby made Jumper.,24,23,1,8,0.53339408256951,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Virginia
+121,2,4:56,1496,1496,Official TV Timeout,24,23,1,13,0.5335143055565098,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+122,2,4:43,1483,1483,Taylor Soule missed Layup.,24,23,1,1,0.5337137347370322,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+123,2,4:42,1482,1482,Carole Miller Defensive Rebound.,24,23,1,0,0.53372929806661,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+124,2,4:42,1482,1482,Foul on Taylor Soule.,24,23,1,13,0.53372929806661,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+125,2,4:29,1469,1469,Carole Miller missed Jumper.,24,23,1,3,0.5339347398650169,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+126,2,4:26,1466,1466,Taylor Soule Defensive Rebound.,24,23,1,20,0.5339830092345219,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+127,2,4:06,1446,1446,Taylor Soule Turnover.,24,23,1,0,0.5343131521551399,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+128,2,4:06,1446,1446,Carole Miller Steal.,24,23,1,6,0.5343131521551399,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+129,2,4:00,1440,1440,Carole Miller missed Layup.,24,23,1,3,0.534412266693522,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+130,2,3:57,1437,1437,Taylor Soule Defensive Rebound.,24,23,1,9,0.5344613525169652,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+131,2,3:48,1428,1428,Foul on Taylor Soule.,24,23,1,0,0.5346068829749208,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+132,2,3:48,1428,1428,Taylor Soule Turnover.,24,23,1,21,0.5346068829749208,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+133,2,3:27,1407,1407,Shemera Williams made Layup.,24,25,-1,10,0.46506192254168816,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Virginia
+134,2,3:17,1397,1397,Foul on Dani Lawson.,24,25,-1,0,0.46490732034324306,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+135,2,3:17,1397,1397,Emma Guy made Free Throw.,25,25,0,0,0.5,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Boston College
+136,2,3:17,1397,1397,Emma Guy made Free Throw.,26,25,1,18,0.5350926796567569,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Boston College
+137,2,2:59,1379,1379,Foul on Marnelle Garraud.,26,25,1,1,0.5353679239274404,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+138,2,2:58,1378,1378,Kylie Kornegay-Lucas made Layup.,26,27,-1,21,0.4646168543525624,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Virginia
+139,2,2:37,1357,1357,Makayla Dickens missed Three Point Jumper.,26,27,-1,5,0.464297383612598,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+140,2,2:32,1352,1352,Kylie Kornegay-Lucas Defensive Rebound.,26,27,-1,11,0.46422108500678355,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+141,2,2:21,1341,1341,Shemera Williams missed Three Point Jumper.,26,27,-1,2,0.4640523799907425,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+142,2,2:19,1339,1339,Boston College Defensive Rebound.,26,27,-1,15,0.46402154290519043,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+143,2,2:04,1324,1324,Marnelle Garraud missed Three Point Jumper.,26,27,-1,0,0.4637880796176398,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+144,2,2:04,1324,1324,Kylie Kornegay-Lucas Block.,26,27,-1,4,0.4637880796176398,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+145,2,2:00,1320,1320,Georgia Pineau Offensive Rebound.,26,27,-1,1,0.46372504138159276,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+146,2,1:59,1319,1319,Georgia Pineau missed Layup.,26,27,-1,3,0.4637092222665872,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+147,2,1:56,1316,1316,Georgia Pineau Offensive Rebound.,26,27,-1,2,0.4636616141633348,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+148,2,1:54,1314,1314,Makayla Dickens missed Three Point Jumper.,26,27,-1,3,0.46362974490631115,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+149,2,1:51,1311,1311,Kylie Kornegay-Lucas Defensive Rebound.,26,27,-1,9,0.4635817354596255,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+150,2,1:42,1302,1302,Foul on Milan Bolden-Morris.,26,27,-1,0,0.46343610387649953,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+151,2,1:42,1302,1302,Shemera Williams made Free Throw.,26,28,-2,0,0.42726119118958705,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Virginia
+152,2,1:42,1302,1302,Shemera Williams made Free Throw.,26,29,-3,29,0.3918478668834848,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Virginia
+153,2,1:13,1273,1273,Emma Guy missed Layup.,26,29,-3,3,0.3904419320559157,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+154,2,1:10,1270,1270,Boston College Offensive Rebound.,26,29,-3,19,0.39029064907845223,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+155,2,0:51,1251,1251,Marnelle Garraud Turnover.,26,29,-3,0,0.38930216653210487,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+156,2,0:51,1251,1251,Dominique Toussaint Steal.,26,29,-3,4,0.38930216653210487,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+157,2,0:47,1247,1247,Dominique Toussaint made Layup.,26,31,-5,14,0.3204029801056483,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,Virginia
+158,2,0:33,1233,1233,Emma Guy Turnover.,26,31,-5,0,0.31921952939795234,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+159,2,0:33,1233,1233,Shemera Williams Steal.,26,31,-5,27,0.31921952939795234,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+160,2,0:06,1206,1206,Dominique Toussaint missed Three Point Jumper.,26,31,-5,4,0.3167817366240917,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+161,2,0:02,1202,1202,Makayla Dickens missed Three Point Jumper.,26,31,-5,0,0.3164133449951552,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+162,2,0:02,1202,1202,Milan Bolden-Morris Defensive Rebound.,26,31,-5,2,0.3164133449951552,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+163,2,0:00,1200,1200,Dani Lawson Defensive Rebound.,26,31,-5,0,0.3162303721963287,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+164,2,0:00,1200,1200,End of 2nd Quarter,26,31,-5,21,0.3162303721963287,Boston College,Virginia,4,4,0,0,NA,401171233,2020-01-12,
+165,3,9:39,1179,1179,Lisa Jablonowski missed Layup.,26,31,-5,3,0.31435180551338976,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+166,3,9:36,1176,1176,Lisa Jablonowski Offensive Rebound.,26,31,-5,2,0.3140888563412423,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+167,3,9:34,1174,1174,Lisa Jablonowski missed Layup.,26,31,-5,3,0.3139141793405257,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+168,3,9:31,1171,1171,Marnelle Garraud Defensive Rebound.,26,31,-5,8,0.3136530377827787,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+169,3,9:23,1163,1163,Emma Guy missed Layup.,26,31,-5,3,0.3129612193915701,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+170,3,9:20,1160,1160,Carole Miller Defensive Rebound.,26,31,-5,3,0.3127032683039024,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+171,3,9:17,1157,1157,Carole Miller Turnover.,26,31,-5,0,0.3124460004175854,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+172,3,9:17,1157,1157,Marnelle Garraud Steal.,26,31,-5,15,0.3124460004175854,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+173,3,9:02,1142,1142,Emma Guy made Layup. Assisted by Makayla Dickens.,28,31,-3,20,0.3830077746022579,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Boston College
+174,3,8:42,1122,1122,Dominique Toussaint made Layup. Assisted by Carole Miller.,28,33,-5,13,0.3094682747440428,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Virginia
+175,3,8:29,1109,1109,Marnelle Garraud missed Three Point Jumper.,28,33,-5,2,0.3083579125511302,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+176,3,8:27,1107,1107,Taylor Soule Offensive Rebound.,28,33,-5,7,0.3081861544858667,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+177,3,8:20,1100,1100,Makayla Dickens missed Layup.,28,33,-5,4,0.3075823787190401,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+178,3,8:16,1096,1096,Jocelyn Willoughby Defensive Rebound.,28,33,-5,4,0.3072352599204103,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+179,3,8:12,1092,1092,Jocelyn Willoughby made Layup.,28,35,-7,0,0.2422096882532578,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Virginia
+180,3,8:12,1092,1092,Foul on Marnelle Garraud.,28,35,-7,0,0.2422096882532578,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+181,3,8:12,1092,1092,Jocelyn Willoughby made Free Throw.,28,36,-8,21,0.2135688104408922,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Virginia
+182,3,7:51,1071,1071,Foul on Dominique Toussaint.,28,36,-8,7,0.2112147665967576,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+183,3,7:44,1064,1064,Emma Guy made Layup. Assisted by Makayla Dickens.,30,36,-6,16,0.27055017225617495,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Boston College
+184,3,7:28,1048,1048,Foul on Emma Guy.,30,36,-6,14,0.2688747846777824,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+185,3,7:14,1034,1034,Lisa Jablonowski missed Three Point Jumper.,30,36,-6,0,0.2673536335073025,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+186,3,7:14,1034,1034,Boston College Defensive Rebound.,30,36,-6,13,0.2673536335073025,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+187,3,7:01,1021,1021,Taylor Soule Turnover.,30,36,-6,12,0.2658875415106465,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+188,3,6:49,1009,1009,Jocelyn Willoughby Turnover.,30,36,-6,27,0.26448273893712215,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+189,3,6:22,982,982,Taylor Ortlepp missed Three Point Jumper.,30,36,-6,0,0.26111534805019726,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+190,3,6:22,982,982,Carole Miller Block.,30,36,-6,7,0.26111534805019726,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+191,3,6:15,975,975,Lisa Jablonowski Defensive Rebound.,30,36,-6,1,0.26019059758418156,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+192,3,6:14,974,974,Lisa Jablonowski missed Layup.,30,36,-6,4,0.2600566262384342,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+193,3,6:10,970,970,Lisa Jablonowski Offensive Rebound.,30,36,-6,11,0.2595159752870021,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+194,3,5:59,959,959,Shemera Williams made Layup.,30,38,-8,0,0.1965428296017064,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Virginia
+195,3,5:59,959,959,Foul on Makayla Dickens.,30,38,-8,0,0.1965428296017064,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+196,3,5:59,959,959,Shemera Williams missed Free Throw.,30,38,-8,1,0.1965428296017064,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+197,3,5:58,958,958,Emma Guy Defensive Rebound.,30,38,-8,17,0.1964032884995047,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+198,3,5:41,941,941,Emma Guy made Layup.,32,38,-6,20,0.25588909964210366,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Boston College
+199,3,5:21,921,921,Kylie Kornegay-Lucas made Jumper.,32,40,-8,6,0.19173873716969492,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Virginia
+200,3,5:15,915,915,Foul on Jocelyn Willoughby.,32,40,-8,21,0.1910532054286195,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+201,3,4:54,894,894,Marnelle Garraud missed Jumper.,32,40,-8,2,0.18874595620601953,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+202,3,4:52,892,892,Emma Guy Offensive Rebound.,32,40,-8,0,0.1885314226573381,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+203,3,4:52,892,892,Foul on Lisa Jablonowski.,32,40,-8,0,0.1885314226573381,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+204,3,4:52,892,892,Official TV Timeout,32,40,-8,0,0.1885314226573381,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+205,3,4:52,892,892,Emma Guy made Free Throw.,33,40,-7,0,0.21803858566902312,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Boston College
+206,3,4:52,892,892,Emma Guy missed Free Throw.,33,40,-7,2,0.21803858566902312,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+207,3,4:50,890,890,Dani Lawson Defensive Rebound.,33,40,-7,12,0.2178299199596315,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+208,3,4:38,878,878,Foul on Taylor Soule.,33,40,-7,0,0.2165844778705958,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+209,3,4:38,878,878,Jocelyn Willoughby made Free Throw.,33,41,-8,0,0.18704120226656604,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Virginia
+210,3,4:38,878,878,Jocelyn Willoughby missed Free Throw.,33,41,-8,1,0.18704120226656604,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+211,3,4:37,877,877,Georgia Pineau Defensive Rebound.,33,41,-8,12,0.18693511051106881,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+212,3,4:25,865,865,Foul on Shemera Williams.,33,41,-8,6,0.18565885037191202,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+213,3,4:19,859,859,Makayla Dickens missed Three Point Jumper.,33,41,-8,2,0.18501525640323915,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+214,3,4:17,857,857,Jocelyn Willoughby Defensive Rebound.,33,41,-8,5,0.18479940949075283,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+215,3,4:12,852,852,Jocelyn Willoughby made Layup.,33,43,-10,15,0.13473610926404253,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Virginia
+216,3,3:57,837,837,Georgia Pineau missed Jumper.,33,43,-10,3,0.13311897503159514,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+217,3,3:54,834,834,Makayla Dickens Offensive Rebound.,33,43,-10,2,0.13278721702336568,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+218,3,3:52,832,832,Foul on Shemera Williams.,33,43,-10,0,0.13256421988992187,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+219,3,3:52,832,832,Makayla Dickens made Free Throw.,34,43,-9,0,0.1556934214885741,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Boston College
+220,3,3:52,832,832,Makayla Dickens made Free Throw.,35,43,-8,8,0.18201134914504094,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Boston College
+221,3,3:44,824,824,Shemera Williams made Layup.,35,45,-10,8,0.13165619730293743,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Virginia
+222,3,3:36,816,816,Foul on Makayla Dickens.,35,45,-10,0,0.13071940714265604,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+223,3,3:36,816,816,Makayla Dickens Turnover.,35,45,-10,9,0.13071940714265604,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+224,3,3:27,807,807,Kylie Kornegay-Lucas Turnover.,35,45,-10,15,0.12962610225164053,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+225,3,3:12,792,792,Foul on Emma Guy.,35,45,-10,0,0.12769670236157427,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+226,3,3:12,792,792,Emma Guy Turnover.,35,45,-10,29,0.12769670236157427,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+227,3,2:43,763,763,Carole Miller missed Jumper.,35,45,-10,2,0.12350826173766503,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+228,3,2:41,761,761,Taylor Soule Defensive Rebound.,35,45,-10,17,0.12319412944445103,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+229,3,2:24,744,744,Georgia Pineau missed Layup.,35,45,-10,1,0.12037805332762512,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+230,3,2:23,743,743,Virginia Defensive Rebound.,35,45,-10,20,0.12020397843284758,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+231,3,2:03,723,723,Jocelyn Willoughby missed Jumper.,35,45,-10,3,0.11658114271465823,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+232,3,2:00,720,720,Milan Bolden-Morris Defensive Rebound.,35,45,-10,10,0.11606046968179881,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+233,3,1:50,710,710,Taylor Soule made Layup.,37,45,-8,0,0.16285703846117114,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Boston College
+234,3,1:50,710,710,Foul on Kylie Kornegay-Lucas.,37,45,-8,0,0.16285703846117114,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+235,3,1:50,710,710,Taylor Soule made Free Throw.,38,45,-7,14,0.19271227877833078,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Boston College
+236,3,1:36,696,696,Jocelyn Willoughby made Jumper.,38,47,-9,26,0.13463152108571327,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Virginia
+237,3,1:10,670,670,Foul on Carole Miller.,38,47,-9,0,0.1309251281340636,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+238,3,1:10,670,670,Taylor Soule missed Free Throw.,38,47,-9,0,0.1309251281340636,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+239,3,1:10,670,670,Boston College Offensive Rebound.,38,47,-9,0,0.1309251281340636,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+240,3,1:10,670,670,Taylor Soule made Free Throw.,39,47,-8,26,0.1567657499565757,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Boston College
+241,3,0:44,644,644,Kylie Kornegay-Lucas made Layup.,39,49,-10,11,0.10544981832029604,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Virginia
+242,3,0:33,633,633,Foul on Makayla Dickens.,39,49,-10,0,0.10399685029532559,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+243,3,0:33,633,633,Makayla Dickens Turnover.,39,49,-10,22,0.10399685029532559,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+244,3,0:11,611,611,Shemera Williams Turnover.,39,49,-10,0,0.10088730852801638,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+245,3,0:11,611,611,Marnelle Garraud Steal.,39,49,-10,10,0.10088730852801638,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+246,3,0:01,601,601,Georgia Pineau missed Three Point Jumper.,39,49,-10,1,0.09934457460600679,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+247,3,0:00,600,600,Virginia Defensive Rebound.,39,49,-10,0,0.09918489164439363,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+248,3,0:00,600,600,End of 3rd Quarter,39,49,-10,9,0.09918489164439363,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+249,4,9:51,591,591,Foul on Shemera Williams.,39,49,-10,12,0.09769912299748208,Boston College,Virginia,6,6,0,0,NA,401171233,2020-01-12,
+250,4,9:39,579,579,Emma Guy made Layup.,41,49,-8,17,0.14209956857212777,Boston College,Virginia,6,6,0,0,NA,401171233,2020-01-12,Boston College
+251,4,9:22,562,562,Jocelyn Willoughby made Jumper. Assisted by Kylie Kornegay-Lucas.,41,51,-10,16,0.09222603574734027,Boston College,Virginia,6,6,0,0,NA,401171233,2020-01-12,Virginia
+252,4,9:06,546,546,Sydney Lowery Turnover.,41,51,-10,0,0.088731757091384,Boston College,Virginia,6,6,0,0,NA,401171233,2020-01-12,
+253,4,9:06,546,546,Dominique Toussaint Steal.,41,51,-10,4,0.088731757091384,Boston College,Virginia,6,6,0,0,NA,401171233,2020-01-12,
+254,4,9:02,542,542,Dominique Toussaint Turnover.,41,51,-10,0,0.0878994296894111,Boston College,Virginia,6,6,0,0,NA,401171233,2020-01-12,
+255,4,9:02,542,542,Marnelle Garraud Steal.,41,51,-10,5,0.0878994296894111,Boston College,Virginia,6,6,0,0,NA,401171233,2020-01-12,
+256,4,8:57,537,537,Marnelle Garraud Turnover.,41,51,-10,0,0.08692014416066844,Boston College,Virginia,6,6,0,0,NA,401171233,2020-01-12,
+257,4,8:57,537,537,Dominique Toussaint Steal.,41,51,-10,4,0.08692014416066844,Boston College,Virginia,6,6,0,0,NA,401171233,2020-01-12,
+258,4,8:53,533,533,Shemera Williams made Layup.,41,53,-12,24,0.055543686968231754,Boston College,Virginia,6,6,0,0,NA,401171233,2020-01-12,Virginia
+259,4,8:29,509,509,Marnelle Garraud missed Jumper.,41,53,-12,1,0.052443389323702426,Boston College,Virginia,6,6,0,0,NA,401171233,2020-01-12,
+260,4,8:28,508,508,Boston College Offensive Rebound.,41,53,-12,14,0.05232459591311753,Boston College,Virginia,6,6,0,0,NA,401171233,2020-01-12,
+261,4,8:14,494,494,Boston College  Timeout,41,53,-12,0,0.05068147473540477,Boston College,Virginia,6,5,0,1,NA,401171233,2020-01-12,
+262,4,8:14,494,494,Official TV Timeout,41,53,-12,4,0.05068147473540477,Boston College,Virginia,6,5,0,1,NA,401171233,2020-01-12,
+263,4,8:10,490,490,Taylor Soule made Layup.,43,53,-10,0,0.07943517352621712,Boston College,Virginia,6,5,0,1,NA,401171233,2020-01-12,Boston College
+264,4,8:10,490,490,Foul on Lisa Jablonowski.,43,53,-10,0,0.07943517352621712,Boston College,Virginia,6,5,0,1,NA,401171233,2020-01-12,
+265,4,8:10,490,490,Taylor Soule made Free Throw.,44,53,-9,13,0.09929866933735897,Boston College,Virginia,6,5,0,1,NA,401171233,2020-01-12,Boston College
+266,4,7:57,477,477,Amandine Toi made Layup. Assisted by Lisa Jablonowski.,44,55,-11,17,0.06144633996914628,Boston College,Virginia,6,5,0,1,NA,401171233,2020-01-12,Virginia
+267,4,7:40,460,460,Milan Bolden-Morris missed Three Point Jumper.,44,55,-11,4,0.058782665005458944,Boston College,Virginia,6,5,0,1,NA,401171233,2020-01-12,
+268,4,7:36,456,456,Dominique Toussaint Defensive Rebound.,44,55,-11,21,0.05809123145852411,Boston College,Virginia,6,5,0,1,NA,401171233,2020-01-12,
+269,4,7:15,435,435,Amandine Toi Turnover.,44,55,-11,24,0.05395016638978381,Boston College,Virginia,6,5,0,1,NA,401171233,2020-01-12,
+270,4,6:51,411,411,Milan Bolden-Morris made Layup.,46,55,-9,23,0.08099003911738302,Boston College,Virginia,6,5,0,0,NA,401171233,2020-01-12,Boston College
+271,4,6:28,388,388,Amandine Toi missed Three Point Jumper.,46,55,-9,4,0.07552900198359888,Boston College,Virginia,6,5,0,0,NA,401171233,2020-01-12,
+272,4,6:24,384,384,Makayla Dickens Defensive Rebound.,46,55,-9,2,0.07460669168655291,Boston College,Virginia,6,5,0,0,NA,401171233,2020-01-12,
+273,4,6:22,382,382,Emma Guy made Layup. Assisted by Makayla Dickens.,48,55,-7,9,0.12307234647274826,Boston College,Virginia,6,5,0,0,NA,401171233,2020-01-12,Boston College
+274,4,6:13,373,373,Virginia  Timeout,48,55,-7,19,0.12049839667325811,Boston College,Virginia,5,5,1,0,NA,401171233,2020-01-12,
+275,4,5:54,354,354,Jocelyn Willoughby made Layup. Assisted by Lisa Jablonowski.,48,57,-9,25,0.06739133071295852,Boston College,Virginia,5,5,1,0,NA,401171233,2020-01-12,Virginia
+276,4,5:29,329,329,Makayla Dickens missed Three Point Jumper.,48,57,-9,3,0.06041214522737255,Boston College,Virginia,5,5,1,0,NA,401171233,2020-01-12,
+277,4,5:26,326,326,Dominique Toussaint Defensive Rebound.,48,57,-9,26,0.05949289244527283,Boston College,Virginia,5,5,1,0,NA,401171233,2020-01-12,
+278,4,5:00,300,300,Jocelyn Willoughby missed Jumper.,48,57,-9,3,0.05184588196013274,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+279,4,4:57,297,297,Taylor Soule Defensive Rebound.,48,57,-9,11,0.05145235204610496,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+280,4,4:46,286,286,Marnelle Garraud missed Three Point Jumper.,48,57,-9,0,0.05101493186650163,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+281,4,4:46,286,286,Emma Guy Offensive Rebound.,48,57,-9,0,0.05101493186650163,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+282,4,4:46,286,286,Foul on Jocelyn Willoughby.,48,57,-9,21,0.05101493186650163,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+283,4,4:25,265,265,Marnelle Garraud missed Jumper.,48,57,-9,0,0.05297199904670758,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+284,4,4:25,265,265,Kylie Kornegay-Lucas Block.,48,57,-9,0,0.05297199904670758,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+285,4,4:25,265,265,Virginia Defensive Rebound.,48,57,-9,16,0.05297199904670758,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+286,4,4:09,249,249,Dominique Toussaint made Three Point Jumper. Assisted by Kylie Kornegay-Lucas.,48,60,-12,13,0.022101263301636906,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Virginia
+287,4,3:56,236,236,Foul on Marnelle Garraud.,48,60,-12,0,0.022524108033112975,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+288,4,3:56,236,236,Marnelle Garraud Turnover.,48,60,-12,17,0.022524108033112975,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+289,4,3:39,219,219,Shemera Williams Turnover.,48,60,-12,6,0.021408441009950607,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+290,4,3:33,213,213,Georgia Pineau missed Jumper.,48,60,-12,4,0.020418226382850912,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+291,4,3:29,209,209,Virginia Defensive Rebound.,48,60,-12,10,0.019576918799427724,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+292,4,3:19,199,199,Lisa Jablonowski made Layup. Assisted by Dominique Toussaint.,48,62,-14,12,0.008656252750750307,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,Virginia
+293,4,3:07,187,187,Foul on Kylie Kornegay-Lucas.,48,62,-14,8,0.006338209212760453,Boston College,Virginia,5,5,0,0,NA,401171233,2020-01-12,
+294,4,2:59,179,179,Makayla Dickens Turnover.,48,62,-14,0,0.005015306027266148,Boston College,Virginia,5,5,1,0,NA,401171233,2020-01-12,
+295,4,2:59,179,179,Virginia  Timeout,48,62,-14,8,0.005015306027266148,Boston College,Virginia,4,5,1,0,NA,401171233,2020-01-12,
+296,4,2:51,171,171,Kylie Kornegay-Lucas Turnover.,48,62,-14,0,0.003945229486119593,Boston College,Virginia,4,5,1,0,NA,401171233,2020-01-12,
+297,4,2:51,171,171,Marnelle Garraud Steal.,48,62,-14,6,0.003945229486119593,Boston College,Virginia,4,5,1,0,NA,401171233,2020-01-12,
+298,4,2:45,165,165,Taylor Soule made Layup. Assisted by Marnelle Garraud.,50,62,-12,6,0.007383496195393075,Boston College,Virginia,4,5,1,0,NA,401171233,2020-01-12,Boston College
+299,4,2:39,159,159,Foul on Marnelle Garraud.,50,62,-12,27,0.006262905286504861,Boston College,Virginia,4,5,1,0,NA,401171233,2020-01-12,
+300,4,2:12,132,132,Foul on Georgia Pineau.,50,62,-12,0,0.002681956419970402,Boston College,Virginia,4,5,1,0,NA,401171233,2020-01-12,
+301,4,2:12,132,132,Kylie Kornegay-Lucas missed Free Throw.,50,62,-12,0,0.002681956419970402,Boston College,Virginia,4,5,1,0,NA,401171233,2020-01-12,
+302,4,2:12,132,132,Virginia Offensive Rebound.,50,62,-12,0,0.002681956419970402,Boston College,Virginia,4,5,1,0,NA,401171233,2020-01-12,
+303,4,2:12,132,132,Kylie Kornegay-Lucas missed Free Throw.,50,62,-12,0,0.002681956419970402,Boston College,Virginia,4,5,1,0,NA,401171233,2020-01-12,
+304,4,2:12,132,132,Lisa Jablonowski Offensive Rebound.,50,62,-12,17,0.002681956419970402,Boston College,Virginia,4,5,1,0,NA,401171233,2020-01-12,
+305,4,1:55,115,115,Lisa Jablonowski made Layup. Assisted by Dominique Toussaint.,50,64,-14,7,4.6267886437239555e-4,Boston College,Virginia,4,5,0,0,NA,401171233,2020-01-12,Virginia
+306,4,1:48,108,108,Marnelle Garraud Turnover.,50,64,-14,27,3.2237617083287587e-4,Boston College,Virginia,4,5,0,0,NA,401171233,2020-01-12,
+307,4,1:21,81,81,Dominique Toussaint missed Jumper.,50,64,-14,4,6.290363298720852e-5,Boston College,Virginia,4,5,0,0,NA,401171233,2020-01-12,
+308,4,1:17,77,77,Makayla Dickens Defensive Rebound.,50,64,-14,2,4.824110725842461e-5,Boston College,Virginia,4,5,0,0,NA,401171233,2020-01-12,
+309,4,1:15,75,75,Taylor Soule missed Layup.,50,64,-14,5,4.2115899143305105e-5,Boston College,Virginia,4,5,0,0,NA,401171233,2020-01-12,
+310,4,1:10,70,70,Jocelyn Willoughby Defensive Rebound.,50,64,-14,23,2.9681838636647095e-5,Boston College,Virginia,4,5,0,0,NA,401171233,2020-01-12,
+311,4,0:47,47,47,Shemera Williams made Three Point Jumper. Assisted by Dominique Toussaint.,50,67,-17,8,3.8579893215115866e-7,Boston College,Virginia,4,5,0,0,NA,401171233,2020-01-12,Virginia
+312,4,0:39,39,39,Marnelle Garraud Turnover.,50,67,-17,0,1.7307797462086043e-7,Boston College,Virginia,4,5,0,0,NA,401171233,2020-01-12,
+313,4,0:39,39,39,Jocelyn Willoughby Steal.,50,67,-17,20,1.7307797462086043e-7,Boston College,Virginia,4,5,0,0,NA,401171233,2020-01-12,
+314,4,0:19,19,19,Jocelyn Willoughby made Layup.,50,69,-19,19,2.5131521161648756e-9,Boston College,Virginia,4,5,0,0,NA,401171233,2020-01-12,Virginia
+315,4,0:00,0,0,Taylor Soule missed Layup.,50,69,-19,0,9.291736316326398e-166,Boston College,Virginia,4,5,0,0,NA,401171233,2020-01-12,
+316,4,0:00,0,0,Emma Guy Offensive Rebound.,50,69,-19,0,9.291736316326398e-166,Boston College,Virginia,4,5,0,0,NA,401171233,2020-01-12,
+317,4,0:00,0,0,Emma Guy made Layup.,52,69,-17,0,2.1871378321977182e-148,Boston College,Virginia,4,5,0,0,NA,401171233,2020-01-12,Boston College
+318,4,0:00,0,0,End of 4th Quarter,50,69,-19,0,9.291736316326398e-166,Boston College,Virginia,4,5,0,0,NA,401171233,2020-01-12,
+319,4,0:00,0,0,End of Game,52,69,-17,0,2.1871378321977182e-148,Boston College,Virginia,4,5,0,0,NA,401171233,2020-01-12,Boston College

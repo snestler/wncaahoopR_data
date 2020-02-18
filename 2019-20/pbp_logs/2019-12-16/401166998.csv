@@ -1,0 +1,376 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:43,2683,2683,Tatum Barber missed Jumper.,0,0,0,0,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,NA
+2,1,9:43,2683,2683,Deja Cage Defensive Rebound.,0,0,0,14,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+3,1,9:29,2669,2669,Valerie Nesbitt missed Layup.,0,0,0,0,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+4,1,9:29,2669,2669,Valerie Nesbitt Offensive Rebound.,0,0,0,3,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+5,1,9:26,2666,2666,Valerie Nesbitt made Layup.,2,0,2,10,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Ole Miss
+6,1,9:16,2656,2656,Mya Burns missed Three Point Jumper.,2,0,2,0,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+7,1,9:16,2656,2656,Mya Burns Offensive Rebound.,2,0,2,5,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+8,1,9:11,2651,2651,Mya Burns missed Jumper.,2,0,2,0,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+9,1,9:11,2651,2651,Iyanla Kitchens Defensive Rebound.,2,0,2,24,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+10,1,8:47,2627,2627,Deja Cage missed Three Point Jumper.,2,0,2,0,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+11,1,8:47,2627,2627,Tatum Barber Defensive Rebound.,2,0,2,14,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+12,1,8:33,2613,2613,Hailey Dias-Allen made Jumper. Assisted by Amira Atwater.,2,2,0,22,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+13,1,8:11,2591,2591,Valerie Nesbitt missed Jumper.,2,2,0,0,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+14,1,8:11,2591,2591,Mya Burns Defensive Rebound.,2,2,0,10,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+15,1,8:01,2581,2581,Tatum Barber made Layup. Assisted by Amira Atwater.,2,4,-2,16,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+16,1,7:45,2565,2565,Torri Lewis made Three Point Jumper. Assisted by Valerie Nesbitt.,5,4,1,14,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Ole Miss
+17,1,7:31,2551,2551,Alexis Brown Turnover.,5,4,1,25,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+18,1,7:06,2526,2526,Deja Cage made Three Point Jumper. Assisted by Valerie Nesbitt.,8,4,4,20,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Ole Miss
+19,1,6:46,2506,2506,Mya Burns made Jumper. Assisted by Amira Atwater.,8,6,2,11,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+20,1,6:35,2495,2495,Deja Cage made Jumper. Assisted by Valerie Nesbitt.,10,6,4,3,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Ole Miss
+21,1,6:32,2492,2492,Foul on Hailey Dias-Allen.,10,6,4,0,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+22,1,6:32,2492,2492,Hailey Dias-Allen Turnover.,10,6,4,2,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+23,1,6:30,2490,2490,Deja Cage missed Three Point Jumper.,10,6,4,0,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+24,1,6:30,2490,2490,Georgia Southern Defensive Rebound.,10,6,4,8,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+25,1,6:22,2482,2482,Tatum Barber missed Jumper.,10,6,4,0,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+26,1,6:22,2482,2482,Iyanla Kitchens Defensive Rebound.,10,6,4,9,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+27,1,6:13,2473,2473,Torri Lewis made Three Point Jumper. Assisted by Mimi Reid.,13,6,7,6,NA,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Ole Miss
+28,1,6:07,2467,2467,Georgia Southern  Timeout,13,6,7,0,NA,Ole Miss,Georgia Southern,3,4,1,0,NA,401166998,2019-12-16,
+29,1,6:07,2467,2467,Official TV Timeout,13,6,7,16,NA,Ole Miss,Georgia Southern,3,4,1,0,NA,401166998,2019-12-16,
+30,1,5:51,2451,2451,Tatum Barber missed Three Point Jumper.,13,6,7,0,NA,Ole Miss,Georgia Southern,3,4,1,0,NA,401166998,2019-12-16,
+31,1,5:51,2451,2451,Deja Cage Defensive Rebound.,13,6,7,12,NA,Ole Miss,Georgia Southern,3,4,1,0,NA,401166998,2019-12-16,
+32,1,5:39,2439,2439,Deja Cage Turnover.,13,6,7,12,NA,Ole Miss,Georgia Southern,3,4,1,0,NA,401166998,2019-12-16,
+33,1,5:27,2427,2427,Nikki McDonald missed Jumper.,13,6,7,0,NA,Ole Miss,Georgia Southern,3,4,1,0,NA,401166998,2019-12-16,
+34,1,5:27,2427,2427,Mimi Reid Defensive Rebound.,13,6,7,17,NA,Ole Miss,Georgia Southern,3,4,1,0,NA,401166998,2019-12-16,
+35,1,5:10,2410,2410,Torri Lewis Turnover.,13,6,7,1,NA,Ole Miss,Georgia Southern,3,4,1,0,NA,401166998,2019-12-16,
+36,1,5:09,2409,2409,Amira Atwater Steal.,13,6,7,4,NA,Ole Miss,Georgia Southern,3,4,1,0,NA,401166998,2019-12-16,
+37,1,5:05,2405,2405,Alexis Brown missed Layup.,13,6,7,0,NA,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+38,1,5:05,2405,2405,Georgia Southern Offensive Rebound.,13,6,7,3,NA,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+39,1,5:02,2402,2402,Amira Atwater missed Jumper.,13,6,7,0,NA,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+40,1,5:02,2402,2402,Valerie Nesbitt Defensive Rebound.,13,6,7,21,NA,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+41,1,4:41,2381,2381,Mimi Reid Turnover.,13,6,7,1,0.6510406401773361,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+42,1,4:40,2380,2380,Alexis Brown Steal.,13,6,7,22,0.651108655392988,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+43,1,4:18,2358,2358,Alexis Brown missed Jumper.,13,6,7,0,0.6526149594202635,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+44,1,4:18,2358,2358,Nikki McDonald Offensive Rebound.,13,6,7,4,0.6526149594202635,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+45,1,4:14,2354,2354,Tatum Barber missed Jumper.,13,6,7,0,0.6528907966906818,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+46,1,4:14,2354,2354,Dominique Banks Defensive Rebound.,13,6,7,13,0.6528907966906818,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+47,1,4:01,2341,2341,Dominique Banks missed Layup.,13,6,7,0,0.6537911800303804,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+48,1,4:01,2341,2341,Hailey Dias-Allen Block.,13,6,7,3,0.6537911800303804,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+49,1,3:58,2338,2338,Alexis Brown Defensive Rebound.,13,6,7,5,0.6539997815338148,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+50,1,3:53,2333,2333,Nikki McDonald made Jumper. Assisted by Tatum Barber.,13,8,5,20,0.6120321569610894,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+51,1,3:33,2313,2313,Deja Cage missed Three Point Jumper.,13,8,5,0,0.6130833227719602,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+52,1,3:33,2313,2313,Valerie Nesbitt Offensive Rebound.,13,8,5,5,0.6130833227719602,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+53,1,3:28,2308,2308,Valerie Nesbitt missed Jumper.,13,8,5,0,0.613347648580658,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+54,1,3:28,2308,2308,Amira Atwater Defensive Rebound.,13,8,5,8,0.613347648580658,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+55,1,3:20,2300,2300,Alexis Brown made Jumper. Assisted by Amira Atwater.,13,10,3,33,0.5690354297880675,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+56,1,2:47,2267,2267,Mimi Reid missed Layup.,13,10,3,0,0.5701308127442787,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+57,1,2:47,2267,2267,Hailey Dias-Allen Block.,13,10,3,0,0.5701308127442787,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+58,1,2:47,2267,2267,Ole Miss Offensive Rebound.,13,10,3,5,0.5701308127442787,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+59,1,2:42,2262,2262,Valerie Nesbitt missed Jumper.,13,10,3,0,0.570298014037633,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+60,1,2:42,2262,2262,Nakol Franks Defensive Rebound.,13,10,3,19,0.570298014037633,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+61,1,2:23,2243,2243,Nikki McDonald made Jumper. Assisted by Amira Atwater.,13,12,1,25,0.5237879470207863,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+62,1,1:58,2218,2218,Dominique Banks made Jumper. Assisted by Torri Lewis.,15,12,3,11,0.5717810761948814,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,Ole Miss
+63,1,1:47,2207,2207,Sarah Moore Turnover.,15,12,3,8,0.5721546479324662,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+64,1,1:39,2199,2199,Taylor Smith made Jumper. Assisted by Valerie Nesbitt.,17,12,5,22,0.6192264985012372,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,Ole Miss
+65,1,1:17,2177,2177,Nakol Franks missed Three Point Jumper.,17,12,5,0,0.6204316744197328,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+66,1,1:17,2177,2177,Ole Miss Defensive Rebound.,17,12,5,23,0.6204316744197328,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+67,1,0:54,2154,2154,Valerie Nesbitt missed Jumper.,17,12,5,0,0.6216962177809653,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+68,1,0:54,2154,2154,Nikki McDonald Defensive Rebound.,17,12,5,11,0.6216962177809653,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+69,1,0:43,2143,2143,Amira Atwater Turnover.,17,12,5,1,0.6223037911597032,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+70,1,0:42,2142,2142,Iyanla Kitchens Steal.,17,12,5,6,0.6223591232279481,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+71,1,0:36,2136,2136,Taylor Smith made Three Point Jumper. Assisted by Torri Lewis.,20,12,8,34,0.6903125016024283,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,Ole Miss
+72,1,0:02,2102,2102,Nakol Franks missed Three Point Jumper.,20,12,8,0,0.6930679104093008,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+73,1,0:02,2102,2102,Nikki McDonald Offensive Rebound.,20,12,8,1,0.6930679104093008,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+74,1,0:01,2101,2101,Nikki McDonald made Layup.,20,14,6,1,0.6482060767000728,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+75,1,0:00,2100,2100,End of 1st Quarter,20,14,6,22,0.6482715473701611,Ole Miss,Georgia Southern,3,4,0,0,NA,401166998,2019-12-16,
+76,2,9:38,2078,2078,Torri Lewis missed Three Point Jumper.,20,14,6,0,0.6497174911457326,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+77,2,9:38,2078,2078,Tatum Barber Defensive Rebound.,20,14,6,24,0.6497174911457326,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+78,2,9:14,2054,2054,Nikki McDonald made Jumper. Assisted by Amira Atwater.,20,16,4,25,0.6026522587886541,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+79,2,8:49,2029,2029,Taylor Smith Turnover.,20,16,4,1,0.6038283841502873,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+80,2,8:48,2028,2028,Hailey Dias-Allen Steal.,20,16,4,15,0.6038757041959505,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+81,2,8:33,2013,2013,Hailey Dias-Allen made Jumper. Assisted by Amira Atwater.,20,18,2,3,0.5528789682587631,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+82,2,8:30,2010,2010,Foul on Iyanla Kitchens.,20,18,2,0,0.5529529550265885,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+83,2,8:30,2010,2010,Hailey Dias-Allen made Free Throw.,20,19,1,14,0.5265511372496339,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+84,2,8:16,1996,1996,Mimi Reid Turnover.,20,19,1,13,0.5267260105688514,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+85,2,8:03,1983,1983,Hailey Dias-Allen missed Jumper.,20,19,1,0,0.5268895638080849,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+86,2,8:03,1983,1983,Dominique Banks Block.,20,19,1,2,0.5268895638080849,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+87,2,8:01,1981,1981,Alexis Brown Offensive Rebound.,20,19,1,1,0.5269148283875164,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+88,2,8:00,1980,1980,Foul on Valerie Nesbitt.,20,19,1,14,0.5269274710676524,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+89,2,7:46,1966,1966,Nikki McDonald made Layup.,20,21,-1,10,0.4728947939554942,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+90,2,7:36,1956,1956,Foul on Amira Atwater.,20,21,-1,5,0.4727669805791183,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+91,2,7:31,1951,1951,Dominique Banks made Layup. Assisted by Valerie Nesbitt.,22,21,1,20,0.5272972009707604,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Ole Miss
+92,2,7:11,1931,1931,Alexis Brown missed Three Point Jumper.,22,21,1,0,0.527555809194756,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+93,2,7:11,1931,1931,Taylor Smith Defensive Rebound.,22,21,1,12,0.527555809194756,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+94,2,6:59,1919,1919,Foul on Tatum Barber.,22,21,1,0,0.527711841063402,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+95,2,6:59,1919,1919,Valerie Nesbitt missed Free Throw.,22,21,1,0,0.527711841063402,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+96,2,6:59,1919,1919,Ole Miss Deadball Team Rebound.,22,21,1,0,0.527711841063402,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+97,2,6:59,1919,1919,Valerie Nesbitt made Free Throw.,23,21,2,19,0.5552539538854575,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Ole Miss
+98,2,6:40,1900,1900,Hailey Dias-Allen missed Jumper.,23,21,2,0,0.5557425592993829,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+99,2,6:40,1900,1900,Ole Miss Defensive Rebound.,23,21,2,3,0.5557425592993829,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+100,2,6:37,1897,1897,Foul on Alexis Brown.,23,21,2,12,0.555819652211619,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+101,2,6:25,1885,1885,Valerie Nesbitt made Layup.,25,21,4,18,0.6108590776173012,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Ole Miss
+102,2,6:07,1867,1867,Jaiden Hamilton missed Three Point Jumper.,25,21,4,0,0.6117505945470868,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+103,2,6:07,1867,1867,Ole Miss Defensive Rebound.,25,21,4,4,0.6117505945470868,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+104,2,6:03,1863,1863,Foul on Hailey Dias-Allen.,25,21,4,20,0.6119489300005184,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+105,2,5:43,1843,1843,Jayla Alexander missed Three Point Jumper.,25,21,4,0,0.6129427976650662,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+106,2,5:43,1843,1843,Mya Burns Defensive Rebound.,25,21,4,13,0.6129427976650662,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+107,2,5:30,1830,1830,Jaiden Hamilton missed Jumper.,25,21,4,0,0.6135915445385156,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+108,2,5:30,1830,1830,Dominique Banks Defensive Rebound.,25,21,4,26,0.6135915445385156,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+109,2,5:04,1804,1804,Mimi Reid missed Layup.,25,21,4,0,0.6148984104962276,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+110,2,5:04,1804,1804,Sarah Moore Defensive Rebound.,25,21,4,27,0.6148984104962276,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+111,2,4:37,1777,1777,Sarah Moore missed Jumper.,25,21,4,0,0.616273344615417,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+112,2,4:37,1777,1777,Deja Cage Defensive Rebound.,25,21,4,32,0.616273344615417,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+113,2,4:05,1745,1745,Foul on Alexis Brown.,25,21,4,0,0.6179341225252456,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+114,2,4:05,1745,1745,Official TV Timeout,25,21,4,0,0.6179341225252456,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+115,2,4:05,1745,1745,Taylor Smith made Free Throw.,26,21,5,0,0.6458818568083877,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Ole Miss
+116,2,4:05,1745,1745,Taylor Smith missed Free Throw.,26,21,5,0,0.6458818568083877,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+117,2,4:05,1745,1745,Jayla Alexander Offensive Rebound.,26,21,5,16,0.6458818568083877,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+118,2,3:49,1729,1729,Jayla Alexander missed Jumper.,26,21,5,0,0.6469059148735038,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+119,2,3:49,1729,1729,Tatum Barber Defensive Rebound.,26,21,5,15,0.6469059148735038,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+120,2,3:34,1714,1714,Foul on Mimi Reid.,26,21,5,4,0.6478785530729694,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+121,2,3:30,1710,1710,Jaiden Hamilton missed Jumper.,26,21,5,0,0.6481401300701926,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+122,2,3:30,1710,1710,Jayla Alexander Defensive Rebound.,26,21,5,8,0.6481401300701926,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+123,2,3:22,1702,1702,Deja Cage missed Three Point Jumper.,26,21,5,0,0.6486662172130523,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+124,2,3:22,1702,1702,Jaiden Hamilton Defensive Rebound.,26,21,5,14,0.6486662172130523,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+125,2,3:08,1688,1688,Mya Burns missed Jumper.,26,21,5,0,0.6495963646818963,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+126,2,3:08,1688,1688,Jayla Alexander Defensive Rebound.,26,21,5,4,0.6495963646818963,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+127,2,3:04,1684,1684,Foul on Mya Burns.,26,21,5,0,0.649861749926133,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+128,2,3:04,1684,1684,Jayla Alexander made Free Throw.,27,21,6,0,0.6774588057445805,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Ole Miss
+129,2,3:04,1684,1684,Jayla Alexander made Free Throw.,28,21,7,15,0.703871889829018,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Ole Miss
+130,2,2:49,1669,1669,Foul on Valerie Nesbitt.,28,21,7,6,0.7051286977765121,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+131,2,2:43,1663,1663,Nikki McDonald missed Three Point Jumper.,28,21,7,0,0.7056235916631274,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+132,2,2:43,1663,1663,Tatum Barber Offensive Rebound.,28,21,7,18,0.7056235916631274,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+133,2,2:25,1645,1645,Tatum Barber missed Three Point Jumper.,28,21,7,0,0.7070860624238889,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+134,2,2:25,1645,1645,Nikki McDonald Offensive Rebound.,28,21,7,11,0.7070860624238889,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+135,2,2:14,1634,1634,Nikki McDonald missed Jumper.,28,21,7,0,0.7079664385206437,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+136,2,2:14,1634,1634,Iyanla Kitchens Defensive Rebound.,28,21,7,25,0.7079664385206437,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+137,2,1:49,1609,1609,Iyanla Kitchens Turnover.,28,21,7,11,0.7099427403598461,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+138,2,1:38,1598,1598,Foul on Valerie Nesbitt.,28,21,7,0,0.7108064861119306,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+139,2,1:38,1598,1598,Tatum Barber made Free Throw.,28,22,6,0,0.6837008740417446,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+140,2,1:38,1598,1598,Tatum Barber made Free Throw.,28,23,5,11,0.6552867724825838,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+141,2,1:27,1587,1587,Deja Cage missed Three Point Jumper.,28,23,5,0,0.6559645922904116,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+142,2,1:27,1587,1587,Amira Atwater Defensive Rebound.,28,23,5,8,0.6559645922904116,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+143,2,1:19,1579,1579,Tatum Barber made Three Point Jumper. Assisted by Amira Atwater.,28,26,2,32,0.5643955598077249,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+144,2,0:47,1547,1547,Dominique Banks Turnover.,28,26,2,10,0.5652678515903204,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+145,2,0:37,1537,1537,Foul on Jayla Alexander.,28,26,2,0,0.5655459114045983,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+146,2,0:37,1537,1537,Amira Atwater missed Free Throw.,28,26,2,0,0.5655459114045983,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+147,2,0:37,1537,1537,Georgia Southern Deadball Team Rebound.,28,26,2,0,0.5655459114045983,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+148,2,0:37,1537,1537,Amira Atwater missed Free Throw.,28,26,2,0,0.5655459114045983,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+149,2,0:37,1537,1537,Dominique Banks Defensive Rebound.,28,26,2,9,0.5655459114045983,Ole Miss,Georgia Southern,4,4,0,0,NA,401166998,2019-12-16,
+150,2,0:28,1528,1528,Ole Miss  Timeout,28,26,2,21,0.5657991774203687,Ole Miss,Georgia Southern,4,3,0,1,NA,401166998,2019-12-16,
+151,2,0:07,1507,1507,Jayla Alexander missed Jumper.,28,26,2,0,0.5664034965428087,Ole Miss,Georgia Southern,4,3,0,1,NA,401166998,2019-12-16,
+152,2,0:07,1507,1507,Iyanla Kitchens Offensive Rebound.,28,26,2,2,0.5664034965428087,Ole Miss,Georgia Southern,4,3,0,1,NA,401166998,2019-12-16,
+153,2,0:05,1505,1505,Foul on Tatum Barber.,28,26,2,0,0.5664621589662935,Ole Miss,Georgia Southern,4,3,0,1,NA,401166998,2019-12-16,
+154,2,0:05,1505,1505,Iyanla Kitchens made Free Throw.,29,26,3,0,0.5989631584831999,Ole Miss,Georgia Southern,4,3,0,1,NA,401166998,2019-12-16,Ole Miss
+155,2,0:05,1505,1505,Iyanla Kitchens made Free Throw.,30,26,4,3,0.6306164719091955,Ole Miss,Georgia Southern,4,3,0,1,NA,401166998,2019-12-16,Ole Miss
+156,2,0:02,1502,1502,Nikki McDonald missed Jumper.,30,26,4,0,0.6307841390174871,Ole Miss,Georgia Southern,4,3,0,1,NA,401166998,2019-12-16,
+157,2,0:02,1502,1502,Torri Lewis Defensive Rebound.,30,26,4,2,0.6307841390174871,Ole Miss,Georgia Southern,4,3,0,1,NA,401166998,2019-12-16,
+158,2,0:00,1500,1500,End of 2nd Quarter,30,26,4,16,0.6308964171719894,Ole Miss,Georgia Southern,4,3,0,1,NA,401166998,2019-12-16,
+159,3,9:44,1484,1484,Tatum Barber Turnover.,30,26,4,23,0.6318100579581188,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+160,3,9:21,1461,1461,Jayla Alexander made Three Point Jumper. Assisted by Mimi Reid.,33,26,7,3,0.7221753395863517,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,Ole Miss
+161,3,9:18,1458,1458,Foul on Iyanla Kitchens.,33,26,7,21,0.7224528716008097,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+162,3,8:57,1437,1437,Alexis Brown Turnover.,33,26,7,13,0.7244113694174779,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+163,3,8:44,1424,1424,Foul on Iyanla Kitchens.,33,26,7,0,0.7255862245121494,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+164,3,8:44,1424,1424,Iyanla Kitchens Turnover.,33,26,7,20,0.7255862245121494,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+165,3,8:24,1404,1404,Tatum Barber Turnover.,33,26,7,15,0.727340872211923,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+166,3,8:09,1389,1389,Torri Lewis made Three Point Jumper. Assisted by Mimi Reid.,36,26,10,34,0.8039159159757641,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,Ole Miss
+167,3,7:35,1355,1355,Hailey Dias-Allen made Layup. Assisted by Tatum Barber.,36,28,8,36,0.7586719644443507,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+168,3,6:59,1319,1319,Mimi Reid Turnover.,36,28,8,2,0.7619410105445276,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+169,3,6:57,1317,1317,Alexis Brown Steal.,36,28,8,11,0.7621260118377525,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+170,3,6:46,1306,1306,Tatum Barber made Three Point Jumper. Assisted by Nikki McDonald.,36,31,5,24,0.6750856547269773,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+171,3,6:22,1282,1282,Iyanla Kitchens Turnover.,36,31,5,2,0.6768420754083765,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+172,3,6:20,1280,1280,Amira Atwater Steal.,36,31,5,7,0.6769927226692155,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+173,3,6:13,1273,1273,Nikki McDonald made Jumper. Assisted by Alexis Brown.,36,33,3,9,0.6095580679440843,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+174,3,6:04,1264,1264,Ole Miss  Timeout,36,33,3,0,0.610015676868441,Ole Miss,Georgia Southern,5,3,0,1,NA,401166998,2019-12-16,
+175,3,6:04,1264,1264,Official TV Timeout,36,33,3,8,0.610015676868441,Ole Miss,Georgia Southern,5,3,0,1,NA,401166998,2019-12-16,
+176,3,5:56,1256,1256,Foul on Alexis Brown.,36,33,3,16,0.6104323487533412,Ole Miss,Georgia Southern,5,3,0,1,NA,401166998,2019-12-16,
+177,3,5:40,1240,1240,Taylor Smith missed Jumper.,36,33,3,0,0.6112965838841767,Ole Miss,Georgia Southern,5,3,0,1,NA,401166998,2019-12-16,
+178,3,5:40,1240,1240,Nikki McDonald Defensive Rebound.,36,33,3,17,0.6112965838841767,Ole Miss,Georgia Southern,5,3,0,1,NA,401166998,2019-12-16,
+179,3,5:23,1223,1223,Tatum Barber made Jumper. Assisted by Amira Atwater.,36,35,1,25,0.5379969400535396,Ole Miss,Georgia Southern,5,3,0,1,NA,401166998,2019-12-16,Georgia Southern
+180,3,4:58,1198,1198,Dominique Banks missed Jumper.,36,35,1,0,0.5385231409975925,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+181,3,4:58,1198,1198,Amira Atwater Defensive Rebound.,36,35,1,11,0.5385231409975925,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+182,3,4:47,1187,1187,Official TV Timeout,36,35,1,15,0.5387507609385184,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+183,3,4:32,1172,1172,Hailey Dias-Allen missed Jumper.,36,35,1,0,0.5390548853461059,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+184,3,4:32,1172,1172,Georgia Southern Offensive Rebound.,36,35,1,2,0.5390548853461059,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+185,3,4:30,1170,1170,Foul on Jayla Alexander.,36,35,1,5,0.5390949967418553,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+186,3,4:25,1165,1165,Hailey Dias-Allen missed Jumper.,36,35,1,0,0.5391949109632185,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+187,3,4:25,1165,1165,Dominique Banks Block.,36,35,1,0,0.5391949109632185,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+188,3,4:25,1165,1165,Georgia Southern Offensive Rebound.,36,35,1,0,0.5391949109632185,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+189,3,4:25,1165,1165,Tatum Barber missed Jumper.,36,35,1,0,0.5391949109632185,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+190,3,4:25,1165,1165,Amira Atwater Offensive Rebound.,36,35,1,13,0.5391949109632185,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+191,3,4:12,1152,1152,Tatum Barber made Three Point Jumper. Assisted by Mya Burns.,36,38,-2,25,0.42158266890698076,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,Georgia Southern
+192,3,3:47,1127,1127,Dominique Banks missed Jumper.,36,38,-2,0,0.4206155338275931,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+193,3,3:47,1127,1127,Hailey Dias-Allen Defensive Rebound.,36,38,-2,23,0.4206155338275931,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+194,3,3:24,1104,1104,Nikki McDonald missed Jumper.,36,38,-2,0,0.41971833734652647,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+195,3,3:24,1104,1104,Dominique Banks Block.,36,38,-2,2,0.41971833734652647,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+196,3,3:22,1102,1102,Nikki McDonald Offensive Rebound.,36,38,-2,4,0.41963942992102704,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+197,3,3:18,1098,1098,Nikki McDonald missed Jumper.,36,38,-2,0,0.4194810337656094,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+198,3,3:18,1098,1098,Dominique Banks Block.,36,38,-2,5,0.4194810337656094,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+199,3,3:13,1093,1093,Taylor Smith Defensive Rebound.,36,38,-2,5,0.41928183924353213,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+200,3,3:08,1088,1088,Jayla Alexander Turnover.,36,38,-2,4,0.41908115752339864,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+201,3,3:04,1084,1084,Tatum Barber Steal.,36,38,-2,4,0.41891943010211274,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+202,3,3:00,1080,1080,Mya Burns missed Three Point Jumper.,36,38,-2,0,0.4187565601869328,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+203,3,3:00,1080,1080,Ole Miss Defensive Rebound.,36,38,-2,16,0.4187565601869328,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+204,3,2:44,1064,1064,Alexis Brown missed Three Point Jumper.,36,38,-2,0,0.4180919625579995,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+205,3,2:44,1064,1064,Torri Lewis Block.,36,38,-2,15,0.4180919625579995,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+206,3,2:29,1049,1049,Ole Miss Defensive Rebound.,36,38,-2,1,0.4174462569638532,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+207,3,2:28,1048,1048,Foul on Dominique Banks.,36,38,-2,17,0.4174023181404662,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+208,3,2:11,1031,1031,Tatum Barber missed Three Point Jumper.,36,38,-2,0,0.4166360861414005,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+209,3,2:11,1031,1031,Valerie Nesbitt Defensive Rebound.,36,38,-2,14,0.4166360861414005,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+210,3,1:57,1017,1017,Mimi Reid missed Three Point Jumper.,36,38,-2,0,0.4159746951330299,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+211,3,1:57,1017,1017,Nikki McDonald Defensive Rebound.,36,38,-2,28,0.4159746951330299,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+212,3,1:29,989,989,Mya Burns Turnover.,36,38,-2,1,0.4145544406970432,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+213,3,1:28,988,988,Torri Lewis Steal.,36,38,-2,6,0.41450104195972143,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+214,3,1:22,982,982,Foul on Mya Burns.,36,38,-2,0,0.41417645541462195,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+215,3,1:22,982,982,Torri Lewis made Free Throw.,37,38,-1,0,0.4567674095346485,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,Ole Miss
+216,3,1:22,982,982,Torri Lewis made Free Throw.,38,38,0,22,0.5,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,Ole Miss
+217,3,1:00,960,960,Nikki McDonald Turnover.,38,38,0,1,0.5,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+218,3,0:59,959,959,Mimi Reid Steal.,38,38,0,3,0.5,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+219,3,0:56,956,956,Mimi Reid made Layup.,40,38,2,15,0.5872649359249552,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,Ole Miss
+220,3,0:41,941,941,Amira Atwater missed Three Point Jumper.,40,38,2,0,0.5880270630885638,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+221,3,0:41,941,941,Georgia Southern Offensive Rebound.,40,38,2,9,0.5880270630885638,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+222,3,0:32,932,932,Nikki McDonald made Three Point Jumper. Assisted by Tatum Barber.,40,41,-1,25,0.4554190776307455,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,Georgia Southern
+223,3,0:07,907,907,Jayla Alexander made Three Point Jumper. Assisted by Valerie Nesbitt.,43,41,2,7,0.5895832830568589,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,Ole Miss
+224,3,0:00,900,900,End of 3rd Quarter,43,41,2,10,0.5898846434427828,Ole Miss,Georgia Southern,5,3,0,0,NA,401166998,2019-12-16,
+225,4,9:50,890,890,Dominique Banks Turnover.,43,41,2,1,0.590309514461411,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+226,4,9:49,889,889,Nikki McDonald Steal.,43,41,2,16,0.5903517647975273,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+227,4,9:33,873,873,Nikki McDonald missed Three Point Jumper.,43,41,2,0,0.591026673791575,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+228,4,9:33,873,873,Mimi Reid Defensive Rebound.,43,41,2,20,0.591026673791575,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+229,4,9:13,853,853,Mimi Reid missed Three Point Jumper.,43,41,2,0,0.591884642149386,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+230,4,9:13,853,853,Mimi Reid Offensive Rebound.,43,41,2,25,0.591884642149386,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+231,4,8:48,828,828,Foul on Nikki McDonald.,43,41,2,0,0.5930238003624897,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+232,4,8:48,828,828,Mimi Reid missed Free Throw.,43,41,2,0,0.5930238003624897,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+233,4,8:48,828,828,Ole Miss Deadball Team Rebound.,43,41,2,0,0.5930238003624897,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+234,4,8:48,828,828,Mimi Reid made Free Throw.,44,41,3,22,0.637543892466035,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,Ole Miss
+235,4,8:26,806,806,Hailey Dias-Allen made Layup. Assisted by Amira Atwater.,44,43,1,18,0.5474906790931879,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+236,4,8:08,788,788,Valerie Nesbitt missed Jumper.,44,43,1,0,0.5480099584776371,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+237,4,8:08,788,788,Iyanla Kitchens Offensive Rebound.,44,43,1,4,0.5480099584776371,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+238,4,8:04,784,784,Iyanla Kitchens missed Jumper.,44,43,1,0,0.5481331851978132,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+239,4,8:04,784,784,Alexis Brown Defensive Rebound.,44,43,1,14,0.5481331851978132,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+240,4,7:50,770,770,Tatum Barber missed Jumper.,44,43,1,0,0.548589903068157,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+241,4,7:50,770,770,Iyanla Kitchens Defensive Rebound.,44,43,1,6,0.548589903068157,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+242,4,7:44,764,764,Foul on Iyanla Kitchens.,44,43,1,0,0.548798697215382,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+243,4,7:44,764,764,Alexis Brown made Free Throw.,44,44,0,0,0.5,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+244,4,7:44,764,764,Iyanla Kitchens Turnover.,44,43,1,0,0.548798697215382,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+245,4,7:44,764,764,Alexis Brown made Free Throw.,44,45,-1,18,0.45120130278461806,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+246,4,7:26,746,746,Mya Burns missed Layup.,44,45,-1,0,0.45052249575519476,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+247,4,7:26,746,746,Jayla Alexander Defensive Rebound.,44,45,-1,21,0.45052249575519476,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+248,4,7:05,725,725,Valerie Nesbitt made Jumper.,46,45,1,23,0.5503728083909338,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,Ole Miss
+249,4,6:42,702,702,Hailey Dias-Allen missed Jumper.,46,45,1,0,0.5512833451996001,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+250,4,6:42,702,702,Dominique Banks Defensive Rebound.,46,45,1,23,0.5512833451996001,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+251,4,6:19,679,679,Torri Lewis made Three Point Jumper. Assisted by Jayla Alexander.,49,45,4,26,0.6977082640110623,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,Ole Miss
+252,4,5:53,653,653,Foul on Mimi Reid.,49,45,4,0,0.7006366992943975,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+253,4,5:53,653,653,Alexis Brown made Free Throw.,49,46,3,0,0.6542443746466693,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+254,4,5:53,653,653,Alexis Brown made Free Throw.,49,47,2,13,0.6047187176818142,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+255,4,5:40,640,640,Valerie Nesbitt Turnover.,49,47,2,0,0.605569986373049,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+256,4,5:40,640,640,Nikki McDonald Steal.,49,47,2,11,0.605569986373049,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+257,4,5:29,629,629,Foul on Torri Lewis.,49,47,2,0,0.6063231094120057,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+258,4,5:29,629,629,Hailey Dias-Allen missed Free Throw.,49,47,2,0,0.6063231094120057,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+259,4,5:29,629,629,Georgia Southern Deadball Team Rebound.,49,47,2,0,0.6063231094120057,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+260,4,5:29,629,629,Hailey Dias-Allen made Free Throw.,49,48,1,8,0.5537765090549134,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+261,4,5:21,621,621,Foul on Hailey Dias-Allen.,49,48,1,8,0.5540742543098134,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+262,4,5:13,613,613,Dominique Banks missed Jumper.,49,48,1,0,0.554387173000175,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+263,4,5:13,613,613,Valerie Nesbitt Offensive Rebound.,49,48,1,5,0.554387173000175,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+264,4,5:08,608,608,Valerie Nesbitt made Layup.,51,48,3,18,0.6587485241298197,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,Ole Miss
+265,4,4:50,590,590,Hailey Dias-Allen missed Jumper.,51,48,3,0,0.6609427246739727,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+266,4,4:50,590,590,Dominique Banks Defensive Rebound.,51,48,3,19,0.6609427246739727,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,
+267,4,4:31,571,571,Dominique Banks made Layup. Assisted by Jayla Alexander.,53,48,5,9,0.7563183845023131,Ole Miss,Georgia Southern,6,4,0,0,NA,401166998,2019-12-16,Ole Miss
+268,4,4:22,562,562,Georgia Southern  Timeout,53,48,5,0,0.7582990230637648,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,
+269,4,4:22,562,562,Official TV Timeout,53,48,5,1,0.7582990230637648,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,
+270,4,4:21,561,561,Alexis Brown Turnover.,53,48,5,1,0.7585285064228021,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,
+271,4,4:20,560,560,Valerie Nesbitt Steal.,53,48,5,2,0.7587599319777902,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,
+272,4,4:18,558,558,Valerie Nesbitt made Layup.,55,48,7,13,0.8331109406797441,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,Ole Miss
+273,4,4:05,545,545,Alexis Brown missed Layup.,55,48,7,0,0.8364837856577577,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,
+274,4,4:05,545,545,Dominique Banks Block.,55,48,7,0,0.8364837856577577,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,
+275,4,4:05,545,545,Georgia Southern Offensive Rebound.,55,48,7,7,0.8364837856577577,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,
+276,4,3:58,538,538,Nikki McDonald Turnover.,55,48,7,0,0.8381601567190858,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,
+277,4,3:58,538,538,Valerie Nesbitt Steal.,55,48,7,0,0.8381601567190858,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,
+278,4,3:58,538,538,Foul on Alexis Brown.,55,48,7,15,0.8381601567190858,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,
+279,4,3:43,523,523,Foul on Hailey Dias-Allen.,55,48,7,9,0.8413402743993528,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,
+280,4,3:34,514,514,Valerie Nesbitt missed Jumper.,55,48,7,0,0.8430676154111044,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,
+281,4,3:34,514,514,Georgia Southern Defensive Rebound.,55,48,7,3,0.8430676154111044,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,
+282,4,3:31,511,511,Foul on Valerie Nesbitt.,55,48,7,7,0.8436257159599467,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,
+283,4,3:24,504,504,Foul on Taylor Smith.,55,48,7,0,0.8449100210833408,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,
+284,4,3:24,504,504,Mya Burns missed Free Throw.,55,48,7,0,0.8449100210833408,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,
+285,4,3:24,504,504,Georgia Southern Deadball Team Rebound.,55,48,7,0,0.8449100210833408,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,
+286,4,3:24,504,504,Mya Burns made Free Throw.,55,49,6,12,0.8104673460730737,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,Georgia Southern
+287,4,3:12,492,492,Dominique Banks made Layup. Assisted by Mimi Reid.,57,49,8,14,0.8761786398071275,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,Ole Miss
+288,4,2:58,478,478,Tatum Barber missed Three Point Jumper.,57,49,8,0,0.8787711259651825,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+289,4,2:58,478,478,Nikki McDonald Offensive Rebound.,57,49,8,4,0.8787711259651825,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+290,4,2:54,474,474,Foul on Dominique Banks.,57,49,8,0,0.879559817986506,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+291,4,2:54,474,474,Nikki McDonald made Free Throw.,57,50,7,0,0.8506533789854154,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+292,4,2:54,474,474,Nikki McDonald made Free Throw.,57,51,6,13,0.8162585082473333,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+293,4,2:41,461,461,Valerie Nesbitt made Layup.,59,51,8,13,0.8823373038102249,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,Ole Miss
+294,4,2:28,448,448,Foul on Dominique Banks.,59,51,8,0,0.8855324233704066,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+295,4,2:28,448,448,Jordan Strange made Free Throw.,59,52,7,0,0.8569469262166213,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+296,4,2:28,448,448,Jordan Strange made Free Throw.,59,53,6,12,0.8226525446776337,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+297,4,2:16,436,436,Mimi Reid missed Layup.,59,53,6,0,0.8263505331864118,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+298,4,2:16,436,436,Jaiden Hamilton Defensive Rebound.,59,53,6,10,0.8263505331864118,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+299,4,2:06,426,426,Mya Burns missed Layup.,59,53,6,0,0.829822353919352,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+300,4,2:06,426,426,Dominique Banks Block.,59,53,6,0,0.829822353919352,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+301,4,2:06,426,426,Georgia Southern Offensive Rebound.,59,53,6,4,0.829822353919352,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+302,4,2:02,422,422,Nikki McDonald missed Layup.,59,53,6,0,0.8311772847983975,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+303,4,2:02,422,422,Dominique Banks Block.,59,53,6,1,0.8311772847983975,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+304,4,2:01,421,421,Georgia Southern Offensive Rebound.,59,53,6,4,0.8315090856012602,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+305,4,1:57,417,417,Nikki McDonald made Layup.,59,55,4,1,0.7446837228980363,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+306,4,1:56,416,416,Foul on Taylor Smith.,59,55,4,0,0.744974991992274,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+307,4,1:56,416,416,Nikki McDonald made Free Throw.,59,56,3,19,0.6908277132541502,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+308,4,1:37,397,397,Foul on Iyanla Kitchens.,59,56,3,0,0.6953098215112866,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+309,4,1:37,397,397,Iyanla Kitchens Turnover.,59,56,3,21,0.6953098215112866,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+310,4,1:16,376,376,Nikki McDonald made Layup.,59,58,1,17,0.5702315674166333,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+311,4,0:59,359,359,Foul on Mya Burns.,59,58,1,0,0.5719272280223192,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+312,4,0:59,359,359,Valerie Nesbitt made Free Throw.,60,58,2,0,0.6409378729700208,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,Ole Miss
+313,4,0:59,359,359,Valerie Nesbitt missed Free Throw.,60,58,2,0,0.6409378729700208,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+314,4,0:59,359,359,Taylor Smith Offensive Rebound.,60,58,2,15,0.6409378729700208,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+315,4,0:44,344,344,Dominique Banks missed Layup.,60,58,2,0,0.6441544500169621,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+316,4,0:44,344,344,Nikki McDonald Block.,60,58,2,2,0.6441544500169621,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+317,4,0:42,342,342,Ole Miss Defensive Rebound.,60,58,2,14,0.6446202711455762,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+318,4,0:28,328,328,Nikki McDonald missed Jumper.,60,58,2,0,0.6481752501275548,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+319,4,0:28,328,328,Jaiden Hamilton Offensive Rebound.,60,58,2,3,0.6481752501275548,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,
+320,4,0:25,325,325,Jaiden Hamilton made Layup.,60,60,0,21,0.5,Ole Miss,Georgia Southern,5,4,0,0,NA,401166998,2019-12-16,Georgia Southern
+321,4,0:04,304,304,Jayla Alexander Turnover.,60,60,0,0,0.5,Ole Miss,Georgia Southern,5,4,1,0,NA,401166998,2019-12-16,
+322,4,0:04,304,304,Georgia Southern  Timeout,60,60,0,2,0.5,Ole Miss,Georgia Southern,4,4,1,0,NA,401166998,2019-12-16,
+323,4,0:02,302,302,Nikki McDonald missed Jumper.,60,60,0,1,0.5,Ole Miss,Georgia Southern,4,4,1,0,NA,401166998,2019-12-16,
+324,4,0:01,301,301,Georgia Southern Offensive Rebound.,60,60,0,0,0.5,Ole Miss,Georgia Southern,4,4,1,0,NA,401166998,2019-12-16,
+325,4,0:01,301,301,Mya Burns missed Layup.,60,60,0,0,0.5,Ole Miss,Georgia Southern,4,4,1,0,NA,401166998,2019-12-16,
+326,4,0:01,301,301,Ole Miss Deadball Team Rebound.,60,60,0,1,0.5,Ole Miss,Georgia Southern,4,4,1,0,NA,401166998,2019-12-16,
+327,4,0:00,300,300,End of 4th Quarter,60,60,0,18,0.5,Ole Miss,Georgia Southern,4,4,1,0,NA,401166998,2019-12-16,
+328,5,4:42,282,282,Valerie Nesbitt made Layup. Assisted by Mimi Reid.,62,60,2,31,0.656763181808926,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,Ole Miss
+329,5,4:11,251,251,Amira Atwater missed Jumper.,62,60,2,0,0.6530763963693009,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,
+330,5,4:11,251,251,Torri Lewis Defensive Rebound.,62,60,2,26,0.6530763963693009,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,
+331,5,3:45,225,225,Torri Lewis missed Three Point Jumper.,62,60,2,0,0.6529082909733366,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,
+332,5,3:45,225,225,Nikki McDonald Defensive Rebound.,62,60,2,28,0.6529082909733366,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,
+333,5,3:17,197,197,Tatum Barber Turnover.,62,60,2,25,0.6645381331561045,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,
+334,5,2:52,172,172,Mimi Reid made Layup.,64,60,4,17,0.828016940661324,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,Ole Miss
+335,5,2:35,155,155,Tatum Barber missed Three Point Jumper.,64,60,4,0,0.849034635934114,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,
+336,5,2:35,155,155,Deja Cage Defensive Rebound.,64,60,4,17,0.849034635934114,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,
+337,5,2:18,138,138,Jayla Alexander Turnover.,64,60,4,15,0.8703011706534289,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,
+338,5,2:03,123,123,Nikki McDonald missed Three Point Jumper.,64,60,4,0,0.8894224743114189,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,
+339,5,2:03,123,123,Deja Cage Defensive Rebound.,64,60,4,34,0.8894224743114189,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,
+340,5,1:29,89,89,Ole Miss  Turnover.,64,60,4,4,0.9319952867858664,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,
+341,5,1:25,85,85,Amira Atwater missed Jumper.,64,60,4,0,0.9364397154426226,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,
+342,5,1:25,85,85,Jayla Alexander Defensive Rebound.,64,60,4,7,0.9364397154426226,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,
+343,5,1:18,78,78,Deja Cage missed Jumper.,64,60,4,0,0.9437798878210285,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,
+344,5,1:18,78,78,Hailey Dias-Allen Defensive Rebound.,64,60,4,10,0.9437798878210285,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,
+345,5,1:08,68,68,Amira Atwater missed Three Point Jumper.,64,60,4,0,0.9534460284223703,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,
+346,5,1:08,68,68,Torri Lewis Defensive Rebound.,64,60,4,18,0.9534460284223703,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,
+347,5,0:50,50,50,Foul on Alexis Brown.,64,60,4,0,0.967906124178248,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,
+348,5,0:50,50,50,Mimi Reid made Free Throw.,65,60,5,0,0.9860480712219178,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,Ole Miss
+349,5,0:50,50,50,Mimi Reid made Free Throw.,66,60,6,2,0.9939983720638899,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,Ole Miss
+350,5,0:48,48,48,Foul on Valerie Nesbitt.,66,60,6,0,0.9943914597439802,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,
+351,5,0:48,48,48,Tatum Barber made Free Throw.,66,61,5,0,0.9868080280146234,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,Georgia Southern
+352,5,0:48,48,48,Tatum Barber made Free Throw.,66,62,4,4,0.9692875630820613,Ole Miss,Georgia Southern,5,5,0,0,NA,401166998,2019-12-16,Georgia Southern
+353,5,0:44,44,44,Foul on Nikki McDonald.,66,62,4,0,0.9719266736616777,Ole Miss,Georgia Southern,5,5,1,0,NA,401166998,2019-12-16,
+354,5,0:44,44,44,Jayla Alexander missed Free Throw.,66,62,4,0,0.9719266736616777,Ole Miss,Georgia Southern,5,5,1,0,NA,401166998,2019-12-16,
+355,5,0:44,44,44,Ole Miss Deadball Team Rebound.,66,62,4,0,0.9719266736616777,Ole Miss,Georgia Southern,5,5,1,0,NA,401166998,2019-12-16,
+356,5,0:44,44,44,Jayla Alexander made Free Throw.,67,62,5,0,0.9882324895102231,Ole Miss,Georgia Southern,5,5,1,0,NA,401166998,2019-12-16,Ole Miss
+357,5,0:44,44,44,Georgia Southern  Timeout,67,62,5,2,0.9882324895102231,Ole Miss,Georgia Southern,4,5,1,0,NA,401166998,2019-12-16,
+358,5,0:42,42,42,Tatum Barber missed Layup.,67,62,5,0,0.9888987592382676,Ole Miss,Georgia Southern,4,5,1,0,NA,401166998,2019-12-16,
+359,5,0:42,42,42,Dominique Banks Defensive Rebound.,67,62,5,3,0.9888987592382676,Ole Miss,Georgia Southern,4,5,1,0,NA,401166998,2019-12-16,
+360,5,0:39,39,39,Foul on Nakol Franks.,67,62,5,0,0.9898418777433137,Ole Miss,Georgia Southern,4,5,1,0,NA,401166998,2019-12-16,
+361,5,0:39,39,39,Jayla Alexander made Free Throw.,68,62,6,0,0.9959100570324442,Ole Miss,Georgia Southern,4,5,1,0,NA,401166998,2019-12-16,Ole Miss
+362,5,0:39,39,39,Jayla Alexander made Free Throw.,69,62,7,5,0.9983592836080898,Ole Miss,Georgia Southern,4,5,1,0,NA,401166998,2019-12-16,Ole Miss
+363,5,0:34,34,34,Tatum Barber missed Layup.,69,62,7,0,0.9986747550717807,Ole Miss,Georgia Southern,4,5,1,0,NA,401166998,2019-12-16,
+364,5,0:34,34,34,Dominique Banks Block.,69,62,7,0,0.9986747550717807,Ole Miss,Georgia Southern,4,5,1,0,NA,401166998,2019-12-16,
+365,5,0:34,34,34,Georgia Southern Offensive Rebound.,69,62,7,5,0.9986747550717807,Ole Miss,Georgia Southern,4,5,1,0,NA,401166998,2019-12-16,
+366,5,0:29,29,29,Nikki McDonald made Layup. Assisted by Tatum Barber.,69,64,5,10,0.9925223005850036,Ole Miss,Georgia Southern,4,5,1,0,NA,401166998,2019-12-16,Georgia Southern
+367,5,0:19,19,19,Mimi Reid Turnover.,69,64,5,0,0.9945732917863148,Ole Miss,Georgia Southern,4,5,1,0,NA,401166998,2019-12-16,
+368,5,0:19,19,19,Nikki McDonald Steal.,69,64,5,5,0.9945732917863148,Ole Miss,Georgia Southern,4,5,1,0,NA,401166998,2019-12-16,
+369,5,0:14,14,14,Nikki McDonald made Layup.,69,66,3,6,0.9618843639125265,Ole Miss,Georgia Southern,4,5,1,0,NA,401166998,2019-12-16,Georgia Southern
+370,5,0:08,8,8,Foul on Tatum Barber.,69,66,3,0,0.9662502423978944,Ole Miss,Georgia Southern,4,5,1,0,NA,401166998,2019-12-16,
+371,5,0:08,8,8,Mimi Reid missed Free Throw.,69,66,3,0,0.9662502423978944,Ole Miss,Georgia Southern,4,5,1,0,NA,401166998,2019-12-16,
+372,5,0:08,8,8,Ole Miss Deadball Team Rebound.,69,66,3,0,0.9662502423978944,Ole Miss,Georgia Southern,4,5,1,0,NA,401166998,2019-12-16,
+373,5,0:08,8,8,Mimi Reid missed Free Throw.,69,66,3,0,0.9662502423978944,Ole Miss,Georgia Southern,4,5,1,0,NA,401166998,2019-12-16,
+374,5,0:08,8,8,Tatum Barber Defensive Rebound.,69,66,3,8,0.9662502423978944,Ole Miss,Georgia Southern,4,5,1,0,NA,401166998,2019-12-16,
+375,5,0:00,0,0,End of Game,69,66,3,0,1,Ole Miss,Georgia Southern,4,5,1,0,NA,401166998,2019-12-16,

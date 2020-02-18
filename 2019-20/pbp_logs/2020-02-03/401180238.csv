@@ -1,0 +1,390 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:40,2380,2380,Foul on Hannah White.,0,0,0,2,0.5,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,NA
+2,1,9:38,2378,2378,Jekalen Jones missed Three Point Jumper.,0,0,0,0,0.5,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+3,1,9:38,2378,2378,Ciani Cryor Turnover.,0,0,0,0,0.5,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+4,1,9:38,2378,2378,Texas Southern Offensive Rebound.,0,0,0,22,0.5,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+5,1,9:16,2356,2356,Jayla Crawford missed Jumper.,0,0,0,4,0.5,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+6,1,9:12,2352,2352,Hannah White Offensive Rebound.,0,0,0,18,0.5,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+7,1,8:54,2334,2334,Hannah White Turnover.,0,0,0,0,0.5,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+8,1,8:54,2334,2334,Richelle Velez Steal.,0,0,0,5,0.5,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+9,1,8:49,2329,2329,Niya Mitchell made Layup. Assisted by Richelle Velez.,0,2,-2,20,0.4544521819541921,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Texas Southern
+10,1,8:29,2309,2309,Ayana Emmanuel made Jumper. Assisted by Jayla Crawford.,2,2,0,11,0.5,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+11,1,8:18,2298,2298,Ciani Cryor made Layup.,2,4,-2,10,0.45376813915373904,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Texas Southern
+12,1,8:08,2288,2288,Hannah White made Layup.,4,4,0,9,0.5,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+13,1,7:59,2279,2279,Ciani Cryor Turnover.,4,4,0,0,0.5,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+14,1,7:59,2279,2279,Ayana Emmanuel Steal.,4,4,0,10,0.5,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+15,1,7:49,2269,2269,Foul on Jekalen Jones.,4,4,0,0,0.5,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+16,1,7:49,2269,2269,Aniyah Smith made Free Throw.,5,4,1,0,0.5234920529632237,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+17,1,7:49,2269,2269,Aniyah Smith made Free Throw.,6,4,2,7,0.5468806166740243,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+18,1,7:42,2262,2262,Destiny Arvinger missed Three Point Jumper.,6,4,2,4,0.547038345861369,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+19,1,7:38,2258,2258,Hannah White Defensive Rebound.,6,4,2,2,0.5471286592204017,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+20,1,7:36,2256,2256,Hannah White Turnover.,6,4,2,0,0.5471738642773869,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+21,1,7:36,2256,2256,Ciani Cryor Steal.,6,4,2,8,0.5471738642773869,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+22,1,7:28,2248,2248,Destiny Arvinger missed Jumper.,6,4,2,6,0.5473549972119557,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+23,1,7:22,2242,2242,Hannah White Defensive Rebound.,6,4,2,5,0.5474911634847673,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+24,1,7:17,2237,2237,Aniyah Smith missed Layup.,6,4,2,0,0.5476048335078287,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+25,1,7:17,2237,2237,Jekalen Jones Block.,6,4,2,1,0.5476048335078287,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+26,1,7:16,2236,2236,Aniyah Smith Offensive Rebound.,6,4,2,0,0.5476275884961723,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+27,1,7:16,2236,2236,Foul on Ciani Cryor.,6,4,2,0,0.5476275884961723,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+28,1,7:16,2236,2236,Aniyah Smith made Free Throw.,7,4,3,0,0.5711720209350643,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+29,1,7:16,2236,2236,Aniyah Smith made Free Throw.,8,4,4,7,0.5943986462740244,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+30,1,7:09,2229,2229,Official TV Timeout,8,4,4,11,0.5947090144780959,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+31,1,6:58,2218,2218,Lauren Lewis missed Layup.,8,4,4,2,0.5951978608019828,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+32,1,6:56,2216,2216,Zomoria Clark Defensive Rebound.,8,4,4,15,0.5952868806785487,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+33,1,6:41,2201,2201,Ayana Emmanuel missed Three Point Jumper.,8,4,4,3,0.5959557671447281,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+34,1,6:38,2198,2198,Texas Southern Defensive Rebound.,8,4,4,11,0.5960897878572667,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+35,1,6:27,2187,2187,Ataiya Bridges made Jumper.,8,6,2,19,0.5487499721246489,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Texas Southern
+36,1,6:08,2168,2168,Zomoria Clark missed Jumper.,8,6,2,1,0.5491883068455469,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+37,1,6:07,2167,2167,Foul on Ciani Cryor.,8,6,2,0,0.5492114226540541,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+38,1,6:07,2167,2167,Aniyah Smith made Free Throw.,9,6,3,0,0.5735200505663103,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+39,1,6:07,2167,2167,Aniyah Smith missed Free Throw.,9,6,3,1,0.5735200505663103,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+40,1,6:06,2166,2166,Aniyah Smith Offensive Rebound.,9,6,3,0,0.5735543170849603,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+41,1,6:06,2166,2166,Niya Mitchell Defensive Rebound.,9,6,3,26,0.5735543170849603,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+42,1,5:40,2140,2140,Ataiya Bridges missed Jumper.,9,6,3,2,0.5744490742188592,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+43,1,5:38,2138,2138,Niya Mitchell Offensive Rebound.,9,6,3,2,0.5745182203571922,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+44,1,5:36,2136,2136,Richelle Velez missed Three Point Jumper.,9,6,3,2,0.5745874139872303,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+45,1,5:34,2134,2134,Niya Mitchell Offensive Rebound.,9,6,3,16,0.5746566555022267,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+46,1,5:18,2118,2118,Richelle Velez missed Layup.,9,6,3,6,0.5752123586433557,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+47,1,5:12,2112,2112,Lauren Lewis Offensive Rebound.,9,6,3,0,0.575421584960564,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+48,1,5:12,2112,2112,Lauren Lewis missed Layup.,9,6,3,0,0.575421584960564,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+49,1,5:12,2112,2112,Zomoria Clark Block.,9,6,3,4,0.575421584960564,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+50,1,5:08,2108,2108,Niya Mitchell Offensive Rebound.,9,6,3,1,0.575561331505119,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+51,1,5:07,2107,2107,Niya Mitchell made Layup.,9,8,1,17,0.5253716422828273,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Texas Southern
+52,1,4:50,2090,2090,Foul on Niya Mitchell.,9,8,1,9,0.5255746628182693,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+53,1,4:41,2081,2081,Zomoria Clark missed Jumper.,9,8,1,3,0.5256827328619077,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+54,1,4:38,2078,2078,Zomoria Clark Offensive Rebound.,9,8,1,1,0.5257188497269558,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+55,1,4:37,2077,2077,Zomoria Clark Turnover.,9,8,1,0,0.5257308992204772,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+56,1,4:37,2077,2077,Ataiya Bridges Steal.,9,8,1,11,0.5257308992204772,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+57,1,4:26,2066,2066,Ataiya Bridges missed Jumper.,9,8,1,4,0.5258637970437559,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+58,1,4:22,2062,2062,Niya Mitchell Offensive Rebound.,9,8,1,5,0.5259122868853792,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+59,1,4:17,2057,2057,Ataiya Bridges made Three Point Jumper. Assisted by Lauren Lewis.,9,11,-2,21,0.44819374505431697,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Texas Southern
+60,1,3:56,2036,2036,Taylor Aikerson Turnover.,9,11,-2,0,0.44768460051119835,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+61,1,3:56,2036,2036,Niya Mitchell Steal.,9,11,-2,0,0.44768460051119835,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+62,1,3:56,2036,2036,Foul on Kaeani Berry.,9,11,-2,16,0.44768460051119835,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+63,1,3:40,2020,2020,Namiko Adams missed Jumper.,9,11,-2,3,0.44729323250677677,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+64,1,3:37,2017,2017,Courtney Lee Defensive Rebound.,9,11,-2,6,0.4472195062872298,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+65,1,3:31,2011,2011,Courtney Lee missed Three Point Jumper.,9,11,-2,2,0.4470717197588073,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+66,1,3:29,2009,2009,Niya Mitchell Defensive Rebound.,9,11,-2,13,0.4470223576140635,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+67,1,3:16,1996,1996,Namiko Adams missed Layup.,9,11,-2,3,0.4467002625316585,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+68,1,3:13,1993,1993,Niya Mitchell Offensive Rebound.,9,11,-2,7,0.4466256225821303,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+69,1,3:06,1986,1986,Lauren Lewis made Jumper.,9,13,-4,11,0.3941164843414033,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Texas Southern
+70,1,2:55,1975,1975,Foul on Namiko Adams.,9,13,-4,0,0.39358373055058293,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+71,1,2:55,1975,1975,Tyesha Rudolph missed Free Throw.,9,13,-4,0,0.39358373055058293,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+72,1,2:55,1975,1975,Alabama State Offensive Rebound.,9,13,-4,15,0.39358373055058293,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+73,1,2:40,1960,1960,Foul on Destiny Arvinger.,9,13,-4,0,0.39285236259980805,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+74,1,2:40,1960,1960,Destiny Arvinger Turnover.,9,13,-4,5,0.39285236259980805,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+75,1,2:35,1955,1955,Tyesha Rudolph made Free Throw.,10,13,-3,1,0.41890398068973295,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+76,1,2:34,1954,1954,Jayla Crawford missed Three Point Jumper.,10,13,-3,3,0.41886639524066294,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+77,1,2:31,1951,1951,Niya Mitchell Defensive Rebound.,10,13,-3,3,0.4187535137825316,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+78,1,2:28,1948,1948,Foul on Zomoria Clark.,10,13,-3,11,0.4186404436498843,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+79,1,2:17,1937,1937,Tamaria White missed Three Point Jumper.,10,13,-3,3,0.41822421801601556,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+80,1,2:14,1934,1934,Niya Mitchell Offensive Rebound.,10,13,-3,15,0.4181102502804134,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+81,1,1:59,1919,1919,Destiny Arvinger missed Three Point Jumper.,10,13,-3,2,0.4175392569122703,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+82,1,1:57,1917,1917,Niya Mitchell Offensive Rebound.,10,13,-3,19,0.41746321244888296,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+83,1,1:38,1898,1898,Tamaria White made Layup.,10,15,-5,23,0.3634843404661709,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Texas Southern
+84,1,1:15,1875,1875,Aniyah Smith missed Layup.,10,15,-5,2,0.36210021255014346,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+85,1,1:13,1873,1873,Alabama State Offensive Rebound.,10,15,-5,20,0.36197983189497507,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+86,1,0:53,1853,1853,Jayla Crawford missed Jumper.,10,15,-5,0,0.36077465727658997,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+87,1,0:53,1853,1853,Ryann Lewis Block.,10,15,-5,6,0.36077465727658997,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+88,1,0:47,1847,1847,Ayana Emmanuel Offensive Rebound.,10,15,-5,0,0.36041236116017117,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+89,1,0:47,1847,1847,Ayana Emmanuel made Layup.,12,15,-3,10,0.4148029843375389,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+90,1,0:37,1837,1837,Breasia McElrath made Jumper. Assisted by Ataiya Bridges.,12,17,-5,0,0.3598074313454117,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Texas Southern
+91,1,0:37,1837,1837,Foul on Aniyah Smith.,12,17,-5,0,0.3598074313454117,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+92,1,0:37,1837,1837,Breasia McElrath missed Free Throw.,12,17,-5,1,0.3598074313454117,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+93,1,0:36,1836,1836,Aniyah Smith Defensive Rebound.,12,17,-5,0,0.3597468515238715,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+94,1,0:36,1836,1836,Foul on Ataiya Bridges.,12,17,-5,0,0.3597468515238715,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+95,1,0:36,1836,1836,Aniyah Smith made Free Throw.,13,17,-4,0,0.3867081999499275,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+96,1,0:36,1836,1836,Aniyah Smith made Free Throw.,14,17,-3,17,0.4143823923767152,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+97,1,0:19,1819,1819,Ataiya Bridges missed Jumper.,14,17,-3,3,0.4137292653879389,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+98,1,0:16,1816,1816,Ryann Lewis Offensive Rebound.,14,17,-3,15,0.41361354444576404,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+99,1,0:01,1801,1801,Destiny Arvinger missed Jumper.,14,17,-3,1,0.4130325009831776,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+100,1,0:00,1800,1800,Tyesha Rudolph Defensive Rebound.,14,17,-3,0,0.4129936088523014,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+101,1,0:00,1800,1800,End of 1st Quarter,14,17,-3,13,0.4129936088523014,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+102,2,9:47,1787,1787,Ayana Emmanuel made Three Point Jumper. Assisted by Hannah White.,17,17,0,21,0.5,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+103,2,9:26,1766,1766,Ataiya Bridges missed Jumper.,17,17,0,2,0.5,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+104,2,9:24,1764,1764,Breasia McElrath Offensive Rebound.,17,17,0,1,0.5,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+105,2,9:23,1763,1763,Breasia McElrath made Jumper.,17,19,-2,15,0.4406789550483938,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Texas Southern
+106,2,9:08,1748,1748,Tyesha Rudolph missed Jumper.,17,19,-2,2,0.4402712822753347,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+107,2,9:06,1746,1746,Namiko Adams Defensive Rebound.,17,19,-2,5,0.44021655583996494,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+108,2,9:01,1741,1741,Namiko Adams made Layup.,17,21,-4,0,0.38185546346997784,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Texas Southern
+109,2,9:01,1741,1741,Foul on Tyesha Rudolph.,17,21,-4,0,0.38185546346997784,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+110,2,9:01,1741,1741,Namiko Adams missed Free Throw.,17,21,-4,2,0.38185546346997784,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+111,2,8:59,1739,1739,Taylor Aikerson Defensive Rebound.,17,21,-4,17,0.3817499999536255,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+112,2,8:42,1722,1722,Taylor Aikerson missed Three Point Jumper.,17,21,-4,0,0.38084630191862134,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+113,2,8:42,1722,1722,Zomoria Clark Offensive Rebound.,17,21,-4,0,0.38084630191862134,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+114,2,8:42,1722,1722,Foul on Niya Mitchell.,17,21,-4,4,0.38084630191862134,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+115,2,8:38,1718,1718,Zomoria Clark missed Jumper.,17,21,-4,4,0.3806316877139175,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+116,2,8:34,1714,1714,Ryann Lewis Defensive Rebound.,17,21,-4,0,0.3804162815168215,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+117,2,8:34,1714,1714,Foul on Hannah White.,17,21,-4,25,0.3804162815168215,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+118,2,8:09,1689,1689,Ryann Lewis missed Jumper.,17,21,-4,2,0.3790509936106037,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+119,2,8:07,1687,1687,Texas Southern Offensive Rebound.,17,21,-4,6,0.37894086470726446,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+120,2,8:01,1681,1681,Breasia McElrath missed Jumper.,17,21,-4,0,0.3786126091902799,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+121,2,8:01,1681,1681,Aniyah Smith Block.,17,21,-4,3,0.3786126091902799,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+122,2,7:58,1678,1678,Aniyah Smith Defensive Rebound.,17,21,-4,7,0.37844962820694666,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+123,2,7:51,1671,1671,Taylor Aikerson missed Jumper.,17,21,-4,0,0.37807211639726745,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+124,2,7:51,1671,1671,Breasia McElrath Block.,17,21,-4,0,0.37807211639726745,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+125,2,7:51,1671,1671,Alabama State Offensive Rebound.,17,21,-4,4,0.37807211639726745,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+126,2,7:47,1667,1667,Ayana Emmanuel Turnover.,17,21,-4,23,0.3778580333413283,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+127,2,7:24,1644,1644,Tamaria White missed Jumper.,17,21,-4,4,0.37664649112549553,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+128,2,7:20,1640,1640,Courtney Lee Defensive Rebound.,17,21,-4,0,0.37643858550300296,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+129,2,7:20,1640,1640,Foul on Tamaria White.,17,21,-4,20,0.37643858550300296,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+130,2,7:00,1620,1620,Courtney Lee made Jumper.,19,21,-2,8,0.436705504728174,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+131,2,6:52,1612,1612,Ataiya Bridges Turnover.,19,21,-2,22,0.43649057371072647,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+132,2,6:30,1590,1590,Jayla Crawford Turnover.,19,21,-2,16,0.4359003923832603,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+133,2,6:14,1574,1574,Namiko Adams made Jumper. Assisted by Jekalen Jones.,19,23,-4,11,0.3730534235914251,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Texas Southern
+134,2,6:03,1563,1563,Ayana Emmanuel made Jumper.,21,23,-2,10,0.435171027598482,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+135,2,5:53,1553,1553,Jekalen Jones made Three Point Jumper. Assisted by Ataiya Bridges.,21,26,-5,15,0.34192177973691096,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Texas Southern
+136,2,5:38,1538,1538,Ayana Emmanuel Turnover.,21,26,-5,0,0.3409713476189267,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+137,2,5:38,1538,1538,Ataiya Bridges Steal.,21,26,-5,7,0.3409713476189267,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+138,2,5:31,1531,1531,Namiko Adams Turnover.,21,26,-5,18,0.3405222952386899,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+139,2,5:13,1513,1513,Foul on Tamaria White.,21,26,-5,2,0.3393478270504655,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+140,2,5:11,1511,1511,Tyesha Rudolph made Layup. Assisted by Courtney Lee.,23,26,-3,6,0.4012941560836844,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+141,2,5:05,1505,1505,Official TV Timeout,23,26,-3,14,0.4010368415168001,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+142,2,4:51,1491,1491,Ataiya Bridges missed Layup.,23,26,-3,0,0.4004254462216812,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+143,2,4:51,1491,1491,Jayla Crawford Block.,23,26,-3,1,0.4004254462216812,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+144,2,4:50,1490,1490,Richelle Velez Offensive Rebound.,23,26,-3,0,0.4003811449176373,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+145,2,4:50,1490,1490,Foul on Jayla Crawford.,23,26,-3,3,0.4003811449176373,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+146,2,4:47,1487,1487,Ataiya Bridges Turnover.,23,26,-3,0,0.40024770860618974,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+147,2,4:47,1487,1487,Zomoria Clark Steal.,23,26,-3,5,0.40024770860618974,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+148,2,4:42,1482,1482,Foul on Lauren Lewis.,23,26,-3,0,0.40002349308903007,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+149,2,4:42,1482,1482,Aniyah Smith missed Free Throw.,23,26,-3,0,0.40002349308903007,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+150,2,4:42,1482,1482,Alabama State Offensive Rebound.,23,26,-3,0,0.40002349308903007,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+151,2,4:42,1482,1482,Aniyah Smith made Free Throw.,24,26,-2,15,0.43284699450996045,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+152,2,4:27,1467,1467,Foul on Zomoria Clark.,24,26,-2,0,0.4323783093498261,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+153,2,4:27,1467,1467,Breasia McElrath made Free Throw.,24,28,-4,0,0.3671858913048227,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Texas Southern
+154,2,4:27,1467,1467,Breasia McElrath made Free Throw.,24,27,-3,19,0.3993362842478114,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+155,2,4:08,1448,1448,Jayla Crawford Turnover.,24,28,-4,21,0.3660177996432793,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Texas Southern
+156,2,3:47,1427,1427,Namiko Adams missed Layup.,24,28,-4,2,0.3647388779417739,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+157,2,3:45,1425,1425,Breasia McElrath Offensive Rebound.,24,28,-4,4,0.3646198385576227,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+158,2,3:41,1421,1421,Foul on Tyesha Rudolph.,24,28,-4,0,0.3643830018445816,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+159,2,3:41,1421,1421,Breasia McElrath missed Free Throw.,24,28,-4,0,0.3643830018445816,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+160,2,3:41,1421,1421,Texas Southern Offensive Rebound.,24,28,-4,0,0.3643830018445816,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+161,2,3:41,1421,1421,Breasia McElrath made Free Throw.,24,29,-5,28,0.33281328204365856,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Texas Southern
+162,2,3:13,1393,1393,Kaeani Berry made Jumper. Assisted by Courtney Lee.,26,29,-3,25,0.39590753275309903,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+163,2,2:48,1368,1368,Ataiya Bridges missed Layup.,26,29,-3,3,0.39480881569196985,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+164,2,2:45,1365,1365,Courtney Lee Defensive Rebound.,26,29,-3,7,0.39467736687218563,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+165,2,2:38,1358,1358,Aniyah Smith missed Jumper.,26,29,-3,4,0.3943704081327692,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+166,2,2:34,1354,1354,Breasia McElrath Defensive Rebound.,26,29,-3,15,0.3941947046811711,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+167,2,2:19,1339,1339,Namiko Adams missed Layup.,26,29,-3,0,0.39353214650722035,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+168,2,2:19,1339,1339,Kaeani Berry Block.,26,29,-3,1,0.39353214650722035,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+169,2,2:18,1338,1338,Namiko Adams Offensive Rebound.,26,29,-3,0,0.3934876949813265,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+170,2,2:18,1338,1338,Foul on Kaeani Berry.,26,29,-3,0,0.3934876949813265,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+171,2,2:18,1338,1338,Namiko Adams missed Free Throw.,26,29,-3,0,0.3934876949813265,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+172,2,2:18,1338,1338,Texas Southern Offensive Rebound.,26,29,-3,0,0.3934876949813265,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+173,2,2:18,1338,1338,Namiko Adams made Free Throw.,26,30,-4,11,0.3596461475475433,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Texas Southern
+174,2,2:07,1327,1327,Armani Smith Turnover.,26,30,-4,0,0.359013064508366,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+175,2,2:07,1327,1327,Namiko Adams Steal.,26,30,-4,3,0.359013064508366,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+176,2,2:04,1324,1324,Ataiya Bridges made Layup. Assisted by Namiko Adams.,26,32,-6,21,0.29512730569532303,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Texas Southern
+177,2,1:43,1303,1303,Aniyah Smith missed Layup.,26,32,-6,3,0.29344531021990794,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+178,2,1:40,1300,1300,Ataiya Bridges Defensive Rebound.,26,32,-6,1,0.2932001250836879,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+179,2,1:39,1299,1299,Foul on Ayana Emmanuel.,26,32,-6,0,0.2931180849571928,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+180,2,1:39,1299,1299,Jekalen Jones made Free Throw.,26,33,-7,0,0.26366559385901267,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Texas Southern
+181,2,1:39,1299,1299,Jekalen Jones made Free Throw.,26,34,-8,17,0.23618369666911043,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Texas Southern
+182,2,1:22,1282,1282,Foul on Richelle Velez.,26,34,-8,0,0.23453566740986795,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+183,2,1:22,1282,1282,Aniyah Smith missed Layup.,26,34,-8,0,0.23453566740986795,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+184,2,1:22,1282,1282,Breasia McElrath Defensive Rebound.,26,34,-8,0,0.23453566740986795,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+185,2,1:22,1282,1282,Ayana Emmanuel made Free Throw.,27,34,-7,0,0.2621128862048773,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+186,2,1:22,1282,1282,Ayana Emmanuel made Free Throw.,28,34,-6,1,0.29169703466371677,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+187,2,1:21,1281,1281,Breasia McElrath missed Layup.,28,34,-6,18,0.29161175890482577,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+188,2,1:03,1263,1263,Alabama State Defensive Rebound.,28,34,-6,19,0.2900400199655673,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+189,2,0:44,1244,1244,Ayana Emmanuel missed Three Point Jumper.,28,34,-6,2,0.28829515100739384,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+190,2,0:42,1242,1242,Texas Southern Defensive Rebound.,28,34,-6,26,0.2881057335646989,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+191,2,0:16,1216,1216,Ataiya Bridges missed Jumper.,28,34,-6,3,0.28553096231899366,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+192,2,0:13,1213,1213,Tyesha Rudolph Defensive Rebound.,28,34,-6,10,0.2852194593445607,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+193,2,0:03,1203,1203,Tyesha Rudolph missed Jumper.,28,34,-6,0,0.28417293563761176,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+194,2,0:03,1203,1203,Tyesha Rudolph Offensive Rebound.,28,34,-6,3,0.28417293563761176,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+195,2,0:00,1200,1200,Foul on Ataiya Bridges.,28,34,-6,0,0.28386293076294067,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+196,2,0:00,1200,1200,Tyesha Rudolph made Free Throw.,29,34,-5,0,0.3162303721963287,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,Alabama State
+197,2,0:00,1200,1200,Tyesha Rudolph missed Free Throw.,29,34,-5,0,0.3162303721963287,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+198,2,0:00,1200,1200,Jekalen Jones Defensive Rebound.,29,34,-5,0,0.3162303721963287,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+199,2,0:00,1200,1200,End of 2nd Quarter,28,34,-6,22,0.28386293076294067,Alabama State,Texas Southern,4,4,0,0,NA,401180238,2020-02-03,
+200,3,9:38,1178,1178,Jayla Crawford Turnover.,29,34,-5,15,0.3142640273138082,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Alabama State
+201,3,9:23,1163,1163,Niya Mitchell made Jumper.,29,36,-7,33,0.2495832785884907,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Texas Southern
+202,3,8:50,1130,1130,Ayana Emmanuel missed Jumper.,29,36,-7,0,0.24616023986226804,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+203,3,8:50,1130,1130,Alabama State Offensive Rebound.,29,36,-7,2,0.24616023986226804,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+204,3,8:48,1128,1128,Alabama State  Turnover.,29,36,-7,10,0.24595402775467065,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+205,3,8:38,1118,1118,Niya Mitchell made Layup.,29,38,-9,0,0.19037702921138666,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Texas Southern
+206,3,8:38,1118,1118,Foul on Aniyah Smith.,29,38,-9,0,0.19037702921138666,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+207,3,8:38,1118,1118,Niya Mitchell missed Free Throw.,29,38,-9,3,0.19037702921138666,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+208,3,8:35,1115,1115,Dereseia Randle Defensive Rebound.,29,38,-9,8,0.1900445835895029,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+209,3,8:27,1107,1107,Foul on Hannah White.,29,38,-9,0,0.18915605636687852,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+210,3,8:27,1107,1107,Hannah White Turnover.,29,38,-9,11,0.18915605636687852,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+211,3,8:16,1096,1096,Texas Southern  Turnover.,29,38,-9,18,0.18792678779727243,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+212,3,7:58,1078,1078,Ayana Emmanuel missed Layup.,29,38,-9,0,0.18588496268723004,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+213,3,7:58,1078,1078,Jekalen Jones Block.,29,38,-9,6,0.18588496268723004,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+214,3,7:52,1072,1072,Jekalen Jones Defensive Rebound.,29,38,-9,2,0.18519307335866786,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+215,3,7:50,1070,1070,Destiny Arvinger made Layup.,29,40,-11,2,0.1403160889062254,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Texas Southern
+216,3,7:48,1068,1068,Official TV Timeout,29,40,-11,20,0.14008834767987252,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+217,3,7:28,1048,1048,Zomoria Clark missed Layup.,29,40,-11,3,0.13776782425863898,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+218,3,7:25,1045,1045,Niya Mitchell Defensive Rebound.,29,40,-11,3,0.13741211853761595,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+219,3,7:22,1042,1042,Richelle Velez made Layup. Assisted by Destiny Arvinger.,29,42,-13,16,0.10206237497692248,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Texas Southern
+220,3,7:06,1026,1026,Foul on Richelle Velez.,29,42,-13,0,0.10028021755138355,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+221,3,7:06,1026,1026,Jayla Crawford made Free Throw.,30,42,-12,0,0.11656827597695536,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Alabama State
+222,3,7:06,1026,1026,Jayla Crawford made Free Throw.,31,42,-11,13,0.13510465885467304,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Alabama State
+223,3,6:53,1013,1013,Jekalen Jones made Three Point Jumper. Assisted by Richelle Velez.,31,45,-14,19,0.0846450298184251,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Texas Southern
+224,3,6:34,994,994,Jayla Crawford missed Jumper.,31,45,-14,2,0.08252179531189589,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+225,3,6:32,992,992,Zomoria Clark Offensive Rebound.,31,45,-14,1,0.08229271635881179,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+226,3,6:31,991,991,Zomoria Clark missed Layup.,31,45,-14,0,0.08217776160248334,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+227,3,6:31,991,991,Niya Mitchell Defensive Rebound.,31,45,-14,15,0.08217776160248334,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+228,3,6:16,976,976,Richelle Velez missed Three Point Jumper.,31,45,-14,4,0.08041924254209176,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+229,3,6:12,972,972,Texas Southern Offensive Rebound.,31,45,-14,10,0.07993915666308465,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+230,3,6:02,962,962,Foul on Zomoria Clark.,31,45,-14,0,0.07875505574917802,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+231,3,6:02,962,962,Niya Mitchell made Free Throw.,31,46,-15,0,0.0669162122268419,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Texas Southern
+232,3,6:02,962,962,Niya Mitchell made Free Throw.,31,47,-16,20,0.0567474159441348,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Texas Southern
+233,3,5:42,942,942,Ayana Emmanuel missed Three Point Jumper.,31,47,-16,4,0.05494540025347616,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+234,3,5:38,938,938,Destiny Arvinger Defensive Rebound.,31,47,-16,3,0.05461224657578843,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+235,3,5:35,935,935,Ciani Cryor made Layup. Assisted by Destiny Arvinger.,31,49,-18,15,0.03867578898199772,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Texas Southern
+236,3,5:20,920,920,Courtney Lee made Layup.,33,49,-16,7,0.053201912504855266,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Alabama State
+237,3,5:13,913,913,Jekalen Jones missed Three Point Jumper.,33,49,-16,3,0.05268602269100186,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+238,3,5:10,910,910,Alabama State Defensive Rebound.,33,49,-16,10,0.05246945008010185,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+239,3,5:00,900,900,Foul on Destiny Arvinger.,33,49,-16,0,0.051764015930579735,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+240,3,5:00,900,900,Official TV Timeout,33,49,-16,0,0.051764015930579735,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+241,3,5:00,900,900,Taylor Aikerson missed Free Throw.,33,49,-16,0,0.051764015930579735,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+242,3,5:00,900,900,Alabama State Offensive Rebound.,33,49,-16,0,0.051764015930579735,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+243,3,5:00,900,900,Taylor Aikerson made Free Throw.,34,49,-15,5,0.0614470235463423,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Alabama State
+244,3,4:55,895,895,Foul on Ayana Emmanuel.,34,49,-15,0,0.061067141910143174,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+245,3,4:55,895,895,Ciani Cryor made Free Throw.,34,50,-16,0,0.05141923091062105,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Texas Southern
+246,3,4:55,895,895,Ciani Cryor made Free Throw.,34,51,-17,16,0.043225407714563735,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Texas Southern
+247,3,4:39,879,879,Taylor Aikerson missed Three Point Jumper.,34,51,-17,2,0.04225375783908045,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+248,3,4:37,877,877,Tyesha Rudolph Offensive Rebound.,34,51,-17,3,0.04213391816950485,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+249,3,4:34,874,874,Aniyah Smith made Layup. Assisted by Tyesha Rudolph.,36,51,-15,21,0.05950912192909385,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Alabama State
+250,3,4:13,853,853,Niya Mitchell made Layup.,36,53,-17,29,0.04069999125620667,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Texas Southern
+251,3,3:44,824,824,Courtney Lee missed Jumper.,36,53,-17,4,0.038908031981291134,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+252,3,3:40,820,820,Niya Mitchell Defensive Rebound.,36,53,-17,7,0.03865015505953931,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+253,3,3:33,813,813,Richelle Velez missed Three Point Jumper.,36,53,-17,3,0.03819059058478466,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+254,3,3:30,810,810,Courtney Lee Defensive Rebound.,36,53,-17,5,0.03799015766669987,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+255,3,3:25,805,805,Taylor Aikerson missed Jumper.,36,53,-17,2,0.03765112656911412,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+256,3,3:23,803,803,Ciani Cryor Defensive Rebound.,36,53,-17,5,0.03751369676406883,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+257,3,3:18,798,798,Ciani Cryor missed Layup.,36,53,-17,2,0.037165362126464194,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+258,3,3:16,796,796,Niya Mitchell Offensive Rebound.,36,53,-17,0,0.03702406217171155,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+259,3,3:16,796,796,Foul on Taylor Aikerson.,36,53,-17,0,0.03702406217171155,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+260,3,3:16,796,796,Niya Mitchell missed Free Throw.,36,53,-17,0,0.03702406217171155,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+261,3,3:16,796,796,Texas Southern Offensive Rebound.,36,53,-17,0,0.03702406217171155,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+262,3,3:16,796,796,Niya Mitchell missed Free Throw.,36,53,-17,1,0.03702406217171155,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+263,3,3:15,795,795,Aniyah Smith Defensive Rebound.,36,53,-17,12,0.03695297947966837,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+264,3,3:03,783,783,Foul on Jekalen Jones.,36,53,-17,0,0.036076456400238766,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+265,3,3:03,783,783,Ayana Emmanuel made Free Throw.,37,53,-16,0,0.04343370444495248,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Alabama State
+266,3,3:03,783,783,Ayana Emmanuel made Free Throw.,38,53,-15,20,0.05221008419293902,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Alabama State
+267,3,2:43,763,763,Richelle Velez missed Layup.,38,53,-15,2,0.05023851877193183,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+268,3,2:41,761,761,Tyesha Rudolph Defensive Rebound.,38,53,-15,4,0.050031010493954274,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+269,3,2:37,757,757,Tyesha Rudolph made Layup.,40,53,-13,22,0.07182502827038906,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Alabama State
+270,3,2:15,735,735,Ciani Cryor missed Three Point Jumper.,40,53,-13,4,0.06879871971692517,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+271,3,2:11,731,731,Tyesha Rudolph Defensive Rebound.,40,53,-13,26,0.0682125405518262,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+272,3,1:45,705,705,Jayla Crawford missed Jumper.,40,53,-13,3,0.06474880899768233,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+273,3,1:42,702,702,Niya Mitchell Defensive Rebound.,40,53,-13,3,0.0643957642429808,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+274,3,1:39,699,699,Foul on Zomoria Clark.,40,53,-13,0,0.06405028450943148,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+275,3,1:39,699,699,Richelle Velez made Free Throw.,40,54,-14,0,0.052740332755569164,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Texas Southern
+276,3,1:39,699,699,Richelle Velez missed Free Throw.,40,54,-14,0,0.052740332755569164,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+277,3,1:39,699,699,Texas Southern Offensive Rebound.,40,54,-14,14,0.052740332755569164,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+278,3,1:25,685,685,Foul on Dereseia Randle.,40,54,-14,0,0.0513703754152247,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+279,3,1:25,685,685,Niya Mitchell made Free Throw.,40,55,-15,0,0.04211840248396499,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Texas Southern
+280,3,1:25,685,685,Niya Mitchell made Free Throw.,40,56,-16,9,0.03447218824195481,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Texas Southern
+281,3,1:16,676,676,Foul on Ataiya Bridges.,40,56,-16,0,0.03382591215418484,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+282,3,1:16,676,676,Foul on Dereseia Randle.,40,56,-16,0,0.03382591215418484,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+283,3,1:16,676,676,Dereseia Randle Turnover.,40,56,-16,6,0.03382591215418484,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+284,3,1:10,670,670,Namiko Adams Turnover.,40,56,-16,19,0.033407896789752596,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+285,3,0:51,651,651,Tyesha Rudolph made Layup. Assisted by Hannah White.,42,56,-14,13,0.04834035459590994,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Alabama State
+286,3,0:38,638,638,Ciani Cryor missed Three Point Jumper.,42,56,-14,2,0.04719902678815616,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+287,3,0:36,636,636,Foul on Breasia McElrath.,42,56,-14,0,0.047020958584780816,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+288,3,0:36,636,636,Dereseia Randle missed Free Throw.,42,56,-14,0,0.047020958584780816,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+289,3,0:36,636,636,Alabama State Offensive Rebound.,42,56,-14,0,0.047020958584780816,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+290,3,0:36,636,636,Dereseia Randle made Free Throw.,43,56,-13,0,0.057645412930499004,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,Alabama State
+291,3,0:36,636,636,Dereseia Randle Defensive Rebound.,43,56,-13,31,0.057645412930499004,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+292,3,0:05,605,605,Ciani Cryor missed Three Point Jumper.,43,56,-13,2,0.054331930339258094,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+293,3,0:03,603,603,Ayana Emmanuel Defensive Rebound.,43,56,-13,2,0.05410024437880637,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+294,3,0:01,601,601,Courtney Lee Turnover.,43,56,-13,1,0.05386588888867159,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+295,3,0:00,600,600,End of 3rd Quarter,43,56,-13,14,0.05374768640643379,Alabama State,Texas Southern,5,5,0,0,NA,401180238,2020-02-03,
+296,4,9:46,586,586,Richelle Velez made Three Point Jumper. Assisted by Ciani Cryor.,43,59,-16,11,0.027313990015870728,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,Texas Southern
+297,4,9:35,575,575,Foul on Destiny Arvinger.,43,59,-16,19,0.026342730944309615,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+298,4,9:16,556,556,Courtney Lee missed Jumper.,43,59,-16,2,0.02452078463228601,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+299,4,9:14,554,554,Texas Southern Defensive Rebound.,43,59,-16,17,0.02431819899415767,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+300,4,8:57,537,537,Richelle Velez made Three Point Jumper. Assisted by Ataiya Bridges.,43,62,-19,16,0.011334737331087422,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,Texas Southern
+301,4,8:41,521,521,Ayana Emmanuel Turnover.,43,62,-19,0,0.010602005311819538,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+302,4,8:41,521,521,Ciani Cryor Steal.,43,62,-19,7,0.010602005311819538,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+303,4,8:34,514,514,Ciani Cryor missed Jumper.,43,62,-19,1,0.010319525779687058,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+304,4,8:33,513,513,Texas Southern Offensive Rebound.,43,62,-19,7,0.01028044806860203,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+305,4,8:26,506,506,Alaysia Ready Turnover.,43,62,-19,0,0.010013437236392942,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+306,4,8:26,506,506,Tyesha Rudolph Steal.,43,62,-19,30,0.010013437236392942,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+307,4,7:56,476,476,Ayana Emmanuel missed Three Point Jumper.,43,62,-19,2,0.008895849634985697,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+308,4,7:54,474,474,Niya Mitchell Defensive Rebound.,43,62,-19,3,0.008817700449652074,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+309,4,7:51,471,471,Richelle Velez missed Three Point Jumper.,43,62,-19,4,0.008698732526526063,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+310,4,7:47,467,467,Tyesha Rudolph Defensive Rebound.,43,62,-19,1,0.008536520414585441,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+311,4,7:46,466,466,Foul on Niya Mitchell.,43,62,-19,13,0.008495278022530755,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+312,4,7:33,453,453,Courtney Lee made Layup.,45,62,-17,21,0.013116014660113518,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,Alabama State
+313,4,7:12,432,432,Niya Mitchell Turnover.,45,62,-17,0,0.011579083024591832,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+314,4,7:12,432,432,Dereseia Randle Steal.,45,62,-17,21,0.011579083024591832,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+315,4,6:51,411,411,Foul on Richelle Velez.,45,62,-17,0,0.01007017539074421,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+316,4,6:51,411,411,Hannah White made Free Throw.,46,62,-16,0,0.013149039783068955,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,Alabama State
+317,4,6:51,411,411,Hannah White made Free Throw.,47,62,-15,11,0.017152928016009768,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,Alabama State
+318,4,6:40,400,400,Ciani Cryor missed Layup.,47,62,-15,3,0.01615950321137483,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+319,4,6:37,397,397,Dereseia Randle Defensive Rebound.,47,62,-15,16,0.01590153359500583,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+320,4,6:21,381,381,Courtney Lee made Layup.,49,62,-13,8,0.02529188308329818,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,Alabama State
+321,4,6:13,373,373,Ataiya Bridges missed Layup.,49,62,-13,0,0.02432848618395237,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+322,4,6:13,373,373,Dereseia Randle Block.,49,62,-13,4,0.02432848618395237,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+323,4,6:09,369,369,Courtney Lee Defensive Rebound.,49,62,-13,4,0.0238439725247918,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+324,4,6:05,365,365,Courtney Lee Turnover.,49,62,-13,0,0.02335565986507724,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+325,4,6:05,365,365,Ciani Cryor Steal.,49,62,-13,5,0.02335565986507724,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+326,4,6:00,360,360,Ataiya Bridges made Jumper. Assisted by Alaysia Ready.,49,64,-15,11,0.012877817812687176,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,Texas Southern
+327,4,5:49,349,349,Foul on Hannah White.,49,64,-15,0,0.01196107949130861,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+328,4,5:49,349,349,Hannah White Turnover.,49,64,-15,18,0.01196107949130861,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+329,4,5:31,331,331,Niya Mitchell made Layup. Assisted by Alaysia Ready.,49,66,-17,25,0.005688365089468535,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,Texas Southern
+330,4,5:06,306,306,Jayla Crawford made Layup. Assisted by Dereseia Randle.,51,66,-15,13,0.008142205309041573,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,Alabama State
+331,4,4:53,293,293,Ciani Cryor made Layup.,51,68,-17,20,0.004000046732365993,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,Texas Southern
+332,4,4:33,273,273,Hannah White missed Three Point Jumper.,51,68,-17,2,0.004129563295979937,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+333,4,4:31,271,271,Dereseia Randle Offensive Rebound.,51,68,-17,0,0.0041666435463935435,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+334,4,4:31,271,271,Foul on Alaysia Ready.,51,68,-17,0,0.0041666435463935435,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+335,4,4:31,271,271,Official TV Timeout,51,68,-17,0,0.0041666435463935435,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+336,4,4:31,271,271,Dereseia Randle missed Free Throw.,51,68,-17,0,0.0041666435463935435,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+337,4,4:31,271,271,Alabama State Offensive Rebound.,51,68,-17,0,0.0041666435463935435,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+338,4,4:31,271,271,Dereseia Randle missed Free Throw.,51,68,-17,0,0.0041666435463935435,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+339,4,4:31,271,271,Alabama State Offensive Rebound.,51,68,-17,13,0.0041666435463935435,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+340,4,4:18,258,258,Jayla Crawford missed Jumper.,51,68,-17,1,0.004450513375386838,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+341,4,4:17,257,257,Ciani Cryor Defensive Rebound.,51,68,-17,0,0.004473044761407224,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+342,4,4:17,257,257,Foul on Jayla Crawford.,51,68,-17,18,0.004473044761407224,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+343,4,3:59,239,239,Ciani Cryor made Three Point Jumper.,51,71,-20,17,0.001859301738266332,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,Texas Southern
+344,4,3:42,222,222,Courtney Lee made Layup.,53,71,-18,12,0.003311380385685359,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,Alabama State
+345,4,3:30,210,210,Richelle Velez missed Three Point Jumper.,53,71,-18,5,0.002862846862604809,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+346,4,3:25,205,205,Hannah White Defensive Rebound.,53,71,-18,0,0.0026018861635174677,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+347,4,3:25,205,205,Foul on Alabama State.,53,71,-18,0,0.0026018861635174677,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+348,4,3:25,205,205,Alabama State  Turnover.,53,71,-18,0,0.0026018861635174677,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+349,4,3:25,205,205,Ataiya Bridges made Free Throw.,53,72,-19,0,0.0018710017168234944,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,Texas Southern
+350,4,3:25,205,205,Ataiya Bridges missed Free Throw.,53,72,-19,0,0.0018710017168234944,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+351,4,3:25,205,205,Texas Southern Offensive Rebound.,53,72,-19,16,0.0018710017168234944,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+352,4,3:09,189,189,Foul on Niya Mitchell.,53,72,-19,0,0.001134044114858326,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+353,4,3:09,189,189,Niya Mitchell Turnover.,53,72,-19,16,0.001134044114858326,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+354,4,2:53,173,173,Foul on Ciani Cryor.,53,72,-19,0,5.9640984910379e-4,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+355,4,2:53,173,173,Courtney Lee missed Free Throw.,53,72,-19,0,5.9640984910379e-4,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+356,4,2:53,173,173,Alabama State Offensive Rebound.,53,72,-19,0,5.9640984910379e-4,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+357,4,2:53,173,173,Courtney Lee missed Free Throw.,53,72,-19,1,5.9640984910379e-4,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+358,4,2:52,172,172,Lauren Lewis Defensive Rebound.,53,72,-19,2,5.722977135069477e-4,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+359,4,2:50,170,170,Lauren Lewis Turnover.,53,72,-19,4,5.266581451760856e-4,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+360,4,2:46,166,166,Kaeani Berry missed Layup.,53,72,-19,2,4.4487352281709727e-4,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+361,4,2:44,164,164,Ciani Cryor Defensive Rebound.,53,72,-19,4,4.082926535616898e-4,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+362,4,2:40,160,160,Demetrius Lewis made Layup. Assisted by Ciani Cryor.,53,74,-21,25,1.4804932272174893e-4,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,Texas Southern
+363,4,2:15,135,135,Ayana Emmanuel missed Jumper.,53,74,-21,2,3.8184426966602027e-5,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+364,4,2:13,133,133,Ryann Lewis Defensive Rebound.,53,74,-21,3,3.378884013854025e-5,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+365,4,2:10,130,130,Foul on Courtney Lee.,53,74,-21,0,2.7995350918356035e-5,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+366,4,2:10,130,130,Demetrius Lewis missed Free Throw.,53,74,-21,0,2.7995350918356035e-5,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+367,4,2:10,130,130,Texas Southern Offensive Rebound.,53,74,-21,1,2.7995350918356035e-5,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+368,4,2:09,129,129,Demetrius Lewis missed Free Throw.,53,74,-21,1,2.626034475423253e-5,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+369,4,2:08,128,128,Kaeani Berry Defensive Rebound.,53,74,-21,5,2.4616660385702173e-5,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+370,4,2:03,123,123,Foul on Ryann Lewis.,53,74,-21,0,1.763704713590532e-5,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+371,4,2:03,123,123,Hannah White made Free Throw.,54,74,-20,0,2.9701675139186482e-5,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,Alabama State
+372,4,2:03,123,123,Hannah White missed Free Throw.,54,74,-20,2,2.9701675139186482e-5,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+373,4,2:01,121,121,Ciani Cryor Defensive Rebound.,54,74,-20,24,2.6035198072455566e-5,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+374,4,1:37,97,97,Foul on Alaysia Ready.,54,74,-20,0,4.199353984452092e-6,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+375,4,1:37,97,97,Alaysia Ready Turnover.,54,74,-20,21,4.199353984452092e-6,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+376,4,1:16,76,76,Kaeani Berry Turnover.,54,74,-20,0,6.187730213369459e-7,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+377,4,1:16,76,76,Ciani Cryor Steal.,54,74,-20,5,6.187730213369459e-7,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+378,4,1:11,71,71,Ataiya Bridges made Layup. Assisted by Ciani Cryor.,54,76,-22,22,8.588394475228684e-8,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,Texas Southern
+379,4,0:49,49,49,Taylor Aikerson missed Three Point Jumper.,54,76,-22,3,6.443936585651313e-9,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+380,4,0:46,46,46,Alaysia Ready Defensive Rebound.,54,76,-22,1,4.4147214312927e-9,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+381,4,0:45,45,45,Foul on Taylor Aikerson.,54,76,-22,0,3.885490093206845e-9,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+382,4,0:45,45,45,Alaysia Ready missed Free Throw.,54,76,-22,0,3.885490093206845e-9,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+383,4,0:45,45,45,Texas Southern Offensive Rebound.,54,76,-22,0,3.885490093206845e-9,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+384,4,0:45,45,45,Alaysia Ready made Free Throw.,54,77,-23,12,1.611194197414834e-9,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,Texas Southern
+385,4,0:33,33,33,Dereseia Randle missed Jumper.,54,77,-23,1,3.0525614708167066e-10,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+386,4,0:32,32,32,Alaysia Ready Defensive Rebound.,54,77,-23,0,2.6452912973270586e-10,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+387,4,0:32,32,32,Foul on Hannah White.,54,77,-23,0,2.6452912973270586e-10,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,
+388,4,0:32,32,32,Alaysia Ready made Free Throw.,54,78,-24,0,1.0140498560191003e-10,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,Texas Southern
+389,4,0:32,32,32,Alaysia Ready made Free Throw.,54,79,-25,0,3.8872736300458164e-11,Alabama State,Texas Southern,6,6,0,0,NA,401180238,2020-02-03,Texas Southern

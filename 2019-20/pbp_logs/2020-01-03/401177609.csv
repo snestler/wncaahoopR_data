@@ -1,0 +1,317 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:51,2391,2391,Foul on Kyra Spiwak.,0,0,0,0,0.5,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,NA
+2,1,9:51,2391,2391,Sonya Morris made Free Throw.,0,1,-1,0,0.47784900288626925,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,DePaul
+3,1,9:51,2391,2391,Sonya Morris made Free Throw.,0,2,-2,12,0.4557847855013381,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,DePaul
+4,1,9:39,2379,2379,Mary Baskerville Turnover.,0,2,-2,2,0.45553098113171275,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+5,1,9:37,2377,2377,Chante Stonewall Steal.,0,2,-2,11,0.4554884763831252,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+6,1,9:26,2366,2366,Deja Church made Layup.,0,4,-4,25,0.41121842476923365,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,DePaul
+7,1,9:01,2341,2341,Mary Baskerville made Layup. Assisted by Kyra Spiwak.,2,4,-2,16,0.45471402389215027,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,Providence
+8,1,8:45,2325,2325,Lexi Held made Layup. Assisted by Deja Church.,2,6,-4,10,0.40948308184870913,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,DePaul
+9,1,8:35,2315,2315,Kyra Spiwak missed Three Point Jumper.,2,6,-4,0,0.4090540661073587,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+10,1,8:35,2315,2315,Chante Stonewall Defensive Rebound.,2,6,-4,10,0.4090540661073587,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+11,1,8:25,2305,2305,Chante Stonewall missed Layup.,2,6,-4,0,0.40862300412936603,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+12,1,8:25,2305,2305,Olivia Orlando Defensive Rebound.,2,6,-4,11,0.40862300412936603,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+13,1,8:14,2294,2294,Mary Baskerville made Layup. Assisted by Olivia Orlando.,4,6,-2,14,0.4536791332234905,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,Providence
+14,1,8:00,2280,2280,Lexi Held missed Layup.,4,6,-2,0,0.4533663845351968,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+15,1,8:00,2280,2280,Kaela Webb Defensive Rebound.,4,6,-2,15,0.4533663845351968,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+16,1,7:45,2265,2265,Kyra Spiwak missed Three Point Jumper.,4,6,-2,0,0.4530293028417215,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+17,1,7:45,2265,2265,Lexi Held Defensive Rebound.,4,6,-2,7,0.4530293028417215,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+18,1,7:38,2258,2258,Sonya Morris Turnover.,4,6,-2,11,0.4528713407795984,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+19,1,7:27,2247,2247,Earlette Scott Turnover.,4,6,-2,1,0.45262232685875164,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+20,1,7:26,2246,2246,Sonya Morris Steal.,4,6,-2,12,0.4525996434796062,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+21,1,7:14,2234,2234,Chante Stonewall made Jumper.,4,8,-4,30,0.4055127366726435,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,DePaul
+22,1,6:44,2204,2204,Chanell Williams missed Layup.,4,8,-4,0,0.4041781761497037,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+23,1,6:44,2204,2204,Kelly Campbell Defensive Rebound.,4,8,-4,13,0.4041781761497037,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+24,1,6:31,2191,2191,Sonya Morris missed Layup.,4,8,-4,0,0.40359721174295365,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+25,1,6:31,2191,2191,Alyssa Geary Defensive Rebound.,4,8,-4,9,0.40359721174295365,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+26,1,6:22,2182,2182,Kyra Spiwak missed Three Point Jumper.,4,8,-4,0,0.40319424261009873,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+27,1,6:22,2182,2182,Kelly Campbell Defensive Rebound.,4,8,-4,11,0.40319424261009873,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+28,1,6:11,2171,2171,Chante Stonewall missed Three Point Jumper.,4,8,-4,0,0.4027010017965887,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+29,1,6:11,2171,2171,Kaela Webb Defensive Rebound.,4,8,-4,8,0.4027010017965887,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+30,1,6:03,2163,2163,Mary Baskerville made Layup. Assisted by Kaela Webb.,6,8,-2,13,0.45069604065537827,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,Providence
+31,1,5:50,2150,2150,Sonya Morris missed Three Point Jumper.,6,8,-2,0,0.4503944624143455,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+32,1,5:50,2150,2150,Earlette Scott Defensive Rebound.,6,8,-2,27,0.4503944624143455,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+33,1,5:23,2123,2123,Kaela Webb made Three Point Jumper. Assisted by Olivia Orlando.,9,8,1,17,0.5251818292107797,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,Providence
+34,1,5:06,2106,2106,Dee Bekelja made Three Point Jumper. Assisted by Sonya Morris.,9,11,-2,18,0.4493634144301274,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,DePaul
+35,1,4:48,2088,2088,Alyssa Geary missed Three Point Jumper.,9,11,-2,0,0.44893656071843446,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+36,1,4:48,2088,2088,Chante Stonewall Defensive Rebound.,9,11,-2,13,0.44893656071843446,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+37,1,4:35,2075,2075,Chante Stonewall Turnover.,9,11,-2,1,0.4486262807812338,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+38,1,4:34,2074,2074,Alyssa Geary Steal.,9,11,-2,3,0.448602341227073,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+39,1,4:31,2071,2071,Kaela Webb made Layup. Assisted by Alyssa Geary.,11,11,0,11,0.5,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,Providence
+40,1,4:20,2060,2060,Dee Bekelja missed Three Point Jumper.,11,11,0,0,0.5,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+41,1,4:20,2060,2060,Mary Baskerville Defensive Rebound.,11,11,0,3,0.5,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+42,1,4:17,2057,2057,Foul on Lexi Held.,11,11,0,0,0.5,Providence,DePaul,4,4,1,0,NA,401177609,2020-01-03,
+43,1,4:17,2057,2057,Providence  Timeout,11,11,0,10,0.5,Providence,DePaul,3,4,1,0,NA,401177609,2020-01-03,
+44,1,4:07,2047,2047,Andrea Cooper made Layup. Assisted by Earlette Scott.,13,11,2,11,0.5520480805352422,Providence,DePaul,3,4,1,0,NA,401177609,2020-01-03,Providence
+45,1,3:56,2036,2036,Dee Bekelja made Layup.,13,13,0,31,0.5,Providence,DePaul,3,4,1,0,NA,401177609,2020-01-03,DePaul
+46,1,3:25,2005,2005,Alyssa Geary made Layup.,15,13,2,17,0.5530765182302504,Providence,DePaul,3,4,1,0,NA,401177609,2020-01-03,Providence
+47,1,3:08,1988,1988,Dee Bekelja made Jumper.,15,15,0,27,0.5,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,DePaul
+48,1,2:41,1961,1961,Foul on Sonya Morris.,15,15,0,4,0.5,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+49,1,2:37,1957,1957,Andrea Cooper made Layup. Assisted by Chanell Williams.,17,15,2,10,0.5542795390716708,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,Providence
+50,1,2:27,1947,1947,Chante Stonewall made Layup.,17,17,0,0,0.5,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,DePaul
+51,1,2:27,1947,1947,Foul on Ny-Asia Franklin.,17,17,0,0,0.5,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+52,1,2:27,1947,1947,Chante Stonewall made Free Throw.,17,18,-1,17,0.4726513199164259,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,DePaul
+53,1,2:10,1930,1930,Foul on Kelly Campbell.,17,18,-1,13,0.47243117980132204,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+54,1,1:57,1917,1917,Andrea Cooper made Layup.,19,18,1,11,0.5277378184952509,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,Providence
+55,1,1:46,1906,1906,Deja Church missed Three Point Jumper.,19,18,1,0,0.5278805938103491,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+56,1,1:46,1906,1906,Ny-Asia Franklin Defensive Rebound.,19,18,1,25,0.5278805938103491,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+57,1,1:21,1881,1881,Kyra Spiwak missed Three Point Jumper.,19,18,1,0,0.5282048929463481,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+58,1,1:21,1881,1881,Deja Church Defensive Rebound.,19,18,1,13,0.5282048929463481,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+59,1,1:08,1868,1868,Kelly Campbell missed Layup.,19,18,1,0,0.5283737373612436,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+60,1,1:08,1868,1868,Kelly Campbell Offensive Rebound.,19,18,1,3,0.5283737373612436,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+61,1,1:05,1865,1865,Deja Church Turnover.,19,18,1,21,0.5284127472172593,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+62,1,0:44,1844,1844,Chanell Williams Turnover.,19,18,1,6,0.5286865379509524,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+63,1,0:38,1838,1838,Lexi Held missed Three Point Jumper.,19,18,1,0,0.5287650587312349,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+64,1,0:38,1838,1838,Sonya Morris Offensive Rebound.,19,18,1,23,0.5287650587312349,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+65,1,0:15,1815,1815,Sonya Morris made Layup.,19,20,-1,13,0.47093229959982474,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,DePaul
+66,1,0:02,1802,1802,Kaela Webb missed Three Point Jumper.,19,20,-1,0,0.4707598326384926,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+67,1,0:02,1802,1802,Providence Deadball Team Rebound.,19,20,-1,2,0.4707598326384926,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+68,1,0:00,1800,1800,End of 1st Quarter,19,20,-1,8,0.47073319422403154,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+69,2,9:52,1792,1792,Earlette Scott made Layup.,21,20,1,19,0.529373663315156,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,Providence
+70,2,9:33,1773,1773,Deja Church missed Three Point Jumper.,21,20,1,0,0.5296295908982823,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+71,2,9:33,1773,1773,Mary Baskerville Defensive Rebound.,21,20,1,20,0.5296295908982823,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+72,2,9:13,1753,1753,Kaela Webb missed Three Point Jumper.,21,20,1,0,0.5299027173203668,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+73,2,9:13,1753,1753,Chante Stonewall Defensive Rebound.,21,20,1,10,0.5299027173203668,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+74,2,9:03,1743,1743,Sonya Morris missed Three Point Jumper.,21,20,1,0,0.5300409046759667,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+75,2,9:03,1743,1743,Deja Church Offensive Rebound.,21,20,1,7,0.5300409046759667,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+76,2,8:56,1736,1736,Deja Church made Layup.,21,22,-1,17,0.469861663055782,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,DePaul
+77,2,8:39,1719,1719,Olivia Orlando missed Layup.,21,22,-1,0,0.46962245884383996,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+78,2,8:39,1719,1719,Kiara Dallmann Defensive Rebound.,21,22,-1,13,0.46962245884383996,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+79,2,8:26,1706,1706,Lexi Held missed Jumper.,21,22,-1,0,0.46943688262116656,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+80,2,8:26,1706,1706,Alyssa Geary Defensive Rebound.,21,22,-1,15,0.46943688262116656,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+81,2,8:11,1691,1691,Mary Baskerville missed Layup.,21,22,-1,0,0.4692196526147364,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+82,2,8:11,1691,1691,Kiara Dallmann Block.,21,22,-1,0,0.4692196526147364,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+83,2,8:11,1691,1691,Providence Offensive Rebound.,21,22,-1,13,0.4692196526147364,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+84,2,7:58,1678,1678,Foul on Mary Baskerville.,21,22,-1,0,0.4690313190250685,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+85,2,7:58,1678,1678,Mary Baskerville Turnover.,21,22,-1,17,0.4690313190250685,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+86,2,7:41,1661,1661,Chante Stonewall Turnover.,21,22,-1,1,0.468790175074634,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+87,2,7:40,1660,1660,Chanell Williams Steal.,21,22,-1,15,0.4687761468561382,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+88,2,7:25,1645,1645,Alyssa Geary missed Three Point Jumper.,21,22,-1,0,0.4685674504664451,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+89,2,7:25,1645,1645,Kelly Campbell Defensive Rebound.,21,22,-1,9,0.4685674504664451,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+90,2,7:16,1636,1636,Kiara Dallmann made Three Point Jumper. Assisted by Deja Church.,21,25,-4,21,0.37623133641397954,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,DePaul
+91,2,6:55,1615,1615,Earlette Scott missed Three Point Jumper.,21,25,-4,0,0.37515141272700603,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+92,2,6:55,1615,1615,Olivia Orlando Offensive Rebound.,21,25,-4,19,0.37515141272700603,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+93,2,6:36,1596,1596,Chanell Williams missed Three Point Jumper.,21,25,-4,0,0.37418033655168453,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+94,2,6:36,1596,1596,Deja Church Defensive Rebound.,21,25,-4,16,0.37418033655168453,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+95,2,6:20,1580,1580,Sonya Morris made Jumper.,21,27,-6,27,0.31502434775042604,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,DePaul
+96,2,5:53,1553,1553,Olivia Orlando made Layup. Assisted by Alyssa Geary.,23,27,-4,9,0.3719656286108824,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,Providence
+97,2,5:44,1544,1544,Foul on Olivia Orlando.,23,27,-4,0,0.3714934151812325,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,
+98,2,5:44,1544,1544,Deja Church made Free Throw.,23,28,-5,0,0.34135331273605607,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,DePaul
+99,2,5:44,1544,1544,Deja Church made Free Throw.,23,29,-6,28,0.312442921312932,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,DePaul
+100,2,5:16,1516,1516,Earlette Scott made Three Point Jumper.,26,29,-3,12,0.4015066053290615,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,Providence
+101,2,5:04,1504,1504,Sonya Morris made Jumper.,26,31,-5,23,0.3387482593457264,Providence,DePaul,4,4,0,0,NA,401177609,2020-01-03,DePaul
+102,2,4:41,1481,1481,Foul on Sonya Morris.,26,31,-5,0,0.33717131875564466,Providence,DePaul,4,4,1,0,NA,401177609,2020-01-03,
+103,2,4:41,1481,1481,Providence  Timeout,26,31,-5,13,0.33717131875564466,Providence,DePaul,3,4,1,0,NA,401177609,2020-01-03,
+104,2,4:28,1468,1468,Chanell Williams missed Three Point Jumper.,26,31,-5,0,0.3362473957765369,Providence,DePaul,3,4,1,0,NA,401177609,2020-01-03,
+105,2,4:28,1468,1468,DePaul Defensive Rebound.,26,31,-5,19,0.3362473957765369,Providence,DePaul,3,4,1,0,NA,401177609,2020-01-03,
+106,2,4:09,1449,1449,Chante Stonewall made Jumper.,26,33,-7,29,0.276703512264308,Providence,DePaul,3,4,1,0,NA,401177609,2020-01-03,DePaul
+107,2,3:40,1420,1420,Chanell Williams missed Jumper.,26,33,-7,0,0.27405823575458893,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+108,2,3:40,1420,1420,Lexi Held Defensive Rebound.,26,33,-7,4,0.27405823575458893,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+109,2,3:36,1416,1416,Chante Stonewall Turnover.,26,33,-7,14,0.2737051810187056,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+110,2,3:22,1402,1402,Mary Baskerville missed Layup.,26,33,-7,0,0.27248646252134556,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+111,2,3:22,1402,1402,Mary Baskerville Offensive Rebound.,26,33,-7,2,0.27248646252134556,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+112,2,3:20,1400,1400,Mary Baskerville made Layup.,28,33,-5,10,0.33135111103348985,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,Providence
+113,2,3:10,1390,1390,Dee Bekelja made Layup.,28,35,-7,11,0.27145850728846554,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,DePaul
+114,2,2:59,1379,1379,Mary Baskerville Turnover.,28,35,-7,0,0.27052540597369534,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+115,2,2:59,1379,1379,Dee Bekelja Steal.,28,35,-7,0,0.27052540597369534,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+116,2,2:59,1379,1379,Foul on Mary Baskerville.,28,35,-7,10,0.27052540597369534,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+117,2,2:49,1369,1369,Chante Stonewall missed Jumper.,28,35,-7,0,0.2696815927686256,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+118,2,2:49,1369,1369,Dee Bekelja Offensive Rebound.,28,35,-7,2,0.2696815927686256,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+119,2,2:47,1367,1367,Dee Bekelja Turnover.,28,35,-7,16,0.26951308928884654,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+120,2,2:31,1351,1351,Alyssa Geary missed Jumper.,28,35,-7,0,0.26816453791789047,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+121,2,2:31,1351,1351,Olivia Orlando Offensive Rebound.,28,35,-7,6,0.26816453791789047,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+122,2,2:25,1345,1345,Foul on Lexi Held.,28,35,-7,5,0.2676571734089132,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+123,2,2:20,1340,1340,Earlette Scott Turnover.,28,35,-7,0,0.26723301822872153,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+124,2,2:20,1340,1340,Foul on Earlette Scott.,28,35,-7,26,0.26723301822872153,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+125,2,1:54,1314,1314,Dee Bekelja missed Layup.,28,35,-7,0,0.26499448496199673,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+126,2,1:54,1314,1314,Alyssa Geary Defensive Rebound.,28,35,-7,2,0.26499448496199673,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+127,2,1:52,1312,1312,Foul on Dee Bekelja.,28,35,-7,17,0.26481919616351574,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+128,2,1:35,1295,1295,Kaela Webb made Three Point Jumper. Assisted by Kyra Spiwak.,31,35,-4,28,0.35711221149417627,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,Providence
+129,2,1:07,1267,1267,Chante Stonewall Turnover.,31,35,-4,20,0.3553413204548089,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+130,2,0:47,1247,1247,Kyra Spiwak Turnover.,31,35,-4,7,0.3539922705125843,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+131,2,0:40,1240,1240,Dee Bekelja made Layup.,31,37,-6,33,0.28791515251824995,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,DePaul
+132,2,0:07,1207,1207,Alyssa Geary missed Three Point Jumper.,31,37,-6,0,0.28458962085674955,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+133,2,0:07,1207,1207,Chante Stonewall Defensive Rebound.,31,37,-6,7,0.28458962085674955,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+134,2,0:00,1200,1200,Deja Church missed Three Point Jumper.,31,37,-6,0,0.28386293076294067,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+135,2,0:00,1200,1200,DePaul Deadball Team Rebound.,31,37,-6,0,0.28386293076294067,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+136,2,0:00,1200,1200,End of 2nd Quarter,31,37,-6,9,0.28386293076294067,Providence,DePaul,3,4,0,0,NA,401177609,2020-01-03,
+137,3,9:51,1191,1191,Chante Stonewall missed Jumper.,31,37,-6,0,0.28294482289557454,Providence,DePaul,4,5,0,0,NA,401177609,2020-01-03,
+138,3,9:51,1191,1191,DePaul Offensive Rebound.,31,37,-6,5,0.28294482289557454,Providence,DePaul,4,5,0,0,NA,401177609,2020-01-03,
+139,3,9:46,1186,1186,Lexi Held made Layup.,31,39,-8,21,0.22388374221380783,Providence,DePaul,4,5,0,0,NA,401177609,2020-01-03,DePaul
+140,3,9:25,1165,1165,Mary Baskerville Turnover.,31,39,-8,1,0.221522530890582,Providence,DePaul,4,5,0,0,NA,401177609,2020-01-03,
+141,3,9:24,1164,1164,Chante Stonewall Steal.,31,39,-8,10,0.22141191154463896,Providence,DePaul,4,5,0,0,NA,401177609,2020-01-03,
+142,3,9:14,1154,1154,Sonya Morris made Layup.,31,41,-10,27,0.17082274559793084,Providence,DePaul,4,5,0,0,NA,401177609,2020-01-03,DePaul
+143,3,8:47,1127,1127,Foul on Deja Church.,31,41,-10,11,0.16780902173731507,Providence,DePaul,4,5,0,0,NA,401177609,2020-01-03,
+144,3,8:36,1116,1116,Foul on Lexi Held.,31,41,-10,3,0.16658853212738176,Providence,DePaul,4,5,0,0,NA,401177609,2020-01-03,
+145,3,8:33,1113,1113,Chanell Williams Turnover.,31,41,-10,15,0.1662553279741805,Providence,DePaul,4,5,0,0,NA,401177609,2020-01-03,
+146,3,8:18,1098,1098,Sonya Morris made Three Point Jumper. Assisted by Kelly Campbell.,31,44,-13,2,0.10794778434907071,Providence,DePaul,4,5,0,0,NA,401177609,2020-01-03,DePaul
+147,3,8:16,1096,1096,Providence  Timeout,31,44,-13,3,0.10774358228800726,Providence,DePaul,3,5,1,0,NA,401177609,2020-01-03,
+148,3,8:13,1093,1093,Foul on Sonya Morris.,31,44,-13,19,0.10743682163543117,Providence,DePaul,3,5,1,0,NA,401177609,2020-01-03,
+149,3,7:54,1074,1074,Alyssa Geary Turnover.,31,44,-13,14,0.10547618220334032,Providence,DePaul,3,5,1,0,NA,401177609,2020-01-03,
+150,3,7:40,1060,1060,Foul on Alyssa Geary.,31,44,-13,7,0.10400370575035299,Providence,DePaul,3,5,1,0,NA,401177609,2020-01-03,
+151,3,7:33,1053,1053,Dee Bekelja made Three Point Jumper.,31,47,-16,18,0.06535200344070917,Providence,DePaul,3,5,1,0,NA,401177609,2020-01-03,DePaul
+152,3,7:15,1035,1035,Kyra Spiwak Turnover.,31,47,-16,16,0.06376049463902991,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+153,3,6:59,1019,1019,Kelly Campbell Turnover.,31,47,-16,0,0.06230474238364855,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+154,3,6:59,1019,1019,Kaela Webb Steal.,31,47,-16,14,0.06230474238364855,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+155,3,6:45,1005,1005,Earlette Scott missed Layup.,31,47,-16,0,0.0609939639329383,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+156,3,6:45,1005,1005,Kelly Campbell Block.,31,47,-16,1,0.0609939639329383,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+157,3,6:44,1004,1004,Kelly Campbell Defensive Rebound.,31,47,-16,14,0.0608989082921282,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+158,3,6:30,990,990,Sonya Morris missed Three Point Jumper.,31,47,-16,0,0.05954690446808189,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+159,3,6:30,990,990,Olivia Orlando Defensive Rebound.,31,47,-16,7,0.05954690446808189,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+160,3,6:23,983,983,Kaela Webb missed Three Point Jumper.,31,47,-16,0,0.05885547494578232,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+161,3,6:23,983,983,Chante Stonewall Defensive Rebound.,31,47,-16,10,0.05885547494578232,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+162,3,6:13,973,973,Deja Church missed Layup.,31,47,-16,0,0.05784906721640426,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+163,3,6:13,973,973,Earlette Scott Defensive Rebound.,31,47,-16,23,0.05784906721640426,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+164,3,5:50,950,950,Foul on Deja Church.,31,47,-16,4,0.05563725174089578,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+165,3,5:46,946,946,Ny-Asia Franklin Turnover.,31,47,-16,0,0.055286883856910274,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+166,3,5:46,946,946,Kelly Campbell Steal.,31,47,-16,2,0.055286883856910274,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+167,3,5:44,944,944,Lexi Held missed Jumper.,31,47,-16,0,0.05511506648249196,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+168,3,5:44,944,944,Earlette Scott Defensive Rebound.,31,47,-16,18,0.05511506648249196,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+169,3,5:26,926,926,Earlette Scott Turnover.,31,47,-16,25,0.05365741465798765,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+170,3,5:01,901,901,Kelly Campbell missed Three Point Jumper.,31,47,-16,0,0.0518335455346664,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+171,3,5:01,901,901,Dee Bekelja Offensive Rebound.,31,47,-16,3,0.0518335455346664,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+172,3,4:58,898,898,Dee Bekelja missed Layup.,31,47,-16,0,0.051625549672087795,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+173,3,4:58,898,898,Alyssa Geary Defensive Rebound.,31,47,-16,24,0.051625549672087795,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+174,3,4:34,874,874,Alyssa Geary Turnover.,31,47,-16,2,0.05000705346527889,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+175,3,4:32,872,872,Kelly Campbell Steal.,31,47,-16,4,0.049874221767159437,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+176,3,4:28,868,868,Chante Stonewall made Layup. Assisted by Deja Church.,31,49,-18,23,0.034831032316575986,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,DePaul
+177,3,4:05,845,845,Sophia Widmeyer made Three Point Jumper. Assisted by Alyssa Geary.,34,49,-15,12,0.05736703379111398,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,Providence
+178,3,3:53,833,833,Dee Bekelja made Layup. Assisted by Lexi Held.,34,51,-17,19,0.03947715164012513,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,DePaul
+179,3,3:34,814,814,Alyssa Geary made Layup.,36,51,-15,14,0.0549362521717513,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,Providence
+180,3,3:20,800,800,Chante Stonewall missed Jumper.,36,51,-15,0,0.053749564059442714,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+181,3,3:20,800,800,Alyssa Geary Defensive Rebound.,36,51,-15,11,0.053749564059442714,Providence,DePaul,3,5,0,0,NA,401177609,2020-01-03,
+182,3,3:09,789,789,Providence  Timeout,36,51,-15,14,0.052766818859323744,Providence,DePaul,2,5,1,0,NA,401177609,2020-01-03,
+183,3,2:55,775,775,Kyra Spiwak missed Jumper.,36,51,-15,0,0.051443480864823775,Providence,DePaul,2,5,1,0,NA,401177609,2020-01-03,
+184,3,2:55,775,775,Sonya Morris Defensive Rebound.,36,51,-15,6,0.051443480864823775,Providence,DePaul,2,5,1,0,NA,401177609,2020-01-03,
+185,3,2:49,769,769,Foul on Alyssa Geary.,36,51,-15,0,0.05084947873907156,Providence,DePaul,2,5,1,0,NA,401177609,2020-01-03,
+186,3,2:49,769,769,Sonya Morris made Free Throw.,36,52,-16,0,0.04221649707397286,Providence,DePaul,2,5,1,0,NA,401177609,2020-01-03,DePaul
+187,3,2:49,769,769,Kiara Dallmann Turnover.,36,52,-16,3,0.04221649707397286,Providence,DePaul,2,5,1,0,NA,401177609,2020-01-03,
+188,3,2:46,766,766,Sophia Widmeyer Turnover.,36,52,-16,0,0.0419455015420098,Providence,DePaul,2,5,1,0,NA,401177609,2020-01-03,
+189,3,2:46,766,766,Kelly Campbell Steal.,36,52,-16,0,0.0419455015420098,Providence,DePaul,2,5,1,0,NA,401177609,2020-01-03,
+190,3,2:46,766,766,Kelly Campbell Turnover.,36,52,-16,7,0.0419455015420098,Providence,DePaul,2,5,1,0,NA,401177609,2020-01-03,
+191,3,2:39,759,759,Foul on Kiara Dallmann.,36,52,-16,0,0.04129867874055632,Providence,DePaul,2,5,1,0,NA,401177609,2020-01-03,
+192,3,2:39,759,759,Mary Baskerville missed Free Throw.,36,52,-16,0,0.04129867874055632,Providence,DePaul,2,5,1,0,NA,401177609,2020-01-03,
+193,3,2:39,759,759,Providence Deadball Team Rebound.,36,52,-16,0,0.04129867874055632,Providence,DePaul,2,5,1,0,NA,401177609,2020-01-03,
+194,3,2:39,759,759,Mary Baskerville made Free Throw.,37,52,-15,16,0.04982154687831678,Providence,DePaul,2,5,1,0,NA,401177609,2020-01-03,Providence
+195,3,2:23,743,743,Sonya Morris missed Three Point Jumper.,37,52,-15,0,0.04807381053514126,Providence,DePaul,2,5,1,0,NA,401177609,2020-01-03,
+196,3,2:23,743,743,Mary Baskerville Defensive Rebound.,37,52,-15,3,0.04807381053514126,Providence,DePaul,2,5,1,0,NA,401177609,2020-01-03,
+197,3,2:20,740,740,Foul on Chante Stonewall.,37,52,-15,0,0.047731585075700744,Providence,DePaul,2,5,1,0,NA,401177609,2020-01-03,
+198,3,2:20,740,740,Mary Baskerville made Free Throw.,38,52,-14,0,0.05766538420699692,Providence,DePaul,2,5,1,0,NA,401177609,2020-01-03,Providence
+199,3,2:20,740,740,Mary Baskerville made Free Throw.,39,52,-13,11,0.0695156646595281,Providence,DePaul,2,5,1,0,NA,401177609,2020-01-03,Providence
+200,3,2:09,729,729,Sonya Morris made Jumper.,39,54,-15,29,0.046437749592851865,Providence,DePaul,2,5,1,0,NA,401177609,2020-01-03,DePaul
+201,3,1:40,700,700,Hevynne Bristow made Layup.,41,54,-13,0,0.06416463840017507,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,Providence
+202,3,1:40,700,700,Foul on Sonya Morris.,41,54,-13,0,0.06416463840017507,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,
+203,3,1:40,700,700,Hevynne Bristow missed Free Throw.,41,54,-13,0,0.06416463840017507,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,
+204,3,1:40,700,700,Deja Church Defensive Rebound.,41,54,-13,7,0.06416463840017507,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,
+205,3,1:33,693,693,Dee Bekelja missed Three Point Jumper.,41,54,-13,0,0.06337980836976514,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,
+206,3,1:33,693,693,Kiara Dallmann Offensive Rebound.,41,54,-13,13,0.06337980836976514,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,
+207,3,1:20,680,680,Kelly Campbell made Three Point Jumper. Assisted by Chante Stonewall.,41,57,-16,13,0.03410986870121604,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,DePaul
+208,3,1:07,667,667,Mary Baskerville made Layup. Assisted by Alyssa Geary.,43,57,-14,8,0.04973819791309689,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,Providence
+209,3,0:59,659,659,Dee Bekelja missed Three Point Jumper.,43,57,-14,0,0.04903715714942486,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,
+210,3,0:59,659,659,Earlette Scott Defensive Rebound.,43,57,-14,15,0.04903715714942486,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,
+211,3,0:44,644,644,Foul on Mary Baskerville.,43,57,-14,0,0.04772856066776504,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,
+212,3,0:44,644,644,Mary Baskerville Turnover.,43,57,-14,0,0.04772856066776504,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,
+213,3,0:44,644,644,Kelly Campbell Steal.,43,57,-14,0,0.04772856066776504,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,
+214,3,0:44,644,644,Foul on Lexi Held.,43,57,-14,11,0.04772856066776504,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,
+215,3,0:33,633,633,Foul on Earlette Scott.,43,57,-14,0,0.046752063453339966,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,
+216,3,0:33,633,633,Deja Church made Free Throw.,43,58,-15,0,0.03803852384113185,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,DePaul
+217,3,0:33,633,633,Deja Church made Free Throw.,43,59,-16,7,0.0308963564027503,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,DePaul
+218,3,0:26,626,626,Earlette Scott Turnover.,43,59,-16,17,0.03040751085689096,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,
+219,3,0:09,609,609,Dee Bekelja missed Layup.,43,59,-16,0,0.029165659688621472,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,
+220,3,0:09,609,609,Alyssa Geary Block.,43,59,-16,0,0.029165659688621472,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,
+221,3,0:09,609,609,Providence Defensive Rebound.,43,59,-16,8,0.029165659688621472,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,
+222,3,0:01,601,601,Andrea Cooper made Layup. Assisted by Hevynne Bristow.,45,59,-14,1,0.04367425701523166,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,Providence
+223,3,0:00,600,600,End of 3rd Quarter,45,59,-14,13,0.043569945928647325,Providence,DePaul,2,5,0,0,NA,401177609,2020-01-03,
+224,4,9:47,587,587,Lexi Held missed Three Point Jumper.,45,59,-14,0,0.042157456459981646,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+225,4,9:47,587,587,Hevynne Bristow Defensive Rebound.,45,59,-14,2,0.042157456459981646,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+226,4,9:45,585,585,Hevynne Bristow Turnover.,45,59,-14,0,0.041930314143264015,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+227,4,9:45,585,585,Foul on Hevynne Bristow.,45,59,-14,0,0.041930314143264015,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+228,4,9:45,585,585,Foul on Chanell Williams.,45,59,-14,0,0.041930314143264015,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+229,4,9:45,585,585,Kelly Campbell made Free Throw.,45,60,-15,0,0.03381649303139621,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,DePaul
+230,4,9:45,585,585,Kelly Campbell made Free Throw.,45,61,-16,7,0.02722813395360164,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,DePaul
+231,4,9:38,578,578,Sophia Widmeyer made Three Point Jumper. Assisted by Chanell Williams.,48,61,-13,12,0.05095658685612923,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,Providence
+232,4,9:26,566,566,Lexi Held missed Three Point Jumper.,48,61,-13,0,0.04926393536114292,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+233,4,9:26,566,566,Lexi Held Offensive Rebound.,48,61,-13,12,0.04926393536114292,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+234,4,9:14,554,554,Chante Stonewall missed Layup.,48,61,-13,0,0.047440417583620643,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+235,4,9:14,554,554,Kelly Campbell Offensive Rebound.,48,61,-13,4,0.047440417583620643,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+236,4,9:10,550,550,Deja Church missed Three Point Jumper.,48,61,-13,0,0.046802769855536074,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+237,4,9:10,550,550,Chanell Williams Defensive Rebound.,48,61,-13,2,0.046802769855536074,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+238,4,9:08,548,548,Foul on Jolene Daninger.,48,61,-13,23,0.04648525044578343,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+239,4,8:45,525,525,Chanell Williams made Jumper.,50,61,-11,19,0.06806346310487446,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,Providence
+240,4,8:26,506,506,Chante Stonewall missed Jumper.,50,61,-11,0,0.06540300169277752,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+241,4,8:26,506,506,Andrea Cooper Defensive Rebound.,50,61,-11,15,0.06540300169277752,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+242,4,8:11,491,491,Alyssa Geary missed Jumper.,50,61,-11,0,0.06340125511538139,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+243,4,8:11,491,491,DePaul Defensive Rebound.,50,61,-11,1,0.06340125511538139,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+244,4,8:10,490,490,Chante Stonewall made Jumper. Assisted by Kelly Campbell.,50,63,-13,53,0.039731828061183104,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,DePaul
+245,4,7:17,437,437,Chanell Williams missed Jumper.,50,63,-13,0,0.03308659472184619,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+246,4,7:17,437,437,Dee Bekelja Defensive Rebound.,50,63,-13,15,0.03308659472184619,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+247,4,7:02,422,422,Lexi Held missed Layup.,50,63,-13,0,0.030660087786732005,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+248,4,7:02,422,422,Sophia Widmeyer Defensive Rebound.,50,63,-13,19,0.030660087786732005,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+249,4,6:43,403,403,Sophia Widmeyer missed Three Point Jumper.,50,63,-13,0,0.02800736445591255,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+250,4,6:43,403,403,Deja Church Block.,50,63,-13,2,0.02800736445591255,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+251,4,6:41,401,401,Andrea Cooper Offensive Rebound.,50,63,-13,5,0.02775038385267325,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+252,4,6:36,396,396,Chanell Williams missed Jumper.,50,63,-13,0,0.02711995319678636,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+253,4,6:36,396,396,Alyssa Geary Offensive Rebound.,50,63,-13,4,0.02711995319678636,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+254,4,6:32,392,392,Alyssa Geary made Layup.,52,63,-11,8,0.04542413434590631,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,Providence
+255,4,6:24,384,384,Chante Stonewall missed Layup.,52,63,-11,0,0.044043203397260755,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+256,4,6:24,384,384,Lexi Held Offensive Rebound.,52,63,-11,4,0.044043203397260755,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+257,4,6:20,380,380,Deja Church missed Three Point Jumper.,52,63,-11,0,0.04335537316577808,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+258,4,6:20,380,380,Dee Bekelja Offensive Rebound.,52,63,-11,4,0.04335537316577808,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,
+259,4,6:16,376,376,Dee Bekelja made Layup.,52,65,-13,3,0.02469021762073944,Providence,DePaul,3,6,0,0,NA,401177609,2020-01-03,DePaul
+260,4,6:13,373,373,Providence  Timeout,52,65,-13,24,0.02432848618395237,Providence,DePaul,2,6,1,0,NA,401177609,2020-01-03,
+261,4,5:49,349,349,Earlette Scott missed Three Point Jumper.,52,65,-13,0,0.021341646483312566,Providence,DePaul,2,6,1,0,NA,401177609,2020-01-03,
+262,4,5:49,349,349,Deja Church Defensive Rebound.,52,65,-13,12,0.021341646483312566,Providence,DePaul,2,6,1,0,NA,401177609,2020-01-03,
+263,4,5:37,337,337,Kelly Campbell missed Three Point Jumper.,52,65,-13,0,0.01974537249137351,Providence,DePaul,2,6,1,0,NA,401177609,2020-01-03,
+264,4,5:37,337,337,DePaul Offensive Rebound.,52,65,-13,6,0.01974537249137351,Providence,DePaul,2,6,1,0,NA,401177609,2020-01-03,
+265,4,5:31,331,331,Dee Bekelja made Layup.,52,67,-15,15,0.01039334165256676,Providence,DePaul,2,6,1,0,NA,401177609,2020-01-03,DePaul
+266,4,5:16,316,316,Earlette Scott Turnover.,52,67,-15,1,0.009024688922455509,Providence,DePaul,2,6,1,0,NA,401177609,2020-01-03,
+267,4,5:15,315,315,Dee Bekelja Steal.,52,67,-15,1,0.008931936694377309,Providence,DePaul,2,6,1,0,NA,401177609,2020-01-03,
+268,4,5:14,314,314,Dee Bekelja Turnover.,52,67,-15,2,0.008839047893343051,Providence,DePaul,2,6,1,0,NA,401177609,2020-01-03,
+269,4,5:12,312,312,Earlette Scott Steal.,52,67,-15,4,0.008652904463379692,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+270,4,5:08,308,308,Mary Baskerville made Layup. Assisted by Andrea Cooper.,54,67,-13,13,0.015577640493008343,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,Providence
+271,4,4:55,295,295,Foul on Chante Stonewall.,54,67,-13,0,0.014555151468265234,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+272,4,4:55,295,295,Chante Stonewall Turnover.,54,67,-13,13,0.014555151468265234,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+273,4,4:42,282,282,Mary Baskerville missed Layup.,54,67,-13,0,0.014516183400120343,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+274,4,4:42,282,282,Earlette Scott Offensive Rebound.,54,67,-13,2,0.014516183400120343,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+275,4,4:40,280,280,Mary Baskerville missed Layup.,54,67,-13,0,0.014570458365435076,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+276,4,4:40,280,280,Mary Baskerville Offensive Rebound.,54,67,-13,4,0.014570458365435076,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+277,4,4:36,276,276,Mary Baskerville made Layup.,56,67,-11,8,0.027725833980274308,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,Providence
+278,4,4:28,268,268,Chante Stonewall made Three Point Jumper. Assisted by Dee Bekelja.,56,70,-14,27,0.011007319542768332,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,DePaul
+279,4,4:01,241,241,Earlette Scott made Layup.,58,70,-12,0,0.022457947379043133,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,Providence
+280,4,4:01,241,241,Foul on Deja Church.,58,70,-12,0,0.022457947379043133,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+281,4,4:01,241,241,Earlette Scott made Free Throw.,59,70,-11,4,0.030503157152509185,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,Providence
+282,4,3:57,237,237,Dee Bekelja missed Three Point Jumper.,59,70,-11,0,0.030582962223524943,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+283,4,3:57,237,237,Andrea Cooper Defensive Rebound.,59,70,-11,15,0.030582962223524943,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+284,4,3:42,222,222,Mary Baskerville missed Layup.,59,70,-11,0,0.029665506272895884,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+285,4,3:42,222,222,Mary Baskerville Offensive Rebound.,59,70,-11,3,0.029665506272895884,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+286,4,3:39,219,219,Foul on Kelly Campbell.,59,70,-11,2,0.029204255743223332,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+287,4,3:37,217,217,Mary Baskerville missed Layup.,59,70,-11,0,0.028839970286713812,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+288,4,3:37,217,217,Mary Baskerville Offensive Rebound.,59,70,-11,2,0.028839970286713812,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+289,4,3:35,215,215,Foul on Deja Church.,59,70,-11,0,0.028429641475557845,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+290,4,3:35,215,215,Mary Baskerville missed Free Throw.,59,70,-11,0,0.028429641475557845,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+291,4,3:35,215,215,Providence Deadball Team Rebound.,59,70,-11,0,0.028429641475557845,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+292,4,3:35,215,215,Mary Baskerville made Free Throw.,60,70,-10,12,0.038774820759053426,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,Providence
+293,4,3:23,203,203,Sonya Morris made Jumper.,60,72,-12,13,0.018059966211552935,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,DePaul
+294,4,3:10,190,190,Mary Baskerville made Layup. Assisted by Earlette Scott.,62,72,-10,18,0.027976288266648275,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,Providence
+295,4,2:52,172,172,Foul on Mary Baskerville.,62,72,-10,3,0.01928235651370808,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+296,4,2:49,169,169,Lexi Held made Three Point Jumper. Assisted by Kelly Campbell.,62,75,-13,12,0.005522586372806899,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,DePaul
+297,4,2:37,157,157,Earlette Scott missed Three Point Jumper.,62,75,-13,0,0.0038703299028893835,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+298,4,2:37,157,157,Deja Church Defensive Rebound.,62,75,-13,18,0.0038703299028893835,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+299,4,2:19,139,139,Lexi Held made Layup. Assisted by Deja Church.,62,77,-15,26,8.270793097835252e-4,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,DePaul
+300,4,1:53,113,113,Andrea Cooper missed Layup.,62,77,-15,0,2.401264320177177e-4,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+301,4,1:53,113,113,Lexi Held Defensive Rebound.,62,77,-15,5,2.401264320177177e-4,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,
+302,4,1:48,108,108,Sonya Morris made Three Point Jumper. Assisted by Lexi Held.,62,80,-18,10,3.242786043772027e-5,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,DePaul
+303,4,1:38,98,98,Alyssa Geary made Layup.,64,80,-16,1,5.350426148900666e-5,Providence,DePaul,2,6,0,0,NA,401177609,2020-01-03,Providence
+304,4,1:37,97,97,Providence  Timeout,64,80,-16,22,4.9948879936137853e-5,Providence,DePaul,1,6,1,0,NA,401177609,2020-01-03,
+305,4,1:15,75,75,Deja Church missed Layup.,64,80,-16,0,9.985814919433754e-6,Providence,DePaul,1,6,1,0,NA,401177609,2020-01-03,
+306,4,1:15,75,75,Chanell Williams Defensive Rebound.,64,80,-16,10,9.985814919433754e-6,Providence,DePaul,1,6,1,0,NA,401177609,2020-01-03,
+307,4,1:05,65,65,Sophia Widmeyer Turnover.,64,80,-16,0,4.4342326700577464e-6,Providence,DePaul,1,6,1,0,NA,401177609,2020-01-03,
+308,4,1:05,65,65,Foul on Sophia Widmeyer.,64,80,-16,25,4.4342326700577464e-6,Providence,DePaul,1,6,1,0,NA,401177609,2020-01-03,
+309,4,0:40,40,40,Nadege Jean missed Layup.,64,80,-16,0,4.762064506690796e-7,Providence,DePaul,1,6,1,0,NA,401177609,2020-01-03,
+310,4,0:40,40,40,Kyra Spiwak Defensive Rebound.,64,80,-16,20,4.762064506690796e-7,Providence,DePaul,1,6,1,0,NA,401177609,2020-01-03,
+311,4,0:20,20,20,Andrea Cooper Turnover.,64,80,-16,1,6.370616883751996e-8,Providence,DePaul,1,6,0,0,NA,401177609,2020-01-03,
+312,4,0:19,19,19,Hannah Purcell Steal.,64,80,-16,4,5.729001627470289e-8,Providence,DePaul,1,6,0,0,NA,401177609,2020-01-03,
+313,4,0:15,15,15,Hannah Purcell Turnover.,64,80,-16,1,3.71790096879117e-8,Providence,DePaul,1,6,0,0,NA,401177609,2020-01-03,
+314,4,0:14,14,14,Sophia Widmeyer Steal.,64,80,-16,12,3.330900208747697e-8,Providence,DePaul,1,6,0,0,NA,401177609,2020-01-03,
+315,4,0:02,2,2,Sophia Widmeyer made Three Point Jumper. Assisted by Kyra Spiwak.,67,80,-13,2,2.7722091573498814e-7,Providence,DePaul,1,6,0,0,NA,401177609,2020-01-03,Providence
+316,4,0:00,0,0,End of Game,67,80,-13,0,1.2118104830828574e-113,Providence,DePaul,1,6,0,0,NA,401177609,2020-01-03,
