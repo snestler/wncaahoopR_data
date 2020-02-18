@@ -1,0 +1,409 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:46,2686,2686,Foul on Arynn Eady.,0,0,0,0,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,NA
+2,1,9:46,2686,2686,Jenson Edwards missed Free Throw.,0,0,0,0,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+3,1,9:46,2686,2686,High Point Offensive Rebound.,0,0,0,0,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+4,1,9:46,2686,2686,Jenson Edwards made Free Throw.,1,0,1,12,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,High Point
+5,1,9:34,2674,2674,Taylor Williams missed Three Point Jumper.,1,0,1,0,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+6,1,9:34,2674,2674,Arynn Eady Offensive Rebound.,1,0,1,0,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+7,1,9:34,2674,2674,Foul on Amaria McNear.,1,0,1,6,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+8,1,9:28,2668,2668,Arynn Eady missed Layup.,1,0,1,5,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+9,1,9:23,2663,2663,Skyler Curran Defensive Rebound.,1,0,1,5,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+10,1,9:18,2658,2658,Miya Bull made Layup.,3,0,3,15,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,High Point
+11,1,9:03,2643,2643,Latrice Perkins missed Jumper.,3,0,3,4,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+12,1,8:59,2639,2639,Amaria McNear Defensive Rebound.,3,0,3,7,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+13,1,8:52,2632,2632,Amaria McNear missed Three Point Jumper.,3,0,3,5,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+14,1,8:47,2627,2627,Arynn Eady Defensive Rebound.,3,0,3,1,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+15,1,8:46,2626,2626,Arynn Eady Turnover.,3,0,3,0,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+16,1,8:46,2626,2626,Skyler Curran Steal.,3,0,3,6,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+17,1,8:40,2620,2620,Callie Scheier missed Three Point Jumper.,3,0,3,0,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+18,1,8:40,2620,2620,High Point Offensive Rebound.,3,0,3,14,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+19,1,8:26,2606,2606,Miya Bull missed Layup.,3,0,3,0,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+20,1,8:26,2606,2606,Latrice Perkins Block.,3,0,3,6,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+21,1,8:20,2600,2600,Nia Covington Defensive Rebound.,3,0,3,4,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+22,1,8:16,2596,2596,Taylor Williams missed Jumper.,3,0,3,4,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+23,1,8:12,2592,2592,Skyler Curran Defensive Rebound.,3,0,3,17,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+24,1,7:55,2575,2575,Skyler Curran missed Jumper.,3,0,3,3,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+25,1,7:52,2572,2572,Taylor Williams Defensive Rebound.,3,0,3,7,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+26,1,7:45,2565,2565,Taylor Williams made Layup.,3,2,1,17,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,Charleston
+27,1,7:28,2548,2548,Camryn Brown made Three Point Jumper.,6,2,4,16,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,High Point
+28,1,7:12,2532,2532,Nia Covington missed Layup.,6,2,4,4,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+29,1,7:08,2528,2528,Camryn Brown Defensive Rebound.,6,2,4,6,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+30,1,7:02,2522,2522,Miya Bull made Layup. Assisted by Callie Scheier.,8,2,6,4,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,High Point
+31,1,6:58,2518,2518,Official TV Timeout,8,2,6,16,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+32,1,6:42,2502,2502,Nia Covington missed Jumper.,8,2,6,4,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+33,1,6:38,2498,2498,Skyler Curran Defensive Rebound.,8,2,6,0,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+34,1,6:38,2498,2498,Foul on Nia Covington.,8,2,6,14,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+35,1,6:24,2484,2484,Miya Bull Turnover.,8,2,6,0,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+36,1,6:24,2484,2484,Nia Covington Steal.,8,2,6,9,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+37,1,6:15,2475,2475,Deja Ford missed Layup.,8,2,6,1,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+38,1,6:14,2474,2474,Deja Ford Offensive Rebound.,8,2,6,10,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+39,1,6:04,2464,2464,Deja Ford missed Jumper.,8,2,6,5,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+40,1,5:59,2459,2459,Latrice Perkins Offensive Rebound.,8,2,6,7,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+41,1,5:52,2452,2452,Arynn Eady missed Layup.,8,2,6,4,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+42,1,5:48,2448,2448,Latrice Perkins Offensive Rebound.,8,2,6,11,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+43,1,5:37,2437,2437,Latrice Perkins missed Jumper.,8,2,6,4,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+44,1,5:33,2433,2433,Miya Bull Defensive Rebound.,8,2,6,6,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+45,1,5:27,2427,2427,Amaria McNear Turnover.,8,2,6,0,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+46,1,5:27,2427,2427,Latrice Perkins Steal.,8,2,6,6,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+47,1,5:21,2421,2421,Taylor Williams made Jumper.,8,4,4,11,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,Charleston
+48,1,5:10,2410,2410,Amaria McNear missed Three Point Jumper.,8,4,4,6,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+49,1,5:04,2404,2404,Nia Covington Defensive Rebound.,8,4,4,24,NA,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+50,1,4:40,2380,2380,Foul on Nia Covington.,8,4,4,0,0.5881985934928514,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+51,1,4:40,2380,2380,Nia Covington Turnover.,8,4,4,9,0.5881985934928514,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+52,1,4:31,2371,2371,Amaria McNear missed Three Point Jumper.,8,4,4,4,0.5885727716572231,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+53,1,4:27,2367,2367,Latrice Perkins Defensive Rebound.,8,4,4,6,0.5887397624670665,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+54,1,4:21,2361,2361,Deja Ford missed Three Point Jumper.,8,4,4,5,0.588991024157816,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+55,1,4:16,2356,2356,Miya Bull Defensive Rebound.,8,4,4,10,0.5892011052942039,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+56,1,4:06,2346,2346,Skyler Curran missed Three Point Jumper.,8,4,4,4,0.58962311164637,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+57,1,4:02,2342,2342,Deja Ford Defensive Rebound.,8,4,4,6,0.5897925840160371,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+58,1,3:56,2336,2336,Arynn Eady Turnover.,8,4,4,0,0.5900474892474611,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+59,1,3:56,2336,2336,Skyler Curran Steal.,8,4,4,4,0.5900474892474611,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+60,1,3:52,2332,2332,Foul on Deja Ford.,8,4,4,6,0.5902178807265178,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+61,1,3:46,2326,2326,Callie Scheier made Three Point Jumper. Assisted by Courtney Meadows.,11,4,7,15,0.6548371134896969,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,High Point
+62,1,3:31,2311,2311,Foul on Skyler Curran.,11,4,7,0,0.6558899969424564,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+63,1,3:31,2311,2311,Madison Taylor missed Free Throw.,11,4,7,0,0.6558899969424564,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+64,1,3:31,2311,2311,Charleston Offensive Rebound.,11,4,7,0,0.6558899969424564,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+65,1,3:31,2311,2311,Madison Taylor made Free Throw.,11,5,6,14,0.6348045156432329,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,Charleston
+66,1,3:17,2297,2297,Skyler Curran missed Layup.,11,5,6,0,0.6356749013383305,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+67,1,3:17,2297,2297,High Point Offensive Rebound.,11,5,6,8,0.6356749013383305,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+68,1,3:09,2289,2289,Skyler Curran missed Three Point Jumper.,11,5,6,4,0.6361744227442757,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+69,1,3:05,2285,2285,Latrice Perkins Defensive Rebound.,11,5,6,2,0.6364247398925066,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+70,1,3:03,2283,2283,Madison Taylor missed Jumper.,11,5,6,4,0.6365500332582396,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+71,1,2:59,2279,2279,Zaria Wright Defensive Rebound.,11,5,6,4,0.6368008834085185,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+72,1,2:55,2275,2275,Skyler Curran made Layup. Assisted by Zaria Wright.,13,5,8,8,0.6792054394589155,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,High Point
+73,1,2:47,2267,2267,Shai Blanding missed Layup.,13,5,8,0,0.6798377692939799,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+74,1,2:47,2267,2267,Zaria Wright Block.,13,5,8,0,0.6798377692939799,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+75,1,2:47,2267,2267,Charleston Offensive Rebound.,13,5,8,5,0.6798377692939799,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+76,1,2:42,2262,2262,Tyler Collins missed Three Point Jumper.,13,5,8,5,0.6802336383217444,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+77,1,2:37,2257,2257,Arynn Eady Offensive Rebound.,13,5,8,1,0.6806299874634599,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+78,1,2:36,2256,2256,Arynn Eady made Layup.,13,7,6,14,0.6382496260933097,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,Charleston
+79,1,2:22,2242,2242,Callie Scheier made Three Point Jumper. Assisted by Zaria Wright.,16,7,9,18,0.7021225158637091,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,High Point
+80,1,2:04,2224,2224,Arynn Eady Turnover.,16,7,9,20,0.7036778651272646,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+81,1,1:44,2204,2204,Camryn Brown made Three Point Jumper. Assisted by Callie Scheier.,19,7,12,18,0.7621054774107878,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,High Point
+82,1,1:26,2186,2186,Latrice Perkins made Layup.,19,9,10,11,0.7268247423269742,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,Charleston
+83,1,1:15,2175,2175,Callie Scheier made Layup. Assisted by Camryn Brown.,21,9,12,14,0.7650255550222933,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,High Point
+84,1,1:01,2161,2161,Tyler Collins missed Jumper.,21,9,12,13,0.7664324530139993,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+85,1,0:48,2148,2148,Latrice Perkins Offensive Rebound.,21,9,12,2,0.7677392739087616,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+86,1,0:46,2146,2146,Latrice Perkins made Layup.,21,11,10,4,0.7305204792449916,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,Charleston
+87,1,0:42,2142,2142,Olivia VanSlooten Turnover.,21,11,10,13,0.730890879691706,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+88,1,0:29,2129,2129,Foul on Camryn Brown.,21,11,10,10,0.7320961668093973,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+89,1,0:19,2119,2119,Shai Blanding made Layup.,21,13,8,16,0.6916873545983454,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,Charleston
+90,1,0:03,2103,2103,Zaria Wright missed Layup.,21,13,8,3,0.6929865346154029,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+91,1,0:00,2100,2100,Latrice Perkins Defensive Rebound.,21,13,8,0,0.6932307263617192,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+92,1,0:00,2100,2100,Shai Blanding missed Three Point Jumper.,21,13,8,0,0.6932307263617192,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+93,1,0:00,2100,2100,High Point Defensive Rebound.,21,13,8,0,0.6932307263617192,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+94,1,0:00,2100,2100,End of 1st Quarter,21,13,8,11,0.6932307263617192,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+95,2,9:49,2089,2089,Latrice Perkins made Three Point Jumper. Assisted by Madison Taylor.,21,16,5,20,0.6253174712653966,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,Charleston
+96,2,9:29,2069,2069,Camryn Brown missed Three Point Jumper.,21,16,5,4,0.6264483175988854,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+97,2,9:25,2065,2065,Tyler Collins Defensive Rebound.,21,16,5,11,0.6266755315723054,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+98,2,9:14,2054,2054,Latrice Perkins missed Jumper.,21,16,5,5,0.6273022369711612,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+99,2,9:09,2049,2049,Olivia VanSlooten Defensive Rebound.,21,16,5,7,0.6275880279695882,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+100,2,9:02,2042,2042,Miya Bull made Layup. Assisted by Camryn Brown.,23,16,7,10,0.6754719586155834,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,High Point
+101,2,8:52,2032,2032,Latrice Perkins Turnover.,23,16,7,19,0.6762271707517198,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+102,2,8:33,2013,2013,Skyler Curran made Three Point Jumper. Assisted by Zaria Wright.,26,16,10,20,0.7429864414909719,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,High Point
+103,2,8:13,1993,1993,Madison Taylor missed Layup.,26,16,10,0,0.7448954246398485,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+104,2,8:13,1993,1993,Amaria McNear Block.,26,16,10,0,0.7448954246398485,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+105,2,8:13,1993,1993,Charleston Offensive Rebound.,26,16,10,8,0.7448954246398485,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+106,2,8:05,1985,1985,Madison Taylor missed Layup.,26,16,10,4,0.7456621059602653,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+107,2,8:01,1981,1981,Miya Bull Defensive Rebound.,26,16,10,7,0.7460461310630953,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+108,2,7:54,1974,1974,Zaria Wright missed Three Point Jumper.,26,16,10,4,0.7467192942245788,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+109,2,7:50,1970,1970,Skyler Curran Offensive Rebound.,26,16,10,6,0.7471046079473436,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+110,2,7:44,1964,1964,Skyler Curran Turnover.,26,16,10,0,0.7476834781517522,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+111,2,7:44,1964,1964,Madison Taylor Steal.,26,16,10,5,0.7476834781517522,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+112,2,7:39,1959,1959,Latrice Perkins missed Layup.,26,16,10,4,0.7481667062819223,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+113,2,7:35,1955,1955,Miya Bull Defensive Rebound.,26,16,10,11,0.7485538437300617,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+114,2,7:24,1944,1944,Camryn Brown missed Layup.,26,16,10,0,0.7496210607877661,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+115,2,7:24,1944,1944,Taylor Williams Block.,26,16,10,0,0.7496210607877661,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+116,2,7:24,1944,1944,High Point Offensive Rebound.,26,16,10,12,0.7496210607877661,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+117,2,7:12,1932,1932,Camryn Brown missed Layup.,26,16,10,0,0.7507897297278936,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+118,2,7:12,1932,1932,Taylor Williams Block.,26,16,10,0,0.7507897297278936,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+119,2,7:12,1932,1932,High Point Offensive Rebound.,26,16,10,2,0.7507897297278936,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+120,2,7:10,1930,1930,Amaria McNear missed Three Point Jumper.,26,16,10,4,0.7509849669042918,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+121,2,7:06,1926,1926,Taylor Williams Defensive Rebound.,26,16,10,17,0.7513752186834813,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+122,2,6:49,1909,1909,Taylor Williams missed Three Point Jumper.,26,16,10,5,0.7530266020063479,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+123,2,6:44,1904,1904,Zaria Wright Defensive Rebound.,26,16,10,2,0.7535103685428978,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+124,2,6:42,1902,1902,Miya Bull made Layup. Assisted by Zaria Wright.,28,16,12,8,0.7928443692517982,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,High Point
+125,2,6:34,1894,1894,Foul on Zaria Wright.,28,16,12,0,0.793663750441328,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+126,2,6:34,1894,1894,Foul on Arynn Eady.,28,16,12,0,0.793663750441328,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+127,2,6:34,1894,1894,Arynn Eady Turnover.,28,16,12,7,0.793663750441328,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+128,2,6:27,1887,1887,Courtney Meadows made Layup.,30,16,14,25,0.8287478551105512,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,High Point
+129,2,6:02,1862,1862,Taylor Williams Turnover.,30,16,14,19,0.8313215835579513,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+130,2,5:43,1843,1843,Amaria McNear made Layup. Assisted by Camryn Brown.,32,16,16,1,0.8628063091506367,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,High Point
+131,2,5:42,1842,1842,Official TV Timeout,32,16,16,18,0.8629057006609615,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+132,2,5:24,1824,1824,Madison Taylor missed Three Point Jumper.,32,16,16,3,0.8646904003695657,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+133,2,5:21,1821,1821,High Point Defensive Rebound.,32,16,16,8,0.8649871738153884,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+134,2,5:13,1813,1813,Courtney Meadows made Layup.,34,16,18,13,0.8906257279393354,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,High Point
+135,2,5:00,1800,1800,Taylor Williams missed Three Point Jumper.,34,16,18,1,0.89183483014443,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+136,2,4:59,1799,1799,High Point Defensive Rebound.,34,16,18,16,0.8919276995405859,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+137,2,4:43,1783,1783,Foul on Taylor Williams.,34,16,18,0,0.8934115417715442,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+138,2,4:43,1783,1783,Camryn Brown made Free Throw.,35,16,19,0,0.9041479550550894,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,High Point
+139,2,4:43,1783,1783,Camryn Brown made Free Throw.,36,16,20,14,0.9139071272969377,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,High Point
+140,2,4:29,1769,1769,Taylor Williams missed Jumper.,36,16,20,1,0.9150959499395549,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+141,2,4:28,1768,1768,Charleston Offensive Rebound.,36,16,20,10,0.9151807400260095,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+142,2,4:18,1758,1758,Foul on Amaria McNear.,36,16,20,0,0.9160278884429895,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+143,2,4:18,1758,1758,Nia Covington missed Free Throw.,36,16,20,0,0.9160278884429895,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+144,2,4:18,1758,1758,Charleston Offensive Rebound.,36,16,20,0,0.9160278884429895,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+145,2,4:18,1758,1758,Nia Covington made Free Throw.,36,17,19,8,0.9063689138984229,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,Charleston
+146,2,4:10,1750,1750,Courtney Meadows missed Layup.,36,17,19,3,0.9070785607001386,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+147,2,4:07,1747,1747,Nia Covington Defensive Rebound.,36,17,19,16,0.9073446200562075,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+148,2,3:51,1731,1731,Nia Covington missed Jumper.,36,17,19,5,0.9087635517343288,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+149,2,3:46,1726,1726,Miya Bull Defensive Rebound.,36,17,19,7,0.9092070933719484,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+150,2,3:39,1719,1719,Callie Scheier missed Three Point Jumper.,36,17,19,6,0.9098282808417768,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+151,2,3:33,1713,1713,Deja Ford Defensive Rebound.,36,17,19,3,0.9103610136773344,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+152,2,3:30,1710,1710,Foul on Nia Covington.,36,17,19,0,0.9106275012791889,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+153,2,3:30,1710,1710,Nia Covington Turnover.,36,17,19,8,0.9106275012791889,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+154,2,3:22,1702,1702,Skyler Curran missed Jumper.,36,17,19,4,0.9113386036997535,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+155,2,3:18,1698,1698,Tyler Collins Defensive Rebound.,36,17,19,7,0.911694445130397,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+156,2,3:11,1691,1691,Foul on Camryn Brown.,36,17,19,11,0.9123177010889542,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+157,2,3:00,1680,1680,Latrice Perkins missed Three Point Jumper.,36,17,19,3,0.9132868189278355,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+158,2,2:57,1677,1677,Zaria Wright Defensive Rebound.,36,17,19,4,0.9135467044324692,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+159,2,2:53,1673,1673,Danielle Deoul Turnover.,36,17,19,0,0.9138904233790598,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+160,2,2:53,1673,1673,Latrice Perkins Steal.,36,17,19,4,0.9138904233790598,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+161,2,2:49,1669,1669,Latrice Perkins made Layup.,36,19,17,0,0.8925760884143804,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,Charleston
+162,2,2:49,1669,1669,Foul on Zaria Wright.,36,19,17,0,0.8925760884143804,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+163,2,2:49,1669,1669,Latrice Perkins missed Free Throw.,36,19,17,3,0.8925760884143804,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+164,2,2:46,1666,1666,Miya Bull Defensive Rebound.,36,19,17,10,0.8928535435651643,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+165,2,2:36,1656,1656,Skyler Curran made Layup. Assisted by Callie Scheier.,38,19,19,13,0.9153184528931169,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,High Point
+166,2,2:23,1643,1643,Latrice Perkins missed Layup.,38,19,19,0,0.9163789630205765,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+167,2,2:23,1643,1643,Skyler Curran Defensive Rebound.,38,19,19,0,0.9163789630205765,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+168,2,2:23,1643,1643,Miya Bull Block.,38,19,19,10,0.9163789630205765,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+169,2,2:13,1633,1633,Miya Bull Turnover.,38,19,19,0,0.9171790278976413,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+170,2,2:13,1633,1633,Tyler Collins Steal.,38,19,19,8,0.9171790278976413,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+171,2,2:05,1625,1625,Taylor Williams made Layup. Assisted by Tyler Collins.,38,21,17,9,0.8965038536197872,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,Charleston
+172,2,1:56,1616,1616,Skyler Curran missed Three Point Jumper.,38,21,17,4,0.8972776186410958,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+173,2,1:52,1612,1612,Madison Taylor Defensive Rebound.,38,21,17,6,0.8976192150187953,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+174,2,1:46,1606,1606,Tyler Collins made Layup.,38,23,15,21,0.8721984100267859,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,Charleston
+175,2,1:25,1585,1585,Courtney Meadows missed Layup.,38,23,15,0,0.8741022214382558,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+176,2,1:25,1585,1585,Latrice Perkins Block.,38,23,15,0,0.8741022214382558,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+177,2,1:25,1585,1585,High Point Offensive Rebound.,38,23,15,13,0.8741022214382558,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+178,2,1:12,1572,1572,Callie Scheier missed Jumper.,38,23,15,4,0.8752747317885325,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+179,2,1:08,1568,1568,Latrice Perkins Defensive Rebound.,38,23,15,6,0.8756353374945339,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+180,2,1:02,1562,1562,Foul on Danielle Deoul.,38,23,15,0,0.8761764949103475,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+181,2,1:02,1562,1562,Taylor Williams made Free Throw.,38,24,14,0,0.8613159401061813,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,Charleston
+182,2,1:02,1562,1562,Taylor Williams made Free Throw.,38,25,13,14,0.8449874417473371,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,Charleston
+183,2,0:48,1548,1548,Zaria Wright Turnover.,38,25,13,8,0.8463130428273646,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+184,2,0:40,1540,1540,Madison Taylor missed Three Point Jumper.,38,25,13,4,0.8470750355587743,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+185,2,0:36,1536,1536,Deja Ford Offensive Rebound.,38,25,13,3,0.8474576174602958,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+186,2,0:33,1533,1533,Tyler Collins made Three Point Jumper. Assisted by Deja Ford.,38,28,10,30,0.7893129507165407,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,Charleston
+187,2,0:03,1503,1503,Skyler Curran missed Three Point Jumper.,38,28,10,3,0.7922192324259487,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+188,2,0:00,1500,1500,Madison Taylor Defensive Rebound.,38,28,10,0,0.7925164065235787,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+189,2,0:00,1500,1500,End of 2nd Quarter,38,28,10,9,0.7925164065235787,High Point,Charleston,4,4,0,0,NA,401178504,2019-11-10,
+190,3,9:51,1491,1491,Callie Scheier made Three Point Jumper. Assisted by Camryn Brown.,41,28,13,16,0.8518689265973104,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,High Point
+191,3,9:35,1475,1475,Tyler Collins made Three Point Jumper. Assisted by Taylor Williams.,41,31,10,22,0.7950501257690248,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,Charleston
+192,3,9:13,1453,1453,Callie Scheier made Three Point Jumper. Assisted by Camryn Brown.,44,31,13,16,0.8558180250897651,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,High Point
+193,3,8:57,1437,1437,Taylor Williams made Jumper.,44,33,11,18,0.820348053372584,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,Charleston
+194,3,8:39,1419,1419,Miya Bull missed Three Point Jumper.,44,33,11,6,0.8222217923860405,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+195,3,8:33,1413,1413,Tyler Collins Defensive Rebound.,44,33,11,3,0.8228308785480021,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+196,3,8:30,1410,1410,Tyler Collins missed Jumper.,44,33,11,1,0.8231329278827733,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+197,3,8:29,1409,1409,High Point Defensive Rebound.,44,33,11,0,0.8232332638363681,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+198,3,8:29,1409,1409,Foul on Amaria McNear.,44,33,11,9,0.8232332638363681,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+199,3,8:20,1400,1400,Foul on Deja Ford.,44,33,11,0,0.8241291227910708,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+200,3,8:20,1400,1400,Deja Ford Turnover.,44,33,11,11,0.8241291227910708,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+201,3,8:09,1389,1389,Miya Bull made Layup.,46,33,13,16,0.8622656353471984,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,High Point
+202,3,7:53,1373,1373,Taylor Williams Turnover.,46,33,13,3,0.8637720284253348,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+203,3,7:50,1370,1370,Zaria Wright missed Three Point Jumper.,46,33,13,6,0.8640522847028367,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+204,3,7:44,1364,1364,Miya Bull Offensive Rebound.,46,33,13,3,0.8646114067262314,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+205,3,7:41,1361,1361,Miya Bull made Layup.,48,33,15,15,0.8949315090089798,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,High Point
+206,3,7:26,1346,1346,Latrice Perkins made Jumper.,48,35,13,7,0.8662834348751762,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,Charleston
+207,3,7:19,1339,1339,Foul on Deja Ford.,48,35,13,0,0.8669341437725715,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+208,3,7:19,1339,1339,Miya Bull missed Free Throw.,48,35,13,0,0.8669341437725715,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+209,3,7:19,1339,1339,High Point Offensive Rebound.,48,35,13,0,0.8669341437725715,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+210,3,7:19,1339,1339,Miya Bull made Free Throw.,49,35,14,19,0.8827032306351215,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,High Point
+211,3,7:00,1320,1320,Taylor Williams missed Jumper.,49,35,14,3,0.8844204016861344,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+212,3,6:57,1317,1317,Camryn Brown Defensive Rebound.,49,35,14,16,0.88469365433148,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+213,3,6:41,1301,1301,Zaria Wright missed Three Point Jumper.,49,35,14,5,0.8861656773015752,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+214,3,6:36,1296,1296,Tyler Collins Defensive Rebound.,49,35,14,11,0.8866317880381168,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+215,3,6:25,1285,1285,Taylor Williams missed Three Point Jumper.,49,35,14,4,0.8876697068887665,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+216,3,6:21,1281,1281,Latrice Perkins Offensive Rebound.,49,35,14,3,0.8880518477610754,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+217,3,6:18,1278,1278,Madison Taylor made Three Point Jumper. Assisted by Tyler Collins.,49,38,11,21,0.8360999918097771,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,Charleston
+218,3,5:57,1257,1257,Zaria Wright made Layup. Assisted by Courtney Meadows.,51,38,13,15,0.8749300654003378,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,High Point
+219,3,5:42,1242,1242,Taylor Williams missed Jumper.,51,38,13,4,0.8765297799331254,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+220,3,5:38,1238,1238,Camryn Brown Defensive Rebound.,51,38,13,2,0.8769664146378336,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+221,3,5:36,1236,1236,Miya Bull missed Layup.,51,38,13,4,0.87718640262152,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+222,3,5:32,1232,1232,Taylor Williams Defensive Rebound.,51,38,13,3,0.8776297979629402,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+223,3,5:29,1229,1229,Latrice Perkins missed Layup.,51,38,13,4,0.8779653968532929,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+224,3,5:25,1225,1225,Tyler Collins Offensive Rebound.,51,38,13,1,0.8784170285761305,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+225,3,5:24,1224,1224,Tyler Collins missed Layup.,51,38,13,3,0.8785306928703449,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+226,3,5:21,1221,1221,Zaria Wright Defensive Rebound.,51,38,13,2,0.8788735301530176,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+227,3,5:19,1219,1219,Miya Bull missed Layup.,51,38,13,4,0.8791036432660968,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+228,3,5:15,1215,1215,Deja Ford Defensive Rebound.,51,38,13,9,0.8795676648170544,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+229,3,5:06,1206,1206,Madison Taylor missed Three Point Jumper.,51,38,13,5,0.8806251541573179,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+230,3,5:01,1201,1201,Zaria Wright Defensive Rebound.,51,38,13,1,0.8812050494027552,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+231,3,5:00,1200,1200,Foul on Tyler Collins.,51,38,13,0,0.881320024494264,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+232,3,5:00,1200,1200,Official TV Timeout,51,38,13,0,0.881320024494264,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+233,3,5:00,1200,1200,Zaria Wright made Free Throw.,52,38,14,0,0.8965272355199047,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,High Point
+234,3,5:00,1200,1200,Zaria Wright made Free Throw.,53,38,15,12,0.9099848741674551,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,High Point
+235,3,4:48,1188,1188,Latrice Perkins missed Jumper.,53,38,15,4,0.9112083817114478,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+236,3,4:44,1184,1184,Amaria McNear Defensive Rebound.,53,38,15,16,0.911607361070731,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+237,3,4:28,1168,1168,Foul on Nia Covington.,53,38,15,0,0.9131655701645862,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+238,3,4:28,1168,1168,Skyler Curran missed Free Throw.,53,38,15,0,0.9131655701645862,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+239,3,4:28,1168,1168,High Point Offensive Rebound.,53,38,15,0,0.9131655701645862,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+240,3,4:28,1168,1168,Skyler Curran made Free Throw.,54,38,16,6,0.9248242452454547,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,High Point
+241,3,4:22,1162,1162,Latrice Perkins made Jumper.,54,40,14,29,0.9005000355486927,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,Charleston
+242,3,3:53,1133,1133,Courtney Meadows Turnover.,54,40,14,13,0.9033541894850534,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+243,3,3:40,1120,1120,Deja Ford missed Layup.,54,40,14,0,0.9046099140782794,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+244,3,3:40,1120,1120,Amaria McNear Block.,54,40,14,6,0.9046099140782794,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+245,3,3:34,1114,1114,Skyler Curran Defensive Rebound.,54,40,14,3,0.9051875700291135,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+246,3,3:31,1111,1111,Camryn Brown Turnover.,54,40,14,15,0.9054762612667204,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+247,3,3:16,1096,1096,Latrice Perkins made Jumper.,54,42,12,1,0.8755974801194495,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,Charleston
+248,3,3:15,1095,1095,Foul on Deja Ford.,54,42,12,1,0.8757043653195443,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+249,3,3:14,1094,1094,Foul on Taylor Williams.,54,42,12,0,0.8758113268628419,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+250,3,3:14,1094,1094,Taylor Williams Turnover.,54,42,12,0,0.8758113268628419,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+251,3,3:14,1094,1094,Amaria McNear made Free Throw.,55,42,13,0,0.8924608596841979,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,High Point
+252,3,3:14,1094,1094,Amaria McNear missed Free Throw.,55,42,13,2,0.8924608596841979,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+253,3,3:12,1092,1092,Arynn Eady Defensive Rebound.,55,42,13,38,0.8926655662728303,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+254,3,2:34,1054,1054,Miya Bull missed Three Point Jumper.,55,42,13,0,0.8966367541169259,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+255,3,2:34,1054,1054,Madison Taylor missed Three Point Jumper.,55,42,13,0,0.8966367541169259,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+256,3,2:34,1054,1054,Skyler Curran Defensive Rebound.,55,42,13,9,0.8966367541169259,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+257,3,2:25,1045,1045,Tyler Collins Defensive Rebound.,55,42,13,3,0.897609742009581,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+258,3,2:22,1042,1042,Foul on Camryn Brown.,55,42,13,0,0.8979376250230775,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+259,3,2:22,1042,1042,Tyler Collins made Free Throw.,55,43,12,0,0.8815557609352315,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,Charleston
+260,3,2:22,1042,1042,Tyler Collins missed Free Throw.,55,43,12,2,0.8815557609352315,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+261,3,2:20,1040,1040,Miya Bull Defensive Rebound.,55,43,12,6,0.8817867737151857,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+262,3,2:14,1034,1034,Miya Bull Turnover.,55,43,12,2,0.882485618765565,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+263,3,2:12,1032,1032,Tyler Collins missed Three Point Jumper.,55,43,12,0,0.8827205713365021,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+264,3,2:12,1032,1032,Skyler Curran Defensive Rebound.,55,43,12,0,0.8827205713365021,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+265,3,2:12,1032,1032,Miya Bull made Layup.,57,43,14,36,0.913319557972685,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,High Point
+266,3,1:36,996,996,Madison Taylor missed Layup.,57,43,14,3,0.9172502235304892,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+267,3,1:33,993,993,Miya Bull Defensive Rebound.,57,43,14,28,0.9175926062145772,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+268,3,1:05,965,965,Skyler Curran missed Three Point Jumper.,57,43,14,3,0.9208979257579225,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+269,3,1:02,962,962,High Point Offensive Rebound.,57,43,14,18,0.9212449442508219,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+270,3,0:44,944,944,Foul on Madison Taylor.,57,43,14,0,0.9231853772547078,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+271,3,0:44,944,944,Callie Scheier missed Free Throw.,57,43,14,0,0.9231853772547078,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+272,3,0:44,944,944,High Point Offensive Rebound.,57,43,14,0,0.9231853772547078,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+273,3,0:44,944,944,Callie Scheier missed Free Throw.,57,43,14,0,0.9231853772547078,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+274,3,0:44,944,944,Miya Bull Offensive Rebound.,57,43,14,0,0.9231853772547078,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+275,3,0:44,944,944,Miya Bull Turnover.,57,43,14,8,0.9231853772547078,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+276,3,0:36,936,936,Tyler Collins made Layup.,57,45,12,27,0.8948137480382486,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,Charleston
+277,3,0:09,909,909,Courtney Meadows missed Three Point Jumper.,57,45,12,3,0.897642703392867,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+278,3,0:06,906,906,Miya Bull Offensive Rebound.,57,45,12,5,0.8979390281912756,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+279,3,0:01,901,901,Foul on Arynn Eady.,57,45,12,0,0.898427154819306,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+280,3,0:01,901,901,Miya Bull made Free Throw.,58,45,13,0,0.9138459614223873,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,High Point
+281,3,0:01,901,901,Miya Bull missed Free Throw.,58,45,13,1,0.9138459614223873,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+282,3,0:00,900,900,Arynn Eady Defensive Rebound.,58,45,13,0,0.9139364752755947,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+283,3,0:00,900,900,End of 3rd Quarter,58,45,13,3,0.9139364752755947,High Point,Charleston,5,5,0,0,NA,401178504,2019-11-10,
+284,4,9:57,897,897,Camryn Brown made Three Point Jumper. Assisted by Courtney Meadows.,61,45,16,18,0.9484434005820335,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,High Point
+285,4,9:39,879,879,Taylor Williams missed Layup.,61,45,16,0,0.9496601812719522,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+286,4,9:39,879,879,Olivia VanSlooten Block.,61,45,16,7,0.9496601812719522,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+287,4,9:32,872,872,Arynn Eady Offensive Rebound.,61,45,16,1,0.9501257782328406,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+288,4,9:31,871,871,Latrice Perkins made Three Point Jumper. Assisted by Arynn Eady.,61,48,13,34,0.9164949620387942,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,Charleston
+289,4,8:57,837,837,Courtney Meadows missed Layup.,61,48,13,4,0.9195135551813025,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+290,4,8:53,833,833,Latrice Perkins Defensive Rebound.,61,48,13,11,0.9198827008402303,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+291,4,8:42,822,822,Taylor Williams made Jumper.,61,50,11,9,0.888673317172308,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,Charleston
+292,4,8:33,813,813,Official TV Timeout,61,50,11,8,0.8896880605423106,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+293,4,8:25,805,805,Foul on Madison Taylor.,61,50,11,12,0.8906236062922712,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+294,4,8:13,793,793,Amaria McNear missed Layup.,61,50,11,3,0.8920941430713143,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+295,4,8:10,790,790,Arynn Eady Defensive Rebound.,61,50,11,6,0.8924755148333681,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+296,4,8:04,784,784,Taylor Williams missed Layup.,61,50,11,4,0.8932559256064403,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+297,4,8:00,780,780,Charleston Offensive Rebound.,61,50,11,11,0.8937898030247868,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+298,4,7:49,769,769,Taylor Williams missed Three Point Jumper.,61,50,11,4,0.8953173507286759,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+299,4,7:45,765,765,Camryn Brown Defensive Rebound.,61,50,11,2,0.8958954306641654,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+300,4,7:43,763,763,Miya Bull made Layup. Assisted by Camryn Brown.,63,50,13,7,0.927405719160185,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,High Point
+301,4,7:36,756,756,Foul on Courtney Meadows.,63,50,13,0,0.928305454353158,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+302,4,7:36,756,756,Latrice Perkins made Free Throw.,63,51,12,0,0.9140367029819172,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,Charleston
+303,4,7:36,756,756,Latrice Perkins missed Free Throw.,63,51,12,2,0.9140367029819172,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+304,4,7:34,754,754,Amaria McNear Defensive Rebound.,63,51,12,22,0.9143233017523933,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+305,4,7:12,732,732,Zaria Wright Turnover.,63,51,12,21,0.9176789889163155,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+306,4,6:51,711,711,Taylor Williams missed Jumper.,63,51,12,4,0.92083936354701,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+307,4,6:47,707,707,Zaria Wright Defensive Rebound.,63,51,12,17,0.9213797096382929,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+308,4,6:30,690,690,Zaria Wright missed Three Point Jumper.,63,51,12,4,0.9235120806737416,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+309,4,6:26,686,686,Miya Bull Offensive Rebound.,63,51,12,2,0.9239829006067982,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+310,4,6:24,684,684,Skyler Curran made Three Point Jumper. Assisted by Miya Bull.,66,51,15,17,0.9579647745036014,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,High Point
+311,4,6:07,667,667,Foul on Skyler Curran.,66,51,15,7,0.9593273332980091,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+312,4,6:00,660,660,Foul on Skyler Curran.,66,51,15,0,0.9598699378216952,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+313,4,6:00,660,660,Latrice Perkins made Free Throw.,66,52,14,0,0.9508755938433504,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,Charleston
+314,4,6:00,660,660,Latrice Perkins made Free Throw.,66,53,13,13,0.9399913780645883,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,Charleston
+315,4,5:47,647,647,Amaria McNear made Layup. Assisted by Courtney Meadows.,68,53,15,13,0.9608700403860317,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,High Point
+316,4,5:34,634,634,Latrice Perkins missed Layup.,68,53,15,1,0.9618823956920578,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+317,4,5:33,633,633,Arynn Eady Offensive Rebound.,68,53,15,0,0.9619614761588682,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+318,4,5:33,633,633,Foul on Camryn Brown.,68,53,15,3,0.9619614761588682,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+319,4,5:30,630,630,Latrice Perkins Turnover.,68,53,15,9,0.9622001051390904,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+320,4,5:21,621,621,Amaria McNear missed Layup.,68,53,15,3,0.9629307578014074,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+321,4,5:18,618,618,Arynn Eady Defensive Rebound.,68,53,15,9,0.9631800690808596,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+322,4,5:09,609,609,Latrice Perkins made Layup.,68,55,13,9,0.945212393216739,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,Charleston
+323,4,5:00,600,600,Miya Bull Turnover.,68,55,13,17,0.9462523135935662,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+324,4,4:43,583,583,Latrice Perkins made Jumper.,68,57,11,15,0.921502507457383,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,Charleston
+325,4,4:28,568,568,Miya Bull missed Three Point Jumper.,68,57,11,6,0.9241004165663621,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+326,4,4:22,562,562,Nia Covington Defensive Rebound.,68,57,11,7,0.9252163434392684,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+327,4,4:15,555,555,Foul on Amaria McNear.,68,57,11,0,0.9265765094032288,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+328,4,4:15,555,555,Official TV Timeout,68,57,11,0,0.9265765094032288,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+329,4,4:15,555,555,Nia Covington missed Free Throw.,68,57,11,0,0.9265765094032288,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+330,4,4:15,555,555,Charleston Offensive Rebound.,68,57,11,1,0.9265765094032288,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+331,4,4:14,554,554,Nia Covington missed Free Throw.,68,57,11,1,0.9267760340967571,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+332,4,4:13,553,553,Arynn Eady Offensive Rebound.,68,57,11,1,0.926976875201046,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+333,4,4:12,552,552,Arynn Eady made Layup.,68,59,9,28,0.8890990697792738,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,Charleston
+334,4,3:44,524,524,Skyler Curran missed Three Point Jumper.,68,59,9,4,0.8950092721297095,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+335,4,3:40,520,520,Tyler Collins Defensive Rebound.,68,59,9,5,0.8957184595321497,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+336,4,3:35,515,515,Latrice Perkins made Layup. Assisted by Tyler Collins.,68,61,7,5,0.8428800174474573,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,Charleston
+337,4,3:30,510,510,Courtney Meadows Turnover.,68,61,7,0,0.8438104318524966,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+338,4,3:30,510,510,Tyler Collins Steal.,68,61,7,6,0.8438104318524966,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+339,4,3:24,504,504,Latrice Perkins missed Three Point Jumper.,68,61,7,4,0.8449100210833408,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+340,4,3:20,500,500,Skyler Curran Defensive Rebound.,68,61,7,27,0.8456400907460089,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+341,4,2:53,473,473,Amaria McNear missed Jumper.,68,61,7,0,0.8508648042271293,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+342,4,2:53,473,473,Charleston Defensive Rebound.,68,61,7,14,0.8508648042271293,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+343,4,2:39,459,459,Foul on Camryn Brown.,68,61,7,0,0.8540599346067603,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+344,4,2:39,459,459,Tyler Collins made Free Throw.,68,62,6,0,0.8197130485914362,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,Charleston
+345,4,2:39,459,459,Tyler Collins made Free Throw.,68,63,5,27,0.7793708611080398,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,Charleston
+346,4,2:12,432,432,Courtney Meadows missed Layup.,68,63,5,1,0.7871639203724771,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+347,4,2:11,431,431,High Point Offensive Rebound.,68,63,5,4,0.7875076950743103,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+348,4,2:07,427,427,Skyler Curran missed Three Point Jumper.,68,63,5,4,0.7888931231067801,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+349,4,2:03,423,423,Callie Scheier Offensive Rebound.,68,63,5,19,0.7902351633400577,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+350,4,1:44,404,404,Amaria McNear Turnover.,68,63,5,14,0.7961424791086276,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+351,4,1:30,390,390,Latrice Perkins made Layup.,68,65,3,25,0.6969264944386993,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,Charleston
+352,4,1:05,365,365,Courtney Meadows Turnover.,68,65,3,0,0.7029795674449375,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+353,4,1:05,365,365,Madison Taylor Steal.,68,65,3,5,0.7029795674449375,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+354,4,1:00,360,360,Foul on Amaria McNear.,68,65,3,0,0.7042996945611764,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+355,4,1:00,360,360,Madison Taylor made Free Throw.,68,66,2,1,0.6407386819449828,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,Charleston
+356,4,0:59,359,359,Madison Taylor missed Free Throw.,68,66,2,5,0.6409378729700208,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+357,4,0:54,354,354,Callie Scheier Defensive Rebound.,68,66,2,23,0.6419601795323276,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+358,4,0:31,331,331,Miya Bull Turnover.,68,66,2,0,0.6473670256093473,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+359,4,0:31,331,331,Nia Covington Steal.,68,66,2,4,0.6473670256093473,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+360,4,0:27,327,327,Nia Covington made Jumper.,68,68,0,27,0.5,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,Charleston
+361,4,0:00,300,300,Skyler Curran missed Three Point Jumper.,68,68,0,0,0.5,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+362,4,0:00,300,300,Charleston Defensive Rebound.,68,68,0,0,0.5,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+363,4,0:00,300,300,End of 4th Quarter,68,68,0,13,0.5,High Point,Charleston,6,6,0,0,NA,401178504,2019-11-10,
+364,5,4:47,287,287,Latrice Perkins missed Three Point Jumper.,68,68,0,4,0.5,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+365,5,4:43,283,283,Arynn Eady Offensive Rebound.,68,68,0,1,0.5,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+366,5,4:42,282,282,Arynn Eady made Layup.,68,70,-2,34,0.343236818191074,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,Charleston
+367,5,4:08,248,248,Skyler Curran missed Three Point Jumper.,68,70,-2,4,0.34724224173894624,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+368,5,4:04,244,244,Latrice Perkins Defensive Rebound.,68,70,-2,10,0.3475827101796122,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+369,5,3:54,234,234,Tyler Collins Turnover.,68,70,-2,0,0.3478459941063242,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+370,5,3:54,234,234,Miya Bull Steal.,68,70,-2,7,0.3478459941063242,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+371,5,3:47,227,227,Skyler Curran missed Three Point Jumper.,68,70,-2,4,0.34735690353533666,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+372,5,3:43,223,223,Callie Scheier Offensive Rebound.,68,70,-2,19,0.3467647517874227,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+373,5,3:24,204,204,Skyler Curran missed Jumper.,68,70,-2,3,0.3399700202229961,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+374,5,3:21,201,201,Nia Covington Defensive Rebound.,68,70,-2,5,0.3381860081245954,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+375,5,3:16,196,196,Nia Covington made Layup.,68,72,-4,33,0.20199773858922518,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,Charleston
+376,5,2:43,163,163,High Point  Turnover.,68,72,-4,16,0.16085509026660144,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+377,5,2:27,147,147,Nia Covington made Layup.,68,74,-6,16,0.06236484153827829,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,Charleston
+378,5,2:11,131,131,Foul on Latrice Perkins.,68,74,-6,0,0.048467762679700065,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+379,5,2:11,131,131,Olivia VanSlooten missed Free Throw.,68,74,-6,0,0.048467762679700065,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+380,5,2:11,131,131,High Point Offensive Rebound.,68,74,-6,0,0.048467762679700065,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+381,5,2:11,131,131,Olivia VanSlooten missed Free Throw.,68,74,-6,0,0.048467762679700065,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+382,5,2:11,131,131,Miya Bull Offensive Rebound.,68,74,-6,2,0.048467762679700065,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+383,5,2:09,129,129,Miya Bull Turnover.,68,74,-6,16,0.04681747863300933,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+384,5,1:53,113,113,Foul on Callie Scheier.,68,74,-6,0,0.03443493370241985,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+385,5,1:53,113,113,Latrice Perkins missed Free Throw.,68,74,-6,0,0.03443493370241985,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+386,5,1:53,113,113,Charleston Offensive Rebound.,68,74,-6,2,0.03443493370241985,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+387,5,1:51,111,111,Latrice Perkins missed Free Throw.,68,74,-6,3,0.033001288995080875,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+388,5,1:48,108,108,High Point Defensive Rebound.,68,74,-6,23,0.030903740166631964,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+389,5,1:25,85,85,Miya Bull missed Three Point Jumper.,68,74,-6,4,0.01737586523858031,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+390,5,1:21,81,81,Madison Taylor Defensive Rebound.,68,74,-6,23,0.015582018002367337,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+391,5,0:58,58,58,Tyler Collins missed Three Point Jumper.,68,74,-6,6,0.007807011679559189,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+392,5,0:52,52,52,Nia Covington Offensive Rebound.,68,74,-6,13,0.006416979007800552,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+393,5,0:39,39,39,Tyler Collins made Layup.,68,76,-8,12,6.572198286397005e-4,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,Charleston
+394,5,0:27,27,27,Callie Scheier missed Three Point Jumper.,68,76,-8,2,3.622688752197497e-4,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+395,5,0:25,25,25,Charleston Defensive Rebound.,68,76,-8,0,3.2709518770429504e-4,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+396,5,0:25,25,25,Charleston Defensive Rebound.,68,76,-8,3,3.2709518770429504e-4,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+397,5,0:22,22,22,Foul on Callie Scheier.,68,76,-8,0,2.802396995516709e-4,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+398,5,0:22,22,22,Tyler Collins made Free Throw.,68,77,-9,0,1.0082402143373687e-4,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,Charleston
+399,5,0:22,22,22,Tyler Collins missed Free Throw.,68,77,-9,1,1.0082402143373687e-4,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+400,5,0:21,21,21,Miya Bull Defensive Rebound.,68,77,-9,0,9.506972055110818e-5,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+401,5,0:21,21,21,High Point Defensive Rebound.,68,77,-9,7,9.506972055110818e-5,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+402,5,0:14,14,14,Skyler Curran made Layup.,70,77,-7,2,5.350425085883905e-4,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,High Point
+403,5,0:12,12,12,Foul on Callie Scheier.,70,77,-7,0,4.8557589852446476e-4,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+404,5,0:12,12,12,Tyler Collins made Free Throw.,70,78,-8,0,1.6331851271579942e-4,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,Charleston
+405,5,0:12,12,12,Tyler Collins made Free Throw.,70,79,-9,9,5.4918768830159034e-5,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,Charleston
+406,5,0:03,3,3,Skyler Curran missed Three Point Jumper.,70,79,-9,3,3.0822441514341e-5,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+407,5,0:00,0,0,Nia Covington Defensive Rebound.,70,79,-9,0,6.714184288211594e-79,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,
+408,5,0:00,0,0,End of 1st Overtime,70,79,-9,0,6.714184288211594e-79,High Point,Charleston,7,7,0,0,NA,401178504,2019-11-10,

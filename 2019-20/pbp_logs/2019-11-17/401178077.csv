@@ -1,0 +1,292 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:42,2382,2382,Mary Gedaka Turnover.,0,0,0,10,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,NA
+2,1,9:32,2372,2372,Foul on Raven James.,0,0,0,0,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+3,1,9:32,2372,2372,Breanna Cavanaugh made Free Throw.,1,0,1,0,0.5223536071496834,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Fordham
+4,1,9:32,2372,2372,Breanna Cavanaugh missed Free Throw.,1,0,1,0,0.5223536071496834,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+5,1,9:32,2372,2372,Cameron Onken Defensive Rebound.,1,0,1,22,0.5223536071496834,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+6,1,9:10,2350,2350,Madison Siegrist missed Three Point Jumper.,1,0,1,3,0.5225914065901247,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+7,1,9:07,2347,2347,Kendell Heremaia Defensive Rebound.,1,0,1,5,0.5226240852276702,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+8,1,9:02,2342,2342,Kendell Heremaia made Layup.,3,0,3,30,0.5676650719849222,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Fordham
+9,1,8:32,2312,2312,Foul on Sarah Karpell.,3,0,3,0,0.5686409702844453,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+10,1,8:32,2312,2312,Raven James made Free Throw.,3,1,2,0,0.545921638731889,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Villanova
+11,1,8:32,2312,2312,Raven James missed Free Throw.,3,1,2,0,0.545921638731889,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+12,1,8:32,2312,2312,Kendell Heremaia Defensive Rebound.,3,1,2,5,0.545921638731889,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+13,1,8:27,2307,2307,Kendell Heremaia Turnover.,3,1,2,0,0.5460321953134282,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+14,1,8:27,2307,2307,Cameron Onken Steal.,3,1,2,7,0.5460321953134282,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+15,1,8:20,2300,2300,Madison Siegrist made Layup. Assisted by Cameron Onken.,3,3,0,36,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Villanova
+16,1,7:44,2264,2264,Anna DeWolfe made Jumper. Assisted by Kaitlyn Downey.,5,3,2,20,0.5469932384002621,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Fordham
+17,1,7:24,2244,2244,Madison Siegrist made Layup. Assisted by Cameron Onken.,5,5,0,27,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Villanova
+18,1,6:57,2217,2217,Kendell Heremaia missed Layup.,5,5,0,0,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+19,1,6:57,2217,2217,Bridget Herlihy Block.,5,5,0,0,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+20,1,6:57,2217,2217,Fordham Deadball Team Rebound.,5,5,0,4,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+21,1,6:53,2213,2213,Kaitlyn Downey missed Layup.,5,5,0,3,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+22,1,6:50,2210,2210,Kaitlyn Downey Offensive Rebound.,5,5,0,1,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+23,1,6:49,2209,2209,Anna DeWolfe made Jumper. Assisted by Kaitlyn Downey.,7,5,2,19,0.5482443987813758,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Fordham
+24,1,6:30,2190,2190,Madison Siegrist made Layup.,7,7,0,18,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Villanova
+25,1,6:12,2172,2172,Kendell Heremaia made Jumper.,9,7,2,14,0.5490959085697926,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Fordham
+26,1,5:58,2158,2158,Madison Siegrist missed Three Point Jumper.,9,7,2,3,0.5494197980081144,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+27,1,5:55,2155,2155,Kaitlyn Downey Defensive Rebound.,9,7,2,30,0.5494893923142233,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+28,1,5:25,2125,2125,Anna DeWolfe missed Jumper.,9,7,2,0,0.5501893043774503,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+29,1,5:25,2125,2125,Foul on Madison Siegrist.,9,7,2,4,0.5501893043774503,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+30,1,5:21,2121,2121,Breanna Cavanaugh missed Layup.,9,7,2,0,0.5502831994046297,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+31,1,5:21,2121,2121,Breanna Cavanaugh Offensive Rebound.,9,7,2,2,0.5502831994046297,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+32,1,5:19,2119,2119,Sarah Karpell Offensive Rebound.,9,7,2,0,0.5503301999323245,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+33,1,5:19,2119,2119,Anna DeWolfe missed Jumper.,9,7,2,0,0.5503301999323245,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+34,1,5:19,2119,2119,Fordham Deadball Team Rebound.,9,7,2,2,0.5503301999323245,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+35,1,5:17,2117,2117,Breanna Cavanaugh made Jumper. Assisted by Anna DeWolfe.,11,7,4,26,0.5997419455824957,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Fordham
+36,1,4:51,2091,2091,Mary Gedaka made Layup.,11,9,2,19,0.5509920780621692,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Villanova
+37,1,4:32,2072,2072,Kaitlyn Downey missed Jumper.,11,9,2,4,0.5514455692172431,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+38,1,4:28,2068,2068,Mary Gedaka Defensive Rebound.,11,9,2,13,0.5515415163875809,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+39,1,4:15,2055,2055,Samantha Carangi missed Three Point Jumper.,11,9,2,5,0.5518545309665726,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+40,1,4:10,2050,2050,Mary Gedaka Offensive Rebound.,11,9,2,6,0.5519754153330887,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+41,1,4:04,2044,2044,Madison Siegrist made Three Point Jumper. Assisted by Cameron Onken.,11,12,-1,22,0.4738683935375802,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Villanova
+42,1,3:42,2022,2022,Breanna Cavanaugh missed Three Point Jumper.,11,12,-1,2,0.47359774791775133,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+43,1,3:40,2020,2020,Madison Siegrist Defensive Rebound.,11,12,-1,15,0.4735729968641911,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+44,1,3:25,2005,2005,Foul on Breanna Cavanaugh.,11,12,-1,0,0.4733865552963753,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+45,1,3:25,2005,2005,Official TV Timeout,11,12,-1,6,0.4733865552963753,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+46,1,3:19,1999,1999,Madison Siegrist made Layup. Assisted by Samantha Carangi.,11,14,-3,16,0.4205378590324588,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Villanova
+47,1,3:03,1983,1983,Breanna Cavanaugh made Three Point Jumper.,14,14,0,16,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Fordham
+48,1,2:47,1967,1967,Foul on Megan Jonassen.,14,14,0,22,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+49,1,2:25,1945,1945,Mary Gedaka missed Layup.,14,14,0,3,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+50,1,2:22,1942,1942,Anna DeWolfe Defensive Rebound.,14,14,0,1,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+51,1,2:21,1941,1941,Anna DeWolfe Turnover.,14,14,0,0,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+52,1,2:21,1941,1941,Mary Gedaka Steal.,14,14,0,6,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+53,1,2:15,1935,1935,Mary Gedaka Turnover.,14,14,0,0,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+54,1,2:15,1935,1935,Breanna Cavanaugh Steal.,14,14,0,27,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+55,1,1:48,1908,1908,Zara Jillings missed Layup.,14,14,0,3,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+56,1,1:45,1905,1905,Cameron Onken Defensive Rebound.,14,14,0,12,0.5,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+57,1,1:33,1893,1893,Madison Siegrist made Layup. Assisted by Bridget Herlihy.,14,16,-2,0,0.44407756204327364,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Villanova
+58,1,1:33,1893,1893,Foul on Anna DeWolfe.,14,16,-2,0,0.44407756204327364,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+59,1,1:33,1893,1893,Madison Siegrist missed Free Throw.,14,16,-2,0,0.44407756204327364,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+60,1,1:33,1893,1893,Kendell Heremaia Defensive Rebound.,14,16,-2,19,0.44407756204327364,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+61,1,1:14,1874,1874,Breanna Cavanaugh missed Three Point Jumper.,14,16,-2,6,0.44358911365063813,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+62,1,1:08,1868,1868,Mary Gedaka Defensive Rebound.,14,16,-2,36,0.4434346812096754,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+63,1,0:32,1832,1832,Kaitlyn Downey missed Jumper.,14,18,-4,3,0.3865084360716648,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Villanova
+64,1,0:29,1829,1829,Madison Siegrist Defensive Rebound.,14,18,-4,25,0.38635843946689835,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+65,1,0:04,1804,1804,Bridget Herlihy made Jumper. Assisted by Mary Gedaka.,14,20,-6,4,0.33138560216818624,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Villanova
+66,1,0:00,1800,1800,End of 1st Quarter,14,20,-6,13,0.3311015388428796,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+67,2,9:47,1787,1787,Kendell Heremaia made Three Point Jumper. Assisted by Anna DeWolfe.,17,20,-3,23,0.4124860403794488,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Fordham
+68,2,9:24,1764,1764,Bridget Herlihy Turnover.,17,20,-3,0,0.4115779247158548,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+69,2,9:24,1764,1764,Kendell Heremaia Steal.,17,20,-3,18,0.4115779247158548,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+70,2,9:06,1746,1746,Anna DeWolfe missed Layup.,17,20,-3,2,0.4108567290597538,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+71,2,9:04,1744,1744,Samantha Carangi Defensive Rebound.,17,20,-3,12,0.41077596330601296,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+72,2,8:52,1732,1732,Foul on Anna DeWolfe.,17,20,-3,6,0.4102885109686444,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+73,2,8:46,1726,1726,Cameron Onken Turnover.,17,20,-3,23,0.4100428675384056,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+74,2,8:23,1703,1703,Kendell Heremaia Turnover.,17,20,-3,28,0.40908838111123297,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+75,2,7:55,1675,1675,Mary Gedaka made Layup. Assisted by Madison Siegrist.,17,22,-5,20,0.3495472829276086,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Villanova
+76,2,7:35,1655,1655,Breanna Cavanaugh Turnover.,17,22,-5,0,0.3482604397117185,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+77,2,7:35,1655,1655,Cameron Onken Steal.,17,22,-5,16,0.3482604397117185,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+78,2,7:19,1639,1639,Mary Gedaka made Layup.,17,24,-7,0,0.2924326718048656,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Villanova
+79,2,7:19,1639,1639,Foul on Kaitlyn Downey.,17,24,-7,0,0.2924326718048656,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+80,2,7:19,1639,1639,Mary Gedaka missed Free Throw.,17,24,-7,0,0.2924326718048656,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+81,2,7:19,1639,1639,Megan Jonassen Defensive Rebound.,17,24,-7,16,0.2924326718048656,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+82,2,7:03,1623,1623,Fordham  Timeout,17,24,-7,0,0.2911606968202615,Fordham,Villanova,3,4,1,0,NA,401178077,2019-11-17,
+83,2,7:03,1623,1623,Official TV Timeout,17,24,-7,1,0.2911606968202615,Fordham,Villanova,3,4,1,0,NA,401178077,2019-11-17,
+84,2,7:02,1622,1622,Foul on Madison Siegrist.,17,24,-7,16,0.2910816437175587,Fordham,Villanova,3,4,1,0,NA,401178077,2019-11-17,
+85,2,6:46,1606,1606,Sarah Karpell missed Three Point Jumper.,17,24,-7,2,0.28982151802247663,Fordham,Villanova,3,4,1,0,NA,401178077,2019-11-17,
+86,2,6:44,1604,1604,Cameron Onken Defensive Rebound.,17,24,-7,14,0.2896644455584289,Fordham,Villanova,3,4,1,0,NA,401178077,2019-11-17,
+87,2,6:30,1590,1590,Cameron Onken missed Three Point Jumper.,17,24,-7,2,0.28856579923679665,Fordham,Villanova,3,4,1,0,NA,401178077,2019-11-17,
+88,2,6:28,1588,1588,Breanna Cavanaugh Defensive Rebound.,17,24,-7,6,0.28840882114080096,Fordham,Villanova,3,4,1,0,NA,401178077,2019-11-17,
+89,2,6:22,1582,1582,Kaitlyn Downey missed Three Point Jumper.,17,24,-7,0,0.2879375670493842,Fordham,Villanova,3,4,1,0,NA,401178077,2019-11-17,
+90,2,6:22,1582,1582,Bridget Herlihy Block.,17,24,-7,4,0.2879375670493842,Fordham,Villanova,3,4,1,0,NA,401178077,2019-11-17,
+91,2,6:18,1578,1578,Mary Gedaka Defensive Rebound.,17,24,-7,7,0.28762300583797284,Fordham,Villanova,3,4,1,0,NA,401178077,2019-11-17,
+92,2,6:11,1571,1571,Cameron Onken missed Layup.,17,24,-7,3,0.2870714288061537,Fordham,Villanova,3,4,1,0,NA,401178077,2019-11-17,
+93,2,6:08,1568,1568,Kaitlyn Downey Defensive Rebound.,17,24,-7,18,0.28683450312370784,Fordham,Villanova,3,4,1,0,NA,401178077,2019-11-17,
+94,2,5:50,1550,1550,Kendell Heremaia missed Three Point Jumper.,17,24,-7,2,0.28540347121477294,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+95,2,5:48,1548,1548,Cameron Onken Defensive Rebound.,17,24,-7,13,0.28524322865164164,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+96,2,5:35,1535,1535,Brooke Mullin missed Jumper.,17,24,-7,2,0.28419397121837564,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+97,2,5:33,1533,1533,Kendell Heremaia Defensive Rebound.,17,24,-7,27,0.2840312361604716,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+98,2,5:06,1506,1506,Sarah Karpell made Layup. Assisted by Breanna Cavanaugh.,19,24,-5,22,0.33888227735569443,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,Fordham
+99,2,4:44,1484,1484,Brooke Mullin made Jumper. Assisted by Cameron Onken.,19,26,-7,25,0.279895051201984,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,Villanova
+100,2,4:19,1459,1459,Breanna Cavanaugh made Layup.,21,26,-5,0,0.33559220571545256,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,Fordham
+101,2,4:19,1459,1459,Foul on Bridget Herlihy.,21,26,-5,0,0.33559220571545256,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+102,2,4:19,1459,1459,Breanna Cavanaugh missed Free Throw.,21,26,-5,0,0.33559220571545256,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+103,2,4:19,1459,1459,Bridget Herlihy Defensive Rebound.,21,26,-5,18,0.33559220571545256,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+104,2,4:01,1441,1441,Foul on Kaitlyn Downey.,21,26,-5,0,0.3342544605271897,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+105,2,4:01,1441,1441,Mary Gedaka made Free Throw.,21,27,-6,0,0.3043208570985599,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,Villanova
+106,2,4:01,1441,1441,Mary Gedaka missed Free Throw.,21,27,-6,0,0.3043208570985599,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+107,2,4:01,1441,1441,Breanna Cavanaugh Defensive Rebound.,21,27,-6,24,0.3043208570985599,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+108,2,3:37,1417,1417,Zara Jillings Turnover.,21,27,-6,0,0.3023547002436151,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+109,2,3:37,1417,1417,Mackenzie Gardler Steal.,21,27,-6,18,0.3023547002436151,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+110,2,3:19,1399,1399,Mary Gedaka Turnover.,21,27,-6,20,0.3009309809197328,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+111,2,2:59,1379,1379,Kendell Heremaia missed Three Point Jumper.,21,27,-6,5,0.2993803825534063,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+112,2,2:54,1374,1374,Sarah Karpell missed Layup.,21,27,-6,0,0.2989956404603543,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+113,2,2:54,1374,1374,Sarah Karpell Offensive Rebound.,21,27,-6,0,0.2989956404603543,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+114,2,2:54,1374,1374,Bridget Herlihy Block.,21,27,-6,2,0.2989956404603543,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+115,2,2:52,1372,1372,Bridget Herlihy Defensive Rebound.,21,27,-6,17,0.2988419125960741,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+116,2,2:35,1355,1355,Mary Gedaka Turnover.,21,27,-6,19,0.2975359319930654,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+117,2,2:16,1336,1336,Breanna Cavanaugh missed Jumper.,21,27,-6,2,0.2960671673298584,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+118,2,2:14,1334,1334,Brooke Mullin Defensive Rebound.,21,27,-6,18,0.29591135028213666,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+119,2,1:56,1316,1316,Mary Gedaka made Layup.,21,29,-8,24,0.23778129994103825,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,Villanova
+120,2,1:32,1292,1292,Kendell Heremaia Turnover.,21,29,-8,0,0.2355119489813281,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+121,2,1:32,1292,1292,Brooke Mullin Steal.,21,29,-8,25,0.2355119489813281,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+122,2,1:07,1267,1267,Mary Gedaka made Layup.,21,31,-10,19,0.18405602339509577,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,Villanova
+123,2,0:48,1248,1248,Kendell Heremaia missed Three Point Jumper.,21,31,-10,3,0.18196622237717297,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+124,2,0:45,1245,1245,Bridget Herlihy Defensive Rebound.,21,31,-10,32,0.18162670106635845,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+125,2,0:13,1213,1213,Villanova  Turnover.,21,31,-10,11,0.1778189973613432,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+126,2,0:02,1202,1202,Breanna Cavanaugh missed Jumper.,21,31,-10,0,0.17644690197202445,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+127,2,0:02,1202,1202,Katie McLoughlin Offensive Rebound.,21,31,-10,2,0.17644690197202445,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+128,2,0:00,1200,1200,End of 2nd Quarter,21,31,-10,9,0.17620114634698963,Fordham,Villanova,3,4,0,0,NA,401178077,2019-11-17,
+129,3,9:51,1191,1191,Kendell Heremaia made Layup.,23,31,-8,23,0.22445898939292122,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,Fordham
+130,3,9:28,1168,1168,Cameron Onken Turnover.,23,31,-8,0,0.22185524066216336,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,
+131,3,9:28,1168,1168,Breanna Cavanaugh Steal.,23,31,-8,0,0.22185524066216336,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,
+132,3,9:28,1168,1168,Breanna Cavanaugh Turnover.,23,31,-8,17,0.22185524066216336,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,
+133,3,9:11,1151,1151,Mary Gedaka made Layup. Assisted by Madison Siegrist.,23,33,-10,6,0.1704850144414915,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,Villanova
+134,3,9:05,1145,1145,Kendell Heremaia missed Three Point Jumper.,23,33,-10,4,0.16981233783769728,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,
+135,3,9:01,1141,1141,Madison Siegrist Defensive Rebound.,23,33,-10,15,0.1693656102409591,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,
+136,3,8:46,1126,1126,Raven James missed Three Point Jumper.,23,33,-10,1,0.1676980696306937,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,
+137,3,8:45,1125,1125,Fordham Deadball Team Rebound.,23,33,-10,20,0.1675871284101475,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,
+138,3,8:25,1105,1105,Kaitlyn Downey made Jumper. Assisted by Sarah Karpell.,25,33,-8,20,0.2149955323031688,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,Fordham
+139,3,8:05,1085,1085,Mary Gedaka missed Three Point Jumper.,25,33,-8,2,0.21279202974045733,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,
+140,3,8:03,1083,1083,Kendell Heremaia Defensive Rebound.,25,33,-8,5,0.21256876446421336,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,
+141,3,7:58,1078,1078,Kaitlyn Downey made Layup. Assisted by Kendell Heremaia.,27,33,-6,19,0.2719702716284935,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,Fordham
+142,3,7:39,1059,1059,Bridget Herlihy made Layup. Assisted by Madison Siegrist.,27,35,-8,25,0.20983186509558083,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,Villanova
+143,3,7:14,1034,1034,Anna DeWolfe made Three Point Jumper. Assisted by Breanna Cavanaugh.,30,35,-5,17,0.3015188327741644,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,Fordham
+144,3,6:57,1017,1017,Madison Siegrist Turnover.,30,35,-5,15,0.29978965440867583,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,
+145,3,6:42,1002,1002,Kaitlyn Downey made Jumper. Assisted by Breanna Cavanaugh.,32,35,-3,33,0.374356685757639,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,Fordham
+146,3,6:09,969,969,Cameron Onken missed Jumper.,32,35,-3,3,0.37177815828372335,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,
+147,3,6:06,966,966,Kendell Heremaia Defensive Rebound.,32,35,-3,18,0.37153366867482857,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,
+148,3,5:48,948,948,Breanna Cavanaugh made Three Point Jumper. Assisted by Kendell Heremaia.,35,35,0,10,0.5,Fordham,Villanova,4,5,0,0,NA,401178077,2019-11-17,Fordham
+149,3,5:38,938,938,Villanova  Timeout,35,35,0,0,0.5,Fordham,Villanova,4,4,0,1,NA,401178077,2019-11-17,
+150,3,5:38,938,938,Official TV Timeout,35,35,0,12,0.5,Fordham,Villanova,4,4,0,1,NA,401178077,2019-11-17,
+151,3,5:26,926,926,Foul on Kaitlyn Downey.,35,35,0,13,0.5,Fordham,Villanova,4,4,0,1,NA,401178077,2019-11-17,
+152,3,5:13,913,913,Bridget Herlihy missed Layup.,35,35,0,6,0.5,Fordham,Villanova,4,4,0,1,NA,401178077,2019-11-17,
+153,3,5:07,907,907,Madison Siegrist Offensive Rebound.,35,35,0,0,0.5,Fordham,Villanova,4,4,0,1,NA,401178077,2019-11-17,
+154,3,5:07,907,907,Madison Siegrist made Layup.,35,37,-2,16,0.41041671694314114,Fordham,Villanova,4,4,0,1,NA,401178077,2019-11-17,Villanova
+155,3,4:51,891,891,Breanna Cavanaugh missed Three Point Jumper.,35,37,-2,2,0.4097327672541774,Fordham,Villanova,4,4,0,1,NA,401178077,2019-11-17,
+156,3,4:49,889,889,Cameron Onken Defensive Rebound.,35,37,-2,21,0.40964823520247273,Fordham,Villanova,4,4,0,1,NA,401178077,2019-11-17,
+157,3,4:28,868,868,Samantha Carangi missed Layup.,35,37,-2,3,0.40876134524574703,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+158,3,4:25,865,865,Mary Gedaka Offensive Rebound.,35,37,-2,0,0.4086335391460184,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+159,3,4:25,865,865,Mary Gedaka made Layup.,35,39,-4,19,0.3231716117100347,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Villanova
+160,3,4:06,846,846,Anna DeWolfe made Layup.,37,39,-2,27,0.40780605669823616,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Fordham
+161,3,3:39,819,819,Official TV Timeout,37,39,-2,0,0.4065373203797049,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+162,3,3:39,819,819,Mary Gedaka Turnover.,37,39,-2,0,0.4065373203797049,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+163,3,3:39,819,819,Breanna Cavanaugh Steal.,37,39,-2,3,0.4065373203797049,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+164,3,3:36,816,816,Foul on Samantha Carangi.,37,39,-2,0,0.40638678542307666,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+165,3,3:36,816,816,Breanna Cavanaugh missed Free Throw.,37,39,-2,0,0.40638678542307666,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+166,3,3:36,816,816,Fordham Deadball Team Rebound.,37,39,-2,0,0.40638678542307666,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+167,3,3:36,816,816,Breanna Cavanaugh made Free Throw.,38,39,-1,21,0.4527758553374773,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Fordham
+168,3,3:15,795,795,Foul on Madison Siegrist.,38,39,-1,0,0.452198555829828,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+169,3,3:15,795,795,Madison Siegrist Turnover.,38,39,-1,14,0.452198555829828,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+170,3,3:01,781,781,Breanna Cavanaugh missed Layup.,38,39,-1,0,0.4517723523777164,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+171,3,3:01,781,781,Brooke Mullin Block.,38,39,-1,8,0.4517723523777164,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+172,3,2:53,773,773,Cameron Onken Defensive Rebound.,38,39,-1,9,0.45151145792437336,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+173,3,2:44,764,764,Madison Siegrist made Three Point Jumper.,38,42,-4,21,0.31361502495519394,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Villanova
+174,3,2:23,743,743,Foul on Mary Gedaka.,38,42,-4,0,0.3108389648006983,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+175,3,2:23,743,743,Kaitlyn Downey made Free Throw.,39,42,-3,0,0.3549960014746966,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Fordham
+176,3,2:23,743,743,Kaitlyn Downey made Free Throw.,40,42,-2,12,0.40176892236850364,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Fordham
+177,3,2:11,731,731,Foul on Kaitlyn Downey.,40,42,-2,12,0.4007773669262037,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+178,3,1:59,719,719,Mary Gedaka made Layup.,40,44,-4,0,0.30729916980863214,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Villanova
+179,3,1:59,719,719,Foul on Sarah Karpell.,40,44,-4,0,0.30729916980863214,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+180,3,1:59,719,719,Mary Gedaka made Free Throw.,40,45,-5,25,0.26581303231539405,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Villanova
+181,3,1:34,694,694,Megan Jonassen missed Layup.,40,45,-5,1,0.2620949746306553,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+182,3,1:33,693,693,Villanova Deadball Team Rebound.,40,45,-5,0,0.2619572936214173,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+183,3,1:33,693,693,Foul on Kendell Heremaia.,40,45,-5,23,0.2619572936214173,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+184,3,1:10,670,670,Brooke Mullin made Three Point Jumper. Assisted by Bridget Herlihy.,40,48,-8,17,0.1567657499565757,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Villanova
+185,3,0:53,653,653,Anna DeWolfe made Jumper.,42,48,-6,29,0.21831763943234941,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Fordham
+186,3,0:24,624,624,Mary Gedaka missed Layup.,42,48,-6,0,0.21414369960873683,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+187,3,0:24,624,624,Villanova Deadball Team Rebound.,42,48,-6,5,0.21414369960873683,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+188,3,0:19,619,619,Sarah Karpell Defensive Rebound.,42,48,-6,16,0.2133683378869908,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+189,3,0:03,603,603,Breanna Cavanaugh missed Jumper.,42,48,-6,2,0.21071864810450286,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+190,3,0:01,601,601,Cameron Onken Defensive Rebound.,42,48,-6,1,0.2103666049906529,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+191,3,0:00,600,600,End of 3rd Quarter,42,48,-6,5,0.2101886602059725,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+192,4,9:55,595,595,Samantha Carangi Turnover.,42,48,-6,0,0.2092789329211119,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,
+193,4,9:55,595,595,Breanna Cavanaugh Steal.,42,48,-6,0,0.2092789329211119,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,
+194,4,9:55,595,595,Breanna Cavanaugh Turnover.,42,48,-6,20,0.2092789329211119,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,
+195,4,9:35,575,575,Foul on Kendell Heremaia.,42,48,-6,0,0.20526610555275776,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,
+196,4,9:35,575,575,Madison Siegrist missed Free Throw.,42,48,-6,0,0.20526610555275776,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,
+197,4,9:35,575,575,Villanova Deadball Team Rebound.,42,48,-6,0,0.20526610555275776,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,
+198,4,9:35,575,575,Madison Siegrist missed Free Throw.,42,48,-6,0,0.20526610555275776,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,
+199,4,9:35,575,575,Anna DeWolfe Defensive Rebound.,42,48,-6,17,0.20526610555275776,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,
+200,4,9:18,558,558,Breanna Cavanaugh missed Three Point Jumper.,42,48,-6,3,0.20130685103248508,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,
+201,4,9:15,555,555,Cameron Onken Defensive Rebound.,42,48,-6,21,0.20054924470716773,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,
+202,4,8:54,534,534,Bridget Herlihy Turnover.,42,48,-6,27,0.1953938329696829,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,
+203,4,8:27,507,507,Breanna Cavanaugh made Jumper.,44,48,-4,21,0.2756162210996276,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,Fordham
+204,4,8:06,486,486,Foul on Megan Jonassen.,44,48,-4,12,0.2722207836152987,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,
+205,4,7:54,474,474,Bridget Herlihy Turnover.,44,48,-4,22,0.2700962734320601,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,
+206,4,7:32,452,452,Breanna Cavanaugh made Jumper.,46,48,-2,16,0.37544349823991974,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,Fordham
+207,4,7:16,436,436,Mary Gedaka Turnover.,46,48,-2,0,0.37285376536745934,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,
+208,4,7:16,436,436,Sarah Karpell Steal.,46,48,-2,9,0.37285376536745934,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,
+209,4,7:07,427,427,Breanna Cavanaugh missed Jumper.,46,48,-2,3,0.3711453161989433,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,
+210,4,7:04,424,424,Zara Jillings Offensive Rebound.,46,48,-2,9,0.3705779601994638,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,
+211,4,6:55,415,415,Anna DeWolfe missed Three Point Jumper.,46,48,-2,5,0.36894233751891353,Fordham,Villanova,5,5,0,0,NA,401178077,2019-11-17,
+212,4,6:50,410,410,Villanova Deadball Team Rebound.,46,48,-2,0,0.3680672899170347,Fordham,Villanova,5,5,0,1,NA,401178077,2019-11-17,
+213,4,6:50,410,410,Villanova  Timeout,46,48,-2,0,0.3680672899170347,Fordham,Villanova,5,4,0,1,NA,401178077,2019-11-17,
+214,4,6:50,410,410,Official TV Timeout,46,48,-2,20,0.3680672899170347,Fordham,Villanova,5,4,0,1,NA,401178077,2019-11-17,
+215,4,6:30,390,390,Mary Gedaka missed Layup.,46,48,-2,2,0.3646735516378968,Fordham,Villanova,5,4,0,1,NA,401178077,2019-11-17,
+216,4,6:28,388,388,Megan Jonassen Defensive Rebound.,46,48,-2,16,0.3643342629674223,Fordham,Villanova,5,4,0,1,NA,401178077,2019-11-17,
+217,4,6:12,372,372,Foul on Kendell Heremaia.,46,48,-2,0,0.361535726882639,Fordham,Villanova,5,4,0,1,NA,401178077,2019-11-17,
+218,4,6:12,372,372,Kendell Heremaia Turnover.,46,48,-2,21,0.361535726882639,Fordham,Villanova,5,4,0,1,NA,401178077,2019-11-17,
+219,4,5:51,351,351,Madison Siegrist made Jumper. Assisted by Mary Gedaka.,46,50,-4,11,0.23625881021088488,Fordham,Villanova,5,4,0,1,NA,401178077,2019-11-17,Villanova
+220,4,5:40,340,340,Sarah Karpell made Three Point Jumper. Assisted by Breanna Cavanaugh.,49,50,-1,18,0.4258568014904658,Fordham,Villanova,5,4,0,0,NA,401178077,2019-11-17,Fordham
+221,4,5:22,322,322,Cameron Onken missed Three Point Jumper.,49,50,-1,4,0.42329885008097556,Fordham,Villanova,5,4,0,0,NA,401178077,2019-11-17,
+222,4,5:18,318,318,Samantha Carangi Offensive Rebound.,49,50,-1,0,0.4226552510795707,Fordham,Villanova,5,4,0,0,NA,401178077,2019-11-17,
+223,4,5:18,318,318,Samantha Carangi made Layup.,49,52,-3,0,0.2817802220030446,Fordham,Villanova,5,4,0,0,NA,401178077,2019-11-17,Villanova
+224,4,5:18,318,318,Foul on Kendell Heremaia.,49,52,-3,0,0.2817802220030446,Fordham,Villanova,5,4,0,0,NA,401178077,2019-11-17,
+225,4,5:18,318,318,Foul on Cameron Onken.,49,52,-3,0,0.2817802220030446,Fordham,Villanova,5,4,0,0,NA,401178077,2019-11-17,
+226,4,5:18,318,318,Breanna Cavanaugh made Free Throw.,50,52,-2,0,0.34892553887951566,Fordham,Villanova,5,4,0,0,NA,401178077,2019-11-17,Fordham
+227,4,5:18,318,318,Breanna Cavanaugh made Free Throw.,51,52,-1,0,0.4226552510795707,Fordham,Villanova,5,4,0,0,NA,401178077,2019-11-17,Fordham
+228,4,5:18,318,318,Brooke Mullin made Free Throw.,51,53,-2,20,0.34892553887951566,Fordham,Villanova,5,4,0,0,NA,401178077,2019-11-17,Villanova
+229,4,4:58,298,298,Brooke Mullin missed Three Point Jumper.,51,53,-2,2,0.3436460235765494,Fordham,Villanova,5,4,0,0,NA,401178077,2019-11-17,
+230,4,4:56,296,296,Kendell Heremaia Defensive Rebound.,51,53,-2,9,0.34342196337267367,Fordham,Villanova,5,4,0,0,NA,401178077,2019-11-17,
+231,4,4:47,287,287,Kendell Heremaia made Three Point Jumper. Assisted by Sarah Karpell.,54,53,1,22,0.5805045913792141,Fordham,Villanova,5,4,0,0,NA,401178077,2019-11-17,Fordham
+232,4,4:25,265,265,Madison Siegrist missed Layup.,54,53,1,4,0.5794207900254189,Fordham,Villanova,5,4,0,0,NA,401178077,2019-11-17,
+233,4,4:21,261,261,Madison Siegrist made Layup.,54,55,-1,0,0.42087901878332745,Fordham,Villanova,5,4,0,0,NA,401178077,2019-11-17,Villanova
+234,4,4:21,261,261,Madison Siegrist Offensive Rebound.,54,55,-1,14,0.42087901878332745,Fordham,Villanova,5,4,0,0,NA,401178077,2019-11-17,
+235,4,4:07,247,247,Foul on Madison Siegrist.,54,55,-1,13,0.4218015538150831,Fordham,Villanova,5,4,0,0,NA,401178077,2019-11-17,
+236,4,3:54,234,234,Breanna Cavanaugh missed Three Point Jumper.,54,55,-1,3,0.4220751530605579,Fordham,Villanova,5,4,0,0,NA,401178077,2019-11-17,
+237,4,3:51,231,231,Brooke Mullin Defensive Rebound.,54,55,-1,17,0.4220047641071278,Fordham,Villanova,5,4,0,0,NA,401178077,2019-11-17,
+238,4,3:34,214,214,Brooke Mullin made Three Point Jumper.,54,58,-4,7,0.21634146778394958,Fordham,Villanova,5,4,0,0,NA,401178077,2019-11-17,Villanova
+239,4,3:27,207,207,Fordham  Timeout,54,58,-4,11,0.2120091154681352,Fordham,Villanova,4,4,1,0,NA,401178077,2019-11-17,
+240,4,3:16,196,196,Foul on Bridget Herlihy.,54,58,-4,0,0.20199773858922518,Fordham,Villanova,4,4,1,0,NA,401178077,2019-11-17,
+241,4,3:16,196,196,Kendell Heremaia missed Free Throw.,54,58,-4,0,0.20199773858922518,Fordham,Villanova,4,4,1,0,NA,401178077,2019-11-17,
+242,4,3:16,196,196,Fordham Deadball Team Rebound.,54,58,-4,0,0.20199773858922518,Fordham,Villanova,4,4,1,0,NA,401178077,2019-11-17,
+243,4,3:16,196,196,Kendell Heremaia made Free Throw.,55,58,-3,24,0.2630082695378082,Fordham,Villanova,4,4,1,0,NA,401178077,2019-11-17,Fordham
+244,4,2:52,172,172,Mary Gedaka made Layup. Assisted by Bridget Herlihy.,55,60,-5,0,0.12297579517974196,Fordham,Villanova,4,4,1,0,NA,401178077,2019-11-17,Villanova
+245,4,2:52,172,172,Foul on Kendell Heremaia.,55,60,-5,0,0.12297579517974196,Fordham,Villanova,4,4,1,0,NA,401178077,2019-11-17,
+246,4,2:52,172,172,Mary Gedaka missed Free Throw.,55,60,-5,0,0.12297579517974196,Fordham,Villanova,4,4,1,0,NA,401178077,2019-11-17,
+247,4,2:52,172,172,Zara Jillings Defensive Rebound.,55,60,-5,9,0.12297579517974196,Fordham,Villanova,4,4,1,0,NA,401178077,2019-11-17,
+248,4,2:43,163,163,Foul on Zara Jillings.,55,60,-5,0,0.11256051081150792,Fordham,Villanova,4,4,1,0,NA,401178077,2019-11-17,
+249,4,2:43,163,163,Zara Jillings Turnover.,55,60,-5,4,0.11256051081150792,Fordham,Villanova,4,4,1,0,NA,401178077,2019-11-17,
+250,4,2:39,159,159,Madison Siegrist made Three Point Jumper. Assisted by Brooke Mullin.,55,63,-8,32,0.03299378647802657,Fordham,Villanova,4,4,1,0,NA,401178077,2019-11-17,Villanova
+251,4,2:07,127,127,Anna DeWolfe made Layup.,57,63,-6,5,0.045188258741420254,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,Fordham
+252,4,2:02,122,122,Mary Gedaka Turnover.,57,63,-6,0,0.041211926816546444,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+253,4,2:02,122,122,Anna DeWolfe Steal.,57,63,-6,0,0.041211926816546444,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+254,4,2:02,122,122,Kaitlyn Downey missed Three Point Jumper.,57,63,-6,0,0.041211926816546444,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+255,4,2:02,122,122,Brooke Mullin Defensive Rebound.,57,63,-6,20,0.041211926816546444,Fordham,Villanova,4,4,0,0,NA,401178077,2019-11-17,
+256,4,1:42,102,102,Villanova  Timeout,57,63,-6,20,0.02690890457238329,Fordham,Villanova,4,3,0,1,NA,401178077,2019-11-17,
+257,4,1:22,82,82,Madison Siegrist made Layup. Assisted by Mary Gedaka.,57,65,-8,13,0.004108225881865275,Fordham,Villanova,4,3,0,1,NA,401178077,2019-11-17,Villanova
+258,4,1:09,69,69,Anna DeWolfe missed Jumper.,57,65,-8,0,0.002477717493230794,Fordham,Villanova,4,3,0,1,NA,401178077,2019-11-17,
+259,4,1:09,69,69,Madison Siegrist Block.,57,65,-8,2,0.002477717493230794,Fordham,Villanova,4,3,0,1,NA,401178077,2019-11-17,
+260,4,1:07,67,67,Madison Siegrist Defensive Rebound.,57,65,-8,0,0.0022826585981726034,Fordham,Villanova,4,3,0,1,NA,401178077,2019-11-17,
+261,4,1:07,67,67,Foul on Katie McLoughlin.,57,65,-8,0,0.0022826585981726034,Fordham,Villanova,4,3,0,1,NA,401178077,2019-11-17,
+262,4,1:07,67,67,Bridget Herlihy made Free Throw.,57,66,-9,0,0.0010688043117322366,Fordham,Villanova,4,3,0,1,NA,401178077,2019-11-17,Villanova
+263,4,1:07,67,67,Bridget Herlihy missed Free Throw.,57,66,-9,0,0.0010688043117322366,Fordham,Villanova,4,3,0,1,NA,401178077,2019-11-17,
+264,4,1:07,67,67,Zara Jillings Defensive Rebound.,57,66,-9,6,0.0010688043117322366,Fordham,Villanova,4,3,0,1,NA,401178077,2019-11-17,
+265,4,1:01,61,61,Sarah Karpell made Layup. Assisted by Zara Jillings.,59,66,-7,8,0.003911338738935043,Fordham,Villanova,4,3,0,1,NA,401178077,2019-11-17,Fordham
+266,4,0:53,53,53,Mary Gedaka made Layup. Assisted by Cameron Onken.,59,68,-9,0,5.453747440966525e-4,Fordham,Villanova,4,3,1,1,NA,401178077,2019-11-17,Villanova
+267,4,0:53,53,53,Fordham  Timeout,59,68,-9,4,5.453747440966525e-4,Fordham,Villanova,3,3,1,1,NA,401178077,2019-11-17,
+268,4,0:49,49,49,Breanna Cavanaugh made Layup. Assisted by Sarah Karpell.,61,68,-7,0,0.0024702829345435154,Fordham,Villanova,3,3,1,1,NA,401178077,2019-11-17,Fordham
+269,4,0:49,49,49,Foul on Bridget Herlihy.,61,68,-7,0,0.0024702829345435154,Fordham,Villanova,3,3,1,1,NA,401178077,2019-11-17,
+270,4,0:49,49,49,Breanna Cavanaugh made Free Throw.,62,68,-6,12,0.005802362913602761,Fordham,Villanova,3,3,1,1,NA,401178077,2019-11-17,Fordham
+271,4,0:37,37,37,Mary Gedaka made Layup. Assisted by Brooke Mullin.,62,70,-8,1,5.964837233524553e-4,Fordham,Villanova,3,3,1,0,NA,401178077,2019-11-17,Villanova
+272,4,0:36,36,36,Fordham  Timeout,62,70,-8,5,5.680409908012861e-4,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,
+273,4,0:31,31,31,Foul on Bridget Herlihy.,62,70,-8,1,4.433729010915954e-4,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,
+274,4,0:30,30,30,Breanna Cavanaugh made Free Throw.,63,70,-7,0,0.0011130630613296858,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,Fordham
+275,4,0:30,30,30,Breanna Cavanaugh made Free Throw.,64,70,-6,8,0.0029348346104883754,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,Fordham
+276,4,0:22,22,22,Foul on Katie McLoughlin.,64,70,-6,0,0.00216171630890053,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,
+277,4,0:22,22,22,Mary Gedaka made Free Throw.,64,71,-7,0,7.786757560310607e-4,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,Villanova
+278,4,0:22,22,22,Mary Gedaka made Free Throw.,64,72,-8,1,2.802396995516709e-4,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,Villanova
+279,4,0:21,21,21,Anna DeWolfe Turnover.,64,72,-8,0,2.6597914718104427e-4,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,
+280,4,0:21,21,21,Raven James Steal.,64,72,-8,0,2.6597914718104427e-4,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,
+281,4,0:21,21,21,Foul on Anna DeWolfe.,64,72,-8,0,2.6597914718104427e-4,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,
+282,4,0:21,21,21,Mary Gedaka made Free Throw.,64,73,-9,0,9.506972055110818e-5,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,Villanova
+283,4,0:21,21,21,Mary Gedaka missed Free Throw.,64,73,-9,0,9.506972055110818e-5,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,
+284,4,0:21,21,21,Kaitlyn Downey Defensive Rebound.,64,73,-9,3,9.506972055110818e-5,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,
+285,4,0:18,18,18,Kaitlyn Downey missed Three Point Jumper.,64,73,-9,3,7.947980144808649e-5,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,
+286,4,0:15,15,15,Sarah Karpell Offensive Rebound.,64,73,-9,2,6.618564209061081e-5,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,
+287,4,0:13,13,13,Kaitlyn Downey missed Three Point Jumper.,64,73,-9,3,5.8465224630898616e-5,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,
+288,4,0:10,10,10,Anna DeWolfe made Layup.,66,73,-7,0,4.4019296571067674e-4,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,Fordham
+289,4,0:10,10,10,Anna DeWolfe Offensive Rebound.,66,73,-7,10,4.4019296571067674e-4,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,
+290,4,0:00,0,0,End of 4th Quarter,66,73,-7,0,1.580420060273613e-61,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,
+291,4,0:00,0,0,End of Game,66,73,-7,0,1.580420060273613e-61,Fordham,Villanova,2,3,1,0,NA,401178077,2019-11-17,

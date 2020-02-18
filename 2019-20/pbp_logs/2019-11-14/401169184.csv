@@ -1,0 +1,333 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:41,2381,2381,Foul on Ayanna Townsend.,0,0,0,0,0.5,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,NA
+2,1,9:41,2381,2381,Ayanna Townsend Turnover.,0,0,0,22,0.5,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+3,1,9:19,2359,2359,Ashley Jones Turnover.,0,0,0,0,0.5,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+4,1,9:19,2359,2359,A'Riana Gray Steal.,0,0,0,3,0.5,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+5,1,9:16,2356,2356,A'Riana Gray Turnover.,0,0,0,9,0.5,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+6,1,9:07,2347,2347,Alexa Williamson made Layup. Assisted by Ashley Jones.,2,0,2,17,0.5451557187753678,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Temple
+7,1,8:50,2330,2330,A'Riana Gray missed Three Point Jumper.,2,0,2,3,0.5455259319330696,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+8,1,8:47,2327,2327,Temple Defensive Rebound.,2,0,2,7,0.5455916255074778,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+9,1,8:40,2320,2320,Foul on A'Riana Gray.,2,0,2,0,0.545745316074961,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+10,1,8:40,2320,2320,Mia Davis made Free Throw.,3,0,3,0,0.5683792526997815,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Temple
+11,1,8:40,2320,2320,Mia Davis made Free Throw.,4,0,4,11,0.5907311636986208,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Temple
+12,1,8:29,2309,2309,Lauren Wasylson missed Three Point Jumper.,4,0,4,3,0.5912043322300354,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+13,1,8:26,2306,2306,Marissa Mackins Defensive Rebound.,4,0,4,6,0.5913338005751095,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+14,1,8:20,2300,2300,Emani Mayo missed Three Point Jumper.,4,0,4,3,0.5915932614957834,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+15,1,8:17,2297,2297,Aaliyah Dunham Defensive Rebound.,4,0,4,6,0.5917232484250708,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+16,1,8:11,2291,2291,Aaliyah Dunham missed Layup.,4,0,4,3,0.5919837211122981,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+17,1,8:08,2288,2288,Mia Davis Defensive Rebound.,4,0,4,4,0.5921142012291807,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+18,1,8:04,2284,2284,Ashley Jones made Layup.,6,0,6,0,0.6364873754712019,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Temple
+19,1,8:04,2284,2284,Foul on Deja Ross.,6,0,6,0,0.6364873754712019,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+20,1,8:04,2284,2284,Ashley Jones made Free Throw.,7,0,7,23,0.6578007676934641,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Temple
+21,1,7:41,2261,2261,Ayanna Townsend missed Jumper.,7,0,7,4,0.6594420393146894,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+22,1,7:37,2257,2257,Alexa Williamson Defensive Rebound.,7,0,7,17,0.6597285805727143,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+23,1,7:20,2240,2240,Mia Davis made Layup.,9,0,9,1,0.7022951368812733,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Temple
+24,1,7:19,2239,2239,Xavier  Timeout,9,0,9,25,0.702381467341028,Temple,Xavier,3,4,1,0,NA,401169184,2019-11-14,
+25,1,6:54,2214,2214,Deja Ross Turnover.,9,0,9,0,0.7045433987021122,Temple,Xavier,3,4,1,0,NA,401169184,2019-11-14,
+26,1,6:54,2214,2214,Ashley Jones Steal.,9,0,9,6,0.7045433987021122,Temple,Xavier,3,4,1,0,NA,401169184,2019-11-14,
+27,1,6:48,2208,2208,Alexa Williamson missed Layup.,9,0,9,5,0.7050630999436082,Temple,Xavier,3,4,1,0,NA,401169184,2019-11-14,
+28,1,6:43,2203,2203,Deja Ross Defensive Rebound.,9,0,9,16,0.7054963617467002,Temple,Xavier,3,4,1,0,NA,401169184,2019-11-14,
+29,1,6:27,2187,2187,Morgan Sharps made Three Point Jumper. Assisted by Deja Ross.,9,3,6,21,0.6426452847055361,Temple,Xavier,3,4,1,0,NA,401169184,2019-11-14,Xavier
+30,1,6:06,2166,2166,Deja Ross Defensive Rebound.,9,3,6,13,0.6439924996490257,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+31,1,5:53,2153,2153,Deja Ross missed Three Point Jumper.,9,3,6,4,0.6448291080202297,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+32,1,5:49,2149,2149,Ashley Jones Defensive Rebound.,9,3,6,20,0.6450870932491254,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+33,1,5:29,2129,2129,Mia Davis missed Three Point Jumper.,9,3,6,2,0.6463812804017981,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+34,1,5:27,2127,2127,Courtney Prenger Defensive Rebound.,9,3,6,0,0.6465111061810769,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+35,1,5:27,2127,2127,Courtney Prenger Turnover.,9,3,6,0,0.6465111061810769,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+36,1,5:27,2127,2127,Alexa Williamson Steal.,9,3,6,4,0.6465111061810769,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+37,1,5:23,2123,2123,Foul on Aaliyah Dunham.,9,3,6,1,0.6467709887303781,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+38,1,5:22,2122,2122,Mia Davis Turnover.,9,3,6,19,0.6468360079916436,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+39,1,5:03,2103,2103,Foul on Shantay Taylor.,9,3,6,0,0.648075199514949,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+40,1,5:03,2103,2103,A'Riana Gray made Free Throw.,9,4,5,0,0.6245308343422337,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,Xavier
+41,1,5:03,2103,2103,A'Riana Gray missed Free Throw.,9,4,5,1,0.6245308343422337,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+42,1,5:02,2102,2102,Ashley Jones Defensive Rebound.,9,4,5,17,0.6245868926948633,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+43,1,4:45,2085,2085,Mia Davis made Layup. Assisted by Ashley Jones.,11,4,7,8,0.6722546097895448,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,Temple
+44,1,4:37,2077,2077,Carrie Gross made Layup. Assisted by Aaliyah Dunham.,11,6,5,24,0.6259949486257689,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,Xavier
+45,1,4:13,2053,2053,Shantay Taylor missed Layup.,11,6,5,1,0.627359348334978,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+46,1,4:12,2052,2052,Temple Offensive Rebound.,11,6,5,5,0.6274164830430046,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+47,1,4:07,2047,2047,Marissa Mackins missed Three Point Jumper.,11,6,5,4,0.6277025093261908,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+48,1,4:03,2043,2043,Asonah Alexander Offensive Rebound.,11,6,5,7,0.6279317580628231,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+49,1,3:56,2036,2036,Ashley Jones missed Three Point Jumper.,11,6,5,4,0.6283338732742854,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+50,1,3:52,2032,2032,Carrie Gross Defensive Rebound.,11,6,5,9,0.6285641928530672,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+51,1,3:43,2023,2023,Carrie Gross made Three Point Jumper. Assisted by Na'Teshia Owens.,11,9,2,21,0.5526331514348236,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,Xavier
+52,1,3:22,2002,2002,Marissa Mackins made Three Point Jumper. Assisted by Ashley Jones.,14,9,5,22,0.6303046047905201,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,Temple
+53,1,3:00,1980,1980,Morgan Sharps Turnover.,14,9,5,0,0.631596280058351,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+54,1,3:00,1980,1980,Asonah Alexander Steal.,14,9,5,5,0.631596280058351,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+55,1,2:55,1975,1975,Marissa Mackins missed Layup.,14,9,5,0,0.6318917494031964,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+56,1,2:55,1975,1975,Na'Teshia Owens Block.,14,9,5,0,0.6318917494031964,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+57,1,2:55,1975,1975,Temple Offensive Rebound.,14,9,5,3,0.6318917494031964,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+58,1,2:52,1972,1972,Mia Davis missed Jumper.,14,9,5,3,0.6320693786102742,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+59,1,2:49,1969,1969,A'Riana Gray Defensive Rebound.,14,9,5,13,0.6322472708789562,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+60,1,2:36,1956,1956,A'Riana Gray missed Jumper.,14,9,5,3,0.6330212242152617,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+61,1,2:33,1953,1953,Ashley Jones Defensive Rebound.,14,9,5,5,0.6332005520031984,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+62,1,2:28,1948,1948,Marissa Mackins missed Three Point Jumper.,14,9,5,4,0.6335000442372192,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+63,1,2:24,1944,1944,Na'Teshia Owens Defensive Rebound.,14,9,5,11,0.633740194453431,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+64,1,2:13,1933,1933,A'Riana Gray made Jumper.,14,11,3,21,0.5819277824584342,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,Xavier
+65,1,1:52,1912,1912,Marissa Mackins missed Three Point Jumper.,14,11,3,2,0.582726803458281,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+66,1,1:50,1910,1910,Carrie Gross Defensive Rebound.,14,11,3,13,0.5828027764930478,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+67,1,1:37,1897,1897,Na'Teshia Owens missed Three Point Jumper.,14,11,3,4,0.5832962846408858,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+68,1,1:33,1893,1893,Mia Davis Defensive Rebound.,14,11,3,4,0.5834480717837793,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+69,1,1:29,1889,1889,Mia Davis missed Jumper.,14,11,3,3,0.5835998553847677,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+70,1,1:26,1886,1886,Carrie Gross Defensive Rebound.,14,11,3,13,0.5837136994895804,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+71,1,1:13,1873,1873,Carrie Gross missed Layup.,14,11,3,3,0.5842072444630011,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+72,1,1:10,1870,1870,Ashley Jones Defensive Rebound.,14,11,3,6,0.5843212247635606,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+73,1,1:04,1864,1864,Asonah Alexander missed Three Point Jumper.,14,11,3,3,0.5845493261382854,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+74,1,1:01,1861,1861,A'Riana Gray Defensive Rebound.,14,11,3,20,0.5846634594233817,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+75,1,0:41,1841,1841,A'Riana Gray made Three Point Jumper.,14,14,0,18,0.5,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,Xavier
+76,1,0:23,1823,1823,Ashley Jones missed Three Point Jumper.,14,14,0,4,0.5,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+77,1,0:19,1819,1819,Ashley Gomez Defensive Rebound.,14,14,0,19,0.5,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+78,1,0:00,1800,1800,Carrie Gross missed Jumper.,14,14,0,0,0.5,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+79,1,0:00,1800,1800,Foul on Mia Davis.,14,14,0,0,0.5,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+80,1,0:00,1800,1800,Ayanna Townsend made Free Throw.,14,15,-1,0,0.47073319422403154,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,Xavier
+81,1,0:00,1800,1800,Ayanna Townsend missed Free Throw.,14,15,-1,0,0.47073319422403154,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+82,1,0:00,1800,1800,A'Riana Gray Offensive Rebound.,14,15,-1,0,0.47073319422403154,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+83,1,0:00,1800,1800,Ayanna Townsend Offensive Rebound.,14,15,-1,0,0.47073319422403154,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+84,1,0:00,1800,1800,End of 1st Quarter,14,15,-1,16,0.47073319422403154,Temple,Xavier,3,4,0,0,NA,401169184,2019-11-14,
+85,2,9:44,1784,1784,Asonah Alexander Turnover.,14,15,-1,9,0.47051896315464586,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+86,2,9:35,1775,1775,Carrie Gross Turnover.,14,15,-1,11,0.4703975017265199,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+87,2,9:24,1764,1764,Ayanna Townsend Block.,14,15,-1,5,0.4702480113212606,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+88,2,9:19,1759,1759,Carrie Gross Defensive Rebound.,14,15,-1,3,0.4701796580041783,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+89,2,9:16,1756,1756,Foul on Emani Mayo.,14,15,-1,6,0.4701385191826093,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+90,2,9:10,1750,1750,A'Riana Gray missed Three Point Jumper.,14,15,-1,4,0.4700559464025223,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+91,2,9:06,1746,1746,Alexa Williamson Defensive Rebound.,14,15,-1,5,0.4700006725452892,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+92,2,9:01,1741,1741,Alexa Williamson Turnover.,14,15,-1,14,0.46993131800058685,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+93,2,8:47,1727,1727,A'Riana Gray missed Three Point Jumper.,14,15,-1,3,0.4697354962294323,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+94,2,8:44,1724,1724,Temple Defensive Rebound.,14,15,-1,30,0.46969320759603245,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+95,2,8:14,1694,1694,Ayanna Townsend made Layup.,16,17,-1,0,0.4692633762545538,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Temple
+96,2,8:14,1694,1694,Foul on Alexa Williamson.,16,17,-1,0,0.4692633762545538,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+97,2,8:14,1694,1694,Ayanna Townsend made Free Throw.,16,18,-2,28,0.4387581828958911,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Xavier
+98,2,7:46,1666,1666,Ashley Jones made Jumper.,18,18,0,17,0.5,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Temple
+99,2,7:29,1649,1649,Ayanna Townsend made Layup.,18,20,-2,21,0.4374917851954577,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Xavier
+100,2,7:08,1628,1628,Marissa Mackins missed Three Point Jumper.,18,20,-2,3,0.4369210460663011,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+101,2,7:05,1625,1625,Mia Davis Offensive Rebound.,18,20,-2,2,0.4368401289001044,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+102,2,7:03,1623,1623,Mia Davis made Jumper.,20,20,0,15,0.5,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Temple
+103,2,6:48,1608,1608,Aaliyah Dunham missed Jumper.,20,20,0,3,0.5,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+104,2,6:45,1605,1605,Mia Davis Defensive Rebound.,20,20,0,5,0.5,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+105,2,6:40,1600,1600,Asonah Alexander made Three Point Jumper. Assisted by Marissa Mackins.,23,20,3,11,0.5950998982458968,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Temple
+106,2,6:29,1589,1589,Carrie Gross missed Jumper.,23,20,3,1,0.5955336822059514,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+107,2,6:28,1588,1588,Xavier Offensive Rebound.,23,20,3,1,0.5955731612533735,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+108,2,6:27,1587,1587,Aaliyah Dunham Turnover.,23,20,3,11,0.5956126511053937,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+109,2,6:16,1576,1576,Ashley Jones Turnover.,23,20,3,0,0.5960479799495989,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+110,2,6:16,1576,1576,Sarah Leyendecker Steal.,23,20,3,25,0.5960479799495989,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+111,2,5:51,1551,1551,Courtney Prenger missed Jumper.,23,20,3,3,0.5970481827825538,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+112,2,5:48,1548,1548,Asonah Alexander Defensive Rebound.,23,20,3,3,0.5971696498634803,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+113,2,5:45,1545,1545,Foul on Aaliyah Dunham.,23,20,3,17,0.5972914997438118,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+114,2,5:28,1528,1528,Mia Davis missed Jumper.,23,20,3,5,0.5979902433320406,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+115,2,5:23,1523,1523,Mia Davis Offensive Rebound.,23,20,3,9,0.5981987907445966,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+116,2,5:14,1514,1514,Foul on Sarah Leyendecker.,23,20,3,10,0.5985781654969858,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+117,2,5:04,1504,1504,Ashley Jones made Three Point Jumper. Assisted by Marissa Mackins.,26,20,6,25,0.6905416670364446,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Temple
+118,2,4:39,1479,1479,Foul on Ashley Jones.,26,20,6,0,0.6925067729182237,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+119,2,4:39,1479,1479,Official TV Timeout,26,20,6,7,0.6925067729182237,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+120,2,4:32,1472,1472,Foul on Asonah Alexander.,26,20,6,1,0.6930743781545977,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+121,2,4:31,1471,1471,Na'Teshia Owens Turnover.,26,20,6,15,0.6931561437785794,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+122,2,4:16,1456,1456,Ashley Jones made Three Point Jumper. Assisted by Asonah Alexander.,29,20,9,22,0.7740261661549181,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Temple
+123,2,3:54,1434,1434,Sarah Leyendecker Turnover.,29,20,9,13,0.7763191672204246,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+124,2,3:41,1421,1421,Marissa Mackins missed Three Point Jumper.,29,20,9,5,0.7776249531677548,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+125,2,3:36,1416,1416,Shantay Taylor Offensive Rebound.,29,20,9,7,0.7781183191887701,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+126,2,3:29,1409,1409,Lena Niang missed Three Point Jumper.,29,20,9,1,0.77880188533861,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+127,2,3:28,1408,1408,Xavier Defensive Rebound.,29,20,9,13,0.7788989121770549,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+128,2,3:15,1395,1395,Lauren Wasylson missed Three Point Jumper.,29,20,9,4,0.7801480412424834,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+129,2,3:11,1391,1391,Carrie Gross Offensive Rebound.,29,20,9,2,0.7805284615875857,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+130,2,3:09,1389,1389,Ayanna Townsend missed Jumper.,29,20,9,0,0.7807180969708116,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+131,2,3:09,1389,1389,Lauren Wasylson Offensive Rebound.,29,20,9,0,0.7807180969708116,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+132,2,3:09,1389,1389,Foul on Lena Niang.,29,20,9,0,0.7807180969708116,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+133,2,3:09,1389,1389,Lauren Wasylson made Free Throw.,29,21,8,0,0.7556101535031619,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Xavier
+134,2,3:09,1389,1389,Lauren Wasylson missed Free Throw.,29,21,8,9,0.7556101535031619,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+135,2,3:00,1380,1380,Temple Defensive Rebound.,29,21,8,4,0.7564247625348702,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+136,2,2:56,1376,1376,Foul on Ayanna Townsend.,29,21,8,8,0.7567853277077223,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+137,2,2:48,1368,1368,Ashley Jones missed Three Point Jumper.,29,21,8,2,0.7575046992377154,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+138,2,2:46,1366,1366,Na'Teshia Owens Defensive Rebound.,29,21,8,14,0.757684310969961,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+139,2,2:32,1352,1352,A'Riana Gray made Jumper.,29,23,6,9,0.7026949453727599,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Xavier
+140,2,2:23,1343,1343,Foul on Courtney Prenger.,29,23,6,5,0.7033895944361047,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+141,2,2:18,1338,1338,Carrie Gross Defensive Rebound.,29,23,6,12,0.7037773011615898,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+142,2,2:06,1326,1326,A'Riana Gray missed Three Point Jumper.,29,23,6,4,0.7047151598613467,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+143,2,2:02,1322,1322,Lauren Wasylson Offensive Rebound.,29,23,6,1,0.7050306299893409,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+144,2,2:01,1321,1321,Lauren Wasylson missed Layup.,29,23,6,4,0.7051097542963022,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+145,2,1:57,1317,1317,Shantay Taylor Defensive Rebound.,29,23,6,2,0.705427350527683,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+146,2,1:55,1315,1315,Temple  Timeout,29,23,6,19,0.7055868415371097,Temple,Xavier,4,3,0,1,NA,401169184,2019-11-14,
+147,2,1:36,1296,1296,Carrie Gross Defensive Rebound.,29,23,6,7,0.7071290036901067,Temple,Xavier,4,3,0,1,NA,401169184,2019-11-14,
+148,2,1:29,1289,1289,A'Riana Gray made Layup.,29,25,4,18,0.6432573242369848,Temple,Xavier,4,3,0,1,NA,401169184,2019-11-14,Xavier
+149,2,1:11,1271,1271,Xavier Defensive Rebound.,29,25,4,18,0.6443979570839865,Temple,Xavier,4,3,0,1,NA,401169184,2019-11-14,
+150,2,0:53,1253,1253,Courtney Prenger missed Jumper.,29,25,4,3,0.6455946221344437,Temple,Xavier,4,3,0,0,NA,401169184,2019-11-14,
+151,2,0:50,1250,1250,Marissa Mackins Defensive Rebound.,29,25,4,18,0.6458002321337134,Temple,Xavier,4,3,0,0,NA,401169184,2019-11-14,
+152,2,0:32,1232,1232,Asonah Alexander made Three Point Jumper. Assisted by Ashley Jones.,32,25,7,30,0.7428554133256546,Temple,Xavier,4,3,0,0,NA,401169184,2019-11-14,Temple
+153,2,0:02,1202,1202,Na'Teshia Owens made Layup.,32,27,5,2,0.6835866550048447,Temple,Xavier,4,3,0,0,NA,401169184,2019-11-14,Xavier
+154,2,0:00,1200,1200,End of 2nd Quarter,32,27,5,19,0.6837696278036713,Temple,Xavier,4,3,0,0,NA,401169184,2019-11-14,
+155,3,9:41,1181,1181,Foul on Ayanna Townsend.,32,27,5,0,0.685472237697294,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+156,3,9:41,1181,1181,Ayanna Townsend Turnover.,32,27,5,14,0.685472237697294,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+157,3,9:27,1167,1167,Marissa Mackins missed Three Point Jumper.,32,27,5,5,0.6866936448021748,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+158,3,9:22,1162,1162,Temple Offensive Rebound.,32,27,5,10,0.687124845149949,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+159,3,9:12,1152,1152,Ashley Jones Turnover.,32,27,5,19,0.6879814779581119,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+160,3,8:53,1133,1133,Deja Ross missed Jumper.,32,27,5,4,0.6895970986938548,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+161,3,8:49,1129,1129,Alexa Williamson Defensive Rebound.,32,27,5,9,0.6899367122832663,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+162,3,8:40,1120,1120,Marissa Mackins made Three Point Jumper. Assisted by Mia Davis.,35,27,8,29,0.7833752505546927,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Temple
+163,3,8:11,1091,1091,A'Riana Gray missed Jumper.,35,27,8,0,0.7865417432022908,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+164,3,8:11,1091,1091,Mia Davis Block.,35,27,8,5,0.7865417432022908,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+165,3,8:06,1086,1086,Mia Davis Defensive Rebound.,35,27,8,3,0.7870965692774773,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+166,3,8:03,1083,1083,Alexa Williamson missed Jumper.,35,27,8,2,0.7874312355357866,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+167,3,8:01,1081,1081,Temple Offensive Rebound.,35,27,8,2,0.7876551414162299,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+168,3,7:59,1079,1079,Marissa Mackins Turnover.,35,27,8,0,0.7878797152421022,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+169,3,7:59,1079,1079,Deja Ross Steal.,35,27,8,6,0.7878797152421022,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+170,3,7:53,1073,1073,A'Riana Gray missed Layup.,35,27,8,0,0.7885577163409561,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+171,3,7:53,1073,1073,A'Riana Gray missed Jumper.,35,27,8,0,0.7885577163409561,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+172,3,7:53,1073,1073,A'Riana Gray Offensive Rebound.,35,27,8,0,0.7885577163409561,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+173,3,7:53,1073,1073,Courtney Prenger Offensive Rebound.,35,27,8,0,0.7885577163409561,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+174,3,7:53,1073,1073,Courtney Prenger missed Layup.,35,27,8,0,0.7885577163409561,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+175,3,7:53,1073,1073,Xavier Offensive Rebound.,35,27,8,0,0.7885577163409561,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+176,3,7:53,1073,1073,Ashley Jones Block.,35,27,8,25,0.7885577163409561,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+177,3,7:28,1048,1048,Deja Ross missed Jumper.,35,27,8,0,0.7914660733112252,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+178,3,7:28,1048,1048,Mia Davis Block.,35,27,8,5,0.7914660733112252,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+179,3,7:23,1043,1043,Mia Davis Defensive Rebound.,35,27,8,14,0.79206683098436,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+180,3,7:09,1029,1029,Foul on Courtney Prenger.,35,27,8,8,0.7937890311093707,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+181,3,7:01,1021,1021,Marissa Mackins made Layup. Assisted by Ashley Jones.,37,27,10,21,0.8445720774495676,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Temple
+182,3,6:40,1000,1000,A'Riana Gray made Jumper. Assisted by Deja Ross.,37,29,8,13,0.7975748220833228,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Xavier
+183,3,6:27,987,987,Foul on Shantay Taylor.,37,29,8,0,0.79938243633624,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+184,3,6:27,987,987,Shantay Taylor Turnover.,37,29,8,15,0.79938243633624,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+185,3,6:12,972,972,Foul on Shantay Taylor.,37,31,6,0,0.7402127408942895,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Xavier
+186,3,6:12,972,972,Sarah Leyendecker made Free Throw.,37,32,5,14,0.7052785466893348,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Xavier
+187,3,5:58,958,958,Shannen Atkinson made Layup. Assisted by Ashley Jones.,39,32,7,0,0.7743102694642053,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Temple
+188,3,5:58,958,958,Foul on Sarah Leyendecker.,39,32,7,1,0.7743102694642053,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+189,3,5:57,957,957,Shannen Atkinson missed Free Throw.,39,32,7,0,0.7744446522547387,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+190,3,5:57,957,957,A'Riana Gray Defensive Rebound.,39,32,7,0,0.7744446522547387,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+191,3,5:57,957,957,Foul on Mia Davis.,39,32,7,8,0.7744446522547387,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+192,3,5:49,949,949,Foul on Shannen Atkinson.,39,32,7,0,0.7754921529215695,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+193,3,5:49,949,949,A'Riana Gray made Free Throw.,39,33,6,1,0.7431686418096367,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Xavier
+194,3,5:48,948,948,A'Riana Gray missed Free Throw.,39,33,6,1,0.7432885999774744,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+195,3,5:47,947,947,Mia Davis Defensive Rebound.,39,33,6,6,0.7434079170321275,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+196,3,5:41,941,941,Ashley Jones made Jumper.,41,33,8,11,0.8058491684165834,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Temple
+197,3,5:30,930,930,Deja Ross made Jumper. Assisted by Carrie Gross.,41,35,6,17,0.7453476011933087,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Xavier
+198,3,5:13,913,913,Foul on Mia Davis.,41,35,6,0,0.7471520036668317,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+199,3,5:13,913,913,Mia Davis Turnover.,41,35,6,18,0.7471520036668317,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+200,3,4:55,895,895,A'Riana Gray made Jumper.,41,37,4,17,0.6745284222456912,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Xavier
+201,3,4:38,878,878,Mia Davis made Jumper. Assisted by Ashley Jones.,43,37,6,17,0.7506372085865335,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Temple
+202,3,4:21,861,861,Carrie Gross missed Three Point Jumper.,43,37,6,4,0.7523115286072121,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+203,3,4:17,857,857,Deja Ross Offensive Rebound.,43,37,6,10,0.7527107708682286,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+204,3,4:07,847,847,Foul on Marissa Mackins.,43,37,6,0,0.7537240653378059,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+205,3,4:07,847,847,Official TV Timeout,43,37,6,0,0.7537240653378059,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+206,3,4:07,847,847,Carrie Gross made Free Throw.,43,38,5,2,0.7175102140566528,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Xavier
+207,3,4:05,845,845,Carrie Gross missed Free Throw.,43,38,5,2,0.7176975157586105,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+208,3,4:03,843,843,Lena Niang Defensive Rebound.,43,38,5,13,0.7178859549440925,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+209,3,3:50,830,830,Marissa Mackins missed Three Point Jumper.,43,38,5,3,0.7191429133872632,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+210,3,3:47,827,827,Xavier Defensive Rebound.,43,38,5,0,0.7194420186047851,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+211,3,3:47,827,827,Foul on Marissa Mackins.,43,38,5,0,0.7194420186047851,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+212,3,3:47,827,827,A'Riana Gray missed Free Throw.,43,38,5,0,0.7194420186047851,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+213,3,3:47,827,827,Xavier Deadball Team Rebound.,43,38,5,1,0.7194420186047851,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+214,3,3:46,826,826,A'Riana Gray missed Free Throw.,43,38,5,2,0.7195425624348354,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+215,3,3:44,824,824,Ashley Jones Defensive Rebound.,43,38,5,2,0.7197449600779627,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+216,3,3:42,822,822,Foul on Ashley Jones.,43,38,5,0,0.7199491563020751,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+217,3,3:42,822,822,Ashley Jones Turnover.,43,38,5,10,0.7199491563020751,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+218,3,3:32,812,812,Foul on Lena Niang.,43,38,5,0,0.7209992880970789,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+219,3,3:32,812,812,A'Riana Gray missed Free Throw.,43,38,5,0,0.7209992880970789,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+220,3,3:32,812,812,Xavier Deadball Team Rebound.,43,38,5,1,0.7209992880970789,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+221,3,3:31,811,811,A'Riana Gray missed Free Throw.,43,38,5,3,0.7211071574703265,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+222,3,3:28,808,808,Alexa Williamson Defensive Rebound.,43,38,5,19,0.7214340965867418,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+223,3,3:09,789,789,Lena Niang Turnover.,43,38,5,0,0.7236329157506778,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+224,3,3:09,789,789,Carrie Gross Steal.,43,38,5,9,0.7236329157506778,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+225,3,3:00,780,780,Carrie Gross missed Jumper.,43,38,5,3,0.7247615269704947,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+226,3,2:57,777,777,A'Riana Gray Offensive Rebound.,43,38,5,7,0.7251515454747133,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+227,3,2:50,770,770,Foul on Alexa Williamson.,43,38,5,0,0.7260900631414965,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+228,3,2:50,770,770,Carrie Gross made Free Throw.,43,39,4,0,0.6856585106050275,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Xavier
+229,3,2:50,770,770,Carrie Gross made Free Throw.,43,40,3,9,0.6421998192076488,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Xavier
+230,3,2:41,761,761,Marissa Mackins missed Three Point Jumper.,43,40,3,2,0.6430799535006314,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+231,3,2:39,759,759,Xavier Defensive Rebound.,43,40,3,19,0.6432826441443475,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+232,3,2:20,740,740,Carrie Gross made Jumper.,43,42,1,22,0.5497226718285149,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Xavier
+233,3,1:58,718,718,Foul on Ashley Gomez.,43,42,1,9,0.5506653371500158,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+234,3,1:49,709,709,Foul on Ayanna Townsend.,43,42,1,0,0.5510207160262185,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+235,3,1:49,709,709,Alexa Williamson made Free Throw.,44,42,2,1,0.6009898795913388,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Temple
+236,3,1:48,708,708,Alexa Williamson missed Free Throw.,44,42,2,1,0.6010639357433156,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+237,3,1:47,707,707,A'Riana Gray Defensive Rebound.,44,42,2,15,0.6011375292230005,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+238,3,1:32,692,692,A'Riana Gray made Jumper.,44,44,0,24,0.5,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Xavier
+239,3,1:08,668,668,A'Riana Gray Defensive Rebound.,44,44,0,12,0.5,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+240,3,0:56,656,656,Na'Teshia Owens made Three Point Jumper. Assisted by Carrie Gross.,44,47,-3,22,0.34602925922259914,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Xavier
+241,3,0:34,634,634,Ashley Jones made Three Point Jumper. Assisted by Asonah Alexander.,47,47,0,33,0.5,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Temple
+242,3,0:01,601,601,A'Riana Gray missed Jumper.,47,47,0,0,0.5,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+243,3,0:01,601,601,Ashley Jones Defensive Rebound.,47,47,0,1,0.5,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+244,3,0:00,600,600,Ashley Jones missed Three Point Jumper.,47,47,0,0,0.5,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+245,3,0:00,600,600,Temple Deadball Team Rebound.,47,47,0,0,0.5,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+246,3,0:00,600,600,End of 3rd Quarter,47,47,0,12,0.5,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,
+247,4,9:48,588,588,Ashley Gomez made Three Point Jumper. Assisted by A'Riana Gray.,47,50,-3,20,0.33879336449635267,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,Xavier
+248,4,9:28,568,568,Marissa Mackins missed Three Point Jumper.,47,50,-3,3,0.33589154456499626,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+249,4,9:25,565,565,Na'Teshia Owens Defensive Rebound.,47,50,-3,6,0.33541106555802325,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+250,4,9:19,559,559,Ashley Gomez missed Three Point Jumper.,47,50,-3,3,0.33441113494177394,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+251,4,9:16,556,556,A'Riana Gray Offensive Rebound.,47,50,-3,9,0.3338909503143474,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+252,4,9:07,547,547,Foul on Na'Teshia Owens.,47,50,-3,0,0.3322631116254254,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+253,4,9:07,547,547,Na'Teshia Owens Turnover.,47,50,-3,14,0.3322631116254254,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+254,4,8:53,533,533,Foul on Alexa Williamson.,47,50,-3,0,0.32996134532871335,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+255,4,8:53,533,533,Alexa Williamson Turnover.,47,50,-3,9,0.32996134532871335,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+256,4,8:44,524,524,Ashley Gomez made Layup.,47,52,-5,0,0.2331633606715319,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,Xavier
+257,4,8:44,524,524,Foul on Marissa Mackins.,47,52,-5,1,0.2331633606715319,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+258,4,8:43,523,523,Ashley Gomez missed Free Throw.,47,52,-5,1,0.2329736182256316,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+259,4,8:42,522,522,Mia Davis Defensive Rebound.,47,52,-5,8,0.23278523927946035,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+260,4,8:34,514,514,Mia Davis made Layup. Assisted by Asonah Alexander.,49,52,-3,12,0.32727671284824855,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,Temple
+261,4,8:22,502,502,Na'Teshia Owens missed Layup.,49,52,-3,4,0.32569533907022036,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+262,4,8:18,498,498,Marissa Mackins Defensive Rebound.,49,52,-3,2,0.32516848563962436,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+263,4,8:16,496,496,Ashley Jones missed Three Point Jumper.,49,52,-3,2,0.324903256126203,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+264,4,8:14,494,494,Asonah Alexander Offensive Rebound.,49,52,-3,0,0.32463627784841,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+265,4,8:14,494,494,Foul on Carrie Gross.,49,52,-3,0,0.32463627784841,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+266,4,8:14,494,494,Asonah Alexander made Free Throw.,50,52,-2,0,0.38027904580236527,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,Temple
+267,4,8:14,494,494,Asonah Alexander made Free Throw.,51,52,-1,8,0.43925602278032594,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,Temple
+268,4,8:06,486,486,Ashley Gomez missed Three Point Jumper.,51,52,-1,3,0.43884618513043555,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+269,4,8:03,483,483,Ashley Jones Defensive Rebound.,51,52,-1,3,0.4386869927542018,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+270,4,8:00,480,480,Foul on Na'Teshia Owens.,51,52,-1,0,0.4385239901304482,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+271,4,8:00,480,480,Mia Davis made Free Throw.,52,52,0,0,0.5,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,Temple
+272,4,8:00,480,480,Mia Davis made Free Throw.,53,52,1,17,0.5614760098695519,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,Temple
+273,4,7:43,463,463,Carrie Gross made Layup. Assisted by Aaliyah Dunham.,53,54,-1,18,0.43750327418124624,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,Xavier
+274,4,7:25,445,445,Foul on Deja Ross.,53,54,-1,0,0.43616611676487677,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+275,4,7:25,445,445,Mia Davis missed Free Throw.,53,54,-1,0,0.43616611676487677,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+276,4,7:25,445,445,Temple Deadball Team Rebound.,53,54,-1,0,0.43616611676487677,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+277,4,7:25,445,445,Mia Davis missed Free Throw.,53,54,-1,3,0.43616611676487677,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+278,4,7:22,442,442,Deja Ross Defensive Rebound.,53,54,-1,15,0.4359099729529535,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+279,4,7:07,427,427,Ashley Gomez missed Three Point Jumper.,53,54,-1,4,0.43446586788724467,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+280,4,7:03,423,423,Deja Ross Offensive Rebound.,53,54,-1,16,0.43406898902260355,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+281,4,6:47,407,407,A'Riana Gray Turnover.,53,54,-1,27,0.43257087318119014,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,
+282,4,6:20,380,380,Mia Davis made Layup. Assisted by Ashley Jones.,55,54,1,33,0.5698582521361394,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,Temple
+283,4,5:47,347,347,Ashley Gomez made Layup.,55,56,-1,18,0.42672254180378544,Temple,Xavier,6,5,0,0,NA,401169184,2019-11-14,Xavier
+284,4,5:29,329,329,Rayniah Walker made Three Point Jumper. Assisted by Marissa Mackins.,58,56,2,0,0.6479028411351853,Temple,Xavier,6,5,0,1,NA,401169184,2019-11-14,Temple
+285,4,5:29,329,329,Temple  Timeout,58,56,2,29,0.6479028411351853,Temple,Xavier,6,4,0,1,NA,401169184,2019-11-14,
+286,4,5:00,300,300,A'Riana Gray missed Jumper.,58,56,2,3,0.6560704769189987,Temple,Xavier,6,4,0,1,NA,401169184,2019-11-14,
+287,4,4:57,297,297,Asonah Alexander Defensive Rebound.,58,56,2,4,0.6564732255884719,Temple,Xavier,6,4,0,1,NA,401169184,2019-11-14,
+288,4,4:53,293,293,Marissa Mackins made Three Point Jumper. Assisted by Asonah Alexander.,61,56,5,2,0.8351777304160967,Temple,Xavier,6,4,0,1,NA,401169184,2019-11-14,Temple
+289,4,4:51,291,291,Xavier  Timeout,61,56,5,17,0.8353153369415875,Temple,Xavier,5,4,1,1,NA,401169184,2019-11-14,
+290,4,4:34,274,274,Lauren Wasylson missed Three Point Jumper.,61,56,5,3,0.8340510148749116,Temple,Xavier,5,4,1,1,NA,401169184,2019-11-14,
+291,4,4:31,271,271,Ashley Jones Defensive Rebound.,61,56,5,7,0.8335121871299697,Temple,Xavier,5,4,1,1,NA,401169184,2019-11-14,
+292,4,4:24,264,264,Ashley Jones made Three Point Jumper. Assisted by Marissa Mackins.,64,56,8,18,0.92829050106053,Temple,Xavier,5,4,1,0,NA,401169184,2019-11-14,Temple
+293,4,4:06,246,246,Lauren Wasylson missed Layup.,64,56,8,4,0.925634870614565,Temple,Xavier,5,4,1,0,NA,401169184,2019-11-14,
+294,4,4:02,242,242,Marissa Mackins Defensive Rebound.,64,56,8,15,0.9252901279063172,Temple,Xavier,5,4,1,0,NA,401169184,2019-11-14,
+295,4,3:47,227,227,Rayniah Walker made Three Point Jumper. Assisted by Marissa Mackins.,67,56,11,2,0.9697847376827027,Temple,Xavier,5,4,0,0,NA,401169184,2019-11-14,Temple
+296,4,3:45,225,225,Xavier  Timeout,67,56,11,13,0.9699727310056846,Temple,Xavier,4,4,1,0,NA,401169184,2019-11-14,
+297,4,3:32,212,212,Aaliyah Dunham missed Layup.,67,56,11,0,0.9722724264525054,Temple,Xavier,4,4,1,0,NA,401169184,2019-11-14,
+298,4,3:32,212,212,Rayniah Walker Block.,67,56,11,0,0.9722724264525054,Temple,Xavier,4,4,1,0,NA,401169184,2019-11-14,
+299,4,3:32,212,212,Asonah Alexander Defensive Rebound.,67,56,11,0,0.9722724264525054,Temple,Xavier,4,4,1,0,NA,401169184,2019-11-14,
+300,4,3:32,212,212,Foul on A'Riana Gray.,67,56,11,0,0.9722724264525054,Temple,Xavier,4,4,1,0,NA,401169184,2019-11-14,
+301,4,3:32,212,212,Asonah Alexander missed Free Throw.,67,56,11,0,0.9722724264525054,Temple,Xavier,4,4,1,0,NA,401169184,2019-11-14,
+302,4,3:32,212,212,Temple Deadball Team Rebound.,67,56,11,0,0.9722724264525054,Temple,Xavier,4,4,1,0,NA,401169184,2019-11-14,
+303,4,3:32,212,212,Asonah Alexander made Free Throw.,68,56,12,18,0.9797787211720956,Temple,Xavier,4,4,1,0,NA,401169184,2019-11-14,Temple
+304,4,3:14,194,194,Ayanna Townsend missed Layup.,68,56,12,3,0.9846909705058405,Temple,Xavier,4,4,1,0,NA,401169184,2019-11-14,
+305,4,3:11,191,191,Marissa Mackins Defensive Rebound.,68,56,12,2,0.9856990706313612,Temple,Xavier,4,4,1,0,NA,401169184,2019-11-14,
+306,4,3:09,189,189,Foul on Ayanna Townsend.,68,56,12,1,0.9863817115119354,Temple,Xavier,4,4,1,0,NA,401169184,2019-11-14,
+307,4,3:08,188,188,Technical Foul on Ayanna Townsend.,68,56,12,0,0.9867137114248729,Temple,Xavier,4,4,1,0,NA,401169184,2019-11-14,
+308,4,3:08,188,188,Marissa Mackins made Free Throw.,70,56,14,0,0.993475133873578,Temple,Xavier,4,4,1,0,NA,401169184,2019-11-14,Temple
+309,4,3:08,188,188,Marissa Mackins made Free Throw.,69,56,13,0,0.9906835913326535,Temple,Xavier,4,4,1,0,NA,401169184,2019-11-14,
+310,4,3:08,188,188,Marissa Mackins made Free Throw.,71,56,15,0,0.9954340815215582,Temple,Xavier,4,4,1,0,NA,401169184,2019-11-14,Temple
+311,4,3:08,188,188,Marissa Mackins made Free Throw.,72,56,16,23,0.996806788553794,Temple,Xavier,4,4,1,0,NA,401169184,2019-11-14,Temple
+312,4,2:45,165,165,Mia Davis missed Three Point Jumper.,72,56,16,4,0.9985500803493315,Temple,Xavier,4,4,1,0,NA,401169184,2019-11-14,
+313,4,2:41,161,161,Ashley Gomez Defensive Rebound.,72,56,16,10,0.9987472430469773,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+314,4,2:31,151,151,A'Riana Gray made Free Throw.,72,57,15,0,0.9986732955032465,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Xavier
+315,4,2:31,151,151,Foul on Mia Davis.,72,56,16,0,0.999146500403814,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+316,4,2:31,151,151,A'Riana Gray made Free Throw.,72,58,14,11,0.997938273471409,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Xavier
+317,4,2:20,140,140,Rayniah Walker missed Three Point Jumper.,72,58,14,1,0.9986209921475122,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+318,4,2:19,139,139,Mia Davis Offensive Rebound.,72,58,14,3,0.9986732081345931,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+319,4,2:16,136,136,Mia Davis made Layup.,74,58,16,15,0.9995496269740638,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Temple
+320,4,2:01,121,121,Courtney Prenger made Jumper. Assisted by A'Riana Gray.,74,60,14,3,0.9993825066591732,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Xavier
+321,4,1:58,118,118,Mia Davis missed Three Point Jumper.,74,60,14,1,0.9994642454071592,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+322,4,1:57,117,117,Mia Davis Offensive Rebound.,74,60,14,23,0.9994895353963427,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+323,4,1:34,94,94,Ashley Jones missed Three Point Jumper.,74,60,14,5,0.9998567279240838,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+324,4,1:29,89,89,Morgan Sharps Defensive Rebound.,74,60,14,2,0.9998950716197913,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+325,4,1:27,87,87,A'Riana Gray made Three Point Jumper. Assisted by Morgan Sharps.,74,63,11,21,0.999323464060705,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Xavier
+326,4,1:06,66,66,Ashley Jones made Layup.,76,63,13,16,0.9999521526563896,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Temple
+327,4,0:50,50,50,Carrie Gross missed Jumper.,76,63,13,3,0.9999844436657184,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+328,4,0:47,47,47,Mia Davis Defensive Rebound.,76,63,13,23,0.9999875420304992,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+329,4,0:24,24,24,Ashley Jones made Jumper.,78,63,15,9,0.9999997348618122,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Temple
+330,4,0:15,15,15,Courtney Prenger made Layup. Assisted by Carrie Gross.,78,65,13,15,0.9999990808919058,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,Xavier
+331,4,0:00,0,0,End of 4th Quarter,78,65,13,0,1,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,
+332,4,0:00,0,0,End of Game,78,65,13,0,1,Temple,Xavier,4,4,0,0,NA,401169184,2019-11-14,

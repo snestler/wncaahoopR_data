@@ -1,0 +1,397 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:40,2380,2380,Antoinette Lewis made Layup.,0,0,0,22,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,NA
+2,1,9:18,2358,2358,Kenzie Schmitz missed Three Point Jumper.,2,0,2,2,0.5449181103473372,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+3,1,9:16,2356,2356,South Alabama Defensive Rebound.,2,0,2,12,0.5449611943204852,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+4,1,9:04,2344,2344,Damaya Telemaque Turnover.,2,0,2,0,0.5452207909535292,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+5,1,9:04,2344,2344,Peyton Scott Steal.,2,0,2,5,0.5452207909535292,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+6,1,8:59,2339,2339,Peyton Scott Turnover.,2,0,2,0,0.5453294949396444,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+7,1,8:59,2339,2339,Shaforia Kines Steal.,2,0,2,10,0.5453294949396444,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+8,1,8:49,2329,2329,Antoinette Lewis missed Layup.,2,0,2,6,0.5455478180458078,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+9,1,8:43,2323,2323,Antoinette Lewis Offensive Rebound.,2,0,2,0,0.5456793799013266,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+10,1,8:43,2323,2323,Antoinette Lewis made Layup.,4,0,4,1,0.5906025525746488,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+11,1,8:42,2322,2322,Foul on Jala Buster.,4,0,4,0,0.5906454017888789,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+12,1,8:42,2322,2322,Peyton Scott made Free Throw.,4,1,3,0,0.5683139860077305,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,Miami (OH)
+13,1,8:42,2322,2322,Peyton Scott made Free Throw.,4,2,2,23,0.5457013472490212,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,Miami (OH)
+14,1,8:19,2299,2299,Savannah Jones made Jumper.,6,2,4,9,0.5916365717184265,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+15,1,8:10,2290,2290,Abbey Hoff made Three Point Jumper. Assisted by Kenzie Schmitz.,6,5,1,31,0.5232552132690224,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,Miami (OH)
+16,1,7:39,2259,2259,Antoinette Lewis made Layup.,8,5,3,7,0.5703984778225291,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+17,1,7:32,2252,2252,Peyton Scott made Three Point Jumper.,8,8,0,25,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,Miami (OH)
+18,1,7:07,2227,2227,Savannah Jones Turnover.,8,8,0,0,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+19,1,7:07,2227,2227,Savannah Kluesner Steal.,8,8,0,12,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+20,1,6:55,2215,2215,Abbey Hoff missed Jumper.,8,8,0,0,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+21,1,6:55,2215,2215,Antoinette Lewis Block.,8,8,0,2,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+22,1,6:53,2213,2213,Miami (OH) Offensive Rebound.,8,8,0,0,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+23,1,6:53,2213,2213,Peyton Scott Turnover.,8,8,0,0,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+24,1,6:53,2213,2213,Antoinette Lewis Steal.,8,8,0,0,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+25,1,6:53,2213,2213,Antoinette Lewis made Layup.,10,8,2,0,0.5481527436215755,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+26,1,6:53,2213,2213,Savannah Kluesner missed Three Point Jumper.,10,8,2,0,0.5481527436215755,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+27,1,6:53,2213,2213,Shaforia Kines Defensive Rebound.,10,8,2,48,0.5481527436215755,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+28,1,6:05,2165,2165,Damaya Telemaque made Jumper.,12,8,4,8,0.5975684241257823,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+29,1,5:57,2157,2157,Kennedy Taylor made Layup.,12,10,2,0,0.5494429884505517,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,Miami (OH)
+30,1,5:57,2157,2157,Foul on Casey Ferguson.,12,10,2,0,0.5494429884505517,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+31,1,5:57,2157,2157,Kennedy Taylor made Free Throw.,12,11,1,11,0.5247822259103816,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,Miami (OH)
+32,1,5:46,2146,2146,Damaya Telemaque missed Jumper.,12,11,1,5,0.5249109793664207,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+33,1,5:41,2141,2141,Lauren Dickerson Defensive Rebound.,12,11,1,6,0.524969667148936,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+34,1,5:35,2135,2135,Peyton Scott missed Three Point Jumper.,12,11,1,7,0.5250402314902198,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+35,1,5:28,2128,2128,Shaforia Kines Defensive Rebound.,12,11,1,6,0.5251227528657562,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+36,1,5:22,2122,2122,Damaya Telemaque missed Layup.,12,11,1,0,0.5251936579520097,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+37,1,5:22,2122,2122,Kennedy Taylor Block.,12,11,1,5,0.5251936579520097,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+38,1,5:17,2117,2117,Kennedy Taylor Defensive Rebound.,12,11,1,13,0.5252528699571531,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+39,1,5:04,2104,2104,Lauren Dickerson missed Three Point Jumper.,12,11,1,5,0.5254073665373863,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+40,1,4:59,2099,2099,Kelly McLaughlin Offensive Rebound.,12,11,1,1,0.5254670039376211,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+41,1,4:58,2098,2098,Lauren Dickerson made Three Point Jumper. Assisted by Kelly McLaughlin.,12,14,-2,13,0.44917408775598827,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,Miami (OH)
+42,1,4:45,2085,2085,Foul on Abbey Hoff.,12,14,-2,0,0.44886510981327055,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+43,1,4:45,2085,2085,Official TV Timeout,12,14,-2,9,0.44886510981327055,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+44,1,4:36,2076,2076,Devyn Lowe Turnover.,12,14,-2,0,0.44865020993472177,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+45,1,4:36,2076,2076,Peyton Scott Steal.,12,14,-2,19,0.44865020993472177,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+46,1,4:17,2057,2057,Kennedy Taylor missed Layup.,12,14,-2,4,0.44819374505431697,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+47,1,4:13,2053,2053,Kelly McLaughlin Offensive Rebound.,12,14,-2,0,0.4480971487316694,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+48,1,4:13,2053,2053,Kelly McLaughlin made Layup.,12,16,-4,16,0.39730094386499126,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,Miami (OH)
+49,1,3:57,2037,2037,Foul on Bree Paulson.,12,16,-4,3,0.3965494019397939,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+50,1,3:54,2034,2034,Shaforia Kines made Layup.,14,16,-2,0,0.44763584619598756,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+51,1,3:54,2034,2034,Foul on Lauren Dickerson.,14,16,-2,0,0.44763584619598756,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+52,1,3:54,2034,2034,Shaforia Kines made Free Throw.,15,16,-1,14,0.4737457352982908,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+53,1,3:40,2020,2020,Lauren Dickerson missed Three Point Jumper.,15,16,-1,4,0.4735729968641911,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+54,1,3:36,2016,2016,Antoinette Lewis Defensive Rebound.,15,16,-1,6,0.47352341939653925,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+55,1,3:30,2010,2010,Damaya Telemaque missed Layup.,15,16,-1,3,0.4734488627503662,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+56,1,3:27,2007,2007,Vannessa Garrelts Defensive Rebound.,15,16,-1,8,0.4734114977310812,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+57,1,3:19,1999,1999,Kelly McLaughlin missed Jumper.,15,16,-1,3,0.47331157086917647,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+58,1,3:16,1996,1996,Savannah Jones Defensive Rebound.,15,16,-1,0,0.4732739894311485,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+59,1,3:16,1996,1996,Foul on Vannessa Garrelts.,15,16,-1,12,0.4732739894311485,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+60,1,3:04,1984,1984,Foul on Kelly McLaughlin.,15,16,-1,0,0.47312305812524824,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+61,1,3:04,1984,1984,Antoinette Lewis missed Free Throw.,15,16,-1,0,0.47312305812524824,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+62,1,3:04,1984,1984,Antoinette Lewis made Free Throw.,16,16,0,0,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+63,1,3:04,1984,1984,South Alabama Offensive Rebound.,16,16,0,26,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+64,1,2:38,1958,1958,Lauren Dickerson missed Three Point Jumper.,16,16,0,4,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+65,1,2:34,1954,1954,Savannah Kluesner Offensive Rebound.,16,16,0,0,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+66,1,2:34,1954,1954,Savannah Kluesner missed Layup.,16,16,0,0,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+67,1,2:34,1954,1954,Antoinette Lewis Block.,16,16,0,0,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+68,1,2:34,1954,1954,Miami (OH) Offensive Rebound.,16,16,0,10,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+69,1,2:24,1944,1944,Lauren Dickerson missed Three Point Jumper.,16,16,0,3,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+70,1,2:21,1941,1941,Antoinette Lewis Defensive Rebound.,16,16,0,5,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+71,1,2:16,1936,1936,Antoinette Lewis missed Layup.,16,16,0,7,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+72,1,2:09,1929,1929,Kelly McLaughlin Defensive Rebound.,16,16,0,3,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+73,1,2:06,1926,1926,Kenzie Schmitz missed Three Point Jumper.,16,16,0,0,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+74,1,2:06,1926,1926,Miami (OH) Offensive Rebound.,16,16,0,9,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+75,1,1:57,1917,1917,Kelly McLaughlin missed Layup.,16,16,0,2,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+76,1,1:55,1915,1915,Mahogany Vaught Defensive Rebound.,16,16,0,5,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+77,1,1:50,1910,1910,Mahogany Vaught made Layup.,18,16,2,15,0.5554855039756745,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+78,1,1:35,1895,1895,Foul on Mahogany Vaught.,18,16,2,0,0.5558710452580202,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+79,1,1:35,1895,1895,Lauren Dickerson made Free Throw.,18,17,1,0,0.528023274127686,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,Miami (OH)
+80,1,1:35,1895,1895,Lauren Dickerson made Free Throw.,18,18,0,22,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,Miami (OH)
+81,1,1:13,1873,1873,Damaya Telemaque made Layup. Assisted by Antoinette Lewis.,20,18,2,28,0.5564366163432634,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+82,1,0:45,1845,1845,Lauren Dickerson missed Jumper.,20,18,2,3,0.5571589544419538,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+83,1,0:42,1842,1842,Damaya Telemaque Defensive Rebound.,20,18,2,11,0.557236641347262,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+84,1,0:31,1831,1831,Foul on Kelly McLaughlin.,20,18,2,0,0.5575221447672736,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+85,1,0:31,1831,1831,Antoinette Lewis made Free Throw.,21,18,3,0,0.5858092743194963,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+86,1,0:31,1831,1831,Antoinette Lewis made Free Throw.,22,18,4,28,0.6135415457675434,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+87,1,0:03,1803,1803,Lauren Dickerson missed Three Point Jumper.,22,18,4,2,0.614948976545666,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+88,1,0:01,1801,1801,Savannah Kluesner Offensive Rebound.,22,18,4,1,0.6150501841763585,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+89,1,0:00,1800,1800,End of 1st Quarter,22,18,4,3,0.6151008263378087,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+90,2,9:57,1797,1797,Savannah Kluesner missed Layup.,22,18,4,3,0.6152529096864217,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+91,2,9:54,1794,1794,Abbey Hoff Offensive Rebound.,22,18,4,1,0.6154052344181464,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+92,2,9:53,1793,1793,Peyton Scott missed Layup.,22,18,4,7,0.6154560643214196,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+93,2,9:46,1786,1786,Peyton Scott Offensive Rebound.,22,18,4,0,0.6158126732630939,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+94,2,9:46,1786,1786,Foul on Mahogany Vaught.,22,18,4,0,0.6158126732630939,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+95,2,9:46,1786,1786,Peyton Scott made Free Throw.,22,19,3,0,0.5875531627941487,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,Miami (OH)
+96,2,9:46,1786,1786,Peyton Scott made Free Throw.,22,20,2,25,0.5587045700491609,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,Miami (OH)
+97,2,9:21,1761,1761,Antoinette Lewis missed Jumper.,22,20,2,4,0.5593751282492502,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+98,2,9:17,1757,1757,Savannah Kluesner Defensive Rebound.,22,20,2,13,0.5594835414164011,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+99,2,9:04,1744,1744,Savannah Kluesner made Jumper. Assisted by Kenzie Schmitz.,22,22,0,16,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,Miami (OH)
+100,2,8:48,1728,1728,Damaya Telemaque Turnover.,22,22,0,9,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+101,2,8:39,1719,1719,Lauren Dickerson Turnover.,22,22,0,0,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+102,2,8:39,1719,1719,Jala Buster Steal.,22,22,0,5,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+103,2,8:34,1714,1714,Antoinette Lewis missed Layup.,22,22,0,5,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+104,2,8:29,1709,1709,Lauren Dickerson Defensive Rebound.,22,22,0,0,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+105,2,8:29,1709,1709,Lauren Dickerson Turnover.,22,22,0,0,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+106,2,8:29,1709,1709,Antoinette Lewis Steal.,22,22,0,7,0.5,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+107,2,8:22,1702,1702,Antoinette Lewis made Layup. Assisted by Mahogany Vaught.,24,22,2,16,0.5610125927338407,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+108,2,8:06,1686,1686,Savannah Kluesner Turnover.,24,22,2,0,0.5614723764621422,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+109,2,8:06,1686,1686,Devyn Lowe Steal.,24,22,2,4,0.5614723764621422,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+110,2,8:02,1682,1682,Foul on Abbey Hoff.,24,22,2,0,0.561586866013264,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+111,2,8:02,1682,1682,Jala Buster made Free Throw.,25,22,3,0,0.5917989534651881,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+112,2,8:02,1682,1682,Jala Buster made Free Throw.,26,22,4,28,0.6213328974243288,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+113,2,7:34,1654,1654,Lauren Dickerson missed Three Point Jumper.,26,22,4,4,0.6228304350540642,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+114,2,7:30,1650,1650,Savannah Kluesner Offensive Rebound.,26,22,4,5,0.623040273662221,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+115,2,7:25,1645,1645,Kenzie Schmitz missed Three Point Jumper.,26,22,4,6,0.623301422078101,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+116,2,7:19,1639,1639,Savannah Kluesner Offensive Rebound.,26,22,4,0,0.6236132857176387,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+117,2,7:19,1639,1639,Savannah Kluesner made Layup.,26,24,2,19,0.5627810774110841,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,Miami (OH)
+118,2,7:00,1620,1620,Damaya Telemaque missed Three Point Jumper.,26,24,2,3,0.5632944952718261,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+119,2,6:57,1617,1617,Jala Buster Offensive Rebound.,26,24,2,2,0.5633751509987431,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+120,2,6:55,1615,1615,Jala Buster made Layup.,28,24,4,10,0.624848587272994,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+121,2,6:45,1605,1605,Savannah Kluesner missed Jumper.,28,24,4,4,0.6253599091356277,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+122,2,6:41,1601,1601,Jala Buster Defensive Rebound.,28,24,4,13,0.6255642471140835,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+123,2,6:28,1588,1588,Antoinette Lewis made Layup.,30,24,6,0,0.6844086008362228,South Alabama,Miami (OH),4,4,1,0,NA,401184895,2019-11-15,South Alabama
+124,2,6:28,1588,1588,Foul on Savannah Kluesner.,30,24,6,0,0.6844086008362228,South Alabama,Miami (OH),4,4,1,0,NA,401184895,2019-11-15,
+125,2,6:28,1588,1588,Miami (OH)  Timeout,30,24,6,0,0.6844086008362228,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,
+126,2,6:28,1588,1588,Antoinette Lewis made Free Throw.,31,24,7,9,0.711591178859199,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,South Alabama
+127,2,6:19,1579,1579,Lauren Dickerson missed Three Point Jumper.,31,24,7,4,0.7122983174368087,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,
+128,2,6:15,1575,1575,Jala Buster Defensive Rebound.,31,24,7,22,0.7126131918697144,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,
+129,2,5:53,1553,1553,Devyn Lowe missed Jumper.,31,24,7,2,0.7143566871229897,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,
+130,2,5:51,1551,1551,South Alabama Offensive Rebound.,31,24,7,7,0.7145165134701384,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,
+131,2,5:44,1544,1544,Casey Ferguson made Three Point Jumper. Assisted by Shaforia Kines.,34,24,10,10,0.7882716059464451,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,South Alabama
+132,2,5:34,1534,1534,Savannah Kluesner missed Jumper.,34,24,10,4,0.7892178319308841,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,
+133,2,5:30,1530,1530,Savannah Jones Defensive Rebound.,34,24,10,10,0.789598896307804,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,
+134,2,5:20,1520,1520,Devyn Lowe Turnover.,34,24,10,0,0.7905589462627874,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+135,2,5:20,1520,1520,Bree Paulson Steal.,34,24,10,1,0.7905589462627874,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+136,2,5:19,1519,1519,Foul on Devyn Lowe.,34,24,10,11,0.7906555782239151,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+137,2,5:08,1508,1508,Peyton Scott missed Jumper.,34,24,10,4,0.7917268615822456,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+138,2,5:04,1504,1504,Savannah Jones Defensive Rebound.,34,24,10,8,0.7921204706629559,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+139,2,4:56,1496,1496,Jala Buster missed Layup.,34,24,10,1,0.7929147729437706,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+140,2,4:55,1495,1495,Bree Paulson Defensive Rebound.,34,24,10,0,0.7930147564144804,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+141,2,4:55,1495,1495,Foul on Jala Buster.,34,24,10,13,0.7930147564144804,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+142,2,4:42,1482,1482,Savannah Kluesner missed Jumper.,34,24,10,4,0.7943296767205635,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+143,2,4:38,1478,1478,Savannah Jones Defensive Rebound.,34,24,10,2,0.7947402446118946,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+144,2,4:36,1476,1476,Savannah Jones Turnover.,34,24,10,8,0.7949466427412973,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+145,2,4:28,1468,1468,Foul on Savannah Jones.,34,24,10,7,0.7957799510058459,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+146,2,4:21,1461,1461,Lauren Dickerson missed Jumper.,34,24,10,3,0.7965196763107683,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+147,2,4:18,1458,1458,Damaya Telemaque Defensive Rebound.,34,24,10,8,0.7968398601971909,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+148,2,4:10,1450,1450,Casey Ferguson Turnover.,34,24,10,0,0.7977033418431754,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+149,2,4:10,1450,1450,Amani Freeman Steal.,34,24,10,9,0.7977033418431754,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+150,2,4:01,1441,1441,Kennedy Taylor missed Three Point Jumper.,34,24,10,4,0.7986711957490853,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+151,2,3:57,1437,1437,Savannah Jones Defensive Rebound.,34,24,10,9,0.7990942572404948,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+152,2,3:48,1428,1428,Foul on Amani Freeman.,34,24,10,0,0.8000316479226544,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+153,2,3:48,1428,1428,Casey Ferguson made Free Throw.,35,24,11,1,0.821294329030838,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,South Alabama
+154,2,3:47,1427,1427,Casey Ferguson missed Free Throw.,35,24,11,2,0.8213982637265039,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+155,2,3:45,1425,1425,Antoinette Lewis Offensive Rebound.,35,24,11,5,0.8216054502159085,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+156,2,3:40,1420,1420,Shaforia Kines made Layup.,37,24,13,29,0.8592527076604485,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,South Alabama
+157,2,3:11,1391,1391,Lauren Dickerson made Layup.,37,26,11,16,0.8250137697488021,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,Miami (OH)
+158,2,2:55,1375,1375,Savannah Jones missed Jumper.,37,26,11,4,0.8265661215556281,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+159,2,2:51,1371,1371,Antoinette Lewis Offensive Rebound.,37,26,11,1,0.8269513687267924,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+160,2,2:50,1370,1370,Antoinette Lewis missed Layup.,37,26,11,3,0.8270475579183674,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+161,2,2:47,1367,1367,Peyton Scott Defensive Rebound.,37,26,11,1,0.827335880964732,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+162,2,2:46,1366,1366,Foul on Peyton Scott.,37,26,11,0,0.8274319174538539,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+163,2,2:46,1366,1366,Peyton Scott Turnover.,37,26,11,15,0.8274319174538539,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+164,2,2:31,1351,1351,Foul on Peyton Scott.,37,26,11,0,0.8288705247287375,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+165,2,2:31,1351,1351,Casey Ferguson made Free Throw.,38,26,12,0,0.848266049649235,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,South Alabama
+166,2,2:31,1351,1351,Casey Ferguson made Free Throw.,39,26,13,12,0.865819180936313,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,South Alabama
+167,2,2:19,1339,1339,Peyton Scott made Three Point Jumper. Assisted by Kennedy Taylor.,39,29,10,15,0.8087069215094734,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,Miami (OH)
+168,2,2:04,1324,1324,Mahogany Vaught missed Layup.,39,29,10,0,0.8101549539844576,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+169,2,2:04,1324,1324,Amani Freeman Defensive Rebound.,39,29,10,0,0.8101549539844576,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+170,2,2:04,1324,1324,Foul on Antoinette Lewis.,39,29,10,0,0.8101549539844576,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+171,2,2:04,1324,1324,Amani Freeman made Free Throw.,39,30,9,0,0.7868288861348979,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,Miami (OH)
+172,2,2:04,1324,1324,Amani Freeman missed Free Throw.,39,30,9,1,0.7868288861348979,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+173,2,2:03,1323,1323,Antoinette Lewis Defensive Rebound.,39,30,9,17,0.7869243217413174,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+174,2,1:46,1306,1306,Savannah Jones Turnover.,39,30,9,0,0.7885655262109401,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+175,2,1:46,1306,1306,Amani Freeman Steal.,39,30,9,12,0.7885655262109401,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+176,2,1:34,1294,1294,Kennedy Taylor missed Layup.,39,30,9,0,0.789750250548442,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+177,2,1:34,1294,1294,Antoinette Lewis Block.,39,30,9,5,0.789750250548442,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+178,2,1:29,1289,1289,Casey Ferguson Defensive Rebound.,39,30,9,21,0.7902516153717964,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+179,2,1:08,1268,1268,Foul on Amani Freeman.,39,30,9,0,0.792416285121646,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+180,2,1:08,1268,1268,Antoinette Lewis made Free Throw.,40,30,10,0,0.8158366915216531,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,South Alabama
+181,2,1:08,1268,1268,Antoinette Lewis made Free Throw.,41,30,11,23,0.837157727978481,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,South Alabama
+182,2,0:45,1245,1245,Lauren Dickerson missed Three Point Jumper.,41,30,11,3,0.8396870755817054,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+183,2,0:42,1242,1242,Antoinette Lewis Defensive Rebound.,41,30,11,6,0.8400280415854811,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+184,2,0:36,1236,1236,Shaforia Kines made Layup.,43,30,13,17,0.87718640262152,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,South Alabama
+185,2,0:19,1219,1219,Bree Paulson missed Three Point Jumper.,43,30,13,3,0.8791036432660968,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+186,2,0:16,1216,1216,Savannah Jones Defensive Rebound.,43,30,13,16,0.8794511806609419,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+187,2,0:00,1200,1200,Shaforia Kines missed Three Point Jumper.,43,30,13,0,0.881320024494264,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+188,2,0:00,1200,1200,Miami (OH) Defensive Rebound.,43,30,13,0,0.881320024494264,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+189,2,0:00,1200,1200,End of 2nd Quarter,43,30,13,5,0.881320024494264,South Alabama,Miami (OH),3,4,0,0,NA,401184895,2019-11-15,
+190,3,9:55,1195,1195,Savannah Jones Turnover.,43,30,13,8,0.8818901192230536,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+191,3,9:47,1187,1187,Peyton Scott made Layup.,43,32,11,17,0.8466363792604906,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,Miami (OH)
+192,3,9:30,1170,1170,Antoinette Lewis missed Jumper.,43,32,11,5,0.8486045892531222,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+193,3,9:25,1165,1165,Peyton Scott Defensive Rebound.,43,32,11,9,0.8491720009941947,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+194,3,9:16,1156,1156,Kenzie Schmitz missed Three Point Jumper.,43,32,11,2,0.8501828700046696,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+195,3,9:14,1154,1154,South Alabama Defensive Rebound.,43,32,11,18,0.8504059150009468,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+196,3,8:56,1136,1136,Antoinette Lewis missed Jumper.,43,32,11,5,0.8523941156143695,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+197,3,8:51,1131,1131,Savannah Kluesner Defensive Rebound.,43,32,11,3,0.8529421085384598,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+198,3,8:48,1128,1128,Peyton Scott missed Three Point Jumper.,43,32,11,3,0.8532704047193544,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+199,3,8:45,1125,1125,Abbey Hoff Offensive Rebound.,43,32,11,4,0.8535984492432797,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+200,3,8:41,1121,1121,Savannah Kluesner missed Jumper.,43,32,11,3,0.8540356228296164,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+201,3,8:38,1118,1118,Damaya Telemaque Defensive Rebound.,43,32,11,12,0.8543634668981496,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+202,3,8:26,1106,1106,Foul on Savannah Kluesner.,43,32,11,0,0.8556765924935236,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+203,3,8:26,1106,1106,Jala Buster missed Free Throw.,43,32,11,0,0.8556765924935236,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+204,3,8:26,1106,1106,South Alabama Offensive Rebound.,43,32,11,0,0.8556765924935236,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+205,3,8:26,1106,1106,Jala Buster made Free Throw.,44,32,12,3,0.874532103377891,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,South Alabama
+206,3,8:23,1103,1103,Foul on Antoinette Lewis.,44,32,12,16,0.8748511457069043,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+207,3,8:07,1087,1087,Peyton Scott Turnover.,44,32,12,0,0.8765624673019329,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+208,3,8:07,1087,1087,Savannah Jones Steal.,44,32,12,5,0.8765624673019329,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+209,3,8:02,1082,1082,Jala Buster Turnover.,44,32,12,0,0.877101994013747,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+210,3,8:02,1082,1082,Peyton Scott Steal.,44,32,12,16,0.877101994013747,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+211,3,7:46,1066,1066,Foul on Antoinette Lewis.,44,32,12,16,0.8788501607869641,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+212,3,7:30,1050,1050,Lauren Dickerson missed Three Point Jumper.,44,32,12,0,0.8806408258454985,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+213,3,7:30,1050,1050,Miami (OH) Offensive Rebound.,44,32,12,7,0.8806408258454985,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+214,3,7:23,1043,1043,Savannah Kluesner Turnover.,44,32,12,21,0.881440605716188,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+215,3,7:02,1022,1022,Foul on Savannah Kluesner.,44,32,12,0,0.8839112683446126,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+216,3,7:02,1022,1022,Damaya Telemaque missed Free Throw.,44,32,12,0,0.8839112683446126,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+217,3,7:02,1022,1022,South Alabama Offensive Rebound.,44,32,12,0,0.8839112683446126,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+218,3,7:02,1022,1022,Damaya Telemaque missed Free Throw.,44,32,12,1,0.8839112683446126,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+219,3,7:01,1021,1021,South Alabama Offensive Rebound.,44,32,12,14,0.8840318568663976,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+220,3,6:47,1007,1007,Foul on Kennedy Taylor.,44,32,12,0,0.8857511442470443,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+221,3,6:47,1007,1007,Shaforia Kines made Free Throw.,45,32,13,0,0.9019187692833157,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,South Alabama
+222,3,6:47,1007,1007,Shaforia Kines missed Free Throw.,45,32,13,1,0.9019187692833157,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+223,3,6:46,1006,1006,Peyton Scott Defensive Rebound.,45,32,13,13,0.9020372454644363,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+224,3,6:33,993,993,Abbey Hoff made Three Point Jumper. Assisted by Peyton Scott.,45,35,10,22,0.8483199546254362,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,Miami (OH)
+225,3,6:11,971,971,Casey Ferguson made Three Point Jumper. Assisted by Damaya Telemaque.,48,35,13,14,0.9063776932717663,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,South Alabama
+226,3,5:57,957,957,Abbey Hoff made Three Point Jumper. Assisted by Lauren Dickerson.,48,38,10,25,0.8534922370817173,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,Miami (OH)
+227,3,5:32,932,932,Casey Ferguson Turnover.,48,38,10,0,0.8566800592031701,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+228,3,5:32,932,932,Abbey Hoff Steal.,48,38,10,7,0.8566800592031701,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+229,3,5:25,925,925,Lauren Dickerson made Jumper. Assisted by Kelly McLaughlin.,48,40,8,22,0.8077956030553219,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,Miami (OH)
+230,3,5:03,903,903,Jala Buster missed Layup.,48,40,8,0,0.8102794458612866,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+231,3,5:03,903,903,Kelly McLaughlin Block.,48,40,8,6,0.8102794458612866,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+232,3,4:57,897,897,Peyton Scott Defensive Rebound.,48,40,8,12,0.8109310006076789,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+233,3,4:45,885,885,Peyton Scott Turnover.,48,40,8,0,0.8122154800548297,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+234,3,4:45,885,885,Official TV Timeout,48,40,8,27,0.8122154800548297,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+235,3,4:18,858,858,Damaya Telemaque missed Layup.,48,40,8,3,0.8150925738552587,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+236,3,4:15,855,855,Kelly McLaughlin Defensive Rebound.,48,40,8,5,0.8154172204465419,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+237,3,4:10,850,850,Abbey Hoff missed Layup.,48,40,8,3,0.8159627105392493,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+238,3,4:07,847,847,Kelly McLaughlin Offensive Rebound.,48,40,8,0,0.8162930600786228,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+239,3,4:07,847,847,Foul on Kelly McLaughlin.,48,40,8,0,0.8162930600786228,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+240,3,4:07,847,847,Kelly McLaughlin Turnover.,48,40,8,27,0.8162930600786228,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+241,3,3:40,820,820,Savannah Jones missed Three Point Jumper.,48,40,8,3,0.8194122690602177,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+242,3,3:37,817,817,Monique Esbrand Defensive Rebound.,48,40,8,26,0.8197794780120521,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+243,3,3:11,791,791,Abbey Hoff missed Three Point Jumper.,48,40,8,3,0.8231949453831476,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+244,3,3:08,788,788,Kelly McLaughlin Offensive Rebound.,48,40,8,1,0.8236197084416204,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+245,3,3:07,787,787,Kelly McLaughlin made Jumper.,48,42,6,22,0.7607032992044456,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,Miami (OH)
+246,3,2:45,765,765,Devyn Lowe made Three Point Jumper. Assisted by Shaforia Kines.,51,42,9,18,0.8533445351102182,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,South Alabama
+247,3,2:27,747,747,Kennedy Taylor missed Jumper.,51,42,9,4,0.8563854627161253,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+248,3,2:23,743,743,Lauren Dickerson Offensive Rebound.,51,42,9,2,0.8571049551184363,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+249,3,2:21,741,741,Foul on Devyn Lowe.,51,42,9,0,0.8574709229125607,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+250,3,2:21,741,741,Kelly McLaughlin made Free Throw.,51,43,8,0,0.831326662159157,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,Miami (OH)
+251,3,2:21,741,741,Kelly McLaughlin made Free Throw.,51,44,7,15,0.801496921220793,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,Miami (OH)
+252,3,2:06,726,726,Shaforia Kines missed Three Point Jumper.,51,44,7,5,0.8043994737050797,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+253,3,2:01,721,721,Peyton Scott Defensive Rebound.,51,44,7,25,0.805341698126283,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+254,3,1:36,696,696,Abbey Hoff missed Layup.,51,44,7,0,0.8095585175173345,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+255,3,1:36,696,696,Savannah Jones Defensive Rebound.,51,44,7,0,0.8095585175173345,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+256,3,1:36,696,696,Foul on Abbey Hoff.,51,44,7,0,0.8095585175173345,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+257,3,1:36,696,696,Savannah Jones made Free Throw.,52,44,8,0,0.8394146140669093,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,South Alabama
+258,3,1:36,696,696,Savannah Jones missed Free Throw.,52,44,8,1,0.8394146140669093,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+259,3,1:35,695,695,Antoinette Lewis Offensive Rebound.,52,44,8,2,0.8395695365747424,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+260,3,1:33,693,693,Antoinette Lewis Turnover.,52,44,8,0,0.8398768843361593,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+261,3,1:33,693,693,Kennedy Taylor Steal.,52,44,8,18,0.8398768843361593,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+262,3,1:15,675,675,Savannah Kluesner missed Jumper.,52,44,8,3,0.8425247452570592,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+263,3,1:12,672,672,Peyton Scott Offensive Rebound.,52,44,8,3,0.842951298341441,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+264,3,1:09,669,669,Abbey Hoff missed Three Point Jumper.,52,44,8,4,0.8433753719381047,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+265,3,1:05,665,665,Savannah Kluesner Offensive Rebound.,52,44,8,1,0.8439380491840902,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+266,3,1:04,664,664,Savannah Kluesner made Layup.,52,46,6,13,0.78017199406408555,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,Miami (OH)
+267,3,0:51,651,651,Shaforia Kines Turnover.,52,46,6,14,0.7819587052183863,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+268,3,0:37,637,637,Lauren Dickerson missed Layup.,52,46,6,6,0.7839303499304162,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+269,3,0:31,631,631,Savannah Kluesner Offensive Rebound.,52,46,6,0,0.7848048652918971,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+270,3,0:31,631,631,Savannah Kluesner made Layup.,52,48,4,3,0.7032021754774745,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,Miami (OH)
+271,3,0:28,628,628,Mahogany Vaught Turnover.,52,48,4,24,0.7035698663828656,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+272,3,0:04,604,604,Peyton Scott made Layup.,52,50,2,4,0.6082234724830198,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,Miami (OH)
+273,3,0:00,600,600,End of 3rd Quarter,52,50,2,16,0.6085599051970726,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+274,4,9:44,584,584,Antoinette Lewis made Layup.,54,50,4,19,0.7098778463788585,South Alabama,Miami (OH),5,6,0,0,NA,401184895,2019-11-15,South Alabama
+275,4,9:25,565,565,Peyton Scott Turnover.,54,50,4,0,0.7133579601933832,South Alabama,Miami (OH),5,6,0,0,NA,401184895,2019-11-15,
+276,4,9:25,565,565,Antoinette Lewis Steal.,54,50,4,6,0.7133579601933832,South Alabama,Miami (OH),5,6,0,0,NA,401184895,2019-11-15,
+277,4,9:19,559,559,Antoinette Lewis Turnover.,54,50,4,0,0.7145802985582046,South Alabama,Miami (OH),5,6,0,0,NA,401184895,2019-11-15,
+278,4,9:19,559,559,Peyton Scott Steal.,54,50,4,12,0.7145802985582046,South Alabama,Miami (OH),5,6,0,0,NA,401184895,2019-11-15,
+279,4,9:07,547,547,Abbey Hoff made Jumper. Assisted by Kennedy Taylor.,54,52,2,6,0.6142734221114173,South Alabama,Miami (OH),5,6,0,0,NA,401184895,2019-11-15,Miami (OH)
+280,4,9:01,541,541,Foul on Peyton Scott.,54,52,2,7,0.615008161133135,South Alabama,Miami (OH),5,6,0,0,NA,401184895,2019-11-15,
+281,4,8:54,534,534,Savannah Jones missed Layup.,54,52,2,0,0.6158046364254884,South Alabama,Miami (OH),5,6,0,0,NA,401184895,2019-11-15,
+282,4,8:54,534,534,Savannah Kluesner Block.,54,52,2,5,0.6158046364254884,South Alabama,Miami (OH),5,6,0,0,NA,401184895,2019-11-15,
+283,4,8:49,529,529,Abbey Hoff Defensive Rebound.,54,52,2,10,0.6163402540253146,South Alabama,Miami (OH),5,6,0,0,NA,401184895,2019-11-15,
+284,4,8:39,519,519,Foul on Antoinette Lewis.,54,52,2,0,0.6173487840976803,South Alabama,Miami (OH),5,6,1,0,NA,401184895,2019-11-15,
+285,4,8:39,519,519,Savannah Kluesner made Free Throw.,54,53,1,0,0.559505431827126,South Alabama,Miami (OH),5,6,1,0,NA,401184895,2019-11-15,Miami (OH)
+286,4,8:39,519,519,Savannah Kluesner made Free Throw.,54,54,0,0,0.5,South Alabama,Miami (OH),5,6,1,0,NA,401184895,2019-11-15,Miami (OH)
+287,4,8:39,519,519,Miami (OH)  Timeout,54,54,0,22,0.5,South Alabama,Miami (OH),4,6,1,0,NA,401184895,2019-11-15,
+288,4,8:17,497,497,Shaforia Kines missed Jumper.,54,54,0,5,0.5,South Alabama,Miami (OH),4,6,1,0,NA,401184895,2019-11-15,
+289,4,8:12,492,492,Lauren Dickerson Defensive Rebound.,54,54,0,4,0.5,South Alabama,Miami (OH),4,6,1,0,NA,401184895,2019-11-15,
+290,4,8:08,488,488,Peyton Scott made Three Point Jumper. Assisted by Lauren Dickerson.,54,57,-3,29,0.32382076138960114,South Alabama,Miami (OH),4,6,1,0,NA,401184895,2019-11-15,Miami (OH)
+291,4,7:39,459,459,Savannah Jones missed Layup.,54,57,-3,3,0.31925398703528235,South Alabama,Miami (OH),4,6,1,0,NA,401184895,2019-11-15,
+292,4,7:36,456,456,Savannah Kluesner Defensive Rebound.,54,57,-3,8,0.318692037471754,South Alabama,Miami (OH),4,6,0,0,NA,401184895,2019-11-15,
+293,4,7:28,448,448,Lauren Dickerson made Three Point Jumper. Assisted by Abbey Hoff.,54,60,-6,1,0.17734745532236623,South Alabama,Miami (OH),4,6,0,0,NA,401184895,2019-11-15,Miami (OH)
+294,4,7:27,447,447,South Alabama  Timeout,54,60,-6,12,0.17706004630133224,South Alabama,Miami (OH),4,5,0,1,NA,401184895,2019-11-15,
+295,4,7:15,435,435,Damaya Telemaque made Layup.,56,60,-4,11,0.26085299634942094,South Alabama,Miami (OH),4,5,0,1,NA,401184895,2019-11-15,South Alabama
+296,4,7:04,424,424,Lauren Dickerson made Jumper.,56,62,-6,21,0.16949444293048208,South Alabama,Miami (OH),4,5,0,1,NA,401184895,2019-11-15,Miami (OH)
+297,4,6:43,403,403,Foul on Kenzie Schmitz.,56,62,-6,0,0.16287070357620598,South Alabama,Miami (OH),4,5,0,1,NA,401184895,2019-11-15,
+298,4,6:43,403,403,Damaya Telemaque made Free Throw.,57,62,-5,0,0.20356098843214,South Alabama,Miami (OH),4,5,0,1,NA,401184895,2019-11-15,South Alabama
+299,4,6:43,403,403,Damaya Telemaque missed Free Throw.,57,62,-5,0,0.20356098843214,South Alabama,Miami (OH),4,5,0,1,NA,401184895,2019-11-15,
+300,4,6:43,403,403,Casey Ferguson Offensive Rebound.,57,62,-5,10,0.20356098843214,South Alabama,Miami (OH),4,5,0,1,NA,401184895,2019-11-15,
+301,4,6:33,393,393,Foul on Abbey Hoff.,57,62,-5,2,0.2006283057430684,South Alabama,Miami (OH),4,5,0,1,NA,401184895,2019-11-15,
+302,4,6:31,391,391,Savannah Jones missed Three Point Jumper.,57,62,-5,4,0.20004464928317076,South Alabama,Miami (OH),4,5,0,1,NA,401184895,2019-11-15,
+303,4,6:27,387,387,Jala Buster Offensive Rebound.,57,62,-5,1,0.19887509142825213,South Alabama,Miami (OH),4,5,0,1,NA,401184895,2019-11-15,
+304,4,6:26,386,386,Jala Buster made Layup.,59,62,-3,17,0.30214397483472033,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,South Alabama
+305,4,6:09,369,369,Foul on Jala Buster.,59,62,-3,0,0.2980425811408535,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+306,4,6:09,369,369,Kenzie Schmitz made Free Throw.,59,63,-4,1,0.2419199979768339,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,Miami (OH)
+307,4,6:08,368,368,Kenzie Schmitz missed Free Throw.,59,63,-4,1,0.24162440562109516,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+308,4,6:07,367,367,Bree Paulson Offensive Rebound.,59,63,-4,13,0.24132694602051222,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+309,4,5:54,354,354,Lauren Dickerson missed Three Point Jumper.,59,63,-4,4,0.2372593658416972,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+310,4,5:50,350,350,Shaforia Kines Defensive Rebound.,59,63,-4,3,0.23591940414888862,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+311,4,5:47,347,347,Savannah Jones missed Three Point Jumper.,59,63,-4,3,0.23488264678473383,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+312,4,5:44,344,344,Lauren Dickerson Defensive Rebound.,59,63,-4,2,0.23381678682474374,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+313,4,5:42,342,342,Lauren Dickerson Turnover.,59,63,-4,0,0.23308923654938157,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+314,4,5:42,342,342,Casey Ferguson Steal.,59,63,-4,0,0.23308923654938157,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+315,4,5:42,342,342,Foul on Monique Esbrand.,59,63,-4,16,0.23308923654938157,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+316,4,5:26,326,326,Damaya Telemaque made Layup.,61,63,-2,13,0.3512707168639594,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,South Alabama
+317,4,5:13,313,313,Kelly McLaughlin made Layup. Assisted by Lauren Dickerson.,61,65,-4,0,0.220727456858615,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,Miami (OH)
+318,4,5:13,313,313,Foul on Casey Ferguson.,61,65,-4,0,0.220727456858615,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+319,4,5:13,313,313,Kelly McLaughlin made Free Throw.,61,66,-5,18,0.17125055306940432,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,Miami (OH)
+320,4,4:55,295,295,Damaya Telemaque missed Jumper.,61,66,-5,5,0.16503794854469053,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+321,4,4:50,290,290,Kenzie Schmitz Defensive Rebound.,61,66,-5,6,0.16464350605346573,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+322,4,4:44,284,284,Lauren Dickerson missed Jumper.,61,66,-5,4,0.1647434251386098,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+323,4,4:40,280,280,Savannah Jones Defensive Rebound.,61,66,-5,15,0.16509448780268848,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+324,4,4:25,265,265,Damaya Telemaque missed Three Point Jumper.,61,66,-5,3,0.16770497087556274,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+325,4,4:22,262,262,Kenzie Schmitz Defensive Rebound.,61,66,-5,0,0.16834938038838784,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+326,4,4:22,262,262,Foul on Jala Buster.,61,66,-5,16,0.16834938038838784,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,
+327,4,4:06,246,246,Lauren Dickerson made Three Point Jumper. Assisted by Savannah Kluesner.,61,69,-8,7,0.07436512938543502,South Alabama,Miami (OH),4,5,0,0,NA,401184895,2019-11-15,Miami (OH)
+328,4,3:59,239,239,South Alabama  Timeout,61,69,-8,7,0.07486332985260105,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,
+329,4,3:52,232,232,Savannah Jones missed Three Point Jumper.,61,69,-8,3,0.07478537063210354,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,
+330,4,3:49,229,229,Casey Ferguson Offensive Rebound.,61,69,-8,0,0.07453248411699395,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,
+331,4,3:49,229,229,Foul on Bree Paulson.,61,69,-8,0,0.07453248411699395,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,
+332,4,3:49,229,229,Casey Ferguson missed Free Throw.,61,69,-8,0,0.07453248411699395,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,
+333,4,3:49,229,229,Casey Ferguson made Free Throw.,62,69,-7,0,0.09937566380688162,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,South Alabama
+334,4,3:49,229,229,South Alabama Offensive Rebound.,62,69,-7,13,0.09937566380688162,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,
+335,4,3:36,216,216,Peyton Scott missed Three Point Jumper.,62,69,-7,4,0.09600149022265138,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,
+336,4,3:32,212,212,Kennedy Taylor Offensive Rebound.,62,69,-7,4,0.09417611940475215,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,
+337,4,3:28,208,208,Lauren Dickerson missed Three Point Jumper.,62,69,-7,1,0.09195018550303898,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,
+338,4,3:27,207,207,Casey Ferguson Defensive Rebound.,62,69,-7,0,0.0913302060227295,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,
+339,4,3:27,207,207,Foul on Peyton Scott.,62,69,-7,0,0.0913302060227295,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,
+340,4,3:27,207,207,Casey Ferguson made Free Throw.,63,69,-6,0,0.12246561145393063,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,South Alabama
+341,4,3:27,207,207,Casey Ferguson missed Free Throw.,63,69,-6,1,0.12246561145393063,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,
+342,4,3:26,206,206,Antoinette Lewis Offensive Rebound.,63,69,-6,1,0.12174869158104404,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,
+343,4,3:25,205,205,Foul on Savannah Kluesner.,63,69,-6,0,0.12100247052008159,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,
+344,4,3:25,205,205,Antoinette Lewis missed Free Throw.,63,69,-6,0,0.12100247052008159,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,
+345,4,3:25,205,205,South Alabama Offensive Rebound.,63,69,-6,0,0.12100247052008159,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,
+346,4,3:25,205,205,Antoinette Lewis missed Free Throw.,63,69,-6,1,0.12100247052008159,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,
+347,4,3:24,204,204,Kennedy Taylor Defensive Rebound.,63,69,-6,29,0.12022687700713511,South Alabama,Miami (OH),4,4,0,1,NA,401184895,2019-11-15,
+348,4,2:55,175,175,Kennedy Taylor Turnover.,63,69,-6,0,0.08960225713055708,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+349,4,2:55,175,175,Antoinette Lewis Steal.,63,69,-6,14,0.08960225713055708,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+350,4,2:41,161,161,Foul on Kelly McLaughlin.,63,69,-6,0,0.07547817304106784,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+351,4,2:41,161,161,Antoinette Lewis made Free Throw.,64,69,-5,0,0.11028228291002978,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+352,4,2:41,161,161,Antoinette Lewis made Free Throw.,65,69,-4,4,0.15838568305107115,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+353,4,2:37,157,157,Foul on Jala Buster.,65,69,-4,0,0.15344178181334084,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+354,4,2:37,157,157,Lauren Dickerson missed Free Throw.,65,69,-4,0,0.15344178181334084,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+355,4,2:37,157,157,Miami (OH) Offensive Rebound.,65,69,-4,0,0.15344178181334084,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+356,4,2:37,157,157,Lauren Dickerson missed Free Throw.,65,69,-4,1,0.15344178181334084,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+357,4,2:36,156,156,Casey Ferguson Defensive Rebound.,65,69,-4,13,0.1522040357272856,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+358,4,2:23,143,143,Antoinette Lewis made Layup.,67,69,-2,28,0.2840507679348876,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,South Alabama
+359,4,1:55,115,115,Savannah Kluesner missed Jumper.,67,69,-2,0,0.25032884398213584,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+360,4,1:55,115,115,Antoinette Lewis Block.,67,69,-2,5,0.25032884398213584,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+361,4,1:50,110,110,Antoinette Lewis Defensive Rebound.,67,69,-2,1,0.24354545775906564,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+362,4,1:49,109,109,Damaya Telemaque missed Layup.,67,69,-2,3,0.2421595897938985,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+363,4,1:46,106,106,Savannah Kluesner Defensive Rebound.,67,69,-2,18,0.2379435553065749,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+364,4,1:28,88,88,Lauren Dickerson missed Jumper.,67,69,-2,3,0.21117452832252023,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+365,4,1:25,85,85,Savannah Jones Defensive Rebound.,67,69,-2,9,0.20668111548240115,South Alabama,Miami (OH),4,4,0,0,NA,401184895,2019-11-15,
+366,4,1:16,76,76,Foul on Savannah Kluesner.,67,69,-2,0,0.19316839301624314,South Alabama,Miami (OH),4,4,1,0,NA,401184895,2019-11-15,
+367,4,1:16,76,76,Savannah Jones missed Free Throw.,67,69,-2,0,0.19316839301624314,South Alabama,Miami (OH),4,4,1,0,NA,401184895,2019-11-15,
+368,4,1:16,76,76,South Alabama Offensive Rebound.,67,69,-2,0,0.19316839301624314,South Alabama,Miami (OH),4,4,1,0,NA,401184895,2019-11-15,
+369,4,1:16,76,76,Miami (OH)  Timeout,67,69,-2,0,0.19316839301624314,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,
+370,4,1:16,76,76,Savannah Jones made Free Throw.,68,69,-1,20,0.32854430505335586,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,South Alabama
+371,4,0:56,56,56,Foul on Savannah Jones.,68,69,-1,0,0.30611780384985204,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,
+372,4,0:56,56,56,Kennedy Taylor made Free Throw.,68,70,-2,0,0.1629194515323275,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,Miami (OH)
+373,4,0:56,56,56,Kennedy Taylor made Free Throw.,68,71,-3,10,0.07907392617689209,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,Miami (OH)
+374,4,0:46,46,46,Antoinette Lewis missed Layup.,68,71,-3,2,0.06764706738268529,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,
+375,4,0:44,44,44,Abbey Hoff Defensive Rebound.,68,71,-3,0,0.06547650706761811,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,
+376,4,0:44,44,44,Foul on Shaforia Kines.,68,71,-3,0,0.06547650706761811,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,
+377,4,0:44,44,44,Abbey Hoff made Free Throw.,68,72,-4,1,0.02807332633832223,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,Miami (OH)
+378,4,0:43,43,43,Abbey Hoff missed Free Throw.,68,72,-4,0,0.02743885356912882,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,
+379,4,0:43,43,43,South Alabama Defensive Rebound.,68,72,-4,13,0.02743885356912882,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,
+380,4,0:30,30,30,Antoinette Lewis made Layup. Assisted by Damaya Telemaque.,70,72,-2,11,0.1253491564092463,South Alabama,Miami (OH),3,4,1,0,NA,401184895,2019-11-15,South Alabama
+381,4,0:19,19,19,Foul on Shaforia Kines.,70,72,-2,0,0.11062307552550993,South Alabama,Miami (OH),3,4,1,1,NA,401184895,2019-11-15,
+382,4,0:19,19,19,Lauren Dickerson made Free Throw.,70,73,-3,0,0.04202372636616275,South Alabama,Miami (OH),3,4,1,1,NA,401184895,2019-11-15,Miami (OH)
+383,4,0:19,19,19,Lauren Dickerson made Free Throw.,70,74,-4,0,0.015235341616680557,South Alabama,Miami (OH),3,4,1,1,NA,401184895,2019-11-15,Miami (OH)
+384,4,0:19,19,19,South Alabama  Timeout,70,74,-4,1,0.015235341616680557,South Alabama,Miami (OH),3,3,1,1,NA,401184895,2019-11-15,
+385,4,0:18,18,18,Savannah Jones Turnover.,70,74,-4,0,0.01483933046050439,South Alabama,Miami (OH),3,3,1,1,NA,401184895,2019-11-15,
+386,4,0:18,18,18,Lauren Dickerson Steal.,70,74,-4,2,0.01483933046050439,South Alabama,Miami (OH),3,3,1,1,NA,401184895,2019-11-15,
+387,4,0:16,16,16,Foul on Damaya Telemaque.,70,74,-4,0,0.014069488685686617,South Alabama,Miami (OH),3,3,1,1,NA,401184895,2019-11-15,
+388,4,0:16,16,16,Lauren Dickerson made Free Throw.,70,75,-5,0,0.004907985272695086,South Alabama,Miami (OH),3,3,1,1,NA,401184895,2019-11-15,Miami (OH)
+389,4,0:16,16,16,Lauren Dickerson made Free Throw.,70,76,-6,0,0.0017017991407835059,South Alabama,Miami (OH),3,3,1,1,NA,401184895,2019-11-15,Miami (OH)
+390,4,0:16,16,16,South Alabama  Timeout,70,76,-6,7,0.0017017991407835059,South Alabama,Miami (OH),3,2,1,1,NA,401184895,2019-11-15,
+391,4,0:09,9,9,Savannah Jones made Three Point Jumper. Assisted by Shaforia Kines.,73,76,-3,1,0.03445157466119594,South Alabama,Miami (OH),3,2,0,1,NA,401184895,2019-11-15,South Alabama
+392,4,0:08,8,8,Foul on Casey Ferguson.,73,76,-3,0,0.033749757602105614,South Alabama,Miami (OH),3,2,0,1,NA,401184895,2019-11-15,
+393,4,0:08,8,8,Monique Esbrand missed Free Throw.,73,76,-3,0,0.033749757602105614,South Alabama,Miami (OH),3,2,0,1,NA,401184895,2019-11-15,
+394,4,0:08,8,8,Miami (OH) Offensive Rebound.,73,76,-3,0,0.033749757602105614,South Alabama,Miami (OH),3,2,0,1,NA,401184895,2019-11-15,
+395,4,0:08,8,8,Monique Esbrand missed Free Throw.,73,76,-3,2,0.033749757602105614,South Alabama,Miami (OH),3,2,0,1,NA,401184895,2019-11-15,
+396,4,0:06,6,6,Damaya Telemaque Defensive Rebound.,73,76,-3,0,0.032377959509609616,South Alabama,Miami (OH),3,2,0,1,NA,401184895,2019-11-15,

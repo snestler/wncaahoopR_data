@@ -1,0 +1,364 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:44,2384,2384,Sara Scalia missed Layup.,0,0,0,2,0.5,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,NA
+2,1,9:42,2382,2382,Minnesota Offensive Rebound.,0,0,0,0,0.5,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+3,1,9:42,2382,2382,Foul on Sydney Staver.,0,0,0,9,0.5,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+4,1,9:33,2373,2373,Gadiva Hubbard missed Three Point Jumper.,0,0,0,3,0.5,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+5,1,9:30,2370,2370,Jamie Reit Defensive Rebound.,0,0,0,20,0.5,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+6,1,9:10,2350,2350,Jamie Reit missed Jumper.,0,0,0,3,0.5,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+7,1,9:07,2347,2347,Gadiva Hubbard Defensive Rebound.,0,0,0,15,0.5,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+8,1,8:52,2332,2332,Sara Scalia missed Jumper.,0,0,0,3,0.5,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+9,1,8:49,2329,2329,Milwaukee Defensive Rebound.,0,0,0,19,0.5,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+10,1,8:30,2310,2310,Brandi Bisping made Layup. Assisted by Lizzie Odegard.,0,2,-2,18,0.4540341708711008,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Milwaukee
+11,1,8:12,2292,2292,Taiye Bello missed Layup.,0,2,-2,3,0.45363457052289796,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+12,1,8:09,2289,2289,Brandi Bisping Defensive Rebound.,0,2,-2,17,0.4535676529863345,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+13,1,7:52,2272,2272,Bre Cera made Layup.,0,4,-4,17,0.4071872923306549,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Milwaukee
+14,1,7:35,2255,2255,Jasmine Brunson missed Jumper.,0,4,-4,4,0.4064406591398661,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+15,1,7:31,2251,2251,Jamie Reit Defensive Rebound.,0,4,-4,10,0.406264365373249,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+16,1,7:21,2241,2241,Brandi Bisping Turnover.,0,4,-4,9,0.4058226805779683,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+17,1,7:12,2232,2232,Jasmine Brunson made Layup.,2,4,-2,20,0.4522813233554353,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Minnesota
+18,1,6:52,2212,2212,Bre Cera Turnover.,2,4,-2,0,0.45182435095395956,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+19,1,6:52,2212,2212,Gadiva Hubbard Steal.,2,4,-2,3,0.45182435095395956,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+20,1,6:49,2209,2209,Foul on Bre Cera.,2,4,-2,0,0.4517556012186242,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+21,1,6:49,2209,2209,Gadiva Hubbard missed Free Throw.,2,4,-2,0,0.4517556012186242,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+22,1,6:49,2209,2209,Minnesota Offensive Rebound.,2,4,-2,0,0.4517556012186242,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+23,1,6:49,2209,2209,Gadiva Hubbard made Free Throw.,3,4,-1,8,0.4758213927712275,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Minnesota
+24,1,6:41,2201,2201,Tadri Heard Turnover.,3,4,-1,11,0.47572895999777826,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+25,1,6:30,2190,2190,Gadiva Hubbard missed Three Point Jumper.,3,4,-1,3,0.47560159461785295,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+26,1,6:27,2187,2187,Lizzie Odegard Defensive Rebound.,3,4,-1,23,0.4755668083376135,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+27,1,6:04,2164,2164,Tadri Heard Turnover.,3,4,-1,0,0.47529945885834446,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+28,1,6:04,2164,2164,Gadiva Hubbard Steal.,3,4,-1,7,0.47529945885834446,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+29,1,5:57,2157,2157,Gadiva Hubbard missed Three Point Jumper.,3,4,-1,2,0.4752177740896185,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+30,1,5:55,2155,2155,Minnesota Offensive Rebound.,3,4,-1,11,0.4751944004378896,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+31,1,5:44,2144,2144,Taiye Bello made Jumper. Assisted by Sara Scalia.,5,4,1,16,0.5249344419963612,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Minnesota
+32,1,5:28,2128,2128,Lizzie Odegard Turnover.,5,4,1,0,0.5251227528657562,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+33,1,5:28,2128,2128,Jasmine Brunson Steal.,5,4,1,5,0.5251227528657562,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+34,1,5:23,2123,2123,Foul on Gadiva Hubbard.,5,4,1,0,0.5251818292107797,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+35,1,5:23,2123,2123,Gadiva Hubbard Turnover.,5,4,1,29,0.5251818292107797,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+36,1,4:54,2094,2094,Jamie Reit missed Jumper.,5,4,1,0,0.5255267644046429,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+37,1,4:54,2094,2094,Taiye Bello Block.,5,4,1,1,0.5255267644046429,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+38,1,4:53,2093,2093,Sydney Staver Offensive Rebound.,5,4,1,1,0.525538731453577,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+39,1,4:52,2092,2092,Sydney Staver missed Layup.,5,4,1,0,0.5255507035274625,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+40,1,4:52,2092,2092,Milwaukee Offensive Rebound.,5,4,1,0,0.5255507035274625,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+41,1,4:52,2092,2092,Milwaukee  Turnover.,5,4,1,0,0.5255507035274625,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+42,1,4:52,2092,2092,Official TV Timeout,5,4,1,17,0.5255507035274625,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+43,1,4:35,2075,2075,Taiye Bello missed Layup.,5,4,1,3,0.5257550141175334,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+44,1,4:32,2072,2072,Brandi Bisping Defensive Rebound.,5,4,1,4,0.5257912264937813,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+45,1,4:28,2068,2068,Sydney Levy made Three Point Jumper. Assisted by Brandi Bisping.,5,7,-2,11,0.44845848361241913,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Milwaukee
+46,1,4:17,2057,2057,Mercedes Staples missed Jumper.,5,7,-2,3,0.44819374505431697,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+47,1,4:14,2054,2054,Taiye Bello Offensive Rebound.,5,7,-2,8,0.44812131443438624,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+48,1,4:06,2046,2046,Jasmine Brunson missed Three Point Jumper.,5,7,-2,4,0.44792767509963954,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+49,1,4:02,2042,2042,Brandi Bisping Defensive Rebound.,5,7,-2,9,0.447830583592025,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+50,1,3:53,2033,2033,Milwaukee  Turnover.,5,7,-2,9,0.44761145139642455,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+51,1,3:44,2024,2024,Foul on Tadri Heard.,5,7,-2,0,0.4473913629268944,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+52,1,3:44,2024,2024,Jasmine Powell missed Free Throw.,5,7,-2,0,0.4473913629268944,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+53,1,3:44,2024,2024,Minnesota Offensive Rebound.,5,7,-2,0,0.4473913629268944,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+54,1,3:44,2024,2024,Jasmine Powell made Free Throw.,6,7,-1,15,0.4736224740327764,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Minnesota
+55,1,3:29,2009,2009,Bre Cera made Layup. Assisted by Brandi Bisping.,6,9,-3,22,0.4209040114124597,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Milwaukee
+56,1,3:07,1987,1987,Taiye Bello missed Jumper.,6,9,-3,4,0.42009600991741897,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+57,1,3:03,1983,1983,Brandi Bisping Defensive Rebound.,6,9,-3,8,0.41994811560083606,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+58,1,2:55,1975,1975,Tadri Heard Turnover.,6,9,-3,14,0.41965139152261816,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+59,1,2:41,1961,1961,Jasmine Powell missed Three Point Jumper.,6,9,-3,3,0.41912905885804974,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+60,1,2:38,1958,1958,Taiye Bello Offensive Rebound.,6,9,-3,18,0.419016612598369,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+61,1,2:20,1940,1940,Taiye Bello missed Layup.,6,9,-3,0,0.4183379910358189,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+62,1,2:20,1940,1940,Emma Wittmershaus Block.,6,9,-3,1,0.4183379910358189,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+63,1,2:19,1939,1939,Taiye Bello Offensive Rebound.,6,9,-3,0,0.4183000882511438,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+64,1,2:19,1939,1939,Minnesota  Turnover.,6,9,-3,28,0.4183000882511438,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+65,1,1:51,1911,1911,Sydney Staver missed Layup.,6,9,-3,0,0.417235207870969,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+66,1,1:51,1911,1911,Taiye Bello Block.,6,9,-3,1,0.417235207870969,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+67,1,1:50,1910,1910,Emma Wittmershaus Offensive Rebound.,6,9,-3,1,0.41719722350695226,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+68,1,1:49,1909,1909,Emma Wittmershaus made Layup.,6,11,-5,0,0.3641469559785663,Minnesota,Milwaukee,4,4,1,0,NA,401177296,2019-11-14,Milwaukee
+69,1,1:49,1909,1909,Foul on Taiye Bello.,6,11,-5,0,0.3641469559785663,Minnesota,Milwaukee,4,4,1,0,NA,401177296,2019-11-14,
+70,1,1:49,1909,1909,Emma Wittmershaus made Free Throw.,6,12,-6,0,0.33874499501792377,Minnesota,Milwaukee,4,4,1,0,NA,401177296,2019-11-14,Milwaukee
+71,1,1:49,1909,1909,Minnesota  Timeout,6,12,-6,16,0.33874499501792377,Minnesota,Milwaukee,3,4,1,0,NA,401177296,2019-11-14,
+72,1,1:33,1893,1893,Mercedes Staples made Three Point Jumper. Assisted by Destiny Pitts.,9,12,-3,15,0.4165519282162206,Minnesota,Milwaukee,3,4,1,0,NA,401177296,2019-11-14,Minnesota
+73,1,1:18,1878,1878,Bre Cera Turnover.,9,12,-3,0,0.4159826395428562,Minnesota,Milwaukee,3,4,1,0,NA,401177296,2019-11-14,
+74,1,1:18,1878,1878,Destiny Pitts Steal.,9,12,-3,19,0.4159826395428562,Minnesota,Milwaukee,3,4,1,0,NA,401177296,2019-11-14,
+75,1,0:59,1859,1859,Mercedes Staples missed Three Point Jumper.,9,12,-3,0,0.4152604169840238,Minnesota,Milwaukee,3,4,1,0,NA,401177296,2019-11-14,
+76,1,0:59,1859,1859,Taiye Bello Offensive Rebound.,9,12,-3,11,0.4152604169840238,Minnesota,Milwaukee,3,4,1,0,NA,401177296,2019-11-14,
+77,1,0:48,1848,1848,Mercedes Staples missed Jumper.,9,12,-3,4,0.4148411543563198,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+78,1,0:44,1844,1844,Sydney Levy Defensive Rebound.,9,12,-3,9,0.41468841227594394,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+79,1,0:35,1835,1835,Sydney Levy made Layup.,9,14,-5,21,0.3596862545018985,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,Milwaukee
+80,1,0:14,1814,1814,Taiye Bello made Layup. Assisted by Mercedes Staples.,11,14,-3,14,0.4135363116959603,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,Minnesota
+81,1,0:00,1800,1800,End of 1st Quarter,11,14,-3,30,0.4129936088523014,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+82,2,9:30,1770,1770,Foul on Brandi Bisping.,11,14,-3,0,0.41181618402618514,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+83,2,9:30,1770,1770,Brandi Bisping Turnover.,11,14,-3,16,0.41181618402618514,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+84,2,9:14,1754,1754,Foul on Brandi Bisping.,11,14,-3,0,0.4111784965396124,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+85,2,9:14,1754,1754,Gadiva Hubbard made Free Throw.,12,14,-2,0,0.4404349281495561,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Minnesota
+86,2,9:14,1754,1754,Gadiva Hubbard made Free Throw.,13,14,-1,16,0.4701110391632976,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Minnesota
+87,2,8:58,1738,1738,Emma Wittmershaus made Layup. Assisted by Bre Cera.,13,16,-3,13,0.4105328602102706,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Milwaukee
+88,2,8:45,1725,1725,Foul on Kehinde Bello.,13,16,-3,0,0.41000179777182627,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+89,2,8:45,1725,1725,Kehinde Bello Turnover.,13,16,-3,0,0.41000179777182627,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+90,2,8:45,1725,1725,Milwaukee  Turnover.,13,16,-3,12,0.41000179777182627,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+91,2,8:33,1713,1713,Jasmine Brunson made Layup.,15,16,-1,24,0.46953710671225657,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Minnesota
+92,2,8:09,1689,1689,Jamie Reit missed Jumper.,15,16,-1,3,0.46919044411514405,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+93,2,8:06,1686,1686,Kehinde Bello Defensive Rebound.,15,16,-1,9,0.46914677803923804,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+94,2,7:57,1677,1677,Sara Scalia made Three Point Jumper. Assisted by Gadiva Hubbard.,18,16,2,17,0.5617290089527549,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Minnesota
+95,2,7:40,1660,1660,Tadri Heard Turnover.,18,16,2,0,0.5622051239692175,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+96,2,7:40,1660,1660,Sara Scalia Steal.,18,16,2,14,0.5622051239692175,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+97,2,7:26,1646,1646,Jasmine Brunson missed Jumper.,18,16,2,3,0.5625903143987508,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+98,2,7:23,1643,1643,Sydney Levy Defensive Rebound.,18,16,2,16,0.5626722010600693,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+99,2,7:07,1627,1627,Foul on Barbora Tomancova.,18,16,2,23,0.5631059394779159,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+100,2,6:44,1604,1604,Foul on Alyssa Fischer.,18,16,2,0,0.5637240248420919,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+101,2,6:44,1604,1604,Alyssa Fischer Turnover.,18,16,2,12,0.5637240248420919,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+102,2,6:32,1592,1592,Jasmine Powell missed Layup.,18,16,2,0,0.5640459068081034,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+103,2,6:32,1592,1592,Milwaukee Defensive Rebound.,18,16,2,16,0.5640459068081034,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+104,2,6:16,1576,1576,Lizzie Odegard missed Jumper.,18,16,2,1,0.5644765102758356,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+105,2,6:15,1575,1575,Kehinde Bello Defensive Rebound.,18,16,2,7,0.5645035216796268,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+106,2,6:08,1568,1568,Foul on Sara Scalia.,18,16,2,0,0.5646930478938033,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+107,2,6:08,1568,1568,Sara Scalia Turnover.,18,16,2,5,0.5646930478938033,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+108,2,6:03,1563,1563,Foul on Emma Wittmershaus.,18,16,2,0,0.5648289724015181,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+109,2,6:03,1563,1563,Emma Wittmershaus Turnover.,18,16,2,12,0.5648289724015181,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+110,2,5:51,1551,1551,Sara Scalia missed Three Point Jumper.,18,16,2,7,0.5651574981270215,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+111,2,5:44,1544,1544,Taiye Bello Offensive Rebound.,18,16,2,4,0.5653509298705144,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+112,2,5:40,1540,1540,Jasmine Powell made Layup.,20,16,4,14,0.6287179167243605,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Minnesota
+113,2,5:26,1526,1526,Lizzie Odegard made Three Point Jumper. Assisted by Bre Cera.,20,19,1,19,0.533072004679275,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Milwaukee
+114,2,5:07,1507,1507,Jasmine Brunson missed Three Point Jumper.,20,19,1,4,0.5333494543639433,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+115,2,5:03,1503,1503,Jamie Reit Defensive Rebound.,20,19,1,4,0.5334090125605839,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+116,2,4:59,1499,1499,Lizzie Odegard made Three Point Jumper. Assisted by Jamie Reit.,20,22,-2,3,0.4333605722803351,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Milwaukee
+117,2,4:56,1496,1496,Minnesota  Timeout,20,22,-2,9,0.433271190398763,Minnesota,Milwaukee,3,4,1,0,NA,401177296,2019-11-14,
+118,2,4:47,1487,1487,Taiye Bello made Layup. Assisted by Mercedes Staples.,22,22,0,34,0.5,Minnesota,Milwaukee,3,4,1,0,NA,401177296,2019-11-14,Minnesota
+119,2,4:13,1453,1453,Bre Cera made Layup.,22,24,-2,9,0.4319260621196006,Minnesota,Milwaukee,3,4,1,0,NA,401177296,2019-11-14,Milwaukee
+120,2,4:04,1444,1444,Gadiva Hubbard missed Three Point Jumper.,22,24,-2,2,0.43162994739885835,Minnesota,Milwaukee,3,4,1,0,NA,401177296,2019-11-14,
+121,2,4:02,1442,1442,Minnesota Offensive Rebound.,22,24,-2,0,0.43156480257511165,Minnesota,Milwaukee,3,4,1,0,NA,401177296,2019-11-14,
+122,2,4:02,1442,1442,Foul on Emma Wittmershaus.,22,24,-2,0,0.43156480257511165,Minnesota,Milwaukee,3,4,1,0,NA,401177296,2019-11-14,
+123,2,4:02,1442,1442,Taiye Bello made Free Throw.,23,24,-1,0,0.4656206285312056,Minnesota,Milwaukee,3,4,1,0,NA,401177296,2019-11-14,Minnesota
+124,2,4:02,1442,1442,Taiye Bello made Free Throw.,24,24,0,19,0.5,Minnesota,Milwaukee,3,4,1,0,NA,401177296,2019-11-14,Minnesota
+125,2,3:43,1423,1423,Milwaukee  Turnover.,24,24,0,8,0.5,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+126,2,3:35,1415,1415,Jasmine Powell missed Jumper.,24,24,0,7,0.5,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+127,2,3:28,1408,1408,Lizzie Odegard Defensive Rebound.,24,24,0,4,0.5,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+128,2,3:24,1404,1404,Lizzie Odegard Turnover.,24,24,0,0,0.5,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+129,2,3:24,1404,1404,Gadiva Hubbard Steal.,24,24,0,6,0.5,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+130,2,3:18,1398,1398,Mercedes Staples missed Three Point Jumper.,24,24,0,0,0.5,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+131,2,3:18,1398,1398,Jamie Reit Defensive Rebound.,24,24,0,0,0.5,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+132,2,3:18,1398,1398,Foul on Taiye Bello.,24,24,0,23,0.5,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+133,2,2:55,1375,1375,Lizzie Odegard missed Layup.,24,24,0,5,0.5,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+134,2,2:50,1370,1370,Kehinde Bello Defensive Rebound.,24,24,0,6,0.5,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+135,2,2:44,1364,1364,Foul on Sydney Staver.,24,24,0,0,0.5,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+136,2,2:44,1364,1364,Jasmine Powell made Free Throw.,25,24,1,0,0.5355960455510943,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,Minnesota
+137,2,2:44,1364,1364,Jasmine Powell made Free Throw.,26,24,2,24,0.5708330867884075,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,Minnesota
+138,2,2:20,1340,1340,Foul on Jasmine Powell.,26,24,2,0,0.5715558783644923,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+139,2,2:20,1340,1340,Bre Cera made Free Throw.,26,25,1,0,0.5359630312872208,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,Milwaukee
+140,2,2:20,1340,1340,Bre Cera made Free Throw.,26,26,0,9,0.5,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,Milwaukee
+141,2,2:11,1331,1331,Foul on Bre Cera.,26,26,0,0,0.5,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+142,2,2:11,1331,1331,Jasmine Powell made Free Throw.,27,26,1,0,0.5361024453213896,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,Minnesota
+143,2,2:11,1331,1331,Jasmine Powell made Free Throw.,28,26,2,28,0.5718303995338936,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,Minnesota
+144,2,1:43,1303,1303,Sydney Levy missed Jumper.,28,26,2,0,0.5727067127548495,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+145,2,1:43,1303,1303,Destiny Pitts Block.,28,26,2,7,0.5727067127548495,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+146,2,1:36,1296,1296,Mercedes Staples Defensive Rebound.,28,26,2,2,0.5729327776344029,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+147,2,1:34,1294,1294,Mercedes Staples Turnover.,28,26,2,0,0.5729979873928751,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+148,2,1:34,1294,1294,Jamie Reit Steal.,28,26,2,7,0.5729979873928751,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+149,2,1:27,1287,1287,Sydney Levy Turnover.,28,26,2,0,0.5732285518461456,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+150,2,1:27,1287,1287,Mercedes Staples Steal.,28,26,2,6,0.5732285518461456,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+151,2,1:21,1281,1281,Gadiva Hubbard missed Three Point Jumper.,28,26,2,1,0.5734292504585657,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+152,2,1:20,1280,1280,Minnesota Offensive Rebound.,28,26,2,0,0.5734629915551132,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+153,2,1:20,1280,1280,Foul on Brandi Bisping.,28,26,2,0,0.5734629915551132,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+154,2,1:20,1280,1280,Kehinde Bello missed Free Throw.,28,26,2,0,0.5734629915551132,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+155,2,1:20,1280,1280,Minnesota Offensive Rebound.,28,26,2,0,0.5734629915551132,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+156,2,1:20,1280,1280,Kehinde Bello made Free Throw.,29,26,3,10,0.6092096899071611,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,Minnesota
+157,2,1:10,1270,1270,Foul on Jasmine Powell.,29,26,3,0,0.6097093509215477,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+158,2,1:10,1270,1270,Tadri Heard missed Free Throw.,29,26,3,0,0.6097093509215477,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+159,2,1:10,1270,1270,Milwaukee Offensive Rebound.,29,26,3,0,0.6097093509215477,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+160,2,1:10,1270,1270,Tadri Heard made Free Throw.,29,27,2,5,0.5738052788085366,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,Milwaukee
+161,2,1:05,1265,1265,Foul on Alyssa Moore.,29,27,2,0,0.5739799384781094,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+162,2,1:05,1265,1265,Jasmine Brunson made Free Throw.,30,27,3,0,0.6099642651731945,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,Minnesota
+163,2,1:05,1265,1265,Jasmine Brunson made Free Throw.,31,27,4,22,0.6447901136618193,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,Minnesota
+164,2,0:43,1243,1243,Tadri Heard made Three Point Jumper.,31,30,1,13,0.5376013506025611,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,Milwaukee
+165,2,0:30,1230,1230,Foul on Destiny Pitts.,31,30,1,0,0.5378554217190384,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+166,2,0:30,1230,1230,Destiny Pitts Turnover.,31,30,1,25,0.5378554217190384,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+167,2,0:05,1205,1205,Tadri Heard made Three Point Jumper. Assisted by Sydney Levy.,31,33,-2,4,0.42369788789132345,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,Milwaukee
+168,2,0:01,1201,1201,Destiny Pitts Turnover.,31,33,-2,0,0.4235319432624558,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+169,2,0:01,1201,1201,Alyssa Moore Steal.,31,33,-2,1,0.4235319432624558,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+170,2,0:00,1200,1200,End of 2nd Quarter,31,33,-2,10,0.4234906714856242,Minnesota,Milwaukee,3,4,0,0,NA,401177296,2019-11-14,
+171,3,9:50,1190,1190,Tadri Heard Turnover.,31,33,-2,18,0.42308230172380085,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+172,3,9:32,1172,1172,Foul on Jamie Reit.,31,33,-2,18,0.4223638977476902,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+173,3,9:14,1154,1154,Gadiva Hubbard made Three Point Jumper. Assisted by Jasmine Brunson.,34,33,1,17,0.5394132490086433,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,Minnesota
+174,3,8:57,1137,1137,Lizzie Odegard missed Layup.,34,33,1,0,0.5397484732883293,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+175,3,8:57,1137,1137,Taiye Bello Block.,34,33,1,6,0.5397484732883293,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+176,3,8:51,1131,1131,Destiny Pitts Defensive Rebound.,34,33,1,1,0.5398666785480776,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+177,3,8:50,1130,1130,Sara Scalia made Layup.,36,33,3,11,0.6176666193262281,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,Minnesota
+178,3,8:39,1119,1119,Foul on Gadiva Hubbard.,36,33,3,10,0.6182864182795259,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+179,3,8:29,1109,1109,Lizzie Odegard Turnover.,36,33,3,0,0.6188534316184163,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+180,3,8:29,1109,1109,Taiye Bello Steal.,36,33,3,12,0.6188534316184163,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+181,3,8:17,1097,1097,Jasmine Brunson missed Jumper.,36,33,3,3,0.6195411162458534,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+182,3,8:14,1094,1094,Foul on Sydney Staver.,36,33,3,0,0.6197146363271429,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+183,3,8:14,1094,1094,Gadiva Hubbard made Free Throw.,37,33,4,0,0.6572619607533846,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,Minnesota
+184,3,8:14,1094,1094,Gadiva Hubbard made Free Throw.,38,33,5,1,0.6929389474389258,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,Minnesota
+185,3,8:13,1093,1093,Gadiva Hubbard Offensive Rebound.,36,33,3,7,0.619772638925486,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+186,3,8:06,1086,1086,Alyssa Moore Turnover.,38,33,5,0,0.6936406268606925,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,Minnesota
+187,3,8:06,1086,1086,Gadiva Hubbard Steal.,38,33,5,3,0.6936406268606925,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+188,3,8:03,1083,1083,Gadiva Hubbard missed Layup.,38,33,5,1,0.6939059597654126,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+189,3,8:02,1082,1082,Milwaukee Defensive Rebound.,38,33,5,28,0.6939946937133286,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+190,3,7:34,1054,1054,Alyssa Moore Turnover.,38,33,5,9,0.6965501864249019,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+191,3,7:25,1045,1045,Taiye Bello Turnover.,38,33,5,7,0.6974065542734255,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+192,3,7:18,1038,1038,Lizzie Odegard missed Three Point Jumper.,31,33,-2,0,0.4169561709190351,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+193,3,7:18,1038,1038,Kehinde Bello Block.,31,33,-2,1,0.4169561709190351,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+194,3,7:17,1037,1037,Minnesota Defensive Rebound.,31,33,-2,1,0.41691085134445743,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+195,3,7:16,1036,1036,Lizzie Odegard Turnover.,38,33,5,6,0.6982833498580442,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,Minnesota
+196,3,7:10,1030,1030,Sara Scalia missed Three Point Jumper.,31,33,-2,3,0.4165898050494257,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+197,3,7:07,1027,1027,Milwaukee Defensive Rebound.,31,33,-2,4,0.4164501008313338,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+198,3,7:03,1023,1023,Sara Scalia missed Three Point Jumper.,38,33,5,3,0.6995899105634457,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,Minnesota
+199,3,7:00,1020,1020,Alyssa Fischer Defensive Rebound.,38,33,5,0,0.6998986896790245,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+200,3,7:00,1020,1020,Jamie Reit Turnover.,38,33,5,2,0.6998986896790245,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+201,3,6:58,1018,1018,Foul on Lizzie Odegard.,38,33,5,0,0.7001061362099024,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+202,3,6:58,1018,1018,Taiye Bello made Free Throw.,39,33,6,0,0.7344588180416195,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,Minnesota
+203,3,6:58,1018,1018,Taiye Bello made Free Throw.,40,33,7,3,0.7661905893409454,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,Minnesota
+204,3,6:55,1015,1015,Foul on Taiye Bello.,40,33,7,12,0.7665651121903662,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+205,3,6:43,1003,1003,Lizzie Odegard missed Jumper.,40,33,7,0,0.7680978125434558,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+206,3,6:43,1003,1003,Taiye Bello Block.,40,33,7,5,0.7680978125434558,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+207,3,6:38,998,998,Jasmine Brunson Defensive Rebound.,40,33,7,2,0.7687536019342545,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+208,3,6:36,996,996,Jasmine Brunson made Jumper.,42,33,9,9,0.8243976278756846,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,Minnesota
+209,3,6:27,987,987,Jamie Reit Turnover.,42,33,9,0,0.8256698280482042,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+210,3,6:27,987,987,Destiny Pitts Steal.,42,33,9,12,0.8256698280482042,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,
+211,3,6:15,975,975,Gadiva Hubbard made Layup. Assisted by Taiye Bello.,44,33,11,9,0.8716685961521117,Minnesota,Milwaukee,4,5,0,0,NA,401177296,2019-11-14,Minnesota
+212,3,6:06,966,966,Milwaukee  Timeout,44,33,11,16,0.8729566518418039,Minnesota,Milwaukee,4,4,0,1,NA,401177296,2019-11-14,
+213,3,5:50,950,950,Sydney Levy made Three Point Jumper. Assisted by Alyssa Fischer.,44,36,8,8,0.8046836541768286,Minnesota,Milwaukee,4,4,0,1,NA,401177296,2019-11-14,Milwaukee
+214,3,5:42,942,942,Gadiva Hubbard missed Three Point Jumper.,44,36,8,3,0.8057224257825787,Minnesota,Milwaukee,4,4,0,1,NA,401177296,2019-11-14,
+215,3,5:39,939,939,Sydney Levy Defensive Rebound.,44,36,8,6,0.8061007053199466,Minnesota,Milwaukee,4,4,0,1,NA,401177296,2019-11-14,
+216,3,5:33,933,933,Lizzie Odegard missed Three Point Jumper.,44,36,8,3,0.8068405127371479,Minnesota,Milwaukee,4,4,0,1,NA,401177296,2019-11-14,
+217,3,5:30,930,930,Brandi Bisping Offensive Rebound.,44,36,8,3,0.8072026248940581,Minnesota,Milwaukee,4,4,0,1,NA,401177296,2019-11-14,
+218,3,5:27,927,927,Alyssa Fischer made Three Point Jumper. Assisted by Brandi Bisping.,44,39,5,20,0.7102081731457692,Minnesota,Milwaukee,4,4,0,1,NA,401177296,2019-11-14,Milwaukee
+219,3,5:07,907,907,Foul on Lizzie Odegard.,44,39,5,0,0.7121004611684372,Minnesota,Milwaukee,4,4,0,1,NA,401177296,2019-11-14,
+220,3,5:07,907,907,Kehinde Bello made Free Throw.,45,39,6,0,0.7477652486946367,Minnesota,Milwaukee,4,4,0,1,NA,401177296,2019-11-14,Minnesota
+221,3,5:07,907,907,Kehinde Bello missed Free Throw.,45,39,6,1,0.7477652486946367,Minnesota,Milwaukee,4,4,0,1,NA,401177296,2019-11-14,
+222,3,5:06,906,906,Brandi Bisping Defensive Rebound.,45,39,6,13,0.7478665204776674,Minnesota,Milwaukee,4,4,0,1,NA,401177296,2019-11-14,
+223,3,4:53,893,893,Anaiah Moore made Three Point Jumper.,45,42,3,36,0.6334579051552606,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Milwaukee
+224,3,4:17,857,857,Jasmine Brunson missed Three Point Jumper.,45,42,3,3,0.6356564992587657,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+225,3,4:14,854,854,Sydney Levy Defensive Rebound.,45,42,3,3,0.6358441200583964,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+226,3,4:11,851,851,Official TV Timeout,45,42,3,18,0.6360331191451486,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+227,3,3:53,833,833,Foul on Gadiva Hubbard.,45,42,3,2,0.6372044263054122,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+228,3,3:51,831,831,Brandi Bisping missed Jumper.,45,42,3,3,0.637339366764226,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+229,3,3:48,828,828,Taiye Bello Defensive Rebound.,45,42,3,6,0.637543892466035,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+230,3,3:42,822,822,Jasmine Powell made Layup.,47,42,5,0,0.7199491563020751,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Minnesota
+231,3,3:42,822,822,Foul on Emma Wittmershaus.,47,42,5,0,0.7199491563020751,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+232,3,3:42,822,822,Jasmine Powell made Free Throw.,48,42,6,21,0.7564015671916972,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Minnesota
+233,3,3:21,801,801,Brandi Bisping Turnover.,48,42,6,0,0.7588865417172851,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+234,3,3:21,801,801,Destiny Pitts Steal.,48,42,6,1,0.7588865417172851,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+235,3,3:20,800,800,Foul on Anaiah Moore.,48,42,6,0,0.7590116773002408,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+236,3,3:20,800,800,Taiye Bello made Free Throw.,49,42,7,0,0.7922398884055285,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Minnesota
+237,3,3:20,800,800,Taiye Bello made Free Throw.,50,42,8,20,0.8219611839325319,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Minnesota
+238,3,3:00,780,780,Sydney Levy missed Jumper.,50,42,8,3,0.8247877004413381,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+239,3,2:57,777,777,Sydney Levy Offensive Rebound.,50,42,8,5,0.8252395117984394,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+240,3,2:52,772,772,Lizzie Odegard missed Three Point Jumper.,50,42,8,3,0.8260100613792815,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+241,3,2:49,769,769,Taiye Bello Defensive Rebound.,50,42,8,4,0.8264832259463697,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+242,3,2:45,765,765,Mercedes Staples missed Three Point Jumper.,50,42,8,4,0.8271271471901476,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+243,3,2:41,761,761,Lizzie Odegard Defensive Rebound.,50,42,8,19,0.8277863695671025,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+244,3,2:22,742,742,Anaiah Moore Turnover.,50,42,8,0,0.8311395278839898,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+245,3,2:22,742,742,Mercedes Staples Steal.,50,42,8,6,0.8311395278839898,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+246,3,2:16,736,736,Mercedes Staples missed Layup.,50,42,8,5,0.8322790470173294,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+247,3,2:11,731,731,Alyssa Fischer Defensive Rebound.,50,42,8,8,0.8332597909694839,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+248,3,2:03,723,723,Alyssa Fischer made Three Point Jumper. Assisted by Anaiah Moore.,50,45,5,17,0.7335298291047809,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Milwaukee
+249,3,1:46,706,706,Taiye Bello Turnover.,50,45,5,25,0.7361941220442574,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+250,3,1:21,681,681,Alyssa Fischer missed Three Point Jumper.,50,45,5,3,0.7396503975045585,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+251,3,1:18,678,678,Emma Wittmershaus Offensive Rebound.,50,45,5,3,0.7400420943818811,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+252,3,1:15,675,675,Emma Wittmershaus missed Jumper.,50,45,5,0,0.7404308657596894,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+253,3,1:15,675,675,Taiye Bello Block.,50,45,5,5,0.7404308657596894,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+254,3,1:10,670,670,Jasmine Brunson Defensive Rebound.,50,45,5,2,0.7410738869565631,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+255,3,1:08,668,668,Jasmine Brunson missed Jumper.,50,45,5,5,0.7413298670075076,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+256,3,1:03,663,663,Bre Cera Defensive Rebound.,50,45,5,11,0.7419682312645315,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+257,3,0:52,652,652,Bre Cera Turnover.,50,45,5,0,0.7433757779721992,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+258,3,0:52,652,652,Jasmine Brunson Steal.,50,45,5,0,0.7433757779721992,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+259,3,0:52,652,652,Foul on Bre Cera.,50,45,5,23,0.7433757779721992,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+260,3,0:29,629,629,Foul on Anaiah Moore.,50,45,5,0,0.7464384038687808,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+261,3,0:29,629,629,Jasmine Powell made Free Throw.,51,45,6,0,0.7851015681134432,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Minnesota
+262,3,0:29,629,629,Jasmine Powell made Free Throw.,52,45,7,22,0.8192965555201672,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Minnesota
+263,3,0:07,607,607,Foul on Alyssa Fischer.,52,45,7,0,0.8228635074336156,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+264,3,0:07,607,607,Alyssa Fischer Turnover.,52,45,7,6,0.8228635074336156,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+265,3,0:01,601,601,Kehinde Bello made Layup. Assisted by Jasmine Powell.,54,45,9,1,0.87911494813132,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,Minnesota
+266,3,0:00,600,600,End of 3rd Quarter,54,45,9,9,0.8792856595745164,Minnesota,Milwaukee,4,4,0,0,NA,401177296,2019-11-14,
+267,4,9:51,591,591,Jasmine Powell missed Jumper.,54,45,9,4,0.8808757905641157,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+268,4,9:47,587,587,Alyssa Fischer Defensive Rebound.,54,45,9,3,0.8816154362112034,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+269,4,9:44,584,584,Jamie Reit missed Three Point Jumper.,54,45,9,4,0.8821842968758917,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+270,4,9:40,580,580,Taiye Bello Defensive Rebound.,54,45,9,6,0.88296233522214,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+271,4,9:34,574,574,Destiny Pitts missed Layup.,54,45,9,4,0.8841730389489262,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+272,4,9:30,570,570,Jamie Reit Defensive Rebound.,54,45,9,12,0.8850104504540569,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+273,4,9:18,558,558,Foul on Brandi Bisping.,54,45,9,0,0.8876760432584291,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+274,4,9:18,558,558,Brandi Bisping Turnover.,54,45,9,13,0.8876760432584291,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+275,4,9:05,545,545,Jasmine Powell made Layup.,56,45,11,12,0.928577106752778,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,Minnesota
+276,4,8:53,533,533,Tadri Heard missed Three Point Jumper.,56,45,11,4,0.9306888745854013,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+277,4,8:49,529,529,Taiye Bello Defensive Rebound.,56,45,11,11,0.9313258904866918,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+278,4,8:38,518,518,Jasmine Powell missed Jumper.,56,45,11,1,0.9329537481234066,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+279,4,8:37,517,517,Milwaukee Defensive Rebound.,56,45,11,20,0.933094688908275,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+280,4,8:17,497,497,Jamie Reit missed Three Point Jumper.,56,45,11,3,0.935795165764549,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+281,4,8:14,494,494,Gadiva Hubbard Defensive Rebound.,56,45,11,4,0.9361955797843355,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+282,4,8:10,490,490,Destiny Pitts missed Layup.,56,45,11,3,0.9367339692321737,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+283,4,8:07,487,487,Taiye Bello Offensive Rebound.,56,45,11,0,0.9371428096697251,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+284,4,8:07,487,487,Taiye Bello made Layup.,58,45,13,23,0.960579004805258,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,Minnesota
+285,4,7:44,464,464,Foul on Destiny Pitts.,58,45,13,0,0.9631534331169123,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+286,4,7:44,464,464,Foul on Gadiva Hubbard.,58,45,13,8,0.9631534331169123,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+287,4,7:36,456,456,Lizzie Odegard missed Three Point Jumper.,58,45,13,3,0.9641678483820517,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+288,4,7:33,453,453,Jasmine Brunson Defensive Rebound.,58,45,13,12,0.9645684749442637,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+289,4,7:21,441,441,Jasmine Brunson made Layup. Assisted by Jasmine Powell.,60,45,15,0,0.979608331868812,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,Minnesota
+290,4,7:21,441,441,Foul on Sydney Staver.,60,45,15,0,0.979608331868812,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+291,4,7:21,441,441,Jasmine Brunson made Free Throw.,61,45,16,10,0.9841742021739088,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,Minnesota
+292,4,7:11,431,431,Tadri Heard missed Three Point Jumper.,61,45,16,0,0.9851075371360145,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+293,4,7:11,431,431,Jasmine Powell Block.,61,45,16,1,0.9851075371360145,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+294,4,7:10,430,430,Milwaukee Offensive Rebound.,61,45,16,0,0.985204969698752,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+295,4,7:10,430,430,Foul on Barbora Tomancova.,61,45,16,4,0.985204969698752,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+296,4,7:06,426,426,Bre Cera made Jumper.,61,47,14,13,0.9757989483819023,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,Milwaukee
+297,4,6:53,413,413,Taiye Bello made Layup. Assisted by Jasmine Powell.,63,47,16,20,0.9866942697997766,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,Minnesota
+298,4,6:33,393,393,Lizzie Odegard Turnover.,63,47,16,25,0.9881509832188954,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+299,4,6:08,368,368,Jasmine Brunson missed Layup.,63,47,16,3,0.989800625803558,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+300,4,6:05,365,365,Jasmine Brunson Offensive Rebound.,63,47,16,1,0.9899969330039299,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+301,4,6:04,364,364,Jasmine Brunson missed Layup.,63,47,16,3,0.9900625166199835,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+302,4,6:01,361,361,Lizzie Odegard Defensive Rebound.,63,47,16,11,0.9902598322285254,Minnesota,Milwaukee,5,5,0,0,NA,401177296,2019-11-14,
+303,4,5:50,350,350,Milwaukee  Timeout,63,47,16,14,0.9909932385753648,Minnesota,Milwaukee,5,4,0,1,NA,401177296,2019-11-14,
+304,4,5:36,336,336,Milwaukee  Turnover.,63,47,16,15,0.991955979196029,Minnesota,Milwaukee,5,4,0,1,NA,401177296,2019-11-14,
+305,4,5:21,321,321,Jasmine Powell made Jumper.,65,47,18,18,0.9962344267015046,Minnesota,Milwaukee,5,4,0,1,NA,401177296,2019-11-14,Minnesota
+306,4,5:03,303,303,Alyssa Fischer made Three Point Jumper. Assisted by Bre Cera.,65,50,15,14,0.9920425491135441,Minnesota,Milwaukee,5,4,0,1,NA,401177296,2019-11-14,Milwaukee
+307,4,4:49,289,289,Sara Scalia missed Three Point Jumper.,65,50,15,5,0.9924057636793064,Minnesota,Milwaukee,5,4,0,0,NA,401177296,2019-11-14,
+308,4,4:44,284,284,Sydney Staver Defensive Rebound.,65,50,15,6,0.9923854376510748,Minnesota,Milwaukee,5,4,0,0,NA,401177296,2019-11-14,
+309,4,4:38,278,278,Sydney Staver missed Layup.,65,50,15,0,0.9922865799910183,Minnesota,Milwaukee,5,4,0,0,NA,401177296,2019-11-14,
+310,4,4:38,278,278,Taiye Bello Block.,65,50,15,2,0.9922865799910183,Minnesota,Milwaukee,5,4,0,0,NA,401177296,2019-11-14,
+311,4,4:36,276,276,Milwaukee Offensive Rebound.,65,50,15,9,0.9922388020717273,Minnesota,Milwaukee,5,4,0,0,NA,401177296,2019-11-14,
+312,4,4:27,267,267,Milwaukee  Turnover.,65,50,15,9,0.9919578964675707,Minnesota,Milwaukee,5,4,0,0,NA,401177296,2019-11-14,
+313,4,4:18,258,258,Destiny Pitts made Three Point Jumper. Assisted by Jasmine Powell.,68,50,18,23,0.9967586762210469,Minnesota,Milwaukee,5,4,0,0,NA,401177296,2019-11-14,Minnesota
+314,4,3:55,235,235,Foul on Sydney Levy.,68,50,18,0,0.9965153955931974,Minnesota,Milwaukee,5,4,0,0,NA,401177296,2019-11-14,
+315,4,3:55,235,235,Sydney Levy Turnover.,68,50,18,24,0.9965153955931974,Minnesota,Milwaukee,5,4,0,0,NA,401177296,2019-11-14,
+316,4,3:31,211,211,Mercedes Staples missed Three Point Jumper.,68,50,18,2,0.9970896184917875,Minnesota,Milwaukee,5,4,0,0,NA,401177296,2019-11-14,
+317,4,3:29,209,209,Minnesota Offensive Rebound.,68,50,18,0,0.9971863340369875,Minnesota,Milwaukee,5,4,0,1,NA,401177296,2019-11-14,
+318,4,3:29,209,209,Foul on Emma Wittmershaus.,68,50,18,0,0.9971863340369875,Minnesota,Milwaukee,5,4,0,1,NA,401177296,2019-11-14,
+319,4,3:29,209,209,Milwaukee  Timeout,68,50,18,4,0.9971863340369875,Minnesota,Milwaukee,5,3,0,1,NA,401177296,2019-11-14,
+320,4,3:25,205,205,Mercedes Staples Turnover.,68,50,18,0,0.9973981138364826,Minnesota,Milwaukee,5,3,0,1,NA,401177296,2019-11-14,
+321,4,3:25,205,205,Alyssa Fischer Steal.,68,50,18,9,0.9973981138364826,Minnesota,Milwaukee,5,3,0,1,NA,401177296,2019-11-14,
+322,4,3:16,196,196,Anaiah Moore missed Layup.,68,50,18,0,0.997938683915661,Minnesota,Milwaukee,5,3,0,1,NA,401177296,2019-11-14,
+323,4,3:16,196,196,Minnesota Defensive Rebound.,68,50,18,0,0.997938683915661,Minnesota,Milwaukee,5,3,0,1,NA,401177296,2019-11-14,
+324,4,3:16,196,196,Foul on Emma Wittmershaus.,68,50,18,0,0.997938683915661,Minnesota,Milwaukee,5,3,0,1,NA,401177296,2019-11-14,
+325,4,3:16,196,196,Taiye Bello made Free Throw.,69,50,19,0,0.9985370128954065,Minnesota,Milwaukee,5,3,0,1,NA,401177296,2019-11-14,Minnesota
+326,4,3:16,196,196,Taiye Bello made Free Throw.,70,50,20,13,0.9989618482769379,Minnesota,Milwaukee,5,3,0,1,NA,401177296,2019-11-14,Minnesota
+327,4,3:03,183,183,Foul on Barbora Tomancova.,70,50,20,0,0.9993821365064937,Minnesota,Milwaukee,5,3,0,1,NA,401177296,2019-11-14,
+328,4,3:03,183,183,Sydney Staver missed Free Throw.,70,50,20,0,0.9993821365064937,Minnesota,Milwaukee,5,3,0,1,NA,401177296,2019-11-14,
+329,4,3:03,183,183,Milwaukee Offensive Rebound.,70,50,20,0,0.9993821365064937,Minnesota,Milwaukee,5,3,0,1,NA,401177296,2019-11-14,
+330,4,3:03,183,183,Sydney Staver missed Free Throw.,70,50,20,1,0.9993821365064937,Minnesota,Milwaukee,5,3,0,1,NA,401177296,2019-11-14,
+331,4,3:02,182,182,Minnesota Defensive Rebound.,70,50,20,10,0.9994075693783299,Minnesota,Milwaukee,5,3,0,1,NA,401177296,2019-11-14,
+332,4,2:52,172,172,Jasmine Powell missed Layup.,70,50,20,3,0.9996135757387847,Minnesota,Milwaukee,5,3,0,1,NA,401177296,2019-11-14,
+333,4,2:49,169,169,Barbora Tomancova Offensive Rebound.,70,50,20,1,0.999661213526734,Minnesota,Milwaukee,5,3,0,1,NA,401177296,2019-11-14,
+334,4,2:48,168,168,Barbora Tomancova missed Layup.,70,50,20,3,0.9996758925219968,Minnesota,Milwaukee,5,3,0,1,NA,401177296,2019-11-14,
+335,4,2:45,165,165,Lizzie Odegard Defensive Rebound.,70,50,20,15,0.9997166360972978,Minnesota,Milwaukee,5,3,0,1,NA,401177296,2019-11-14,
+336,4,2:30,150,150,Alyssa Fischer missed Jumper.,70,50,20,4,0.9998611153555941,Minnesota,Milwaukee,5,3,0,1,NA,401177296,2019-11-14,
+337,4,2:26,146,146,Taiye Bello Defensive Rebound.,70,50,20,19,0.9998868116697804,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,
+338,4,2:07,127,127,Jasmine Powell Turnover.,70,50,20,0,0.9999616578730288,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,
+339,4,2:07,127,127,Sydney Staver Steal.,70,50,20,15,0.9999616578730288,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,
+340,4,1:52,112,112,Foul on Barbora Tomancova.,70,50,20,0,0.9999861205723105,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,
+341,4,1:52,112,112,Sydney Staver made Free Throw.,70,51,19,0,0.9999757200290779,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,Milwaukee
+342,4,1:52,112,112,Sydney Staver made Free Throw.,70,52,18,27,0.99995752617423,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,Milwaukee
+343,4,1:25,85,85,Sara Scalia made Jumper. Assisted by Klarke Sconiers.,72,52,20,0,0.9999985594464167,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,Minnesota
+344,4,1:25,85,85,Foul on Sydney Staver.,72,52,20,0,0.9999985594464167,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,
+345,4,1:25,85,85,Sara Scalia made Free Throw.,73,52,21,13,0.999999264714121,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,Minnesota
+346,4,1:12,72,72,Foul on Klarke Sconiers.,73,52,21,0,0.9999997999572213,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,
+347,4,1:12,72,72,Alyssa Moore missed Free Throw.,73,52,21,0,0.9999997999572213,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,
+348,4,1:12,72,72,Milwaukee Offensive Rebound.,73,52,21,0,0.9999997999572213,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,
+349,4,1:12,72,72,Alyssa Moore missed Free Throw.,73,52,21,1,0.9999997999572213,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,
+350,4,1:11,71,71,Barbora Tomancova Defensive Rebound.,73,52,21,4,0.9999998200724111,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,
+351,4,1:07,67,67,Destiny Pitts missed Three Point Jumper.,73,52,21,4,0.9999998829119072,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,
+352,4,1:03,63,63,Milwaukee Defensive Rebound.,73,52,21,7,0.9999999244057168,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,
+353,4,0:56,56,56,Anaiah Moore made Layup.,73,54,19,14,0.9999998232115165,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,Milwaukee
+354,4,0:42,42,42,Sara Scalia made Jumper. Assisted by Destiny Pitts.,75,54,21,6,0.9999999935297257,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,Minnesota
+355,4,0:36,36,36,Anaiah Moore made Layup. Assisted by Alyssa Moore.,75,56,19,7,0.9999999804008248,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,Milwaukee
+356,4,0:29,29,29,Destiny Pitts missed Three Point Jumper.,75,56,19,3,0.9999999914354338,Minnesota,Milwaukee,5,3,0,0,NA,401177296,2019-11-14,
+357,4,0:26,26,26,Milwaukee  Timeout,75,56,19,1,0.9999999940369149,Minnesota,Milwaukee,5,2,0,1,NA,401177296,2019-11-14,
+358,4,0:25,25,25,Anaiah Moore Defensive Rebound.,75,56,19,11,0.9999999947193358,Minnesota,Milwaukee,5,2,0,1,NA,401177296,2019-11-14,
+359,4,0:14,14,14,Alyssa Moore made Layup.,75,58,17,8,0.99999998864409545,Minnesota,Milwaukee,5,2,0,1,NA,401177296,2019-11-14,Milwaukee
+360,4,0:06,6,6,Klarke Sconiers made Layup.,77,58,19,5,0.9999999995476823,Minnesota,Milwaukee,5,2,0,1,NA,401177296,2019-11-14,Minnesota
+361,4,0:01,1,1,Alyssa Fischer made Three Point Jumper.,77,61,16,1,0.9999999924340902,Minnesota,Milwaukee,5,2,0,1,NA,401177296,2019-11-14,Milwaukee
+362,4,0:00,0,0,End of 4th Quarter,77,61,16,0,1,Minnesota,Milwaukee,5,2,0,1,NA,401177296,2019-11-14,
+363,4,0:00,0,0,End of Game,77,61,16,0,1,Minnesota,Milwaukee,5,2,0,1,NA,401177296,2019-11-14,

@@ -1,0 +1,397 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:49,2389,2389,Carlotta Gianolla missed Jumper.,0,0,0,3,0.5,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,NA
+2,1,9:46,2386,2386,Shannon Titus Defensive Rebound.,0,0,0,25,0.5,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+3,1,9:21,2361,2361,Jordan McLaughlin made Three Point Jumper. Assisted by Amoria Neal-Tysor.,0,3,-3,23,0.4329446767439369,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Mercer
+4,1,8:58,2338,2338,Amani Johnson missed Three Point Jumper.,0,3,-3,5,0.4322057062255591,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+5,1,8:53,2333,2333,Alexis Poole Offensive Rebound.,0,3,-3,14,0.43204377801879046,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+6,1,8:39,2319,2319,Carlotta Gianolla made Layup.,2,3,-1,21,0.477068206216988,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+7,1,8:18,2298,2298,Jaron Dougherty missed Jumper.,2,3,-1,3,0.47683444959323684,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+8,1,8:15,2295,2295,Kamiyah Street Defensive Rebound.,2,3,-1,6,0.47680086405453603,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+9,1,8:09,2289,2289,Gillian Piccolino missed Jumper.,2,3,-1,0,0.4767335562895253,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+10,1,8:09,2289,2289,Kennesaw State Deadball Team Rebound.,2,3,-1,0,0.4767335562895253,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+11,1,8:09,2289,2289,Foul on Summer Pahl.,2,3,-1,5,0.4767335562895253,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+12,1,8:04,2284,2284,Alexis Poole made Layup.,4,3,1,9,0.523322669352421,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+13,1,7:55,2275,2275,Amoria Neal-Tysor missed Layup.,4,3,1,3,0.5234241756349494,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+14,1,7:52,2272,2272,Amani Johnson Defensive Rebound.,4,3,1,3,0.5234580941259385,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+15,1,7:49,2269,2269,Kamiyah Street made Layup.,6,3,3,11,0.5700640174814636,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+16,1,7:38,2258,2258,Tia Benvenuti made Jumper.,6,5,1,20,0.5236169023910233,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Mercer
+17,1,7:18,2238,2238,Foul on Shannon Titus.,6,5,1,0,0.5238451522402601,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+18,1,7:18,2238,2238,Carlotta Gianolla made Free Throw.,7,5,2,0,0.5475820854440291,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+19,1,7:18,2238,2238,Carlotta Gianolla made Free Throw.,8,5,3,29,0.5711045362677699,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+20,1,6:49,2209,2209,Jordan McLaughlin made Layup.,8,7,1,0,0.5241786072287725,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Mercer
+21,1,6:49,2209,2209,Foul on Alexis Poole.,8,7,1,1,0.5241786072287725,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+22,1,6:48,2208,2208,Jordan McLaughlin made Free Throw.,8,8,0,2,0.5,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Mercer
+23,1,6:46,2206,2206,Carlotta Gianolla Turnover.,8,8,0,0,0.5,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+24,1,6:46,2206,2206,Jordan McLaughlin Steal.,8,8,0,3,0.5,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+25,1,6:43,2203,2203,Foul on Kamiyah Street.,8,8,0,0,0.5,Kennesaw State,Mercer,4,4,1,0,NA,401174217,2019-11-13,
+26,1,6:43,2203,2203,Official TV Timeout,8,8,0,0,0.5,Kennesaw State,Mercer,4,4,1,0,NA,401174217,2019-11-13,
+27,1,6:43,2203,2203,Kennesaw State  Timeout,8,8,0,0,0.5,Kennesaw State,Mercer,3,4,1,0,NA,401174217,2019-11-13,
+28,1,6:43,2203,2203,Jordan McLaughlin missed Free Throw.,8,8,0,0,0.5,Kennesaw State,Mercer,3,4,1,0,NA,401174217,2019-11-13,
+29,1,6:43,2203,2203,Mercer Deadball Team Rebound.,8,8,0,0,0.5,Kennesaw State,Mercer,3,4,1,0,NA,401174217,2019-11-13,
+30,1,6:43,2203,2203,Jordan McLaughlin made Free Throw.,8,9,-1,21,0.47575208439623795,Kennesaw State,Mercer,3,4,1,0,NA,401174217,2019-11-13,Mercer
+31,1,6:22,2182,2182,Kamiyah Street missed Three Point Jumper.,8,9,-1,4,0.4755087866646665,Kennesaw State,Mercer,3,4,1,0,NA,401174217,2019-11-13,
+32,1,6:18,2178,2178,Amani Johnson Offensive Rebound.,8,9,-1,6,0.47546233113639524,Kennesaw State,Mercer,3,4,1,0,NA,401174217,2019-11-13,
+33,1,6:12,2172,2172,Carlotta Gianolla made Jumper.,10,9,1,20,0.5246074118573106,Kennesaw State,Mercer,3,4,1,0,NA,401174217,2019-11-13,Kennesaw State
+34,1,5:52,2152,2152,Shannon Titus missed Jumper.,10,9,1,3,0.524840689840124,Kennesaw State,Mercer,3,4,1,0,NA,401174217,2019-11-13,
+35,1,5:49,2149,2149,Alexis Poole Defensive Rebound.,10,9,1,22,0.5248758162880408,Kennesaw State,Mercer,3,4,1,0,NA,401174217,2019-11-13,
+36,1,5:27,2127,2127,Amani Johnson made Three Point Jumper. Assisted by Carlotta Gianolla.,13,9,4,18,0.5992862919891592,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+37,1,5:09,2109,2109,Jaron Dougherty made Jumper.,13,11,2,19,0.5505657434540481,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,Mercer
+38,1,4:50,2090,2090,Alexis Poole Turnover.,13,11,2,0,0.5510158552260809,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+39,1,4:50,2090,2090,Tia Benvenuti Steal.,13,11,2,22,0.5510158552260809,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+40,1,4:28,2068,2068,Jordan McLaughlin missed Layup.,13,11,2,1,0.5515415163875809,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+41,1,4:27,2067,2067,Carlotta Gianolla Defensive Rebound.,13,11,2,0,0.5515655296841933,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+42,1,4:27,2067,2067,Foul on Jordan McLaughlin.,13,11,2,16,0.5515655296841933,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+43,1,4:11,2051,2051,Amani Johnson missed Layup.,13,11,2,0,0.5519512161186146,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+44,1,4:11,2051,2051,Jaron Dougherty Block.,13,11,2,6,0.5519512161186146,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+45,1,4:05,2045,2045,Sierra Votaw Defensive Rebound.,13,11,2,0,0.5520965806367524,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+46,1,4:05,2045,2045,Sierra Votaw Turnover.,13,11,2,14,0.5520965806367524,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+47,1,3:51,2031,2031,Kamiyah Street made Layup.,15,11,4,0,0.6037338089534718,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+48,1,3:51,2031,2031,Foul on Jaron Dougherty.,15,11,4,0,0.6037338089534718,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+49,1,3:51,2031,2031,Kamiyah Street made Free Throw.,16,11,5,19,0.6286218347827178,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+50,1,3:32,2012,2012,Jordan McLaughlin Turnover.,16,11,5,0,0.6297218571895741,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+51,1,3:32,2012,2012,Amani Johnson Steal.,16,11,5,5,0.6297218571895741,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+52,1,3:27,2007,2007,Kamiyah Street made Layup. Assisted by Amani Johnson.,18,11,7,18,0.6781277577989104,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+53,1,3:09,1989,1989,Foul on Gillian Piccolino.,18,11,7,9,0.6795078867270532,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+54,1,3:00,1980,1980,Tia Benvenuti missed Three Point Jumper.,18,11,7,2,0.680201808718881,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+55,1,2:58,1978,1978,Kennesaw State Defensive Rebound.,18,11,7,14,0.6803563719538596,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+56,1,2:44,1964,1964,Kamiyah Street made Layup.,20,11,9,18,0.726644825158809,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+57,1,2:26,1946,1946,Shannon Titus missed Jumper.,20,11,9,4,0.7282974188067917,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+58,1,2:22,1942,1942,Jaron Dougherty Offensive Rebound.,20,11,9,3,0.7286661611683417,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+59,1,2:19,1939,1939,Shannon Titus missed Jumper.,20,11,9,2,0.7289430830956268,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+60,1,2:17,1937,1937,Jaron Dougherty Offensive Rebound.,20,11,9,0,0.7291278728463954,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+61,1,2:17,1937,1937,Jaron Dougherty missed Layup.,20,11,9,0,0.7291278728463954,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+62,1,2:17,1937,1937,Carlotta Gianolla Defensive Rebound.,20,11,9,0,0.7291278728463954,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+63,1,2:17,1937,1937,Foul on Shannon Titus.,20,11,9,0,0.7291278728463954,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+64,1,2:17,1937,1937,Carlotta Gianolla made Free Throw.,21,11,10,0,0.7503022138149874,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+65,1,2:17,1937,1937,Carlotta Gianolla made Free Throw.,22,11,11,17,0.7703426889160847,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+66,1,2:00,1920,1920,Tia Benvenuti missed Jumper.,22,11,11,1,0.772063273018617,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+67,1,1:59,1919,1919,Kennesaw State Defensive Rebound.,22,11,11,12,0.7721641617209177,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+68,1,1:47,1907,1907,Foul on Amoria Neal-Tysor.,22,11,11,0,0.7733714815057213,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+69,1,1:47,1907,1907,Kamiyah Street made Free Throw.,23,11,12,0,0.7923309442217102,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+70,1,1:47,1907,1907,Kamiyah Street made Free Throw.,24,11,13,13,0.8100937646904125,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+71,1,1:34,1894,1894,Amoria Neal-Tysor missed Three Point Jumper.,24,11,13,4,0.8114432602143538,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+72,1,1:30,1890,1890,Alexis Poole Defensive Rebound.,24,11,13,11,0.8118569926842558,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+73,1,1:19,1879,1879,Foul on Tia Benvenuti.,26,11,15,0,0.8449663387769794,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+74,1,1:19,1879,1879,Gillian Piccolino made Free Throw.,27,11,16,12,0.8592044619310101,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+75,1,1:07,1867,1867,Foul on Gillian Piccolino.,27,11,16,19,0.860410901838925,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+76,1,0:48,1848,1848,Jaron Dougherty missed Jumper.,27,11,16,5,0.8623089045121349,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+77,1,0:43,1843,1843,Breanna Hoover Defensive Rebound.,27,11,16,16,0.8628063091506367,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+78,1,0:27,1827,1827,Kamiyah Street missed Three Point Jumper.,27,11,16,3,0.8643934576074987,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+79,1,0:24,1824,1824,Simina Avram Offensive Rebound.,27,11,16,2,0.8646904003695657,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+80,1,0:22,1822,1822,Kamiyah Street missed Jumper.,27,11,16,2,0.8648882672702196,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+81,1,0:20,1820,1820,Jordan McLaughlin Defensive Rebound.,27,11,16,1,0.8650860631214297,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+82,1,0:19,1819,1819,Jordan McLaughlin Turnover.,27,11,16,17,0.8651849357098247,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+83,1,0:02,1802,1802,Breanna Hoover missed Three Point Jumper.,27,11,16,1,0.8668637104289874,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+84,1,0:01,1801,1801,Mercer Defensive Rebound.,27,11,16,1,0.8669623696728581,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+85,1,0:00,1800,1800,End of 1st Quarter,27,11,16,9,0.8670610218404036,Kennesaw State,Mercer,3,4,0,0,NA,401174217,2019-11-13,
+86,2,9:51,1791,1791,Amoria Neal-Tysor Turnover.,27,11,16,14,0.8679486538532358,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+87,2,9:37,1777,1777,Alexis Poole made Jumper.,29,11,18,21,0.893967203280488,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+88,2,9:16,1756,1756,Jaron Dougherty made Jumper. Assisted by Tia Benvenuti.,29,13,16,14,0.8714019698107173,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Mercer
+89,2,9:02,1742,1742,Carlotta Gianolla Turnover.,29,13,16,21,0.8727869311647205,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+90,2,8:41,1721,1721,Amoria Neal-Tysor missed Jumper.,29,13,16,2,0.8748719094472222,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+91,2,8:39,1719,1719,Carlotta Gianolla Defensive Rebound.,29,13,16,11,0.875071063465534,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+92,2,8:28,1708,1708,Carlotta Gianolla made Layup.,31,13,18,12,0.900358709961552,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+93,2,8:16,1696,1696,Amoria Neal-Tysor made Three Point Jumper. Assisted by PJ Wintermyer.,31,16,15,18,0.863512448924702,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Mercer
+94,2,7:58,1678,1678,Gillian Piccolino missed Three Point Jumper.,31,16,15,4,0.8653554968671194,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+95,2,7:54,1674,1674,Amoria Neal-Tysor Defensive Rebound.,31,16,15,8,0.8657565962439819,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+96,2,7:46,1666,1666,PJ Wintermyer missed Jumper.,31,16,15,3,0.8665493795271408,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+97,2,7:43,1663,1663,Kamiyah Street Defensive Rebound.,31,16,15,6,0.8668436167135014,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+98,2,7:37,1657,1657,Breanna Hoover missed Three Point Jumper.,31,16,15,3,0.867427419135041,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+99,2,7:34,1654,1654,Summer Pahl Defensive Rebound.,31,16,15,8,0.8677170993383851,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+100,2,7:26,1646,1646,PJ Wintermyer missed Jumper.,31,16,15,3,0.868482865609292,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+101,2,7:23,1643,1643,Shannon Titus Offensive Rebound.,31,16,15,1,0.8687676701994949,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+102,2,7:22,1642,1642,Shannon Titus made Layup.,31,18,13,12,0.8373732364952502,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Mercer
+103,2,7:10,1630,1630,Amani Johnson Turnover.,31,18,13,0,0.8385407970221687,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+104,2,7:10,1630,1630,Shannon Titus Steal.,31,18,13,7,0.8385407970221687,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+105,2,7:03,1623,1623,Foul on Alexis Poole.,31,18,13,0,0.8392150694203256,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+106,2,7:03,1623,1623,Shannon Titus made Free Throw.,31,19,12,0,0.8213163937675184,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Mercer
+107,2,7:03,1623,1623,Shannon Titus made Free Throw.,31,20,11,11,0.8018955726217861,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Mercer
+108,2,6:52,1612,1612,Simina Avram made Layup. Assisted by Carlotta Gianolla.,33,20,13,15,0.8402665037978526,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+109,2,6:37,1597,1597,Shannon Titus missed Jumper.,33,20,13,4,0.8416884802100812,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+110,2,6:33,1593,1593,Kamiyah Street Defensive Rebound.,33,20,13,9,0.8420661109660711,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+111,2,6:24,1584,1584,Carlotta Gianolla missed Jumper.,33,20,13,5,0.8429144120334487,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+112,2,6:19,1579,1579,Shannon Titus Defensive Rebound.,33,20,13,6,0.8433852647085467,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+113,2,6:13,1573,1573,Shannon Titus missed Jumper.,33,20,13,2,0.8439502932331009,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+114,2,6:11,1571,1571,Jordan McLaughlin Offensive Rebound.,33,20,13,0,0.8441387007417078,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+115,2,6:11,1571,1571,Jordan McLaughlin missed Jumper.,33,20,13,0,0.8441387007417078,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+116,2,6:11,1571,1571,Kennesaw State Deadball Team Rebound.,33,20,13,0,0.8441387007417078,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+117,2,6:11,1571,1571,Foul on Summer Pahl.,33,20,13,10,0.8441387007417078,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+118,2,6:01,1561,1561,Kamiyah Street missed Jumper.,33,20,13,1,0.8450818737618829,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+119,2,6:00,1560,1560,Simina Avram Offensive Rebound.,33,20,13,15,0.8451763377904943,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+120,2,5:45,1545,1545,Breanna Hoover Turnover.,33,20,13,0,0.8465983328171296,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+121,2,5:45,1545,1545,Jordan McLaughlin Steal.,33,20,13,12,0.8465983328171296,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+122,2,5:33,1533,1533,Jaron Dougherty missed Jumper.,33,20,13,2,0.8477453360636898,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+123,2,5:31,1531,1531,Kamiyah Street Defensive Rebound.,33,20,13,5,0.8479375459670359,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+124,2,5:26,1526,1526,Breanna Hoover Turnover.,33,20,13,0,0.8484195585261363,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+125,2,5:26,1526,1526,Jaron Dougherty Steal.,33,20,13,4,0.8484195585261363,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+126,2,5:22,1522,1522,Foul on Kamiyah Street.,33,20,13,0,0.8488068071888634,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+127,2,5:22,1522,1522,Jordan McLaughlin missed Free Throw.,33,20,13,0,0.8488068071888634,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+128,2,5:22,1522,1522,Mercer Deadball Team Rebound.,33,20,13,0,0.8488068071888634,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+129,2,5:22,1522,1522,Jordan McLaughlin missed Free Throw.,33,20,13,1,0.8488068071888634,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+130,2,5:21,1521,1521,Carlotta Gianolla Defensive Rebound.,33,20,13,15,0.8489038605135893,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+131,2,5:06,1506,1506,Amani Johnson made Three Point Jumper.,36,20,16,19,0.8945886082199745,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+132,2,4:47,1487,1487,Tia Benvenuti missed Jumper.,36,20,16,4,0.8963189079703024,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+133,2,4:43,1483,1483,Mercer Deadball Team Rebound.,36,20,16,0,0.8966883213680262,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+134,2,4:43,1483,1483,Foul on Amani Johnson.,36,20,16,0,0.8966883213680262,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+135,2,4:43,1483,1483,Official TV Timeout,36,20,16,15,0.8966883213680262,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+136,2,4:28,1468,1468,Jaron Dougherty made Jumper.,36,22,14,0,0.8703632639319053,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Mercer
+137,2,4:28,1468,1468,Foul on Carlotta Gianolla.,36,22,14,1,0.8703632639319053,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+138,2,4:27,1467,1467,Jaron Dougherty missed Free Throw.,36,22,14,1,0.8704653642096585,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+139,2,4:26,1466,1466,Shannon Titus Offensive Rebound.,36,22,14,9,0.8705676328294495,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+140,2,4:17,1457,1457,PJ Wintermyer missed Three Point Jumper.,36,22,14,4,0.871495836531094,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+141,2,4:13,1453,1453,Jaron Dougherty Offensive Rebound.,36,22,14,1,0.8719130226266979,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+142,2,4:12,1452,1452,Jaron Dougherty missed Jumper.,36,22,14,2,0.8720177807910346,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+143,2,4:10,1450,1450,Jaron Dougherty Offensive Rebound.,36,22,14,9,0.8722278595814617,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+144,2,4:01,1441,1441,Jaron Dougherty made Jumper. Assisted by Shannon Titus.,36,24,12,34,0.8393786134976391,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Mercer
+145,2,3:27,1407,1407,Carlotta Gianolla missed Jumper.,36,24,12,5,0.8428734377258144,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+146,2,3:22,1402,1402,Breanna Hoover Offensive Rebound.,36,24,12,3,0.8433678871255318,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+147,2,3:19,1399,1399,Alexis Poole missed Layup.,36,24,12,0,0.8436627208733861,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+148,2,3:19,1399,1399,Alexis Poole Offensive Rebound.,36,24,12,0,0.8436627208733861,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+149,2,3:19,1399,1399,Foul on PJ Wintermyer.,36,24,12,1,0.8436627208733861,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+150,2,3:18,1398,1398,Alexis Poole made Free Throw.,37,24,13,0,0.8614063686104148,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+151,2,3:18,1398,1398,Alexis Poole made Free Throw.,38,24,14,14,0.8773488182134527,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+152,2,3:04,1384,1384,Tia Benvenuti missed Jumper.,38,24,14,3,0.8786416274332238,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+153,2,3:01,1381,1381,Alexis Poole Defensive Rebound.,38,24,14,14,0.8789157918302966,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+154,2,2:47,1367,1367,Carlotta Gianolla missed Layup.,38,24,14,0,0.880185578284811,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+155,2,2:47,1367,1367,Jaron Dougherty Block.,38,24,14,1,0.880185578284811,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+156,2,2:46,1366,1366,Carlotta Gianolla Offensive Rebound.,38,24,14,0,0.8802758029546027,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+157,2,2:46,1366,1366,Foul on Shannon Titus.,38,24,14,2,0.8802758029546027,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+158,2,2:44,1364,1364,Foul on Amoria Neal-Tysor.,38,24,14,0,0.8804561124007745,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+159,2,2:44,1364,1364,Gillian Piccolino made Free Throw.,39,24,15,0,0.8946723867573091,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+160,2,2:44,1364,1364,Gillian Piccolino made Free Throw.,40,24,16,8,0.9073759007786426,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+161,2,2:36,1356,1356,Amoria Neal-Tysor Turnover.,40,24,16,7,0.908032384731017,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+162,2,2:29,1349,1349,Carlotta Gianolla missed Jumper.,40,24,16,3,0.908605227238946,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+163,2,2:26,1346,1346,Alexis Poole Offensive Rebound.,40,24,16,12,0.9088505100977843,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+164,2,2:14,1334,1334,Alexis Poole missed Layup.,40,24,16,4,0.9098319650287928,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+165,2,2:10,1330,1330,Jaron Dougherty Defensive Rebound.,40,24,16,3,0.9101597273173193,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+166,2,2:07,1327,1327,PJ Wintermyer missed Three Point Jumper.,40,24,16,4,0.9104059089544975,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+167,2,2:03,1323,1323,Kamiyah Street Defensive Rebound.,40,24,16,7,0.9107347517001749,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+168,2,1:56,1316,1316,Kamiyah Street missed Layup.,40,24,16,2,0.9113122934954465,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+169,2,1:54,1314,1314,Carlotta Gianolla Offensive Rebound.,40,24,16,1,0.911477877468569,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+170,2,1:53,1313,1313,Carlotta Gianolla made Jumper.,42,24,18,24,0.9324185347979415,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+171,2,1:29,1289,1289,Tia Benvenuti Turnover.,42,24,18,12,0.9341886143373409,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+172,2,1:17,1277,1277,Breanna Hoover missed Three Point Jumper.,42,24,18,4,0.9350930929965843,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+173,2,1:13,1273,1273,Mercer Deadball Team Rebound.,42,24,18,0,0.9353981823515286,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+174,2,1:13,1273,1273,Foul on Breanna Hoover.,42,24,18,0,0.9353981823515286,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+175,2,1:13,1273,1273,Jordan McLaughlin made Free Throw.,42,25,17,1,0.9258240868245236,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Mercer
+176,2,1:12,1272,1272,Jordan McLaughlin missed Free Throw.,42,25,17,2,0.9259062800093086,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+177,2,1:10,1270,1270,Alexis Poole Defensive Rebound.,42,25,17,10,0.926071089520118,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+178,2,1:00,1260,1260,Breanna Hoover missed Three Point Jumper.,42,25,17,5,0.9269040271738699,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+179,2,0:55,1255,1255,Carlotta Gianolla Offensive Rebound.,42,25,17,13,0.9273263916139759,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+180,2,0:42,1242,1242,Foul on Tia Benvenuti.,42,25,17,0,0.9284445901089418,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+181,2,0:42,1242,1242,Amani Johnson missed Free Throw.,42,25,17,0,0.9284445901089418,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+182,2,0:42,1242,1242,Kennesaw State Deadball Team Rebound.,42,25,17,0,0.9284445901089418,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+183,2,0:42,1242,1242,Amani Johnson made Free Throw.,43,25,18,12,0.9378363804273697,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+184,2,0:30,1230,1230,Jaron Dougherty missed Jumper.,43,25,18,4,0.9388207314076296,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+185,2,0:26,1226,1226,Simina Avram Defensive Rebound.,43,25,18,26,0.9391544823660346,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+186,2,0:00,1200,1200,Amani Johnson missed Three Point Jumper.,43,25,18,0,0.9413727903516481,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+187,2,0:00,1200,1200,Mercer Deadball Team Rebound.,43,25,18,0,0.9413727903516481,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+188,2,0:00,1200,1200,End of 2nd Quarter,43,25,18,9,0.9413727903516481,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+189,3,9:51,1191,1191,Cierra Scott Turnover.,43,25,18,0,0.9421168320924971,Kennesaw State,Mercer,5,5,0,0,NA,401174217,2019-11-13,
+190,3,9:51,1191,1191,Alexis Poole Steal.,43,25,18,12,0.9421168320924971,Kennesaw State,Mercer,5,5,0,0,NA,401174217,2019-11-13,
+191,3,9:39,1179,1179,Gillian Piccolino missed Three Point Jumper.,43,25,18,6,0.9430779872136906,Kennesaw State,Mercer,5,5,0,0,NA,401174217,2019-11-13,
+192,3,9:33,1173,1173,Jaron Dougherty Defensive Rebound.,43,25,18,8,0.9435469146784554,Kennesaw State,Mercer,5,5,0,0,NA,401174217,2019-11-13,
+193,3,9:25,1165,1165,Jaron Dougherty made Jumper. Assisted by Cierra Scott.,43,27,16,24,0.9250919302138298,Kennesaw State,Mercer,5,5,0,0,NA,401174217,2019-11-13,Mercer
+194,3,9:01,1141,1141,Amani Johnson missed Three Point Jumper.,43,27,16,2,0.9271834359854608,Kennesaw State,Mercer,5,5,0,0,NA,401174217,2019-11-13,
+195,3,8:59,1139,1139,Carlotta Gianolla Offensive Rebound.,43,27,16,1,0.9273545265772561,Kennesaw State,Mercer,5,5,0,0,NA,401174217,2019-11-13,
+196,3,8:58,1138,1138,Carlotta Gianolla made Jumper.,45,27,18,16,0.9461661074565292,Kennesaw State,Mercer,5,5,0,0,NA,401174217,2019-11-13,Kennesaw State
+197,3,8:42,1122,1122,Foul on Alexis Poole.,45,27,18,14,0.9473190886326773,Kennesaw State,Mercer,5,5,0,0,NA,401174217,2019-11-13,
+198,3,8:28,1108,1108,Jaron Dougherty missed Layup.,45,27,18,0,0.9483168022489761,Kennesaw State,Mercer,5,5,0,0,NA,401174217,2019-11-13,
+199,3,8:28,1108,1108,Simina Avram Block.,45,27,18,5,0.9483168022489761,Kennesaw State,Mercer,5,5,0,0,NA,401174217,2019-11-13,
+200,3,8:23,1103,1103,Carlotta Gianolla Defensive Rebound.,45,27,18,12,0.9486719091693143,Kennesaw State,Mercer,5,5,0,0,NA,401174217,2019-11-13,
+201,3,8:11,1091,1091,Carlotta Gianolla made Layup. Assisted by Kamiyah Street.,47,27,20,9,0.963048988227645,Kennesaw State,Mercer,5,5,0,0,NA,401174217,2019-11-13,Kennesaw State
+202,3,8:02,1082,1082,Summer Pahl made Jumper. Assisted by Jordan McLaughlin.,47,29,18,2,0.9501642723742063,Kennesaw State,Mercer,5,5,0,0,NA,401174217,2019-11-13,Mercer
+203,3,8:00,1080,1080,Mercer  Timeout,47,29,18,0,0.9503069187785878,Kennesaw State,Mercer,5,4,0,1,NA,401174217,2019-11-13,
+204,3,8:00,1080,1080,Official TV Timeout,47,29,18,4,0.9503069187785878,Kennesaw State,Mercer,5,4,0,1,NA,401174217,2019-11-13,
+205,3,7:56,1076,1076,Foul on Jordan McLaughlin.,47,29,18,0,0.9505926915980802,Kennesaw State,Mercer,5,4,0,1,NA,401174217,2019-11-13,
+206,3,7:56,1076,1076,Kamiyah Street made Free Throw.,48,29,19,0,0.9577614081370223,Kennesaw State,Mercer,5,4,0,1,NA,401174217,2019-11-13,Kennesaw State
+207,3,7:56,1076,1076,Kamiyah Street made Free Throw.,49,29,20,12,0.9639294535317978,Kennesaw State,Mercer,5,4,0,1,NA,401174217,2019-11-13,Kennesaw State
+208,3,7:44,1064,1064,Jill Harris missed Three Point Jumper.,49,29,20,6,0.9646378291399527,Kennesaw State,Mercer,5,4,0,1,NA,401174217,2019-11-13,
+209,3,7:38,1058,1058,Amoria Neal-Tysor Offensive Rebound.,49,29,20,0,0.9649942006329175,Kennesaw State,Mercer,5,4,0,1,NA,401174217,2019-11-13,
+210,3,7:38,1058,1058,Amoria Neal-Tysor Turnover.,49,29,20,0,0.9649942006329175,Kennesaw State,Mercer,5,4,0,1,NA,401174217,2019-11-13,
+211,3,7:38,1058,1058,Amani Johnson Steal.,49,29,20,5,0.9649942006329175,Kennesaw State,Mercer,5,4,0,1,NA,401174217,2019-11-13,
+212,3,7:33,1053,1053,Kamiyah Street made Layup.,51,29,22,30,0.9748646910739664,Kennesaw State,Mercer,5,4,0,1,NA,401174217,2019-11-13,Kennesaw State
+213,3,7:03,1023,1023,Shannon Titus missed Jumper.,51,29,22,2,0.9763283676334465,Kennesaw State,Mercer,5,4,0,1,NA,401174217,2019-11-13,
+214,3,7:01,1021,1021,Carlotta Gianolla Defensive Rebound.,51,29,22,17,0.9764276341363842,Kennesaw State,Mercer,5,4,0,1,NA,401174217,2019-11-13,
+215,3,6:44,1004,1004,Carlotta Gianolla made Layup. Assisted by Gillian Piccolino.,53,29,24,8,0.9837545223628487,Kennesaw State,Mercer,5,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+216,3,6:36,996,996,Mercer  Timeout,53,29,24,0,0.9840750549438698,Kennesaw State,Mercer,5,3,0,1,NA,401174217,2019-11-13,
+217,3,6:36,996,996,Official TV Timeout,53,29,24,10,0.9840750549438698,Kennesaw State,Mercer,5,3,0,1,NA,401174217,2019-11-13,
+218,3,6:26,986,986,Foul on Gillian Piccolino.,53,29,24,0,0.9844798956413738,Kennesaw State,Mercer,5,3,0,1,NA,401174217,2019-11-13,
+219,3,6:26,986,986,Jordan McLaughlin missed Free Throw.,53,29,24,0,0.9844798956413738,Kennesaw State,Mercer,5,3,0,1,NA,401174217,2019-11-13,
+220,3,6:26,986,986,Mercer Deadball Team Rebound.,53,29,24,0,0.9844798956413738,Kennesaw State,Mercer,5,3,0,1,NA,401174217,2019-11-13,
+221,3,6:26,986,986,Jordan McLaughlin made Free Throw.,53,30,23,11,0.9816041228123609,Kennesaw State,Mercer,5,3,0,1,NA,401174217,2019-11-13,Mercer
+222,3,6:15,975,975,Kennesaw State  Timeout,53,30,23,0,0.9821150627315247,Kennesaw State,Mercer,4,3,1,1,NA,401174217,2019-11-13,
+223,3,6:15,975,975,Official TV Timeout,53,30,23,17,0.9821150627315247,Kennesaw State,Mercer,4,3,1,1,NA,401174217,2019-11-13,
+224,3,5:58,958,958,Gillian Piccolino missed Three Point Jumper.,53,30,23,3,0.9828871770700097,Kennesaw State,Mercer,4,3,1,1,NA,401174217,2019-11-13,
+225,3,5:55,955,955,Shannon Titus Defensive Rebound.,53,30,23,3,0.9830135445497147,Kennesaw State,Mercer,4,3,1,1,NA,401174217,2019-11-13,
+226,3,5:52,952,952,Shannon Titus made Layup.,53,32,21,20,0.9761560812808174,Kennesaw State,Mercer,4,3,1,1,NA,401174217,2019-11-13,Mercer
+227,3,5:32,932,932,Carlotta Gianolla missed Layup.,53,32,21,3,0.9771294389699732,Kennesaw State,Mercer,4,3,1,0,NA,401174217,2019-11-13,
+228,3,5:29,929,929,Shannon Titus Defensive Rebound.,53,32,21,13,0.9772648923081292,Kennesaw State,Mercer,4,3,1,0,NA,401174217,2019-11-13,
+229,3,5:16,916,916,Shannon Titus missed Jumper.,53,32,21,3,0.9778263511506147,Kennesaw State,Mercer,4,3,1,0,NA,401174217,2019-11-13,
+230,3,5:13,913,913,Amani Johnson Defensive Rebound.,53,32,21,10,0.977950745482424,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+231,3,5:03,903,903,Kamiyah Street missed Three Point Jumper.,53,32,21,2,0.9783538916849501,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+232,3,5:01,901,901,Shannon Titus Defensive Rebound.,53,32,21,6,0.9784326519923782,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+233,3,4:55,895,895,Shannon Titus missed Layup.,53,32,21,5,0.9786657841592458,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+234,3,4:50,890,890,Jaron Dougherty Offensive Rebound.,53,32,21,0,0.9788569218686902,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+235,3,4:50,890,890,Jaron Dougherty made Layup.,53,34,19,14,0.9698169803013962,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,Mercer
+236,3,4:36,876,876,Carlotta Gianolla made Layup. Assisted by Amani Johnson.,55,34,21,12,0.9793810931277306,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,Kennesaw State
+237,3,4:24,864,864,Summer Pahl Turnover.,55,34,21,19,0.9798231561093238,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+238,3,4:05,845,845,Amani Johnson made Jumper. Assisted by Alexis Poole.,57,34,23,24,0.9865085742893681,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,Kennesaw State
+239,3,3:41,821,821,Sierra Votaw made Jumper. Assisted by Jaron Dougherty.,57,36,21,15,0.9814365190880805,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,Mercer
+240,3,3:26,806,806,Alexis Poole made Layup.,59,36,23,21,0.9876582965843971,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,Kennesaw State
+241,3,3:05,785,785,Jordan McLaughlin Turnover.,59,36,23,0,0.9883314549959673,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+242,3,3:05,785,785,Kamiyah Street Steal.,59,36,23,3,0.9883314549959673,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+243,3,3:02,782,782,Kamiyah Street made Layup.,61,36,25,7,0.992112888084779,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,Kennesaw State
+244,3,2:55,775,775,Jaron Dougherty made Jumper.,61,38,23,15,0.988669199069508,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,Mercer
+245,3,2:40,760,760,Alexis Poole made Layup. Assisted by Carlotta Gianolla.,63,38,25,17,0.9926813090668517,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,Kennesaw State
+246,3,2:23,743,743,Alexis Poole Defensive Rebound.,63,38,25,10,0.9931473929734062,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+247,3,2:13,733,733,Carlotta Gianolla made Layup.,65,38,27,0,0.9955943940216452,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,Kennesaw State
+248,3,2:13,733,733,Foul on Sierra Votaw.,65,38,27,0,0.9955943940216452,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+249,3,2:13,733,733,Carlotta Gianolla made Free Throw.,66,38,28,24,0.9963928369156501,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,Kennesaw State
+250,3,1:49,709,709,Amoria Neal-Tysor made Three Point Jumper. Assisted by Jaron Dougherty.,66,41,25,19,0.9940588366147931,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,Mercer
+251,3,1:30,690,690,Alexis Poole Turnover.,66,41,25,0,0.9944571584196371,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+252,3,1:30,690,690,Summer Pahl Steal.,66,41,25,5,0.9944571584196371,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+253,3,1:25,685,685,Amoria Neal-Tysor missed Layup.,66,41,25,1,0.9945521185579838,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+254,3,1:24,684,684,Kennesaw State Defensive Rebound.,66,41,25,13,0.9945707220821328,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+255,3,1:11,671,671,Alexis Poole missed Jumper.,66,41,25,3,0.9948029195781326,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+256,3,1:08,668,668,Jaron Dougherty Defensive Rebound.,66,41,25,4,0.9948544300971973,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+257,3,1:04,664,664,Tia Benvenuti made Three Point Jumper. Assisted by Jill Harris.,66,44,22,26,0.9904767745743097,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,Mercer
+258,3,0:38,638,638,Foul on Kamiyah Street.,66,44,22,0,0.9911827976261788,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+259,3,0:38,638,638,Kamiyah Street Turnover.,66,44,22,16,0.9911827976261788,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+260,3,0:22,622,622,Tia Benvenuti missed Three Point Jumper.,66,44,22,2,0.9916228495662984,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+261,3,0:20,620,620,Amani Johnson Defensive Rebound.,66,44,22,16,0.9916790383295592,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+262,3,0:04,604,604,Amani Johnson missed Jumper.,66,44,22,2,0.9921421901278161,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+263,3,0:02,602,602,Simina Avram Offensive Rebound.,66,44,22,1,0.9922020373889274,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+264,3,0:01,601,601,Simina Avram missed Jumper.,66,44,22,1,0.9922321405734464,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+265,3,0:00,600,600,Jaron Dougherty Defensive Rebound.,66,44,22,0,0.9922623654244541,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+266,3,0:00,600,600,End of 3rd Quarter,66,44,22,10,0.9922623654244541,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+267,4,9:50,590,590,Kamiyah Street Turnover.,66,44,22,0,0.9925715830358458,Kennesaw State,Mercer,5,4,0,0,NA,401174217,2019-11-13,
+268,4,9:50,590,590,Jaron Dougherty Steal.,66,44,22,8,0.9925715830358458,Kennesaw State,Mercer,5,4,0,0,NA,401174217,2019-11-13,
+269,4,9:42,582,582,Jordan McLaughlin made Layup.,66,46,20,30,0.9888181981644193,Kennesaw State,Mercer,5,4,0,0,NA,401174217,2019-11-13,Mercer
+270,4,9:12,552,552,Amani Johnson made Three Point Jumper. Assisted by Kamiyah Street.,69,46,23,12,0.9951289912711244,Kennesaw State,Mercer,5,4,0,0,NA,401174217,2019-11-13,Kennesaw State
+271,4,9:00,540,540,Amoria Neal-Tysor made Jumper.,69,48,21,19,0.9927792730586441,Kennesaw State,Mercer,5,4,0,0,NA,401174217,2019-11-13,Mercer
+272,4,8:41,521,521,Amani Johnson Turnover.,69,48,21,0,0.9933965180867345,Kennesaw State,Mercer,5,4,0,0,NA,401174217,2019-11-13,
+273,4,8:41,521,521,Jordan McLaughlin Steal.,69,48,21,4,0.9933965180867345,Kennesaw State,Mercer,5,4,0,0,NA,401174217,2019-11-13,
+274,4,8:37,517,517,Amoria Neal-Tysor made Layup.,69,50,19,1,0.9895614690732334,Kennesaw State,Mercer,5,4,0,0,NA,401174217,2019-11-13,Mercer
+275,4,8:36,516,516,Kennesaw State  Timeout,69,50,19,0,0.9896014503130467,Kennesaw State,Mercer,4,4,1,0,NA,401174217,2019-11-13,
+276,4,8:36,516,516,Official TV Timeout,69,50,19,14,0.9896014503130467,Kennesaw State,Mercer,4,4,1,0,NA,401174217,2019-11-13,
+277,4,8:22,502,502,Carlotta Gianolla made Jumper. Assisted by Gillian Piccolino.,71,50,21,12,0.993904179217052,Kennesaw State,Mercer,4,4,1,0,NA,401174217,2019-11-13,Kennesaw State
+278,4,8:10,490,490,Amoria Neal-Tysor made Jumper.,71,52,19,6,0.9905765670230936,Kennesaw State,Mercer,4,4,1,0,NA,401174217,2019-11-13,Mercer
+279,4,8:04,484,484,Foul on Jordan McLaughlin.,71,52,19,25,0.9907993064168402,Kennesaw State,Mercer,4,4,1,0,NA,401174217,2019-11-13,
+280,4,7:39,459,459,Kamiyah Street missed Jumper.,71,52,19,4,0.9918018474804728,Kennesaw State,Mercer,4,4,1,0,NA,401174217,2019-11-13,
+281,4,7:35,455,455,Jill Harris Defensive Rebound.,71,52,19,5,0.9919787173886732,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,
+282,4,7:30,450,450,Amoria Neal-Tysor made Jumper.,71,54,17,22,0.9870878237856268,Kennesaw State,Mercer,4,4,0,0,NA,401174217,2019-11-13,Mercer
+283,4,7:08,428,428,Foul on Jill Harris.,71,54,17,0,0.988739324164975,Kennesaw State,Mercer,4,4,0,1,NA,401174217,2019-11-13,
+284,4,7:08,428,428,Mercer  Timeout,71,54,17,2,0.988739324164975,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+285,4,7:06,426,426,Amani Johnson Turnover.,71,54,17,0,0.9888933764656064,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+286,4,7:06,426,426,Shannon Titus Steal.,71,54,17,3,0.9888933764656064,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+287,4,7:03,423,423,Shannon Titus Turnover.,71,54,17,0,0.9891165393484271,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+288,4,7:03,423,423,Amani Johnson Steal.,71,54,17,21,0.9891165393484271,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+289,4,6:42,402,402,Gillian Piccolino Turnover.,71,54,17,0,0.9904765888886697,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+290,4,6:42,402,402,Amoria Neal-Tysor Steal.,71,54,17,3,0.9904765888886697,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+291,4,6:39,399,399,Amoria Neal-Tysor missed Layup.,71,54,17,0,0.9906501229486772,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+292,4,6:39,399,399,Kamiyah Street Block.,71,54,17,0,0.9906501229486772,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+293,4,6:39,399,399,Mercer Offensive Rebound.,71,54,17,6,0.9906501229486772,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+294,4,6:33,393,393,Shannon Titus missed Jumper.,71,54,17,2,0.990987282128644,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+295,4,6:31,391,391,Alexis Poole Defensive Rebound.,71,54,17,0,0.9910972470442995,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+296,4,6:31,391,391,Alexis Poole Turnover.,71,54,17,4,0.9910972470442995,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+297,4,6:27,387,387,Shannon Titus missed Jumper.,71,54,17,0,0.9913143182228288,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+298,4,6:27,387,387,Alexis Poole Block.,71,54,17,0,0.9913143182228288,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+299,4,6:27,387,387,Mercer Offensive Rebound.,71,54,17,9,0.9913143182228288,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+300,4,6:18,378,378,Jaron Dougherty missed Layup.,71,54,17,3,0.9917929545784134,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+301,4,6:15,375,375,Kamiyah Street Defensive Rebound.,71,54,17,4,0.9919507100141916,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+302,4,6:11,371,371,Kamiyah Street Turnover.,71,54,17,0,0.9921604801854633,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+303,4,6:11,371,371,Jill Harris Steal.,71,54,17,11,0.9921604801854633,Kennesaw State,Mercer,4,3,0,1,NA,401174217,2019-11-13,
+304,4,6:00,360,360,Summer Pahl missed Jumper.,71,54,17,3,0.9927383439046613,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+305,4,5:57,357,357,Alexis Poole Defensive Rebound.,71,54,17,16,0.9928970923734288,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+306,4,5:41,341,341,Foul on Jill Harris.,71,54,17,6,0.9937587411219668,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+307,4,5:35,335,335,Foul on Jaron Dougherty.,71,54,17,0,0.9940892140298987,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+308,4,5:35,335,335,Alexis Poole made Free Throw.,72,54,18,0,0.9956208922571071,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,Kennesaw State
+309,4,5:35,335,335,Alexis Poole made Free Throw.,73,54,19,9,0.9967569573352107,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,Kennesaw State
+310,4,5:26,326,326,Amoria Neal-Tysor missed Three Point Jumper.,73,54,19,2,0.9970642547040087,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+311,4,5:24,324,324,Mercer Offensive Rebound.,73,54,19,5,0.9971326155203906,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+312,4,5:19,319,319,Jordan McLaughlin Turnover.,73,54,19,13,0.9973032976758497,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+313,4,5:06,306,306,Carlotta Gianolla made Layup.,75,54,21,18,0.9987991524980021,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,Kennesaw State
+314,4,4:48,288,288,Amoria Neal-Tysor missed Three Point Jumper.,75,54,21,4,0.9989116923919883,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+315,4,4:44,284,284,Alexis Poole Defensive Rebound.,75,54,21,19,0.9989073637503624,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+316,4,4:25,265,265,Alexis Poole made Layup. Assisted by Amani Johnson.,77,54,23,0,0.9993699688614844,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,Kennesaw State
+317,4,4:25,265,265,Foul on Amoria Neal-Tysor.,77,54,23,3,0.9993699688614844,Kennesaw State,Mercer,4,3,0,0,NA,401174217,2019-11-13,
+318,4,4:22,262,262,Mercer  Timeout,77,54,23,0,0.9993564752975649,Kennesaw State,Mercer,4,2,0,1,NA,401174217,2019-11-13,
+319,4,4:22,262,262,Alexis Poole missed Free Throw.,77,54,23,3,0.9993564752975649,Kennesaw State,Mercer,4,2,0,1,NA,401174217,2019-11-13,
+320,4,4:19,259,259,Jaron Dougherty Defensive Rebound.,77,54,23,11,0.999342715000611,Kennesaw State,Mercer,4,2,0,1,NA,401174217,2019-11-13,
+321,4,4:08,248,248,Amoria Neal-Tysor Turnover.,77,54,23,0,0.9992964091538625,Kennesaw State,Mercer,4,2,0,1,NA,401174217,2019-11-13,
+322,4,4:08,248,248,Carlotta Gianolla Steal.,77,54,23,12,0.9992964091538625,Kennesaw State,Mercer,4,2,0,1,NA,401174217,2019-11-13,
+323,4,3:56,236,236,Foul on Amoria Neal-Tysor.,77,54,23,1,0.9992735222047849,Kennesaw State,Mercer,4,2,0,1,NA,401174217,2019-11-13,
+324,4,3:55,235,235,Kamiyah Street missed Free Throw.,77,54,23,0,0.9992738272545996,Kennesaw State,Mercer,4,2,0,1,NA,401174217,2019-11-13,
+325,4,3:55,235,235,Kennesaw State Deadball Team Rebound.,77,54,23,0,0.9992738272545996,Kennesaw State,Mercer,4,2,0,1,NA,401174217,2019-11-13,
+326,4,3:55,235,235,Kamiyah Street made Free Throw.,78,54,24,9,0.9994695283448585,Kennesaw State,Mercer,4,2,0,1,NA,401174217,2019-11-13,Kennesaw State
+327,4,3:46,226,226,Jill Harris missed Three Point Jumper.,78,54,24,4,0.9994870161244594,Kennesaw State,Mercer,4,2,0,1,NA,401174217,2019-11-13,
+328,4,3:42,222,222,Alexis Poole Defensive Rebound.,78,54,24,15,0.9995044917987778,Kennesaw State,Mercer,4,2,0,1,NA,401174217,2019-11-13,
+329,4,3:27,207,207,Foul on Summer Pahl.,78,54,24,0,0.999620828802829,Kennesaw State,Mercer,4,2,0,1,NA,401174217,2019-11-13,
+330,4,3:27,207,207,Kamiyah Street made Free Throw.,79,54,25,0,0.9997268886486461,Kennesaw State,Mercer,4,2,0,1,NA,401174217,2019-11-13,Kennesaw State
+331,4,3:27,207,207,Kamiyah Street made Free Throw.,80,54,26,6,0.9998032878098313,Kennesaw State,Mercer,4,2,0,1,NA,401174217,2019-11-13,Kennesaw State
+332,4,3:21,201,201,Jordan McLaughlin Turnover.,80,54,26,20,0.9998380482520332,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+333,4,3:01,181,181,Amani Johnson missed Jumper.,80,54,26,0,0.9999396138694701,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+334,4,3:01,181,181,Jill Harris Defensive Rebound.,80,54,26,0,0.9999396138694701,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+335,4,3:01,181,181,Foul on Breanna Hoover.,80,54,26,8,0.9999396138694701,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+336,4,2:53,173,173,Jaron Dougherty missed Three Point Jumper.,80,54,26,2,0.9999612808900697,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+337,4,2:51,171,171,Jill Harris Offensive Rebound.,80,54,26,4,0.999965427078611,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+338,4,2:47,167,167,Jill Harris missed Three Point Jumper.,80,54,26,2,0.9999725262924789,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+339,4,2:45,165,165,Amoria Neal-Tysor Offensive Rebound.,80,54,26,1,0.9999755545930582,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+340,4,2:44,164,164,Amoria Neal-Tysor missed Three Point Jumper.,80,54,26,5,0.9999769529772685,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+341,4,2:39,159,159,Amoria Neal-Tysor Offensive Rebound.,80,54,26,0,0.9999829292738879,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+342,4,2:39,159,159,Amoria Neal-Tysor missed Layup.,80,54,26,3,0.9999829292738879,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+343,4,2:36,156,156,Amoria Neal-Tysor Offensive Rebound.,80,54,26,0,0.9999858136657166,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+344,4,2:36,156,156,Amoria Neal-Tysor made Layup.,80,56,24,2,0.9999665193101307,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,Mercer
+345,4,2:34,154,154,Breanna Hoover Turnover.,80,56,24,0,0.9999701866873805,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+346,4,2:34,154,154,Summer Pahl Steal.,80,56,24,9,0.9999701866873805,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+347,4,2:25,145,145,Jordan McLaughlin missed Three Point Jumper.,80,56,24,1,0.9999827267968194,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+348,4,2:24,144,144,Kennesaw State Defensive Rebound.,80,56,24,2,0.9999837860168435,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+349,4,2:22,142,142,Foul on Summer Pahl.,80,56,24,0,0.9999857382330594,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+350,4,2:22,142,142,Amani Johnson made Free Throw.,81,56,25,0,0.9999910408573468,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,Kennesaw State
+351,4,2:22,142,142,Amani Johnson made Free Throw.,82,56,26,9,0.9999943719400854,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,Kennesaw State
+352,4,2:13,133,133,Foul on Jordan McLaughlin.,82,56,26,0,0.9999970878590029,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+353,4,2:13,133,133,Jordan McLaughlin Turnover.,82,56,26,0,0.9999970878590029,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+354,4,2:13,133,133,Carlotta Gianolla Turnover.,82,56,26,6,0.9999970878590029,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+355,4,2:07,127,127,Jaron Dougherty missed Three Point Jumper.,82,56,26,3,0.9999981853205508,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+356,4,2:04,124,124,Alexis Poole Defensive Rebound.,82,56,26,12,0.9999985834202773,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,
+357,4,1:52,112,112,Kamiyah Street made Three Point Jumper.,85,56,29,1,0.9999999095419001,Kennesaw State,Mercer,4,2,0,0,NA,401174217,2019-11-13,Kennesaw State
+358,4,1:51,111,111,Foul on Jill Harris.,85,56,29,0,0.999999918715544,Kennesaw State,Mercer,4,2,1,0,NA,401174217,2019-11-13,
+359,4,1:51,111,111,Kennesaw State  Timeout,85,56,29,0,0.999999918715544,Kennesaw State,Mercer,3,2,1,0,NA,401174217,2019-11-13,
+360,4,1:51,111,111,Kamiyah Street made Free Throw.,86,56,30,10,0.9999999537059666,Kennesaw State,Mercer,3,2,1,0,NA,401174217,2019-11-13,Kennesaw State
+361,4,1:41,101,101,Tia Benvenuti missed Three Point Jumper.,86,56,30,6,0.9999999857070988,Kennesaw State,Mercer,3,2,1,0,NA,401174217,2019-11-13,
+362,4,1:35,95,95,Carlotta Gianolla Defensive Rebound.,86,56,30,17,0.9999999933789322,Kennesaw State,Mercer,3,2,1,0,NA,401174217,2019-11-13,
+363,4,1:18,78,78,Carlotta Gianolla made Three Point Jumper. Assisted by Amani Johnson.,89,56,33,10,0.9999999999216709,Kennesaw State,Mercer,3,2,1,0,NA,401174217,2019-11-13,Kennesaw State
+364,4,1:08,68,68,Summer Pahl missed Three Point Jumper.,89,56,33,0,0.9999999999848138,Kennesaw State,Mercer,3,2,1,0,NA,401174217,2019-11-13,
+365,4,1:08,68,68,Amani Johnson Block.,89,56,33,0,0.9999999999848138,Kennesaw State,Mercer,3,2,1,0,NA,401174217,2019-11-13,
+366,4,1:08,68,68,Mercer Offensive Rebound.,89,56,33,1,0.9999999999848138,Kennesaw State,Mercer,3,2,1,0,NA,401174217,2019-11-13,
+367,4,1:07,67,67,Amoria Neal-Tysor made Three Point Jumper.,89,59,30,6,0.9999999998747219,Kennesaw State,Mercer,3,2,1,0,NA,401174217,2019-11-13,Mercer
+368,4,1:01,61,61,Foul on Cierra Scott.,89,59,30,0,0.9999999999511697,Kennesaw State,Mercer,3,2,1,0,NA,401174217,2019-11-13,
+369,4,1:01,61,61,Gillian Piccolino missed Free Throw.,89,59,30,0,0.9999999999511697,Kennesaw State,Mercer,3,2,1,0,NA,401174217,2019-11-13,
+370,4,1:01,61,61,Kennesaw State Deadball Team Rebound.,89,59,30,0,0.9999999999511697,Kennesaw State,Mercer,3,2,1,0,NA,401174217,2019-11-13,
+371,4,1:01,61,61,Gillian Piccolino made Free Throw.,90,59,31,6,0.9999999999778701,Kennesaw State,Mercer,3,2,1,0,NA,401174217,2019-11-13,Kennesaw State
+372,4,0:55,55,55,Amoria Neal-Tysor made Three Point Jumper.,90,62,28,7,0.999999999903978,Kennesaw State,Mercer,3,2,1,0,NA,401174217,2019-11-13,Mercer
+373,4,0:48,48,48,Gillian Piccolino Turnover.,90,62,28,0,0.999999999967935,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,
+374,4,0:48,48,48,Summer Pahl Steal.,90,62,28,0,0.999999999967935,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,
+375,4,0:48,48,48,Foul on Gillian Piccolino.,90,62,28,3,0.999999999967935,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,
+376,4,0:45,45,45,Summer Pahl missed Free Throw.,90,62,28,0,0.9999999999802458,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,
+377,4,0:45,45,45,Mercer Deadball Team Rebound.,90,62,28,0,0.9999999999802458,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,
+378,4,0:45,45,45,Summer Pahl missed Free Throw.,90,62,28,2,0.9999999999802458,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,
+379,4,0:43,43,43,Lexi Mann Defensive Rebound.,90,62,28,2,0.999999999985772,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,
+380,4,0:41,41,41,Lexi Mann Turnover.,90,62,28,0,0.9999999999897932,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,
+381,4,0:41,41,41,Summer Pahl Steal.,90,62,28,0,0.9999999999897932,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,
+382,4,0:41,41,41,Summer Pahl made Three Point Jumper.,90,65,25,4,0.9999999998463573,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,Mercer
+383,4,0:37,37,37,Kate Head Turnover.,90,65,25,0,0.9999999999159466,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,
+384,4,0:37,37,37,Cierra Scott Steal.,90,65,25,0,0.9999999999159466,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,
+385,4,0:37,37,37,Cierra Scott made Three Point Jumper.,90,68,22,7,0.9999999986397813,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,Mercer
+386,4,0:30,30,30,Foul on Summer Pahl.,90,68,22,0,0.9999999994762143,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,
+387,4,0:30,30,30,Lexi Mann made Free Throw.,91,68,23,0,0.9999999998017117,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,Kennesaw State
+388,4,0:30,30,30,Lexi Mann made Free Throw.,92,68,24,5,0.9999999999249345,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,Kennesaw State
+389,4,0:25,25,25,Amoria Neal-Tysor missed Three Point Jumper.,92,68,24,3,0.9999999999649694,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,
+390,4,0:22,22,22,Gillian Piccolino Defensive Rebound.,92,68,24,15,0.9999999999779731,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,
+391,4,0:07,7,7,Foul on Sierra Votaw.,92,68,24,0,0.9999999999981334,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,
+392,4,0:07,7,7,Gabi Legister made Free Throw.,93,68,25,0,0.9999999999993942,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,Kennesaw State
+393,4,0:07,7,7,Gabi Legister made Free Throw.,94,68,26,5,0.9999999999998034,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,Kennesaw State
+394,4,0:02,2,2,Amoria Neal-Tysor missed Three Point Jumper.,94,68,26,2,0.9999999999999232,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,
+395,4,0:00,0,0,Gillian Piccolino Defensive Rebound.,94,68,26,0,1,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,
+396,4,0:00,0,0,End of 4th Quarter,94,68,26,0,1,Kennesaw State,Mercer,3,2,0,0,NA,401174217,2019-11-13,

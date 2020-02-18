@@ -1,0 +1,413 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:48,2388,2388,Foul on Grace Berger.,0,0,0,0,0.5,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,NA
+2,1,9:48,2388,2388,Ameshya Williams missed Free Throw.,0,0,0,0,0.5,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+3,1,9:48,2388,2388,Jackson State Offensive Rebound.,0,0,0,0,0.5,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+4,1,9:48,2388,2388,Ameshya Williams made Free Throw.,0,1,-1,21,0.4778171900413787,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Jackson State
+5,1,9:27,2367,2367,Grace Berger made Jumper.,2,1,1,15,0.5224073600426636,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Indiana
+6,1,9:12,2352,2352,Marneisha Hamer made Jumper. Assisted by Kaisah Lucky.,2,3,-1,23,0.4774303465213016,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Jackson State
+7,1,8:49,2329,2329,Brenna Wise missed Three Point Jumper.,2,3,-1,4,0.47717864708090213,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+8,1,8:45,2325,2325,Keshuna Luckett Defensive Rebound.,2,3,-1,2,0.4771345410764835,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+9,1,8:43,2323,2323,Foul on Jaelynn Penn.,2,3,-1,0,0.4771124526928877,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+10,1,8:43,2323,2323,Keshuna Luckett made Free Throw.,2,4,-2,0,0.45432062009867336,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Jackson State
+11,1,8:43,2323,2323,Keshuna Luckett missed Free Throw.,2,4,-2,0,0.45432062009867336,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+12,1,8:43,2323,2323,Ameshya Williams Offensive Rebound.,2,4,-2,3,0.45432062009867336,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+13,1,8:40,2320,2320,Ameshya Williams missed Layup.,2,4,-2,0,0.45425468392503904,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+14,1,8:40,2320,2320,Ameshya Williams Offensive Rebound.,2,4,-2,10,0.45425468392503904,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+15,1,8:30,2310,2310,Ameshya Williams missed Layup.,2,4,-2,0,0.4540341708711008,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+16,1,8:30,2310,2310,Aleksa Gulbe Defensive Rebound.,2,4,-2,10,0.4540341708711008,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+17,1,8:20,2300,2300,Jaelynn Penn made Three Point Jumper. Assisted by Grace Berger.,5,4,1,25,0.5231431858431752,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Indiana
+18,1,7:55,2275,2275,Sumer Williams missed Jumper.,5,4,1,2,0.5234241756349494,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+19,1,7:53,2273,2273,Keshuna Luckett Offensive Rebound.,5,4,1,10,0.52344678344423,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+20,1,7:43,2263,2263,Kaisah Lucky Turnover.,5,4,1,17,0.5235600888317214,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+21,1,7:26,2246,2246,Ali Patberg missed Three Point Jumper.,5,4,1,3,0.5237536683071837,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+22,1,7:23,2243,2243,Aleksa Gulbe Offensive Rebound.,5,4,1,1,0.5237879470207863,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+23,1,7:22,2242,2242,Aleksa Gulbe missed Layup.,5,4,1,0,0.5237993807318992,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+24,1,7:22,2242,2242,Aleksa Gulbe Offensive Rebound.,5,4,1,0,0.5237993807318992,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+25,1,7:22,2242,2242,Foul on Kaisah Lucky.,5,4,1,0,0.5237993807318992,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+26,1,7:22,2242,2242,Aleksa Gulbe made Free Throw.,6,4,2,0,0.5474911634847673,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Indiana
+27,1,7:22,2242,2242,Aleksa Gulbe missed Free Throw.,6,4,2,2,0.5474911634847673,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+28,1,7:20,2240,2240,Marneisha Hamer Defensive Rebound.,6,4,2,22,0.5475366103001577,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+29,1,6:58,2218,2218,Keshuna Luckett missed Three Point Jumper.,6,4,2,4,0.5480383025158675,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+30,1,6:54,2214,2214,Grace Berger Defensive Rebound.,6,4,2,7,0.5481298438615707,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+31,1,6:47,2207,2207,Brenna Wise missed Jumper.,6,4,2,3,0.548290259298426,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+32,1,6:44,2204,2204,Aleksa Gulbe Offensive Rebound.,6,4,2,2,0.5483590900647362,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+33,1,6:42,2202,2202,Ali Patberg missed Three Point Jumper.,6,4,2,3,0.5484050032906047,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+34,1,6:39,2199,2199,Marneisha Hamer Defensive Rebound.,6,4,2,16,0.548473911152565,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+35,1,6:23,2183,2183,Ameshya Williams missed Jumper.,6,4,2,0,0.548842134538738,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+36,1,6:23,2183,2183,Grace Berger Defensive Rebound.,6,4,2,10,0.548842134538738,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+37,1,6:13,2173,2173,Ali Patberg made Layup. Assisted by Jaelynn Penn.,8,4,4,16,0.5972092644660071,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Indiana
+38,1,5:57,2157,2157,Foul on Jaelynn Penn.,8,4,4,0,0.597928390361488,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+39,1,5:57,2157,2157,Keshuna Luckett made Free Throw.,8,5,3,0,0.5738631939153135,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Jackson State
+40,1,5:57,2157,2157,Keshuna Luckett missed Free Throw.,8,5,3,2,0.5738631939153135,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+41,1,5:55,2155,2155,Brenna Wise Defensive Rebound.,8,5,3,6,0.5739319522634607,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+42,1,5:49,2149,2149,Grace Berger made Jumper.,10,5,5,4,0.6219721448464608,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Indiana
+43,1,5:45,2145,2145,Jackson State  Timeout,10,5,5,0,0.6221931767692984,Indiana,Jackson State,3,4,1,0,NA,401177265,2019-11-17,
+44,1,5:45,2145,2145,Official TV Timeout,10,5,5,10,0.6221931767692984,Indiana,Jackson State,3,4,1,0,NA,401177265,2019-11-17,
+45,1,5:35,2135,2135,Keshuna Luckett missed Jumper.,10,5,5,3,0.6227469190831108,Indiana,Jackson State,3,4,1,0,NA,401177265,2019-11-17,
+46,1,5:32,2132,2132,Keshuna Luckett Offensive Rebound.,10,5,5,2,0.622913373998929,Indiana,Jackson State,3,4,1,0,NA,401177265,2019-11-17,
+47,1,5:30,2130,2130,Keshuna Luckett made Layup.,10,7,3,14,0.574795283759689,Indiana,Jackson State,3,4,1,0,NA,401177265,2019-11-17,Jackson State
+48,1,5:16,2116,2116,Foul on Antionette Womack.,10,7,3,0,0.5752820488054773,Indiana,Jackson State,3,4,1,0,NA,401177265,2019-11-17,
+49,1,5:16,2116,2116,Brenna Wise made Free Throw.,11,7,4,0,0.599787598736482,Indiana,Jackson State,3,4,1,0,NA,401177265,2019-11-17,Indiana
+50,1,5:16,2116,2116,Brenna Wise made Free Throw.,12,7,5,2,0.6238038343402142,Indiana,Jackson State,3,4,1,0,NA,401177265,2019-11-17,Indiana
+51,1,5:14,2114,2114,Sumer Williams Turnover.,12,7,5,19,0.6239154712238789,Indiana,Jackson State,3,4,1,0,NA,401177265,2019-11-17,
+52,1,4:55,2095,2095,Chanel Wilson missed Three Point Jumper.,12,7,5,3,0.6249798569674797,Indiana,Jackson State,3,4,1,0,NA,401177265,2019-11-17,
+53,1,4:52,2092,2092,Brenna Wise Offensive Rebound.,12,7,5,15,0.6251485720971559,Indiana,Jackson State,3,4,1,0,NA,401177265,2019-11-17,
+54,1,4:37,2077,2077,Brenna Wise missed Three Point Jumper.,12,7,5,4,0.6259949486257689,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+55,1,4:33,2073,2073,Sumer Williams Defensive Rebound.,12,7,5,14,0.6262214581998076,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+56,1,4:19,2059,2059,Cherelle Jones Turnover.,12,7,5,21,0.6270170277326002,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+57,1,3:58,2038,2038,Grace Berger made Layup.,14,7,7,15,0.6757737100202507,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Indiana
+58,1,3:43,2023,2023,Foul on Mackenzie Holmes.,14,7,7,0,0.676909275410053,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+59,1,3:43,2023,2023,Antionette Womack missed Free Throw.,14,7,7,0,0.676909275410053,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+60,1,3:43,2023,2023,Jackson State Offensive Rebound.,14,7,7,0,0.676909275410053,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+61,1,3:43,2023,2023,Antionette Womack made Free Throw.,14,8,6,5,0.653383748536194,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Jackson State
+62,1,3:38,2018,2018,Grace Berger Turnover.,14,8,6,13,0.6537210261551547,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+63,1,3:25,2005,2005,Ieisha Lacey Turnover.,14,8,6,0,0.6546012871172677,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+64,1,3:25,2005,2005,Mackenzie Holmes Steal.,14,8,6,5,0.6546012871172677,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+65,1,3:20,2000,2000,Brenna Wise missed Layup.,14,8,6,4,0.6549411613245076,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+66,1,3:16,1996,1996,Kaisah Lucky Defensive Rebound.,14,8,6,14,0.6552135962858854,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+67,1,3:02,1982,1982,Dayzsha Rogan Turnover.,14,8,6,0,0.6561709455488713,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+68,1,3:02,1982,1982,Chanel Wilson Steal.,14,8,6,5,0.6561709455488713,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+69,1,2:57,1977,1977,Foul on Dayzsha Rogan.,14,8,6,8,0.6565143278633044,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+70,1,2:49,1969,1969,Foul on Kaisah Lucky.,14,8,6,6,0.6570653882022971,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+71,1,2:43,1963,1963,Ali Patberg made Three Point Jumper. Assisted by Chanel Wilson.,17,8,9,20,0.7267363513265843,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Indiana
+72,1,2:23,1943,1943,D'Asia Mitchell missed Three Point Jumper.,17,8,9,3,0.7285739235796852,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+73,1,2:20,1940,1940,Ali Patberg Defensive Rebound.,17,8,9,0,0.7288507408430649,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+74,1,2:20,1940,1940,Foul on D'Asia Mitchell.,17,8,9,0,0.7288507408430649,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+75,1,2:20,1940,1940,Ali Patberg made Free Throw.,18,8,10,0,0.7500100967631512,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Indiana
+76,1,2:20,1940,1940,Ali Patberg made Free Throw.,19,8,11,13,0.7700392335826999,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Indiana
+77,1,2:07,1927,1927,Ameshya Williams missed Jumper.,19,8,11,0,0.7713557369395906,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+78,1,2:07,1927,1927,Mackenzie Holmes Block.,19,8,11,4,0.7713557369395906,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+79,1,2:03,1923,1923,Ali Patberg Defensive Rebound.,19,8,11,6,0.7717603300229053,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+80,1,1:57,1917,1917,Mackenzie Holmes missed Jumper.,19,8,11,3,0.7723658043688485,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+81,1,1:54,1914,1914,Dayzsha Rogan Defensive Rebound.,19,8,11,3,0.7726679406433703,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+82,1,1:51,1911,1911,Dayzsha Rogan made Jumper.,19,10,9,25,0.7315303134549863,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Jackson State
+83,1,1:26,1886,1886,Aleksa Gulbe made Layup.,21,10,11,0,0.775471812616917,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Indiana
+84,1,1:26,1886,1886,Foul on Dayzsha Rogan.,21,10,11,0,0.775471812616917,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+85,1,1:26,1886,1886,Aleksa Gulbe made Free Throw.,22,10,12,20,0.7944808236867906,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Indiana
+86,1,1:06,1866,1866,D'Asia Mitchell missed Three Point Jumper.,22,10,12,3,0.7965154435751822,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+87,1,1:03,1863,1863,Marneisha Hamer Offensive Rebound.,22,10,12,1,0.7968198557890792,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+88,1,1:02,1862,1862,Marneisha Hamer missed Layup.,22,10,12,3,0.7969212906992514,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+89,1,0:59,1859,1859,Mackenzie Holmes Defensive Rebound.,22,10,12,7,0.7972254961173252,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+90,1,0:52,1852,1852,Mackenzie Holmes made Layup. Assisted by Ali Patberg.,24,10,14,0,0.8323455383178895,Indiana,Jackson State,3,4,1,0,NA,401177265,2019-11-17,Indiana
+91,1,0:52,1852,1852,Jackson State  Timeout,24,10,14,14,0.8323455383178895,Indiana,Jackson State,2,4,1,0,NA,401177265,2019-11-17,
+92,1,0:38,1838,1838,Keshuna Luckett missed Layup.,24,10,14,0,0.8337753715249563,Indiana,Jackson State,2,4,1,0,NA,401177265,2019-11-17,
+93,1,0:38,1838,1838,Ali Patberg Block.,24,10,14,1,0.8337753715249563,Indiana,Jackson State,2,4,1,0,NA,401177265,2019-11-17,
+94,1,0:37,1837,1837,Marneisha Hamer Offensive Rebound.,24,10,14,18,0.8338773729352678,Indiana,Jackson State,2,4,1,0,NA,401177265,2019-11-17,
+95,1,0:19,1819,1819,Jackson State  Turnover.,24,10,14,9,0.8357114987815759,Indiana,Jackson State,2,4,1,0,NA,401177265,2019-11-17,
+96,1,0:10,1810,1810,Foul on Sumer Williams.,24,10,14,0,0.8366278333832659,Indiana,Jackson State,2,4,1,0,NA,401177265,2019-11-17,
+97,1,0:10,1810,1810,Ali Patberg made Free Throw.,25,10,15,0,0.8519548514381033,Indiana,Jackson State,2,4,1,0,NA,401177265,2019-11-17,Indiana
+98,1,0:10,1810,1810,Ali Patberg made Free Throw.,26,10,16,10,0.866074122061323,Indiana,Jackson State,2,4,1,0,NA,401177265,2019-11-17,Indiana
+99,1,0:00,1800,1800,Antionette Womack missed Layup.,26,10,16,0,0.8670610218404036,Indiana,Jackson State,2,4,1,0,NA,401177265,2019-11-17,
+100,1,0:00,1800,1800,Ali Patberg Defensive Rebound.,26,10,16,0,0.8670610218404036,Indiana,Jackson State,2,4,1,0,NA,401177265,2019-11-17,
+101,1,0:00,1800,1800,End of 1st Quarter,26,10,16,17,0.8670610218404036,Indiana,Jackson State,2,4,1,0,NA,401177265,2019-11-17,
+102,2,9:43,1783,1783,Brenna Wise missed Three Point Jumper.,26,10,16,2,0.8687374986074038,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+103,2,9:41,1781,1781,Antionette Womack Defensive Rebound.,26,10,16,21,0.8689347162429136,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+104,2,9:20,1760,1760,Marneisha Hamer missed Three Point Jumper.,26,10,16,1,0.8710068113276643,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+105,2,9:19,1759,1759,Ieisha Lacey Offensive Rebound.,26,10,16,2,0.8711055818820468,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+106,2,9:17,1757,1757,Foul on Grace Berger.,26,10,16,0,0.8713031606908402,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+107,2,9:17,1757,1757,Keshuna Luckett missed Free Throw.,26,10,16,0,0.8713031606908402,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+108,2,9:17,1757,1757,Jackson State Offensive Rebound.,26,10,16,0,0.8713031606908402,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+109,2,9:17,1757,1757,Keshuna Luckett made Free Throw.,26,11,15,8,0.8572943575618618,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Jackson State
+110,2,9:09,1749,1749,Jaelynn Penn missed Layup.,26,11,15,2,0.858103505443643,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+111,2,9:07,1747,1747,Marneisha Hamer Defensive Rebound.,26,11,15,3,0.8583060197130669,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+112,2,9:04,1744,1744,Ieisha Lacey Turnover.,26,11,15,14,0.8586099758447672,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+113,2,8:50,1730,1730,Grace Berger made Layup. Assisted by Chanel Wilson.,28,11,17,17,0.8867160169548606,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Indiana
+114,2,8:33,1713,1713,Keshuna Luckett Turnover.,28,11,17,0,0.8883548311417743,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+115,2,8:33,1713,1713,Aleksa Gulbe Steal.,28,11,17,17,0.8883548311417743,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+116,2,8:16,1696,1696,Jaelynn Penn missed Jumper.,28,11,17,3,0.8900003715414571,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+117,2,8:13,1693,1693,Marneisha Hamer Defensive Rebound.,28,11,17,16,0.8902915835698798,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+118,2,7:57,1677,1677,Foul on J'Niya Tallie.,28,11,17,0,0.8918277404837779,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+119,2,7:57,1677,1677,J'Niya Tallie Turnover.,28,11,17,25,0.8918277404837779,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+120,2,7:32,1652,1652,Brenna Wise made Jumper.,30,11,19,16,0.9156474328219837,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Indiana
+121,2,7:16,1636,1636,Marneisha Hamer Turnover.,30,11,19,13,0.9169403158660215,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+122,2,7:03,1623,1623,Jaelynn Penn made Jumper.,32,11,21,16,0.9351882257459537,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Indiana
+123,2,6:47,1607,1607,Ameshya Williams missed Jumper.,32,11,21,1,0.9362914573451202,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+124,2,6:46,1606,1606,Indiana Defensive Rebound.,32,11,21,22,0.9363597208109399,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+125,2,6:24,1584,1584,Brenna Wise missed Jumper.,32,11,21,1,0.9378457736458465,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+126,2,6:23,1583,1583,Aleksa Gulbe Block.,26,10,16,3,0.8878195527215019,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+127,2,6:20,1580,1580,Mackenzie Holmes Offensive Rebound.,32,11,21,0,0.9381133774734993,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Indiana
+128,2,6:20,1580,1580,Foul on Ameshya Williams.,32,11,21,0,0.9381133774734993,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+129,2,6:20,1580,1580,Mackenzie Holmes made Free Throw.,33,11,22,0,0.9452163645177561,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Indiana
+130,2,6:20,1580,1580,Mackenzie Holmes missed Free Throw.,33,11,22,1,0.9452163645177561,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+131,2,6:19,1579,1579,J'Niya Tallie Defensive Rebound.,33,11,22,4,0.945278786893625,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+132,2,6:15,1575,1575,Elexis Peyton missed Jumper.,33,11,22,5,0.9455281206808793,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+133,2,6:10,1570,1570,Mackenzie Holmes Defensive Rebound.,33,11,22,1,0.9458390778733607,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+134,2,6:09,1569,1569,Mackenzie Holmes Turnover.,33,11,22,0,0.9459011865373316,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+135,2,6:09,1569,1569,Ameshya Williams Steal.,33,11,22,6,0.9459011865373316,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+136,2,6:03,1563,1563,Foul on Mackenzie Holmes.,33,11,22,0,0.9462733572739566,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+137,2,6:03,1563,1563,Ameshya Williams missed Free Throw.,33,11,22,0,0.9462733572739566,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+138,2,6:03,1563,1563,Jackson State Offensive Rebound.,33,11,22,0,0.9462733572739566,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+139,2,6:03,1563,1563,Ameshya Williams made Free Throw.,33,12,21,13,0.9392452032455916,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Jackson State
+140,2,5:50,1550,1550,Jaelynn Penn missed Three Point Jumper.,33,12,21,2,0.940107484201719,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+141,2,5:48,1548,1548,Sumer Williams Defensive Rebound.,33,12,21,13,0.9402400867083067,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+142,2,5:35,1535,1535,Cherelle Jones made Layup.,33,14,19,13,0.9246539076671622,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Jackson State
+143,2,5:22,1522,1522,Jaelynn Penn made Layup. Assisted by Jorie Allen.,35,14,21,15,0.9419681644053166,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Indiana
+144,2,5:07,1507,1507,J'Niya Tallie missed Three Point Jumper.,35,14,21,4,0.942973357586255,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+145,2,5:03,1503,1503,Indiana Defensive Rebound.,35,14,21,15,0.9432429894957794,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+146,2,4:48,1488,1488,Ali Patberg missed Three Point Jumper.,35,14,21,0,0.944261501134271,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+147,2,4:48,1488,1488,Cherelle Jones Defensive Rebound.,35,14,21,10,0.944261501134271,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+148,2,4:38,1478,1478,Ameshya Williams missed Layup.,35,14,21,0,0.9449480153613886,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+149,2,4:38,1478,1478,Cherelle Jones Offensive Rebound.,35,14,21,3,0.9449480153613886,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+150,2,4:35,1475,1475,Official TV Timeout,35,14,21,2,0.9451552863486826,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+151,2,4:33,1473,1473,Marneisha Hamer missed Jumper.,35,14,21,3,0.9452938235639088,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+152,2,4:30,1470,1470,Keyanna Warthen Defensive Rebound.,35,14,21,12,0.9455021788472351,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+153,2,4:18,1458,1458,Jorie Allen made Jumper. Assisted by Ali Patberg.,37,14,23,14,0.9586445502490001,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Indiana
+154,2,4:04,1444,1444,Marneisha Hamer missed Jumper.,37,14,23,1,0.9594897666266045,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+155,2,4:03,1443,1443,Antionette Womack Offensive Rebound.,37,14,23,1,0.9595491389010806,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+156,2,4:02,1442,1442,Antionette Womack made Layup.,37,16,21,0,0.9474710138146076,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Jackson State
+157,2,4:02,1442,1442,Foul on Aleksa Gulbe.,37,16,21,0,0.9474710138146076,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+158,2,4:02,1442,1442,Antionette Womack missed Free Throw.,37,16,21,1,0.9474710138146076,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+159,2,4:01,1441,1441,Aleksa Gulbe Defensive Rebound.,37,16,21,11,0.9475401327380305,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+160,2,3:50,1430,1430,Aleksa Gulbe missed Jumper.,37,16,21,3,0.9482857181777024,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+161,2,3:47,1427,1427,Jorie Allen Offensive Rebound.,37,16,21,9,0.9484846501138909,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+162,2,3:38,1418,1418,Grace Berger missed Layup.,37,16,21,4,0.9490711617952355,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+163,2,3:34,1414,1414,Keshuna Luckett Defensive Rebound.,37,16,21,3,0.9493272246248758,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+164,2,3:31,1411,1411,Foul on Jaelynn Penn.,37,16,21,8,0.9495175458382283,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+165,2,3:23,1403,1403,Ieisha Lacey missed Jumper.,37,16,21,3,0.9500183546858476,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+166,2,3:20,1400,1400,Ali Patberg Defensive Rebound.,37,16,21,7,0.9502038178262433,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+167,2,3:13,1393,1393,Aleksa Gulbe missed Three Point Jumper.,37,16,21,4,0.9506320747315916,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+168,2,3:09,1389,1389,Marneisha Hamer Defensive Rebound.,37,16,21,6,0.950874196400379,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+169,2,3:03,1383,1383,Antionette Womack missed Layup.,37,16,21,3,0.9512342042006969,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+170,2,3:00,1380,1380,Aleksa Gulbe Defensive Rebound.,37,16,21,5,0.9514129027072266,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+171,2,2:55,1375,1375,Foul on Ieisha Lacey.,37,16,21,0,0.951708992360654,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+172,2,2:55,1375,1375,Keyanna Warthen made Free Throw.,38,16,22,0,0.9578302320531048,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Indiana
+173,2,2:55,1375,1375,Keyanna Warthen made Free Throw.,39,16,23,20,0.9632055575619144,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Indiana
+174,2,2:35,1355,1355,Ieisha Lacey missed Jumper.,39,16,23,3,0.964189975337788,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+175,2,2:32,1352,1352,Grace Berger Defensive Rebound.,39,16,23,9,0.9643359257026777,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+176,2,2:23,1343,1343,Brenna Wise made Three Point Jumper. Assisted by Grace Berger.,42,16,26,24,0.976837735526992,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Indiana
+177,2,1:59,1319,1319,Walneika Holmes Turnover.,42,16,26,19,0.9777059597958453,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+178,2,1:40,1300,1300,Aleksa Gulbe missed Layup.,42,16,26,3,0.9783924072814812,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+179,2,1:37,1297,1297,Marneisha Hamer Defensive Rebound.,42,16,26,3,0.9785011783781938,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+180,2,1:34,1294,1294,Walneika Holmes missed Three Point Jumper.,42,16,26,4,0.9786101158818055,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+181,2,1:30,1290,1290,Grace Berger Defensive Rebound.,42,16,26,8,0.9787556606956954,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+182,2,1:22,1282,1282,Chanel Wilson missed Three Point Jumper.,42,16,26,3,0.9790479385648945,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+183,2,1:19,1279,1279,Keshuna Luckett Defensive Rebound.,42,16,26,0,0.9791580096587467,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+184,2,1:19,1279,1279,Foul on Chanel Wilson.,42,16,26,0,0.9791580096587467,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+185,2,1:19,1279,1279,Keshuna Luckett missed Free Throw.,42,16,26,0,0.9791580096587467,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+186,2,1:19,1279,1279,Jackson State Offensive Rebound.,42,16,26,0,0.9791580096587467,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+187,2,1:19,1279,1279,Keshuna Luckett made Free Throw.,42,17,25,15,0.9759119624345347,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Jackson State
+188,2,1:04,1264,1264,Keyanna Warthen missed Three Point Jumper.,42,17,25,4,0.9765269859360719,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+189,2,1:00,1260,1260,Brenna Wise Offensive Rebound.,42,17,25,1,0.9766927350938603,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+190,2,0:59,1259,1259,Brenna Wise missed Layup.,42,17,25,3,0.976734297708592,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+191,2,0:56,1256,1256,Brenna Wise Offensive Rebound.,42,17,25,1,0.9768592958605422,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+192,2,0:55,1255,1255,Brenna Wise made Layup.,44,17,27,5,0.9827775137199186,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Indiana
+193,2,0:50,1250,1250,Marneisha Hamer made Layup.,44,19,25,23,0.9771107396885531,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Jackson State
+194,2,0:27,1227,1227,Foul on Antionette Womack.,44,19,25,0,0.978094277046486,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+195,2,0:27,1227,1227,Aleksa Gulbe missed Free Throw.,44,19,25,0,0.978094277046486,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+196,2,0:27,1227,1227,Indiana Offensive Rebound.,44,19,25,0,0.978094277046486,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+197,2,0:27,1227,1227,Aleksa Gulbe made Free Throw.,45,19,26,16,0.981124090461424,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Indiana
+198,2,0:11,1211,1211,J'Niya Tallie Turnover.,45,19,26,0,0.9817569238690936,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+199,2,0:11,1211,1211,Aleksa Gulbe Steal.,45,19,26,1,0.9817569238690936,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+200,2,0:10,1210,1210,Foul on Marneisha Hamer.,45,19,26,0,0.9817969728266617,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+201,2,0:10,1210,1210,Aleksa Gulbe missed Free Throw.,45,19,26,0,0.9817969728266617,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+202,2,0:10,1210,1210,Indiana Offensive Rebound.,45,19,26,0,0.9817969728266617,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+203,2,0:10,1210,1210,Aleksa Gulbe made Free Throw.,46,19,27,5,0.9843448047974617,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,Indiana
+204,2,0:05,1205,1205,Walneika Holmes missed Three Point Jumper.,46,19,27,5,0.98452225373003,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+205,2,0:00,1200,1200,Jorie Allen Defensive Rebound.,46,19,27,0,0.9846958753702184,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+206,2,0:00,1200,1200,End of 2nd Quarter,46,19,27,11,0.9846958753702184,Indiana,Jackson State,3,4,0,0,NA,401177265,2019-11-17,
+207,3,9:49,1189,1189,Ameshya Williams missed Jumper.,46,19,27,4,0.9850654431921552,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+208,3,9:45,1185,1185,Brenna Wise Defensive Rebound.,46,19,27,6,0.985195936503298,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+209,3,9:39,1179,1179,Ali Patberg missed Layup.,46,19,27,3,0.985388113832357,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+210,3,9:36,1176,1176,Marneisha Hamer Defensive Rebound.,46,19,27,10,0.9854826878615459,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+211,3,9:26,1166,1166,Kaisah Lucky made Jumper.,46,21,25,31,0.9806503660211273,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,Jackson State
+212,3,8:55,1135,1135,Jaelynn Penn made Three Point Jumper. Assisted by Ali Patberg.,49,21,28,32,0.9886338316482232,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,Indiana
+213,3,8:23,1103,1103,Keshuna Luckett missed Layup.,49,21,28,4,0.9894108846011377,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+214,3,8:19,1099,1099,Jaelynn Penn Defensive Rebound.,49,21,28,2,0.9895057419141254,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+215,3,8:17,1097,1097,Foul on Keshuna Luckett.,49,21,28,10,0.989553039129558,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+216,3,8:07,1087,1087,Aleksa Gulbe missed Jumper.,49,21,28,3,0.9897884292919759,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+217,3,8:04,1084,1084,Brenna Wise Offensive Rebound.,49,21,28,5,0.9898587536751317,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+218,3,7:59,1079,1079,Aleksa Gulbe made Jumper. Assisted by Grace Berger.,51,21,30,14,0.9927589363788661,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,Indiana
+219,3,7:45,1065,1065,Ameshya Williams missed Layup.,51,21,30,0,0.9930120976664918,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+220,3,7:45,1065,1065,Aleksa Gulbe Block.,51,21,30,4,0.9930120976664918,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+221,3,7:41,1061,1061,Jaelynn Penn Defensive Rebound.,51,21,30,7,0.9930842236335015,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+222,3,7:34,1054,1054,Aleksa Gulbe missed Three Point Jumper.,51,21,30,4,0.9932103403336655,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+223,3,7:30,1050,1050,Marneisha Hamer Defensive Rebound.,51,21,30,6,0.9932823834784987,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+224,3,7:24,1044,1044,Kaisah Lucky missed Three Point Jumper.,51,21,30,2,0.9933904667073878,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+225,3,7:22,1042,1042,Grace Berger Defensive Rebound.,51,21,30,0,0.9934265081303504,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+226,3,7:22,1042,1042,Foul on Sumer Williams.,51,21,30,12,0.9934265081303504,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+227,3,7:10,1030,1030,Brenna Wise missed Three Point Jumper.,51,21,30,2,0.9936430360986271,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+228,3,7:08,1028,1028,Kaisah Lucky Defensive Rebound.,51,21,30,0,0.9936791866755292,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+229,3,7:08,1028,1028,Foul on Aleksa Gulbe.,51,21,30,15,0.9936791866755292,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+230,3,6:53,1013,1013,Sumer Williams made Jumper.,51,23,28,12,0.9915213655081347,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,Jackson State
+231,3,6:41,1001,1001,Mackenzie Holmes made Layup. Assisted by Ali Patberg.,53,23,30,16,0.994169826151853,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,Indiana
+232,3,6:25,985,985,Dayzsha Rogan missed Three Point Jumper.,53,23,30,4,0.9944633254711166,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+233,3,6:21,981,981,Grace Berger Defensive Rebound.,53,23,30,5,0.9945370382924088,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+234,3,6:16,976,976,Grace Berger made Layup.,55,23,32,19,0.9962021632905962,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,Indiana
+235,3,5:57,957,957,Keshuna Luckett Turnover.,55,23,32,12,0.9964569771788632,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+236,3,5:45,945,945,Mackenzie Holmes made Layup.,57,23,34,16,0.9976122026863061,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,Indiana
+237,3,5:29,929,929,D'Asia Mitchell missed Three Point Jumper.,57,23,34,0,0.9977374350790467,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+238,3,5:29,929,929,Ameshya Williams Offensive Rebound.,57,23,34,0,0.9977374350790467,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+239,3,5:29,929,929,Foul on Brenna Wise.,57,23,34,4,0.9977374350790467,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,
+240,3,5:25,925,925,Dayzsha Rogan made Layup.,57,25,32,7,0.9968050976792081,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,Jackson State
+241,3,5:18,918,918,Grace Berger made Three Point Jumper. Assisted by Ali Patberg.,60,25,35,6,0.9981748628073052,Indiana,Jackson State,4,5,0,0,NA,401177265,2019-11-17,Indiana
+242,3,5:12,912,912,Indiana  Timeout,60,25,35,0,0.9982095197502828,Indiana,Jackson State,4,4,0,1,NA,401177265,2019-11-17,
+243,3,5:12,912,912,Official TV Timeout,60,25,35,12,0.9982095197502828,Indiana,Jackson State,4,4,0,1,NA,401177265,2019-11-17,
+244,3,5:00,900,900,Foul on Brenna Wise.,60,25,35,0,0.9982754259277018,Indiana,Jackson State,4,4,0,1,NA,401177265,2019-11-17,
+245,3,5:00,900,900,Official TV Timeout,60,25,35,0,0.9982754259277018,Indiana,Jackson State,4,4,0,1,NA,401177265,2019-11-17,
+246,3,5:00,900,900,Antionette Womack missed Free Throw.,60,25,35,0,0.9982754259277018,Indiana,Jackson State,4,4,0,1,NA,401177265,2019-11-17,
+247,3,5:00,900,900,Jackson State Offensive Rebound.,60,25,35,21,0.9982754259277018,Indiana,Jackson State,4,4,0,1,NA,401177265,2019-11-17,
+248,3,4:39,879,879,Jaelynn Penn missed Jumper.,60,25,35,3,0.998382671413379,Indiana,Jackson State,4,4,0,1,NA,401177265,2019-11-17,
+249,3,4:36,876,876,Ameshya Williams Defensive Rebound.,60,25,35,3,0.9983973944545111,Indiana,Jackson State,4,4,0,1,NA,401177265,2019-11-17,
+250,3,4:33,873,873,Keshuna Luckett missed Layup.,60,25,35,3,0.9984120088335273,Indiana,Jackson State,4,4,0,1,NA,401177265,2019-11-17,
+251,3,4:30,870,870,Grace Berger Defensive Rebound.,60,25,35,4,0.9984265270035257,Indiana,Jackson State,4,4,0,1,NA,401177265,2019-11-17,
+252,3,4:26,866,866,Ali Patberg made Layup. Assisted by Grace Berger.,62,25,37,11,0.9989253133812045,Indiana,Jackson State,4,4,0,1,NA,401177265,2019-11-17,Indiana
+253,3,4:15,855,855,Antionette Womack Turnover.,62,25,37,0,0.9989635415103948,Indiana,Jackson State,4,4,0,1,NA,401177265,2019-11-17,
+254,3,4:15,855,855,Jaelynn Penn Steal.,62,25,37,7,0.9989635415103948,Indiana,Jackson State,4,4,0,1,NA,401177265,2019-11-17,
+255,3,4:08,848,848,Jaelynn Penn missed Layup.,62,25,37,0,0.9989876494596398,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+256,3,4:08,848,848,Indiana Offensive Rebound.,62,25,37,5,0.9989876494596398,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+257,3,4:03,843,843,Mackenzie Holmes made Layup.,64,25,39,21,0.9993148549820537,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Indiana
+258,3,3:42,822,822,Marneisha Hamer made Jumper.,64,27,37,18,0.9990771768742956,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Jackson State
+259,3,3:24,804,804,Jaelynn Penn missed Three Point Jumper.,64,27,37,4,0.9991403242104577,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+260,3,3:20,800,800,Marneisha Hamer Defensive Rebound.,64,27,37,4,0.9991545735073758,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+261,3,3:16,796,796,Keshuna Luckett missed Layup.,64,27,37,0,0.9991689118115421,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+262,3,3:16,796,796,Grace Berger Block.,64,27,37,1,0.9991689118115421,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+263,3,3:15,795,795,Jackson State Offensive Rebound.,64,27,37,12,0.9991725106567427,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+264,3,3:03,783,783,J'Niya Tallie missed Jumper.,64,27,37,2,0.9992161544847891,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+265,3,3:01,781,781,Chanel Wilson Defensive Rebound.,64,27,37,5,0.9992235113222203,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+266,3,2:56,776,776,Mackenzie Holmes made Layup. Assisted by Grace Berger.,66,27,39,0,0.9994858110078857,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Indiana
+267,3,2:56,776,776,Foul on Ameshya Williams.,66,27,39,0,0.9994858110078857,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+268,3,2:56,776,776,Mackenzie Holmes missed Free Throw.,66,27,39,4,0.9994858110078857,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+269,3,2:52,772,772,Keshuna Luckett Defensive Rebound.,66,27,39,5,0.9994964612484015,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+270,3,2:47,767,767,Keshuna Luckett missed Jumper.,66,27,39,4,0.9995098466898333,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+271,3,2:43,763,763,Jorie Allen Defensive Rebound.,66,27,39,3,0.9995206092326464,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+272,3,2:40,760,760,Mackenzie Holmes made Layup. Assisted by Jaelynn Penn.,68,27,41,9,0.9996817529345081,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Indiana
+273,3,2:31,751,751,Marneisha Hamer missed Jumper.,68,27,41,4,0.9996990757351631,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+274,3,2:27,747,747,Mackenzie Holmes Defensive Rebound.,68,27,41,0,0.9997067946071897,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+275,3,2:27,747,747,Mackenzie Holmes Turnover.,68,27,41,11,0.9997067946071897,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+276,3,2:16,736,736,Keshuna Luckett missed Three Point Jumper.,68,27,41,0,0.9997280347183415,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+277,3,2:16,736,736,Cherelle Jones Offensive Rebound.,68,27,41,2,0.9997280347183415,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+278,3,2:14,734,734,Foul on Jorie Allen.,68,27,41,8,0.9997318924095608,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+279,3,2:06,726,726,Foul on Chanel Wilson.,68,27,41,0,0.9997470653035929,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+280,3,2:06,726,726,J'Niya Tallie made Free Throw.,68,28,40,0,0.9996904629483495,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Jackson State
+281,3,2:06,726,726,J'Niya Tallie made Free Throw.,68,29,39,8,0.9996211987766606,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Jackson State
+282,3,1:58,718,718,Foul on J'Niya Tallie.,68,29,39,7,0.9996407067473565,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+283,3,1:51,711,711,Aleksa Gulbe made Jumper. Assisted by Grace Berger.,70,29,41,18,0.9997715212139475,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Indiana
+284,3,1:33,693,693,Foul on Aleksa Gulbe.,70,29,41,0,0.9997952929000672,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+285,3,1:33,693,693,Marneisha Hamer missed Free Throw.,70,29,41,0,0.9997952929000672,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+286,3,1:33,693,693,Jackson State Offensive Rebound.,70,29,41,0,0.9997952929000672,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+287,3,1:33,693,693,Marneisha Hamer made Free Throw.,70,30,40,23,0.999748184393936,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Jackson State
+288,3,1:10,670,670,Chanel Wilson made Three Point Jumper. Assisted by Keyanna Warthen.,73,30,43,20,0.9998818450232452,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Indiana
+289,3,0:50,650,650,Marneisha Hamer made Three Point Jumper. Assisted by Kaisah Lucky.,73,33,40,10,0.9998005074635691,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Jackson State
+290,3,0:40,640,640,Foul on Antionette Womack.,73,33,40,0,0.999811187719085,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+291,3,0:40,640,640,Jorie Allen made Free Throw.,74,33,41,0,0.999847612667571,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Indiana
+292,3,0:40,640,640,Jorie Allen made Free Throw.,75,33,42,12,0.9998770115176662,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Indiana
+293,3,0:28,628,628,Kaisah Lucky missed Jumper.,75,33,42,2,0.9998856044665269,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+294,3,0:26,626,626,Dayzsha Rogan Offensive Rebound.,75,33,42,0,0.9998870258828071,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+295,3,0:26,626,626,Foul on Jorie Allen.,75,33,42,0,0.9998870258828071,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+296,3,0:26,626,626,Dayzsha Rogan made Free Throw.,75,34,41,0,0.9998597371604411,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Jackson State
+297,3,0:26,626,626,Dayzsha Rogan made Free Throw.,75,35,40,26,0.9998258580376086,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Jackson State
+298,3,0:00,600,600,Aleksa Gulbe missed Jumper.,75,35,40,0,0.9998530479592107,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+299,3,0:00,600,600,Aleksa Gulbe Offensive Rebound.,75,35,40,0,0.9998530479592107,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+300,3,0:00,600,600,Foul on Kaisah Lucky.,75,35,40,0,0.9998530479592107,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+301,3,0:00,600,600,Aleksa Gulbe made Free Throw.,76,35,41,0,0.999882139238237,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Indiana
+302,3,0:00,600,600,Aleksa Gulbe made Free Throw.,77,35,42,0,0.9999054720228604,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,Indiana
+303,3,0:00,600,600,End of 3rd Quarter,75,35,40,10,0.9998530479592107,Indiana,Jackson State,4,4,0,0,NA,401177265,2019-11-17,
+304,4,9:50,590,590,Kaisah Lucky missed Jumper.,77,35,42,0,0.9999126040273417,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,Indiana
+305,4,9:50,590,590,Antionette Womack Offensive Rebound.,77,35,42,0,0.9999126040273417,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+306,4,9:50,590,590,Foul on Mackenzie Holmes.,77,35,42,7,0.9999126040273417,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+307,4,9:43,583,583,Marneisha Hamer made Layup. Assisted by Kaisah Lucky.,77,37,40,30,0.9998710737578911,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,Jackson State
+308,4,9:13,553,553,Ali Patberg missed Jumper.,77,37,40,4,0.9999029856239765,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+309,4,9:09,549,549,Mackenzie Holmes Offensive Rebound.,77,37,40,0,0.9999071589917035,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+310,4,9:09,549,549,Mackenzie Holmes missed Layup.,77,37,40,0,0.9999071589917035,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+311,4,9:09,549,549,Marneisha Hamer Defensive Rebound.,77,37,40,0,0.9999071589917035,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+312,4,9:09,549,549,Foul on Mackenzie Holmes.,77,37,40,16,0.9999071589917035,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+313,4,8:53,533,533,Dayzsha Rogan missed Layup.,77,37,40,0,0.9999209063256892,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+314,4,8:53,533,533,Mackenzie Holmes Defensive Rebound.,77,37,40,11,0.9999209063256892,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+315,4,8:42,522,522,Ali Patberg made Layup. Assisted by Grace Berger.,79,37,42,0,0.9999554237073165,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,Indiana
+316,4,8:42,522,522,Foul on Antionette Womack.,79,37,42,0,0.9999554237073165,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+317,4,8:42,522,522,Ali Patberg missed Free Throw.,79,37,42,0,0.9999554237073165,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+318,4,8:42,522,522,Antionette Womack Defensive Rebound.,79,37,42,0,0.9999554237073165,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+319,4,8:42,522,522,Foul on Brenna Wise.,79,37,42,11,0.9999554237073165,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+320,4,8:31,511,511,Dayzsha Rogan missed Jumper.,79,37,42,3,0.999959442093194,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+321,4,8:28,508,508,Mackenzie Holmes Defensive Rebound.,79,37,42,9,0.999960450155316,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+322,4,8:19,499,499,Foul on Marneisha Hamer.,79,37,42,0,0.9999633202067566,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+323,4,8:19,499,499,Grace Berger missed Free Throw.,79,37,42,0,0.9999633202067566,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+324,4,8:19,499,499,Indiana Offensive Rebound.,79,37,42,0,0.9999633202067566,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+325,4,8:19,499,499,Grace Berger made Free Throw.,80,37,43,11,0.9999712378191223,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,Indiana
+326,4,8:08,488,488,Marneisha Hamer missed Three Point Jumper.,80,37,43,2,0.9999738902356776,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+327,4,8:06,486,486,Indiana Defensive Rebound.,80,37,43,10,0.9999743612766592,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+328,4,7:56,476,476,Keyanna Warthen made Layup.,82,37,45,12,0.9999858095122379,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,Indiana
+329,4,7:44,464,464,Antionette Womack made Layup.,82,39,43,19,0.9999794881931179,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,Jackson State
+330,4,7:25,445,445,Mackenzie Holmes missed Layup.,82,39,43,2,0.9999839481371712,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+331,4,7:23,443,443,Marneisha Hamer Defensive Rebound.,82,39,43,6,0.9999844171134733,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+332,4,7:17,437,437,Kaisah Lucky Turnover.,82,39,43,13,0.9999858162270681,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+333,4,7:04,424,424,Jaelynn Penn missed Three Point Jumper.,82,39,43,2,0.9999886850053111,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+334,4,7:02,422,422,Cherelle Jones Defensive Rebound.,82,39,43,15,0.9999890660111933,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+335,4,6:47,407,407,Ieisha Lacey missed Layup.,82,39,43,3,0.9999914442287999,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+336,4,6:44,404,404,Keyanna Warthen Defensive Rebound.,82,39,43,5,0.9999918400865144,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+337,4,6:39,399,399,Foul on Brenna Wise.,82,39,43,0,0.9999924551859461,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+338,4,6:39,399,399,Brenna Wise Turnover.,82,39,43,21,0.9999924551859461,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+339,4,6:18,378,378,Kaisah Lucky missed Three Point Jumper.,82,39,43,6,0.9999945903394537,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+340,4,6:12,372,372,Ameshya Williams Offensive Rebound.,82,39,43,4,0.9999951043291356,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+341,4,6:08,368,368,Ameshya Williams missed Layup.,82,39,43,0,0.999995429066991,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+342,4,6:08,368,368,Mackenzie Holmes Block.,82,39,43,1,0.999995429066991,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+343,4,6:07,367,367,Jackson State Offensive Rebound.,82,39,43,3,0.9999955081732902,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+344,4,6:04,364,364,Keshuna Luckett missed Jumper.,82,39,43,3,0.9999957407294356,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+345,4,6:01,361,361,Indiana Defensive Rebound.,82,39,43,20,0.9999959663828668,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+346,4,5:41,341,341,Chanel Wilson missed Three Point Jumper.,82,39,43,5,0.9999973071512896,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+347,4,5:36,336,336,Keshuna Luckett Defensive Rebound.,82,39,43,5,0.9999975990405875,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+348,4,5:31,331,331,Kaisah Lucky made Jumper. Assisted by Keshuna Luckett.,82,41,41,23,0.9999960958059286,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,Jackson State
+349,4,5:08,308,308,Mackenzie Holmes made Layup. Assisted by Jorie Allen.,84,41,43,8,0.999998893618715,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,Indiana
+350,4,5:00,300,300,Keshuna Luckett Turnover.,77,35,42,11,0.9999987120540063,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+351,4,4:49,289,289,Ameshya Williams missed Layup.,84,41,43,2,0.9999991418863591,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,Indiana
+352,4,4:47,287,287,Cherelle Jones Offensive Rebound.,84,41,43,1,0.9999991417251293,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+353,4,4:46,286,286,Foul on Jorie Allen.,84,41,43,0,0.9999991403648004,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+354,4,4:46,286,286,Official TV Timeout,84,41,43,0,0.9999991403648004,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+355,4,4:46,286,286,Cherelle Jones made Free Throw.,84,42,42,0,0.9999988104669884,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,Jackson State
+356,4,4:46,286,286,Cherelle Jones made Free Throw.,84,43,41,20,0.9999983539661853,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,Jackson State
+357,4,4:26,266,266,Hannah Noveroske Turnover.,84,43,41,14,0.9999980519485933,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+358,4,4:12,252,252,Kaisah Lucky missed Jumper.,84,43,41,3,0.9999976907489582,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+359,4,4:09,249,249,Grace Waggoner Defensive Rebound.,84,43,41,1,0.9999976199470871,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+360,4,4:08,248,248,Grace Waggoner Turnover.,84,43,41,14,0.999997598130586,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+361,4,3:54,234,234,Ieisha Lacey missed Three Point Jumper.,84,43,41,3,0.9999974633875625,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+362,4,3:51,231,231,Keyanna Warthen Defensive Rebound.,84,43,41,4,0.9999974932223796,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+363,4,3:47,227,227,Chanel Wilson missed Three Point Jumper.,84,43,41,3,0.9999975730950764,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+364,4,3:44,224,224,Jorie Allen Offensive Rebound.,84,43,41,4,0.999997663723142,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+365,4,3:40,220,220,Jorie Allen missed Jumper.,84,43,41,3,0.9999978239330622,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+366,4,3:37,217,217,Cherelle Jones Defensive Rebound.,84,43,41,6,0.9999979706805192,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+367,4,3:31,211,211,Ieisha Lacey made Layup.,84,45,39,0,0.9999967791832839,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,Jackson State
+368,4,3:31,211,211,Foul on Keyanna Warthen.,84,45,39,0,0.9999967791832839,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+369,4,3:31,211,211,Ieisha Lacey missed Free Throw.,84,45,39,2,0.9999967791832839,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+370,4,3:29,209,209,Keshuna Luckett Offensive Rebound.,84,45,39,4,0.9999970072265589,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+371,4,3:25,205,205,Keshuna Luckett made Three Point Jumper.,84,48,36,14,0.9999931948681744,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,Jackson State
+372,4,3:11,191,191,Hannah Noveroske made Layup. Assisted by Jorie Allen.,86,48,38,21,0.9999984917879442,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,Indiana
+373,4,2:50,170,170,Kaisah Lucky Turnover.,86,48,38,0,0.9999997223388871,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+374,4,2:50,170,170,Grace Waggoner Steal.,86,48,38,13,0.9999997223388871,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+375,4,2:37,157,157,Foul on Antionette Womack.,86,48,38,0,0.9999999101072661,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+376,4,2:37,157,157,Hannah Noveroske missed Free Throw.,86,48,38,0,0.9999999101072661,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+377,4,2:37,157,157,Indiana Offensive Rebound.,86,48,38,0,0.9999999101072661,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+378,4,2:37,157,157,Hannah Noveroske missed Free Throw.,86,48,38,1,0.9999999101072661,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+379,4,2:36,156,156,Cherelle Jones Defensive Rebound.,86,48,38,23,0.9999999179117903,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+380,4,2:13,133,133,Ieisha Lacey made Three Point Jumper. Assisted by Kaisah Lucky.,86,51,35,10,0.9999999646833163,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,Jackson State
+381,4,2:03,123,123,Keyanna Warthen missed Three Point Jumper.,86,51,35,2,0.9999999880494135,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+382,4,2:01,121,121,Jorie Allen Offensive Rebound.,86,51,35,1,0.9999999905103251,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+383,4,2:00,120,120,Foul on Cherelle Jones.,86,51,35,4,0.9999999915592619,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+384,4,1:56,116,116,Jorie Allen missed Jumper.,86,51,35,1,0.9999999947835787,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+385,4,1:55,115,115,Jackson State Defensive Rebound.,86,51,35,14,0.9999999953899927,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+386,4,1:41,101,101,Ieisha Lacey Turnover.,86,51,35,0,0.9999999992958901,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+387,4,1:41,101,101,Grace Waggoner Steal.,86,51,35,0,0.9999999992958901,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+388,4,1:41,101,101,Foul on Ieisha Lacey.,86,51,35,0,0.9999999992958901,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+389,4,1:41,101,101,Grace Waggoner made Free Throw.,87,51,36,0,0.9999999996143933,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,Indiana
+390,4,1:41,101,101,Grace Waggoner missed Free Throw.,87,51,36,1,0.9999999996143933,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+391,4,1:40,100,100,Cherelle Jones Defensive Rebound.,87,51,36,8,0.9999999996680102,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+392,4,1:32,92,92,Ieisha Lacey missed Jumper.,87,51,36,3,0.99999999990507,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+393,4,1:29,89,89,Keyanna Warthen Defensive Rebound.,87,51,36,8,0.9999999999413689,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+394,4,1:21,81,81,Foul on J'Niya Tallie.,87,51,36,0,0.9999999999842724,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+395,4,1:21,81,81,Chanel Wilson made Free Throw.,88,51,37,0,0.9999999999921192,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,Indiana
+396,4,1:21,81,81,Chanel Wilson made Free Throw.,89,51,38,14,0.999999999996051,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,Indiana
+397,4,1:07,67,67,D'Asia Mitchell missed Jumper.,89,51,38,3,0.9999999999997133,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+398,4,1:04,64,64,Keyanna Warthen Defensive Rebound.,89,51,38,7,0.9999999999998415,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+399,4,0:57,57,57,Grace Waggoner Turnover.,89,51,38,0,0.9999999999999616,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+400,4,0:57,57,57,D'Asia Mitchell Steal.,89,51,38,10,0.9999999999999616,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+401,4,0:47,47,47,Foul on Chanel Wilson.,89,51,38,0,0.9999999999999953,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+402,4,0:47,47,47,J'Niya Tallie missed Free Throw.,89,51,38,0,0.9999999999999953,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+403,4,0:47,47,47,Jackson State Offensive Rebound.,89,51,38,0,0.9999999999999953,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+404,4,0:47,47,47,J'Niya Tallie missed Free Throw.,89,51,38,1,0.9999999999999953,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+405,4,0:46,46,46,Hannah Noveroske Defensive Rebound.,89,51,38,8,0.9999999999999963,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+406,4,0:38,38,38,Hannah Noveroske missed Layup.,89,51,38,4,0.9999999999999994,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+407,4,0:34,34,34,Hannah Noveroske Offensive Rebound.,89,51,38,1,0.9999999999999998,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+408,4,0:33,33,33,Hannah Noveroske made Layup.,91,51,40,14,1,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,Indiana
+409,4,0:19,19,19,Ieisha Lacey missed Three Point Jumper.,91,51,40,3,1,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+410,4,0:16,16,16,D'Asia Mitchell Offensive Rebound.,91,51,40,16,1,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+411,4,0:00,0,0,End of 4th Quarter,91,51,40,0,1,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
+412,4,0:00,0,0,End of Game,91,51,40,0,1,Indiana,Jackson State,5,5,0,0,NA,401177265,2019-11-17,
