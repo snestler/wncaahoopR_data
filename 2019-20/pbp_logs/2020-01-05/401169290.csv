@@ -1,0 +1,332 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:39,2379,2379,Keke Hunter missed Jumper.,0,0,0,4,0.5,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,NA
+2,1,9:35,2375,2375,Keke Hunter Offensive Rebound.,0,0,0,0,0.5,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+3,1,9:35,2375,2375,Keke Hunter made Layup.,0,2,-2,4,0.45544591446758104,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Memphis
+4,1,9:31,2371,2371,Bria Patterson made Jumper.,2,2,0,59,0.5,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+5,1,8:32,2312,2312,Jamirah Shutes made Jumper.,2,4,-2,8,0.454078361268111,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Memphis
+6,1,8:24,2304,2304,Foul on Aerial Wilson.,2,4,-2,0,0.4539013430582895,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+7,1,8:24,2304,2304,Julia Blackshell-Fair made Jumper.,4,4,0,12,0.5,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+8,1,8:12,2292,2292,Jamirah Shutes missed Three Point Jumper.,4,4,0,4,0.5,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+9,1,8:08,2288,2288,Bria Patterson Defensive Rebound.,4,4,0,21,0.5,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+10,1,7:47,2267,2267,Dorian Branch made Jumper.,6,4,2,8,0.546925639914279,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+11,1,7:39,2259,2259,Foul on Dymond Gladney.,6,4,2,0,0.5471060687074408,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+12,1,7:39,2259,2259,Gazmyne Herndon made Free Throw.,6,5,1,0,0.523605531345516,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Memphis
+13,1,7:39,2259,2259,Gazmyne Herndon missed Free Throw.,6,5,1,0,0.523605531345516,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+14,1,7:39,2259,2259,Dulcy Fankam Mendjiadeu Offensive Rebound.,6,5,1,2,0.523605531345516,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+15,1,7:37,2257,2257,Madison Griggs made Three Point Jumper.,6,8,-2,25,0.4528487422387647,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Memphis
+16,1,7:12,2232,2232,Tatyana Hill missed Jumper.,6,8,-2,4,0.4522813233554353,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+17,1,7:08,2228,2228,Julia Blackshell-Fair Offensive Rebound.,6,8,-2,1,0.45219012861582764,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+18,1,7:07,2227,2227,Julia Blackshell-Fair missed Layup.,6,8,-2,3,0.4521673136698952,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+19,1,7:04,2224,2224,Bria Patterson Offensive Rebound.,6,8,-2,2,0.452098830645754,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+20,1,7:02,2222,2222,Tatyana Hill missed Layup.,6,8,-2,3,0.4520531439994127,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+21,1,6:59,2219,2219,Dorian Branch Offensive Rebound.,6,8,-2,13,0.45198456813453586,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+22,1,6:46,2206,2206,Julia Blackshell-Fair Turnover.,6,8,-2,18,0.4516868023924292,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+23,1,6:28,2188,2188,Keke Hunter Turnover.,6,8,-2,0,0.45127305785881405,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+24,1,6:28,2188,2188,Dorian Branch Steal.,6,8,-2,6,0.45127305785881405,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+25,1,6:22,2182,2182,Dorian Branch Turnover.,6,8,-2,0,0.4511348144998577,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+26,1,6:22,2182,2182,Gazmyne Herndon Steal.,6,8,-2,6,0.4511348144998577,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+27,1,6:16,2176,2176,Foul on Bria Patterson.,6,8,-2,0,0.45099642576234333,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+28,1,6:16,2176,2176,Keke Hunter missed Free Throw.,6,8,-2,0,0.45099642576234333,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+29,1,6:16,2176,2176,Memphis Offensive Rebound.,6,8,-2,0,0.45099642576234333,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+30,1,6:16,2176,2176,Keke Hunter made Free Throw.,6,9,-3,11,0.4267879808218812,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Memphis
+31,1,6:05,2165,2165,Dymond Gladney made Layup. Assisted by Julia Blackshell-Fair.,8,9,-1,24,0.475311112717869,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+32,1,5:41,2141,2141,Keke Hunter missed Jumper.,8,9,-1,2,0.47503033285106394,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+33,1,5:39,2139,2139,Julia Blackshell-Fair Defensive Rebound.,8,9,-1,6,0.47500682841191577,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+34,1,5:33,2133,2133,Tatyana Hill made Layup. Assisted by Julia Blackshell-Fair.,10,9,1,0,0.5250637872260886,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+35,1,5:33,2133,2133,Foul on Gazmyne Herndon.,10,9,1,0,0.5250637872260886,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+36,1,5:33,2133,2133,Tatyana Hill missed Free Throw.,10,9,1,0,0.5250637872260886,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+37,1,5:33,2133,2133,Dulcy Fankam Mendjiadeu Defensive Rebound.,10,9,1,22,0.5250637872260886,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+38,1,5:11,2111,2111,Jamirah Shutes missed Layup.,10,9,1,5,0.5253240768718772,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+39,1,5:06,2106,2106,Dulcy Fankam Mendjiadeu Offensive Rebound.,10,9,1,0,0.525383545558661,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+40,1,5:06,2106,2106,Dulcy Fankam Mendjiadeu made Jumper.,10,11,-1,5,0.47461645444133904,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Memphis
+41,1,5:01,2101,2101,Julia Blackshell-Fair missed Three Point Jumper.,10,11,-1,3,0.47455686567115635,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+42,1,4:58,2098,2098,Jamirah Shutes Defensive Rebound.,10,11,-1,13,0.4745210538825061,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+43,1,4:45,2085,2085,Alana Davis missed Jumper.,10,11,-1,0,0.4743653498248922,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+44,1,4:45,2085,2085,Memphis Offensive Rebound.,10,11,-1,6,0.4743653498248922,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+45,1,4:39,2079,2079,Dulcy Fankam Mendjiadeu Turnover.,10,11,-1,19,0.47429319448595114,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+46,1,4:20,2060,2060,Dymond Gladney missed Three Point Jumper.,10,11,-1,3,0.47406343494236614,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+47,1,4:17,2057,2057,Dulcy Fankam Mendjiadeu Defensive Rebound.,10,11,-1,2,0.4740269757363088,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+48,1,4:15,2055,2055,Foul on Maya Jones.,10,11,-1,0,0.47400264143504234,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+49,1,4:15,2055,2055,Jamirah Shutes made Free Throw.,10,12,-2,0,0.4481454690334274,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Memphis
+50,1,4:15,2055,2055,Jamirah Shutes made Free Throw.,10,13,-3,9,0.4225656614594239,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Memphis
+51,1,4:06,2046,2046,Dymond Gladney Turnover.,10,13,-3,0,0.4222433575306089,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+52,1,4:06,2046,2046,Aerial Wilson Steal.,10,13,-3,3,0.4222433575306089,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+53,1,4:03,2043,2043,Aerial Wilson Turnover.,10,13,-3,0,0.42213562993400006,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+54,1,4:03,2043,2043,Dorian Branch Steal.,10,13,-3,5,0.42213562993400006,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+55,1,3:58,2038,2038,Maya Jones Turnover.,10,13,-3,14,0.42195575292330906,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+56,1,3:44,2024,2024,Aerial Wilson Turnover.,10,13,-3,0,0.4214498486437642,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+57,1,3:44,2024,2024,Dulcy Fankam Mendjiadeu missed Layup.,10,13,-3,0,0.4214498486437642,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+58,1,3:44,2024,2024,Houston Defensive Rebound.,10,13,-3,0,0.4214498486437642,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+59,1,3:44,2024,2024,Foul on Aerial Wilson.,10,13,-3,24,0.4214498486437642,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+60,1,3:20,2000,2000,Dymond Gladney made Layup.,12,13,-1,8,0.4733240847400063,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+61,1,3:12,1992,1992,Gazmyne Herndon Turnover.,12,13,-1,0,0.4732237872853353,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+62,1,3:12,1992,1992,Dorian Branch Steal.,12,13,-1,5,0.4732237872853353,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+63,1,3:07,1987,1987,Dorian Branch made Layup.,14,13,1,21,0.5268391172960498,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+64,1,2:46,1966,1966,Foul on Maya Jones.,14,13,1,0,0.5271052060445058,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+65,1,2:46,1966,1966,Gazmyne Herndon Turnover.,14,13,1,0,0.5271052060445058,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+66,1,2:46,1966,1966,Tatyana Hill Steal.,14,13,1,0,0.5271052060445058,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+67,1,2:46,1966,1966,Tatyana Hill missed Layup.,14,13,1,0,0.5271052060445058,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+68,1,2:46,1966,1966,Tatyana Hill Offensive Rebound.,14,13,1,0,0.5271052060445058,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+69,1,2:46,1966,1966,Tatyana Hill made Layup.,16,13,3,4,0.5806839397376166,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+70,1,2:42,1962,1962,Madison Griggs made Three Point Jumper. Assisted by Gazmyne Herndon.,16,16,0,21,0.5,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Memphis
+71,1,2:21,1941,1941,Dymond Gladney made Three Point Jumper. Assisted by Julia Blackshell-Fair.,19,16,3,24,0.5816241276708837,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+72,1,1:57,1917,1917,Gazmyne Herndon made Layup.,19,18,1,3,0.5277378184952509,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Memphis
+73,1,1:54,1914,1914,Tatyana Hill missed Three Point Jumper.,19,18,1,2,0.5277767725413577,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+74,1,1:52,1912,1912,Memphis Defensive Rebound.,19,18,1,10,0.527802734743821,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+75,1,1:42,1902,1902,Foul on Alana Davis.,19,18,1,0,0.5279324831172211,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+76,1,1:42,1902,1902,Alana Davis Turnover.,19,18,1,47,0.5279324831172211,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+77,1,0:55,1855,1855,Dymond Gladney missed Three Point Jumper.,19,18,1,3,0.5285429477349748,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+78,1,0:52,1852,1852,Tatyana Hill Offensive Rebound.,19,18,1,6,0.5285820662621545,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+79,1,0:46,1846,1846,Julia Blackshell-Fair made Layup.,21,18,3,4,0.5852351958650429,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+80,1,0:42,1842,1842,Foul on Keke Hunter.,21,18,3,0,0.585388023025359,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+81,1,0:42,1842,1842,Julia Blackshell-Fair made Free Throw.,22,18,4,23,0.6129926125339111,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+82,1,0:19,1819,1819,Jamirah Shutes missed Jumper.,22,18,4,2,0.6141427319416867,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+83,1,0:17,1817,1817,Tatyana Hill Defensive Rebound.,22,18,4,9,0.6142432020612304,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+84,1,0:08,1808,1808,Dorian Branch missed Three Point Jumper.,22,18,4,1,0.6146963912992884,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+85,1,0:07,1807,1807,Memphis Defensive Rebound.,22,18,4,7,0.6147468599290388,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+86,1,0:00,1800,1800,End of 1st Quarter,22,18,4,13,0.6151008263378087,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+87,2,9:47,1787,1787,Jamirah Shutes Turnover.,22,18,4,27,0.6157616414298339,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+88,2,9:20,1760,1760,KeAsja Peace Turnover.,22,18,4,0,0.6171508766093694,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+89,2,9:20,1760,1760,Keke Hunter Turnover.,22,18,4,6,0.6171508766093694,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+90,2,9:14,1754,1754,Julia Blackshell-Fair missed Jumper.,22,18,4,4,0.6174631083087059,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+91,2,9:10,1750,1750,Dulcy Fankam Mendjiadeu Defensive Rebound.,22,18,4,11,0.6176720433401772,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+92,2,8:59,1739,1739,Keke Hunter Turnover.,22,18,4,25,0.6182500000463745,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+93,2,8:34,1714,1714,Dorian Branch missed Jumper.,22,18,4,2,0.6195837184831785,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+94,2,8:32,1712,1712,Jamirah Shutes Defensive Rebound.,22,18,4,6,0.6196917242601563,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+95,2,8:26,1706,1706,Keke Hunter made Layup. Assisted by Gazmyne Herndon.,22,20,2,23,0.5608986918759065,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Memphis
+96,2,8:03,1683,1683,Bria Patterson missed Jumper.,22,20,2,0,0.56155830985955,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+97,2,8:03,1683,1683,Keke Hunter Block.,22,20,2,5,0.56155830985955,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+98,2,7:58,1678,1678,Jamirah Shutes Defensive Rebound.,22,20,2,8,0.5617006635932745,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+99,2,7:50,1670,1670,Jamirah Shutes made Layup.,22,22,0,11,0.5,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Memphis
+100,2,7:39,1659,1659,Dorian Branch missed Jumper.,22,22,0,4,0.5,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+101,2,7:35,1655,1655,Julia Blackshell-Fair Offensive Rebound.,22,22,0,0,0.5,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+102,2,7:35,1655,1655,Julia Blackshell-Fair made Layup.,24,22,2,12,0.5623433181028693,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+103,2,7:23,1643,1643,Jamirah Shutes missed Three Point Jumper.,24,22,2,3,0.5626722010600693,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+104,2,7:20,1640,1640,KeAsja Peace Defensive Rebound.,24,22,2,9,0.5627538894640864,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+105,2,7:11,1631,1631,Dymond Gladney missed Jumper.,24,22,2,5,0.5629979118516784,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+106,2,7:06,1626,1626,Julan McDonald Defensive Rebound.,24,22,2,19,0.5631329116856477,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+107,2,6:47,1607,1607,Gazmyne Herndon missed Layup.,24,22,2,0,0.5636435717132413,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+108,2,6:47,1607,1607,KeAsja Peace Block.,24,22,2,0,0.5636435717132413,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+109,2,6:47,1607,1607,Memphis Offensive Rebound.,24,22,2,0,0.5636435717132413,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+110,2,6:47,1607,1607,Official TV Timeout,24,22,2,4,0.5636435717132413,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+111,2,6:43,1603,1603,Jamirah Shutes Turnover.,24,22,2,18,0.5637508401185388,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+112,2,6:25,1585,1585,Dorian Branch made Jumper.,26,22,4,28,0.62638216021108,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+113,2,5:57,1557,1557,Keke Hunter made Layup. Assisted by Gazmyne Herndon.,26,24,2,19,0.5649927924608014,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Memphis
+114,2,5:38,1538,1538,Dorian Branch missed Jumper.,26,24,2,8,0.5655179549899412,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+115,2,5:30,1530,1530,Memphis Defensive Rebound.,26,24,2,12,0.5657426280477328,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+116,2,5:18,1518,1518,Keke Hunter Turnover.,26,24,2,0,0.5660844268742835,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+117,2,5:18,1518,1518,Dorian Branch Steal.,26,24,2,10,0.5660844268742835,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+118,2,5:08,1508,1508,Julia Blackshell-Fair missed Layup.,26,24,2,6,0.5663742429985739,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+119,2,5:02,1502,1502,Julia Blackshell-Fair Offensive Rebound.,26,24,2,0,0.5665505490234393,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+120,2,5:02,1502,1502,Julia Blackshell-Fair made Layup.,28,24,4,4,0.6307841390174871,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+121,2,4:58,1498,1498,Gazmyne Herndon made Layup.,28,26,2,21,0.5666691650524704,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Memphis
+122,2,4:37,1477,1477,Bria Patterson missed Three Point Jumper.,28,26,2,3,0.5673075177309964,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+123,2,4:34,1474,1474,Keke Hunter Defensive Rebound.,28,26,2,7,0.5674010337726881,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+124,2,4:27,1467,1467,Jamirah Shutes missed Three Point Jumper.,28,26,2,5,0.567621690650174,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+125,2,4:22,1462,1462,Dorian Branch Defensive Rebound.,28,26,2,13,0.5677814856921266,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+126,2,4:09,1449,1449,Foul on Gazmyne Herndon.,28,26,2,0,0.5682059099619238,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+127,2,4:09,1449,1449,Tatyana Hill made Free Throw.,29,26,3,0,0.6015200198393883,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+128,2,4:09,1449,1449,Tatyana Hill made Free Throw.,30,26,4,24,0.6339198152775645,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+129,2,3:45,1425,1425,Alana Davis made Layup.,30,28,2,8,0.5689783622524043,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Memphis
+130,2,3:37,1417,1417,Foul on Dorian Branch.,30,28,2,0,0.5692282981425869,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+131,2,3:37,1417,1417,Jamirah Shutes made Free Throw.,30,29,1,0,0.5347816487510241,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Memphis
+132,2,3:37,1417,1417,Jamirah Shutes made Free Throw.,30,30,0,14,0.5,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Memphis
+133,2,3:23,1403,1403,Dymond Gladney made Three Point Jumper. Assisted by Dorian Branch.,33,30,3,24,0.6036481938618047,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+134,2,2:59,1379,1379,Keke Hunter Turnover.,33,30,3,0,0.6047089842088077,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+135,2,2:59,1379,1379,Bria Patterson Steal.,33,30,3,10,0.6047089842088077,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+136,2,2:49,1369,1369,Dorian Branch Turnover.,33,30,3,0,0.605147371692639,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+137,2,2:49,1369,1369,Alana Davis Steal.,33,30,3,10,0.605147371692639,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+138,2,2:39,1359,1359,Lanetta Williams missed Layup.,33,30,3,3,0.6055857069580813,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+139,2,2:36,1356,1356,Alana Davis Offensive Rebound.,33,30,3,9,0.6057174080157803,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+140,2,2:27,1347,1347,Jamirah Shutes Turnover.,33,30,3,25,0.6061136236669771,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+141,2,2:02,1322,1322,Foul on Tatyana Hill.,33,30,3,0,0.6072303412804684,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+142,2,2:02,1322,1322,Tatyana Hill Turnover.,33,30,3,2,0.6072303412804684,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+143,2,2:00,1320,1320,Foul on Bria Patterson.,33,30,3,0,0.607321157085543,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+144,2,2:00,1320,1320,Jamirah Shutes missed Free Throw.,33,30,3,0,0.607321157085543,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+145,2,2:00,1320,1320,Memphis Offensive Rebound.,33,30,3,0,0.607321157085543,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+146,2,2:00,1320,1320,Jamirah Shutes missed Free Throw.,33,30,3,0,0.607321157085543,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+147,2,2:00,1320,1320,Bria Patterson Defensive Rebound.,33,30,3,15,0.607321157085543,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+148,2,1:45,1305,1305,Foul on Alana Davis.,33,30,3,0,0.6080117548283195,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+149,2,1:45,1305,1305,Dymond Gladney made Free Throw.,34,30,4,0,0.6422821510353673,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+150,2,1:45,1305,1305,Dymond Gladney made Free Throw.,35,30,5,17,0.6751571470194164,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+151,2,1:28,1288,1288,Madison Griggs made Three Point Jumper. Assisted by Lanetta Williams.,35,33,2,21,0.573195384468774,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Memphis
+152,2,1:07,1267,1267,Tatyana Hill made Jumper. Assisted by Dorian Branch.,37,33,4,19,0.6446586795451911,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+153,2,0:48,1248,1248,Foul on Jamirah Shutes.,37,33,4,0,0.6459383510952668,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+154,2,0:48,1248,1248,Jamirah Shutes Turnover.,37,33,4,0,0.6459383510952668,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+155,2,0:48,1248,1248,Dorian Branch missed Three Point Jumper.,37,33,4,0,0.6459383510952668,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+156,2,0:48,1248,1248,Madison Griggs Defensive Rebound.,37,33,4,13,0.6459383510952668,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+157,2,0:35,1235,1235,Dulcy Fankam Mendjiadeu Turnover.,37,33,4,0,0.6468575310107519,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+158,2,0:35,1235,1235,Tatyana Hill Steal.,37,33,4,13,0.6468575310107519,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+159,2,0:22,1222,1222,Dymond Gladney missed Three Point Jumper.,37,33,4,1,0.6478165466329818,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+160,2,0:21,1221,1221,Julia Blackshell-Fair Offensive Rebound.,37,33,4,0,0.6478920757041349,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+161,2,0:21,1221,1221,Julia Blackshell-Fair made Layup. Assisted by Tatyana Hill.,39,33,6,21,0.7139567986607893,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,Houston
+162,2,0:00,1200,1200,End of 2nd Quarter,39,33,6,18,0.7161370692370593,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+163,3,9:42,1182,1182,Tatyana Hill made Layup. Assisted by Julia Blackshell-Fair.,41,33,8,16,0.7765724363188816,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,Houston
+164,3,9:26,1166,1166,Dulcy Fankam Mendjiadeu missed Jumper.,41,33,8,4,0.7783667103932481,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+165,3,9:22,1162,1162,Keke Hunter Offensive Rebound.,41,33,8,2,0.7788089245162013,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+166,3,9:20,1160,1160,Keke Hunter Turnover.,41,33,8,18,0.7790292494806196,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+167,3,9:02,1142,1142,Julia Blackshell-Fair Turnover.,41,33,8,0,0.7809942313554502,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+168,3,9:02,1142,1142,Jamirah Shutes Steal.,41,33,8,6,0.7809942313554502,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+169,3,8:56,1136,1136,Gazmyne Herndon missed Jumper.,41,33,8,4,0.78164441514980465,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+170,3,8:52,1132,1132,Dulcy Fankam Mendjiadeu Offensive Rebound.,41,33,8,1,0.7820772354591757,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+171,3,8:51,1131,1131,Dulcy Fankam Mendjiadeu made Layup.,41,35,6,7,0.7228886212184823,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,Memphis
+172,3,8:44,1124,1124,Dymond Gladney made Three Point Jumper. Assisted by Julia Blackshell-Fair.,44,35,9,15,0.8089587477743692,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,Houston
+173,3,8:29,1109,1109,Aerial Wilson made Layup.,44,37,7,19,0.7560105645134801,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,Memphis
+174,3,8:10,1090,1090,Foul on Keke Hunter.,44,37,7,0,0.7580018789093421,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+175,3,8:10,1090,1090,Tatyana Hill made Free Throw.,45,37,8,0,0.786652429417676,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,Houston
+176,3,8:10,1090,1090,Tatyana Hill made Free Throw.,46,37,9,21,0.8127489252032354,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,Houston
+177,3,7:49,1069,1069,Aerial Wilson missed Three Point Jumper.,46,37,9,3,0.8151554008021799,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+178,3,7:46,1066,1066,Julia Blackshell-Fair Defensive Rebound.,46,37,9,5,0.8155056819786426,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+179,3,7:41,1061,1061,Dymond Gladney missed Three Point Jumper.,46,37,9,4,0.8160937428975178,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+180,3,7:37,1057,1057,Gazmyne Herndon Defensive Rebound.,46,37,9,5,0.8165682614544376,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+181,3,7:32,1052,1052,Dulcy Fankam Mendjiadeu made Layup. Assisted by Gazmyne Herndon.,46,39,7,28,0.7621571734141108,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,Memphis
+182,3,7:04,1024,1024,Tatyana Hill missed Layup.,46,39,7,4,0.7654513700756356,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+183,3,7:00,1020,1020,Tatyana Hill Offensive Rebound.,46,39,7,0,0.7659427469629233,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+184,3,7:00,1020,1020,Tatyana Hill made Layup.,48,39,9,5,0.8211660848920075,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,Houston
+185,3,6:55,1015,1015,Gazmyne Herndon missed Layup.,48,39,9,3,0.8218212193315161,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+186,3,6:52,1012,1012,Gazmyne Herndon Offensive Rebound.,48,39,9,3,0.8222186948056405,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+187,3,6:49,1009,1009,Jamirah Shutes missed Three Point Jumper.,48,39,9,4,0.8226195597301347,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+188,3,6:45,1005,1005,Tatyana Hill Defensive Rebound.,48,39,9,3,0.8231594488792605,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+189,3,6:42,1002,1002,Tatyana Hill Turnover.,48,39,9,10,0.8235685139987856,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+190,3,6:32,992,992,Foul on Bria Patterson.,48,39,9,10,0.8249587368045772,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+191,3,6:22,982,982,Keke Hunter missed Jumper.,48,39,9,2,0.8263919993787708,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+192,3,6:20,980,980,Keke Hunter Offensive Rebound.,48,39,9,1,0.826684040128418,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+193,3,6:19,979,979,Keke Hunter missed Layup.,48,39,9,3,0.8268307500680713,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+194,3,6:16,976,976,Bria Patterson Defensive Rebound.,48,39,9,12,0.8272736671275474,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+195,3,6:04,964,964,Julia Blackshell-Fair made Layup. Assisted by Dymond Gladney.,50,39,11,11,0.8732360914535303,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,Houston
+196,3,5:53,953,953,Madison Griggs made Three Point Jumper.,50,42,8,24,0.8042820032944707,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,Memphis
+197,3,5:29,929,929,Dorian Branch missed Three Point Jumper.,50,42,8,4,0.807322246284484,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+198,3,5:25,925,925,Keke Hunter Defensive Rebound.,50,42,8,19,0.8077956030553219,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+199,3,5:06,906,906,Alana Davis missed Jumper.,50,42,8,5,0.8099503887511738,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+200,3,5:01,901,901,Houston Defensive Rebound.,50,42,8,1,0.8104975349916564,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+201,3,5:00,900,900,Official TV Timeout,50,42,8,12,0.8106062253156268,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+202,3,4:48,888,888,Dymond Gladney missed Three Point Jumper.,50,42,8,3,0.8118960149865494,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+203,3,4:45,885,885,Keke Hunter Defensive Rebound.,50,42,8,6,0.8122154800548297,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+204,3,4:39,879,879,Keke Hunter made Jumper. Assisted by Gazmyne Herndon.,50,44,6,14,0.750539264133525,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,Memphis
+205,3,4:25,865,865,Bria Patterson Turnover.,50,44,6,0,0.7519149142963858,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+206,3,4:25,865,865,Jamirah Shutes Steal.,50,44,6,5,0.7519149142963858,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+207,3,4:20,860,860,Gazmyne Herndon missed Layup.,50,44,6,0,0.7524110707460941,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+208,3,4:20,860,860,Dorian Branch Block.,50,44,6,8,0.7524110707460941,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+209,3,4:12,852,852,Houston Defensive Rebound.,50,44,6,0,0.7532143774635881,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+210,3,4:12,852,852,Bria Patterson missed Three Point Jumper.,50,44,6,0,0.7532143774635881,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+211,3,4:12,852,852,Keke Hunter Defensive Rebound.,50,44,6,0,0.7532143774635881,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+212,3,4:12,852,852,Jamirah Shutes Turnover.,50,44,6,1,0.7532143774635881,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+213,3,4:11,851,851,Tatyana Hill Turnover.,50,44,6,28,0.7533157936163957,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+214,3,3:43,823,823,Jamirah Shutes made Layup.,50,46,4,11,0.6802588377733042,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,Memphis
+215,3,3:32,812,812,Julia Blackshell-Fair Turnover.,50,46,4,0,0.6812536488781407,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+216,3,3:32,812,812,Jamirah Shutes Steal.,50,46,4,22,0.6812536488781407,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+217,3,3:10,790,790,Alana Davis Turnover.,50,46,4,0,0.68342495688582106,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+218,3,3:10,790,790,Dymond Gladney Steal.,50,46,4,4,0.68342495688582106,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+219,3,3:06,786,786,Dorian Branch made Layup. Assisted by Julia Blackshell-Fair.,52,46,6,10,0.7608386904061807,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,Houston
+220,3,2:56,776,776,Houston  Timeout,52,46,6,18,0.762237414424913,Houston,Memphis,4,5,1,0,NA,401169290,2020-01-05,
+221,3,2:38,758,758,Jamirah Shutes missed Jumper.,52,46,6,3,0.7649789042182152,Houston,Memphis,4,5,1,0,NA,401169290,2020-01-05,
+222,3,2:35,755,755,Alana Davis Offensive Rebound.,52,46,6,1,0.7654661994468447,Houston,Memphis,4,5,1,0,NA,401169290,2020-01-05,
+223,3,2:34,754,754,Alana Davis made Layup.,52,48,4,28,0.6876597684752807,Houston,Memphis,4,5,1,0,NA,401169290,2020-01-05,Memphis
+224,3,2:06,726,726,Dorian Branch made Three Point Jumper. Assisted by Dymond Gladney.,55,48,7,7,0.8043994737050797,Houston,Memphis,4,5,1,0,NA,401169290,2020-01-05,Houston
+225,3,1:59,719,719,Foul on Tatyana Hill.,55,48,7,0,0.8057079297144056,Houston,Memphis,4,5,1,0,NA,401169290,2020-01-05,
+226,3,1:59,719,719,Gazmyne Herndon missed Free Throw.,55,48,7,0,0.8057079297144056,Houston,Memphis,4,5,1,0,NA,401169290,2020-01-05,
+227,3,1:59,719,719,Memphis Offensive Rebound.,55,48,7,0,0.8057079297144056,Houston,Memphis,4,5,1,0,NA,401169290,2020-01-05,
+228,3,1:59,719,719,Gazmyne Herndon made Free Throw.,55,49,6,13,0.7719165106249092,Houston,Memphis,4,5,1,0,NA,401169290,2020-01-05,Memphis
+229,3,1:46,706,706,Foul on Madison Griggs.,55,49,6,11,0.7740873631879426,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+230,3,1:35,695,695,Julia Blackshell-Fair made Layup.,57,49,8,9,0.8395695365747424,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,Houston
+231,3,1:26,686,686,Foul on Julia Blackshell-Fair.,57,49,8,13,0.8409290333642382,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+232,3,1:13,673,673,Gazmyne Herndon made Free Throw.,57,50,7,15,0.8129618647961668,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,Memphis
+233,3,0:58,658,658,Gazmyne Herndon missed Free Throw.,57,50,7,3,0.8150831570830995,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+234,3,0:55,655,655,Julia Blackshell-Fair Defensive Rebound.,57,50,7,4,0.8155068421836016,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+235,3,0:51,651,651,Julia Blackshell-Fair missed Three Point Jumper.,57,50,7,0,0.8160738256006818,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+236,3,0:51,651,651,Keke Hunter Defensive Rebound.,57,50,7,2,0.8160738256006818,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+237,3,0:49,649,649,Jamirah Shutes Turnover.,57,50,7,0,0.8163586134978325,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+238,3,0:49,649,649,Julia Blackshell-Fair Steal.,57,50,7,5,0.8163586134978325,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+239,3,0:44,644,644,Dorian Branch missed Three Point Jumper.,57,50,7,4,0.8170758093705441,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+240,3,0:40,640,640,Maya Jones Offensive Rebound.,57,50,7,1,0.817656414152467,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+241,3,0:39,639,639,Maya Jones made Layup.,59,50,9,0,0.8733091547345322,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,Houston
+242,3,0:39,639,639,Julia Blackshell-Fair missed Layup.,59,50,9,0,0.8733091547345322,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+243,3,0:39,639,639,Memphis Defensive Rebound.,59,50,9,32,0.8733091547345322,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+244,3,0:07,607,607,Jamirah Shutes missed Jumper.,59,50,9,1,0.8781139407784777,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+245,3,0:06,606,606,Houston Defensive Rebound.,59,50,9,6,0.8782780895160694,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+246,3,0:00,600,600,End of 3rd Quarter,59,50,9,3,0.8792856595745164,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+247,4,9:57,597,597,Memphis  Timeout,59,50,9,4,0.8798047676104894,Houston,Memphis,5,5,0,1,NA,401169290,2020-01-05,
+248,4,9:53,593,593,Gazmyne Herndon missed Jumper.,59,50,9,2,0.8805137774702301,Houston,Memphis,5,5,0,1,NA,401169290,2020-01-05,
+249,4,9:51,591,591,Alana Davis Offensive Rebound.,59,50,9,15,0.8808757905641157,Houston,Memphis,5,5,0,1,NA,401169290,2020-01-05,
+250,4,9:36,576,576,Alana Davis missed Jumper.,59,50,9,0,0.8837635140327973,Houston,Memphis,5,5,0,1,NA,401169290,2020-01-05,
+251,4,9:36,576,576,Jazmaine Lewis Block.,59,50,9,6,0.8837635140327973,Houston,Memphis,5,5,0,1,NA,401169290,2020-01-05,
+252,4,9:30,570,570,Memphis Offensive Rebound.,59,50,9,1,0.8850104504540569,Houston,Memphis,5,5,0,1,NA,401169290,2020-01-05,
+253,4,9:29,569,569,Dulcy Fankam Mendjiadeu missed Jumper.,59,50,9,0,0.8852236972657371,Houston,Memphis,5,5,0,1,NA,401169290,2020-01-05,
+254,4,9:29,569,569,Gazmyne Herndon Offensive Rebound.,59,50,9,0,0.8852236972657371,Houston,Memphis,5,5,0,1,NA,401169290,2020-01-05,
+255,4,9:29,569,569,Foul on Dymond Gladney.,59,50,9,0,0.8852236972657371,Houston,Memphis,5,5,0,1,NA,401169290,2020-01-05,
+256,4,9:29,569,569,Gazmyne Herndon made Free Throw.,59,51,8,0,0.8600699913088582,Houston,Memphis,5,5,0,1,NA,401169290,2020-01-05,Memphis
+257,4,9:29,569,569,Gazmyne Herndon made Free Throw.,59,52,7,14,0.8304595224337994,Houston,Memphis,5,5,0,1,NA,401169290,2020-01-05,Memphis
+258,4,9:15,555,555,Dorian Branch Turnover.,59,52,7,0,0.8338749493286487,Houston,Memphis,5,5,0,1,NA,401169290,2020-01-05,
+259,4,9:15,555,555,Alana Davis Steal.,59,52,7,38,0.8338749493286487,Houston,Memphis,5,5,0,1,NA,401169290,2020-01-05,
+260,4,8:37,517,517,Alana Davis Turnover.,59,52,7,0,0.8425020275421029,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+261,4,8:37,517,517,Jazmaine Lewis made Layup. Assisted by Dorian Branch.,61,52,9,11,0.8962370440256298,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,Houston
+262,4,8:26,506,506,Gazmyne Herndon missed Jumper.,61,52,9,3,0.898072883724346,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+263,4,8:23,503,503,Maya Jones Defensive Rebound.,61,52,9,28,0.8985636482711892,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+264,4,7:55,475,475,Jazmaine Lewis missed Jumper.,61,52,9,3,0.903321092750534,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+265,4,7:52,472,472,Dulcy Fankam Mendjiadeu Defensive Rebound.,61,52,9,8,0.9038806241703224,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+266,4,7:44,464,464,Foul on Maya Jones.,61,52,9,0,0.905450724957574,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+267,4,7:44,464,464,Alana Davis made Free Throw.,61,53,8,0,0.88166338430031,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,Memphis
+268,4,7:44,464,464,Alana Davis missed Free Throw.,61,53,8,0,0.88166338430031,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+269,4,7:44,464,464,Jazmaine Lewis Defensive Rebound.,61,53,8,27,0.88166338430031,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+270,4,7:17,437,437,Houston  Turnover.,61,53,8,24,0.8886387346761077,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+271,4,6:53,413,413,Keke Hunter Turnover.,61,53,8,0,0.8959564947009301,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+272,4,6:53,413,413,Julia Blackshell-Fair Steal.,61,53,8,23,0.8959564947009301,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+273,4,6:30,390,390,Julia Blackshell-Fair Turnover.,61,53,8,21,0.9020793947844985,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+274,4,6:09,369,369,Dulcy Fankam Mendjiadeu made Layup.,61,55,6,28,0.8472602943656137,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,Memphis
+275,4,5:41,341,341,Julia Blackshell-Fair missed Three Point Jumper.,61,55,6,4,0.856868671994938,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+276,4,5:37,337,337,Aerial Wilson Defensive Rebound.,61,55,6,3,0.8584236264685632,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+277,4,5:34,334,334,Foul on Dorian Branch.,61,55,6,2,0.8596260079254432,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+278,4,5:32,332,332,Dulcy Fankam Mendjiadeu made Jumper. Assisted by Jamirah Shutes.,61,57,4,33,0.7707698272757393,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,Memphis
+279,4,4:59,299,299,Dorian Branch Turnover.,61,57,4,0,0.7846523726876814,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+280,4,4:59,299,299,Jamirah Shutes Steal.,61,57,4,6,0.7846523726876814,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+281,4,4:53,293,293,Foul on Dymond Gladney.,61,57,4,0,0.785535503981548,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+282,4,4:53,293,293,Keke Hunter missed Free Throw.,61,57,4,0,0.785535503981548,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+283,4,4:53,293,293,Memphis Offensive Rebound.,61,57,4,0,0.785535503981548,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+284,4,4:53,293,293,Keke Hunter missed Free Throw.,61,57,4,0,0.785535503981548,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+285,4,4:53,293,293,Dulcy Fankam Mendjiadeu Offensive Rebound.,61,57,4,7,0.785535503981548,Houston,Memphis,5,5,0,0,NA,401169290,2020-01-05,
+286,4,4:46,286,286,Aerial Wilson Turnover.,61,57,4,0,0.7857059030194643,Houston,Memphis,5,5,1,0,NA,401169290,2020-01-05,
+287,4,4:46,286,286,Houston  Timeout,61,57,4,6,0.7857059030194643,Houston,Memphis,4,5,1,0,NA,401169290,2020-01-05,
+288,4,4:40,280,280,Dymond Gladney made Three Point Jumper.,64,57,7,140,0.9062871462371936,Houston,Memphis,4,5,1,0,NA,401169290,2020-01-05,Houston
+289,4,2:20,140,140,Dorian Branch made Three Point Jumper.,67,57,10,0,0.991018615786225,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,Houston
+290,4,2:20,140,140,Aerial Wilson missed Jumper.,67,57,10,0,0.991018615786225,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+291,4,2:20,140,140,Dulcy Fankam Mendjiadeu Offensive Rebound.,67,57,10,0,0.991018615786225,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+292,4,2:20,140,140,Gazmyne Herndon made Layup. Assisted by Jamirah Shutes.,67,59,8,0,0.9773096417091888,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,Memphis
+293,4,2:20,140,140,Dorian Branch missed Three Point Jumper.,67,59,8,0,0.9773096417091888,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+294,4,2:20,140,140,Jamirah Shutes Defensive Rebound.,67,59,8,0,0.9773096417091888,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+295,4,2:20,140,140,Jamirah Shutes Turnover.,67,59,8,0,0.9773096417091888,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+296,4,2:20,140,140,Dorian Branch Steal.,67,59,8,0,0.9773096417091888,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+297,4,2:20,140,140,Julia Blackshell-Fair made Layup.,69,59,10,0,0.991018615786225,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,Houston
+298,4,2:20,140,140,Bria Patterson missed Layup.,69,59,10,0,0.991018615786225,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+299,4,2:20,140,140,Dulcy Fankam Mendjiadeu Defensive Rebound.,69,59,10,7,0.991018615786225,Houston,Memphis,4,5,0,0,NA,401169290,2020-01-05,
+300,4,2:13,133,133,Memphis  Timeout,69,59,10,19,0.992627113596124,Houston,Memphis,4,4,0,1,NA,401169290,2020-01-05,
+301,4,1:54,114,114,Dulcy Fankam Mendjiadeu missed Jumper.,69,59,10,3,0.9960100901819818,Houston,Memphis,4,4,0,1,NA,401169290,2020-01-05,
+302,4,1:51,111,111,Houston Defensive Rebound.,69,59,10,17,0.9964221807199807,Houston,Memphis,4,4,0,1,NA,401169290,2020-01-05,
+303,4,1:34,94,94,Julia Blackshell-Fair missed Jumper.,69,59,10,3,0.998206646046968,Houston,Memphis,4,4,0,1,NA,401169290,2020-01-05,
+304,4,1:31,91,91,Keke Hunter Defensive Rebound.,69,59,10,5,0.9984298391291561,Houston,Memphis,4,4,0,1,NA,401169290,2020-01-05,
+305,4,1:26,86,86,Dulcy Fankam Mendjiadeu made Layup.,69,61,8,22,0.9952449036719189,Houston,Memphis,4,4,0,1,NA,401169290,2020-01-05,Memphis
+306,4,1:04,64,64,Foul on Gazmyne Herndon.,69,61,8,5,0.9979844455748039,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+307,4,0:59,59,59,Foul on Julia Blackshell-Fair.,69,61,8,5,0.9983688042052631,Houston,Memphis,4,4,0,0,NA,401169290,2020-01-05,
+308,4,0:54,54,54,Houston  Timeout,69,61,8,6,0.9986873736415456,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,
+309,4,0:48,48,48,Foul on Keke Hunter.,69,61,8,2,0.9989970310881261,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,
+310,4,0:46,46,46,Foul on Gazmyne Herndon.,69,61,8,6,0.9990850750059551,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,
+311,4,0:40,40,40,Foul on Madison Griggs.,69,61,8,0,0.9993103985801203,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,
+312,4,0:40,40,40,Dorian Branch made Free Throw.,70,61,9,0,0.9997222594315531,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,Houston
+313,4,0:40,40,40,Dorian Branch made Free Throw.,71,61,10,0,0.9998881660656024,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,Houston
+314,4,0:40,40,40,Julia Blackshell-Fair missed Free Throw.,71,61,10,0,0.9998881660656024,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,
+315,4,0:40,40,40,Memphis Defensive Rebound.,71,61,10,14,0.9998881660656024,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,
+316,4,0:26,26,26,Madison Griggs missed Three Point Jumper.,71,61,10,0,0.9999530884094572,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,
+317,4,0:26,26,26,Keke Hunter Offensive Rebound.,71,61,10,3,0.9999530884094572,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,
+318,4,0:23,23,23,Keke Hunter made Layup.,71,63,8,3,0.9997048640088042,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,Memphis
+319,4,0:20,20,20,Foul on Madison Griggs.,71,63,8,0,0.999747662872159,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,
+320,4,0:20,20,20,Dorian Branch made Free Throw.,72,63,9,0,0.999910398931701,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,Houston
+321,4,0:20,20,20,Dorian Branch made Free Throw.,73,63,10,3,0.9999681873658404,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,Houston
+322,4,0:17,17,17,Jamirah Shutes missed Three Point Jumper.,73,63,10,0,0.9999739675610575,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,
+323,4,0:17,17,17,Memphis Offensive Rebound.,73,63,10,9,0.9999739675610575,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,
+324,4,0:08,8,8,Gazmyne Herndon made Layup. Assisted by Jamirah Shutes.,73,65,8,2,0.9998696554629153,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,Memphis
+325,4,0:06,6,6,Foul on Jamirah Shutes.,73,65,8,0,0.9998837482661874,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,
+326,4,0:06,6,6,Julia Blackshell-Fair made Free Throw.,74,65,9,0,0.9999625359348822,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,Houston
+327,4,0:06,6,6,Julia Blackshell-Fair made Free Throw.,75,65,10,0,0.9999879272232879,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,Houston
+328,4,0:06,6,6,Madison Griggs missed Three Point Jumper.,75,65,10,0,0.9999879272232879,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,
+329,4,0:06,6,6,Julia Blackshell-Fair Defensive Rebound.,75,65,10,6,0.9999879272232879,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,
+330,4,0:00,0,0,End of 4th Quarter,75,65,10,0,1,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,
+331,4,0:00,0,0,End of Game,75,65,10,0,1,Houston,Memphis,3,4,1,0,NA,401169290,2020-01-05,

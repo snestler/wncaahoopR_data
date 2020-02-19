@@ -1,0 +1,361 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:42,2382,2382,Mariella Fasoula missed Jumper.,0,0,0,3,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,NA
+2,1,9:39,2379,2379,Taylor Petty Defensive Rebound.,0,0,0,27,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+3,1,9:12,2352,2352,Le'Jzae Davidson made Jumper. Assisted by Celena Taborn.,0,2,-2,14,0.4549524799339148,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,Furman
+4,1,8:58,2338,2338,Brinae Alexander missed Three Point Jumper.,0,2,-2,4,0.4546487271837898,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+5,1,8:54,2334,2334,Milica Manojlovic Defensive Rebound.,0,2,-2,23,0.4545614938352706,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+6,1,8:31,2311,2311,Celena Taborn missed Layup.,0,2,-2,2,0.45405627147729344,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+7,1,8:29,2309,2309,Mariella Fasoula Defensive Rebound.,0,2,-2,0,0.45401205950216367,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+8,1,8:29,2309,2309,Foul on Celena Taborn.,0,2,-2,19,0.45401205950216367,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+9,1,8:10,2290,2290,Jordyn Cambridge missed Jumper.,0,2,-2,2,0.45358996855980643,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+10,1,8:08,2288,2288,Brinae Alexander Offensive Rebound.,0,2,-2,0,0.4535453277550481,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+11,1,8:08,2288,2288,Brinae Alexander made Layup.,2,2,0,0,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,Vanderbilt
+12,1,8:08,2288,2288,Foul on Taylor Petty.,2,2,0,0,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+13,1,8:08,2288,2288,Brinae Alexander missed Free Throw.,2,2,0,4,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+14,1,8:04,2284,2284,Jordyn Cambridge Offensive Rebound.,2,2,0,13,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+15,1,7:51,2271,2271,Mariella Fasoula missed Layup.,2,2,0,4,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+16,1,7:47,2267,2267,Milica Manojlovic Defensive Rebound.,2,2,0,2,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+17,1,7:45,2265,2265,Lindsey Taylor made Layup. Assisted by Milica Manojlovic.,2,4,-2,12,0.4530293028417215,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,Furman
+18,1,7:33,2253,2253,Brinae Alexander Turnover.,2,4,-2,0,0.45275826884777715,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+19,1,7:33,2253,2253,Le'Jzae Davidson Steal.,2,4,-2,4,0.45275826884777715,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+20,1,7:29,2249,2249,Le'Jzae Davidson missed Layup.,2,4,-2,2,0.4526676712149446,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+21,1,7:27,2247,2247,Vanderbilt Defensive Rebound.,2,4,-2,19,0.45262232685875164,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+22,1,7:08,2228,2228,Brinae Alexander made Jumper.,4,4,0,20,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,Vanderbilt
+23,1,6:48,2208,2208,Taylor Petty missed Three Point Jumper.,4,4,0,4,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+24,1,6:44,2204,2204,Autumn Newby Defensive Rebound.,4,4,0,7,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+25,1,6:37,2197,2197,Mariella Fasoula missed Layup.,4,4,0,4,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+26,1,6:33,2193,2193,Lindsey Taylor Defensive Rebound.,4,4,0,15,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+27,1,6:18,2178,2178,Foul on Jordyn Cambridge.,4,4,0,12,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+28,1,6:06,2166,2166,Lindsey Taylor made Jumper.,4,6,-2,14,0.45076545422542874,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,Furman
+29,1,5:52,2152,2152,Autumn Newby missed Jumper.,4,6,-2,4,0.4504409439388574,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+30,1,5:48,2148,2148,Milica Manojlovic Defensive Rebound.,4,6,-2,5,0.45034794935478056,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+31,1,5:43,2143,2143,Taylor Petty Turnover.,4,6,-2,1,0.45023152697512836,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+32,1,5:42,2142,2142,Foul on Lindsey Taylor.,4,6,-2,13,0.45020821827645324,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+33,1,5:29,2129,2129,Foul on Le'Jzae Davidson.,4,6,-2,2,0.44990445106958366,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+34,1,5:27,2127,2127,Lea Lea Carter made Jumper. Assisted by Jordyn Cambridge.,6,6,0,18,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,Vanderbilt
+35,1,5:09,2109,2109,Le'Jzae Davidson Turnover.,6,6,0,0,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+36,1,5:09,2109,2109,Jordyn Cambridge Steal.,6,6,0,6,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+37,1,5:03,2103,2103,Jordyn Cambridge missed Layup.,6,6,0,0,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+38,1,5:03,2103,2103,Milica Manojlovic Defensive Rebound.,6,6,0,0,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+39,1,5:03,2103,2103,Foul on Autumn Newby.,6,6,0,8,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+40,1,4:55,2095,2095,Lindsey Taylor made Layup. Assisted by Le'Jzae Davidson.,6,8,-2,16,0.44910293228347964,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,Furman
+41,1,4:39,2079,2079,Foul on Tierra Hodges.,6,8,-2,0,0.44872193532611787,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+42,1,4:39,2079,2079,Koi Love made Free Throw.,7,8,-1,0,0.47429319448595114,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,Vanderbilt
+43,1,4:39,2079,2079,Koi Love missed Free Throw.,7,8,-1,1,0.47429319448595114,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+44,1,4:38,2078,2078,Sutton West Defensive Rebound.,7,8,-1,25,0.47428115027304424,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+45,1,4:13,2053,2053,Milica Manojlovic missed Three Point Jumper.,7,8,-1,3,0.47397828444364243,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+46,1,4:10,2050,2050,Koi Love Defensive Rebound.,7,8,-1,8,0.4739417061143947,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+47,1,4:02,2042,2042,Foul on Lindsey Taylor.,7,8,-1,0,0.4738439093142479,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+48,1,4:02,2042,2042,Autumn Newby missed Free Throw.,7,8,-1,0,0.4738439093142479,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+49,1,4:02,2042,2042,Vanderbilt Offensive Rebound.,7,8,-1,0,0.4738439093142479,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+50,1,4:02,2042,2042,Autumn Newby made Free Throw.,8,8,0,8,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,Vanderbilt
+51,1,3:54,2034,2034,Milica Manojlovic Turnover.,8,8,0,18,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+52,1,3:36,2016,2016,Foul on Lea Lea Carter.,8,8,0,0,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+53,1,3:36,2016,2016,Lea Lea Carter Turnover.,8,8,0,11,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+54,1,3:25,2005,2005,Sutton West missed Jumper.,8,8,0,5,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+55,1,3:20,2000,2000,Chelsie Hall Defensive Rebound.,8,8,0,0,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+56,1,3:20,2000,2000,Foul on Sutton West.,8,8,0,0,0.5,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+57,1,3:20,2000,2000,Chelsie Hall made Free Throw.,9,8,1,0,0.5266759152599936,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,Vanderbilt
+58,1,3:20,2000,2000,Chelsie Hall missed Free Throw.,9,8,1,1,0.5266759152599936,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+59,1,3:19,1999,1999,Brinae Alexander Offensive Rebound.,9,8,1,2,0.5266884291308235,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+60,1,3:17,1997,1997,Brinae Alexander made Jumper.,11,8,3,10,0.5795355937156613,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,Vanderbilt
+61,1,3:07,1987,1987,Furman  Timeout,11,8,3,2,0.579903990082581,Vanderbilt,Furman,3,4,1,0,NA,401167030,2019-11-22,
+62,1,3:05,1985,1985,Milica Manojlovic Turnover.,11,8,3,11,0.5799778985854955,Vanderbilt,Furman,3,4,1,0,NA,401167030,2019-11-22,
+63,1,2:54,1974,1974,Brinae Alexander made Three Point Jumper. Assisted by Chelsie Hall.,14,8,6,24,0.6567207361162346,Vanderbilt,Furman,3,4,1,0,NA,401167030,2019-11-22,Vanderbilt
+64,1,2:30,1950,1950,Le'Jzae Davidson missed Three Point Jumper.,14,8,6,2,0.6583825054593728,Vanderbilt,Furman,3,4,1,0,NA,401167030,2019-11-22,
+65,1,2:28,1948,1948,Tierra Hodges Offensive Rebound.,14,8,6,3,0.6585218489176876,Vanderbilt,Furman,3,4,1,0,NA,401167030,2019-11-22,
+66,1,2:25,1945,1945,Tierra Hodges missed Layup.,14,8,6,5,0.6587311186438692,Vanderbilt,Furman,3,4,1,0,NA,401167030,2019-11-22,
+67,1,2:20,1940,1940,Celena Taborn Offensive Rebound.,14,8,6,1,0.6590805854933653,Vanderbilt,Furman,3,4,1,0,NA,401167030,2019-11-22,
+68,1,2:19,1939,1939,Celena Taborn made Layup.,14,10,4,16,0.6081813836118145,Vanderbilt,Furman,3,4,1,0,NA,401167030,2019-11-22,Furman
+69,1,2:03,1923,1923,Koi Love missed Jumper.,14,10,4,0,0.6089760442114043,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+70,1,2:03,1923,1923,Celena Taborn Block.,14,10,4,11,0.6089760442114043,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+71,1,1:52,1912,1912,Celena Taborn Defensive Rebound.,14,10,4,0,0.609521922768613,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+72,1,1:52,1912,1912,Tierra Hodges made Layup.,14,12,2,14,0.5554340691067196,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,Furman
+73,1,1:38,1898,1898,Koi Love Turnover.,14,12,2,18,0.5557939551736549,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+74,1,1:20,1880,1880,Foul on Koi Love.,14,12,2,1,0.5562565669528433,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+75,1,1:19,1879,1879,Milica Manojlovic Turnover.,14,12,2,0,0.5562822804099775,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+76,1,1:19,1879,1879,Koi Love Steal.,14,12,2,6,0.5562822804099775,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+77,1,1:13,1873,1873,Foul on Le'Jzae Davidson.,14,12,2,0,0.5564366163432634,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+78,1,1:13,1873,1873,Jordyn Cambridge made Free Throw.,15,12,3,0,0.5842072444630011,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,Vanderbilt
+79,1,1:13,1873,1873,Jordyn Cambridge made Free Throw.,16,12,4,24,0.6114532770714997,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,Vanderbilt
+80,1,0:49,1849,1849,Taylor Petty Turnover.,16,12,4,10,0.6126441801323118,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+81,1,0:39,1839,1839,Jordyn Cambridge made Jumper.,18,12,6,8,0.6661469072219529,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,Vanderbilt
+82,1,0:31,1831,1831,Jarya Outten Turnover.,18,12,6,0,0.6667084956145828,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+83,1,0:31,1831,1831,Lea Lea Carter Steal.,18,12,6,7,0.6667084956145828,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+84,1,0:24,1824,1824,Lea Lea Carter missed Jumper.,18,12,6,3,0.6672009155366213,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+85,1,0:21,1821,1821,Taylor Petty Defensive Rebound.,18,12,6,15,0.6674122833303127,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+86,1,0:06,1806,1806,Foul on Mariella Fasoula.,18,12,6,0,0.6684725514416132,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+87,1,0:06,1806,1806,Celena Taborn missed Free Throw.,18,12,6,0,0.6684725514416132,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+88,1,0:06,1806,1806,Furman Offensive Rebound.,18,12,6,0,0.6684725514416132,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+89,1,0:06,1806,1806,Celena Taborn made Free Throw.,18,13,5,6,0.6420801221773212,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,Furman
+90,1,0:00,1800,1800,Jordyn Cambridge missed Jumper.,18,13,5,0,0.6424482088636343,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+91,1,0:00,1800,1800,Furman Defensive Rebound.,18,13,5,0,0.6424482088636343,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+92,1,0:00,1800,1800,End of 1st Quarter,18,13,5,5,0.6424482088636343,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+93,2,9:55,1795,1795,Mariella Fasoula made Jumper.,20,13,7,25,0.6947207824083159,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,Vanderbilt
+94,2,9:30,1770,1770,Foul on Taylor Petty.,20,13,7,0,0.6967239094516093,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+95,2,9:30,1770,1770,Taylor Petty Turnover.,20,13,7,11,0.6967239094516093,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+96,2,9:19,1759,1759,Brinae Alexander missed Jumper.,20,13,7,0,0.6976140207936418,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+97,2,9:19,1759,1759,Celena Taborn Block.,20,13,7,2,0.6976140207936418,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+98,2,9:17,1757,1757,Celena Taborn Defensive Rebound.,20,13,7,0,0.6977765038369194,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+99,2,9:17,1757,1757,Foul on Brinae Alexander.,20,13,7,18,0.6977765038369194,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+100,2,8:59,1739,1739,Le'Jzae Davidson missed Three Point Jumper.,20,13,7,6,0.6992485714647848,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+101,2,8:53,1733,1733,Mariella Fasoula Defensive Rebound.,20,13,7,10,0.6997434135521371,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+102,2,8:43,1723,1723,Mariella Fasoula made Jumper. Assisted by Jordyn Cambridge.,22,13,9,26,0.7489262782497057,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,Vanderbilt
+103,2,8:17,1697,1697,Le'Jzae Davidson missed Jumper.,22,13,9,3,0.7514462442023065,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+104,2,8:14,1694,1694,Jordyn Cambridge Defensive Rebound.,22,13,9,5,0.7517402833086324,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+105,2,8:09,1689,1689,Jordyn Cambridge made Jumper.,24,13,11,7,0.79532705473024,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,Vanderbilt
+106,2,8:02,1682,1682,Tyah Hunter missed Jumper.,24,13,11,4,0.7960563498820241,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+107,2,7:58,1678,1678,Mariella Fasoula Defensive Rebound.,24,13,11,6,0.7964687650338305,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+108,2,7:52,1672,1672,Brinae Alexander made Three Point Jumper. Assisted by Lea Lea Carter.,27,13,14,3,0.850850566232416,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,Vanderbilt
+109,2,7:49,1669,1669,Furman  Timeout,27,13,14,0,0.8511542300724655,Vanderbilt,Furman,3,4,1,0,NA,401167030,2019-11-22,
+110,2,7:49,1669,1669,Official TV Timeout,27,13,14,8,0.8511542300724655,Vanderbilt,Furman,3,4,1,0,NA,401167030,2019-11-22,
+111,2,7:41,1661,1661,Celena Taborn made Layup. Assisted by Le'Jzae Davidson.,27,15,12,18,0.8175777214868598,Vanderbilt,Furman,3,4,1,0,NA,401167030,2019-11-22,Furman
+112,2,7:23,1643,1643,Mariella Fasoula Turnover.,27,15,12,21,0.8193700247430713,Vanderbilt,Furman,3,4,1,0,NA,401167030,2019-11-22,
+113,2,7:02,1622,1622,Foul on Chelsie Hall.,27,15,12,0,0.8214127455803127,Vanderbilt,Furman,3,4,1,0,NA,401167030,2019-11-22,
+114,2,7:02,1622,1622,Tyah Hunter made Free Throw.,27,16,11,0,0.8019911820761005,Vanderbilt,Furman,3,4,1,0,NA,401167030,2019-11-22,Furman
+115,2,7:02,1622,1622,Tyah Hunter made Free Throw.,27,17,10,9,0.7810205684847273,Vanderbilt,Furman,3,4,1,0,NA,401167030,2019-11-22,Furman
+116,2,6:53,1613,1613,Koi Love Turnover.,27,17,10,29,0.781860361627976,Vanderbilt,Furman,3,4,1,0,NA,401167030,2019-11-22,
+117,2,6:24,1584,1584,Le'Jzae Davidson Turnover.,27,17,10,0,0.7845472368052975,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+118,2,6:24,1584,1584,Jordyn Cambridge Steal.,27,17,10,6,0.7845472368052975,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+119,2,6:18,1578,1578,Autumn Newby made Layup. Assisted by Jordyn Cambridge.,29,17,12,16,0.8256034458395913,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,Vanderbilt
+120,2,6:02,1562,1562,Foul on Celena Taborn.,29,17,12,0,0.8271223163938067,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+121,2,6:02,1562,1562,Celena Taborn Turnover.,29,17,12,14,0.8271223163938067,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+122,2,5:48,1548,1548,Foul on Koi Love.,29,17,12,0,0.8284587026137513,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+123,2,5:48,1548,1548,Koi Love Turnover.,29,17,12,18,0.8284587026137513,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+124,2,5:30,1530,1530,Sutton West Turnover.,29,17,12,7,0.8301951893879858,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+125,2,5:23,1523,1523,Mariella Fasoula made Layup. Assisted by Brinae Alexander.,31,17,14,26,0.8649671086050745,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,Vanderbilt
+126,2,4:57,1497,1497,Tierra Hodges Turnover.,31,17,14,18,0.8674696052032468,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+127,2,4:39,1479,1479,Chelsie Hall missed Three Point Jumper.,31,17,14,5,0.8692508977235652,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+128,2,4:34,1474,1474,Le'Jzae Davidson Defensive Rebound.,31,17,14,10,0.8697541246425037,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+129,2,4:24,1464,1464,Foul on Lea Lea Carter.,31,17,14,7,0.8707726802418566,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+130,2,4:17,1457,1457,Milica Manojlovic made Three Point Jumper. Assisted by Le'Jzae Davidson.,31,20,11,9,0.818178248552663,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,Furman
+131,2,4:08,1448,1448,Brinae Alexander made Three Point Jumper. Assisted by Chelsie Hall.,34,20,14,22,0.8724376803457439,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,Vanderbilt
+132,2,3:46,1426,1426,Le'Jzae Davidson made Three Point Jumper.,34,23,11,18,0.8215019696460678,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,Furman
+133,2,3:28,1408,1408,Mariella Fasoula Turnover.,34,23,11,13,0.8233334317554007,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+134,2,3:15,1395,1395,Sutton West made Layup.,34,25,9,0,0.7801480412424834,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,Furman
+135,2,3:15,1395,1395,Foul on Mariella Fasoula.,34,25,9,0,0.7801480412424834,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+136,2,3:15,1395,1395,Sutton West missed Free Throw.,34,25,9,2,0.7801480412424834,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+137,2,3:13,1393,1393,Sutton West Offensive Rebound.,34,25,9,0,0.7803384512694108,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+138,2,3:13,1393,1393,Foul on Chelsie Hall.,34,25,9,0,0.7803384512694108,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+139,2,3:13,1393,1393,Sutton West made Free Throw.,34,26,8,0,0.7552461895472931,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,Furman
+140,2,3:13,1393,1393,Sutton West missed Free Throw.,34,26,8,3,0.7552461895472931,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+141,2,3:10,1390,1390,Chelsie Hall Defensive Rebound.,34,26,8,8,0.7555192877426385,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+142,2,3:02,1382,1382,Brinae Alexander missed Layup.,34,26,8,2,0.7562441786092368,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+143,2,3:00,1380,1380,Vanderbilt Offensive Rebound.,34,26,8,13,0.7564247625348702,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+144,2,2:47,1367,1367,Brinae Alexander missed Three Point Jumper.,34,26,8,5,0.7575945123275607,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+145,2,2:42,1362,1362,Kyndall Golden Offensive Rebound.,34,26,8,15,0.7580434186454148,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+146,2,2:27,1347,1347,Chelsie Hall missed Jumper.,34,26,8,3,0.7593915546901102,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+147,2,2:24,1344,1344,Tierra Hodges Defensive Rebound.,34,26,8,20,0.7596620264173612,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+148,2,2:04,1324,1324,Taylor Petty Turnover.,34,26,8,19,0.7614805679470978,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+149,2,1:45,1305,1305,Jordyn Cambridge missed Three Point Jumper.,34,26,8,4,0.763247362025644,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+150,2,1:41,1301,1301,Taylor Petty Defensive Rebound.,34,26,8,18,0.7636259864859253,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+151,2,1:23,1283,1283,Milica Manojlovic Turnover.,34,26,8,21,0.7653657601909466,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+152,2,1:02,1262,1262,Chelsie Hall missed Jumper.,34,26,8,4,0.7674853000961425,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+153,2,0:58,1258,1258,Milica Manojlovic Defensive Rebound.,34,26,8,2,0.76790183770405,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+154,2,0:56,1256,1256,Le'Jzae Davidson missed Three Point Jumper.,34,26,8,3,0.7681117813469498,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+155,2,0:53,1253,1253,Demi Washington Defensive Rebound.,34,26,8,0,0.7684288466915253,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+156,2,0:53,1253,1253,Foul on Taylor Petty.,34,26,8,7,0.7684288466915253,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+157,2,0:46,1246,1246,Foul on Kyndall Golden.,34,26,8,0,0.7691790465709968,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+158,2,0:46,1246,1246,Kyndall Golden Turnover.,34,26,8,16,0.7691790465709968,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+159,2,0:30,1230,1230,Sutton West missed Layup.,34,26,8,0,0.7709522730344682,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+160,2,0:30,1230,1230,Kyndall Golden Block.,34,26,8,5,0.7709522730344682,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+161,2,0:25,1225,1225,Demi Washington Defensive Rebound.,34,26,8,3,0.7715242763009217,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+162,2,0:22,1222,1222,Demi Washington made Jumper.,36,26,10,21,0.8210736196156406,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,Vanderbilt
+163,2,0:01,1201,1201,Milica Manojlovic Turnover.,36,26,10,0,0.8236761334320611,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+164,2,0:01,1201,1201,Jordyn Cambridge Steal.,36,26,10,1,0.8236761334320611,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+165,2,0:00,1200,1200,End of 2nd Quarter,36,26,10,23,0.8237988536530104,Vanderbilt,Furman,3,4,0,0,NA,401167030,2019-11-22,
+166,3,9:37,1177,1177,Le'Jzae Davidson missed Three Point Jumper.,36,26,10,3,0.8265443859039027,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+167,3,9:34,1174,1174,Brinae Alexander Defensive Rebound.,36,26,10,11,0.826893110817704,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+168,3,9:23,1163,1163,Mariella Fasoula made Layup. Assisted by Chelsie Hall.,38,26,12,10,0.8684299476373019,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Vanderbilt
+169,3,9:13,1153,1153,Celena Taborn missed Layup.,38,26,12,4,0.8695202951328892,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+170,3,9:09,1149,1149,Autumn Newby Defensive Rebound.,38,26,12,5,0.8699525677754907,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+171,3,9:04,1144,1144,Foul on Milica Manojlovic.,38,26,12,0,0.8704903512608937,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+172,3,9:04,1144,1144,Chelsie Hall made Free Throw.,39,26,13,0,0.887362251545297,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Vanderbilt
+173,3,9:04,1144,1144,Chelsie Hall made Free Throw.,40,26,14,28,0.9022828969947644,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Vanderbilt
+174,3,8:36,1116,1116,Le'Jzae Davidson Turnover.,40,26,14,0,0.904995079468363,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+175,3,8:36,1116,1116,Autumn Newby Steal.,40,26,14,8,0.904995079468363,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+176,3,8:28,1108,1108,Jordyn Cambridge missed Three Point Jumper.,40,26,14,5,0.9057649733978692,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+177,3,8:23,1103,1103,Jordyn Cambridge Offensive Rebound.,40,26,14,3,0.9062464312792681,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+178,3,8:20,1100,1100,Mariella Fasoula missed Jumper.,40,26,14,0,0.9065356015177478,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+179,3,8:20,1100,1100,Vanderbilt Offensive Rebound.,40,26,14,5,0.9065356015177478,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+180,3,8:15,1095,1095,Mariella Fasoula missed Jumper.,40,26,14,3,0.9070183020971291,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+181,3,8:12,1092,1092,Autumn Newby Offensive Rebound.,40,26,14,2,0.9073085012615805,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+182,3,8:10,1090,1090,Brinae Alexander missed Three Point Jumper.,40,26,14,4,0.9075022566456615,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+183,3,8:06,1086,1086,Tierra Hodges Defensive Rebound.,40,26,14,12,0.9078905640440212,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+184,3,7:54,1074,1074,Milica Manojlovic missed Jumper.,40,26,14,4,0.9090634602001773,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+185,3,7:50,1070,1070,Chelsie Hall Defensive Rebound.,40,26,14,5,0.9094576619687458,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+186,3,7:45,1065,1065,Jordyn Cambridge missed Jumper.,40,26,14,3,0.9099531044096496,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+187,3,7:42,1062,1062,Autumn Newby Offensive Rebound.,40,26,14,2,0.9102519273544165,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+188,3,7:40,1060,1060,Mariella Fasoula missed Jumper.,40,26,14,2,0.9104518334448565,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+189,3,7:38,1058,1058,Jordyn Cambridge Offensive Rebound.,40,26,14,1,0.9106523152357027,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+190,3,7:37,1057,1057,Jordyn Cambridge made Layup.,42,26,16,10,0.9342999905877599,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Vanderbilt
+191,3,7:27,1047,1047,Jarya Outten Turnover.,42,26,16,0,0.9351736429382213,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+192,3,7:27,1047,1047,Chelsie Hall Steal.,42,26,16,0,0.9351736429382213,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+193,3,7:27,1047,1047,Foul on Milica Manojlovic.,42,26,16,11,0.9351736429382213,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+194,3,7:16,1036,1036,Jordyn Cambridge made Jumper.,44,26,18,23,0.9535090780936741,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Vanderbilt
+195,3,6:53,1013,1013,Lindsey Taylor made Jumper. Assisted by Taylor Petty.,44,28,16,20,0.938252541796116,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Furman
+196,3,6:33,993,993,Chelsie Hall made Layup.,46,28,18,22,0.956837939617461,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Vanderbilt
+197,3,6:11,971,971,Foul on Jordyn Cambridge.,46,28,18,0,0.9586453543333494,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+198,3,6:11,971,971,Milica Manojlovic missed Free Throw.,46,28,18,0,0.9586453543333494,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+199,3,6:11,971,971,Furman Offensive Rebound.,46,28,18,0,0.9586453543333494,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+200,3,6:11,971,971,Milica Manojlovic made Free Throw.,46,29,17,11,0.9511402059885551,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Furman
+201,3,6:00,960,960,Koi Love missed Three Point Jumper.,46,29,17,4,0.9521295958767582,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+202,3,5:56,956,956,Celena Taborn Defensive Rebound.,46,29,17,15,0.9524699479233916,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+203,3,5:41,941,941,Celena Taborn Turnover.,46,29,17,14,0.9536656766842341,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+204,3,5:27,927,927,Lea Lea Carter missed Layup.,46,29,17,8,0.9546850297127198,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+205,3,5:19,919,919,Mariella Fasoula Offensive Rebound.,46,29,17,0,0.9552338777395514,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+206,3,5:19,919,919,Mariella Fasoula made Layup.,48,29,19,7,0.9683410639075254,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Vanderbilt
+207,3,5:12,912,912,Lindsey Taylor missed Layup.,48,29,19,4,0.9687123999781481,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+208,3,5:08,908,908,Mariella Fasoula Defensive Rebound.,48,29,19,5,0.9689195881840065,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+209,3,5:03,903,903,Lea Lea Carter missed Jumper.,48,29,19,4,0.9691741003917618,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+210,3,4:59,899,899,Le'Jzae Davidson Defensive Rebound.,48,29,19,3,0.9693745379075366,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+211,3,4:56,896,896,Le'Jzae Davidson made Three Point Jumper.,48,32,16,25,0.9485121712636055,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Furman
+212,3,4:31,871,871,Mariella Fasoula made Layup. Assisted by Chelsie Hall.,50,32,18,11,0.9650092281819446,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Vanderbilt
+213,3,4:20,860,860,Milica Manojlovic missed Three Point Jumper.,50,32,18,4,0.9655948791384446,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+214,3,4:16,856,856,Autumn Newby Defensive Rebound.,50,32,18,20,0.9658083467865564,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+215,3,3:56,836,836,Foul on Lindsey Taylor.,50,32,18,0,0.9668917885969883,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+216,3,3:56,836,836,Official TV Timeout,50,32,18,3,0.9668917885969883,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+217,3,3:53,833,833,Mariella Fasoula made Layup. Assisted by Lea Lea Carter.,52,32,20,12,0.9771347597780001,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Vanderbilt
+218,3,3:41,821,821,Maddie Griffon Turnover.,52,32,20,0,0.9776620539780451,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+219,3,3:41,821,821,Jordyn Cambridge Steal.,52,32,20,0,0.9776620539780451,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+220,3,3:41,821,821,Foul on Maddie Griffon.,52,32,20,12,0.9776620539780451,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+221,3,3:29,809,809,Lea Lea Carter made Jumper. Assisted by Mariella Fasoula.,54,32,22,12,0.9849998597564433,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Vanderbilt
+222,3,3:17,797,797,Sutton West missed Layup.,54,32,22,0,0.9854321589464428,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+223,3,3:17,797,797,Vanderbilt Defensive Rebound.,54,32,22,11,0.9854321589464428,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+224,3,3:06,786,786,Jordyn Cambridge missed Layup.,54,32,22,4,0.985844164961661,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+225,3,3:02,782,782,Maddie Griffon Defensive Rebound.,54,32,22,2,0.9859979986258891,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+226,3,3:00,780,780,Maddie Griffon Turnover.,54,32,22,0,0.9860757467198102,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+227,3,3:00,780,780,Jordyn Cambridge Steal.,54,32,22,0,0.9860757467198102,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+228,3,3:00,780,780,Foul on Maddie Griffon.,54,32,22,0,0.9860757467198102,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+229,3,3:00,780,780,Jordyn Cambridge made Free Throw.,55,32,23,0,0.9884988672832504,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Vanderbilt
+230,3,3:00,780,780,Jordyn Cambridge made Free Throw.,56,32,24,5,0.9905043731884314,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Vanderbilt
+231,3,2:55,775,775,Foul on Lea Lea Carter.,56,32,24,23,0.9906513638812366,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+232,3,2:32,752,752,Le'Jzae Davidson missed Three Point Jumper.,56,32,24,3,0.9913594564393192,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+233,3,2:29,749,749,Koi Love Defensive Rebound.,56,32,24,7,0.991455684911692,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+234,3,2:22,742,742,Koi Love Turnover.,56,32,24,20,0.9916836010039269,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+235,3,2:02,722,722,Maddie Griffon made Layup.,56,34,22,16,0.988560849475746,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Furman
+236,3,1:46,706,706,Brinae Alexander missed Three Point Jumper.,56,34,22,3,0.9891816410808199,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+237,3,1:43,703,703,Mariella Fasoula Offensive Rebound.,56,34,22,2,0.9892875870444556,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+238,3,1:41,701,701,Mariella Fasoula made Layup.,58,34,24,13,0.9929253075514033,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Vanderbilt
+239,3,1:28,688,688,Maddie Griffon Turnover.,58,34,24,0,0.993232352036291,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+240,3,1:28,688,688,Lea Lea Carter Steal.,58,34,24,13,0.993232352036291,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+241,3,1:15,675,675,Koi Love made Layup.,60,34,26,0,0.9957250032428976,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Vanderbilt
+242,3,1:15,675,675,Foul on Tierra Hodges.,60,34,26,0,0.9957250032428976,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+243,3,1:15,675,675,Koi Love made Free Throw.,61,34,27,4,0.9965307086758567,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Vanderbilt
+244,3,1:11,671,671,Maddie Griffon Turnover.,61,34,27,14,0.996580390503735,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+245,3,0:57,657,657,Kaylon Smith missed Jumper.,61,34,27,3,0.9967480275878083,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+246,3,0:54,654,654,Furman Defensive Rebound.,61,34,27,14,0.9967830643112225,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+247,3,0:40,640,640,Le'Jzae Davidson missed Three Point Jumper.,61,34,27,3,0.9969447492682518,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+248,3,0:37,637,637,Jordyn Cambridge Defensive Rebound.,61,34,27,5,0.9969792871645867,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+249,3,0:32,632,632,Lea Lea Carter missed Jumper.,61,34,27,7,0.9970369834411218,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+250,3,0:25,625,625,Furman  Timeout,61,34,27,0,0.9971183109486347,Vanderbilt,Furman,3,5,1,0,NA,401167030,2019-11-22,
+251,3,0:25,625,625,Le'Jzae Davidson Defensive Rebound.,61,34,27,18,0.9971183109486347,Vanderbilt,Furman,3,5,1,0,NA,401167030,2019-11-22,
+252,3,0:07,607,607,Milica Manojlovic missed Jumper.,61,34,27,0,0.9973328366815034,Vanderbilt,Furman,3,5,1,0,NA,401167030,2019-11-22,
+253,3,0:07,607,607,Koi Love Block.,61,34,27,6,0.9973328366815034,Vanderbilt,Furman,3,5,1,0,NA,401167030,2019-11-22,
+254,3,0:01,601,601,Brinae Alexander Defensive Rebound.,61,34,27,0,0.9974066980308514,Vanderbilt,Furman,3,5,1,0,NA,401167030,2019-11-22,
+255,3,0:01,601,601,Jordyn Cambridge Turnover.,61,34,27,1,0.9974066980308514,Vanderbilt,Furman,3,5,1,0,NA,401167030,2019-11-22,
+256,3,0:00,600,600,End of 3rd Quarter,61,34,27,28,0.9974191407242069,Vanderbilt,Furman,3,5,1,0,NA,401167030,2019-11-22,
+257,4,9:32,572,572,Milica Manojlovic made Layup.,61,36,25,2,0.9965201422628971,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,Furman
+258,4,9:30,570,570,Foul on Celena Taborn.,61,36,25,9,0.9965597768463048,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,
+259,4,9:21,561,561,Koi Love missed Layup.,61,36,25,4,0.9967412410565296,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,
+260,4,9:17,557,557,Tierra Hodges Defensive Rebound.,61,36,25,1,0.996823428258203,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,
+261,4,9:16,556,556,Tierra Hodges Turnover.,61,36,25,3,0.9968441123526199,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,
+262,4,9:13,553,553,Brinae Alexander missed Three Point Jumper.,61,36,25,3,0.9969064772708925,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,
+263,4,9:10,550,550,Celena Taborn Defensive Rebound.,61,36,25,4,0.9969692868996348,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,
+264,4,9:06,546,546,Tierra Hodges missed Layup.,61,36,25,6,0.9970501555164825,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,
+265,4,9:00,540,540,Koi Love Defensive Rebound.,61,36,25,2,0.9971607506591404,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,
+266,4,8:58,538,538,Jordyn Cambridge missed Three Point Jumper.,61,36,25,6,0.9971950998149759,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,
+267,4,8:52,532,532,Le'Jzae Davidson Defensive Rebound.,61,36,25,2,0.9972916703349686,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,
+268,4,8:50,530,530,Tierra Hodges missed Layup.,61,36,25,1,0.9973219347106107,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,
+269,4,8:49,529,529,Jordyn Cambridge Defensive Rebound.,61,36,25,0,0.9973367429045588,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,
+270,4,8:49,529,529,Foul on Tierra Hodges.,61,36,25,13,0.9973367429045588,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,
+271,4,8:36,516,516,Koi Love missed Jumper.,61,36,25,3,0.9975131731643045,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,
+272,4,8:33,513,513,Kaylon Smith Offensive Rebound.,61,36,25,2,0.9975505625306783,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,
+273,4,8:31,511,511,Brinae Alexander made Jumper. Assisted by Kaylon Smith.,63,36,27,15,0.9985003857934488,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,Vanderbilt
+274,4,8:16,496,496,Foul on Jordyn Cambridge.,63,36,27,14,0.9986167798284037,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,
+275,4,8:02,482,482,Foul on Kaylon Smith.,63,36,27,0,0.9987220343550058,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,
+276,4,8:02,482,482,Lindsey Taylor made Free Throw.,63,37,26,0,0.9983650318537993,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,Furman
+277,4,8:02,482,482,Lindsey Taylor missed Free Throw.,63,37,26,1,0.9983650318537993,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,
+278,4,8:01,481,481,Koi Love Defensive Rebound.,63,37,26,25,0.9983743689263663,Vanderbilt,Furman,4,6,0,0,NA,401167030,2019-11-22,
+279,4,7:36,456,456,Vanderbilt  Timeout,63,37,26,0,0.9986207560985938,Vanderbilt,Furman,4,5,0,1,NA,401167030,2019-11-22,
+280,4,7:36,456,456,Official TV Timeout,63,37,26,13,0.9986207560985938,Vanderbilt,Furman,4,5,0,1,NA,401167030,2019-11-22,
+281,4,7:23,443,443,Vanderbilt  Turnover.,63,37,26,8,0.9987620728104374,Vanderbilt,Furman,4,5,0,1,NA,401167030,2019-11-22,
+282,4,7:15,435,435,Le'Jzae Davidson Turnover.,63,37,26,0,0.9988536310583872,Vanderbilt,Furman,4,5,0,1,NA,401167030,2019-11-22,
+283,4,7:15,435,435,Kiara Pearl Steal.,63,37,26,10,0.9988536310583872,Vanderbilt,Furman,4,5,0,1,NA,401167030,2019-11-22,
+284,4,7:05,425,425,Jordyn Cambridge made Jumper. Assisted by Koi Love.,65,37,28,19,0.9993922066460419,Vanderbilt,Furman,4,5,0,1,NA,401167030,2019-11-22,Vanderbilt
+285,4,6:46,406,406,Lindsey Taylor missed Layup.,65,37,28,3,0.9995041092192996,Vanderbilt,Furman,4,5,0,1,NA,401167030,2019-11-22,
+286,4,6:43,403,403,Koi Love Defensive Rebound.,65,37,28,4,0.9995191313564983,Vanderbilt,Furman,4,5,0,1,NA,401167030,2019-11-22,
+287,4,6:39,399,399,Foul on Milica Manojlovic.,65,37,28,0,0.9995383456603977,Vanderbilt,Furman,4,5,0,1,NA,401167030,2019-11-22,
+288,4,6:39,399,399,Koi Love made Free Throw.,66,37,29,0,0.9996490537182644,Vanderbilt,Furman,4,5,0,1,NA,401167030,2019-11-22,Vanderbilt
+289,4,6:39,399,399,Koi Love made Free Throw.,67,37,30,19,0.999733220267063,Vanderbilt,Furman,4,5,0,1,NA,401167030,2019-11-22,Vanderbilt
+290,4,6:20,380,380,Le'Jzae Davidson missed Three Point Jumper.,67,37,30,3,0.9997836043007933,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+291,4,6:17,377,377,Yaubryon Chambers Defensive Rebound.,67,37,30,9,0.9997908752402486,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+292,4,6:08,368,368,Koi Love Turnover.,67,37,30,0,0.9998119204018612,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+293,4,6:08,368,368,Milica Manojlovic Steal.,67,37,30,9,0.9998119204018612,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+294,4,5:59,359,359,Le'Jzae Davidson missed Three Point Jumper.,67,37,30,6,0.9998320298876847,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+295,4,5:53,353,353,Sutton West Offensive Rebound.,67,37,30,2,0.9998450015620186,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+296,4,5:51,351,351,Foul on Yaubryon Chambers.,67,37,30,3,0.999849253228445,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+297,4,5:48,348,348,Lindsey Taylor made Layup.,67,39,28,0,0.999739598580743,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Furman
+298,4,5:48,348,348,Foul on Yaubryon Chambers.,67,39,28,0,0.999739598580743,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+299,4,5:48,348,348,Lindsey Taylor missed Free Throw.,67,39,28,1,0.999739598580743,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+300,4,5:47,347,347,Kiara Pearl Defensive Rebound.,67,39,28,14,0.9997431091831007,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+301,4,5:33,333,333,Foul on Demi Washington.,67,39,28,0,0.9997909374697068,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+302,4,5:33,333,333,Demi Washington Turnover.,67,39,28,13,0.9997909374697068,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+303,4,5:20,320,320,Lindsey Taylor Turnover.,67,39,28,0,0.9998326685179603,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+304,4,5:20,320,320,Yaubryon Chambers Steal.,67,39,28,17,0.9998326685179603,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+305,4,5:03,303,303,Kiara Pearl missed Three Point Jumper.,67,39,28,4,0.9998775754995476,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+306,4,4:59,299,299,Kaylon Smith Offensive Rebound.,67,39,28,4,0.9998827295319799,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+307,4,4:55,295,295,Demi Washington missed Jumper.,67,39,28,3,0.9998859524106113,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+308,4,4:52,292,292,Le'Jzae Davidson Defensive Rebound.,67,39,28,7,0.999887307325105,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+309,4,4:45,285,285,Foul on Yaubryon Chambers.,67,39,28,0,0.9998875611600837,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+310,4,4:45,285,285,Grace van Rij made Free Throw.,67,40,27,0,0.9998444268740501,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Furman
+311,4,4:45,285,285,Grace van Rij made Free Throw.,67,41,26,15,0.9997847487843028,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Furman
+312,4,4:30,270,270,Kiara Pearl made Three Point Jumper. Assisted by Koi Love.,70,41,29,21,0.9999116565373679,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Vanderbilt
+313,4,4:09,249,249,Foul on Demi Washington.,70,41,29,0,0.9998947023448914,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+314,4,4:09,249,249,Jarya Outten made Free Throw.,70,42,28,0,0.9998556030180704,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Furman
+315,4,4:09,249,249,Jarya Outten missed Free Throw.,70,42,28,0,0.9998556030180704,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+316,4,4:09,249,249,Kaylon Smith Defensive Rebound.,70,42,28,8,0.9998556030180704,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+317,4,4:01,241,241,Yaubryon Chambers made Layup.,72,42,30,20,0.999920007036811,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,Vanderbilt
+318,4,3:41,221,221,Jarya Outten missed Layup.,72,42,30,0,0.9999270251982665,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+319,4,3:41,221,221,Koi Love Block.,72,42,30,1,0.9999270251982665,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+320,4,3:40,220,220,Furman Offensive Rebound.,72,42,30,5,0.9999280877605798,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+321,4,3:35,215,215,Lindsey Taylor missed Layup.,72,42,30,3,0.9999343634909699,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+322,4,3:32,212,212,Kiara Pearl Defensive Rebound.,72,42,30,2,0.9999388107738046,Vanderbilt,Furman,4,5,0,0,NA,401167030,2019-11-22,
+323,4,3:30,210,210,Vanderbilt  Timeout,72,42,30,21,0.9999420063853338,Vanderbilt,Furman,4,4,0,1,NA,401167030,2019-11-22,
+324,4,3:09,189,189,Koi Love made Jumper. Assisted by Yaubryon Chambers.,74,42,32,13,0.9999890301181018,Vanderbilt,Furman,4,4,0,1,NA,401167030,2019-11-22,Vanderbilt
+325,4,2:56,176,176,Foul on Demi Washington.,74,42,32,0,0.9999954329422676,Vanderbilt,Furman,4,4,0,1,NA,401167030,2019-11-22,
+326,4,2:56,176,176,Jarya Outten missed Free Throw.,74,42,32,0,0.9999954329422676,Vanderbilt,Furman,4,4,0,1,NA,401167030,2019-11-22,
+327,4,2:56,176,176,Furman Offensive Rebound.,74,42,32,0,0.9999954329422676,Vanderbilt,Furman,4,4,0,1,NA,401167030,2019-11-22,
+328,4,2:56,176,176,Jarya Outten made Free Throw.,74,43,31,17,0.9999932930994047,Vanderbilt,Furman,4,4,0,1,NA,401167030,2019-11-22,Furman
+329,4,2:39,159,159,Kaylon Smith missed Jumper.,74,43,31,1,0.9999979327865608,Vanderbilt,Furman,4,4,0,1,NA,401167030,2019-11-22,
+330,4,2:38,158,158,Furman Defensive Rebound.,74,43,31,23,0.9999980783833521,Vanderbilt,Furman,4,4,0,1,NA,401167030,2019-11-22,
+331,4,2:15,135,135,Foul on Kaylon Smith.,74,43,31,0,0.9999996993598703,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+332,4,2:15,135,135,Maddie Griffon missed Free Throw.,74,43,31,0,0.9999996993598703,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+333,4,2:15,135,135,Furman Offensive Rebound.,74,43,31,0,0.9999996993598703,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+334,4,2:15,135,135,Maddie Griffon missed Free Throw.,74,43,31,4,0.9999996993598703,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+335,4,2:11,131,131,Kiara Pearl Defensive Rebound.,74,43,31,9,0.99999979123766225,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+336,4,2:02,122,122,Demi Washington Turnover.,74,43,31,0,0.9999999131603302,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+337,4,2:02,122,122,Greyson Boone Steal.,74,43,31,7,0.9999999131603302,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+338,4,1:55,115,115,Greyson Boone made Layup.,74,45,29,22,0.9999998761827127,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,Furman
+339,4,1:33,93,93,Kaylon Smith Turnover.,74,45,29,14,0.9999999904032213,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+340,4,1:19,79,79,Foul on Kiara Pearl.,74,45,29,6,0.9999999984906215,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+341,4,1:13,73,73,Greyson Boone missed Free Throw.,74,46,28,0,0.9999999986542626,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,Furman
+342,4,1:13,73,73,Furman Offensive Rebound.,74,46,28,0,0.9999999986542626,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+343,4,1:13,73,73,Greyson Boone missed Free Throw.,74,46,28,0,0.9999999986542626,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+344,4,1:13,73,73,Yaubryon Chambers Defensive Rebound.,74,46,28,11,0.9999999986542626,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+345,4,1:02,62,62,Yaubryon Chambers Turnover.,74,45,29,9,0.9999999998743587,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+346,4,0:53,53,53,Foul on Yaubryon Chambers.,74,45,29,0,0.9999999999694037,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+347,4,0:53,53,53,Maddie Griffon missed Free Throw.,74,45,29,0,0.9999999999694037,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+348,4,0:53,53,53,Furman Offensive Rebound.,74,45,29,0,0.9999999999694037,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+349,4,0:53,53,53,Maddie Griffon made Free Throw.,74,46,28,21,0.999999999929493,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,Furman
+350,4,0:32,32,32,Koi Love missed Three Point Jumper.,74,46,28,11,0.9999999999978102,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+351,4,0:21,21,21,Grace van Rij Defensive Rebound.,74,46,28,0,0.9999999999996928,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+352,4,0:21,21,21,Foul on Grace van Rij.,74,46,28,0,0.9999999999996928,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+353,4,0:21,21,21,Yaubryon Chambers missed Free Throw.,74,46,28,0,0.9999999999996928,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+354,4,0:21,21,21,Vanderbilt Offensive Rebound.,74,46,28,0,0.9999999999996928,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+355,4,0:21,21,21,Yaubryon Chambers missed Free Throw.,74,46,28,0,0.9999999999996928,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+356,4,0:21,21,21,Grace van Rij Defensive Rebound.,74,46,28,14,0.9999999999996928,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+357,4,0:07,7,7,Maddie Griffon missed Layup.,74,46,28,0,0.9999999999999792,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+358,4,0:07,7,7,Yaubryon Chambers Defensive Rebound.,74,46,28,7,0.9999999999999792,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+359,4,0:00,0,0,End of 4th Quarter,74,46,28,0,1,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,
+360,4,0:00,0,0,End of Game,74,46,28,0,1,Vanderbilt,Furman,4,4,0,0,NA,401167030,2019-11-22,

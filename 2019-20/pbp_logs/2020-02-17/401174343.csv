@@ -1,0 +1,335 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:35,2375,2375,Jamiya Turner Turnover.,0,0,0,0,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,NA
+2,1,9:35,2375,2375,Brittany Panetti Steal.,0,0,0,8,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+3,1,9:27,2367,2367,Kenysha Coulson missed Three Point Jumper.,0,0,0,5,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+4,1,9:22,2362,2362,Megan Vincent Defensive Rebound.,0,0,0,9,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+5,1,9:13,2353,2353,Foul on Kenysha Coulson.,0,0,0,0,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+6,1,9:13,2353,2353,Kennedi Colclough missed Free Throw.,0,0,0,0,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+7,1,9:13,2353,2353,Stetson Deadball Team Rebound.,0,0,0,0,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+8,1,9:13,2353,2353,Kennedi Colclough made Free Throw.,1,0,1,11,0.5225587867961337,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,Stetson
+9,1,9:02,2342,2342,Emma Wallen missed Three Point Jumper.,1,0,1,4,0.5226786784543114,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+10,1,8:58,2338,2338,Ansley Eubank Offensive Rebound.,1,0,1,2,0.5227224670857408,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+11,1,8:56,2336,2336,Brittany Panetti made Layup. Assisted by Kenysha Coulson.,1,2,-1,23,0.4772556011616318,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,North Alabama
+12,1,8:33,2313,2313,Jamiya Turner missed Layup.,1,2,-1,2,0.4770016653934843,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+13,1,8:31,2311,2311,Megan Vincent Offensive Rebound.,1,2,-1,4,0.4769794403329548,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+14,1,8:27,2307,2307,Jamiya Turner made Three Point Jumper. Assisted by Kennedi Colclough.,4,2,2,20,0.5460321953134282,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,Stetson
+15,1,8:07,2287,2287,Kenysha Coulson Turnover.,4,2,2,0,0.5464770070814524,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+16,1,8:07,2287,2287,Tonysha Curry Steal.,4,2,2,26,0.5464770070814524,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+17,1,7:41,2261,2261,Day'Neshia Banks missed Layup.,4,2,2,2,0.5470609119753659,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+18,1,7:39,2259,2259,Kenysha Coulson Defensive Rebound.,4,2,2,9,0.5471060687074408,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+19,1,7:30,2250,2250,Ansley Eubank missed Layup.,4,2,2,2,0.5473096679130885,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+20,1,7:28,2248,2248,Kennedi Colclough Defensive Rebound.,4,2,2,15,0.5473549972119557,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+21,1,7:13,2233,2233,Foul on Kenysha Coulson.,4,2,2,0,0.5476958944832517,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+22,1,7:13,2233,2233,Kennedi Colclough missed Free Throw.,4,2,2,0,0.5476958944832517,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+23,1,7:13,2233,2233,Stetson Deadball Team Rebound.,4,2,2,0,0.5476958944832517,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+24,1,7:13,2233,2233,Kennedi Colclough missed Free Throw.,4,2,2,2,0.5476958944832517,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+25,1,7:11,2231,2231,Teneil Robertson Offensive Rebound.,4,2,2,17,0.5477414654678265,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+26,1,6:54,2214,2214,Teneil Robertson missed Layup.,4,2,2,0,0.5481298438615707,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+27,1,6:54,2214,2214,Emma Wallen Block.,4,2,2,1,0.5481298438615707,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+28,1,6:53,2213,2213,Ansley Eubank Defensive Rebound.,4,2,2,0,0.5481527436215755,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+29,1,6:53,2213,2213,Foul on Teneil Robertson.,4,2,2,25,0.5481527436215755,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+30,1,6:28,2188,2188,Olivia Noah missed Three Point Jumper.,4,2,2,3,0.548726942141186,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+31,1,6:25,2185,2185,Teneil Robertson Defensive Rebound.,4,2,2,24,0.5487960449405197,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+32,1,6:01,2161,2161,Kennedi Colclough Turnover.,4,2,2,0,0.5493502722348179,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+33,1,6:01,2161,2161,Ansley Eubank Steal.,4,2,2,6,0.5493502722348179,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+34,1,5:55,2155,2155,Brittany Panetti made Layup. Assisted by Ivy Wallen.,4,4,0,33,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,North Alabama
+35,1,5:22,2122,2122,Teneil Robertson missed Three Point Jumper.,4,4,0,0,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+36,1,5:22,2122,2122,Tonysha Curry Offensive Rebound.,4,4,0,0,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+37,1,5:22,2122,2122,Teneil Robertson made Layup. Assisted by Tonysha Curry.,6,4,2,16,0.5502597124446706,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,Stetson
+38,1,5:06,2106,2106,Ansley Eubank Turnover.,6,4,2,0,0.5506365855698726,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+39,1,5:06,2106,2106,Megan Vincent Steal.,6,4,2,22,0.5506365855698726,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+40,1,4:44,2084,2084,Kennedi Colclough made Layup. Assisted by Teneil Robertson.,8,4,4,1,0.6012574047381553,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,Stetson
+41,1,4:43,2083,2083,Official TV Timeout,8,4,4,13,0.6013036262143772,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+42,1,4:30,2070,2070,Foul on Ansley Eubank.,8,4,4,0,0.601906192513953,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+43,1,4:30,2070,2070,Ansley Eubank Turnover.,8,4,4,21,0.601906192513953,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+44,1,4:09,2049,2049,Teneil Robertson Turnover.,8,4,4,32,0.6028864477676771,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+45,1,3:37,2017,2017,Foul on Kimia Carter.,8,4,4,0,0.6043976714293702,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+46,1,3:37,2017,2017,Brittany Panetti made Free Throw.,8,5,3,0,0.5788043770931707,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,North Alabama
+47,1,3:37,2017,2017,Brittany Panetti made Free Throw.,8,6,2,13,0.5527804937127703,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,North Alabama
+48,1,3:24,2004,2004,Teneil Robertson missed Three Point Jumper.,8,6,2,3,0.5531012689598908,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+49,1,3:21,2001,2001,Brittany Panetti Defensive Rebound.,8,6,2,20,0.5531755979271487,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+50,1,3:01,1981,1981,Foul on Kennedi Colclough.,8,6,2,3,0.5536741289043107,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+51,1,2:58,1978,1978,Foul on Tonysha Curry.,8,6,2,1,0.5537493691968808,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+52,1,2:57,1977,1977,Foul on Day'Neshia Banks.,8,6,2,0,0.5537744765316269,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+53,1,2:57,1977,1977,Olivia Noah made Free Throw.,8,7,1,0,0.5269654408739634,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,North Alabama
+54,1,2:57,1977,1977,Olivia Noah missed Free Throw.,8,7,1,0,0.5269654408739634,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+55,1,2:57,1977,1977,Day'Neshia Banks Defensive Rebound.,8,7,1,14,0.5269654408739634,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+56,1,2:43,1963,1963,Day'Neshia Banks made Layup.,10,7,3,20,0.5807960794663443,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,Stetson
+57,1,2:23,1943,1943,Foul on Brittany Panetti.,10,7,3,0,0.5815484293667335,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+58,1,2:23,1943,1943,Brittany Panetti Turnover.,10,7,3,26,0.5815484293667335,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+59,1,1:57,1917,1917,Jamiya Turner made Layup.,12,7,5,0,0.6353704989477953,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,Stetson
+60,1,1:57,1917,1917,Foul on Ivy Wallen.,12,7,5,0,0.6353704989477953,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+61,1,1:57,1917,1917,Jamiya Turner made Free Throw.,13,7,6,14,0.6606947578168155,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,Stetson
+62,1,1:43,1903,1903,Ivy Wallen missed Layup.,13,7,6,3,0.6616746604347381,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+63,1,1:40,1900,1900,Brittany Panetti Offensive Rebound.,13,7,6,0,0.6618843497931651,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+64,1,1:40,1900,1900,Brittany Panetti missed Layup.,13,7,6,3,0.6618843497931651,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+65,1,1:37,1897,1897,Emma Wallen Offensive Rebound.,13,7,6,1,0.662093961918089,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+66,1,1:36,1896,1896,Emma Wallen missed Three Point Jumper.,13,7,6,4,0.6621638174068232,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+67,1,1:32,1892,1892,Jamiya Turner Defensive Rebound.,13,7,6,22,0.6624431743568583,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+68,1,1:10,1870,1870,Day'Neshia Banks missed Layup.,13,7,6,4,0.663978845926475,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+69,1,1:06,1866,1866,Kennedi Colclough Offensive Rebound.,13,7,6,0,0.6642581299693447,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+70,1,1:06,1866,1866,Kennedi Colclough made Layup.,15,7,8,14,0.712953287194322,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,Stetson
+71,1,0:52,1852,1852,Emma Wallen made Three Point Jumper. Assisted by Ansley Eubank.,15,10,5,20,0.6392856953641772,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,North Alabama
+72,1,0:32,1832,1832,Kimia Carter made Layup.,17,10,7,5,0.6917945543308223,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,Stetson
+73,1,0:27,1827,1827,Ivy Wallen Turnover.,17,10,7,21,0.6921879843983771,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+74,1,0:06,1806,1806,Teneil Robertson Turnover.,17,10,7,0,0.6938467914995062,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+75,1,0:06,1806,1806,Ivy Wallen Steal.,17,10,7,6,0.6938467914995062,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+76,1,0:00,1800,1800,Jaida Bond missed Three Point Jumper.,17,10,7,0,0.6943230201027285,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+77,1,0:00,1800,1800,Stetson Deadball Team Rebound.,17,10,7,0,0.6943230201027285,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+78,1,0:00,1800,1800,End of 1st Quarter,17,10,7,21,0.6943230201027285,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+79,2,9:39,1779,1779,Olivia Noah missed Three Point Jumper.,17,10,7,3,0.6959998151896163,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+80,2,9:36,1776,1776,Teneil Robertson Defensive Rebound.,17,10,7,15,0.6962407841046182,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+81,2,9:21,1761,1761,Teneil Robertson made Jumper.,19,10,9,22,0.7453224979746981,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,Stetson
+82,2,8:59,1739,1739,Ivy Wallen missed Three Point Jumper.,19,10,9,4,0.7473985573315332,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+83,2,8:55,1735,1735,Megan Vincent Defensive Rebound.,19,10,9,9,0.7477789809993972,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+84,2,8:46,1726,1726,Teneil Robertson missed Layup.,19,10,9,2,0.7486385796327523,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+85,2,8:44,1724,1724,Ansley Eubank Defensive Rebound.,19,10,9,4,0.7488303122719923,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+86,2,8:40,1720,1720,Emma Wallen made Layup. Assisted by Ivy Wallen.,19,12,7,23,0.7008233362015384,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,North Alabama
+87,2,8:17,1697,1697,Kimia Carter made Layup. Assisted by Megan Vincent.,21,12,9,0,0.7514462442023065,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,Stetson
+88,2,8:17,1697,1697,Foul on Jaida Bond.,21,12,9,0,0.7514462442023065,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+89,2,8:17,1697,1697,Kimia Carter made Free Throw.,22,12,10,14,0.7736903015200158,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,Stetson
+90,2,8:03,1683,1683,Ansley Eubank missed Three Point Jumper.,22,12,10,3,0.7751187817905625,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+91,2,8:00,1680,1680,North Alabama Offensive Rebound.,22,12,10,3,0.7754214396232141,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+92,2,7:57,1677,1677,Jaila Roberts Turnover.,22,12,10,19,0.7757224802548479,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+93,2,7:38,1658,1658,Kennedi Colclough Turnover.,22,12,10,0,0.7775950789116022,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+94,2,7:38,1658,1658,Jaila Roberts Steal.,22,12,10,5,0.7775950789116022,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+95,2,7:33,1653,1653,Foul on Jaila Roberts.,22,12,10,0,0.7780792039278671,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+96,2,7:33,1653,1653,Jaila Roberts Turnover.,22,12,10,13,0.7780792039278671,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+97,2,7:20,1640,1640,Foul on Olivia Noah.,22,12,10,7,0.7793239224052051,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+98,2,7:13,1633,1633,Teneil Robertson missed Three Point Jumper.,22,12,10,3,0.7799869274552761,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+99,2,7:10,1630,1630,Ansley Eubank Defensive Rebound.,22,12,10,23,0.7802697488138324,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+100,2,6:47,1607,1607,Ivy Wallen missed Three Point Jumper.,22,12,10,2,0.7824180123433238,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+101,2,6:45,1605,1605,Kennedi Colclough Defensive Rebound.,22,12,10,26,0.7826035886680968,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+102,2,6:19,1579,1579,Megan Vincent missed Layup.,22,12,10,0,0.7850098146345558,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+103,2,6:19,1579,1579,Emma Wallen Block.,22,12,10,4,0.7850098146345558,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+104,2,6:15,1575,1575,Jaila Roberts Defensive Rebound.,22,12,10,3,0.7853801529624177,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+105,2,6:12,1572,1572,Emma Wallen made Layup. Assisted by Jaila Roberts.,22,14,8,30,0.7386878283014868,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,North Alabama
+106,2,5:42,1542,1542,Tonysha Curry made Layup.,24,14,10,17,0.7884601706917092,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,Stetson
+107,2,5:25,1525,1525,Jaila Roberts Turnover.,24,14,10,12,0.7900775383962624,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+108,2,5:13,1513,1513,Kennedi Colclough missed Layup.,24,14,10,1,0.7912379629747033,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+109,2,5:12,1512,1512,Brittany Panetti Defensive Rebound.,24,14,10,0,0.7913354747666074,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+110,2,5:12,1512,1512,Foul on Tonysha Curry.,24,14,10,21,0.7913354747666074,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+111,2,4:51,1491,1491,Ansley Eubank Turnover.,24,14,10,0,0.7934163058351629,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+112,2,4:51,1491,1491,Day'Neshia Banks Steal.,24,14,10,11,0.7934163058351629,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+113,2,4:40,1480,1480,Kennedi Colclough missed Layup.,24,14,10,4,0.7945345934096217,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+114,2,4:36,1476,1476,Emma Wallen Defensive Rebound.,24,14,10,2,0.7949466427412973,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+115,2,4:34,1474,1474,Jaila Roberts made Three Point Jumper. Assisted by Ivy Wallen.,24,17,7,18,0.7209931436866052,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,North Alabama
+116,2,4:16,1456,1456,Kennedi Colclough Turnover.,24,17,7,0,0.7226389181343587,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+117,2,4:16,1456,1456,Official TV Timeout,24,17,7,14,0.7226389181343587,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+118,2,4:02,1442,1442,Emma Wallen made Three Point Jumper. Assisted by Ivy Wallen.,24,20,4,28,0.6343534832022756,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,North Alabama
+119,2,3:34,1414,1414,Kimia Carter Turnover.,24,20,4,0,0.6360277846627155,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+120,2,3:34,1414,1414,Emma Wallen Steal.,24,20,4,5,0.6360277846627155,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+121,2,3:29,1409,1409,Jaila Roberts made Layup. Assisted by Ivy Wallen.,24,22,2,0,0.5694752857545454,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,North Alabama
+122,2,3:29,1409,1409,Foul on Teneil Robertson.,24,22,2,0,0.5694752857545454,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+123,2,3:29,1409,1409,Jaila Roberts made Free Throw.,24,23,1,2,0.5349069535099488,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,North Alabama
+124,2,3:27,1407,1407,Day'Neshia Banks Turnover.,24,23,1,0,0.5349380774583118,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+125,2,3:27,1407,1407,Brittany Panetti Steal.,24,23,1,5,0.5349380774583118,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+126,2,3:22,1402,1402,Ansley Eubank missed Layup.,24,23,1,3,0.5350155762619505,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+127,2,3:19,1399,1399,Ansley Eubank Offensive Rebound.,24,23,1,3,0.535061881830227,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+128,2,3:16,1396,1396,Emma Wallen missed Three Point Jumper.,24,23,1,3,0.5351080582733805,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+129,2,3:13,1393,1393,Megan Vincent Defensive Rebound.,24,23,1,15,0.5351541188126745,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+130,2,2:58,1378,1378,Megan Vincent Turnover.,24,23,1,17,0.5353831456474376,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+131,2,2:41,1361,1361,Emma Wallen made Three Point Jumper. Assisted by Ivy Wallen.,24,26,-2,24,0.42907699801507676,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,North Alabama
+132,2,2:17,1337,1337,Kimia Carter missed Layup.,24,26,-2,4,0.4283529030834783,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+133,2,2:13,1333,1333,Tonysha Curry Offensive Rebound.,24,26,-2,1,0.42823083853826344,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+134,2,2:12,1332,1332,Day'Neshia Banks made Layup. Assisted by Tonysha Curry.,26,26,0,11,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,Stetson
+135,2,2:01,1321,1321,Emma Wallen missed Three Point Jumper.,26,26,0,4,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+136,2,1:57,1317,1317,Teneil Robertson Defensive Rebound.,26,26,0,5,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+137,2,1:52,1312,1312,Foul on Day'Neshia Banks.,26,26,0,0,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+138,2,1:52,1312,1312,Day'Neshia Banks Turnover.,26,26,0,15,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+139,2,1:37,1297,1297,Brittany Panetti missed Layup.,26,26,0,2,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+140,2,1:35,1295,1295,Megan Vincent Defensive Rebound.,26,26,0,9,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+141,2,1:26,1286,1286,Day'Neshia Banks Turnover.,26,26,0,0,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+142,2,1:26,1286,1286,Brittany Panetti Steal.,26,26,0,14,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+143,2,1:12,1272,1272,Foul on Megan Vincent.,26,26,0,13,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+144,2,0:59,1259,1259,Jaila Roberts Turnover.,26,26,0,18,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+145,2,0:41,1241,1241,Foul on Kimia Carter.,26,26,0,0,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+146,2,0:41,1241,1241,Kimia Carter Turnover.,26,26,0,5,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+147,2,0:36,1236,1236,Foul on Tonysha Curry.,26,26,0,0,0.5,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+148,2,0:36,1236,1236,Ivy Wallen made Free Throw.,26,27,-1,0,0.46226321072000603,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,North Alabama
+149,2,0:36,1236,1236,Ivy Wallen made Free Throw.,26,28,-2,11,0.424953903596708,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,North Alabama
+150,2,0:25,1225,1225,Teneil Robertson missed Layup.,26,28,-2,1,0.42452264153197655,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+151,2,0:24,1224,1224,Ivy Wallen Defensive Rebound.,26,28,-2,0,0.42448262532549014,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+152,2,0:24,1224,1224,Foul on Teneil Robertson.,26,28,-2,0,0.42448262532549014,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+153,2,0:24,1224,1224,Ivy Wallen missed Free Throw.,26,28,-2,0,0.42448262532549014,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+154,2,0:24,1224,1224,North Alabama Deadball Team Rebound.,26,28,-2,0,0.42448262532549014,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+155,2,0:24,1224,1224,Ivy Wallen made Free Throw.,26,29,-3,19,0.38779329767761245,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,North Alabama
+156,2,0:05,1205,1205,Megan Vincent made Jumper. Assisted by Kimia Carter.,28,29,-1,5,0.46162420343577754,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,Stetson
+157,2,0:00,1200,1200,End of 2nd Quarter,28,29,-1,9,0.4615187446422248,Stetson,North Alabama,4,4,0,0,NA,401174343,2020-02-17,
+158,3,9:51,1191,1191,Jamiya Turner made Layup.,30,29,1,39,0.5386685001849195,Stetson,North Alabama,5,5,0,0,NA,401174343,2020-02-17,Stetson
+159,3,9:12,1152,1152,Ansley Eubank missed Jumper.,30,29,1,2,0.5394527821516236,Stetson,North Alabama,5,5,0,0,NA,401174343,2020-02-17,
+160,3,9:10,1150,1150,Jon'Nita Henry Defensive Rebound.,30,29,1,27,0.5394922781991501,Stetson,North Alabama,5,5,0,0,NA,401174343,2020-02-17,
+161,3,8:43,1123,1123,Jon'Nita Henry missed Layup.,30,29,1,2,0.5400245895643967,Stetson,North Alabama,5,5,0,0,NA,401174343,2020-02-17,
+162,3,8:41,1121,1121,Brittany Panetti Defensive Rebound.,30,29,1,7,0.5400641577836345,Stetson,North Alabama,5,5,0,0,NA,401174343,2020-02-17,
+163,3,8:34,1114,1114,Kenysha Coulson Turnover.,30,29,1,0,0.5402030525843314,Stetson,North Alabama,5,5,0,0,NA,401174343,2020-02-17,
+164,3,8:34,1114,1114,Day'Neshia Banks Steal.,30,29,1,5,0.5402030525843314,Stetson,North Alabama,5,5,0,0,NA,401174343,2020-02-17,
+165,3,8:29,1109,1109,Day'Neshia Banks Turnover.,30,29,1,0,0.5403027447964085,Stetson,North Alabama,5,5,0,0,NA,401174343,2020-02-17,
+166,3,8:29,1109,1109,Kenysha Coulson Steal.,30,29,1,5,0.5403027447964085,Stetson,North Alabama,5,5,0,0,NA,401174343,2020-02-17,
+167,3,8:24,1104,1104,Ivy Wallen missed Layup.,30,29,1,3,0.5404029344350949,Stetson,North Alabama,5,5,0,0,NA,401174343,2020-02-17,
+168,3,8:21,1101,1101,Day'Neshia Banks Defensive Rebound.,30,29,1,11,0.5404633222379182,Stetson,North Alabama,5,5,0,0,NA,401174343,2020-02-17,
+169,3,8:10,1090,1090,Jamiya Turner made Layup.,32,29,3,6,0.6199471612356132,Stetson,North Alabama,5,5,0,0,NA,401174343,2020-02-17,Stetson
+170,3,8:04,1084,1084,Emma Wallen Turnover.,32,29,3,0,0.6202986933233271,Stetson,North Alabama,5,5,1,0,NA,401174343,2020-02-17,
+171,3,8:04,1084,1084,North Alabama  Timeout,32,29,3,0,0.6202986933233271,Stetson,North Alabama,4,5,1,0,NA,401174343,2020-02-17,
+172,3,8:04,1084,1084,Official TV Timeout,32,29,3,25,0.6202986933233271,Stetson,North Alabama,4,5,1,0,NA,401174343,2020-02-17,
+173,3,7:39,1059,1059,Jon'Nita Henry missed Three Point Jumper.,32,29,3,3,0.6218074905956852,Stetson,North Alabama,4,5,1,0,NA,401174343,2020-02-17,
+174,3,7:36,1056,1056,Jaila Roberts Defensive Rebound.,32,29,3,19,0.6219942299711317,Stetson,North Alabama,4,5,1,0,NA,401174343,2020-02-17,
+175,3,7:17,1037,1037,Ansley Eubank Turnover.,32,29,3,0,0.623211403065959,Stetson,North Alabama,4,5,1,0,NA,401174343,2020-02-17,
+176,3,7:17,1037,1037,Day'Neshia Banks Steal.,32,29,3,4,0.623211403065959,Stetson,North Alabama,4,5,1,0,NA,401174343,2020-02-17,
+177,3,7:13,1033,1033,Day'Neshia Banks made Layup.,34,29,5,21,0.6985804977034019,Stetson,North Alabama,4,5,1,0,NA,401174343,2020-02-17,Stetson
+178,3,6:52,1012,1012,Jaila Roberts Turnover.,34,29,5,0,0.7007363597169669,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+179,3,6:52,1012,1012,Kennedi Colclough Steal.,34,29,5,5,0.7007363597169669,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+180,3,6:47,1007,1007,Foul on Kennedi Colclough.,34,29,5,0,0.7012708946520859,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+181,3,6:47,1007,1007,Kennedi Colclough Turnover.,34,29,5,11,0.7012708946520859,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+182,3,6:36,996,996,Brittany Panetti made Layup. Assisted by Emma Wallen.,34,31,3,6,0.6260895138383642,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,North Alabama
+183,3,6:30,990,990,Jamiya Turner Turnover.,34,31,3,0,0.6265453370290126,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+184,3,6:30,990,990,Emma Wallen Steal.,34,31,3,3,0.6265453370290126,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+185,3,6:27,987,987,Foul on Kennedi Colclough.,34,31,3,0,0.6267769821281218,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+186,3,6:27,987,987,Emma Wallen made Free Throw.,34,32,2,0,0.5855525543282398,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,North Alabama
+187,3,6:27,987,987,Emma Wallen missed Free Throw.,34,32,2,0,0.5855525543282398,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+188,3,6:27,987,987,Megan Vincent Defensive Rebound.,34,32,2,10,0.5855525543282398,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+189,3,6:17,977,977,Foul on Jaida Bond.,34,32,2,0,0.5860996687683028,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+190,3,6:17,977,977,Jamiya Turner made Free Throw.,35,32,3,0,0.6275678663365505,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,Stetson
+191,3,6:17,977,977,Jamiya Turner made Free Throw.,36,32,4,18,0.667240227971197,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,Stetson
+192,3,5:59,959,959,Foul on Megan Vincent.,36,32,4,0,0.6690788431001071,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+193,3,5:59,959,959,Brittany Panetti made Free Throw.,36,33,3,0,0.6290203305153268,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,North Alabama
+194,3,5:59,959,959,Brittany Panetti made Free Throw.,36,34,2,22,0.5871051263918231,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,North Alabama
+195,3,5:37,937,937,Jon'Nita Henry missed Three Point Jumper.,36,34,2,5,0.5882209972156194,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+196,3,5:32,932,932,Day'Neshia Banks Offensive Rebound.,36,34,2,0,0.588458613396847,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+197,3,5:32,932,932,Day'Neshia Banks made Layup.,38,34,4,18,0.6715478302888682,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,Stetson
+198,3,5:14,914,914,Brittany Panetti Turnover.,38,34,4,26,0.6730375648182267,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+199,3,4:48,888,888,Foul on Brittany Panetti.,38,34,4,0,0.6750660648988662,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+200,3,4:48,888,888,Official TV Timeout,38,34,4,0,0.6750660648988662,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+201,3,4:48,888,888,Teneil Robertson made Free Throw.,39,34,5,0,0.7138150967104424,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,Stetson
+202,3,4:48,888,888,Teneil Robertson missed Free Throw.,39,34,5,2,0.7138150967104424,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+203,3,4:46,886,886,Stetson Offensive Rebound.,39,34,5,20,0.7139932648546291,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+204,3,4:26,866,866,Stetson  Turnover.,39,34,5,22,0.7157753623187622,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+205,3,4:04,844,844,Jaida Bond missed Three Point Jumper.,39,34,5,3,0.7177915891912852,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+206,3,4:01,841,841,Teneil Robertson Defensive Rebound.,39,34,5,23,0.718075595163301,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+207,3,3:38,818,818,Kennedi Colclough missed Layup.,39,34,5,0,0.7203631931546027,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+208,3,3:38,818,818,Jaida Bond Block.,39,34,5,1,0.7203631931546027,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+209,3,3:37,817,817,Stetson Offensive Rebound.,39,34,5,1,0.7204679234958452,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+210,3,3:36,816,816,Foul on Olivia Noah.,39,34,5,9,0.7205731577522684,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+211,3,3:27,807,807,Day'Neshia Banks missed Layup.,39,34,5,2,0.7215442121128769,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+212,3,3:25,805,805,Brittany Panetti Defensive Rebound.,39,34,5,10,0.7217661926668146,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+213,3,3:15,795,795,Foul on Jon'Nita Henry.,39,34,5,0,0.7229130577045942,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+214,3,3:15,795,795,Emma Wallen made Free Throw.,39,35,4,0,0.6829075473663458,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,North Alabama
+215,3,3:15,795,795,Emma Wallen made Free Throw.,39,36,3,27,0.6400024044382352,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,North Alabama
+216,3,2:48,768,768,Kimia Carter missed Three Point Jumper.,39,36,3,4,0.6423909941460847,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+217,3,2:44,764,764,Day'Neshia Banks Offensive Rebound.,39,36,3,0,0.6427808412803422,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+218,3,2:44,764,764,Day'Neshia Banks made Layup.,41,36,5,10,0.7269277292513199,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,Stetson
+219,3,2:34,754,754,Emma Wallen Turnover.,41,36,5,0,0.7283963281954308,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+220,3,2:34,754,754,Kennedi Colclough Steal.,41,36,5,20,0.7283963281954308,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+221,3,2:14,734,734,Teneil Robertson missed Jumper.,41,36,5,2,0.7316301443359013,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+222,3,2:12,732,732,Ivy Wallen Defensive Rebound.,41,36,5,7,0.7319768497890881,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+223,3,2:05,725,725,Foul on Kimia Carter.,41,36,5,0,0.7331934128588578,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+224,3,2:05,725,725,Kenysha Coulson missed Free Throw.,41,36,5,0,0.7331934128588578,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+225,3,2:05,725,725,North Alabama Deadball Team Rebound.,41,36,5,0,0.7331934128588578,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+226,3,2:05,725,725,Kenysha Coulson made Free Throw.,41,37,4,6,0.6918342087867998,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,North Alabama
+227,3,1:59,719,719,Kimia Carter made Layup. Assisted by Kennedi Colclough.,43,37,6,18,0.7719165106249092,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,Stetson
+228,3,1:41,701,701,Kenysha Coulson Turnover.,43,37,6,1,0.7748727226161987,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+229,3,1:40,700,700,Day'Neshia Banks Turnover.,43,37,6,0,0.775026955987781,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+230,3,1:40,700,700,Emma Wallen Steal.,43,37,6,4,0.775026955987781,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+231,3,1:36,696,696,Ivy Wallen made Layup.,43,39,4,10,0.6957074103634493,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,North Alabama
+232,3,1:26,686,686,Tonysha Curry made Layup.,45,39,6,13,0.7771037808397008,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,Stetson
+233,3,1:13,673,673,Kenysha Coulson missed Three Point Jumper.,45,39,6,4,0.7789333828641403,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+234,3,1:09,669,669,Day'Neshia Banks Defensive Rebound.,45,39,6,14,0.7794854040509094,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+235,3,0:55,655,655,Foul on Ivy Wallen.,45,39,6,0,0.781406816826365,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+236,3,0:55,655,655,Day'Neshia Banks missed Free Throw.,45,39,6,0,0.781406816826365,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+237,3,0:55,655,655,Stetson Deadball Team Rebound.,45,39,6,0,0.781406816826365,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+238,3,0:55,655,655,Day'Neshia Banks made Free Throw.,46,39,7,15,0.8155068421836016,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,Stetson
+239,3,0:40,640,640,Emma Wallen missed Three Point Jumper.,46,39,7,3,0.817656414152467,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+240,3,0:37,637,637,Tonysha Curry Defensive Rebound.,46,39,7,17,0.8180967909157506,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+241,3,0:20,620,620,Jamiya Turner Turnover.,46,39,7,0,0.8207014187413717,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+242,3,0:20,620,620,Ivy Wallen Steal.,46,39,7,5,0.8207014187413717,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+243,3,0:15,615,615,Olivia Noah made Layup. Assisted by Ivy Wallen.,46,41,5,15,0.7484662647948557,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,North Alabama
+244,3,0:00,600,600,Ansley Eubank missed Free Throw.,46,41,5,0,0.7508511955786001,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+245,3,0:00,600,600,Kennedi Colclough missed Layup.,46,41,5,0,0.7508511955786001,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+246,3,0:00,600,600,Ansley Eubank Defensive Rebound.,46,41,5,0,0.7508511955786001,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+247,3,0:00,600,600,Foul on Tonysha Curry.,46,41,5,0,0.7508511955786001,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+248,3,0:00,600,600,North Alabama Deadball Team Rebound.,46,41,5,0,0.7508511955786001,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+249,3,0:00,600,600,Ansley Eubank missed Free Throw.,46,41,5,0,0.7508511955786001,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+250,3,0:00,600,600,Day'Neshia Banks Defensive Rebound.,46,41,5,0,0.7508511955786001,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+251,3,0:00,600,600,End of 3rd Quarter,46,41,5,20,0.7508511955786001,Stetson,North Alabama,4,5,0,0,NA,401174343,2020-02-17,
+252,4,9:40,580,580,Ivy Wallen Turnover.,46,41,5,0,0.754481656061025,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+253,4,9:40,580,580,Day'Neshia Banks Steal.,46,41,5,28,0.754481656061025,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+254,4,9:12,552,552,Day'Neshia Banks made Three Point Jumper.,49,41,8,18,0.8641606412542848,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,Stetson
+255,4,8:54,534,534,Olivia Noah missed Layup.,49,41,8,3,0.8684261578536869,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+256,4,8:51,531,531,Kennedi Colclough Defensive Rebound.,49,41,8,17,0.8690515329861012,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+257,4,8:34,514,514,Megan Vincent Turnover.,49,41,8,0,0.8722953772062146,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+258,4,8:34,514,514,Ivy Wallen Steal.,49,41,8,4,0.8722953772062146,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+259,4,8:30,510,510,Ivy Wallen made Layup.,49,43,6,27,0.8093632098272269,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,North Alabama
+260,4,8:03,483,483,Day'Neshia Banks made Jumper.,51,43,8,15,0.8778193673389842,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,Stetson
+261,4,7:48,468,468,Foul on Megan Vincent.,51,43,8,0,0.8807971053394618,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+262,4,7:48,468,468,Ansley Eubank made Free Throw.,51,44,7,0,0.8519528307291913,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,North Alabama
+263,4,7:48,468,468,Ansley Eubank made Free Throw.,51,45,6,14,0.8175745053445861,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,North Alabama
+264,4,7:34,454,454,Jamiya Turner Turnover.,51,45,6,0,0.8210006841380212,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+265,4,7:34,454,454,Emma Wallen Steal.,51,45,6,3,0.8210006841380212,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+266,4,7:31,451,451,Foul on Kimia Carter.,51,45,6,0,0.8218113880338564,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+267,4,7:31,451,451,Emma Wallen missed Free Throw.,51,45,6,0,0.8218113880338564,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+268,4,7:31,451,451,North Alabama Deadball Team Rebound.,51,45,6,0,0.8218113880338564,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+269,4,7:31,451,451,Emma Wallen made Free Throw.,51,46,5,8,0.7814079681491258,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,North Alabama
+270,4,7:23,443,443,Foul on Emma Wallen.,51,46,5,16,0.7836610883130856,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+271,4,7:07,427,427,Megan Vincent missed Three Point Jumper.,51,46,5,4,0.7888931231067801,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+272,4,7:03,423,423,Olivia Noah Defensive Rebound.,51,46,5,7,0.7902351633400577,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+273,4,6:56,416,416,Olivia Noah made Layup. Assisted by Jaila Roberts.,51,48,3,24,0.6908277132541502,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,North Alabama
+274,4,6:32,392,392,Kimia Carter missed Three Point Jumper.,51,48,3,1,0.6964639222882133,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+275,4,6:31,391,391,Stetson Offensive Rebound.,51,48,3,0,0.6966950782783854,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+276,4,6:31,391,391,Foul on Emma Wallen.,51,48,3,0,0.6966950782783854,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+277,4,6:31,391,391,Megan Vincent made Free Throw.,52,48,4,0,0.7519076139022478,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,Stetson
+278,4,6:31,391,391,Megan Vincent missed Free Throw.,52,48,4,1,0.7519076139022478,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+279,4,6:30,390,390,Brittany Panetti Defensive Rebound.,52,48,4,10,0.7521799604740017,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+280,4,6:20,380,380,Olivia Noah made Three Point Jumper. Assisted by Jaila Roberts.,52,51,1,27,0.5698582521361394,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,North Alabama
+281,4,5:53,353,353,Foul on Olivia Noah.,52,51,1,0,0.5725831055609882,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+282,4,5:53,353,353,Megan Vincent made Free Throw.,53,51,2,0,0.6421702254257095,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,Stetson
+283,4,5:53,353,353,Megan Vincent made Free Throw.,54,51,3,21,0.7062404222290122,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,Stetson
+284,4,5:32,332,332,Emma Wallen made Three Point Jumper. Assisted by Brittany Panetti.,54,54,0,24,0.5,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,North Alabama
+285,4,5:08,308,308,Day'Neshia Banks missed Jumper.,54,54,0,4,0.5,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+286,4,5:04,304,304,Jaila Roberts Defensive Rebound.,54,54,0,1,0.5,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+287,4,5:03,303,303,Foul on Teneil Robertson.,54,54,0,0,0.5,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+288,4,5:03,303,303,Emma Wallen made Free Throw.,54,55,-1,0,0.42025894595292435,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,North Alabama
+289,4,5:03,303,303,Emma Wallen made Free Throw.,54,56,-2,18,0.34447363392075475,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,North Alabama
+290,4,4:45,285,285,Megan Vincent made Layup. Assisted by Kimia Carter.,56,56,0,11,0.5,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,Stetson
+291,4,4:34,274,274,Emma Wallen missed Three Point Jumper.,56,56,0,4,0.5,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+292,4,4:30,270,270,Megan Vincent Defensive Rebound.,56,56,0,13,0.5,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+293,4,4:17,257,257,Day'Neshia Banks made Three Point Jumper. Assisted by Kennedi Colclough.,59,56,3,30,0.7218906576960997,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,Stetson
+294,4,3:47,227,227,Emma Wallen made Layup. Assisted by Jaila Roberts.,59,58,1,22,0.57818786731953,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,North Alabama
+295,4,3:25,205,205,Official TV Timeout,59,58,1,11,0.5818798586745695,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+296,4,3:14,194,194,Stetson  Turnover.,59,58,1,16,0.5858875738400977,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+297,4,2:58,178,178,Olivia Noah missed Three Point Jumper.,59,58,1,4,0.5938728300096924,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+298,4,2:54,174,174,Day'Neshia Banks Defensive Rebound.,59,58,1,16,0.5959389089173166,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+299,4,2:38,158,158,Kennedi Colclough made Layup. Assisted by Day'Neshia Banks.,61,58,3,14,0.7813882829675197,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,Stetson
+300,4,2:24,144,144,Ansley Eubank Turnover.,61,58,3,0,0.7987825415722621,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+301,4,2:24,144,144,Megan Vincent Steal.,61,58,3,22,0.7987825415722621,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+302,4,2:02,122,122,Jamiya Turner Turnover.,61,58,3,15,0.8282778897350767,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+303,4,1:47,107,107,Foul on Jon'Nita Henry.,61,58,3,10,0.849961421319068,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+304,4,1:37,97,97,Ivy Wallen Turnover.,61,58,3,25,0.8649569766717011,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+305,4,1:12,72,72,Day'Neshia Banks missed Jumper.,61,58,3,2,0.9005663705991794,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+306,4,1:10,70,70,Tonysha Curry Offensive Rebound.,61,58,3,12,0.9032541821171107,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+307,4,0:58,58,58,Foul on Brittany Panetti.,61,58,3,8,0.9185231131253686,Stetson,North Alabama,5,6,0,0,NA,401174343,2020-02-17,
+308,4,0:50,50,50,Foul on Olivia Noah.,61,58,3,0,0.9278988280641667,Stetson,North Alabama,5,6,1,0,NA,401174343,2020-02-17,
+309,4,0:50,50,50,Kennedi Colclough made Free Throw.,62,58,4,0,0.967906124178248,Stetson,North Alabama,5,6,1,0,NA,401174343,2020-02-17,Stetson
+310,4,0:50,50,50,Kennedi Colclough made Free Throw.,63,58,5,0,0.9860480712219178,Stetson,North Alabama,5,6,1,0,NA,401174343,2020-02-17,Stetson
+311,4,0:50,50,50,North Alabama  Timeout,63,58,5,5,0.9860480712219178,Stetson,North Alabama,4,6,1,0,NA,401174343,2020-02-17,
+312,4,0:45,45,45,Foul on Jamiya Turner.,63,58,5,0,0.9878879377698051,Stetson,North Alabama,4,6,1,1,NA,401174343,2020-02-17,
+313,4,0:45,45,45,Ivy Wallen made Free Throw.,63,59,4,0,0.9712820335344479,Stetson,North Alabama,4,6,1,1,NA,401174343,2020-02-17,North Alabama
+314,4,0:45,45,45,Ivy Wallen made Free Throw.,63,60,3,0,0.9334429554452127,Stetson,North Alabama,4,6,1,1,NA,401174343,2020-02-17,North Alabama
+315,4,0:45,45,45,Stetson  Timeout,63,60,3,7,0.9334429554452127,Stetson,North Alabama,4,5,1,1,NA,401174343,2020-02-17,
+316,4,0:38,38,38,Foul on Ansley Eubank.,63,60,3,0,0.9407943806140523,Stetson,North Alabama,4,5,1,1,NA,401174343,2020-02-17,
+317,4,0:38,38,38,Tonysha Curry made Free Throw.,64,60,4,0,0.9755795512141152,Stetson,North Alabama,4,5,1,1,NA,401174343,2020-02-17,Stetson
+318,4,0:38,38,38,Tonysha Curry made Free Throw.,65,60,5,7,0.9901414974572486,Stetson,North Alabama,4,5,1,1,NA,401174343,2020-02-17,Stetson
+319,4,0:31,31,31,Ivy Wallen missed Layup.,65,60,5,3,0.9920405962771082,Stetson,North Alabama,4,5,1,1,NA,401174343,2020-02-17,
+320,4,0:28,28,28,Megan Vincent Defensive Rebound.,65,60,5,0,0.9927535175249017,Stetson,North Alabama,4,5,1,1,NA,401174343,2020-02-17,
+321,4,0:28,28,28,Foul on Ivy Wallen.,65,60,5,0,0.9927535175249017,Stetson,North Alabama,4,5,1,1,NA,401174343,2020-02-17,
+322,4,0:28,28,28,Megan Vincent made Free Throw.,66,60,6,0,0.99727880563173,Stetson,North Alabama,4,5,1,1,NA,401174343,2020-02-17,Stetson
+323,4,0:28,28,28,Megan Vincent made Free Throw.,67,60,7,0,0.9989810394227572,Stetson,North Alabama,4,5,1,1,NA,401174343,2020-02-17,Stetson
+324,4,0:28,28,28,North Alabama  Timeout,67,60,7,5,0.9989810394227572,Stetson,North Alabama,3,5,1,1,NA,401174343,2020-02-17,
+325,4,0:23,23,23,Ivy Wallen missed Three Point Jumper.,67,60,7,4,0.9991852439679113,Stetson,North Alabama,3,5,1,1,NA,401174343,2020-02-17,
+326,4,0:19,19,19,Jamiya Turner Defensive Rebound.,67,60,7,0,0.9993217888798495,Stetson,North Alabama,3,5,1,1,NA,401174343,2020-02-17,
+327,4,0:19,19,19,Foul on Jaida Bond.,67,60,7,0,0.9993217888798495,Stetson,North Alabama,3,5,1,1,NA,401174343,2020-02-17,
+328,4,0:19,19,19,Jamiya Turner made Free Throw.,68,60,8,0,0.9997607039400961,Stetson,North Alabama,3,5,1,1,NA,401174343,2020-02-17,Stetson
+329,4,0:19,19,19,Jamiya Turner made Free Throw.,69,60,9,5,0.9999155921649162,Stetson,North Alabama,3,5,1,1,NA,401174343,2020-02-17,Stetson
+330,4,0:14,14,14,Ivy Wallen Turnover.,69,60,9,2,0.9999377823077055,Stetson,North Alabama,3,5,1,1,NA,401174343,2020-02-17,
+331,4,0:12,12,12,Megan Vincent Turnover.,69,60,9,0,0.9999450812311699,Stetson,North Alabama,3,5,1,1,NA,401174343,2020-02-17,
+332,4,0:12,12,12,Emma Wallen Turnover.,69,60,9,12,0.9999450812311699,Stetson,North Alabama,3,5,1,1,NA,401174343,2020-02-17,
+333,4,0:00,0,0,End of 4th Quarter,69,60,9,0,1,Stetson,North Alabama,3,5,1,1,NA,401174343,2020-02-17,
+334,4,0:00,0,0,End of Game,69,60,9,0,1,Stetson,North Alabama,3,5,1,1,NA,401174343,2020-02-17,

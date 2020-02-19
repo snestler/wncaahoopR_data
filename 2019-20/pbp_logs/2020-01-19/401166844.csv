@@ -1,0 +1,305 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:44,2384,2384,Dorka Juhasz Turnover.,0,0,0,0,0.5,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,NA
+2,1,9:44,2384,2384,Brandi Beasley Steal.,0,0,0,18,0.5,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+3,1,9:26,2366,2366,Brandi Beasley missed Jumper.,0,0,0,4,0.5,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+4,1,9:22,2362,2362,Aaliyah Patty Defensive Rebound.,0,0,0,10,0.5,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+5,1,9:12,2352,2352,Braxtin Miller Turnover.,0,0,0,24,0.5,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+6,1,8:48,2328,2328,Kennedi Myles missed Jumper.,0,0,0,4,0.5,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+7,1,8:44,2324,2324,Mackenzie Blazek Offensive Rebound.,0,0,0,1,0.5,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+8,1,8:43,2323,2323,Kennedi Myles made Layup. Assisted by Mackenzie Blazek.,0,2,-2,22,0.45432062009867336,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Illinois
+9,1,8:21,2301,2301,Madison Greene missed Layup.,0,2,-2,2,0.4538347874070997,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+10,1,8:19,2299,2299,Dorka Juhasz Offensive Rebound.,0,2,-2,0,0.4537903654396274,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+11,1,8:19,2299,2299,Foul on Mackenzie Blazek.,0,2,-2,0,0.4537903654396274,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+12,1,8:19,2299,2299,Dorka Juhasz missed Free Throw.,0,2,-2,0,0.4537903654396274,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+13,1,8:19,2299,2299,Ohio State Deadball Team Rebound.,0,2,-2,0,0.4537903654396274,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+14,1,8:19,2299,2299,Dorka Juhasz made Free Throw.,1,2,-1,20,0.4768456344721503,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+15,1,7:59,2279,2279,Brandi Beasley Turnover.,1,2,-1,0,0.4766209850294595,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+16,1,7:59,2279,2279,Dorka Juhasz Steal.,1,2,-1,6,0.4766209850294595,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+17,1,7:53,2273,2273,Jacy Sheldon made Three Point Jumper. Assisted by Braxtin Miller.,4,2,2,21,0.5467906738870376,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+18,1,7:32,2252,2252,Petra Holesinska missed Three Point Jumper.,4,2,2,3,0.5472643690441272,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+19,1,7:29,2249,2249,Kennedi Myles Offensive Rebound.,4,2,2,20,0.5473323287850554,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+20,1,7:09,2229,2229,Illinois  Turnover.,4,2,2,15,0.547787062890142,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+21,1,6:54,2214,2214,Dorka Juhasz made Layup.,6,2,4,16,0.5953759411688806,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+22,1,6:38,2198,2198,Brandi Beasley made Jumper.,6,4,2,16,0.5484968903695424,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Illinois
+23,1,6:22,2182,2182,Madison Greene made Three Point Jumper. Assisted by Dorka Juhasz.,9,4,5,30,0.620157450118268,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+24,1,5:52,2152,2152,Kennedi Myles Turnover.,9,4,5,5,0.6218065407611573,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+25,1,5:47,2147,2147,Madison Greene Turnover.,9,4,5,13,0.6220826282008025,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+26,1,5:34,2134,2134,Kennedi Myles Turnover.,9,4,5,0,0.6228023867402612,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+27,1,5:34,2134,2134,Jacy Sheldon Steal.,9,4,5,13,0.6228023867402612,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+28,1,5:21,2121,2121,Braxtin Miller missed Three Point Jumper.,9,4,5,3,0.6235250671619081,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+29,1,5:18,2118,2118,Mackenzie Blazek Defensive Rebound.,9,4,5,3,0.6236922720505973,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+30,1,5:15,2115,2115,Brandi Beasley Turnover.,9,4,5,12,0.6238596434201479,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+31,1,5:03,2103,2103,Madison Greene missed Three Point Jumper.,9,4,5,7,0.6245308343422337,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+32,1,4:56,2096,2096,Dorka Juhasz Offensive Rebound.,9,4,5,0,0.6249236591395559,Ohio State,Illinois,4,4,1,0,NA,401166844,2020-01-19,
+33,1,4:56,2096,2096,Dorka Juhasz made Layup.,11,4,7,0,0.6714388290764349,Ohio State,Illinois,4,4,1,0,NA,401166844,2020-01-19,Ohio State
+34,1,4:56,2096,2096,Illinois  Timeout,11,4,7,0,0.6714388290764349,Ohio State,Illinois,3,4,1,0,NA,401166844,2020-01-19,
+35,1,4:56,2096,2096,Official TV Timeout,11,4,7,8,0.6714388290764349,Ohio State,Illinois,3,4,1,0,NA,401166844,2020-01-19,
+36,1,4:48,2088,2088,Jeanae Terry made Jumper.,11,6,5,0,0.6253738122342009,Ohio State,Illinois,3,4,1,0,NA,401166844,2020-01-19,Illinois
+37,1,4:48,2088,2088,Foul on Janai Crooms.,11,6,5,0,0.6253738122342009,Ohio State,Illinois,3,4,1,0,NA,401166844,2020-01-19,
+38,1,4:48,2088,2088,Jeanae Terry missed Free Throw.,11,6,5,2,0.6253738122342009,Ohio State,Illinois,3,4,1,0,NA,401166844,2020-01-19,
+39,1,4:46,2086,2086,Rebeka Mikulasikova Defensive Rebound.,11,6,5,26,0.6254865564887664,Ohio State,Illinois,3,4,1,0,NA,401166844,2020-01-19,
+40,1,4:20,2060,2060,Madison Greene missed Layup.,11,6,5,4,0.6269600548841088,Ohio State,Illinois,3,4,1,0,NA,401166844,2020-01-19,
+41,1,4:16,2056,2056,Jeanae Terry Defensive Rebound.,11,6,5,18,0.6271880839810767,Ohio State,Illinois,3,4,1,0,NA,401166844,2020-01-19,
+42,1,3:58,2038,2038,Courtney Joens missed Layup.,11,6,5,3,0.6282188613431704,Ohio State,Illinois,3,4,1,0,NA,401166844,2020-01-19,
+43,1,3:55,2035,2035,Dorka Juhasz Defensive Rebound.,11,6,5,6,0.6283914160944843,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+44,1,3:49,2029,2029,Foul on Ali Andrews.,11,6,5,0,0.6287371935963528,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+45,1,3:49,2029,2029,Jacy Sheldon made Free Throw.,12,6,6,0,0.6529799356867063,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,Ohio State
+46,1,3:49,2029,2029,Jacy Sheldon made Free Throw.,13,6,7,24,0.6764542814412748,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,Ohio State
+47,1,3:25,2005,2005,Cierra Rice made Layup.,13,8,5,23,0.6301294995623724,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,Illinois
+48,1,3:02,1982,1982,Foul on Jeanae Terry.,13,8,5,0,0.6314782934151979,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+49,1,3:02,1982,1982,Rebeka Mikulasikova made Free Throw.,14,8,6,0,0.6561709455488713,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,Ohio State
+50,1,3:02,1982,1982,Rebeka Mikulasikova missed Free Throw.,14,8,6,0,0.6561709455488713,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+51,1,3:02,1982,1982,Courtney Joens Defensive Rebound.,14,8,6,18,0.6561709455488713,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+52,1,2:44,1964,1964,Jeanae Terry missed Layup.,14,8,6,2,0.6574108467922029,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+53,1,2:42,1962,1962,Rebeka Mikulasikova Defensive Rebound.,14,8,6,10,0.6575492582642859,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+54,1,2:32,1952,1952,Foul on Courtney Joens.,14,8,6,0,0.6582432970252516,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+55,1,2:32,1952,1952,Rebeka Mikulasikova made Free Throw.,15,8,7,0,0.6823779322129222,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,Ohio State
+56,1,2:32,1952,1952,Rebeka Mikulasikova made Free Throw.,16,8,8,10,0.7055705536993376,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,Ohio State
+57,1,2:22,1942,1942,Ali Andrews made Three Point Jumper. Assisted by Brandi Beasley.,16,11,5,17,0.633860456593886,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,Illinois
+58,1,2:05,1925,1925,Rebeka Mikulasikova Turnover.,16,11,5,23,0.6348872048370062,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+59,1,1:42,1902,1902,Jeanae Terry made Three Point Jumper. Assisted by Brandi Beasley.,16,14,2,26,0.555691160002145,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,Illinois
+60,1,1:16,1876,1876,Dorka Juhasz missed Layup.,16,14,2,3,0.5563594356283966,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+61,1,1:13,1873,1873,Jeanae Terry Defensive Rebound.,16,14,2,15,0.5564366163432634,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+62,1,0:58,1858,1858,Cierra Rice missed Jumper.,16,14,2,3,0.5568230474925522,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+63,1,0:55,1855,1855,Rebeka Mikulasikova Defensive Rebound.,16,14,2,4,0.5569004682546363,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+64,1,0:51,1851,1851,Dorka Juhasz missed Jumper.,16,14,2,4,0.5570037814525133,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+65,1,0:47,1847,1847,Cierra Rice Defensive Rebound.,16,14,2,3,0.5571072013834203,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+66,1,0:44,1844,1844,Jeanae Terry missed Three Point Jumper.,16,14,2,4,0.5571848422813509,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+67,1,0:40,1840,1840,Kierstan Bell Defensive Rebound.,16,14,2,6,0.5572884726183811,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+68,1,0:34,1834,1834,Janai Crooms missed Layup.,16,14,2,4,0.5574441719299004,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+69,1,0:30,1830,1830,Janai Crooms Offensive Rebound.,16,14,2,1,0.5575481549841094,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+70,1,0:29,1829,1829,Janai Crooms missed Layup.,16,14,2,4,0.5575741750919104,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+71,1,0:25,1825,1825,Jeanae Terry Defensive Rebound.,16,14,2,18,0.557678357497728,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+72,1,0:07,1807,1807,Foul on Braxtin Miller.,16,14,2,3,0.5581494299785912,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+73,1,0:04,1804,1804,Foul on Madison Greene.,16,14,2,2,0.558228340477635,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+74,1,0:02,1802,1802,Foul on Aixa Wone Aranaz.,16,14,2,0,0.5582810165866057,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+75,1,0:02,1802,1802,Courtney Joens missed Three Point Jumper.,16,14,2,2,0.5582810165866057,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+76,1,0:00,1800,1800,Kierstan Bell Defensive Rebound.,16,14,2,0,0.558333749411633,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+77,1,0:00,1800,1800,End of 1st Quarter,16,14,2,9,0.558333749411633,Ohio State,Illinois,3,4,0,0,NA,401166844,2020-01-19,
+78,2,9:51,1791,1791,Jeanae Terry missed Three Point Jumper.,16,14,2,2,0.5585717818052074,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+79,2,9:49,1789,1789,Kierstan Bell Defensive Rebound.,16,14,2,6,0.558624848446857,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+80,2,9:43,1783,1783,Foul on Madison Greene.,16,14,2,0,0.5587844412889225,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+81,2,9:43,1783,1783,Madison Greene Turnover.,16,14,2,16,0.5587844412889225,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+82,2,9:27,1767,1767,Ali Andrews made Layup. Assisted by Cierra Rice.,16,16,0,19,0.5,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Illinois
+83,2,9:08,1748,1748,Rebeka Mikulasikova made Layup.,18,16,2,27,0.5597287177246654,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+84,2,8:41,1721,1721,Brandi Beasley missed Jumper.,18,16,2,2,0.5604755920891067,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+85,2,8:39,1719,1719,Ohio State Defensive Rebound.,18,16,2,9,0.560531649098181,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+86,2,8:30,1710,1710,Jacy Sheldon missed Layup.,18,16,2,4,0.560785252259047,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+87,2,8:26,1706,1706,Ali Andrews Defensive Rebound.,18,16,2,16,0.5608986918759065,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+88,2,8:10,1690,1690,Foul on Jacy Sheldon.,18,16,2,0,0.5613571600748621,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+89,2,8:10,1690,1690,Courtney Joens made Free Throw.,18,17,1,1,0.5307949536065145,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Illinois
+90,2,8:09,1689,1689,Courtney Joens missed Free Throw.,18,17,1,1,0.5308095558848559,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+91,2,8:08,1688,1688,Aaliyah Patty Defensive Rebound.,18,17,1,13,0.5308241345200851,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+92,2,7:55,1675,1675,Rebeka Mikulasikova missed Jumper.,18,17,1,3,0.5310116303241187,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+93,2,7:52,1672,1672,Jeanae Terry Defensive Rebound.,18,17,1,15,0.5310544015180408,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+94,2,7:37,1657,1657,Jeanae Terry Turnover.,18,17,1,16,0.5312658448607422,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+95,2,7:21,1641,1641,Kierstan Bell Turnover.,18,17,1,9,0.5314877246580954,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+96,2,7:12,1632,1632,Foul on Jacy Sheldon.,18,17,1,11,0.5316112839754575,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+97,2,7:01,1621,1621,Foul on Dorka Juhasz.,18,17,1,10,0.5317614431760985,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+98,2,6:51,1611,1611,Brandi Beasley missed Three Point Jumper.,18,17,1,3,0.5318974211646056,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+99,2,6:48,1608,1608,Janai Crooms Defensive Rebound.,18,17,1,9,0.531938158902778,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+100,2,6:39,1599,1599,Foul on Jeanae Terry.,18,17,1,9,0.5320603267215861,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+101,2,6:30,1590,1590,Kierstan Bell made Jumper. Assisted by Braxtin Miller.,20,17,3,20,0.5954942131677781,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+102,2,6:10,1570,1570,Ali Andrews made Three Point Jumper. Assisted by Brandi Beasley.,20,20,0,19,0.5,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Illinois
+103,2,5:51,1551,1551,Kierstan Bell missed Three Point Jumper.,20,20,0,4,0.5,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+104,2,5:47,1547,1547,Kennedi Myles Defensive Rebound.,20,20,0,8,0.5,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+105,2,5:39,1539,1539,Petra Holesinska missed Layup.,20,20,0,5,0.5,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+106,2,5:34,1534,1534,Petra Holesinska Offensive Rebound.,20,20,0,13,0.5,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+107,2,5:21,1521,1521,Ali Andrews missed Three Point Jumper.,20,20,0,4,0.5,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+108,2,5:17,1517,1517,Janai Crooms Defensive Rebound.,20,20,0,8,0.5,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+109,2,5:09,1509,1509,Foul on Ali Andrews.,20,20,0,0,0.5,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+110,2,5:09,1509,1509,Aaliyah Patty made Free Throw.,21,20,1,0,0.5333198342919355,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+111,2,5:09,1509,1509,Aaliyah Patty made Free Throw.,22,20,2,17,0.5663450405139698,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+112,2,4:52,1492,1492,Kennedi Myles made Jumper.,22,22,0,14,0.5,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Illinois
+113,2,4:38,1478,1478,Dorka Juhasz made Three Point Jumper. Assisted by Braxtin Miller.,25,22,3,32,0.6001575751886782,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+114,2,4:06,1446,1446,Kennedi Myles Turnover.,25,22,3,10,0.6016646661684296,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+115,2,3:56,1436,1436,Dorka Juhasz missed Three Point Jumper.,25,22,3,4,0.6021399045856703,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+116,2,3:52,1432,1432,Mackenzie Blazek Defensive Rebound.,25,22,3,9,0.60232724698716,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+117,2,3:43,1423,1423,Brandi Beasley missed Layup.,25,22,3,0,0.60274365446600775,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+118,2,3:43,1423,1423,Janai Crooms Block.,25,22,3,0,0.60274365446600775,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+119,2,3:43,1423,1423,Illinois Offensive Rebound.,25,22,3,0,0.60274365446600775,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+120,2,3:43,1423,1423,Brandi Beasley Turnover.,25,22,3,14,0.60274365446600775,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+121,2,3:29,1409,1409,Braxtin Miller missed Three Point Jumper.,25,22,3,3,0.6033793886608262,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+122,2,3:26,1406,1406,Brandi Beasley Defensive Rebound.,25,22,3,9,0.6035140290052267,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+123,2,3:17,1397,1397,Petra Holesinska missed Jumper.,25,22,3,0,0.6039152501863205,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+124,2,3:17,1397,1397,Janai Crooms Block.,25,22,3,0,0.6039152501863205,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+125,2,3:17,1397,1397,Ohio State Defensive Rebound.,25,22,3,19,0.6039152501863205,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+126,2,2:58,1378,1378,Jacy Sheldon Turnover.,25,22,3,0,0.6047528655005592,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+127,2,2:58,1378,1378,Kennedi Myles Steal.,25,22,3,4,0.6047528655005592,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+128,2,2:54,1374,1374,Kennedi Myles missed Layup.,25,22,3,0,0.6049282726081836,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+129,2,2:54,1374,1374,Janai Crooms Block.,25,22,3,7,0.6049282726081836,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+130,2,2:47,1367,1367,Kennedi Myles Offensive Rebound.,25,22,3,1,0.6052349978127359,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+131,2,2:46,1366,1366,Kennedi Myles missed Layup.,25,22,3,3,0.6052788136162416,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+132,2,2:43,1363,1363,Aaliyah Patty Defensive Rebound.,25,22,3,5,0.60541028891113835,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+133,2,2:38,1358,1358,Janai Crooms missed Three Point Jumper.,25,22,3,6,0.6056295918672308,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+134,2,2:32,1352,1352,Kennedi Myles Defensive Rebound.,25,22,3,11,0.6058932650302651,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+135,2,2:21,1341,1341,Kennedi Myles made Jumper.,25,24,1,11,0.5359476200092576,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Illinois
+136,2,2:10,1330,1330,Foul on Braxtin Miller.,25,24,1,0,0.5361180239074853,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+137,2,2:10,1330,1330,Braxtin Miller Turnover.,25,24,1,26,0.5361180239074853,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+138,2,1:44,1304,1304,Brandi Beasley missed Three Point Jumper.,25,24,1,4,0.5365313143147273,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+139,2,1:40,1300,1300,Kierstan Bell Defensive Rebound.,25,24,1,6,0.5365966103788059,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+140,2,1:34,1294,1294,Foul on Brandi Beasley.,25,24,1,0,0.5366955869268063,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+141,2,1:34,1294,1294,Kierstan Bell made Free Throw.,26,24,2,0,0.5729979873928751,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+142,2,1:34,1294,1294,Kierstan Bell made Free Throw.,27,24,3,14,0.6085306879712511,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+143,2,1:20,1280,1280,Cierra Rice made Layup.,27,26,1,15,0.5369318976859069,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Illinois
+144,2,1:05,1265,1265,Janai Crooms made Layup.,29,26,3,32,0.6099642651731945,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+145,2,0:33,1233,1233,Illinois  Turnover.,29,26,3,23,0.6116887834838797,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+146,2,0:10,1210,1210,Kierstan Bell made Three Point Jumper. Assisted by Rebeka Mikulasikova.,32,26,6,10,0.715095234519632,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+147,2,0:00,1200,1200,End of 2nd Quarter,32,26,6,11,0.7161370692370593,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+148,3,9:49,1189,1189,Jeanae Terry missed Jumper.,32,26,6,5,0.7172569525956486,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+149,3,9:44,1184,1184,Dorka Juhasz Defensive Rebound.,32,26,6,19,0.7177581346181255,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+150,3,9:25,1165,1165,Dorka Juhasz missed Layup.,32,26,6,3,0.7196269286650779,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+151,3,9:22,1162,1162,Kennedi Myles Defensive Rebound.,32,26,6,13,0.7199178403393853,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+152,3,9:09,1149,1149,Ali Andrews missed Three Point Jumper.,32,26,6,2,0.7211694179792126,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+153,3,9:07,1147,1147,Dorka Juhasz Defensive Rebound.,32,26,6,10,0.7213609644578662,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+154,3,8:57,1137,1137,Braxtin Miller missed Jumper.,32,26,6,3,0.7223163373306863,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+155,3,8:54,1134,1134,Ali Andrews Defensive Rebound.,32,26,6,17,0.7226025034143473,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+156,3,8:37,1117,1117,Foul on Aaliyah Patty.,32,26,6,0,0.724225785227376,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+157,3,8:37,1117,1117,Kennedi Myles made Layup. Assisted by Brandi Beasley.,32,28,4,0,0.6555849656082006,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,Illinois
+158,3,8:37,1117,1117,Dorka Juhasz missed Three Point Jumper.,32,28,4,0,0.6555849656082006,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+159,3,8:37,1117,1117,Braxtin Miller Offensive Rebound.,32,28,4,40,0.6555849656082006,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+160,3,7:57,1077,1077,Foul on Brandi Beasley.,32,28,4,10,0.6585344821563752,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+161,3,7:47,1067,1067,Dorka Juhasz missed Layup.,32,28,4,5,0.6593015705169385,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+162,3,7:42,1062,1062,Kennedi Myles Defensive Rebound.,32,28,4,2,0.6596912276379977,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+163,3,7:40,1060,1060,Petra Holesinska made Three Point Jumper. Assisted by Brandi Beasley.,32,31,1,17,0.5413192039328795,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,Illinois
+164,3,7:23,1043,1043,Madison Greene made Three Point Jumper.,35,31,4,15,0.6612152596157045,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,Ohio State
+165,3,7:08,1028,1028,Ali Andrews made Three Point Jumper. Assisted by Brandi Beasley.,35,34,1,16,0.5420468499908361,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,Illinois
+166,3,6:52,1012,1012,Jacy Sheldon missed Jumper.,35,34,1,3,0.542437990423486,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+167,3,6:49,1009,1009,Kennedi Myles Defensive Rebound.,35,34,1,4,0.542513684299699,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+168,3,6:45,1005,1005,Petra Holesinska missed Layup.,35,34,1,1,0.5426158388572204,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+169,3,6:44,1004,1004,Ohio State Defensive Rebound.,35,34,1,15,0.5426416015337099,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+170,3,6:29,989,989,Foul on Rebeka Mikulasikova.,35,34,1,0,0.543039335696623,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+171,3,6:29,989,989,Rebeka Mikulasikova Turnover.,35,34,1,8,0.543039335696623,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+172,3,6:21,981,981,Petra Holesinska missed Three Point Jumper.,35,34,1,3,0.5432606161520097,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+173,3,6:18,978,978,Ohio State Defensive Rebound.,35,34,1,12,0.543345334845778,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+174,3,6:06,966,966,Rebeka Mikulasikova made Jumper.,37,34,3,10,0.6284663313251715,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,Ohio State
+175,3,5:56,956,956,Petra Holesinska missed Three Point Jumper.,37,34,3,4,0.6292510705119942,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+176,3,5:52,952,952,Ali Andrews Offensive Rebound.,37,34,3,16,0.6295528558812014,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+177,3,5:36,936,936,Brandi Beasley missed Jumper.,37,34,3,2,0.6306999429139066,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+178,3,5:34,934,934,Jacy Sheldon Defensive Rebound.,37,34,3,0,0.630837324978986,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+179,3,5:34,934,934,Foul on Jeanae Terry.,37,34,3,12,0.630837324978986,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+180,3,5:22,922,922,Rebeka Mikulasikova missed Jumper.,37,34,3,3,0.6316383723485597,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+181,3,5:19,919,919,Kennedi Myles Defensive Rebound.,37,34,3,15,0.6318331302545068,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+182,3,5:04,904,904,Ali Andrews made Three Point Jumper. Assisted by Cierra Rice.,37,37,0,7,0.5,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,Illinois
+183,3,4:57,897,897,Ohio State  Timeout,37,37,0,0,0.5,Ohio State,Illinois,5,4,0,1,NA,401166844,2020-01-19,
+184,3,4:57,897,897,Official TV Timeout,37,37,0,20,0.5,Ohio State,Illinois,5,4,0,1,NA,401166844,2020-01-19,
+185,3,4:37,877,877,Kierstan Bell missed Jumper.,37,37,0,3,0.5,Ohio State,Illinois,5,4,0,1,NA,401166844,2020-01-19,
+186,3,4:34,874,874,Kennedi Myles Defensive Rebound.,37,37,0,19,0.5,Ohio State,Illinois,5,4,0,1,NA,401166844,2020-01-19,
+187,3,4:15,855,855,Cierra Rice missed Three Point Jumper.,37,37,0,4,0.5,Ohio State,Illinois,5,4,0,1,NA,401166844,2020-01-19,
+188,3,4:11,851,851,Braxtin Miller Defensive Rebound.,37,37,0,8,0.5,Ohio State,Illinois,5,4,0,1,NA,401166844,2020-01-19,
+189,3,4:03,843,843,Jacy Sheldon made Layup.,39,37,2,26,0.5923285119335604,Ohio State,Illinois,5,4,0,1,NA,401166844,2020-01-19,Ohio State
+190,3,3:37,817,817,Ali Andrews missed Three Point Jumper.,39,37,2,4,0.5935627864884585,Ohio State,Illinois,5,4,0,0,NA,401166844,2020-01-19,
+191,3,3:33,813,813,Kierstan Bell Defensive Rebound.,39,37,2,6,0.5937660436037332,Ohio State,Illinois,5,4,0,0,NA,401166844,2020-01-19,
+192,3,3:27,807,807,Jacy Sheldon made Three Point Jumper. Assisted by Kierstan Bell.,42,37,5,2,0.7215442121128769,Ohio State,Illinois,5,4,0,0,NA,401166844,2020-01-19,Ohio State
+193,3,3:25,805,805,Illinois  Timeout,42,37,5,0,0.7217661926668146,Ohio State,Illinois,4,4,1,0,NA,401166844,2020-01-19,
+194,3,3:25,805,805,Official TV Timeout,42,37,5,23,0.7217661926668146,Ohio State,Illinois,4,4,1,0,NA,401166844,2020-01-19,
+195,3,3:02,782,782,Kennedi Myles Turnover.,42,37,5,0,0.7245054374349844,Ohio State,Illinois,4,4,1,0,NA,401166844,2020-01-19,
+196,3,3:02,782,782,Madison Greene Steal.,42,37,5,18,0.7245054374349844,Ohio State,Illinois,4,4,1,0,NA,401166844,2020-01-19,
+197,3,2:44,764,764,Kierstan Bell made Three Point Jumper. Assisted by Madison Greene.,45,37,8,29,0.8272905013029247,Ohio State,Illinois,4,4,1,0,NA,401166844,2020-01-19,Ohio State
+198,3,2:15,735,735,Kennedi Myles missed Jumper.,45,37,8,0,0.8324729054997635,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+199,3,2:15,735,735,Dorka Juhasz Block.,45,37,8,8,0.8324729054997635,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+200,3,2:07,727,727,Kierstan Bell Defensive Rebound.,45,37,8,1,0.8340520476590076,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+201,3,2:06,726,726,Kierstan Bell made Layup.,47,37,10,27,0.8828841931872122,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+202,3,1:39,699,699,Kennedi Myles Turnover.,47,37,10,12,0.8872541033826706,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+203,3,1:27,687,687,Jacy Sheldon missed Jumper.,47,37,10,6,0.888950066631815,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+204,3,1:21,681,681,Kierstan Bell Offensive Rebound.,47,37,10,0,0.8897612374366412,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+205,3,1:21,681,681,Kierstan Bell made Layup.,49,37,12,27,0.9245589660347437,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+206,3,0:54,654,654,Cierra Rice missed Three Point Jumper.,49,37,12,3,0.9275318186069115,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+207,3,0:51,651,651,Jacy Sheldon Defensive Rebound.,49,37,12,5,0.9278575059503573,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+208,3,0:46,646,646,Foul on Mackenzie Blazek.,49,37,12,3,0.9284023560421631,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+209,3,0:43,643,643,Kierstan Bell missed Three Point Jumper.,49,37,12,5,0.9287312200233337,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+210,3,0:38,638,638,Dorka Juhasz Offensive Rebound.,49,37,12,16,0.9292839887842922,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+211,3,0:22,622,622,Kierstan Bell made Layup.,51,37,14,9,0.9542570334574192,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+212,3,0:13,613,613,Jeanae Terry Turnover.,51,37,14,0,0.9551172131734962,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+213,3,0:13,613,613,Jacy Sheldon Steal.,51,37,14,0,0.9551172131734962,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+214,3,0:13,613,613,Foul on Courtney Joens.,51,37,14,12,0.9551172131734962,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+215,3,0:01,601,601,Jacy Sheldon missed Layup.,51,37,14,1,0.9563257429847684,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+216,3,0:00,600,600,Jeanae Terry Defensive Rebound.,51,37,14,0,0.9564300540713527,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+217,3,0:00,600,600,End of 3rd Quarter,51,37,14,15,0.9564300540713527,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+218,4,9:45,585,585,Ali Andrews Turnover.,51,37,14,29,0.958069685856736,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+219,4,9:16,556,556,Janai Crooms made Layup.,53,37,16,0,0.975479215367714,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,Ohio State
+220,4,9:16,556,556,Foul on Kennedi Myles.,53,37,16,1,0.975479215367714,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+221,4,9:15,555,555,Janai Crooms missed Free Throw.,53,37,16,2,0.9755802524297199,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+222,4,9:13,553,553,Madison Greene Offensive Rebound.,53,37,16,4,0.9757838598111248,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+223,4,9:09,549,549,Dorka Juhasz missed Three Point Jumper.,53,37,16,6,0.97619604545563,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+224,4,9:03,543,543,Brandi Beasley Defensive Rebound.,53,37,16,5,0.9767795741995455,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+225,4,8:58,538,538,Kennedi Myles missed Layup.,53,37,16,1,0.9772258179170993,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+226,4,8:57,537,537,Illinois Offensive Rebound.,53,37,16,6,0.9773111984099607,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+227,4,8:51,531,531,Brandi Beasley missed Jumper.,53,37,16,3,0.9777996583319818,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+228,4,8:48,528,528,Kierstan Bell Defensive Rebound.,53,37,16,8,0.9780302235497607,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+229,4,8:40,520,520,Kierstan Bell made Three Point Jumper. Assisted by Janai Crooms.,56,37,19,17,0.989439432564644,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,Ohio State
+230,4,8:23,503,503,Kennedi Myles made Jumper. Assisted by Jeanae Terry.,56,39,17,23,0.9840207822840086,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,Illinois
+231,4,8:00,480,480,Kierstan Bell Turnover.,56,39,17,0,0.9852496315762491,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+232,4,8:00,480,480,Kennedi Myles Steal.,56,39,17,4,0.9852496315762491,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+233,4,7:56,476,476,Jeanae Terry Turnover.,56,39,17,15,0.9854728864772673,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+234,4,7:41,461,461,Kierstan Bell missed Three Point Jumper.,56,39,17,5,0.9863644939662923,Ohio State,Illinois,5,5,0,0,NA,401166844,2020-01-19,
+235,4,7:36,456,456,Kaelynn Satterfield Offensive Rebound.,56,39,17,0,0.9866851635174977,Ohio State,Illinois,5,5,1,0,NA,401166844,2020-01-19,
+236,4,7:36,456,456,Foul on Cierra Rice.,56,39,17,0,0.9866851635174977,Ohio State,Illinois,5,5,1,0,NA,401166844,2020-01-19,
+237,4,7:36,456,456,Illinois  Timeout,56,39,17,0,0.9866851635174977,Ohio State,Illinois,4,5,1,0,NA,401166844,2020-01-19,
+238,4,7:36,456,456,Official TV Timeout,56,39,17,2,0.9866851635174977,Ohio State,Illinois,4,5,1,0,NA,401166844,2020-01-19,
+239,4,7:34,454,454,Janai Crooms Turnover.,56,39,17,28,0.9868171612152019,Ohio State,Illinois,4,5,1,0,NA,401166844,2020-01-19,
+240,4,7:06,426,426,Petra Holesinska missed Three Point Jumper.,56,39,17,3,0.9888933764656064,Ohio State,Illinois,4,5,1,0,NA,401166844,2020-01-19,
+241,4,7:03,423,423,Petra Holesinska Offensive Rebound.,56,39,17,2,0.9891165393484271,Ohio State,Illinois,4,5,1,0,NA,401166844,2020-01-19,
+242,4,7:01,421,421,Petra Holesinska made Jumper.,56,41,15,16,0.9818523701133518,Ohio State,Illinois,4,5,1,0,NA,401166844,2020-01-19,Illinois
+243,4,6:45,405,405,Madison Greene made Jumper. Assisted by Dorka Juhasz.,58,41,17,13,0.9902990700326628,Ohio State,Illinois,4,5,1,0,NA,401166844,2020-01-19,Ohio State
+244,4,6:32,392,392,Brandi Beasley missed Three Point Jumper.,58,41,17,3,0.9910423965874248,Ohio State,Illinois,4,5,0,0,NA,401166844,2020-01-19,
+245,4,6:29,389,389,Janai Crooms Defensive Rebound.,58,41,17,12,0.9912062185491785,Ohio State,Illinois,4,5,0,0,NA,401166844,2020-01-19,
+246,4,6:17,377,377,Dorka Juhasz Turnover.,58,41,17,0,0.9918456008304746,Ohio State,Illinois,4,5,0,0,NA,401166844,2020-01-19,
+247,4,6:17,377,377,Kennedi Myles Steal.,58,41,17,16,0.9918456008304746,Ohio State,Illinois,4,5,0,0,NA,401166844,2020-01-19,
+248,4,6:01,361,361,Kennedi Myles missed Layup.,58,41,17,3,0.9926855771077504,Ohio State,Illinois,4,5,0,0,NA,401166844,2020-01-19,
+249,4,5:58,358,358,Dorka Juhasz Defensive Rebound.,58,41,17,4,0.9928440965925747,Ohio State,Illinois,4,5,0,0,NA,401166844,2020-01-19,
+250,4,5:54,354,354,Madison Greene made Three Point Jumper.,61,41,20,2,0.9970961815411955,Ohio State,Illinois,4,5,0,0,NA,401166844,2020-01-19,Ohio State
+251,4,5:52,352,352,Ohio State  Timeout,61,41,20,14,0.9971488794030855,Ohio State,Illinois,4,4,0,1,NA,401166844,2020-01-19,
+252,4,5:38,338,338,Kennedi Myles missed Jumper.,61,41,20,4,0.9975193208057831,Ohio State,Illinois,4,4,0,1,NA,401166844,2020-01-19,
+253,4,5:34,334,334,Kaelynn Satterfield Defensive Rebound.,61,41,20,7,0.9976255779141012,Ohio State,Illinois,4,4,0,1,NA,401166844,2020-01-19,
+254,4,5:27,327,327,Rebeka Mikulasikova missed Jumper.,61,41,20,3,0.9978115282701058,Ohio State,Illinois,4,4,0,1,NA,401166844,2020-01-19,
+255,4,5:24,324,324,Brandi Beasley Defensive Rebound.,61,41,20,3,0.9978910550492213,Ohio State,Illinois,4,4,0,1,NA,401166844,2020-01-19,
+256,4,5:21,321,321,Kennedi Myles missed Jumper.,61,41,20,2,0.9979703686708886,Ohio State,Illinois,4,4,0,1,NA,401166844,2020-01-19,
+257,4,5:19,319,319,Jeanae Terry Offensive Rebound.,61,41,20,0,0.9980230815801261,Ohio State,Illinois,4,4,0,1,NA,401166844,2020-01-19,
+258,4,5:19,319,319,Foul on Madison Greene.,61,41,20,2,0.9980230815801261,Ohio State,Illinois,4,4,0,1,NA,401166844,2020-01-19,
+259,4,5:17,317,317,Petra Holesinska missed Jumper.,61,41,20,3,0.998075630774745,Ohio State,Illinois,4,4,0,1,NA,401166844,2020-01-19,
+260,4,5:14,314,314,Kennedi Myles Offensive Rebound.,61,41,20,3,0.9981540809268223,Ohio State,Illinois,4,4,0,1,NA,401166844,2020-01-19,
+261,4,5:11,311,311,Jeanae Terry missed Layup.,61,41,20,4,0.9982319864727898,Ohio State,Illinois,4,4,0,1,NA,401166844,2020-01-19,
+262,4,5:07,307,307,Janai Crooms Defensive Rebound.,61,41,20,7,0.9983270451089592,Ohio State,Illinois,4,4,0,1,NA,401166844,2020-01-19,
+263,4,5:00,300,300,Aixa Wone Aranaz missed Three Point Jumper.,61,41,20,4,0.9984350177031656,Ohio State,Illinois,4,4,0,1,NA,401166844,2020-01-19,
+264,4,4:56,296,296,Kennedi Myles Defensive Rebound.,61,41,20,19,0.9984697862987582,Ohio State,Illinois,4,4,0,1,NA,401166844,2020-01-19,
+265,4,4:37,277,277,Petra Holesinska missed Three Point Jumper.,61,41,20,3,0.9984563402416221,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+266,4,4:34,274,274,Kaelynn Satterfield Defensive Rebound.,61,41,20,4,0.9984352396115157,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+267,4,4:30,270,270,Kaelynn Satterfield Turnover.,61,41,20,5,0.9984019509651417,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+268,4,4:25,265,265,Kennedi Myles made Layup. Assisted by Jeanae Terry.,61,43,18,17,0.9968810355895913,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Illinois
+269,4,4:08,248,248,Kaelynn Satterfield made Three Point Jumper. Assisted by Madison Greene.,64,43,21,22,0.9986781842946196,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+270,4,3:46,226,226,Brandi Beasley made Three Point Jumper. Assisted by Jeanae Terry.,64,46,18,19,0.996601662362988,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Illinois
+271,4,3:27,207,207,Foul on Petra Holesinska.,64,46,18,0,0.9972893638899604,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+272,4,3:27,207,207,Aixa Wone Aranaz made Free Throw.,65,46,19,0,0.9980462947029708,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+273,4,3:27,207,207,Aixa Wone Aranaz made Free Throw.,66,46,20,27,0.9985921549689407,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+274,4,3:00,180,180,Mackenzie Blazek missed Layup.,66,46,20,3,0.9994555008217414,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+275,4,2:57,177,177,Kaelynn Satterfield Defensive Rebound.,66,46,20,13,0.9995206570726725,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+276,4,2:44,164,164,Foul on Petra Holesinska.,66,46,20,9,0.9997291862510904,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+277,4,2:35,155,155,Kaelynn Satterfield made Layup.,68,46,22,0,0.999925061850345,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+278,4,2:35,155,155,Foul on Jeanae Terry.,68,46,22,0,0.999925061850345,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+279,4,2:35,155,155,Kaelynn Satterfield missed Free Throw.,68,46,22,1,0.999925061850345,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+280,4,2:34,154,154,Jeanae Terry Defensive Rebound.,68,46,22,8,0.9999289566014863,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+281,4,2:26,146,146,Foul on Aixa Wone Aranaz.,68,46,22,0,0.9999543736131314,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+282,4,2:26,146,146,Kaelynn Satterfield made Jumper.,70,46,24,0,0.9999816086763026,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+283,4,2:26,146,146,Jeanae Terry missed Three Point Jumper.,70,46,24,0,0.9999816086763026,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+284,4,2:26,146,146,Kaelynn Satterfield Defensive Rebound.,70,46,24,0,0.9999816086763026,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+285,4,2:26,146,146,Petra Holesinska missed Free Throw.,70,46,24,0,0.9999816086763026,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+286,4,2:26,146,146,Illinois Deadball Team Rebound.,70,46,24,0,0.9999816086763026,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+287,4,2:26,146,146,Petra Holesinska made Free Throw.,70,47,23,64,0.9999710321772649,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Illinois
+288,4,1:22,82,82,Foul on Mackenzie Blazek.,70,47,23,0,0.999999860557174,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+289,4,1:22,82,82,Rebeka Mikulasikova made Free Throw.,71,47,24,0,0.999999929801719,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+290,4,1:22,82,82,Rebeka Mikulasikova made Free Throw.,72,47,25,10,0.999999964660796,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+291,4,1:12,72,72,Foul on Kaelynn Satterfield.,72,47,25,2,0.9999999894038918,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+292,4,1:10,70,70,J-Naya Ephraim Turnover.,72,47,25,0,0.9999999917740672,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+293,4,1:10,70,70,Rebeka Mikulasikova Steal.,72,47,25,6,0.9999999917740672,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+294,4,1:04,64,64,Kaelynn Satterfield made Layup.,74,47,27,12,0.9999999991959394,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+295,4,0:52,52,52,Lyric Robins missed Three Point Jumper.,74,47,27,4,0.9999999998601801,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+296,4,0:48,48,48,Aixa Wone Aranaz Defensive Rebound.,74,47,27,11,0.9999999999239996,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+297,4,0:37,37,37,Rebeka Mikulasikova made Three Point Jumper. Assisted by Janai Crooms.,77,47,30,13,0.9999999999991882,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Ohio State
+298,4,0:24,24,24,Foul on Kaelynn Satterfield.,77,47,30,1,0.9999999999999297,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+299,4,0:23,23,23,Jeanae Terry missed Jumper.,77,47,30,1,0.999999999999942,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+300,4,0:22,22,22,Ohio State Defensive Rebound.,77,47,30,4,0.9999999999999523,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+301,4,0:18,18,18,Technical Foul on Janai Crooms.,77,47,30,0,0.9999999999999785,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+302,4,0:18,18,18,Technical Foul on J-Naya Ephraim.,77,47,30,18,0.9999999999999785,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+303,4,0:00,0,0,End of 4th Quarter,77,46,31,0,1,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,
+304,4,0:00,0,0,End of Game,77,47,30,0,1,Ohio State,Illinois,4,4,0,0,NA,401166844,2020-01-19,Illinois

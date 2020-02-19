@@ -1,0 +1,324 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:39,2379,2379,Bridget Herlihy made Three Point Jumper. Assisted by Mary Gedaka.,0,0,0,18,0.5,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,NA
+2,1,9:21,2361,2361,Katherine Strong missed Jumper.,0,3,-3,3,0.4329446767439369,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Villanova
+3,1,9:18,2358,2358,Katherine Strong Offensive Rebound.,0,3,-3,1,0.43284885863257627,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+4,1,9:17,2357,2357,Katherine Strong missed Layup.,0,3,-3,2,0.4328168803056858,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+5,1,9:15,2355,2355,Mary Gedaka Defensive Rebound.,0,3,-3,29,0.43275286569100113,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+6,1,8:46,2326,2326,Mary Gedaka missed Jumper.,0,3,-3,0,0.4318163477183905,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+7,1,8:46,2326,2326,Shae Brey Block.,0,3,-3,0,0.4318163477183905,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+8,1,8:46,2326,2326,Villanova Offensive Rebound.,0,3,-3,1,0.4318163477183905,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+9,1,8:45,2325,2325,Villanova  Turnover.,0,3,-3,17,0.4317837894411538,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+10,1,8:28,2308,2308,Kristen Spolyar missed Jumper.,0,3,-3,4,0.43122778925723515,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+11,1,8:24,2304,2304,Bridget Herlihy Defensive Rebound.,0,3,-3,4,0.4310963010761886,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+12,1,8:20,2300,2300,Raven James Turnover.,0,3,-3,0,0.43096457021193246,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+13,1,8:20,2300,2300,Oumou Toure Steal.,0,3,-3,16,0.43096457021193246,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+14,1,8:04,2284,2284,Kristen Spolyar missed Jumper.,0,3,-3,3,0.43043532067224205,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+15,1,8:01,2281,2281,Mary Gedaka Defensive Rebound.,0,3,-3,32,0.43033568924146987,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+16,1,7:29,2249,2249,Mary Gedaka Turnover.,0,3,-3,0,0.4292658988850709,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+17,1,7:29,2249,2249,Kristen Spolyar Steal.,0,3,-3,9,0.4292658988850709,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+18,1,7:20,2240,2240,Foul on Bridget Herlihy.,0,3,-3,10,0.4289629084724894,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+19,1,7:10,2230,2230,Katherine Strong missed Layup.,0,3,-3,3,0.42862529177258624,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+20,1,7:07,2227,2227,Mary Gedaka Defensive Rebound.,0,3,-3,11,0.42852382078030044,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+21,1,6:56,2216,2216,Bridget Herlihy missed Three Point Jumper.,0,3,-3,4,0.42815107435017075,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+22,1,6:52,2212,2212,Kristen Spolyar Defensive Rebound.,0,3,-3,12,0.4280152769692869,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+23,1,6:40,2200,2200,Katherine Strong missed Layup.,0,3,-3,2,0.4276071421378296,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+24,1,6:38,2198,2198,Mary Gedaka Defensive Rebound.,0,3,-3,17,0.4275390179287987,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+25,1,6:21,2181,2181,Foul on Oumou Toure.,0,3,-3,0,0.42695891901770777,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+26,1,6:21,2181,2181,Mary Gedaka made Free Throw.,0,4,-4,0,0.4031494336813949,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Villanova
+27,1,6:21,2181,2181,Mary Gedaka made Free Throw.,0,5,-5,11,0.37978771858620874,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Villanova
+28,1,6:10,2170,2170,Foul on Madison Siegrist.,0,5,-5,0,0.3791841462550934,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+29,1,6:10,2170,2170,Oumou Toure made Free Throw.,1,5,-4,0,0.40265612661406397,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Butler
+30,1,6:10,2170,2170,Oumou Toure made Free Throw.,2,5,-3,13,0.4265826865164205,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Butler
+31,1,5:57,2157,2157,Cameron Onken missed Three Point Jumper.,2,5,-3,4,0.4261368060846866,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+32,1,5:53,2153,2153,Brooke Mullin Offensive Rebound.,2,5,-3,3,0.4259992452426769,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+33,1,5:50,2150,2150,Foul on Kristen Spolyar.,2,5,-3,4,0.4258959578669179,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+34,1,5:46,2146,2146,Madison Siegrist made Three Point Jumper.,2,8,-6,12,0.35471923656058446,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Villanova
+35,1,5:34,2134,2134,Genesis Parker missed Layup.,2,8,-6,3,0.35394295270162895,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+36,1,5:31,2131,2131,Mary Gedaka Defensive Rebound.,2,8,-6,6,0.3537484692973355,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+37,1,5:25,2125,2125,Mary Gedaka made Three Point Jumper.,2,11,-9,22,0.2877247439875395,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Villanova
+38,1,5:03,2103,2103,Naira Caceres missed Jumper.,2,11,-9,4,0.2857973340111178,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+39,1,4:59,2099,2099,Cameron Onken Defensive Rebound.,2,11,-9,6,0.2854458988310794,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+40,1,4:53,2093,2093,Mary Gedaka made Layup. Assisted by Bridget Herlihy.,2,13,-11,1,0.24514368167749975,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Villanova
+41,1,4:52,2092,2092,Butler  Timeout,2,13,-11,0,0.24504596163488898,Butler,Villanova,3,4,1,0,NA,401177463,2020-02-09,
+42,1,4:52,2092,2092,Official TV Timeout,2,13,-11,21,0.24504596163488898,Butler,Villanova,3,4,1,0,NA,401177463,2020-02-09,
+43,1,4:31,2071,2071,Kristen Spolyar made Layup.,4,13,-9,24,0.2829764401850314,Butler,Villanova,3,4,1,0,NA,401177463,2020-02-09,Butler
+44,1,4:07,2047,2047,Madison Siegrist missed Jumper.,4,13,-9,4,0.28084548716221713,Butler,Villanova,3,4,1,0,NA,401177463,2020-02-09,
+45,1,4:03,2043,2043,Shae Brey Defensive Rebound.,4,13,-9,2,0.28048894456592927,Butler,Villanova,3,4,1,0,NA,401177463,2020-02-09,
+46,1,4:01,2041,2041,Foul on Bridget Herlihy.,4,13,-9,7,0.28031051920801897,Butler,Villanova,3,4,1,0,NA,401177463,2020-02-09,
+47,1,3:54,2034,2034,Foul on Brooke Mullin.,4,13,-9,0,0.27968520859071716,Butler,Villanova,3,4,1,0,NA,401177463,2020-02-09,
+48,1,3:54,2034,2034,Oumou Toure made Free Throw.,5,13,-8,0,0.301343188101115,Butler,Villanova,3,4,1,0,NA,401177463,2020-02-09,Butler
+49,1,3:54,2034,2034,Oumou Toure made Free Throw.,6,13,-7,4,0.3239240949230601,Butler,Villanova,3,4,1,0,NA,401177463,2020-02-09,Butler
+50,1,3:50,2030,2030,Raven James Turnover.,6,13,-7,5,0.3236214505302393,Butler,Villanova,3,4,0,0,NA,401177463,2020-02-09,
+51,1,3:45,2025,2025,Upe Atosu made Three Point Jumper. Assisted by Kristen Spolyar.,9,13,-4,20,0.3959822051354065,Butler,Villanova,3,4,0,0,NA,401177463,2020-02-09,Butler
+52,1,3:25,2005,2005,Mary Gedaka Turnover.,9,13,-4,0,0.3950298166028172,Butler,Villanova,3,4,0,0,NA,401177463,2020-02-09,
+53,1,3:25,2005,2005,Shae Brey Steal.,9,13,-4,6,0.3950298166028172,Butler,Villanova,3,4,0,0,NA,401177463,2020-02-09,
+54,1,3:19,1999,1999,Upe Atosu missed Three Point Jumper.,9,13,-4,4,0.39474231806772825,Butler,Villanova,3,4,0,0,NA,401177463,2020-02-09,
+55,1,3:15,1995,1995,Madison Siegrist Defensive Rebound.,9,13,-4,9,0.39455018314976736,Butler,Villanova,3,4,0,0,NA,401177463,2020-02-09,
+56,1,3:06,1986,1986,Madison Siegrist missed Three Point Jumper.,9,13,-4,4,0.3941164843414033,Butler,Villanova,3,4,0,0,NA,401177463,2020-02-09,
+57,1,3:02,1982,1982,Kristen Spolyar Defensive Rebound.,9,13,-4,4,0.39392310017329546,Butler,Villanova,3,4,0,0,NA,401177463,2020-02-09,
+58,1,2:58,1978,1978,Kristen Spolyar missed Layup.,9,13,-4,3,0.39372932328872645,Butler,Villanova,3,4,0,0,NA,401177463,2020-02-09,
+59,1,2:55,1975,1975,Brooke Mullin Defensive Rebound.,9,13,-4,8,0.39358373055058293,Butler,Villanova,3,4,0,0,NA,401177463,2020-02-09,
+60,1,2:47,1967,1967,Madison Siegrist Turnover.,9,13,-4,0,0.39319437997413464,Butler,Villanova,3,4,0,0,NA,401177463,2020-02-09,
+61,1,2:47,1967,1967,Upe Atosu Steal.,9,13,-4,18,0.39319437997413464,Butler,Villanova,3,4,0,0,NA,401177463,2020-02-09,
+62,1,2:29,1949,1949,Naira Caceres made Jumper. Assisted by Shae Brey.,11,13,-2,29,0.44551684476573233,Butler,Villanova,3,4,0,0,NA,401177463,2020-02-09,Butler
+63,1,2:00,1920,1920,Brooke Mullin made Three Point Jumper. Assisted by Cameron Onken.,11,16,-5,16,0.3648106386363195,Butler,Villanova,3,4,0,0,NA,401177463,2020-02-09,Villanova
+64,1,1:44,1904,1904,Oumou Toure made Three Point Jumper. Assisted by Shae Brey.,14,16,-2,17,0.4443602439483665,Butler,Villanova,3,4,0,0,NA,401177463,2020-02-09,Butler
+65,1,1:27,1887,1887,Mary Gedaka missed Jumper.,14,16,-2,0,0.44392337373482016,Butler,Villanova,3,4,0,0,NA,401177463,2020-02-09,
+66,1,1:27,1887,1887,Oumou Toure Block.,14,16,-2,4,0.44392337373482016,Butler,Villanova,3,4,0,0,NA,401177463,2020-02-09,
+67,1,1:23,1883,1883,Upe Atosu Defensive Rebound.,14,16,-2,1,0.44382056072241355,Butler,Villanova,3,4,0,0,NA,401177463,2020-02-09,
+68,1,1:22,1882,1882,Kristen Spolyar made Layup. Assisted by Upe Atosu.,16,16,0,2,0.5,Butler,Villanova,3,4,0,0,NA,401177463,2020-02-09,Butler
+69,1,1:20,1880,1880,Villanova  Timeout,16,16,0,15,0.5,Butler,Villanova,3,3,0,1,NA,401177463,2020-02-09,
+70,1,1:05,1865,1865,Brooke Mullin missed Three Point Jumper.,16,16,0,2,0.5,Butler,Villanova,3,3,0,1,NA,401177463,2020-02-09,
+71,1,1:03,1863,1863,Shae Brey Defensive Rebound.,16,16,0,16,0.5,Butler,Villanova,3,3,0,1,NA,401177463,2020-02-09,
+72,1,0:47,1847,1847,Shae Brey Turnover.,16,16,0,9,0.5,Butler,Villanova,3,3,0,1,NA,401177463,2020-02-09,
+73,1,0:38,1838,1838,Foul on Oumou Toure.,16,16,0,0,0.5,Butler,Villanova,3,3,0,1,NA,401177463,2020-02-09,
+74,1,0:38,1838,1838,Madison Siegrist made Free Throw.,16,17,-1,0,0.4712349412687651,Butler,Villanova,3,3,0,1,NA,401177463,2020-02-09,Villanova
+75,1,0:38,1838,1838,Madison Siegrist made Free Throw.,16,18,-2,12,0.44265966267853807,Butler,Villanova,3,3,0,1,NA,401177463,2020-02-09,Villanova
+76,1,0:26,1826,1826,Foul on Brooke Mullin.,16,18,-2,0,0.44234770370639437,Butler,Villanova,3,3,0,1,NA,401177463,2020-02-09,
+77,1,0:26,1826,1826,Upe Atosu missed Free Throw.,16,18,-2,0,0.44234770370639437,Butler,Villanova,3,3,0,1,NA,401177463,2020-02-09,
+78,1,0:26,1826,1826,Butler Offensive Rebound.,16,18,-2,0,0.44234770370639437,Butler,Villanova,3,3,0,1,NA,401177463,2020-02-09,
+79,1,0:26,1826,1826,Upe Atosu made Free Throw.,17,18,-1,0,0.47107739760950207,Butler,Villanova,3,3,0,1,NA,401177463,2020-02-09,Butler
+80,1,0:26,1826,1826,Upe Atosu made Free Throw.,18,18,0,26,0.5,Butler,Villanova,3,3,0,1,NA,401177463,2020-02-09,Butler
+81,1,0:00,1800,1800,Mary Gedaka missed Jumper.,18,18,0,0,0.5,Butler,Villanova,3,3,0,0,NA,401177463,2020-02-09,
+82,1,0:00,1800,1800,Katherine Strong Defensive Rebound.,18,18,0,0,0.5,Butler,Villanova,3,3,0,0,NA,401177463,2020-02-09,
+83,1,0:00,1800,1800,End of 1st Quarter,18,18,0,11,0.5,Butler,Villanova,3,3,0,0,NA,401177463,2020-02-09,
+84,2,9:49,1789,1789,Kristen Spolyar made Layup. Assisted by Shae Brey.,20,18,2,13,0.558624848446857,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Butler
+85,2,9:36,1776,1776,Mackenzie Gardler Turnover.,20,18,2,0,0.5589714126237185,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+86,2,9:36,1776,1776,Katherine Strong Steal.,20,18,2,16,0.5589714126237185,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+87,2,9:20,1760,1760,Upe Atosu missed Three Point Jumper.,20,18,2,0,0.5594022004905672,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+88,2,9:20,1760,1760,Mary Gedaka Defensive Rebound.,20,18,2,30,0.5594022004905672,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+89,2,8:50,1730,1730,Mackenzie Gardler missed Three Point Jumper.,20,18,2,0,0.5602246319229215,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+90,2,8:50,1730,1730,Shae Brey Defensive Rebound.,20,18,2,14,0.5602246319229215,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+91,2,8:36,1716,1716,Shae Brey made Layup. Assisted by Kristen Spolyar.,22,18,4,11,0.619475915249008,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Butler
+92,2,8:25,1705,1705,Madison Siegrist Turnover.,22,18,4,0,0.6200713722698303,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+93,2,8:25,1705,1705,Kristen Spolyar Steal.,22,18,4,6,0.6200713722698303,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+94,2,8:19,1699,1699,Shae Brey made Layup. Assisted by Katherine Strong.,24,18,6,24,0.676309337510148,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Butler
+95,2,7:55,1675,1675,Madison Siegrist Turnover.,24,18,6,0,0.6781397018825593,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+96,2,7:55,1675,1675,Kristen Spolyar Steal.,24,18,6,14,0.6781397018825593,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+97,2,7:41,1661,1661,Kristen Spolyar made Three Point Jumper. Assisted by Shae Brey.,27,18,9,13,0.7549180062511135,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Butler
+98,2,7:28,1648,1648,Cameron Onken Turnover.,27,18,9,0,0.7561277853518087,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+99,2,7:28,1648,1648,Shae Brey Steal.,27,18,9,11,0.7561277853518087,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+100,2,7:17,1637,1637,Genesis Parker missed Jumper.,27,18,9,3,0.7571373049558976,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+101,2,7:14,1634,1634,Mary Gedaka Defensive Rebound.,27,18,9,4,0.7574107353201408,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+102,2,7:10,1630,1630,Foul on Kristen Spolyar.,27,18,9,13,0.7577742041623423,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+103,2,6:57,1617,1617,Mary Gedaka missed Three Point Jumper.,27,18,9,4,0.7589481238241527,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+104,2,6:53,1613,1613,Upe Atosu Defensive Rebound.,27,18,9,8,0.7593075061889571,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+105,2,6:45,1605,1605,Upe Atosu made Three Point Jumper. Assisted by Genesis Parker.,30,18,12,14,0.8230405111795324,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Butler
+106,2,6:31,1591,1591,Brie Wajer missed Three Point Jumper.,30,18,12,3,0.8243710593962731,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+107,2,6:28,1588,1588,Bridget Herlihy Offensive Rebound.,30,18,12,1,0.8246555624919977,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+108,2,6:27,1587,1587,Madison Siegrist made Three Point Jumper. Assisted by Bridget Herlihy.,30,21,9,13,0.7616327650694156,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Villanova
+109,2,6:14,1574,1574,Foul on Katherine Strong.,30,21,9,0,0.7627949534379057,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+110,2,6:14,1574,1574,Katherine Strong Turnover.,30,21,9,7,0.7627949534379057,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+111,2,6:07,1567,1567,Brie Wajer missed Three Point Jumper.,30,21,9,5,0.763422529784171,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+112,2,6:02,1562,1562,Oumou Toure Defensive Rebound.,30,21,9,20,0.763872000169958,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+113,2,5:42,1542,1542,Foul on Brie Wajer.,30,21,9,0,0.7656845048196949,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+114,2,5:42,1542,1542,Genesis Parker missed Free Throw.,30,21,9,0,0.7656845048196949,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+115,2,5:42,1542,1542,Butler Offensive Rebound.,30,21,9,0,0.7656845048196949,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+116,2,5:42,1542,1542,Genesis Parker missed Free Throw.,30,21,9,2,0.7656845048196949,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+117,2,5:40,1540,1540,Bridget Herlihy Defensive Rebound.,30,21,9,20,0.7658673811167631,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+118,2,5:20,1520,1520,Bridget Herlihy made Three Point Jumper. Assisted by Mary Gedaka.,30,24,6,17,0.6893278322239026,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Villanova
+119,2,5:03,1503,1503,Upe Atosu missed Layup.,30,24,6,4,0.6906185757444483,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+120,2,4:59,1499,1499,Madison Siegrist Defensive Rebound.,30,24,6,10,0.6909275337574589,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+121,2,4:49,1489,1489,Technical Foul on Upe Atosu.,30,24,6,0,0.6917096631188338,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+122,2,4:49,1489,1489,Official TV Timeout,30,24,6,0,0.6917096631188338,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+123,2,4:49,1489,1489,Madison Siegrist made Free Throw.,30,25,5,0,0.6622723173401798,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Villanova
+124,2,4:49,1489,1489,Madison Siegrist made Free Throw.,30,26,4,26,0.6315214816432957,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Villanova
+125,2,4:23,1463,1463,Madison Siegrist made Layup. Assisted by Raven James.,30,28,2,16,0.5677493772119581,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Villanova
+126,2,4:07,1447,1447,Oumou Toure Turnover.,30,28,2,0,0.5682717913918622,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+127,2,4:07,1447,1447,Cameron Onken Steal.,30,28,2,20,0.5682717913918622,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+128,2,3:47,1427,1427,Raven James missed Three Point Jumper.,30,28,2,5,0.5689153595689013,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+129,2,3:42,1422,1422,Kristen Spolyar Defensive Rebound.,30,28,2,17,0.5690724651494272,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+130,2,3:25,1405,1405,Oumou Toure missed Jumper.,30,28,2,4,0.5695978286753738,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+131,2,3:21,1401,1401,Cameron Onken Defensive Rebound.,30,28,2,22,0.5697198201547135,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+132,2,2:59,1379,1379,Bridget Herlihy made Three Point Jumper. Assisted by Raven James.,30,31,-1,30,0.46463207607255963,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Villanova
+133,2,2:29,1349,1349,Shae Brey made Layup. Assisted by Naira Caceres.,32,31,1,18,0.535824794147815,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Butler
+134,2,2:11,1331,1331,Madison Siegrist missed Three Point Jumper.,32,31,1,3,0.5361024453213896,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+135,2,2:08,1328,1328,Cameron Onken Offensive Rebound.,32,31,1,5,0.5361492398317138,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+136,2,2:03,1323,1323,Raven James made Layup.,32,33,-1,0,0.46377235481420864,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Villanova
+137,2,2:03,1323,1323,Foul on Shae Brey.,32,33,-1,0,0.46377235481420864,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+138,2,2:03,1323,1323,Raven James made Free Throw.,32,34,-2,10,0.427923096728241,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Villanova
+139,2,1:53,1313,1313,Genesis Parker missed Layup.,32,34,-2,3,0.4276108997526822,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+140,2,1:50,1310,1310,Madison Siegrist Defensive Rebound.,32,34,-2,12,0.42751622830746183,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+141,2,1:38,1298,1298,Foul on Shae Brey.,32,34,-2,0,0.4271321502691389,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+142,2,1:38,1298,1298,Cameron Onken missed Free Throw.,32,34,-2,0,0.4271321502691389,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+143,2,1:38,1298,1298,Villanova Offensive Rebound.,32,34,-2,0,0.4271321502691389,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+144,2,1:38,1298,1298,Cameron Onken made Free Throw.,32,35,-3,15,0.39165938141763834,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Villanova
+145,2,1:23,1283,1283,Foul on Cameron Onken.,32,35,-3,5,0.39093772697013823,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+146,2,1:18,1278,1278,Shae Brey missed Jumper.,32,35,-3,3,0.3906914144004719,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+147,2,1:15,1275,1275,Mary Gedaka Defensive Rebound.,32,35,-3,12,0.3905421164589737,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+148,2,1:03,1263,1263,Brie Wajer missed Three Point Jumper.,32,35,-3,2,0.38993276526181136,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+149,2,1:01,1261,1261,Kristen Spolyar Defensive Rebound.,32,35,-3,0,0.38982920547129835,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+150,2,1:01,1261,1261,Foul on Cameron Onken.,32,35,-3,16,0.38982920547129835,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+151,2,0:45,1245,1245,Foul on Raven James.,32,35,-3,0,0.38897815405300423,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+152,2,0:45,1245,1245,Kristen Spolyar made Free Throw.,33,35,-2,0,0.42529519548225636,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Butler
+153,2,0:45,1245,1245,Kristen Spolyar made Free Throw.,34,35,-1,31,0.4624367814721293,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Butler
+154,2,0:14,1214,1214,Brie Wajer missed Jumper.,34,35,-1,0,0.46181592290649176,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+155,2,0:14,1214,1214,Villanova Offensive Rebound.,34,35,-1,0,0.46181592290649176,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+156,2,0:14,1214,1214,Villanova  Turnover.,34,35,-1,8,0.46181592290649176,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+157,2,0:06,1206,1206,Genesis Parker Turnover.,34,35,-1,0,0.46164542829345145,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+158,2,0:06,1206,1206,Grace Lange Turnover.,34,35,-1,2,0.46164542829345145,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+159,2,0:04,1204,1204,Foul on Grace Lange.,34,35,-1,0,0.4616030238506507,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+160,2,0:04,1204,1204,Kristen Spolyar missed Free Throw.,34,35,-1,0,0.4616030238506507,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+161,2,0:04,1204,1204,Butler Offensive Rebound.,34,35,-1,0,0.4616030238506507,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+162,2,0:04,1204,1204,Kristen Spolyar made Free Throw.,35,35,0,4,0.5,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,Butler
+163,2,0:00,1200,1200,Brie Wajer Turnover.,35,35,0,0,0.5,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+164,2,0:00,1200,1200,Upe Atosu Steal.,35,35,0,0,0.5,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+165,2,0:00,1200,1200,End of 2nd Quarter,35,35,0,9,0.5,Butler,Villanova,4,4,0,0,NA,401177463,2020-02-09,
+166,3,9:51,1191,1191,Bridget Herlihy Turnover.,35,35,0,0,0.5,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+167,3,9:51,1191,1191,Kristen Spolyar Steal.,35,35,0,4,0.5,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+168,3,9:47,1187,1187,Kristen Spolyar made Layup.,37,35,2,21,0.5770387894748226,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,Butler
+169,3,9:26,1166,1166,Mary Gedaka missed Layup.,37,35,2,2,0.577871900881324,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+170,3,9:24,1164,1164,Villanova Offensive Rebound.,37,35,2,9,0.5779501853396914,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+171,3,9:15,1155,1155,Madison Siegrist missed Jumper.,37,35,2,4,0.5783008902073038,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+172,3,9:11,1151,1151,Bridget Herlihy Offensive Rebound.,37,35,2,2,0.5784561050861952,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+173,3,9:09,1149,1149,Raven James missed Three Point Jumper.,37,35,2,2,0.5785336016178813,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+174,3,9:07,1147,1147,Oumou Toure Defensive Rebound.,37,35,2,17,0.5786110384287257,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+175,3,8:50,1130,1130,Kristen Spolyar missed Jumper.,37,35,2,0,0.579268346006037,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+176,3,8:50,1130,1130,Mary Gedaka Block.,37,35,2,4,0.579268346006037,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+177,3,8:46,1126,1126,Mary Gedaka Defensive Rebound.,37,35,2,11,0.5794231998357713,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+178,3,8:35,1115,1115,Madison Siegrist made Jumper. Assisted by Raven James.,37,37,0,12,0.5,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,Villanova
+179,3,8:23,1103,1103,Genesis Parker missed Jumper.,37,37,0,6,0.5,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+180,3,8:17,1097,1097,Mary Gedaka Defensive Rebound.,37,37,0,15,0.5,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+181,3,8:02,1082,1082,Cameron Onken made Three Point Jumper. Assisted by Raven James.,37,40,-3,21,0.3795833362229449,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,Villanova
+182,3,7:41,1061,1061,Kristen Spolyar missed Three Point Jumper.,37,40,-3,4,0.3783162528845221,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+183,3,7:37,1057,1057,Madison Siegrist Defensive Rebound.,37,40,-3,22,0.3780681689018611,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+184,3,7:15,1035,1035,Foul on Raven James.,37,40,-3,0,0.3766566906929552,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+185,3,7:15,1035,1035,Raven James Turnover.,37,40,-3,23,0.3766566906929552,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+186,3,6:52,1012,1012,Kristen Spolyar missed Jumper.,37,40,-3,3,0.37508005278921713,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+187,3,6:49,1009,1009,Cameron Onken Defensive Rebound.,37,40,-3,10,0.37486562243691784,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+188,3,6:39,999,999,Foul on Katherine Strong.,37,40,-3,14,0.3741347639397898,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+189,3,6:25,985,985,Mary Gedaka missed Jumper.,37,40,-3,3,0.3730671712442118,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+190,3,6:22,982,982,Mary Gedaka Offensive Rebound.,37,40,-3,1,0.3728312396759644,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+191,3,6:21,981,981,Mary Gedaka made Jumper.,37,42,-5,18,0.2957995444399577,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,Villanova
+192,3,6:03,963,963,Kristen Spolyar made Jumper.,39,42,-3,26,0.3712934848399812,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,Butler
+193,3,5:37,937,937,Cameron Onken missed Three Point Jumper.,39,42,-3,4,0.36936920576650306,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+194,3,5:33,933,933,Kristen Spolyar Defensive Rebound.,39,42,-3,4,0.36909443027689987,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+195,3,5:29,929,929,Kristen Spolyar missed Layup.,39,42,-3,4,0.3688242941205859,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+196,3,5:25,925,925,Cameron Onken Defensive Rebound.,39,42,-3,4,0.368558434288748,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+197,3,5:21,921,921,Cameron Onken Turnover.,39,42,-3,0,0.3682964882526081,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+198,3,5:21,921,921,Kristen Spolyar Steal.,39,42,-3,5,0.3682964882526081,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+199,3,5:16,916,916,Kristen Spolyar made Layup. Assisted by Upe Atosu.,41,42,-1,9,0.45504520722676767,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,Butler
+200,3,5:07,907,907,Raven James Turnover.,41,42,-1,8,0.45484301030203417,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+201,3,4:59,899,899,Foul on Mackenzie Gardler.,41,42,-1,0,0.45466668750279915,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+202,3,4:59,899,899,Official TV Timeout,41,42,-1,0,0.45466668750279915,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+203,3,4:59,899,899,Genesis Parker missed Free Throw.,41,42,-1,0,0.45466668750279915,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+204,3,4:59,899,899,Butler Offensive Rebound.,41,42,-1,0,0.45466668750279915,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+205,3,4:59,899,899,Genesis Parker missed Free Throw.,41,42,-1,2,0.45466668750279915,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+206,3,4:57,897,897,Oumou Toure Offensive Rebound.,41,42,-1,3,0.45462298171613924,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+207,3,4:54,894,894,Foul on Madison Siegrist.,41,42,-1,0,0.4545576394546585,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+208,3,4:54,894,894,Oumou Toure made Free Throw.,42,42,0,0,0.5,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,Butler
+209,3,4:54,894,894,Oumou Toure made Free Throw.,43,42,1,7,0.5454423605453416,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,Butler
+210,3,4:47,887,887,Cameron Onken Turnover.,43,42,1,0,0.5455940948178448,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+211,3,4:47,887,887,Oumou Toure Steal.,43,42,1,3,0.5455940948178448,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+212,3,4:44,884,884,Kristen Spolyar made Layup.,45,42,3,8,0.6340051783186426,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,Butler
+213,3,4:36,876,876,Bridget Herlihy Turnover.,45,42,3,0,0.63449056833075,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+214,3,4:36,876,876,Shae Brey Steal.,45,42,3,25,0.63449056833075,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+215,3,4:11,851,851,Upe Atosu made Three Point Jumper. Assisted by Kristen Spolyar.,48,42,6,30,0.7533157936163957,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,Butler
+216,3,3:41,821,821,Madison Siegrist missed Jumper.,48,42,6,3,0.7565142893846937,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+217,3,3:38,818,818,Upe Atosu Defensive Rebound.,48,42,6,19,0.7568555403115776,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+218,3,3:19,799,799,Genesis Parker missed Layup.,48,42,6,3,0.7591374936991029,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+219,3,3:16,796,796,Madison Siegrist Defensive Rebound.,48,42,6,15,0.7595191080021795,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+220,3,3:01,781,781,Brooke Mullin missed Three Point Jumper.,48,42,6,4,0.7615276752009509,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+221,3,2:57,777,777,Cameron Onken Offensive Rebound.,48,42,6,1,0.7620937603010234,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+222,3,2:56,776,776,Cameron Onken Turnover.,48,42,6,0,0.762237414424913,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+223,3,2:56,776,776,Upe Atosu Steal.,48,42,6,6,0.762237414424913,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+224,3,2:50,770,770,Kristen Spolyar missed Layup.,48,42,6,5,0.7631178377383342,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+225,3,2:45,765,765,Madison Siegrist Defensive Rebound.,48,42,6,3,0.7638765704340262,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+226,3,2:42,762,762,Foul on Oumou Toure.,48,42,6,0,0.764343153092948,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+227,3,2:42,762,762,Mary Gedaka made Free Throw.,48,43,5,0,0.7272140505382855,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,Villanova
+228,3,2:42,762,762,Mary Gedaka made Free Throw.,48,44,4,14,0.6866333959811891,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,Villanova
+229,3,2:28,748,748,Kristen Spolyar missed Layup.,48,44,4,2,0.6884652843135567,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+230,3,2:26,746,746,Kristen Spolyar Offensive Rebound.,48,44,4,12,0.6887408636378272,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+231,3,2:14,734,734,Kristen Spolyar missed Three Point Jumper.,48,44,4,5,0.6904720769312495,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+232,3,2:09,729,729,Bridget Herlihy Defensive Rebound.,48,44,4,16,0.6912332541756462,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+233,3,1:53,713,713,Mary Gedaka made Layup. Assisted by Madison Siegrist.,48,46,2,27,0.6006888151560321,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,Villanova
+234,3,1:26,686,686,Genesis Parker missed Jumper.,48,46,2,4,0.602594950263461,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+235,3,1:22,682,682,Bridget Herlihy Defensive Rebound.,48,46,2,0,0.6028580981481464,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+236,3,1:22,682,682,Foul on Shae Brey.,48,46,2,30,0.6028580981481464,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+237,3,0:52,652,652,Mary Gedaka made Layup.,48,48,0,18,0.5,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,Villanova
+238,3,0:34,634,634,Kristen Spolyar made Jumper.,50,48,2,26,0.6059760560733396,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,Butler
+239,3,0:08,608,608,Madison Siegrist made Three Point Jumper. Assisted by Mary Gedaka.,50,51,-1,5,0.4454083119535701,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,Villanova
+240,3,0:03,603,603,Genesis Parker missed Layup.,50,51,-1,1,0.4451961051208064,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+241,3,0:02,602,602,Villanova Defensive Rebound.,50,51,-1,0,0.4451526810602755,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+242,3,0:02,602,602,Foul on Katherine Strong.,50,51,-1,2,0.4451526810602755,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+243,3,0:00,600,600,End of 3rd Quarter,50,51,-1,8,0.44506480685690686,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+244,4,9:52,592,592,Bridget Herlihy missed Three Point Jumper.,50,51,-1,4,0.44469883385549597,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+245,4,9:48,588,588,Upe Atosu Defensive Rebound.,50,51,-1,24,0.4445065547584587,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+246,4,9:24,564,564,Kristen Spolyar Turnover.,50,51,-1,22,0.44320096469232656,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+247,4,9:02,542,542,Bridget Herlihy missed Jumper.,50,51,-1,4,0.4417764081485464,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+248,4,8:58,538,538,Shae Brey Defensive Rebound.,50,51,-1,1,0.44153290830263303,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+249,4,8:57,537,537,Shae Brey Turnover.,50,51,-1,0,0.44147367691676986,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+250,4,8:57,537,537,Bridget Herlihy Steal.,50,51,-1,23,0.44147367691676986,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+251,4,8:34,514,514,Bridget Herlihy missed Three Point Jumper.,50,51,-1,5,0.44024297447143274,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+252,4,8:29,509,509,Cameron Onken Offensive Rebound.,50,51,-1,13,0.43999573499361805,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+253,4,8:16,496,496,Mary Gedaka made Layup. Assisted by Bridget Herlihy.,50,53,-3,18,0.324903256126203,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,Villanova
+254,4,7:58,478,478,Oumou Toure missed Layup.,50,53,-3,1,0.3223885433365663,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+255,4,7:57,477,477,Villanova Defensive Rebound.,50,53,-3,22,0.32223872324497993,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+256,4,7:35,455,455,Foul on Kristen Spolyar.,50,53,-3,0,0.3184999062654155,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+257,4,7:35,455,455,Madison Siegrist made Free Throw.,50,54,-4,0,0.2661524045491222,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,Villanova
+258,4,7:35,455,455,Madison Siegrist made Free Throw.,50,55,-5,10,0.21963574295051116,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,Villanova
+259,4,7:25,445,445,Kristen Spolyar missed Jumper.,50,55,-5,2,0.21692403067218818,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+260,4,7:23,443,443,Naira Caceres Offensive Rebound.,50,55,-5,4,0.21633891168691446,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+261,4,7:19,439,439,Upe Atosu missed Three Point Jumper.,50,55,-5,5,0.21512236899665035,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+262,4,7:14,434,434,Upe Atosu Offensive Rebound.,50,55,-5,18,0.21351050856530926,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+263,4,6:56,416,416,Naira Caceres made Layup. Assisted by Kristen Spolyar.,52,55,-3,21,0.3091722867458498,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,Butler
+264,4,6:35,395,395,Brooke Mullin missed Three Point Jumper.,52,55,-3,4,0.3042286193613142,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+265,4,6:31,391,391,Oumou Toure Defensive Rebound.,52,55,-3,13,0.3033049217216146,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+266,4,6:18,378,378,Naira Caceres missed Three Point Jumper.,52,55,-3,4,0.30025328973911053,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+267,4,6:14,374,374,Mary Gedaka Defensive Rebound.,52,55,-3,8,0.29928415876274345,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+268,4,6:06,366,366,Mary Gedaka Turnover.,52,55,-3,0,0.2972786190774884,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+269,4,6:06,366,366,Kristen Spolyar Steal.,52,55,-3,6,0.2972786190774884,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+270,4,6:00,360,360,Shae Brey missed Layup.,52,55,-3,2,0.2957003054388237,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+271,4,5:58,358,358,Kristen Spolyar Offensive Rebound.,52,55,-3,1,0.2951575183400645,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+272,4,5:57,357,357,Kristen Spolyar missed Layup.,52,55,-3,2,0.2948827301992405,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+273,4,5:55,355,355,Madison Siegrist Defensive Rebound.,52,55,-3,5,0.29432607086974516,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+274,4,5:50,350,350,Brooke Mullin Turnover.,52,55,-3,10,0.2928903834250488,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+275,4,5:40,340,340,Shae Brey Turnover.,52,55,-3,6,0.28980586575068706,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+276,4,5:34,334,334,Madison Siegrist missed Three Point Jumper.,52,55,-3,4,0.28779987347357977,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+277,4,5:30,330,330,Cameron Onken Offensive Rebound.,52,55,-3,18,0.28639055984806266,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+278,4,5:12,312,312,Madison Siegrist missed Three Point Jumper.,52,55,-3,4,0.2792401303676196,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+279,4,5:08,308,308,Oumou Toure Defensive Rebound.,52,55,-3,4,0.2775154072086194,Butler,Villanova,6,6,0,0,NA,401177463,2020-02-09,
+280,4,5:04,304,304,Foul on Mary Gedaka.,52,55,-3,0,0.27613700559162724,Butler,Villanova,6,6,0,1,NA,401177463,2020-02-09,
+281,4,5:04,304,304,Villanova  Timeout,52,55,-3,0,0.27613700559162724,Butler,Villanova,6,5,0,1,NA,401177463,2020-02-09,
+282,4,5:04,304,304,Official TV Timeout,52,55,-3,0,0.27613700559162724,Butler,Villanova,6,5,0,1,NA,401177463,2020-02-09,
+283,4,5:04,304,304,Kristen Spolyar made Free Throw.,53,55,-2,0,0.34468840605162443,Butler,Villanova,6,5,0,1,NA,401177463,2020-02-09,Butler
+284,4,5:04,304,304,Kristen Spolyar missed Free Throw.,53,55,-2,1,0.34468840605162443,Butler,Villanova,6,5,0,1,NA,401177463,2020-02-09,
+285,4,5:03,303,303,Mary Gedaka Defensive Rebound.,53,55,-2,10,0.34447363392075475,Butler,Villanova,6,5,0,1,NA,401177463,2020-02-09,
+286,4,4:53,293,293,Villanova  Turnover.,53,55,-2,0,0.34318996127986595,Butler,Villanova,6,5,0,1,NA,401177463,2020-02-09,
+287,4,4:53,293,293,Official TV Timeout,53,55,-2,17,0.34318996127986595,Butler,Villanova,6,5,0,1,NA,401177463,2020-02-09,
+288,4,4:36,276,276,Kristen Spolyar missed Layup.,53,55,-2,3,0.3437162117834601,Butler,Villanova,6,5,0,1,NA,401177463,2020-02-09,
+289,4,4:33,273,273,Shae Brey Offensive Rebound.,53,55,-2,21,0.3440389510471746,Butler,Villanova,6,5,0,1,NA,401177463,2020-02-09,
+290,4,4:12,252,252,Oumou Toure made Layup. Assisted by Naira Caceres.,55,55,0,18,0.5,Butler,Villanova,6,5,0,1,NA,401177463,2020-02-09,Butler
+291,4,3:54,234,234,Foul on Kristen Spolyar.,55,55,0,11,0.5,Butler,Villanova,6,5,0,0,NA,401177463,2020-02-09,
+292,4,3:43,223,223,Mary Gedaka made Jumper.,55,57,-2,25,0.3467647517874227,Butler,Villanova,6,5,0,0,NA,401177463,2020-02-09,Villanova
+293,4,3:18,198,198,Oumou Toure made Layup.,57,57,0,11,0.5,Butler,Villanova,6,5,0,0,NA,401177463,2020-02-09,Butler
+294,4,3:07,187,187,Madison Siegrist missed Jumper.,57,57,0,5,0.5,Butler,Villanova,6,5,0,0,NA,401177463,2020-02-09,
+295,4,3:02,182,182,Kristen Spolyar Defensive Rebound.,57,57,0,20,0.5,Butler,Villanova,6,5,0,0,NA,401177463,2020-02-09,
+296,4,2:42,162,162,Oumou Toure missed Layup.,57,57,0,3,0.5,Butler,Villanova,6,5,0,0,NA,401177463,2020-02-09,
+297,4,2:39,159,159,Madison Siegrist Defensive Rebound.,57,57,0,4,0.5,Butler,Villanova,6,5,0,0,NA,401177463,2020-02-09,
+298,4,2:35,155,155,Madison Siegrist made Layup. Assisted by Mackenzie Gardler.,57,59,-2,8,0.2966034457706839,Butler,Villanova,6,5,0,0,NA,401177463,2020-02-09,Villanova
+299,4,2:27,147,147,Butler  Timeout,57,59,-2,12,0.2883414058190613,Butler,Villanova,5,5,1,0,NA,401177463,2020-02-09,
+300,4,2:15,135,135,Shae Brey made Layup.,59,59,0,29,0.5,Butler,Villanova,5,5,1,0,NA,401177463,2020-02-09,Butler
+301,4,1:46,106,106,Mackenzie Gardler Turnover.,59,59,0,0,0.5,Butler,Villanova,5,5,1,0,NA,401177463,2020-02-09,
+302,4,1:46,106,106,Oumou Toure Steal.,59,59,0,18,0.5,Butler,Villanova,5,5,1,0,NA,401177463,2020-02-09,
+303,4,1:28,88,88,Kristen Spolyar missed Jumper.,59,59,0,0,0.5,Butler,Villanova,5,5,1,0,NA,401177463,2020-02-09,
+304,4,1:28,88,88,Bridget Herlihy Block.,59,59,0,1,0.5,Butler,Villanova,5,5,1,0,NA,401177463,2020-02-09,
+305,4,1:27,87,87,Butler Offensive Rebound.,59,59,0,7,0.5,Butler,Villanova,5,5,1,0,NA,401177463,2020-02-09,
+306,4,1:20,80,80,Naira Caceres made Layup.,61,59,2,9,0.8008084946039894,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,Butler
+307,4,1:11,71,71,Mary Gedaka Turnover.,61,59,2,0,0.8144389223072004,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+308,4,1:11,71,71,Oumou Toure Steal.,61,59,2,26,0.8144389223072004,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+309,4,0:45,45,45,Naira Caceres missed Three Point Jumper.,61,59,2,6,0.8532781515154971,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+310,4,0:39,39,39,Oumou Toure Offensive Rebound.,61,59,2,10,0.8619651488265819,Butler,Villanova,5,5,0,0,NA,401177463,2020-02-09,
+311,4,0:29,29,29,Foul on Madison Siegrist.,61,59,2,0,0.8760266316386648,Butler,Villanova,5,5,0,1,NA,401177463,2020-02-09,
+312,4,0:29,29,29,Villanova  Timeout,61,59,2,19,0.8760266316386648,Butler,Villanova,5,4,0,1,NA,401177463,2020-02-09,
+313,4,0:10,10,10,Kristen Spolyar missed Jumper.,61,59,2,3,0.9009619731336145,Butler,Villanova,5,4,0,1,NA,401177463,2020-02-09,
+314,4,0:07,7,7,Oumou Toure Offensive Rebound.,61,59,2,0,0.9046998900167958,Butler,Villanova,5,4,0,1,NA,401177463,2020-02-09,
+315,4,0:07,7,7,Foul on Brooke Mullin.,61,59,2,1,0.9046998900167958,Butler,Villanova,5,4,0,1,NA,401177463,2020-02-09,
+316,4,0:06,6,6,Foul on Bridget Herlihy.,61,59,2,1,0.9059288265680565,Butler,Villanova,5,4,0,1,NA,401177463,2020-02-09,
+317,4,0:05,5,5,Foul on Raven James.,61,59,2,0,0.9071486990502441,Butler,Villanova,5,4,0,1,NA,401177463,2020-02-09,
+318,4,0:05,5,5,Kristen Spolyar made Free Throw.,62,59,3,0,0.968291875526715,Butler,Villanova,5,4,0,1,NA,401177463,2020-02-09,Butler
+319,4,0:05,5,5,Kristen Spolyar made Free Throw.,63,59,4,0,0.989632052843119,Butler,Villanova,5,4,0,1,NA,401177463,2020-02-09,Butler
+320,4,0:05,5,5,Villanova  Timeout,63,59,4,4,0.989632052843119,Butler,Villanova,5,3,0,1,NA,401177463,2020-02-09,
+321,4,0:01,1,1,Mary Gedaka made Layup.,63,61,2,1,0.9119316362211413,Butler,Villanova,5,3,0,1,NA,401177463,2020-02-09,Villanova
+322,4,0:00,0,0,End of 4th Quarter,63,59,4,0,1,Butler,Villanova,5,3,0,1,NA,401177463,2020-02-09,
+323,4,0:00,0,0,End of Game,63,61,2,0,1,Butler,Villanova,5,3,0,1,NA,401177463,2020-02-09,Villanova

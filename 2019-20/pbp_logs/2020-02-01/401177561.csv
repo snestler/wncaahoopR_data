@@ -1,0 +1,294 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:59,2399,2399,Cierra Hall Turnover.,0,0,0,21,0.5,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,NA
+2,1,9:38,2378,2378,Ila Lane missed Layup.,0,0,0,3,0.5,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+3,1,9:35,2375,2375,Lauren Lee Offensive Rebound.,0,0,0,5,0.5,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+4,1,9:30,2370,2370,Lauren Lee missed Jumper.,0,0,0,3,0.5,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+5,1,9:27,2367,2367,Sage Stobbart Defensive Rebound.,0,0,0,21,0.5,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+6,1,9:06,2346,2346,Katie Toole Turnover.,0,0,0,0,0.5,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+7,1,9:06,2346,2346,Lauren Lee Steal.,0,0,0,14,0.5,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+8,1,8:52,2332,2332,Lauren Lee missed Layup.,0,0,0,3,0.5,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+9,1,8:49,2329,2329,Sage Stobbart Defensive Rebound.,0,0,0,17,0.5,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+10,1,8:32,2312,2312,Sage Stobbart made Three Point Jumper. Assisted by Mackenzie Trpcic.,3,0,3,23,0.5686409702844453,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Davis
+11,1,8:09,2289,2289,Coco Miller Turnover.,3,0,3,24,0.5693988998708198,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+12,1,7:45,2265,2265,Mackenzie Trpcic missed Three Point Jumper.,3,0,3,2,0.5701976570381696,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+13,1,7:43,2263,2263,Lauren Lee Defensive Rebound.,3,0,3,0,0.5702645497347195,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+14,1,7:43,2263,2263,Foul on Cierra Hall.,3,0,3,18,0.5702645497347195,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+15,1,7:25,2245,2245,Danae Miller made Jumper. Assisted by Lauren Lee.,3,2,1,4,0.5237650907820912,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+16,1,7:21,2241,2241,Foul on Coco Miller.,3,2,1,16,0.5238108181357399,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+17,1,7:05,2225,2225,Sage Stobbart made Three Point Jumper. Assisted by Evanne Turner.,6,2,4,17,0.5948866230282157,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Davis
+18,1,6:48,2208,2208,Mira Shulman missed Jumper.,6,2,4,1,0.5956433580423564,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+19,1,6:47,2207,2207,Danae Miller Offensive Rebound.,6,2,4,0,0.5956879607644102,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+20,1,6:47,2207,2207,Foul on Katie Toole.,6,2,4,0,0.5956879607644102,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+21,1,6:47,2207,2207,Danae Miller made Free Throw.,6,3,3,0,0.5721546479324662,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+22,1,6:47,2207,2207,Danae Miller made Free Throw.,6,4,2,20,0.548290259298426,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+23,1,6:27,2187,2187,Katie Toole missed Layup.,6,4,2,2,0.5487499721246489,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+24,1,6:25,2185,2185,Danae Miller Defensive Rebound.,6,4,2,8,0.5487960449405197,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+25,1,6:17,2177,2177,Danae Miller missed Jumper.,6,4,2,0,0.5489804998329268,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+26,1,6:17,2177,2177,UC Davis Defensive Rebound.,6,4,2,14,0.5489804998329268,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+27,1,6:03,2163,2163,Sage Stobbart made Layup.,8,4,4,24,0.5976583357494077,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Davis
+28,1,5:39,2139,2139,Ila Lane made Layup.,8,6,2,18,0.5498617568700167,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+29,1,5:21,2121,2121,Sage Stobbart missed Jumper.,8,6,2,8,0.5502831994046297,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+30,1,5:13,2113,2113,Danae Miller Defensive Rebound.,8,6,2,10,0.5504714167946465,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+31,1,5:03,2103,2103,Tal Sahar made Three Point Jumper. Assisted by Coco Miller.,8,9,-1,17,0.47458071572562543,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+32,1,4:46,2086,2086,Evanne Turner made Jumper. Assisted by Katie Toole.,10,9,1,21,0.5256226424492955,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Davis
+33,1,4:25,2065,2065,Foul on Sage Stobbart.,10,9,1,1,0.525875911233899,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+34,1,4:24,2064,2064,Official TV Timeout,10,9,1,4,0.525888030926191,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+35,1,4:20,2060,2060,Ila Lane missed Jumper.,10,9,1,5,0.5259365650576339,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+36,1,4:15,2055,2055,Sage Stobbart Defensive Rebound.,10,9,1,17,0.5259973585649578,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+37,1,3:58,2038,2038,Sage Stobbart missed Three Point Jumper.,10,9,1,0,0.5262051299966672,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+38,1,3:58,2038,2038,UC Santa Barbara Defensive Rebound.,10,9,1,14,0.5262051299966672,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+39,1,3:44,2024,2024,Coco Miller missed Jumper.,10,9,1,6,0.5263775259672235,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+40,1,3:38,2018,2018,Kayla Konrad Defensive Rebound.,10,9,1,9,0.5264517792641368,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+41,1,3:29,2009,2009,Katie Toole missed Three Point Jumper.,10,9,1,1,0.5265635857943932,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+42,1,3:28,2008,2008,Sage Stobbart Offensive Rebound.,10,9,1,0,0.5265760407951462,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+43,1,3:28,2008,2008,Foul on Ila Lane.,10,9,1,9,0.5265760407951462,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+44,1,3:19,1999,1999,Sage Stobbart missed Layup.,10,9,1,3,0.5266884291308235,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+45,1,3:16,1996,1996,Ila Lane Defensive Rebound.,10,9,1,13,0.5267260105688514,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+46,1,3:03,1983,1983,Tal Sahar missed Jumper.,10,9,1,3,0.5268895638080849,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+47,1,3:00,1980,1980,Sage Stobbart Defensive Rebound.,10,9,1,31,0.5269274710676524,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+48,1,2:29,1949,1949,Foul on Ila Lane.,10,9,1,0,0.5273229255730185,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+49,1,2:29,1949,1949,Katie Toole made Free Throw.,11,9,2,0,0.5544831552342676,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Davis
+50,1,2:29,1949,1949,Katie Toole made Free Throw.,12,9,3,20,0.5813218452620726,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Davis
+51,1,2:09,1929,1929,Coco Miller made Three Point Jumper.,12,12,0,18,0.5,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+52,1,1:51,1911,1911,Kayla Konrad missed Three Point Jumper.,12,12,0,2,0.5,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+53,1,1:49,1909,1909,Tal Sahar Defensive Rebound.,12,12,0,8,0.5,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+54,1,1:41,1901,1901,Tal Sahar made Three Point Jumper. Assisted by Coco Miller.,12,15,-3,13,0.4168555205592237,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+55,1,1:28,1888,1888,Campbell Gray Turnover.,12,15,-3,0,0.4163621975679721,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+56,1,1:28,1888,1888,Megan Ormiston Steal.,12,15,-3,22,0.4163621975679721,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+57,1,1:06,1866,1866,Tal Sahar Turnover.,12,15,-3,0,0.41552673061945583,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+58,1,1:06,1866,1866,Sophia Song Steal.,12,15,-3,10,0.41552673061945583,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+59,1,0:56,1856,1856,Emma Gibb missed Layup.,12,15,-3,4,0.41514617497221684,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+60,1,0:52,1852,1852,Emma Gibb Offensive Rebound.,12,15,-3,0,0.4149937371066775,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+61,1,0:52,1852,1852,Emma Gibb made Layup.,14,15,-1,12,0.4714179337378455,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Davis
+62,1,0:40,1840,1840,Foul on Sophia Song.,14,15,-1,14,0.4712611320099359,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+63,1,0:26,1826,1826,Megan Ormiston made Layup. Assisted by Tal Sahar.,14,17,-3,0,0.4139987142200684,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+64,1,0:26,1826,1826,Foul on Sophia Song.,14,17,-3,0,0.4139987142200684,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+65,1,0:26,1826,1826,Megan Ormiston made Free Throw.,14,18,-4,22,0.38620828522386225,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+66,1,0:04,1804,1804,Foul on Lauren Lee.,14,18,-4,0,0.38510158950377243,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+67,1,0:04,1804,1804,Cierra Hall made Free Throw.,15,18,-3,0,0.4131490550620406,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Davis
+68,1,0:04,1804,1804,Cierra Hall made Free Throw.,16,18,-2,4,0.441771659522365,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Davis
+69,1,0:00,1800,1800,End of 1st Quarter,16,18,-2,14,0.44166625058836706,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+70,2,9:46,1786,1786,Kayla Konrad missed Layup.,16,18,-2,1,0.4412954299508392,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+71,2,9:45,1785,1785,Megan Ormiston Defensive Rebound.,16,18,-2,0,0.4412688230344889,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+72,2,9:45,1785,1785,Foul on Kayla Konrad.,16,18,-2,20,0.4412688230344889,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+73,2,9:25,1765,1765,Danae Miller missed Layup.,16,18,-2,2,0.44073295778389904,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+74,2,9:23,1763,1763,Kayla Konrad Defensive Rebound.,16,18,-2,26,0.4406789550483938,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+75,2,8:57,1737,1737,Foul on Megan Ormiston.,16,18,-2,0,0.43996914389435965,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+76,2,8:57,1737,1737,Makaila Sanders missed Free Throw.,16,18,-2,0,0.43996914389435965,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+77,2,8:57,1737,1737,UC Davis Offensive Rebound.,16,18,-2,0,0.43996914389435965,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+78,2,8:57,1737,1737,Makaila Sanders made Free Throw.,17,18,-1,24,0.4698756185416942,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Davis
+79,2,8:33,1713,1713,Danae Miller made Three Point Jumper. Assisted by Tal Sahar.,17,21,-4,23,0.3803623040881064,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+80,2,8:10,1690,1690,Katie Toole Turnover.,17,21,-4,0,0.3791061959943194,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+81,2,8:10,1690,1690,Coco Miller Steal.,17,21,-4,15,0.3791061959943194,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+82,2,7:55,1675,1675,Tal Sahar made Jumper.,17,23,-6,21,0.32186029811744066,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+83,2,7:34,1654,1654,Makaila Sanders made Three Point Jumper. Assisted by Cierra Hall.,20,23,-3,30,0.4070474574603655,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Davis
+84,2,7:04,1624,1624,Tal Sahar Turnover.,20,23,-3,6,0.40584746402487765,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,
+85,2,6:58,1618,1618,Evanne Turner made Three Point Jumper. Assisted by Cierra Hall.,23,23,0,2,0.5,UC Davis,UC Santa Barbara,4,4,0,0,NA,401177561,2020-02-01,UC Davis
+86,2,6:56,1616,1616,UC Santa Barbara  Timeout,23,23,0,22,0.5,UC Davis,UC Santa Barbara,3,4,1,0,NA,401177561,2020-02-01,
+87,2,6:34,1594,1594,Tal Sahar missed Three Point Jumper.,23,23,0,3,0.5,UC Davis,UC Santa Barbara,3,4,1,0,NA,401177561,2020-02-01,
+88,2,6:31,1591,1591,Sage Stobbart Defensive Rebound.,23,23,0,6,0.5,UC Davis,UC Santa Barbara,3,4,1,0,NA,401177561,2020-02-01,
+89,2,6:25,1585,1585,Evanne Turner missed Three Point Jumper.,23,23,0,4,0.5,UC Davis,UC Santa Barbara,3,4,1,0,NA,401177561,2020-02-01,
+90,2,6:21,1581,1581,Cierra Hall Offensive Rebound.,23,23,0,0,0.5,UC Davis,UC Santa Barbara,3,4,1,0,NA,401177561,2020-02-01,
+91,2,6:21,1581,1581,Cierra Hall made Layup.,25,23,2,21,0.5643416571998157,UC Davis,UC Santa Barbara,3,4,1,0,NA,401177561,2020-02-01,UC Davis
+92,2,6:00,1560,1560,Tal Sahar made Jumper.,25,25,0,24,0.5,UC Davis,UC Santa Barbara,3,4,1,0,NA,401177561,2020-02-01,UC Santa Barbara
+93,2,5:36,1536,1536,Mackenzie Trpcic missed Jumper.,25,25,0,2,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+94,2,5:34,1534,1534,Megan Ormiston Defensive Rebound.,25,25,0,18,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+95,2,5:16,1516,1516,Danae Miller missed Three Point Jumper.,25,25,0,3,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+96,2,5:13,1513,1513,Cierra Hall Defensive Rebound.,25,25,0,6,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+97,2,5:07,1507,1507,Sage Stobbart missed Jumper.,25,25,0,3,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+98,2,5:04,1504,1504,Coco Miller Defensive Rebound.,25,25,0,7,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+99,2,4:57,1497,1497,Tal Sahar Turnover.,25,25,0,0,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+100,2,4:57,1497,1497,Cierra Hall Steal.,25,25,0,7,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+101,2,4:50,1490,1490,Evanne Turner missed Three Point Jumper.,25,25,0,2,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+102,2,4:48,1488,1488,Danae Miller Defensive Rebound.,25,25,0,18,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+103,2,4:30,1470,1470,Danae Miller missed Layup.,25,25,0,4,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+104,2,4:26,1466,1466,Sage Stobbart Defensive Rebound.,25,25,0,5,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+105,2,4:21,1461,1461,Katie Toole made Three Point Jumper. Assisted by Mackenzie Trpcic.,28,25,3,28,0.6009451420478045,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,UC Davis
+106,2,3:53,1433,1433,Coco Miller made Three Point Jumper. Assisted by Mira Shulman.,28,28,0,21,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+107,2,3:32,1412,1412,Katie Toole missed Jumper.,28,28,0,3,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+108,2,3:29,1409,1409,Megan Ormiston Defensive Rebound.,28,28,0,4,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+109,2,3:25,1405,1405,Foul on Mackenzie Trpcic.,28,28,0,0,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+110,2,3:25,1405,1405,Danae Miller made Free Throw.,28,29,-1,0,0.465030871653403,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+111,2,3:25,1405,1405,Danae Miller made Free Throw.,28,30,-2,16,0.4304021713246262,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+112,2,3:09,1389,1389,Katie Toole missed Three Point Jumper.,28,30,-2,3,0.42991689574346065,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+113,2,3:06,1386,1386,Celeste Salazar Defensive Rebound.,28,30,-2,18,0.4298265676490916,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+114,2,2:48,1368,1368,Danae Miller missed Jumper.,28,30,-2,2,0.4292867332288323,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+115,2,2:46,1366,1366,Celeste Salazar Offensive Rebound.,28,30,-2,12,0.4292268295666444,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+116,2,2:34,1354,1354,Danae Miller missed Layup.,28,30,-2,0,0.42886687123924083,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+117,2,2:34,1354,1354,Sage Stobbart Block.,28,30,-2,4,0.42886687123924083,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+118,2,2:30,1350,1350,Mackenzie Trpcic Defensive Rebound.,28,30,-2,2,0.4287464958414888,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+119,2,2:28,1348,1348,Kayla Konrad missed Jumper.,28,30,-2,3,0.4286862004826284,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+120,2,2:25,1345,1345,Johnni Gonzalez Defensive Rebound.,28,30,-2,23,0.42859560120973195,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+121,2,2:02,1322,1322,Coco Miller missed Layup.,28,30,-2,2,0.4278920933652492,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+122,2,2:00,1320,1320,Megan Ormiston Offensive Rebound.,28,30,-2,3,0.4278299491396289,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+123,2,1:57,1317,1317,Coco Miller missed Jumper.,28,30,-2,2,0.4277363746436483,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+124,2,1:55,1315,1315,Kayla Konrad Defensive Rebound.,28,30,-2,6,0.4276737416698498,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+125,2,1:49,1309,1309,Foul on Megan Ormiston.,28,30,-2,1,0.42748455836768484,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+126,2,1:48,1308,1308,Katie Toole made Free Throw.,29,30,-1,0,0.4635334676055892,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,UC Davis
+127,2,1:48,1308,1308,Katie Toole made Free Throw.,30,30,0,30,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,UC Davis
+128,2,1:18,1278,1278,Coco Miller missed Layup.,30,30,0,2,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+129,2,1:16,1276,1276,Kayla Konrad Defensive Rebound.,30,30,0,20,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+130,2,0:56,1256,1256,Mackenzie Trpcic missed Jumper.,30,30,0,3,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+131,2,0:53,1253,1253,Johnni Gonzalez Defensive Rebound.,30,30,0,21,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+132,2,0:32,1232,1232,Johnni Gonzalez missed Three Point Jumper.,30,30,0,3,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+133,2,0:29,1229,1229,Lauren Lee Offensive Rebound.,30,30,0,20,0.5,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+134,2,0:09,1209,1209,Danae Miller made Three Point Jumper. Assisted by Johnni Gonzalez.,30,33,-3,7,0.38689358229106546,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+135,2,0:02,1202,1202,Foul on Celeste Salazar.,30,33,-3,2,0.38646822339613696,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+136,2,0:00,1200,1200,Katie Toole made Jumper. Assisted by Cierra Hall.,32,33,-1,0,0.4615187446422248,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,UC Davis
+137,2,0:00,1200,1200,End of 2nd Quarter,30,33,-3,18,0.38634786325026177,UC Davis,UC Santa Barbara,3,4,0,0,NA,401177561,2020-02-01,
+138,3,9:42,1182,1182,Mira Shulman missed Jumper.,32,33,-1,6,0.4611471514484879,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,UC Davis
+139,3,9:36,1176,1176,Katie Toole Defensive Rebound.,32,33,-1,16,0.46102561710881734,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+140,3,9:20,1160,1160,Sage Stobbart missed Three Point Jumper.,32,33,-1,3,0.4607056272968464,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+141,3,9:17,1157,1157,Cierra Hall Offensive Rebound.,32,33,-1,10,0.4606461321385427,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+142,3,9:07,1147,1147,Sage Stobbart missed Jumper.,32,33,-1,3,0.4604485354055376,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+143,3,9:04,1144,1144,Ila Lane Defensive Rebound.,32,33,-1,17,0.4603894019325894,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+144,3,8:47,1127,1127,Foul on Sage Stobbart.,32,33,-1,0,0.4600544274629303,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+145,3,8:47,1127,1127,Ila Lane made Free Throw.,32,34,-2,0,0.4206155338275931,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+146,3,8:47,1127,1127,Ila Lane made Free Throw.,32,35,-3,16,0.3821646126586552,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+147,3,8:31,1111,1111,Foul on Ila Lane.,32,35,-3,0,0.3812603398267477,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+148,3,8:31,1111,1111,Katie Toole made Free Throw.,33,35,-2,0,0.419993168479601,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,UC Davis
+149,3,8:31,1111,1111,Katie Toole made Free Throw.,34,35,-1,16,0.45973718703344885,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,UC Davis
+150,3,8:15,1095,1095,Coco Miller made Jumper.,34,37,-3,23,0.3803432837089131,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+151,3,7:52,1072,1072,Katie Toole made Three Point Jumper. Assisted by Mackenzie Trpcic.,37,37,0,19,0.5,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,UC Davis
+152,3,7:33,1053,1053,Coco Miller missed Jumper.,37,37,0,0,0.5,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+153,3,7:33,1053,1053,Sage Stobbart Block.,37,37,0,2,0.5,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+154,3,7:31,1051,1051,Mackenzie Trpcic Defensive Rebound.,37,37,0,16,0.5,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+155,3,7:15,1035,1035,Katie Toole missed Jumper.,37,37,0,3,0.5,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+156,3,7:12,1032,1032,Katie Toole Offensive Rebound.,37,37,0,0,0.5,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+157,3,7:12,1032,1032,Foul on Megan Ormiston.,37,37,0,0,0.5,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+158,3,7:12,1032,1032,Katie Toole made Free Throw.,38,37,1,0,0.5419521629283778,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,UC Davis
+159,3,7:12,1032,1032,Katie Toole missed Free Throw.,38,37,1,8,0.5419521629283778,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+160,3,7:04,1024,1024,Danae Miller Defensive Rebound.,38,37,1,2,0.5421427330054952,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+161,3,7:02,1022,1022,Foul on Katie Toole.,38,37,1,13,0.5421911365170808,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+162,3,6:49,1009,1009,Danae Miller missed Three Point Jumper.,38,37,1,3,0.542513684299699,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+163,3,6:46,1006,1006,Sage Stobbart Defensive Rebound.,38,37,1,10,0.5425901664710202,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+164,3,6:36,996,996,Sage Stobbart missed Three Point Jumper.,38,37,1,4,0.5428510344356469,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+165,3,6:32,992,992,Mira Shulman Defensive Rebound.,38,37,1,5,0.5429580421010213,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+166,3,6:27,987,987,Tal Sahar made Three Point Jumper. Assisted by Danae Miller.,38,40,-2,23,0.4144474456717601,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+167,3,6:04,964,964,Mackenzie Trpcic Turnover.,38,40,-2,0,0.41316729448422695,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+168,3,6:04,964,964,Megan Ormiston Steal.,38,40,-2,6,0.41316729448422695,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+169,3,5:58,958,958,Mira Shulman missed Three Point Jumper.,38,40,-2,3,0.41284130803882985,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+170,3,5:55,955,955,Mira Shulman Offensive Rebound.,38,40,-2,14,0.4126823778262424,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+171,3,5:41,941,941,Foul on Katie Toole.,38,40,-2,0,0.41197293691143627,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+172,3,5:41,941,941,Coco Miller made Free Throw.,38,41,-3,0,0.36964898409341035,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+173,3,5:41,941,941,Coco Miller made Free Throw.,38,42,-4,19,0.32923863187841673,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+174,3,5:22,922,922,Foul on Nyalam Thabach.,38,42,-4,0,0.3276126710950797,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+175,3,5:22,922,922,Campbell Gray missed Free Throw.,38,42,-4,0,0.3276126710950797,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+176,3,5:22,922,922,UC Davis Offensive Rebound.,38,42,-4,0,0.3276126710950797,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+177,3,5:22,922,922,Campbell Gray missed Free Throw.,38,42,-4,2,0.3276126710950797,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+178,3,5:20,920,920,Tal Sahar Defensive Rebound.,38,42,-4,8,0.327448504296731,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+179,3,5:12,912,912,Tal Sahar missed Jumper.,38,42,-4,0,0.3268023648356769,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+180,3,5:12,912,912,Katie Toole Block.,38,42,-4,0,0.3268023648356769,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+181,3,5:12,912,912,UC Santa Barbara Offensive Rebound.,38,42,-4,15,0.3268023648356769,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+182,3,4:57,897,897,Coco Miller missed Jumper.,38,42,-4,3,0.3256259772458486,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+183,3,4:54,894,894,Cierra Hall Defensive Rebound.,38,42,-4,5,0.32539453046681094,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+184,3,4:49,889,889,Sophia Song made Three Point Jumper. Assisted by Campbell Gray.,41,42,-1,25,0.45444917996668877,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,UC Davis
+185,3,4:24,864,864,Danae Miller made Three Point Jumper.,41,45,-4,16,0.3230942643148526,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+186,3,4:08,848,848,Cierra Hall missed Layup.,41,45,-4,3,0.32183582702141256,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+187,3,4:05,845,845,Danae Miller Defensive Rebound.,41,45,-4,4,0.32159417499835047,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+188,3,4:01,841,841,Official TV Timeout,41,45,-4,15,0.32126843175522796,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+189,3,3:46,826,826,Foul on Katie Toole.,41,45,-4,0,0.3200036641398012,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+190,3,3:46,826,826,Coco Miller made Free Throw.,41,46,-5,0,0.2804574375651646,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+191,3,3:46,826,826,Coco Miller missed Free Throw.,41,46,-5,1,0.2804574375651646,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+192,3,3:45,825,825,Kayla Konrad Defensive Rebound.,41,46,-5,11,0.28035645967312983,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+193,3,3:34,814,814,Foul on Mira Shulman.,41,46,-5,5,0.2792148311366768,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+194,3,3:29,809,809,Campbell Gray Turnover.,41,46,-5,23,0.2786754459364962,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+195,3,3:06,786,786,Megan Ormiston Turnover.,41,46,-5,19,0.27599758995762175,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+196,3,2:47,767,767,Kayla Konrad made Jumper.,43,46,-3,20,0.35751248917900835,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,UC Davis
+197,3,2:27,747,747,Mira Shulman Turnover.,43,46,-3,16,0.35544356399271887,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+198,3,2:11,731,731,Kayla Konrad missed Layup.,43,46,-3,3,0.353579769479601,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+199,3,2:08,728,728,Megan Ormiston Defensive Rebound.,43,46,-3,16,0.35321137968157557,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+200,3,1:52,712,712,Tal Sahar missed Jumper.,43,46,-3,0,0.35137986361441415,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+201,3,1:52,712,712,Makaila Sanders Block.,43,46,-3,6,0.35137986361441415,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+202,3,1:46,706,706,Sophia Song Defensive Rebound.,43,46,-3,11,0.35074452157587693,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+203,3,1:35,695,695,Makaila Sanders missed Three Point Jumper.,43,46,-3,4,0.3496368705556126,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+204,3,1:31,691,691,Johnni Gonzalez Defensive Rebound.,43,46,-3,4,0.34924921896438704,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+205,3,1:27,687,687,Megan Ormiston missed Layup.,43,46,-3,4,0.34886809649515954,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+206,3,1:23,683,683,Kayla Konrad Defensive Rebound.,43,46,-3,7,0.34849253321214924,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+207,3,1:16,676,676,Sophia Song made Three Point Jumper. Assisted by Makaila Sanders.,46,46,0,22,0.5,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,UC Davis
+208,3,0:54,654,654,Johnni Gonzalez missed Jumper.,46,46,0,0,0.5,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+209,3,0:54,654,654,UC Santa Barbara Offensive Rebound.,46,46,0,0,0.5,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+210,3,0:54,654,654,Campbell Gray Block.,46,46,0,3,0.5,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+211,3,0:51,651,651,Johnni Gonzalez Turnover.,46,46,0,0,0.5,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+212,3,0:51,651,651,Campbell Gray Steal.,46,46,0,5,0.5,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+213,3,0:46,646,646,Evanne Turner made Layup. Assisted by Campbell Gray.,48,46,2,28,0.6051731196523822,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,UC Davis
+214,3,0:18,618,618,Coco Miller missed Three Point Jumper.,48,46,2,3,0.6071210894902115,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+215,3,0:15,615,615,Sage Stobbart Defensive Rebound.,48,46,2,13,0.6073483318656971,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+216,3,0:02,602,602,Sophia Song made Layup.,50,46,4,2,0.7070506531833336,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,UC Davis
+217,3,0:00,600,600,End of 3rd Quarter,50,46,4,23,0.7073453411645628,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+218,4,9:37,577,577,Johnni Gonzalez missed Jumper.,50,46,4,3,0.7110949608935065,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,
+219,4,9:34,574,574,Evanne Turner Defensive Rebound.,50,46,4,14,0.7116390768359518,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,
+220,4,9:20,560,560,Evanne Turner missed Three Point Jumper.,50,46,4,2,0.714372146735918,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,
+221,4,9:18,558,558,Ila Lane Defensive Rebound.,50,46,4,32,0.7147902580684806,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,
+222,4,8:46,526,526,Coco Miller missed Three Point Jumper.,50,46,4,3,0.7212581483700088,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,
+223,4,8:43,523,523,Sage Stobbart Defensive Rebound.,50,46,4,11,0.7217736874303642,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,
+224,4,8:32,512,512,Sage Stobbart Turnover.,50,46,4,22,0.7235851987759938,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,
+225,4,8:10,490,490,Foul on Sage Stobbart.,50,46,4,5,0.7271118801299634,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,
+226,4,8:05,485,485,Ila Lane missed Layup.,50,46,4,0,0.7279486870058446,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,
+227,4,8:05,485,485,Danae Miller Offensive Rebound.,50,46,4,2,0.7279486870058446,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,
+228,4,8:03,483,483,Danae Miller made Layup.,50,48,2,18,0.6208093868963717,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+229,4,7:45,465,465,Foul on Tal Sahar.,50,48,2,11,0.62282180873301,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,
+230,4,7:34,454,454,Evanne Turner missed Jumper.,50,48,2,3,0.6242704267879958,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,
+231,4,7:31,451,451,Tal Sahar Defensive Rebound.,50,48,2,7,0.6247024087059307,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,
+232,4,7:24,444,444,Foul on Sage Stobbart.,50,48,2,6,0.6257806551334474,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,
+233,4,7:18,438,438,Danae Miller made Free Throw.,50,49,1,0,0.564448574462164,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+234,4,7:18,438,438,Danae Miller made Free Throw.,50,50,0,25,0.5,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+235,4,6:53,413,413,Kayla Konrad made Jumper.,52,50,2,22,0.6314100424965312,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,UC Davis
+236,4,6:31,391,391,Mira Shulman made Three Point Jumper. Assisted by Ila Lane.,52,53,-1,27,0.4311396148270242,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+237,4,6:04,364,364,Sophia Song missed Layup.,52,53,-1,3,0.4285937584748114,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,
+238,4,6:01,361,361,Cierra Hall Offensive Rebound.,52,53,-1,15,0.4282837609505265,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,
+239,4,5:46,346,346,Sophia Song missed Jumper.,52,53,-1,3,0.42660270528984995,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,
+240,4,5:43,343,343,Ila Lane Defensive Rebound.,52,53,-1,12,0.4262356604975338,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,
+241,4,5:31,331,331,Ila Lane made Layup. Assisted by Coco Miller.,52,55,-3,14,0.28674852728083794,UC Davis,UC Santa Barbara,5,6,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+242,4,5:17,317,317,UC Davis  Timeout,52,55,-3,17,0.28136827521370783,UC Davis,UC Santa Barbara,5,5,0,1,NA,401177561,2020-02-01,
+243,4,5:00,300,300,Evanne Turner made Three Point Jumper. Assisted by Cierra Hall.,55,55,0,17,0.5,UC Davis,UC Santa Barbara,5,5,0,1,NA,401177561,2020-02-01,UC Davis
+244,4,4:43,283,283,Foul on Emma Gibb.,55,55,0,1,0.5,UC Davis,UC Santa Barbara,5,5,0,1,NA,401177561,2020-02-01,
+245,4,4:42,282,282,Official TV Timeout,55,55,0,0,0.5,UC Davis,UC Santa Barbara,5,5,0,1,NA,401177561,2020-02-01,
+246,4,4:42,282,282,Ila Lane made Free Throw.,55,56,-1,0,0.41959128513270405,UC Davis,UC Santa Barbara,5,5,0,1,NA,401177561,2020-02-01,UC Santa Barbara
+247,4,4:42,282,282,Ila Lane made Free Throw.,55,57,-2,13,0.343236818191074,UC Davis,UC Santa Barbara,5,5,0,1,NA,401177561,2020-02-01,UC Santa Barbara
+248,4,4:29,269,269,Katie Toole made Layup.,57,57,0,30,0.5,UC Davis,UC Santa Barbara,5,5,0,1,NA,401177561,2020-02-01,UC Davis
+249,4,3:59,239,239,Coco Miller made Jumper.,57,59,-2,17,0.3478350100042756,UC Davis,UC Santa Barbara,5,5,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+250,4,3:42,222,222,Mackenzie Trpcic made Three Point Jumper. Assisted by Cierra Hall.,60,59,1,4,0.5786074937892213,UC Davis,UC Santa Barbara,5,5,0,0,NA,401177561,2020-02-01,UC Davis
+251,4,3:38,218,218,UC Santa Barbara  Timeout,60,59,1,21,0.5791036195573123,UC Davis,UC Santa Barbara,4,5,1,0,NA,401177561,2020-02-01,
+252,4,3:17,197,197,Ila Lane missed Layup.,60,59,1,3,0.5846257521590882,UC Davis,UC Santa Barbara,4,5,1,0,NA,401177561,2020-02-01,
+253,4,3:14,194,194,Mira Shulman Offensive Rebound.,60,59,1,0,0.5858875738400977,UC Davis,UC Santa Barbara,4,5,1,0,NA,401177561,2020-02-01,
+254,4,3:14,194,194,Mira Shulman Turnover.,60,59,1,0,0.5858875738400977,UC Davis,UC Santa Barbara,4,5,1,0,NA,401177561,2020-02-01,
+255,4,3:14,194,194,Mackenzie Trpcic Steal.,60,59,1,13,0.5858875738400977,UC Davis,UC Santa Barbara,4,5,1,0,NA,401177561,2020-02-01,
+256,4,3:01,181,181,Katie Toole made Layup.,62,59,3,0,0.7541604121240805,UC Davis,UC Santa Barbara,4,5,1,0,NA,401177561,2020-02-01,UC Davis
+257,4,3:01,181,181,Foul on Mira Shulman.,62,59,3,0,0.7541604121240805,UC Davis,UC Santa Barbara,4,5,1,0,NA,401177561,2020-02-01,
+258,4,3:01,181,181,Katie Toole made Free Throw.,63,59,4,31,0.8167628851575134,UC Davis,UC Santa Barbara,4,5,1,0,NA,401177561,2020-02-01,UC Davis
+259,4,2:30,150,150,Danae Miller missed Three Point Jumper.,63,59,4,0,0.8552450340286498,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+260,4,2:30,150,150,Cierra Hall Block.,63,59,4,1,0.8552450340286498,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+261,4,2:29,149,149,UC Davis Defensive Rebound.,63,59,4,27,0.856491057870879,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+262,4,2:02,122,122,Mackenzie Trpcic missed Three Point Jumper.,63,59,4,0,0.8907048967841794,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+263,4,2:02,122,122,UC Santa Barbara Defensive Rebound.,63,59,4,9,0.8907048967841794,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+264,4,1:53,113,113,Foul on Katie Toole.,63,59,4,16,0.9022455466655568,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+265,4,1:37,97,97,Ila Lane missed Layup.,63,59,4,7,0.922450346762343,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+266,4,1:30,90,90,Ila Lane Offensive Rebound.,63,59,4,0,0.9308517407653438,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,
+267,4,1:30,90,90,Ila Lane made Layup.,63,61,2,13,0.7858221191506334,UC Davis,UC Santa Barbara,4,5,0,0,NA,401177561,2020-02-01,UC Santa Barbara
+268,4,1:17,77,77,UC Davis  Timeout,63,61,2,10,0.8053216373900555,UC Davis,UC Santa Barbara,4,4,0,1,NA,401177561,2020-02-01,
+269,4,1:07,67,67,Foul on Coco Miller.,63,61,2,15,0.8205432367228749,UC Davis,UC Santa Barbara,4,4,0,1,NA,401177561,2020-02-01,
+270,4,0:52,52,52,Sage Stobbart missed Three Point Jumper.,63,61,2,3,0.8430091195306043,UC Davis,UC Santa Barbara,4,4,0,1,NA,401177561,2020-02-01,
+271,4,0:49,49,49,Cierra Hall Offensive Rebound.,63,61,2,3,0.8474264049872133,UC Davis,UC Santa Barbara,4,4,0,1,NA,401177561,2020-02-01,
+272,4,0:46,46,46,Foul on Tal Sahar.,63,61,2,1,0.8518188381895048,UC Davis,UC Santa Barbara,4,4,0,1,NA,401177561,2020-02-01,
+273,4,0:45,45,45,UC Davis  Timeout,63,61,2,1,0.8532781515154971,UC Davis,UC Santa Barbara,4,3,0,1,NA,401177561,2020-02-01,
+274,4,0:44,44,44,Foul on Mira Shulman.,63,61,2,0,0.8547348038593043,UC Davis,UC Santa Barbara,4,3,1,1,NA,401177561,2020-02-01,
+275,4,0:44,44,44,Sophia Song missed Free Throw.,63,61,2,0,0.8547348038593043,UC Davis,UC Santa Barbara,4,3,1,1,NA,401177561,2020-02-01,
+276,4,0:44,44,44,UC Davis Offensive Rebound.,63,61,2,0,0.8547348038593043,UC Davis,UC Santa Barbara,4,3,1,1,NA,401177561,2020-02-01,
+277,4,0:44,44,44,Sophia Song made Free Throw.,64,61,3,0,0.9345234929323819,UC Davis,UC Santa Barbara,4,3,1,1,NA,401177561,2020-02-01,UC Davis
+278,4,0:44,44,44,UC Santa Barbara  Timeout,64,61,3,8,0.9345234929323819,UC Davis,UC Santa Barbara,3,3,1,1,NA,401177561,2020-02-01,
+279,4,0:36,36,36,Foul on Evanne Turner.,64,61,3,0,0.942798949310338,UC Davis,UC Santa Barbara,3,3,1,1,NA,401177561,2020-02-01,
+280,4,0:36,36,36,Ila Lane made Free Throw.,64,62,2,0,0.8662483812303213,UC Davis,UC Santa Barbara,3,3,1,1,NA,401177561,2020-02-01,UC Santa Barbara
+281,4,0:36,36,36,Ila Lane made Free Throw.,64,63,1,3,0.7179050489874634,UC Davis,UC Santa Barbara,3,3,1,1,NA,401177561,2020-02-01,UC Santa Barbara
+282,4,0:33,33,33,Mackenzie Trpcic Turnover.,64,63,1,22,0.7216383684844788,UC Davis,UC Santa Barbara,3,3,1,1,NA,401177561,2020-02-01,
+283,4,0:11,11,11,Coco Miller missed Three Point Jumper.,64,63,1,0,0.7496879212023952,UC Davis,UC Santa Barbara,3,3,1,1,NA,401177561,2020-02-01,
+284,4,0:11,11,11,UC Davis Defensive Rebound.,64,63,1,0,0.7496879212023952,UC Davis,UC Santa Barbara,3,3,1,1,NA,401177561,2020-02-01,
+285,4,0:11,11,11,UC Davis  Timeout,64,63,1,1,0.7496879212023952,UC Davis,UC Santa Barbara,3,2,1,1,NA,401177561,2020-02-01,
+286,4,0:10,10,10,Foul on Mira Shulman.,64,63,1,0,0.7510050166627159,UC Davis,UC Santa Barbara,3,2,1,1,NA,401177561,2020-02-01,
+287,4,0:10,10,10,Sophia Song made Free Throw.,65,63,2,0,0.9009619731336145,UC Davis,UC Santa Barbara,3,2,1,1,NA,401177561,2020-02-01,UC Davis
+288,4,0:10,10,10,Sophia Song made Free Throw.,66,63,3,0,0.9648361167568685,UC Davis,UC Santa Barbara,3,2,1,1,NA,401177561,2020-02-01,UC Davis
+289,4,0:10,10,10,UC Santa Barbara  Timeout,66,63,3,7,0.9648361167568685,UC Davis,UC Santa Barbara,2,2,1,1,NA,401177561,2020-02-01,
+290,4,0:03,3,3,Danae Miller missed Three Point Jumper.,66,63,3,2,0.9695991517630681,UC Davis,UC Santa Barbara,2,2,1,1,NA,401177561,2020-02-01,
+291,4,0:01,1,1,UC Davis Defensive Rebound.,66,63,3,1,0.9708630270713,UC Davis,UC Santa Barbara,2,2,1,1,NA,401177561,2020-02-01,
+292,4,0:00,0,0,End of 4th Quarter,66,63,3,0,1,UC Davis,UC Santa Barbara,2,2,1,1,NA,401177561,2020-02-01,
+293,4,0:00,0,0,End of Game,66,63,3,0,1,UC Davis,UC Santa Barbara,2,2,1,1,NA,401177561,2020-02-01,

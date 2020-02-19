@@ -1,0 +1,366 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:38,2378,2378,Foul on Uju Ezeudu.,0,0,0,0,0.5,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,NA
+2,1,9:38,2378,2378,Uju Ezeudu Turnover.,0,0,0,13,0.5,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+3,1,9:25,2365,2365,Hannah Sjerven missed Jumper.,0,0,0,0,0.5,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+4,1,9:25,2365,2365,Hannah Sjerven Offensive Rebound.,0,0,0,0,0.5,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+5,1,9:25,2365,2365,Foul on Uju Ezeudu.,0,0,0,6,0.5,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+6,1,9:19,2359,2359,Hannah Sjerven made Jumper. Assisted by Ciara Duffy.,2,0,2,12,0.5448965882700816,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+7,1,9:07,2347,2347,Meghan Boyd made Three Point Jumper. Assisted by Briana Johnson.,2,3,-1,14,0.47737591477232977,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,Denver
+8,1,8:53,2333,2333,Foul on Lauren Loven.,2,3,-1,9,0.4772226573295079,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+9,1,8:44,2324,2324,Chloe Lamb missed Three Point Jumper.,2,3,-1,6,0.47712349981117463,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+10,1,8:38,2318,2318,Monica Arens Offensive Rebound.,2,3,-1,1,0.4770571302290807,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+11,1,8:37,2317,2317,Foul on Jasmine Jeffcoat.,2,3,-1,7,0.47704604854630217,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+12,1,8:30,2310,2310,Ciara Duffy Turnover.,2,3,-1,9,0.4769683195238842,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+13,1,8:21,2301,2301,Foul on Chloe Lamb.,2,3,-1,11,0.4768679886209129,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+14,1,8:10,2290,2290,Jasmine Jeffcoat Turnover.,2,3,-1,14,0.4767447867309777,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+15,1,7:56,2276,2276,Chloe Lamb missed Three Point Jumper.,2,3,-1,5,0.476587121439937,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+16,1,7:51,2271,2271,Madison McKeever Offensive Rebound.,2,3,-1,16,0.4765305907094315,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+17,1,7:35,2255,2255,Ciara Duffy made Three Point Jumper. Assisted by Monica Arens.,5,3,2,14,0.5471964787163031,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+18,1,7:21,2241,2241,Meghan Boyd Turnover.,5,3,2,0,0.5475138833251382,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+19,1,7:21,2241,2241,Chloe Lamb Steal.,5,3,2,5,0.5475138833251382,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+20,1,7:16,2236,2236,Monica Arens made Three Point Jumper. Assisted by Chloe Lamb.,8,3,5,11,0.6172103534399416,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+21,1,7:05,2225,2225,Briana Johnson made Jumper.,8,5,3,12,0.5715438722764842,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,Denver
+22,1,6:53,2213,2213,Monica Arens Turnover.,8,5,3,16,0.5719507615723202,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+23,1,6:37,2197,2197,Madison Nelson missed Jumper.,8,5,3,0,0.5724950544895695,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+24,1,6:37,2197,2197,Ciara Duffy Block.,8,5,3,4,0.5724950544895695,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+25,1,6:33,2193,2193,Ciara Duffy Defensive Rebound.,8,5,3,5,0.5726314110978687,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+26,1,6:28,2188,2188,Monica Arens Turnover.,8,5,3,0,0.5728020015994195,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+27,1,6:28,2188,2188,Meghan Boyd Steal.,8,5,3,17,0.5728020015994195,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+28,1,6:11,2171,2171,Madison Nelson missed Layup.,8,5,3,3,0.5733830856534828,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+29,1,6:08,2168,2168,Madison Nelson Offensive Rebound.,8,5,3,1,0.5734857944927388,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+30,1,6:07,2167,2167,Madison Nelson missed Jumper.,8,5,3,2,0.5735200505663103,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+31,1,6:05,2165,2165,Ciara Duffy Defensive Rebound.,8,5,3,5,0.5735885940979953,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+32,1,6:00,2160,2160,Ciara Duffy made Three Point Jumper.,11,5,6,13,0.644378282918497,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+33,1,5:47,2147,2147,Meghan Boyd Turnover.,11,5,6,0,0.6452161892721886,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+34,1,5:47,2147,2147,Monica Arens Steal.,11,5,6,8,0.6452161892721886,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+35,1,5:39,2139,2139,Ciara Duffy made Layup. Assisted by Taylor Frederick.,13,5,8,20,0.690070435358561,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+36,1,5:19,2119,2119,Briana Johnson missed Jumper.,13,5,8,2,0.6916873545983454,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+37,1,5:17,2117,2117,Ciara Duffy Defensive Rebound.,13,5,8,6,0.6918494674465632,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+38,1,5:11,2111,2111,Chloe Lamb made Three Point Jumper. Assisted by Monica Arens.,16,5,11,14,0.753099815174024,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+39,1,4:57,2097,2097,Madison Nelson missed Three Point Jumper.,16,5,11,3,0.7544655867304374,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+40,1,4:54,2094,2094,Taylor Frederick Defensive Rebound.,16,5,11,5,0.7547586132411381,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+41,1,4:49,2089,2089,Madison McKeever missed Three Point Jumper.,16,5,11,3,0.75524728929128,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+42,1,4:46,2086,2086,Taylor Frederick Offensive Rebound.,16,5,11,1,0.7555406785728687,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+43,1,4:45,2085,2085,Taylor Frederick made Jumper.,18,5,13,10,0.7915298299220568,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+44,1,4:35,2075,2075,Madison Nelson Turnover.,18,5,13,23,0.7925634576838835,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+45,1,4:12,2052,2052,Madison McKeever missed Three Point Jumper.,18,5,13,4,0.7949439585523042,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+46,1,4:08,2048,2048,Monica Arens Offensive Rebound.,18,5,13,8,0.7953584706092134,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+47,1,4:00,2040,2040,Madison McKeever made Jumper.,20,5,15,7,0.8281075233639636,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+48,1,3:53,2033,2033,Alexius Foster missed Three Point Jumper.,20,5,15,4,0.8288425025851509,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+49,1,3:49,2029,2029,Alexius Foster Offensive Rebound.,20,5,15,11,0.829262506032182,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+50,1,3:38,2018,2018,Madison Nelson missed Jumper.,20,5,15,4,0.8304176200687583,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+51,1,3:34,2014,2014,Claire Gritt Offensive Rebound.,20,5,15,0,0.8308377140082125,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+52,1,3:34,2014,2014,Claire Gritt made Jumper.,20,7,13,10,0.7988891307059658,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,Denver
+53,1,3:24,2004,2004,Madison McKeever missed Three Point Jumper.,20,7,13,3,0.7999303517225799,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+54,1,3:21,2001,2001,Taylor Frederick Offensive Rebound.,20,7,13,0,0.8002429908509551,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+55,1,3:21,2001,2001,Foul on Madison Nelson.,20,7,13,0,0.8002429908509551,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+56,1,3:21,2001,2001,Taylor Frederick made Free Throw.,21,7,14,1,0.8167630119526915,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+57,1,3:20,2000,2000,Taylor Frederick missed Free Throw.,21,7,14,1,0.8168681113430122,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+58,1,3:19,1999,1999,Uju Ezeudu Defensive Rebound.,21,7,14,24,0.8169732197418472,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+59,1,2:55,1975,1975,Tsimba Malonga missed Jumper.,21,7,14,4,0.8194987129867038,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+60,1,2:51,1971,1971,Claire Gritt Offensive Rebound.,21,7,14,0,0.8199202066187793,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+61,1,2:51,1971,1971,Foul on Taylor Frederick.,21,7,14,0,0.8199202066187793,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+62,1,2:51,1971,1971,Claire Gritt made Free Throw.,21,8,13,0,0.8033768652329223,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,Denver
+63,1,2:51,1971,1971,Claire Gritt made Free Throw.,21,9,12,12,0.7857109417963185,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,Denver
+64,1,2:39,1959,1959,Ciara Duffy made Jumper. Assisted by Liv Korngable.,23,9,14,16,0.8211857656654011,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+65,1,2:23,1943,1943,Alexius Foster made Three Point Jumper.,23,12,11,14,0.7697360368934488,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,Denver
+66,1,2:09,1929,1929,Jeniah Ugofsky made Layup. Assisted by Hannah Sjerven.,25,12,13,22,0.8077898830939313,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+67,1,1:47,1907,1907,Claire Gritt missed Three Point Jumper.,25,12,13,3,0.8100937646904125,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+68,1,1:44,1904,1904,Ciara Duffy Defensive Rebound.,25,12,13,8,0.8104058910188247,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+69,1,1:36,1896,1896,Ciara Duffy missed Three Point Jumper.,25,12,13,5,0.8112361435615218,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+70,1,1:31,1891,1891,Madison Nelson Defensive Rebound.,25,12,13,4,0.8117536206196202,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+71,1,1:27,1887,1887,Claire Gritt missed Three Point Jumper.,25,12,13,4,0.8121668733235626,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+72,1,1:23,1883,1883,Hannah Sjerven Defensive Rebound.,25,12,13,12,0.8125795208611337,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+73,1,1:11,1871,1871,Liv Korngable missed Three Point Jumper.,25,12,13,3,0.8138142232833752,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+74,1,1:08,1868,1868,Jeniah Ugofsky Offensive Rebound.,25,12,13,4,0.8141222256436905,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+75,1,1:04,1864,1864,Ciara Duffy made Jumper. Assisted by Madison McKeever.,27,12,15,13,0.8464969780405572,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+76,1,0:51,1851,1851,Alexius Foster made Three Point Jumper. Assisted by Claire Gritt.,27,15,12,22,0.7980360844064802,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,Denver
+77,1,0:29,1829,1829,Hannah Sjerven missed Jumper.,27,15,12,2,0.8002625848846845,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+78,1,0:27,1827,1827,Jeniah Ugofsky Offensive Rebound.,27,15,12,1,0.800464948265822,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+79,1,0:26,1826,1826,Madison McKeever made Three Point Jumper. Assisted by Jeniah Ugofsky.,30,15,15,19,0.8503432277754199,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+80,1,0:07,1807,1807,Alexius Foster made Three Point Jumper. Assisted by Tsimba Malonga.,30,18,12,7,0.8024899472189855,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,Denver
+81,1,0:00,1800,1800,End of 1st Quarter,30,18,12,14,0.8031997778152151,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+82,2,9:46,1786,1786,Hannah Sjerven missed Jumper.,30,18,12,3,0.8046221881848679,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+83,2,9:43,1783,1783,Hannah Sjerven Offensive Rebound.,30,18,12,1,0.804927573621192,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+84,2,9:42,1782,1782,Hannah Sjerven made Jumper.,32,18,14,7,0.8394805934462815,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+85,2,9:35,1775,1775,Claire Gritt Turnover.,32,18,14,0,0.8401951640920506,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+86,2,9:35,1775,1775,Monica Arens Steal.,32,18,14,4,0.8401951640920506,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+87,2,9:31,1771,1771,Monica Arens made Jumper.,34,18,16,16,0.8699210296804244,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+88,2,9:15,1755,1755,Sam Deem Turnover.,34,18,16,0,0.8715007926488127,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+89,2,9:15,1755,1755,Hannah Sjerven Steal.,34,18,16,13,0.8715007926488127,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+90,2,9:02,1742,1742,Foul on Sam Deem.,34,18,16,0,0.8727869311647205,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+91,2,9:02,1742,1742,Hannah Sjerven made Free Throw.,35,18,17,0,0.8855623088261145,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+92,2,9:02,1742,1742,Hannah Sjerven made Free Throw.,36,18,18,14,0.8972058226908014,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+93,2,8:48,1728,1728,Briana Johnson made Jumper.,36,20,16,13,0.8741757281478704,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,Denver
+94,2,8:35,1715,1715,Monica Arens missed Jumper.,36,20,16,3,0.8754697179230065,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+95,2,8:32,1712,1712,Taylor Frederick Offensive Rebound.,36,20,16,5,0.875769023600793,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+96,2,8:27,1707,1707,Ciara Duffy missed Jumper.,36,20,16,2,0.8762684954165441,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+97,2,8:25,1705,1705,Ciara Duffy Offensive Rebound.,36,20,16,2,0.8764685127320797,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+98,2,8:23,1703,1703,Ciara Duffy missed Layup.,36,20,16,4,0.8766686649521245,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+99,2,8:19,1699,1699,Briana Johnson Defensive Rebound.,36,20,16,4,0.8770693853663908,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+100,2,8:15,1695,1695,Briana Johnson missed Jumper.,36,20,16,3,0.8774706789362648,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+101,2,8:12,1692,1692,Ciara Duffy Defensive Rebound.,36,20,16,2,0.8777720384268474,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+102,2,8:10,1690,1690,Taylor Frederick Turnover.,36,20,16,16,0.8779731352011608,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+103,2,7:54,1674,1674,Madison Nelson missed Three Point Jumper.,36,20,16,4,0.8795538986578695,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+104,2,7:50,1670,1670,Madison McKeever Defensive Rebound.,36,20,16,9,0.8799407341739705,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+105,2,7:41,1661,1661,Taylor Frederick missed Layup.,36,20,16,2,0.8808001240537887,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+106,2,7:39,1659,1659,Taylor Frederick Offensive Rebound.,36,20,16,0,0.8809891502322544,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+107,2,7:39,1659,1659,Taylor Frederick missed Jumper.,36,20,16,0,0.8809891502322544,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+108,2,7:39,1659,1659,Taylor Frederick Offensive Rebound.,36,20,16,0,0.8809891502322544,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+109,2,7:39,1659,1659,Foul on Jasmine Jeffcoat.,36,20,16,5,0.8809891502322544,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+110,2,7:34,1654,1654,Hannah Sjerven made Layup. Assisted by Ciara Duffy.,38,20,18,0,0.905261853341979,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+111,2,7:34,1654,1654,Foul on Lauren Loven.,38,20,18,0,0.905261853341979,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+112,2,7:34,1654,1654,Hannah Sjerven missed Free Throw.,38,20,18,1,0.905261853341979,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+113,2,7:33,1653,1653,Uju Ezeudu Defensive Rebound.,38,20,18,9,0.9053481380788596,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+114,2,7:24,1644,1644,Jasmine Jeffcoat made Three Point Jumper. Assisted by Alexius Foster.,38,23,15,15,0.8686728713534748,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,Denver
+115,2,7:09,1629,1629,Chloe Lamb made Three Point Jumper.,41,23,18,11,0.9073768259550746,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+116,2,6:58,1618,1618,Briana Johnson Turnover.,41,23,18,0,0.9082839098031772,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+117,2,6:58,1618,1618,Monica Arens Steal.,41,23,18,11,0.9082839098031772,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+118,2,6:47,1607,1607,Monica Arens missed Jumper.,41,23,18,2,0.9091800464315132,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+119,2,6:45,1605,1605,Hannah Sjerven Offensive Rebound.,41,23,18,1,0.9093419846812155,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+120,2,6:44,1604,1604,Hannah Sjerven made Jumper.,43,23,20,14,0.9284352497617279,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+121,2,6:30,1590,1590,Uju Ezeudu missed Jumper.,43,23,20,2,0.9294434111261809,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+122,2,6:28,1588,1588,Hannah Sjerven Defensive Rebound.,43,23,20,8,0.9295865688159716,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+123,2,6:20,1580,1580,Foul on Lauren Loven.,43,23,20,0,0.9301574994130741,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+124,2,6:20,1580,1580,Ciara Duffy missed Free Throw.,43,23,20,0,0.9301574994130741,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+125,2,6:20,1580,1580,South Dakota Offensive Rebound.,43,23,20,0,0.9301574994130741,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+126,2,6:20,1580,1580,Ciara Duffy made Free Throw.,44,23,21,9,0.9381133774734993,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+127,2,6:11,1571,1571,Madison Nelson missed Layup.,44,23,21,0,0.9387134871559611,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+128,2,6:11,1571,1571,Chloe Lamb Block.,44,23,21,1,0.9387134871559611,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+129,2,6:10,1570,1570,Madison Nelson Offensive Rebound.,44,23,21,0,0.9387800252208306,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+130,2,6:10,1570,1570,Foul on Taylor Frederick.,44,23,21,0,0.9387800252208306,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+131,2,6:10,1570,1570,Madison Nelson missed Free Throw.,44,23,21,0,0.9387800252208306,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+132,2,6:10,1570,1570,Denver Offensive Rebound.,44,23,21,0,0.9387800252208306,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+133,2,6:10,1570,1570,Madison Nelson missed Free Throw.,44,23,21,0,0.9387800252208306,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+134,2,6:10,1570,1570,Hannah Sjerven Defensive Rebound.,44,23,21,9,0.9387800252208306,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+135,2,6:01,1561,1561,Hannah Sjerven made Jumper. Assisted by Monica Arens.,46,23,23,8,0.9526447795178006,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+136,2,5:53,1553,1553,Foul on Meghan Boyd.,46,23,23,0,0.953104923097553,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+137,2,5:53,1553,1553,Meghan Boyd Turnover.,46,23,23,8,0.953104923097553,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+138,2,5:45,1545,1545,Hannah Sjerven made Layup. Assisted by Ciara Duffy.,48,23,25,10,0.9639083879804713,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+139,2,5:35,1535,1535,Meghan Boyd made Three Point Jumper. Assisted by Tsimba Malonga.,48,26,22,19,0.9480054456741206,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,Denver
+140,2,5:16,1516,1516,Ciara Duffy missed Jumper.,48,26,22,2,0.949184624966573,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+141,2,5:14,1514,1514,Briana Johnson Defensive Rebound.,48,26,22,4,0.9493092634271346,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+142,2,5:10,1510,1510,Meghan Boyd missed Three Point Jumper.,48,26,22,3,0.9495589246342203,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+143,2,5:07,1507,1507,Madison McKeever Defensive Rebound.,48,26,22,0,0.94974653408484,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+144,2,5:07,1507,1507,Foul on Tsimba Malonga.,48,26,22,1,0.94974653408484,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+145,2,5:06,1506,1506,Madison McKeever made Free Throw.,49,26,23,0,0.9558109887948255,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+146,2,5:06,1506,1506,Madison McKeever made Free Throw.,50,26,24,16,0.9611245054921098,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+147,2,4:50,1490,1490,Briana Johnson made Layup.,50,28,22,29,0.9508166710231523,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,Denver
+148,2,4:21,1461,1461,Chloe Lamb made Jumper.,52,28,24,32,0.9635694919288565,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+149,2,3:49,1429,1429,Briana Johnson made Jumper.,52,30,22,17,0.9547334414504726,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,Denver
+150,2,3:32,1412,1412,Official TV Timeout,52,30,22,1,0.9557514749891369,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+151,2,3:31,1411,1411,Liv Korngable missed Three Point Jumper.,52,30,22,6,0.9558098926867508,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+152,2,3:25,1405,1405,Alexius Foster Defensive Rebound.,52,30,22,11,0.9561573514283995,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+153,2,3:14,1394,1394,Alexius Foster made Jumper. Assisted by Meghan Boyd.,52,32,20,17,0.9435206891833839,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,Denver
+154,2,2:57,1377,1377,Monica Arens missed Jumper.,52,32,20,2,0.9446226368879801,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+155,2,2:55,1375,1375,Madison Nelson Defensive Rebound.,52,32,20,8,0.9447504642948016,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+156,2,2:47,1367,1367,Madison Nelson missed Jumper.,52,32,20,3,0.945258742382142,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+157,2,2:44,1364,1364,Hannah Sjerven Defensive Rebound.,52,32,20,7,0.9454482474719398,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+158,2,2:37,1357,1357,Hannah Sjerven made Jumper. Assisted by Ciara Duffy.,54,32,22,10,0.9587977146647287,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+159,2,2:27,1347,1347,Foul on Jasmine Jeffcoat.,54,32,22,0,0.9593283928371992,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+160,2,2:27,1347,1347,Jasmine Jeffcoat Turnover.,54,32,22,20,0.9593283928371992,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+161,2,2:07,1327,1327,Ciara Duffy Turnover.,54,32,22,0,0.9603831059284289,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+162,2,2:07,1327,1327,Madison Nelson Steal.,54,32,22,3,0.9603831059284289,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+163,2,2:04,1324,1324,Madison Nelson missed Jumper.,54,32,22,0,0.9605411377867693,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+164,2,2:04,1324,1324,Ciara Duffy Defensive Rebound.,54,32,22,0,0.9605411377867693,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+165,2,2:04,1324,1324,Ciara Duffy missed Layup.,54,32,22,2,0.9605411377867693,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+166,2,2:02,1322,1322,Claire Gritt Defensive Rebound.,54,32,22,2,0.960646528642588,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+167,2,2:00,1320,1320,Foul on Ciara Duffy.,54,32,22,21,0.960751961820464,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+168,2,1:39,1299,1299,Claire Gritt missed Jumper.,54,32,22,0,0.9618643159685766,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+169,2,1:39,1299,1299,Hannah Sjerven Block.,54,32,22,5,0.9618643159685766,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+170,2,1:34,1294,1294,Hannah Sjerven Defensive Rebound.,54,32,22,5,0.9621313816304752,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+171,2,1:29,1289,1289,Hannah Sjerven made Layup. Assisted by Chloe Lamb.,56,32,24,9,0.9717273586662977,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+172,2,1:20,1280,1280,Alexius Foster Turnover.,56,32,24,0,0.9721297972726353,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+173,2,1:20,1280,1280,Hannah Sjerven Steal.,56,32,24,8,0.9721297972726353,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+174,2,1:12,1272,1272,Hannah Sjerven missed Jumper.,56,32,24,3,0.9724905352185854,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+175,2,1:09,1269,1269,Claire Gritt Defensive Rebound.,56,32,24,7,0.9726266340206425,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+176,2,1:02,1262,1262,Uju Ezeudu missed Three Point Jumper.,56,32,24,4,0.9729461031860664,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+177,2,0:58,1258,1258,Hannah Sjerven Defensive Rebound.,56,32,24,5,0.9731299289783321,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+178,2,0:53,1253,1253,Ciara Duffy made Jumper. Assisted by Monica Arens.,58,32,26,13,0.9801255864389721,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+179,2,0:40,1240,1240,Madison Nelson missed Layup.,58,32,26,2,0.9806204809737211,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+180,2,0:38,1238,1238,Denver Offensive Rebound.,58,32,26,0,0.9806973716577259,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+181,2,0:38,1238,1238,Foul on Ciara Duffy.,58,32,26,6,0.9806973716577259,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+182,2,0:32,1232,1232,Meghan Boyd missed Jumper.,58,32,26,6,0.9809293126592419,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+183,2,0:26,1226,1226,Chloe Lamb Defensive Rebound.,58,32,26,18,0.9811632126372836,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+184,2,0:08,1208,1208,Foul on Meghan Boyd.,58,32,26,0,0.9818767782551329,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+185,2,0:08,1208,1208,Chloe Lamb made Free Throw.,59,32,27,1,0.9844162580761413,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,South Dakota
+186,2,0:07,1207,1207,Chloe Lamb missed Free Throw.,59,32,27,2,0.9844517460348069,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+187,2,0:05,1205,1205,Denver Defensive Rebound.,59,32,27,4,0.98452225373003,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+188,2,0:01,1201,1201,Briana Johnson missed Jumper.,59,32,27,1,0.9846614465452058,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+189,2,0:00,1200,1200,Sam Deem Offensive Rebound.,59,32,27,0,0.9846958753702184,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+190,2,0:00,1200,1200,End of 2nd Quarter,59,32,27,10,0.9846958753702184,South Dakota,Denver,4,4,0,0,NA,401179937,2020-01-05,
+191,3,9:50,1190,1190,Madison Nelson made Three Point Jumper. Assisted by Briana Johnson.,59,35,24,15,0.9763762327931605,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,Denver
+192,3,9:35,1175,1175,Chloe Lamb missed Three Point Jumper.,59,35,24,3,0.9770471724537736,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+193,3,9:32,1172,1172,Briana Johnson Defensive Rebound.,59,35,24,7,0.9771775120183652,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+194,3,9:25,1165,1165,Uju Ezeudu Turnover.,59,35,24,0,0.9774772087905347,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+195,3,9:25,1165,1165,Ciara Duffy missed Jumper.,59,35,24,0,0.9774772087905347,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+196,3,9:25,1165,1165,Uju Ezeudu Defensive Rebound.,59,35,24,0,0.9774772087905347,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+197,3,9:25,1165,1165,Uju Ezeudu missed Jumper.,59,35,24,0,0.9774772087905347,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+198,3,9:25,1165,1165,Hannah Sjerven Block.,59,35,24,5,0.9774772087905347,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+199,3,9:20,1160,1160,Denver Offensive Rebound.,59,35,24,25,0.9776877557018162,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+200,3,8:55,1135,1135,Briana Johnson missed Jumper.,59,35,24,2,0.9787043772568329,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+201,3,8:53,1133,1133,Hannah Sjerven Defensive Rebound.,59,35,24,7,0.9787835688547193,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+202,3,8:46,1126,1126,Madison McKeever made Jumper.,61,35,26,11,0.9847119592195136,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,South Dakota
+203,3,8:35,1115,1115,Meghan Boyd Turnover.,61,35,26,0,0.9850514780360924,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+204,3,8:35,1115,1115,Monica Arens Steal.,61,35,26,4,0.9850514780360924,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+205,3,8:31,1111,1111,Monica Arens made Jumper.,63,35,28,22,0.989219956495463,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,South Dakota
+206,3,8:09,1089,1089,Madison Nelson Turnover.,63,35,28,12,0.9897414797926205,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+207,3,7:57,1077,1077,Chloe Lamb made Jumper.,65,35,30,11,0.992795196035911,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,South Dakota
+208,3,7:46,1066,1066,Foul on Hannah Sjerven.,65,35,30,4,0.9929940559810231,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+209,3,7:42,1062,1062,Foul on Alexius Foster.,65,35,30,0,0.9930661975456698,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+210,3,7:42,1062,1062,Alexius Foster Turnover.,65,35,30,16,0.9930661975456698,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+211,3,7:26,1046,1046,Ciara Duffy missed Layup.,65,35,30,2,0.9933544335268533,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+212,3,7:24,1044,1044,Hannah Sjerven Offensive Rebound.,65,35,30,1,0.9933904667073878,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+213,3,7:23,1043,1043,Hannah Sjerven missed Jumper.,65,35,30,2,0.9934084862615769,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+214,3,7:21,1041,1041,Uju Ezeudu Defensive Rebound.,65,35,30,7,0.9934445325612838,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+215,3,7:14,1034,1034,Alexius Foster made Three Point Jumper. Assisted by Briana Johnson.,65,38,27,15,0.9894017228942199,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,Denver
+216,3,6:59,1019,1019,Madison McKeever missed Three Point Jumper.,65,38,27,4,0.9898035447602209,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+217,3,6:55,1015,1015,Briana Johnson Defensive Rebound.,65,38,27,15,0.9899113696729765,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+218,3,6:40,1000,1000,Foul on Uju Ezeudu.,65,38,27,0,0.9903185787130648,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+219,3,6:40,1000,1000,Uju Ezeudu Turnover.,65,38,27,15,0.9903185787130648,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+220,3,6:25,985,985,Chloe Lamb missed Three Point Jumper.,65,38,27,4,0.9907306390348379,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+221,3,6:21,981,981,Hannah Sjerven Offensive Rebound.,65,38,27,2,0.9908413680759377,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+222,3,6:19,979,979,Ciara Duffy made Layup. Assisted by Madison McKeever.,67,38,29,12,0.993551244878513,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,South Dakota
+223,3,6:07,967,967,Sam Deem missed Three Point Jumper.,67,38,29,3,0.9938053891158862,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+224,3,6:04,964,964,South Dakota Defensive Rebound.,67,38,29,16,0.9938666647397632,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+225,3,5:48,948,948,Ciara Duffy missed Jumper.,67,38,29,1,0.9941675629749018,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+226,3,5:47,947,947,Taylor Frederick Offensive Rebound.,67,38,29,2,0.9941850644153429,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+227,3,5:45,945,945,Taylor Frederick made Layup. Assisted by Ciara Duffy.,69,38,31,19,0.9959399590001353,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,South Dakota
+228,3,5:26,926,926,Madison Nelson missed Three Point Jumper.,69,38,31,5,0.9961682551489398,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+229,3,5:21,921,921,Ciara Duffy Defensive Rebound.,69,38,31,2,0.9962234573662282,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+230,3,5:19,919,919,Monica Arens made Jumper. Assisted by Ciara Duffy.,71,38,33,11,0.9973774428665138,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,South Dakota
+231,3,5:08,908,908,Foul on Monica Arens.,71,38,33,10,0.9974625343711155,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+232,3,4:58,898,898,Sam Deem missed Jumper.,71,38,33,3,0.9975357149447517,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+233,3,4:55,895,895,Madison Nelson Offensive Rebound.,71,38,33,1,0.9975570281766105,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+234,3,4:54,894,894,Madison Nelson missed Jumper.,71,38,33,2,0.9975640743811163,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+235,3,4:52,892,892,Tsimba Malonga Offensive Rebound.,71,38,33,3,0.9975780841230769,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+236,3,4:49,889,889,Tsimba Malonga made Jumper.,71,40,31,16,0.9965433957306226,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,Denver
+237,3,4:33,873,873,Ciara Duffy made Layup. Assisted by Madison McKeever.,73,40,33,13,0.997706740030176,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,South Dakota
+238,3,4:20,860,860,Madison Nelson missed Jumper.,73,40,33,0,0.9977916996952167,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+239,3,4:20,860,860,Monica Arens Block.,73,40,33,5,0.9977916996952167,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+240,3,4:15,855,855,Ciara Duffy Defensive Rebound.,73,40,33,4,0.997824041605685,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+241,3,4:11,851,851,Monica Arens missed Three Point Jumper.,73,40,33,3,0.9978498503113292,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+242,3,4:08,848,848,Taylor Frederick Offensive Rebound.,73,40,33,2,0.9978691893078159,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+243,3,4:06,846,846,Taylor Frederick missed Jumper.,73,40,33,3,0.9978820805262452,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+244,3,4:03,843,843,Sam Deem Defensive Rebound.,73,40,33,12,0.9979014240016714,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+245,3,3:51,831,831,Madison Nelson missed Three Point Jumper.,73,40,33,4,0.997979086052618,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+246,3,3:47,827,827,Taylor Frederick Defensive Rebound.,73,40,33,5,0.9980051517875775,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+247,3,3:42,822,822,Chloe Lamb missed Jumper.,73,40,33,3,0.9980379122616768,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+248,3,3:39,819,819,Madison Nelson Defensive Rebound.,73,40,33,10,0.9980576778775588,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+249,3,3:29,809,809,Tsimba Malonga missed Three Point Jumper.,73,40,33,3,0.9981242569911419,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+250,3,3:26,806,806,Ciara Duffy Defensive Rebound.,73,40,33,4,0.99814446228373,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+251,3,3:22,802,802,Ciara Duffy missed Jumper.,73,40,33,4,0.9981715841423553,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+252,3,3:18,798,798,Ciara Duffy Offensive Rebound.,73,40,33,1,0.9981989225691988,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+253,3,3:17,797,797,Ciara Duffy missed Jumper.,73,40,33,2,0.9982057920347795,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+254,3,3:15,795,795,Madison Nelson Defensive Rebound.,73,40,33,3,0.9982195736173709,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+255,3,3:12,792,792,Foul on Claire Gritt.,73,40,33,0,0.998240354122149,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+256,3,3:12,792,792,Claire Gritt Turnover.,73,40,33,0,0.998240354122149,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+257,3,3:12,792,792,Official TV Timeout,73,40,33,12,0.998240354122149,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+258,3,3:00,780,780,Foul on Lauren Loven.,73,40,33,0,0.9983248090438361,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+259,3,3:00,780,780,Ciara Duffy Turnover.,73,40,33,11,0.9983248090438361,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+260,3,2:49,769,769,Foul on Jasmine Jeffcoat.,73,40,33,0,0.9984041227706066,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+261,3,2:49,769,769,Jasmine Jeffcoat Turnover.,73,40,33,21,0.9984041227706066,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+262,3,2:28,748,748,Monica Arens made Three Point Jumper. Assisted by Claudia Kunzer.,76,40,36,8,0.9992051699094987,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,South Dakota
+263,3,2:20,740,740,Lauren Loven missed Three Point Jumper.,76,40,36,4,0.9992418028652353,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+264,3,2:16,736,736,Monica Arens Defensive Rebound.,76,40,36,12,0.9992602053043943,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+265,3,2:04,724,724,Taylor Frederick made Three Point Jumper. Assisted by Claudia Kunzer.,79,40,39,10,0.9996262846231322,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,South Dakota
+266,3,1:54,714,714,Meghan Boyd missed Three Point Jumper.,79,40,39,2,0.9996496860920354,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+267,3,1:52,712,712,Monica Arens Defensive Rebound.,79,40,39,10,0.9996540020987005,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+268,3,1:42,702,702,Monica Arens Turnover.,79,40,39,13,0.9996740478988286,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+269,3,1:29,689,689,Lauren Loven made Three Point Jumper. Assisted by Uju Ezeudu.,79,43,36,18,0.9994350422700031,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,Denver
+270,3,1:11,671,671,Taylor Frederick missed Jumper.,79,43,36,4,0.9994827178109423,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+271,3,1:07,667,667,Briana Johnson Defensive Rebound.,79,43,36,5,0.9994925589987099,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+272,3,1:02,662,662,Foul on Jeniah Ugofsky.,79,43,36,1,0.9995045799903924,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+273,3,1:01,661,661,Claire Gritt Turnover.,79,43,36,11,0.9995069513687996,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+274,3,0:50,650,650,Taylor Frederick missed Jumper.,79,43,36,3,0.9995324706534402,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+275,3,0:47,647,647,Taylor Frederick Offensive Rebound.,79,43,36,4,0.999539290398209,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+276,3,0:43,643,643,Taylor Frederick made Jumper.,81,43,38,6,0.9997055116369785,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,South Dakota
+277,3,0:37,637,637,Foul on Monica Arens.,81,43,38,15,0.9997147585685275,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+278,3,0:22,622,622,Lauren Loven made Jumper.,81,45,36,17,0.9995952070774963,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,Denver
+279,3,0:05,605,605,Liv Korngable made Three Point Jumper.,84,45,39,5,0.9998103875394652,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,South Dakota
+280,3,0:00,600,600,End of 3rd Quarter,84,45,39,12,0.999816777467843,South Dakota,Denver,5,5,0,0,NA,401179937,2020-01-05,
+281,4,9:48,588,588,Madison Nelson missed Jumper.,84,45,39,2,0.9998322366313909,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+282,4,9:46,586,586,Jeniah Ugofsky Defensive Rebound.,84,45,39,7,0.999834829047427,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+283,4,9:39,579,579,Taylor Frederick made Layup. Assisted by Monica Arens.,86,45,41,12,0.9999004295190713,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,South Dakota
+284,4,9:27,567,567,Briana Johnson Turnover.,86,45,41,27,0.9999109041249672,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+285,4,9:00,540,540,Taylor Frederick Turnover.,86,45,41,0,0.9999331271452537,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+286,4,9:00,540,540,Uju Ezeudu Steal.,86,45,41,13,0.9999331271452537,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+287,4,8:47,527,527,Alexius Foster made Three Point Jumper. Assisted by Uju Ezeudu.,86,48,38,15,0.9998794721365388,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,Denver
+288,4,8:32,512,512,Megan Bonar made Layup. Assisted by Liv Korngable.,88,48,40,21,0.9999338259889726,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,South Dakota
+289,4,8:11,491,491,Uju Ezeudu made Layup. Assisted by Briana Johnson.,88,50,38,17,0.9999087941994013,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,Denver
+290,4,7:54,474,474,Taylor Frederick made Jumper.,90,50,40,10,0.9999518596543108,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,South Dakota
+291,4,7:44,464,464,Alexius Foster missed Three Point Jumper.,90,50,40,3,0.9999564425163195,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+292,4,7:41,461,461,Madison Nelson Offensive Rebound.,90,50,40,0,0.9999578301107743,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+293,4,7:41,461,461,Foul on Megan Bonar.,90,50,40,0,0.9999578301107743,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+294,4,7:41,461,461,Madison Nelson missed Free Throw.,90,50,40,0,0.9999578301107743,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+295,4,7:41,461,461,Denver Offensive Rebound.,90,50,40,0,0.9999578301107743,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+296,4,7:41,461,461,Madison Nelson made Free Throw.,90,51,39,16,0.9999457535033546,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,Denver
+297,4,7:25,445,445,Megan Bonar made Three Point Jumper. Assisted by Liv Korngable.,93,51,42,6,0.9999792497828681,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,South Dakota
+298,4,7:19,439,439,Alexius Foster Turnover.,93,51,42,0,0.9999810235851434,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+299,4,7:19,439,439,Claudia Kunzer Steal.,93,51,42,7,0.9999810235851434,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+300,4,7:12,432,432,Foul on Alexius Foster.,93,51,42,0,0.9999830712363292,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+301,4,7:12,432,432,Liv Korngable made Free Throw.,94,51,43,0,0.9999869676435911,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,South Dakota
+302,4,7:12,432,432,Liv Korngable made Free Throw.,95,51,44,11,0.999989967243648,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,South Dakota
+303,4,7:01,421,421,Briana Johnson Turnover.,95,51,44,0,0.999991761161261,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+304,4,7:01,421,421,Macy Guebert Steal.,95,51,44,6,0.999991761161261,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+305,4,6:55,415,415,Macy Guebert missed Three Point Jumper.,95,51,44,4,0.9999925601413987,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+306,4,6:51,411,411,Lauren Loven Defensive Rebound.,95,51,44,7,0.9999930375230184,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+307,4,6:44,404,404,Lauren Loven made Jumper.,95,53,42,14,0.999989284381189,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,Denver
+308,4,6:30,390,390,Macy Guebert missed Jumper.,95,53,42,2,0.999991349320826,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+309,4,6:28,388,388,Macy Guebert Offensive Rebound.,95,53,42,3,0.9999916113550594,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+310,4,6:25,385,385,Liv Korngable missed Three Point Jumper.,95,53,42,3,0.999991991879152,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+311,4,6:22,382,382,Sam Deem Defensive Rebound.,95,53,42,10,0.9999923585289351,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+312,4,6:12,372,372,Briana Johnson missed Jumper.,95,53,42,3,0.9999934941476459,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+313,4,6:09,369,369,Sam Deem Offensive Rebound.,95,53,42,1,0.9999938121044047,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+314,4,6:08,368,368,Sam Deem Turnover.,95,53,42,0,0.9999939159876543,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+315,4,6:08,368,368,Claudia Kunzer Steal.,95,53,42,19,0.9999939159876543,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+316,4,5:49,349,349,Foul on Lauren Loven.,95,53,42,20,0.9999957106859534,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+317,4,5:29,329,329,Regan Sankey missed Jumper.,95,53,42,3,0.9999972571366528,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+318,4,5:26,326,326,Madison Nelson Defensive Rebound.,95,53,42,4,0.9999974581715307,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+319,4,5:22,322,322,Sam Deem made Jumper. Assisted by Claire Gritt.,95,55,40,31,0.9999957552803783,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,Denver
+320,4,4:51,291,291,Megan Bonar made Jumper.,97,55,42,6,0.9999988078190891,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,South Dakota
+321,4,4:45,285,285,Official TV Timeout,97,55,42,2,0.999998807530533,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+322,4,4:43,283,283,Claire Gritt missed Three Point Jumper.,97,55,42,5,0.9999987985139582,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+323,4,4:38,278,278,Macy Guebert Defensive Rebound.,97,55,42,11,0.9999987591848845,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+324,4,4:27,267,267,Alexi Hempe Turnover.,97,55,42,0,0.9999986041030056,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+325,4,4:27,267,267,Claire Gritt Steal.,97,55,42,8,0.9999986041030056,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+326,4,4:19,259,259,Sam Deem missed Three Point Jumper.,97,55,42,3,0.9999984530996313,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+327,4,4:16,256,256,Claire Gritt Offensive Rebound.,97,55,42,1,0.9999983938969345,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+328,4,4:15,255,255,Foul on Regan Sankey.,97,55,42,0,0.9999983743543918,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+329,4,4:15,255,255,Claire Gritt made Free Throw.,97,56,41,0,0.999997767156359,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,Denver
+330,4,4:15,255,255,Claire Gritt made Free Throw.,97,57,40,8,0.9999969331633112,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,Denver
+331,4,4:07,247,247,Regan Sankey missed Three Point Jumper.,97,57,40,4,0.9999966791538344,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+332,4,4:03,243,243,Claire Gritt Defensive Rebound.,97,57,40,7,0.9999965862741264,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+333,4,3:56,236,236,Claire Gritt Turnover.,97,57,40,0,0.9999965182014212,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+334,4,3:56,236,236,Macy Guebert Steal.,97,57,40,17,0.9999965182014212,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+335,4,3:39,219,219,Alexi Hempe made Three Point Jumper. Assisted by Claudia Kunzer.,100,57,43,22,0.9999988738212476,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,South Dakota
+336,4,3:17,197,197,Briana Johnson missed Jumper.,100,57,43,2,0.9999995858575514,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+337,4,3:15,195,195,Megan Bonar Defensive Rebound.,100,57,43,20,0.9999996422525551,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+338,4,2:55,175,175,Regan Sankey missed Jumper.,100,57,43,0,0.9999999392150991,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+339,4,2:55,175,175,Madison Nelson Block.,100,57,43,0,0.9999999392150991,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+340,4,2:55,175,175,South Dakota Offensive Rebound.,100,57,43,1,0.9999999392150991,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+341,4,2:54,174,174,South Dakota Offensive Rebound.,100,57,43,3,0.999999944595189,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+342,4,2:51,171,171,Alexi Hempe made Three Point Jumper. Assisted by Claudia Kunzer.,103,57,46,18,0.9999999872055636,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,South Dakota
+343,4,2:33,153,153,Tsimba Malonga made Jumper.,103,59,44,32,0.9999999954669772,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,Denver
+344,4,2:01,121,121,Megan Bonar missed Jumper.,103,59,44,0,0.999999999917916,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+345,4,2:01,121,121,Sam Deem Block.,103,59,44,0,0.999999999917916,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+346,4,2:01,121,121,Denver Defensive Rebound.,103,59,44,15,0.999999999917916,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+347,4,1:46,106,106,Alexius Foster missed Jumper.,103,59,44,0,0.9999999999924367,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+348,4,1:46,106,106,Claudia Kunzer Block.,103,59,44,6,0.9999999999924367,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+349,4,1:40,100,100,Megan Bonar Defensive Rebound.,103,59,44,5,0.9999999999974016,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+350,4,1:35,95,95,Alexi Hempe missed Jumper.,103,59,44,4,0.9999999999989907,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+351,4,1:31,91,91,Sophia Zulich Defensive Rebound.,103,59,44,1,0.9999999999995375,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+352,4,1:30,90,90,Sophia Zulich Turnover.,103,59,44,0,0.9999999999996199,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+353,4,1:30,90,90,Megan Bonar Steal.,103,59,44,14,0.9999999999996199,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+354,4,1:16,76,76,Regan Sankey missed Three Point Jumper.,103,59,44,5,0.999999999999978,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+355,4,1:11,71,71,Sam Deem Defensive Rebound.,103,59,44,5,0.9999999999999927,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+356,4,1:06,66,66,Sophia Zulich made Layup. Assisted by Sam Deem.,103,61,42,20,0.999999999999989,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,Denver
+357,4,0:46,46,46,Foul on Alexius Foster.,103,61,42,0,0.9999999999999999,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+358,4,0:46,46,46,Claudia Kunzer missed Free Throw.,103,61,42,0,0.9999999999999999,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+359,4,0:46,46,46,South Dakota Offensive Rebound.,103,61,42,0,0.9999999999999999,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+360,4,0:46,46,46,Claudia Kunzer made Free Throw.,104,61,43,8,1,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,South Dakota
+361,4,0:38,38,38,Foul on Alexi Hempe.,104,61,43,11,1,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+362,4,0:27,27,27,Foul on Alexi Hempe.,104,61,43,14,1,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+363,4,0:13,13,13,Sophia Zulich Turnover.,104,61,43,0,1,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+364,4,0:13,13,13,Regan Sankey Steal.,104,61,43,13,1,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,
+365,4,0:00,0,0,End of Game,104,61,43,0,1,South Dakota,Denver,6,6,0,0,NA,401179937,2020-01-05,

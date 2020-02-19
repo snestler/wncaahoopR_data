@@ -11,7 +11,7 @@ library(readr)
 #}
 
 ### Pull Games
-date <- as.Date("2019-11-05")
+date <- as.Date("2020-01-13")
 while(date <= Sys.Date()) {
   schedule <- w_get_master_schedule(date)
   if(!is.null(schedule)) {
@@ -35,7 +35,7 @@ while(date <= Sys.Date()) {
 }
 
 ### Update Master Schedule
-date <- as.Date("2019-11-05")
+date <- as.Date("2020-01-13")
 master_schedule <- NULL
 while(date <= Sys.Date()) {
   schedule <- try(read_csv(paste("2019-20/pbp_logs", date, "schedule.csv", sep = "/")) %>%

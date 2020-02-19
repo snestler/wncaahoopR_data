@@ -1,0 +1,287 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:36,2376,2376,Carla Balague missed Jumper.,0,0,0,17,0.5,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,NA
+2,1,9:19,2359,2359,Jada Holland Offensive Rebound.,0,0,0,11,0.5,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+3,1,9:08,2348,2348,Da'jah Daniel missed Jumper.,0,0,0,5,0.5,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+4,1,9:03,2343,2343,Bethany Carstens Defensive Rebound.,0,0,0,20,0.5,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+5,1,8:43,2323,2323,Tyeshia Bowers missed Jumper.,0,0,0,4,0.5,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+6,1,8:39,2319,2319,Laura Piera Defensive Rebound.,0,0,0,2,0.5,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+7,1,8:37,2317,2317,Laura Piera Turnover.,0,0,0,24,0.5,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+8,1,8:13,2293,2293,Tyeshia Bowers made Layup.,2,0,2,0,0.5463431431926905,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Chicago State
+9,1,8:13,2293,2293,Foul on Jada Holland.,2,0,2,0,0.5463431431926905,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+10,1,8:13,2293,2293,Tyeshia Bowers made Free Throw.,3,0,3,16,0.569266527603221,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Chicago State
+11,1,7:57,2277,2277,Tavia Rowell missed Three Point Jumper.,3,0,3,5,0.5697973393120882,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+12,1,7:52,2272,2272,Da'jah Daniel Offensive Rebound.,3,0,3,1,0.5699639178953667,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+13,1,7:51,2271,2271,Da'jah Daniel made Layup.,3,2,1,10,0.5234694092905685,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Grand Canyon
+14,1,7:41,2261,2261,Tyeshia Bowers Turnover.,3,2,1,20,0.523582801702291,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+15,1,7:21,2241,2241,Carla Balague made Layup. Assisted by Tavia Rowell.,3,4,-1,14,0.4761891818642601,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Grand Canyon
+16,1,7:07,2227,2227,Aja Phoumiphat Turnover.,3,4,-1,0,0.47602868522233716,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+17,1,7:07,2227,2227,Carla Balague Steal.,3,4,-1,5,0.47602868522233716,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+18,1,7:02,2222,2222,Foul on Bethany Carstens.,3,4,-1,0,0.47597120459978587,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+19,1,7:02,2222,2222,Tavia Rowell missed Free Throw.,3,4,-1,0,0.47597120459978587,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+20,1,7:02,2222,2222,Tavia Rowell made Free Throw.,3,5,-2,0,0.4520531439994127,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Grand Canyon
+21,1,7:02,2222,2222,Grand Canyon Offensive Rebound.,3,5,-2,15,0.4520531439994127,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+22,1,6:47,2207,2207,Tyeshia Bowers missed Jumper.,3,5,-2,7,0.451709740701574,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+23,1,6:40,2200,2200,Carla Balague Defensive Rebound.,3,5,-2,4,0.4515490631345577,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+24,1,6:36,2196,2196,Laura Piera Turnover.,3,5,-2,0,0.4514571366167739,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+25,1,6:36,2196,2196,Tyeshia Bowers Steal.,3,5,-2,24,0.4514571366167739,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+26,1,6:12,2172,2172,Ines Mata Boix Turnover.,3,5,-2,0,0.4509040914302073,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+27,1,6:12,2172,2172,Laura Piera Steal.,3,5,-2,8,0.4509040914302073,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+28,1,6:04,2164,2164,Laura Piera missed Three Point Jumper.,3,5,-2,0,0.4507191859137874,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+29,1,6:04,2164,2164,Chicago State Defensive Rebound.,3,5,-2,11,0.4507191859137874,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+30,1,5:53,2153,2153,Aja Phoumiphat Turnover.,3,5,-2,0,0.4504641729595203,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+31,1,5:53,2153,2153,Tavia Rowell Steal.,3,5,-2,9,0.4504641729595203,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+32,1,5:44,2144,2144,Laura Piera made Jumper. Assisted by Jada Holland.,3,7,-4,17,0.4014847910323968,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Grand Canyon
+33,1,5:27,2127,2127,Tyeshia Bowers Turnover.,3,7,-4,0,0.40071370801084083,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+34,1,5:27,2127,2127,Laura Piera Steal.,3,7,-4,6,0.40071370801084083,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+35,1,5:21,2121,2121,Foul on Alexandria Cliff.,3,7,-4,0,0.4004405061444931,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+36,1,5:21,2121,2121,Da'jah Daniel missed Free Throw.,3,7,-4,0,0.4004405061444931,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+37,1,5:21,2121,2121,Grand Canyon Offensive Rebound.,3,7,-4,0,0.4004405061444931,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+38,1,5:21,2121,2121,Da'jah Daniel made Free Throw.,3,8,-5,18,0.3764749328380919,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Grand Canyon
+39,1,5:03,2103,2103,Tyeshia Bowers made Three Point Jumper. Assisted by Aja Phoumiphat.,6,8,-2,23,0.4492924880609492,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Chicago State
+40,1,4:40,2080,2080,Jada Holland missed Jumper.,6,8,-2,5,0.44874582321189277,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+41,1,4:35,2075,2075,Ines Mata Boix Defensive Rebound.,6,8,-2,8,0.4486262807812338,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+42,1,4:27,2067,2067,Ines Mata Boix made Three Point Jumper. Assisted by Aja Phoumiphat.,9,8,1,17,0.5258516883387218,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Chicago State
+43,1,4:10,2050,2050,Mariah Mitchell missed Jumper.,9,8,1,4,0.5260582938856053,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+44,1,4:06,2046,2046,Chicago State Defensive Rebound.,9,8,1,1,0.5261071456788048,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+45,1,4:05,2045,2045,Official TV Timeout,9,8,1,17,0.526119373149165,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+46,1,3:48,2028,2028,Alexandria Cliff made Jumper. Assisted by Nadia Miller.,11,8,3,16,0.5784052642774453,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Chicago State
+47,1,3:32,2012,2012,Jada Holland made Jumper.,11,10,1,21,0.5265262594599909,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Grand Canyon
+48,1,3:11,1991,1991,Ines Mata Boix made Jumper. Assisted by Tyeshia Bowers.,13,10,3,17,0.5797564034649262,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Chicago State
+49,1,2:54,1974,1974,Mariah Mitchell missed Jumper.,13,10,3,4,0.5803857876251461,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+50,1,2:50,1970,1970,Chicago State Defensive Rebound.,13,10,3,15,0.580534703277135,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+51,1,2:35,1955,1955,Alexandria Cliff Turnover.,13,10,3,12,0.5810960193102671,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+52,1,2:23,1943,1943,Foul on Alexandria Cliff.,13,10,3,8,0.5815484293667335,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+53,1,2:15,1935,1935,Mae Bryant missed Layup.,13,10,3,4,0.5818517387594804,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+54,1,2:11,1931,1931,Ines Mata Boix Defensive Rebound.,13,10,3,27,0.5820039134638143,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+55,1,1:44,1904,1904,Tyeshia Bowers missed Jumper.,13,10,3,0,0.583030604955373,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+56,1,1:44,1904,1904,Da'jah Daniel Block.,13,10,3,3,0.583030604955373,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+57,1,1:41,1901,1901,Grand Canyon Defensive Rebound.,13,10,3,18,0.5831444794407763,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+58,1,1:23,1883,1883,Jada Holland made Three Point Jumper. Assisted by Mariah Mitchell.,13,13,0,22,0.5,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Grand Canyon
+59,1,1:01,1861,1861,Bethany Carstens made Jumper.,15,13,2,23,0.5567456771006288,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Chicago State
+60,1,0:38,1838,1838,Foul on Mae Bryant.,15,13,2,0,0.5573403373214619,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+61,1,0:38,1838,1838,Mae Bryant Turnover.,15,13,2,12,0.5573403373214619,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+62,1,0:26,1826,1826,Tyeshia Bowers made Jumper. Assisted by Bethany Carstens.,17,13,4,19,0.6137917147761378,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Chicago State
+63,1,0:07,1807,1807,Laura Piera made Layup.,17,15,2,7,0.5581494299785912,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Grand Canyon
+64,1,0:00,1800,1800,End of 1st Quarter,17,15,2,15,0.558333749411633,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+65,2,9:45,1785,1785,Foul on Ines Mata Boix.,17,15,2,10,0.5587311769655111,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+66,2,9:35,1775,1775,Kennedi Shorts missed Layup.,17,15,2,5,0.5589981942113165,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+67,2,9:30,1770,1770,Ines Mata Boix Defensive Rebound.,17,15,2,5,0.5591323798199226,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+68,2,9:25,1765,1765,Tyeshia Bowers Turnover.,17,15,2,15,0.5592670422161009,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+69,2,9:10,1750,1750,Da'jah Daniel made Jumper. Assisted by Jada Holland.,17,17,0,15,0.5,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Grand Canyon
+70,2,8:55,1735,1735,Ines Mata Boix missed Three Point Jumper.,17,17,0,5,0.5,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+71,2,8:50,1730,1730,Jada Holland Defensive Rebound.,17,17,0,4,0.5,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+72,2,8:46,1726,1726,Jada Holland made Jumper.,17,19,-2,17,0.43966408856562605,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Grand Canyon
+73,2,8:29,1709,1709,Foul on Kennedi Shorts.,17,19,-2,10,0.4391864305456816,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+74,2,8:19,1699,1699,Ines Mata Boix missed Jumper.,17,19,-2,5,0.43890167307783334,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+75,2,8:14,1694,1694,Venla Varis Defensive Rebound.,17,19,-2,9,0.4387581828958911,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+76,2,8:05,1685,1685,Venla Varis missed Three Point Jumper.,17,19,-2,5,0.4384989343712446,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+77,2,8:00,1680,1680,Tyeshia Bowers Defensive Rebound.,17,19,-2,15,0.43835615087908525,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+78,2,7:45,1665,1665,Ines Mata Boix made Jumper. Assisted by Aja Phoumiphat.,19,19,0,0,0.5,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Chicago State
+79,2,7:45,1665,1665,Foul on Kennedi Shorts.,19,19,0,0,0.5,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+80,2,7:45,1665,1665,Ines Mata Boix made Free Throw.,20,19,1,14,0.5311535498262757,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Chicago State
+81,2,7:31,1651,1651,Foul on Laura Piera.,20,19,1,0,0.5313494347996184,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+82,2,7:31,1651,1651,Laura Piera Turnover.,20,19,1,10,0.5313494347996184,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+83,2,7:21,1641,1641,Bethany Carstens missed Layup.,20,19,1,4,0.5314877246580954,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+84,2,7:17,1637,1637,Da'jah Daniel Defensive Rebound.,20,19,1,27,0.5315427325360006,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+85,2,6:50,1610,1610,Foul on Bethany Carstens.,20,19,1,0,0.5319110022580932,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+86,2,6:50,1610,1610,Da'jah Daniel made Free Throw.,20,20,0,0,0.5,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Grand Canyon
+87,2,6:50,1610,1610,Da'jah Daniel made Free Throw.,20,21,-1,12,0.4680889977419069,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Grand Canyon
+88,2,6:38,1598,1598,Tyeshia Bowers made Layup.,22,21,1,23,0.5320739026692098,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Chicago State
+89,2,6:15,1575,1575,Da'jah Daniel made Jumper. Assisted by Laura Piera.,22,23,-1,17,0.46761292071757216,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Grand Canyon
+90,2,5:58,1558,1558,Tyeshia Bowers Turnover.,22,23,-1,12,0.4673790215152715,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+91,2,5:46,1546,1546,Venla Varis missed Three Point Jumper.,22,23,-1,3,0.4672118496327048,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+92,2,5:43,1543,1543,Chicago State Defensive Rebound.,22,23,-1,31,0.4671697235858243,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+93,2,5:12,1512,1512,Alexandria Cliff made Jumper. Assisted by Tyeshia Bowers.,24,23,1,19,0.53327559679856,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Chicago State
+94,2,4:53,1493,1493,Foul on Aja Phoumiphat.,24,23,1,0,0.5335598656971734,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+95,2,4:53,1493,1493,Official TV Timeout,24,23,1,0,0.5335598656971734,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+96,2,4:53,1493,1493,Jada Holland made Free Throw.,24,24,0,0,0.5,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Grand Canyon
+97,2,4:53,1493,1493,Jada Holland made Free Throw.,24,25,-1,26,0.4664401343028266,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Grand Canyon
+98,2,4:27,1467,1467,Alexandria Cliff made Layup. Assisted by Tyeshia Bowers.,26,25,1,21,0.5339668822531911,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Chicago State
+99,2,4:06,1446,1446,Da'jah Daniel Turnover.,26,25,1,0,0.5343131521551399,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+100,2,4:06,1446,1446,Alexandria Cliff Steal.,26,25,1,12,0.5343131521551399,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+101,2,3:54,1434,1434,Tyeshia Bowers missed Jumper.,26,25,1,4,0.5345101416849266,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+102,2,3:50,1430,1430,Da'jah Daniel Defensive Rebound.,26,25,1,14,0.5345747553118978,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+103,2,3:36,1416,1416,Da'jah Daniel made Layup. Assisted by Jada Holland.,26,27,-1,16,0.46520261222669784,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Grand Canyon
+104,2,3:20,1400,1400,Nadia Miller Turnover.,26,27,-1,0,0.4649535383590408,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+105,2,3:20,1400,1400,Mae Bryant Steal.,26,27,-1,7,0.4649535383590408,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+106,2,3:13,1393,1393,Mae Bryant missed Jumper.,26,27,-1,14,0.46484588118732534,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+107,2,2:59,1379,1379,Alexandria Cliff Defensive Rebound.,26,27,-1,6,0.46463207607255963,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+108,2,2:53,1373,1373,Alexandria Cliff missed Jumper.,26,27,-1,6,0.4645407969469271,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+109,2,2:47,1367,1367,Da'jah Daniel Defensive Rebound.,26,27,-1,18,0.46444957607639553,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+110,2,2:29,1349,1349,Venla Varis made Three Point Jumper. Assisted by Jada Holland.,26,30,-4,26,0.36027273273229315,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Grand Canyon
+111,2,2:03,1323,1323,Tyeshia Bowers missed Jumper.,26,30,-4,0,0.35878077415143356,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+112,2,2:03,1323,1323,Jada Holland Block.,26,30,-4,10,0.35878077415143356,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+113,2,1:53,1313,1313,Jada Holland Defensive Rebound.,26,30,-4,2,0.3581941531952391,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+114,2,1:51,1311,1311,Venla Varis made Three Point Jumper. Assisted by Jada Holland.,26,33,-7,17,0.26473134835195455,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Grand Canyon
+115,2,1:34,1294,1294,Aja Phoumiphat Turnover.,26,33,-7,12,0.2632145666944321,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+116,2,1:22,1282,1282,Venla Varis missed Three Point Jumper.,26,33,-7,5,0.2621128862048773,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+117,2,1:17,1277,1277,Da'jah Daniel Offensive Rebound.,26,33,-7,5,0.26164506183495106,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+118,2,1:12,1272,1272,Jada Holland missed Jumper.,26,33,-7,6,0.2611716084599081,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+119,2,1:06,1266,1266,Nadia Miller Defensive Rebound.,26,33,-7,7,0.26059559815190114,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+120,2,0:59,1259,1259,Laura Piera made Layup.,26,35,-9,23,0.2066227152060714,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Grand Canyon
+121,2,0:36,1236,1236,Aja Phoumiphat made Jumper. Assisted by Tyeshia Bowers.,28,35,-7,36,0.25756881385051444,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,Chicago State
+122,2,0:00,1200,1200,Grand Canyon  Turnover.,28,35,-7,0,0.2535798049742589,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+123,2,0:00,1200,1200,End of 2nd Quarter,28,35,-7,11,0.2535798049742589,Chicago State,Grand Canyon,4,4,0,0,NA,401173919,2020-02-15,
+124,3,9:49,1189,1189,Alexandria Cliff missed Three Point Jumper.,28,35,-7,4,0.2523637821895628,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+125,3,9:45,1185,1185,Ines Mata Boix Offensive Rebound.,28,35,-7,4,0.25192826084099396,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+126,3,9:41,1181,1181,Bethany Carstens missed Layup.,28,35,-7,0,0.25149591528510806,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+127,3,9:41,1181,1181,Da'jah Daniel Block.,28,35,-7,9,0.25149591528510806,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+128,3,9:32,1172,1172,Jada Holland Defensive Rebound.,28,35,-7,16,0.2505335132368553,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+129,3,9:16,1156,1156,Laura Piera missed Jumper.,28,35,-7,6,0.24885090587477907,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+130,3,9:10,1150,1150,Alexandria Cliff Defensive Rebound.,28,35,-7,21,0.248226781958067,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+131,3,8:49,1129,1129,Tyeshia Bowers missed Layup.,28,35,-7,4,0.246057136136865,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+132,3,8:45,1125,1125,Mae Bryant Defensive Rebound.,28,35,-7,10,0.24564463955683374,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+133,3,8:35,1115,1115,Da'jah Daniel Turnover.,28,35,-7,5,0.24461160207405222,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+134,3,8:30,1110,1110,Venla Varis missed Three Point Jumper.,28,35,-7,6,0.24409329522191558,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+135,3,8:24,1104,1104,Aja Phoumiphat missed Jumper.,28,35,-7,2,0.24346895602856636,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+136,3,8:22,1102,1102,Grand Canyon Offensive Rebound.,28,35,-7,1,0.2432601493373315,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+137,3,8:21,1101,1101,Ines Mata Boix Offensive Rebound.,28,35,-7,2,0.24315560057572008,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+138,3,8:19,1099,1099,Bethany Carstens missed Jumper.,28,35,-7,3,0.24294619521107105,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+139,3,8:16,1096,1096,Da'jah Daniel Defensive Rebound.,28,35,-7,13,0.2426312666605898,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+140,3,8:03,1083,1083,Jada Holland missed Jumper.,28,35,-7,9,0.24125309406264156,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+141,3,7:54,1074,1074,Chicago State Defensive Rebound.,28,35,-7,23,0.2402833827846613,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+142,3,7:31,1051,1051,Bethany Carstens made Jumper.,30,35,-5,18,0.3031665042949388,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,Chicago State
+143,3,7:13,1033,1033,Venla Varis missed Three Point Jumper.,30,35,-5,5,0.3014195022965981,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+144,3,7:08,1028,1028,Bethany Carstens Defensive Rebound.,30,35,-5,10,0.30091852402958763,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+145,3,6:58,1018,1018,Aja Phoumiphat missed Layup.,30,35,-5,5,0.2998938637900976,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+146,3,6:53,1013,1013,Venla Varis Defensive Rebound.,30,35,-5,2,0.29936951422395564,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+147,3,6:51,1011,1011,Mae Bryant missed Jumper.,30,35,-5,3,0.29915742550330054,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+148,3,6:48,1008,1008,Ines Mata Boix Defensive Rebound.,30,35,-5,18,0.29883670979892346,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+149,3,6:30,990,990,Chicago State Defensive Rebound.,30,35,-5,8,0.2968435445052121,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+150,3,6:22,982,982,Ines Mata Boix missed Jumper.,30,35,-5,5,0.29591719427914515,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+151,3,6:17,977,977,Ines Mata Boix Offensive Rebound.,30,35,-5,11,0.29532471083348527,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+152,3,6:06,966,966,Da'jah Daniel missed Jumper.,30,35,-5,5,0.29399249815341283,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+153,3,6:01,961,961,Ines Mata Boix Defensive Rebound.,30,35,-5,12,0.2934030738232167,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+154,3,5:49,949,949,Foul on Mariah Mitchell.,30,35,-5,9,0.29205599971405155,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+155,3,5:40,940,940,Alexandria Cliff missed Jumper.,30,35,-5,4,0.29110113987611685,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+156,3,5:36,936,936,Mae Bryant Defensive Rebound.,30,35,-5,19,0.2906901404976607,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+157,3,5:17,917,917,Foul on Da'jah Daniel.,30,35,-5,0,0.2888304329612005,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+158,3,5:17,917,917,Da'jah Daniel Turnover.,30,35,-5,15,0.2888304329612005,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+159,3,5:02,902,902,Foul on Da'jah Daniel.,30,35,-5,0,0.2874429076164326,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+160,3,5:02,902,902,Bethany Carstens made Free Throw.,31,35,-4,0,0.3260140856347752,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,Chicago State
+161,3,5:02,902,902,Bethany Carstens made Free Throw.,32,35,-3,27,0.36709458030349174,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,Chicago State
+162,3,4:35,875,875,Da'jah Daniel Turnover.,32,35,-3,0,0.3654486781233497,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+163,3,4:35,875,875,Official TV Timeout,32,35,-3,15,0.3654486781233497,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+164,3,4:20,860,860,Ines Mata Boix made Layup. Assisted by Aja Phoumiphat.,34,35,-1,18,0.4538189550289293,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,Chicago State
+165,3,4:02,842,842,Mae Bryant missed Jumper.,34,35,-1,3,0.4534121876019201,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+166,3,3:59,839,839,Bethany Carstens Defensive Rebound.,34,35,-1,13,0.4533421870319224,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+167,3,3:46,826,826,Tyeshia Bowers Turnover.,34,35,-1,0,0.45302922365409815,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+168,3,3:46,826,826,Mariah Mitchell Steal.,34,35,-1,10,0.45302922365409815,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+169,3,3:36,816,816,Jada Holland made Jumper. Assisted by Laura Piera.,34,37,-3,18,0.36160982412589665,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,Grand Canyon
+170,3,3:18,798,798,Ines Mata Boix missed Jumper.,34,37,-3,4,0.3602396105351034,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+171,3,3:14,794,794,Mae Bryant Defensive Rebound.,34,37,-3,18,0.3599159779494356,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+172,3,2:56,776,776,Mariah Mitchell missed Jumper.,34,37,-3,6,0.3583592209228534,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+173,3,2:50,770,770,Laura Piera Offensive Rebound.,34,37,-3,2,0.35780018079235115,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+174,3,2:48,768,768,Jada Holland missed Jumper.,34,37,-3,7,0.3576090058539153,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+175,3,2:41,761,761,Mae Bryant Offensive Rebound.,34,37,-3,1,0.3569200464993685,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+176,3,2:40,760,760,Mariah Mitchell missed Jumper.,34,37,-3,9,0.3568190329421036,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+177,3,2:31,751,751,Alexandria Cliff Defensive Rebound.,34,37,-3,5,0.35587942132572703,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+178,3,2:26,746,746,Foul on Jada Holland.,34,37,-3,0,0.3553327837213252,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+179,3,2:26,746,746,Tyeshia Bowers made Free Throw.,35,37,-2,0,0.4020045719247811,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,Chicago State
+180,3,2:26,746,746,Tyeshia Bowers made Free Throw.,36,37,-1,10,0.45052249575519476,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,Chicago State
+181,3,2:16,736,736,Da'jah Daniel made Layup. Assisted by Mae Bryant.,36,39,-3,0,0.35418360345302374,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,Grand Canyon
+182,3,2:16,736,736,Foul on Alexandria Cliff.,36,39,-3,0,0.35418360345302374,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+183,3,2:16,736,736,Da'jah Daniel made Free Throw.,36,40,-4,7,0.3098259579722768,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,Grand Canyon
+184,3,2:09,729,729,Foul on Ines Mata Boix.,36,40,-4,0,0.3087667458243538,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+185,3,2:09,729,729,Ines Mata Boix Turnover.,36,40,-4,25,0.3087667458243538,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+186,3,1:44,704,704,Laura Piera made Three Point Jumper. Assisted by Jada Holland.,36,43,-7,24,0.19171437534480879,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,Grand Canyon
+187,3,1:20,680,680,Aja Phoumiphat made Jumper.,38,43,-5,21,0.26021867601613113,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,Chicago State
+188,3,0:59,659,659,Mae Bryant missed Jumper.,38,43,-5,3,0.25752131536041756,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+189,3,0:56,656,656,Chicago State Defensive Rebound.,38,43,-5,17,0.2571377316328666,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+190,3,0:39,639,639,Bethany Carstens made Jumper.,40,43,-3,25,0.34445279357545483,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,Chicago State
+191,3,0:14,614,614,Venla Varis made Three Point Jumper. Assisted by Jada Holland.,40,46,-6,14,0.2125697591929443,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,Grand Canyon
+192,3,0:00,600,600,Bethany Carstens missed Jumper.,40,46,-6,0,0.2101886602059725,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+193,3,0:00,600,600,Grand Canyon Defensive Rebound.,40,46,-6,0,0.2101886602059725,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+194,3,0:00,600,600,End of 3rd Quarter,40,46,-6,11,0.2101886602059725,Chicago State,Grand Canyon,5,5,0,0,NA,401173919,2020-02-15,
+195,4,9:49,589,589,Bethany Carstens Turnover.,40,46,-6,0,0.20814074440460387,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+196,4,9:49,589,589,Jada Holland Steal.,40,46,-6,6,0.20814074440460387,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+197,4,9:43,583,583,Jada Holland made Jumper.,40,48,-8,22,0.14292220492152927,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Grand Canyon
+198,4,9:21,561,561,Tyeshia Bowers missed Jumper.,40,48,-8,3,0.13807082497758064,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+199,4,9:18,558,558,Da'jah Daniel Defensive Rebound.,40,48,-8,17,0.1373438410404653,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+200,4,9:01,541,541,Foul on Laura Piera.,40,48,-8,0,0.13311953559654008,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+201,4,9:01,541,541,Laura Piera Turnover.,40,48,-8,9,0.13311953559654008,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+202,4,8:52,532,532,Foul on Jada Holland.,40,48,-8,0,0.13115469605566152,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+203,4,8:52,532,532,Tyeshia Bowers made Free Throw.,41,48,-7,0,0.16050989024256018,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Chicago State
+204,4,8:52,532,532,Tyeshia Bowers made Free Throw.,42,48,-6,17,0.1949610783617485,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Chicago State
+205,4,8:35,515,515,Da'jah Daniel made Layup. Assisted by Mae Bryant.,42,50,-8,16,0.12788515970402675,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Grand Canyon
+206,4,8:19,499,499,Aja Phoumiphat missed Jumper.,42,50,-8,2,0.12505793683096483,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+207,4,8:17,497,497,Grand Canyon Defensive Rebound.,42,50,-8,15,0.12470664154798987,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+208,4,8:02,482,482,Jada Holland made Three Point Jumper. Assisted by Mae Bryant.,42,53,-11,19,0.06216248168617116,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Grand Canyon
+209,4,7:43,463,463,Tyeshia Bowers missed Jumper.,42,53,-11,0,0.05928341285359973,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+210,4,7:43,463,463,Jada Holland Block.,42,53,-11,12,0.05928341285359973,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+211,4,7:31,451,451,Tyeshia Bowers Offensive Rebound.,42,53,-11,3,0.057186072509717106,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+212,4,7:28,448,448,Alexandria Cliff made Jumper.,44,53,-9,17,0.09098767079687012,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Chicago State
+213,4,7:11,431,431,Venla Varis missed Jumper.,44,53,-9,3,0.08643662524797652,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+214,4,7:08,428,428,Ines Mata Boix Defensive Rebound.,44,53,-9,17,0.08555342259819643,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+215,4,6:51,411,411,Tyeshia Bowers missed Jumper.,44,53,-9,4,0.08099003911738302,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+216,4,6:47,407,407,Chicago State Offensive Rebound.,44,53,-9,5,0.08000147020853032,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+217,4,6:42,402,402,Alexandria Cliff Turnover.,44,53,-9,0,0.07879612583614111,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+218,4,6:42,402,402,Da'jah Daniel Steal.,44,53,-9,9,0.07879612583614111,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+219,4,6:33,393,393,Jada Holland made Jumper.,44,55,-11,12,0.045598111641416736,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Grand Canyon
+220,4,6:21,381,381,Foul on Da'jah Daniel.,44,55,-11,2,0.043527399270310664,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+221,4,6:19,379,379,Foul on Ines Mata Boix.,44,55,-11,25,0.04318323436506136,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+222,4,5:54,354,354,Jada Holland made Jumper.,44,57,-13,0,0.021983520275891504,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Grand Canyon
+223,4,5:54,354,354,Foul on Tyeshia Bowers.,44,57,-13,0,0.021983520275891504,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+224,4,5:54,354,354,Jada Holland missed Free Throw.,44,57,-13,0,0.021983520275891504,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+225,4,5:54,354,354,Ines Mata Boix Defensive Rebound.,44,57,-13,13,0.021983520275891504,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+226,4,5:41,341,341,Bethany Carstens Turnover.,44,57,-13,0,0.020286633248167013,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+227,4,5:41,341,341,Mae Bryant Steal.,44,57,-13,6,0.020286633248167013,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+228,4,5:35,335,335,Jada Holland made Jumper. Assisted by Mae Bryant.,44,59,-15,15,0.010749362200032529,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Grand Canyon
+229,4,5:20,320,320,Ines Mata Boix made Jumper. Assisted by Tyeshia Bowers.,46,59,-13,18,0.01734192193765564,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Chicago State
+230,4,5:02,302,302,Venla Varis missed Three Point Jumper.,46,59,-13,4,0.014950747019164063,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+231,4,4:58,298,298,Da'jah Daniel Offensive Rebound.,46,59,-13,2,0.014685898185163014,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+232,4,4:56,296,296,Da'jah Daniel missed Layup.,46,59,-13,1,0.01459274218595519,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+233,4,4:55,295,295,Grand Canyon Offensive Rebound.,46,59,-13,11,0.014555151468265234,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+234,4,4:44,284,284,Foul on Bethany Carstens.,46,59,-13,0,0.014475603165906957,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+235,4,4:44,284,284,Mae Bryant missed Free Throw.,46,59,-13,0,0.014475603165906957,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+236,4,4:44,284,284,Grand Canyon Offensive Rebound.,46,59,-13,0,0.014475603165906957,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+237,4,4:44,284,284,Mae Bryant made Free Throw.,46,60,-14,16,0.010504628397820003,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Grand Canyon
+238,4,4:28,268,268,Foul on Mae Bryant.,46,60,-14,0,0.011007319542768332,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+239,4,4:28,268,268,Tyeshia Bowers made Free Throw.,47,60,-13,0,0.015115082416320634,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Chicago State
+240,4,4:28,268,268,Tyeshia Bowers made Free Throw.,48,60,-12,35,0.02072367738426965,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Chicago State
+241,4,3:53,233,233,Grand Canyon  Turnover.,48,60,-12,7,0.022489630321259512,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+242,4,3:46,226,226,Foul on Laura Piera.,48,60,-12,0,0.022153081749894686,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+243,4,3:46,226,226,Bethany Carstens made Free Throw.,49,60,-11,0,0.030126460915040832,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Chicago State
+244,4,3:46,226,226,Bethany Carstens missed Free Throw.,49,60,-11,0,0.030126460915040832,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+245,4,3:46,226,226,Mae Bryant Defensive Rebound.,49,60,-11,0,0.030126460915040832,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+246,4,3:46,226,226,Mae Bryant made Jumper. Assisted by Jada Holland.,49,62,-13,15,0.016254599261103383,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Grand Canyon
+247,4,3:31,211,211,Tyeshia Bowers missed Jumper.,49,62,-13,5,0.014553106082489893,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+248,4,3:26,206,206,Venla Varis Defensive Rebound.,49,62,-13,14,0.013636478937610197,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+249,4,3:12,192,192,Da'jah Daniel missed Layup.,49,62,-13,4,0.010353969327833022,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+250,4,3:08,188,188,Ines Mata Boix Defensive Rebound.,49,62,-13,12,0.009316408667346558,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+251,4,2:56,176,176,Aja Phoumiphat missed Jumper.,49,62,-13,3,0.00672277554954209,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+252,4,2:53,173,173,Da'jah Daniel Defensive Rebound.,49,62,-13,30,0.0061841074651839195,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+253,4,2:23,143,143,Da'jah Daniel Turnover.,49,62,-13,3,0.0024506072809371182,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+254,4,2:20,140,140,Foul on Mariah Mitchell.,49,62,-13,0,0.0022053679809330372,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+255,4,2:20,140,140,Bethany Carstens made Free Throw.,50,62,-12,0,0.00352517018787314,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Chicago State
+256,4,2:20,140,140,Bethany Carstens made Free Throw.,51,62,-11,21,0.005630350989206897,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Chicago State
+257,4,1:59,119,119,Foul on Aja Phoumiphat.,51,62,-11,0,0.002787438051952035,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+258,4,1:59,119,119,Foul on Grand Canyon.,51,62,-11,20,0.002787438051952035,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+259,4,1:39,99,99,Da'jah Daniel made Jumper. Assisted by Venla Varis.,51,64,-13,10,3.57420316321899e-4,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Grand Canyon
+260,4,1:29,89,89,Tyeshia Bowers missed Layup.,51,64,-13,3,2.01868956045331e-4,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+261,4,1:26,86,86,Jada Holland Defensive Rebound.,51,64,-13,0,1.6930670968813368e-4,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+262,4,1:26,86,86,Foul on Tyeshia Bowers.,51,64,-13,0,1.6930670968813368e-4,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+263,4,1:26,86,86,Jada Holland missed Free Throw.,51,64,-13,0,1.6930670968813368e-4,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+264,4,1:26,86,86,Grand Canyon Offensive Rebound.,51,64,-13,0,1.6930670968813368e-4,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+265,4,1:26,86,86,Jada Holland missed Free Throw.,51,64,-13,0,1.6930670968813368e-4,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+266,4,1:26,86,86,Ines Mata Boix Defensive Rebound.,51,64,-13,8,1.6930670968813368e-4,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+267,4,1:18,78,78,Bethany Carstens made Jumper.,53,64,-11,17,4.276829543891804e-4,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Chicago State
+268,4,1:01,61,61,Foul on Aja Phoumiphat.,53,64,-11,0,1.656204773468719e-4,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+269,4,1:01,61,61,Jada Holland missed Free Throw.,53,64,-11,0,1.656204773468719e-4,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+270,4,1:01,61,61,Grand Canyon Offensive Rebound.,53,64,-11,0,1.656204773468719e-4,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+271,4,1:01,61,61,Jada Holland made Free Throw.,53,65,-12,11,7.506595210171488e-5,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Grand Canyon
+272,4,0:50,50,50,Alexandria Cliff missed Jumper.,53,65,-12,4,3.6454484238146326e-5,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+273,4,0:46,46,46,Jada Holland Defensive Rebound.,53,65,-12,7,2.7711657054425977e-5,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+274,4,0:39,39,39,Foul on Tyeshia Bowers.,53,65,-12,0,1.6865023220239816e-5,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+275,4,0:39,39,39,Jada Holland missed Free Throw.,53,65,-12,0,1.6865023220239816e-5,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+276,4,0:39,39,39,Grand Canyon Offensive Rebound.,53,65,-12,0,1.6865023220239816e-5,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+277,4,0:39,39,39,Jada Holland made Free Throw.,53,66,-13,13,6.749022238535547e-6,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Grand Canyon
+278,4,0:26,26,26,Bethany Carstens made Layup. Assisted by Tyeshia Bowers.,55,66,-11,8,1.7315022699415856e-5,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Chicago State
+279,4,0:18,18,18,Mae Bryant Turnover.,55,66,-11,10,9.755301051315891e-6,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+280,4,0:08,8,8,Ines Mata Boix made Jumper. Assisted by Tyeshia Bowers.,57,66,-9,0,4.261128391662958e-5,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Chicago State
+281,4,0:08,8,8,Foul on Tyeshia Bowers.,57,66,-9,0,4.261128391662958e-5,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+282,4,0:08,8,8,Jada Holland made Free Throw.,57,67,-10,0,1.3929347004083204e-5,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Grand Canyon
+283,4,0:08,8,8,Jada Holland made Free Throw.,57,68,-11,8,4.553323536849696e-6,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,Grand Canyon
+284,4,0:00,0,0,Alexandria Cliff missed Jumper.,57,68,-11,0,2.852423339163565e-96,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+285,4,0:00,0,0,Grand Canyon Defensive Rebound.,57,68,-11,0,2.852423339163565e-96,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,
+286,4,0:00,0,0,End of Game,57,68,-11,0,2.852423339163565e-96,Chicago State,Grand Canyon,6,6,0,0,NA,401173919,2020-02-15,

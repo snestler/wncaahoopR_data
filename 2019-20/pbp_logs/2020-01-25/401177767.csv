@@ -1,0 +1,340 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:47,2387,2387,Taylor Pearson made Layup.,0,0,0,35,0.5,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,NA
+2,1,9:12,2352,2352,Western Kentucky  Turnover.,2,0,2,27,0.5450475200660853,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,Marshall
+3,1,8:45,2325,2325,Taylor Pearson made Three Point Jumper. Assisted by Khadaijia Brooks.,5,0,5,15,0.6124514094550819,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,Marshall
+4,1,8:30,2310,2310,Meral Abdelgawad missed Three Point Jumper.,5,0,5,0,0.6132418476035681,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+5,1,8:30,2310,2310,Princess Clemons Defensive Rebound.,5,0,5,8,0.6132418476035681,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+6,1,8:22,2302,2302,Savannah Wheeler made Layup.,7,0,7,0,0.6565248106957076,Marshall,Western Kentucky,4,4,1,0,NA,401177767,2020-01-25,Marshall
+7,1,8:22,2302,2302,Western Kentucky  Timeout,7,0,7,10,0.6565248106957076,Marshall,Western Kentucky,3,4,1,0,NA,401177767,2020-01-25,
+8,1,8:12,2292,2292,Dee Givens made Three Point Jumper. Assisted by Whitney Creech.,7,3,4,23,0.5919402635064219,Marshall,Western Kentucky,3,4,1,0,NA,401177767,2020-01-25,Western Kentucky
+9,1,7:49,2269,2269,Princess Clemons Turnover.,7,3,4,1,0.592944145667179,Marshall,Western Kentucky,3,4,1,0,NA,401177767,2020-01-25,
+10,1,7:48,2268,2268,Meral Abdelgawad Steal.,7,3,4,3,0.5929879897881598,Marshall,Western Kentucky,3,4,1,0,NA,401177767,2020-01-25,
+11,1,7:45,2265,2265,Meral Abdelgawad Turnover.,7,3,4,2,0.593119615057748,Marshall,Western Kentucky,3,4,1,0,NA,401177767,2020-01-25,
+12,1,7:43,2263,2263,Princess Clemons Steal.,7,3,4,4,0.5932074416181822,Marshall,Western Kentucky,3,4,1,0,NA,401177767,2020-01-25,
+13,1,7:39,2259,2259,Princess Clemons Turnover.,7,3,4,10,0.5933832743044234,Marshall,Western Kentucky,3,4,1,0,NA,401177767,2020-01-25,
+14,1,7:29,2249,2249,Sherry Porter missed Jumper.,7,3,4,0,0.5938238646341892,Marshall,Western Kentucky,3,4,1,0,NA,401177767,2020-01-25,
+15,1,7:29,2249,2249,Marshall Defensive Rebound.,7,3,4,16,0.5938238646341892,Marshall,Western Kentucky,3,4,1,0,NA,401177767,2020-01-25,
+16,1,7:13,2233,2233,Princess Clemons missed Three Point Jumper.,7,3,4,0,0.5945315899344339,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+17,1,7:13,2233,2233,Meral Abdelgawad Defensive Rebound.,7,3,4,0,0.5945315899344339,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+18,1,7:13,2233,2233,Dee Givens made Three Point Jumper. Assisted by Whitney Creech.,7,6,1,0,0.5239024471442838,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,Western Kentucky
+19,1,7:13,2233,2233,Taylor Pearson missed Three Point Jumper.,7,6,1,0,0.5239024471442838,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+20,1,7:13,2233,2233,Whitney Creech Defensive Rebound.,7,6,1,0,0.5239024471442838,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+21,1,7:13,2233,2233,Dee Givens Turnover.,7,6,1,0,0.5239024471442838,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+22,1,7:13,2233,2233,Taylor Pearson Steal.,7,6,1,56,0.5239024471442838,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+23,1,6:17,2177,2177,Foul on Sherry Porter.,7,6,1,0,0.5245492878304605,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+24,1,6:17,2177,2177,Kristen Mayo made Free Throw.,8,6,2,0,0.5489804998329268,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,Marshall
+25,1,6:17,2177,2177,Kristen Mayo made Free Throw.,9,6,3,13,0.5731778209643592,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,Marshall
+26,1,6:04,2164,2164,Raneem Elgedawy missed Layup.,9,6,3,0,0.5736228816547175,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+27,1,6:04,2164,2164,Princess Clemons Defensive Rebound.,9,6,3,12,0.5736228816547175,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+28,1,5:52,2152,2152,Khadaijia Brooks made Jumper.,11,6,5,30,0.6218065407611573,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,Marshall
+29,1,5:22,2122,2122,Whitney Creech Turnover.,11,6,5,19,0.6234693688430759,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+30,1,5:03,2103,2103,Kristen Mayo missed Three Point Jumper.,11,6,5,0,0.6245308343422337,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+31,1,5:03,2103,2103,Raneem Elgedawy Defensive Rebound.,11,6,5,9,0.6245308343422337,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+32,1,4:54,2094,2094,Dee Givens missed Three Point Jumper.,11,6,5,0,0.6250360750198689,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+33,1,4:54,2094,2094,Princess Clemons Defensive Rebound.,11,6,5,26,0.6250360750198689,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+34,1,4:28,2068,2068,Kia Sivils missed Layup.,11,6,5,0,0.626505087665517,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+35,1,4:28,2068,2068,Raneem Elgedawy Defensive Rebound.,11,6,5,8,0.626505087665517,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+36,1,4:20,2060,2060,Whitney Creech Turnover.,11,6,5,1,0.6269600548841088,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+37,1,4:19,2059,2059,Kristen Mayo Steal.,11,6,5,4,0.6270170277326002,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+38,1,4:15,2055,2055,Kristen Mayo made Layup. Assisted by Princess Clemons.,13,6,7,20,0.6744942615159314,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,Marshall
+39,1,3:55,2035,2035,Raneem Elgedawy made Layup. Assisted by Meral Abdelgawad.,13,8,5,14,0.6283914160944843,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,Western Kentucky
+40,1,3:41,2021,2021,Kristen Mayo missed Three Point Jumper.,13,8,5,0,0.629199638962944,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+41,1,3:41,2021,2021,Raneem Elgedawy Defensive Rebound.,13,8,5,15,0.629199638962944,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+42,1,3:26,2006,2006,Raneem Elgedawy made Layup. Assisted by Sherry Porter.,13,10,3,0,0.5792056413368747,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,Western Kentucky
+43,1,3:26,2006,2006,Foul on Princess Clemons.,13,10,3,0,0.5792056413368747,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+44,1,3:26,2006,2006,Raneem Elgedawy missed Free Throw.,13,10,3,0,0.5792056413368747,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+45,1,3:26,2006,2006,Khadaijia Brooks Defensive Rebound.,13,10,3,0,0.5792056413368747,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+46,1,3:26,2006,2006,Savannah Wheeler missed Three Point Jumper.,13,10,3,0,0.5792056413368747,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+47,1,3:26,2006,2006,Taylor Pearson Offensive Rebound.,13,10,3,0,0.5792056413368747,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+48,1,3:26,2006,2006,Taylor Pearson Turnover.,13,10,3,0,0.5792056413368747,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+49,1,3:26,2006,2006,Alexis Brewer Steal.,13,10,3,22,0.5792056413368747,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+50,1,3:04,1984,1984,Foul on Lorelei Roper.,13,10,3,0,0.5800148818043652,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+51,1,3:04,1984,1984,Sandra Skinner missed Free Throw.,13,10,3,0,0.5800148818043652,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+52,1,3:04,1984,1984,Western Kentucky Deadball Team Rebound.,13,10,3,0,0.5800148818043652,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+53,1,3:04,1984,1984,Sandra Skinner missed Free Throw.,13,10,3,0,0.5800148818043652,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+54,1,3:04,1984,1984,Fatou Pouye Offensive Rebound.,13,10,3,2,0.5800148818043652,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+55,1,3:02,1982,1982,Dee Givens missed Three Point Jumper.,13,10,3,0,0.580088906418124,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+56,1,3:02,1982,1982,Fatou Pouye Offensive Rebound.,13,10,3,3,0.580088906418124,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+57,1,2:59,1979,1979,Fatou Pouye missed Layup.,13,10,3,0,0.5802000895021867,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+58,1,2:59,1979,1979,Savannah Wheeler Defensive Rebound.,13,10,3,2,0.5802000895021867,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+59,1,2:57,1977,1977,Foul on Fatou Pouye.,13,10,3,22,0.5802743095629743,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+60,1,2:35,1955,1955,Taylor Pearson Turnover.,13,10,3,17,0.5810960193102671,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+61,1,2:18,1938,1938,Whitney Creech missed Jumper.,13,10,3,0,0.5817378360728223,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+62,1,2:18,1938,1938,Whitney Creech Offensive Rebound.,13,10,3,4,0.5817378360728223,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+63,1,2:14,1934,1934,Whitney Creech missed Layup.,13,10,3,0,0.5818897497195867,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+64,1,2:14,1934,1934,Marshall Defensive Rebound.,13,10,3,17,0.5818897497195867,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+65,1,1:57,1917,1917,Kia Sivils missed Three Point Jumper.,13,10,3,0,0.582536787551117,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+66,1,1:57,1917,1917,Dee Givens Defensive Rebound.,13,10,3,22,0.582536787551117,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+67,1,1:35,1895,1895,Dee Givens made Layup.,13,12,1,14,0.528023274127686,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,Western Kentucky
+68,1,1:21,1881,1881,Kristen Mayo missed Three Point Jumper.,13,12,1,0,0.5282048929463481,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+69,1,1:21,1881,1881,Sandra Skinner Defensive Rebound.,13,12,1,14,0.5282048929463481,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+70,1,1:07,1867,1867,Dee Givens missed Three Point Jumper.,13,12,1,0,0.5283867383776285,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+71,1,1:07,1867,1867,Taylor Pearson Defensive Rebound.,13,12,1,18,0.5283867383776285,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+72,1,0:49,1849,1849,Savannah Wheeler missed Layup.,13,12,1,0,0.5286212154557764,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+73,1,0:49,1849,1849,Savannah Wheeler Offensive Rebound.,13,12,1,2,0.5286212154557764,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+74,1,0:47,1847,1847,Foul on Fatou Pouye.,13,12,1,0,0.5286473329899295,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+75,1,0:47,1847,1847,Savannah Wheeler made Free Throw.,14,12,2,0,0.5571072013834203,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,Marshall
+76,1,0:47,1847,1847,Savannah Wheeler missed Free Throw.,14,12,2,0,0.5571072013834203,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+77,1,0:47,1847,1847,Sandra Skinner Defensive Rebound.,14,12,2,21,0.5571072013834203,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+78,1,0:26,1826,1826,Meral Abdelgawad made Layup.,14,14,0,19,0.5,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,Western Kentucky
+79,1,0:07,1807,1807,Savannah Wheeler missed Three Point Jumper.,14,14,0,0,0.5,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+80,1,0:07,1807,1807,Marshall Offensive Rebound.,14,14,0,6,0.5,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+81,1,0:01,1801,1801,Kia Sivils Turnover.,14,14,0,0,0.5,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+82,1,0:01,1801,1801,Meral Abdelgawad Steal.,14,14,0,1,0.5,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+83,1,0:00,1800,1800,End of 1st Quarter,14,14,0,8,0.5,Marshall,Western Kentucky,3,4,0,0,NA,401177767,2020-01-25,
+84,2,9:52,1792,1792,Khadaijia Brooks missed Layup.,23,23,0,0,0.5,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,Marshall
+85,2,9:52,1792,1792,Khadaijia Brooks Offensive Rebound.,23,23,0,2,0.5,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+86,2,9:50,1790,1790,Taylor Pearson missed Layup.,14,14,0,1,0.5,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+87,2,9:49,1789,1789,Khadaijia Brooks Offensive Rebound.,14,14,0,13,0.5,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+88,2,9:36,1776,1776,Foul on Sherry Porter.,14,14,0,1,0.5,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+89,2,9:35,1775,1775,Taylor Pearson missed Free Throw.,14,14,0,1,0.5,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+90,2,9:34,1774,1774,Marshall Deadball Team Rebound.,14,14,0,1,0.5,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+91,2,9:33,1773,1773,Taylor Pearson made Free Throw.,15,14,1,15,0.5296295908982823,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,Marshall
+92,2,9:18,1758,1758,Raneem Elgedawy Turnover.,15,14,1,19,0.5298340442120397,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+93,2,8:59,1739,1739,Foul on Meral Abdelgawad.,15,14,1,0,0.5300965073868849,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+94,2,8:59,1739,1739,Khadaijia Brooks made Free Throw.,16,14,2,0,0.5599757108365896,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,Marshall
+95,2,8:59,1739,1739,Khadaijia Brooks made Free Throw.,17,14,3,12,0.5894265373672714,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,Marshall
+96,2,8:47,1727,1727,Dee Givens Turnover.,17,14,3,2,0.5899160999781198,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+97,2,8:45,1725,1725,Paige Shy Steal.,17,14,3,5,0.5899982022281737,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+98,2,8:40,1720,1720,Kia Sivils Turnover.,17,14,3,1,0.5902041180800407,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+99,2,8:39,1719,1719,Dee Givens Steal.,17,14,3,2,0.5902454162082106,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+100,2,8:37,1717,1717,Myriah Haywood missed Layup.,17,14,3,0,0.5903281291977317,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+101,2,8:37,1717,1717,Kia Sivils Block.,17,14,3,4,0.5903281291977317,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+102,2,8:33,1713,1713,Dee Givens Offensive Rebound.,17,14,3,2,0.5904940283204375,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+103,2,8:31,1711,1711,Dee Givens made Layup.,17,16,1,10,0.5304914566542098,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,Western Kentucky
+104,2,8:21,1701,1701,Paige Shy made Three Point Jumper. Assisted by Taylor Pearson.,20,16,4,19,0.620289477874783,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,Marshall
+105,2,8:02,1682,1682,Myriah Haywood missed Layup.,20,16,4,0,0.6213328974243288,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+106,2,8:02,1682,1682,Princess Clemons Block.,20,16,4,2,0.6213328974243288,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+107,2,8:00,1680,1680,Raneem Elgedawy Offensive Rebound.,20,16,4,2,0.6214418002995874,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+108,2,7:58,1678,1678,Foul on Khadaijia Brooks.,20,16,4,5,0.6215503717930533,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+109,2,7:53,1673,1673,Meral Abdelgawad missed Three Point Jumper.,20,16,4,0,0.621820405835026,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+110,2,7:53,1673,1673,Dee Givens Offensive Rebound.,20,16,4,9,0.621820405835026,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+111,2,7:44,1664,1664,Dee Givens made Three Point Jumper. Assisted by Whitney Creech.,20,19,1,27,0.5311676434843852,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,Western Kentucky
+112,2,7:17,1637,1637,Taylor Pearson missed Three Point Jumper.,20,19,1,0,0.5315427325360006,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+113,2,7:17,1637,1637,Whitney Creech Defensive Rebound.,20,19,1,9,0.5315427325360006,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+114,2,7:08,1628,1628,Dee Givens missed Three Point Jumper.,20,19,1,0,0.5316659798255482,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+115,2,7:08,1628,1628,Marshall Defensive Rebound.,20,19,1,13,0.5316659798255482,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+116,2,6:55,1615,1615,Paige Shy made Three Point Jumper. Assisted by Taylor Pearson.,23,19,4,20,0.624848587272994,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,Marshall
+117,2,6:35,1595,1595,Raneem Elgedawy made Layup.,23,21,2,13,0.5639653966206519,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,Western Kentucky
+118,2,6:22,1582,1582,Khadaijia Brooks Turnover.,23,21,2,1,0.564314723582379,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+119,2,6:21,1581,1581,Dee Givens Steal.,23,21,2,3,0.5643416571998157,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,
+120,2,6:18,1578,1578,Dee Givens made Layup.,23,23,0,23,0.5,Marshall,Western Kentucky,4,4,0,0,NA,401177767,2020-01-25,Western Kentucky
+121,2,5:55,1555,1555,Savannah Wheeler Turnover.,23,23,0,0,0.5,Marshall,Western Kentucky,4,4,0,1,NA,401177767,2020-01-25,
+122,2,5:55,1555,1555,Meral Abdelgawad Steal.,23,23,0,0,0.5,Marshall,Western Kentucky,4,4,0,1,NA,401177767,2020-01-25,
+123,2,5:55,1555,1555,Foul on Princess Clemons.,23,23,0,0,0.5,Marshall,Western Kentucky,4,4,0,1,NA,401177767,2020-01-25,
+124,2,5:55,1555,1555,Official TV Timeout,23,23,0,0,0.5,Marshall,Western Kentucky,4,4,0,1,NA,401177767,2020-01-25,
+125,2,5:55,1555,1555,Marshall  Timeout,23,23,0,18,0.5,Marshall,Western Kentucky,4,3,0,1,NA,401177767,2020-01-25,
+126,2,5:37,1537,1537,Sandra Skinner missed Layup.,23,23,0,0,0.5,Marshall,Western Kentucky,4,3,0,1,NA,401177767,2020-01-25,
+127,2,5:37,1537,1537,Kristen Mayo Block.,23,23,0,1,0.5,Marshall,Western Kentucky,4,3,0,1,NA,401177767,2020-01-25,
+128,2,5:36,1536,1536,Sandra Skinner Offensive Rebound.,23,23,0,6,0.5,Marshall,Western Kentucky,4,3,0,1,NA,401177767,2020-01-25,
+129,2,5:30,1530,1530,Dee Givens made Three Point Jumper. Assisted by Alexis Brewer.,23,26,-3,17,0.4020927617918122,Marshall,Western Kentucky,4,3,0,1,NA,401177767,2020-01-25,Western Kentucky
+130,2,5:13,1513,1513,Savannah Wheeler Turnover.,23,26,-3,14,0.4013793454408587,Marshall,Western Kentucky,4,3,0,1,NA,401177767,2020-01-25,
+131,2,4:59,1499,1499,Alexis Brewer missed Three Point Jumper.,23,26,-3,0,0.4007767751478578,Marshall,Western Kentucky,4,3,0,1,NA,401177767,2020-01-25,
+132,2,4:59,1499,1499,Meral Abdelgawad Offensive Rebound.,23,26,-3,14,0.4007767751478578,Marshall,Western Kentucky,4,3,0,1,NA,401177767,2020-01-25,
+133,2,4:45,1485,1485,Sandra Skinner Turnover.,23,26,-3,1,0.4001582995646299,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+134,2,4:44,1484,1484,Princess Clemons Steal.,23,26,-3,7,0.4001134572440938,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+135,2,4:37,1477,1477,Kristen Mayo missed Three Point Jumper.,23,26,-3,0,0.3997969156855012,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+136,2,4:37,1477,1477,Sandra Skinner Defensive Rebound.,23,26,-3,10,0.3997969156855012,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+137,2,4:27,1467,1467,Dee Givens missed Three Point Jumper.,23,26,-3,0,0.3993362842478114,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+138,2,4:27,1467,1467,Sandra Skinner Offensive Rebound.,23,26,-3,19,0.3993362842478114,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+139,2,4:08,1448,1448,Whitney Creech missed Jumper.,23,26,-3,0,0.3984316526099437,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+140,2,4:08,1448,1448,Paige Shy Defensive Rebound.,23,26,-3,22,0.3984316526099437,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+141,2,3:46,1426,1426,Khadaijia Brooks missed Jumper.,23,26,-3,0,0.3973944041171829,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+142,2,3:46,1426,1426,Meral Abdelgawad Defensive Rebound.,23,26,-3,19,0.3973944041171829,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+143,2,3:27,1407,1407,Sandra Skinner missed Layup.,23,26,-3,0,0.39653079638704586,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+144,2,3:27,1407,1407,Khadaijia Brooks Defensive Rebound.,23,26,-3,8,0.39653079638704586,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+145,2,3:19,1399,1399,Kristen Mayo made Three Point Jumper. Assisted by Savannah Wheeler.,26,26,0,19,0.5,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,Marshall
+146,2,3:00,1380,1380,Whitney Creech Turnover.,26,26,0,1,0.5,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+147,2,2:59,1379,1379,Kristen Mayo Steal.,26,26,0,3,0.5,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+148,2,2:56,1376,1376,Foul on Alexis Brewer.,26,26,0,0,0.5,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+149,2,2:56,1376,1376,Kristen Mayo made Free Throw.,27,26,1,0,0.5354135773800651,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,Marshall
+150,2,2:56,1376,1376,Kristen Mayo made Free Throw.,28,26,2,17,0.5704736248183312,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,Marshall
+151,2,2:39,1359,1359,Myriah Haywood missed Jumper.,28,26,2,0,0.5709829838000082,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+152,2,2:39,1359,1359,Lorelei Roper Defensive Rebound.,28,26,2,13,0.5709829838000082,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+153,2,2:26,1346,1346,Taylor Pearson missed Layup.,28,26,2,0,0.5713741769180065,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+154,2,2:26,1346,1346,De'Myla Brown Block.,28,26,2,3,0.5713741769180065,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+155,2,2:23,1343,1343,Raneem Elgedawy Defensive Rebound.,28,26,2,5,0.5714649136906267,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+156,2,2:18,1338,1338,De'Myla Brown missed Three Point Jumper.,28,26,2,0,0.57161666092055,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+157,2,2:18,1338,1338,Raneem Elgedawy Offensive Rebound.,28,26,2,2,0.57161666092055,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+158,2,2:16,1336,1336,Foul on Taylor Pearson.,28,26,2,21,0.5716775640069107,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+159,2,1:55,1315,1315,Raneem Elgedawy made Layup.,28,28,0,31,0.5,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,Western Kentucky
+160,2,1:24,1284,1284,Kristen Mayo Turnover.,28,28,0,1,0.5,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+161,2,1:23,1283,1283,Sherry Porter Steal.,28,28,0,10,0.5,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+162,2,1:13,1273,1273,Raneem Elgedawy missed Layup.,28,28,0,0,0.5,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+163,2,1:13,1273,1273,Lorelei Roper Block.,28,28,0,1,0.5,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+164,2,1:12,1272,1272,Raneem Elgedawy Offensive Rebound.,28,28,0,12,0.5,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+165,2,1:00,1260,1260,Sherry Porter missed Jumper.,28,28,0,0,0.5,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+166,2,1:00,1260,1260,Myriah Haywood Offensive Rebound.,28,28,0,4,0.5,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+167,2,0:56,1256,1256,Western Kentucky  Turnover.,28,28,0,16,0.5,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+168,2,0:40,1240,1240,Paige Shy missed Three Point Jumper.,28,28,0,0,0.5,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+169,2,0:40,1240,1240,Raneem Elgedawy Defensive Rebound.,28,28,0,31,0.5,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+170,2,0:09,1209,1209,Meral Abdelgawad made Layup. Assisted by Raneem Elgedawy.,28,30,-2,9,0.4238652688835001,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,Western Kentucky
+171,2,0:00,1200,1200,End of 2nd Quarter,28,30,-2,10,0.4234906714856242,Marshall,Western Kentucky,4,3,0,0,NA,401177767,2020-01-25,
+172,3,9:50,1190,1190,Princess Clemons made Three Point Jumper. Assisted by Taylor Pearson.,31,30,1,32,0.5386891173127512,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,Marshall
+173,3,9:18,1158,1158,Whitney Creech made Three Point Jumper. Assisted by Raneem Elgedawy.,31,33,-2,20,0.42181575703844076,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,Western Kentucky
+174,3,8:58,1138,1138,Khadaijia Brooks Turnover.,31,33,-2,1,0.4210409491802106,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+175,3,8:57,1137,1137,Dee Givens Steal.,31,33,-2,7,0.4210023002827818,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+176,3,8:50,1130,1130,Meral Abdelgawad Turnover.,31,33,-2,1,0.42073165399396295,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+177,3,8:49,1129,1129,Princess Clemons Steal.,31,33,-2,17,0.42069295941255636,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+178,3,8:32,1112,1112,Taylor Pearson missed Layup.,31,33,-2,0,0.42003227698815065,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+179,3,8:32,1112,1112,Dee Givens Defensive Rebound.,31,33,-2,20,0.42003227698815065,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+180,3,8:12,1092,1092,Sherry Porter Turnover.,31,33,-2,2,0.41924182717480224,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+181,3,8:10,1090,1090,Princess Clemons Steal.,31,33,-2,13,0.4191616192735098,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+182,3,7:57,1077,1077,Kristen Mayo missed Layup.,31,33,-2,0,0.41863360704519115,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+183,3,7:57,1077,1077,Raneem Elgedawy Block.,31,33,-2,4,0.41863360704519115,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+184,3,7:53,1073,1073,Dee Givens Defensive Rebound.,31,33,-2,4,0.41846853402210266,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+185,3,7:49,1069,1069,Raneem Elgedawy missed Layup.,31,33,-2,0,0.41830208572774297,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+186,3,7:49,1069,1069,Raneem Elgedawy Offensive Rebound.,31,33,-2,5,0.41830208572774297,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+187,3,7:44,1064,1064,Whitney Creech missed Three Point Jumper.,31,33,-2,0,0.4180919625579995,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+188,3,7:44,1064,1064,Savannah Wheeler Defensive Rebound.,31,33,-2,16,0.4180919625579995,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+189,3,7:28,1048,1048,Savannah Wheeler made Layup.,33,33,0,26,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,Marshall
+190,3,7:02,1022,1022,Raneem Elgedawy Turnover.,33,33,0,1,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+191,3,7:01,1021,1021,Savannah Wheeler Steal.,33,33,0,1,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+192,3,7:00,1020,1020,Foul on Meral Abdelgawad.,33,33,0,0,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+193,3,7:00,1020,1020,Taylor Pearson made Free Throw.,34,33,1,0,0.5422398552423655,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,Marshall
+194,3,7:00,1020,1020,Taylor Pearson made Free Throw.,35,33,2,29,0.5838810662887756,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,Marshall
+195,3,6:31,991,991,Meral Abdelgawad made Layup. Assisted by Raneem Elgedawy.,35,35,0,28,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,Western Kentucky
+196,3,6:03,963,963,Savannah Wheeler missed Layup.,35,35,0,0,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+197,3,6:03,963,963,Raneem Elgedawy Defensive Rebound.,35,35,0,11,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+198,3,5:52,952,952,Dee Givens missed Three Point Jumper.,35,35,0,0,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+199,3,5:52,952,952,Taylor Pearson Defensive Rebound.,35,35,0,14,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+200,3,5:38,938,938,Kristen Mayo missed Three Point Jumper.,35,35,0,0,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+201,3,5:38,938,938,Dee Givens Defensive Rebound.,35,35,0,8,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+202,3,5:30,930,930,Dee Givens missed Layup.,35,35,0,0,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+203,3,5:30,930,930,Meral Abdelgawad Offensive Rebound.,35,35,0,2,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+204,3,5:28,928,928,Foul on Savannah Wheeler.,35,35,0,0,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+205,3,5:28,928,928,Meral Abdelgawad missed Free Throw.,35,35,0,0,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+206,3,5:28,928,928,Western Kentucky Deadball Team Rebound.,35,35,0,0,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+207,3,5:28,928,928,Meral Abdelgawad missed Free Throw.,35,35,0,0,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+208,3,5:28,928,928,Taylor Pearson Defensive Rebound.,35,35,0,19,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+209,3,5:09,909,909,Taylor Pearson made Three Point Jumper. Assisted by Kia Sivils.,38,35,3,19,0.6324694854518854,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,Marshall
+210,3,4:50,890,890,Alexis Brewer missed Three Point Jumper.,38,35,3,0,0.6336407068609511,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+211,3,4:50,890,890,Savannah Wheeler Defensive Rebound.,38,35,3,4,0.6336407068609511,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+212,3,4:46,886,886,Foul on Dee Givens.,38,35,3,0,0.6338838032629228,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+213,3,4:46,886,886,Official TV Timeout,38,35,3,30,0.6338838032629228,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+214,3,4:16,856,856,Marshall  Turnover.,38,35,3,10,0.635718895624294,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+215,3,4:06,846,846,Dee Givens made Jumper.,38,37,1,29,0.5464955887172783,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,Western Kentucky
+216,3,3:37,817,817,Khadaijia Brooks missed Three Point Jumper.,38,37,1,0,0.5471982481352192,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+217,3,3:37,817,817,Taylor Pearson Offensive Rebound.,38,37,1,3,0.5471982481352192,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+218,3,3:34,814,814,Taylor Pearson missed Layup.,38,37,1,0,0.5472763346896646,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+219,3,3:34,814,814,Dee Givens Defensive Rebound.,38,37,1,29,0.5472763346896646,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+220,3,3:05,785,785,Whitney Creech missed Jumper.,38,37,1,0,0.5481020907139696,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+221,3,3:05,785,785,Kristen Mayo Defensive Rebound.,38,37,1,27,0.5481020907139696,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+222,3,2:38,758,758,Taylor Pearson made Layup.,40,37,3,14,0.6433849900251729,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,Marshall
+223,3,2:24,744,744,Whitney Creech made Layup.,40,39,1,17,0.549558124159719,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,Western Kentucky
+224,3,2:07,727,727,Kristen Mayo Turnover.,40,39,1,16,0.5502863422922066,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+225,3,1:51,711,711,Sandra Skinner missed Layup.,40,39,1,0,0.5509435797561699,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+226,3,1:51,711,711,Meral Abdelgawad Offensive Rebound.,40,39,1,4,0.5509435797561699,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+227,3,1:47,707,707,Dee Givens missed Three Point Jumper.,40,39,1,0,0.5510968828290804,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+228,3,1:47,707,707,Princess Clemons Defensive Rebound.,40,39,1,19,0.5510968828290804,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+229,3,1:28,688,688,Lorelei Roper missed Jumper.,40,39,1,0,0.5517804681873376,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+230,3,1:28,688,688,Sandra Skinner Defensive Rebound.,40,39,1,19,0.5517804681873376,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+231,3,1:09,669,669,Whitney Creech made Layup.,40,41,-1,25,0.44758205742542756,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,Western Kentucky
+232,3,0:44,644,644,Kia Sivils missed Jumper.,40,41,-1,0,0.44675055442224015,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+233,3,0:44,644,644,Dee Givens Defensive Rebound.,40,41,-1,8,0.44675055442224015,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+234,3,0:36,636,636,Meral Abdelgawad made Layup.,40,43,-3,16,0.344165549885496,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,Western Kentucky
+235,3,0:20,620,620,Lorelei Roper made Layup. Assisted by Princess Clemons.,42,43,-1,16,0.44588751769396145,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,Marshall
+236,3,0:04,604,604,Foul on Khadaijia Brooks.,42,43,-1,0,0.4452391943844979,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+237,3,0:04,604,604,Whitney Creech made Free Throw.,42,44,-2,0,0.39177652751698017,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,Western Kentucky
+238,3,0:04,604,604,Whitney Creech made Free Throw.,42,45,-3,4,0.34078989583775654,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,Western Kentucky
+239,3,0:00,600,600,Savannah Wheeler made Three Point Jumper.,45,45,0,0,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,Marshall
+240,3,0:00,600,600,End of 3rd Quarter,45,45,0,10,0.5,Marshall,Western Kentucky,5,4,0,0,NA,401177767,2020-01-25,
+241,4,9:50,590,590,Kristen Mayo made Layup.,47,45,2,0,0.6094494884371889,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,Marshall
+242,4,9:50,590,590,Foul on Raneem Elgedawy.,47,45,2,0,0.6094494884371889,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+243,4,9:50,590,590,Kristen Mayo missed Free Throw.,47,45,2,0,0.6094494884371889,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+244,4,9:50,590,590,Dee Givens Defensive Rebound.,47,45,2,15,0.6094494884371889,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+245,4,9:35,575,575,Raneem Elgedawy made Layup. Assisted by Whitney Creech.,47,47,0,18,0.5,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,Western Kentucky
+246,4,9:17,557,557,Princess Clemons made Layup.,49,47,2,15,0.6129908536281715,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,Marshall
+247,4,9:02,542,542,Raneem Elgedawy made Layup. Assisted by Whitney Creech.,49,49,0,14,0.5,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,Western Kentucky
+248,4,8:48,528,528,Kristen Mayo made Three Point Jumper. Assisted by Princess Clemons.,52,49,3,22,0.670782466170028,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,Marshall
+249,4,8:26,506,506,Whitney Creech missed Jumper.,52,49,3,0,0.6737798734304211,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+250,4,8:26,506,506,Raneem Elgedawy Offensive Rebound.,52,49,3,4,0.6737798734304211,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+251,4,8:22,502,502,Foul on Khadaijia Brooks.,52,49,3,0,0.6743046609297797,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+252,4,8:22,502,502,Raneem Elgedawy missed Free Throw.,52,49,3,0,0.6743046609297797,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+253,4,8:22,502,502,Western Kentucky Deadball Team Rebound.,52,49,3,0,0.6743046609297797,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+254,4,8:22,502,502,Raneem Elgedawy made Free Throw.,52,50,2,8,0.6189623876745629,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,Western Kentucky
+255,4,8:14,494,494,Khadaijia Brooks Turnover.,52,50,2,29,0.6197209541976347,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+256,4,7:45,465,465,Dee Givens missed Three Point Jumper.,52,50,2,0,0.62282180873301,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+257,4,7:45,465,465,Kristen Mayo Defensive Rebound.,52,50,2,15,0.62282180873301,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+258,4,7:30,450,450,Princess Clemons Turnover.,52,50,2,1,0.6248502763377656,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+259,4,7:29,449,449,Fatou Pouye Steal.,52,50,2,2,0.6250001403936544,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+260,4,7:27,447,447,Dee Givens made Layup. Assisted by Sherry Porter.,52,52,0,18,0.5,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,Western Kentucky
+261,4,7:09,429,429,Foul on Sherry Porter.,52,52,0,16,0.5,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+262,4,6:53,413,413,Princess Clemons made Three Point Jumper. Assisted by Kristen Mayo.,55,52,3,20,0.6915564679975587,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,Marshall
+263,4,6:33,393,393,Foul on Taylor Pearson.,55,52,3,0,0.6962329630534937,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+264,4,6:33,393,393,Raneem Elgedawy missed Free Throw.,55,52,3,0,0.6962329630534937,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+265,4,6:33,393,393,Western Kentucky Deadball Team Rebound.,55,52,3,0,0.6962329630534937,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+266,4,6:33,393,393,Raneem Elgedawy missed Free Throw.,55,52,3,0,0.6962329630534937,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+267,4,6:33,393,393,Taylor Pearson Defensive Rebound.,55,52,3,9,0.6962329630534937,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+268,4,6:24,384,384,Kristen Mayo made Three Point Jumper. Assisted by Savannah Wheeler.,58,52,6,26,0.8427268914271214,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,Marshall
+269,4,5:58,358,358,Raneem Elgedawy made Layup. Assisted by Whitney Creech.,58,54,4,20,0.7614453957854967,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,Western Kentucky
+270,4,5:38,338,338,Taylor Pearson Turnover.,58,54,4,1,0.7684087449279698,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+271,4,5:37,337,337,Whitney Creech Steal.,58,54,4,3,0.768792513200443,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+272,4,5:34,334,334,Dee Givens missed Three Point Jumper.,58,54,4,0,0.7699669843566129,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+273,4,5:34,334,334,Western Kentucky Offensive Rebound.,58,54,4,3,0.7699669843566129,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+274,4,5:31,331,331,Foul on Savannah Wheeler.,58,54,4,5,0.7711773716525814,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+275,4,5:26,326,326,Foul on Taylor Pearson.,58,54,4,4,0.7732784519659113,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+276,4,5:22,322,322,Raneem Elgedawy made Layup. Assisted by Meral Abdelgawad.,58,56,2,15,0.6498753923001954,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,Western Kentucky
+277,4,5:07,307,307,Foul on Raneem Elgedawy.,58,56,2,0,0.6545610534574281,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+278,4,5:07,307,307,Taylor Pearson made Free Throw.,59,56,3,0,0.7228661396856231,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,Marshall
+279,4,5:07,307,307,Taylor Pearson missed Free Throw.,59,56,3,0,0.7228661396856231,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+280,4,5:07,307,307,Raneem Elgedawy Defensive Rebound.,59,56,3,16,0.7228661396856231,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+281,4,4:51,291,291,Meral Abdelgawad missed Three Point Jumper.,59,56,3,0,0.7259689997244143,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+282,4,4:51,291,291,Western Kentucky Offensive Rebound.,59,56,3,1,0.7259689997244143,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+283,4,4:50,290,290,Foul on Kia Sivils.,59,56,3,0,0.72600471344771,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+284,4,4:50,290,290,Official TV Timeout,59,56,3,0,0.72600471344771,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+285,4,4:50,290,290,Myriah Haywood missed Free Throw.,59,56,3,0,0.72600471344771,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+286,4,4:50,290,290,Western Kentucky Deadball Team Rebound.,59,56,3,0,0.72600471344771,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+287,4,4:50,290,290,Myriah Haywood made Free Throw.,59,57,2,23,0.6569271698183028,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,Western Kentucky
+288,4,4:27,267,267,Savannah Wheeler Turnover.,59,57,2,2,0.6552051215140164,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+289,4,4:25,265,265,Whitney Creech Steal.,59,57,2,0,0.6549325319428858,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+290,4,4:25,265,265,Foul on Savannah Wheeler.,59,57,2,0,0.6549325319428858,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+291,4,4:25,265,265,Whitney Creech made Free Throw.,59,58,1,0,0.5794207900254189,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,Western Kentucky
+292,4,4:25,265,265,Whitney Creech missed Free Throw.,59,58,1,0,0.5794207900254189,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+293,4,4:25,265,265,Khadaijia Brooks Defensive Rebound.,59,58,1,23,0.5794207900254189,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+294,4,4:02,242,242,Kristen Mayo Turnover.,59,58,1,20,0.5779983737832805,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+295,4,3:42,222,222,Dee Givens made Jumper.,59,60,-1,20,0.4213925062107788,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,Western Kentucky
+296,4,3:22,202,202,Kristen Mayo Turnover.,59,60,-1,2,0.4171916929228596,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+297,4,3:20,200,200,Myriah Haywood Steal.,59,60,-1,2,0.41650628579140525,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+298,4,3:18,198,198,Myriah Haywood made Layup.,59,62,-3,0,0.2649221801991146,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,Western Kentucky
+299,4,3:18,198,198,Foul on Princess Clemons.,59,62,-3,0,0.2649221801991146,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+300,4,3:18,198,198,Myriah Haywood made Free Throw.,59,63,-4,11,0.20412325469351045,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,Western Kentucky
+301,4,3:07,187,187,Savannah Wheeler missed Three Point Jumper.,59,63,-4,0,0.19089135629451154,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+302,4,3:07,187,187,Khadaijia Brooks Offensive Rebound.,59,63,-4,4,0.19089135629451154,Marshall,Western Kentucky,6,5,0,0,NA,401177767,2020-01-25,
+303,4,3:03,183,183,Marshall  Timeout,59,63,-4,0,0.1857712919140517,Marshall,Western Kentucky,6,4,0,1,NA,401177767,2020-01-25,
+304,4,3:03,183,183,Marshall  Timeout,59,63,-4,11,0.1857712919140517,Marshall,Western Kentucky,6,4,0,1,NA,401177767,2020-01-25,
+305,4,2:52,172,172,Savannah Wheeler missed Layup.,59,63,-4,0,0.17198305933867597,Marshall,Western Kentucky,6,4,0,1,NA,401177767,2020-01-25,
+306,4,2:52,172,172,Raneem Elgedawy Defensive Rebound.,59,63,-4,15,0.17198305933867597,Marshall,Western Kentucky,6,4,0,1,NA,401177767,2020-01-25,
+307,4,2:37,157,157,Whitney Creech made Layup.,59,65,-6,10,0.07163862896181249,Marshall,Western Kentucky,6,4,0,1,NA,401177767,2020-01-25,Western Kentucky
+308,4,2:27,147,147,Princess Clemons Turnover.,59,65,-6,1,0.06236484153827829,Marshall,Western Kentucky,6,4,0,1,NA,401177767,2020-01-25,
+309,4,2:26,146,146,Raneem Elgedawy Steal.,59,65,-6,16,0.061462055369897045,Marshall,Western Kentucky,6,4,0,1,NA,401177767,2020-01-25,
+310,4,2:10,130,130,Meral Abdelgawad made Three Point Jumper. Assisted by Whitney Creech.,59,68,-9,18,0.011064310823515392,Marshall,Western Kentucky,6,4,0,1,NA,401177767,2020-01-25,Western Kentucky
+311,4,1:52,112,112,Princess Clemons missed Three Point Jumper.,59,68,-9,0,0.0064751324391828435,Marshall,Western Kentucky,6,4,0,0,NA,401177767,2020-01-25,
+312,4,1:52,112,112,Dee Givens Defensive Rebound.,59,68,-9,29,0.0064751324391828435,Marshall,Western Kentucky,6,4,0,0,NA,401177767,2020-01-25,
+313,4,1:23,83,83,Meral Abdelgawad missed Three Point Jumper.,59,68,-9,0,0.0021603592360477527,Marshall,Western Kentucky,6,4,0,0,NA,401177767,2020-01-25,
+314,4,1:23,83,83,Dee Givens Offensive Rebound.,59,68,-9,13,0.0021603592360477527,Marshall,Western Kentucky,6,4,0,0,NA,401177767,2020-01-25,
+315,4,1:10,70,70,Foul on Savannah Wheeler.,59,68,-9,0,0.001227250853035585,Marshall,Western Kentucky,6,4,0,0,NA,401177767,2020-01-25,
+316,4,1:10,70,70,Whitney Creech made Free Throw.,59,69,-10,0,5.83204287936433e-4,Marshall,Western Kentucky,6,4,0,0,NA,401177767,2020-01-25,Western Kentucky
+317,4,1:10,70,70,Whitney Creech missed Free Throw.,59,69,-10,0,5.83204287936433e-4,Marshall,Western Kentucky,6,4,0,0,NA,401177767,2020-01-25,
+318,4,1:10,70,70,Meral Abdelgawad Offensive Rebound.,59,69,-10,0,5.83204287936433e-4,Marshall,Western Kentucky,6,4,0,0,NA,401177767,2020-01-25,
+319,4,1:10,70,70,Foul on Khadaijia Brooks.,59,69,-10,0,5.83204287936433e-4,Marshall,Western Kentucky,6,4,0,0,NA,401177767,2020-01-25,
+320,4,1:10,70,70,Meral Abdelgawad missed Free Throw.,59,69,-10,0,5.83204287936433e-4,Marshall,Western Kentucky,6,4,0,0,NA,401177767,2020-01-25,
+321,4,1:10,70,70,Western Kentucky Deadball Team Rebound.,59,69,-10,0,5.83204287936433e-4,Marshall,Western Kentucky,6,4,0,0,NA,401177767,2020-01-25,
+322,4,1:10,70,70,Meral Abdelgawad made Free Throw.,59,70,-11,17,2.770518997022861e-4,Marshall,Western Kentucky,6,4,0,0,NA,401177767,2020-01-25,Western Kentucky
+323,4,0:53,53,53,Taylor Pearson made Three Point Jumper. Assisted by Princess Clemons.,62,70,-8,2,0.001255883318439464,Marshall,Western Kentucky,6,4,0,0,NA,401177767,2020-01-25,Marshall
+324,4,0:51,51,51,Marshall  Timeout,62,70,-8,7,0.0011487645448615403,Marshall,Western Kentucky,6,3,0,1,NA,401177767,2020-01-25,
+325,4,0:44,44,44,Foul on Princess Clemons.,62,70,-8,0,8.336016517607714e-4,Marshall,Western Kentucky,6,3,0,1,NA,401177767,2020-01-25,
+326,4,0:44,44,44,Raneem Elgedawy made Free Throw.,62,71,-9,0,3.438242407937951e-4,Marshall,Western Kentucky,6,3,0,1,NA,401177767,2020-01-25,Western Kentucky
+327,4,0:44,44,44,Raneem Elgedawy made Free Throw.,62,72,-10,9,1.4177163814752626e-4,Marshall,Western Kentucky,6,3,0,1,NA,401177767,2020-01-25,Western Kentucky
+328,4,0:35,35,35,Princess Clemons made Layup.,64,72,-8,5,5.408239650777224e-4,Marshall,Western Kentucky,6,3,0,1,NA,401177767,2020-01-25,Marshall
+329,4,0:30,30,30,Foul on Taylor Pearson.,64,72,-8,0,4.216611811822387e-4,Marshall,Western Kentucky,6,3,0,1,NA,401177767,2020-01-25,
+330,4,0:30,30,30,Whitney Creech made Free Throw.,64,73,-9,0,0.00015966906565084682,Marshall,Western Kentucky,6,3,0,1,NA,401177767,2020-01-25,Western Kentucky
+331,4,0:30,30,30,Whitney Creech made Free Throw.,64,74,-10,9,6.045152015078558e-5,Marshall,Western Kentucky,6,3,0,1,NA,401177767,2020-01-25,Western Kentucky
+332,4,0:21,21,21,Kristen Mayo missed Three Point Jumper.,64,74,-10,0,3.3977321601119836e-5,Marshall,Western Kentucky,6,3,0,1,NA,401177767,2020-01-25,
+333,4,0:21,21,21,Taylor Pearson Offensive Rebound.,64,74,-10,2,3.3977321601119836e-5,Marshall,Western Kentucky,6,3,0,1,NA,401177767,2020-01-25,
+334,4,0:19,19,19,Foul on Meral Abdelgawad.,64,74,-10,0,2.9770520458511654e-5,Marshall,Western Kentucky,6,3,1,1,NA,401177767,2020-01-25,
+335,4,0:19,19,19,Taylor Pearson missed Free Throw.,64,74,-10,0,2.9770520458511654e-5,Marshall,Western Kentucky,6,3,1,1,NA,401177767,2020-01-25,
+336,4,0:19,19,19,Marshall Deadball Team Rebound.,64,74,-10,0,2.9770520458511654e-5,Marshall,Western Kentucky,6,3,1,1,NA,401177767,2020-01-25,
+337,4,0:19,19,19,Taylor Pearson made Free Throw.,65,74,-9,0,8.440783508374973e-5,Marshall,Western Kentucky,6,3,1,1,NA,401177767,2020-01-25,Marshall
+338,4,0:19,19,19,Western Kentucky  Timeout,65,74,-9,19,8.440783508374973e-5,Marshall,Western Kentucky,5,3,1,1,NA,401177767,2020-01-25,
+339,4,0:00,0,0,End of Game,65,74,-9,0,6.714184288211594e-79,Marshall,Western Kentucky,5,3,1,1,NA,401177767,2020-01-25,

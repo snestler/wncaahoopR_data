@@ -1,0 +1,358 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:45,2385,2385,Armani Franklin Turnover.,0,0,0,0,0.5,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,NA
+2,1,9:45,2385,2385,Kieche White Steal.,0,0,0,5,0.5,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+3,1,9:40,2380,2380,Kieche White made Layup.,2,0,2,16,0.5444477880633797,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+4,1,9:24,2364,2364,Armani Franklin missed Three Point Jumper.,2,0,2,4,0.5447891790846144,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+5,1,9:20,2360,2360,Paulina Afriyie Defensive Rebound.,2,0,2,4,0.5448750795359576,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+6,1,9:16,2356,2356,Anissa Rivera made Layup. Assisted by Kieche White.,4,0,4,0,0.5892011052942039,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+7,1,9:16,2356,2356,Foul on Armani Franklin.,4,0,4,0,0.5892011052942039,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+8,1,9:16,2356,2356,Anissa Rivera made Free Throw.,5,0,5,28,0.6108364883173472,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+9,1,8:48,2328,2328,La'Deja James Turnover.,5,0,5,0,0.6122939952184522,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+10,1,8:48,2328,2328,Anissa Rivera Steal.,5,0,5,5,0.6122939952184522,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+11,1,8:43,2323,2323,Kieche White missed Layup.,5,0,5,3,0.6125564798061072,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+12,1,8:40,2320,2320,Blaire Thomas Defensive Rebound.,5,0,5,4,0.6127142740146319,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+13,1,8:36,2316,2316,La'Deja James made Three Point Jumper. Assisted by Dana Echols.,5,3,2,21,0.5458333887750282,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,Norfolk State
+14,1,8:15,2295,2295,Foul on Dana Echols.,5,3,2,0,0.5462986002811664,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+15,1,8:15,2295,2295,Kieche White made Free Throw.,6,3,3,0,0.5692004269661427,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+16,1,8:15,2295,2295,Kieche White made Free Throw.,7,3,4,6,0.5918099994501599,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+17,1,8:09,2289,2289,La'Deja James Turnover.,7,3,4,0,0.59207069007809765,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+18,1,8:09,2289,2289,Paulina Afriyie Steal.,7,3,4,7,0.59207069007809765,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+19,1,8:02,2282,2282,Madalyn Anderson made Three Point Jumper. Assisted by Kieche White.,10,3,7,15,0.6579430271585934,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+20,1,7:47,2267,2267,La'Deja James missed Layup.,10,3,7,3,0.6590128099970922,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+21,1,7:44,2264,2264,Paulina Afriyie Defensive Rebound.,10,3,7,23,0.6592273354175532,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+22,1,7:21,2241,2241,Anissa Rivera made Jumper. Assisted by Kieche White.,12,3,9,16,0.7022088196501434,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+23,1,7:05,2225,2225,Foul on Anissa Rivera.,12,3,9,1,0.7035913620814107,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+24,1,7:04,2224,2224,Danyael Goodhope Turnover.,12,3,9,0,0.7036778651272646,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+25,1,7:04,2224,2224,Madalyn Anderson Steal.,12,3,9,16,0.7036778651272646,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+26,1,6:48,2208,2208,Paulina Afriyie missed Layup.,12,3,9,2,0.7050630999436082,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+27,1,6:46,2206,2206,Anissa Rivera Offensive Rebound.,12,3,9,3,0.7052363870033961,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+28,1,6:43,2203,2203,Kieche White made Jumper.,14,3,11,2,0.7441680063330691,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+29,1,6:41,2201,2201,Official TV Timeout,14,3,11,14,0.744362123690848,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+30,1,6:27,2187,2187,Camryn Platt-Morris Turnover.,14,3,11,22,0.74572060856757,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+31,1,6:05,2165,2165,Ashlyn Lockard missed Jumper.,14,3,11,4,0.7478531921085622,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+32,1,6:01,2161,2161,Camryn Platt-Morris Defensive Rebound.,14,3,11,4,0.7482409018551066,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+33,1,5:57,2157,2157,Camryn Platt-Morris Turnover.,14,3,11,17,0.7486287327576949,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+34,1,5:40,2140,2140,Foul on Armani Franklin.,14,3,11,0,0.7502785340417921,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+35,1,5:40,2140,2140,Anissa Rivera made Free Throw.,15,3,12,0,0.7685438705163049,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+36,1,5:40,2140,2140,Anissa Rivera made Free Throw.,16,3,13,17,0.7858545451558903,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+37,1,5:23,2123,2123,La'Deja James missed Three Point Jumper.,16,3,13,5,0.7876075098928702,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+38,1,5:18,2118,2118,Paulina Afriyie Defensive Rebound.,16,3,13,8,0.7881232307269109,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+39,1,5:10,2110,2110,Paulina Afriyie Turnover.,16,3,13,14,0.7889485747526016,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+40,1,4:56,2096,2096,Blaire Thomas made Three Point Jumper. Assisted by La'Deja James.,16,6,10,9,0.7351673088674519,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,Norfolk State
+41,1,4:47,2087,2087,Anissa Rivera made Three Point Jumper. Assisted by Zaria Atkins.,19,6,13,20,0.7913231907144217,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+42,1,4:27,2067,2067,Foul on Zaria Atkins.,19,6,13,0,0.7933909245857257,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+43,1,4:27,2067,2067,Mikaela Jones missed Free Throw.,19,6,13,0,0.7933909245857257,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+44,1,4:27,2067,2067,Norfolk State Offensive Rebound.,19,6,13,0,0.7933909245857257,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+45,1,4:27,2067,2067,Mikaela Jones made Free Throw.,19,7,12,19,0.7759099589484441,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,Norfolk State
+46,1,4:08,2048,2048,Anissa Rivera made Three Point Jumper. Assisted by Faith Williams.,22,7,15,14,0.8272675585204394,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+47,1,3:54,2034,2034,Dana Echols Turnover.,22,7,15,0,0.8287375038592066,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+48,1,3:54,2034,2034,Zaria Atkins Steal.,22,7,15,3,0.8287375038592066,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+49,1,3:51,2031,2031,Foul on La'Deja James.,22,7,15,0,0.829052502443327,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+50,1,3:51,2031,2031,Zaria Atkins made Free Throw.,23,7,16,0,0.8434584020186194,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+51,1,3:51,2031,2031,Zaria Atkins made Free Throw.,24,7,17,17,0.8568599063595633,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+52,1,3:34,2014,2014,Dana Echols missed Layup.,24,7,17,2,0.8586091883773748,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+53,1,3:32,2012,2012,Anissa Rivera Defensive Rebound.,24,7,17,6,0.8588148005931034,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+54,1,3:26,2006,2006,Faith Williams missed Three Point Jumper.,24,7,17,2,0.8594314158067533,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+55,1,3:24,2004,2004,Shekinah Howard Defensive Rebound.,24,7,17,19,0.8596368820901557,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+56,1,3:05,1985,1985,Foul on Khadija Demry.,24,7,17,0,0.8615871229988277,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+57,1,3:05,1985,1985,Shekinah Howard made Free Throw.,24,8,16,0,0.8482542783557016,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,Norfolk State
+58,1,3:05,1985,1985,Shekinah Howard made Free Throw.,24,9,15,14,0.8338847422843272,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,Norfolk State
+59,1,2:51,1971,1971,Zaria Atkins missed Layup.,24,9,15,3,0.8353568926327942,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+60,1,2:48,1968,1968,La'Deja James Defensive Rebound.,24,9,15,12,0.835672478104403,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+61,1,2:36,1956,1956,De'Janaire Deas missed Layup.,24,9,15,0,0.836935313127367,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+62,1,2:36,1956,1956,Anissa Rivera Block.,24,9,15,2,0.836935313127367,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+63,1,2:34,1954,1954,Faith Williams Defensive Rebound.,24,9,15,0,0.8371458670063082,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+64,1,2:34,1954,1954,Foul on Armani Franklin.,24,9,15,0,0.8371458670063082,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+65,1,2:34,1954,1954,Zaria Atkins missed Free Throw.,24,9,15,0,0.8371458670063082,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+66,1,2:34,1954,1954,North Carolina Central Offensive Rebound.,24,9,15,0,0.8371458670063082,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+67,1,2:34,1954,1954,Zaria Atkins made Free Throw.,25,9,16,14,0.8514837850085025,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+68,1,2:20,1940,1940,Blaire Thomas Turnover.,25,9,16,0,0.8529421679519954,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+69,1,2:20,1940,1940,Zaria Atkins Steal.,25,9,16,0,0.8529421679519954,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+70,1,2:20,1940,1940,Khadija Demry missed Layup.,25,9,16,0,0.8529421679519954,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+71,1,2:20,1940,1940,Ashlyn Lockard Offensive Rebound.,25,9,16,0,0.8529421679519954,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+72,1,2:20,1940,1940,Ashlyn Lockard made Layup.,27,9,18,21,0.8784249866437939,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+73,1,1:59,1919,1919,Foul on De'Janaire Deas.,27,9,18,0,0.8805132327479781,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+74,1,1:59,1919,1919,De'Janaire Deas Turnover.,27,9,18,8,0.8805132327479781,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+75,1,1:51,1911,1911,Theyoung Puoy missed Jumper.,27,9,18,3,0.8813002630287293,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+76,1,1:48,1908,1908,North Carolina Central Offensive Rebound.,27,9,18,2,0.881594083592435,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+77,1,1:46,1906,1906,Faith Williams missed Three Point Jumper.,27,9,18,0,0.8817895790527455,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+78,1,1:46,1906,1906,La'Deja James Block.,27,9,18,6,0.8817895790527455,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+79,1,1:40,1900,1900,Blaire Thomas Defensive Rebound.,27,9,18,1,0.8823742732254395,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+80,1,1:39,1899,1899,La'Deja James made Layup. Assisted by Blaire Thomas.,27,11,16,23,0.8571772394957404,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,Norfolk State
+81,1,1:16,1876,1876,Faith Williams missed Three Point Jumper.,27,11,16,4,0.859506704889785,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+82,1,1:12,1872,1872,Camryn Platt-Morris Defensive Rebound.,27,11,16,4,0.8599090251729411,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+83,1,1:08,1868,1868,Blaire Thomas missed Jumper.,27,11,16,4,0.8603106143430888,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+84,1,1:04,1864,1864,Khadija Demry Defensive Rebound.,27,11,16,4,0.8607115102180737,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+85,1,1:00,1860,1860,Khadija Demry Turnover.,27,11,16,0,0.8611117502551208,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+86,1,1:00,1860,1860,Mikaela Jones Steal.,27,11,16,4,0.8611117502551208,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+87,1,0:56,1856,1856,Camryn Platt-Morris Turnover.,27,11,16,15,0.8615113715513621,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+88,1,0:41,1841,1841,Zaria Atkins Turnover.,27,11,16,16,0.8630050636574483,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+89,1,0:25,1825,1825,Blaire Thomas made Jumper. Assisted by Dana Echols.,27,13,14,18,0.8351004372379156,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,Norfolk State
+90,1,0:07,1807,1807,Madalyn Anderson made Three Point Jumper. Assisted by Khadija Demry.,30,13,17,7,0.8793264531107642,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+91,1,0:00,1800,1800,End of 1st Quarter,30,13,17,8,0.8799989626675139,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+92,2,9:52,1792,1792,Madalyn Anderson missed Three Point Jumper.,30,13,17,3,0.8807668078516565,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+93,2,9:49,1789,1789,Dana Echols Defensive Rebound.,30,13,17,24,0.8810545938333675,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+94,2,9:25,1765,1765,Blaire Thomas made Layup.,30,15,15,18,0.856486493238586,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,Norfolk State
+95,2,9:07,1747,1747,Paulina Afriyie made Layup. Assisted by Zaria Atkins.,32,15,17,18,0.8850821740765388,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+96,2,8:49,1729,1729,La'Deja James made Three Point Jumper. Assisted by Dana Echols.,32,18,14,12,0.8449206349967446,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,Norfolk State
+97,2,8:37,1717,1717,Paulina Afriyie Turnover.,32,18,14,13,0.8461652950864048,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+98,2,8:24,1704,1704,Mikaela Jones made Layup. Assisted by Blaire Thomas.,32,20,12,8,0.8130949073362878,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,Norfolk State
+99,2,8:16,1696,1696,Kieche White missed Three Point Jumper.,32,20,12,5,0.8139403745042568,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+100,2,8:11,1691,1691,La'Deja James Defensive Rebound.,32,20,12,20,0.8144709536274173,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+101,2,7:51,1671,1671,Shekinah Howard made Three Point Jumper. Assisted by Mikaela Jones.,32,23,9,18,0.7539726079532525,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,Norfolk State
+102,2,7:33,1653,1653,Foul on Kieche White.,32,23,9,0,0.7556648301335054,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+103,2,7:33,1653,1653,Kieche White Turnover.,32,23,9,17,0.7556648301335054,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+104,2,7:16,1636,1636,Shekinah Howard missed Three Point Jumper.,32,23,9,3,0.7572285310675353,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+105,2,7:13,1633,1633,Mikaela Jones Offensive Rebound.,32,23,9,0,0.7575017171938927,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+106,2,7:13,1633,1633,Mikaela Jones made Layup.,32,25,7,0,0.7080460679096371,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,Norfolk State
+107,2,7:13,1633,1633,Official TV Timeout,32,25,7,10,0.7080460679096371,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+108,2,7:03,1623,1623,Anissa Rivera missed Jumper.,32,25,7,3,0.7088393031797384,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+109,2,7:00,1620,1620,La'Deja James Defensive Rebound.,32,25,7,18,0.7090763358777816,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+110,2,6:42,1602,1602,La'Deja James made Layup.,32,27,5,17,0.6550404139332007,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,Norfolk State
+111,2,6:25,1585,1585,Anissa Rivera missed Three Point Jumper.,32,27,5,3,0.6560879762157026,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+112,2,6:22,1582,1582,Norfolk State Defensive Rebound.,32,27,5,21,0.6562731846806527,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+113,2,6:01,1561,1561,Foul on La'Deja James.,32,27,5,0,0.6575767937541213,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+114,2,6:01,1561,1561,La'Deja James Turnover.,32,27,5,16,0.6575767937541213,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+115,2,5:45,1545,1545,Kieche White made Layup. Assisted by Anissa Rivera.,34,27,7,10,0.7149976879415763,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+116,2,5:35,1535,1535,La'Deja James missed Three Point Jumper.,34,27,7,0,0.7158060287816242,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+117,2,5:35,1535,1535,Anissa Rivera Block.,34,27,7,6,0.7158060287816242,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+118,2,5:29,1529,1529,Ashlyn Lockard Defensive Rebound.,34,27,7,7,0.7162953976647353,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+119,2,5:22,1522,1522,Ashlyn Lockard Turnover.,34,27,7,0,0.7168709916760722,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+120,2,5:22,1522,1522,Shekinah Howard Steal.,34,27,7,4,0.7168709916760722,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+121,2,5:18,1518,1518,Shekinah Howard Turnover.,34,27,7,10,0.7172023446720859,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+122,2,5:08,1508,1508,Madalyn Anderson missed Three Point Jumper.,34,27,7,4,0.7180392292216764,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+123,2,5:04,1504,1504,North Carolina Central Offensive Rebound.,34,27,7,2,0.7183776333859325,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+124,2,5:02,1502,1502,Kieche White missed Three Point Jumper.,34,27,7,4,0.718547665005663,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+125,2,4:58,1498,1498,Danyael Goodhope Defensive Rebound.,34,27,7,29,0.7188894462076114,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+126,2,4:29,1469,1469,Norfolk State  Turnover.,34,27,7,21,0.7214440070413782,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+127,2,4:08,1448,1448,Madalyn Anderson Turnover.,34,27,7,0,0.7233906353385293,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+128,2,4:08,1448,1448,Danyael Goodhope Steal.,34,27,7,12,0.7233906353385293,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+129,2,3:56,1436,1436,Danyael Goodhope Turnover.,34,27,7,0,0.7245028845508952,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+130,2,3:56,1436,1436,Kieche White Steal.,34,27,7,20,0.7245028845508952,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+131,2,3:36,1416,1416,Anissa Rivera missed Three Point Jumper.,34,27,7,4,0.7262948189812943,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+132,2,3:32,1412,1412,Mikaela Jones Defensive Rebound.,34,27,7,5,0.7266455689104137,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+133,2,3:27,1407,1407,Danyael Goodhope made Layup. Assisted by La'Deja James.,34,29,5,13,0.6681660812539016,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,Norfolk State
+134,2,3:14,1394,1394,Ashlyn Lockard missed Three Point Jumper.,34,29,5,4,0.6690598501697467,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+135,2,3:10,1390,1390,Anissa Rivera Offensive Rebound.,34,29,5,3,0.669332599385526,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+136,2,3:07,1387,1387,Anissa Rivera made Jumper.,36,29,7,24,0.7287966816019181,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+137,2,2:43,1363,1363,Foul on Ashlyn Lockard.,36,29,7,1,0.7308238319426948,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+138,2,2:42,1362,1362,Shekinah Howard Turnover.,36,29,7,0,0.7309080601453206,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+139,2,2:42,1362,1362,Paulina Afriyie Steal.,36,29,7,20,0.7309080601453206,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+140,2,2:22,1342,1342,Anissa Rivera missed Jumper.,36,29,7,3,0.7325971483692415,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+141,2,2:19,1339,1339,Shekinah Howard Defensive Rebound.,36,29,7,8,0.7328519920846566,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+142,2,2:11,1331,1331,Blaire Thomas missed Jumper.,36,29,7,6,0.7335346699374787,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+143,2,2:05,1325,1325,Anissa Rivera Defensive Rebound.,36,29,7,4,0.7340502588757476,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+144,2,2:01,1321,1321,Paulina Afriyie made Layup. Assisted by Kieche White.,38,29,9,23,0.7871155193479502,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+145,2,1:38,1298,1298,Shekinah Howard made Jumper. Assisted by La'Deja James.,38,31,7,0,0.7364242618059963,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,Norfolk State
+146,2,1:38,1298,1298,Foul on Madalyn Anderson.,38,31,7,0,0.7364242618059963,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+147,2,1:38,1298,1298,Shekinah Howard made Free Throw.,38,32,6,5,0.7069641149761897,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,Norfolk State
+148,2,1:33,1293,1293,Paulina Afriyie missed Layup.,38,32,6,0,0.7073775941799324,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+149,2,1:33,1293,1293,Paulina Afriyie Offensive Rebound.,38,32,6,0,0.7073775941799324,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+150,2,1:33,1293,1293,Mikaela Jones Block.,38,32,6,1,0.7073775941799324,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+151,2,1:32,1292,1292,Foul on Mikaela Jones.,38,32,6,1,0.707460802388899,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+152,2,1:31,1291,1291,Paulina Afriyie made Free Throw.,39,32,7,0,0.7370582192649668,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+153,2,1:31,1291,1291,Paulina Afriyie made Free Throw.,40,32,8,20,0.7645847664415351,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+154,2,1:11,1271,1271,Dana Echols missed Jumper.,40,32,8,5,0.7665636820575403,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+155,2,1:06,1266,1266,Anissa Rivera Defensive Rebound.,40,32,8,5,0.7670730944316994,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+156,2,1:01,1261,1261,Faith Williams missed Layup.,40,32,8,1,0.7675890220697051,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+157,2,1:00,1260,1260,Norfolk State Defensive Rebound.,40,32,8,18,0.7676930173175817,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+158,2,0:42,1242,1242,Blaire Thomas missed Jumper.,40,32,8,0,0.7696145105217336,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+159,2,0:42,1242,1242,Anissa Rivera Block.,40,32,8,4,0.7696145105217336,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+160,2,0:38,1238,1238,Anissa Rivera Defensive Rebound.,40,32,8,4,0.7700550997847416,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+161,2,0:34,1234,1234,Zaria Atkins made Jumper.,42,32,10,32,0.8196425527426802,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,North Carolina Central
+162,2,0:02,1202,1202,Norfolk State  Turnover.,42,32,10,2,0.8235530980279755,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+163,2,0:00,1200,1200,End of 2nd Quarter,42,32,10,11,0.8237988536530104,North Carolina Central,Norfolk State,4,4,0,0,NA,401180113,2020-02-03,
+164,3,9:49,1189,1189,Blaire Thomas missed Jumper.,42,32,10,4,0.8251292201934094,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+165,3,9:45,1185,1185,Paulina Afriyie Defensive Rebound.,42,32,10,25,0.8256047916098888,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+166,3,9:20,1160,1160,Anissa Rivera missed Three Point Jumper.,42,32,10,3,0.8284984715321037,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+167,3,9:17,1157,1157,Blaire Thomas Defensive Rebound.,42,32,10,9,0.8288384522701678,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+168,3,9:08,1148,1148,La'Deja James made Three Point Jumper. Assisted by Blaire Thomas.,42,35,7,11,0.7519806605703759,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,Norfolk State
+169,3,8:57,1137,1137,Kieche White made Layup.,44,35,9,24,0.8075192791052247,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,North Carolina Central
+170,3,8:33,1113,1113,Armani Franklin missed Three Point Jumper.,44,35,9,5,0.8101772381554048,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+171,3,8:28,1108,1108,Madalyn Anderson Defensive Rebound.,44,35,9,19,0.8107326756261363,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+172,3,8:09,1089,1089,Paulina Afriyie made Layup. Assisted by Ashlyn Lockard.,46,35,11,9,0.8575509207196106,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,North Carolina Central
+173,3,8:00,1080,1080,La'Deja James made Layup.,46,37,9,8,0.8138858073618441,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,Norfolk State
+174,3,7:52,1072,1072,Madalyn Anderson missed Three Point Jumper.,46,37,9,5,0.8148069266413321,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+175,3,7:47,1067,1067,Ashlyn Lockard Offensive Rebound.,46,37,9,8,0.815388715255864,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+176,3,7:39,1059,1059,Paulina Afriyie made Layup. Assisted by Kieche White.,48,37,11,1,0.8609456337166915,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,North Carolina Central
+177,3,7:38,1058,1058,Foul on Blaire Thomas.,48,37,11,0,0.8610615059742853,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+178,3,7:38,1058,1058,Paulina Afriyie made Free Throw.,49,37,12,16,0.8797394355615074,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,North Carolina Central
+179,3,7:22,1042,1042,La'Deja James missed Jumper.,49,37,12,3,0.8815557609352315,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+180,3,7:19,1039,1039,Madalyn Anderson Defensive Rebound.,49,37,12,12,0.8819026365304904,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+181,3,7:07,1027,1027,Foul on Dana Echols.,49,37,12,0,0.8833125284036133,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+182,3,7:07,1027,1027,Paulina Afriyie missed Free Throw.,49,37,12,0,0.8833125284036133,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+183,3,7:07,1027,1027,North Carolina Central Offensive Rebound.,49,37,12,0,0.8833125284036133,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+184,3,7:07,1027,1027,Paulina Afriyie made Free Throw.,50,37,13,13,0.8996066423642326,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,North Carolina Central
+185,3,6:54,1014,1014,Dana Echols made Layup. Assisted by Shekinah Howard.,50,39,11,23,0.8664070709053596,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,Norfolk State
+186,3,6:31,991,991,Paulina Afriyie Turnover.,50,39,11,0,0.8694406403842286,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+187,3,6:31,991,991,La'Deja James Steal.,50,39,11,5,0.8694406403842286,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+188,3,6:26,986,986,Dana Echols missed Layup.,50,39,11,0,0.8701259572533921,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+189,3,6:26,986,986,Anissa Rivera Block.,50,39,11,4,0.8701259572533921,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+190,3,6:22,982,982,Anissa Rivera Defensive Rebound.,50,39,11,8,0.8706812732377275,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+191,3,6:14,974,974,Kieche White missed Layup.,50,39,11,2,0.8718112858963378,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+192,3,6:12,972,972,Paulina Afriyie Offensive Rebound.,50,39,11,0,0.8720979169812568,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+193,3,6:12,972,972,Foul on Mikaela Jones.,50,39,11,0,0.8720979169812568,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+194,3,6:12,972,972,Paulina Afriyie made Free Throw.,51,39,12,0,0.8903332043575823,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,North Carolina Central
+195,3,6:12,972,972,Paulina Afriyie missed Free Throw.,51,39,12,1,0.8903332043575823,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+196,3,6:11,971,971,North Carolina Central Offensive Rebound.,51,39,12,1,0.8904706528433038,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+197,3,6:10,970,970,Kieche White Turnover.,51,39,12,0,0.8906084852015603,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+198,3,6:10,970,970,La'Deja James Steal.,51,39,12,3,0.8906084852015603,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+199,3,6:07,967,967,Foul on Anissa Rivera.,51,39,12,0,0.8910182188200257,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+200,3,6:07,967,967,La'Deja James made Free Throw.,51,40,11,0,0.8728155074680953,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,Norfolk State
+201,3,6:07,967,967,La'Deja James made Free Throw.,51,41,10,31,0.852077222198795,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,Norfolk State
+202,3,5:36,936,936,Zaria Atkins missed Jumper.,51,41,10,4,0.8561985973083219,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+203,3,5:32,932,932,Dana Echols Defensive Rebound.,51,41,10,20,0.8566800592031701,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+204,3,5:12,912,912,Dana Echols Turnover.,51,41,10,0,0.8589635808975191,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+205,3,5:12,912,912,Ashlyn Lockard Steal.,51,41,10,5,0.8589635808975191,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+206,3,5:07,907,907,Foul on Dana Echols.,51,41,10,0,0.859508630429155,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+207,3,5:07,907,907,Zaria Atkins made Free Throw.,52,41,11,0,0.8799900860791332,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,North Carolina Central
+208,3,5:07,907,907,Zaria Atkins made Free Throw.,53,41,12,9,0.8978405594920835,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,North Carolina Central
+209,3,4:58,898,898,Official TV Timeout,53,41,12,13,0.8987169931450696,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+210,3,4:45,885,885,La'Deja James made Three Point Jumper. Assisted by De'Janaire Deas.,53,44,9,22,0.8385568563158706,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,Norfolk State
+211,3,4:23,863,863,Madalyn Anderson missed Three Point Jumper.,53,44,9,4,0.8408906324843639,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+212,3,4:19,859,859,Zaria Atkins Offensive Rebound.,53,44,9,2,0.8413186651988406,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+213,3,4:17,857,857,Ashlyn Lockard Turnover.,53,44,9,0,0.8415336386349745,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+214,3,4:17,857,857,Armani Franklin Steal.,53,44,9,5,0.8415336386349745,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+215,3,4:12,852,852,Armani Franklin missed Jumper.,53,44,9,3,0.8420744585285436,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+216,3,4:09,849,849,La'Deja James Offensive Rebound.,53,44,9,0,0.8424016402077507,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+217,3,4:09,849,849,La'Deja James missed Layup.,53,44,9,4,0.8424016402077507,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+218,3,4:05,845,845,Anissa Rivera Defensive Rebound.,53,44,9,5,0.842841530856295,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+219,3,4:00,840,840,Khadija Demry made Jumper.,55,44,11,20,0.8867428959917182,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,North Carolina Central
+220,3,3:40,820,820,De'Janaire Deas Turnover.,55,44,11,0,0.8888956127425235,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+221,3,3:40,820,820,Anissa Rivera Steal.,55,44,11,7,0.8888956127425235,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+222,3,3:33,813,813,Madalyn Anderson made Three Point Jumper. Assisted by Zaria Atkins.,58,44,14,0,0.9344345645510307,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,North Carolina Central
+223,3,3:33,813,813,Official TV Timeout,58,44,14,19,0.9344345645510307,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+224,3,3:14,794,794,Shekinah Howard Turnover.,58,44,14,0,0.9362393301782918,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+225,3,3:14,794,794,Ashlyn Lockard Steal.,58,44,14,7,0.9362393301782918,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+226,3,3:07,787,787,Madalyn Anderson missed Three Point Jumper.,58,44,14,5,0.9369434772108566,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+227,3,3:02,782,782,Blaire Thomas Defensive Rebound.,58,44,14,24,0.9374607100980756,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+228,3,2:38,758,758,La'Deja James made Layup. Assisted by Mikaela Jones.,58,46,12,11,0.9137530736219465,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,Norfolk State
+229,3,2:27,747,747,Foul on Mikaela Jones.,58,46,12,0,0.915350170230371,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+230,3,2:27,747,747,Ashlyn Lockard made Free Throw.,59,46,13,1,0.9295097062839416,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,North Carolina Central
+231,3,2:26,746,746,Ashlyn Lockard missed Free Throw.,59,46,13,1,0.9296468815064303,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+232,3,2:25,745,745,Blaire Thomas Defensive Rebound.,59,46,13,6,0.9297847391436704,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+233,3,2:19,739,739,La'Deja James made Layup. Assisted by Blaire Thomas.,59,48,11,0,0.8999718553538126,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,Norfolk State
+234,3,2:19,739,739,Foul on Ashlyn Lockard.,59,48,11,0,0.8999718553538126,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+235,3,2:19,739,739,La'Deja James made Free Throw.,59,49,10,7,0.8805020073806108,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,Norfolk State
+236,3,2:12,732,732,Foul on Mikaela Jones.,59,49,10,0,0.8817753884018777,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+237,3,2:12,732,732,Paulina Afriyie made Free Throw.,60,49,11,0,0.9011694164466536,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,North Carolina Central
+238,3,2:12,732,732,Paulina Afriyie made Free Throw.,61,49,12,20,0.9176789889163155,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,North Carolina Central
+239,3,1:52,712,712,Shekinah Howard made Three Point Jumper. Assisted by Dana Echols.,61,52,9,21,0.8628230706322891,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,Norfolk State
+240,3,1:31,691,691,Kieche White missed Layup.,61,52,9,3,0.8661134316510273,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+241,3,1:28,688,688,Blaire Thomas Defensive Rebound.,61,52,9,8,0.8665512949026802,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+242,3,1:20,680,680,Blaire Thomas made Three Point Jumper. Assisted by Dana Echols.,61,55,6,25,0.7779567509801261,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,Norfolk State
+243,3,0:55,655,655,Anissa Rivera missed Jumper.,61,55,6,3,0.781406816826365,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+244,3,0:52,652,652,Dana Echols Defensive Rebound.,61,55,6,2,0.7818204216825686,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+245,3,0:50,650,650,Danyael Goodhope missed Layup.,61,55,6,0,0.782097233316211,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+246,3,0:50,650,650,Zaria Atkins Block.,61,55,6,0,0.782097233316211,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+247,3,0:50,650,650,Norfolk State Offensive Rebound.,61,55,6,3,0.782097233316211,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+248,3,0:47,647,647,Foul on Kieche White.,61,55,6,7,0.7825145057582183,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+249,3,0:40,640,640,La'Deja James missed Layup.,61,55,6,0,0.7835008057311627,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+250,3,0:40,640,640,Anissa Rivera Block.,61,55,6,1,0.7835008057311627,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+251,3,0:39,639,639,Norfolk State Offensive Rebound.,61,55,6,9,0.7836434730590164,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+252,3,0:30,630,630,Foul on Paulina Afriyie.,61,55,6,3,0.7849528670614777,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+253,3,0:27,627,627,Blaire Thomas missed Three Point Jumper.,61,55,6,3,0.7854011525380458,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+254,3,0:24,624,624,La'Deja James Offensive Rebound.,61,55,6,18,0.7858563003912632,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+255,3,0:06,606,606,La'Deja James made Jumper. Assisted by Danyael Goodhope.,61,57,4,6,0.7064743549129108,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,Norfolk State
+256,3,0:00,600,600,End of 3rd Quarter,61,57,4,20,0.7073453411645628,North Carolina Central,Norfolk State,5,5,0,0,NA,401180113,2020-02-03,
+257,4,9:40,580,580,Kieche White made Layup. Assisted by Anissa Rivera.,63,57,6,13,0.7936700378458622,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,North Carolina Central
+258,4,9:27,567,567,Blaire Thomas Turnover.,63,57,6,0,0.796528638300806,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+259,4,9:27,567,567,Anissa Rivera Steal.,63,57,6,22,0.796528638300806,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+260,4,9:05,545,545,Anissa Rivera missed Jumper.,63,57,6,4,0.8020426184272571,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+261,4,9:01,541,541,La'Deja James Defensive Rebound.,63,57,6,12,0.8030141133258382,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+262,4,8:49,529,529,La'Deja James made Layup. Assisted by Dana Echols.,63,59,4,0,0.7207301304845498,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,Norfolk State
+263,4,8:49,529,529,Foul on Paulina Afriyie.,63,59,4,0,0.7207301304845498,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+264,4,8:49,529,529,La'Deja James missed Free Throw.,63,59,4,1,0.7207301304845498,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+265,4,8:48,528,528,Danyael Goodhope Offensive Rebound.,63,59,4,3,0.7209076304862077,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+266,4,8:45,525,525,Foul on Ashlyn Lockard.,63,59,4,0,0.7214312953635538,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+267,4,8:45,525,525,Danyael Goodhope made Free Throw.,63,60,3,0,0.6712136443976842,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,Norfolk State
+268,4,8:45,525,525,Danyael Goodhope made Free Throw.,63,61,2,16,0.6167523577134691,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,Norfolk State
+269,4,8:29,509,509,Kieche White missed Layup.,63,61,2,3,0.6183047001285601,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+270,4,8:26,506,506,Danyael Goodhope Defensive Rebound.,63,61,2,3,0.6185867594952554,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+271,4,8:23,503,503,Blaire Thomas Turnover.,63,61,2,12,0.6188684181490371,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+272,4,8:11,491,491,Zaria Atkins missed Layup.,63,61,2,3,0.6200109685922749,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+273,4,8:08,488,488,Blaire Thomas Defensive Rebound.,63,61,2,16,0.6203055556997007,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+274,4,7:52,472,472,Ta'Liyah Edmonds missed Layup.,63,61,2,3,0.6219947670630694,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+275,4,7:49,469,469,Madalyn Anderson Defensive Rebound.,63,61,2,19,0.6223412702838993,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+276,4,7:30,450,450,Kieche White made Layup.,65,61,4,18,0.7350453867815689,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,North Carolina Central
+277,4,7:12,432,432,Danyael Goodhope Turnover.,65,61,4,18,0.7400698008941765,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+278,4,6:54,414,414,Kieche White made Jumper.,67,61,6,14,0.8337646466085056,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,North Carolina Central
+279,4,6:40,400,400,Danyael Goodhope made Jumper. Assisted by Mikaela Jones.,67,63,4,18,0.7494575780604829,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,Norfolk State
+280,4,6:22,382,382,Foul on Danyael Goodhope.,67,63,4,10,0.7543756156527077,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+281,4,6:12,372,372,Zaria Atkins missed Jumper.,67,63,4,5,0.7572037406170689,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+282,4,6:07,367,367,Paulina Afriyie Offensive Rebound.,67,63,4,20,0.7586730539794878,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+283,4,5:47,347,347,Ashlyn Lockard missed Layup.,67,63,4,3,0.7651173532152662,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+284,4,5:44,344,344,Mikaela Jones Defensive Rebound.,67,63,4,20,0.7661832131752562,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+285,4,5:24,324,324,La'Deja James made Jumper.,67,65,2,17,0.6492958849202128,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,Norfolk State
+286,4,5:07,307,307,Kieche White missed Three Point Jumper.,67,65,2,4,0.6545610534574281,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+287,4,5:03,303,303,Norfolk State Defensive Rebound.,67,65,2,17,0.6555263660792452,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+288,4,4:46,286,286,Mikaela Jones made Layup. Assisted by Danyael Goodhope.,67,67,0,14,0.5,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,Norfolk State
+289,4,4:32,272,272,Paulina Afriyie made Layup.,69,67,2,22,0.6558439128128998,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,North Carolina Central
+290,4,4:10,250,250,Blaire Thomas made Layup. Assisted by Danyael Goodhope.,69,69,0,20,0.5,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,Norfolk State
+291,4,3:50,230,230,Kieche White missed Three Point Jumper.,69,69,0,4,0.5,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+292,4,3:46,226,226,La'Deja James Defensive Rebound.,69,69,0,15,0.5,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+293,4,3:31,211,211,Mikaela Jones missed Layup.,69,69,0,0,0.5,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+294,4,3:31,211,211,Paulina Afriyie Block.,69,69,0,1,0.5,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+295,4,3:30,210,210,Mikaela Jones Offensive Rebound.,69,69,0,1,0.5,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+296,4,3:29,209,209,Foul on Paulina Afriyie.,69,69,0,0,0.5,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+297,4,3:29,209,209,Official TV Timeout,69,69,0,0,0.5,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+298,4,3:29,209,209,Mikaela Jones missed Free Throw.,69,69,0,0,0.5,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+299,4,3:29,209,209,Norfolk State Offensive Rebound.,69,69,0,0,0.5,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+300,4,3:29,209,209,Mikaela Jones made Free Throw.,69,70,-1,11,0.41918107087124096,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,Norfolk State
+301,4,3:18,198,198,Kieche White Turnover.,69,70,-1,0,0.4157657335231151,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+302,4,3:18,198,198,Danyael Goodhope Steal.,69,70,-1,2,0.4157657335231151,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+303,4,3:16,196,196,Foul on Kieche White.,69,70,-1,9,0.41496834121314574,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+304,4,3:07,187,187,Armani Franklin missed Three Point Jumper.,69,70,-1,5,0.41070367471793984,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+305,4,3:02,182,182,Paulina Afriyie Defensive Rebound.,69,70,-1,1,0.40817035466920276,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+306,4,3:01,181,181,Foul on Danyael Goodhope.,69,70,-1,15,0.40766129187880695,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+307,4,2:46,166,166,Kieche White missed Layup.,69,70,-1,5,0.39983026243744335,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+308,4,2:41,161,161,Paulina Afriyie Offensive Rebound.,69,70,-1,1,0.3970978492795027,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+309,4,2:40,160,160,Paulina Afriyie missed Layup.,69,70,-1,0,0.39654162509172386,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+310,4,2:40,160,160,Blaire Thomas Block.,69,70,-1,3,0.39654162509172386,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+311,4,2:37,157,157,Blaire Thomas Defensive Rebound.,69,70,-1,13,0.39485142829096265,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+312,4,2:24,144,144,Blaire Thomas made Layup.,69,72,-3,24,0.20121745842773786,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,Norfolk State
+313,4,2:00,120,120,Paulina Afriyie missed Layup.,69,72,-3,3,0.16889970845965632,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+314,4,1:57,117,117,Danyael Goodhope Defensive Rebound.,69,72,-3,2,0.16462413485469854,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+315,4,1:55,115,115,Danyael Goodhope Turnover.,69,72,-3,0,0.16174669421751106,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+316,4,1:55,115,115,Paulina Afriyie Steal.,69,72,-3,12,0.16174669421751106,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+317,4,1:43,103,103,Kieche White missed Jumper.,69,72,-3,4,0.1440804285073075,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+318,4,1:39,99,99,La'Deja James Defensive Rebound.,69,72,-3,4,0.13806680030430343,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+319,4,1:35,95,95,Foul on Anissa Rivera.,69,72,-3,0,0.13201018320776053,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+320,4,1:35,95,95,Ta'Liyah Edmonds missed Free Throw.,69,72,-3,0,0.13201018320776053,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+321,4,1:35,95,95,Norfolk State Offensive Rebound.,69,72,-3,0,0.13201018320776053,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+322,4,1:35,95,95,Ta'Liyah Edmonds made Free Throw.,69,73,-4,9,0.07508591296209673,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,Norfolk State
+323,4,1:26,86,86,Foul on Armani Franklin.,69,73,-4,8,0.06465282656395233,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+324,4,1:18,78,78,Foul on Danyael Goodhope.,69,73,-4,0,0.05622011217897148,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+325,4,1:18,78,78,Kieche White made Free Throw.,70,73,-3,0,0.1076028815171919,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,North Carolina Central
+326,4,1:18,78,78,Kieche White made Free Throw.,71,73,-2,7,0.1961852913236813,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,North Carolina Central
+327,4,1:11,71,71,Foul on Anissa Rivera.,71,73,-2,0,0.18556107769279961,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+328,4,1:11,71,71,Armani Franklin made Free Throw.,71,74,-3,0,0.09808613292255598,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,Norfolk State
+329,4,1:11,71,71,Armani Franklin missed Free Throw.,71,74,-3,1,0.09808613292255598,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+330,4,1:10,70,70,Blaire Thomas Offensive Rebound.,71,74,-3,3,0.09674581788288925,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+331,4,1:07,67,67,Foul on Madalyn Anderson.,71,74,-3,2,0.09278887469628637,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+332,4,1:05,65,65,La'Deja James made Free Throw.,71,75,-4,0,0.04387525551383515,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,Norfolk State
+333,4,1:05,65,65,La'Deja James made Free Throw.,71,76,-5,9,0.02079716034540695,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,Norfolk State
+334,4,0:56,56,56,Madalyn Anderson missed Three Point Jumper.,71,76,-5,3,0.016436771091425377,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+335,4,0:53,53,53,Foul on Paulina Afriyie.,71,76,-5,0,0.015154874726798074,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+336,4,0:53,53,53,La'Deja James made Free Throw.,71,77,-6,0,0.0066333189868317205,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,Norfolk State
+337,4,0:53,53,53,La'Deja James missed Free Throw.,71,77,-6,0,0.0066333189868317205,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+338,4,0:53,53,53,La'Deja James Defensive Rebound.,71,77,-6,0,0.0066333189868317205,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+339,4,0:53,53,53,Madalyn Anderson Defensive Rebound.,71,77,-6,5,0.0066333189868317205,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+340,4,0:48,48,48,Foul on Armani Franklin.,71,77,-6,0,0.005608540256019785,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+341,4,0:48,48,48,Ashlyn Lockard made Free Throw.,72,77,-5,0,0.013191971985376541,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,North Carolina Central
+342,4,0:48,48,48,Ashlyn Lockard made Free Throw.,73,77,-4,11,0.030712436917938523,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,North Carolina Central
+343,4,0:37,37,37,Blaire Thomas made Layup. Assisted by La'Deja James.,73,79,-6,7,0.0038039788702828843,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,Norfolk State
+344,4,0:30,30,30,Khadija Demry missed Jumper.,73,79,-6,0,0.0029348346104883754,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+345,4,0:30,30,30,Ta'Liyah Edmonds Block.,73,79,-6,1,0.0029348346104883754,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+346,4,0:29,29,29,Blaire Thomas Defensive Rebound.,73,79,-6,0,0.0028262080676618906,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+347,4,0:29,29,29,Norfolk State Defensive Rebound.,73,79,-6,5,0.0028262080676618906,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+348,4,0:24,24,24,Foul on Ashlyn Lockard.,73,79,-6,0,0.0023354657003018873,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+349,4,0:24,24,24,Blaire Thomas made Free Throw.,73,80,-7,0,8.522823345252797e-4,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,Norfolk State
+350,4,0:24,24,24,Blaire Thomas made Free Throw.,73,81,-8,17,3.1073032787292174e-4,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,Norfolk State
+351,4,0:07,7,7,Kieche White missed Layup.,73,81,-8,0,1.2311245365010233e-4,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+352,4,0:07,7,7,Paulina Afriyie made Layup.,75,81,-6,1,0.0011675063603289724,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,North Carolina Central
+353,4,0:06,6,6,Paulina Afriyie Offensive Rebound.,75,81,-6,0,0.0011184110655953123,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+354,4,0:06,6,6,Foul on Zaria Atkins.,75,81,-6,0,0.0011184110655953123,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,
+355,4,0:06,6,6,La'Deja James made Free Throw.,75,82,-7,0,3.60671662829465e-4,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,Norfolk State
+356,4,0:06,6,6,La'Deja James made Free Throw.,75,83,-8,6,1.1625173381262733e-4,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,Norfolk State
+357,4,0:00,0,0,End of 4th Quarter,75,83,-8,0,3.257488532207521e-70,North Carolina Central,Norfolk State,6,6,0,0,NA,401180113,2020-02-03,

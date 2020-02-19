@@ -1,0 +1,401 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:49,2389,2389,Uju Ezeudu missed Jumper.,0,0,0,8,0.5,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,NA
+2,1,9:41,2381,2381,Melissa Leet Defensive Rebound.,0,0,0,1,0.5,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+3,1,9:40,2380,2380,Foul on Lauren Loven.,0,0,0,0,0.5,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+4,1,9:40,2380,2380,Claire Orth made Free Throw.,0,1,-1,0,0.47773202597081504,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,North Dakota
+5,1,9:40,2380,2380,Claire Orth made Free Throw.,0,2,-2,23,0.45555221193662043,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,North Dakota
+6,1,9:17,2357,2357,Uju Ezeudu made Layup.,2,2,0,0,0.5,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,Denver
+7,1,9:17,2357,2357,Foul on Melissa Leet.,2,2,0,0,0.5,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+8,1,9:17,2357,2357,Uju Ezeudu missed Free Throw.,2,2,0,1,0.5,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+9,1,9:16,2356,2356,Melissa Leet Defensive Rebound.,2,2,0,8,0.5,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+10,1,9:08,2348,2348,Jaclyn Jarnot missed Layup.,2,2,0,3,0.5,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+11,1,9:05,2345,2345,Lauren Loven Defensive Rebound.,2,2,0,12,0.5,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+12,1,8:53,2333,2333,Madison Nelson missed Layup.,2,2,0,4,0.5,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+13,1,8:49,2329,2329,Melissa Leet Defensive Rebound.,2,2,0,4,0.5,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+14,1,8:45,2325,2325,Claire Orth missed Layup.,2,2,0,1,0.5,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+15,1,8:44,2324,2324,Jaclyn Jarnot Offensive Rebound.,2,2,0,4,0.5,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+16,1,8:40,2320,2320,Jaclyn Jarnot missed Jumper.,2,2,0,4,0.5,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+17,1,8:36,2316,2316,Jaclyn Jarnot Offensive Rebound.,2,2,0,4,0.5,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+18,1,8:32,2312,2312,Julia Fleecs made Layup.,2,4,-2,16,0.454078361268111,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,North Dakota
+19,1,8:16,2296,2296,Uju Ezeudu made Jumper. Assisted by Briana Johnson.,4,4,0,20,0.5,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,Denver
+20,1,7:56,2276,2276,Alaina Jarnot made Three Point Jumper. Assisted by Jaclyn Jarnot.,4,7,-3,12,0.4301693707440278,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,North Dakota
+21,1,7:44,2264,2264,Madison Nelson Turnover.,4,7,-3,0,0.4297689026246148,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+22,1,7:44,2264,2264,Julia Fleecs Steal.,4,7,-3,4,0.4297689026246148,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+23,1,7:40,2260,2260,Claire Orth missed Layup.,4,7,-3,7,0.4296350218399352,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+24,1,7:33,2253,2253,Alaina Jarnot Offensive Rebound.,4,7,-3,0,0.4294002827316075,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+25,1,7:33,2253,2253,Alaina Jarnot missed Layup.,4,7,-3,2,0.4294002827316075,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+26,1,7:31,2251,2251,Claire Orth Offensive Rebound.,4,7,-3,10,0.42933311281134284,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+27,1,7:21,2241,2241,Claire Orth made Three Point Jumper. Assisted by Alaina Jarnot.,4,10,-6,1,0.3608003212595566,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,North Dakota
+28,1,7:20,2240,2240,Denver  Timeout,4,10,-6,23,0.3607368537858645,Denver,North Dakota,3,4,1,0,NA,401179936,2020-01-01,
+29,1,6:57,2217,2217,Jasmine Jeffcoat missed Layup.,4,10,-6,3,0.35927314177294484,Denver,North Dakota,3,4,1,0,NA,401179936,2020-01-01,
+30,1,6:54,2214,2214,Claire Orth Defensive Rebound.,4,10,-6,16,0.35908171655760157,Denver,North Dakota,3,4,1,0,NA,401179936,2020-01-01,
+31,1,6:38,2198,2198,Foul on Mikayla Reinke.,4,10,-6,0,0.3580591313077635,Denver,North Dakota,3,4,1,0,NA,401179936,2020-01-01,
+32,1,6:38,2198,2198,Mikayla Reinke Turnover.,4,10,-6,10,0.3580591313077635,Denver,North Dakota,3,4,1,0,NA,401179936,2020-01-01,
+33,1,6:28,2188,2188,Lauren Loven Turnover.,4,10,-6,21,0.35741879334398535,Denver,North Dakota,3,4,1,0,NA,401179936,2020-01-01,
+34,1,6:07,2167,2167,Olivia Lane made Jumper.,4,12,-8,8,0.31218152766600465,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,North Dakota
+35,1,5:59,2159,2159,Foul on Olivia Lane.,4,12,-8,5,0.31153939656493634,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+36,1,5:54,2154,2154,Madison Nelson made Jumper.,6,12,-6,16,0.3552353457063931,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,Denver
+37,1,5:38,2138,2138,Lilly Keplin missed Three Point Jumper.,6,12,-6,1,0.35420200405614605,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+38,1,5:37,2137,2137,Olivia Lane Offensive Rebound.,6,12,-6,9,0.3541372688000424,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+39,1,5:28,2128,2128,Lilly Keplin made Jumper.,6,14,-8,15,0.30904118790783114,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,North Dakota
+40,1,5:13,2113,2113,Foul on Alexius Foster.,6,14,-8,0,0.30782606684583685,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+41,1,5:13,2113,2113,Alexius Foster Turnover.,6,14,-8,1,0.30782606684583685,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+42,1,5:12,2112,2112,Lilly Keplin Turnover.,6,14,-8,12,0.3077448998354602,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+43,1,5:00,2100,2100,Claire Gritt made Jumper. Assisted by Madison Nelson.,8,14,-6,31,0.35172845262983876,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,Denver
+44,1,4:29,2069,2069,Kacie Borowicz made Jumper.,8,16,-8,2,0.3042340847970655,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,North Dakota
+45,1,4:27,2067,2067,Foul on Claire Orth.,8,16,-8,16,0.30406974220916483,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+46,1,4:11,2051,2051,Claire Gritt made Three Point Jumper. Assisted by Madison Nelson.,11,16,-5,18,0.37252635883102175,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,Denver
+47,1,3:53,2033,2033,Julia Fleecs missed Three Point Jumper.,11,16,-5,6,0.3714934241893764,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+48,1,3:47,2027,2027,Alexius Foster Defensive Rebound.,11,16,-5,7,0.3711473471633156,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+49,1,3:40,2020,2020,Madison Nelson made Layup. Assisted by Claire Gritt.,13,16,-3,13,0.42130468250746006,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,Denver
+50,1,3:27,2007,2007,Olivia Lane made Jumper.,13,18,-5,5,0.3699871028675368,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,North Dakota
+51,1,3:22,2002,2002,Briana Johnson Turnover.,13,18,-5,7,0.36969539520948,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+52,1,3:15,1995,1995,Alaina Jarnot missed Three Point Jumper.,13,18,-5,3,0.3692858654887063,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+53,1,3:12,1992,1992,Denver Defensive Rebound.,13,18,-5,27,0.3691099405441643,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+54,1,2:45,1965,1965,Foul on Tsimba Malonga.,13,18,-5,0,0.3675151268882924,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+55,1,2:45,1965,1965,Tsimba Malonga Turnover.,13,18,-5,7,0.3675151268882924,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+56,1,2:38,1958,1958,Megan Zander made Three Point Jumper. Assisted by Alaina Jarnot.,13,21,-8,11,0.2949427803977825,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,North Dakota
+57,1,2:27,1947,1947,Uju Ezeudu Turnover.,13,21,-8,0,0.29400069978618953,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+58,1,2:27,1947,1947,Julia Fleecs Steal.,13,21,-8,9,0.29400069978618953,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+59,1,2:18,1938,1938,Alaina Jarnot Turnover.,13,21,-8,0,0.2932267026449202,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+60,1,2:18,1938,1938,Madison Nelson Steal.,13,21,-8,6,0.2932267026449202,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+61,1,2:12,1932,1932,Meghan Boyd made Three Point Jumper. Assisted by Uju Ezeudu.,16,21,-5,21,0.365536339800248,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,Denver
+62,1,1:51,1911,1911,Melissa Leet missed Jumper.,16,21,-5,2,0.36426753212859625,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+63,1,1:49,1909,1909,Maggie Manson Offensive Rebound.,16,21,-5,0,0.3641469559785663,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+64,1,1:49,1909,1909,Foul on Melissa Leet.,16,21,-5,0,0.3641469559785663,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+65,1,1:49,1909,1909,Melissa Leet Turnover.,16,21,-5,0,0.3641469559785663,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+66,1,1:49,1909,1909,Madison Nelson missed Free Throw.,16,21,-5,0,0.3641469559785663,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+67,1,1:49,1909,1909,Denver Offensive Rebound.,16,21,-5,0,0.3641469559785663,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+68,1,1:49,1909,1909,Madison Nelson made Free Throw.,17,21,-4,29,0.39032936272641433,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,Denver
+69,1,1:20,1880,1880,Mikayla Reinke missed Layup.,17,21,-4,1,0.388893387512127,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+70,1,1:19,1879,1879,Madison Nelson Defensive Rebound.,17,21,-4,14,0.38884387403696735,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+71,1,1:05,1865,1865,Meghan Boyd made Three Point Jumper. Assisted by Madison Nelson.,20,21,-1,17,0.4715872527827407,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,Denver
+72,1,0:48,1848,1848,Foul on Tsimba Malonga.,20,21,-1,0,0.4713657276360611,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+73,1,0:48,1848,1848,Alaina Jarnot missed Free Throw.,20,21,-1,0,0.4713657276360611,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+74,1,0:48,1848,1848,North Dakota Offensive Rebound.,20,21,-1,0,0.4713657276360611,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+75,1,0:48,1848,1848,Alaina Jarnot made Free Throw.,20,22,-2,9,0.44291866414248204,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,North Dakota
+76,1,0:39,1839,1839,Foul on Madison Nelson.,20,22,-2,0,0.4426855992857409,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+77,1,0:39,1839,1839,Madison Nelson Turnover.,20,22,-2,27,0.4426855992857409,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+78,1,0:12,1812,1812,Foul on Mikayla Reinke.,20,22,-2,0,0.4419818212856992,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+79,1,0:12,1812,1812,Mikayla Reinke Turnover.,20,22,-2,6,0.4419818212856992,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+80,1,0:06,1806,1806,Briana Johnson made Jumper.,22,22,0,6,0.5,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,Denver
+81,1,0:00,1800,1800,End of 1st Quarter,22,22,0,14,0.5,Denver,North Dakota,3,4,0,0,NA,401179936,2020-01-01,
+82,2,9:46,1786,1786,Julia Fleecs made Three Point Jumper. Assisted by Jaclyn Jarnot.,22,25,-3,19,0.41244683720585124,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,North Dakota
+83,2,9:27,1767,1767,Madison Nelson missed Layup.,22,25,-3,1,0.41169718104063374,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+84,2,9:26,1766,1766,Julia Fleecs Defensive Rebound.,22,25,-3,20,0.41165745737907367,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+85,2,9:06,1746,1746,Claire Orth missed Jumper.,22,25,-3,5,0.4108567290597538,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+86,2,9:01,1741,1741,Alaina Jarnot Offensive Rebound.,22,25,-3,3,0.41065456452204235,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+87,2,8:58,1738,1738,Jaclyn Jarnot missed Three Point Jumper.,22,25,-3,4,0.4105328602102706,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+88,2,8:54,1734,1734,Jasmine Jeffcoat Defensive Rebound.,22,25,-3,3,0.4103701021429877,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+89,2,8:51,1731,1731,Lauren Loven Turnover.,22,25,-3,0,0.41024766156797043,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+90,2,8:51,1731,1731,Julia Fleecs Steal.,22,25,-3,5,0.41024766156797043,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+91,2,8:46,1726,1726,Jaclyn Jarnot missed Jumper.,22,25,-3,0,0.4100428675384056,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+92,2,8:46,1726,1726,Jasmine Jeffcoat Block.,22,25,-3,0,0.4100428675384056,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+93,2,8:46,1726,1726,North Dakota Offensive Rebound.,22,25,-3,7,0.4100428675384056,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+94,2,8:39,1719,1719,Olivia Lane made Jumper.,22,27,-5,0,0.35244708618493154,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,North Dakota
+95,2,8:39,1719,1719,Foul on Jasmine Jeffcoat.,22,27,-5,0,0.35244708618493154,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+96,2,8:39,1719,1719,Olivia Lane made Free Throw.,22,28,-6,10,0.32520350269111636,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,North Dakota
+97,2,8:29,1709,1709,Lauren Loven missed Three Point Jumper.,22,28,-6,4,0.3244504643102384,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+98,2,8:25,1705,1705,Alaina Jarnot Defensive Rebound.,22,28,-6,18,0.3241473764115669,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+99,2,8:07,1687,1687,Claire Orth made Layup.,22,30,-8,9,0.2712890526279981,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,North Dakota
+100,2,7:58,1678,1678,Madison Nelson made Layup. Assisted by Meghan Boyd.,24,30,-6,8,0.3220861928026598,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,Denver
+101,2,7:50,1670,1670,Jaclyn Jarnot made Layup. Assisted by Mikayla Reinke.,24,32,-8,16,0.26974149223922556,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,North Dakota
+102,2,7:34,1654,1654,Briana Johnson made Layup.,26,32,-6,32,0.32030529000282876,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,Denver
+103,2,7:02,1622,1622,Jaclyn Jarnot Turnover.,26,32,-6,0,0.31800088202346866,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+104,2,7:02,1622,1622,Meghan Boyd Steal.,26,32,-6,5,0.31800088202346866,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+105,2,6:57,1617,1617,Uju Ezeudu missed Layup.,26,32,-6,1,0.3176453181969819,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+106,2,6:56,1616,1616,Uju Ezeudu Offensive Rebound.,26,32,-6,3,0.31757429642426555,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+107,2,6:53,1613,1613,Foul on Jaclyn Jarnot.,26,32,-6,0,0.3173613871881611,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+108,2,6:53,1613,1613,Meghan Boyd Turnover.,26,32,-6,9,0.3173613871881611,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+109,2,6:44,1604,1604,Jaclyn Jarnot Turnover.,26,32,-6,0,0.3167237281964848,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+110,2,6:44,1604,1604,Madison Nelson Steal.,26,32,-6,6,0.3167237281964848,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+111,2,6:38,1598,1598,Madison Nelson missed Layup.,26,32,-6,6,0.3162991259582554,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+112,2,6:32,1592,1592,Madison Nelson Offensive Rebound.,26,32,-6,13,0.3158745667092496,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+113,2,6:19,1579,1579,Madison Nelson made Layup. Assisted by Briana Johnson.,28,32,-4,0,0.3733103017289127,Denver,North Dakota,4,4,0,1,NA,401179936,2020-01-01,Denver
+114,2,6:19,1579,1579,North Dakota  Timeout,28,32,-4,0,0.3733103017289127,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+115,2,6:19,1579,1579,Official TV Timeout,28,32,-4,25,0.3733103017289127,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+116,2,5:54,1554,1554,Lilly Keplin made Three Point Jumper. Assisted by Kacie Borowicz.,28,35,-7,7,0.2857231269723871,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,North Dakota
+117,2,5:47,1547,1547,Foul on Mikayla Reinke.,28,35,-7,5,0.28516299834698877,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+118,2,5:42,1542,1542,Foul on Kacie Borowicz.,28,35,-7,0,0.2847606955621251,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+119,2,5:42,1542,1542,Claire Gritt made Free Throw.,29,35,-6,0,0.31229726729239055,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,Denver
+120,2,5:42,1542,1542,Claire Gritt made Free Throw.,30,35,-5,13,0.3412262744219781,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,Denver
+121,2,5:29,1529,1529,Melissa Leet Turnover.,30,35,-5,10,0.3403932621694192,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+122,2,5:19,1519,1519,Foul on Claire Orth.,30,35,-5,0,0.3397427540296165,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+123,2,5:19,1519,1519,Briana Johnson made Free Throw.,31,35,-4,0,0.3701548322151836,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,Denver
+124,2,5:19,1519,1519,Briana Johnson made Free Throw.,32,35,-3,10,0.4016332551301298,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,Denver
+125,2,5:09,1509,1509,Foul on Uju Ezeudu.,32,35,-3,0,0.40120867983807257,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+126,2,5:09,1509,1509,Julia Fleecs made Free Throw.,32,36,-4,0,0.3696057263024707,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,North Dakota
+127,2,5:09,1509,1509,Julia Fleecs made Free Throw.,32,37,-5,11,0.3390824558628325,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,North Dakota
+128,2,4:58,1498,1498,Claire Gritt made Three Point Jumper. Assisted by Briana Johnson.,35,37,-2,23,0.4333308349475296,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,Denver
+129,2,4:35,1475,1475,Melissa Leet missed Jumper.,35,37,-2,5,0.43263020688726417,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+130,2,4:30,1470,1470,Julia Fleecs Offensive Rebound.,35,37,-2,2,0.432473304584028,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+131,2,4:28,1468,1468,Lilly Keplin made Three Point Jumper. Assisted by Julia Fleecs.,35,40,-5,11,0.3362473957765369,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,North Dakota
+132,2,4:17,1457,1457,Uju Ezeudu made Layup.,37,40,-3,14,0.39886503333735746,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,Denver
+133,2,4:03,1443,1443,Lilly Keplin missed Three Point Jumper.,37,40,-3,4,0.3981916750619686,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+134,2,3:59,1439,1439,Uju Ezeudu Defensive Rebound.,37,40,-3,12,0.3980015996582488,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+135,2,3:47,1427,1427,Claire Gritt made Layup.,39,40,-1,0,0.4653770962663276,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,Denver
+136,2,3:47,1427,1427,Foul on Kacie Borowicz.,39,40,-1,0,0.4653770962663276,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+137,2,3:47,1427,1427,Claire Gritt made Free Throw.,40,40,0,16,0.5,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,Denver
+138,2,3:31,1411,1411,Olivia Lane Turnover.,40,40,0,0,0.5,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+139,2,3:31,1411,1411,Claire Gritt Steal.,40,40,0,9,0.5,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+140,2,3:22,1402,1402,Tsimba Malonga missed Layup.,40,40,0,4,0.5,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+141,2,3:18,1398,1398,Olivia Lane Defensive Rebound.,40,40,0,20,0.5,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+142,2,2:58,1378,1378,Melissa Leet made Jumper. Assisted by Megan Zander.,40,42,-2,10,0.4295863310634024,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,North Dakota
+143,2,2:48,1368,1368,Madison Nelson missed Three Point Jumper.,40,42,-2,5,0.4292867332288323,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+144,2,2:43,1363,1363,Olivia Lane Defensive Rebound.,40,42,-2,7,0.429136947864899,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+145,2,2:36,1356,1356,Lilly Keplin missed Three Point Jumper.,40,42,-2,4,0.42892696668356584,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+146,2,2:32,1352,1352,Claire Gritt Defensive Rebound.,40,42,-2,12,0.42880671685963717,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+147,2,2:20,1340,1340,Madison Nelson made Three Point Jumper. Assisted by Claire Gritt.,43,42,1,15,0.5359630312872208,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,Denver
+148,2,2:05,1325,1325,Foul on Jasmine Jeffcoat.,43,42,1,0,0.5361962179342786,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+149,2,2:05,1325,1325,Melissa Leet missed Free Throw.,43,42,1,0,0.5361962179342786,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+150,2,2:05,1325,1325,North Dakota Offensive Rebound.,43,42,1,0,0.5361962179342786,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+151,2,2:05,1325,1325,Melissa Leet made Free Throw.,43,43,0,3,0.5,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,North Dakota
+152,2,2:02,1322,1322,Foul on Megan Zander.,43,43,0,0,0.5,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+153,2,2:02,1322,1322,Meghan Boyd made Free Throw.,44,43,1,0,0.5362433928335996,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,Denver
+154,2,2:02,1322,1322,Meghan Boyd made Free Throw.,45,43,2,10,0.5721079066347508,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,Denver
+155,2,1:52,1312,1312,Lilly Keplin made Jumper.,45,45,0,7,0.5,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,North Dakota
+156,2,1:45,1305,1305,Meghan Boyd Turnover.,45,45,0,0,0.5,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+157,2,1:45,1305,1305,Megan Zander Steal.,45,45,0,4,0.5,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+158,2,1:41,1301,1301,Megan Zander made Layup.,45,47,-2,0,0.42722903042319654,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,North Dakota
+159,2,1:41,1301,1301,Foul on Meghan Boyd.,45,47,-2,0,0.42722903042319654,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+160,2,1:41,1301,1301,Megan Zander made Free Throw.,45,48,-3,20,0.39180088913456795,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,North Dakota
+161,2,1:21,1281,1281,Sam Deem missed Jumper.,45,48,-3,0,0.3908395712192175,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+162,2,1:21,1281,1281,North Dakota Defensive Rebound.,45,48,-3,15,0.3908395712192175,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+163,2,1:06,1266,1266,Lilly Keplin made Three Point Jumper. Assisted by Kacie Borowicz.,45,51,-6,10,0.2903070921407907,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,North Dakota
+164,2,0:56,1256,1256,Uju Ezeudu missed Layup.,45,51,-6,0,0.28940822506062375,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+165,2,0:56,1256,1256,Melissa Leet Block.,45,51,-6,0,0.28940822506062375,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+166,2,0:56,1256,1256,Uju Ezeudu Offensive Rebound.,45,51,-6,2,0.28940822506062375,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+167,2,0:54,1254,1254,Uju Ezeudu made Free Throw.,46,51,-5,0,0.32097584649714567,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,Denver
+168,2,0:54,1254,1254,Foul on Melissa Leet.,45,51,-6,0,0.2892254119878234,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+169,2,0:54,1254,1254,Uju Ezeudu made Free Throw.,47,51,-4,12,0.3544735032501303,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,Denver
+170,2,0:42,1242,1242,Julia Fleecs Turnover.,47,51,-4,16,0.3536421198964404,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+171,2,0:26,1226,1226,Claire Gritt missed Three Point Jumper.,47,51,-4,4,0.35248300573931224,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+172,2,0:22,1222,1222,Julia Fleecs Defensive Rebound.,47,51,-4,4,0.35218345336701823,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+173,2,0:18,1218,1218,Lilly Keplin missed Three Point Jumper.,47,51,-4,6,0.3518797712997255,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+174,2,0:12,1212,1212,Alaina Jarnot Offensive Rebound.,47,51,-4,1,0.3514162652942517,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+175,2,0:11,1211,1211,Alaina Jarnot Turnover.,47,51,-4,0,0.3513380610310681,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+176,2,0:11,1211,1211,Uju Ezeudu Steal.,47,51,-4,5,0.3513380610310681,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+177,2,0:06,1206,1206,Uju Ezeudu made Layup.,49,51,-2,2,0.4237395951292993,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,Denver
+178,2,0:04,1204,1204,Alaina Jarnot Turnover.,49,51,-2,4,0.4236562704258714,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+179,2,0:00,1200,1200,Meghan Boyd missed Three Point Jumper.,49,51,-2,0,0.4234906714856242,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+180,2,0:00,1200,1200,North Dakota Defensive Rebound.,49,51,-2,0,0.4234906714856242,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+181,2,0:00,1200,1200,End of 2nd Quarter,49,51,-2,8,0.4234906714856242,Denver,North Dakota,4,3,0,0,NA,401179936,2020-01-01,
+182,3,9:52,1192,1192,Foul on Lauren Loven.,49,51,-2,4,0.42316337537567084,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+183,3,9:48,1188,1188,Jaclyn Jarnot made Layup.,49,53,-4,16,0.3495704609323905,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,North Dakota
+184,3,9:32,1172,1172,Briana Johnson missed Jumper.,49,53,-4,2,0.3483831944244355,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+185,3,9:30,1170,1170,Uju Ezeudu Offensive Rebound.,49,53,-4,0,0.3482366209969002,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+186,3,9:30,1170,1170,Foul on Jaclyn Jarnot.,49,53,-4,15,0.3482366209969002,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+187,3,9:15,1155,1155,Madison Nelson missed Three Point Jumper.,49,53,-4,1,0.3471468092161474,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+188,3,9:14,1154,1154,Melissa Leet Defensive Rebound.,49,53,-4,0,0.3470746308123483,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+189,3,9:14,1154,1154,Foul on Uju Ezeudu.,49,53,-4,24,0.3470746308123483,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+190,3,8:50,1130,1130,Jaclyn Jarnot missed Three Point Jumper.,49,53,-4,4,0.34535025650275614,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+191,3,8:46,1126,1126,Madison Nelson Defensive Rebound.,49,53,-4,8,0.3450629984373635,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+192,3,8:38,1118,1118,Uju Ezeudu missed Three Point Jumper.,49,53,-4,3,0.3444871813524882,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+193,3,8:35,1115,1115,Jaclyn Jarnot Defensive Rebound.,49,53,-4,6,0.3442706002963602,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+194,3,8:29,1109,1109,Alaina Jarnot missed Three Point Jumper.,49,53,-4,1,0.34383600047661134,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+195,3,8:28,1108,1108,Denver Defensive Rebound.,49,53,-4,14,0.3437633522890891,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+196,3,8:14,1094,1094,Foul on Julia Fleecs.,49,53,-4,11,0.34273803924661544,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+197,3,8:03,1083,1083,Uju Ezeudu made Layup. Assisted by Madison Nelson.,51,53,-2,2,0.41887882304075963,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,Denver
+198,3,8:01,1081,1081,Julia Fleecs made Jumper.,51,55,-4,26,0.3417682142936443,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,North Dakota
+199,3,7:35,1055,1055,Tsimba Malonga missed Layup.,51,55,-4,1,0.3397556694736423,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+200,3,7:34,1054,1054,Jasmine Jeffcoat Offensive Rebound.,51,55,-4,2,0.33967589127657755,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+201,3,7:32,1052,1052,Madison Nelson missed Layup.,51,55,-4,5,0.3395157384718554,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+202,3,7:27,1047,1047,Madison Nelson Offensive Rebound.,51,55,-4,0,0.3391117666316998,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+203,3,7:27,1047,1047,Madison Nelson missed Layup.,51,55,-4,0,0.3391117666316998,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+204,3,7:27,1047,1047,Madison Nelson Offensive Rebound.,51,55,-4,0,0.3391117666316998,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+205,3,7:27,1047,1047,Madison Nelson Turnover.,51,55,-4,13,0.3391117666316998,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+206,3,7:14,1034,1034,Foul on Olivia Lane.,51,55,-4,0,0.338035593656,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+207,3,7:14,1034,1034,Olivia Lane Turnover.,51,55,-4,19,0.338035593656,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+208,3,6:55,1015,1015,Jasmine Jeffcoat missed Jumper.,51,55,-4,3,0.33638675220363323,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+209,3,6:52,1012,1012,Julia Fleecs Defensive Rebound.,51,55,-4,3,0.33611726236895045,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+210,3,6:49,1009,1009,Claire Orth Turnover.,51,55,-4,0,0.3358451040411062,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+211,3,6:49,1009,1009,Madison Nelson Steal.,51,55,-4,16,0.3358451040411062,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+212,3,6:33,993,993,Foul on Julia Fleecs.,51,55,-4,8,0.3343459595661499,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+213,3,6:25,985,985,Madison Nelson missed Jumper.,51,55,-4,2,0.33356432707006184,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+214,3,6:23,983,983,Alaina Jarnot Defensive Rebound.,51,55,-4,3,0.3333653824021098,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+215,3,6:20,980,980,Julia Fleecs made Layup. Assisted by Alaina Jarnot.,51,57,-6,10,0.26085343733618216,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,North Dakota
+216,3,6:10,970,970,Claire Gritt missed Three Point Jumper.,51,57,-6,1,0.2595159752870021,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+217,3,6:09,969,969,North Dakota Defensive Rebound.,51,57,-6,14,0.2593802785963239,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+218,3,5:55,955,955,Julia Fleecs missed Jumper.,51,57,-6,2,0.2575651176536836,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+219,3,5:53,953,953,Madison Nelson Defensive Rebound.,51,57,-6,17,0.25731779723784115,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+220,3,5:36,936,936,Uju Ezeudu made Layup. Assisted by Briana Johnson.,53,57,-4,17,0.3287977555098788,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,Denver
+221,3,5:19,919,919,Foul on Uju Ezeudu.,53,57,-4,0,0.3273668407819117,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+222,3,5:19,919,919,Alaina Jarnot made Free Throw.,53,58,-5,0,0.2890200023959287,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,North Dakota
+223,3,5:19,919,919,Alaina Jarnot made Free Throw.,53,59,-6,14,0.25347231849949237,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,North Dakota
+224,3,5:05,905,905,Briana Johnson made Jumper.,55,59,-4,24,0.32624868137530044,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,Denver
+225,3,4:41,881,881,Jaclyn Jarnot made Layup.,55,61,-6,8,0.24965662229195684,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,North Dakota
+226,3,4:33,873,873,Briana Johnson made Jumper.,57,61,-4,21,0.32378695559770165,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,Denver
+227,3,4:12,852,852,Melissa Leet made Layup. Assisted by Claire Orth.,57,63,-6,10,0.24678562253641198,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,North Dakota
+228,3,4:02,842,842,Briana Johnson Turnover.,57,63,-6,0,0.2457590772772757,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+229,3,4:02,842,842,Olivia Lane Steal.,57,63,-6,6,0.2457590772772757,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+230,3,3:56,836,836,Olivia Lane missed Layup.,57,63,-6,4,0.24512786253852378,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+231,3,3:52,832,832,Claire Gritt Defensive Rebound.,57,63,-6,6,0.24469953544867842,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+232,3,3:46,826,826,Tsimba Malonga missed Three Point Jumper.,57,63,-6,3,0.24404440424676374,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+233,3,3:43,823,823,Claire Gritt Offensive Rebound.,57,63,-6,0,0.2437106548791787,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+234,3,3:43,823,823,Claire Gritt Turnover.,57,63,-6,0,0.2437106548791787,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+235,3,3:43,823,823,Official TV Timeout,57,63,-6,6,0.2437106548791787,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+236,3,3:37,817,817,Melissa Leet Turnover.,57,63,-6,0,0.24302965346114747,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+237,3,3:37,817,817,Briana Johnson Steal.,57,63,-6,6,0.24302965346114747,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+238,3,3:31,811,811,Claire Gritt missed Three Point Jumper.,57,63,-6,3,0.242329147843375,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+239,3,3:28,808,808,North Dakota Defensive Rebound.,57,63,-6,29,0.2419710225832219,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+240,3,2:59,779,779,Megan Zander made Jumper. Assisted by Kacie Borowicz.,57,65,-8,16,0.17506255530405304,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,North Dakota
+241,3,2:43,763,763,Jasmine Jeffcoat Turnover.,57,65,-8,0,0.17254518142109979,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+242,3,2:43,763,763,Megan Zander Steal.,57,65,-8,18,0.17254518142109979,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+243,3,2:25,745,745,Foul on Lilly Keplin.,57,65,-8,0,0.16941529174846506,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+244,3,2:25,745,745,Lilly Keplin Turnover.,57,65,-8,18,0.16941529174846506,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+245,3,2:07,727,727,Meghan Boyd Turnover.,57,65,-8,21,0.16594795234099238,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+246,3,1:46,706,706,Kacie Borowicz made Layup.,57,67,-10,8,0.11379389949161597,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,North Dakota
+247,3,1:38,698,698,Uju Ezeudu missed Jumper.,57,67,-10,0,0.11260007265533044,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+248,3,1:38,698,698,Melissa Leet Block.,57,67,-10,1,0.11260007265533044,Denver,North Dakota,5,4,0,0,NA,401179936,2020-01-01,
+249,3,1:37,697,697,Uju Ezeudu Offensive Rebound.,57,67,-10,0,0.1124551467879402,Denver,North Dakota,5,4,1,0,NA,401179936,2020-01-01,
+250,3,1:37,697,697,Foul on Melissa Leet.,57,67,-10,0,0.1124551467879402,Denver,North Dakota,5,4,1,0,NA,401179936,2020-01-01,
+251,3,1:37,697,697,Uju Ezeudu made Free Throw.,58,67,-9,0,0.13478301329161776,Denver,North Dakota,5,4,1,0,NA,401179936,2020-01-01,Denver
+252,3,1:37,697,697,Uju Ezeudu made Free Throw.,59,67,-8,0,0.16074117484688785,Denver,North Dakota,5,4,1,0,NA,401179936,2020-01-01,Denver
+253,3,1:37,697,697,Official TV Timeout,59,67,-8,0,0.16074117484688785,Denver,North Dakota,5,4,1,0,NA,401179936,2020-01-01,
+254,3,1:37,697,697,Denver  Timeout,59,67,-8,11,0.16074117484688785,Denver,North Dakota,4,4,1,0,NA,401179936,2020-01-01,
+255,3,1:26,686,686,Olivia Lane missed Jumper.,59,67,-8,0,0.15907096663576178,Denver,North Dakota,4,4,1,0,NA,401179936,2020-01-01,
+256,3,1:26,686,686,Madison Nelson Block.,59,67,-8,5,0.15907096663576178,Denver,North Dakota,4,4,1,0,NA,401179936,2020-01-01,
+257,3,1:21,681,681,Madison Nelson Defensive Rebound.,59,67,-8,6,0.1583383814530149,Denver,North Dakota,4,4,1,0,NA,401179936,2020-01-01,
+258,3,1:15,675,675,Uju Ezeudu made Layup.,61,67,-6,7,0.22134404813017108,Denver,North Dakota,4,4,1,0,NA,401179936,2020-01-01,Denver
+259,3,1:08,668,668,Foul on Madison Nelson.,61,67,-6,0,0.2203770486093491,Denver,North Dakota,4,4,1,0,NA,401179936,2020-01-01,
+260,3,1:08,668,668,Megan Zander made Free Throw.,61,68,-7,0,0.18632798372394685,Denver,North Dakota,4,4,1,0,NA,401179936,2020-01-01,North Dakota
+261,3,1:08,668,668,Megan Zander missed Free Throw.,61,68,-7,1,0.18632798372394685,Denver,North Dakota,4,4,1,0,NA,401179936,2020-01-01,
+262,3,1:07,667,667,Uju Ezeudu Defensive Rebound.,61,68,-7,6,0.18618653100859844,Denver,North Dakota,4,4,1,0,NA,401179936,2020-01-01,
+263,3,1:01,661,661,Lauren Loven made Three Point Jumper. Assisted by Uju Ezeudu.,64,68,-4,21,0.30026305978192763,Denver,North Dakota,4,4,1,0,NA,401179936,2020-01-01,Denver
+264,3,0:40,640,640,Jaclyn Jarnot missed Layup.,64,68,-4,5,0.2978709577626383,Denver,North Dakota,4,4,1,0,NA,401179936,2020-01-01,
+265,3,0:35,635,635,Madison Nelson Defensive Rebound.,64,68,-4,5,0.297279897056913,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+266,3,0:30,630,630,Uju Ezeudu made Layup.,66,68,-2,0,0.3937470009501744,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,Denver
+267,3,0:30,630,630,Foul on Jaclyn Jarnot.,66,68,-2,0,0.3937470009501744,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+268,3,0:30,630,630,Uju Ezeudu made Free Throw.,67,68,-1,10,0.4462597807806376,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,Denver
+269,3,0:20,620,620,Megan Zander missed Three Point Jumper.,67,68,-1,4,0.44588751769396145,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+270,3,0:16,616,616,Madison Nelson Defensive Rebound.,67,68,-1,14,0.44573212619176117,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+271,3,0:02,602,602,Briana Johnson Turnover.,67,68,-1,0,0.4451526810602755,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+272,3,0:02,602,602,Kacie Borowicz Steal.,67,68,-1,1,0.4451526810602755,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+273,3,0:01,601,601,Kacie Borowicz Turnover.,67,68,-1,0,0.44510891677980624,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+274,3,0:01,601,601,Briana Johnson Steal.,67,68,-1,0,0.44510891677980624,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+275,3,0:01,601,601,Briana Johnson missed Three Point Jumper.,67,68,-1,1,0.44510891677980624,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+276,3,0:00,600,600,North Dakota Defensive Rebound.,67,68,-1,0,0.44506480685690686,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+277,3,0:00,600,600,End of 3rd Quarter,67,68,-1,12,0.44506480685690686,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+278,4,9:48,588,588,Melissa Leet made Layup.,67,70,-3,10,0.33879336449635267,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,North Dakota
+279,4,9:38,578,578,Uju Ezeudu missed Layup.,67,70,-3,2,0.3374049634525294,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,
+280,4,9:36,576,576,Uju Ezeudu Offensive Rebound.,67,70,-3,3,0.3371127271294198,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,
+281,4,9:33,573,573,Uju Ezeudu missed Jumper.,67,70,-3,1,0.33666475139344987,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,
+282,4,9:32,572,572,Julia Fleecs Defensive Rebound.,67,70,-3,12,0.33651280495634706,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,
+283,4,9:20,560,560,Mikayla Reinke missed Three Point Jumper.,67,70,-3,5,0.33458148929182446,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,
+284,4,9:15,555,555,Uju Ezeudu Defensive Rebound.,67,70,-3,7,0.3337144700716417,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,
+285,4,9:08,548,548,Madison Nelson made Layup. Assisted by Briana Johnson.,69,70,-1,14,0.4421635111079124,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,Denver
+286,4,8:54,534,534,Foul on Madison Nelson.,69,70,-1,11,0.4412996176349924,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,
+287,4,8:43,523,523,Julia Fleecs made Layup.,69,72,-3,0,0.32850432184327355,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,North Dakota
+288,4,8:43,523,523,Foul on Uju Ezeudu.,69,72,-3,0,0.32850432184327355,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,
+289,4,8:43,523,523,Julia Fleecs made Free Throw.,69,73,-4,11,0.2782263125696358,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,North Dakota
+290,4,8:32,512,512,Uju Ezeudu missed Three Point Jumper.,69,73,-4,4,0.2764148012240062,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,
+291,4,8:28,508,508,Alaina Jarnot Defensive Rebound.,69,73,-4,14,0.2757753267464889,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,
+292,4,8:14,494,494,Claire Orth made Layup.,69,75,-6,11,0.18768975748630598,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,North Dakota
+293,4,8:03,483,483,Meghan Boyd missed Layup.,69,75,-6,0,0.18558527879552997,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,
+294,4,8:03,483,483,Jasmine Jeffcoat Offensive Rebound.,69,75,-6,0,0.18558527879552997,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,
+295,4,8:03,483,483,Foul on Claire Orth.,69,75,-6,22,0.18558527879552997,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,
+296,4,7:41,461,461,Jasmine Jeffcoat missed Jumper.,69,75,-6,1,0.18078111870052269,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,
+297,4,7:40,460,460,Jasmine Jeffcoat Offensive Rebound.,69,75,-6,0,0.18053546806673798,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,
+298,4,7:40,460,460,Denver  Turnover.,69,75,-6,14,0.18053546806673798,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,
+299,4,7:26,446,446,Foul on Jasmine Jeffcoat.,69,75,-6,0,0.1767690357914331,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,
+300,4,7:26,446,446,Claire Orth made Free Throw.,69,76,-7,0,0.14248626340406703,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,North Dakota
+301,4,7:26,446,446,Claire Orth made Free Throw.,69,77,-8,10,0.1139321531920176,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,North Dakota
+302,4,7:16,436,436,Lauren Loven made Jumper.,71,77,-6,2,0.17364946681358814,Denver,North Dakota,5,5,0,0,NA,401179936,2020-01-01,Denver
+303,4,7:14,434,434,Denver  Timeout,71,77,-6,0,0.1729772713953851,Denver,North Dakota,4,5,1,0,NA,401179936,2020-01-01,
+304,4,7:14,434,434,Official TV Timeout,71,77,-6,25,0.1729772713953851,Denver,North Dakota,4,5,1,0,NA,401179936,2020-01-01,
+305,4,6:49,409,409,Melissa Leet missed Layup.,71,77,-6,5,0.1646840961545074,Denver,North Dakota,4,5,1,0,NA,401179936,2020-01-01,
+306,4,6:44,404,404,Melissa Leet Offensive Rebound.,71,77,-6,0,0.16317001807862913,Denver,North Dakota,4,5,1,0,NA,401179936,2020-01-01,
+307,4,6:44,404,404,Melissa Leet missed Layup.,71,77,-6,1,0.16317001807862913,Denver,North Dakota,4,5,1,0,NA,401179936,2020-01-01,
+308,4,6:43,403,403,Madison Nelson Defensive Rebound.,71,77,-6,5,0.16287070357620598,Denver,North Dakota,4,5,1,0,NA,401179936,2020-01-01,
+309,4,6:38,398,398,Uju Ezeudu missed Layup.,71,77,-6,0,0.1613869451964497,Denver,North Dakota,4,5,1,0,NA,401179936,2020-01-01,
+310,4,6:38,398,398,Melissa Leet Block.,71,77,-6,7,0.1613869451964497,Denver,North Dakota,4,5,1,0,NA,401179936,2020-01-01,
+311,4,6:31,391,391,Uju Ezeudu Offensive Rebound.,71,77,-6,0,0.1593304390826319,Denver,North Dakota,4,5,1,0,NA,401179936,2020-01-01,
+312,4,6:31,391,391,Uju Ezeudu missed Layup.,71,77,-6,1,0.1593304390826319,Denver,North Dakota,4,5,1,0,NA,401179936,2020-01-01,
+313,4,6:30,390,390,Olivia Lane Defensive Rebound.,71,77,-6,1,0.15903721814276592,Denver,North Dakota,4,5,1,0,NA,401179936,2020-01-01,
+314,4,6:29,389,389,Megan Zander Turnover.,71,77,-6,0,0.15874389944591769,Denver,North Dakota,4,5,1,0,NA,401179936,2020-01-01,
+315,4,6:29,389,389,Tsimba Malonga Steal.,71,77,-6,9,0.15874389944591769,Denver,North Dakota,4,5,1,0,NA,401179936,2020-01-01,
+316,4,6:20,380,380,Madison Nelson missed Layup.,71,77,-6,0,0.15608683815618776,Denver,North Dakota,4,5,1,0,NA,401179936,2020-01-01,
+317,4,6:20,380,380,Olivia Lane Block.,71,77,-6,8,0.15608683815618776,Denver,North Dakota,4,5,1,0,NA,401179936,2020-01-01,
+318,4,6:12,372,372,Olivia Lane Defensive Rebound.,71,77,-6,5,0.15366835463211212,Denver,North Dakota,4,5,0,0,NA,401179936,2020-01-01,
+319,4,6:07,367,367,Claire Orth Turnover.,71,77,-6,0,0.15211251929817382,Denver,North Dakota,4,5,0,0,NA,401179936,2020-01-01,
+320,4,6:07,367,367,Madison Nelson Steal.,71,77,-6,7,0.15211251929817382,Denver,North Dakota,4,5,0,0,NA,401179936,2020-01-01,
+321,4,6:00,360,360,Tsimba Malonga made Layup. Assisted by Briana Johnson.,73,77,-4,0,0.23918674181410013,Denver,North Dakota,4,5,0,0,NA,401179936,2020-01-01,Denver
+322,4,6:00,360,360,Foul on Olivia Lane.,73,77,-4,0,0.23918674181410013,Denver,North Dakota,4,5,0,0,NA,401179936,2020-01-01,
+323,4,6:00,360,360,Tsimba Malonga missed Free Throw.,73,77,-4,1,0.23918674181410013,Denver,North Dakota,4,5,0,0,NA,401179936,2020-01-01,
+324,4,5:59,359,359,Julia Fleecs Defensive Rebound.,73,77,-4,6,0.23887190874899275,Denver,North Dakota,4,5,0,0,NA,401179936,2020-01-01,
+325,4,5:53,353,353,North Dakota  Timeout,73,77,-4,15,0.23692872785848748,Denver,North Dakota,4,4,0,1,NA,401179936,2020-01-01,
+326,4,5:38,338,338,Julia Fleecs made Layup.,73,79,-6,22,0.14197018982243687,Denver,North Dakota,4,4,0,1,NA,401179936,2020-01-01,North Dakota
+327,4,5:16,316,316,Madison Nelson missed Jumper.,73,79,-6,2,0.13244743725686092,Denver,North Dakota,4,4,0,1,NA,401179936,2020-01-01,
+328,4,5:14,314,314,North Dakota Defensive Rebound.,73,79,-6,16,0.13148648143738373,Denver,North Dakota,4,4,0,1,NA,401179936,2020-01-01,
+329,4,4:58,298,298,Olivia Lane made Layup. Assisted by Julia Fleecs.,73,81,-8,12,0.0698918084834453,Denver,North Dakota,4,4,0,1,NA,401179936,2020-01-01,North Dakota
+330,4,4:46,286,286,Madison Nelson missed Jumper.,73,81,-8,3,0.06923718589639517,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+331,4,4:43,283,283,Denver Offensive Rebound.,73,81,-8,1,0.06936001591894685,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+332,4,4:42,282,282,Claire Gritt missed Layup.,73,81,-8,5,0.06942139555760864,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+333,4,4:37,277,277,Julia Fleecs Defensive Rebound.,73,81,-8,9,0.06986130791262452,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+334,4,4:28,268,268,Alaina Jarnot Turnover.,73,81,-8,13,0.07107066670544183,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+335,4,4:15,255,255,Foul on Alaina Jarnot.,73,81,-8,0,0.07317084699628457,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+336,4,4:15,255,255,Briana Johnson missed Free Throw.,73,81,-8,0,0.07317084699628457,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+337,4,4:15,255,255,Briana Johnson made Free Throw.,74,81,-7,0,0.09782744441405093,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,Denver
+338,4,4:15,255,255,Denver Offensive Rebound.,74,81,-7,22,0.09782744441405093,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+339,4,3:53,233,233,Jaclyn Jarnot Turnover.,74,81,-7,12,0.0997229387493016,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+340,4,3:41,221,221,Lauren Loven made Jumper.,76,81,-5,9,0.16972832489034193,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,Denver
+341,4,3:32,212,212,Megan Zander missed Three Point Jumper.,76,81,-5,7,0.16563103991389505,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+342,4,3:25,205,205,Jaclyn Jarnot Offensive Rebound.,76,81,-5,15,0.16077460036011562,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+343,4,3:10,190,190,Megan Zander made Jumper.,76,83,-7,13,0.07701476885884401,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,North Dakota
+344,4,2:57,177,177,Jasmine Jeffcoat missed Layup.,76,83,-7,3,0.06446988069340207,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+345,4,2:54,174,174,Megan Zander Defensive Rebound.,76,83,-7,15,0.061803202704403405,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+346,4,2:39,159,159,Alaina Jarnot made Layup.,76,85,-9,17,0.02187867338149908,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,North Dakota
+347,4,2:22,142,142,Madison Nelson missed Layup.,76,85,-9,2,0.015005522382936847,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+348,4,2:20,140,140,Mikayla Reinke Defensive Rebound.,76,85,-9,20,0.014298183729045599,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+349,4,2:00,120,120,Alaina Jarnot missed Layup.,76,85,-9,5,0.008323318184916747,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+350,4,1:55,115,115,Olivia Lane Offensive Rebound.,76,85,-9,0,0.007132988058775563,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+351,4,1:55,115,115,Olivia Lane missed Layup.,76,85,-9,3,0.007132988058775563,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+352,4,1:52,112,112,Uju Ezeudu Defensive Rebound.,76,85,-9,3,0.0064751324391828435,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+353,4,1:49,109,109,Madison Nelson missed Layup.,76,85,-9,4,0.005858759869727676,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+354,4,1:45,105,105,Claire Orth Defensive Rebound.,76,85,-9,3,0.005100138139548146,Denver,North Dakota,4,4,0,0,NA,401179936,2020-01-01,
+355,4,1:42,102,102,North Dakota  Timeout,76,85,-9,6,0.004577425301641532,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+356,4,1:36,96,96,Foul on Uju Ezeudu.,76,85,-9,5,0.003646386655008497,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+357,4,1:31,91,91,Foul on Meghan Boyd.,76,85,-9,0,0.0029899469034678572,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+358,4,1:31,91,91,Julia Fleecs missed Free Throw.,76,85,-9,0,0.0029899469034678572,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+359,4,1:31,91,91,North Dakota Offensive Rebound.,76,85,-9,0,0.0029899469034678572,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+360,4,1:31,91,91,Julia Fleecs missed Free Throw.,76,85,-9,1,0.0029899469034678572,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+361,4,1:30,90,90,Jasmine Jeffcoat Defensive Rebound.,76,85,-9,11,0.002872614185130664,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+362,4,1:19,79,79,Madison Nelson missed Layup.,76,85,-9,4,0.0018263824294879572,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+363,4,1:15,75,75,Julia Fleecs Defensive Rebound.,76,85,-9,1,0.00153634208463207,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+364,4,1:14,74,74,Julia Fleecs Turnover.,76,85,-9,0,0.0014700118204619618,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+365,4,1:14,74,74,Claire Gritt Steal.,76,85,-9,8,0.0014700118204619618,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+366,4,1:06,66,66,Jasmine Jeffcoat missed Layup.,76,85,-9,2,0.0010202425201948854,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+367,4,1:04,64,64,Julia Fleecs Defensive Rebound.,76,85,-9,0,9.290218859999551e-4,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+368,4,1:04,64,64,Foul on Jasmine Jeffcoat.,76,85,-9,0,9.290218859999551e-4,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+369,4,1:04,64,64,Julia Fleecs made Free Throw.,76,86,-10,0,4.2795937673676266e-4,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,North Dakota
+370,4,1:04,64,64,Julia Fleecs missed Free Throw.,76,86,-10,1,4.2795937673676266e-4,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+371,4,1:03,63,63,Madison Nelson Defensive Rebound.,76,86,-10,12,4.0609522062030006e-4,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+372,4,0:51,51,51,Briana Johnson missed Jumper.,76,86,-10,3,2.1174872013559072e-4,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+373,4,0:48,48,48,Jaclyn Jarnot Defensive Rebound.,76,86,-10,2,1.7868022308928006e-4,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+374,4,0:46,46,46,Alaina Jarnot Turnover.,76,86,-10,0,1.5927939452314762e-4,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+375,4,0:46,46,46,Briana Johnson Steal.,76,86,-10,4,1.5927939452314762e-4,Denver,North Dakota,4,3,0,1,NA,401179936,2020-01-01,
+376,4,0:42,42,42,Madison Nelson made Layup. Assisted by Briana Johnson.,78,86,-8,0,7.586158560229336e-4,Denver,North Dakota,4,3,1,1,NA,401179936,2020-01-01,Denver
+377,4,0:42,42,42,Denver  Timeout,78,86,-8,0,7.586158560229336e-4,Denver,North Dakota,3,3,1,1,NA,401179936,2020-01-01,
+378,4,0:42,42,42,North Dakota  Timeout,78,86,-8,8,7.586158560229336e-4,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,
+379,4,0:34,34,34,Alaina Jarnot Turnover.,78,86,-8,0,5.147900884919416e-4,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,
+380,4,0:34,34,34,Jasmine Jeffcoat Steal.,78,86,-8,5,5.147900884919416e-4,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,
+381,4,0:29,29,29,Madison Nelson made Layup. Assisted by Meghan Boyd.,80,86,-6,0,0.0028262080676618906,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,Denver
+382,4,0:29,29,29,Foul on Alaina Jarnot.,80,86,-6,0,0.0028262080676618906,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,
+383,4,0:29,29,29,Madison Nelson missed Free Throw.,80,86,-6,2,0.0028262080676618906,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,
+384,4,0:27,27,27,Jaclyn Jarnot Defensive Rebound.,80,86,-6,0,0.002619703084679086,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,
+385,4,0:27,27,27,Foul on Jasmine Jeffcoat.,80,86,-6,0,0.002619703084679086,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,
+386,4,0:27,27,27,Jaclyn Jarnot made Free Throw.,80,87,-7,0,9.746895862391419e-4,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,North Dakota
+387,4,0:27,27,27,Jaclyn Jarnot made Free Throw.,80,88,-8,7,3.622688752197497e-4,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,North Dakota
+388,4,0:20,20,20,Meghan Boyd missed Layup.,80,88,-8,1,2.523371278409819e-4,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,
+389,4,0:19,19,19,North Dakota Defensive Rebound.,80,88,-8,0,2.392960599038798e-4,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,
+390,4,0:19,19,19,North Dakota  Turnover.,80,88,-8,0,2.392960599038798e-4,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,
+391,4,0:19,19,19,Madison Nelson missed Three Point Jumper.,80,88,-8,1,2.392960599038798e-4,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,
+392,4,0:18,18,18,Jaclyn Jarnot Defensive Rebound.,80,88,-8,3,2.2683807679326355e-4,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,
+393,4,0:15,15,15,Foul on Meghan Boyd.,80,88,-8,0,1.9278142443324305e-4,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,
+394,4,0:15,15,15,Jaclyn Jarnot made Free Throw.,80,89,-9,0,6.618564209061081e-5,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,North Dakota
+395,4,0:15,15,15,Jaclyn Jarnot made Free Throw.,80,90,-10,12,2.272093913954379e-5,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,North Dakota
+396,4,0:03,3,3,Foul on Alaina Jarnot.,80,90,-10,0,9.719427705704867e-6,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,
+397,4,0:03,3,3,Lauren Loven made Free Throw.,81,90,-9,0,3.0822441514341e-5,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,Denver
+398,4,0:03,3,3,Lauren Loven made Free Throw.,82,90,-8,3,9.774025815863784e-5,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,Denver
+399,4,0:00,0,0,End of 4th Quarter,82,90,-8,0,3.257488532207521e-70,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,
+400,4,0:00,0,0,End of Game,82,90,-8,0,3.257488532207521e-70,Denver,North Dakota,3,2,1,1,NA,401179936,2020-01-01,

@@ -1,0 +1,323 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:46,2386,2386,Madison Siegrist missed Three Point Jumper.,0,0,0,4,0.5,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,NA
+2,1,9:42,2382,2382,A'Riana Gray Defensive Rebound.,0,0,0,16,0.5,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+3,1,9:26,2366,2366,Sarah Leyendecker made Layup. Assisted by Lauren Wasylson.,0,2,-2,21,0.4552536897122488,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Xavier
+4,1,9:05,2345,2345,Bridget Herlihy made Layup.,2,2,0,20,0.5,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Villanova
+5,1,8:45,2325,2325,A'Riana Gray missed Three Point Jumper.,2,2,0,4,0.5,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+6,1,8:41,2321,2321,Mary Gedaka Defensive Rebound.,2,2,0,15,0.5,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+7,1,8:26,2306,2306,Cameron Onken Turnover.,2,2,0,15,0.5,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+8,1,8:11,2291,2291,A'Riana Gray missed Layup.,2,2,0,4,0.5,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+9,1,8:07,2287,2287,Madison Siegrist Defensive Rebound.,2,2,0,5,0.5,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+10,1,8:02,2282,2282,Madison Siegrist made Layup. Assisted by Mary Gedaka.,4,2,2,9,0.546588823501246,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Villanova
+11,1,7:53,2273,2273,A'Riana Gray missed Jumper.,4,2,2,5,0.5467906738870376,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+12,1,7:48,2268,2268,Cameron Onken Defensive Rebound.,4,2,2,29,0.5469031240173988,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+13,1,7:19,2239,2239,Mary Gedaka made Jumper.,6,2,4,15,0.5942658126527339,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Villanova
+14,1,7:04,2224,2224,Sarah Leyendecker missed Jumper.,6,2,4,4,0.5949310531391636,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+15,1,7:00,2220,2220,Madison Siegrist Defensive Rebound.,6,2,4,9,0.5951088823675076,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+16,1,6:51,2211,2211,Madison Siegrist missed Layup.,6,2,4,6,0.5955096062437427,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+17,1,6:45,2205,2205,Madison Siegrist Offensive Rebound.,6,2,4,0,0.5957771937717765,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+18,1,6:45,2205,2205,Madison Siegrist made Layup.,8,2,6,10,0.6414931645846473,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Villanova
+19,1,6:35,2195,2195,A'Riana Gray missed Three Point Jumper.,8,2,6,3,0.6421328813871513,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+20,1,6:32,2192,2192,Madison Siegrist Defensive Rebound.,8,2,6,18,0.64232497191103,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+21,1,6:14,2174,2174,Foul on Lauren Wasylson.,8,2,6,0,0.6434789222215519,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+22,1,6:14,2174,2174,Mary Gedaka made Free Throw.,9,2,7,0,0.6657248284957081,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Villanova
+23,1,6:14,2174,2174,Mary Gedaka made Free Throw.,10,2,8,12,0.6872572866239602,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Villanova
+24,1,6:02,2162,2162,Carrie Gross missed Layup.,10,2,8,4,0.6882196895361539,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+25,1,5:58,2158,2158,Cameron Onken Defensive Rebound.,10,2,8,14,0.6885409392832702,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+26,1,5:44,2144,2144,Cameron Onken missed Layup.,10,2,8,0,0.6896673446801578,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+27,1,5:44,2144,2144,Sarah Leyendecker Block.,10,2,8,5,0.6896673446801578,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+28,1,5:39,2139,2139,Lauren Wasylson Defensive Rebound.,10,2,8,1,0.690070435358561,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+29,1,5:38,2138,2138,Lauren Wasylson Turnover.,10,2,8,0,0.6901511062504708,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+30,1,5:38,2138,2138,Raven James Steal.,10,2,8,0,0.6901511062504708,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+31,1,5:38,2138,2138,Foul on Carrie Gross.,10,2,8,1,0.6901511062504708,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+32,1,5:37,2137,2137,Cameron Onken made Free Throw.,11,2,9,0,0.7112275846525159,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Villanova
+33,1,5:37,2137,2137,Cameron Onken made Free Throw.,12,2,10,8,0.7313541762202737,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Villanova
+34,1,5:29,2129,2129,Lauren Wasylson missed Three Point Jumper.,12,2,10,4,0.7320961668093973,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+35,1,5:25,2125,2125,Courtney Prenger Offensive Rebound.,12,2,10,12,0.7324675073665715,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+36,1,5:13,2113,2113,Aaliyah Dunham missed Three Point Jumper.,12,2,10,0,0.7335829925796059,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+37,1,5:13,2113,2113,Raven James Block.,12,2,10,3,0.7335829925796059,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+38,1,5:10,2110,2110,Xavier Offensive Rebound.,12,2,10,9,0.7338622220814539,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+39,1,5:01,2101,2101,A'Riana Gray Turnover.,12,2,10,19,0.7347008158901108,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+40,1,4:42,2082,2082,Madison Siegrist made Layup. Assisted by Cameron Onken.,14,2,12,14,0.7743918189892939,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Villanova
+41,1,4:28,2068,2068,Lauren Wasylson missed Three Point Jumper.,14,2,12,5,0.7758086591847869,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+42,1,4:23,2063,2063,Cameron Onken Defensive Rebound.,14,2,12,10,0.7763152933858614,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+43,1,4:13,2053,2053,Madison Siegrist made Layup. Assisted by Cameron Onken.,16,2,14,0,0.8113083278755565,Villanova,Xavier,4,4,1,0,NA,401178469,2020-01-12,Villanova
+44,1,4:13,2053,2053,Xavier  Timeout,16,2,14,14,0.8113083278755565,Villanova,Xavier,3,4,1,0,NA,401178469,2020-01-12,
+45,1,3:59,2039,2039,Foul on Bridget Herlihy.,16,2,14,17,0.8127751507465468,Villanova,Xavier,3,4,1,0,NA,401178469,2020-01-12,
+46,1,3:42,2022,2022,Ayanna Townsend Turnover.,16,2,14,21,0.8145578714907182,Villanova,Xavier,3,4,1,0,NA,401178469,2020-01-12,
+47,1,3:21,2001,2001,Madison Siegrist missed Three Point Jumper.,16,2,14,4,0.8167630119526915,Villanova,Xavier,3,4,1,0,NA,401178469,2020-01-12,
+48,1,3:17,1997,1997,Carrie Gross Defensive Rebound.,16,2,14,6,0.8171834638617533,Villanova,Xavier,3,4,1,0,NA,401178469,2020-01-12,
+49,1,3:11,1991,1991,Foul on Brooke Mullin.,16,2,14,0,0.8178144200929558,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+50,1,3:11,1991,1991,Carrie Gross made Free Throw.,16,3,13,0,0.8012860704431323,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,Xavier
+51,1,3:11,1991,1991,Carrie Gross made Free Throw.,16,4,12,12,0.7836549031595141,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,Xavier
+52,1,2:59,1979,1979,Mackenzie Gardler Turnover.,16,4,12,9,0.7848875132936121,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+53,1,2:50,1970,1970,A'Riana Gray made Layup. Assisted by Sarah Leyendecker.,16,6,10,20,0.7471046079473436,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,Xavier
+54,1,2:30,1950,1950,Madison Siegrist missed Jumper.,16,6,10,3,0.7490384679474877,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+55,1,2:27,1947,1947,A'Riana Gray Defensive Rebound.,16,6,10,11,0.7493296210520836,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+56,1,2:16,1936,1936,A'Riana Gray missed Layup.,16,6,10,0,0.7503996513688939,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+57,1,2:16,1936,1936,Mary Gedaka Block.,16,6,10,1,0.7503996513688939,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+58,1,2:15,1935,1935,Villanova Defensive Rebound.,16,6,10,11,0.750497121657584,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+59,1,2:04,1924,1924,Samantha Carangi missed Three Point Jumper.,16,6,10,5,0.7515700852919642,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+60,1,1:59,1919,1919,Brooke Mullin Offensive Rebound.,16,6,10,7,0.7520565335528867,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+61,1,1:52,1912,1912,Brooke Mullin made Three Point Jumper. Assisted by Samantha Carangi.,19,6,13,17,0.8095725391987233,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,Villanova
+62,1,1:35,1895,1895,Foul on Mackenzie Gardler.,19,6,13,17,0.8113397232741612,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+63,1,1:18,1878,1878,A'Riana Gray missed Jumper.,19,6,13,5,0.8130945389802122,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+64,1,1:13,1873,1873,Mary Gedaka Defensive Rebound.,19,6,13,8,0.8136087487854146,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+65,1,1:05,1865,1865,Samantha Carangi Turnover.,19,6,13,14,0.8144299910564218,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+66,1,0:51,1851,1851,Carrie Gross missed Jumper.,19,6,13,4,0.8158635654238431,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+67,1,0:47,1847,1847,Brooke Mullin Defensive Rebound.,19,6,13,8,0.8162724994558044,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+68,1,0:39,1839,1839,Brooke Mullin Turnover.,19,6,13,0,0.8170897294429612,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+69,1,0:39,1839,1839,Carrie Gross Steal.,19,6,13,6,0.8170897294429612,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+70,1,0:33,1833,1833,Carrie Gross missed Layup.,19,6,13,3,0.8177022369853492,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+71,1,0:30,1830,1830,Sarah Leyendecker Offensive Rebound.,19,6,13,11,0.8180084004863395,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+72,1,0:19,1819,1819,Carrie Gross missed Layup.,19,6,13,3,0.8191307706235045,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+73,1,0:16,1816,1816,Madison Siegrist Defensive Rebound.,19,6,13,15,0.8194368744858854,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+74,1,0:01,1801,1801,Mary Gedaka made Jumper.,21,6,15,1,0.852860619310513,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,Villanova
+75,1,0:00,1800,1800,End of 1st Quarter,21,6,15,10,0.8529612484083722,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+76,2,9:50,1790,1790,Mackenzie Gardler made Three Point Jumper. Assisted by Bridget Herlihy.,24,6,18,26,0.8927627927234364,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Villanova
+77,2,9:24,1764,1764,Lauren Wasylson missed Three Point Jumper.,24,6,18,3,0.8951702966410688,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+78,2,9:21,1761,1761,Carrie Gross Offensive Rebound.,24,6,18,4,0.895447843257251,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+79,2,9:17,1757,1757,Aaliyah Dunham missed Three Point Jumper.,24,6,18,0,0.8958178904372511,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+80,2,9:17,1757,1757,Carrie Gross Offensive Rebound.,24,6,18,0,0.8958178904372511,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+81,2,9:17,1757,1757,Xavier  Turnover.,24,6,18,22,0.8958178904372511,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+82,2,8:55,1735,1735,Mary Gedaka Turnover.,24,6,18,0,0.8978539150990865,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+83,2,8:55,1735,1735,Carrie Gross Steal.,24,6,18,6,0.8978539150990865,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+84,2,8:49,1729,1729,Carrie Gross made Layup.,24,8,16,21,0.8740763774899905,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Xavier
+85,2,8:28,1708,1708,Madison Siegrist missed Three Point Jumper.,24,8,16,4,0.8761685364596619,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+86,2,8:24,1704,1704,Carrie Gross Defensive Rebound.,24,8,16,1,0.8765685718021381,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+87,2,8:23,1703,1703,Foul on Cameron Onken.,24,8,16,18,0.8766686649521245,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+88,2,8:05,1685,1685,A'Riana Gray made Layup. Assisted by Aaliyah Dunham.,24,10,14,33,0.8495139575407612,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Xavier
+89,2,7:32,1652,1652,Mary Gedaka made Jumper. Assisted by Raven James.,26,10,16,13,0.8816455564138643,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Villanova
+90,2,7:19,1639,1639,A'Riana Gray missed Jumper.,26,10,16,3,0.8828451575535011,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+91,2,7:16,1636,1636,Cameron Onken Defensive Rebound.,26,10,16,17,0.8831187723128464,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+92,2,6:59,1619,1619,Mary Gedaka missed Three Point Jumper.,26,10,16,5,0.8846501625055826,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+93,2,6:54,1614,1614,Cameron Onken Offensive Rebound.,26,10,16,2,0.8850952761504588,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+94,2,6:52,1612,1612,Foul on Aaliyah Dunham.,26,10,16,0,0.885272753567007,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+95,2,6:52,1612,1612,Cameron Onken missed Free Throw.,26,10,16,0,0.885272753567007,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+96,2,6:52,1612,1612,Villanova Offensive Rebound.,26,10,16,0,0.885272753567007,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+97,2,6:52,1612,1612,Cameron Onken made Free Throw.,27,10,17,12,0.8976192150187953,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Villanova
+98,2,6:40,1600,1600,Foul on Ayanna Townsend.,27,10,17,0,0.8986369518058981,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+99,2,6:40,1600,1600,Ayanna Townsend Turnover.,27,10,17,20,0.8986369518058981,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+100,2,6:20,1580,1580,Raven James Turnover.,27,10,17,18,0.900316349910707,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+101,2,6:02,1562,1562,Morgan Sharps missed Jumper.,27,10,17,0,0.9018193483976736,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+102,2,6:02,1562,1562,Bridget Herlihy Block.,27,10,17,5,0.9018193483976736,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+103,2,5:57,1557,1557,Madison Siegrist Defensive Rebound.,27,10,17,1,0.9022367467921834,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+104,2,5:56,1556,1556,Madison Siegrist missed Layup.,27,10,17,1,0.902320258352249,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+105,2,5:55,1555,1555,Xavier Defensive Rebound.,27,10,17,26,0.9024037840794985,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+106,2,5:29,1529,1529,Ayanna Townsend made Layup. Assisted by Sarah Leyendecker.,27,12,15,18,0.8791734978495739,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Xavier
+107,2,5:11,1511,1511,Mary Gedaka missed Jumper.,27,12,15,3,0.8808368040246266,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+108,2,5:08,1508,1508,Carrie Gross Defensive Rebound.,27,12,15,4,0.8811168439997419,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+109,2,5:04,1504,1504,Carrie Gross missed Jumper.,27,12,15,5,0.8814916540099996,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+110,2,4:59,1499,1499,Bridget Herlihy Defensive Rebound.,27,12,15,24,0.8819625811304199,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+111,2,4:35,1475,1475,Cameron Onken missed Three Point Jumper.,27,12,15,4,0.8842656037506664,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+112,2,4:31,1471,1471,Madison Siegrist Offensive Rebound.,27,12,15,2,0.8846571026568002,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+113,2,4:29,1469,1469,Madison Siegrist made Jumper.,29,12,17,13,0.9097934223139652,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Villanova
+114,2,4:16,1456,1456,Lauren Wasylson made Three Point Jumper. Assisted by Aaliyah Dunham.,29,15,14,17,0.8715998585143572,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Xavier
+115,2,3:59,1439,1439,Foul on Carrie Gross.,29,15,14,0,0.8733667985852039,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+116,2,3:59,1439,1439,Official TV Timeout,29,15,14,0,0.8733667985852039,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+117,2,3:59,1439,1439,Mary Gedaka made Free Throw.,30,15,15,0,0.8878528147706001,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Villanova
+118,2,3:59,1439,1439,Mary Gedaka missed Free Throw.,30,15,15,0,0.8878528147706001,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+119,2,3:59,1439,1439,Villanova Offensive Rebound.,30,15,15,21,0.8878528147706001,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+120,2,3:38,1418,1418,Villanova  Turnover.,30,15,15,14,0.8898612492223095,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+121,2,3:24,1404,1404,Morgan Sharps missed Three Point Jumper.,30,15,15,4,0.8911472122534713,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+122,2,3:20,1400,1400,Mary Gedaka Defensive Rebound.,30,15,15,24,0.891508347232796,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+123,2,2:56,1376,1376,Mary Gedaka made Layup. Assisted by Bridget Herlihy.,32,15,17,7,0.9177500426451833,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Villanova
+124,2,2:49,1369,1369,Aaliyah Dunham Turnover.,32,15,17,0,0.9182974907775215,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+125,2,2:49,1369,1369,Cameron Onken Steal.,32,15,17,22,0.9182974907775215,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+126,2,2:27,1347,1347,Bridget Herlihy Turnover.,32,15,17,0,0.9200010699873118,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+127,2,2:27,1347,1347,Courtney Prenger Steal.,32,15,17,7,0.9200010699873118,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+128,2,2:20,1340,1340,A'Riana Gray made Layup. Assisted by Lauren Wasylson.,32,17,15,32,0.8967398682932698,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Xavier
+129,2,1:48,1308,1308,Bridget Herlihy missed Three Point Jumper.,32,17,15,5,0.8995183067640211,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+130,2,1:43,1303,1303,Cameron Onken Offensive Rebound.,32,17,15,3,0.8999593784363769,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,
+131,2,1:40,1300,1300,Raven James made Layup. Assisted by Cameron Onken.,34,17,17,1,0.92365159556601,Villanova,Xavier,4,4,0,0,NA,401178469,2020-01-12,Villanova
+132,2,1:39,1299,1299,Xavier  Timeout,34,17,17,4,0.9237306635564791,Villanova,Xavier,3,4,1,0,NA,401178469,2020-01-12,
+133,2,1:35,1295,1295,Sarah Leyendecker missed Three Point Jumper.,34,17,17,0,0.9240478712223049,Villanova,Xavier,3,4,1,0,NA,401178469,2020-01-12,
+134,2,1:35,1295,1295,Madison Siegrist Defensive Rebound.,34,17,17,47,0.9240478712223049,Villanova,Xavier,3,4,1,0,NA,401178469,2020-01-12,
+135,2,0:48,1248,1248,Villanova  Turnover.,34,17,17,19,0.9279247771721022,Villanova,Xavier,3,4,1,0,NA,401178469,2020-01-12,
+136,2,0:29,1229,1229,A'Riana Gray Turnover.,34,17,17,29,0.9295942037766076,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+137,2,0:00,1200,1200,Madison Siegrist missed Three Point Jumper.,34,17,17,0,0.9322584459832474,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+138,2,0:00,1200,1200,Brooke Mullin Offensive Rebound.,34,17,17,0,0.9322584459832474,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+139,2,0:00,1200,1200,End of 2nd Quarter,34,17,17,20,0.9322584459832474,Villanova,Xavier,3,4,0,0,NA,401178469,2020-01-12,
+140,3,9:40,1180,1180,A'Riana Gray missed Jumper.,34,17,17,4,0.9340177579437612,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+141,3,9:36,1176,1176,Cameron Onken Defensive Rebound.,34,17,17,22,0.9343580875669025,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+142,3,9:14,1154,1154,Mary Gedaka made Layup.,36,17,19,9,0.9526479027086141,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Villanova
+143,3,9:05,1145,1145,A'Riana Gray Turnover.,36,17,19,0,0.9532569941927596,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+144,3,9:05,1145,1145,Bridget Herlihy Steal.,36,17,19,6,0.9532569941927596,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+145,3,8:59,1139,1139,Bridget Herlihy made Layup.,38,17,21,27,0.9658617622696054,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Villanova
+146,3,8:32,1112,1112,A'Riana Gray made Jumper.,38,19,19,11,0.9554294879873567,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Xavier
+147,3,8:21,1101,1101,Foul on Aaliyah Dunham.,38,19,19,13,0.9561421263205783,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+148,3,8:08,1088,1088,Madison Siegrist missed Jumper.,38,19,19,0,0.9569830490674615,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+149,3,8:08,1088,1088,Sarah Leyendecker Block.,38,19,19,2,0.9569830490674615,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+150,3,8:06,1086,1086,Sarah Leyendecker Defensive Rebound.,38,19,19,0,0.9571125446325891,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+151,3,8:06,1086,1086,Foul on Madison Siegrist.,38,19,19,13,0.9571125446325891,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+152,3,7:53,1073,1073,Foul on Raven James.,38,19,19,0,0.9579566837369692,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+153,3,7:53,1073,1073,A'Riana Gray missed Free Throw.,38,19,19,0,0.9579566837369692,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+154,3,7:53,1073,1073,Xavier Offensive Rebound.,38,19,19,0,0.9579566837369692,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+155,3,7:53,1073,1073,A'Riana Gray made Free Throw.,38,20,18,19,0.9508074996822068,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Xavier
+156,3,7:34,1054,1054,Raven James made Layup. Assisted by Bridget Herlihy.,40,20,20,14,0.9652327842029073,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Villanova
+157,3,7:20,1040,1040,A'Riana Gray missed Layup.,40,20,20,4,0.9660753669734544,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+158,3,7:16,1036,1036,Bridget Herlihy Defensive Rebound.,40,20,20,20,0.966318557563388,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+159,3,6:56,1016,1016,Foul on A'Riana Gray.,40,20,20,0,0.9675539038476387,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+160,3,6:56,1016,1016,Bridget Herlihy made Free Throw.,41,20,21,0,0.9724803762560538,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Villanova
+161,3,6:56,1016,1016,Bridget Herlihy made Free Throw.,42,20,22,10,0.9766768658467122,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Villanova
+162,3,6:46,1006,1006,Lauren Wasylson missed Three Point Jumper.,42,20,22,4,0.9771801205331266,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+163,3,6:42,1002,1002,A'Riana Gray Offensive Rebound.,42,20,22,0,0.9773832946107457,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+164,3,6:42,1002,1002,Foul on Bridget Herlihy.,42,20,22,0,0.9773832946107457,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+165,3,6:42,1002,1002,A'Riana Gray made Free Throw.,42,21,21,0,0.9732732418385819,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Xavier
+166,3,6:42,1002,1002,A'Riana Gray made Free Throw.,42,22,20,17,0.9684404013986815,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Xavier
+167,3,6:25,985,985,Bridget Herlihy missed Jumper.,42,22,20,4,0.9695438997427324,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+168,3,6:21,981,981,Lauren Wasylson Defensive Rebound.,42,22,20,15,0.969808089267152,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+169,3,6:06,966,966,Carrie Gross made Layup. Assisted by Courtney Prenger.,42,24,18,20,0.9590604612718865,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Xavier
+170,3,5:46,946,946,Bridget Herlihy missed Three Point Jumper.,42,24,18,7,0.9605752602237914,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+171,3,5:39,939,939,Madison Siegrist Offensive Rebound.,42,24,18,0,0.9610578333261984,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+172,3,5:39,939,939,Madison Siegrist made Layup.,44,24,20,23,0.9724059820621056,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Villanova
+173,3,5:16,916,916,A'Riana Gray missed Layup.,44,24,20,4,0.9735610293933596,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+174,3,5:12,912,912,Bridget Herlihy Defensive Rebound.,44,24,20,15,0.9737481631993409,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+175,3,4:57,897,897,Madison Siegrist made Layup. Assisted by Bridget Herlihy.,46,24,22,4,0.9820877372711401,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Villanova
+176,3,4:53,893,893,Official TV Timeout,46,24,22,11,0.9822231471135888,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+177,3,4:42,882,882,Carrie Gross made Layup.,46,26,20,19,0.9750692222838613,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Xavier
+178,3,4:23,863,863,Mary Gedaka made Jumper.,48,26,22,20,0.9832040967326975,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Villanova
+179,3,4:03,843,843,A'Riana Gray missed Three Point Jumper.,48,26,22,8,0.983850692585049,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+180,3,3:55,835,835,Madison Siegrist Defensive Rebound.,48,26,22,6,0.9841133397120985,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+181,3,3:49,829,829,Foul on Ayanna Townsend.,48,26,22,14,0.9843129056435789,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+182,3,3:35,815,815,Madison Siegrist missed Three Point Jumper.,48,26,22,5,0.9847897619257385,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+183,3,3:30,810,810,A'Riana Gray Defensive Rebound.,48,26,22,13,0.9849645787809073,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+184,3,3:17,797,797,Aaliyah Dunham missed Three Point Jumper.,48,26,22,4,0.9854321589464428,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+185,3,3:13,793,793,Cameron Onken Defensive Rebound.,48,26,22,12,0.9855801544116625,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+186,3,3:01,781,781,Cameron Onken Turnover.,48,26,22,0,0.986036802796538,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+187,3,3:01,781,781,A'Riana Gray Steal.,48,26,22,12,0.986036802796538,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+188,3,2:49,769,769,Carrie Gross Turnover.,48,26,22,0,0.9865135249891565,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+189,3,2:49,769,769,Raven James Steal.,48,26,22,25,0.9865135249891565,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+190,3,2:24,744,744,Foul on Ayanna Townsend.,48,26,22,0,0.9875742523526114,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+191,3,2:24,744,744,Cameron Onken Turnover.,48,26,22,18,0.9875742523526114,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+192,3,2:06,726,726,Ayanna Townsend made Jumper. Assisted by Aaliyah Dunham.,48,28,20,24,0.9827078900105338,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Xavier
+193,3,1:42,702,702,Bridget Herlihy Turnover.,48,28,20,0,0.9839701933105158,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+194,3,1:42,702,702,A'Riana Gray Steal.,48,28,20,0,0.9839701933105158,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+195,3,1:42,702,702,Foul on Bridget Herlihy.,48,28,20,12,0.9839701933105158,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+196,3,1:30,690,690,A'Riana Gray made Three Point Jumper.,48,31,17,26,0.9715014351357296,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Xavier
+197,3,1:04,664,664,Foul on Carrie Gross.,48,31,17,0,0.973113995500173,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+198,3,1:04,664,664,Mary Gedaka made Free Throw.,49,31,18,0,0.9781188757469468,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Villanova
+199,3,1:04,664,664,Mary Gedaka made Free Throw.,50,31,19,10,0.9822091212764886,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Villanova
+200,3,0:54,654,654,A'Riana Gray missed Jumper.,50,31,19,4,0.9826475628917705,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+201,3,0:50,650,650,Madison Siegrist Defensive Rebound.,50,31,19,0,0.9828216661376236,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+202,3,0:50,650,650,Madison Siegrist Turnover.,50,31,19,0,0.9828216661376236,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+203,3,0:50,650,650,A'Riana Gray Steal.,50,31,19,0,0.9828216661376236,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+204,3,0:50,650,650,A'Riana Gray made Layup.,50,33,17,0,0.9739362919940487,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Xavier
+205,3,0:50,650,650,Foul on Madison Siegrist.,50,33,17,0,0.9739362919940487,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+206,3,0:50,650,650,A'Riana Gray made Free Throw.,50,34,16,8,0.9679478419475016,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Xavier
+207,3,0:42,642,642,Raven James Turnover.,50,34,16,0,0.9684879601459646,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+208,3,0:42,642,642,Aaliyah Dunham Steal.,50,34,16,15,0.9684879601459646,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+209,3,0:27,627,627,Carrie Gross made Layup.,50,36,14,15,0.953793337226913,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Xavier
+210,3,0:12,612,612,Foul on Raven James.,50,36,14,0,0.9552150649915261,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+211,3,0:12,612,612,Raven James Turnover.,50,36,14,9,0.9552150649915261,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+212,3,0:03,603,603,Aaliyah Dunham made Jumper.,50,38,12,3,0.9334664105780334,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,Xavier
+213,3,0:00,600,600,End of 3rd Quarter,50,38,12,18,0.9338615050800714,Villanova,Xavier,4,5,0,0,NA,401178469,2020-01-12,
+214,4,9:42,582,582,Madison Siegrist made Layup. Assisted by Raven James.,52,38,14,17,0.9584155841240388,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,Villanova
+215,4,9:25,565,565,A'Riana Gray Turnover.,52,38,14,17,0.9604988134446267,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+216,4,9:08,548,548,Foul on Lauren Wasylson.,52,38,14,18,0.9627953085888815,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+217,4,8:50,530,530,Raven James missed Jumper.,52,38,14,4,0.9649461970408653,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+218,4,8:46,526,526,A'Riana Gray Defensive Rebound.,52,38,14,6,0.9653598856924531,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+219,4,8:40,520,520,Foul on Samantha Carangi.,52,38,14,0,0.9659496586572367,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+220,4,8:40,520,520,A'Riana Gray missed Free Throw.,52,38,14,0,0.9659496586572367,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+221,4,8:40,520,520,Xavier Offensive Rebound.,52,38,14,0,0.9659496586572367,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+222,4,8:40,520,520,A'Riana Gray made Free Throw.,52,39,13,0,0.957152838585036,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,Xavier
+223,4,8:40,520,520,Foul on Carrie Gross.,52,39,13,28,0.957152838585036,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+224,4,8:12,492,492,Raven James missed Three Point Jumper.,52,39,13,4,0.9600626449426543,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+225,4,8:08,488,488,Madison Siegrist Offensive Rebound.,52,39,13,0,0.9604750085206916,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+226,4,8:08,488,488,Foul on Sarah Leyendecker.,52,39,13,18,0.9604750085206916,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+227,4,7:50,470,470,Mary Gedaka missed Layup.,52,39,13,9,0.9624390476413044,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+228,4,7:41,461,461,Mary Gedaka Offensive Rebound.,52,39,13,0,0.9635250454195856,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+229,4,7:41,461,461,Mary Gedaka missed Layup.,52,39,13,2,0.9635250454195856,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+230,4,7:39,459,459,A'Riana Gray Defensive Rebound.,52,39,13,1,0.9637785452754432,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+231,4,7:38,458,458,Lauren Wasylson missed Layup.,52,39,13,0,0.9639070859613552,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+232,4,7:38,458,458,Morgan Sharps Offensive Rebound.,52,39,13,28,0.9639070859613552,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+233,4,7:10,430,430,Mary Gedaka missed Jumper.,52,39,13,3,0.9680567147586324,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+234,4,7:07,427,427,Madison Siegrist Offensive Rebound.,52,39,13,18,0.9685527813608966,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+235,4,6:49,409,409,A'Riana Gray missed Three Point Jumper.,52,39,13,5,0.971200977309227,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+236,4,6:44,404,404,A'Riana Gray Offensive Rebound.,52,39,13,1,0.9718629555472212,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+237,4,6:43,403,403,Foul on Mary Gedaka.,52,39,13,0,0.9719926355440874,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+238,4,6:43,403,403,Sarah Leyendecker missed Free Throw.,52,39,13,0,0.9719926355440874,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+239,4,6:43,403,403,Xavier Offensive Rebound.,52,39,13,0,0.9719926355440874,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+240,4,6:43,403,403,Sarah Leyendecker made Free Throw.,52,40,12,19,0.9635275449472371,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,Xavier
+241,4,6:24,384,384,Foul on Lauren Wasylson.,52,40,12,21,0.9663436635817078,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+242,4,6:03,363,363,Foul on Morgan Sharps.,52,40,12,0,0.9694129307425476,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+243,4,6:03,363,363,Cameron Onken missed Free Throw.,52,40,12,0,0.9694129307425476,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+244,4,6:03,363,363,Villanova Offensive Rebound.,52,40,12,0,0.9694129307425476,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+245,4,6:03,363,363,Cameron Onken missed Free Throw.,52,40,12,0,0.9694129307425476,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+246,4,6:03,363,363,A'Riana Gray Defensive Rebound.,52,40,12,8,0.9694129307425476,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+247,4,5:55,355,355,Lauren Wasylson made Three Point Jumper. Assisted by Aaliyah Dunham.,52,43,9,8,0.9323521560746143,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,Xavier
+248,4,5:47,347,347,Madison Siegrist Turnover.,52,43,9,3,0.9344486103888152,Villanova,Xavier,5,6,0,0,NA,401178469,2020-01-12,
+249,4,5:44,344,344,Villanova  Timeout,52,43,9,12,0.935262573575157,Villanova,Xavier,5,5,0,1,NA,401178469,2020-01-12,
+250,4,5:32,332,332,Lauren Wasylson missed Three Point Jumper.,52,43,9,3,0.9386871114970151,Villanova,Xavier,5,5,0,1,NA,401178469,2020-01-12,
+251,4,5:29,329,329,Sarah Leyendecker Offensive Rebound.,52,43,9,1,0.9395878547726274,Villanova,Xavier,5,5,0,1,NA,401178469,2020-01-12,
+252,4,5:28,328,328,Sarah Leyendecker missed Layup.,52,43,9,3,0.9398922053145031,Villanova,Xavier,5,5,0,1,NA,401178469,2020-01-12,
+253,4,5:25,325,325,Madison Siegrist Defensive Rebound.,52,43,9,26,0.9408176708577431,Villanova,Xavier,5,5,0,1,NA,401178469,2020-01-12,
+254,4,4:59,299,299,Bridget Herlihy missed Layup.,52,43,9,7,0.9483003945831495,Villanova,Xavier,5,5,0,1,NA,401178469,2020-01-12,
+255,4,4:52,292,292,A'Riana Gray Defensive Rebound.,52,43,9,4,0.948924362058351,Villanova,Xavier,5,5,0,1,NA,401178469,2020-01-12,
+256,4,4:48,288,288,A'Riana Gray Turnover.,52,43,9,0,0.9490072280147318,Villanova,Xavier,5,5,0,1,NA,401178469,2020-01-12,
+257,4,4:48,288,288,Cameron Onken Steal.,52,43,9,22,0.9490072280147318,Villanova,Xavier,5,5,0,1,NA,401178469,2020-01-12,
+258,4,4:26,266,266,Madison Siegrist made Three Point Jumper. Assisted by Bridget Herlihy.,55,43,12,3,0.9791308614378051,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,Villanova
+259,4,4:23,263,263,Official TV Timeout,55,43,12,14,0.9789048401431054,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+260,4,4:09,249,249,A'Riana Gray missed Layup.,55,43,12,5,0.9778987366983631,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+261,4,4:04,244,244,Lauren Wasylson Offensive Rebound.,55,43,12,2,0.9776448626457497,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+262,4,4:02,242,242,Lauren Wasylson made Three Point Jumper.,55,46,9,19,0.9443311937964937,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,Xavier
+263,4,3:43,223,223,Madison Siegrist made Three Point Jumper. Assisted by Bridget Herlihy.,58,46,12,13,0.9781132562987961,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,Villanova
+264,4,3:30,210,210,Foul on Sarah Leyendecker.,58,46,12,0,0.9801994791861758,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+265,4,3:30,210,210,Sarah Leyendecker Turnover.,58,46,12,28,0.9801994791861758,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+266,4,3:02,182,182,Mary Gedaka Turnover.,58,46,12,0,0.9885518223677426,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+267,4,3:02,182,182,Aaliyah Dunham Steal.,58,46,12,6,0.9885518223677426,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+268,4,2:56,176,176,Aaliyah Dunham made Three Point Jumper. Assisted by A'Riana Gray.,58,49,9,33,0.9694815227519378,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,Xavier
+269,4,2:23,143,143,Foul on Sarah Leyendecker.,58,49,9,1,0.9846331001147669,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+270,4,2:22,142,142,Madison Siegrist made Free Throw.,59,49,10,0,0.9905207989114804,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,Villanova
+271,4,2:22,142,142,Madison Siegrist missed Free Throw.,59,49,10,0,0.9905207989114804,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+272,4,2:22,142,142,Ayanna Townsend Defensive Rebound.,59,49,10,12,0.9905207989114804,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+273,4,2:10,130,130,Aaliyah Dunham missed Layup.,59,49,10,3,0.9932545330366128,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+274,4,2:07,127,127,Madison Siegrist Defensive Rebound.,59,49,10,25,0.9938458869304504,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+275,4,1:42,102,102,Mary Gedaka made Jumper. Assisted by Raven James.,61,49,12,10,0.9992358949556056,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,Villanova
+276,4,1:32,92,92,Foul on Bridget Herlihy.,61,49,12,0,0.999544029992805,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+277,4,1:32,92,92,A'Riana Gray made Free Throw.,61,50,11,0,0.9991347056602206,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,Xavier
+278,4,1:32,92,92,A'Riana Gray made Free Throw.,61,51,10,1,0.9983585342555569,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,Xavier
+279,4,1:31,91,91,Madison Siegrist Turnover.,61,51,10,4,0.9984298391291561,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+280,4,1:27,87,87,Foul on Ayanna Townsend.,61,51,10,0,0.9986873679623053,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+281,4,1:27,87,87,Ayanna Townsend Turnover.,61,51,10,12,0.9986873679623053,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+282,4,1:15,75,75,Raven James Turnover.,61,51,10,0,0.9992513270545244,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+283,4,1:15,75,75,Carrie Gross Steal.,61,51,10,5,0.9992513270545244,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+284,4,1:10,70,70,Carrie Gross Turnover.,61,51,10,0,0.9994167957120635,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+285,4,1:10,70,70,Mary Gedaka Steal.,61,51,10,8,0.9994167957120635,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+286,4,1:02,62,62,Foul on Aaliyah Dunham.,61,51,10,0,0.9996147519937513,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+287,4,1:02,62,62,Raven James missed Free Throw.,61,51,10,0,0.9996147519937513,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+288,4,1:02,62,62,Villanova Offensive Rebound.,61,51,10,0,0.9996147519937513,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+289,4,1:02,62,62,Raven James made Free Throw.,62,51,11,2,0.9998244413362464,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,Villanova
+290,4,1:00,60,60,Foul on Raven James.,62,51,11,7,0.9998438016454895,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+291,4,0:53,53,53,Lauren Wasylson missed Three Point Jumper.,62,51,11,2,0.9998972549091244,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+292,4,0:51,51,51,Xavier Offensive Rebound.,62,51,11,6,0.9999091207840766,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+293,4,0:45,45,45,Carrie Gross missed Jumper.,62,51,11,1,0.9999376701856281,Villanova,Xavier,5,5,0,0,NA,401178469,2020-01-12,
+294,4,0:44,44,44,Villanova Defensive Rebound.,62,51,11,0,0.9999415491756889,Villanova,Xavier,5,5,1,0,NA,401178469,2020-01-12,
+295,4,0:44,44,44,Foul on A'Riana Gray.,62,51,11,0,0.9999415491756889,Villanova,Xavier,5,5,1,0,NA,401178469,2020-01-12,
+296,4,0:44,44,44,Bridget Herlihy made Free Throw.,63,51,12,0,0.9999759025740931,Villanova,Xavier,5,5,1,0,NA,401178469,2020-01-12,Villanova
+297,4,0:44,44,44,Bridget Herlihy made Free Throw.,64,51,13,0,0.9999900655941579,Villanova,Xavier,5,5,1,0,NA,401178469,2020-01-12,Villanova
+298,4,0:44,44,44,Xavier  Timeout,64,51,13,6,0.9999900655941579,Villanova,Xavier,4,5,1,0,NA,401178469,2020-01-12,
+299,4,0:38,38,38,Aaliyah Dunham made Layup.,64,53,11,0,0.9999605694355613,Villanova,Xavier,4,5,1,1,NA,401178469,2020-01-12,Xavier
+300,4,0:38,38,38,Villanova  Timeout,64,53,11,5,0.9999605694355613,Villanova,Xavier,4,4,1,1,NA,401178469,2020-01-12,
+301,4,0:33,33,33,Villanova  Timeout,64,53,11,0,0.999971869651438,Villanova,Xavier,4,3,1,1,NA,401178469,2020-01-12,
+302,4,0:33,33,33,Foul on Carrie Gross.,64,53,11,1,0.999971869651438,Villanova,Xavier,4,3,1,1,NA,401178469,2020-01-12,
+303,4,0:32,32,32,Mary Gedaka made Free Throw.,65,53,12,0,0.9999899300971531,Villanova,Xavier,4,3,1,1,NA,401178469,2020-01-12,Villanova
+304,4,0:32,32,32,Mary Gedaka missed Free Throw.,65,53,12,0,0.9999899300971531,Villanova,Xavier,4,3,1,1,NA,401178469,2020-01-12,
+305,4,0:32,32,32,A'Riana Gray Defensive Rebound.,65,53,12,0,0.9999899300971531,Villanova,Xavier,4,3,1,1,NA,401178469,2020-01-12,
+306,4,0:32,32,32,Xavier  Timeout,65,53,12,5,0.9999899300971531,Villanova,Xavier,3,3,1,1,NA,401178469,2020-01-12,
+307,4,0:27,27,27,Foul on Bridget Herlihy.,65,53,12,0,0.9999931011043236,Villanova,Xavier,3,3,1,1,NA,401178469,2020-01-12,
+308,4,0:27,27,27,Aaliyah Dunham made Free Throw.,65,54,11,0,0.9999814272608196,Villanova,Xavier,3,3,1,1,NA,401178469,2020-01-12,Xavier
+309,4,0:27,27,27,Aaliyah Dunham missed Free Throw.,65,54,11,0,0.9999814272608196,Villanova,Xavier,3,3,1,1,NA,401178469,2020-01-12,
+310,4,0:27,27,27,Aaliyah Dunham Offensive Rebound.,65,54,11,7,0.9999814272608196,Villanova,Xavier,3,3,1,1,NA,401178469,2020-01-12,
+311,4,0:20,20,20,A'Riana Gray missed Layup.,65,54,11,1,0.9999887054251725,Villanova,Xavier,3,3,1,1,NA,401178469,2020-01-12,
+312,4,0:19,19,19,Raven James Defensive Rebound.,65,54,11,2,0.999989500352178,Villanova,Xavier,3,3,1,1,NA,401178469,2020-01-12,
+313,4,0:17,17,17,Foul on Ayanna Townsend.,65,54,11,0,0.9999909411129122,Villanova,Xavier,3,3,1,1,NA,401178469,2020-01-12,
+314,4,0:17,17,17,Raven James missed Free Throw.,65,54,11,0,0.9999909411129122,Villanova,Xavier,3,3,1,1,NA,401178469,2020-01-12,
+315,4,0:17,17,17,Villanova Offensive Rebound.,65,54,11,0,0.9999909411129122,Villanova,Xavier,3,3,1,1,NA,401178469,2020-01-12,
+316,4,0:17,17,17,Raven James made Free Throw.,66,54,12,9,0.9999968476819541,Villanova,Xavier,3,3,1,1,NA,401178469,2020-01-12,Villanova
+317,4,0:08,8,8,Lauren Wasylson missed Three Point Jumper.,66,54,12,1,0.9999985115867688,Villanova,Xavier,3,3,1,1,NA,401178469,2020-01-12,
+318,4,0:07,7,7,Xavier Offensive Rebound.,66,54,12,2,0.9999986337423943,Villanova,Xavier,3,3,1,1,NA,401178469,2020-01-12,
+319,4,0:05,5,5,A'Riana Gray missed Layup.,66,54,12,2,0.9999988501092868,Villanova,Xavier,3,3,1,1,NA,401178469,2020-01-12,
+320,4,0:03,3,3,Madison Siegrist Defensive Rebound.,66,54,12,3,0.9999990335631567,Villanova,Xavier,3,3,1,1,NA,401178469,2020-01-12,
+321,4,0:00,0,0,End of 4th Quarter,66,54,12,0,1,Villanova,Xavier,3,3,1,1,NA,401178469,2020-01-12,
+322,4,0:00,0,0,End of Game,66,54,12,0,1,Villanova,Xavier,3,3,1,1,NA,401178469,2020-01-12,

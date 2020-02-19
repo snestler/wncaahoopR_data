@@ -1,0 +1,338 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:42,2682,2682,Davida Dale made Layup.,0,0,0,18,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,NA
+2,1,9:24,2664,2664,Hanna Crymble missed Three Point Jumper.,2,0,2,3,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Rhode Island
+3,1,9:21,2661,2661,Maia Moffitt Defensive Rebound.,2,0,2,23,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+4,1,8:58,2638,2638,Marta Vargas missed Layup.,2,0,2,3,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+5,1,8:55,2635,2635,Nicole Jorgensen Offensive Rebound.,2,0,2,1,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+6,1,8:54,2634,2634,Nicole Jorgensen missed Layup.,2,0,2,2,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+7,1,8:52,2632,2632,Hanna Crymble Defensive Rebound.,2,0,2,17,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+8,1,8:35,2615,2615,Emma Utterback missed Three Point Jumper.,2,0,2,3,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+9,1,8:32,2612,2612,Maia Moffitt Defensive Rebound.,2,0,2,7,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+10,1,8:25,2605,2605,Nicole Jorgensen made Jumper. Assisted by Marta Vargas.,4,0,4,24,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Rhode Island
+11,1,8:01,2581,2581,Delaney Richason made Three Point Jumper. Assisted by Rose Caverly.,4,3,1,19,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Vermont
+12,1,7:42,2562,2562,Nicole Jorgensen missed Jumper.,4,3,1,0,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+13,1,7:42,2562,2562,Vermont Defensive Rebound.,4,3,1,13,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+14,1,7:29,2549,2549,Rose Caverly made Jumper.,4,5,-1,16,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Vermont
+15,1,7:13,2533,2533,Maia Moffitt Turnover.,4,5,-1,0,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+16,1,7:13,2533,2533,Delaney Richason Steal.,4,5,-1,7,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+17,1,7:06,2526,2526,Rose Caverly made Layup.,4,7,-3,21,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Vermont
+18,1,6:45,2505,2505,Davida Dale made Three Point Jumper. Assisted by Erin Jones.,7,7,0,24,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Rhode Island
+19,1,6:21,2481,2481,Emma Utterback missed Jumper.,7,7,0,5,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+20,1,6:16,2476,2476,Marta Vargas Defensive Rebound.,7,7,0,12,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+21,1,6:04,2464,2464,Erin Jones made Three Point Jumper. Assisted by Davida Dale.,10,7,3,22,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Rhode Island
+22,1,5:42,2442,2442,Hanna Crymble missed Three Point Jumper.,10,7,3,4,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+23,1,5:38,2438,2438,Maia Moffitt Defensive Rebound.,10,7,3,17,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+24,1,5:21,2421,2421,Marta Vargas missed Jumper.,10,7,3,3,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+25,1,5:18,2418,2418,Rose Caverly Defensive Rebound.,10,7,3,4,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+26,1,5:14,2414,2414,Emma Utterback Turnover.,10,7,3,13,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+27,1,5:01,2401,2401,Nicole Jorgensen Turnover.,10,7,3,13,NA,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+28,1,4:48,2388,2388,Carly Whiteside missed Three Point Jumper.,10,7,3,3,0.5662011795037978,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+29,1,4:45,2385,2385,Marta Vargas Defensive Rebound.,10,7,3,6,0.5662953281641947,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+30,1,4:39,2379,2379,Davida Dale missed Layup.,10,7,3,2,0.5664842054392724,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+31,1,4:37,2377,2377,Rose Caverly Defensive Rebound.,10,7,3,4,0.5665473340505129,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+32,1,4:33,2373,2373,Foul on Sarah Wells.,10,7,3,0,0.5666738417586205,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+33,1,4:33,2373,2373,Sarah Wells Turnover.,10,7,3,0,0.5666738417586205,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+34,1,4:33,2373,2373,Official TV Timeout,10,7,3,16,0.5666738417586205,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+35,1,4:17,2357,2357,Maia Moffitt missed Three Point Jumper.,10,7,3,3,0.5671831196943142,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+36,1,4:14,2354,2354,Davida Dale Offensive Rebound.,10,7,3,1,0.5672791704388894,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+37,1,4:13,2353,2353,Davida Dale made Layup.,12,7,5,15,0.6109915937142741,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Rhode Island
+38,1,3:58,2338,2338,Hanna Crymble missed Three Point Jumper.,12,7,5,2,0.6117709813491732,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+39,1,3:56,2336,2336,Maia Moffitt Defensive Rebound.,12,7,5,8,0.6118753710318213,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+40,1,3:48,2328,2328,Marta Vargas missed Three Point Jumper.,12,7,5,3,0.6122939952184522,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+41,1,3:45,2325,2325,Sarah Wells Defensive Rebound.,12,7,5,6,0.6124514094550819,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+42,1,3:39,2319,2319,Emma Utterback missed Layup.,12,7,5,0,0.6127669218779279,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+43,1,3:39,2319,2319,Davida Dale Block.,12,7,5,5,0.6127669218779279,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+44,1,3:34,2314,2314,Davida Dale Defensive Rebound.,12,7,5,13,0.6130305287844052,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+45,1,3:21,2301,2301,Nicole Jorgensen missed Layup.,12,7,5,5,0.6137186774736136,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+46,1,3:16,2296,2296,Carly Whiteside Defensive Rebound.,12,7,5,8,0.6139843708395649,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+47,1,3:08,2288,2288,Hanna Crymble missed Layup.,12,7,5,8,0.6144106012633384,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+48,1,3:00,2280,2280,Maia Moffitt Defensive Rebound.,12,7,5,17,0.614838153307917,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+49,1,2:43,2263,2263,Davida Dale made Jumper.,14,7,7,23,0.6592988837879349,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Rhode Island
+50,1,2:20,2240,2240,Sarah Wells missed Three Point Jumper.,14,7,7,3,0.6609495642926883,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+51,1,2:17,2237,2237,Marta Vargas Defensive Rebound.,14,7,7,18,0.66116552487307,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+52,1,1:59,2219,2219,Maia Moffitt missed Three Point Jumper.,14,7,7,4,0.6624639744653497,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+53,1,1:55,2215,2215,Hanna Crymble Defensive Rebound.,14,7,7,16,0.66275308023513535,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+54,1,1:39,2199,2199,Rose Caverly missed Jumper.,14,7,7,2,0.663911192852751,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+55,1,1:37,2197,2197,Nicole Jorgensen Defensive Rebound.,14,7,7,6,0.6640561241647169,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+56,1,1:31,2191,2191,Erin Jones made Layup. Assisted by Marta Vargas.,16,7,9,3,0.706536682884504,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Rhode Island
+57,1,1:28,2188,2188,Vermont  Timeout,16,7,9,9,0.7067968402960287,Rhode Island,Vermont,3,4,1,0,NA,401176206,2019-11-25,
+58,1,1:19,2179,2179,Hanna Crymble made Layup. Assisted by Josie Larkins.,16,9,7,15,0.6653618060402517,Rhode Island,Vermont,3,4,1,0,NA,401176206,2019-11-25,Vermont
+59,1,1:04,2164,2164,Marta Vargas made Layup. Assisted by Davida Dale.,18,9,9,20,0.708878597921293,Rhode Island,Vermont,3,4,1,0,NA,401176206,2019-11-25,Rhode Island
+60,1,0:44,2144,2144,Emma Utterback missed Three Point Jumper.,18,9,9,2,0.710617535263602,Rhode Island,Vermont,3,4,1,0,NA,401176206,2019-11-25,
+61,1,0:42,2142,2142,Kassondra Brown Defensive Rebound.,18,9,9,9,0.7107917559670978,Rhode Island,Vermont,3,4,1,0,NA,401176206,2019-11-25,
+62,1,0:33,2133,2133,Davida Dale made Three Point Jumper. Assisted by Marta Vargas.,21,9,12,33,0.7692481969073498,Rhode Island,Vermont,3,4,1,0,NA,401176206,2019-11-25,Rhode Island
+63,1,0:00,2100,2100,Vermont  Turnover.,21,9,12,0,0.7725735725166493,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+64,1,0:00,2100,2100,End of 1st Quarter,21,9,12,7,0.7725735725166493,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+65,2,9:53,2093,2093,Rose Caverly missed Three Point Jumper.,21,9,12,5,0.7732802455087854,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+66,2,9:48,2088,2088,Emma Utterback Offensive Rebound.,21,9,12,1,0.7737853353237641,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+67,2,9:47,2087,2087,Emma Utterback missed Layup.,21,9,12,2,0.7738863869524771,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+68,2,9:45,2085,2085,Marta Vargas Defensive Rebound.,21,9,12,14,0.7740885246861814,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+69,2,9:31,2071,2071,Kassondra Brown missed Jumper.,21,9,12,3,0.7755048395676183,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+70,2,9:28,2068,2068,Josie Larkins Defensive Rebound.,21,9,12,9,0.7758086591847869,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+71,2,9:19,2059,2059,Delaney Richason made Three Point Jumper. Assisted by Rose Caverly.,21,12,9,12,0.718087294522049,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Vermont
+72,2,9:07,2047,2047,Foul on Marta Vargas.,21,12,9,0,0.7191545128377829,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+73,2,9:07,2047,2047,Marta Vargas Turnover.,21,12,9,26,0.7191545128377829,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+74,2,8:41,2021,2021,Josie Larkins missed Three Point Jumper.,21,12,9,2,0.7214795648109648,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+75,2,8:39,2019,2019,Marta Vargas Defensive Rebound.,21,12,9,8,0.7216591728753587,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+76,2,8:31,2011,2011,Kassondra Brown made Layup.,23,12,11,15,0.7629282220716398,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Rhode Island
+77,2,8:16,1996,1996,Delaney Richason made Three Point Jumper. Assisted by Josie Larkins.,23,15,8,24,0.7018343572039175,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Vermont
+78,2,7:52,1972,1972,Marta Vargas missed Layup.,23,15,8,5,0.7038642687059695,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+79,2,7:47,1967,1967,Hanna Crymble Defensive Rebound.,23,15,8,11,0.7042895562463658,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+80,2,7:36,1956,1956,Hanna Crymble made Three Point Jumper. Assisted by Rose Caverly.,23,18,5,21,0.6330212242152617,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Vermont
+81,2,7:15,1935,1935,Jessica Rogers missed Three Point Jumper.,23,18,5,3,0.634282365640379,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+82,2,7:12,1932,1932,Josie Larkins Defensive Rebound.,23,18,5,5,0.634463660199752,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+83,2,7:07,1927,1927,Emma Utterback missed Three Point Jumper.,23,18,5,3,0.6347662425970636,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+84,2,7:04,1924,1924,Kassondra Brown Defensive Rebound.,23,18,5,24,0.6349476638844399,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+85,2,6:40,1900,1900,Kassondra Brown missed Layup.,23,18,5,0,0.6363952417623815,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+86,2,6:40,1900,1900,Emma Utterback Block.,23,18,5,5,0.6363952417623815,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+87,2,6:35,1895,1895,Rose Caverly Defensive Rebound.,23,18,5,6,0.6366962506208991,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+88,2,6:29,1889,1889,Foul on Marta Vargas.,23,18,5,11,0.6370573402665893,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+89,2,6:18,1878,1878,Carly Whiteside Turnover.,23,18,5,0,0.6377192408456538,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+90,2,6:18,1878,1878,Nicole Jorgensen Steal.,23,18,5,10,0.6377192408456538,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+91,2,6:08,1868,1868,Marta Vargas made Three Point Jumper. Assisted by Meghan Oberg.,26,18,8,23,0.7127824085942487,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Rhode Island
+92,2,5:45,1845,1845,Carly Whiteside Turnover.,26,18,8,0,0.7147483465926828,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+93,2,5:45,1845,1845,Maia Moffitt Steal.,26,18,8,5,0.7147483465926828,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+94,2,5:40,1840,1840,Maia Moffitt made Layup.,28,18,10,5,0.7596612381945476,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Rhode Island
+95,2,5:35,1835,1835,Vermont  Timeout,28,18,10,0,0.7601409276304898,Rhode Island,Vermont,3,4,1,0,NA,401176206,2019-11-25,
+96,2,5:35,1835,1835,Official TV Timeout,28,18,10,22,0.7601409276304898,Rhode Island,Vermont,3,4,1,0,NA,401176206,2019-11-25,
+97,2,5:13,1813,1813,Foul on Nicole Jorgensen.,28,18,10,3,0.7622550138117407,Rhode Island,Vermont,3,4,1,0,NA,401176206,2019-11-25,
+98,2,5:10,1810,1810,Hanna Crymble missed Jumper.,28,18,10,3,0.7625439331474314,Rhode Island,Vermont,3,4,1,0,NA,401176206,2019-11-25,
+99,2,5:07,1807,1807,Maia Moffitt Defensive Rebound.,28,18,10,12,0.7628330489617402,Rhode Island,Vermont,3,4,1,0,NA,401176206,2019-11-25,
+100,2,4:55,1795,1795,Nicole Jorgensen made Layup.,30,18,12,17,0.8037073135675677,Rhode Island,Vermont,3,4,1,0,NA,401176206,2019-11-25,Rhode Island
+101,2,4:38,1778,1778,Emma Utterback missed Jumper.,30,18,12,2,0.8054370822013479,Rhode Island,Vermont,3,4,1,0,NA,401176206,2019-11-25,
+102,2,4:36,1776,1776,Nicole Jorgensen Defensive Rebound.,30,18,12,5,0.8056410839986022,Rhode Island,Vermont,3,4,1,0,NA,401176206,2019-11-25,
+103,2,4:31,1771,1771,Davida Dale missed Layup.,30,18,12,0,0.8061516197523041,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+104,2,4:31,1771,1771,Rose Caverly Block.,30,18,12,0,0.8061516197523041,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+105,2,4:31,1771,1771,Vermont Defensive Rebound.,30,18,12,12,0.8061516197523041,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+106,2,4:19,1759,1759,Rose Caverly made Three Point Jumper.,30,21,9,22,0.7455101679719113,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,Vermont
+107,2,3:57,1737,1737,Nicole Jorgensen missed Layup.,30,21,9,3,0.7475886479199755,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+108,2,3:54,1734,1734,Rose Caverly Defensive Rebound.,30,21,9,19,0.7478742396294774,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+109,2,3:35,1715,1715,Carly Whiteside missed Three Point Jumper.,30,21,9,2,0.7496964577784596,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+110,2,3:33,1713,1713,Davida Dale Defensive Rebound.,30,21,9,28,0.7498897002592977,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+111,2,3:05,1685,1685,Meghan Oberg missed Jumper.,30,21,9,2,0.7526234388277887,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+112,2,3:03,1683,1683,Hanna Crymble Defensive Rebound.,30,21,9,13,0.7528181777667261,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+113,2,2:50,1670,1670,Carly Whiteside missed Layup.,30,21,9,0,0.754067790207615,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+114,2,2:50,1670,1670,Nicole Jorgensen Block.,30,21,9,0,0.754067790207615,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+115,2,2:50,1670,1670,Vermont Offensive Rebound.,30,21,9,6,0.754067790207615,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+116,2,2:44,1664,1664,Hanna Crymble made Layup.,30,23,7,28,0.7055413924543725,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,Vermont
+117,2,2:16,1636,1636,Marta Vargas missed Jumper.,30,23,7,3,0.7078069919219596,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+118,2,2:13,1633,1633,Carly Whiteside Defensive Rebound.,30,23,7,7,0.7080460679096371,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+119,2,2:06,1626,1626,Sarah Wells missed Three Point Jumper.,30,23,7,3,0.708601871386004,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+120,2,2:03,1623,1623,Erin Jones Defensive Rebound.,30,23,7,11,0.7088393031797384,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+121,2,1:52,1612,1612,Foul on Hanna Crymble.,30,23,7,4,0.709706801070685,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+122,2,1:48,1608,1608,Nicole Jorgensen Turnover.,30,23,7,11,0.7100213407409072,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+123,2,1:37,1597,1597,Rose Caverly missed Layup.,30,23,7,7,0.7108849496839205,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+124,2,1:30,1590,1590,Davida Dale Defensive Rebound.,30,23,7,13,0.7114342007632034,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+125,2,1:17,1577,1577,Marta Vargas made Layup.,32,23,9,15,0.7625264620079143,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,Rhode Island
+126,2,1:02,1562,1562,Josie Larkins made Layup. Assisted by Carly Whiteside.,32,25,7,16,0.7136405355242537,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,Vermont
+127,2,0:46,1546,1546,Nicole Jorgensen made Layup. Assisted by Davida Dale.,34,25,9,21,0.7653197479510399,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,Rhode Island
+128,2,0:25,1525,1525,Carly Whiteside missed Layup.,34,25,9,2,0.7672510348993472,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+129,2,0:23,1523,1523,Erin Jones Defensive Rebound.,34,25,9,22,0.7674373128455941,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+130,2,0:01,1501,1501,Marta Vargas missed Jumper.,34,25,9,0,0.7695198389806253,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+131,2,0:01,1501,1501,Vermont Defensive Rebound.,34,25,9,1,0.7695198389806253,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+132,2,0:00,1500,1500,End of 2nd Quarter,34,25,9,12,0.7696161130762753,Rhode Island,Vermont,3,4,0,0,NA,401176206,2019-11-25,
+133,3,9:48,1488,1488,Nicole Jorgensen missed Layup.,34,25,9,3,0.7707838090729505,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+134,3,9:45,1485,1485,Hanna Crymble Defensive Rebound.,34,25,9,11,0.7710795019099459,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+135,3,9:34,1474,1474,Hanna Crymble made Layup. Assisted by Rose Caverly.,34,27,7,28,0.7209931436866052,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Vermont
+136,3,9:06,1446,1446,Erin Jones missed Jumper.,34,27,7,2,0.723578227824651,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+137,3,9:04,1444,1444,Erin Jones Offensive Rebound.,34,27,7,15,0.7237649025821182,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+138,3,8:49,1429,1429,Marta Vargas missed Layup.,34,27,7,3,0.7251380298560878,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+139,3,8:46,1426,1426,Hanna Crymble Defensive Rebound.,34,27,7,14,0.7254074663012964,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+140,3,8:32,1412,1412,Hanna Crymble missed Three Point Jumper.,34,27,7,3,0.7266455689104137,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+141,3,8:29,1409,1409,Maia Moffitt Defensive Rebound.,34,27,7,5,0.7269072268958341,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+142,3,8:24,1404,1404,Nicole Jorgensen missed Layup.,34,27,7,5,0.727340872211923,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+143,3,8:19,1399,1399,Rose Caverly Defensive Rebound.,34,27,7,4,0.7277717554617142,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+144,3,8:15,1395,1395,Josie Larkins made Three Point Jumper. Assisted by Rose Caverly.,34,30,4,20,0.6371237195621078,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Vermont
+145,3,7:55,1375,1375,Foul on Nicole Jorgensen.,34,30,4,0,0.6382581938504482,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+146,3,7:55,1375,1375,Nicole Jorgensen Turnover.,34,30,4,13,0.6382581938504482,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+147,3,7:42,1362,1362,Foul on Kassondra Brown.,34,30,4,5,0.6389918544859001,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+148,3,7:37,1357,1357,Josie Larkins missed Three Point Jumper.,34,30,4,1,0.6392742808913301,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+149,3,7:36,1356,1356,Vermont Offensive Rebound.,34,30,4,8,0.6393308172122488,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+150,3,7:28,1348,1348,Rose Caverly missed Jumper.,34,30,4,3,0.6397840240726572,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+151,3,7:25,1345,1345,Davida Dale Defensive Rebound.,34,30,4,3,0.6399545158274951,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+152,3,7:22,1342,1342,Davida Dale made Jumper.,36,30,6,18,0.7034670172502395,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Rhode Island
+153,3,7:04,1324,1324,Emma Utterback made Layup.,36,32,4,18,0.6411610367844056,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Vermont
+154,3,6:46,1306,1306,Foul on Emma Utterback.,36,32,4,4,0.6422222369674488,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+155,3,6:42,1302,1302,Marta Vargas missed Three Point Jumper.,36,32,4,1,0.6424625770747033,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+156,3,6:41,1301,1301,Vermont Defensive Rebound.,36,32,4,12,0.6425229529659207,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+157,3,6:29,1289,1289,Emma Utterback missed Layup.,36,32,4,3,0.6432573242369848,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+158,3,6:26,1286,1286,Davida Dale Defensive Rebound.,36,32,4,7,0.6434439743585297,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+159,3,6:19,1279,1279,Kassondra Brown made Layup. Assisted by Davida Dale.,38,32,6,14,0.7085594007731149,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Rhode Island
+160,3,6:05,1265,1265,Foul on Erin Jones.,38,32,6,0,0.7097816922985415,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+161,3,6:05,1265,1265,Josie Larkins made Free Throw.,38,33,5,0,0.6781471875837867,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Vermont
+162,3,6:05,1265,1265,Josie Larkins made Free Throw.,38,34,4,17,0.6447901136618193,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Vermont
+163,3,5:48,1248,1248,Foul on Josie Larkins.,38,34,4,0,0.6459383510952668,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+164,3,5:48,1248,1248,Davida Dale made Free Throw.,39,34,5,0,0.6795144425137711,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Rhode Island
+165,3,5:48,1248,1248,Davida Dale made Free Throw.,40,34,6,16,0.7113294332882301,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Rhode Island
+166,3,5:32,1232,1232,Rose Caverly made Layup.,40,36,4,15,0.6470751684268068,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Vermont
+167,3,5:17,1217,1217,Maia Moffitt missed Layup.,40,36,4,3,0.6481968073343762,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+168,3,5:14,1214,1214,Nicole Jorgensen Offensive Rebound.,40,36,4,1,0.6484281500858875,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+169,3,5:13,1213,1213,Nicole Jorgensen missed Layup.,40,36,4,3,0.6485058056463205,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+170,3,5:10,1210,1210,Erin Jones Offensive Rebound.,40,36,4,1,0.6487404201395167,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+171,3,5:09,1209,1209,Erin Jones made Layup.,42,36,6,12,0.7152005402381141,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Rhode Island
+172,3,4:57,1197,1197,Hanna Crymble made Layup.,42,38,4,0,0.6497476904526394,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Vermont
+173,3,4:57,1197,1197,Foul on Maia Moffitt.,42,38,4,0,0.6497476904526394,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+174,3,4:57,1197,1197,Official TV Timeout,42,38,4,0,0.6497476904526394,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+175,3,4:57,1197,1197,Hanna Crymble made Free Throw.,42,39,3,19,0.6138317600471223,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Vermont
+176,3,4:38,1178,1178,Foul on Emma Utterback.,42,39,3,0,0.6149470985222362,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+177,3,4:38,1178,1178,Erin Jones missed Free Throw.,42,39,3,0,0.6149470985222362,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+178,3,4:38,1178,1178,Rhode Island Offensive Rebound.,42,39,3,0,0.6149470985222362,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+179,3,4:38,1178,1178,Erin Jones made Free Throw.,43,39,4,12,0.6511748393402105,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Rhode Island
+180,3,4:26,1166,1166,Hanna Crymble missed Jumper.,43,39,4,0,0.6520555229587459,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+181,3,4:26,1166,1166,Marta Vargas Defensive Rebound.,43,39,4,0,0.6520555229587459,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+182,3,4:26,1166,1166,Foul on Emma Utterback.,43,39,4,11,0.6520555229587459,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+183,3,4:15,1155,1155,Marta Vargas made Layup.,45,39,6,13,0.7205933584512895,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Rhode Island
+184,3,4:02,1142,1142,Josie Larkins missed Three Point Jumper.,45,39,6,3,0.7218390462540494,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+185,3,3:59,1139,1139,Maia Moffitt Defensive Rebound.,45,39,6,6,0.7221254894535684,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+186,3,3:53,1133,1133,Nicole Jorgensen made Layup. Assisted by Maia Moffitt.,47,39,8,30,0.781969061320314,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Rhode Island
+187,3,3:23,1103,1103,Hanna Crymble made Layup.,47,41,6,14,0.7255727102355465,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Vermont
+188,3,3:09,1089,1089,Marta Vargas made Jumper.,49,41,8,17,0.786763251673477,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Rhode Island
+189,3,2:52,1072,1072,Josie Larkins made Three Point Jumper. Assisted by Rose Caverly.,49,44,5,15,0.6948907206847317,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Vermont
+190,3,2:37,1057,1057,Marta Vargas missed Three Point Jumper.,49,44,5,0,0.6962689248764,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+191,3,2:37,1057,1057,Rhode Island Offensive Rebound.,49,44,5,16,0.6962689248764,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+192,3,2:21,1041,1041,Maia Moffitt Turnover.,49,44,5,0,0.6977936010141114,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+193,3,2:21,1041,1041,Foul on Maia Moffitt.,49,44,5,0,0.6977936010141114,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+194,3,2:21,1041,1041,Josie Larkins missed Free Throw.,49,44,5,0,0.6977936010141114,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+195,3,2:21,1041,1041,Vermont Offensive Rebound.,49,44,5,0,0.6977936010141114,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+196,3,2:21,1041,1041,Josie Larkins made Free Throw.,49,45,4,15,0.6613801076901014,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Vermont
+197,3,2:06,1026,1026,Kassondra Brown missed Jumper.,49,45,4,3,0.6626469380088132,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+198,3,2:03,1023,1023,Erin Jones Offensive Rebound.,49,45,4,2,0.6629071787857869,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+199,3,2:01,1021,1021,Marta Vargas missed Layup.,49,45,4,2,0.6630820236440284,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+200,3,1:59,1019,1019,Hanna Crymble Defensive Rebound.,49,45,4,19,0.6632579710389936,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+201,3,1:40,1000,1000,Josie Larkins missed Jumper.,49,45,4,3,0.6649880042274091,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+202,3,1:37,997,997,Davida Dale Defensive Rebound.,49,45,4,5,0.6652714580904694,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+203,3,1:32,992,992,Davida Dale missed Layup.,49,45,4,3,0.6657505304713511,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+204,3,1:29,989,989,Kassondra Brown Offensive Rebound.,49,45,4,1,0.6660420636355389,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+205,3,1:28,988,988,Kassondra Brown made Layup.,51,45,6,5,0.7381097000961511,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Rhode Island
+206,3,1:23,983,983,Sarah Wells missed Three Point Jumper.,51,45,6,3,0.7387543770619364,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+207,3,1:20,980,980,Maia Moffitt Defensive Rebound.,51,45,6,12,0.7391465626638178,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+208,3,1:08,968,968,Davida Dale made Jumper.,53,45,8,25,0.8021614880389104,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Rhode Island
+209,3,0:43,943,943,Rose Caverly made Jumper.,53,47,6,22,0.74387896867327985,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Vermont
+210,3,0:21,921,921,Maia Moffitt made Layup.,55,47,8,16,0.8082612628303051,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Rhode Island
+211,3,0:05,905,905,Rose Caverly made Three Point Jumper.,55,50,5,5,0.7122837186914283,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,Vermont
+212,3,0:00,900,900,End of 3rd Quarter,55,50,5,22,0.7127384302444656,Rhode Island,Vermont,4,5,0,0,NA,401176206,2019-11-25,
+213,4,9:38,878,878,Josie Larkins Turnover.,55,50,5,12,0.7147047047787176,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+214,4,9:26,866,866,Nicole Jorgensen missed Layup.,55,50,5,3,0.7157753623187622,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+215,4,9:23,863,863,Sarah Wells Defensive Rebound.,55,50,5,15,0.7160450863557124,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+216,4,9:08,848,848,Josie Larkins made Three Point Jumper. Assisted by Rose Caverly.,55,53,2,22,0.5921049334321793,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,Vermont
+217,4,8:46,826,826,Jessica Rogers made Layup.,57,53,4,20,0.6799963358601988,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,Rhode Island
+218,4,8:26,806,806,Hanna Crymble missed Layup.,57,53,4,0,0.6818199715272786,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+219,4,8:26,806,806,Hanna Crymble Offensive Rebound.,57,53,4,0,0.6818199715272786,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+220,4,8:26,806,806,Foul on Davida Dale.,57,53,4,10,0.6818199715272786,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+221,4,8:16,796,796,Hanna Crymble made Three Point Jumper. Assisted by Rose Caverly.,57,56,1,14,0.5477723657085629,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,Vermont
+222,4,8:02,782,782,Davida Dale made Three Point Jumper. Assisted by Marta Vargas.,60,56,4,25,0.6842855423465252,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,Rhode Island
+223,4,7:37,757,757,Hanna Crymble made Jumper.,60,58,2,20,0.5971707589605687,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,Vermont
+224,4,7:17,737,737,Maia Moffitt missed Three Point Jumper.,60,58,2,4,0.5987168616020814,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+225,4,7:13,733,733,Nicole Jorgensen Offensive Rebound.,60,58,2,1,0.5990517718830187,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+226,4,7:12,732,732,Maia Moffitt made Layup. Assisted by Nicole Jorgensen.,62,58,4,11,0.6907740248989356,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,Rhode Island
+227,4,7:01,721,721,Foul on Nicole Jorgensen.,62,58,4,0,0.692416388283771,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+228,4,7:01,721,721,Rose Caverly made Free Throw.,62,59,3,0,0.6476169041921742,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,Vermont
+229,4,7:01,721,721,Rose Caverly missed Free Throw.,62,59,3,0,0.6476169041921742,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+230,4,7:01,721,721,Erin Jones Defensive Rebound.,62,59,3,7,0.6476169041921742,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+231,4,6:54,714,714,Erin Jones Turnover.,62,59,3,0,0.6484026907884575,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+232,4,6:54,714,714,Hanna Crymble Steal.,62,59,3,29,0.6484026907884575,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+233,4,6:25,685,685,Foul on Nicole Jorgensen.,62,59,3,9,0.6513203195031447,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+234,4,6:16,676,676,Sarah Wells missed Jumper.,62,59,3,3,0.6521542359451034,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+235,4,6:13,673,673,Sarah Wells Offensive Rebound.,62,59,3,3,0.65242840068445,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+236,4,6:10,670,670,Rose Caverly missed Jumper.,62,59,3,2,0.6527013392161732,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+237,4,6:08,668,668,Davida Dale Defensive Rebound.,62,59,3,11,0.6528828173311856,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+238,4,5:57,657,657,Davida Dale missed Jumper.,62,59,3,3,0.6538797858828062,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+239,4,5:54,654,654,Sarah Wells Defensive Rebound.,62,59,3,20,0.6541530202589837,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+240,4,5:34,634,634,Hanna Crymble made Layup.,62,61,1,22,0.5535968872532889,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,Vermont
+241,4,5:12,612,612,Foul on Hanna Crymble.,62,61,1,0,0.5544274932273542,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+242,4,5:12,612,612,Maia Moffitt made Free Throw.,63,61,2,0,0.6075802244740023,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,Rhode Island
+243,4,5:12,612,612,Maia Moffitt missed Free Throw.,63,61,2,0,0.6075802244740023,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+244,4,5:12,612,612,Rose Caverly Defensive Rebound.,63,61,2,26,0.6075802244740023,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+245,4,4:46,586,586,Josie Larkins missed Jumper.,63,61,2,5,0.6098264545977161,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+246,4,4:41,581,581,Davida Dale Defensive Rebound.,63,61,2,13,0.6103161089961867,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+247,4,4:28,568,568,Davida Dale missed Layup.,63,61,2,0,0.6116939121933967,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+248,4,4:28,568,568,Emma Utterback Block.,63,61,2,0,0.6116939121933967,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+249,4,4:28,568,568,Rhode Island Offensive Rebound.,63,61,2,0,0.6116939121933967,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+250,4,4:28,568,568,Official TV Timeout,63,61,2,4,0.6116939121933967,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+251,4,4:24,564,564,Marta Vargas missed Jumper.,63,61,2,2,0.6121508179572296,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+252,4,4:22,562,562,Rose Caverly Defensive Rebound.,63,61,2,26,0.6123854738767276,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+253,4,3:56,536,536,Hanna Crymble made Jumper.,63,63,0,26,0.5,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,Vermont
+254,4,3:30,510,510,Davida Dale missed Layup.,63,63,0,1,0.5,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+255,4,3:29,509,509,Kassondra Brown Offensive Rebound.,63,63,0,0,0.5,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+256,4,3:29,509,509,Foul on Hanna Crymble.,63,63,0,0,0.5,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+257,4,3:29,509,509,Kassondra Brown made Free Throw.,64,63,1,0,0.5600042650063819,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,Rhode Island
+258,4,3:29,509,509,Kassondra Brown missed Free Throw.,64,63,1,2,0.5600042650063819,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+259,4,3:27,507,507,Josie Larkins Defensive Rebound.,64,63,1,18,0.5601024820522048,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+260,4,3:09,489,489,Delaney Richason missed Layup.,64,63,1,0,0.5609979130855207,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+261,4,3:09,489,489,Vermont Offensive Rebound.,64,63,1,9,0.5609979130855207,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+262,4,3:00,480,480,Emma Utterback made Jumper.,64,65,-1,17,0.4385239901304482,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,Vermont
+263,4,2:43,463,463,Nicole Jorgensen made Layup. Assisted by Erin Jones.,66,65,1,28,0.5624967258187538,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,Rhode Island
+264,4,2:15,435,435,Hanna Crymble Turnover.,66,65,1,15,0.5647309191320259,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+265,4,2:00,420,420,Nicole Jorgensen Turnover.,66,65,1,14,0.5662216732299576,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+266,4,1:46,406,406,Rose Caverly made Layup.,66,67,-1,35,0.43248051363813717,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,Vermont
+267,4,1:11,371,371,Nicole Jorgensen missed Layup.,66,67,-1,2,0.4292902526432936,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+268,4,1:09,369,369,Hanna Crymble Defensive Rebound.,66,67,-1,0,0.4290947603302747,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+269,4,1:09,369,369,Foul on Maia Moffitt.,66,67,-1,18,0.4290947603302747,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+270,4,0:51,351,351,Delaney Richason missed Three Point Jumper.,66,67,-1,4,0.42718997922940516,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+271,4,0:47,347,347,Emma Utterback Offensive Rebound.,66,67,-1,12,0.42672254180378544,Rhode Island,Vermont,5,6,0,0,NA,401176206,2019-11-25,
+272,4,0:35,335,335,Foul on Rose Caverly.,66,67,-1,0,0.4251973329516916,Rhode Island,Vermont,5,6,0,1,NA,401176206,2019-11-25,
+273,4,0:35,335,335,Rose Caverly Turnover.,66,67,-1,0,0.4251973329516916,Rhode Island,Vermont,5,6,0,1,NA,401176206,2019-11-25,
+274,4,0:35,335,335,Rhode Island  Timeout,66,67,-1,0,0.4251973329516916,Rhode Island,Vermont,5,5,0,1,NA,401176206,2019-11-25,
+275,4,0:35,335,335,Official TV Timeout,66,67,-1,11,0.4251973329516916,Rhode Island,Vermont,5,5,0,1,NA,401176206,2019-11-25,
+276,4,0:24,324,324,Nicole Jorgensen made Layup. Assisted by Marta Vargas.,68,67,1,0,0.5763903714015836,Rhode Island,Vermont,5,5,1,1,NA,401176206,2019-11-25,Rhode Island
+277,4,0:24,324,324,Vermont  Timeout,68,67,1,8,0.5763903714015836,Rhode Island,Vermont,4,5,1,1,NA,401176206,2019-11-25,
+278,4,0:16,316,316,Hanna Crymble missed Layup.,68,67,1,0,0.5776779533086999,Rhode Island,Vermont,4,5,1,1,NA,401176206,2019-11-25,
+279,4,0:16,316,316,Maia Moffitt Defensive Rebound.,68,67,1,1,0.5776779533086999,Rhode Island,Vermont,4,5,1,1,NA,401176206,2019-11-25,
+280,4,0:15,315,315,Rhode Island  Timeout,68,67,1,1,0.5778474905509461,Rhode Island,Vermont,4,4,1,1,NA,401176206,2019-11-25,
+281,4,0:14,314,314,Foul on Josie Larkins.,68,67,1,0,0.5780190163717189,Rhode Island,Vermont,4,4,1,1,NA,401176206,2019-11-25,
+282,4,0:14,314,314,Foul on Josie Larkins.,68,67,1,0,0.5780190163717189,Rhode Island,Vermont,4,4,1,1,NA,401176206,2019-11-25,
+283,4,0:14,314,314,Maia Moffitt missed Free Throw.,68,67,1,0,0.5780190163717189,Rhode Island,Vermont,4,4,1,1,NA,401176206,2019-11-25,
+284,4,0:14,314,314,Rhode Island Offensive Rebound.,68,67,1,0,0.5780190163717189,Rhode Island,Vermont,4,4,1,1,NA,401176206,2019-11-25,
+285,4,0:14,314,314,Maia Moffitt missed Free Throw.,68,67,1,0,0.5780190163717189,Rhode Island,Vermont,4,4,1,1,NA,401176206,2019-11-25,
+286,4,0:14,314,314,Maia Moffitt Offensive Rebound.,68,67,1,6,0.5780190163717189,Rhode Island,Vermont,4,4,1,1,NA,401176206,2019-11-25,
+287,4,0:08,308,308,Foul on Rose Caverly.,68,67,1,0,0.5790658712221796,Rhode Island,Vermont,4,4,1,1,NA,401176206,2019-11-25,
+288,4,0:08,308,308,Davida Dale missed Free Throw.,68,67,1,0,0.5790658712221796,Rhode Island,Vermont,4,4,1,1,NA,401176206,2019-11-25,
+289,4,0:08,308,308,Rhode Island Offensive Rebound.,68,67,1,0,0.5790658712221796,Rhode Island,Vermont,4,4,1,1,NA,401176206,2019-11-25,
+290,4,0:08,308,308,Davida Dale made Free Throw.,69,67,2,0,0.654274020594685,Rhode Island,Vermont,4,4,1,1,NA,401176206,2019-11-25,Rhode Island
+291,4,0:08,308,308,Vermont  Timeout,69,67,2,3,0.654274020594685,Rhode Island,Vermont,3,4,1,1,NA,401176206,2019-11-25,
+292,4,0:05,305,305,Rose Caverly missed Layup.,69,67,2,0,0.6550794058129942,Rhode Island,Vermont,3,4,1,1,NA,401176206,2019-11-25,
+293,4,0:05,305,305,Vermont Offensive Rebound.,69,67,2,0,0.6550794058129942,Rhode Island,Vermont,3,4,1,1,NA,401176206,2019-11-25,
+294,4,0:05,305,305,Foul on Maia Moffitt.,69,67,2,0,0.6550794058129942,Rhode Island,Vermont,3,4,1,1,NA,401176206,2019-11-25,
+295,4,0:05,305,305,Hanna Crymble made Free Throw.,69,68,1,0,0.5794999833127399,Rhode Island,Vermont,3,4,1,1,NA,401176206,2019-11-25,Vermont
+296,4,0:05,305,305,Hanna Crymble made Free Throw.,69,69,0,3,0.5,Rhode Island,Vermont,3,4,1,1,NA,401176206,2019-11-25,Vermont
+297,4,0:02,302,302,Rhode Island  Timeout,69,69,0,1,0.5,Rhode Island,Vermont,3,3,1,1,NA,401176206,2019-11-25,
+298,4,0:01,301,301,Marta Vargas missed Jumper.,69,69,0,0,0.5,Rhode Island,Vermont,3,3,1,1,NA,401176206,2019-11-25,
+299,4,0:01,301,301,Davida Dale Offensive Rebound.,69,69,0,1,0.5,Rhode Island,Vermont,3,3,1,1,NA,401176206,2019-11-25,
+300,4,0:00,300,300,End of 4th Quarter,69,69,0,11,0.5,Rhode Island,Vermont,3,3,1,1,NA,401176206,2019-11-25,
+301,5,4:49,289,289,Hanna Crymble missed Layup.,69,69,0,0,0.5,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+302,5,4:49,289,289,Nicole Jorgensen Block.,69,69,0,4,0.5,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+303,5,4:45,285,285,Erin Jones Defensive Rebound.,69,69,0,19,0.5,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+304,5,4:26,266,266,Davida Dale missed Jumper.,69,69,0,2,0.5,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+305,5,4:24,264,264,Rose Caverly Defensive Rebound.,69,69,0,13,0.5,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+306,5,4:11,251,251,Hanna Crymble missed Layup.,69,69,0,3,0.5,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+307,5,4:08,248,248,Davida Dale Defensive Rebound.,69,69,0,6,0.5,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+308,5,4:02,242,242,Nicole Jorgensen made Layup. Assisted by Davida Dale.,71,69,2,21,0.6522907543065937,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Rhode Island
+309,5,3:41,221,221,Hanna Crymble made Three Point Jumper. Assisted by Emma Utterback.,71,72,-1,22,0.42128250949236523,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Vermont
+310,5,3:19,199,199,Nicole Jorgensen missed Jumper.,71,72,-1,2,0.41614300900437534,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+311,5,3:17,197,197,Emma Utterback Defensive Rebound.,71,72,-1,21,0.41537424784091176,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+312,5,2:56,176,176,Rose Caverly missed Three Point Jumper.,71,72,-1,2,0.40509746317915823,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+313,5,2:54,174,174,Nicole Jorgensen Defensive Rebound.,71,72,-1,10,0.40406109108268345,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+314,5,2:44,164,164,Marta Vargas missed Jumper.,71,72,-1,1,0.3987465829913125,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+315,5,2:43,163,163,Nicole Jorgensen Offensive Rebound.,71,72,-1,0,0.39820021451912896,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+316,5,2:43,163,163,Foul on Rose Caverly.,71,72,-1,0,0.39820021451912896,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+317,5,2:43,163,163,Nicole Jorgensen made Free Throw.,72,72,0,0,0.5,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Rhode Island
+318,5,2:43,163,163,Nicole Jorgensen missed Free Throw.,72,72,0,0,0.5,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+319,5,2:43,163,163,Hanna Crymble Defensive Rebound.,72,72,0,25,0.5,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+320,5,2:18,138,138,Hanna Crymble made Layup.,72,74,-2,29,0.2785205341136209,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Vermont
+321,5,1:49,109,109,Davida Dale missed Layup.,72,74,-2,2,0.2421595897938985,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+322,5,1:47,107,107,Davida Dale Offensive Rebound.,72,74,-2,18,0.23935863141173394,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+323,5,1:29,89,89,Erin Jones Turnover.,72,74,-2,17,0.21267509603033555,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+324,5,1:12,72,72,Hanna Crymble Turnover.,72,74,-2,17,0.1870912614212669,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+325,5,0:55,55,55,Davida Dale missed Three Point Jumper.,72,74,-2,3,0.1614331501511825,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+326,5,0:52,52,52,Nicole Jorgensen Offensive Rebound.,72,74,-2,1,0.15699088046939563,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+327,5,0:51,51,51,Nicole Jorgensen made Layup.,74,74,0,27,0.5,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,Rhode Island
+328,5,0:24,24,24,Hanna Crymble missed Jumper.,74,74,0,2,0.5,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+329,5,0:22,22,22,Davida Dale Defensive Rebound.,74,74,0,1,0.5,Rhode Island,Vermont,4,4,0,0,NA,401176206,2019-11-25,
+330,5,0:21,21,21,Rhode Island  Timeout,74,74,0,0,0.5,Rhode Island,Vermont,4,3,0,1,NA,401176206,2019-11-25,
+331,5,0:21,21,21,Official TV Timeout,74,74,0,19,0.5,Rhode Island,Vermont,4,3,0,1,NA,401176206,2019-11-25,
+332,5,0:02,2,2,Davida Dale made Three Point Jumper.,77,74,3,0,0.9702365242832658,Rhode Island,Vermont,4,3,1,1,NA,401176206,2019-11-25,Rhode Island
+333,5,0:02,2,2,Vermont  Timeout,77,74,3,2,0.9702365242832658,Rhode Island,Vermont,3,3,1,1,NA,401176206,2019-11-25,
+334,5,0:00,0,0,Josie Larkins missed Three Point Jumper.,77,74,3,0,1,Rhode Island,Vermont,3,3,1,1,NA,401176206,2019-11-25,
+335,5,0:00,0,0,Davida Dale Defensive Rebound.,77,74,3,0,1,Rhode Island,Vermont,3,3,1,1,NA,401176206,2019-11-25,
+336,5,0:00,0,0,End of 1st Overtime,77,74,3,0,1,Rhode Island,Vermont,3,3,1,1,NA,401176206,2019-11-25,
+337,5,0:00,0,0,End of Game,77,74,3,0,1,Rhode Island,Vermont,3,3,1,1,NA,401176206,2019-11-25,

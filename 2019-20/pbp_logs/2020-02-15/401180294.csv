@@ -1,0 +1,405 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Technical Foul on Texas Southern.,0,0,0,0,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,NA
+2,1,10:00,2400,2400,Dayzsha Rogan missed Free Throw.,0,0,0,0,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+3,1,10:00,2400,2400,Jackson State Deadball Team Rebound.,0,0,0,0,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+4,1,10:00,2400,2400,Dayzsha Rogan made Free Throw.,0,1,-1,8,0.477944027154918,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Jackson State
+5,1,9:52,2392,2392,Ameshya Williams Turnover.,0,1,-1,4,0.47785959196530764,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+6,1,9:48,2388,2388,Namiko Adams Steal.,0,1,-1,14,0.4778171900413787,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+7,1,9:34,2374,2374,Ataiya Bridges missed Jumper.,0,1,-1,0,0.4776678443658043,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+8,1,9:34,2374,2374,Dayzsha Rogan Defensive Rebound.,0,1,-1,3,0.4776678443658043,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+9,1,9:31,2371,2371,Foul on Breasia McElrath.,0,1,-1,13,0.47763565640234745,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+10,1,9:18,2358,2358,Ataiya Bridges Turnover.,0,1,-1,20,0.4774954468309649,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+11,1,8:58,2338,2338,Breasia McElrath missed Layup.,0,1,-1,0,0.4772775329142592,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+12,1,8:58,2338,2338,J'Niya Tallie Defensive Rebound.,0,1,-1,11,0.4772775329142592,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+13,1,8:47,2327,2327,J'Niya Tallie Turnover.,0,1,-1,1,0.47715660594276005,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+14,1,8:46,2326,2326,Ciani Cryor Steal.,0,1,-1,1,0.47714557646246253,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+15,1,8:45,2325,2325,Ciani Cryor missed Layup.,0,1,-1,0,0.4771345410764835,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+16,1,8:45,2325,2325,J'Niya Tallie Defensive Rebound.,0,1,-1,11,0.4771345410764835,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+17,1,8:34,2314,2314,Ameshya Williams made Layup.,0,3,-3,13,0.4314245554735288,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Jackson State
+18,1,8:21,2301,2301,Namiko Adams missed Jumper.,0,3,-3,0,0.4309975254039924,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+19,1,8:21,2301,2301,Ameshya Williams Defensive Rebound.,0,3,-3,4,0.4309975254039924,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+20,1,8:17,2297,2297,Foul on J'Niya Tallie.,0,3,-3,21,0.43086561583381394,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+21,1,7:56,2276,2276,Dayzsha Rogan made Layup.,0,5,-5,10,0.38494759579722115,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Jackson State
+22,1,7:46,2266,2266,Richelle Velez missed Three Point Jumper.,0,5,-5,0,0.3844106499567575,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+23,1,7:46,2266,2266,Dayzsha Rogan Defensive Rebound.,0,5,-5,10,0.3844106499567575,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+24,1,7:36,2256,2256,Dayzsha Rogan Turnover.,0,5,-5,9,0.38387192380076834,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+25,1,7:27,2247,2247,Richelle Velez made Three Point Jumper. Assisted by Ciani Cryor.,3,5,-2,28,0.45262232685875164,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Texas Southern
+26,1,6:59,2219,2219,Dayzsha Rogan Turnover.,3,5,-2,19,0.45198456813453586,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+27,1,6:40,2200,2200,Ciani Cryor Turnover.,3,5,-2,1,0.4515490631345577,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+28,1,6:39,2199,2199,Kaisah Lucky Steal.,3,5,-2,4,0.45152608884743495,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+29,1,6:35,2195,2195,Dayzsha Rogan Turnover.,3,5,-2,8,0.45143414292498024,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+30,1,6:27,2187,2187,Richelle Velez made Three Point Jumper. Assisted by Ataiya Bridges.,6,5,1,19,0.5244331916623864,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Texas Southern
+31,1,6:08,2168,2168,Dayzsha Rogan missed Three Point Jumper.,6,5,1,0,0.5246539484179567,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+32,1,6:08,2168,2168,Richelle Velez Defensive Rebound.,6,5,1,7,0.5246539484179567,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+33,1,6:01,2161,2161,Ataiya Bridges made Layup.,8,5,3,16,0.5737258080799493,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Texas Southern
+34,1,5:45,2145,2145,Ameshya Williams missed Layup.,8,5,3,0,0.574276414067759,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+35,1,5:45,2145,2145,Ciani Cryor Defensive Rebound.,8,5,3,9,0.574276414067759,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+36,1,5:36,2136,2136,Ciani Cryor missed Three Point Jumper.,8,5,3,0,0.5745874139872303,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+37,1,5:36,2136,2136,Ameshya Williams Defensive Rebound.,8,5,3,19,0.5745874139872303,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+38,1,5:17,2117,2117,Ameshya Williams Turnover.,8,5,3,2,0.5752471972723344,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+39,1,5:15,2115,2115,Namiko Adams Steal.,8,5,3,2,0.5753169132918322,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+40,1,5:13,2113,2113,Ciani Cryor missed Layup.,8,5,3,0,0.5753866813203414,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+41,1,5:13,2113,2113,Sumer Williams Block.,8,5,3,0,0.5753866813203414,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+42,1,5:13,2113,2113,Texas Southern Offensive Rebound.,8,5,3,12,0.5753866813203414,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+43,1,5:01,2101,2101,Ataiya Bridges made Jumper.,10,5,5,16,0.6246429707478004,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Texas Southern
+44,1,4:45,2085,2085,Marneisha Hamer made Layup.,10,7,3,13,0.5763691141788408,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Jackson State
+45,1,4:32,2072,2072,Foul on Demetrius Lewis.,10,7,3,0,0.5768290350336504,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+46,1,4:32,2072,2072,Demetrius Lewis Turnover.,10,7,3,15,0.5768290350336504,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+47,1,4:17,2057,2057,Dayzsha Rogan made Three Point Jumper. Assisted by J'Niya Tallie.,10,10,0,7,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Jackson State
+48,1,4:10,2050,2050,Texas Southern  Timeout,10,10,0,14,0.5,Texas Southern,Jackson State,3,4,1,0,NA,401180294,2020-02-15,
+49,1,3:56,2036,2036,Namiko Adams missed Jumper.,10,10,0,3,0.5,Texas Southern,Jackson State,3,4,1,0,NA,401180294,2020-02-15,
+50,1,3:53,2033,2033,Namiko Adams missed Jumper.,10,10,0,0,0.5,Texas Southern,Jackson State,3,4,1,0,NA,401180294,2020-02-15,
+51,1,3:53,2033,2033,Namiko Adams Offensive Rebound.,10,10,0,13,0.5,Texas Southern,Jackson State,3,4,1,0,NA,401180294,2020-02-15,
+52,1,3:40,2020,2020,Foul on Sumer Williams.,10,10,0,0,0.5,Texas Southern,Jackson State,3,4,1,0,NA,401180294,2020-02-15,
+53,1,3:40,2020,2020,Breasia McElrath made Free Throw.,11,10,1,0,0.526427003135809,Texas Southern,Jackson State,3,4,1,0,NA,401180294,2020-02-15,Texas Southern
+54,1,3:40,2020,2020,Breasia McElrath missed Free Throw.,11,10,1,0,0.526427003135809,Texas Southern,Jackson State,3,4,1,0,NA,401180294,2020-02-15,
+55,1,3:40,2020,2020,Marneisha Hamer Defensive Rebound.,11,10,1,0,0.526427003135809,Texas Southern,Jackson State,3,4,1,0,NA,401180294,2020-02-15,
+56,1,3:40,2020,2020,Marneisha Hamer Turnover.,11,10,1,11,0.526427003135809,Texas Southern,Jackson State,3,4,1,0,NA,401180294,2020-02-15,
+57,1,3:29,2009,2009,Foul on Dayzsha Rogan.,11,10,1,1,0.5265635857943932,Texas Southern,Jackson State,3,4,1,0,NA,401180294,2020-02-15,
+58,1,3:28,2008,2008,Ataiya Bridges missed Three Point Jumper.,11,10,1,0,0.5265760407951462,Texas Southern,Jackson State,3,4,1,0,NA,401180294,2020-02-15,
+59,1,3:28,2008,2008,Marneisha Hamer Defensive Rebound.,11,10,1,17,0.5265760407951462,Texas Southern,Jackson State,3,4,1,0,NA,401180294,2020-02-15,
+60,1,3:11,1991,1991,J'Niya Tallie Turnover.,11,10,1,0,0.5267887800720596,Texas Southern,Jackson State,3,4,1,0,NA,401180294,2020-02-15,
+61,1,3:11,1991,1991,Richelle Velez Steal.,11,10,1,1,0.5267887800720596,Texas Southern,Jackson State,3,4,1,0,NA,401180294,2020-02-15,
+62,1,3:10,1990,1990,Foul on Keshuna Luckett.,11,10,1,0,0.5268013541918746,Texas Southern,Jackson State,3,4,1,0,NA,401180294,2020-02-15,
+63,1,3:10,1990,1990,Richelle Velez made Free Throw.,12,10,2,0,0.553449135636285,Texas Southern,Jackson State,3,4,1,0,NA,401180294,2020-02-15,Texas Southern
+64,1,3:10,1990,1990,Richelle Velez made Free Throw.,13,10,3,24,0.5797932714414801,Texas Southern,Jackson State,3,4,1,0,NA,401180294,2020-02-15,Texas Southern
+65,1,2:46,1966,1966,Foul on Breasia McElrath.,13,10,3,0,0.5806839397376166,Texas Southern,Jackson State,3,4,0,0,NA,401180294,2020-02-15,
+66,1,2:46,1966,1966,Marneisha Hamer made Free Throw.,13,11,2,0,0.5540515670313713,Texas Southern,Jackson State,3,4,0,0,NA,401180294,2020-02-15,Jackson State
+67,1,2:46,1966,1966,Marneisha Hamer made Free Throw.,13,12,1,9,0.5271052060445058,Texas Southern,Jackson State,3,4,0,0,NA,401180294,2020-02-15,Jackson State
+68,1,2:37,1957,1957,Ciani Cryor made Layup. Assisted by Ataiya Bridges.,15,12,3,11,0.5810209106794497,Texas Southern,Jackson State,3,4,0,0,NA,401180294,2020-02-15,Texas Southern
+69,1,2:26,1946,1946,Kaisah Lucky missed Jumper.,15,12,3,0,0.5814350418975857,Texas Southern,Jackson State,3,4,0,0,NA,401180294,2020-02-15,
+70,1,2:26,1946,1946,Ciani Cryor Defensive Rebound.,15,12,3,7,0.5814350418975857,Texas Southern,Jackson State,3,4,0,0,NA,401180294,2020-02-15,
+71,1,2:19,1939,1939,Ciani Cryor missed Layup.,15,12,3,0,0.5816999117488562,Texas Southern,Jackson State,3,4,0,0,NA,401180294,2020-02-15,
+72,1,2:19,1939,1939,Ciani Cryor Offensive Rebound.,15,12,3,4,0.5816999117488562,Texas Southern,Jackson State,3,4,0,0,NA,401180294,2020-02-15,
+73,1,2:15,1935,1935,Richelle Velez missed Three Point Jumper.,15,12,3,0,0.5818517387594804,Texas Southern,Jackson State,3,4,0,0,NA,401180294,2020-02-15,
+74,1,2:15,1935,1935,Dayzsha Rogan Defensive Rebound.,15,12,3,4,0.5818517387594804,Texas Southern,Jackson State,3,4,0,0,NA,401180294,2020-02-15,
+75,1,2:11,1931,1931,Foul on Ciani Cryor.,15,12,3,25,0.5820039134638143,Texas Southern,Jackson State,3,4,0,0,NA,401180294,2020-02-15,
+76,1,1:46,1906,1906,Marneisha Hamer missed Jumper.,15,12,3,0,0.5829546754247377,Texas Southern,Jackson State,3,4,0,0,NA,401180294,2020-02-15,
+77,1,1:46,1906,1906,Ciani Cryor Defensive Rebound.,15,12,3,6,0.5829546754247377,Texas Southern,Jackson State,3,4,0,0,NA,401180294,2020-02-15,
+78,1,1:40,1900,1900,Ciani Cryor missed Three Point Jumper.,15,12,3,0,0.5831824332277011,Texas Southern,Jackson State,3,4,0,0,NA,401180294,2020-02-15,
+79,1,1:40,1900,1900,Sumer Williams Defensive Rebound.,15,12,3,10,0.5831824332277011,Texas Southern,Jackson State,3,4,0,0,NA,401180294,2020-02-15,
+80,1,1:30,1890,1890,Dayzsha Rogan missed Layup.,15,12,3,0,0.583561909022996,Texas Southern,Jackson State,3,4,0,0,NA,401180294,2020-02-15,
+81,1,1:30,1890,1890,Lauren Lewis Defensive Rebound.,15,12,3,6,0.583561909022996,Texas Southern,Jackson State,3,4,0,0,NA,401180294,2020-02-15,
+82,1,1:24,1884,1884,Ataiya Bridges made Jumper.,17,12,5,4,0.637358200059722,Texas Southern,Jackson State,3,4,0,0,NA,401180294,2020-02-15,Texas Southern
+83,1,1:20,1880,1880,Jackson State  Timeout,17,12,5,14,0.6375988885317493,Texas Southern,Jackson State,3,3,0,1,NA,401180294,2020-02-15,
+84,1,1:06,1866,1866,Kaisah Lucky missed Layup.,17,12,5,0,0.6384416477074285,Texas Southern,Jackson State,3,3,0,1,NA,401180294,2020-02-15,
+85,1,1:06,1866,1866,Texas Southern Defensive Rebound.,17,12,5,0,0.6384416477074285,Texas Southern,Jackson State,3,3,0,1,NA,401180294,2020-02-15,
+86,1,1:06,1866,1866,Foul on Cherelle Jones.,17,12,5,0,0.6384416477074285,Texas Southern,Jackson State,3,3,0,1,NA,401180294,2020-02-15,
+87,1,1:06,1866,1866,Demetrius Lewis missed Free Throw.,17,12,5,0,0.6384416477074285,Texas Southern,Jackson State,3,3,0,1,NA,401180294,2020-02-15,
+88,1,1:06,1866,1866,Texas Southern Deadball Team Rebound.,17,12,5,0,0.6384416477074285,Texas Southern,Jackson State,3,3,0,1,NA,401180294,2020-02-15,
+89,1,1:06,1866,1866,Demetrius Lewis missed Free Throw.,17,12,5,0,0.6384416477074285,Texas Southern,Jackson State,3,3,0,1,NA,401180294,2020-02-15,
+90,1,1:06,1866,1866,Keshuna Luckett Defensive Rebound.,17,12,5,1,0.6384416477074285,Texas Southern,Jackson State,3,3,0,1,NA,401180294,2020-02-15,
+91,1,1:05,1865,1865,Keshuna Luckett Turnover.,17,12,5,4,0.6385018825339781,Texas Southern,Jackson State,3,3,0,1,NA,401180294,2020-02-15,
+92,1,1:01,1861,1861,Ataiya Bridges Turnover.,17,12,5,1,0.6387428947088771,Texas Southern,Jackson State,3,3,0,1,NA,401180294,2020-02-15,
+93,1,1:00,1860,1860,Ameshya Williams Steal.,17,12,5,16,0.6388031677470286,Texas Southern,Jackson State,3,3,0,1,NA,401180294,2020-02-15,
+94,1,0:44,1844,1844,Cherelle Jones Turnover.,17,12,5,0,0.6397689618849097,Texas Southern,Jackson State,3,3,0,1,NA,401180294,2020-02-15,
+95,1,0:44,1844,1844,Foul on Cherelle Jones.,17,12,5,19,0.6397689618849097,Texas Southern,Jackson State,3,3,0,1,NA,401180294,2020-02-15,
+96,1,0:25,1825,1825,Ataiya Bridges made Layup.,19,12,7,0,0.6923455007384993,Texas Southern,Jackson State,3,3,0,1,NA,401180294,2020-02-15,Texas Southern
+97,1,0:25,1825,1825,Foul on Keshuna Luckett.,19,12,7,0,0.6923455007384993,Texas Southern,Jackson State,3,3,0,1,NA,401180294,2020-02-15,
+98,1,0:25,1825,1825,Ataiya Bridges made Free Throw.,20,12,8,11,0.7164622406916638,Texas Southern,Jackson State,3,3,0,1,NA,401180294,2020-02-15,Texas Southern
+99,1,0:14,1814,1814,Foul on Ataiya Bridges.,20,12,8,0,0.7174081186139059,Texas Southern,Jackson State,3,3,0,0,NA,401180294,2020-02-15,
+100,1,0:14,1814,1814,Kaisah Lucky made Free Throw.,20,13,7,0,0.693213506601928,Texas Southern,Jackson State,3,3,0,0,NA,401180294,2020-02-15,Jackson State
+101,1,0:14,1814,1814,Kaisah Lucky made Free Throw.,20,14,6,9,0.6679063263790403,Texas Southern,Jackson State,3,3,0,0,NA,401180294,2020-02-15,Jackson State
+102,1,0:05,1805,1805,Lauren Lewis Turnover.,20,14,6,0,0.668543459530249,Texas Southern,Jackson State,3,3,0,0,NA,401180294,2020-02-15,
+103,1,0:05,1805,1805,Foul on Lauren Lewis.,20,14,6,3,0.668543459530249,Texas Southern,Jackson State,3,3,0,0,NA,401180294,2020-02-15,
+104,1,0:02,1802,1802,Dayzsha Rogan missed Three Point Jumper.,20,14,6,0,0.6687563666720667,Texas Southern,Jackson State,3,3,0,0,NA,401180294,2020-02-15,
+105,1,0:02,1802,1802,Texas Southern Defensive Rebound.,20,14,6,2,0.6687563666720667,Texas Southern,Jackson State,3,3,0,0,NA,401180294,2020-02-15,
+106,1,0:00,1800,1800,End of 1st Quarter,20,14,6,8,0.6688984611571205,Texas Southern,Jackson State,3,3,0,0,NA,401180294,2020-02-15,
+107,2,9:52,1792,1792,Marneisha Hamer missed Layup.,20,14,6,0,0.6694681593320154,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+108,2,9:52,1792,1792,Marneisha Hamer Offensive Rebound.,20,14,6,4,0.6694681593320154,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+109,2,9:48,1788,1788,Marneisha Hamer Turnover.,20,14,6,16,0.6697538451236666,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+110,2,9:32,1772,1772,Namiko Adams Turnover.,20,14,6,0,0.6709027582851192,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+111,2,9:32,1772,1772,Foul on Namiko Adams.,20,14,6,35,0.6709027582851192,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+112,2,8:57,1737,1737,Marneisha Hamer made Layup.,20,16,4,16,0.6183556376216363,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Jackson State
+113,2,8:41,1721,1721,Ciani Cryor missed Three Point Jumper.,20,16,4,0,0.6192072783781143,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+114,2,8:41,1721,1721,Ameshya Williams Defensive Rebound.,20,16,4,10,0.6192072783781143,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+115,2,8:31,1711,1711,Dayzsha Rogan made Layup.,20,18,2,20,0.560756963282836,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Jackson State
+116,2,8:11,1691,1691,Britnee Gabriel missed Jumper.,20,18,2,0,0.5613282778222024,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+117,2,8:11,1691,1691,Marneisha Hamer Defensive Rebound.,20,18,2,13,0.5613282778222024,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+118,2,7:58,1678,1678,Marneisha Hamer made Layup. Assisted by Kaisah Lucky.,20,20,0,24,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Jackson State
+119,2,7:34,1654,1654,Ataiya Bridges missed Three Point Jumper.,20,20,0,0,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+120,2,7:34,1654,1654,Ameshya Williams Defensive Rebound.,20,20,0,24,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+121,2,7:10,1630,1630,Dayzsha Rogan Turnover.,20,20,0,13,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+122,2,6:57,1617,1617,Ataiya Bridges made Layup.,22,20,2,21,0.5633751509987431,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Texas Southern
+123,2,6:36,1596,1596,Sumer Williams missed Layup.,22,20,2,0,0.5639385686636278,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+124,2,6:36,1596,1596,Ciani Cryor Defensive Rebound.,22,20,2,9,0.5639385686636278,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+125,2,6:27,1587,1587,Ataiya Bridges missed Jumper.,22,20,2,0,0.5641802106938592,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+126,2,6:27,1587,1587,Ameshya Williams Defensive Rebound.,22,20,2,15,0.5641802106938592,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+127,2,6:12,1572,1572,Kristy Parker made Layup. Assisted by Kaisah Lucky.,22,22,0,0,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Jackson State
+128,2,6:12,1572,1572,Foul on Ataiya Bridges.,22,22,0,0,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+129,2,6:12,1572,1572,Kristy Parker missed Free Throw.,22,22,0,0,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+130,2,6:12,1572,1572,Ryann Lewis Defensive Rebound.,22,22,0,9,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+131,2,6:03,1563,1563,Richelle Velez made Three Point Jumper. Assisted by Ataiya Bridges.,25,22,3,16,0.5965657150536677,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Texas Southern
+132,2,5:47,1547,1547,Ameshya Williams Turnover.,25,22,3,16,0.5972102229022763,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+133,2,5:31,1531,1531,Foul on Dayzsha Rogan.,25,22,3,5,0.5978658211715786,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+134,2,5:26,1526,1526,Ciani Cryor Turnover.,25,22,3,2,0.5980734817822355,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+135,2,5:24,1524,1524,Ieisha Lacey Steal.,25,22,3,11,0.598156959867669,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+136,2,5:13,1513,1513,Marneisha Hamer made Layup. Assisted by Kaisah Lucky.,25,24,1,8,0.5332609012347075,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Jackson State
+137,2,5:05,1505,1505,Richelle Velez missed Three Point Jumper.,25,24,1,0,0.5333791797224646,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+138,2,5:05,1505,1505,Ciani Cryor Offensive Rebound.,25,24,1,8,0.5333791797224646,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+139,2,4:57,1497,1497,Ciani Cryor missed Layup.,25,24,1,0,0.5334991778821079,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+140,2,4:57,1497,1497,Sumer Williams Defensive Rebound.,25,24,1,2,0.5334991778821079,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+141,2,4:55,1495,1495,Foul on Ryann Lewis.,25,24,1,0,0.5335294625677695,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+142,2,4:55,1495,1495,Official TV Timeout,25,24,1,22,0.5335294625677695,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+143,2,4:33,1473,1473,Marneisha Hamer Turnover.,25,24,1,26,0.5338708937168383,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+144,2,4:07,1447,1447,Ciani Cryor missed Jumper.,25,24,1,0,0.5342965051211632,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+145,2,4:07,1447,1447,Ciani Cryor Offensive Rebound.,25,24,1,0,0.5342965051211632,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+146,2,4:07,1447,1447,Foul on Elexis Peyton.,25,24,1,0,0.5342965051211632,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+147,2,4:07,1447,1447,Ciani Cryor made Free Throw.,26,24,2,0,0.5682717913918622,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Texas Southern
+148,2,4:07,1447,1447,Ciani Cryor missed Free Throw.,26,24,2,0,0.5682717913918622,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+149,2,4:07,1447,1447,Lauren Lewis Offensive Rebound.,26,24,2,21,0.5682717913918622,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+150,2,3:46,1426,1426,Foul on Marneisha Hamer.,26,24,2,4,0.5689468882977077,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+151,2,3:42,1422,1422,Demetrius Lewis missed Jumper.,26,24,2,0,0.5690724651494272,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+152,2,3:42,1422,1422,Marneisha Hamer Defensive Rebound.,26,24,2,15,0.5690724651494272,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+153,2,3:27,1407,1407,Elexis Peyton missed Jumper.,26,24,2,0,0.5695366300108091,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+154,2,3:27,1407,1407,Jackson State Offensive Rebound.,26,24,2,4,0.5695366300108091,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+155,2,3:23,1403,1403,Marneisha Hamer missed Layup.,26,24,2,0,0.569658889479836,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+156,2,3:23,1403,1403,Namiko Adams Defensive Rebound.,26,24,2,9,0.569658889479836,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+157,2,3:14,1394,1394,Lauren Lewis missed Layup.,26,24,2,0,0.5699321643304575,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+158,2,3:14,1394,1394,Kaisah Lucky Defensive Rebound.,26,24,2,8,0.5699321643304575,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+159,2,3:06,1386,1386,Kaisah Lucky made Jumper.,26,26,0,10,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Jackson State
+160,2,2:56,1376,1376,Richelle Velez missed Three Point Jumper.,26,26,0,0,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+161,2,2:56,1376,1376,Kaisah Lucky Defensive Rebound.,26,26,0,20,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+162,2,2:36,1356,1356,J'Niya Tallie missed Layup.,26,26,0,0,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+163,2,2:36,1356,1356,Lauren Lewis Defensive Rebound.,26,26,0,30,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+164,2,2:06,1326,1326,Namiko Adams missed Three Point Jumper.,26,26,0,0,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+165,2,2:06,1326,1326,J'Niya Tallie Defensive Rebound.,26,26,0,6,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+166,2,2:00,1320,1320,J'Niya Tallie Turnover.,26,26,0,1,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+167,2,1:59,1319,1319,Demetrius Lewis Steal.,26,26,0,7,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+168,2,1:52,1312,1312,Namiko Adams missed Layup.,26,26,0,0,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+169,2,1:52,1312,1312,Elexis Peyton Defensive Rebound.,26,26,0,6,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+170,2,1:46,1306,1306,Ameshya Williams missed Layup.,26,26,0,0,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+171,2,1:46,1306,1306,Lauren Lewis Block.,26,26,0,0,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+172,2,1:46,1306,1306,Jackson State Offensive Rebound.,26,26,0,0,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+173,2,1:46,1306,1306,Foul on Demetrius Lewis.,26,26,0,4,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+174,2,1:42,1302,1302,Kristy Parker Turnover.,26,26,0,2,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+175,2,1:40,1300,1300,Ciani Cryor Steal.,26,26,0,13,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+176,2,1:27,1287,1287,Foul on Ameshya Williams.,26,26,0,0,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+177,2,1:27,1287,1287,Namiko Adams missed Free Throw.,26,26,0,0,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+178,2,1:27,1287,1287,Texas Southern Deadball Team Rebound.,26,26,0,0,0.5,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+179,2,1:27,1287,1287,Namiko Adams made Free Throw.,27,26,1,14,0.5368127514661409,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Texas Southern
+180,2,1:13,1273,1273,Ameshya Williams made Layup. Assisted by Sumer Williams.,27,28,-1,20,0.46294680682524925,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Jackson State
+181,2,0:53,1253,1253,Namiko Adams missed Jumper.,27,28,-1,0,0.4625869106622496,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+182,2,0:53,1253,1253,Sumer Williams Defensive Rebound.,27,28,-1,12,0.4625869106622496,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+183,2,0:41,1241,1241,Kaisah Lucky made Jumper. Assisted by Sumer Williams.,27,30,-3,9,0.38875871668957906,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Jackson State
+184,2,0:32,1232,1232,Foul on J'Niya Tallie.,27,30,-3,0,0.38825444360167544,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+185,2,0:32,1232,1232,Ciani Cryor made Free Throw.,28,30,-2,0,0.42479893683050085,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Texas Southern
+186,2,0:32,1232,1232,Ciani Cryor missed Free Throw.,28,30,-2,0,0.42479893683050085,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+187,2,0:32,1232,1232,Ieisha Lacey Defensive Rebound.,28,30,-2,27,0.42479893683050085,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+188,2,0:05,1205,1205,Kaisah Lucky made Layup.,28,32,-4,5,0.35086875163903897,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,Jackson State
+189,2,0:00,1200,1200,Ciani Cryor Turnover.,28,32,-4,0,0.3504822574627354,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+190,2,0:00,1200,1200,End of 2nd Quarter,28,32,-4,22,0.3504822574627354,Texas Southern,Jackson State,4,4,0,0,NA,401180294,2020-02-15,
+191,3,9:38,1178,1178,Ciani Cryor made Layup.,30,32,-2,15,0.4226013386207457,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,Texas Southern
+192,3,9:23,1163,1163,Ameshya Williams missed Layup.,30,32,-2,0,0.42201072550202207,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+193,3,9:23,1163,1163,Breasia McElrath Block.,30,32,-2,0,0.42201072550202207,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+194,3,9:23,1163,1163,Jackson State Offensive Rebound.,30,32,-2,5,0.42201072550202207,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+195,3,9:18,1158,1158,Ameshya Williams missed Layup.,30,32,-2,0,0.42181575703844076,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+196,3,9:18,1158,1158,Sumer Williams Offensive Rebound.,30,32,-2,4,0.42181575703844076,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+197,3,9:14,1154,1154,Sumer Williams Turnover.,30,32,-2,21,0.4216602750131897,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+198,3,8:53,1133,1133,Ataiya Bridges missed Three Point Jumper.,30,32,-2,0,0.4208476808555709,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+199,3,8:53,1133,1133,Ameshya Williams Defensive Rebound.,30,32,-2,14,0.4208476808555709,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+200,3,8:39,1119,1119,Dayzsha Rogan missed Layup.,30,32,-2,0,0.4203051508414351,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+201,3,8:39,1119,1119,Sumer Williams Offensive Rebound.,30,32,-2,14,0.4203051508414351,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+202,3,8:25,1105,1105,Dayzsha Rogan Turnover.,30,32,-2,27,0.4197577230382261,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+203,3,7:58,1078,1078,Ataiya Bridges missed Jumper.,30,32,-2,0,0.4186746703290426,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+204,3,7:58,1078,1078,Ameshya Williams Defensive Rebound.,30,32,-2,15,0.4186746703290426,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+205,3,7:43,1063,1063,Sumer Williams Turnover.,30,32,-2,2,0.41804964967691,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+206,3,7:41,1061,1061,Ataiya Bridges Turnover.,30,32,-2,1,0.4179647251063195,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+207,3,7:40,1060,1060,Dayzsha Rogan Steal.,30,32,-2,1,0.4179221107773106,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+208,3,7:39,1059,1059,Ataiya Bridges Steal.,30,32,-2,1,0.41787939332645796,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+209,3,7:38,1058,1058,Dayzsha Rogan Turnover.,30,32,-2,1,0.41783657143446495,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+210,3,7:37,1057,1057,Ataiya Bridges Steal.,30,32,-2,13,0.4177936437822201,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+211,3,7:24,1044,1044,Ataiya Bridges missed Jumper.,30,32,-2,0,0.41722536026881735,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+212,3,7:24,1044,1044,Ameshya Williams Defensive Rebound.,30,32,-2,18,0.41722536026881735,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+213,3,7:06,1026,1026,J'Niya Tallie made Three Point Jumper. Assisted by Marneisha Hamer.,30,35,-5,8,0.3007160637371736,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,Jackson State
+214,3,6:58,1018,1018,Foul on Dayzsha Rogan.,30,35,-5,0,0.2998938637900976,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+215,3,6:58,1018,1018,Ataiya Bridges made Free Throw.,31,35,-4,0,0.3366536359998653,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,Texas Southern
+216,3,6:58,1018,1018,Ataiya Bridges made Free Throw.,32,35,-3,25,0.37550254787905774,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,Texas Southern
+217,3,6:33,993,993,Foul on Breasia McElrath.,32,35,-3,4,0.3736838024659837,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+218,3,6:29,989,989,Marneisha Hamer missed Jumper.,32,35,-3,0,0.3733777287956486,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+219,3,6:29,989,989,Texas Southern Defensive Rebound.,32,35,-3,7,0.3733777287956486,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+220,3,6:22,982,982,Foul on Marneisha Hamer.,32,35,-3,0,0.3728312396759644,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+221,3,6:22,982,982,Breasia McElrath made Free Throw.,33,35,-2,0,0.41417645541462195,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,Texas Southern
+222,3,6:22,982,982,Breasia McElrath made Free Throw.,34,35,-1,20,0.4567674095346485,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,Texas Southern
+223,3,6:02,962,962,Ieisha Lacey Turnover.,34,35,-1,10,0.4561950318688558,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+224,3,5:52,952,952,Breasia McElrath missed Layup.,34,35,-1,0,0.4559231236019224,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+225,3,5:52,952,952,Ataiya Bridges Offensive Rebound.,34,35,-1,6,0.4559231236019224,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+226,3,5:46,946,946,Richelle Velez missed Three Point Jumper.,34,35,-1,0,0.4557667891265667,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+227,3,5:46,946,946,Lauren Lewis Offensive Rebound.,34,35,-1,6,0.4557667891265667,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+228,3,5:40,940,940,Lauren Lewis missed Layup.,34,35,-1,0,0.45561503541809223,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+229,3,5:40,940,940,Marneisha Hamer Defensive Rebound.,34,35,-1,1,0.45561503541809223,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+230,3,5:39,939,939,Foul on Breasia McElrath.,34,35,-1,13,0.4555901582118864,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+231,3,5:26,926,926,Foul on Lauren Lewis.,34,35,-1,0,0.4552763359464209,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+232,3,5:26,926,926,Kaisah Lucky made Free Throw.,34,36,-2,0,0.4112626439060326,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,Jackson State
+233,3,5:26,926,926,Kaisah Lucky missed Free Throw.,34,36,-2,0,0.4112626439060326,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+234,3,5:26,926,926,Ciani Cryor Defensive Rebound.,34,36,-2,12,0.4112626439060326,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+235,3,5:14,914,914,Lauren Lewis made Layup. Assisted by Ciani Cryor.,36,36,0,5,0.5,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,Texas Southern
+236,3,5:09,909,909,J'Niya Tallie Turnover.,36,36,0,1,0.5,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+237,3,5:08,908,908,Ataiya Bridges Steal.,36,36,0,3,0.5,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+238,3,5:05,905,905,Ataiya Bridges made Layup.,38,36,2,15,0.5896698153530617,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,Texas Southern
+239,3,4:50,890,890,Kaisah Lucky made Jumper.,38,38,0,8,0.5,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,Jackson State
+240,3,4:42,882,882,Ciani Cryor Turnover.,38,38,0,1,0.5,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+241,3,4:41,881,881,Ieisha Lacey Steal.,38,38,0,4,0.5,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+242,3,4:37,877,877,Ieisha Lacey missed Layup.,38,38,0,0,0.5,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+243,3,4:37,877,877,Ciani Cryor Defensive Rebound.,38,38,0,3,0.5,Texas Southern,Jackson State,5,5,0,0,NA,401180294,2020-02-15,
+244,3,4:34,874,874,Texas Southern  Timeout,38,38,0,19,0.5,Texas Southern,Jackson State,4,5,1,0,NA,401180294,2020-02-15,
+245,3,4:15,855,855,Ciani Cryor Turnover.,38,38,0,23,0.5,Texas Southern,Jackson State,4,5,1,0,NA,401180294,2020-02-15,
+246,3,3:52,832,832,Foul on Ciani Cryor.,38,38,0,0,0.5,Texas Southern,Jackson State,4,5,1,0,NA,401180294,2020-02-15,
+247,3,3:52,832,832,Kaisah Lucky missed Free Throw.,38,38,0,0,0.5,Texas Southern,Jackson State,4,5,1,0,NA,401180294,2020-02-15,
+248,3,3:52,832,832,Jackson State Deadball Team Rebound.,38,38,0,0,0.5,Texas Southern,Jackson State,4,5,1,0,NA,401180294,2020-02-15,
+249,3,3:52,832,832,Kaisah Lucky made Free Throw.,38,39,-1,16,0.4531757515045826,Texas Southern,Jackson State,4,5,1,0,NA,401180294,2020-02-15,Jackson State
+250,3,3:36,816,816,Ataiya Bridges missed Layup.,38,39,-1,0,0.4527758553374773,Texas Southern,Jackson State,4,5,1,0,NA,401180294,2020-02-15,
+251,3,3:36,816,816,J'Niya Tallie Defensive Rebound.,38,39,-1,6,0.4527758553374773,Texas Southern,Jackson State,4,5,1,0,NA,401180294,2020-02-15,
+252,3,3:30,810,810,J'Niya Tallie missed Layup.,38,39,-1,0,0.45261764174578656,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+253,3,3:30,810,810,Lauren Lewis Block.,38,39,-1,6,0.45261764174578656,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+254,3,3:24,804,804,Texas Southern Defensive Rebound.,38,39,-1,3,0.4524542592932544,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+255,3,3:21,801,801,Foul on Ieisha Lacey.,38,39,-1,15,0.4523704957079972,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+256,3,3:06,786,786,Ataiya Bridges missed Three Point Jumper.,38,39,-1,0,0.451928810578753,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+257,3,3:06,786,786,Ciani Cryor Offensive Rebound.,38,39,-1,11,0.451928810578753,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+258,3,2:55,775,775,Ataiya Bridges made Layup.,40,39,1,19,0.548422056247418,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,Texas Southern
+259,3,2:36,756,756,Kristy Parker missed Layup.,40,39,1,0,0.5490903117027349,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+260,3,2:36,756,756,Ataiya Bridges Defensive Rebound.,40,39,1,8,0.5490903117027349,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+261,3,2:28,748,748,Ataiya Bridges made Layup.,42,39,3,19,0.6444463873169183,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,Texas Southern
+262,3,2:09,729,729,Ieisha Lacey missed Three Point Jumper.,42,39,3,0,0.6466665152741806,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+263,3,2:09,729,729,J'Niya Tallie Offensive Rebound.,42,39,3,6,0.6466665152741806,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+264,3,2:03,723,723,J'Niya Tallie Turnover.,42,39,3,0,0.6473848200609161,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+265,3,2:03,723,723,Ameshya Williams missed Layup.,42,39,3,0,0.6473848200609161,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+266,3,2:03,723,723,Lauren Lewis Block.,42,39,3,0,0.6473848200609161,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+267,3,2:03,723,723,Ameshya Williams Offensive Rebound.,42,39,3,0,0.6473848200609161,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+268,3,2:03,723,723,Foul on Ciani Cryor.,42,39,3,1,0.6473848200609161,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+269,3,2:02,722,722,Ameshya Williams missed Free Throw.,42,39,3,0,0.6475013034810102,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+270,3,2:02,722,722,Jackson State Deadball Team Rebound.,42,39,3,0,0.6475013034810102,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+271,3,2:02,722,722,Ameshya Williams made Free Throw.,42,40,2,21,0.5999801950494589,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,Jackson State
+272,3,1:41,701,701,Ataiya Bridges missed Jumper.,42,40,2,0,0.6015699701658905,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+273,3,1:41,701,701,Ataiya Bridges Offensive Rebound.,42,40,2,12,0.6015699701658905,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+274,3,1:29,689,689,Foul on Ameshya Williams.,42,40,2,0,0.6023952216245158,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+275,3,1:29,689,689,Ataiya Bridges made Free Throw.,43,40,3,0,0.650942097741497,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,Texas Southern
+276,3,1:29,689,689,Ataiya Bridges made Free Throw.,44,40,4,6,0.6965474164549059,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,Texas Southern
+277,3,1:23,683,683,Foul on Richelle Velez.,44,40,4,1,0.6972484716585071,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+278,3,1:22,682,682,Keshuna Luckett made Free Throw.,44,41,3,0,0.6516006024571357,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,Jackson State
+279,3,1:22,682,682,Keshuna Luckett made Free Throw.,44,42,2,18,0.6028580981481464,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,Jackson State
+280,3,1:04,664,664,Breasia McElrath missed Layup.,44,42,2,0,0.6040150677877973,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+281,3,1:04,664,664,Antionette Womack Defensive Rebound.,44,42,2,20,0.6040150677877973,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+282,3,0:44,644,644,Sumer Williams missed Jumper.,44,42,2,0,0.6053045257692152,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+283,3,0:44,644,644,Demetrius Lewis Defensive Rebound.,44,42,2,3,0.6053045257692152,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+284,3,0:41,641,641,Demetrius Lewis Turnover.,44,42,2,4,0.6055032639584301,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+285,3,0:37,637,637,Keshuna Luckett missed Three Point Jumper.,44,42,2,0,0.6057717294046191,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+286,3,0:37,637,637,Keshuna Luckett Offensive Rebound.,44,42,2,12,0.6057717294046191,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+287,3,0:25,625,625,Keshuna Luckett missed Layup.,44,42,2,0,0.6066073628100759,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+288,3,0:25,625,625,Ataiya Bridges Defensive Rebound.,44,42,2,15,0.6066073628100759,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+289,3,0:10,610,610,Ciani Cryor Turnover.,44,42,2,0,0.6077375416106916,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+290,3,0:10,610,610,Keshuna Luckett Turnover.,44,42,2,4,0.6077375416106916,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+291,3,0:06,606,606,Ciani Cryor Steal.,44,42,2,3,0.6080590826388574,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+292,3,0:03,603,603,Richelle Velez made Three Point Jumper.,47,42,5,3,0.7503536270693419,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,Texas Southern
+293,3,0:00,600,600,End of 3rd Quarter,47,42,5,4,0.7508511955786001,Texas Southern,Jackson State,4,5,0,0,NA,401180294,2020-02-15,
+294,4,9:56,596,596,Kaisah Lucky missed Layup.,47,42,5,0,0.7515323110251719,Texas Southern,Jackson State,5,6,0,0,NA,401180294,2020-02-15,
+295,4,9:56,596,596,Kaisah Lucky Offensive Rebound.,47,42,5,5,0.7515323110251719,Texas Southern,Jackson State,5,6,0,0,NA,401180294,2020-02-15,
+296,4,9:51,591,591,Dayzsha Rogan missed Three Point Jumper.,47,42,5,10,0.752413816738609,Texas Southern,Jackson State,5,6,0,0,NA,401180294,2020-02-15,
+297,4,9:41,581,581,Sumer Williams Offensive Rebound.,47,42,5,2,0.7542859168053306,Texas Southern,Jackson State,5,6,0,0,NA,401180294,2020-02-15,
+298,4,9:39,579,579,Marneisha Hamer made Layup.,47,44,3,31,0.6624508008798435,Texas Southern,Jackson State,5,6,0,0,NA,401180294,2020-02-15,Jackson State
+299,4,9:08,548,548,Ciani Cryor missed Three Point Jumper.,47,44,3,0,0.6675574568042336,Texas Southern,Jackson State,5,6,0,0,NA,401180294,2020-02-15,
+300,4,9:08,548,548,Marneisha Hamer Defensive Rebound.,47,44,3,22,0.6675574568042336,Texas Southern,Jackson State,5,6,0,0,NA,401180294,2020-02-15,
+301,4,8:46,526,526,Kaisah Lucky made Layup.,47,46,1,6,0.5591412896763848,Texas Southern,Jackson State,5,6,0,0,NA,401180294,2020-02-15,Jackson State
+302,4,8:40,520,520,Texas Southern  Timeout,47,46,1,21,0.5594543781978267,Texas Southern,Jackson State,4,6,1,0,NA,401180294,2020-02-15,
+303,4,8:19,499,499,Namiko Adams Turnover.,47,46,1,11,0.5604953301005607,Texas Southern,Jackson State,4,6,1,0,NA,401180294,2020-02-15,
+304,4,8:08,488,488,Kaisah Lucky missed Layup.,47,46,1,0,0.561049546810648,Texas Southern,Jackson State,4,6,1,0,NA,401180294,2020-02-15,
+305,4,8:08,488,488,Lauren Lewis Defensive Rebound.,47,46,1,5,0.561049546810648,Texas Southern,Jackson State,4,6,1,0,NA,401180294,2020-02-15,
+306,4,8:03,483,483,Ataiya Bridges Turnover.,47,46,1,16,0.5613130072457982,Texas Southern,Jackson State,4,6,1,0,NA,401180294,2020-02-15,
+307,4,7:47,467,467,Kaisah Lucky made Jumper.,47,48,-1,12,0.4377609479160762,Texas Southern,Jackson State,4,6,1,0,NA,401180294,2020-02-15,Jackson State
+308,4,7:35,455,455,Foul on Sumer Williams.,47,48,-1,0,0.43694793160933143,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+309,4,7:35,455,455,Ciani Cryor missed Free Throw.,47,48,-1,0,0.43694793160933143,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+310,4,7:35,455,455,Texas Southern Deadball Team Rebound.,47,48,-1,0,0.43694793160933143,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+311,4,7:35,455,455,Ciani Cryor made Free Throw.,48,48,0,9,0.5,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,Texas Southern
+312,4,7:26,446,446,Foul on Lauren Lewis.,48,48,0,11,0.5,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+313,4,7:15,435,435,Marneisha Hamer made Layup. Assisted by J'Niya Tallie.,48,50,-2,20,0.3726722220950867,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,Jackson State
+314,4,6:55,415,415,Ataiya Bridges missed Layup.,48,50,-2,0,0.36894233751891353,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+315,4,6:55,415,415,Sumer Williams Defensive Rebound.,48,50,-2,12,0.36894233751891353,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+316,4,6:43,403,403,Marneisha Hamer missed Jumper.,48,50,-2,0,0.36686866465772916,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+317,4,6:43,403,403,Britnee Gabriel Defensive Rebound.,48,50,-2,9,0.36686866465772916,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+318,4,6:34,394,394,Richelle Velez missed Three Point Jumper.,48,50,-2,0,0.3653491872532102,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+319,4,6:34,394,394,J'Niya Tallie Defensive Rebound.,48,50,-2,30,0.3653491872532102,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+320,4,6:04,364,364,Kaisah Lucky missed Layup.,48,50,-2,0,0.36004201674517683,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+321,4,6:04,364,364,Sumer Williams Offensive Rebound.,48,50,-2,4,0.36004201674517683,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+322,4,6:00,360,360,Sumer Williams missed Jumper.,48,50,-2,0,0.35926131805501715,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+323,4,6:00,360,360,Marneisha Hamer Offensive Rebound.,48,50,-2,6,0.35926131805501715,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+324,4,5:54,354,354,Marneisha Hamer made Layup.,48,52,-4,8,0.2372593658416972,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,Jackson State
+325,4,5:46,346,346,Ataiya Bridges missed Layup.,48,52,-4,0,0.2345306752105909,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+326,4,5:46,346,346,Dayzsha Rogan Defensive Rebound.,48,52,-4,5,0.2345306752105909,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+327,4,5:41,341,341,Marneisha Hamer made Layup. Assisted by J'Niya Tallie.,48,54,-6,3,0.14313132800506198,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,Jackson State
+328,4,5:38,338,338,Official TV Timeout,48,54,-6,10,0.14197018982243687,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+329,4,5:28,328,328,Lauren Lewis missed Jumper.,48,54,-6,0,0.13787131728537153,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+330,4,5:28,328,328,Ameshya Williams Block.,48,54,-6,3,0.13787131728537153,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+331,4,5:25,325,325,Ciani Cryor Offensive Rebound.,48,54,-6,5,0.13656897262646728,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+332,4,5:20,320,320,Ciani Cryor Turnover.,48,54,-6,1,0.13431970963581705,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+333,4,5:19,319,319,Kaisah Lucky Steal.,48,54,-6,14,0.13385779052947125,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+334,4,5:05,305,305,Kaisah Lucky missed Jumper.,48,54,-6,0,0.12737986063183776,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+335,4,5:05,305,305,Ciani Cryor Defensive Rebound.,48,54,-6,4,0.12737986063183776,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+336,4,5:01,301,301,Foul on Kaisah Lucky.,48,54,-6,0,0.12616515500891465,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+337,4,5:01,301,301,Ciani Cryor missed Free Throw.,48,54,-6,0,0.12616515500891465,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+338,4,5:01,301,301,Texas Southern Deadball Team Rebound.,48,54,-6,0,0.12616515500891465,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+339,4,5:01,301,301,Ciani Cryor made Free Throw.,49,54,-5,14,0.1662072095158606,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,Texas Southern
+340,4,4:47,287,287,Foul on Lauren Lewis.,49,54,-5,1,0.1646229259184076,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+341,4,4:46,286,286,Ameshya Williams made Layup. Assisted by Kaisah Lucky.,49,56,-7,9,0.09332821058881603,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,Jackson State
+342,4,4:37,277,277,Ciani Cryor Turnover.,49,56,-7,0,0.09404476295274962,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+343,4,4:37,277,277,Dayzsha Rogan Steal.,49,56,-7,1,0.09404476295274962,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+344,4,4:36,276,276,Ataiya Bridges Turnover.,49,56,-7,0,0.09417261642772032,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+345,4,4:36,276,276,Dayzsha Rogan made Layup.,49,58,-9,0,0.05163712749653134,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,Jackson State
+346,4,4:36,276,276,Foul on Ataiya Bridges.,49,58,-9,2,0.05163712749653134,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+347,4,4:34,274,274,Ameshya Williams made Layup.,49,60,-11,10,0.02786424531556012,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,Jackson State
+348,4,4:24,264,264,Namiko Adams made Layup.,51,60,-9,23,0.05311030197020165,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,Texas Southern
+349,4,4:01,241,241,Ameshya Williams made Layup. Assisted by Dayzsha Rogan.,51,62,-11,6,0.030503157152509185,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,Jackson State
+350,4,3:55,235,235,Ataiya Bridges made Layup.,53,62,-9,0,0.05583210028608838,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,Texas Southern
+351,4,3:55,235,235,Foul on Sumer Williams.,53,62,-9,0,0.05583210028608838,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+352,4,3:55,235,235,Ataiya Bridges missed Free Throw.,53,62,-9,0,0.05583210028608838,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+353,4,3:55,235,235,Breasia McElrath Offensive Rebound.,53,62,-9,5,0.05583210028608838,Texas Southern,Jackson State,4,6,0,0,NA,401180294,2020-02-15,
+354,4,3:50,230,230,Texas Southern  Timeout,53,62,-9,12,0.0556029121035845,Texas Southern,Jackson State,3,6,1,0,NA,401180294,2020-02-15,
+355,4,3:38,218,218,Richelle Velez made Layup.,55,62,-7,17,0.09676798620769485,Texas Southern,Jackson State,3,6,1,0,NA,401180294,2020-02-15,Texas Southern
+356,4,3:21,201,201,Ameshya Williams made Layup. Assisted by Marneisha Hamer.,55,64,-9,12,0.0464751320568897,Texas Southern,Jackson State,3,6,1,0,NA,401180294,2020-02-15,Jackson State
+357,4,3:09,189,189,Demetrius Lewis missed Three Point Jumper.,55,64,-9,0,0.03871766008701885,Texas Southern,Jackson State,3,6,1,0,NA,401180294,2020-02-15,
+358,4,3:09,189,189,Ameshya Williams Block.,55,64,-9,3,0.03871766008701885,Texas Southern,Jackson State,3,6,1,0,NA,401180294,2020-02-15,
+359,4,3:06,186,186,Texas Southern Offensive Rebound.,55,64,-9,1,0.03667433528930422,Texas Southern,Jackson State,3,6,1,0,NA,401180294,2020-02-15,
+360,4,3:05,185,185,Foul on Marneisha Hamer.,55,64,-9,4,0.03601504345992485,Texas Southern,Jackson State,3,6,1,0,NA,401180294,2020-02-15,
+361,4,3:01,181,181,Breasia McElrath missed Layup.,55,64,-9,0,0.03347922952755814,Texas Southern,Jackson State,3,6,1,0,NA,401180294,2020-02-15,
+362,4,3:01,181,181,Ameshya Williams Defensive Rebound.,55,64,-9,19,0.03347922952755814,Texas Southern,Jackson State,3,6,1,0,NA,401180294,2020-02-15,
+363,4,2:42,162,162,Ameshya Williams missed Jumper.,55,64,-9,0,0.023262559260110994,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+364,4,2:42,162,162,Breasia McElrath Defensive Rebound.,55,64,-9,1,0.023262559260110994,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+365,4,2:41,161,161,Foul on Marneisha Hamer.,55,64,-9,0,0.02279512309026386,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+366,4,2:41,161,161,Demetrius Lewis made Free Throw.,56,64,-8,0,0.034205073943885674,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,Texas Southern
+367,4,2:41,161,161,Demetrius Lewis missed Free Throw.,56,64,-8,0,0.034205073943885674,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+368,4,2:41,161,161,J'Niya Tallie Defensive Rebound.,56,64,-8,16,0.034205073943885674,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+369,4,2:25,145,145,Ameshya Williams made Layup. Assisted by Sumer Williams.,56,66,-10,14,0.010258805742129262,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,Jackson State
+370,4,2:11,131,131,Breasia McElrath missed Layup.,56,66,-10,1,0.0069505629324170285,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+371,4,2:10,130,130,Breasia McElrath Offensive Rebound.,56,66,-10,3,0.006745466963387151,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+372,4,2:07,127,127,Ameshya Williams missed Layup.,56,66,-10,0,0.006154113069549562,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+373,4,2:07,127,127,Jackson State Offensive Rebound.,56,66,-10,4,0.006154113069549562,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+374,4,2:03,123,123,Namiko Adams made Layup.,58,66,-8,2,0.015221453184241559,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,Texas Southern
+375,4,2:01,121,121,Jackson State  Turnover.,58,66,-8,31,0.014451301635566453,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+376,4,1:30,90,90,Kristy Parker made Layup.,58,68,-10,4,0.0015017552067401849,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,Jackson State
+377,4,1:26,86,86,Breasia McElrath missed Jumper.,58,68,-10,0,0.0012545601991269272,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+378,4,1:26,86,86,Dayzsha Rogan Defensive Rebound.,58,68,-10,14,0.0012545601991269272,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+379,4,1:12,72,72,Kristy Parker missed Layup.,58,68,-10,0,6.453245742950154e-4,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+380,4,1:12,72,72,Breasia McElrath Defensive Rebound.,58,68,-10,19,6.453245742950154e-4,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+381,4,0:53,53,53,Foul on Kristy Parker.,58,68,-10,1,2.3673692192937383e-4,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+382,4,0:52,52,52,Foul on Kristy Parker.,58,68,-10,0,2.2393062861239253e-4,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+383,4,0:52,52,52,Ataiya Bridges missed Free Throw.,58,68,-10,0,2.2393062861239253e-4,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+384,4,0:52,52,52,Texas Southern Deadball Team Rebound.,58,68,-10,0,2.2393062861239253e-4,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+385,4,0:52,52,52,Ataiya Bridges made Free Throw.,59,68,-9,3,5.187574345323686e-4,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,Texas Southern
+386,4,0:49,49,49,Foul on Richelle Velez.,59,68,-9,0,4.4566102187092106e-4,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+387,4,0:49,49,49,Dayzsha Rogan made Free Throw.,59,69,-10,0,1.8914931916549698e-4,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,Jackson State
+388,4,0:49,49,49,Dayzsha Rogan made Free Throw.,59,70,-11,5,8.026769081559303e-5,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,Jackson State
+389,4,0:44,44,44,Foul on Kristy Parker.,59,70,-11,0,5.845082431108632e-5,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+390,4,0:44,44,44,Ataiya Bridges made Free Throw.,61,70,-9,0,3.438242407937951e-4,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,Texas Southern
+391,4,0:44,44,44,Ataiya Bridges made Free Throw.,60,70,-10,9,1.4177163814752626e-4,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+392,4,0:35,35,35,Foul on Namiko Adams.,61,70,-9,0,2.11281007403372e-4,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,Texas Southern
+393,4,0:35,35,35,Kristy Parker missed Free Throw.,61,70,-9,0,2.11281007403372e-4,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+394,4,0:35,35,35,Jackson State Deadball Team Rebound.,61,70,-9,0,2.11281007403372e-4,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+395,4,0:35,35,35,Kristy Parker made Free Throw.,61,71,-10,10,8.252352001080382e-5,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,Jackson State
+396,4,0:25,25,25,Richelle Velez missed Three Point Jumper.,61,71,-10,0,4.400491439770612e-5,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+397,4,0:25,25,25,Kristy Parker Defensive Rebound.,61,71,-10,4,4.400491439770612e-5,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+398,4,0:21,21,21,Foul on Richelle Velez.,61,71,-10,0,3.3977321601119836e-5,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+399,4,0:21,21,21,Kristy Parker made Free Throw.,61,72,-11,0,1.2142804794447249e-5,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,Jackson State
+400,4,0:21,21,21,Kristy Parker missed Free Throw.,61,72,-11,0,1.2142804794447249e-5,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+401,4,0:21,21,21,Demetrius Lewis Defensive Rebound.,61,72,-11,9,1.2142804794447249e-5,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+402,4,0:12,12,12,Demetrius Lewis Turnover.,61,72,-11,2,6.208955329431789e-6,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+403,4,0:10,10,10,Kristy Parker Steal.,61,72,-11,10,5.3213648804254995e-006,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,
+404,4,0:00,0,0,End of Game,61,72,-11,0,2.852423339163565e-96,Texas Southern,Jackson State,3,6,0,0,NA,401180294,2020-02-15,

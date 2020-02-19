@@ -1,0 +1,407 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:42,2382,2382,Autumn Hudson missed Layup.,0,0,0,0,0.5,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,NA
+2,1,9:42,2382,2382,Lindsey Thall Block.,0,0,0,4,0.5,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+3,1,9:38,2378,2378,Nila Blackford Defensive Rebound.,0,0,0,24,0.5,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+4,1,9:14,2354,2354,Katie Shumate missed Layup.,0,0,0,2,0.5,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+5,1,9:12,2352,2352,Autumn Hudson Defensive Rebound.,0,0,0,7,0.5,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+6,1,9:05,2345,2345,Corrione Cardwell missed Layup.,0,0,0,2,0.5,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+7,1,9:03,2343,2343,Lindsey Thall Defensive Rebound.,0,0,0,11,0.5,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+8,1,8:52,2332,2332,Clare Kelly missed Three Point Jumper.,0,0,0,2,0.5,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+9,1,8:50,2330,2330,Nila Blackford Offensive Rebound.,0,0,0,11,0.5,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+10,1,8:39,2319,2319,Foul on Aaliyah Stanley.,0,0,0,21,0.5,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+11,1,8:18,2298,2298,Megan Carter missed Jumper.,0,0,0,2,0.5,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+12,1,8:16,2296,2296,Areanna Combs Defensive Rebound.,0,0,0,4,0.5,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+13,1,8:12,2292,2292,Areanna Combs missed Layup.,0,0,0,4,0.5,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+14,1,8:08,2288,2288,Juanita Agosto Offensive Rebound.,0,0,0,0,0.5,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+15,1,8:08,2288,2288,Juanita Agosto made Layup.,0,2,-2,30,0.4535453277550481,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+16,1,7:38,2258,2258,Nila Blackford Turnover.,0,2,-2,0,0.4528713407795984,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+17,1,7:38,2258,2258,Corrione Cardwell Steal.,0,2,-2,5,0.4528713407795984,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+18,1,7:33,2253,2253,Aaliyah Stanley missed Jumper.,0,2,-2,4,0.45275826884777715,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+19,1,7:29,2249,2249,Katie Shumate Defensive Rebound.,0,2,-2,3,0.4526676712149446,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+20,1,7:26,2246,2246,Lindsey Thall missed Three Point Jumper.,0,2,-2,3,0.4525996434796062,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+21,1,7:23,2243,2243,Kent State Offensive Rebound.,0,2,-2,3,0.45253154916842514,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+22,1,7:20,2240,2240,Foul on Areanna Combs.,0,2,-2,3,0.45246338969984234,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+23,1,7:17,2237,2237,Foul on Jenna Annecchiarico.,0,2,-2,1,0.4523951664921712,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+24,1,7:16,2236,2236,Foul on Kiara Johnson.,0,2,-2,5,0.45237241150382773,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+25,1,7:11,2231,2231,Clare Kelly missed Jumper.,0,2,-2,3,0.45225853453217346,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+26,1,7:08,2228,2228,Kiara Johnson Defensive Rebound.,0,2,-2,19,0.45219012861582764,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+27,1,6:49,2209,2209,Areanna Combs made Layup.,0,4,-4,0,0.40440123535406136,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+28,1,6:49,2209,2209,Foul on Nila Blackford.,0,4,-4,0,0.40440123535406136,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+29,1,6:49,2209,2209,Areanna Combs missed Free Throw.,0,4,-4,1,0.40440123535406136,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+30,1,6:48,2208,2208,Megan Carter Defensive Rebound.,0,4,-4,21,0.4043566419576437,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+31,1,6:27,2187,2187,Nila Blackford missed Three Point Jumper.,0,4,-4,3,0.4034181855741102,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+32,1,6:24,2184,2184,Aaliyah Stanley Defensive Rebound.,0,4,-4,6,0.40328384044088056,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+33,1,6:18,2178,2178,Aaliyah Stanley missed Layup.,0,4,-4,1,0.4030149680787612,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+34,1,6:17,2177,2177,Eastern Michigan Offensive Rebound.,0,4,-4,7,0.4029701336158312,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+35,1,6:10,2170,2170,Juanita Agosto missed Jumper.,0,4,-4,0,0.40265612661406397,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+36,1,6:10,2170,2170,Lindsey Thall Block.,0,4,-4,5,0.40265612661406397,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+37,1,6:05,2165,2165,Asiah Dingle Defensive Rebound.,0,4,-4,0,0.4024315758742178,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+38,1,6:05,2165,2165,Asiah Dingle Turnover.,0,4,-4,10,0.4024315758742178,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+39,1,5:55,2155,2155,Kiara Johnson Turnover.,0,4,-4,12,0.4019814831583833,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+40,1,5:43,2143,2143,Nila Blackford Turnover.,0,4,-4,14,0.40143955180446567,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+41,1,5:29,2129,2129,Corrione Cardwell missed Layup.,0,4,-4,0,0.400804650460834,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+42,1,5:29,2129,2129,Lindsey Thall Block.,0,4,-4,4,0.400804650460834,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+43,1,5:25,2125,2125,Asiah Dingle Defensive Rebound.,0,4,-4,1,0.40062270347841344,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+44,1,5:24,2124,2124,Asiah Dingle Turnover.,0,4,-4,0,0.40057717777331375,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+45,1,5:24,2124,2124,Jenna Annecchiarico Steal.,0,4,-4,2,0.40057717777331375,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+46,1,5:22,2122,2122,Foul on Asiah Dingle.,0,4,-4,0,0.4004860791695032,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+47,1,5:22,2122,2122,Jenna Annecchiarico made Free Throw.,0,5,-5,0,0.37653063115692414,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+48,1,5:22,2122,2122,Jenna Annecchiarico made Free Throw.,0,6,-6,13,0.35316399200835646,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+49,1,5:09,2109,2109,Foul on Autumn Hudson.,0,6,-6,0,0.35231692492184763,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+50,1,5:09,2109,2109,Nila Blackford made Free Throw.,1,6,-5,0,0.3758051062673422,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Kent State
+51,1,5:09,2109,2109,Nila Blackford made Free Throw.,2,6,-4,9,0.39989237163380015,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Kent State
+52,1,5:00,2100,2100,Jenna Annecchiarico made Three Point Jumper. Assisted by Areanna Combs.,2,9,-7,13,0.3288571380369829,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+53,1,4:47,2087,2087,Katie Shumate missed Jumper.,2,9,-7,3,0.32789392169996245,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+54,1,4:44,2084,2084,Areanna Combs Defensive Rebound.,2,9,-7,7,0.32767108929301136,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+55,1,4:37,2077,2077,Areanna Combs missed Jumper.,2,9,-7,2,0.32715031775195763,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+56,1,4:35,2075,2075,Megan Carter Defensive Rebound.,2,9,-7,13,0.3270013093481375,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+57,1,4:22,2062,2062,Foul on Juanita Agosto.,2,9,-7,0,0.3260303437121358,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+58,1,4:22,2062,2062,Official TV Timeout,2,9,-7,0,0.3260303437121358,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+59,1,4:22,2062,2062,Lindsey Thall made Free Throw.,3,9,-6,0,0.34922386448620724,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Kent State
+60,1,4:22,2062,2062,Lindsey Thall missed Free Throw.,3,9,-6,2,0.34922386448620724,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+61,1,4:20,2060,2060,Autumn Hudson Defensive Rebound.,3,9,-6,14,0.3490910964344732,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+62,1,4:06,2046,2046,Areanna Combs missed Jumper.,3,9,-6,3,0.34815889823801593,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+63,1,4:03,2043,2043,Nila Blackford Defensive Rebound.,3,9,-6,6,0.3479584856082723,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+64,1,3:57,2037,2037,Asiah Dingle missed Layup.,3,9,-6,2,0.34755694877141674,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+65,1,3:55,2035,2035,Autumn Hudson Defensive Rebound.,3,9,-6,23,0.347422889902746,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+66,1,3:32,2012,2012,Aaliyah Stanley missed Jumper.,3,9,-6,2,0.3458733051515204,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+67,1,3:30,2010,2010,Lindsey Thall Defensive Rebound.,3,9,-6,11,0.3457378526325086,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+68,1,3:19,1999,1999,Foul on Corrione Cardwell.,3,9,-6,0,0.3449907748100992,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+69,1,3:19,1999,1999,Megan Carter made Free Throw.,4,9,-5,0,0.36952004634360913,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Kent State
+70,1,3:19,1999,1999,Megan Carter made Free Throw.,5,9,-4,26,0.39474231806772825,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Kent State
+71,1,2:53,1973,1973,Areanna Combs Turnover.,5,9,-4,0,0.3934865439634745,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+72,1,2:53,1973,1973,Lindsey Thall Steal.,5,9,-4,24,0.3934865439634745,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+73,1,2:29,1949,1949,Megan Carter made Jumper.,7,9,-2,27,0.44551684476573233,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Kent State
+74,1,2:02,1922,1922,Foul on Lindsey Thall.,7,9,-2,0,0.44482329195717357,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+75,1,2:02,1922,1922,Areanna Combs made Free Throw.,7,10,-3,0,0.41765337011253256,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+76,1,2:02,1922,1922,Areanna Combs made Free Throw.,7,11,-4,19,0.39097428559336717,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+77,1,1:43,1903,1903,Nila Blackford missed Layup.,7,11,-4,1,0.3900320879604235,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+78,1,1:42,1902,1902,Jenna Annecchiarico Defensive Rebound.,7,11,-4,7,0.3899825587058245,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+79,1,1:35,1895,1895,Aaliyah Stanley made Jumper.,7,13,-6,17,0.3377663340207088,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+80,1,1:18,1878,1878,Lindsey Thall missed Jumper.,7,13,-6,1,0.33657956416369994,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+81,1,1:17,1877,1877,Aaliyah Stanley Defensive Rebound.,7,13,-6,0,0.3365097691357689,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+82,1,1:17,1877,1877,Aaliyah Stanley Turnover.,7,13,-6,12,0.3365097691357689,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+83,1,1:05,1865,1865,Megan Carter missed Layup.,7,13,-6,2,0.3356720363334159,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+84,1,1:03,1863,1863,Kiara Johnson Defensive Rebound.,7,13,-6,4,0.33553235083936933,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+85,1,0:59,1859,1859,Foul on Corrione Cardwell.,7,13,-6,0,0.33525289596343266,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+86,1,0:59,1859,1859,Corrione Cardwell Turnover.,7,13,-6,11,0.33525289596343266,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+87,1,0:48,1848,1848,Katie Shumate made Layup. Assisted by Monique Smith.,9,13,-4,32,0.38730608115812526,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Kent State
+88,1,0:16,1816,1816,Courtnie Lewis made Three Point Jumper. Assisted by Jenna Annecchiarico.,9,16,-7,16,0.30694453707925884,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+89,1,0:00,1800,1800,Asiah Dingle missed Three Point Jumper.,9,16,-7,0,0.30567697989727144,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+90,1,0:00,1800,1800,Eastern Michigan Deadball Team Rebound.,9,16,-7,0,0.30567697989727144,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+91,1,0:00,1800,1800,End of 1st Quarter,9,16,-7,7,0.30567697989727144,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+92,2,9:53,1793,1793,Katie Shumate Turnover.,9,16,-7,11,0.30511986892235166,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+93,2,9:42,1782,1782,Foul on Katie Shumate.,9,16,-7,6,0.30424077349752304,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+94,2,9:36,1776,1776,Areanna Combs missed Jumper.,9,16,-7,0,0.30375921589538185,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+95,2,9:36,1776,1776,Lindsey Thall Block.,9,16,-7,6,0.30375921589538185,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+96,2,9:30,1770,1770,Autumn Hudson Offensive Rebound.,9,16,-7,4,0.30327609054839066,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+97,2,9:26,1766,1766,Autumn Hudson missed Layup.,9,16,-7,5,0.3029530898644524,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+98,2,9:21,1761,1761,Autumn Hudson Offensive Rebound.,9,16,-7,1,0.3025482587574267,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+99,2,9:20,1760,1760,Areanna Combs missed Three Point Jumper.,9,16,-7,4,0.302467144204294,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+100,2,9:16,1756,1756,Lindsey Thall Defensive Rebound.,9,16,-7,9,0.3021421772620275,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+101,2,9:07,1747,1747,Lindsey Thall Turnover.,9,16,-7,15,0.3014079089415602,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+102,2,8:52,1732,1732,Jenna Annecchiarico made Three Point Jumper. Assisted by Courtnie Lewis.,9,19,-10,14,0.2298350690875193,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+103,2,8:38,1718,1718,Foul on Autumn Hudson.,9,19,-10,0,0.22843490599075605,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+104,2,8:38,1718,1718,Nila Blackford missed Free Throw.,9,19,-10,0,0.22843490599075605,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+105,2,8:38,1718,1718,Kent State Deadball Team Rebound.,9,19,-10,0,0.22843490599075605,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+106,2,8:38,1718,1718,Nila Blackford made Free Throw.,10,19,-9,12,0.2505928771069295,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Kent State
+107,2,8:26,1706,1706,Courtnie Lewis missed Layup.,10,19,-9,1,0.24943167346186562,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+108,2,8:25,1705,1705,Kiara Johnson Offensive Rebound.,10,19,-9,0,0.24933443168210076,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+109,2,8:25,1705,1705,Foul on Clare Kelly.,10,19,-9,0,0.24933443168210076,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+110,2,8:25,1705,1705,Kiara Johnson made Free Throw.,10,20,-10,0,0.2271230452905447,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+111,2,8:25,1705,1705,Kiara Johnson missed Free Throw.,10,20,-10,1,0.2271230452905447,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+112,2,8:24,1704,1704,Nila Blackford Defensive Rebound.,10,20,-10,6,0.22702163623806598,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+113,2,8:18,1698,1698,Asiah Dingle made Layup.,12,20,-8,13,0.2723071960238606,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Kent State
+114,2,8:05,1685,1685,Kiara Johnson missed Jumper.,12,20,-8,1,0.2711046695135835,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+115,2,8:04,1684,1684,Areanna Combs Offensive Rebound.,12,20,-8,0,0.2710127224536308,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+116,2,8:04,1684,1684,Foul on Megan Carter.,12,20,-8,8,0.2710127224536308,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+117,2,7:56,1676,1676,Aaliyah Stanley missed Jumper.,12,20,-8,3,0.270282772629607,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+118,2,7:53,1673,1673,Aaliyah Stanley Offensive Rebound.,12,20,-8,3,0.27001150005268737,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+119,2,7:50,1670,1670,Aaliyah Stanley missed Layup.,12,20,-8,5,0.26974149223922556,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+120,2,7:45,1665,1665,Kiara Johnson Offensive Rebound.,12,20,-8,0,0.2692941571242763,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+121,2,7:45,1665,1665,Kiara Johnson missed Layup.,12,20,-8,1,0.2692941571242763,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+122,2,7:44,1664,1664,Asiah Dingle Defensive Rebound.,12,20,-8,12,0.2692050755452706,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+123,2,7:32,1652,1652,Ali Poole missed Jumper.,12,20,-8,4,0.2681452772430289,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+124,2,7:28,1648,1648,Nila Blackford Offensive Rebound.,12,20,-8,0,0.26779545322541165,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+125,2,7:28,1648,1648,Nila Blackford made Layup.,14,20,-6,12,0.3198682490166348,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Kent State
+126,2,7:16,1636,1636,Jenna Annecchiarico missed Layup.,14,20,-6,2,0.3190017741919008,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+127,2,7:14,1634,1634,Nila Blackford Defensive Rebound.,14,20,-6,6,0.3188582118545563,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+128,2,7:08,1628,1628,Megan Carter missed Layup.,14,20,-6,0,0.31842874982771596,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+129,2,7:08,1628,1628,Eastern Michigan Defensive Rebound.,14,20,-6,0,0.31842874982771596,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+130,2,7:08,1628,1628,Foul on Asiah Dingle.,14,20,-6,13,0.31842874982771596,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+131,2,6:55,1615,1615,Foul on Hannah Young.,14,20,-6,0,0.3175033016238018,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+132,2,6:55,1615,1615,Corrione Cardwell missed Free Throw.,14,20,-6,0,0.3175033016238018,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+133,2,6:55,1615,1615,Eastern Michigan Deadball Team Rebound.,14,20,-6,0,0.3175033016238018,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+134,2,6:55,1615,1615,Corrione Cardwell made Free Throw.,14,21,-7,26,0.29052937890158814,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+135,2,6:29,1589,1589,Hannah Young made Three Point Jumper. Assisted by Mariah Modkins.,17,21,-4,16,0.37382253415405664,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Kent State
+136,2,6:13,1573,1573,Juanita Agosto missed Layup.,17,21,-4,3,0.3730019705807674,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+137,2,6:10,1570,1570,Lindsey Thall Defensive Rebound.,17,21,-4,4,0.37284743831976475,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+138,2,6:06,1566,1566,Lindsey Thall Turnover.,17,21,-4,0,0.3726409528398211,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+139,2,6:06,1566,1566,Corrione Cardwell Steal.,17,21,-4,4,0.3726409528398211,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+140,2,6:02,1562,1562,Corrione Cardwell missed Layup.,17,21,-4,0,0.3724339015979736,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+141,2,6:02,1562,1562,Lindsey Thall Block.,17,21,-4,0,0.3724339015979736,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+142,2,6:02,1562,1562,Corrione Cardwell Offensive Rebound.,17,21,-4,0,0.3724339015979736,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+143,2,6:02,1562,1562,Jenna Annecchiarico Turnover.,17,21,-4,17,0.3724339015979736,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+144,2,5:45,1545,1545,Nila Blackford Turnover.,17,21,-4,0,0.37154610105190544,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+145,2,5:45,1545,1545,Corrione Cardwell Steal.,17,21,-4,3,0.37154610105190544,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+146,2,5:42,1542,1542,Foul on Katie Shumate.,17,21,-4,0,0.3713878689489837,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+147,2,5:42,1542,1542,Areanna Combs made Free Throw.,17,22,-5,0,0.3412262744219781,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+148,2,5:42,1542,1542,Areanna Combs made Free Throw.,17,23,-6,22,0.31229726729239055,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+149,2,5:20,1520,1520,Lindsey Thall missed Layup.,17,23,-6,0,0.31067216777609735,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+150,2,5:20,1520,1520,Kiara Johnson Block.,17,23,-6,0,0.31067216777609735,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+151,2,5:20,1520,1520,Kent State Offensive Rebound.,17,23,-6,5,0.31067216777609735,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+152,2,5:15,1515,1515,Hannah Young missed Jumper.,17,23,-6,5,0.31029607261524444,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+153,2,5:10,1510,1510,Hannah Young Turnover.,17,23,-6,0,0.309917110757618,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+154,2,5:10,1510,1510,Corrione Cardwell Steal.,17,23,-6,1,0.309917110757618,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+155,2,5:09,1509,1509,Hannah Young Offensive Rebound.,17,23,-6,26,0.30984095940007844,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+156,2,4:43,1483,1483,Corrione Cardwell made Layup.,17,25,-8,31,0.25341538970519883,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+157,2,4:12,1452,1452,Megan Carter missed Jumper.,17,25,-8,2,0.25039160055771764,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+158,2,4:10,1450,1450,Jenna Annecchiarico Defensive Rebound.,17,25,-8,6,0.2501896193180577,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+159,2,4:04,1444,1444,Jenna Annecchiarico missed Layup.,17,25,-8,0,0.24958696457852866,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+160,2,4:04,1444,1444,Mariah Modkins Block.,17,25,-8,0,0.24958696457852866,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+161,2,4:04,1444,1444,Mariah Modkins Defensive Rebound.,17,25,-8,1,0.24958696457852866,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+162,2,4:03,1443,1443,Official TV Timeout,17,25,-8,22,0.24948739877688092,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+163,2,3:41,1421,1421,Nila Blackford missed Layup.,17,25,-8,3,0.2473527280639656,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+164,2,3:38,1418,1418,Courtnie Lewis Defensive Rebound.,17,25,-8,18,0.24706890364992276,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+165,2,3:20,1400,1400,Kiara Johnson Turnover.,17,25,-8,24,0.2453943412461165,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+166,2,2:56,1376,1376,Mariah Modkins missed Three Point Jumper.,17,25,-8,4,0.24321467229227778,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+167,2,2:52,1372,1372,Courtnie Lewis Defensive Rebound.,17,25,-8,7,0.24285475532186537,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+168,2,2:45,1365,1365,Courtnie Lewis made Three Point Jumper. Assisted by Jenna Annecchiarico.,17,28,-11,21,0.17247207650887103,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+169,2,2:24,1344,1344,Lindsey Thall missed Layup.,17,28,-11,3,0.17045757993405514,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+170,2,2:21,1341,1341,Lindsey Thall Offensive Rebound.,17,28,-11,0,0.17016914394861135,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+171,2,2:21,1341,1341,Lindsey Thall made Layup.,19,28,-9,26,0.21477978022770267,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Kent State
+172,2,1:55,1315,1315,Areanna Combs made Jumper.,19,30,-11,17,0.16764404155869447,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+173,2,1:38,1298,1298,Foul on Juanita Agosto.,19,30,-11,4,0.16595248532031862,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+174,2,1:34,1294,1294,Foul on Areanna Combs.,19,30,-11,0,0.1655479877779725,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+175,2,1:34,1294,1294,Lindsey Thall missed Free Throw.,19,30,-11,0,0.1655479877779725,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+176,2,1:34,1294,1294,Kent State Deadball Team Rebound.,19,30,-11,0,0.1655479877779725,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+177,2,1:34,1294,1294,Lindsey Thall missed Free Throw.,19,30,-11,0,0.1655479877779725,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+178,2,1:34,1294,1294,Eastern Michigan Deadball Team Rebound.,19,30,-11,0,0.1655479877779725,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+179,2,1:34,1294,1294,Foul on Nila Blackford.,19,30,-11,0,0.1655479877779725,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+180,2,1:34,1294,1294,Kiara Johnson made Free Throw.,19,31,-12,0,0.1462200432148105,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+181,2,1:34,1294,1294,Kiara Johnson made Free Throw.,19,32,-13,12,0.12880035377282795,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+182,2,1:22,1282,1282,Foul on Monique Smith.,19,32,-13,0,0.1276195798240668,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+183,2,1:22,1282,1282,Monique Smith Turnover.,19,32,-13,12,0.1276195798240668,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+184,2,1:10,1270,1270,Courtnie Lewis made Layup.,19,34,-15,11,0.09704891344099233,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Eastern Michigan
+185,2,0:59,1259,1259,Lindsey Thall missed Three Point Jumper.,19,34,-15,2,0.09601219706811474,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+186,2,0:57,1257,1257,Clare Kelly Offensive Rebound.,19,34,-15,3,0.09582118502334606,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+187,2,0:54,1254,1254,Foul on Aaliyah Stanley.,19,34,-15,12,0.09553313931561862,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+188,2,0:42,1242,1242,Megan Carter missed Jumper.,19,34,-15,3,0.09436170777555276,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+189,2,0:39,1239,1239,Clare Kelly Offensive Rebound.,19,34,-15,9,0.09406380224121023,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+190,2,0:30,1230,1230,Mariah Modkins made Three Point Jumper.,22,34,-12,24,0.13936859704752375,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,Kent State
+191,2,0:06,1206,1206,Kiara Johnson Turnover.,22,34,-12,4,0.1365030652720436,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+192,2,0:02,1202,1202,Megan Carter missed Three Point Jumper.,22,34,-12,2,0.13602212079268064,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+193,2,0:00,1200,1200,Eastern Michigan Deadball Team Rebound.,22,34,-12,0,0.13578366491085198,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+194,2,0:00,1200,1200,End of 2nd Quarter,22,34,-12,15,0.13578366491085198,Kent State,Eastern Michigan,4,4,0,0,NA,401178993,2020-01-08,
+195,3,9:45,1185,1185,Areanna Combs missed Jumper.,22,34,-12,2,0.13403418025905267,Kent State,Eastern Michigan,5,5,0,0,NA,401178993,2020-01-08,
+196,3,9:43,1183,1183,Katie Shumate Defensive Rebound.,22,34,-12,25,0.13380564256368327,Kent State,Eastern Michigan,5,5,0,0,NA,401178993,2020-01-08,
+197,3,9:18,1158,1158,Megan Carter made Jumper.,24,34,-10,9,0.171274738352052,Kent State,Eastern Michigan,5,5,0,0,NA,401178993,2020-01-08,Kent State
+198,3,9:09,1149,1149,Foul on Asiah Dingle.,24,34,-10,1,0.1702604024722599,Kent State,Eastern Michigan,5,5,0,0,NA,401178993,2020-01-08,
+199,3,9:08,1148,1148,Areanna Combs missed Jumper.,24,34,-10,3,0.17014824729155978,Kent State,Eastern Michigan,5,5,0,0,NA,401178993,2020-01-08,
+200,3,9:05,1145,1145,Kent State Deadball Team Rebound.,24,34,-10,0,0.16981233783769728,Kent State,Eastern Michigan,5,5,0,0,NA,401178993,2020-01-08,
+201,3,9:05,1145,1145,Foul on Aaliyah Stanley.,24,34,-10,21,0.16981233783769728,Kent State,Eastern Michigan,5,5,0,0,NA,401178993,2020-01-08,
+202,3,8:44,1124,1124,Nila Blackford missed Layup.,24,34,-10,3,0.16747619433126848,Kent State,Eastern Michigan,5,5,0,0,NA,401178993,2020-01-08,
+203,3,8:41,1121,1121,Aaliyah Stanley Defensive Rebound.,24,34,-10,5,0.16714339762118857,Kent State,Eastern Michigan,5,5,0,0,NA,401178993,2020-01-08,
+204,3,8:36,1116,1116,Aaliyah Stanley missed Jumper.,24,34,-10,3,0.16658853212738176,Kent State,Eastern Michigan,5,5,0,0,NA,401178993,2020-01-08,
+205,3,8:33,1113,1113,Megan Carter Defensive Rebound.,24,34,-10,6,0.1662553279741805,Kent State,Eastern Michigan,5,5,0,0,NA,401178993,2020-01-08,
+206,3,8:27,1107,1107,Megan Carter Turnover.,24,34,-10,0,0.16558781840047498,Kent State,Eastern Michigan,5,5,0,0,NA,401178993,2020-01-08,
+207,3,8:27,1107,1107,Corrione Cardwell Steal.,24,34,-10,5,0.16558781840047498,Kent State,Eastern Michigan,5,5,0,0,NA,401178993,2020-01-08,
+208,3,8:22,1102,1102,Areanna Combs missed Layup.,24,34,-10,3,0.16502997487734228,Kent State,Eastern Michigan,5,5,0,0,NA,401178993,2020-01-08,
+209,3,8:19,1099,1099,Megan Carter Defensive Rebound.,24,34,-10,0,0.16469437642768128,Kent State,Eastern Michigan,5,5,0,0,NA,401178993,2020-01-08,
+210,3,8:19,1099,1099,Foul on Autumn Hudson.,24,34,-10,19,0.16469437642768128,Kent State,Eastern Michigan,5,5,0,0,NA,401178993,2020-01-08,
+211,3,8:00,1080,1080,Katie Shumate made Layup.,26,34,-8,1,0.21223265686905093,Kent State,Eastern Michigan,5,5,0,0,NA,401178993,2020-01-08,Kent State
+212,3,7:59,1079,1079,Kent State  Timeout,26,34,-8,0,0.21212028475789782,Kent State,Eastern Michigan,4,5,1,0,NA,401178993,2020-01-08,
+213,3,7:59,1079,1079,Official TV Timeout,26,34,-8,16,0.21212028475789782,Kent State,Eastern Michigan,4,5,1,0,NA,401178993,2020-01-08,
+214,3,7:43,1063,1063,Jenna Annecchiarico made Three Point Jumper. Assisted by Juanita Agosto.,26,37,-11,21,0.13951583341639942,Kent State,Eastern Michigan,4,5,1,0,NA,401178993,2020-01-08,Eastern Michigan
+215,3,7:22,1042,1042,Asiah Dingle Turnover.,26,37,-11,13,0.1370541941519347,Kent State,Eastern Michigan,4,5,1,0,NA,401178993,2020-01-08,
+216,3,7:09,1029,1029,Autumn Hudson made Layup.,26,39,-13,0,0.10061890615679317,Kent State,Eastern Michigan,4,5,1,0,NA,401178993,2020-01-08,Eastern Michigan
+217,3,7:09,1029,1029,Foul on Lindsey Thall.,26,39,-13,0,0.10061890615679317,Kent State,Eastern Michigan,4,5,1,0,NA,401178993,2020-01-08,
+218,3,7:09,1029,1029,Autumn Hudson made Free Throw.,26,40,-14,18,0.08636438636165068,Kent State,Eastern Michigan,4,5,1,0,NA,401178993,2020-01-08,Eastern Michigan
+219,3,6:51,1011,1011,Nila Blackford missed Layup.,26,40,-14,2,0.08442587685626364,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+220,3,6:49,1009,1009,Juanita Agosto Defensive Rebound.,26,40,-14,4,0.08420573484665342,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+221,3,6:45,1005,1005,Foul on Kiara Johnson.,26,40,-14,0,0.0837624287970612,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+222,3,6:45,1005,1005,Kiara Johnson Turnover.,26,40,-14,24,0.0837624287970612,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+223,3,6:21,981,981,Megan Carter made Jumper.,28,40,-12,10,0.11088681933050519,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Kent State
+224,3,6:11,971,971,Foul on Nila Blackford.,28,40,-12,0,0.10952934715669609,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+225,3,6:11,971,971,Areanna Combs missed Free Throw.,28,40,-12,0,0.10952934715669609,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+226,3,6:11,971,971,Eastern Michigan Deadball Team Rebound.,28,40,-12,0,0.10952934715669609,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+227,3,6:11,971,971,Areanna Combs made Free Throw.,28,41,-13,26,0.09362230672823364,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Eastern Michigan
+228,3,5:45,945,945,Foul on Juanita Agosto.,28,41,-13,0,0.0905039266346049,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+229,3,5:45,945,945,Megan Carter made Free Throw.,29,41,-12,0,0.10621521578228053,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Kent State
+230,3,5:45,945,945,Megan Carter made Free Throw.,30,41,-11,7,0.12428124992229447,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Kent State
+231,3,5:38,938,938,Corrione Cardwell missed Layup.,30,41,-11,1,0.12343521247143939,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+232,3,5:37,937,937,Kiara Johnson Offensive Rebound.,30,41,-11,0,0.12331696110033982,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+233,3,5:37,937,937,Foul on Katie Shumate.,30,41,-11,0,0.12331696110033982,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+234,3,5:37,937,937,Kiara Johnson missed Free Throw.,30,41,-11,0,0.12331696110033982,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+235,3,5:37,937,937,Eastern Michigan Deadball Team Rebound.,30,41,-11,0,0.12331696110033982,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+236,3,5:37,937,937,Kiara Johnson made Free Throw.,30,42,-12,24,0.10529807212185374,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Eastern Michigan
+237,3,5:13,913,913,Foul on Kiara Johnson.,30,42,-12,0,0.10275694996171705,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+238,3,5:13,913,913,Megan Carter missed Free Throw.,30,42,-12,0,0.10275694996171705,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+239,3,5:13,913,913,Kent State Deadball Team Rebound.,30,42,-12,0,0.10275694996171705,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+240,3,5:13,913,913,Megan Carter made Free Throw.,31,42,-11,14,0.1206403391386497,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Kent State
+241,3,4:59,899,899,Areanna Combs missed Layup.,31,42,-11,2,0.11918627713786578,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+242,3,4:57,897,897,Lindsey Thall Defensive Rebound.,31,42,-11,3,0.11898286842102809,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+243,3,4:54,894,894,Lindsey Thall Turnover.,31,42,-11,0,0.11867931658150183,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+244,3,4:54,894,894,Areanna Combs Steal.,31,42,-11,5,0.11867931658150183,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+245,3,4:49,889,889,Areanna Combs missed Layup.,31,42,-11,2,0.11817692420532905,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+246,3,4:47,887,887,Mariah Modkins Defensive Rebound.,31,42,-11,4,0.11797698118266753,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+247,3,4:43,883,883,Lindsey Thall missed Three Point Jumper.,31,42,-11,4,0.11757842142783673,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+248,3,4:39,879,879,Juanita Agosto Defensive Rebound.,31,42,-11,5,0.11718113623466345,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+249,3,4:34,874,874,Foul on Clare Kelly.,31,42,-11,0,0.1166854291499573,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+250,3,4:34,874,874,Official TV Timeout,31,42,-11,0,0.1166854291499573,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+251,3,4:34,874,874,Corrione Cardwell missed Free Throw.,31,42,-11,0,0.1166854291499573,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+252,3,4:34,874,874,Eastern Michigan Deadball Team Rebound.,31,42,-11,0,0.1166854291499573,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+253,3,4:34,874,874,Corrione Cardwell made Free Throw.,31,43,-12,13,0.09901494506211755,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Eastern Michigan
+254,3,4:21,861,861,Lindsey Thall made Three Point Jumper. Assisted by Megan Carter.,34,43,-9,19,0.15889564533378892,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Kent State
+255,3,4:02,842,842,Kiara Johnson Turnover.,34,43,-9,0,0.15682549888046834,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+256,3,4:02,842,842,Megan Carter Steal.,34,43,-9,9,0.15682549888046834,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+257,3,3:53,833,833,Lindsey Thall missed Three Point Jumper.,34,43,-9,3,0.15580832312914358,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+258,3,3:50,830,830,Jenna Annecchiarico Defensive Rebound.,34,43,-9,10,0.15546238433409912,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+259,3,3:40,820,820,Foul on Mariah Modkins.,34,43,-9,0,0.1542802920552979,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+260,3,3:40,820,820,Corrione Cardwell made Free Throw.,34,44,-10,0,0.13119165407103744,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Eastern Michigan
+261,3,3:40,820,820,Corrione Cardwell made Free Throw.,34,45,-11,10,0.11110438725747655,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Eastern Michigan
+262,3,3:30,810,810,Foul on Corrione Cardwell.,34,45,-11,0,0.10996502255757723,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+263,3,3:30,810,810,Lindsey Thall made Free Throw.,35,45,-10,0,0.12999549800144533,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Kent State
+264,3,3:30,810,810,Lindsey Thall made Free Throw.,36,45,-9,8,0.15304718521440328,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Kent State
+265,3,3:22,802,802,Aaliyah Stanley made Three Point Jumper. Assisted by Corrione Cardwell.,36,48,-12,30,0.09180359672543724,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Eastern Michigan
+266,3,2:52,772,772,Foul on Lindsey Thall.,36,48,-12,0,0.08815171795694765,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+267,3,2:52,772,772,Lindsey Thall Turnover.,36,48,-12,11,0.08815171795694765,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+268,3,2:41,761,761,Courtnie Lewis made Three Point Jumper. Assisted by Aaliyah Stanley.,36,51,-15,5,0.050031010493954274,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Eastern Michigan
+269,3,2:36,756,756,Kent State  Timeout,36,51,-15,17,0.04950365195860348,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,
+270,3,2:19,739,739,Foul on Autumn Hudson.,36,51,-15,0,0.04761647723255377,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,
+271,3,2:19,739,739,Asiah Dingle made Free Throw.,37,51,-14,0,0.05753693241081017,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,Kent State
+272,3,2:19,739,739,Asiah Dingle made Free Throw.,38,51,-13,11,0.06937367043775679,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,Kent State
+273,3,2:08,728,728,Jenna Annecchiarico missed Three Point Jumper.,38,51,-13,4,0.06776984903450589,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,
+274,3,2:04,724,724,Jenna Annecchiarico Offensive Rebound.,38,51,-13,4,0.067198128165136,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,
+275,3,2:00,720,720,Aaliyah Stanley made Three Point Jumper. Assisted by Areanna Combs.,38,54,-16,13,0.037382851219106485,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,Eastern Michigan
+276,3,1:47,707,707,Foul on Jenna Annecchiarico.,38,54,-16,0,0.03620586637953748,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,
+277,3,1:47,707,707,Nila Blackford missed Free Throw.,38,54,-16,0,0.03620586637953748,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,
+278,3,1:47,707,707,Kent State Deadball Team Rebound.,38,54,-16,0,0.03620586637953748,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,
+279,3,1:47,707,707,Nila Blackford made Free Throw.,39,54,-15,6,0.044084847707566224,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,Kent State
+280,3,1:41,701,701,Courtnie Lewis Turnover.,39,54,-15,12,0.04351821460860059,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,
+281,3,1:29,689,689,Katie Shumate missed Jumper.,39,54,-15,3,0.04245555449996635,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+282,3,1:26,686,686,Eastern Michigan Defensive Rebound.,39,54,-15,11,0.04220200861799226,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+283,3,1:15,675,675,Kiara Johnson missed Layup.,39,54,-15,0,0.04130348990096639,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+284,3,1:15,675,675,Lindsey Thall Block.,39,54,-15,4,0.04130348990096639,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+285,3,1:11,671,671,Areanna Combs Offensive Rebound.,39,54,-15,0,0.040986257323481746,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+286,3,1:11,671,671,Areanna Combs missed Layup.,39,54,-15,0,0.040986257323481746,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+287,3,1:11,671,671,Kiara Johnson Offensive Rebound.,39,54,-15,0,0.040986257323481746,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+288,3,1:11,671,671,Foul on Kiara Johnson.,39,54,-15,0,0.040986257323481746,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+289,3,1:11,671,671,Kiara Johnson Turnover.,39,54,-15,14,0.040986257323481746,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+290,3,0:57,657,657,Nila Blackford missed Layup.,39,54,-15,3,0.039899015073889904,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+291,3,0:54,654,654,Kiara Johnson Defensive Rebound.,39,54,-15,14,0.039668375282892306,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+292,3,0:40,640,640,Foul on Areanna Combs.,39,54,-15,0,0.03858794542674508,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+293,3,0:40,640,640,Areanna Combs Turnover.,39,54,-15,13,0.03858794542674508,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+294,3,0:27,627,627,Katie Shumate made Jumper. Assisted by Lindsey Thall.,41,54,-13,25,0.05672805927555917,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,Kent State
+295,3,0:02,602,602,Areanna Combs missed Layup.,41,54,-13,0,0.053983405093642564,Kent State,Eastern Michigan,3,5,0,1,NA,401178993,2020-01-08,
+296,3,0:02,602,602,Lindsey Thall Block.,41,54,-13,0,0.053983405093642564,Kent State,Eastern Michigan,3,5,0,1,NA,401178993,2020-01-08,
+297,3,0:02,602,602,Eastern Michigan Offensive Rebound.,41,54,-13,0,0.053983405093642564,Kent State,Eastern Michigan,3,5,0,1,NA,401178993,2020-01-08,
+298,3,0:02,602,602,Eastern Michigan  Timeout,41,54,-13,2,0.053983405093642564,Kent State,Eastern Michigan,3,4,0,1,NA,401178993,2020-01-08,
+299,3,0:00,600,600,Aaliyah Stanley missed Jumper.,41,54,-13,0,0.05374768640643379,Kent State,Eastern Michigan,3,4,0,1,NA,401178993,2020-01-08,
+300,3,0:00,600,600,Kent State Deadball Team Rebound.,41,54,-13,0,0.05374768640643379,Kent State,Eastern Michigan,3,4,0,1,NA,401178993,2020-01-08,
+301,3,0:00,600,600,End of 3rd Quarter,41,54,-13,25,0.05374768640643379,Kent State,Eastern Michigan,3,4,0,1,NA,401178993,2020-01-08,
+302,4,9:35,575,575,Asiah Dingle made Layup.,43,54,-11,0,0.07714512828398887,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Kent State
+303,4,9:35,575,575,Foul on Aaliyah Stanley.,43,54,-11,0,0.07714512828398887,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+304,4,9:35,575,575,Asiah Dingle made Free Throw.,44,54,-10,18,0.09481884924644278,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Kent State
+305,4,9:17,557,557,Autumn Hudson made Layup.,44,56,-12,16,0.05955739618608998,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Eastern Michigan
+306,4,9:01,541,541,Megan Carter Turnover.,44,56,-12,0,0.05676045484275684,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+307,4,9:01,541,541,Jenna Annecchiarico Steal.,44,56,-12,21,0.05676045484275684,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+308,4,8:40,520,520,Areanna Combs missed Jumper.,44,56,-12,3,0.053790063358492145,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+309,4,8:37,517,517,Nila Blackford Defensive Rebound.,44,56,-12,21,0.05341371685269095,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+310,4,8:16,496,496,Nila Blackford Turnover.,44,56,-12,0,0.05091628664178809,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+311,4,8:16,496,496,Juanita Agosto Steal.,44,56,-12,7,0.05091628664178809,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+312,4,8:09,489,489,Foul on Asiah Dingle.,44,56,-12,7,0.05008950667555812,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+313,4,8:02,482,482,Foul on Nila Blackford.,44,56,-12,0,0.04924088524474101,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+314,4,8:02,482,482,Corrione Cardwell made Free Throw.,44,57,-13,0,0.038893883446232576,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Eastern Michigan
+315,4,8:02,482,482,Corrione Cardwell made Free Throw.,44,58,-14,16,0.030651006748677618,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Eastern Michigan
+316,4,7:46,466,466,Foul on Corrione Cardwell.,44,58,-14,4,0.029109273757277822,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+317,4,7:42,462,462,Foul on Corrione Cardwell.,44,58,-14,0,0.028692910116469707,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+318,4,7:42,462,462,Foul on Courtnie Lewis.,44,58,-14,11,0.028692910116469707,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+319,4,7:31,451,451,Katie Shumate missed Layup.,44,58,-14,0,0.027467694758238025,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+320,4,7:31,451,451,Katie Shumate Offensive Rebound.,44,58,-14,0,0.027467694758238025,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+321,4,7:31,451,451,Foul on Juanita Agosto.,44,58,-14,0,0.027467694758238025,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+322,4,7:31,451,451,Katie Shumate made Free Throw.,45,58,-13,0,0.0351579153469215,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Kent State
+323,4,7:31,451,451,Katie Shumate made Free Throw.,46,58,-12,19,0.04490178567568887,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,Kent State
+324,4,7:12,432,432,Foul on Aaliyah Stanley.,46,58,-12,0,0.04152713704484094,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+325,4,7:12,432,432,Aaliyah Stanley Turnover.,46,58,-12,17,0.04152713704484094,Kent State,Eastern Michigan,4,5,0,0,NA,401178993,2020-01-08,
+326,4,6:55,415,415,Lindsey Thall made Three Point Jumper. Assisted by Clare Kelly.,49,58,-9,0,0.08200543515309508,Kent State,Eastern Michigan,4,5,1,0,NA,401178993,2020-01-08,Kent State
+327,4,6:55,415,415,Kent State  Timeout,49,58,-9,0,0.08200543515309508,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,
+328,4,6:55,415,415,Official TV Timeout,49,58,-9,11,0.08200543515309508,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,
+329,4,6:44,404,404,Jenna Annecchiarico Turnover.,49,58,-9,0,0.07927472768869458,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,
+330,4,6:44,404,404,Clare Kelly Steal.,49,58,-9,15,0.07927472768869458,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,
+331,4,6:29,389,389,Foul on Natalia Pineda.,49,58,-9,0,0.07575968090069773,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,
+332,4,6:29,389,389,Mariah Modkins made Free Throw.,50,58,-8,0,0.09766241735032152,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,Kent State
+333,4,6:29,389,389,Mariah Modkins made Free Throw.,51,58,-7,16,0.1250407191385775,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,Kent State
+334,4,6:13,373,373,Foul on Clare Kelly.,51,58,-7,0,0.12049839667325811,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,
+335,4,6:13,373,373,Natalia Pineda made Free Throw.,51,59,-8,0,0.09349583045879067,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,Eastern Michigan
+336,4,6:13,373,373,Natalia Pineda missed Free Throw.,51,59,-8,0,0.09349583045879067,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,
+337,4,6:13,373,373,Eastern Michigan Deadball Team Rebound.,51,59,-8,0,0.09349583045879067,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,
+338,4,6:13,373,373,Natalia Pineda made Free Throw.,51,60,-9,17,0.07204858879087572,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,Eastern Michigan
+339,4,5:56,356,356,Katie Shumate missed Layup.,51,60,-9,2,0.06790287212326218,Kent State,Eastern Michigan,3,5,1,0,NA,401178993,2020-01-08,
+340,4,5:54,354,354,Areanna Combs Defensive Rebound.,51,60,-9,12,0.06739133071295852,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+341,4,5:42,342,342,Courtnie Lewis missed Three Point Jumper.,51,60,-9,6,0.06418577117816054,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+342,4,5:36,336,336,Autumn Hudson Offensive Rebound.,51,60,-9,2,0.06248555880900271,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+343,4,5:34,334,334,Courtnie Lewis missed Three Point Jumper.,51,60,-9,5,0.06190322823997354,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+344,4,5:29,329,329,Jenna Annecchiarico Offensive Rebound.,51,60,-9,16,0.06041214522737255,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+345,4,5:13,313,313,Foul on Lindsey Thall.,51,60,-9,0,0.05529332422453762,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+346,4,5:13,313,313,Jenna Annecchiarico made Free Throw.,51,61,-10,0,0.04095043460047808,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,Eastern Michigan
+347,4,5:13,313,313,Jenna Annecchiarico made Free Throw.,51,62,-11,23,0.03020906805098781,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,Eastern Michigan
+348,4,4:50,290,290,Megan Carter missed Jumper.,51,62,-11,3,0.027305890336933546,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+349,4,4:47,287,287,Areanna Combs Defensive Rebound.,51,62,-11,11,0.027297147723364622,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+350,4,4:36,276,276,Areanna Combs Turnover.,51,62,-11,13,0.027725833980274308,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+351,4,4:23,263,263,Foul on Juanita Agosto.,51,62,-11,0,0.028815353869385624,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+352,4,4:23,263,263,Megan Carter made Free Throw.,52,62,-10,0,0.0392476284289525,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,Kent State
+353,4,4:23,263,263,Megan Carter made Free Throw.,53,62,-9,8,0.05324970519085232,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,Kent State
+354,4,4:15,255,255,Foul on Katie Shumate.,53,62,-9,0,0.05435432852077669,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+355,4,4:15,255,255,Areanna Combs made Free Throw.,53,63,-10,0,0.04016693577731009,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,Eastern Michigan
+356,4,4:15,255,255,Areanna Combs made Free Throw.,53,64,-11,18,0.029566906860700525,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,Eastern Michigan
+357,4,3:57,237,237,Katie Shumate made Three Point Jumper. Assisted by Asiah Dingle.,56,64,-8,16,0.07490763965202536,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,Kent State
+358,4,3:41,221,221,Areanna Combs missed Jumper.,56,64,-8,5,0.07309533058922396,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+359,4,3:36,216,216,Autumn Hudson Offensive Rebound.,56,64,-8,0,0.0715701992597709,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+360,4,3:36,216,216,Autumn Hudson made Layup.,56,66,-10,29,0.03903347377135986,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,Eastern Michigan
+361,4,3:07,187,187,Lindsey Thall missed Three Point Jumper.,56,66,-10,2,0.026324657486953524,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+362,4,3:05,185,185,Autumn Hudson Defensive Rebound.,56,66,-10,25,0.0252740881857899,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+363,4,2:40,160,160,Courtnie Lewis made Jumper.,56,68,-12,12,0.006440085299329203,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,Eastern Michigan
+364,4,2:28,148,148,Foul on Jenna Annecchiarico.,56,68,-12,0,0.004541716701944837,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+365,4,2:28,148,148,Asiah Dingle made Free Throw.,57,68,-11,0,0.007098556392894268,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,Kent State
+366,4,2:28,148,148,Asiah Dingle made Free Throw.,58,68,-10,7,0.011078794404880491,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,Kent State
+367,4,2:21,141,141,Areanna Combs Turnover.,58,68,-10,0,0.009228124666887563,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+368,4,2:21,141,141,Lindsey Thall Steal.,58,68,-10,8,0.009228124666887563,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+369,4,2:13,133,133,Katie Shumate missed Three Point Jumper.,58,68,-10,3,0.00737288640387606,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+370,4,2:10,130,130,Autumn Hudson Defensive Rebound.,58,68,-10,3,0.006745466963387151,Kent State,Eastern Michigan,3,5,0,0,NA,401178993,2020-01-08,
+371,4,2:07,127,127,Areanna Combs made Layup. Assisted by Jenna Annecchiarico.,58,70,-12,0,0.002234827734511129,Kent State,Eastern Michigan,3,5,0,1,NA,401178993,2020-01-08,Eastern Michigan
+372,4,2:07,127,127,Eastern Michigan  Timeout,58,70,-12,7,0.002234827734511129,Kent State,Eastern Michigan,3,4,0,1,NA,401178993,2020-01-08,
+373,4,2:00,120,120,Foul on Jenna Annecchiarico.,58,70,-12,0,0.001702792455873897,Kent State,Eastern Michigan,3,4,0,1,NA,401178993,2020-01-08,
+374,4,2:00,120,120,Asiah Dingle made Free Throw.,59,70,-11,0,0.002892800992706497,Kent State,Eastern Michigan,3,4,0,1,NA,401178993,2020-01-08,Kent State
+375,4,2:00,120,120,Asiah Dingle made Free Throw.,60,70,-10,1,0.004910364751980887,Kent State,Eastern Michigan,3,4,0,1,NA,401178993,2020-01-08,Kent State
+376,4,1:59,119,119,Areanna Combs Turnover.,60,70,-10,0,0.00474782261987619,Kent State,Eastern Michigan,3,4,0,1,NA,401178993,2020-01-08,
+377,4,1:59,119,119,Nila Blackford Steal.,60,70,-10,11,0.00474782261987619,Kent State,Eastern Michigan,3,4,0,1,NA,401178993,2020-01-08,
+378,4,1:48,108,108,Nila Blackford made Jumper.,62,70,-8,12,0.010011267976485657,Kent State,Eastern Michigan,3,4,0,1,NA,401178993,2020-01-08,Kent State
+379,4,1:36,96,96,Areanna Combs Turnover.,62,70,-8,0,0.006779889060802842,Kent State,Eastern Michigan,3,4,0,1,NA,401178993,2020-01-08,
+380,4,1:36,96,96,Nila Blackford Steal.,62,70,-8,7,0.006779889060802842,Kent State,Eastern Michigan,3,4,0,1,NA,401178993,2020-01-08,
+381,4,1:29,89,89,Foul on Natalia Pineda.,62,70,-8,0,0.005295957335918741,Kent State,Eastern Michigan,3,4,0,1,NA,401178993,2020-01-08,
+382,4,1:29,89,89,Nila Blackford made Free Throw.,63,70,-7,0,0.010140117645190351,Kent State,Eastern Michigan,3,4,0,1,NA,401178993,2020-01-08,Kent State
+383,4,1:29,89,89,Nila Blackford made Free Throw.,64,70,-6,0,0.019329082611127032,Kent State,Eastern Michigan,3,4,0,1,NA,401178993,2020-01-08,Kent State
+384,4,1:29,89,89,Eastern Michigan  Timeout,64,70,-6,25,0.019329082611127032,Kent State,Eastern Michigan,3,3,0,1,NA,401178993,2020-01-08,
+385,4,1:04,64,64,Areanna Combs missed Jumper.,64,70,-6,5,0.009437026148769456,Kent State,Eastern Michigan,3,3,0,1,NA,401178993,2020-01-08,
+386,4,0:59,59,59,Jenna Annecchiarico Offensive Rebound.,64,70,-6,9,0.008061135560424947,Kent State,Eastern Michigan,3,3,0,1,NA,401178993,2020-01-08,
+387,4,0:50,50,50,Jenna Annecchiarico Turnover.,64,70,-6,0,0.006001627936110177,Kent State,Eastern Michigan,3,3,0,1,NA,401178993,2020-01-08,
+388,4,0:50,50,50,Megan Carter Steal.,64,70,-6,4,0.006001627936110177,Kent State,Eastern Michigan,3,3,0,1,NA,401178993,2020-01-08,
+389,4,0:46,46,46,Megan Carter made Layup.,66,70,-4,13,0.029372709379556095,Kent State,Eastern Michigan,3,3,0,1,NA,401178993,2020-01-08,Kent State
+390,4,0:33,33,33,Foul on Megan Carter.,66,70,-4,0,0.02165953096422114,Kent State,Eastern Michigan,3,3,0,1,NA,401178993,2020-01-08,
+391,4,0:33,33,33,Areanna Combs made Free Throw.,66,71,-5,0,0.008467510346093162,Kent State,Eastern Michigan,3,3,0,1,NA,401178993,2020-01-08,Eastern Michigan
+392,4,0:33,33,33,Areanna Combs made Free Throw.,66,72,-6,7,0.0032832978313005116,Kent State,Eastern Michigan,3,3,0,1,NA,401178993,2020-01-08,Eastern Michigan
+393,4,0:26,26,26,Asiah Dingle Turnover.,66,72,-6,0,0.002521644151339779,Kent State,Eastern Michigan,3,3,0,0,NA,401178993,2020-01-08,
+394,4,0:26,26,26,Areanna Combs Steal.,66,72,-6,12,0.002521644151339779,Kent State,Eastern Michigan,3,3,0,0,NA,401178993,2020-01-08,
+395,4,0:14,14,14,Areanna Combs Turnover.,66,72,-6,0,0.001567758667046619,Kent State,Eastern Michigan,3,3,0,0,NA,401178993,2020-01-08,
+396,4,0:14,14,14,Katie Shumate missed Jumper.,66,72,-6,3,0.001567758667046619,Kent State,Eastern Michigan,3,3,0,0,NA,401178993,2020-01-08,
+397,4,0:11,11,11,Eastern Michigan Defensive Rebound.,66,72,-6,0,0.0013835869582565457,Kent State,Eastern Michigan,3,3,0,1,NA,401178993,2020-01-08,
+398,4,0:11,11,11,Eastern Michigan  Timeout,66,72,-6,3,0.0013835869582565457,Kent State,Eastern Michigan,3,2,0,1,NA,401178993,2020-01-08,
+399,4,0:08,8,8,Natalia Pineda Turnover.,66,72,-6,0,0.0012185197287773533,Kent State,Eastern Michigan,3,2,0,1,NA,401178993,2020-01-08,
+400,4,0:08,8,8,Asiah Dingle Steal.,66,72,-6,6,0.0012185197287773533,Kent State,Eastern Michigan,3,2,0,1,NA,401178993,2020-01-08,
+401,4,0:02,2,2,Katie Shumate made Three Point Jumper. Assisted by Asiah Dingle.,69,72,-3,1,0.029763475716734225,Kent State,Eastern Michigan,3,2,0,1,NA,401178993,2020-01-08,Kent State
+402,4,0:01,1,1,Foul on Katie Shumate.,69,72,-3,0,0.029136972928700006,Kent State,Eastern Michigan,3,2,1,1,NA,401178993,2020-01-08,
+403,4,0:01,1,1,Jenna Annecchiarico made Free Throw.,69,73,-4,0,0.00924024840272953,Kent State,Eastern Michigan,3,2,1,1,NA,401178993,2020-01-08,Eastern Michigan
+404,4,0:01,1,1,Jenna Annecchiarico made Free Throw.,69,74,-5,0,0.002889929286074279,Kent State,Eastern Michigan,3,2,1,1,NA,401178993,2020-01-08,Eastern Michigan
+405,4,0:01,1,1,Kent State  Timeout,69,74,-5,1,0.002889929286074279,Kent State,Eastern Michigan,2,2,1,1,NA,401178993,2020-01-08,
+406,4,0:00,0,0,End of Game,69,74,-5,0,3.720075976020836e-44,Kent State,Eastern Michigan,2,2,1,1,NA,401178993,2020-01-08,

@@ -1,0 +1,361 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:40,2380,2380,Danni Nichols made Jumper.,0,0,0,17,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,NA
+2,1,9:23,2363,2363,Ryan Cobbins made Jumper.,2,2,0,10,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+3,1,9:13,2353,2353,Olivia Kaufmann missed Jumper.,2,2,0,3,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+4,1,9:10,2350,2350,Cirkeline Rimdal Defensive Rebound.,2,2,0,7,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+5,1,9:03,2343,2343,Sofija Zivaljevic made Jumper.,2,4,-2,14,0.45475749314437386,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+6,1,8:49,2329,2329,Grace Gilmore missed Three Point Jumper.,2,4,-2,3,0.4544521819541921,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+7,1,8:46,2326,2326,Emily Dietz Defensive Rebound.,2,4,-2,16,0.4543864532488971,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+8,1,8:30,2310,2310,Rylee Nudell missed Jumper.,2,4,-2,3,0.4540341708711008,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+9,1,8:27,2307,2307,Danni Nichols Defensive Rebound.,2,4,-2,9,0.4539678046865719,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+10,1,8:18,2298,2298,Foul on Sofija Zivaljevic.,2,4,-2,7,0.45376813915373904,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+11,1,8:11,2291,2291,Carla Flores Turnover.,2,4,-2,0,0.45361227442286206,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+12,1,8:11,2291,2291,Ryan Cobbins Steal.,2,4,-2,8,0.45361227442286206,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+13,1,8:03,2283,2283,Ryan Cobbins Turnover.,2,4,-2,22,0.4534335585723665,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+14,1,7:41,2261,2261,Grace Gilmore missed Layup.,2,4,-2,4,0.4529390880246341,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+15,1,7:37,2257,2257,Emily Dietz Defensive Rebound.,2,4,-2,10,0.4528487422387647,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+16,1,7:27,2247,2247,Rylee Nudell missed Jumper.,2,4,-2,1,0.45262232685875164,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+17,1,7:26,2246,2246,North Dakota State Offensive Rebound.,2,4,-2,6,0.4525996434796062,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+18,1,7:20,2240,2240,Cirkeline Rimdal Turnover.,2,4,-2,0,0.45246338969984234,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+19,1,7:20,2240,2240,Olivia Kaufmann Steal.,2,4,-2,5,0.45246338969984234,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+20,1,7:15,2235,2235,Carla Flores made Jumper.,4,4,0,11,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+21,1,7:04,2224,2224,Foul on Rylee Nudell.,4,4,0,0,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+22,1,7:04,2224,2224,Rylee Nudell Turnover.,4,4,0,5,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+23,1,6:59,2219,2219,Foul on Sofija Zivaljevic.,4,4,0,0,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+24,1,6:59,2219,2219,Olivia Kaufmann missed Free Throw.,4,4,0,0,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+25,1,6:59,2219,2219,Western Illinois Offensive Rebound.,4,4,0,0,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+26,1,6:59,2219,2219,Olivia Kaufmann made Free Throw.,5,4,1,23,0.5240633219767713,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+27,1,6:36,2196,2196,Raquel Terrer van Gool missed Layup.,5,4,1,4,0.5243288962666488,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+28,1,6:32,2192,2192,Grace Gilmore Defensive Rebound.,5,4,1,15,0.5243752261022162,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+29,1,6:17,2177,2177,Evan Zars missed Jumper.,5,4,1,4,0.5245492878304605,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+30,1,6:13,2173,2173,Olivia Kaufmann Offensive Rebound.,5,4,1,3,0.52459578324734,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+31,1,6:10,2170,2170,Foul on Michelle Gaislerova.,5,4,1,0,0.5246306745998974,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+32,1,6:10,2170,2170,Olivia Kaufmann made Free Throw.,6,4,2,0,0.5491420970299754,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+33,1,6:10,2170,2170,Olivia Kaufmann made Free Throw.,7,4,3,23,0.5734173134835795,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+34,1,5:47,2147,2147,Michelle Gaislerova made Three Point Jumper. Assisted by Ryan Cobbins.,7,7,0,8,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+35,1,5:39,2139,2139,Danni Nichols Turnover.,7,7,0,7,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+36,1,5:32,2132,2132,Michelle Gaislerova made Jumper.,7,9,-2,19,0.44997467734832597,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+37,1,5:13,2113,2113,Olivia Kaufmann missed Three Point Jumper.,7,9,-2,4,0.4495285832053535,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+38,1,5:09,2109,2109,Raquel Terrer van Gool Defensive Rebound.,7,9,-2,10,0.4494342565459519,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+39,1,4:59,2099,2099,Michelle Gaislerova made Three Point Jumper. Assisted by Nicole Scales.,7,12,-5,22,0.3752448137456224,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+40,1,4:37,2077,2077,Olivia Kaufmann missed Jumper.,7,12,-5,3,0.3740050513742312,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+41,1,4:34,2074,2074,Emily Dietz Defensive Rebound.,7,12,-5,5,0.3738352018041394,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+42,1,4:29,2069,2069,Nicole Scales missed Layup.,7,12,-5,3,0.3735516824011146,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+43,1,4:26,2066,2066,Raquel Terrer van Gool Offensive Rebound.,7,12,-5,0,0.3733813054218805,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+44,1,4:26,2066,2066,Raquel Terrer van Gool made Layup.,7,14,-7,0,0.32632955348106696,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+45,1,4:26,2066,2066,Official TV Timeout,7,14,-7,9,0.32632955348106696,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+46,1,4:17,2057,2057,Olivia Kaufmann made Layup.,9,14,-5,23,0.3728689577927949,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+47,1,3:54,2034,2034,Danneka Voegeli Turnover.,9,14,-5,13,0.3715510164178246,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+48,1,3:41,2021,2021,Evan Zars made Layup.,11,14,-3,13,0.4213410003729196,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+49,1,3:28,2008,2008,Michelle Gaislerova missed Jumper.,11,14,-3,1,0.42086747872845764,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+50,1,3:27,2007,2007,Evan Zars Defensive Rebound.,11,14,-3,0,0.42083092782814446,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+51,1,3:27,2007,2007,Foul on Danneka Voegeli.,11,14,-3,0,0.42083092782814446,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+52,1,3:27,2007,2007,Evan Zars made Free Throw.,12,14,-2,0,0.4469729450400265,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+53,1,3:27,2007,2007,Evan Zars missed Free Throw.,12,14,-2,0,0.4469729450400265,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+54,1,3:27,2007,2007,Danneka Voegeli Defensive Rebound.,12,14,-2,13,0.4469729450400265,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+55,1,3:14,1994,1994,Ryan Cobbins missed Jumper.,12,14,-2,3,0.44665051566184294,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+56,1,3:11,1991,1991,Sam Pryor Defensive Rebound.,12,14,-2,5,0.4465757969664018,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+57,1,3:06,1986,1986,Olivia Kaufmann missed Jumper.,12,14,-2,4,0.4464510012097531,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+58,1,3:02,1982,1982,Danneka Voegeli Defensive Rebound.,12,14,-2,12,0.44635092406702026,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+59,1,2:50,1970,1970,Michelle Gaislerova made Jumper.,12,16,-4,20,0.3933405757191523,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+60,1,2:30,1950,1950,Evan Zars made Layup.,14,16,-2,14,0.4455423475571626,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+61,1,2:16,1936,1936,Ryan Cobbins missed Jumper.,14,16,-2,4,0.4451839672547419,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+62,1,2:12,1932,1932,Sam Pryor Defensive Rebound.,14,16,-2,9,0.445081035511181,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+63,1,2:03,1923,1923,Evan Zars missed Jumper.,14,16,-2,0,0.4448490488474231,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+64,1,2:03,1923,1923,North Dakota State Defensive Rebound.,14,16,-2,14,0.4448490488474231,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+65,1,1:49,1909,1909,Michelle Gaislerova Turnover.,14,16,-2,0,0.44448878225763816,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+66,1,1:49,1909,1909,Grace Gilmore Steal.,14,16,-2,13,0.44448878225763816,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+67,1,1:36,1896,1896,Evan Zars made Three Point Jumper. Assisted by Olivia Kaufmann.,17,16,1,13,0.528010304397139,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+68,1,1:23,1883,1883,Michelle Gaislerova made Jumper.,17,18,-1,17,0.47182106150439523,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+69,1,1:06,1866,1866,Grace Gilmore made Three Point Jumper. Assisted by Olivia Kaufmann.,20,18,2,10,0.5566168271252337,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+70,1,0:56,1856,1856,Foul on Emily Dietz.,20,18,2,0,0.5568746554814731,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+71,1,0:56,1856,1856,Emily Dietz Turnover.,20,18,2,6,0.5568746554814731,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+72,1,0:50,1850,1850,Olivia Kaufmann Turnover.,20,18,2,0,0.5570296260454703,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+73,1,0:50,1850,1850,Michelle Gaislerova Steal.,20,18,2,0,0.5570296260454703,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+74,1,0:50,1850,1850,Nicole Scales made Layup.,20,20,0,41,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+75,1,0:09,1809,1809,Olivia Kaufmann missed Layup.,20,20,0,3,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+76,1,0:06,1806,1806,Cirkeline Rimdal Defensive Rebound.,20,20,0,6,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+77,1,0:00,1800,1800,End of 1st Quarter,20,20,0,8,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+78,2,9:52,1792,1792,Olivia Kaufmann missed Layup.,20,20,0,3,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+79,2,9:49,1789,1789,Emily Dietz Defensive Rebound.,20,20,0,8,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+80,2,9:41,1781,1781,Ryan Cobbins made Jumper.,20,22,-2,22,0.4411622260475722,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+81,2,9:19,1759,1759,Sam Pryor made Three Point Jumper.,23,22,1,16,0.5298203419958217,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+82,2,9:03,1743,1743,Nicole Scales Turnover.,23,22,1,0,0.5300409046759667,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+83,2,9:03,1743,1743,Olivia Kaufmann Steal.,23,22,1,7,0.5300409046759667,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+84,2,8:56,1736,1736,Danni Nichols made Layup. Assisted by Olivia Kaufmann.,25,22,3,26,0.5895484487029247,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+85,2,8:30,1710,1710,Michelle Gaislerova missed Three Point Jumper.,25,22,3,0,0.5906188736477281,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+86,2,8:30,1710,1710,Western Illinois Defensive Rebound.,25,22,3,17,0.5906188736477281,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+87,2,8:13,1693,1693,Olivia Kaufmann missed Layup.,25,22,3,0,0.5913334476957056,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+88,2,8:13,1693,1693,Cirkeline Rimdal Block.,25,22,3,7,0.5913334476957056,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+89,2,8:06,1686,1686,Olivia Kaufmann Offensive Rebound.,25,22,3,0,0.591630445559408,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+90,2,8:06,1686,1686,Olivia Kaufmann made Layup.,27,22,5,10,0.64972927692674,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+91,2,7:56,1676,1676,Cirkeline Rimdal missed Jumper.,27,22,5,0,0.6503874541020207,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+92,2,7:56,1676,1676,Evan Zars Defensive Rebound.,27,22,5,0,0.6503874541020207,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+93,2,7:56,1676,1676,Foul on Rylee Nudell.,27,22,5,17,0.6503874541020207,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+94,2,7:39,1659,1659,Carla Flores missed Three Point Jumper.,27,22,5,3,0.6514847674055738,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+95,2,7:36,1656,1656,Ryan Cobbins Defensive Rebound.,27,22,5,6,0.6516759707504919,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+96,2,7:30,1650,1650,Foul on Evan Zars.,27,22,5,0,0.6520564781332344,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+97,2,7:30,1650,1650,Nicole Scales made Free Throw.,27,23,4,1,0.623040273662221,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+98,2,7:29,1649,1649,Nicole Scales missed Free Throw.,27,23,4,1,0.6230926020775627,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+99,2,7:28,1648,1648,Evan Zars Defensive Rebound.,27,23,4,8,0.6231448800842986,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+100,2,7:20,1640,1640,Carla Flores missed Three Point Jumper.,27,23,4,3,0.623561414496997,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+101,2,7:17,1637,1637,Danni Nichols Offensive Rebound.,27,23,4,10,0.623716909221895,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+102,2,7:07,1627,1627,Carla Flores missed Layup.,27,23,4,3,0.6242329183372235,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+103,2,7:04,1624,1624,Michelle Gaislerova Defensive Rebound.,27,23,4,10,0.6243871371276062,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+104,2,6:54,1614,1614,Raquel Terrer van Gool made Layup. Assisted by Emily Dietz.,27,25,2,20,0.5634557355551298,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+105,2,6:34,1594,1594,Olivia Kaufmann missed Three Point Jumper.,27,25,2,3,0.5639922286023842,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+106,2,6:31,1591,1591,Emily Dietz Defensive Rebound.,27,25,2,15,0.5640727541160789,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+107,2,6:16,1576,1576,Raquel Terrer van Gool made Jumper. Assisted by Ryan Cobbins.,27,27,0,21,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+108,2,5:55,1555,1555,Evan Zars missed Jumper.,27,27,0,0,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+109,2,5:55,1555,1555,Western Illinois Offensive Rebound.,27,27,0,0,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+110,2,5:55,1555,1555,Foul on Nicole Scales.,27,27,0,19,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+111,2,5:36,1536,1536,Grace Gilmore missed Three Point Jumper.,27,27,0,3,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+112,2,5:33,1533,1533,Emily Dietz Defensive Rebound.,27,27,0,6,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+113,2,5:27,1527,1527,Ryan Cobbins made Three Point Jumper. Assisted by Nicole Scales.,27,30,-3,13,0.40196816700300636,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+114,2,5:14,1514,1514,Evan Zars missed Layup.,27,30,-3,0,0.4014218345030141,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+115,2,5:14,1514,1514,Emily Dietz Block.,27,30,-3,6,0.4014218345030141,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+116,2,5:08,1508,1508,Nicole Scales Defensive Rebound.,27,30,-3,6,0.4011658321658603,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+117,2,5:02,1502,1502,Ryan Cobbins missed Layup.,27,30,-3,2,0.4009071629145014,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+118,2,5:00,1500,1500,North Dakota State Offensive Rebound.,27,30,-3,4,0.4008203178416517,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+119,2,4:56,1496,1496,Raquel Terrer van Gool missed Jumper.,27,30,-3,5,0.4006456570168192,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+120,2,4:51,1491,1491,Danneka Voegeli Offensive Rebound.,27,30,-3,1,0.4004254462216812,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+121,2,4:50,1490,1490,Danneka Voegeli Turnover.,27,30,-3,0,0.4003811449176373,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+122,2,4:50,1490,1490,Elizabeth Lutz Steal.,27,30,-3,12,0.4003811449176373,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+123,2,4:38,1478,1478,Carla Flores made Jumper.,29,30,-1,13,0.4662081141405863,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+124,2,4:25,1465,1465,Foul on Carla Flores.,29,30,-1,0,0.4660008262274409,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+125,2,4:25,1465,1465,Official TV Timeout,29,30,-1,0,0.4660008262274409,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+126,2,4:25,1465,1465,Michelle Gaislerova made Free Throw.,29,31,-2,0,0.43231461446657493,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+127,2,4:25,1465,1465,Michelle Gaislerova made Free Throw.,29,32,-3,8,0.3992429085858029,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+128,2,4:17,1457,1457,Foul on Nicole Scales.,29,32,-3,0,0.39886503333735746,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+129,2,4:17,1457,1457,Olivia Kaufmann made Free Throw.,30,32,-2,0,0.43205682402042633,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+130,2,4:17,1457,1457,Olivia Kaufmann made Free Throw.,31,32,-1,17,0.465870125015106,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+131,2,4:00,1440,1440,Nicole Scales missed Three Point Jumper.,31,32,-1,0,0.46558773330647796,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+132,2,4:00,1440,1440,Raquel Terrer van Gool Offensive Rebound.,31,32,-1,0,0.46558773330647796,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+133,2,4:00,1440,1440,Foul on Evan Zars.,31,32,-1,0,0.46558773330647796,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+134,2,4:00,1440,1440,Raquel Terrer van Gool missed Free Throw.,31,32,-1,0,0.46558773330647796,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+135,2,4:00,1440,1440,North Dakota State Offensive Rebound.,31,32,-1,0,0.46558773330647796,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+136,2,4:00,1440,1440,Raquel Terrer van Gool missed Free Throw.,31,32,-1,0,0.46558773330647796,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+137,2,4:00,1440,1440,Olivia Kaufmann Defensive Rebound.,31,32,-1,4,0.46558773330647796,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+138,2,3:56,1436,1436,Olivia Kaufmann Turnover.,31,32,-1,0,0.46552235211869186,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+139,2,3:56,1436,1436,Foul on Carla Flores.,31,32,-1,0,0.46552235211869186,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+140,2,3:56,1436,1436,Raquel Terrer van Gool missed Free Throw.,31,32,-1,0,0.46552235211869186,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+141,2,3:56,1436,1436,North Dakota State Offensive Rebound.,31,32,-1,0,0.46552235211869186,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+142,2,3:56,1436,1436,Raquel Terrer van Gool made Free Throw.,31,33,-2,12,0.4313710235465958,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+143,2,3:44,1424,1424,Elizabeth Lutz made Three Point Jumper. Assisted by Alissa Dins.,34,33,1,24,0.5346707995981218,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+144,2,3:20,1400,1400,Ryan Cobbins missed Three Point Jumper.,34,33,1,4,0.5350464616409591,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+145,2,3:16,1396,1396,Grace Gilmore Defensive Rebound.,34,33,1,3,0.5351080582733805,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+146,2,3:13,1393,1393,Grace Gilmore made Jumper.,36,33,3,15,0.604092467246901,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+147,2,2:58,1378,1378,Foul on Alissa Dins.,36,33,3,0,0.6047528655005592,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+148,2,2:58,1378,1378,Emily Dietz made Free Throw.,36,34,2,0,0.5704136689365977,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+149,2,2:58,1378,1378,Emily Dietz missed Free Throw.,36,34,2,2,0.5704136689365977,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+150,2,2:56,1376,1376,Alissa Dins Defensive Rebound.,36,34,2,13,0.5704736248183312,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+151,2,2:43,1363,1363,Grace Gilmore missed Layup.,36,34,2,4,0.5708630521351009,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+152,2,2:39,1359,1359,Emily Dietz Defensive Rebound.,36,34,2,11,0.5709829838000082,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+153,2,2:28,1348,1348,Michelle Gaislerova missed Three Point Jumper.,36,34,2,1,0.5713137995173716,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+154,2,2:27,1347,1347,Carla Flores Defensive Rebound.,36,34,2,0,0.5713439774811941,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+155,2,2:27,1347,1347,Foul on Ryan Cobbins.,36,34,2,12,0.5713439774811941,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+156,2,2:15,1335,1335,Elizabeth Lutz made Three Point Jumper. Assisted by Grace Gilmore.,39,34,5,31,0.6730601645623122,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+157,2,1:44,1304,1304,Raquel Terrer van Gool made Three Point Jumper. Assisted by Nicole Scales.,39,37,2,10,0.5726746804509937,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+158,2,1:34,1294,1294,Elizabeth Lutz missed Three Point Jumper.,39,37,2,1,0.5729979873928751,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+159,2,1:33,1293,1293,Nicole Scales Defensive Rebound.,39,37,2,0,0.573030700363952,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+160,2,1:33,1293,1293,Foul on Olivia Kaufmann.,39,37,2,0,0.573030700363952,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+161,2,1:33,1293,1293,Nicole Scales made Free Throw.,39,38,1,0,0.536712209743297,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+162,2,1:33,1293,1293,Nicole Scales missed Free Throw.,39,38,1,1,0.536712209743297,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+163,2,1:32,1292,1292,Emily Dietz Offensive Rebound.,39,38,1,20,0.5367288700702502,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+164,2,1:12,1272,1272,Nicole Scales made Jumper.,39,40,-1,15,0.4629292936771474,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+165,2,0:57,1257,1257,Olivia Kaufmann made Layup. Assisted by Danni Nichols.,41,40,1,16,0.5373394095365264,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+166,2,0:41,1241,1241,Emily Dietz made Layup. Assisted by Nicole Scales.,41,42,-1,29,0.4623602696026748,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,North Dakota State
+167,2,0:12,1212,1212,Grace Gilmore missed Layup.,41,42,-1,0,0.46177351257701166,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+168,2,0:12,1212,1212,Olivia Kaufmann Offensive Rebound.,41,42,-1,0,0.46177351257701166,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+169,2,0:12,1212,1212,Foul on Ryan Cobbins.,41,42,-1,0,0.46177351257701166,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+170,2,0:12,1212,1212,Olivia Kaufmann missed Free Throw.,41,42,-1,0,0.46177351257701166,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+171,2,0:12,1212,1212,Western Illinois Offensive Rebound.,41,42,-1,0,0.46177351257701166,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+172,2,0:12,1212,1212,Olivia Kaufmann made Free Throw.,42,42,0,9,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,Western Illinois
+173,2,0:03,1203,1203,Michelle Gaislerova missed Jumper.,42,42,0,3,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+174,2,0:00,1200,1200,Sam Pryor Defensive Rebound.,42,42,0,0,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+175,2,0:00,1200,1200,End of 2nd Quarter,42,42,0,17,0.5,Western Illinois,North Dakota State,4,4,0,0,NA,401179989,2020-02-01,
+176,3,9:43,1183,1183,Emily Dietz missed Layup.,42,42,0,3,0.5,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+177,3,9:40,1180,1180,Evan Zars Defensive Rebound.,42,42,0,13,0.5,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+178,3,9:27,1167,1167,Olivia Kaufmann missed Three Point Jumper.,42,42,0,3,0.5,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+179,3,9:24,1164,1164,Sofija Zivaljevic Defensive Rebound.,42,42,0,22,0.5,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+180,3,9:02,1142,1142,Emily Dietz made Jumper. Assisted by Cirkeline Rimdal.,42,44,-2,16,0.42119556086785487,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,North Dakota State
+181,3,8:46,1126,1126,Grace Gilmore missed Layup.,42,44,-2,3,0.4205768001642287,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+182,3,8:43,1123,1123,Sofija Zivaljevic Defensive Rebound.,42,44,-2,12,0.42046049973461064,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+183,3,8:31,1111,1111,Ryan Cobbins made Jumper.,42,46,-4,0,0.3439811028958127,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,North Dakota State
+184,3,8:31,1111,1111,Foul on Carla Flores.,42,46,-4,0,0.3439811028958127,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+185,3,8:31,1111,1111,Ryan Cobbins made Free Throw.,42,47,-5,12,0.30852937961629484,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,North Dakota State
+186,3,8:19,1099,1099,Grace Gilmore missed Three Point Jumper.,42,47,-5,1,0.3074957538919334,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+187,3,8:18,1098,1098,North Dakota State Defensive Rebound.,42,47,-5,15,0.3074090277157376,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+188,3,8:03,1083,1083,Ryan Cobbins missed Layup.,42,47,-5,7,0.30609404023458747,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+189,3,7:56,1076,1076,Ryan Cobbins Offensive Rebound.,42,47,-5,0,0.3054696641973435,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+190,3,7:56,1076,1076,Ryan Cobbins missed Dunk.,42,47,-5,2,0.3054696641973435,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+191,3,7:54,1074,1074,Evan Zars Defensive Rebound.,42,47,-5,2,0.3052898157256003,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+192,3,7:52,1072,1072,Olivia Kaufmann Turnover.,42,47,-5,17,0.30510927931526827,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+193,3,7:35,1055,1055,Cirkeline Rimdal missed Three Point Jumper.,42,47,-5,1,0.3035437912778125,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+194,3,7:34,1054,1054,Western Illinois Defensive Rebound.,42,47,-5,10,0.30344981357509815,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+195,3,7:24,1044,1044,Danni Nichols missed Layup.,42,47,-5,5,0.30249706918037955,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+196,3,7:19,1039,1039,Danni Nichols Offensive Rebound.,42,47,-5,0,0.3020113078176327,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+197,3,7:19,1039,1039,Danni Nichols made Layup.,44,47,-3,12,0.3769197399246155,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,Western Illinois
+198,3,7:07,1027,1027,Rylee Nudell made Three Point Jumper. Assisted by Sofija Zivaljevic.,44,50,-6,14,0.26657104347820426,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,North Dakota State
+199,3,6:53,1013,1013,Grace Gilmore missed Jumper.,44,50,-6,0,0.26495682015624655,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+200,3,6:53,1013,1013,North Dakota State Defensive Rebound.,44,50,-6,0,0.26495682015624655,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+201,3,6:53,1013,1013,Foul on Grace Gilmore.,44,50,-6,10,0.26495682015624655,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+202,3,6:43,1003,1003,Michelle Gaislerova missed Three Point Jumper.,44,50,-6,3,0.2637602060500709,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+203,3,6:40,1000,1000,Rylee Nudell Offensive Rebound.,44,50,-6,0,0.2633936403088587,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+204,3,6:40,1000,1000,Rylee Nudell Turnover.,44,50,-6,22,0.2633936403088587,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+205,3,6:18,978,978,Evan Zars missed Jumper.,44,50,-6,4,0.260589694269612,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+206,3,6:14,974,974,Rylee Nudell Defensive Rebound.,44,50,-6,15,0.2600566262384342,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+207,3,5:59,959,959,Emily Dietz Turnover.,44,50,-6,0,0.25806835347848395,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+208,3,5:59,959,959,Danni Nichols Steal.,44,50,-6,16,0.25806835347848395,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+209,3,5:43,943,943,Danni Nichols made Layup.,46,50,-4,5,0.32941793560814525,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,Western Illinois
+210,3,5:38,938,938,Michelle Gaislerova missed Three Point Jumper.,46,50,-4,3,0.3289728766989295,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+211,3,5:35,935,935,Rylee Nudell Offensive Rebound.,46,50,-4,9,0.32871078784677293,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+212,3,5:26,926,926,Emily Dietz made Jumper. Assisted by Ryan Cobbins.,46,52,-6,15,0.25421739291254025,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,North Dakota State
+213,3,5:11,911,911,Olivia Kaufmann made Layup.,48,52,-4,0,0.3267226635966273,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,Western Illinois
+214,3,5:11,911,911,Foul on Sofija Zivaljevic.,48,52,-4,0,0.3267226635966273,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+215,3,5:11,911,911,Olivia Kaufmann made Free Throw.,49,52,-3,17,0.3676563710955497,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,Western Illinois
+216,3,4:54,894,894,Foul on Sam Pryor.,49,52,-3,0,0.3666031499492816,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+217,3,4:54,894,894,Official TV Timeout,49,52,-3,7,0.3666031499492816,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+218,3,4:47,887,887,Raquel Terrer van Gool missed Layup.,49,52,-3,1,0.3661769191547764,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+219,3,4:46,886,886,Danneka Voegeli Offensive Rebound.,49,52,-3,0,0.3661161967370772,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+220,3,4:46,886,886,Foul on Sam Pryor.,49,52,-3,7,0.3661161967370772,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+221,3,4:39,879,879,Raquel Terrer van Gool made Jumper. Assisted by Nicole Scales.,49,54,-5,12,0.28538420342102877,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,North Dakota State
+222,3,4:27,867,867,Sam Pryor missed Jumper.,49,54,-5,3,0.28431430315046496,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+223,3,4:24,864,864,Olivia Kaufmann Offensive Rebound.,49,54,-5,1,0.2840449510145863,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+224,3,4:23,863,863,Olivia Kaufmann missed Jumper.,49,54,-5,9,0.28395491364428765,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+225,3,4:14,854,854,Danneka Voegeli Defensive Rebound.,49,54,-5,9,0.2831373044221219,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+226,3,4:05,845,845,Ryan Cobbins made Jumper.,49,56,-7,13,0.2131072032273582,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,North Dakota State
+227,3,3:52,832,832,Foul on Raquel Terrer van Gool.,49,56,-7,4,0.21166271373092302,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+228,3,3:48,828,828,Sam Pryor made Three Point Jumper.,52,56,-4,25,0.32017674908586063,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,Western Illinois
+229,3,3:23,803,803,Emily Dietz made Layup.,52,58,-6,11,0.24136171920584762,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,North Dakota State
+230,3,3:12,792,792,Danni Nichols missed Layup.,52,58,-6,4,0.23996205637201298,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+231,3,3:08,788,788,Danni Nichols Offensive Rebound.,52,58,-6,0,0.239431308204502,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+232,3,3:08,788,788,Danni Nichols missed Layup.,52,58,-6,0,0.239431308204502,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+233,3,3:08,788,788,Western Illinois Offensive Rebound.,52,58,-6,0,0.239431308204502,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+234,3,3:08,788,788,Foul on Ryan Cobbins.,52,58,-6,13,0.239431308204502,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+235,3,2:55,775,775,Foul on Cirkeline Rimdal.,52,58,-6,0,0.23761806312223147,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+236,3,2:55,775,775,Elizabeth Lutz made Free Throw.,53,58,-5,0,0.2745844345995906,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,Western Illinois
+237,3,2:55,775,775,Elizabeth Lutz missed Free Throw.,53,58,-5,0,0.2745844345995906,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+238,3,2:55,775,775,Rylee Nudell Defensive Rebound.,53,58,-5,14,0.2745844345995906,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+239,3,2:41,761,761,Foul on Danni Nichols.,53,58,-5,0,0.2726414260105494,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+240,3,2:41,761,761,Cirkeline Rimdal made Free Throw.,53,59,-6,0,0.23549938508570648,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,North Dakota State
+241,3,2:41,761,761,Cirkeline Rimdal made Free Throw.,53,60,-7,13,0.2020119209440644,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,North Dakota State
+242,3,2:28,748,748,Danni Nichols missed Three Point Jumper.,53,60,-7,0,0.19978003613329753,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+243,3,2:28,748,748,Western Illinois Offensive Rebound.,53,60,-7,7,0.19978003613329753,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+244,3,2:21,741,741,Olivia Kaufmann made Jumper.,55,60,-5,28,0.26954903134651187,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,Western Illinois
+245,3,1:53,713,713,Rylee Nudell missed Jumper.,55,60,-5,3,0.2648638123812629,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+246,3,1:50,710,710,Olivia Kaufmann Defensive Rebound.,55,60,-5,13,0.2644042920723433,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+247,3,1:37,697,697,Foul on Cirkeline Rimdal.,55,60,-5,0,0.26251213854640504,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+248,3,1:37,697,697,Evan Zars made Free Throw.,56,60,-4,1,0.3044148880494934,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,Western Illinois
+249,3,1:36,696,696,Evan Zars missed Free Throw.,56,60,-4,2,0.30429258963655065,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+250,3,1:34,694,694,Rylee Nudell Defensive Rebound.,56,60,-4,13,0.3040498110196121,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+251,3,1:21,681,681,Nicole Scales made Jumper.,56,62,-6,12,0.2221842387978292,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,North Dakota State
+252,3,1:09,669,669,Evan Zars made Layup.,58,62,-4,11,0.3011600172367284,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,Western Illinois
+253,3,0:58,658,658,Rylee Nudell missed Three Point Jumper.,58,62,-4,4,0.2999264860306785,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+254,3,0:54,654,654,Evan Zars Defensive Rebound.,58,62,-4,10,0.29947624653496,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+255,3,0:44,644,644,Olivia Kaufmann missed Layup.,58,62,-4,3,0.2983359920053545,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+256,3,0:41,641,641,Nicole Scales Defensive Rebound.,58,62,-4,20,0.29798781316131057,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+257,3,0:21,621,621,Michelle Gaislerova made Jumper.,58,64,-6,21,0.21368112450074547,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,North Dakota State
+258,3,0:00,600,600,Foul on Cirkeline Rimdal.,58,64,-6,0,0.2101886602059725,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+259,3,0:00,600,600,Olivia Kaufmann made Free Throw.,59,64,-5,0,0.2491488044213999,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,Western Illinois
+260,3,0:00,600,600,Olivia Kaufmann made Free Throw.,60,64,-4,0,0.2926546588354372,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,Western Illinois
+261,3,0:00,600,600,End of 3rd Quarter,58,64,-6,13,0.2101886602059725,Western Illinois,North Dakota State,5,5,0,0,NA,401179989,2020-02-01,
+262,4,9:47,587,587,Sam Pryor missed Three Point Jumper.,60,64,-4,3,0.2906223494701497,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,Western Illinois
+263,4,9:44,584,584,North Dakota State Defensive Rebound.,60,64,-4,14,0.2901221536211415,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+264,4,9:30,570,570,Rylee Nudell missed Layup.,60,64,-4,0,0.28761337514908486,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+265,4,9:30,570,570,Elizabeth Lutz Block.,60,64,-4,0,0.28761337514908486,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+266,4,9:30,570,570,North Dakota State Offensive Rebound.,60,64,-4,5,0.28761337514908486,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+267,4,9:25,565,565,Rylee Nudell Turnover.,60,64,-4,9,0.28664203980661684,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+268,4,9:16,556,556,Sam Pryor missed Three Point Jumper.,60,64,-4,3,0.28478433832661826,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+269,4,9:13,553,553,Michelle Gaislerova Defensive Rebound.,60,64,-4,12,0.28413229229075776,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+270,4,9:01,541,541,Emily Dietz missed Layup.,60,64,-4,3,0.28154175897936856,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+271,4,8:58,538,538,Olivia Kaufmann Defensive Rebound.,60,64,-4,4,0.28094628720978937,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+272,4,8:54,534,534,Grace Gilmore made Jumper.,62,64,-2,0,0.38419536357451156,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,Western Illinois
+273,4,8:54,534,534,Foul on Ryan Cobbins.,62,64,-2,0,0.38419536357451156,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+274,4,8:54,534,534,Grace Gilmore missed Free Throw.,62,64,-2,2,0.38419536357451156,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+275,4,8:52,532,532,Emily Dietz Defensive Rebound.,62,64,-2,16,0.3839781236381447,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+276,4,8:36,516,516,Foul on Emily Dietz.,62,64,-2,0,0.38236060566709085,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+277,4,8:36,516,516,Emily Dietz Turnover.,62,64,-2,12,0.38236060566709085,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+278,4,8:24,504,504,Sam Pryor made Jumper.,64,64,0,19,0.5,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,Western Illinois
+279,4,8:05,485,485,Cirkeline Rimdal missed Jumper.,64,64,0,1,0.5,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+280,4,8:04,484,484,Evan Zars Defensive Rebound.,64,64,0,0,0.5,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+281,4,8:04,484,484,Foul on Rylee Nudell.,64,64,0,7,0.5,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+282,4,7:57,477,477,Foul on Sofija Zivaljevic.,64,64,0,0,0.5,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+283,4,7:57,477,477,Grace Gilmore made Free Throw.,65,64,1,0,0.5616433422024516,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,Western Illinois
+284,4,7:57,477,477,Grace Gilmore made Free Throw.,66,64,2,22,0.6214408315461087,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,Western Illinois
+285,4,7:35,455,455,Nicole Scales made Jumper.,66,66,0,17,0.5,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,North Dakota State
+286,4,7:18,438,438,Foul on Michelle Gaislerova.,66,66,0,0,0.5,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+287,4,7:18,438,438,Grace Gilmore made Free Throw.,67,66,1,1,0.564448574462164,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,Western Illinois
+288,4,7:17,437,437,Grace Gilmore missed Free Throw.,67,66,1,1,0.5645413781563235,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+289,4,7:16,436,436,Michelle Gaislerova Defensive Rebound.,67,66,1,13,0.5646354866983602,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+290,4,7:03,423,423,Foul on Grace Gilmore.,67,66,1,0,0.5659310109773965,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+291,4,7:03,423,423,Michelle Gaislerova made Free Throw.,67,67,0,0,0.5,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,North Dakota State
+292,4,7:03,423,423,Michelle Gaislerova made Free Throw.,67,68,-1,16,0.43406898902260355,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,North Dakota State
+293,4,6:47,407,407,Evan Zars missed Three Point Jumper.,67,68,-1,3,0.43257087318119014,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+294,4,6:44,404,404,Michelle Gaislerova Defensive Rebound.,67,68,-1,22,0.43230047864416993,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+295,4,6:22,382,382,Emily Dietz Turnover.,67,68,-1,0,0.43032587092014113,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+296,4,6:22,382,382,Olivia Kaufmann Steal.,67,68,-1,5,0.43032587092014113,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+297,4,6:17,377,377,Olivia Kaufmann made Layup.,69,68,1,27,0.5701375433784287,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,Western Illinois
+298,4,5:50,350,350,Michelle Gaislerova missed Three Point Jumper.,69,68,1,0,0.5729251426281499,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+299,4,5:50,350,350,North Dakota State Offensive Rebound.,69,68,1,8,0.5729251426281499,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+300,4,5:42,342,342,Rylee Nudell missed Layup.,69,68,1,0,0.5738892807005959,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+301,4,5:42,342,342,Evan Zars Block.,69,68,1,5,0.5738892807005959,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+302,4,5:37,337,337,Grace Gilmore Defensive Rebound.,69,68,1,1,0.5745345283831335,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+303,4,5:36,336,336,Grace Gilmore missed Jumper.,69,68,1,5,0.5746678563311817,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+304,4,5:31,331,331,Emily Dietz Defensive Rebound.,69,68,1,3,0.5753572222889952,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+305,4,5:28,328,328,Nicole Scales missed Three Point Jumper.,69,68,1,3,0.5757898943693279,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+306,4,5:25,325,325,Evan Zars Defensive Rebound.,69,68,1,3,0.576237653263185,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+307,4,5:22,322,322,Sam Pryor made Three Point Jumper. Assisted by Olivia Kaufmann.,72,68,4,14,0.7750384346846437,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,Western Illinois
+308,4,5:08,308,308,Rylee Nudell made Jumper.,72,70,2,9,0.654274020594685,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,North Dakota State
+309,4,4:59,299,299,Sam Pryor missed Three Point Jumper.,72,70,2,4,0.6562198677324814,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+310,4,4:55,295,295,Michelle Gaislerova Defensive Rebound.,72,70,2,7,0.6566688298239504,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+311,4,4:48,288,288,Michelle Gaislerova made Jumper.,72,72,0,10,0.5,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,North Dakota State
+312,4,4:38,278,278,Official TV Timeout,72,72,0,5,0.5,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+313,4,4:33,273,273,Danni Nichols made Layup.,74,72,2,13,0.6559610489528255,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,Western Illinois
+314,4,4:20,260,260,Cirkeline Rimdal Turnover.,74,72,2,0,0.6542373592980593,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+315,4,4:20,260,260,Danni Nichols Steal.,74,72,2,8,0.6542373592980593,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+316,4,4:12,252,252,Sam Pryor missed Three Point Jumper.,74,72,2,2,0.6531924318693068,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+317,4,4:10,250,250,Danni Nichols Offensive Rebound.,74,72,2,0,0.6529649933967033,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+318,4,4:10,250,250,Official TV Timeout,74,72,2,5,0.6529649933967033,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+319,4,4:05,245,245,Elizabeth Lutz Turnover.,74,72,2,11,0.6524921101664152,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+320,4,3:54,234,234,Rylee Nudell Turnover.,74,72,2,0,0.6521540058936759,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+321,4,3:54,234,234,Danni Nichols Steal.,74,72,2,7,0.6521540058936759,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+322,4,3:47,227,227,Foul on Rylee Nudell.,74,72,2,0,0.6526430964646633,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+323,4,3:47,227,227,Danni Nichols made Free Throw.,75,72,3,0,0.7203133471989596,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,Western Illinois
+324,4,3:47,227,227,Danni Nichols made Free Throw.,76,72,4,11,0.7792593194210347,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,Western Illinois
+325,4,3:36,216,216,Emily Dietz missed Layup.,76,72,4,4,0.7826893536051683,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+326,4,3:32,212,212,Danni Nichols Defensive Rebound.,76,72,4,5,0.7847441518471905,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+327,4,3:27,207,207,Olivia Kaufmann made Three Point Jumper.,79,72,7,22,0.9086697939772705,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,Western Illinois
+328,4,3:05,185,185,Foul on Evan Zars.,79,72,7,0,0.9280199103011421,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+329,4,3:05,185,185,Ryan Cobbins made Free Throw.,79,73,6,0,0.8994769140896962,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,North Dakota State
+330,4,3:05,185,185,Ryan Cobbins missed Free Throw.,79,73,6,0,0.8994769140896962,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+331,4,3:05,185,185,Grace Gilmore Defensive Rebound.,79,73,6,31,0.8994769140896962,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+332,4,2:34,154,154,Olivia Kaufmann missed Jumper.,79,73,6,3,0.9311911004632434,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+333,4,2:31,151,151,Rylee Nudell Defensive Rebound.,79,73,6,21,0.9339796646237029,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+334,4,2:10,130,130,Ryan Cobbins missed Jumper.,79,73,6,5,0.952359971600303,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+335,4,2:05,125,125,Rylee Nudell Offensive Rebound.,79,73,6,0,0.9564192167456673,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+336,4,2:05,125,125,Rylee Nudell made Layup.,79,75,4,25,0.8868592179675303,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,North Dakota State
+337,4,1:40,100,100,Carla Flores made Jumper.,81,75,6,7,0.974360640342351,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,Western Illinois
+338,4,1:33,93,93,Foul on Michelle Gaislerova.,81,75,6,0,0.9785362147726001,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+339,4,1:33,93,93,Michelle Gaislerova Turnover.,81,75,6,23,0.9785362147726001,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+340,4,1:10,70,70,Olivia Kaufmann missed Layup.,81,75,6,3,0.9886579772580023,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+341,4,1:07,67,67,Olivia Kaufmann Offensive Rebound.,81,75,6,1,0.9896472552779599,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+342,4,1:06,66,66,Sam Pryor made Three Point Jumper. Assisted by Olivia Kaufmann.,84,75,9,12,0.9989797574798052,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,Western Illinois
+343,4,0:54,54,54,Rylee Nudell made Three Point Jumper. Assisted by Ryan Cobbins.,84,78,6,21,0.993144390603789,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,North Dakota State
+344,4,0:33,33,33,Olivia Kaufmann missed Layup.,84,78,6,3,0.9967167021686995,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+345,4,0:30,30,30,Ryan Cobbins Defensive Rebound.,84,78,6,7,0.9970651653895116,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+346,4,0:23,23,23,Nicole Scales missed Three Point Jumper.,84,78,6,6,0.9977528309469768,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+347,4,0:17,17,17,Emily Dietz Offensive Rebound.,84,78,6,0,0.998227667092277,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+348,4,0:17,17,17,Emily Dietz missed Layup.,84,78,6,0,0.998227667092277,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+349,4,0:17,17,17,Sam Pryor Defensive Rebound.,84,78,6,0,0.998227667092277,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+350,4,0:17,17,17,Foul on Michelle Gaislerova.,84,78,6,0,0.998227667092277,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+351,4,0:17,17,17,Sam Pryor made Free Throw.,85,78,7,0,0.9993825524408365,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,Western Illinois
+352,4,0:17,17,17,Sam Pryor made Free Throw.,86,78,8,5,0.9997850548887146,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,Western Illinois
+353,4,0:12,12,12,Ryan Cobbins missed Layup.,86,78,8,0,0.9998366814872842,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+354,4,0:12,12,12,Evan Zars Block.,86,78,8,5,0.9998366814872842,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+355,4,0:07,7,7,Ryan Cobbins Offensive Rebound.,86,78,8,0,0.9998768875463498,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+356,4,0:07,7,7,Foul on Evan Zars.,86,78,8,0,0.9998768875463498,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+357,4,0:07,7,7,Ryan Cobbins missed Free Throw.,86,78,8,0,0.9998768875463498,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+358,4,0:07,7,7,North Dakota State Offensive Rebound.,86,78,8,0,0.9998768875463498,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,
+359,4,0:07,7,7,Ryan Cobbins made Free Throw.,86,79,7,7,0.9996207755773373,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,North Dakota State
+360,4,0:00,0,0,End of Game,86,79,7,0,1,Western Illinois,North Dakota State,6,6,0,0,NA,401179989,2020-02-01,

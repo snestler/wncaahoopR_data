@@ -1,0 +1,358 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:43,2383,2383,Mylashia Yancey missed Jumper.,0,0,0,5,0.5,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,NA
+2,1,9:38,2378,2378,Diamond Hall Defensive Rebound.,0,0,0,20,0.5,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+3,1,9:18,2358,2358,Cayla Obillo missed Jumper.,0,0,0,5,0.5,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+4,1,9:13,2353,2353,Jamaysha Bernard Offensive Rebound.,0,0,0,2,0.5,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+5,1,9:11,2351,2351,Jamaysha Bernard made Layup.,0,2,-2,9,0.4549308659299886,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Alcorn State
+6,1,9:02,2342,2342,Mylashia Yancey Turnover.,0,2,-2,0,0.4547357647420433,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+7,1,9:02,2342,2342,Jada Hargrove Steal.,0,2,-2,12,0.4547357647420433,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+8,1,8:50,2330,2330,Kirdis Clark Turnover.,0,2,-2,0,0.4544740680669303,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+9,1,8:50,2330,2330,Taelor Willard Steal.,0,2,-2,6,0.4544740680669303,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+10,1,8:44,2324,2324,Ariel Williams missed Layup.,0,2,-2,0,0.4543425759993232,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+11,1,8:44,2324,2324,Diamond Hall Block.,0,2,-2,0,0.4543425759993232,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+12,1,8:44,2324,2324,Alcorn State Defensive Rebound.,0,2,-2,0,0.4543425759993232,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+13,1,8:44,2324,2324,Cayla Obillo missed Three Point Jumper.,0,2,-2,0,0.4543425759993232,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+14,1,8:44,2324,2324,Justice Coleman Defensive Rebound.,0,2,-2,0,0.4543425759993232,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+15,1,8:44,2324,2324,Brandi Washington made Three Point Jumper. Assisted by Justice Coleman.,3,2,1,0,0.5228765001888255,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+16,1,8:44,2324,2324,Jada Hargrove made Three Point Jumper.,3,5,-2,0,0.4543425759993232,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Alcorn State
+17,1,8:44,2324,2324,Taelor Willard made Three Point Jumper. Assisted by Justice Coleman.,6,5,1,80,0.5228765001888255,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+18,1,7:24,2244,2244,Cayla Obillo Turnover.,6,5,1,0,0.523776517028738,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+19,1,7:24,2244,2244,Taelor Willard Steal.,6,5,1,3,0.523776517028738,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+20,1,7:21,2241,2241,Ariel Williams missed Layup.,6,5,1,0,0.5238108181357399,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+21,1,7:21,2241,2241,Ariel Williams Offensive Rebound.,6,5,1,0,0.5238108181357399,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+22,1,7:21,2241,2241,Foul on Diamond Hall.,6,5,1,0,0.5238108181357399,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+23,1,7:21,2241,2241,Ariel Williams made Free Throw.,7,5,2,4,0.5475138833251382,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+24,1,7:17,2237,2237,Ariel Williams made Free Throw.,8,5,3,14,0.5711382736497409,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+25,1,7:03,2223,2223,Diamond Hall made Layup.,8,7,1,0,0.5240172928383114,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Alcorn State
+26,1,7:03,2223,2223,Foul on Justice Coleman.,8,7,1,0,0.5240172928383114,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+27,1,7:03,2223,2223,Diamond Hall made Free Throw.,8,8,0,21,0.5,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Alcorn State
+28,1,6:42,2202,2202,Brandi Washington made Three Point Jumper. Assisted by Justice Coleman.,11,8,3,22,0.5723247616780326,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+29,1,6:20,2180,2180,Jada Hargrove missed Jumper.,11,8,3,5,0.5730752578907208,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+30,1,6:15,2175,2175,Jamaysha Bernard Offensive Rebound.,11,8,3,1,0.5732462225230479,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+31,1,6:14,2174,2174,Jamaysha Bernard missed Layup.,11,8,3,5,0.5732804309210933,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+32,1,6:09,2169,2169,Jamaysha Bernard Offensive Rebound.,11,8,3,1,0.5734515488149341,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+33,1,6:08,2168,2168,Jamaysha Bernard made Layup.,11,10,1,11,0.5246539484179567,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Alcorn State
+34,1,5:57,2157,2157,Justice Coleman missed Jumper.,11,10,1,3,0.5247822259103816,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+35,1,5:54,2154,2154,Cayla Obillo Defensive Rebound.,11,10,1,4,0.5248172923310004,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+36,1,5:50,2150,2150,Jamaysha Bernard missed Layup.,11,10,1,4,0.5248641034247604,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+37,1,5:46,2146,2146,Mylashia Yancey Defensive Rebound.,11,10,1,5,0.5249109793664207,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+38,1,5:41,2141,2141,Justice Coleman missed Layup.,11,10,1,3,0.524969667148936,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+39,1,5:38,2138,2138,Mylashia Yancey Offensive Rebound.,11,10,1,1,0.5250049301600552,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+40,1,5:37,2137,2137,Mylashia Yancey made Layup.,13,10,3,19,0.5745528112111679,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+41,1,5:18,2118,2118,Cayla Obillo Turnover.,13,10,3,0,0.5752123586433557,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+42,1,5:18,2118,2118,Mylashia Yancey Steal.,13,10,3,8,0.5752123586433557,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+43,1,5:10,2110,2110,Brandi Washington missed Three Point Jumper.,13,10,3,5,0.5754914317380757,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+44,1,5:05,2105,2105,Kirdis Clark Defensive Rebound.,13,10,3,11,0.5756662813686515,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+45,1,4:54,2094,2094,Jada Hargrove missed Three Point Jumper.,13,10,3,3,0.5760521465028082,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+46,1,4:51,2091,2091,Mylashia Yancey Defensive Rebound.,13,10,3,7,0.5761576743561939,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+47,1,4:44,2084,2084,Justice Coleman Turnover.,13,10,3,2,0.5764044045124914,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+48,1,4:42,2082,2082,Official TV Timeout,13,10,3,2,0.5764750287881344,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+49,1,4:40,2080,2080,Toddriana Isler missed Jumper.,13,10,3,5,0.5765457115339635,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+50,1,4:35,2075,2075,Grambling Defensive Rebound.,13,10,3,14,0.5767226767699644,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+51,1,4:21,2061,2061,Alexus Holt missed Jumper.,13,10,3,3,0.5772201884972024,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+52,1,4:18,2058,2058,Diamond Hall Defensive Rebound.,13,10,3,10,0.5773271924711609,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+53,1,4:08,2048,2048,Foul on Alexus Holt.,13,10,3,4,0.5776849060152901,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+54,1,4:04,2044,2044,Diamond Hall Turnover.,13,10,3,0,0.5778284444135545,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+55,1,4:04,2044,2044,Justice Coleman Steal.,13,10,3,7,0.5778284444135545,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+56,1,3:57,2037,2037,Candice Parramore Turnover.,13,10,3,0,0.5780802725687688,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+57,1,3:57,2037,2037,Diamond Hall Steal.,13,10,3,5,0.5780802725687688,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+58,1,3:52,2032,2032,Larae Rascoe missed Jumper.,13,10,3,3,0.5782606531511949,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+59,1,3:49,2029,2029,Brandi Washington Defensive Rebound.,13,10,3,3,0.578369085746656,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+60,1,3:46,2026,2026,Foul on Kirdis Clark.,13,10,3,0,0.5784776731286738,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+61,1,3:46,2026,2026,Brandi Washington made Free Throw.,14,10,4,0,0.6039704094912358,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+62,1,3:46,2026,2026,Brandi Washington made Free Throw.,15,10,5,41,0.6289104202996048,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+63,1,3:05,1985,1985,Cayla Obillo missed Three Point Jumper.,15,10,5,2,0.6313015271153607,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+64,1,3:03,1983,1983,Kirdis Clark Offensive Rebound.,15,10,5,1,0.6314193428984108,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+65,1,3:02,1982,1982,Kirdis Clark made Layup.,15,12,3,5,0.580088906418124,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Alcorn State
+66,1,2:57,1977,1977,Candice Parramore Turnover.,15,12,3,1,0.5802743095629743,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+67,1,2:56,1976,1976,Nia McCalphia missed Three Point Jumper.,15,12,3,4,0.5803114491393832,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+68,1,2:52,1972,1972,Nyenkeer Malwal Offensive Rebound.,15,12,3,2,0.5804602055426412,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+69,1,2:50,1970,1970,Nyenkeer Malwal missed Layup.,15,12,3,4,0.580534703277135,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+70,1,2:46,1966,1966,Grambling Defensive Rebound.,15,12,3,9,0.5806839397376166,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+71,1,2:37,1957,1957,Alexus Holt made Three Point Jumper. Assisted by Taelor Willard.,18,12,6,14,0.6578958625578378,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+72,1,2:23,1943,1943,Foul on Keturah Bingham.,18,12,6,15,0.658870802398035,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+73,1,2:08,1928,1928,Toddriana Isler missed Jumper.,18,12,6,4,0.6599227345955646,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+74,1,2:04,1924,1924,Alexus Holt Defensive Rebound.,18,12,6,7,0.6602037252261235,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+75,1,1:57,1917,1917,Foul on Nia McCalphia.,18,12,6,1,0.6606947578168155,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+76,1,1:56,1916,1916,Foul on Grambling.,18,12,6,12,0.6607648392197709,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+77,1,1:44,1904,1904,Nia McCalphia missed Layup.,18,12,6,0,0.6616047448739356,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+78,1,1:44,1904,1904,Keturah Bingham Defensive Rebound.,18,12,6,19,0.6616047448739356,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+79,1,1:25,1885,1885,Foul on Toddriana Isler.,18,12,6,0,0.6629318627150644,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+80,1,1:25,1885,1885,Candice Parramore made Free Throw.,19,12,7,0,0.6876419815869681,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+81,1,1:25,1885,1885,Candice Parramore made Free Throw.,20,12,8,13,0.7113294246517019,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+82,1,1:12,1872,1872,Nyenkeer Malwal missed Jumper.,20,12,8,2,0.7124406391197821,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+83,1,1:10,1870,1870,Alcorn State Offensive Rebound.,20,12,8,6,0.7126115272352419,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+84,1,1:04,1864,1864,Nia McCalphia Turnover.,20,12,8,12,0.7131241670271646,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+85,1,0:52,1852,1852,Keturah Bingham Turnover.,20,12,8,0,0.714149694711855,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+86,1,0:52,1852,1852,Charisma Walker Steal.,20,12,8,10,0.714149694711855,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+87,1,0:42,1842,1842,Cayla Obillo missed Three Point Jumper.,20,12,8,2,0.7150050623195691,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+88,1,0:40,1840,1840,Nyenkeer Malwal Offensive Rebound.,20,12,8,0,0.7151762661645402,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+89,1,0:40,1840,1840,Nyenkeer Malwal missed Layup.,20,12,8,0,0.7151762661645402,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+90,1,0:40,1840,1840,Candice Parramore Block.,20,12,8,0,0.7151762661645402,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+91,1,0:40,1840,1840,Alcorn State Offensive Rebound.,20,12,8,7,0.7151762661645402,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+92,1,0:33,1833,1833,Cayla Obillo Turnover.,20,12,8,0,0.7157759194050062,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+93,1,0:33,1833,1833,Keturah Bingham Steal.,20,12,8,19,0.7157759194050062,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+94,1,0:14,1814,1814,Foul on Larae Rascoe.,20,12,8,0,0.7174081186139059,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+95,1,0:14,1814,1814,Keturah Bingham made Free Throw.,21,12,9,0,0.7404091656828574,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+96,1,0:14,1814,1814,Keturah Bingham made Free Throw.,22,12,10,8,0.7621587485934895,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+97,1,0:06,1806,1806,Charisma Walker missed Jumper.,22,12,10,1,0.7629294669906321,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+98,1,0:05,1805,1805,Grambling Defensive Rebound.,22,12,10,3,0.7630259089302027,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+99,1,0:02,1802,1802,Ariel Williams missed Jumper.,22,12,10,0,0.7633153833916291,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+100,1,0:02,1802,1802,Alcorn State Defensive Rebound.,22,12,10,2,0.7633153833916291,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+101,1,0:00,1800,1800,End of 1st Quarter,22,12,10,12,0.7635084954020187,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+102,2,9:48,1788,1788,Diamond Hall Turnover.,22,12,10,0,0.7646695798173653,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+103,2,9:48,1788,1788,Ariel Williams Steal.,22,12,10,16,0.7646695798173653,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+104,2,9:32,1772,1772,Mylashia Yancey missed Jumper.,22,12,10,4,0.7662252638150767,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+105,2,9:28,1768,1768,Diamond Hall Defensive Rebound.,22,12,10,2,0.7666157512719917,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+106,2,9:26,1766,1766,Foul on Brandi Washington.,22,12,10,0,0.7668112518254402,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+107,2,9:26,1766,1766,Larae Rascoe missed Free Throw.,22,12,10,0,0.7668112518254402,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+108,2,9:26,1766,1766,Alcorn State Offensive Rebound.,22,12,10,0,0.7668112518254402,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+109,2,9:26,1766,1766,Larae Rascoe missed Free Throw.,22,12,10,1,0.7668112518254402,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+110,2,9:25,1765,1765,Diamond Hall Offensive Rebound.,22,12,10,2,0.7669090680330941,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+111,2,9:23,1763,1763,Diamond Hall missed Layup.,22,12,10,3,0.7671048347662557,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+112,2,9:20,1760,1760,Mylashia Yancey Defensive Rebound.,22,12,10,4,0.7673988280076298,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+113,2,9:16,1756,1756,Mylashia Yancey made Jumper. Assisted by Brandi Washington.,24,12,12,14,0.8076883289376879,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+114,2,9:02,1742,1742,Foul on Taelor Willard.,24,12,12,16,0.8091306218244656,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+115,2,8:46,1726,1726,Jamaysha Bernard missed Layup.,24,12,12,4,0.8107901689319316,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+116,2,8:42,1722,1722,Jamaysha Bernard Offensive Rebound.,24,12,12,1,0.8112071350943951,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+117,2,8:41,1721,1721,Jamaysha Bernard missed Layup.,24,12,12,4,0.811311514570431,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+118,2,8:37,1717,1717,Mylashia Yancey Defensive Rebound.,24,12,12,6,0.8117295976893938,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+119,2,8:31,1711,1711,Ariel Williams missed Three Point Jumper.,24,12,12,5,0.8123584669771695,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+120,2,8:26,1706,1706,Diamond Hall Defensive Rebound.,24,12,12,8,0.8128841845618123,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+121,2,8:18,1698,1698,Jamaysha Bernard Turnover.,24,12,12,12,0.8137286144686183,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+122,2,8:06,1686,1686,Justice Coleman Turnover.,24,12,12,0,0.8150009561678118,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+123,2,8:06,1686,1686,Diamond Hall Steal.,24,12,12,11,0.8150009561678118,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+124,2,7:55,1675,1675,Jada Hargrove missed Jumper.,24,12,12,4,0.8161490232197736,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+125,2,7:51,1671,1671,Jada Hargrove Offensive Rebound.,24,12,12,1,0.8165607174314619,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+126,2,7:50,1670,1670,Jada Hargrove missed Layup.,24,12,12,3,0.8166631879776245,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+127,2,7:47,1667,1667,Mylashia Yancey Defensive Rebound.,24,12,12,16,0.8169695469803995,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+128,2,7:31,1651,1651,Brandi Washington missed Three Point Jumper.,24,12,12,3,0.8185789628570198,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+129,2,7:28,1648,1648,Diamond Hall Defensive Rebound.,24,12,12,2,0.8188765776471553,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+130,2,7:26,1646,1646,Diamond Hall Turnover.,24,12,12,0,0.8190743327347727,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+131,2,7:26,1646,1646,Brandi Washington Steal.,24,12,12,6,0.8190743327347727,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+132,2,7:20,1640,1640,Justice Coleman missed Layup.,24,12,12,3,0.8196646376196302,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+133,2,7:17,1637,1637,Justice Coleman Offensive Rebound.,24,12,12,1,0.8199582269290399,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+134,2,7:16,1636,1636,Justice Coleman made Layup.,26,12,14,14,0.8543971908980845,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+135,2,7:02,1622,1622,Foul on Kirdis Clark.,26,12,14,0,0.85573059140436,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+136,2,7:02,1622,1622,Kirdis Clark Turnover.,26,12,14,16,0.85573059140436,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+137,2,6:46,1606,1606,Mylashia Yancey made Jumper. Assisted by Justice Coleman.,28,12,16,6,0.8858034310972104,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+138,2,6:40,1600,1600,Nyenkeer Malwal Turnover.,28,12,16,13,0.8863317842192957,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+139,2,6:27,1587,1587,Justice Coleman missed Layup.,28,12,16,5,0.8874704267847097,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+140,2,6:22,1582,1582,Diamond Hall Defensive Rebound.,28,12,16,5,0.8879067701260839,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+141,2,6:17,1577,1577,Nyenkeer Malwal missed Layup.,28,12,16,3,0.8883425581090211,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+142,2,6:14,1574,1574,Ariel Williams Defensive Rebound.,28,12,16,17,0.8886038526285887,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+143,2,5:57,1557,1557,Justice Coleman missed Jumper.,28,12,16,3,0.8900843514431321,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+144,2,5:54,1554,1554,Diamond Hall Defensive Rebound.,28,12,16,5,0.8903459606771263,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+145,2,5:49,1549,1549,Aysha Kirkland made Layup. Assisted by Diamond Hall.,28,14,14,20,0.8625240283660836,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Alcorn State
+146,2,5:29,1529,1529,Justice Coleman made Layup.,30,14,16,12,0.8925383123509427,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+147,2,5:17,1517,1517,Aysha Kirkland missed Layup.,30,14,16,4,0.8936028749172947,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+148,2,5:13,1513,1513,Mylashia Yancey Defensive Rebound.,30,14,16,27,0.8939601258797811,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+149,2,4:46,1486,1486,Brandi Washington missed Three Point Jumper.,30,14,16,0,0.8964110812151413,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+150,2,4:46,1486,1486,Charisma Walker Block.,30,14,16,0,0.8964110812151413,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+151,2,4:46,1486,1486,Alcorn State Defensive Rebound.,30,14,16,11,0.8964110812151413,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+152,2,4:35,1475,1475,Charisma Walker Turnover.,30,14,16,34,0.8974331239740736,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+153,2,4:01,1441,1441,Brandi Washington Turnover.,30,14,16,0,0.9006811460540417,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+154,2,4:01,1441,1441,Toddriana Isler Steal.,30,14,16,6,0.9006811460540417,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+155,2,3:55,1435,1435,Diamond Hall Turnover.,30,14,16,0,0.9012438839233686,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+156,2,3:55,1435,1435,Alexus Holt Steal.,30,14,16,2,0.9012438839233686,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+157,2,3:53,1433,1433,Taelor Willard made Free Throw.,31,14,17,1,0.9130560446403106,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+158,2,3:52,1432,1432,Taelor Willard made Layup.,33,14,19,0,0.9327311194334285,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+159,2,3:52,1432,1432,Foul on Toddriana Isler.,33,14,19,18,0.9327311194334285,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+160,2,3:34,1414,1414,Charisma Walker made Jumper. Assisted by Jamaysha Bernard.,33,16,17,25,0.9146827046984695,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Alcorn State
+161,2,3:09,1389,1389,Alexus Holt missed Layup.,33,16,17,4,0.9167217739512747,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+162,2,3:05,1385,1385,Jamaysha Bernard Defensive Rebound.,33,16,17,3,0.917040021587627,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+163,2,3:02,1382,1382,Cayla Obillo Turnover.,33,16,17,0,0.91727756773994,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+164,2,3:02,1382,1382,Mylashia Yancey Steal.,33,16,17,26,0.91727756773994,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+165,2,2:36,1356,1356,Foul on Diamond Hall.,33,16,17,0,0.9193062925309138,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+166,2,2:36,1356,1356,Brandi Washington made Free Throw.,34,16,18,0,0.9293057773938614,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+167,2,2:36,1356,1356,Brandi Washington missed Free Throw.,34,16,18,3,0.9293057773938614,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+168,2,2:33,1353,1353,Kirdis Clark Defensive Rebound.,34,16,18,8,0.9295231179354854,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+169,2,2:25,1345,1345,Foul on Jada Hargrove.,34,16,18,0,0.9301015509488665,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+170,2,2:25,1345,1345,Jada Hargrove Turnover.,34,16,18,15,0.9301015509488665,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+171,2,2:10,1330,1330,Mylashia Yancey Turnover.,34,16,18,12,0.9311849285007489,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+172,2,1:58,1318,1318,Jada Hargrove made Three Point Jumper. Assisted by Nia McCalphia.,34,19,15,21,0.8986431105523446,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Alcorn State
+173,2,1:37,1297,1297,Taelor Willard missed Jumper.,34,19,15,3,0.9004922543665426,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+174,2,1:34,1294,1294,Jamaysha Bernard Defensive Rebound.,34,19,15,8,0.9007603030644838,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+175,2,1:26,1286,1286,Foul on Justice Coleman.,34,19,15,0,0.9014808997105758,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+176,2,1:26,1286,1286,Aysha Kirkland missed Free Throw.,34,19,15,0,0.9014808997105758,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+177,2,1:26,1286,1286,Alcorn State Offensive Rebound.,34,19,15,0,0.9014808997105758,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+178,2,1:26,1286,1286,Aysha Kirkland missed Free Throw.,34,19,15,0,0.9014808997105758,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+179,2,1:26,1286,1286,Mylashia Yancey Defensive Rebound.,34,19,15,18,0.9014808997105758,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+180,2,1:08,1268,1268,Keturah Bingham made Layup. Assisted by Mylashia Yancey.,36,19,17,12,0.9262364743118889,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+181,2,0:56,1256,1256,Jada Hargrove missed Three Point Jumper.,36,19,17,5,0.9272415897827447,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+182,2,0:51,1251,1251,Alexus Holt Defensive Rebound.,36,19,17,26,0.9276672887746346,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+183,2,0:25,1225,1225,Keturah Bingham made Jumper. Assisted by Taelor Willard.,38,19,19,24,0.9473612608673182,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,Grambling
+184,2,0:01,1201,1201,Jada Hargrove missed Three Point Jumper.,38,19,19,0,0.9492501847320496,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+185,2,0:01,1201,1201,Grambling Defensive Rebound.,38,19,19,1,0.9492501847320496,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+186,2,0:00,1200,1200,End of 2nd Quarter,38,19,19,18,0.9493274924441191,Grambling,Alcorn State,4,4,0,0,NA,401180258,2020-02-10,
+187,3,9:42,1182,1182,Brandi Washington missed Three Point Jumper.,38,19,19,3,0.9506768810931902,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+188,3,9:39,1179,1179,Jada Hargrove Defensive Rebound.,38,19,19,17,0.9508947405095111,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+189,3,9:22,1162,1162,Diamond Hall missed Jumper.,38,19,19,5,0.9520977245248015,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+190,3,9:17,1157,1157,Justice Coleman Defensive Rebound.,38,19,19,13,0.9524426307814149,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+191,3,9:04,1144,1144,Mylashia Yancey missed Jumper.,38,19,19,1,0.9533241036782227,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+192,3,9:03,1143,1143,Justice Coleman Offensive Rebound.,38,19,19,0,0.9533911088807172,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+193,3,9:03,1143,1143,Foul on Jamaysha Bernard.,38,19,19,0,0.9533911088807172,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+194,3,9:03,1143,1143,Justice Coleman missed Free Throw.,38,19,19,0,0.9533911088807172,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+195,3,9:03,1143,1143,Grambling Offensive Rebound.,38,19,19,0,0.9533911088807172,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+196,3,9:03,1143,1143,Justice Coleman made Free Throw.,39,19,20,12,0.9599629076705789,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,Grambling
+197,3,8:51,1131,1131,Diamond Hall made Three Point Jumper. Assisted by Jada Hargrove.,39,22,17,15,0.9380049680244662,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,Alcorn State
+198,3,8:36,1116,1116,Taelor Willard Turnover.,39,22,17,0,0.9391750031788538,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+199,3,8:36,1116,1116,Cayla Obillo Steal.,39,22,17,9,0.9391750031788538,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+200,3,8:27,1107,1107,Tyginae Wright missed Three Point Jumper.,39,22,17,2,0.9398728944850567,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+201,3,8:25,1105,1105,Grambling Defensive Rebound.,39,22,17,0,0.9400278008295699,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+202,3,8:25,1105,1105,Foul on Cayla Obillo.,39,22,17,15,0.9400278008295699,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+203,3,8:10,1090,1090,Ariel Williams made Three Point Jumper. Assisted by Brandi Washington.,42,22,20,9,0.9631076052984184,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,Grambling
+204,3,8:01,1081,1081,Nia McCalphia Turnover.,42,22,20,0,0.9636355593065962,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+205,3,8:01,1081,1081,Justice Coleman Steal.,42,22,20,7,0.9636355593065962,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+206,3,7:54,1074,1074,Ariel Williams made Layup.,44,22,22,10,0.9738606441785727,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,Grambling
+207,3,7:44,1064,1064,Nia McCalphia Turnover.,44,22,22,0,0.9743373533347973,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+208,3,7:44,1064,1064,Foul on Tyginae Wright.,44,22,22,0,0.9743373533347973,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+209,3,7:44,1064,1064,Justice Coleman made Free Throw.,45,22,23,0,0.9781620615352173,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,Grambling
+210,3,7:44,1064,1064,Justice Coleman made Free Throw.,46,22,24,40,0.9814276086718148,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,Grambling
+211,3,7:04,1024,1024,Larae Rascoe made Three Point Jumper. Assisted by Kirdis Clark.,46,25,21,34,0.9720341884157438,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,Alcorn State
+212,3,6:30,990,990,Mylashia Yancey missed Jumper.,46,25,21,4,0.9739659657981918,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+213,3,6:26,986,986,Tyginae Wright Defensive Rebound.,46,25,21,2,0.9741996972274588,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+214,3,6:24,984,984,Larae Rascoe Turnover.,46,25,21,19,0.9743171035000661,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+215,3,6:05,965,965,Keturah Bingham made Jumper. Assisted by Justice Coleman.,48,25,23,7,0.982580187364565,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,Grambling
+216,3,5:58,958,958,Foul on Ariel Williams.,48,25,23,11,0.9828871770700097,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+217,3,5:47,947,947,Tyginae Wright made Three Point Jumper. Assisted by Diamond Hall.,48,28,20,31,0.9719647719839977,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,Alcorn State
+218,3,5:16,916,916,Justice Coleman missed Jumper.,48,28,20,0,0.9735610293933596,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+219,3,5:16,916,916,Tyginae Wright Block.,48,28,20,4,0.9735610293933596,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+220,3,5:12,912,912,Diamond Hall Defensive Rebound.,48,28,20,2,0.9737481631993409,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+221,3,5:10,910,910,Kirdis Clark Turnover.,48,28,20,0,0.9738404995760112,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+222,3,5:10,910,910,Taelor Willard Steal.,48,28,20,16,0.9738404995760112,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+223,3,4:54,894,894,Taelor Willard Turnover.,48,28,20,0,0.9745546658645321,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+224,3,4:54,894,894,Larae Rascoe Steal.,48,28,20,0,0.9745546658645321,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+225,3,4:54,894,894,Steal.,48,28,20,24,0.9745546658645321,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+226,3,4:30,870,870,Tyginae Wright missed Three Point Jumper.,48,28,20,2,0.975573782214159,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+227,3,4:28,868,868,Diamond Hall Offensive Rebound.,48,28,20,0,0.9756573794412455,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+228,3,4:28,868,868,Foul on Keturah Bingham.,48,28,20,0,0.9756573794412455,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+229,3,4:28,868,868,Diamond Hall made Free Throw.,48,29,19,0,0.9708675843924509,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,Alcorn State
+230,3,4:28,868,868,Diamond Hall made Free Throw.,48,30,18,7,0.965168967683424,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,Alcorn State
+231,3,4:21,861,861,Taelor Willard Turnover.,48,30,18,0,0.9655415916280066,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+232,3,4:21,861,861,Larae Rascoe Steal.,48,30,18,2,0.9655415916280066,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+233,3,4:19,859,859,Diamond Hall Turnover.,48,30,18,1,0.9656481940032703,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+234,3,4:18,858,858,Alexus Holt missed Layup.,48,30,18,0,0.9657015406429961,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+235,3,4:18,858,858,Kirdis Clark Block.,48,30,18,0,0.9657015406429961,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+236,3,4:18,858,858,Grambling Offensive Rebound.,48,30,18,9,0.9657015406429961,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+237,3,4:09,849,849,Taelor Willard Turnover.,48,30,18,0,0.9661838054951634,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+238,3,4:09,849,849,Diamond Hall Steal.,48,30,18,6,0.9661838054951634,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+239,3,4:03,843,843,Larae Rascoe made Layup.,48,32,16,25,0.9520654757593715,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,Alcorn State
+240,3,3:38,818,818,Justice Coleman Turnover.,48,32,16,0,0.9538251196195475,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+241,3,3:38,818,818,Jada Hargrove Steal.,48,32,16,3,0.9538251196195475,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+242,3,3:35,815,815,Foul on Ariel Williams.,48,32,16,0,0.9540455792999385,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+243,3,3:35,815,815,Larae Rascoe made Free Throw.,48,33,15,0,0.9449814584526153,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,Alcorn State
+244,3,3:35,815,815,Larae Rascoe made Free Throw.,48,34,14,3,0.9342527226700427,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,Alcorn State
+245,3,3:32,812,812,Foul on Larae Rascoe.,48,34,14,23,0.9345260216900781,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+246,3,3:09,789,789,Foul on Alexus Holt.,48,34,14,0,0.9367399608000705,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+247,3,3:09,789,789,Alexus Holt Turnover.,48,34,14,24,0.9367399608000705,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+248,3,2:45,765,765,Larae Rascoe made Three Point Jumper. Assisted by Kirdis Clark.,48,37,11,33,0.8958954306641654,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,Alcorn State
+249,3,2:12,732,732,Taelor Willard missed Jumper.,48,37,11,3,0.9011694164466536,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+250,3,2:09,729,729,Larae Rascoe Defensive Rebound.,48,37,11,5,0.9016949444964789,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+251,3,2:04,724,724,Jada Hargrove missed Layup.,48,37,11,2,0.9025467598201772,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+252,3,2:02,722,722,Ariel Williams Defensive Rebound.,48,37,11,4,0.9028766597469372,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+253,3,1:58,718,718,Alexus Holt made Layup. Assisted by Ariel Williams.,50,37,13,21,0.9336198181002351,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,Grambling
+254,3,1:37,697,697,Tyginae Wright missed Three Point Jumper.,50,37,13,3,0.9361761074159914,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+255,3,1:34,694,694,Alexus Holt Defensive Rebound.,50,37,13,7,0.9365102081912814,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+256,3,1:27,687,687,Alexus Holt Turnover.,50,37,13,0,0.937266934242156,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+257,3,1:27,687,687,Jada Hargrove Steal.,50,37,13,6,0.937266934242156,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+258,3,1:21,681,681,Larae Rascoe made Layup.,50,39,11,18,0.9086394852240516,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,Alcorn State
+259,3,1:03,663,663,Mylashia Yancey made Jumper. Assisted by Justice Coleman.,52,39,13,11,0.9396973417302367,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,Grambling
+260,3,0:52,652,652,Kirdis Clark Turnover.,52,39,13,21,0.9407733678170518,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+261,3,0:31,631,631,Alexus Holt missed Three Point Jumper.,52,39,13,0,0.9428607907648012,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+262,3,0:31,631,631,Tyginae Wright Block.,52,39,13,7,0.9428607907648012,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+263,3,0:24,624,624,Diamond Hall Defensive Rebound.,52,39,13,2,0.9435844541042112,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+264,3,0:22,622,622,Larae Rascoe made Jumper.,52,41,11,20,0.9158242431079676,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,Alcorn State
+265,3,0:02,602,602,Foul on Diamond Hall.,52,41,11,0,0.9185668412667576,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+266,3,0:02,602,602,Justice Coleman missed Three Point Jumper.,52,41,11,0,0.9185668412667576,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+267,3,0:02,602,602,Alcorn State Defensive Rebound.,52,41,11,2,0.9185668412667576,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+268,3,0:00,600,600,End of 3rd Quarter,52,41,11,25,0.918859108904067,Grambling,Alcorn State,5,5,0,0,NA,401180258,2020-02-10,
+269,4,9:35,575,575,Justice Coleman made Three Point Jumper. Assisted by Ariel Williams.,55,41,14,33,0.9592475657221511,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Grambling
+270,4,9:02,542,542,Diamond Hall missed Layup.,55,41,14,0,0.9635744645658727,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+271,4,9:02,542,542,Mylashia Yancey Block.,55,41,14,9,0.9635744645658727,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+272,4,8:53,533,533,Tyginae Wright Offensive Rebound.,55,41,14,3,0.964623137735829,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+273,4,8:50,530,530,Diamond Hall made Layup.,55,43,12,9,0.9448823232549235,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Alcorn State
+274,4,8:41,521,521,Justice Coleman missed Three Point Jumper.,55,43,12,0,0.9460825625407876,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+275,4,8:41,521,521,Alcorn State Defensive Rebound.,55,43,12,16,0.9460825625407876,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+276,4,8:25,505,505,Diamond Hall missed Layup.,55,43,12,3,0.9480296223461313,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+277,4,8:22,502,502,Justice Coleman Defensive Rebound.,55,43,12,21,0.948381587776677,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+278,4,8:01,481,481,Justice Coleman missed Layup.,55,43,12,5,0.9508829200149926,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+279,4,7:56,476,476,Larae Rascoe Defensive Rebound.,55,43,12,5,0.9515140260084702,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+280,4,7:51,471,471,Larae Rascoe Turnover.,55,43,12,0,0.9521684990935643,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+281,4,7:51,471,471,Justice Coleman Steal.,55,43,12,5,0.9521684990935643,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+282,4,7:46,466,466,Ariel Williams Turnover.,55,43,12,10,0.952850502542419,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+283,4,7:36,456,456,Foul on Cayla Obillo.,55,43,12,0,0.9543120772769921,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+284,4,7:36,456,456,Cayla Obillo Turnover.,55,43,12,15,0.9543120772769921,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+285,4,7:21,441,441,Foul on Taelor Willard.,55,43,12,0,0.9567945131234532,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+286,4,7:21,441,441,Taelor Willard Turnover.,55,43,12,4,0.9567945131234532,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+287,4,7:17,437,437,Kirdis Clark missed Three Point Jumper.,55,43,12,6,0.9575221801602164,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+288,4,7:11,431,431,Jada Hargrove Offensive Rebound.,55,43,12,2,0.9586685498601752,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+289,4,7:09,429,429,Larae Rascoe made Three Point Jumper. Assisted by Jada Hargrove.,55,46,9,10,0.9141543290481486,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Alcorn State
+290,4,6:59,419,419,Foul on Cayla Obillo.,55,46,9,22,0.9169472855822162,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+291,4,6:37,397,397,Justice Coleman Turnover.,55,46,9,22,0.92238387186612,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+292,4,6:15,375,375,Jada Hargrove missed Jumper.,55,46,9,2,0.9274818018522686,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+293,4,6:13,373,373,Tyginae Wright Offensive Rebound.,55,46,9,2,0.9279514112091243,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+294,4,6:11,371,371,Tyginae Wright made Three Point Jumper. Assisted by Cayla Obillo.,55,49,6,9,0.8466396686204448,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Alcorn State
+295,4,6:02,362,362,Mylashia Yancey Turnover.,55,49,6,0,0.8494876546775018,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+296,4,6:02,362,362,Cayla Obillo Steal.,55,49,6,0,0.8494876546775018,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+297,4,6:02,362,362,Cayla Obillo Turnover.,55,49,6,31,0.8494876546775018,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+298,4,5:31,331,331,Mylashia Yancey made Jumper. Assisted by Ariel Williams.,57,49,8,12,0.9190822560726281,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Grambling
+299,4,5:19,319,319,Diamond Hall missed Layup.,57,49,8,5,0.9234162256291648,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+300,4,5:14,314,314,Cayla Obillo Offensive Rebound.,57,49,8,4,0.9253369172700175,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+301,4,5:10,310,310,Diamond Hall missed Three Point Jumper.,57,49,8,4,0.9269224357381849,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+302,4,5:06,306,306,Ariel Williams Defensive Rebound.,57,49,8,16,0.9283318810424046,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+303,4,4:50,290,290,Ariel Williams made Jumper.,59,49,10,9,0.9626066509660498,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Grambling
+304,4,4:41,281,281,Foul on Ariel Williams.,59,49,10,9,0.96242597454139,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+305,4,4:32,272,272,Foul on Tyginae Wright.,59,49,10,0,0.9617325831497548,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+306,4,4:32,272,272,Tyginae Wright Turnover.,59,49,10,9,0.9617325831497548,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+307,4,4:23,263,263,Foul on Jada Hargrove.,59,49,10,6,0.9607523715710475,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+308,4,4:17,257,257,Mylashia Yancey Turnover.,59,49,10,0,0.9600566885948678,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+309,4,4:17,257,257,Kirdis Clark Steal.,59,49,10,5,0.9600566885948678,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+310,4,4:12,252,252,Foul on Brandi Washington.,59,49,10,6,0.9595154709472178,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+311,4,4:06,246,246,Foul on Taelor Willard.,59,49,10,0,0.9589821799330062,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+312,4,4:06,246,246,Larae Rascoe made Free Throw.,59,50,9,0,0.9446260200759239,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Alcorn State
+313,4,4:06,246,246,Larae Rascoe made Free Throw.,59,51,8,3,0.925634870614565,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Alcorn State
+314,4,4:03,243,243,Foul on Jada Hargrove.,59,51,8,0,0.9253623668950349,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+315,4,4:03,243,243,Taelor Willard made Free Throw.,60,51,9,0,0.9443929912593338,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Grambling
+316,4,4:03,243,243,Taelor Willard made Free Throw.,61,51,10,9,0.9587874149465496,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Grambling
+317,4,3:54,234,234,Larae Rascoe made Jumper.,61,53,8,17,0.9251232548169721,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Alcorn State
+318,4,3:37,217,217,Foul on Diamond Hall.,61,53,8,0,0.9280838400124677,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+319,4,3:37,217,217,Justice Coleman missed Free Throw.,61,53,8,0,0.9280838400124677,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+320,4,3:37,217,217,Grambling Offensive Rebound.,61,53,8,0,0.9280838400124677,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+321,4,3:37,217,217,Justice Coleman missed Free Throw.,61,53,8,1,0.9280838400124677,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+322,4,3:36,216,216,Kirdis Clark Defensive Rebound.,61,53,8,14,0.9284298007402291,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+323,4,3:22,202,202,Kirdis Clark missed Layup.,61,53,8,3,0.9355050810414347,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+324,4,3:19,199,199,Mylashia Yancey Defensive Rebound.,61,53,8,6,0.9375566134480398,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+325,4,3:13,193,193,Grambling Defensive Rebound.,61,53,8,15,0.9421754229085156,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+326,4,2:58,178,178,Brandi Washington made Three Point Jumper. Assisted by Ariel Williams.,64,53,11,8,0.9849318254566698,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Grambling
+327,4,2:50,170,170,Kirdis Clark Turnover.,64,53,11,23,0.9875086012852569,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+328,4,2:27,147,147,Justice Coleman made Layup. Assisted by Ariel Williams.,66,53,13,18,0.9971919276721911,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Grambling
+329,4,2:09,129,129,Diamond Hall missed Three Point Jumper.,66,53,13,2,0.9985421853479826,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+330,4,2:07,127,127,Jada Hargrove Offensive Rebound.,66,53,13,2,0.9986547106334928,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+331,4,2:05,125,125,Jada Hargrove made Layup.,66,55,11,28,0.9965378478466826,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Alcorn State
+332,4,1:37,97,97,Mylashia Yancey made Jumper. Assisted by Justice Coleman.,68,55,13,15,0.9996801614010514,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Grambling
+333,4,1:22,82,82,Jada Hargrove made Layup.,68,57,11,26,0.9994739773150471,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Alcorn State
+334,4,0:56,56,56,Justice Coleman missed Layup.,68,57,11,3,0.9998768093388247,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+335,4,0:53,53,53,Jada Hargrove Defensive Rebound.,68,57,11,2,0.9998972549091244,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+336,4,0:51,51,51,Kirdis Clark missed Three Point Jumper.,68,57,11,5,0.9999091207840766,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+337,4,0:46,46,46,Larae Rascoe Offensive Rebound.,68,57,11,2,0.9999335610441736,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+338,4,0:44,44,44,Larae Rascoe missed Layup.,68,57,11,2,0.9999415491756889,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+339,4,0:42,42,42,Ariel Williams Defensive Rebound.,68,57,11,2,0.9999486593905494,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+340,4,0:40,40,40,Foul on Ariel Williams.,68,57,11,0,0.9999549738474897,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+341,4,0:40,40,40,Ariel Williams Turnover.,68,57,11,9,0.9999549738474897,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+342,4,0:31,31,31,Foul on Brandi Washington.,68,57,11,0,0.9999754776692309,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+343,4,0:31,31,31,Jada Hargrove made Free Throw.,68,58,10,0,0.9999356313764277,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Alcorn State
+344,4,0:31,31,31,Jada Hargrove made Free Throw.,68,59,9,2,0.9998310498505916,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Alcorn State
+345,4,0:29,29,29,Foul on Kirdis Clark.,68,59,9,0,0.9998491364267251,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+346,4,0:29,29,29,Taelor Willard missed Free Throw.,68,59,9,0,0.9998491364267251,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+347,4,0:29,29,29,Grambling Offensive Rebound.,68,59,9,0,0.9998491364267251,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+348,4,0:29,29,29,Taelor Willard made Free Throw.,69,59,10,5,0.9999432415130637,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Grambling
+349,4,0:24,24,24,Jada Hargrove missed Jumper.,69,59,10,4,0.9999587303921296,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+350,4,0:20,20,20,Justice Coleman Defensive Rebound.,69,59,10,0,0.9999681873658404,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+351,4,0:20,20,20,Foul on Larae Rascoe.,69,59,10,0,0.9999681873658404,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+352,4,0:20,20,20,Justice Coleman made Free Throw.,70,59,11,0,0.9999887054251725,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,Grambling
+353,4,0:20,20,20,Justice Coleman missed Free Throw.,70,59,11,0,0.9999887054251725,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+354,4,0:20,20,20,Diamond Hall Defensive Rebound.,70,59,11,4,0.9999887054251725,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+355,4,0:16,16,16,Diamond Hall Turnover.,70,59,11,0,0.9999915921613303,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+356,4,0:16,16,16,Mylashia Yancey Steal.,70,59,11,16,0.9999915921613303,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,
+357,4,0:00,0,0,End of Game,70,59,11,0,1,Grambling,Alcorn State,6,6,0,0,NA,401180258,2020-02-10,

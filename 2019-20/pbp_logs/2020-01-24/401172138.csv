@@ -1,0 +1,358 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:49,2389,2389,Jaelyn Brown missed Jumper.,0,0,0,5,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,NA
+2,1,9:44,2384,2384,Sara Anastasieska Offensive Rebound.,0,0,0,16,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+3,1,9:28,2368,2368,Sara Anastasieska Turnover.,0,0,0,0,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+4,1,9:28,2368,2368,Andrea Torres Steal.,0,0,0,28,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+5,1,9:00,2340,2340,Andrea Torres missed Three Point Jumper.,0,0,0,3,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+6,1,8:57,2337,2337,Utah Offensive Rebound.,0,0,0,3,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+7,1,8:54,2334,2334,Brynna Maxwell made Jumper.,0,2,-2,19,0.4545614938352706,California,Utah,4,4,0,0,NA,401172138,2020-01-24,Utah
+8,1,8:35,2315,2315,Jaelyn Brown missed Jumper.,0,2,-2,6,0.4541445652219872,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+9,1,8:29,2309,2309,Chen Yue Offensive Rebound.,0,2,-2,2,0.45401205950216367,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+10,1,8:27,2307,2307,Sara Anastasieska made Three Point Jumper. Assisted by Chen Yue.,3,2,1,6,0.5230650757023589,California,Utah,4,4,0,0,NA,401172138,2020-01-24,California
+11,1,8:21,2301,2301,Dru Gylten Turnover.,3,2,1,0,0.5231320113790872,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+12,1,8:21,2301,2301,Leilani McIntosh Steal.,3,2,1,7,0.5231320113790872,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+13,1,8:14,2294,2294,Leilani McIntosh missed Layup.,3,2,1,8,0.523210341337861,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+14,1,8:06,2286,2286,Brynna Maxwell Defensive Rebound.,3,2,1,4,0.5233001645140872,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+15,1,8:02,2282,2282,Leilani McIntosh missed Jumper.,3,2,1,0,0.5233451933869412,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+16,1,8:02,2282,2282,Brynna Maxwell Turnover.,3,2,1,0,0.5233451933869412,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+17,1,8:02,2282,2282,Leilani McIntosh Steal.,3,2,1,4,0.5233451933869412,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+18,1,7:58,2278,2278,Leilani McIntosh Offensive Rebound.,3,2,1,1,0.5233902982015151,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+19,1,7:57,2277,2277,Leilani McIntosh missed Jumper.,3,2,1,6,0.5234015860734704,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+20,1,7:51,2271,2271,Andrea Torres Defensive Rebound.,3,2,1,6,0.5234694092905685,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+21,1,7:45,2265,2265,Foul on Leilani McIntosh.,3,2,1,18,0.5235373929445338,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+22,1,7:27,2247,2247,Lola Pendande Turnover.,3,2,1,4,0.5237422496303528,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+23,1,7:23,2243,2243,Alaysia Styles made Layup.,5,2,3,16,0.5709360006525587,California,Utah,4,4,0,0,NA,401172138,2020-01-24,California
+24,1,7:07,2227,2227,Daneesha Provo missed Three Point Jumper.,5,2,3,4,0.5714761792196995,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+25,1,7:03,2223,2223,California Defensive Rebound.,5,2,3,11,0.5716116011849327,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+26,1,6:52,2212,2212,Foul on Lola Pendande.,5,2,3,6,0.5719847230307131,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+27,1,6:46,2206,2206,Alaysia Styles made Three Point Jumper.,8,2,6,25,0.6414292462680556,California,Utah,4,4,0,0,NA,401172138,2020-01-24,California
+28,1,6:21,2181,2181,Lola Pendande missed Layup.,8,2,6,5,0.6430299040910135,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+29,1,6:16,2176,2176,Alaysia Styles Defensive Rebound.,8,2,6,6,0.6433506016000575,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+30,1,6:10,2170,2170,Alaysia Styles missed Jumper.,8,2,6,5,0.6437356282249784,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+31,1,6:05,2165,2165,Daneesha Provo Defensive Rebound.,8,2,6,6,0.644056756819015,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+32,1,5:59,2159,2159,Foul on Leilani McIntosh.,8,2,6,0,0.6444426367988169,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+33,1,5:59,2159,2159,Lola Pendande missed Free Throw.,8,2,6,0,0.6444426367988169,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+34,1,5:59,2159,2159,Utah Offensive Rebound.,8,2,6,0,0.6444426367988169,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+35,1,5:59,2159,2159,Lola Pendande made Free Throw.,8,3,5,6,0.6214206849910571,California,Utah,4,4,0,0,NA,401172138,2020-01-24,Utah
+36,1,5:53,2153,2153,Jaelyn Brown missed Jumper.,8,3,5,6,0.6217513713474608,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+37,1,5:47,2147,2147,Daneesha Provo Defensive Rebound.,8,3,5,3,0.6220826282008025,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+38,1,5:44,2144,2144,Brynna Maxwell made Jumper.,8,5,3,21,0.5743109228438779,California,Utah,4,4,0,0,NA,401172138,2020-01-24,Utah
+39,1,5:23,2123,2123,Jaelyn Brown missed Jumper.,8,5,3,4,0.5750383573438757,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+40,1,5:19,2119,2119,Chen Yue Offensive Rebound.,8,5,3,0,0.5751775328694879,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+41,1,5:19,2119,2119,Foul on Brynna Maxwell.,8,5,3,0,0.5751775328694879,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+42,1,5:19,2119,2119,Chen Yue made Free Throw.,9,5,4,0,0.5996506876673924,California,Utah,4,4,0,0,NA,401172138,2020-01-24,California
+43,1,5:19,2119,2119,Chen Yue made Free Throw.,10,5,5,11,0.6236365186902852,California,Utah,4,4,0,0,NA,401172138,2020-01-24,California
+44,1,5:08,2108,2108,Daneesha Provo missed Three Point Jumper.,10,5,5,4,0.6242508354587445,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+45,1,5:04,2104,2104,California Defensive Rebound.,10,5,5,20,0.6244747956149365,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+46,1,4:44,2084,2084,Chen Yue missed Layup.,10,5,5,3,0.6255993843299188,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+47,1,4:41,2081,2081,Jaelyn Brown Offensive Rebound.,10,5,5,2,0.6257687841210848,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+48,1,4:39,2079,2079,Jaelyn Brown missed Layup.,10,5,5,0,0.6258818235372359,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+49,1,4:39,2079,2079,Jaelyn Brown Offensive Rebound.,10,5,5,0,0.6258818235372359,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+50,1,4:39,2079,2079,Foul on Lola Pendande.,10,5,5,0,0.6258818235372359,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+51,1,4:39,2079,2079,Official TV Timeout,10,5,5,0,0.6258818235372359,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+52,1,4:39,2079,2079,Jaelyn Brown made Free Throw.,11,5,6,0,0.649651527967279,California,Utah,4,4,0,0,NA,401172138,2020-01-24,California
+53,1,4:39,2079,2079,Jaelyn Brown made Free Throw.,12,5,7,6,0.672700770691759,California,Utah,4,4,0,0,NA,401172138,2020-01-24,California
+54,1,4:33,2073,2073,Foul on Evelien Lutje Schipholt.,12,5,7,1,0.6731477966336363,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+55,1,4:32,2072,2072,Brynna Maxwell made Free Throw.,12,6,6,0,0.6501137636418993,California,Utah,4,4,0,0,NA,401172138,2020-01-24,Utah
+56,1,4:32,2072,2072,Brynna Maxwell made Free Throw.,12,7,5,13,0.6262781400678504,California,Utah,4,4,0,0,NA,401172138,2020-01-24,Utah
+57,1,4:19,2059,2059,Evelien Lutje Schipholt Turnover.,12,7,5,17,0.6270170277326002,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+58,1,4:02,2042,2042,Niyah Becker made Layup.,12,9,3,25,0.577900312236857,California,Utah,4,4,0,0,NA,401172138,2020-01-24,Utah
+59,1,3:37,2017,2017,Sara Anastasieska Turnover.,12,9,3,0,0.5788043770931707,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+60,1,3:37,2017,2017,Brynna Maxwell Steal.,12,9,3,12,0.5788043770931707,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+61,1,3:25,2005,2005,Foul on Jaelyn Brown.,12,9,3,5,0.579242228814988,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+62,1,3:20,2000,2000,Julie Brosseau made Three Point Jumper. Assisted by Niyah Becker.,12,12,0,3,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,Utah
+63,1,3:17,1997,1997,Foul on Jazlen Green.,12,12,0,0,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+64,1,3:17,1997,1997,Julie Brosseau made Free Throw.,12,13,-1,23,0.4732865232317708,California,Utah,4,4,0,0,NA,401172138,2020-01-24,Utah
+65,1,2:54,1974,1974,Jaelyn Brown missed Three Point Jumper.,12,13,-1,5,0.4729965263134973,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+66,1,2:49,1969,1969,Brynna Maxwell Defensive Rebound.,12,13,-1,10,0.47293299703084424,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+67,1,2:39,1959,1959,Niyah Becker missed Jumper.,12,13,-1,6,0.47280540107696134,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+68,1,2:33,1953,1953,Niyah Becker Offensive Rebound.,12,13,-1,1,0.4727284938592801,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+69,1,2:32,1952,1952,Niyah Becker missed Layup.,12,13,-1,3,0.472715650157282,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+70,1,2:29,1949,1949,California Defensive Rebound.,12,13,-1,5,0.4726770744269815,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+71,1,2:24,1944,1944,Jazlen Green Turnover.,12,13,-1,5,0.4726126317748718,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+72,1,2:19,1939,1939,Niyah Becker made Jumper.,12,15,-3,10,0.4183000882511438,California,Utah,4,4,0,0,NA,401172138,2020-01-24,Utah
+73,1,2:09,1929,1929,Alaysia Styles Turnover.,12,15,-3,0,0.4179198831102903,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+74,1,2:09,1929,1929,Kiana Moore Steal.,12,15,-3,12,0.4179198831102903,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+75,1,1:57,1917,1917,Maurane Corbin Turnover.,12,15,-3,14,0.41746321244888296,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+76,1,1:43,1903,1903,Foul on Niyah Becker.,12,15,-3,1,0.4169314344684211,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+77,1,1:42,1902,1902,Alaysia Styles missed Free Throw.,12,15,-3,0,0.41689347638227947,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+78,1,1:42,1902,1902,California Offensive Rebound.,12,15,-3,0,0.41689347638227947,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+79,1,1:42,1902,1902,Alaysia Styles missed Free Throw.,12,15,-3,0,0.41689347638227947,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+80,1,1:42,1902,1902,California Offensive Rebound.,12,15,-3,2,0.41689347638227947,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+81,1,1:40,1900,1900,Alaysia Styles missed Jumper.,12,15,-3,6,0.416817566772299,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+82,1,1:34,1894,1894,Julie Brosseau Defensive Rebound.,12,15,-3,7,0.41658987410298953,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+83,1,1:27,1887,1887,Kiana Moore missed Three Point Jumper.,12,15,-3,5,0.41632424960857584,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+84,1,1:22,1882,1882,Alaysia Styles Defensive Rebound.,12,15,-3,5,0.4161344881985581,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+85,1,1:17,1877,1877,Foul on Kemery Martin.,12,15,-3,0,0.41594467000173996,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+86,1,1:17,1877,1877,Alaysia Styles made Free Throw.,13,15,-2,0,0.4436662854058685,California,Utah,4,4,0,0,NA,401172138,2020-01-24,California
+87,1,1:17,1877,1877,Alaysia Styles made Free Throw.,14,15,-1,3,0.47174318365662943,California,Utah,4,4,0,0,NA,401172138,2020-01-24,California
+88,1,1:14,1874,1874,Kiana Moore Turnover.,14,15,-1,19,0.47170422597965794,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+89,1,0:55,1855,1855,Foul on Chen Yue.,14,15,-1,0,0.4714570522650251,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+90,1,0:55,1855,1855,Chen Yue Turnover.,14,15,-1,11,0.4714570522650251,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+91,1,0:44,1844,1844,Kemery Martin made Jumper.,14,17,-3,32,0.41468841227594394,California,Utah,4,4,0,0,NA,401172138,2020-01-24,Utah
+92,1,0:12,1812,1812,Sara Anastasieska missed Three Point Jumper.,14,17,-3,6,0.41345900848397943,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+93,1,0:06,1806,1806,Kiana Moore Defensive Rebound.,14,17,-3,1,0.41322665809776477,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+94,1,0:05,1805,1805,Kiana Moore missed Three Point Jumper.,14,17,-3,5,0.4131878663985901,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+95,1,0:00,1800,1800,California Defensive Rebound.,14,17,-3,0,0.4129936088523014,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+96,1,0:00,1800,1800,End of 1st Quarter,14,17,-3,20,0.4129936088523014,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+97,2,9:40,1780,1780,Jazlen Green made Jumper.,16,17,-1,19,0.4704650704851915,California,Utah,4,4,0,0,NA,401172138,2020-01-24,California
+98,2,9:21,1761,1761,Daneesha Provo missed Jumper.,16,17,-1,5,0.4702070306512659,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+99,2,9:16,1756,1756,Chen Yue Defensive Rebound.,16,17,-1,3,0.4701385191826093,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+100,2,9:13,1753,1753,Chen Yue Turnover.,16,17,-1,0,0.4700972826796332,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+101,2,9:13,1753,1753,Maurane Corbin Steal.,16,17,-1,15,0.4700972826796332,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+102,2,8:58,1738,1738,Kemery Martin missed Jumper.,16,17,-1,5,0.46988956170164276,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+103,2,8:53,1733,1733,Jaelyn Brown Defensive Rebound.,16,17,-1,18,0.46981972186740945,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+104,2,8:35,1715,1715,Chen Yue Turnover.,16,17,-1,0,0.4695656133376494,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+105,2,8:35,1715,1715,Kemery Martin Steal.,16,17,-1,20,0.4695656133376494,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+106,2,8:15,1695,1695,Foul on Jazlen Green.,16,17,-1,14,0.46927791938460095,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+107,2,8:01,1681,1681,Dru Gylten missed Layup.,16,17,-1,3,0.46907445395022607,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+108,2,7:58,1678,1678,Jazlen Green Defensive Rebound.,16,17,-1,6,0.4690313190250685,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+109,2,7:52,1672,1672,Sara Anastasieska made Layup.,18,17,1,21,0.5310544015180408,California,Utah,4,4,0,0,NA,401172138,2020-01-24,California
+110,2,7:31,1651,1651,Foul on Jaelyn Brown.,18,17,1,5,0.5313494347996184,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+111,2,7:26,1646,1646,Dru Gylten made Jumper.,18,19,-1,13,0.4685812724401714,California,Utah,4,4,0,0,NA,401172138,2020-01-24,Utah
+112,2,7:13,1633,1633,Foul on Dru Gylten.,18,19,-1,0,0.46840240925225834,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+113,2,7:13,1633,1633,Jazlen Green made Free Throw.,19,19,0,0,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,California
+114,2,7:13,1633,1633,Jazlen Green made Free Throw.,20,19,1,17,0.5315975907477417,California,Utah,4,4,0,0,NA,401172138,2020-01-24,California
+115,2,6:56,1616,1616,Brynna Maxwell made Three Point Jumper.,20,22,-2,16,0.43659798029823804,California,Utah,4,4,0,0,NA,401172138,2020-01-24,Utah
+116,2,6:40,1600,1600,Sara Anastasieska made Layup.,22,22,0,6,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,California
+117,2,6:34,1594,1594,Daneesha Provo missed Layup.,22,22,0,5,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+118,2,6:29,1589,1589,Utah Offensive Rebound.,22,22,0,0,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+119,2,6:29,1589,1589,Foul on Brynna Maxwell.,22,22,0,10,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+120,2,6:19,1579,1579,Chen Yue made Jumper. Assisted by Sara Anastasieska.,24,22,2,9,0.5643955598077249,California,Utah,4,4,0,0,NA,401172138,2020-01-24,California
+121,2,6:10,1570,1570,Dru Gylten made Jumper.,24,24,0,19,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,Utah
+122,2,5:51,1551,1551,Sara Anastasieska missed Three Point Jumper.,24,24,0,4,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+123,2,5:47,1547,1547,Dru Gylten Defensive Rebound.,24,24,0,7,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+124,2,5:40,1540,1540,Daneesha Provo Turnover.,24,24,0,23,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+125,2,5:17,1517,1517,Alaysia Styles missed Three Point Jumper.,24,24,0,4,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+126,2,5:13,1513,1513,Niyah Becker Defensive Rebound.,24,24,0,4,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+127,2,5:09,1509,1509,Kemery Martin missed Three Point Jumper.,24,24,0,4,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+128,2,5:05,1505,1505,California Defensive Rebound.,24,24,0,0,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+129,2,5:05,1505,1505,Foul on Niyah Becker.,24,24,0,4,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+130,2,5:01,1501,1501,Cailyn Crocker missed Jumper.,24,24,0,0,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+131,2,5:01,1501,1501,Maurane Corbin Block.,24,24,0,14,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+132,2,4:47,1487,1487,Kemery Martin Defensive Rebound.,24,24,0,0,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+133,2,4:47,1487,1487,Foul on Evelien Lutje Schipholt.,24,24,0,4,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+134,2,4:43,1483,1483,Dru Gylten missed Layup.,24,24,0,4,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+135,2,4:39,1479,1479,Alaysia Styles Defensive Rebound.,24,24,0,21,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+136,2,4:18,1458,1458,Chen Yue Turnover.,24,24,0,20,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+137,2,3:58,1438,1438,Kemery Martin Turnover.,24,24,0,15,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+138,2,3:43,1423,1423,Alaysia Styles missed Three Point Jumper.,24,24,0,8,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+139,2,3:35,1415,1415,Chen Yue Offensive Rebound.,24,24,0,1,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+140,2,3:34,1414,1414,Sara Anastasieska made Jumper. Assisted by Cailyn Crocker.,26,24,2,16,0.5693212374018192,California,Utah,4,4,0,0,NA,401172138,2020-01-24,California
+141,2,3:18,1398,1398,Foul on Chen Yue.,26,24,2,3,0.5698109890819198,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+142,2,3:15,1395,1395,Andrea Torres missed Three Point Jumper.,26,24,2,7,0.5699019086909004,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+143,2,3:08,1388,1388,Kemery Martin Offensive Rebound.,26,24,2,8,0.5701132313457744,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+144,2,3:00,1380,1380,Niyah Becker missed Layup.,26,24,2,4,0.5703536794667341,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+145,2,2:56,1376,1376,Utah Offensive Rebound.,26,24,2,0,0.5704736248183312,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+146,2,2:56,1376,1376,Dru Gylten missed Three Point Jumper.,26,24,2,4,0.5704736248183312,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+147,2,2:52,1372,1372,Evelien Lutje Schipholt Defensive Rebound.,26,24,2,4,0.570593466680972,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+148,2,2:48,1368,1368,Alaysia Styles missed Layup.,26,24,2,4,0.5707132667711677,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+149,2,2:44,1364,1364,Maurane Corbin Defensive Rebound.,26,24,2,19,0.5708330867884075,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+150,2,2:25,1345,1345,Niyah Becker made Jumper.,26,26,0,13,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,Utah
+151,2,2:12,1332,1332,Jazlen Green Turnover.,26,26,0,0,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+152,2,2:12,1332,1332,Maurane Corbin Steal.,26,26,0,22,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+153,2,1:50,1310,1310,Niyah Becker missed Jumper.,26,26,0,3,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+154,2,1:47,1307,1307,California Defensive Rebound.,26,26,0,0,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+155,2,1:47,1307,1307,Foul on Maurane Corbin.,26,26,0,15,0.5,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+156,2,1:32,1292,1292,Sara Anastasieska made Three Point Jumper. Assisted by Jazlen Green.,29,26,3,28,0.6086263444827065,California,Utah,4,4,0,0,NA,401172138,2020-01-24,California
+157,2,1:04,1264,1264,Ola Makurat missed Three Point Jumper.,29,26,3,4,0.610015676868441,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+158,2,1:00,1260,1260,Ola Makurat Offensive Rebound.,29,26,3,0,0.6102227992123503,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+159,2,1:00,1260,1260,Foul on Evelien Lutje Schipholt.,29,26,3,0,0.6102227992123503,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+160,2,1:00,1260,1260,Ola Makurat made Free Throw.,29,27,2,0,0.5741571015046214,California,Utah,4,4,0,0,NA,401172138,2020-01-24,Utah
+161,2,1:00,1260,1260,Ola Makurat made Free Throw.,29,28,1,24,0.5372847299023809,California,Utah,4,4,0,0,NA,401172138,2020-01-24,Utah
+162,2,0:36,1236,1236,Jazlen Green missed Three Point Jumper.,29,28,1,5,0.537736789279994,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+163,2,0:31,1231,1231,Ola Makurat Defensive Rebound.,29,28,1,28,0.5378354818088573,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+164,2,0:03,1203,1203,Utah  Turnover.,29,28,1,3,0.5384181111416124,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+165,2,0:00,1200,1200,End of 2nd Quarter,29,28,1,30,0.5384812553577752,California,Utah,4,4,0,0,NA,401172138,2020-01-24,
+166,3,9:30,1170,1170,Dru Gylten Turnover.,29,28,1,0,0.5390949967418553,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+167,3,9:30,1170,1170,Alaysia Styles Steal.,29,28,1,20,0.5390949967418553,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+168,3,9:10,1150,1150,Sara Anastasieska missed Jumper.,29,28,1,0,0.5394922781991501,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+169,3,9:10,1150,1150,Alaysia Styles made Layup.,31,28,3,14,0.6165420458613019,California,Utah,5,5,0,0,NA,401172138,2020-01-24,California
+170,3,8:56,1136,1136,Brynna Maxwell Defensive Rebound.,31,28,3,3,0.6173293911058559,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+171,3,8:53,1133,1133,Andrea Torres made Jumper.,31,30,1,9,0.5398272641257124,California,Utah,5,5,0,0,NA,401172138,2020-01-24,Utah
+172,3,8:44,1124,1124,Alaysia Styles made Jumper.,33,30,3,12,0.6180043274693907,California,Utah,5,5,0,0,NA,401172138,2020-01-24,California
+173,3,8:32,1112,1112,Dru Gylten made Layup.,33,32,1,10,0.5402428752021963,California,Utah,5,5,0,0,NA,401172138,2020-01-24,Utah
+174,3,8:22,1102,1102,Chen Yue made Jumper.,35,32,3,32,0.6192534268721425,California,Utah,5,5,0,0,NA,401172138,2020-01-24,California
+175,3,7:50,1070,1070,Lola Pendande missed Jumper.,35,32,3,6,0.6211338826065295,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+176,3,7:44,1064,1064,Chen Yue Defensive Rebound.,35,32,3,8,0.6214992181221736,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+177,3,7:36,1056,1056,Alaysia Styles missed Layup.,35,32,3,4,0.6219942299711317,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+178,3,7:32,1052,1052,Lola Pendande Defensive Rebound.,35,32,3,20,0.6222453938019109,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+179,3,7:12,1032,1032,Dru Gylten Turnover.,35,32,3,20,0.6235426326789147,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+180,3,6:52,1012,1012,Jaelyn Brown made Layup. Assisted by Chen Yue.,37,32,5,9,0.7007363597169669,California,Utah,5,5,0,0,NA,401172138,2020-01-24,California
+181,3,6:43,1003,1003,Foul on Daneesha Provo.,37,32,5,0,0.701704878428278,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+182,3,6:43,1003,1003,Jaelyn Brown made Free Throw.,38,32,6,4,0.7362397939499291,California,Utah,5,5,0,0,NA,401172138,2020-01-24,California
+183,3,6:39,999,999,Brynna Maxwell made Three Point Jumper.,38,35,3,21,0.6258652360602102,California,Utah,5,5,0,0,NA,401172138,2020-01-24,Utah
+184,3,6:18,978,978,Sara Anastasieska Turnover.,38,35,3,0,0.6274874479041276,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+185,3,6:18,978,978,Foul on Sara Anastasieska.,38,35,3,4,0.6274874479041276,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+186,3,6:14,974,974,Dru Gylten made Jumper.,38,37,1,17,0.5434598154266636,California,Utah,5,5,0,0,NA,401172138,2020-01-24,Utah
+187,3,5:57,957,957,Jaelyn Brown made Jumper.,40,37,3,14,0.6291745858613803,California,Utah,5,5,0,0,NA,401172138,2020-01-24,California
+188,3,5:43,943,943,Dru Gylten missed Layup.,40,37,3,4,0.6302091369447242,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+189,3,5:39,939,939,Chen Yue Defensive Rebound.,40,37,3,7,0.6304915531634911,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+190,3,5:32,932,932,Chen Yue missed Jumper.,40,37,3,4,0.6309735245113008,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+191,3,5:28,928,928,Lola Pendande Defensive Rebound.,40,37,3,11,0.6312425575734204,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+192,3,5:17,917,917,Brynna Maxwell made Jumper.,40,39,1,19,0.5449320160697309,California,Utah,5,5,0,0,NA,401172138,2020-01-24,Utah
+193,3,4:58,898,898,Jaelyn Brown made Jumper.,42,39,3,10,0.633151874055841,California,Utah,5,5,0,0,NA,401172138,2020-01-24,California
+194,3,4:48,888,888,Dru Gylten missed Layup.,42,39,3,0,0.6337623277051396,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+195,3,4:48,888,888,Chen Yue Block.,42,39,3,7,0.6337623277051396,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+196,3,4:41,881,881,Utah Offensive Rebound.,42,39,3,14,0.6341871503649714,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+197,3,4:27,867,867,Official TV Timeout,42,39,3,12,0.6350391269095444,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+198,3,4:15,855,855,Lola Pendande missed Jumper.,42,39,3,2,0.6357814340418542,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+199,3,4:13,853,853,Kiana Moore Offensive Rebound.,42,39,3,0,0.6359069592191242,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+200,3,4:13,853,853,Foul on Sara Anastasieska.,42,39,3,0,0.6359069592191242,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+201,3,4:13,853,853,Kiana Moore missed Free Throw.,42,39,3,0,0.6359069592191242,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+202,3,4:13,853,853,Utah Offensive Rebound.,42,39,3,0,0.6359069592191242,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+203,3,4:13,853,853,Kiana Moore missed Free Throw.,42,39,3,0,0.6359069592191242,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+204,3,4:13,853,853,Chen Yue Defensive Rebound.,42,39,3,26,0.6359069592191242,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+205,3,3:47,827,827,Sara Anastasieska Turnover.,42,39,3,14,0.637612653692353,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+206,3,3:33,813,813,Lola Pendande missed Jumper.,42,39,3,4,0.6386095316174478,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+207,3,3:29,809,809,Jaelyn Brown Defensive Rebound.,42,39,3,2,0.6389073345490542,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+208,3,3:27,807,807,Sara Anastasieska missed Jumper.,42,39,3,4,0.6390586178552988,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+209,3,3:23,803,803,Brynna Maxwell Defensive Rebound.,42,39,3,7,0.6393661659130186,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+210,3,3:16,796,796,Julie Brosseau Turnover.,42,39,3,14,0.6399212634085362,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+211,3,3:02,782,782,Jaelyn Brown missed Jumper.,42,39,3,5,0.6411025706108392,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+212,3,2:57,777,777,Chen Yue Offensive Rebound.,42,39,3,2,0.6415496621649602,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+213,3,2:55,775,775,Foul on Kiana Moore.,42,39,3,0,0.6417324746583041,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+214,3,2:55,775,775,Chen Yue missed Free Throw.,42,39,3,0,0.6417324746583041,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+215,3,2:55,775,775,California Offensive Rebound.,42,39,3,0,0.6417324746583041,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+216,3,2:55,775,775,Chen Yue made Free Throw.,43,39,4,19,0.6850738986306649,California,Utah,5,5,0,0,NA,401172138,2020-01-24,California
+217,3,2:36,756,756,Niyah Becker missed Layup.,43,39,4,3,0.6873981707489135,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+218,3,2:33,753,753,Jaelyn Brown Defensive Rebound.,43,39,4,5,0.6877918468464281,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+219,3,2:28,748,748,Sara Anastasieska missed Three Point Jumper.,43,39,4,4,0.6884652843135567,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+220,3,2:24,744,744,Kiana Moore Defensive Rebound.,43,39,4,5,0.6890200627675009,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+221,3,2:19,739,739,Brynna Maxwell made Three Point Jumper. Assisted by Kiana Moore.,43,42,1,8,0.5497645093967024,California,Utah,5,5,0,0,NA,401172138,2020-01-24,Utah
+222,3,2:11,731,731,Jazlen Green made Three Point Jumper. Assisted by Leilani McIntosh.,46,42,4,16,0.6909264813328339,California,Utah,5,5,0,0,NA,401172138,2020-01-24,California
+223,3,1:55,715,715,Kiana Moore made Layup.,46,44,2,7,0.600535229781105,California,Utah,5,5,0,0,NA,401172138,2020-01-24,Utah
+224,3,1:48,708,708,Jazlen Green missed Three Point Jumper.,46,44,2,3,0.6010639357433156,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+225,3,1:45,705,705,Jazlen Green Offensive Rebound.,46,44,2,0,0.6012833707619049,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+226,3,1:45,705,705,Foul on Jazlen Green.,46,44,2,0,0.6012833707619049,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+227,3,1:45,705,705,Jazlen Green Turnover.,46,44,2,17,0.6012833707619049,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+228,3,1:28,688,688,Foul on Maurane Corbin.,46,44,2,0,0.602462044519044,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+229,3,1:28,688,688,Maurane Corbin Turnover.,46,44,2,9,0.602462044519044,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+230,3,1:19,679,679,Jaelyn Brown missed Layup.,46,44,2,4,0.6030534618603447,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+231,3,1:15,675,675,Maurane Corbin Defensive Rebound.,46,44,2,2,0.6033118268743605,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+232,3,1:13,673,673,Kiana Moore Turnover.,46,44,2,0,0.6034402911002403,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+233,3,1:13,673,673,Jazlen Green Steal.,46,44,2,8,0.6034402911002403,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+234,3,1:05,665,665,Foul on Jazlen Green.,46,44,2,0,0.6039513306893579,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+235,3,1:05,665,665,Jazlen Green Turnover.,46,44,2,7,0.6039513306893579,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+236,3,0:58,658,658,Brynna Maxwell made Jumper.,46,46,0,9,0.5,California,Utah,5,5,0,0,NA,401172138,2020-01-24,Utah
+237,3,0:49,649,649,Sara Anastasieska missed Three Point Jumper.,46,46,0,1,0.5,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+238,3,0:48,648,648,Chen Yue Offensive Rebound.,46,46,0,9,0.5,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+239,3,0:39,639,639,Leilani McIntosh missed Layup.,46,46,0,5,0.5,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+240,3,0:34,634,634,Maurane Corbin Defensive Rebound.,46,46,0,19,0.5,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+241,3,0:15,615,615,Brynna Maxwell missed Three Point Jumper.,46,46,0,3,0.5,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+242,3,0:12,612,612,Niyah Becker Offensive Rebound.,46,46,0,10,0.5,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+243,3,0:02,602,602,Julie Brosseau missed Layup.,46,46,0,2,0.5,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+244,3,0:00,600,600,Maurane Corbin Offensive Rebound.,46,46,0,0,0.5,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+245,3,0:00,600,600,Maurane Corbin made Layup.,46,48,-2,0,0.39144009480292735,California,Utah,5,5,0,0,NA,401172138,2020-01-24,Utah
+246,3,0:00,600,600,End of 3rd Quarter,46,46,0,8,0.5,California,Utah,5,5,0,0,NA,401172138,2020-01-24,
+247,4,9:52,592,592,Brynna Maxwell made Jumper.,46,50,-4,20,0.29142910844300585,California,Utah,6,6,0,0,NA,401172138,2020-01-24,Utah
+248,4,9:32,572,572,Sara Anastasieska made Jumper.,48,50,-2,26,0.3887469921961607,California,Utah,6,6,0,0,NA,401172138,2020-01-24,California
+249,4,9:06,546,546,Maurane Corbin missed Layup.,48,50,-2,3,0.3856004096711528,California,Utah,6,6,0,0,NA,401172138,2020-01-24,
+250,4,9:03,543,543,Chen Yue Defensive Rebound.,48,50,-2,4,0.38523096350392544,California,Utah,6,6,0,0,NA,401172138,2020-01-24,
+251,4,8:59,539,539,Leilani McIntosh Turnover.,48,50,-2,10,0.38475810202472255,California,Utah,6,6,0,0,NA,401172138,2020-01-24,
+252,4,8:49,529,529,Brynna Maxwell missed Jumper.,48,50,-2,7,0.3836597459746855,California,Utah,6,6,0,0,NA,401172138,2020-01-24,
+253,4,8:42,522,522,Lola Pendande Offensive Rebound.,48,50,-2,0,0.3829465603799177,California,Utah,6,6,0,0,NA,401172138,2020-01-24,
+254,4,8:42,522,522,Lola Pendande made Layup.,48,52,-4,12,0.2780569390196453,California,Utah,6,6,0,0,NA,401172138,2020-01-24,Utah
+255,4,8:30,510,510,Jazlen Green made Three Point Jumper. Assisted by Leilani McIntosh.,51,52,-1,16,0.4400449503676881,California,Utah,6,6,0,0,NA,401172138,2020-01-24,California
+256,4,8:14,494,494,Lola Pendande made Layup. Assisted by Brynna Maxwell.,51,54,-3,6,0.32463627784841,California,Utah,6,6,0,0,NA,401172138,2020-01-24,Utah
+257,4,8:08,488,488,California  Timeout,51,54,-3,16,0.32382076138960114,California,Utah,5,6,1,0,NA,401172138,2020-01-24,
+258,4,7:52,472,472,Leilani McIntosh Turnover.,51,54,-3,0,0.3214676019655427,California,Utah,5,6,1,0,NA,401172138,2020-01-24,
+259,4,7:52,472,472,Dru Gylten Steal.,51,54,-3,7,0.3214676019655427,California,Utah,5,6,1,0,NA,401172138,2020-01-24,
+260,4,7:45,465,465,Brynna Maxwell made Layup.,51,56,-5,13,0.22203322024621489,California,Utah,5,6,1,0,NA,401172138,2020-01-24,Utah
+261,4,7:32,452,452,Sara Anastasieska made Three Point Jumper. Assisted by Leilani McIntosh.,54,56,-2,14,0.37544349823991974,California,Utah,5,6,1,0,NA,401172138,2020-01-24,California
+262,4,7:18,438,438,Dru Gylten Turnover.,54,56,-2,0,0.3732094101608931,California,Utah,5,6,1,0,NA,401172138,2020-01-24,
+263,4,7:18,438,438,Leilani McIntosh Steal.,54,56,-2,4,0.3732094101608931,California,Utah,5,6,1,0,NA,401172138,2020-01-24,
+264,4,7:14,434,434,Jazlen Green made Layup.,56,56,0,19,0.5,California,Utah,5,6,1,0,NA,401172138,2020-01-24,California
+265,4,6:55,415,415,Lola Pendande made Layup. Assisted by Brynna Maxwell.,56,58,-2,15,0.36894233751891353,California,Utah,5,6,0,0,NA,401172138,2020-01-24,Utah
+266,4,6:40,400,400,Sara Anastasieska made Three Point Jumper. Assisted by Leilani McIntosh.,59,58,1,0,0.5680575482480025,California,Utah,5,6,0,0,NA,401172138,2020-01-24,California
+267,4,6:40,400,400,Foul on Lola Pendande.,59,58,1,15,0.5680575482480025,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+268,4,6:25,385,385,Leilani McIntosh missed Layup.,59,58,1,5,0.5694005583217165,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+269,4,6:20,380,380,Brynna Maxwell Defensive Rebound.,59,58,1,6,0.5698582521361394,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+270,4,6:14,374,374,Foul on Leilani McIntosh.,59,58,1,14,0.5704211536321364,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+271,4,6:00,360,360,Brynna Maxwell made Layup.,59,60,-1,29,0.4281787151997605,California,Utah,5,6,0,0,NA,401172138,2020-01-24,Utah
+272,4,5:31,331,331,Leilani McIntosh Turnover.,59,60,-1,16,0.4246427777110048,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+273,4,5:15,315,315,Lola Pendande missed Jumper.,59,60,-1,4,0.42215250944905397,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+274,4,5:11,311,311,Leilani McIntosh Defensive Rebound.,59,60,-1,5,0.42145423596781223,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+275,4,5:06,306,306,Jaelyn Brown Turnover.,59,60,-1,16,0.4206348269703128,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+276,4,4:50,290,290,Foul on Jaelyn Brown.,59,60,-1,0,0.4195026967735849,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+277,4,4:50,290,290,Official TV Timeout,59,60,-1,0,0.4195026967735849,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+278,4,4:50,290,290,Andrea Torres missed Free Throw.,59,60,-1,0,0.4195026967735849,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+279,4,4:50,290,290,Utah Offensive Rebound.,59,60,-1,0,0.4195026967735849,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+280,4,4:50,290,290,Andrea Torres made Free Throw.,59,61,-2,16,0.34307283018169726,California,Utah,5,6,0,0,NA,401172138,2020-01-24,Utah
+281,4,4:34,274,274,Sara Anastasieska missed Three Point Jumper.,59,61,-2,5,0.34392631833108445,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+282,4,4:29,269,269,Lola Pendande Defensive Rebound.,59,61,-2,7,0.34453039135523844,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+283,4,4:22,262,262,Brynna Maxwell missed Three Point Jumper.,59,61,-2,4,0.34548429737347536,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+284,4,4:18,258,258,Andrea Torres Offensive Rebound.,59,61,-2,3,0.3460374714983458,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+285,4,4:15,255,255,Lola Pendande missed Layup.,59,61,-2,3,0.3464358465612115,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+286,4,4:12,252,252,Andrea Torres Offensive Rebound.,59,61,-2,1,0.3468075681306932,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+287,4,4:11,251,251,Andrea Torres missed Layup.,59,61,-2,4,0.3469236036306991,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+288,4,4:07,247,247,Leilani McIntosh Defensive Rebound.,59,61,-2,3,0.34733723697313945,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+289,4,4:04,244,244,Sara Anastasieska missed Three Point Jumper.,59,61,-2,3,0.3475827101796122,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+290,4,4:01,241,241,Lola Pendande Defensive Rebound.,59,61,-2,0,0.34776012390550853,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+291,4,4:01,241,241,Foul on Jaelyn Brown.,59,61,-2,15,0.34776012390550853,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+292,4,3:46,226,226,Lola Pendande missed Layup.,59,61,-2,2,0.34723182304027916,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+293,4,3:44,224,224,Evelien Lutje Schipholt Defensive Rebound.,59,61,-2,0,0.34693615400151545,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+294,4,3:44,224,224,Foul on Andrea Torres.,59,61,-2,26,0.34693615400151545,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+295,4,3:18,198,198,Evelien Lutje Schipholt Turnover.,59,61,-2,0,0.33618092221747037,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+296,4,3:18,198,198,Lola Pendande Steal.,59,61,-2,19,0.33618092221747037,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+297,4,2:59,179,179,Lola Pendande made Layup.,59,63,-4,21,0.18071732247073352,California,Utah,5,6,0,0,NA,401172138,2020-01-24,Utah
+298,4,2:38,158,158,Sara Anastasieska Turnover.,59,63,-4,0,0.15467870596035563,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+299,4,2:38,158,158,Dru Gylten Steal.,59,63,-4,6,0.15467870596035563,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+300,4,2:32,152,152,Brynna Maxwell missed Layup.,59,63,-4,4,0.14724286003922865,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+301,4,2:28,148,148,Jaelyn Brown Defensive Rebound.,59,63,-4,5,0.1422614566767474,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+302,4,2:23,143,143,Jazlen Green missed Three Point Jumper.,59,63,-4,3,0.13600062619032793,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+303,4,2:20,140,140,Jazlen Green Offensive Rebound.,59,63,-4,1,0.13222450956301776,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+304,4,2:19,139,139,Jazlen Green missed Layup.,59,63,-4,4,0.1309624896725249,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+305,4,2:15,135,135,Lola Pendande Defensive Rebound.,59,63,-4,6,0.12589824598289595,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+306,4,2:09,129,129,Foul on Leilani McIntosh.,59,63,-4,0,0.11825775160611349,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+307,4,2:09,129,129,Dru Gylten missed Free Throw.,59,63,-4,0,0.11825775160611349,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+308,4,2:09,129,129,Utah Offensive Rebound.,59,63,-4,0,0.11825775160611349,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+309,4,2:09,129,129,Dru Gylten made Free Throw.,59,64,-5,9,0.0750703851811288,California,Utah,5,6,0,0,NA,401172138,2020-01-24,Utah
+310,4,2:00,120,120,Foul on Lola Pendande.,59,64,-5,17,0.06563596700207514,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+311,4,1:43,103,103,Sara Anastasieska missed Jumper.,59,64,-5,3,0.04881483141908162,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+312,4,1:40,100,100,Alaysia Styles Offensive Rebound.,59,64,-5,2,0.04602830925978844,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+313,4,1:38,98,98,Alaysia Styles missed Jumper.,59,64,-5,1,0.044207139168807065,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+314,4,1:37,97,97,Kiana Moore Defensive Rebound.,59,64,-5,0,0.043308008722786416,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+315,4,1:37,97,97,Foul on Jaelyn Brown.,59,64,-5,0,0.043308008722786416,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+316,4,1:37,97,97,Kiana Moore made Free Throw.,59,65,-6,0,0.02379556756180867,California,Utah,5,6,0,0,NA,401172138,2020-01-24,Utah
+317,4,1:37,97,97,Kiana Moore made Free Throw.,59,66,-7,6,0.012955413500768873,California,Utah,5,6,0,0,NA,401172138,2020-01-24,Utah
+318,4,1:31,91,91,Leilani McIntosh Turnover.,59,66,-7,0,0.010787681970764098,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+319,4,1:31,91,91,Kiana Moore Steal.,59,66,-7,21,0.010787681970764098,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+320,4,1:10,70,70,Kiana Moore missed Three Point Jumper.,59,66,-7,5,0.005418663109981727,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+321,4,1:05,65,65,Leilani McIntosh Defensive Rebound.,59,66,-7,7,0.004529106080289151,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+322,4,0:58,58,58,Alaysia Styles missed Jumper.,59,66,-7,0,0.0034968911395050557,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+323,4,0:58,58,58,Lola Pendande Block.,59,66,-7,5,0.0034968911395050557,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+324,4,0:53,53,53,Alaysia Styles Offensive Rebound.,59,66,-7,1,0.0028893591376448666,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+325,4,0:52,52,52,Dru Gylten made Free Throw.,59,68,-9,0,5.187574345323686e-4,California,Utah,5,6,0,0,NA,401172138,2020-01-24,Utah
+326,4,0:52,52,52,Brynna Maxwell missed Free Throw.,59,66,-7,0,0.0027793216396502962,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+327,4,0:52,52,52,Utah Offensive Rebound.,59,66,-7,0,0.0027793216396502962,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+328,4,0:52,52,52,Brynna Maxwell made Free Throw.,59,67,-8,0,0.001201286465026372,California,Utah,5,6,0,0,NA,401172138,2020-01-24,Utah
+329,4,0:52,52,52,Alaysia Styles made Free Throw.,60,69,-9,0,5.187574345323686e-4,California,Utah,5,6,0,0,NA,401172138,2020-01-24,California
+330,4,0:52,52,52,Foul on Cailyn Crocker.,59,67,-8,0,0.001201286465026372,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+331,4,0:52,52,52,Dru Gylten made Free Throw.,59,69,-10,0,2.2393062861239253e-4,California,Utah,5,6,0,0,NA,401172138,2020-01-24,Utah
+332,4,0:52,52,52,Technical Foul on Alaysia Styles.,59,69,-10,0,2.2393062861239253e-4,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+333,4,0:52,52,52,Foul on Kiana Moore.,59,69,-10,0,2.2393062861239253e-4,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+334,4,0:52,52,52,Alaysia Styles missed Free Throw.,59,69,-10,0,2.2393062861239253e-4,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+335,4,0:52,52,52,California Offensive Rebound.,59,69,-10,9,2.2393062861239253e-4,California,Utah,5,6,0,0,NA,401172138,2020-01-24,
+336,4,0:43,43,43,Sara Anastasieska made Layup.,62,69,-7,1,0.0019383990052115906,California,Utah,5,6,0,0,NA,401172138,2020-01-24,California
+337,4,0:42,42,42,Foul on Lola Pendande.,62,69,-7,0,0.0018599405011669977,California,Utah,5,6,1,0,NA,401172138,2020-01-24,
+338,4,0:42,42,42,Sara Anastasieska missed Free Throw.,62,69,-7,0,0.0018599405011669977,California,Utah,5,6,1,0,NA,401172138,2020-01-24,
+339,4,0:42,42,42,Brynna Maxwell Defensive Rebound.,62,69,-7,0,0.0018599405011669977,California,Utah,5,6,1,0,NA,401172138,2020-01-24,
+340,4,0:42,42,42,Foul on Evelien Lutje Schipholt.,62,69,-7,0,0.0018599405011669977,California,Utah,5,6,1,0,NA,401172138,2020-01-24,
+341,4,0:42,42,42,Kiana Moore missed Free Throw.,62,69,-7,0,0.0018599405011669977,California,Utah,5,6,1,0,NA,401172138,2020-01-24,
+342,4,0:42,42,42,Utah Offensive Rebound.,62,69,-7,0,0.0018599405011669977,California,Utah,5,6,1,0,NA,401172138,2020-01-24,
+343,4,0:42,42,42,Kiana Moore missed Free Throw.,62,69,-7,0,0.0018599405011669977,California,Utah,5,6,1,0,NA,401172138,2020-01-24,
+344,4,0:42,42,42,Alaysia Styles Defensive Rebound.,62,69,-7,0,0.0018599405011669977,California,Utah,5,6,1,0,NA,401172138,2020-01-24,
+345,4,0:42,42,42,California  Timeout,62,69,-7,7,0.0018599405011669977,California,Utah,4,6,1,0,NA,401172138,2020-01-24,
+346,4,0:35,35,35,Sara Anastasieska missed Jumper.,62,69,-7,3,0.0013836561552478138,California,Utah,4,6,1,0,NA,401172138,2020-01-24,
+347,4,0:32,32,32,California Offensive Rebound.,62,69,-7,5,0.001214989842648159,California,Utah,4,6,1,0,NA,401172138,2020-01-24,
+348,4,0:27,27,27,Jazlen Green missed Layup.,62,69,-7,2,9.746895862391419e-4,California,Utah,4,6,1,0,NA,401172138,2020-01-24,
+349,4,0:25,25,25,Maurane Corbin Defensive Rebound.,62,69,-7,0,8.914087604280627e-4,California,Utah,4,6,1,0,NA,401172138,2020-01-24,
+350,4,0:25,25,25,Foul on Jazlen Green.,62,69,-7,0,8.914087604280627e-4,California,Utah,4,6,1,0,NA,401172138,2020-01-24,
+351,4,0:25,25,25,Maurane Corbin made Free Throw.,62,70,-8,0,3.2709518770429504e-4,California,Utah,4,6,1,0,NA,401172138,2020-01-24,Utah
+352,4,0:25,25,25,Maurane Corbin made Free Throw.,62,71,-9,0,1.1998201524139332e-4,California,Utah,4,6,1,0,NA,401172138,2020-01-24,Utah
+353,4,0:25,25,25,California  Timeout,62,71,-9,8,1.1998201524139332e-4,California,Utah,3,6,1,0,NA,401172138,2020-01-24,
+354,4,0:17,17,17,Alaysia Styles Turnover.,62,71,-9,0,7.480679674948583e-5,California,Utah,3,6,1,0,NA,401172138,2020-01-24,
+355,4,0:17,17,17,Dru Gylten Steal.,62,71,-9,17,7.480679674948583e-5,California,Utah,3,6,1,0,NA,401172138,2020-01-24,
+356,4,0:00,0,0,End of 4th Quarter,61,73,-12,0,5.8792826982452694e-105,California,Utah,3,6,1,0,NA,401172138,2020-01-24,Utah
+357,4,0:00,0,0,End of Game,62,71,-9,0,6.714184288211594e-79,California,Utah,3,6,1,0,NA,401172138,2020-01-24,California

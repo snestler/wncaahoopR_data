@@ -1,0 +1,348 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:31,2371,2371,Abbie Wolf missed Jumper.,0,0,0,4,0.5,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,NA
+2,1,9:27,2367,2367,Abby Schubiger Defensive Rebound.,0,0,0,23,0.5,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+3,1,9:04,2344,2344,Haley Greer missed Three Point Jumper.,0,0,0,3,0.5,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+4,1,9:01,2341,2341,Northwestern Defensive Rebound.,0,0,0,12,0.5,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+5,1,8:49,2329,2329,Foul on Rachel Thompson.,0,0,0,3,0.5,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+6,1,8:46,2326,2326,Lindsey Pulliam made Jumper. Assisted by Sydney Wood.,2,0,2,23,0.5456135467511029,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,Northwestern
+7,1,8:23,2303,2303,Rachel Thompson missed Three Point Jumper.,2,0,2,4,0.5461208317819461,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+8,1,8:19,2299,2299,Sydney Wood Defensive Rebound.,2,0,2,20,0.5462096345603725,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+9,1,7:59,2279,2279,Abi Scheid made Three Point Jumper. Assisted by Veronica Burton.,5,0,5,1,0.6148916869348612,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,Northwestern
+10,1,7:58,2278,2278,Colgate  Timeout,5,0,5,1,0.614945240045952,Northwestern,Colgate,3,4,1,0,NA,401177314,2019-11-27,
+11,1,7:57,2277,2277,Foul on Veronica Burton.,5,0,5,13,0.6149988125117353,Northwestern,Colgate,3,4,1,0,NA,401177314,2019-11-27,
+12,1,7:44,2264,2264,Haley Greer missed Three Point Jumper.,5,0,5,3,0.6156969569824661,Northwestern,Colgate,3,4,1,0,NA,401177314,2019-11-27,
+13,1,7:41,2261,2261,Sydney Wood Defensive Rebound.,5,0,5,2,0.6158584986535243,Northwestern,Colgate,3,4,1,0,NA,401177314,2019-11-27,
+14,1,7:39,2259,2259,Lindsey Pulliam missed Jumper.,5,0,5,4,0.6159662791029149,Northwestern,Colgate,3,4,1,0,NA,401177314,2019-11-27,
+15,1,7:35,2255,2255,Haley Greer Defensive Rebound.,5,0,5,3,0.6161820417613122,Northwestern,Colgate,3,4,1,0,NA,401177314,2019-11-27,
+16,1,7:32,2252,2252,Alexa Brodie missed Three Point Jumper.,5,0,5,5,0.6163440362323678,Northwestern,Colgate,3,4,1,0,NA,401177314,2019-11-27,
+17,1,7:27,2247,2247,Abbie Wolf Defensive Rebound.,5,0,5,7,0.6166143452348216,Northwestern,Colgate,3,4,1,0,NA,401177314,2019-11-27,
+18,1,7:20,2240,2240,Abi Scheid made Layup. Assisted by Sydney Wood.,7,0,7,25,0.6609495642926883,Northwestern,Colgate,3,4,1,0,NA,401177314,2019-11-27,Northwestern
+19,1,6:55,2215,2215,Alexa Brodie missed Three Point Jumper.,7,0,7,3,0.66275308023513535,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+20,1,6:52,2212,2212,Rachel Thompson Offensive Rebound.,7,0,7,2,0.6629700283219806,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+21,1,6:50,2210,2210,Ava Williams Turnover.,7,0,7,0,0.663114714330345,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+22,1,6:50,2210,2210,Veronica Burton Steal.,7,0,7,6,0.663114714330345,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+23,1,6:44,2204,2204,Lindsey Pulliam made Layup. Assisted by Veronica Burton.,9,0,9,32,0.705409697893866,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,Northwestern
+24,1,6:12,2172,2172,Abby Schubiger missed Jumper.,9,0,9,2,0.7081845387206361,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+25,1,6:10,2170,2170,Abi Scheid Defensive Rebound.,9,0,9,26,0.7083579975503752,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+26,1,5:44,2144,2144,Sydney Wood Turnover.,9,0,9,0,0.710617535263602,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+27,1,5:44,2144,2144,Rachel Thompson Steal.,9,0,9,8,0.710617535263602,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+28,1,5:36,2136,2136,Rachel Thompson missed Layup.,9,0,9,4,0.7113147987123748,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+29,1,5:32,2132,2132,Abi Scheid Defensive Rebound.,9,0,9,1,0.7116638195577615,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+30,1,5:31,2131,2131,Abbie Wolf Turnover.,9,0,9,9,0.711751116448708,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+31,1,5:22,2122,2122,Alexa Brodie Turnover.,9,0,9,0,0.7125375608005805,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+32,1,5:22,2122,2122,Lindsey Pulliam Steal.,9,0,9,6,0.7125375608005805,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+33,1,5:16,2116,2116,Veronica Burton missed Three Point Jumper.,9,0,9,7,0.7130626545034742,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+34,1,5:09,2109,2109,Haley Greer Defensive Rebound.,9,0,9,8,0.7136761048994275,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+35,1,5:01,2101,2101,Abby Schubiger missed Jumper.,9,0,9,10,0.7143783435873277,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+36,1,4:51,2091,2091,Sydney Wood Defensive Rebound.,9,0,9,1,0.715257947636463,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+37,1,4:50,2090,2090,Abbie Wolf missed Layup.,9,0,9,8,0.7153460219370127,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+38,1,4:42,2082,2082,Abbie Wolf Offensive Rebound.,9,0,9,0,0.7160513848987053,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+39,1,4:42,2082,2082,Abbie Wolf made Layup.,11,0,11,13,0.755932084275538,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,Northwestern
+40,1,4:29,2069,2069,Tegan Graham made Jumper. Assisted by Haley Greer.,11,2,9,29,0.7172006141951122,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,Colgate
+41,1,4:00,2040,2040,Lindsey Pulliam made Jumper.,13,2,11,20,0.7600586039497839,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,Northwestern
+42,1,3:40,2020,2020,Haley Greer made Three Point Jumper. Assisted by Ava Williams.,13,5,8,15,0.6998225262504985,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,Colgate
+43,1,3:25,2005,2005,Lindsey Pulliam made Jumper. Assisted by Abi Scheid.,15,5,10,26,0.7437487399818129,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,Northwestern
+44,1,2:59,1979,1979,Tegan Graham made Jumper.,15,7,8,31,0.7032702711678325,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,Colgate
+45,1,2:28,1948,1948,Abi Scheid missed Jumper.,15,7,8,8,0.7059134799370876,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+46,1,2:20,1940,1940,Sydney Wood Offensive Rebound.,15,7,8,0,0.7066010452513071,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+47,1,2:20,1940,1940,Sydney Wood missed Layup.,15,7,8,1,0.7066010452513071,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+48,1,2:19,1939,1939,Abbie Wolf Offensive Rebound.,15,7,8,0,0.7066871531384864,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+49,1,2:19,1939,1939,Abbie Wolf made Layup.,17,7,10,7,0.750107436592162,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,Northwestern
+50,1,2:12,1932,1932,Abby Schubiger missed Three Point Jumper.,17,7,10,3,0.7507897297278936,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+51,1,2:09,1929,1929,Veronica Burton Defensive Rebound.,17,7,10,3,0.7510825961527208,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+52,1,2:06,1926,1926,Foul on Tegan Graham.,17,7,10,0,0.7513752186834813,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+53,1,2:06,1926,1926,Abbie Wolf made Free Throw.,18,7,11,0,0.771456958751858,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,Northwestern
+54,1,2:06,1926,1926,Abbie Wolf made Free Throw.,19,7,12,32,0.7903692105897889,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,Northwestern
+55,1,1:34,1894,1894,Taylor Langan missed Three Point Jumper.,19,7,12,4,0.793663750441328,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+56,1,1:30,1890,1890,Rachel Thompson Offensive Rebound.,19,7,12,12,0.7940725560154677,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+57,1,1:18,1878,1878,Tegan Graham missed Three Point Jumper.,19,7,12,7,0.7952959002950472,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+58,1,1:11,1871,1871,Veronica Burton Defensive Rebound.,19,7,12,4,0.7960076964289736,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+59,1,1:07,1867,1867,Foul on Taylor Langan.,19,7,12,0,0.7964139350580286,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+60,1,1:07,1867,1867,Veronica Burton missed Free Throw.,19,7,12,0,0.7964139350580286,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+61,1,1:07,1867,1867,Northwestern Deadball Team Rebound.,19,7,12,0,0.7964139350580286,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+62,1,1:07,1867,1867,Veronica Burton made Free Throw.,20,7,13,6,0.8142248396488121,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,Northwestern
+63,1,1:01,1861,1861,Rachel Thompson made Layup.,20,9,11,15,0.777958113437856,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,Colgate
+64,1,0:46,1846,1846,Sydney Wood Turnover.,20,9,11,11,0.7794460873814233,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+65,1,0:35,1835,1835,Alexa Brodie missed Three Point Jumper.,20,9,11,6,0.7805368344038369,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+66,1,0:29,1829,1829,Lauryn Satterwhite Defensive Rebound.,20,9,11,5,0.7811319356672518,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+67,1,0:24,1824,1824,Abi Scheid missed Three Point Jumper.,20,9,11,3,0.7816280443049733,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+68,1,0:21,1821,1821,Northwestern Deadball Team Rebound.,20,9,11,0,0.7819258233317289,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+69,1,0:21,1821,1821,Foul on Holly Lueken.,20,9,11,17,0.7819258233317289,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+70,1,0:04,1804,1804,Abi Scheid made Layup. Assisted by Lauryn Satterwhite.,22,9,13,4,0.8206617256217966,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,Northwestern
+71,1,0:00,1800,1800,End of 1st Quarter,22,9,13,12,0.8210702725954647,Northwestern,Colgate,3,4,0,0,NA,401177314,2019-11-27,
+72,2,9:48,1788,1788,Holly Lueken missed Jumper.,22,9,13,0,0.8222971749357167,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+73,2,9:48,1788,1788,Courtney Shaw Block.,22,9,13,0,0.8222971749357167,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+74,2,9:48,1788,1788,Colgate Offensive Rebound.,22,9,13,9,0.8222971749357167,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+75,2,9:39,1779,1779,Foul on Taylor Langan.,22,9,13,0,0.8232190001087664,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+76,2,9:39,1779,1779,Taylor Langan Turnover.,22,9,13,12,0.8232190001087664,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+77,2,9:27,1767,1767,Foul on Tegan Graham.,22,9,13,0,0.824451000140608,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+78,2,9:27,1767,1767,Lindsey Pulliam missed Free Throw.,22,9,13,0,0.824451000140608,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+79,2,9:27,1767,1767,Northwestern Deadball Team Rebound.,22,9,13,0,0.824451000140608,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+80,2,9:27,1767,1767,Lindsey Pulliam missed Free Throw.,22,9,13,1,0.824451000140608,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+81,2,9:26,1766,1766,Rachel Thompson Defensive Rebound.,22,9,13,4,0.8245538400996472,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+82,2,9:22,1762,1762,Foul on Lindsey Pulliam.,22,9,13,12,0.824965494299982,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+83,2,9:10,1750,1750,Abby Schubiger Turnover.,22,9,13,18,0.8262035449429639,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+84,2,8:52,1732,1732,Lauryn Satterwhite missed Three Point Jumper.,22,9,13,7,0.8280707503789838,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+85,2,8:45,1725,1725,Rachel Thompson Defensive Rebound.,22,9,13,3,0.8288006652692925,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+86,2,8:42,1722,1722,Rachel Thompson missed Layup.,22,9,13,3,0.8291141966633713,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+87,2,8:39,1719,1719,Abi Scheid Defensive Rebound.,22,9,13,9,0.8294281716395944,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+88,2,8:30,1710,1710,Lindsey Pulliam missed Three Point Jumper.,22,9,13,0,0.8303728750009138,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+89,2,8:30,1710,1710,Colgate Deadball Team Rebound.,22,9,13,0,0.8303728750009138,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+90,2,8:30,1710,1710,Foul on Byrdy Galernik.,22,9,13,18,0.8303728750009138,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+91,2,8:12,1692,1692,Rachel Thompson Turnover.,22,9,13,0,0.8322758130013378,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+92,2,8:12,1692,1692,Veronica Burton Steal.,22,9,13,0,0.8322758130013378,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+93,2,8:12,1692,1692,Foul on Haley Greer.,22,9,13,10,0.8322758130013378,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+94,2,8:02,1682,1682,Courtney Shaw made Layup. Assisted by Lindsey Pulliam.,24,9,15,25,0.864951070637424,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,Northwestern
+95,2,7:37,1657,1657,Rachel Thompson missed Jumper.,24,9,15,1,0.867427419135041,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+96,2,7:36,1656,1656,Lindsey Pulliam Defensive Rebound.,24,9,15,0,0.8675241387836787,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+97,2,7:36,1656,1656,Lindsey Pulliam Turnover.,24,9,15,25,0.8675241387836787,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+98,2,7:11,1631,1631,Ava Williams missed Jumper.,24,9,15,2,0.8698954408121206,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+99,2,7:09,1629,1629,Courtney Shaw Defensive Rebound.,24,9,15,15,0.8700817818806631,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+100,2,6:54,1614,1614,Byrdy Galernik missed Jumper.,24,9,15,5,0.8714670203223512,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+101,2,6:49,1609,1609,Rachel Thompson Defensive Rebound.,24,9,15,2,0.8719246468724088,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+102,2,6:47,1607,1607,Rachel Thompson Turnover.,24,9,15,0,0.8721072189694373,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+103,2,6:47,1607,1607,Veronica Burton Steal.,24,9,15,6,0.8721072189694373,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+104,2,6:41,1601,1601,Lindsey Pulliam made Jumper. Assisted by Veronica Burton.,26,9,17,0,0.8985524958953693,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,Northwestern
+105,2,6:41,1601,1601,Foul on Ava Williams.,26,9,17,0,0.8985524958953693,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+106,2,6:41,1601,1601,Lindsey Pulliam made Free Throw.,27,9,18,15,0.9096650575447301,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,Northwestern
+107,2,6:26,1586,1586,Foul on Veronica Burton.,27,9,18,5,0.910868689281181,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+108,2,6:21,1581,1581,Abby Schubiger missed Layup.,27,9,18,2,0.9112677797011332,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+109,2,6:19,1579,1579,Bryana Hopkins Defensive Rebound.,27,9,18,14,0.9114272005809271,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+110,2,6:05,1565,1565,Bryana Hopkins missed Jumper.,27,9,18,5,0.9125409110528525,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+111,2,6:00,1560,1560,Haley Greer Defensive Rebound.,27,9,18,3,0.9129382182410303,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+112,2,5:57,1557,1557,Rachel Thompson missed Layup.,27,9,18,3,0.9131766197897863,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+113,2,5:54,1554,1554,Lauryn Satterwhite Defensive Rebound.,27,9,18,25,0.9134150819737311,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+114,2,5:29,1529,1529,Byrdy Galernik Turnover.,27,9,18,10,0.9154096852150069,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+115,2,5:19,1519,1519,Alexa Brodie Turnover.,27,9,18,0,0.916214218642926,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+116,2,5:19,1519,1519,Lauryn Satterwhite Steal.,27,9,18,8,0.916214218642926,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+117,2,5:11,1511,1511,Lindsey Pulliam made Jumper. Assisted by Lauryn Satterwhite.,29,9,20,12,0.9350614753205582,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,Northwestern
+118,2,4:59,1499,1499,Tegan Graham Turnover.,29,9,20,0,0.9359279697973459,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+119,2,4:59,1499,1499,Byrdy Galernik Steal.,29,9,20,3,0.9359279697973459,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+120,2,4:56,1496,1496,Official TV Timeout,29,9,20,8,0.936145904149576,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+121,2,4:48,1488,1488,Byrdy Galernik Turnover.,29,9,20,0,0.9367299467695672,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+122,2,4:48,1488,1488,Tegan Graham Steal.,29,9,20,8,0.9367299467695672,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+123,2,4:40,1480,1480,Tegan Graham made Layup.,29,11,18,14,0.9194177301526272,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,Colgate
+124,2,4:26,1466,1466,Foul on Courtney Shaw.,29,11,18,0,0.9206020034297463,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+125,2,4:26,1466,1466,Courtney Shaw Turnover.,29,11,18,15,0.9206020034297463,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+126,2,4:11,1451,1451,Alexa Brodie missed Layup.,29,11,18,2,0.9218959414074982,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+127,2,4:09,1449,1449,Bryana Hopkins Defensive Rebound.,29,11,18,17,0.9220703736349403,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+128,2,3:52,1432,1432,Courtney Shaw missed Layup.,29,11,18,0,0.9235105042347231,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+129,2,3:52,1432,1432,Courtney Shaw Offensive Rebound.,29,11,18,0,0.9235105042347231,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+130,2,3:52,1432,1432,Foul on Tegan Graham.,29,11,18,0,0.9235105042347231,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+131,2,3:52,1432,1432,Courtney Shaw missed Free Throw.,29,11,18,0,0.9235105042347231,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+132,2,3:52,1432,1432,Northwestern Deadball Team Rebound.,29,11,18,0,0.9235105042347231,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+133,2,3:52,1432,1432,Courtney Shaw made Free Throw.,30,11,19,13,0.9327311194334285,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,Northwestern
+134,2,3:39,1419,1419,Alexa Naessens Turnover.,30,11,19,0,0.933719002001009,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+135,2,3:39,1419,1419,Bryana Hopkins Steal.,30,11,19,5,0.933719002001009,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+136,2,3:34,1414,1414,Foul on Jenna Paul.,30,11,19,0,0.9340899865449694,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+137,2,3:34,1414,1414,Courtney Shaw made Free Throw.,31,11,20,0,0.942177928543723,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,Northwestern
+138,2,3:34,1414,1414,Courtney Shaw missed Free Throw.,31,11,20,1,0.942177928543723,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+139,2,3:33,1413,1413,Rachel Thompson Defensive Rebound.,31,11,20,30,0.9422465287602833,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+140,2,3:03,1383,1383,Jenna Paul missed Three Point Jumper.,31,11,20,3,0.9442370593771132,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+141,2,3:00,1380,1380,Bryana Hopkins Defensive Rebound.,31,11,20,4,0.9444302574143111,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+142,2,2:56,1376,1376,Bryana Hopkins Turnover.,31,11,20,0,0.9446865917005133,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+143,2,2:56,1376,1376,Haley Greer Steal.,31,11,20,6,0.9446865917005133,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+144,2,2:50,1370,1370,Rachel Thompson made Layup. Assisted by Haley Greer.,31,13,18,18,0.9282861635726712,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,Colgate
+145,2,2:32,1352,1352,Byrdy Galernik made Jumper. Assisted by Sydney Wood.,33,13,20,26,0.9462016942102079,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,Northwestern
+146,2,2:06,1326,1326,Foul on Courtney Shaw.,33,13,20,0,0.9478222491043443,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+147,2,2:06,1326,1326,Jenna Paul made Free Throw.,33,14,19,0,0.9401689742545846,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,Colgate
+148,2,2:06,1326,1326,Jenna Paul made Free Throw.,33,15,18,28,0.9314742990178833,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,Colgate
+149,2,1:38,1298,1298,Byrdy Galernik missed Three Point Jumper.,33,15,18,4,0.9335195816255335,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+150,2,1:34,1294,1294,Rachel Thompson Defensive Rebound.,33,15,18,6,0.9338160386091431,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+151,2,1:28,1288,1288,Haley Greer missed Three Point Jumper.,33,15,18,4,0.93426341395681,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+152,2,1:24,1284,1284,Rachel Thompson Offensive Rebound.,33,15,18,0,0.9345636169290584,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+153,2,1:24,1284,1284,Foul on Lauryn Satterwhite.,33,15,18,0,0.9345636169290584,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+154,2,1:24,1284,1284,Rachel Thompson missed Free Throw.,33,15,18,0,0.9345636169290584,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+155,2,1:24,1284,1284,Colgate Deadball Team Rebound.,33,15,18,0,0.9345636169290584,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+156,2,1:24,1284,1284,Rachel Thompson made Free Throw.,33,16,17,11,0.9249287459947947,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,Colgate
+157,2,1:13,1273,1273,Sydney Wood missed Layup.,33,16,17,3,0.9258240868245236,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+158,2,1:10,1270,1270,Taylor Langan Defensive Rebound.,33,16,17,14,0.926071089520118,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+159,2,0:56,1256,1256,Haley Greer made Jumper. Assisted by Alexa Brodie.,33,18,15,13,0.904274624691949,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,Colgate
+160,2,0:43,1243,1243,Abi Scheid missed Three Point Jumper.,33,18,15,10,0.9055394515702837,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+161,2,0:33,1233,1233,Sydney Wood Offensive Rebound.,33,18,15,1,0.9065383831662678,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+162,2,0:32,1232,1232,Abbie Wolf missed Layup.,33,18,15,4,0.9066395925582915,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+163,2,0:28,1228,1228,Haley Greer Defensive Rebound.,33,18,15,19,0.9070469026369377,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+164,2,0:09,1209,1209,Taylor Langan missed Three Point Jumper.,33,18,15,2,0.9090379322691298,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+165,2,0:07,1207,1207,Lauryn Satterwhite Defensive Rebound.,33,18,15,6,0.9092507168084719,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+166,2,0:01,1201,1201,Abbie Wolf made Layup. Assisted by Byrdy Galernik.,35,18,17,1,0.9321676477246763,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,Northwestern
+167,2,0:00,1200,1200,End of 2nd Quarter,35,18,17,14,0.9322584459832474,Northwestern,Colgate,4,4,0,0,NA,401177314,2019-11-27,
+168,3,9:46,1186,1186,Lindsey Pulliam missed Jumper.,35,18,17,5,0.9335005428580678,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+169,3,9:41,1181,1181,Abbie Wolf Offensive Rebound.,35,18,17,0,0.9339321296764358,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+170,3,9:41,1181,1181,Abbie Wolf missed Layup.,35,18,17,4,0.9339321296764358,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+171,3,9:37,1177,1177,Abby Schubiger Defensive Rebound.,35,18,17,22,0.9342733259343986,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+172,3,9:15,1155,1155,Rachel Thompson missed Three Point Jumper.,35,18,17,0,0.9360949882751955,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+173,3,9:15,1155,1155,Veronica Burton Block.,35,18,17,0,0.9360949882751955,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+174,3,9:15,1155,1155,Northwestern Deadball Team Rebound.,35,18,17,12,0.9360949882751955,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+175,3,9:03,1143,1143,Abbie Wolf made Layup. Assisted by Lindsey Pulliam.,37,18,19,12,0.9533911088807172,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Northwestern
+176,3,8:51,1131,1131,Rachel Thompson made Jumper. Assisted by Alexa Brodie.,37,20,17,23,0.9380049680244662,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Colgate
+177,3,8:28,1108,1108,Abbie Wolf Turnover.,37,20,17,16,0.9397954264681696,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+178,3,8:12,1092,1092,Haley Greer missed Three Point Jumper.,37,20,17,0,0.9410349603695581,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+179,3,8:12,1092,1092,Abbie Wolf Defensive Rebound.,37,20,17,0,0.9410349603695581,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+180,3,8:12,1092,1092,Foul on Rachel Thompson.,37,20,17,16,0.9410349603695581,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+181,3,7:56,1076,1076,Foul on Rachel Thompson.,37,20,17,0,0.9422806259869687,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+182,3,7:56,1076,1076,Abi Scheid made Free Throw.,38,20,18,0,0.9505926915980802,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Northwestern
+183,3,7:56,1076,1076,Abi Scheid made Free Throw.,39,20,19,3,0.9577614081370223,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Northwestern
+184,3,7:53,1073,1073,Haley Greer Turnover.,39,20,19,0,0.9579566837369692,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+185,3,7:53,1073,1073,Sydney Wood Steal.,39,20,19,0,0.9579566837369692,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+186,3,7:53,1073,1073,Foul on Haley Greer.,39,20,19,1,0.9579566837369692,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+187,3,7:52,1072,1072,Abi Scheid missed Jumper.,39,20,19,4,0.9580218542986595,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+188,3,7:48,1068,1068,Ava Williams Defensive Rebound.,39,20,19,10,0.9582829727338241,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+189,3,7:38,1058,1058,Alexa Brodie missed Jumper.,39,20,19,0,0.9589393634780022,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+190,3,7:38,1058,1058,Colgate Offensive Rebound.,39,20,19,14,0.9589393634780022,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+191,3,7:24,1044,1044,Tegan Graham missed Jumper.,39,20,19,0,0.9598692221879682,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+192,3,7:24,1044,1044,Sydney Wood Block.,39,20,19,4,0.9598692221879682,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+193,3,7:20,1040,1040,Abbie Wolf Defensive Rebound.,39,20,19,16,0.9601376901496048,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+194,3,7:04,1024,1024,Abi Scheid missed Three Point Jumper.,39,20,19,3,0.9612261846000548,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+195,3,7:01,1021,1021,Colgate Deadball Team Rebound.,39,20,19,0,0.9614331211557522,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+196,3,7:01,1021,1021,Foul on Lindsey Pulliam.,39,20,19,7,0.9614331211557522,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+197,3,6:54,1014,1014,Foul on Veronica Burton.,39,20,19,0,0.9619197672009192,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+198,3,6:54,1014,1014,Haley Greer made Free Throw.,39,21,18,0,0.9551813104714022,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Colgate
+199,3,6:54,1014,1014,Haley Greer missed Free Throw.,39,21,18,1,0.9551813104714022,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+200,3,6:53,1013,1013,Veronica Burton Defensive Rebound.,39,21,18,10,0.955258783152915,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+201,3,6:43,1003,1003,Veronica Burton Turnover.,39,21,18,0,0.9560411286118371,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+202,3,6:43,1003,1003,Alexa Brodie Steal.,39,21,18,5,0.9560411286118371,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+203,3,6:38,998,998,Taylor Langan Turnover.,39,21,18,0,0.9564376749027399,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+204,3,6:38,998,998,Abbie Wolf Steal.,39,21,18,0,0.9564376749027399,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+205,3,6:38,998,998,Foul on Ava Williams.,39,21,18,14,0.9564376749027399,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+206,3,6:24,984,984,Lindsey Pulliam missed Three Point Jumper.,39,21,18,2,0.9575680680912896,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+207,3,6:22,982,982,Northwestern Offensive Rebound.,39,21,18,16,0.9577320407553921,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+208,3,6:06,966,966,Abbie Wolf made Layup. Assisted by Abi Scheid.,41,21,20,21,0.9708094859821037,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Northwestern
+209,3,5:45,945,945,Alexa Brodie missed Three Point Jumper.,41,21,20,3,0.9720773194230717,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+210,3,5:42,942,942,Tegan Graham Offensive Rebound.,41,21,20,1,0.9722432888820024,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+211,3,5:41,941,941,Tegan Graham made Layup.,41,23,18,15,0.9609221584764226,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Colgate
+212,3,5:26,926,926,Lindsey Pulliam made Layup. Assisted by Sydney Wood.,43,23,20,0,0.9730769724911025,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Northwestern
+213,3,5:26,926,926,Foul on Ava Williams.,43,23,20,0,0.9730769724911025,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+214,3,5:26,926,926,Lindsey Pulliam made Free Throw.,44,23,21,9,0.9773979943994546,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Northwestern
+215,3,5:17,917,917,Tegan Graham Turnover.,44,23,21,0,0.9777844917923059,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+216,3,5:17,917,917,Veronica Burton Steal.,44,23,21,7,0.9777844917923059,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+217,3,5:10,910,910,Lindsey Pulliam missed Layup.,44,23,21,0,0.9780734568543413,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+218,3,5:10,910,910,Jenna Paul Block.,44,23,21,4,0.9780734568543413,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+219,3,5:06,906,906,Alexa Naessens Defensive Rebound.,44,23,21,0,0.978234656079639,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+220,3,5:06,906,906,Foul on Veronica Burton.,44,23,21,16,0.978234656079639,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+221,3,4:50,890,890,Jenna Paul Turnover.,44,23,21,0,0.9788569218686902,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+222,3,4:50,890,890,Lauryn Satterwhite Steal.,44,23,21,22,0.9788569218686902,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+223,3,4:28,868,868,Abbie Wolf missed Jumper.,44,23,21,3,0.9796761477042626,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+224,3,4:25,865,865,Alexa Naessens Defensive Rebound.,44,23,21,6,0.9797864187229085,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+225,3,4:19,859,859,Tegan Graham missed Jumper.,44,23,21,0,0.9800068363557164,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+226,3,4:19,859,859,Alexa Naessens Offensive Rebound.,44,23,21,0,0.9800068363557164,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+227,3,4:19,859,859,Alexa Naessens missed Layup.,44,23,21,0,0.9800068363557164,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+228,3,4:19,859,859,Colgate Offensive Rebound.,44,23,21,0,0.9800068363557164,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+229,3,4:19,859,859,Official TV Timeout,44,23,21,6,0.9800068363557164,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+230,3,4:13,853,853,Taylor Langan missed Three Point Jumper.,44,23,21,0,0.9802276383825871,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+231,3,4:13,853,853,Jenna Paul Offensive Rebound.,44,23,21,0,0.9802276383825871,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+232,3,4:13,853,853,Foul on Sydney Wood.,44,23,21,0,0.9802276383825871,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+233,3,4:13,853,853,Jenna Paul made Free Throw.,44,24,20,0,0.976284351979248,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Colgate
+234,3,4:13,853,853,Jenna Paul missed Free Throw.,44,24,20,0,0.976284351979248,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+235,3,4:13,853,853,Lauryn Satterwhite Defensive Rebound.,44,24,20,13,0.976284351979248,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+236,3,4:00,840,840,Foul on Alexa Naessens.,44,24,20,0,0.9768338978641614,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+237,3,4:00,840,840,Courtney Shaw missed Free Throw.,44,24,20,0,0.9768338978641614,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+238,3,4:00,840,840,Northwestern Deadball Team Rebound.,44,24,20,0,0.9768338978641614,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+239,3,4:00,840,840,Courtney Shaw missed Free Throw.,44,24,20,1,0.9768338978641614,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+240,3,3:59,839,839,Taylor Langan Defensive Rebound.,44,24,20,10,0.9768766242956769,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+241,3,3:49,829,829,Haley Greer Turnover.,44,24,20,0,0.9773087484885962,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+242,3,3:49,829,829,Lauryn Satterwhite Steal.,44,24,20,7,0.9773087484885962,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+243,3,3:42,822,822,Sydney Wood made Layup. Assisted by Lauryn Satterwhite.,46,24,22,16,0.9845491751598625,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Northwestern
+244,3,3:26,806,806,Taylor Langan made Layup. Assisted by Jenna Paul.,46,26,20,29,0.9783474471711446,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Colgate
+245,3,2:57,777,777,Lindsey Pulliam missed Jumper.,46,26,20,3,0.979779748727127,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+246,3,2:54,774,774,Tegan Graham Defensive Rebound.,46,26,20,4,0.9799371669652355,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+247,3,2:50,770,770,Taylor Langan Turnover.,46,26,20,0,0.9801499457391807,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+248,3,2:50,770,770,Sydney Wood Steal.,46,26,20,8,0.9801499457391807,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+249,3,2:42,762,762,Lindsey Pulliam made Jumper.,48,26,22,14,0.9868012582309249,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Northwestern
+250,3,2:28,748,748,Haley Greer missed Three Point Jumper.,48,26,22,6,0.9873983728970062,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+251,3,2:22,742,742,Courtney Shaw Defensive Rebound.,48,26,22,7,0.987663059199448,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+252,3,2:15,735,735,Lindsey Pulliam missed Jumper.,48,26,22,6,0.9879783648292585,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+253,3,2:09,729,729,Alexa Naessens Defensive Rebound.,48,26,22,17,0.9882537054396777,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+254,3,1:52,712,712,Alexa Naessens missed Jumper.,48,26,22,0,0.9889605807278226,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+255,3,1:52,712,712,Taylor Langan Offensive Rebound.,48,26,22,0,0.9889605807278226,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+256,3,1:52,712,712,Foul on Courtney Shaw.,48,26,22,0,0.9889605807278226,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+257,3,1:52,712,712,Taylor Langan made Free Throw.,48,27,21,0,0.9864917663509196,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Colgate
+258,3,1:52,712,712,Taylor Langan made Free Throw.,48,28,20,15,0.983480058318404,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Colgate
+259,3,1:37,697,697,Sydney Wood made Layup. Assisted by Abi Scheid.,50,28,22,0,0.9894913276508371,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Northwestern
+260,3,1:37,697,697,Foul on Haley Greer.,50,28,22,0,0.9894913276508371,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+261,3,1:37,697,697,Sydney Wood made Free Throw.,51,28,23,20,0.9914359454988172,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Northwestern
+262,3,1:17,677,677,Jenna Paul made Jumper. Assisted by Rachel Thompson.,51,30,21,29,0.9878334413346916,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Colgate
+263,3,0:48,648,648,Byrdy Galernik made Jumper. Assisted by Sydney Wood.,53,30,23,17,0.9926449467665314,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Northwestern
+264,3,0:31,631,631,Rachel Thompson made Jumper. Assisted by Abby Schubiger.,53,32,21,23,0.9893196788173737,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,Colgate
+265,3,0:08,608,608,Abi Scheid missed Three Point Jumper.,53,32,21,7,0.9900880749048652,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+266,3,0:01,601,601,Haley Greer Defensive Rebound.,53,32,21,1,0.9903347842746816,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+267,3,0:00,600,600,End of 3rd Quarter,53,32,21,0,0.9903706170924059,Northwestern,Colgate,5,5,0,0,NA,401177314,2019-11-27,
+268,4,10:00,600,600,Foul on Rachel Thompson.,53,32,21,0,0.9903706170924059,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+269,4,10:00,600,600,Rachel Thompson Turnover.,53,32,21,14,0.9903706170924059,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+270,4,9:46,586,586,Sydney Wood missed Three Point Jumper.,53,32,21,3,0.9908889930061521,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+271,4,9:43,583,583,Courtney Shaw Offensive Rebound.,53,32,21,11,0.9910043170746963,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+272,4,9:32,572,572,Courtney Shaw missed Layup.,53,32,21,0,0.9914404686896778,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+273,4,9:32,572,572,Northwestern Offensive Rebound.,53,32,21,8,0.9914404686896778,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+274,4,9:24,564,564,Courtney Shaw made Layup. Assisted by Sydney Wood.,55,32,23,5,0.9947703340198158,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,Northwestern
+275,4,9:19,559,559,Foul on Lauryn Satterwhite.,55,32,23,21,0.9949180948168348,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+276,4,8:58,538,538,Tegan Graham missed Three Point Jumper.,55,32,23,4,0.9955202231604684,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+277,4,8:54,534,534,Lauryn Satterwhite Defensive Rebound.,55,32,23,3,0.995616233955341,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+278,4,8:51,531,531,Byrdy Galernik made Layup. Assisted by Lauryn Satterwhite.,57,32,25,23,0.9973069131679806,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,Northwestern
+279,4,8:28,508,508,Jenna Paul made Three Point Jumper. Assisted by Alexa Brodie.,57,35,22,37,0.9950840070811044,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,Colgate
+280,4,7:51,471,471,Lauryn Satterwhite missed Layup.,57,35,22,0,0.9958628629989471,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+281,4,7:51,471,471,Sydney Wood Offensive Rebound.,57,35,22,0,0.9958628629989471,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+282,4,7:51,471,471,Sydney Wood missed Layup.,57,35,22,0,0.9958628629989471,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+283,4,7:51,471,471,Tegan Graham Block.,57,35,22,0,0.9958628629989471,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+284,4,7:51,471,471,Sydney Wood Offensive Rebound.,57,35,22,0,0.9958628629989471,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+285,4,7:51,471,471,Foul on Ava Williams.,57,35,22,0,0.9958628629989471,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+286,4,7:51,471,471,Sydney Wood made Free Throw.,58,35,23,0,0.9967726468237528,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,Northwestern
+287,4,7:51,471,471,Sydney Wood made Free Throw.,59,35,24,21,0.9974828688486299,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,Northwestern
+288,4,7:30,450,450,Foul on Sydney Wood.,59,35,24,0,0.997811269043965,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+289,4,7:30,450,450,Alexa Naessens missed Free Throw.,59,35,24,0,0.997811269043965,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+290,4,7:30,450,450,Colgate Deadball Team Rebound.,59,35,24,0,0.997811269043965,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+291,4,7:30,450,450,Alexa Naessens made Free Throw.,59,36,23,14,0.9971770582172946,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,Colgate
+292,4,7:16,436,436,Foul on Taylor Langan.,59,36,23,0,0.9974773629993456,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+293,4,7:16,436,436,Courtney Shaw made Free Throw.,60,36,24,0,0.998053786339206,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,Northwestern
+294,4,7:16,436,436,Courtney Shaw made Free Throw.,61,36,25,20,0.9984986950078315,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,Northwestern
+295,4,6:56,416,416,Taylor Langan made Layup.,61,38,23,18,0.9979004635948406,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,Colgate
+296,4,6:38,398,398,Foul on Alexa Naessens.,61,38,23,0,0.9981981191098942,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+297,4,6:38,398,398,Veronica Burton made Free Throw.,62,38,24,0,0.9986302798032638,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,Northwestern
+298,4,6:38,398,398,Veronica Burton made Free Throw.,63,38,25,14,0.998958899759803,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,Northwestern
+299,4,6:24,384,384,Taylor Langan Turnover.,63,38,25,0,0.9990838490947705,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+300,4,6:24,384,384,Veronica Burton Steal.,63,38,25,13,0.9990838490947705,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+301,4,6:11,371,371,Byrdy Galernik missed Three Point Jumper.,63,38,25,4,0.9991908260813197,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+302,4,6:07,367,367,Sydney Wood Offensive Rebound.,63,38,25,2,0.9992226671662139,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+303,4,6:05,365,365,Veronica Burton missed Three Point Jumper.,63,38,25,4,0.9992384483964832,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+304,4,6:01,361,361,Tegan Graham Defensive Rebound.,63,38,25,18,0.9992697698834024,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+305,4,5:43,343,343,Ava Williams made Jumper. Assisted by Tegan Graham.,63,40,23,25,0.9989269819869924,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,Colgate
+306,4,5:18,318,318,Foul on Alexa Naessens.,63,40,23,0,0.9992338016000994,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+307,4,5:18,318,318,Courtney Shaw missed Free Throw.,63,40,23,0,0.9992338016000994,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+308,4,5:18,318,318,Northwestern Deadball Team Rebound.,63,40,23,0,0.9992338016000994,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+309,4,5:18,318,318,Courtney Shaw missed Free Throw.,63,40,23,0,0.9992338016000994,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+310,4,5:18,318,318,Jenna Paul Defensive Rebound.,63,40,23,6,0.9992338016000994,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+311,4,5:12,312,312,Rachel Thompson made Layup. Assisted by Jenna Paul.,63,42,21,32,0.9986915954873589,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,Colgate
+312,4,4:40,280,280,Veronica Burton missed Three Point Jumper.,63,42,21,0,0.9988956159252037,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+313,4,4:40,280,280,Colgate Deadball Team Rebound.,63,42,21,2,0.9988956159252037,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+314,4,4:38,278,278,Official TV Timeout,63,42,21,17,0.9988873199348375,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+315,4,4:21,261,261,Taylor Langan missed Three Point Jumper.,63,42,21,4,0.9987736495645644,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+316,4,4:17,257,257,Northwestern Defensive Rebound.,63,42,21,31,0.9987420527429997,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+317,4,3:46,226,226,Byrdy Galernik missed Jumper.,63,42,21,3,0.9986788212561165,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+318,4,3:43,223,223,Courtney Shaw Offensive Rebound.,63,42,21,2,0.9987070726026711,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+319,4,3:41,221,221,Byrdy Galernik made Jumper. Assisted by Courtney Shaw.,65,42,23,4,0.999326768552548,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,Northwestern
+320,4,3:37,217,217,Haley Greer missed Three Point Jumper.,65,42,23,0,0.9993598454700651,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+321,4,3:37,217,217,Northwestern Deadball Team Rebound.,65,42,23,17,0.9993598454700651,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+322,4,3:20,200,200,Kaylah Rainey missed Layup.,65,42,23,0,0.9995711776403464,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+323,4,3:20,200,200,Tegan Graham Block.,65,42,23,0,0.9995711776403464,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+324,4,3:20,200,200,Northwestern Offensive Rebound.,65,42,23,5,0.9995711776403464,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+325,4,3:15,195,195,Veronica Burton made Three Point Jumper. Assisted by Kaylah Rainey.,68,42,26,19,0.9998734949946159,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,Northwestern
+326,4,2:56,176,176,Taylor Langan missed Jumper.,68,42,26,10,0.9999541925227372,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+327,4,2:46,166,166,Tegan Graham Offensive Rebound.,68,42,26,0,0.9999740803261139,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+328,4,2:46,166,166,Tegan Graham missed Layup.,68,42,26,2,0.9999740803261139,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+329,4,2:44,164,164,Amber Jamison Defensive Rebound.,68,42,26,24,0.9999769529772685,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,
+330,4,2:20,140,140,Kaylah Rainey made Three Point Jumper. Assisted by Laya Hartman.,71,42,29,1,0.9999988085996457,Northwestern,Colgate,6,6,0,0,NA,401177314,2019-11-27,Northwestern
+331,4,2:19,139,139,Northwestern  Timeout,71,42,29,12,0.9999989002716401,Northwestern,Colgate,6,5,0,1,NA,401177314,2019-11-27,
+332,4,2:07,127,127,Tegan Graham made Jumper. Assisted by Alexa Brodie.,71,44,27,21,0.9999989085976672,Northwestern,Colgate,6,5,0,1,NA,401177314,2019-11-27,Colgate
+333,4,1:46,106,106,Courtney Shaw made Layup. Assisted by Kaylah Rainey.,73,44,29,18,0.9999999532201668,Northwestern,Colgate,6,5,0,1,NA,401177314,2019-11-27,Northwestern
+334,4,1:28,88,88,Tegan Graham missed Jumper.,73,44,29,3,0.9999999949756626,Northwestern,Colgate,6,5,0,1,NA,401177314,2019-11-27,
+335,4,1:25,85,85,Kaylah Rainey Defensive Rebound.,73,44,29,2,0.9999999966125838,Northwestern,Colgate,6,5,0,1,NA,401177314,2019-11-27,
+336,4,1:23,83,83,Kaylah Rainey missed Layup.,73,44,29,0,0.9999999974041666,Northwestern,Colgate,6,5,0,1,NA,401177314,2019-11-27,
+337,4,1:23,83,83,Alexa Brodie Block.,73,44,29,0,0.9999999974041666,Northwestern,Colgate,6,5,0,1,NA,401177314,2019-11-27,
+338,4,1:23,83,83,Northwestern Offensive Rebound.,73,44,29,11,0.9999999974041666,Northwestern,Colgate,6,5,0,1,NA,401177314,2019-11-27,
+339,4,1:12,72,72,Kaylah Rainey missed Three Point Jumper.,73,44,29,3,0.9999999994387326,Northwestern,Colgate,6,5,0,0,NA,401177314,2019-11-27,
+340,4,1:09,69,69,Courtney Shaw Offensive Rebound.,73,44,29,20,0.9999999996391362,Northwestern,Colgate,6,5,0,0,NA,401177314,2019-11-27,
+341,4,0:49,49,49,Amber Jamison missed Three Point Jumper.,73,44,29,0,0.9999999999840422,Northwestern,Colgate,6,5,0,0,NA,401177314,2019-11-27,
+342,4,0:49,49,49,Colgate Deadball Team Rebound.,73,44,29,16,0.9999999999840422,Northwestern,Colgate,6,5,0,0,NA,401177314,2019-11-27,
+343,4,0:33,33,33,Taylor Langan missed Jumper.,73,44,29,3,0.9999999999989945,Northwestern,Colgate,6,5,0,0,NA,401177314,2019-11-27,
+344,4,0:30,30,30,Laya Hartman Defensive Rebound.,73,44,29,26,0.9999999999994164,Northwestern,Colgate,6,5,0,0,NA,401177314,2019-11-27,
+345,4,0:04,4,4,Northwestern  Turnover.,73,44,29,4,0.9999999999999964,Northwestern,Colgate,6,5,0,0,NA,401177314,2019-11-27,
+346,4,0:00,0,0,End of 4th Quarter,73,44,29,0,1,Northwestern,Colgate,6,5,0,0,NA,401177314,2019-11-27,
+347,4,0:00,0,0,End of Game,73,44,29,0,1,Northwestern,Colgate,6,5,0,0,NA,401177314,2019-11-27,

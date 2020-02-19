@@ -1,0 +1,340 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:42,2382,2382,Ellie Smith missed Layup.,0,0,0,1,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,NA
+2,1,9:41,2381,2381,Diaba Konate Offensive Rebound.,0,0,0,0,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+3,1,9:41,2381,2381,Diaba Konate Turnover.,0,0,0,11,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+4,1,9:30,2370,2370,Madi Schoening missed Layup.,0,0,0,2,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+5,1,9:28,2368,2368,Montana Oltrogge Defensive Rebound.,0,0,0,6,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+6,1,9:22,2362,2362,Montana Oltrogge missed Three Point Jumper.,0,0,0,4,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+7,1,9:18,2358,2358,Abby Anderson Defensive Rebound.,0,0,0,5,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+8,1,9:13,2353,2353,Madi Schoening made Layup.,0,2,-2,16,0.45497408096351394,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Montana
+9,1,8:57,2337,2337,Dora Goles missed Jumper.,0,2,-2,4,0.4546269370703341,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+10,1,8:53,2333,2333,Madi Schoening Defensive Rebound.,0,2,-2,20,0.45453965530089274,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+11,1,8:33,2313,2313,Sophia Stiles missed Jumper.,0,2,-2,3,0.4541004401909216,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+12,1,8:30,2310,2310,Callie Bourne Defensive Rebound.,0,2,-2,4,0.4540341708711008,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+13,1,8:26,2306,2306,Callie Bourne made Layup.,2,2,0,19,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+14,1,8:07,2287,2287,Foul on Dora Goles.,2,2,0,1,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+15,1,8:06,2286,2286,Foul on Diaba Konate.,2,2,0,20,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+16,1,7:46,2266,2266,McKenzie Johnston missed Free Throw.,2,2,0,0,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+17,1,7:46,2266,2266,Montana Offensive Rebound.,2,2,0,13,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+18,1,7:33,2253,2253,McKenzie Johnston made Free Throw.,2,3,-1,6,0.4763261811960912,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Montana
+19,1,7:27,2247,2247,Foul on Madi Schoening.,2,3,-1,19,0.4762577503696472,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+20,1,7:08,2228,2228,Callie Bourne made Three Point Jumper. Assisted by Ellie Smith.,5,3,2,8,0.5478098713841724,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+21,1,7:00,2220,2220,Emma Stockholm missed Jumper.,5,3,2,3,0.5479925671944532,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+22,1,6:57,2217,2217,Diaba Konate Defensive Rebound.,5,3,2,7,0.5480611790931701,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+23,1,6:50,2210,2210,Dora Goles made Jumper.,7,3,4,11,0.5955541806785867,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+24,1,6:39,2199,2199,McKenzie Johnston missed Jumper.,7,3,4,2,0.5960451058566135,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+25,1,6:37,2197,2197,Emma Stockholm Offensive Rebound.,7,3,4,2,0.5961344781499945,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+26,1,6:35,2195,2195,Emma Stockholm missed Jumper.,7,3,4,0,0.596223883198557,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+27,1,6:35,2195,2195,Ellie Smith Block.,7,3,4,6,0.596223883198557,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+28,1,6:29,2189,2189,Montana Oltrogge Defensive Rebound.,7,3,4,1,0.596492286615425,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+29,1,6:28,2188,2188,Callie Bourne Turnover.,7,3,4,0,0.5965370468907285,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+30,1,6:28,2188,2188,Madi Schoening Steal.,7,3,4,13,0.5965370468907285,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+31,1,6:15,2175,2175,Abby Anderson made Layup.,7,5,2,14,0.5490266523661257,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Montana
+32,1,6:01,2161,2161,Foul on Emma Stockholm.,7,5,2,0,0.5493502722348179,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+33,1,6:01,2161,2161,Delaney Moore missed Free Throw.,7,5,2,0,0.5493502722348179,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+34,1,6:01,2161,2161,Idaho State Offensive Rebound.,7,5,2,0,0.5493502722348179,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+35,1,6:01,2161,2161,Delaney Moore made Free Throw.,8,5,3,15,0.5737258080799493,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+36,1,5:46,2146,2146,Madi Schoening missed Jumper.,8,5,3,0,0.5742419168203073,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+37,1,5:46,2146,2146,Callie Bourne Defensive Rebound.,8,5,3,1,0.5742419168203073,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+38,1,5:45,2145,2145,Foul on Emma Stockholm.,8,5,3,9,0.574276414067759,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+39,1,5:36,2136,2136,Delaney Moore made Layup. Assisted by Diaba Konate.,10,5,5,6,0.6226914686398052,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+40,1,5:30,2130,2130,Foul on Diaba Konate.,10,5,5,3,0.6230244310212453,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+41,1,5:27,2127,2127,Jamie Pickens missed Three Point Jumper.,10,5,5,4,0.6231911486850658,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+42,1,5:23,2123,2123,Callie Bourne Defensive Rebound.,10,5,5,10,0.623413688720598,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+43,1,5:13,2113,2113,Callie Bourne missed Jumper.,10,5,5,3,0.6239713178266638,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+44,1,5:10,2110,2110,McKenzie Johnston Defensive Rebound.,10,5,5,8,0.624138971181558,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+45,1,5:02,2102,2102,Sophia Stiles missed Layup.,10,5,5,4,0.6245868926948633,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+46,1,4:58,2098,2098,Jamie Pickens Offensive Rebound.,10,5,5,0,0.6248113238578489,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+47,1,4:58,2098,2098,Jamie Pickens made Layup.,10,7,3,21,0.5759116389021492,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Montana
+48,1,4:37,2077,2077,Montana Oltrogge missed Jumper.,10,7,3,4,0.5766518461391447,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+49,1,4:33,2073,2073,McKenzie Johnston Defensive Rebound.,10,7,3,8,0.5767935672383472,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+50,1,4:25,2065,2065,Emma Stockholm made Layup. Assisted by Sophia Stiles.,10,9,1,17,0.525875911233899,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Montana
+51,1,4:08,2048,2048,Dora Goles Turnover.,10,9,1,0,0.5260827081986277,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+52,1,4:08,2048,2048,Sophia Stiles Steal.,10,9,1,4,0.5260827081986277,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+53,1,4:04,2044,2044,Sophia Stiles missed Layup.,10,9,1,3,0.5261316064624199,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+54,1,4:01,2041,2041,Jordan Sweeney Defensive Rebound.,10,9,1,17,0.5261683416298986,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+55,1,3:44,2024,2024,Montana Oltrogge missed Jumper.,10,9,1,4,0.5263775259672235,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+56,1,3:40,2020,2020,Madi Schoening Defensive Rebound.,10,9,1,0,0.526427003135809,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+57,1,3:40,2020,2020,Foul on Delaney Moore.,10,9,1,0,0.526427003135809,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+58,1,3:40,2020,2020,Official TV Timeout,10,9,1,30,0.526427003135809,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+59,1,3:10,1990,1990,Taylor Goligoski missed Layup.,10,9,1,2,0.5268013541918746,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+60,1,3:08,1988,1988,Ellie Smith Defensive Rebound.,10,9,1,4,0.5268265227868488,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+61,1,3:04,1984,1984,Diaba Konate missed Jumper.,10,9,1,3,0.5268769418747516,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+62,1,3:01,1981,1981,Montana Oltrogge Offensive Rebound.,10,9,1,0,0.5269148283875164,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+63,1,3:01,1981,1981,Carsyn Boswell missed Jumper.,10,9,1,0,0.5269148283875164,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+64,1,3:01,1981,1981,Ellie Smith Offensive Rebound.,10,9,1,1,0.5269148283875164,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+65,1,3:00,1980,1980,Foul on Jamie Pickens.,10,9,1,29,0.5269274710676524,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+66,1,2:31,1951,1951,Diaba Konate made Free Throw.,11,9,2,0,0.5544321642239337,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+67,1,2:31,1951,1951,Diaba Konate missed Free Throw.,11,9,2,14,0.5544321642239337,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+68,1,2:17,1937,1937,Taylor Goligoski Defensive Rebound.,11,9,2,1,0.5547903374866949,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+69,1,2:16,1936,1936,McKenzie Johnston Turnover.,11,9,2,0,0.5548160327452581,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+70,1,2:16,1936,1936,Diaba Konate Steal.,11,9,2,5,0.5548160327452581,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+71,1,2:11,1931,1931,Diaba Konate Turnover.,11,9,2,0,0.5549447352680729,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+72,1,2:11,1931,1931,Taylor Goligoski Steal.,11,9,2,4,0.5549447352680729,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+73,1,2:07,1927,1927,Taylor Goligoski missed Layup.,11,9,2,0,0.555047878106275,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+74,1,2:07,1927,1927,Ellie Smith Block.,11,9,2,7,0.555047878106275,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+75,1,2:00,1920,1920,Diaba Konate Defensive Rebound.,11,9,2,14,0.5552282092553373,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+76,1,1:46,1906,1906,Irene Vicente Turnover.,11,9,2,0,0.5555883462174267,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+77,1,1:46,1906,1906,Taylor Goligoski Steal.,11,9,2,14,0.5555883462174267,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+78,1,1:32,1892,1892,Jamie Pickens missed Three Point Jumper.,11,9,2,5,0.5559481345600445,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+79,1,1:27,1887,1887,Montana Oltrogge Defensive Rebound.,11,9,2,14,0.5560766262651798,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+80,1,1:13,1873,1873,Ellie Smith made Layup. Assisted by Irene Vicente.,13,9,4,19,0.6114532770714997,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+81,1,0:54,1854,1854,Gabi Harrington missed Three Point Jumper.,13,9,4,4,0.6123956557499932,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+82,1,0:50,1850,1850,Montana Oltrogge Defensive Rebound.,13,9,4,13,0.6125944530911264,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+83,1,0:37,1837,1837,Irene Vicente missed Layup.,13,9,4,2,0.6132418984898609,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+84,1,0:35,1835,1835,Jamie Pickens Defensive Rebound.,13,9,4,9,0.6133417170819088,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+85,1,0:26,1826,1826,McKenzie Johnston missed Layup.,13,9,4,0,0.6137917147761378,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+86,1,0:26,1826,1826,Montana Offensive Rebound.,13,9,4,12,0.6137917147761378,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+87,1,0:14,1814,1814,McKenzie Johnston missed Jumper.,13,9,4,6,0.6143940655592012,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+88,1,0:08,1808,1808,Ellie Smith Defensive Rebound.,13,9,4,5,0.6146963912992884,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+89,1,0:03,1803,1803,Dora Goles missed Three Point Jumper.,13,9,4,3,0.614948976545666,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+90,1,0:00,1800,1800,Gabi Harrington Defensive Rebound.,13,9,4,0,0.6151008263378087,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+91,1,0:00,1800,1800,Foul on Ellie Smith.,13,9,4,0,0.6151008263378087,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+92,1,0:00,1800,1800,Gabi Harrington made Free Throw.,13,10,3,0,0.5870063911476985,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Montana
+93,1,0:00,1800,1800,Gabi Harrington made Free Throw.,13,11,2,0,0.558333749411633,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Montana
+94,1,0:00,1800,1800,End of 1st Quarter,13,9,4,17,0.6151008263378087,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+95,2,9:43,1783,1783,Jamie Pickens made Layup.,13,13,0,10,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Montana
+96,2,9:33,1773,1773,Foul on Madi Schoening.,13,13,0,0,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+97,2,9:33,1773,1773,Carsyn Boswell made Free Throw.,14,13,1,0,0.5296295908982823,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+98,2,9:33,1773,1773,Carsyn Boswell made Free Throw.,15,13,2,32,0.5590518124622943,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+99,2,9:01,1741,1741,Montana  Turnover.,15,13,2,29,0.559920660776407,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+100,2,8:32,1712,1712,Delaney Moore missed Jumper.,15,13,2,2,0.5607287023735282,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+101,2,8:30,1710,1710,Abby Anderson Defensive Rebound.,15,13,2,7,0.560785252259047,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+102,2,8:23,1703,1703,Foul on Callie Bourne.,15,13,2,0,0.5609840737456568,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+103,2,8:23,1703,1703,Emma Stockholm missed Free Throw.,15,13,2,0,0.5609840737456568,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+104,2,8:23,1703,1703,Montana Offensive Rebound.,15,13,2,0,0.5609840737456568,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+105,2,8:23,1703,1703,Emma Stockholm made Free Throw.,15,14,1,1,0.530606289923059,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Montana
+106,2,8:22,1702,1702,Callie Bourne made Layup. Assisted by Dora Goles.,17,14,3,8,0.5909536073972214,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+107,2,8:14,1694,1694,Foul on McKenzie Johnston.,17,14,3,0,0.5912910677892184,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+108,2,8:14,1694,1694,Callie Bourne made Free Throw.,18,14,4,13,0.6206732648490695,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+109,2,8:01,1681,1681,McKenzie Johnston missed Layup.,18,14,4,1,0.62138739080972,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+110,2,8:00,1680,1680,Ellie Smith Defensive Rebound.,18,14,4,0,0.6214418002995874,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+111,2,8:00,1680,1680,Foul on Abby Anderson.,18,14,4,20,0.6214418002995874,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+112,2,7:40,1660,1660,Montana Oltrogge Turnover.,18,14,4,13,0.6225139874917668,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+113,2,7:27,1647,1647,Abby Anderson missed Jumper.,18,14,4,3,0.6231971087250656,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+114,2,7:24,1644,1644,Gabi Harrington Offensive Rebound.,18,14,4,1,0.6233535088745045,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+115,2,7:23,1643,1643,Gabi Harrington missed Layup.,18,14,4,3,0.6234055504732094,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+116,2,7:20,1640,1640,Abby Anderson Offensive Rebound.,18,14,4,1,0.623561414496997,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+117,2,7:19,1639,1639,Abby Anderson made Layup.,18,16,2,13,0.5627810774110841,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Montana
+118,2,7:06,1626,1626,Foul on Dora Goles.,18,16,2,0,0.5631329116856477,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+119,2,7:06,1626,1626,Dora Goles Turnover.,18,16,2,21,0.5631329116856477,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+120,2,6:45,1605,1605,Abby Anderson Turnover.,18,16,2,0,0.5636972087106271,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+121,2,6:45,1605,1605,Montana Oltrogge Steal.,18,16,2,13,0.5636972087106271,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+122,2,6:32,1592,1592,Callie Bourne missed Three Point Jumper.,18,16,2,4,0.5640459068081034,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+123,2,6:28,1588,1588,Gabi Harrington Defensive Rebound.,18,16,2,13,0.5641533353637581,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+124,2,6:15,1575,1575,Abby Anderson missed Jumper.,18,16,2,0,0.5645035216796268,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+125,2,6:15,1575,1575,Ellie Smith Block.,18,16,2,1,0.5645035216796268,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+126,2,6:14,1574,1574,Montana Offensive Rebound.,18,16,2,5,0.5645305479430739,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+127,2,6:09,1569,1569,Foul on Emma Stockholm.,18,16,2,0,0.5646659211037215,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+128,2,6:09,1569,1569,Abby Anderson Turnover.,18,16,2,19,0.5646659211037215,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+129,2,5:50,1550,1550,Ellie Smith made Layup. Assisted by Jordan Sweeney.,20,16,4,20,0.6281913013040675,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+130,2,5:30,1530,1530,Abby Anderson Turnover.,20,16,4,7,0.6292507214677268,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+131,2,5:23,1523,1523,Diaba Konate missed Jumper.,20,16,4,5,0.6296279115740662,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+132,2,5:18,1518,1518,Montana Defensive Rebound.,20,16,4,12,0.6298996873043569,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+133,2,5:06,1506,1506,Abby Anderson Turnover.,20,16,4,25,0.6305607788785816,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+134,2,4:41,1481,1481,Montana Oltrogge Turnover.,20,16,4,0,0.6319846167408694,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+135,2,4:41,1481,1481,Gabi Harrington Steal.,20,16,4,8,0.6319846167408694,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+136,2,4:33,1473,1473,Jamie Pickens missed Jumper.,20,16,4,3,0.6324555224456797,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+137,2,4:30,1470,1470,Montana Oltrogge Defensive Rebound.,20,16,4,29,0.6326342198060327,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+138,2,4:01,1441,1441,Idaho State  Turnover.,20,16,4,0,0.6344148763743745,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+139,2,4:01,1441,1441,Official TV Timeout,20,16,4,14,0.6344148763743745,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+140,2,3:47,1427,1427,McKenzie Johnston missed Three Point Jumper.,20,16,4,3,0.6352611220582262,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+141,2,3:44,1424,1424,Sophia Stiles Offensive Rebound.,20,16,4,0,0.6354395231136698,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+142,2,3:44,1424,1424,Sophia Stiles Turnover.,20,16,4,15,0.6354395231136698,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+143,2,3:29,1409,1409,Callie Bourne missed Jumper.,20,16,4,0,0.6363186320568165,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+144,2,3:29,1409,1409,Jamie Pickens Block.,20,16,4,0,0.6363186320568165,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+145,2,3:29,1409,1409,Idaho State Offensive Rebound.,20,16,4,8,0.6363186320568165,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+146,2,3:21,1401,1401,Montana Oltrogge made Jumper.,22,16,6,19,0.6989124413264148,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+147,2,3:02,1382,1382,Jamie Pickens missed Layup.,22,16,6,2,0.7003883832995146,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+148,2,3:00,1380,1380,Sophia Stiles Offensive Rebound.,22,16,6,2,0.7005425767721605,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+149,2,2:58,1378,1378,Madi Schoening missed Three Point Jumper.,22,16,6,4,0.7006966240597006,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+150,2,2:54,1374,1374,Kylie Frohlich Offensive Rebound.,22,16,6,6,0.7010043595396457,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+151,2,2:48,1368,1368,Jamie Pickens Turnover.,22,16,6,0,0.7014653623860821,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+152,2,2:48,1368,1368,Montana Oltrogge Steal.,22,16,6,6,0.7014653623860821,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+153,2,2:42,1362,1362,Foul on Sophia Stiles.,22,16,6,0,0.701926119308444,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+154,2,2:42,1362,1362,Dora Goles made Free Throw.,23,16,7,0,0.7309080601453206,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+155,2,2:42,1362,1362,Dora Goles made Free Throw.,24,16,8,18,0.7580434186454148,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+156,2,2:24,1344,1344,Abby Anderson missed Jumper.,24,16,8,5,0.7596620264173612,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+157,2,2:19,1339,1339,Dora Goles Defensive Rebound.,24,16,8,5,0.7601138716468687,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+158,2,2:14,1334,1334,Montana Oltrogge Turnover.,24,16,8,0,0.7605673446174327,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+159,2,2:14,1334,1334,McKenzie Johnston Steal.,24,16,8,4,0.7605673446174327,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+160,2,2:10,1330,1330,Foul on Callie Bourne.,24,16,8,0,0.7609315295752137,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+161,2,2:10,1330,1330,Madi Schoening made Free Throw.,24,17,7,2,0.7336203686047995,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Montana
+162,2,2:08,1328,1328,Madi Schoening missed Free Throw.,24,17,7,2,0.7337920374675062,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+163,2,2:06,1326,1326,McKenzie Johnston Offensive Rebound.,24,17,7,9,0.7339640858355124,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+164,2,1:57,1317,1317,Kylie Frohlich missed Jumper.,24,17,7,3,0.7347435601446837,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+165,2,1:54,1314,1314,Callie Bourne Defensive Rebound.,24,17,7,11,0.7350055150380033,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+166,2,1:43,1303,1303,Montana Oltrogge Turnover.,24,17,7,4,0.7359766559524851,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+167,2,1:39,1299,1299,McKenzie Johnston missed Layup.,24,17,7,0,0.7363344061409873,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+168,2,1:39,1299,1299,Dora Goles Block.,24,17,7,0,0.7363344061409873,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+169,2,1:39,1299,1299,Montana Offensive Rebound.,24,17,7,1,0.7363344061409873,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+170,2,1:38,1298,1298,Kylie Frohlich missed Jumper.,24,17,7,12,0.7364242618059963,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+171,2,1:26,1286,1286,Ellie Smith Defensive Rebound.,24,17,7,2,0.737516697853801,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+172,2,1:24,1284,1284,Dora Goles made Three Point Jumper.,27,17,10,26,0.8141527547630373,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+173,2,0:58,1258,1258,Abby Anderson made Layup.,27,19,8,12,0.76790183770405,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Montana
+174,2,0:46,1246,1246,Dora Goles missed Three Point Jumper.,27,19,8,4,0.7691790465709968,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+175,2,0:42,1242,1242,McKenzie Johnston Defensive Rebound.,27,19,8,4,0.7696145105217336,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+176,2,0:38,1238,1238,Foul on Ellie Smith.,27,19,8,0,0.7700550997847416,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+177,2,0:38,1238,1238,Kylie Frohlich missed Free Throw.,27,19,8,0,0.7700550997847416,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+178,2,0:38,1238,1238,Montana Offensive Rebound.,27,19,8,1,0.7700550997847416,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+179,2,0:37,1237,1237,Kylie Frohlich made Free Throw.,27,20,7,21,0.7423259460807395,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Montana
+180,2,0:16,1216,1216,Jordan Sweeney Turnover.,27,20,7,16,0.7446071953503208,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+181,2,0:00,1200,1200,End of 2nd Quarter,27,20,7,10,0.7464201950257411,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+182,3,9:50,1190,1190,Ellie Smith Turnover.,27,20,7,0,0.7475268131471972,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+183,3,9:50,1190,1190,Madi Schoening Steal.,27,20,7,20,0.7475268131471972,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+184,3,9:30,1170,1170,Emma Stockholm made Jumper.,27,22,5,13,0.6864337882809627,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,Montana
+185,3,9:17,1157,1157,Dora Goles missed Three Point Jumper.,27,22,5,3,0.6875539995824146,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+186,3,9:14,1154,1154,Emma Stockholm Defensive Rebound.,27,22,5,13,0.6878106641093268,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+187,3,9:01,1141,1141,Sophia Stiles missed Three Point Jumper.,27,22,5,2,0.6889178463131453,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+188,3,8:59,1139,1139,Idaho State Defensive Rebound.,27,22,5,19,0.6890877208960587,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+189,3,8:40,1120,1120,Montana Oltrogge missed Three Point Jumper.,27,22,5,2,0.6907020031753784,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+190,3,8:38,1118,1118,Abby Anderson Defensive Rebound.,27,22,5,13,0.690872445403586,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+191,3,8:25,1105,1105,Abby Anderson made Jumper.,27,24,3,19,0.6190816353442952,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,Montana
+192,3,8:06,1086,1086,Callie Bourne missed Jumper.,27,24,3,3,0.6201811296038607,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+193,3,8:03,1083,1083,Abby Anderson Defensive Rebound.,27,24,3,7,0.6203576267536671,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+194,3,7:56,1076,1076,Foul on Montana Oltrogge.,27,24,3,0,0.6207731682297614,Idaho State,Montana,5,5,1,0,NA,401174660,2020-02-15,
+195,3,7:56,1076,1076,Idaho State  Timeout,27,24,3,0,0.6207731682297614,Idaho State,Montana,4,5,1,0,NA,401174660,2020-02-15,
+196,3,7:56,1076,1076,Official TV Timeout,27,24,3,0,0.6207731682297614,Idaho State,Montana,4,5,1,0,NA,401174660,2020-02-15,
+197,3,7:56,1076,1076,Emma Stockholm made Free Throw.,27,25,2,0,0.5814075369052386,Idaho State,Montana,4,5,1,0,NA,401174660,2020-02-15,Montana
+198,3,7:56,1076,1076,Emma Stockholm made Free Throw.,27,26,1,16,0.5409771556859705,Idaho State,Montana,4,5,1,0,NA,401174660,2020-02-15,Montana
+199,3,7:40,1060,1060,Dora Goles made Layup.,29,26,3,21,0.6217455451757833,Idaho State,Montana,4,5,1,0,NA,401174660,2020-02-15,Idaho State
+200,3,7:19,1039,1039,Emma Stockholm Turnover.,29,26,3,0,0.6230802600753844,Idaho State,Montana,4,5,1,0,NA,401174660,2020-02-15,
+201,3,7:19,1039,1039,Dora Goles Steal.,29,26,3,7,0.6230802600753844,Idaho State,Montana,4,5,1,0,NA,401174660,2020-02-15,
+202,3,7:12,1032,1032,Ellie Smith missed Layup.,29,26,3,3,0.6235426326789147,Idaho State,Montana,4,5,1,0,NA,401174660,2020-02-15,
+203,3,7:09,1029,1029,Madi Schoening Defensive Rebound.,29,26,3,12,0.6237437579623145,Idaho State,Montana,4,5,1,0,NA,401174660,2020-02-15,
+204,3,6:57,1017,1017,Foul on Ellie Smith.,29,26,3,1,0.6245672909907259,Idaho State,Montana,4,5,1,0,NA,401174660,2020-02-15,
+205,3,6:56,1016,1016,Emma Stockholm made Free Throw.,29,27,2,0,0.5840737019814866,Idaho State,Montana,4,5,1,0,NA,401174660,2020-02-15,Montana
+206,3,6:56,1016,1016,Emma Stockholm made Free Throw.,29,28,1,11,0.542338259963646,Idaho State,Montana,4,5,1,0,NA,401174660,2020-02-15,Montana
+207,3,6:45,1005,1005,Dora Goles missed Jumper.,29,28,1,3,0.5426158388572204,Idaho State,Montana,4,5,0,0,NA,401174660,2020-02-15,
+208,3,6:42,1002,1002,Montana Oltrogge Offensive Rebound.,29,28,1,3,0.542693400459092,Idaho State,Montana,4,5,0,0,NA,401174660,2020-02-15,
+209,3,6:39,999,999,Dora Goles made Three Point Jumper. Assisted by Montana Oltrogge.,32,28,4,23,0.6650821617086339,Idaho State,Montana,4,5,0,0,NA,401174660,2020-02-15,Idaho State
+210,3,6:16,976,976,Madi Schoening missed Three Point Jumper.,32,28,4,5,0.66734246649983,Idaho State,Montana,4,5,0,0,NA,401174660,2020-02-15,
+211,3,6:11,971,971,Montana Oltrogge Defensive Rebound.,32,28,4,8,0.6678593796784702,Idaho State,Montana,4,5,0,0,NA,401174660,2020-02-15,
+212,3,6:03,963,963,Dora Goles made Three Point Jumper. Assisted by Montana Oltrogge.,35,28,7,3,0.77362611949231,Idaho State,Montana,4,5,0,0,NA,401174660,2020-02-15,Idaho State
+213,3,6:00,960,960,Montana  Timeout,35,28,7,0,0.774039089085516,Idaho State,Montana,4,4,0,1,NA,401174660,2020-02-15,
+214,3,6:00,960,960,Official TV Timeout,35,28,7,13,0.774039089085516,Idaho State,Montana,4,4,0,1,NA,401174660,2020-02-15,
+215,3,5:47,947,947,Madi Schoening made Layup. Assisted by Abby Anderson.,35,30,5,17,0.7081600154111997,Idaho State,Montana,4,4,0,1,NA,401174660,2020-02-15,Montana
+216,3,5:30,930,930,Dora Goles missed Layup.,35,30,5,0,0.7099125462282376,Idaho State,Montana,4,4,0,1,NA,401174660,2020-02-15,
+217,3,5:30,930,930,Abby Anderson Block.,35,30,5,1,0.7099125462282376,Idaho State,Montana,4,4,0,1,NA,401174660,2020-02-15,
+218,3,5:29,929,929,Idaho State Offensive Rebound.,35,30,5,4,0.7100114921161615,Idaho State,Montana,4,4,0,1,NA,401174660,2020-02-15,
+219,3,5:25,925,925,Montana Oltrogge made Layup.,37,30,7,24,0.7783852342021799,Idaho State,Montana,4,4,0,1,NA,401174660,2020-02-15,Idaho State
+220,3,5:01,901,901,Abby Anderson made Jumper.,37,32,5,18,0.7126478468969275,Idaho State,Montana,4,4,0,1,NA,401174660,2020-02-15,Montana
+221,3,4:43,883,883,Callie Bourne Turnover.,37,32,5,17,0.7142601834121076,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+222,3,4:26,866,866,Emma Stockholm made Three Point Jumper. Assisted by Abby Anderson.,37,35,2,26,0.5913237983131008,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Montana
+223,3,4:00,840,840,Diaba Konate missed Layup.,37,35,2,4,0.5924644379058206,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+224,3,3:56,836,836,Emma Stockholm Defensive Rebound.,37,35,2,15,0.59264796421181,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+225,3,3:41,821,821,Taylor Goligoski missed Layup.,37,35,2,3,0.5933635461845725,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+226,3,3:38,818,818,Madi Schoening Offensive Rebound.,37,35,2,1,0.5935126094516849,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+227,3,3:37,817,817,Madi Schoening missed Layup.,37,35,2,2,0.5935627864884585,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+228,3,3:35,815,815,Delaney Moore Defensive Rebound.,37,35,2,5,0.593663897562603,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+229,3,3:30,810,810,Callie Bourne Turnover.,37,35,2,0,0.5939212704866076,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+230,3,3:30,810,810,Madi Schoening Steal.,37,35,2,23,0.5939212704866076,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+231,3,3:07,787,787,Emma Stockholm made Dunk. Assisted by Madi Schoening.,37,37,0,0,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Montana
+232,3,3:07,787,787,Foul on Callie Bourne.,37,37,0,0,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+233,3,3:07,787,787,Emma Stockholm made Free Throw.,37,38,-1,15,0.4519595206632,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Montana
+234,3,2:52,772,772,Foul on McKenzie Johnston.,37,38,-1,8,0.45147789054099546,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+235,3,2:44,764,764,Ellie Smith made Jumper. Assisted by Dora Goles.,39,38,1,16,0.548798697215382,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+236,3,2:28,748,748,Emma Stockholm made Three Point Jumper. Assisted by Taylor Goligoski.,39,41,-2,22,0.40215905808116587,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Montana
+237,3,2:06,726,726,Dora Goles made Jumper.,41,41,0,0,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+238,3,2:06,726,726,Foul on McKenzie Johnston.,41,41,0,0,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+239,3,2:06,726,726,Dora Goles made Free Throw.,42,41,1,16,0.5503297429931268,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+240,3,1:50,710,710,Madi Schoening made Layup. Assisted by Abby Anderson.,42,43,-1,14,0.4490177281937526,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Montana
+241,3,1:36,696,696,Montana Oltrogge missed Three Point Jumper.,42,43,-1,2,0.4484995763356005,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+242,3,1:34,694,694,Idaho State Offensive Rebound.,42,43,-1,6,0.4484286460941334,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+243,3,1:28,688,688,Dora Goles made Three Point Jumper.,45,43,2,12,0.602462044519044,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Idaho State
+244,3,1:16,676,676,Abby Anderson made Layup.,45,45,0,18,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,Montana
+245,3,0:58,658,658,Foul on Emma Stockholm.,45,45,0,16,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+246,3,0:42,642,642,Foul on Jamie Pickens.,45,45,0,2,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+247,3,0:40,640,640,Foul on Delaney Moore.,45,45,0,0,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+248,3,0:40,640,640,Delaney Moore Turnover.,45,45,0,15,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+249,3,0:25,625,625,Jamie Pickens Turnover.,45,45,0,0,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+250,3,0:25,625,625,Carsyn Boswell Steal.,45,45,0,24,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+251,3,0:01,601,601,Dora Goles missed Jumper.,45,45,0,1,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+252,3,0:00,600,600,Gabi Harrington Defensive Rebound.,45,45,0,0,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+253,3,0:00,600,600,End of 3rd Quarter,45,45,0,18,0.5,Idaho State,Montana,4,4,0,0,NA,401174660,2020-02-15,
+254,4,9:42,582,582,Callie Bourne missed Three Point Jumper.,45,45,0,3,0.5,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+255,4,9:39,579,579,Diaba Konate Offensive Rebound.,45,45,0,16,0.5,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+256,4,9:23,563,563,Foul on Kylie Frohlich.,45,45,0,8,0.5,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+257,4,9:15,555,555,Foul on Jamie Pickens.,45,45,0,0,0.5,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+258,4,9:15,555,555,Diaba Konate missed Free Throw.,45,45,0,0,0.5,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+259,4,9:15,555,555,Idaho State Offensive Rebound.,45,45,0,0,0.5,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+260,4,9:15,555,555,Diaba Konate made Free Throw.,46,45,1,28,0.5573656659758498,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,Idaho State
+261,4,8:47,527,527,McKenzie Johnston missed Jumper.,46,45,1,3,0.5590878001235724,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+262,4,8:44,524,524,Montana Oltrogge Defensive Rebound.,46,45,1,15,0.5592470702258858,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+263,4,8:29,509,509,Callie Bourne made Layup. Assisted by Ellie Smith.,48,45,3,11,0.6733856541178536,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,Idaho State
+264,4,8:18,498,498,Madi Schoening Turnover.,48,45,3,0,0.6748315143603757,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+265,4,8:18,498,498,Dora Goles Steal.,48,45,3,4,0.6748315143603757,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+266,4,8:14,494,494,Dora Goles made Layup.,50,45,5,0,0.7722236478441535,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,Idaho State
+267,4,8:14,494,494,Foul on Gabi Harrington.,50,45,5,0,0.7722236478441535,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+268,4,8:14,494,494,Dora Goles made Free Throw.,51,45,6,15,0.812310242513694,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,Idaho State
+269,4,7:59,479,479,Abby Anderson missed Jumper.,51,45,6,4,0.8152172824120126,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+270,4,7:55,475,475,Dora Goles Defensive Rebound.,51,45,6,10,0.8160465326354724,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+271,4,7:45,465,465,Callie Bourne missed Layup.,51,45,6,1,0.8182637377376852,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+272,4,7:44,464,464,Emma Stockholm Defensive Rebound.,51,45,6,0,0.8184985259126829,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+273,4,7:44,464,464,Foul on Ellie Smith.,51,45,6,26,0.8184985259126829,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+274,4,7:18,438,438,Foul on Ellie Smith.,51,45,6,0,0.8256949458925859,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+275,4,7:18,438,438,Abby Anderson made Free Throw.,51,46,5,0,0.7851917245314605,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,Montana
+276,4,7:18,438,438,Abby Anderson made Free Throw.,51,47,4,16,0.7382602331054162,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,Montana
+277,4,7:02,422,422,Diaba Konate missed Layup.,51,47,4,3,0.7431990515632535,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+278,4,6:59,419,419,Emma Stockholm Defensive Rebound.,51,47,4,16,0.7440957609050409,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+279,4,6:43,403,403,Foul on Delaney Moore.,51,47,4,0,0.7486354585085665,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+280,4,6:43,403,403,Abby Anderson missed Free Throw.,51,47,4,0,0.7486354585085665,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+281,4,6:43,403,403,Montana Offensive Rebound.,51,47,4,0,0.7486354585085665,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+282,4,6:43,403,403,Abby Anderson made Free Throw.,51,48,3,17,0.6939201624124344,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,Montana
+283,4,6:26,386,386,Diaba Konate made Jumper.,53,48,5,25,0.8014182240874405,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,Idaho State
+284,4,6:01,361,361,Emma Stockholm missed Three Point Jumper.,53,48,5,3,0.8091171876521646,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+285,4,5:58,358,358,Montana Oltrogge Defensive Rebound.,53,48,5,15,0.8101177230054855,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,
+286,4,5:43,343,343,Delaney Moore made Layup. Assisted by Callie Bourne.,55,48,7,2,0.8890017300897416,Idaho State,Montana,5,5,0,0,NA,401174660,2020-02-15,Idaho State
+287,4,5:41,341,341,Montana  Timeout,55,48,7,0,0.8897093574720624,Idaho State,Montana,5,4,0,1,NA,401174660,2020-02-15,
+288,4,5:41,341,341,Official TV Timeout,55,48,7,18,0.8897093574720624,Idaho State,Montana,5,4,0,1,NA,401174660,2020-02-15,
+289,4,5:23,323,323,Emma Stockholm missed Jumper.,55,48,7,3,0.8966217085527304,Idaho State,Montana,5,4,0,1,NA,401174660,2020-02-15,
+290,4,5:20,320,320,Sophia Stiles Offensive Rebound.,55,48,7,6,0.8978757614406051,Idaho State,Montana,5,4,0,1,NA,401174660,2020-02-15,
+291,4,5:14,314,314,McKenzie Johnston made Layup.,55,50,5,26,0.8282439512809121,Idaho State,Montana,5,4,0,1,NA,401174660,2020-02-15,Montana
+292,4,4:48,288,288,Dora Goles made Three Point Jumper. Assisted by Diaba Konate.,58,50,8,20,0.9307890351359783,Idaho State,Montana,5,4,0,1,NA,401174660,2020-02-15,Idaho State
+293,4,4:28,268,268,Gabi Harrington missed Three Point Jumper.,58,50,8,3,0.9289293332945582,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,
+294,4,4:25,265,265,Dora Goles Defensive Rebound.,58,50,8,17,0.928453258326718,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,
+295,4,4:08,248,248,Delaney Moore missed Layup.,58,50,8,3,0.9258576645117051,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,
+296,4,4:05,245,245,Emma Stockholm Defensive Rebound.,58,50,8,6,0.9255352743096519,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,
+297,4,3:59,239,239,McKenzie Johnston missed Jumper.,58,50,8,4,0.925136670147399,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,
+298,4,3:55,235,235,Callie Bourne Defensive Rebound.,58,50,8,23,0.9250992972031368,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,
+299,4,3:32,212,212,Delaney Moore missed Jumper.,58,50,8,3,0.9300241820024198,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,
+300,4,3:29,209,209,McKenzie Johnston Defensive Rebound.,58,50,8,8,0.9314442223490006,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,
+301,4,3:21,201,201,Gabi Harrington missed Three Point Jumper.,58,50,8,3,0.9361688113871527,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,
+302,4,3:18,198,198,Idaho State Defensive Rebound.,58,50,8,11,0.9382800159823301,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,
+303,4,3:07,187,187,Callie Bourne Turnover.,58,50,8,33,0.9472728915971552,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,
+304,4,2:34,154,154,Foul on Dora Goles.,58,50,8,0,0.9699245357682681,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,
+305,4,2:34,154,154,Madi Schoening made Free Throw.,58,51,7,0,0.9543191944550996,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,Montana
+306,4,2:34,154,154,Madi Schoening made Free Throw.,58,52,6,19,0.9311911004632434,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,Montana
+307,4,2:15,135,135,Montana Oltrogge made Three Point Jumper. Assisted by Callie Bourne.,61,52,9,14,0.9873812977037311,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,Idaho State
+308,4,2:01,121,121,Abby Anderson Turnover.,61,52,9,0,0.9914243496002072,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,
+309,4,2:01,121,121,Dora Goles Steal.,61,52,9,4,0.9914243496002072,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,
+310,4,1:57,117,117,Dora Goles made Layup.,63,52,11,18,0.9974150525549627,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,Idaho State
+311,4,1:39,99,99,Emma Stockholm made Jumper.,63,54,9,28,0.9959067747911999,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,Montana
+312,4,1:11,71,71,Delaney Moore made Jumper. Assisted by Montana Oltrogge.,65,54,11,7,0.9997070262195898,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,Idaho State
+313,4,1:04,64,64,Madi Schoening made Three Point Jumper.,65,57,8,3,0.9979844455748039,Idaho State,Montana,5,4,0,0,NA,401174660,2020-02-15,Montana
+314,4,1:01,61,61,Montana  Timeout,65,57,8,2,0.99822358311674,Idaho State,Montana,5,3,0,1,NA,401174660,2020-02-15,
+315,4,0:59,59,59,Technical Foul on Taylor Goligoski.,65,57,8,0,0.9983688042052631,Idaho State,Montana,5,3,0,1,NA,401174660,2020-02-15,
+316,4,0:59,59,59,Dora Goles made Free Throw.,66,57,9,0,0.9992679362038596,Idaho State,Montana,5,3,0,1,NA,401174660,2020-02-15,Idaho State
+317,4,0:59,59,59,Dora Goles made Free Throw.,67,57,10,1,0.9996716203567335,Idaho State,Montana,5,3,0,1,NA,401174660,2020-02-15,Idaho State
+318,4,0:58,58,58,Foul on McKenzie Johnston.,67,57,10,0,0.9996888193186634,Idaho State,Montana,5,3,0,1,NA,401174660,2020-02-15,
+319,4,0:58,58,58,Dora Goles missed Free Throw.,67,57,10,0,0.9996888193186634,Idaho State,Montana,5,3,0,1,NA,401174660,2020-02-15,
+320,4,0:58,58,58,Idaho State Offensive Rebound.,67,57,10,0,0.9996888193186634,Idaho State,Montana,5,3,0,1,NA,401174660,2020-02-15,
+321,4,0:58,58,58,Dora Goles made Free Throw.,68,57,11,10,0.9998611959028314,Idaho State,Montana,5,3,0,1,NA,401174660,2020-02-15,Idaho State
+322,4,0:48,48,48,Madi Schoening missed Three Point Jumper.,68,57,11,3,0.9999246060047914,Idaho State,Montana,5,3,0,1,NA,401174660,2020-02-15,
+323,4,0:45,45,45,Montana Oltrogge Defensive Rebound.,68,57,11,0,0.9999376701856281,Idaho State,Montana,5,3,0,1,NA,401174660,2020-02-15,
+324,4,0:45,45,45,Montana  Timeout,68,57,11,2,0.9999376701856281,Idaho State,Montana,5,2,0,1,NA,401174660,2020-02-15,
+325,4,0:43,43,43,Gabi Harrington missed Three Point Jumper.,68,57,11,4,0.9999452087660299,Idaho State,Montana,5,2,0,1,NA,401174660,2020-02-15,
+326,4,0:39,39,39,Gabi Harrington Offensive Rebound.,68,57,11,1,0.9999578569034909,Idaho State,Montana,5,2,0,1,NA,401174660,2020-02-15,
+327,4,0:38,38,38,Gabi Harrington made Layup.,68,59,9,6,0.9997508296192635,Idaho State,Montana,5,2,0,1,NA,401174660,2020-02-15,Montana
+328,4,0:32,32,32,Foul on Gabi Harrington.,68,59,9,0,0.9998212711699395,Idaho State,Montana,5,2,0,1,NA,401174660,2020-02-15,
+329,4,0:32,32,32,Dora Goles made Free Throw.,69,59,10,0,0.999931478275363,Idaho State,Montana,5,2,0,1,NA,401174660,2020-02-15,Idaho State
+330,4,0:32,32,32,Dora Goles made Free Throw.,70,59,11,4,0.9999737316713603,Idaho State,Montana,5,2,0,1,NA,401174660,2020-02-15,Idaho State
+331,4,0:28,28,28,Madi Schoening missed Three Point Jumper.,70,59,11,4,0.9999800831736939,Idaho State,Montana,5,2,0,1,NA,401174660,2020-02-15,
+332,4,0:24,24,24,Emma Stockholm Offensive Rebound.,70,59,11,4,0.9999849614293205,Idaho State,Montana,5,2,0,1,NA,401174660,2020-02-15,
+333,4,0:20,20,20,McKenzie Johnston missed Three Point Jumper.,70,59,11,4,0.9999887054251725,Idaho State,Montana,5,2,0,1,NA,401174660,2020-02-15,
+334,4,0:16,16,16,Delaney Moore Defensive Rebound.,70,59,11,5,0.9999915921613303,Idaho State,Montana,5,2,0,1,NA,401174660,2020-02-15,
+335,4,0:11,11,11,Foul on McKenzie Johnston.,70,59,11,0,0.9999942507429072,Idaho State,Montana,5,2,0,1,NA,401174660,2020-02-15,
+336,4,0:11,11,11,Dora Goles made Free Throw.,71,59,12,0,0.9999980803825631,Idaho State,Montana,5,2,0,1,NA,401174660,2020-02-15,Idaho State
+337,4,0:11,11,11,Dora Goles made Free Throw.,72,59,13,11,0.9999993590612415,Idaho State,Montana,5,2,0,1,NA,401174660,2020-02-15,Idaho State
+338,4,0:00,0,0,End of 4th Quarter,72,59,13,0,1,Idaho State,Montana,5,2,0,1,NA,401174660,2020-02-15,
+339,4,0:00,0,0,End of Game,72,59,13,0,1,Idaho State,Montana,5,2,0,1,NA,401174660,2020-02-15,

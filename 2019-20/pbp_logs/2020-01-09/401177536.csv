@@ -1,0 +1,336 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:49,2689,2689,Taylor Turney made Jumper.,0,0,0,27,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,NA
+2,1,9:22,2662,2662,Ila Lane made Jumper. Assisted by Aliceah Hernandez.,2,2,0,15,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+3,1,9:07,2647,2647,Raina Perez missed Three Point Jumper.,2,2,0,3,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+4,1,9:04,2644,2644,UC Santa Barbara Defensive Rebound.,2,2,0,22,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+5,1,8:42,2622,2622,Aliceah Hernandez missed Three Point Jumper.,2,2,0,3,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+6,1,8:39,2619,2619,Raina Perez Defensive Rebound.,2,2,0,6,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+7,1,8:33,2613,2613,Madison Freemon missed Jumper.,2,2,0,0,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+8,1,8:33,2613,2613,Lauren Lee Defensive Rebound.,2,2,0,0,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+9,1,8:33,2613,2613,Foul on Carolyn Gill.,2,2,0,14,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+10,1,8:19,2599,2599,Coco Miller made Three Point Jumper. Assisted by Lauren Lee.,5,2,3,21,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+11,1,7:58,2578,2578,Madison Freemon made Layup. Assisted by Carolyn Gill.,5,4,1,25,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,CSU Fullerton
+12,1,7:33,2553,2553,Tal Sahar made Three Point Jumper. Assisted by Danae Miller.,8,4,4,13,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+13,1,7:20,2540,2540,Raina Perez missed Jumper.,8,4,4,2,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+14,1,7:18,2538,2538,Lauren Lee Defensive Rebound.,8,4,4,7,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+15,1,7:11,2531,2531,Danae Miller made Layup.,10,4,6,13,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+16,1,6:58,2518,2518,Carolyn Gill Turnover.,10,4,6,12,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+17,1,6:46,2506,2506,Danae Miller made Jumper.,12,4,8,18,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+18,1,6:28,2488,2488,Madison Freemon made Jumper.,12,6,6,24,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,CSU Fullerton
+19,1,6:04,2464,2464,Tal Sahar missed Three Point Jumper.,12,6,6,4,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+20,1,6:00,2460,2460,Taylor Turney Defensive Rebound.,12,6,6,18,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+21,1,5:42,2442,2442,Taylor Turney made Jumper.,12,8,4,18,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,CSU Fullerton
+22,1,5:24,2424,2424,Ila Lane made Layup. Assisted by Danae Miller.,14,8,6,17,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+23,1,5:07,2407,2407,Raina Perez missed Jumper.,14,8,6,3,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+24,1,5:04,2404,2404,Danae Miller Defensive Rebound.,14,8,6,22,NA,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+25,1,4:42,2382,2382,Coco Miller missed Layup.,14,8,6,0,0.6304789516553083,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+26,1,4:42,2382,2382,CSU Fullerton Defensive Rebound.,14,8,6,0,0.6304789516553083,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+27,1,4:42,2382,2382,Official TV Timeout,14,8,6,18,0.6304789516553083,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+28,1,4:24,2364,2364,Madison Freemon missed Three Point Jumper.,14,8,6,3,0.6315599165580171,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+29,1,4:21,2361,2361,Ila Lane Defensive Rebound.,14,8,6,5,0.6317411934727144,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+30,1,4:16,2356,2356,Coco Miller missed Three Point Jumper.,14,8,6,2,0.6320440031163946,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+31,1,4:14,2354,2354,CSU Fullerton Defensive Rebound.,14,8,6,17,0.6321653618280959,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+32,1,3:57,2337,2337,Taylor Turney made Jumper. Assisted by Madison Freemon.,14,10,4,20,0.5900049477728553,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,CSU Fullerton
+33,1,3:37,2317,2317,Danae Miller missed Jumper.,14,10,4,1,0.5908599636952792,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+34,1,3:36,2316,2316,CSU Fullerton Defensive Rebound.,14,10,4,24,0.5909029385104733,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+35,1,3:12,2292,2292,Raina Perez made Jumper.,14,12,2,26,0.546365429477102,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,CSU Fullerton
+36,1,2:46,2266,2266,Danae Miller missed Three Point Jumper.,14,12,2,3,0.5469481643120951,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+37,1,2:43,2263,2263,Raina Perez Defensive Rebound.,14,12,2,3,0.5470157879854802,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+38,1,2:40,2260,2260,Raina Perez Turnover.,14,12,2,0,0.5470834862749095,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+39,1,2:40,2260,2260,Coco Miller Steal.,14,12,2,8,0.5470834862749095,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+40,1,2:32,2252,2252,Tal Sahar made Jumper. Assisted by Danae Miller.,16,12,4,12,0.5936915402480989,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+41,1,2:20,2240,2240,Raina Perez made Three Point Jumper.,16,15,1,17,0.5238222592059711,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,CSU Fullerton
+42,1,2:03,2223,2223,Coco Miller Turnover.,16,15,1,0,0.5240172928383114,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+43,1,2:03,2223,2223,Taylor Turney Steal.,16,15,1,9,0.5240172928383114,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+44,1,1:54,2214,2214,Foul on Tal Sahar.,16,15,1,5,0.5241209276605919,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+45,1,1:49,2209,2209,Carolyn Gill made Jumper.,16,17,-1,20,0.4758213927712275,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,CSU Fullerton
+46,1,1:29,2189,2189,Foul on Megan Nieto.,16,17,-1,0,0.475590001479493,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+47,1,1:29,2189,2189,Ila Lane made Free Throw.,17,17,0,0,0.5,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+48,1,1:29,2189,2189,Ila Lane missed Free Throw.,17,17,0,0,0.5,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+49,1,1:29,2189,2189,Taylor Turney Defensive Rebound.,17,17,0,10,0.5,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+50,1,1:19,2179,2179,Amiee Book missed Three Point Jumper.,17,17,0,4,0.5,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+51,1,1:15,2175,2175,Ila Lane Defensive Rebound.,17,17,0,4,0.5,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+52,1,1:11,2171,2171,Tal Sahar missed Jumper.,17,17,0,1,0.5,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+53,1,1:10,2170,2170,CSU Fullerton Defensive Rebound.,17,17,0,21,0.5,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+54,1,0:49,2149,2149,Megan Nieto missed Three Point Jumper.,17,17,0,3,0.5,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+55,1,0:46,2146,2146,Johnni Gonzalez Defensive Rebound.,17,17,0,5,0.5,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+56,1,0:41,2141,2141,Ila Lane made Jumper. Assisted by Tal Sahar.,19,17,2,7,0.5498150985748921,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+57,1,0:34,2134,2134,Taylor Turney Turnover.,19,17,2,0,0.5499785476318034,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+58,1,0:34,2134,2134,Coco Miller Steal.,19,17,2,8,0.5499785476318034,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+59,1,0:26,2126,2126,Nyalam Thabach made Jumper. Assisted by Coco Miller.,21,17,4,23,0.5993317864634711,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+60,1,0:03,2103,2103,Raina Perez missed Jumper.,21,17,4,3,0.6003825882484426,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+61,1,0:00,2100,2100,Nyalam Thabach Defensive Rebound.,21,17,4,0,0.6005202972966139,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+62,1,0:00,2100,2100,End of 1st Quarter,21,17,4,10,0.6005202972966139,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+63,2,9:50,2090,2090,Ila Lane made Jumper. Assisted by Coco Miller.,23,17,6,8,0.6489274504674146,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+64,2,9:42,2082,2082,Carolyn Gill Turnover.,23,17,6,12,0.6494537777302785,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+65,2,9:30,2070,2070,Foul on Anniken Frey.,23,17,6,0,0.6502460444590433,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+66,2,9:30,2070,2070,Danae Miller made Free Throw.,24,17,7,0,0.6733716401603698,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+67,2,9:30,2070,2070,Danae Miller made Free Throw.,25,17,8,12,0.6956837809024177,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+68,2,9:18,2058,2058,Raina Perez missed Jumper.,25,17,8,3,0.69667103914807,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+69,2,9:15,2055,2055,Nyalam Thabach Defensive Rebound.,25,17,8,12,0.6969184250748345,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+70,2,9:03,2043,2043,Tal Sahar missed Three Point Jumper.,25,17,8,3,0.6979103310201229,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+71,2,9:00,2040,2040,Ila Lane Offensive Rebound.,25,17,8,8,0.6981589107746906,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+72,2,8:52,2032,2032,Ila Lane missed Jumper.,25,17,8,3,0.6988230014092678,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+73,2,8:49,2029,2029,Ila Lane Offensive Rebound.,25,17,8,14,0.6990724967914708,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+74,2,8:35,2015,2015,Danae Miller made Three Point Jumper. Assisted by Johnni Gonzalez.,28,17,11,15,0.762531319345221,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+75,2,8:20,2000,2000,Carolyn Gill Turnover.,28,17,11,0,0.7640216078251771,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+76,2,8:20,2000,2000,Johnni Gonzalez Steal.,28,17,11,19,0.7640216078251771,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+77,2,8:01,1981,1981,Ila Lane made Jumper. Assisted by Tal Sahar.,30,17,13,20,0.8023306699512417,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+78,2,7:41,1961,1961,Amiee Book made Jumper. Assisted by Anniken Frey.,30,19,11,18,0.7679221717436304,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,CSU Fullerton
+79,2,7:23,1943,1943,Danae Miller made Three Point Jumper. Assisted by Nyalam Thabach.,33,19,14,20,0.8228758471968923,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+80,2,7:03,1923,1923,Amiee Book made Three Point Jumper. Assisted by Raina Perez.,33,22,11,30,0.7717603300229053,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,CSU Fullerton
+81,2,6:33,1893,1893,Nyalam Thabach Turnover.,33,22,11,0,0.7747732116978002,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+82,2,6:33,1893,1893,Anniken Frey Steal.,33,22,11,7,0.7747732116978002,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+83,2,6:26,1886,1886,Carolyn Gill missed Jumper.,33,22,11,3,0.775471812616917,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+84,2,6:23,1883,1883,Ila Lane Defensive Rebound.,33,22,11,12,0.7757708222424508,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+85,2,6:11,1871,1871,Nyalam Thabach missed Three Point Jumper.,33,22,11,3,0.7769649039196683,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+86,2,6:08,1868,1868,Carolyn Gill Defensive Rebound.,33,22,11,10,0.7772630138243765,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+87,2,5:58,1858,1858,Madison Freemon missed Jumper.,33,22,11,6,0.778255840483251,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+88,2,5:52,1852,1852,Amiee Book Offensive Rebound.,33,22,11,1,0.7788510656330365,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+89,2,5:51,1851,1851,Raina Perez made Jumper.,33,24,9,32,0.7370222350866369,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,CSU Fullerton
+90,2,5:19,1819,1819,Danae Miller missed Three Point Jumper.,33,24,9,1,0.7399501791837286,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+91,2,5:18,1818,1818,Nyalam Thabach Offensive Rebound.,33,24,9,0,0.7400419329091138,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+92,2,5:18,1818,1818,Foul on Amiee Book.,33,24,9,19,0.7400419329091138,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+93,2,4:59,1799,1799,Coco Miller made Jumper.,35,24,11,18,0.7841136253463296,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+94,2,4:41,1781,1781,Carolyn Gill Turnover.,35,24,11,0,0.7859117269597693,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+95,2,4:41,1781,1781,Official TV Timeout,35,24,11,18,0.7859117269597693,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+96,2,4:23,1763,1763,Coco Miller missed Three Point Jumper.,35,24,11,3,0.7877203382284271,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+97,2,4:20,1760,1760,Amiee Book Defensive Rebound.,35,24,11,21,0.788023001672339,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+98,2,3:59,1739,1739,Foul on Megan Ormiston.,35,24,11,4,0.790153206108166,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+99,2,3:55,1735,1735,Raina Perez missed Jumper.,35,24,11,3,0.790561477889693,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+100,2,3:52,1732,1732,Danae Miller Defensive Rebound.,35,24,11,7,0.79086825717821,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+101,2,3:45,1725,1725,Johnni Gonzalez missed Three Point Jumper.,35,24,11,4,0.7915860700246469,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+102,2,3:41,1721,1721,Taylor Turney Defensive Rebound.,35,24,11,14,0.7919975500503164,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+103,2,3:27,1707,1707,Ashlee Ane Turnover.,35,24,11,0,0.7934456626001178,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+104,2,3:27,1707,1707,Coco Miller Steal.,35,24,11,6,0.7934456626001178,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+105,2,3:21,1701,1701,Coco Miller made Layup.,37,24,13,17,0.831321987502848,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+106,2,3:04,1684,1684,Taylor Turney made Jumper.,37,26,11,17,0.7958489842842388,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,CSU Fullerton
+107,2,2:47,1667,1667,Danae Miller missed Three Point Jumper.,37,26,11,4,0.7975879810418636,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+108,2,2:43,1663,1663,Coco Miller Offensive Rebound.,37,26,11,2,0.7979899432756671,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+109,2,2:41,1661,1661,Coco Miller made Layup.,39,26,13,10,0.8354867771402774,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+110,2,2:31,1651,1651,Taylor Turney missed Jumper.,39,26,13,3,0.8364860874583672,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+111,2,2:28,1648,1648,Johnni Gonzalez Defensive Rebound.,39,26,13,7,0.836783009070883,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+112,2,2:21,1641,1641,Coco Miller missed Three Point Jumper.,39,26,13,1,0.8374711633542931,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+113,2,2:20,1640,1640,Raina Perez Defensive Rebound.,39,26,13,0,0.8375689687819299,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+114,2,2:20,1640,1640,Foul on Ila Lane.,39,26,13,20,0.8375689687819299,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+115,2,2:00,1620,1620,Carolyn Gill made Three Point Jumper. Assisted by Taylor Turney.,39,29,10,14,0.7812075909070172,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,CSU Fullerton
+116,2,1:46,1606,1606,Johnni Gonzalez Turnover.,39,29,10,0,0.7825108175090786,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+117,2,1:46,1606,1606,Raina Perez Steal.,39,29,10,5,0.7825108175090786,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+118,2,1:41,1601,1601,Raina Perez made Layup.,39,31,8,22,0.7362304950717292,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,CSU Fullerton
+119,2,1:19,1579,1579,Coco Miller missed Jumper.,39,31,8,5,0.7380935258528877,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+120,2,1:14,1574,1574,Madison Freemon Defensive Rebound.,39,31,8,3,0.7385178770967018,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+121,2,1:11,1571,1571,Taylor Turney made Jumper.,39,33,6,0,0.6856154847085296,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,CSU Fullerton
+122,2,1:11,1571,1571,Foul on Coco Miller.,39,33,6,0,0.6856154847085296,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+123,2,1:11,1571,1571,Taylor Turney made Free Throw.,39,34,5,31,0.6569541507530707,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,CSU Fullerton
+124,2,0:40,1540,1540,Lauren Lee missed Layup.,39,34,5,3,0.6589010440387655,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+125,2,0:37,1537,1537,Amiee Book Defensive Rebound.,39,34,5,6,0.6590925682978487,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+126,2,0:31,1531,1531,Foul on Coco Miller.,39,34,5,6,0.6594777047613101,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+127,2,0:25,1525,1525,Taylor Turney made Jumper. Assisted by Raina Perez.,39,36,3,23,0.5981151904763176,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,CSU Fullerton
+128,2,0:02,1502,1502,Tal Sahar missed Three Point Jumper.,39,36,3,1,0.5990928370854987,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+129,2,0:01,1501,1501,Raina Perez Defensive Rebound.,39,36,3,0,0.5991362198311965,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+130,2,0:01,1501,1501,Foul on Danae Miller.,39,36,3,0,0.5991362198311965,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+131,2,0:01,1501,1501,Raina Perez missed Free Throw.,39,36,3,0,0.5991362198311965,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+132,2,0:01,1501,1501,CSU Fullerton Offensive Rebound.,39,36,3,0,0.5991362198311965,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+133,2,0:01,1501,1501,Raina Perez made Free Throw.,39,37,2,1,0.566580120243879,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,CSU Fullerton
+134,2,0:00,1500,1500,End of 2nd Quarter,39,37,2,12,0.5666097462963707,UC Santa Barbara,CSU Fullerton,4,4,0,0,NA,401177536,2020-01-09,
+135,3,9:48,1488,1488,Raina Perez missed Jumper.,39,37,2,4,0.5669697318889084,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+136,3,9:44,1484,1484,Lauren Lee Defensive Rebound.,39,37,2,12,0.5670916597848732,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+137,3,9:32,1472,1472,Tal Sahar Turnover.,39,37,2,0,0.5674637237186487,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+138,3,9:32,1472,1472,Taylor Turney Steal.,39,37,2,9,0.5674637237186487,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+139,3,9:23,1463,1463,Taylor Turney missed Three Point Jumper.,39,37,2,4,0.5677493772119581,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+140,3,9:19,1459,1459,Tal Sahar Defensive Rebound.,39,37,2,11,0.5678782681398279,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+141,3,9:08,1448,1448,Ila Lane made Jumper. Assisted by Lauren Lee.,41,37,4,22,0.6339822003567207,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+142,3,8:46,1426,1426,Foul on Tal Sahar.,41,37,4,0,0.6353206950383095,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+143,3,8:46,1426,1426,Taylor Turney missed Free Throw.,41,37,4,0,0.6353206950383095,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+144,3,8:46,1426,1426,CSU Fullerton Offensive Rebound.,41,37,4,0,0.6353206950383095,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+145,3,8:46,1426,1426,Taylor Turney missed Free Throw.,41,37,4,1,0.6353206950383095,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+146,3,8:45,1425,1425,Ila Lane Defensive Rebound.,41,37,4,26,0.6353801614423773,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+147,3,8:19,1399,1399,Ila Lane made Layup. Assisted by Tal Sahar.,43,37,6,15,0.6990690190802672,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+148,3,8:04,1384,1384,Carolyn Gill Turnover.,43,37,6,0,0.7002340237476041,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+149,3,8:04,1384,1384,Ila Lane Steal.,43,37,6,7,0.7002340237476041,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+150,3,7:57,1377,1377,Danae Miller missed Layup.,43,37,6,3,0.7007735990946116,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+151,3,7:54,1374,1374,Madison Freemon Defensive Rebound.,43,37,6,8,0.7010043595396457,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+152,3,7:46,1366,1366,Madison Freemon missed Three Point Jumper.,43,37,6,2,0.7016189490360021,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+153,3,7:44,1364,1364,Amiee Book Offensive Rebound.,43,37,6,2,0.7017725281075929,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+154,3,7:42,1362,1362,Madison Freemon made Layup.,43,39,4,27,0.6389918544859001,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,CSU Fullerton
+155,3,7:15,1335,1335,Ila Lane Turnover.,43,39,4,6,0.6405257663082089,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+156,3,7:09,1329,1329,Carolyn Gill made Layup. Assisted by Raina Perez.,43,41,2,17,0.5718917850613409,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,CSU Fullerton
+157,3,6:52,1312,1312,Foul on Taylor Turney.,43,41,2,0,0.5724206019598574,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+158,3,6:52,1312,1312,Coco Miller made Free Throw.,44,41,3,0,0.6076872637688877,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+159,3,6:52,1312,1312,Coco Miller made Free Throw.,45,41,4,14,0.6418650212767739,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+160,3,6:38,1298,1298,Carolyn Gill made Layup. Assisted by Madison Freemon.,45,43,2,21,0.572867849730861,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,CSU Fullerton
+161,3,6:17,1277,1277,Ila Lane missed Jumper.,45,43,2,1,0.5735647334081794,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+162,3,6:16,1276,1276,Raina Perez Defensive Rebound.,45,43,2,19,0.5735988234035153,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+163,3,5:57,1257,1257,Carolyn Gill missed Jumper.,45,43,2,0,0.5742646506108325,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+164,3,5:57,1257,1257,Tal Sahar Block.,45,43,2,6,0.5742646506108325,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+165,3,5:51,1251,1251,Carolyn Gill Offensive Rebound.,45,43,2,1,0.5744826845368721,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+166,3,5:50,1250,1250,Amiee Book made Jumper. Assisted by Carolyn Gill.,45,45,0,20,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,CSU Fullerton
+167,3,5:30,1230,1230,Foul on Taylor Turney.,45,45,0,10,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+168,3,5:20,1220,1220,Coco Miller missed Three Point Jumper.,45,45,0,3,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+169,3,5:17,1217,1217,Amiee Book Defensive Rebound.,45,45,0,4,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+170,3,5:13,1213,1213,Taylor Turney made Jumper.,45,47,-2,19,0.42403304984617596,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,CSU Fullerton
+171,3,4:54,1194,1194,Danae Miller Turnover.,45,47,-2,0,0.42324473846750305,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+172,3,4:54,1194,1194,Official TV Timeout,45,47,-2,19,0.42324473846750305,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+173,3,4:35,1175,1175,Carolyn Gill missed Three Point Jumper.,45,47,-2,0,0.42248239486955,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+174,3,4:35,1175,1175,Danae Miller Defensive Rebound.,45,47,-2,0,0.42248239486955,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+175,3,4:35,1175,1175,Foul on Amiee Book.,45,47,-2,23,0.42248239486955,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+176,3,4:12,1152,1152,Lauren Lee Turnover.,45,47,-2,0,0.42158266890698076,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+177,3,4:12,1152,1152,Carolyn Gill Steal.,45,47,-2,16,0.42158266890698076,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+178,3,3:56,1136,1136,Carolyn Gill missed Jumper.,45,47,-2,4,0.42096365033258404,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+179,3,3:52,1132,1132,Lauren Lee Defensive Rebound.,45,47,-2,12,0.42080901338516086,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+180,3,3:40,1120,1120,Foul on Amiee Book.,45,47,-2,0,0.4203440222291642,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+181,3,3:40,1120,1120,Tal Sahar made Free Throw.,46,47,-1,0,0.45991604080643717,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+182,3,3:40,1120,1120,Tal Sahar made Free Throw.,47,47,0,13,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+183,3,3:27,1107,1107,Raina Perez missed Jumper.,47,47,0,4,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+184,3,3:23,1103,1103,Ila Lane Defensive Rebound.,47,47,0,9,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+185,3,3:14,1094,1094,Johnni Gonzalez missed Three Point Jumper.,47,47,0,4,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+186,3,3:10,1090,1090,Danae Miller Offensive Rebound.,47,47,0,1,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+187,3,3:09,1089,1089,Coco Miller missed Three Point Jumper.,47,47,0,3,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+188,3,3:06,1086,1086,Madison Freemon Defensive Rebound.,47,47,0,16,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+189,3,2:50,1070,1070,Raina Perez missed Jumper.,47,47,0,3,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+190,3,2:47,1067,1067,Ila Lane Defensive Rebound.,47,47,0,20,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+191,3,2:27,1047,1047,Lauren Lee missed Three Point Jumper.,47,47,0,3,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+192,3,2:24,1044,1044,Ila Lane Offensive Rebound.,47,47,0,8,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+193,3,2:16,1036,1036,Ila Lane missed Jumper.,47,47,0,4,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+194,3,2:12,1032,1032,Madison Freemon Defensive Rebound.,47,47,0,4,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+195,3,2:08,1028,1028,Amiee Book missed Jumper.,47,47,0,3,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+196,3,2:05,1025,1025,Ila Lane Defensive Rebound.,47,47,0,21,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+197,3,1:44,1004,1004,Foul on Carolyn Gill.,47,47,0,0,0.5,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+198,3,1:44,1004,1004,Johnni Gonzalez made Free Throw.,48,47,1,0,0.5426416015337099,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+199,3,1:44,1004,1004,Johnni Gonzalez missed Free Throw.,48,47,1,0,0.5426416015337099,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+200,3,1:44,1004,1004,CSU Fullerton Defensive Rebound.,48,47,1,32,0.5426416015337099,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+201,3,1:12,972,972,Carolyn Gill missed Jumper.,48,47,1,3,0.5435177202779964,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+202,3,1:09,969,969,Megan Ormiston Defensive Rebound.,48,47,1,16,0.543605279102397,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+203,3,0:53,953,953,Danae Miller made Layup.,50,47,3,19,0.6294780210809849,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+204,3,0:34,934,934,Clarissa Rodarte missed Jumper.,50,47,3,3,0.630837324978986,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+205,3,0:31,931,931,Coco Miller Defensive Rebound.,50,47,3,25,0.631041195018445,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+206,3,0:06,906,906,Danae Miller made Three Point Jumper. Assisted by Johnni Gonzalez.,53,47,6,6,0.7478665204776674,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+207,3,0:00,900,900,End of 3rd Quarter,53,47,6,26,0.7484693797991034,UC Santa Barbara,CSU Fullerton,5,5,0,0,NA,401177536,2020-01-09,
+208,4,9:34,874,874,Johnni Gonzalez missed Jumper.,53,47,6,3,0.7510292044255662,UC Santa Barbara,CSU Fullerton,6,6,0,0,NA,401177536,2020-01-09,
+209,4,9:31,871,871,Taylor Turney Defensive Rebound.,53,47,6,5,0.7513236812784274,UC Santa Barbara,CSU Fullerton,6,6,0,0,NA,401177536,2020-01-09,
+210,4,9:26,866,866,Raina Perez made Layup. Assisted by Taylor Turney.,53,49,4,27,0.6767511526246751,UC Santa Barbara,CSU Fullerton,6,6,0,0,NA,401177536,2020-01-09,CSU Fullerton
+211,4,8:59,839,839,Coco Miller missed Jumper.,53,49,4,4,0.6788960813889978,UC Santa Barbara,CSU Fullerton,6,6,0,0,NA,401177536,2020-01-09,
+212,4,8:55,835,835,Raina Perez Defensive Rebound.,53,49,4,8,0.6792286660526275,UC Santa Barbara,CSU Fullerton,6,6,0,0,NA,401177536,2020-01-09,
+213,4,8:47,827,827,Raina Perez missed Jumper.,53,49,4,3,0.6799096063003286,UC Santa Barbara,CSU Fullerton,6,6,0,0,NA,401177536,2020-01-09,
+214,4,8:44,824,824,Raina Perez Offensive Rebound.,53,49,4,15,0.6801709447824689,UC Santa Barbara,CSU Fullerton,6,6,0,0,NA,401177536,2020-01-09,
+215,4,8:29,809,809,Taylor Turney made Three Point Jumper.,53,52,1,3,0.5474092181296094,UC Santa Barbara,CSU Fullerton,6,6,0,0,NA,401177536,2020-01-09,CSU Fullerton
+216,4,8:26,806,806,UC Santa Barbara  Timeout,53,52,1,0,0.5474906790931879,UC Santa Barbara,CSU Fullerton,5,6,1,0,NA,401177536,2020-01-09,
+217,4,8:26,806,806,Official TV Timeout,53,52,1,15,0.5474906790931879,UC Santa Barbara,CSU Fullerton,5,6,1,0,NA,401177536,2020-01-09,
+218,4,8:11,791,791,Foul on Ila Lane.,53,52,1,0,0.547919511419774,UC Santa Barbara,CSU Fullerton,5,6,1,0,NA,401177536,2020-01-09,
+219,4,8:11,791,791,Ila Lane Turnover.,53,52,1,26,0.547919511419774,UC Santa Barbara,CSU Fullerton,5,6,1,0,NA,401177536,2020-01-09,
+220,4,7:45,765,765,Madison Freemon missed Three Point Jumper.,53,52,1,1,0.5487633227538029,UC Santa Barbara,CSU Fullerton,5,6,1,0,NA,401177536,2020-01-09,
+221,4,7:44,764,764,UC Santa Barbara Defensive Rebound.,53,52,1,0,0.548798697215382,UC Santa Barbara,CSU Fullerton,5,6,1,0,NA,401177536,2020-01-09,
+222,4,7:44,764,764,Foul on Johnni Gonzalez.,53,52,1,4,0.548798697215382,UC Santa Barbara,CSU Fullerton,5,6,1,0,NA,401177536,2020-01-09,
+223,4,7:40,760,760,Taylor Turney missed Layup.,53,52,1,3,0.5489425627887882,UC Santa Barbara,CSU Fullerton,5,6,1,0,NA,401177536,2020-01-09,
+224,4,7:37,757,757,Ila Lane Defensive Rebound.,53,52,1,20,0.5490530034870467,UC Santa Barbara,CSU Fullerton,5,6,1,0,NA,401177536,2020-01-09,
+225,4,7:17,737,737,Coco Miller made Layup. Assisted by Ila Lane.,55,52,3,13,0.6456980155569714,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+226,4,7:04,724,724,Raina Perez missed Three Point Jumper.,55,52,3,1,0.6472674384576349,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+227,4,7:03,723,723,Amiee Book Offensive Rebound.,55,52,3,14,0.6473848200609161,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+228,4,6:49,709,709,Taylor Turney made Jumper. Assisted by Carolyn Gill.,55,54,1,22,0.5510207160262185,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,CSU Fullerton
+229,4,6:27,687,687,Ila Lane missed Jumper.,55,54,1,4,0.5518148417153272,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+230,4,6:23,683,683,Taylor Turney Defensive Rebound.,55,54,1,5,0.5519511677185919,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+231,4,6:18,678,678,Raina Perez missed Jumper.,55,54,1,0,0.5521193560550683,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+232,4,6:18,678,678,Ila Lane Block.,55,54,1,6,0.5521193560550683,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+233,4,6:12,672,672,Ila Lane Defensive Rebound.,55,54,1,1,0.5523188270408762,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+234,4,6:11,671,671,Foul on Madison Freemon.,55,54,1,0,0.5523518987565235,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+235,4,6:11,671,671,Coco Miller made Free Throw.,56,54,2,0,0.6035683891510212,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+236,4,6:11,671,671,Coco Miller made Free Throw.,57,54,3,11,0.6526104709016654,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+237,4,6:00,660,660,Taylor Turney missed Jumper.,57,54,3,2,0.653607481621627,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+238,4,5:58,658,658,Tal Sahar Defensive Rebound.,57,54,3,4,0.6537889343393154,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+239,4,5:54,654,654,Foul on Madison Freemon.,57,54,3,0,0.6541530202589837,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+240,4,5:54,654,654,Coco Miller missed Free Throw.,57,54,3,0,0.6541530202589837,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+241,4,5:54,654,654,UC Santa Barbara Offensive Rebound.,57,54,3,0,0.6541530202589837,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+242,4,5:54,654,654,Coco Miller missed Free Throw.,57,54,3,0,0.6541530202589837,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+243,4,5:54,654,654,Carolyn Gill Defensive Rebound.,57,54,3,8,0.6541530202589837,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+244,4,5:46,646,646,Taylor Turney missed Jumper.,57,54,3,3,0.6548892508416231,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+245,4,5:43,643,643,Carolyn Gill Offensive Rebound.,57,54,3,17,0.6551693337644995,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+246,4,5:26,626,626,Raina Perez made Jumper.,57,56,1,14,0.5538865619715285,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,CSU Fullerton
+247,4,5:12,612,612,Ila Lane Turnover.,57,56,1,13,0.5544274932273542,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+248,4,4:59,599,599,Carolyn Gill missed Jumper.,57,56,1,3,0.5549796541302972,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+249,4,4:56,596,596,Tal Sahar Defensive Rebound.,57,56,1,13,0.5551151976870209,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+250,4,4:43,583,583,Coco Miller missed Layup.,57,56,1,0,0.5557431963685826,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+251,4,4:43,583,583,Carolyn Gill Block.,57,56,1,0,0.5557431963685826,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+252,4,4:43,583,583,UC Santa Barbara Offensive Rebound.,57,56,1,0,0.5557431963685826,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+253,4,4:43,583,583,Official TV Timeout,57,56,1,10,0.5557431963685826,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+254,4,4:33,573,573,Ila Lane Turnover.,57,56,1,18,0.556276609254555,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+255,4,4:15,555,555,Carolyn Gill missed Jumper.,57,56,1,1,0.5573656659758498,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+256,4,4:14,554,554,Danae Miller Defensive Rebound.,57,56,1,0,0.5574315242417194,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+257,4,4:14,554,554,Foul on Carolyn Gill.,57,56,1,16,0.5574315242417194,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+258,4,3:58,538,538,Danae Miller missed Jumper.,57,56,1,4,0.5584670916973669,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+259,4,3:54,534,534,Madison Freemon Defensive Rebound.,57,56,1,5,0.5587003823650075,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+260,4,3:49,529,529,Raina Perez made Layup.,57,58,-1,21,0.44102047418669166,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,CSU Fullerton
+261,4,3:28,508,508,Ila Lane missed Jumper.,57,58,-1,0,0.43994659728510555,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+262,4,3:28,508,508,UC Santa Barbara Offensive Rebound.,57,58,-1,8,0.43994659728510555,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+263,4,3:20,500,500,Ila Lane missed Jumper.,57,58,-1,4,0.43955397664217527,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+264,4,3:16,496,496,Amiee Book Defensive Rebound.,57,58,-1,13,0.43935598140229115,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+265,4,3:03,483,483,Raina Perez missed Jumper.,57,58,-1,3,0.4386869927542018,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+266,4,3:00,480,480,Ila Lane Defensive Rebound.,57,58,-1,22,0.4385239901304482,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+267,4,2:38,458,458,Johnni Gonzalez missed Three Point Jumper.,57,58,-1,4,0.43716286572931273,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+268,4,2:34,454,454,Taylor Turney Defensive Rebound.,57,58,-1,18,0.43687439042887694,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+269,4,2:16,436,436,Carolyn Gill missed Layup.,57,58,-1,0,0.43536451330163983,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+270,4,2:16,436,436,Ila Lane Defensive Rebound.,57,58,-1,24,0.43536451330163983,UC Santa Barbara,CSU Fullerton,5,6,0,0,NA,401177536,2020-01-09,
+271,4,1:52,412,412,Tal Sahar Turnover.,57,58,-1,0,0.433027082336378,UC Santa Barbara,CSU Fullerton,5,6,1,0,NA,401177536,2020-01-09,
+272,4,1:52,412,412,UC Santa Barbara  Timeout,57,58,-1,20,0.433027082336378,UC Santa Barbara,CSU Fullerton,4,6,1,0,NA,401177536,2020-01-09,
+273,4,1:32,392,392,Raina Perez missed Jumper.,57,58,-1,1,0.4312290282709358,UC Santa Barbara,CSU Fullerton,4,6,1,0,NA,401177536,2020-01-09,
+274,4,1:31,391,391,UC Santa Barbara Defensive Rebound.,57,58,-1,17,0.4311396148270242,UC Santa Barbara,CSU Fullerton,4,6,1,0,NA,401177536,2020-01-09,
+275,4,1:14,374,374,Danae Miller made Three Point Jumper. Assisted by Coco Miller.,60,58,2,2,0.638102822949975,UC Santa Barbara,CSU Fullerton,4,6,1,0,NA,401177536,2020-01-09,UC Santa Barbara
+276,4,1:12,372,372,UC Santa Barbara  Timeout,60,58,2,22,0.638464273117361,UC Santa Barbara,CSU Fullerton,3,6,1,0,NA,401177536,2020-01-09,
+277,4,0:50,350,350,Raina Perez missed Jumper.,60,58,2,3,0.6428123375528104,UC Santa Barbara,CSU Fullerton,3,6,1,0,NA,401177536,2020-01-09,
+278,4,0:47,347,347,UC Santa Barbara Defensive Rebound.,60,58,2,26,0.6434733465690289,UC Santa Barbara,CSU Fullerton,3,6,1,0,NA,401177536,2020-01-09,
+279,4,0:21,321,321,Tal Sahar missed Three Point Jumper.,60,58,2,4,0.6501700903044803,UC Santa Barbara,CSU Fullerton,3,6,1,0,NA,401177536,2020-01-09,
+280,4,0:17,317,317,Taylor Turney Defensive Rebound.,60,58,2,3,0.6513828149768269,UC Santa Barbara,CSU Fullerton,3,6,1,0,NA,401177536,2020-01-09,
+281,4,0:14,314,314,Amiee Book made Layup. Assisted by Raina Perez.,60,60,0,0,0.5,UC Santa Barbara,CSU Fullerton,3,6,1,0,NA,401177536,2020-01-09,CSU Fullerton
+282,4,0:14,314,314,Foul on Tal Sahar.,60,60,0,0,0.5,UC Santa Barbara,CSU Fullerton,3,6,1,0,NA,401177536,2020-01-09,
+283,4,0:14,314,314,Amiee Book missed Free Throw.,60,60,0,0,0.5,UC Santa Barbara,CSU Fullerton,3,6,1,0,NA,401177536,2020-01-09,
+284,4,0:14,314,314,Ila Lane Defensive Rebound.,60,60,0,0,0.5,UC Santa Barbara,CSU Fullerton,3,6,1,0,NA,401177536,2020-01-09,
+285,4,0:14,314,314,UC Santa Barbara  Timeout,60,60,0,2,0.5,UC Santa Barbara,CSU Fullerton,2,6,1,0,NA,401177536,2020-01-09,
+286,4,0:12,312,312,CSU Fullerton  Timeout,60,60,0,10,0.5,UC Santa Barbara,CSU Fullerton,2,5,1,1,NA,401177536,2020-01-09,
+287,4,0:02,302,302,Danae Miller missed Jumper.,60,60,0,0,0.5,UC Santa Barbara,CSU Fullerton,2,5,1,1,NA,401177536,2020-01-09,
+288,4,0:02,302,302,Madison Freemon Defensive Rebound.,60,60,0,0,0.5,UC Santa Barbara,CSU Fullerton,2,5,1,1,NA,401177536,2020-01-09,
+289,4,0:02,302,302,CSU Fullerton  Timeout,60,60,0,2,0.5,UC Santa Barbara,CSU Fullerton,2,4,1,1,NA,401177536,2020-01-09,
+290,4,0:00,300,300,Raina Perez missed Three Point Jumper.,60,60,0,0,0.5,UC Santa Barbara,CSU Fullerton,2,4,1,1,NA,401177536,2020-01-09,
+291,4,0:00,300,300,UC Santa Barbara Defensive Rebound.,60,60,0,0,0.5,UC Santa Barbara,CSU Fullerton,2,4,1,1,NA,401177536,2020-01-09,
+292,4,0:00,300,300,End of 4th Quarter,60,60,0,17,0.5,UC Santa Barbara,CSU Fullerton,2,4,1,1,NA,401177536,2020-01-09,
+293,5,4:43,283,283,Foul on Ila Lane.,60,60,0,17,0.5,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,
+294,5,4:26,266,266,Taylor Turney missed Jumper.,60,60,0,4,0.5,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,
+295,5,4:22,262,262,Danae Miller Defensive Rebound.,60,60,0,8,0.5,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,
+296,5,4:14,254,254,Tal Sahar Turnover.,60,60,0,0,0.5,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,
+297,5,4:14,254,254,Carolyn Gill Steal.,60,60,0,6,0.5,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,
+298,5,4:08,248,248,Raina Perez made Jumper.,60,62,-2,18,0.34724224173894624,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,CSU Fullerton
+299,5,3:50,230,230,Danae Miller missed Three Point Jumper.,60,62,-2,2,0.3476460367102814,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,
+300,5,3:48,228,228,CSU Fullerton Defensive Rebound.,60,62,-2,18,0.34746735923069466,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,
+301,5,3:30,210,210,Madison Freemon missed Layup.,60,62,-2,3,0.34291262801810646,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,
+302,5,3:27,207,207,Johnni Gonzalez Defensive Rebound.,60,62,-2,15,0.34154232703823945,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,
+303,5,3:12,192,192,Johnni Gonzalez missed Three Point Jumper.,60,62,-2,3,0.33147199062688937,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,
+304,5,3:09,189,189,CSU Fullerton Defensive Rebound.,60,62,-2,18,0.3287659840941099,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,
+305,5,2:51,171,171,Foul on Coco Miller.,60,62,-2,0,0.3121289439511255,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,
+306,5,2:51,171,171,Amiee Book made Free Throw.,60,63,-3,0,0.23410461014895884,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,CSU Fullerton
+307,5,2:51,171,171,Amiee Book made Free Throw.,60,64,-4,23,0.1707430824244462,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,CSU Fullerton
+308,5,2:28,148,148,Foul on Carolyn Gill.,60,64,-4,0,0.1422614566767474,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,
+309,5,2:28,148,148,Coco Miller missed Free Throw.,60,64,-4,0,0.1422614566767474,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,
+310,5,2:28,148,148,UC Santa Barbara Offensive Rebound.,60,64,-4,0,0.1422614566767474,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,
+311,5,2:28,148,148,Coco Miller made Free Throw.,61,64,-3,13,0.20628356077304882,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+312,5,2:15,135,135,Raina Perez made Jumper. Assisted by Taylor Turney.,61,66,-5,24,0.08149890749644537,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,CSU Fullerton
+313,5,1:51,111,111,Danae Miller made Layup.,63,66,-3,27,0.15593039093818734,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+314,5,1:24,84,84,Taylor Turney missed Jumper.,63,66,-3,0,0.11595549239244192,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,
+315,5,1:24,84,84,Ila Lane Block.,63,66,-3,5,0.11595549239244192,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,
+316,5,1:19,79,79,Johnni Gonzalez Defensive Rebound.,63,66,-3,18,0.10898056493133726,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,
+317,5,1:01,61,61,Danae Miller made Jumper.,65,66,-1,21,0.3118633413240522,UC Santa Barbara,CSU Fullerton,3,5,0,0,NA,401177536,2020-01-09,UC Santa Barbara
+318,5,0:40,40,40,Raina Perez made Three Point Jumper.,65,69,-4,0,0.025596908924922356,UC Santa Barbara,CSU Fullerton,3,5,1,0,NA,401177536,2020-01-09,CSU Fullerton
+319,5,0:40,40,40,UC Santa Barbara  Timeout,65,69,-4,0,0.025596908924922356,UC Santa Barbara,CSU Fullerton,2,5,1,0,NA,401177536,2020-01-09,
+320,5,0:40,40,40,Official TV Timeout,65,69,-4,12,0.025596908924922356,UC Santa Barbara,CSU Fullerton,2,5,1,0,NA,401177536,2020-01-09,
+321,5,0:28,28,28,Danae Miller missed Three Point Jumper.,65,69,-4,0,0.019152701911518143,UC Santa Barbara,CSU Fullerton,2,5,1,0,NA,401177536,2020-01-09,
+322,5,0:28,28,28,Carolyn Gill Defensive Rebound.,65,69,-4,0,0.019152701911518143,UC Santa Barbara,CSU Fullerton,2,5,1,0,NA,401177536,2020-01-09,
+323,5,0:28,28,28,Foul on Tal Sahar.,65,69,-4,0,0.019152701911518143,UC Santa Barbara,CSU Fullerton,2,5,1,0,NA,401177536,2020-01-09,
+324,5,0:28,28,28,Carolyn Gill missed Free Throw.,65,69,-4,0,0.019152701911518143,UC Santa Barbara,CSU Fullerton,2,5,1,0,NA,401177536,2020-01-09,
+325,5,0:28,28,28,CSU Fullerton Offensive Rebound.,65,69,-4,0,0.019152701911518143,UC Santa Barbara,CSU Fullerton,2,5,1,0,NA,401177536,2020-01-09,
+326,5,0:28,28,28,Carolyn Gill made Free Throw.,65,70,-5,10,0.00724648247509824,UC Santa Barbara,CSU Fullerton,2,5,1,0,NA,401177536,2020-01-09,CSU Fullerton
+327,5,0:18,18,18,Coco Miller missed Three Point Jumper.,65,70,-5,5,0.005249262862085543,UC Santa Barbara,CSU Fullerton,2,5,1,0,NA,401177536,2020-01-09,
+328,5,0:13,13,13,Johnni Gonzalez Offensive Rebound.,65,70,-5,3,0.004429579985048784,UC Santa Barbara,CSU Fullerton,2,5,1,0,NA,401177536,2020-01-09,
+329,5,0:10,10,10,Tal Sahar missed Layup.,65,70,-5,1,0.003990270855850142,UC Santa Barbara,CSU Fullerton,2,5,1,0,NA,401177536,2020-01-09,
+330,5,0:09,9,9,UC Santa Barbara Offensive Rebound.,65,70,-5,3,0.003852258741356231,UC Santa Barbara,CSU Fullerton,2,5,1,0,NA,401177536,2020-01-09,
+331,5,0:06,6,6,Tal Sahar missed Three Point Jumper.,65,70,-5,3,0.003462580005395367,UC Santa Barbara,CSU Fullerton,2,5,1,0,NA,401177536,2020-01-09,
+332,5,0:03,3,3,Tal Sahar Offensive Rebound.,65,70,-5,1,0.003107925506662311,UC Santa Barbara,CSU Fullerton,2,5,1,0,NA,401177536,2020-01-09,
+333,5,0:02,2,2,Danae Miller made Three Point Jumper. Assisted by Tal Sahar.,68,70,-2,2,0.08924905907234798,UC Santa Barbara,CSU Fullerton,2,5,1,0,NA,401177536,2020-01-09,UC Santa Barbara
+334,5,0:00,0,0,End of 1st Overtime,68,70,-2,0,4.248354255291589e-18,UC Santa Barbara,CSU Fullerton,2,5,1,0,NA,401177536,2020-01-09,
+335,5,0:00,0,0,End of Game,68,70,-2,0,4.248354255291589e-18,UC Santa Barbara,CSU Fullerton,2,5,1,0,NA,401177536,2020-01-09,

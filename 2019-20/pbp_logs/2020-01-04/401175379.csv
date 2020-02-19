@@ -1,0 +1,374 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:56,2396,2396,Foul on Keniece Purvis.,0,0,0,4,0.5,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,NA
+2,1,9:52,2392,2392,Zaria Whitlock made Free Throw.,0,1,-1,0,0.47785959196530764,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+3,1,9:52,2392,2392,Zaria Whitlock missed Free Throw.,0,1,-1,0,0.47785959196530764,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+4,1,9:52,2392,2392,Jaden Wrightsell Defensive Rebound.,0,1,-1,14,0.47785959196530764,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+5,1,9:38,2378,2378,Jaden Wrightsell missed Jumper.,0,1,-1,0,0.47771066113692756,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+6,1,9:38,2378,2378,Tennessee State Offensive Rebound.,0,1,-1,7,0.47771066113692756,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+7,1,9:31,2371,2371,Jaden Wrightsell Turnover.,0,1,-1,18,0.47763565640234745,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+8,1,9:13,2353,2353,Mikia Keith made Layup.,0,3,-3,28,0.4326887743214508,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+9,1,8:45,2325,2325,Jasmine Broner missed Layup.,0,3,-3,0,0.4317837894411538,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+10,1,8:45,2325,2325,Zaria Whitlock Defensive Rebound.,0,3,-3,8,0.4317837894411538,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+11,1,8:37,2317,2317,Mikayla Kinnard Turnover.,0,3,-3,2,0.43152272424912347,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+12,1,8:35,2315,2315,Taylor Roberts Steal.,0,3,-3,8,0.4314572944590229,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+13,1,8:27,2307,2307,Taylor Roberts made Jumper.,2,3,-1,18,0.47693492429764117,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,Tennessee State
+14,1,8:09,2289,2289,Christen King Turnover.,2,3,-1,9,0.4767335562895253,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+15,1,8:00,2280,2280,Foul on Mikia Keith.,2,3,-1,5,0.47663226359310934,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+16,1,7:55,2275,2275,Jaden Wrightsell Turnover.,2,3,-1,12,0.4765758243650507,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+17,1,7:43,2263,2263,Zaria Whitlock missed Layup.,2,3,-1,0,0.47643991116827855,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+18,1,7:43,2263,2263,SIU-Edwardsville Offensive Rebound.,2,3,-1,7,0.47643991116827855,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+19,1,7:36,2256,2256,Mikayla Kinnard made Jumper.,2,5,-3,10,0.42950095372730196,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+20,1,7:26,2246,2246,Taylor Roberts missed Jumper.,2,5,-3,0,0.4291649968576118,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+21,1,7:26,2246,2246,SIU-Edwardsville Defensive Rebound.,2,5,-3,17,0.4291649968576118,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+22,1,7:09,2229,2229,Foul on Taylor Roberts.,2,5,-3,4,0.42859147735867953,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+23,1,7:05,2225,2225,Allie Troeckler made Layup.,2,7,-5,0,0.38219195182053206,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+24,1,7:05,2225,2225,Foul on Takya Bennett.,2,7,-5,0,0.38219195182053206,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+25,1,7:05,2225,2225,Allie Troeckler made Free Throw.,2,8,-6,0,0.35978307123853553,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+26,1,7:05,2225,2225,Takya Bennett made Layup.,4,8,-4,19,0.40511337697178423,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,Tennessee State
+27,1,6:46,2206,2206,Zaria Whitlock Turnover.,4,8,-4,1,0.40426742729131543,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+28,1,6:45,2205,2205,Jasmine Broner Steal.,4,8,-4,10,0.4042228062282235,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+29,1,6:35,2195,2195,Jazmine Young missed Jumper.,4,8,-4,0,0.40377611680144293,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+30,1,6:35,2195,2195,Zaria Whitlock Defensive Rebound.,4,8,-4,11,0.40377611680144293,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+31,1,6:24,2184,2184,Mikayla Kinnard made Jumper.,4,10,-6,21,0.3571624370773047,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+32,1,6:03,2163,2163,Taylor Roberts Turnover.,4,10,-6,12,0.35581468105285524,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+33,1,5:51,2151,2151,Allie Troeckler missed Layup.,4,10,-6,0,0.35504193360347125,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+34,1,5:51,2151,2151,Takya Bennett Defensive Rebound.,4,10,-6,7,0.35504193360347125,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+35,1,5:44,2144,2144,Foul on Mikia Keith.,4,10,-6,0,0.35459003548151613,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+36,1,5:44,2144,2144,Jazmine Young missed Free Throw.,4,10,-6,0,0.35459003548151613,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+37,1,5:44,2144,2144,Tennessee State Deadball Team Rebound.,4,10,-6,0,0.35459003548151613,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+38,1,5:44,2144,2144,Jazmine Young made Free Throw.,5,10,-5,13,0.3777515243012087,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,Tennessee State
+39,1,5:31,2131,2131,Mikayla Kinnard Turnover.,5,10,-5,10,0.3770311062481946,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+40,1,5:21,2121,2121,Jaden Wrightsell Turnover.,5,10,-5,1,0.3764749328380919,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+41,1,5:20,2120,2120,Bria Stallworth Steal.,5,10,-5,3,0.37641921624748714,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+42,1,5:17,2117,2117,Bria Stallworth made Layup.,5,12,-7,13,0.330111126262386,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+43,1,5:04,2104,2104,Foul on Bria Stallworth.,5,12,-7,19,0.3291527516340773,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+44,1,4:45,2085,2085,Official TV Timeout,5,12,-7,11,0.3277453902104553,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+45,1,4:34,2074,2074,Jazmine Young Turnover.,5,12,-7,17,0.3269267686001081,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+46,1,4:17,2057,2057,Foul on Christen King.,5,12,-7,0,0.3256557553758621,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+47,1,4:17,2057,2057,Christen King Turnover.,5,12,-7,12,0.3256557553758621,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+48,1,4:05,2045,2045,Jazmine Young made Jumper.,7,12,-5,15,0.37218291417224747,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,Tennessee State
+49,1,3:50,2030,2030,Kelsie Williams Turnover.,7,12,-5,12,0.37132049832723957,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+50,1,3:38,2018,2018,Jazmine Young Turnover.,7,12,-5,4,0.3706265221336812,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+51,1,3:34,2014,2014,Bria Stallworth made Jumper.,7,14,-7,16,0.322406266494755,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+52,1,3:18,1998,1998,Jaden Wrightsell missed Jumper.,7,14,-7,0,0.32118344268433385,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+53,1,3:18,1998,1998,Kaitlin Lee Block.,7,14,-7,2,0.32118344268433385,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+54,1,3:16,1996,1996,Kelsie Williams Defensive Rebound.,7,14,-7,3,0.3210300347732191,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+55,1,3:13,1993,1993,Bria Stallworth made Layup. Assisted by Mikayla Kinnard.,7,16,-9,4,0.2759954592489652,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+56,1,3:09,1989,1989,Tennessee State  Timeout,7,16,-9,6,0.27563285025076834,Tennessee State,SIU-Edwardsville,3,4,1,0,NA,401175379,2020-01-04,
+57,1,3:03,1983,1983,Andreana Wrister missed Three Point Jumper.,7,16,-9,0,0.2750880126802582,Tennessee State,SIU-Edwardsville,3,4,1,0,NA,401175379,2020-01-04,
+58,1,3:03,1983,1983,SIU-Edwardsville Defensive Rebound.,7,16,-9,18,0.2750880126802582,Tennessee State,SIU-Edwardsville,3,4,1,0,NA,401175379,2020-01-04,
+59,1,2:45,1965,1965,Mikayla Kinnard Turnover.,7,16,-9,1,0.27344666807026435,Tennessee State,SIU-Edwardsville,3,4,1,0,NA,401175379,2020-01-04,
+60,1,2:44,1964,1964,Takya Bennett Steal.,7,16,-9,6,0.27335517484119093,Tennessee State,SIU-Edwardsville,3,4,1,0,NA,401175379,2020-01-04,
+61,1,2:38,1958,1958,Taylor Roberts missed Layup.,7,16,-9,0,0.2728055207423001,Tennessee State,SIU-Edwardsville,3,4,1,0,NA,401175379,2020-01-04,
+62,1,2:38,1958,1958,Andreana Wrister Offensive Rebound.,7,16,-9,26,0.2728055207423001,Tennessee State,SIU-Edwardsville,3,4,1,0,NA,401175379,2020-01-04,
+63,1,2:12,1932,1932,Taylor Roberts Turnover.,7,16,-9,17,0.2704095349836457,Tennessee State,SIU-Edwardsville,3,4,1,0,NA,401175379,2020-01-04,
+64,1,1:55,1915,1915,Tori Handley Turnover.,7,16,-9,1,0.26883809960375893,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,
+65,1,1:54,1914,1914,Andreana Wrister Steal.,7,16,-9,2,0.26874595235534193,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,
+66,1,1:52,1912,1912,Andreana Wrister made Layup.,9,16,-7,6,0.31447499571409704,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,Tennessee State
+67,1,1:46,1906,1906,Christen King missed Jumper.,9,16,-7,0,0.3140037482907089,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,
+68,1,1:46,1906,1906,Kelsie Williams Offensive Rebound.,9,16,-7,11,0.3140037482907089,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,
+69,1,1:35,1895,1895,Kelsie Williams missed Jumper.,9,16,-7,0,0.31314113946701505,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,
+70,1,1:35,1895,1895,Kelsie Williams Offensive Rebound.,9,16,-7,8,0.31314113946701505,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,
+71,1,1:27,1887,1887,Bria Stallworth missed Jumper.,9,16,-7,0,0.31251458477835525,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,
+72,1,1:27,1887,1887,Kaitlin Lee Offensive Rebound.,9,16,-7,6,0.31251458477835525,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,
+73,1,1:21,1881,1881,Kaitlin Lee missed Jumper.,9,16,-7,0,0.31204494647105624,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,
+74,1,1:21,1881,1881,Megan Kent Defensive Rebound.,9,16,-7,16,0.31204494647105624,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,
+75,1,1:05,1865,1865,Taylor Roberts missed Three Point Jumper.,9,16,-7,0,0.31079292713891915,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,
+76,1,1:05,1865,1865,Tori Handley Defensive Rebound.,9,16,-7,12,0.31079292713891915,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,
+77,1,0:53,1853,1853,Kelsie Williams made Jumper. Assisted by Christen King.,9,18,-9,22,0.2631604396827151,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+78,1,0:31,1831,1831,Megan Kent made Jumper. Assisted by Takya Bennett.,11,18,-7,24,0.30812679909367435,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,Tennessee State
+79,1,0:07,1807,1807,Kelsie Williams missed Layup.,11,18,-7,0,0.30623247091030137,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,
+80,1,0:07,1807,1807,Andreana Wrister Defensive Rebound.,11,18,-7,7,0.30623247091030137,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,
+81,1,0:00,1800,1800,Andreana Wrister missed Three Point Jumper.,11,18,-7,0,0.30567697989727144,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,
+82,1,0:00,1800,1800,Kaitlin Lee Defensive Rebound.,11,18,-7,0,0.30567697989727144,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,
+83,1,0:00,1800,1800,End of 1st Quarter,11,18,-7,11,0.30567697989727144,Tennessee State,SIU-Edwardsville,3,4,0,0,NA,401175379,2020-01-04,
+84,2,9:49,1789,1789,Kaitlin Lee missed Jumper.,11,18,-7,0,0.3048007344227069,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+85,2,9:49,1789,1789,Tennessee State Defensive Rebound.,11,18,-7,25,0.3048007344227069,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+86,2,9:24,1764,1764,Keniece Purvis missed Jumper.,11,18,-7,0,0.30279130403598936,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+87,2,9:24,1764,1764,Christen King Defensive Rebound.,11,18,-7,15,0.30279130403598936,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+88,2,9:09,1749,1749,Bria Stallworth Turnover.,11,18,-7,10,0.30157146068702045,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+89,2,8:59,1739,1739,Foul on Kaitlin Lee.,11,18,-7,0,0.3007514285352152,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+90,2,8:59,1739,1739,Taylor Roberts made Free Throw.,12,18,-6,0,0.32669081274317735,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,Tennessee State
+91,2,8:59,1739,1739,Taylor Roberts made Free Throw.,13,18,-5,11,0.3537356602227012,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,Tennessee State
+92,2,8:48,1728,1728,Tori Handley Turnover.,13,18,-5,1,0.3530296349022475,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+93,2,8:47,1727,1727,Taylor Roberts Steal.,13,18,-5,6,0.3529651300992073,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+94,2,8:41,1721,1721,Taylor Roberts missed Layup.,13,18,-5,0,0.35257693615072183,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+95,2,8:41,1721,1721,Kelsie Williams Defensive Rebound.,13,18,-5,15,0.35257693615072183,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+96,2,8:26,1706,1706,Foul on Takya Bennett.,13,18,-5,0,0.3515973223882659,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+97,2,8:26,1706,1706,Kelsie Williams made Free Throw.,13,19,-6,0,0.3242232511666432,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+98,2,8:26,1706,1706,Kelsie Williams made Free Throw.,13,20,-7,0,0.2980009206135228,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+99,2,8:26,1706,1706,Foul on Ajulu Thatha.,13,20,-7,21,0.2980009206135228,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+100,2,8:05,1685,1685,Taylor Roberts missed Jumper.,13,20,-7,20,0.2962129889851206,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+101,2,7:45,1665,1665,Christen King made Three Point Jumper.,13,23,-10,14,0.2230884221042254,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+102,2,7:31,1651,1651,Megan Kent missed Jumper.,13,23,-10,0,0.22172803503226432,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+103,2,7:31,1651,1651,Allie Troeckler Defensive Rebound.,13,23,-10,31,0.22172803503226432,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+104,2,7:00,1620,1620,Mikayla Kinnard Turnover.,13,23,-10,9,0.21879240909298275,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+105,2,6:51,1611,1611,Foul on Mikayla Kinnard.,13,23,-10,6,0.21795358607092435,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+106,2,6:45,1605,1605,Jazmine Young missed Three Point Jumper.,13,23,-10,0,0.21739641133190324,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+107,2,6:45,1605,1605,Jazmine Young Offensive Rebound.,13,23,-10,3,0.21739641133190324,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+108,2,6:42,1602,1602,Megan Kent missed Free Throw.,13,23,-10,0,0.21711828310518236,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+109,2,6:42,1602,1602,Tennessee State Deadball Team Rebound.,13,23,-10,6,0.21711828310518236,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+110,2,6:36,1596,1596,Megan Kent made Free Throw.,14,23,-9,0,0.23917099618452323,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,Tennessee State
+111,2,6:36,1596,1596,Christen King Turnover.,14,23,-9,4,0.23917099618452323,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+112,2,6:32,1592,1592,Andreana Wrister missed Three Point Jumper.,14,23,-9,0,0.23881374618546194,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+113,2,6:32,1592,1592,Christen King Defensive Rebound.,14,23,-9,8,0.23881374618546194,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+114,2,6:24,1584,1584,Christen King Turnover.,14,23,-9,1,0.23809926993761926,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+115,2,6:23,1583,1583,Jazmine Young Steal.,14,23,-9,1,0.23800992790657788,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+116,2,6:22,1582,1582,Jazmine Young missed Layup.,14,23,-9,0,0.23792057273881398,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+117,2,6:22,1582,1582,SIU-Edwardsville Defensive Rebound.,14,23,-9,7,0.23792057273881398,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+118,2,6:15,1575,1575,Megan Kent missed Jumper.,14,23,-9,0,0.237294570358012,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+119,2,6:15,1575,1575,Mikayla Kinnard Block.,14,23,-9,0,0.237294570358012,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+120,2,6:15,1575,1575,Ajulu Thatha Defensive Rebound.,14,23,-9,10,0.237294570358012,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+121,2,6:05,1565,1565,Christen King missed Three Point Jumper.,14,23,-9,0,0.23639781787734673,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+122,2,6:05,1565,1565,Mikayla Kinnard Offensive Rebound.,14,23,-9,5,0.23639781787734673,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+123,2,6:00,1560,1560,Mikayla Kinnard missed Jumper.,14,23,-9,0,0.23594787455170288,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+124,2,6:00,1560,1560,Megan Kent Block.,14,23,-9,3,0.23594787455170288,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+125,2,5:57,1557,1557,Megan Kent Offensive Rebound.,14,23,-9,21,0.2356772821971681,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+126,2,5:36,1536,1536,Terrysha Banner Turnover.,14,23,-9,0,0.23376580302126965,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+127,2,5:36,1536,1536,Allie Troeckler Steal.,14,23,-9,1,0.23376580302126965,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+128,2,5:35,1535,1535,Official TV Timeout,14,23,-9,6,0.23367386772463247,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+129,2,5:29,1529,1529,Mikia Keith missed Three Point Jumper.,14,23,-9,0,0.23312018369749007,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+130,2,5:29,1529,1529,Andreana Wrister Defensive Rebound.,14,23,-9,9,0.23312018369749007,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+131,2,5:20,1520,1520,Keniece Purvis made Jumper.,16,23,-7,13,0.2829635628192411,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,Tennessee State
+132,2,5:07,1507,1507,Mikayla Kinnard missed Jumper.,16,23,-7,0,0.2818763734337115,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+133,2,5:07,1507,1507,Megan Kent Block.,16,23,-7,0,0.2818763734337115,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+134,2,5:07,1507,1507,SIU-Edwardsville Offensive Rebound.,16,23,-7,10,0.2818763734337115,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+135,2,4:57,1497,1497,Mikia Keith made Three Point Jumper. Assisted by Mikayla Kinnard.,16,26,-10,17,0.2071850521737162,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+136,2,4:40,1480,1480,Andreana Wrister missed Jumper.,16,26,-10,0,0.20546540659037815,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+137,2,4:40,1480,1480,Zaria Whitlock Defensive Rebound.,16,26,-10,21,0.20546540659037815,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+138,2,4:19,1459,1459,Allie Troeckler missed Jumper.,16,26,-10,0,0.2032670828297579,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+139,2,4:19,1459,1459,Mikayla Kinnard Offensive Rebound.,16,26,-10,4,0.2032670828297579,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+140,2,4:15,1455,1455,Mikayla Kinnard missed Jumper.,16,26,-10,0,0.20283800254407433,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+141,2,4:15,1455,1455,Jasmine Broner Defensive Rebound.,16,26,-10,8,0.20283800254407433,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+142,2,4:07,1447,1447,Terrysha Banner missed Jumper.,16,26,-10,0,0.20197148050899477,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+143,2,4:07,1447,1447,Mikia Keith Defensive Rebound.,16,26,-10,7,0.20197148050899477,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+144,2,4:00,1440,1440,Allie Troeckler made Layup. Assisted by Mikia Keith.,16,28,-12,0,0.16051458229811663,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+145,2,4:00,1440,1440,Foul on Andreana Wrister.,16,28,-12,0,0.16051458229811663,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+146,2,4:00,1440,1440,Allie Troeckler made Free Throw.,16,29,-13,4,0.14279447647052654,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+147,2,3:56,1436,1436,Foul on Allie Troeckler.,16,29,-13,2,0.14237684956188498,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+148,2,3:54,1434,1434,Jazmine Young made Free Throw.,17,29,-12,0,0.15987952580935155,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,Tennessee State
+149,2,3:54,1434,1434,Jazmine Young missed Free Throw.,17,29,-12,0,0.15987952580935155,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+150,2,3:54,1434,1434,Mikayla Kinnard Defensive Rebound.,17,29,-12,10,0.15987952580935155,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+151,2,3:44,1424,1424,Foul on Allie Troeckler.,17,29,-12,0,0.15884148107064988,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+152,2,3:44,1424,1424,Allie Troeckler Turnover.,17,29,-12,20,0.15884148107064988,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+153,2,3:24,1404,1404,Andreana Wrister Turnover.,17,29,-12,5,0.15682941720398247,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+154,2,3:19,1399,1399,Bria Stallworth made Jumper.,17,31,-14,10,0.12274450750994656,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+155,2,3:09,1389,1389,Deaja Richardson missed Three Point Jumper.,17,31,-14,0,0.12181737673648164,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+156,2,3:09,1389,1389,Taylor Roberts Offensive Rebound.,17,31,-14,14,0.12181737673648164,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+157,2,2:55,1375,1375,Taylor Roberts Turnover.,17,31,-14,13,0.12053828337973112,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+158,2,2:42,1362,1362,Mikayla Kinnard missed Layup.,17,31,-14,0,0.1193637453669363,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+159,2,2:42,1362,1362,Deaja Richardson Block.,17,31,-14,0,0.1193637453669363,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+160,2,2:42,1362,1362,SIU-Edwardsville Offensive Rebound.,17,31,-14,12,0.1193637453669363,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+161,2,2:30,1350,1350,Foul on Keniece Purvis.,17,31,-14,15,0.11828512010064109,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+162,2,2:15,1335,1335,Mikayla Kinnard Turnover.,17,31,-14,12,0.11693671634231823,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+163,2,2:03,1323,1323,Foul on Bria Stallworth.,17,31,-14,0,0.11585214820886974,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+164,2,2:03,1323,1323,Keniece Purvis missed Free Throw.,17,31,-14,0,0.11585214820886974,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+165,2,2:03,1323,1323,Tennessee State Deadball Team Rebound.,17,31,-14,0,0.11585214820886974,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+166,2,2:03,1323,1323,Keniece Purvis made Free Throw.,18,31,-13,2,0.1315703897506806,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,Tennessee State
+167,2,2:01,1321,1321,Foul on Megan Kent.,18,31,-13,12,0.1313822468903357,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+168,2,1:49,1309,1309,Bria Stallworth Turnover.,18,31,-13,23,0.13024548235298553,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+169,2,1:26,1286,1286,Megan Kent Turnover.,18,31,-13,2,0.12801590995365278,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+170,2,1:24,1284,1284,Tori Handley Turnover.,18,31,-13,16,0.12781810332475188,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+171,2,1:08,1268,1268,Taylor Roberts missed Three Point Jumper.,18,31,-13,0,0.12620825827423357,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+172,2,1:08,1268,1268,Breannah McCullah Offensive Rebound.,18,31,-13,4,0.12620825827423357,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+173,2,1:04,1264,1264,Foul on Bria Stallworth.,18,31,-13,0,0.12579750779074184,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+174,2,1:04,1264,1264,Jazmine Young made Free Throw.,19,31,-12,0,0.14313250751127332,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,Tennessee State
+175,2,1:04,1264,1264,Jazmine Young made Free Throw.,20,31,-11,0,0.1624124887765919,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,Tennessee State
+176,2,1:04,1264,1264,Tori Handley missed Three Point Jumper.,20,31,-11,0,0.1624124887765919,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+177,2,1:04,1264,1264,Kaitlin Lee Offensive Rebound.,20,31,-11,0,0.1624124887765919,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+178,2,1:04,1264,1264,Kaitlin Lee made Layup.,20,33,-13,0,0.12579750779074184,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+179,2,1:04,1264,1264,Jazmine Young missed Jumper.,20,33,-13,0,0.12579750779074184,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+180,2,1:04,1264,1264,Megan Kent Offensive Rebound.,20,33,-13,23,0.12579750779074184,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+181,2,0:41,1241,1241,Taylor Roberts made Jumper. Assisted by Jazmine Young.,22,33,-11,19,0.1598576942688983,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,Tennessee State
+182,2,0:22,1222,1222,Kelsie Williams made Jumper. Assisted by Tori Handley.,22,35,-13,15,0.12124105814213602,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+183,2,0:07,1207,1207,Foul on Megan Kent.,22,35,-13,0,0.11949185957562561,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+184,2,0:07,1207,1207,Megan Kent Turnover.,22,35,-13,7,0.11949185957562561,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+185,2,0:00,1200,1200,Tori Handley missed Three Point Jumper.,22,35,-13,0,0.11867997550573603,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+186,2,0:00,1200,1200,SIU-Edwardsville Deadball Team Rebound.,22,35,-13,0,0.11867997550573603,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+187,2,0:00,1200,1200,End of 2nd Quarter,22,35,-13,23,0.11867997550573603,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+188,3,9:37,1177,1177,Christen King made Layup.,22,37,-15,21,0.08770393372785139,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+189,3,9:16,1156,1156,Jazmine Young missed Jumper.,22,37,-15,0,0.0856987488637779,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+190,3,9:16,1156,1156,Allie Troeckler Defensive Rebound.,22,37,-15,10,0.0856987488637779,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+191,3,9:06,1146,1146,Mikia Keith made Three Point Jumper. Assisted by Mikayla Kinnard.,22,40,-18,10,0.054418496587245443,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+192,3,8:56,1136,1136,Keniece Purvis missed Jumper.,22,40,-18,0,0.05368870664447252,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+193,3,8:56,1136,1136,SIU-Edwardsville Defensive Rebound.,22,40,-18,15,0.05368870664447252,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+194,3,8:41,1121,1121,Christen King missed Jumper.,22,40,-18,0,0.052609389701707705,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+195,3,8:41,1121,1121,Keniece Purvis Defensive Rebound.,22,40,-18,4,0.052609389701707705,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+196,3,8:37,1117,1117,Jazmine Young made Layup. Assisted by Keniece Purvis.,24,40,-16,25,0.07078309745296775,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,Tennessee State
+197,3,8:12,1092,1092,Zaria Whitlock made Layup. Assisted by Allie Troeckler.,24,42,-18,10,0.050547172398903446,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+198,3,8:02,1082,1082,Taylor Roberts Turnover.,24,42,-18,6,0.04983572762579367,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+199,3,7:56,1076,1076,Mikia Keith missed Three Point Jumper.,24,42,-18,0,0.04940730840191976,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+200,3,7:56,1076,1076,Tennessee State Defensive Rebound.,24,42,-18,21,0.04940730840191976,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+201,3,7:35,1055,1055,Keniece Purvis missed Jumper.,24,42,-18,0,0.04789225028974543,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+202,3,7:35,1055,1055,Mikia Keith Defensive Rebound.,24,42,-18,6,0.04789225028974543,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+203,3,7:29,1049,1049,Christen King made Layup. Assisted by Mikia Keith.,24,44,-20,2,0.034467718786173995,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+204,3,7:27,1047,1047,Tennessee State  Timeout,24,44,-20,13,0.03434749507813086,Tennessee State,SIU-Edwardsville,4,5,1,0,NA,401175379,2020-01-04,
+205,3,7:14,1034,1034,Foul on Zaria Whitlock.,24,44,-20,0,0.03355939609969496,Tennessee State,SIU-Edwardsville,4,5,1,0,NA,401175379,2020-01-04,
+206,3,7:14,1034,1034,Taylor Roberts made Free Throw.,25,44,-19,0,0.039456979944488525,Tennessee State,SIU-Edwardsville,4,5,1,0,NA,401175379,2020-01-04,Tennessee State
+207,3,7:14,1034,1034,Taylor Roberts made Free Throw.,26,44,-18,4,0.046341283156774736,Tennessee State,SIU-Edwardsville,4,5,1,0,NA,401175379,2020-01-04,Tennessee State
+208,3,7:10,1030,1030,Foul on Jazmine Young.,26,44,-18,0,0.046040653428611605,Tennessee State,SIU-Edwardsville,4,5,1,0,NA,401175379,2020-01-04,
+209,3,7:10,1030,1030,Allie Troeckler made Free Throw.,26,45,-19,0,0.03918489999622784,Tennessee State,SIU-Edwardsville,4,5,1,0,NA,401175379,2020-01-04,SIU-Edwardsville
+210,3,7:10,1030,1030,Allie Troeckler made Free Throw.,26,46,-20,0,0.03331436203926813,Tennessee State,SIU-Edwardsville,4,5,1,0,NA,401175379,2020-01-04,SIU-Edwardsville
+211,3,7:10,1030,1030,Taylor Roberts made Jumper. Assisted by Jasmine Broner.,28,46,-18,47,0.046040653428611605,Tennessee State,SIU-Edwardsville,4,5,1,0,NA,401175379,2020-01-04,Tennessee State
+212,3,6:23,983,983,Zaria Whitlock made Layup. Assisted by Mikayla Kinnard.,28,48,-20,10,0.030324226438760236,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+213,3,6:13,973,973,Keniece Purvis made Three Point Jumper. Assisted by Jaden Wrightsell.,31,48,-17,27,0.04904522529820707,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,Tennessee State
+214,3,5:46,946,946,Mikia Keith missed Three Point Jumper.,31,48,-17,0,0.04671973852583752,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,
+215,3,5:46,946,946,Jaden Wrightsell Defensive Rebound.,31,48,-17,11,0.04671973852583752,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,
+216,3,5:35,935,935,Jasmine Broner made Jumper. Assisted by Jaden Wrightsell.,33,48,-15,30,0.0643092467217206,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,Tennessee State
+217,3,5:05,905,905,Mikayla Kinnard Turnover.,33,48,-15,15,0.06183221163270298,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,
+218,3,4:50,890,890,Taylor Roberts made Layup.,35,48,-13,14,0.08516970735186843,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,Tennessee State
+219,3,4:36,876,876,Allie Troeckler made Jumper.,35,50,-15,8,0.059655963111966234,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+220,3,4:28,868,868,Official TV Timeout,35,50,-15,5,0.05906908387230158,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,
+221,3,4:23,863,863,Foul on Kelsie Williams.,35,50,-15,0,0.05870216489174731,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,
+222,3,4:23,863,863,Megan Kent missed Free Throw.,35,50,-15,0,0.05870216489174731,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,
+223,3,4:23,863,863,Tennessee State Deadball Team Rebound.,35,50,-15,0,0.05870216489174731,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,
+224,3,4:23,863,863,Megan Kent missed Free Throw.,35,50,-15,0,0.05870216489174731,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,
+225,3,4:23,863,863,Christen King Defensive Rebound.,35,50,-15,17,0.05870216489174731,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,
+226,3,4:06,846,846,Christen King made Jumper.,35,52,-17,8,0.04027711796344945,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+227,3,3:58,838,838,Foul on Allie Troeckler.,35,52,-17,3,0.03978752725101845,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,
+228,3,3:55,835,835,Taylor Roberts missed Layup.,35,52,-17,0,0.03960175374977015,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,
+229,3,3:55,835,835,Taylor Roberts Offensive Rebound.,35,52,-17,7,0.03960175374977015,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,
+230,3,3:48,828,828,Jazmine Young made Layup.,37,52,-15,8,0.056062188307797814,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,Tennessee State
+231,3,3:40,820,820,Allie Troeckler Turnover.,37,52,-15,3,0.05542549189092445,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,
+232,3,3:37,817,817,Jaden Wrightsell missed Jumper.,37,52,-15,0,0.05518220692550741,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,
+233,3,3:37,817,817,Jaden Wrightsell Offensive Rebound.,37,52,-15,6,0.05518220692550741,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,
+234,3,3:31,811,811,Jaden Wrightsell made Jumper.,39,52,-13,3,0.07799569152339592,Tennessee State,SIU-Edwardsville,4,5,0,0,NA,401175379,2020-01-04,Tennessee State
+235,3,3:28,808,808,SIU-Edwardsville  Timeout,39,52,-13,5,0.07769217106600038,Tennessee State,SIU-Edwardsville,4,4,0,1,NA,401175379,2020-01-04,
+236,3,3:23,803,803,Foul on Mikia Keith.,39,52,-13,0,0.07717755725770098,Tennessee State,SIU-Edwardsville,4,4,0,1,NA,401175379,2020-01-04,
+237,3,3:23,803,803,Mikia Keith Turnover.,39,52,-13,21,0.07717755725770098,Tennessee State,SIU-Edwardsville,4,4,0,1,NA,401175379,2020-01-04,
+238,3,3:02,782,782,Jaden Wrightsell made Layup. Assisted by Jazmine Young.,41,52,-11,0,0.10647852712379026,Tennessee State,SIU-Edwardsville,4,4,0,1,NA,401175379,2020-01-04,Tennessee State
+239,3,3:02,782,782,Foul on Mikayla Kinnard.,41,52,-11,0,0.10647852712379026,Tennessee State,SIU-Edwardsville,4,4,0,1,NA,401175379,2020-01-04,
+240,3,3:02,782,782,Jaden Wrightsell made Free Throw.,42,52,-10,0,0.12632585553679299,Tennessee State,SIU-Edwardsville,4,4,0,1,NA,401175379,2020-01-04,Tennessee State
+241,3,3:02,782,782,Kelsie Williams Turnover.,42,52,-10,0,0.12632585553679299,Tennessee State,SIU-Edwardsville,4,4,0,1,NA,401175379,2020-01-04,
+242,3,3:02,782,782,Jaden Wrightsell Steal.,42,52,-10,0,0.12632585553679299,Tennessee State,SIU-Edwardsville,4,4,0,1,NA,401175379,2020-01-04,
+243,3,3:02,782,782,Jaden Wrightsell Turnover.,42,52,-10,46,0.12632585553679299,Tennessee State,SIU-Edwardsville,4,4,0,1,NA,401175379,2020-01-04,
+244,3,2:16,736,736,Mikayla Kinnard missed Layup.,42,52,-10,0,0.1189582192095893,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+245,3,2:16,736,736,Mikayla Kinnard Offensive Rebound.,42,52,-10,9,0.1189582192095893,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+246,3,2:07,727,727,Foul on Jaden Wrightsell.,42,52,-10,0,0.11729726920539973,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+247,3,2:07,727,727,Kelsie Williams missed Free Throw.,42,52,-10,0,0.11729726920539973,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+248,3,2:07,727,727,SIU-Edwardsville Deadball Team Rebound.,42,52,-10,0,0.11729726920539973,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+249,3,2:07,727,727,Kelsie Williams made Free Throw.,42,53,-11,25,0.0979595512072169,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+250,3,1:42,702,702,Andreana Wrister missed Three Point Jumper.,42,53,-11,0,0.09411199845061147,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+251,3,1:42,702,702,SIU-Edwardsville Deadball Team Rebound.,42,53,-11,23,0.09411199845061147,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+252,3,1:19,679,679,Kelsie Williams missed Jumper.,42,53,-11,0,0.09111274566329834,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+253,3,1:19,679,679,Andreana Wrister Defensive Rebound.,42,53,-11,10,0.09111274566329834,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+254,3,1:09,669,669,Megan Kent made Jumper. Assisted by Andreana Wrister.,44,53,-9,11,0.13078848295343062,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,Tennessee State
+255,3,0:58,658,658,Bria Stallworth missed Jumper.,44,53,-9,0,0.1292948561654738,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+256,3,0:58,658,658,Megan Kent Defensive Rebound.,44,53,-9,7,0.1292948561654738,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+257,3,0:51,651,651,Deaja Richardson missed Three Point Jumper.,44,53,-9,0,0.12834450325703312,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+258,3,0:51,651,651,Christen King Defensive Rebound.,44,53,-9,23,0.12834450325703312,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+259,3,0:28,628,628,Christen King missed Jumper.,44,53,-9,0,0.12512145463949298,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+260,3,0:28,628,628,Mikayla Kinnard Offensive Rebound.,44,53,-9,3,0.12512145463949298,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+261,3,0:25,625,625,Foul on Andreana Wrister.,44,53,-9,4,0.12468088782225215,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+262,3,0:21,621,621,Bria Stallworth missed Three Point Jumper.,44,53,-9,0,0.12408346537398801,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+263,3,0:21,621,621,Christen King Offensive Rebound.,44,53,-9,5,0.12408346537398801,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+264,3,0:16,616,616,Christen King Turnover.,44,53,-9,0,0.12331891800556141,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+265,3,0:16,616,616,Jazmine Young Steal.,44,53,-9,13,0.12331891800556141,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+266,3,0:03,603,603,Keniece Purvis missed Free Throw.,44,53,-9,0,0.12122308539380611,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+267,3,0:03,603,603,Tennessee State Deadball Team Rebound.,44,53,-9,0,0.12122308539380611,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+268,3,0:03,603,603,Keniece Purvis made Free Throw.,45,53,-8,3,0.14669033599621156,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,Tennessee State
+269,3,0:00,600,600,Foul on Bria Stallworth.,45,53,-8,0,0.14615880788992122,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+270,3,0:00,600,600,End of 3rd Quarter,44,53,-9,6,0.12071434042548354,Tennessee State,SIU-Edwardsville,4,4,0,0,NA,401175379,2020-01-04,
+271,4,9:54,594,594,Foul on Keniece Purvis.,45,53,-8,2,0.1450617748242311,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,Tennessee State
+272,4,9:52,592,592,Foul on Takya Bennett.,45,53,-8,6,0.144685518768607,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+273,4,9:46,586,586,Christen King missed Jumper.,45,53,-8,0,0.143523124415966,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+274,4,9:46,586,586,Zaria Whitlock Offensive Rebound.,45,53,-8,3,0.143523124415966,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+275,4,9:43,583,583,Zaria Whitlock missed Layup.,45,53,-8,0,0.14292220492152927,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+276,4,9:43,583,583,Takya Bennett Defensive Rebound.,45,53,-8,12,0.14292220492152927,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+277,4,9:31,571,571,Takya Bennett Turnover.,45,53,-8,32,0.1403772897078406,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+278,4,8:59,539,539,Allie Troeckler made Layup. Assisted by Christen King.,45,55,-10,0,0.0873042490456223,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+279,4,8:59,539,539,Foul on Taylor Roberts.,45,55,-10,0,0.0873042490456223,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+280,4,8:59,539,539,Allie Troeckler missed Free Throw.,45,55,-10,0,0.0873042490456223,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+281,4,8:59,539,539,Jazmine Young Defensive Rebound.,45,55,-10,2,0.0873042490456223,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+282,4,8:57,537,537,Jazmine Young made Three Point Jumper.,48,55,-7,25,0.16161188212314434,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,Tennessee State
+283,4,8:32,512,512,Christen King Turnover.,48,55,-7,0,0.15655960952250433,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+284,4,8:32,512,512,Deaja Richardson Steal.,48,55,-7,41,0.15655960952250433,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+285,4,7:51,471,471,Jazmine Young Turnover.,48,55,-7,1,0.1487063488933316,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+286,4,7:50,470,470,Mikia Keith Steal.,48,55,-7,3,0.14848880439945306,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+287,4,7:47,467,467,Mikia Keith missed Jumper.,48,55,-7,0,0.14782295830125539,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+288,4,7:47,467,467,Allie Troeckler Offensive Rebound.,48,55,-7,5,0.14782295830125539,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+289,4,7:42,462,462,Allie Troeckler made Layup.,48,57,-9,21,0.09413689753729639,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+290,4,7:21,441,441,Jazmine Young missed Three Point Jumper.,48,57,-9,0,0.08921839779470526,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+291,4,7:21,441,441,Allie Troeckler Defensive Rebound.,48,57,-9,24,0.08921839779470526,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+292,4,6:57,417,417,Allie Troeckler missed Jumper.,48,57,-9,0,0.08252476470402516,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+293,4,6:57,417,417,Tori Handley Offensive Rebound.,48,57,-9,15,0.08252476470402516,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+294,4,6:42,402,402,Mikia Keith missed Three Point Jumper.,48,57,-9,0,0.07879612583614111,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+295,4,6:42,402,402,Taylor Roberts Defensive Rebound.,48,57,-9,10,0.07879612583614111,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+296,4,6:32,392,392,Deaja Richardson made Three Point Jumper. Assisted by Taylor Roberts.,51,57,-6,21,0.15962364126561188,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,Tennessee State
+297,4,6:11,371,371,Zaria Whitlock made Layup. Assisted by Christen King.,51,59,-8,21,0.09296315010096844,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+298,4,5:50,350,350,Foul on Allie Troeckler.,51,59,-8,0,0.08703667937580317,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+299,4,5:50,350,350,Taylor Roberts made Free Throw.,52,59,-7,0,0.11339016920499949,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,Tennessee State
+300,4,5:50,350,350,Taylor Roberts made Free Throw.,53,59,-6,0,0.1464431868135855,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,Tennessee State
+301,4,5:50,350,350,Mikayla Kinnard Turnover.,53,59,-6,0,0.1464431868135855,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+302,4,5:50,350,350,Megan Kent missed Jumper.,53,59,-6,0,0.1464431868135855,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+303,4,5:50,350,350,Mikia Keith Defensive Rebound.,53,59,-6,4,0.1464431868135855,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+304,4,5:46,346,346,Foul on Megan Kent.,53,59,-6,26,0.14500168593860055,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+305,4,5:20,320,320,Foul on Jaden Wrightsell.,53,61,-8,0,0.07695974080616984,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+306,4,5:20,320,320,Allie Troeckler made Free Throw.,53,62,-9,0,0.0575982646605716,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+307,4,5:20,320,320,Allie Troeckler made Jumper.,53,61,-8,23,0.07695974080616984,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+308,4,4:57,297,297,Megan Kent missed Jumper.,53,62,-9,0,0.05145235204610496,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+309,4,4:57,297,297,Allie Troeckler Defensive Rebound.,53,62,-9,10,0.05145235204610496,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+310,4,4:47,287,287,Mikayla Kinnard made Jumper. Assisted by Mikia Keith.,53,64,-11,20,0.027297147723364622,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+311,4,4:27,267,267,Andreana Wrister Turnover.,53,64,-11,0,0.02844314375108734,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+312,4,4:27,267,267,Allie Troeckler Steal.,53,64,-11,0,0.02844314375108734,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+313,4,4:27,267,267,Foul on Andreana Wrister.,53,64,-11,0,0.02844314375108734,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+314,4,4:27,267,267,Official TV Timeout,53,64,-11,2,0.02844314375108734,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+315,4,4:25,265,265,Kelsie Williams missed Free Throw.,53,64,-11,0,0.028627075949467434,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+316,4,4:25,265,265,SIU-Edwardsville Deadball Team Rebound.,53,64,-11,0,0.028627075949467434,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+317,4,4:25,265,265,Kelsie Williams missed Free Throw.,53,64,-11,0,0.028627075949467434,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+318,4,4:25,265,265,Jazmine Young Defensive Rebound.,53,64,-11,6,0.028627075949467434,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+319,4,4:19,259,259,Foul on Mikia Keith.,53,64,-11,19,0.029196058505623016,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+320,4,4:00,240,240,Megan Kent missed Layup.,53,64,-11,0,0.03053333163539701,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+321,4,4:00,240,240,Allie Troeckler Defensive Rebound.,53,64,-11,16,0.03053333163539701,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+322,4,3:44,224,224,Foul on Deaja Richardson.,53,64,-11,0,0.02991749466329787,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+323,4,3:44,224,224,Mikia Keith missed Free Throw.,53,64,-11,0,0.02991749466329787,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+324,4,3:44,224,224,SIU-Edwardsville Deadball Team Rebound.,53,64,-11,0,0.02991749466329787,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+325,4,3:44,224,224,Mikia Keith made Free Throw.,53,65,-12,16,0.021984136302071074,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+326,4,3:28,208,208,Christen King Turnover.,53,65,-12,4,0.019344674378796306,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+327,4,3:24,204,204,Mikia Keith Turnover.,53,65,-12,5,0.018332685281510164,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+328,4,3:19,199,199,Foul on Mikayla Kinnard.,53,65,-12,0,0.016897873547853992,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+329,4,3:19,199,199,Deaja Richardson missed Free Throw.,53,65,-12,1,0.016897873547853992,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+330,4,3:18,198,198,Tennessee State Deadball Team Rebound.,53,65,-12,1,0.01659106096514834,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+331,4,3:17,197,197,Deaja Richardson made Free Throw.,54,65,-11,4,0.022760351614831108,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,Tennessee State
+332,4,3:13,193,193,Foul on Andreana Wrister.,54,65,-11,0,0.02109663911128647,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+333,4,3:13,193,193,Bria Stallworth made Free Throw.,54,66,-12,0,0.014976748028951228,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+334,4,3:13,193,193,Bria Stallworth made Free Throw.,54,67,-13,15,0.010612919319375178,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+335,4,2:58,178,178,Jazmine Young missed Jumper.,54,67,-13,0,0.007103877483554194,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+336,4,2:58,178,178,Jazmine Young Offensive Rebound.,54,67,-13,2,0.007103877483554194,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+337,4,2:56,176,176,Foul on Mikia Keith.,54,67,-13,0,0.00672277554954209,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+338,4,2:56,176,176,Jazmine Young made Free Throw.,55,67,-12,0,0.009841676253183159,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,Tennessee State
+339,4,2:56,176,176,Jazmine Young missed Free Throw.,55,67,-12,0,0.009841676253183159,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+340,4,2:56,176,176,Allie Troeckler Defensive Rebound.,55,67,-12,0,0.009841676253183159,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+341,4,2:56,176,176,Bria Stallworth Turnover.,55,67,-12,0,0.009841676253183159,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+342,4,2:56,176,176,Jaden Wrightsell Steal.,55,67,-12,1,0.009841676253183159,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+343,4,2:55,175,175,Taylor Roberts made Layup. Assisted by Jaden Wrightsell.,57,67,-10,20,0.0205492310008382,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,Tennessee State
+344,4,2:35,155,155,Foul on Jasmine Broner.,57,67,-10,0,0.013156132081926364,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+345,4,2:35,155,155,Mikayla Kinnard made Free Throw.,57,68,-11,0,0.008582706200626528,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+346,4,2:35,155,155,Mikayla Kinnard made Free Throw.,57,69,-12,12,0.0055901204303576224,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+347,4,2:23,143,143,Andreana Wrister made Jumper.,59,69,-10,17,0.009734648719215885,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,Tennessee State
+348,4,2:06,126,126,Foul on Deaja Richardson.,59,69,-10,0,0.005964882002542028,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+349,4,2:06,126,126,Mikayla Kinnard made Free Throw.,59,70,-11,0,0.003584763441924871,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+350,4,2:06,126,126,Mikayla Kinnard made Free Throw.,59,71,-12,4,0.002152307961242258,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+351,4,2:02,122,122,Deaja Richardson Turnover.,59,71,-12,25,0.0018441614752374475,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+352,4,1:37,97,97,Foul on Deaja Richardson.,59,71,-12,0,5.938169872264055e-4,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+353,4,1:37,97,97,Bria Stallworth made Free Throw.,59,72,-13,0,3.198385989486057e-4,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+354,4,1:37,97,97,Bria Stallworth made Free Throw.,59,73,-14,8,1.7224800610930537e-4,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+355,4,1:29,89,89,Taylor Roberts Turnover.,59,73,-14,1,1.0492838020872016e-4,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+356,4,1:28,88,88,Tori Handley Steal.,59,73,-14,23,9.853294302440708e-5,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+357,4,1:05,65,65,Foul on Jaden Wrightsell.,59,73,-14,0,2.069945271325131e-5,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+358,4,1:05,65,65,Christen King made Free Throw.,59,74,-15,0,9.580539530212729e-6,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+359,4,1:05,65,65,Christen King made Free Throw.,59,75,-16,9,4.4342326700577464e-6,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,SIU-Edwardsville
+360,4,0:56,56,56,Foul on Christen King.,59,75,-16,0,2.0589444007309145e-6,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,
+361,4,0:56,56,56,Taylor Roberts made Free Throw.,60,75,-15,0,4.667030530319235e-6,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,Tennessee State
+362,4,0:56,56,56,Taylor Roberts made Free Throw.,61,75,-14,2,1.0578771337900469e-5,Tennessee State,SIU-Edwardsville,5,5,0,0,NA,401175379,2020-01-04,Tennessee State
+363,4,0:54,54,54,Bria Stallworth Turnover.,61,75,-14,0,9.072799068903004e-6,Tennessee State,SIU-Edwardsville,5,5,1,0,NA,401175379,2020-01-04,
+364,4,0:54,54,54,Tennessee State  Timeout,61,75,-14,6,9.072799068903004e-6,Tennessee State,SIU-Edwardsville,4,5,1,0,NA,401175379,2020-01-04,
+365,4,0:48,48,48,Megan Kent made Layup.,63,75,-12,20,3.181054398908025e-5,Tennessee State,SIU-Edwardsville,4,5,1,0,NA,401175379,2020-01-04,Tennessee State
+366,4,0:28,28,28,Foul on Taylor Roberts.,63,75,-12,0,7.445308791092731e-6,Tennessee State,SIU-Edwardsville,4,5,1,0,NA,401175379,2020-01-04,
+367,4,0:28,28,28,Christen King missed Free Throw.,63,75,-12,0,7.445308791092731e-6,Tennessee State,SIU-Edwardsville,4,5,1,0,NA,401175379,2020-01-04,
+368,4,0:28,28,28,SIU-Edwardsville Deadball Team Rebound.,63,75,-12,0,7.445308791092731e-6,Tennessee State,SIU-Edwardsville,4,5,1,0,NA,401175379,2020-01-04,
+369,4,0:28,28,28,Christen King made Free Throw.,63,76,-13,1,2.78318388890076e-6,Tennessee State,SIU-Edwardsville,4,5,1,0,NA,401175379,2020-01-04,SIU-Edwardsville
+370,4,0:27,27,27,Official TV Timeout,63,76,-13,6,2.5625952024420296e-6,Tennessee State,SIU-Edwardsville,4,5,1,0,NA,401175379,2020-01-04,
+371,4,0:21,21,21,Taylor Roberts missed Three Point Jumper.,63,76,-13,0,1.5508307118288539e-6,Tennessee State,SIU-Edwardsville,4,5,1,0,NA,401175379,2020-01-04,
+372,4,0:21,21,21,SIU-Edwardsville Defensive Rebound.,63,76,-13,2,1.5508307118288539e-6,Tennessee State,SIU-Edwardsville,4,5,1,0,NA,401175379,2020-01-04,
+373,4,0:19,19,19,Official TV Timeout,63,76,-13,0,1.3059862254364182e-6,Tennessee State,SIU-Edwardsville,4,5,1,0,NA,401175379,2020-01-04,

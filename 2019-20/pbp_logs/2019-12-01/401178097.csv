@@ -1,0 +1,327 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:44,2384,2384,Lasha Petree Turnover.,0,0,0,0,0.5,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,NA
+2,1,9:44,2384,2384,Jaide Hinds-Clarke Steal.,0,0,0,6,0.5,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+3,1,9:38,2378,2378,Jaide Hinds-Clarke missed Layup.,0,0,0,10,0.5,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+4,1,9:28,2368,2368,Gabi Haack Defensive Rebound.,0,0,0,3,0.5,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+5,1,9:25,2365,2365,Gabi Haack made Layup.,0,2,-2,19,0.45523226214346435,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Bradley
+6,1,9:06,2346,2346,Alex Parson missed Jumper.,0,2,-2,5,0.4548226031392742,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+7,1,9:01,2341,2341,Alex Parson Offensive Rebound.,0,2,-2,4,0.45471402389215027,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+8,1,8:57,2337,2337,Emma Squires missed Three Point Jumper.,0,2,-2,2,0.4546269370703341,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+9,1,8:55,2335,2335,Chelsea Brackmann Defensive Rebound.,0,2,-2,18,0.45458332034341126,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+10,1,8:37,2317,2317,Chelsea Brackmann missed Jumper.,0,2,-2,3,0.4541886461494085,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+11,1,8:34,2314,2314,Emma Squires Defensive Rebound.,0,2,-2,12,0.4541225081930918,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+12,1,8:22,2302,2302,Emma Squires made Three Point Jumper. Assisted by Jaide Hinds-Clarke.,3,2,1,20,0.5231208421619332,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Richmond
+13,1,8:02,2282,2282,Lasha Petree missed Three Point Jumper.,3,2,1,5,0.5233451933869412,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+14,1,7:57,2277,2277,Gabi Haack Offensive Rebound.,3,2,1,12,0.5234015860734704,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+15,1,7:45,2265,2265,Foul on Emma Squires.,3,2,1,0,0.5235373929445338,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+16,1,7:45,2265,2265,Chelsea Brackmann missed Free Throw.,3,2,1,0,0.5235373929445338,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+17,1,7:45,2265,2265,Bradley Deadball Team Rebound.,3,2,1,0,0.5235373929445338,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+18,1,7:45,2265,2265,Chelsea Brackmann made Free Throw.,3,3,0,19,0.5,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Bradley
+19,1,7:26,2246,2246,Aniyah Carpenter missed Three Point Jumper.,3,3,0,2,0.5,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+20,1,7:24,2244,2244,Jaide Hinds-Clarke Offensive Rebound.,3,3,0,1,0.5,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+21,1,7:23,2243,2243,Jaide Hinds-Clarke missed Jumper.,3,3,0,1,0.5,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+22,1,7:22,2242,2242,Richmond Offensive Rebound.,3,3,0,7,0.5,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+23,1,7:15,2235,2235,Kate Klimkiewicz missed Three Point Jumper.,3,3,0,4,0.5,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+24,1,7:11,2231,2231,Jaide Hinds-Clarke Offensive Rebound.,3,3,0,11,0.5,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+25,1,7:00,2220,2220,Emma Squires made Layup.,5,3,2,9,0.5479925671944532,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Richmond
+26,1,6:51,2211,2211,Chelsea Brackmann missed Layup.,5,3,2,2,0.5481985600824828,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+27,1,6:49,2209,2209,Chelsea Brackmann Offensive Rebound.,5,3,2,0,0.5482443987813758,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+28,1,6:49,2209,2209,Foul on Alex Parson.,5,3,2,5,0.5482443987813758,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+29,1,6:44,2204,2204,Tatum Koenig missed Three Point Jumper.,5,3,2,4,0.5483590900647362,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+30,1,6:40,2200,2200,Kate Klimkiewicz Defensive Rebound.,5,3,2,4,0.5484509368654422,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+31,1,6:36,2196,2196,Foul on Emma Squires.,5,3,2,0,0.5485428633832261,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+32,1,6:36,2196,2196,Emma Squires Turnover.,5,3,2,24,0.5485428633832261,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+33,1,6:12,2172,2172,Gabi Haack missed Layup.,5,3,2,0,0.5490959085697926,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+34,1,6:12,2172,2172,Elaina Chapman Block.,5,3,2,6,0.5490959085697926,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+35,1,6:06,2166,2166,Elaina Chapman Defensive Rebound.,5,3,2,2,0.5492345457745712,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+36,1,6:04,2164,2164,Aniyah Carpenter made Jumper.,7,3,4,13,0.5976133733505369,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Richmond
+37,1,5:51,2151,2151,Nyjah White missed Jumper.,7,3,4,0,0.5981989352663497,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+38,1,5:51,2151,2151,Elaina Chapman Defensive Rebound.,7,3,4,30,0.5981989352663497,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+39,1,5:21,2121,2121,Claire Holt missed Layup.,7,3,4,2,0.5995594938555068,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+40,1,5:19,2119,2119,Claire Holt Offensive Rebound.,7,3,4,0,0.5996506876673924,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+41,1,5:19,2119,2119,Foul on Lasha Petree.,7,3,4,0,0.5996506876673924,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+42,1,5:19,2119,2119,Claire Holt made Free Throw.,8,3,5,3,0.6236365186902852,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Richmond
+43,1,5:16,2116,2116,Claire Holt made Free Throw.,9,3,6,7,0.6472265386024073,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Richmond
+44,1,5:09,2109,2109,Foul on Tatum Koenig.,9,3,6,0,0.6476830750781524,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+45,1,5:09,2109,2109,Tatum Koenig Turnover.,9,3,6,15,0.6476830750781524,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+46,1,4:54,2094,2094,Kaila Clark made Layup. Assisted by Claire Holt.,11,3,8,11,0.6937196962199517,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Richmond
+47,1,4:43,2083,2083,Nyjah White missed Jumper.,11,3,8,5,0.6946182326113824,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+48,1,4:38,2078,2078,Kate Klimkiewicz Defensive Rebound.,11,3,8,20,0.695027581666033,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+49,1,4:18,2058,2058,Claire Holt made Layup.,13,3,10,16,0.7387282929412781,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Richmond
+50,1,4:02,2042,2042,Lasha Petree missed Jumper.,13,3,10,4,0.740236776980468,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+51,1,3:58,2038,2038,Elaina Chapman Defensive Rebound.,13,3,10,2,0.7406148186744372,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+52,1,3:56,2036,2036,Claire Holt missed Three Point Jumper.,13,3,10,3,0.7408039818564193,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+53,1,3:53,2033,2033,Lasha Petree Defensive Rebound.,13,3,10,4,0.7410879066922567,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+54,1,3:49,2029,2029,Lasha Petree missed Jumper.,13,3,10,4,0.7414668132400253,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+55,1,3:45,2025,2025,Elaina Chapman Defensive Rebound.,13,3,10,14,0.7418461140088856,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+56,1,3:31,2011,2011,Kate Klimkiewicz missed Layup.,13,3,10,4,0.7431768575300576,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+57,1,3:27,2007,2007,Gabi Haack Defensive Rebound.,13,3,10,11,0.7435580060462864,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+58,1,3:16,1996,1996,Lasha Petree missed Layup.,13,3,10,8,0.7446083824320525,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+59,1,3:08,1988,1988,Kate Klimkiewicz Defensive Rebound.,13,3,10,1,0.745374388112896,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+60,1,3:07,1987,1987,Kate Klimkiewicz Turnover.,13,3,10,0,0.7454702655723747,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+61,1,3:07,1987,1987,Official TV Timeout,13,3,10,15,0.7454702655723747,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+62,1,2:52,1972,1972,Tatum Koenig Turnover.,13,3,10,0,0.7469118915655463,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+63,1,2:52,1972,1972,Kate Klimkiewicz Steal.,13,3,10,1,0.7469118915655463,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+64,1,2:51,1971,1971,Kate Klimkiewicz Turnover.,13,3,10,22,0.7470082348336161,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+65,1,2:29,1949,1949,Mahri Petree missed Layup.,13,3,10,0,0.7491354872704391,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+66,1,2:29,1949,1949,Elaina Chapman Defensive Rebound.,13,3,10,0,0.7491354872704391,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+67,1,2:29,1949,1949,Foul on Emily Marsh.,13,3,10,14,0.7491354872704391,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+68,1,2:15,1935,1935,Kaila Clark missed Layup.,13,3,10,2,0.750497121657584,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+69,1,2:13,1933,1933,Mahri Petree Defensive Rebound.,13,3,10,6,0.7506921607576945,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+70,1,2:07,1927,1927,Foul on Elaina Chapman.,13,3,10,0,0.751277721448523,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+71,1,2:07,1927,1927,Chelsea Brackmann made Free Throw.,13,4,9,0,0.7300536152871083,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Bradley
+72,1,2:07,1927,1927,Chelsea Brackmann missed Free Throw.,13,4,9,2,0.7300536152871083,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+73,1,2:05,1925,1925,Jaide Hinds-Clarke Defensive Rebound.,13,4,9,14,0.7302386727275372,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+74,1,1:51,1911,1911,Alex Parson missed Three Point Jumper.,13,4,9,4,0.7315303134549863,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+75,1,1:47,1907,1907,Mahri Petree Defensive Rebound.,13,4,9,26,0.7318982779945662,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+76,1,1:21,1881,1881,Violeta Verano missed Three Point Jumper.,13,4,9,4,0.7342815413513923,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+77,1,1:17,1877,1877,Chelsea Brackmann Offensive Rebound.,13,4,9,3,0.7346472588666324,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+78,1,1:14,1874,1874,Lasha Petree Turnover.,13,4,9,0,0.7349214451667302,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+79,1,1:14,1874,1874,Jaide Hinds-Clarke Steal.,13,4,9,12,0.7349214451667302,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+80,1,1:02,1862,1862,Madelyn Neff missed Three Point Jumper.,13,4,9,1,0.7360176222765986,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+81,1,1:01,1861,1861,Jaide Hinds-Clarke Offensive Rebound.,13,4,9,14,0.7361089477940735,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+82,1,0:47,1847,1847,Alex Parson missed Jumper.,13,4,9,3,0.7373876399805388,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+83,1,0:44,1844,1844,Mahri Petree Defensive Rebound.,13,4,9,16,0.7376617585525029,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+84,1,0:28,1828,1828,Mahri Petree Turnover.,13,4,9,24,0.739125269350443,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+85,1,0:04,1804,1804,Alex Parson made Jumper.,15,4,11,4,0.7836156145336267,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Richmond
+86,1,0:00,1800,1800,End of 1st Quarter,15,4,11,27,0.7840139789318306,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+87,2,9:33,1773,1773,Nyjah White Turnover.,15,4,11,0,0.7867140809886954,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+88,2,9:33,1773,1773,Jaide Hinds-Clarke Steal.,15,4,11,10,0.7867140809886954,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+89,2,9:23,1763,1763,Foul on Alex Parson.,15,4,11,0,0.7877203382284271,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+90,2,9:23,1763,1763,Alex Parson Turnover.,15,4,11,15,0.7877203382284271,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+91,2,9:08,1748,1748,Chelsea Brackmann missed Layup.,15,4,11,3,0.7892376532920615,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+92,2,9:05,1745,1745,Aniyah Carpenter Defensive Rebound.,15,4,11,6,0.789542381254818,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+93,2,8:59,1739,1739,Jaide Hinds-Clarke made Jumper. Assisted by Aniyah Carpenter.,17,4,13,13,0.8273430334885077,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Richmond
+94,2,8:46,1726,1726,Chelsea Brackmann made Layup. Assisted by Nyjah White.,17,6,11,31,0.791483350194684,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Bradley
+95,2,8:15,1695,1695,Kaila Clark missed Jumper.,17,6,11,3,0.794697422633818,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+96,2,8:12,1692,1692,Gabi Haack Defensive Rebound.,17,6,11,12,0.7950119759062818,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+97,2,8:00,1680,1680,Chelsea Brackmann made Layup. Assisted by Nyjah White.,17,8,9,12,0.7531089919015316,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Bradley
+98,2,7:48,1668,1668,Kate Klimkiewicz missed Layup.,17,8,9,4,0.7542577129295523,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+99,2,7:44,1664,1664,Aniyah Carpenter Offensive Rebound.,17,8,9,2,0.7546358452831482,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+100,2,7:42,1662,1662,Aniyah Carpenter missed Jumper.,17,8,9,1,0.7548240857325392,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+101,2,7:41,1661,1661,Chelsea Brackmann Defensive Rebound.,17,8,9,0,0.7549180062511135,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+102,2,7:41,1661,1661,Foul on Jaide Hinds-Clarke.,17,8,9,18,0.7549180062511135,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+103,2,7:23,1643,1643,Gabi Haack made Layup. Assisted by Lasha Petree.,17,10,7,10,0.7072467866619507,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Bradley
+104,2,7:13,1633,1633,Foul on Emily Marsh.,17,10,7,19,0.7080460679096371,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+105,2,6:54,1614,1614,Elaina Chapman missed Layup.,17,10,7,3,0.7095493771568256,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+106,2,6:51,1611,1611,Mahri Petree Defensive Rebound.,17,10,7,5,0.7097854721172508,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+107,2,6:46,1606,1606,Foul on Jaide Hinds-Clarke.,17,10,7,13,0.7101784819775233,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+108,2,6:33,1593,1593,Nyjah White missed Jumper.,17,10,7,0,0.711198790374362,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+109,2,6:33,1593,1593,Kate Klimkiewicz Defensive Rebound.,17,10,7,0,0.711198790374362,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+110,2,6:33,1593,1593,Foul on Lasha Petree.,17,10,7,13,0.711198790374362,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+111,2,6:20,1580,1580,Kailyn Fee made Three Point Jumper. Assisted by Elaina Chapman.,20,10,10,10,0.7849172744614636,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Richmond
+112,2,6:10,1570,1570,Foul on Kailyn Fee.,20,10,10,0,0.7858436114350437,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+113,2,6:10,1570,1570,Chelsea Brackmann made Free Throw.,20,11,9,0,0.7631533560562385,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Bradley
+114,2,6:10,1570,1570,Chelsea Brackmann missed Free Throw.,20,11,9,3,0.7631533560562385,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+115,2,6:07,1567,1567,Elaina Chapman Defensive Rebound.,20,11,9,19,0.763422529784171,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+116,2,5:48,1548,1548,Kate Klimkiewicz missed Three Point Jumper.,20,11,9,4,0.7651378402647986,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+117,2,5:44,1544,1544,Gabi Haack Defensive Rebound.,20,11,9,7,0.7655019649448264,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+118,2,5:37,1537,1537,Chelsea Brackmann Turnover.,20,11,9,0,0.7661423558948894,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+119,2,5:37,1537,1537,Kate Klimkiewicz Steal.,20,11,9,20,0.7661423558948894,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+120,2,5:17,1517,1517,Madelyn Neff missed Jumper.,20,11,9,6,0.7679989798443327,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+121,2,5:11,1511,1511,Chelsea Brackmann Defensive Rebound.,20,11,9,10,0.7685651724257632,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+122,2,5:01,1501,1501,Chelsea Brackmann missed Layup.,20,11,9,1,0.7695198389806253,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+123,2,5:00,1500,1500,Bradley Offensive Rebound.,20,11,9,0,0.7696161130762753,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+124,2,5:00,1500,1500,Official TV Timeout,20,11,9,10,0.7696161130762753,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+125,2,4:50,1490,1490,Foul on Elaina Chapman.,20,11,9,0,0.770587544302667,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+126,2,4:50,1490,1490,Elaina Chapman Turnover.,20,11,9,12,0.770587544302667,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+127,2,4:38,1478,1478,Nyjah White made Jumper. Assisted by Chelsea Brackmann.,20,13,7,13,0.7206357522671273,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Bradley
+128,2,4:25,1465,1465,Kailyn Fee made Three Point Jumper. Assisted by Molly Mraz.,23,13,10,18,0.7960957336181925,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Richmond
+129,2,4:07,1447,1447,Mahri Petree missed Layup.,23,13,10,1,0.7980285194910052,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+130,2,4:06,1446,1446,Elaina Chapman Defensive Rebound.,23,13,10,0,0.7981363316868644,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+131,2,4:06,1446,1446,Foul on Nyjah White.,23,13,10,13,0.7981363316868644,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+132,2,3:53,1433,1433,Kailyn Fee missed Three Point Jumper.,23,13,10,4,0.79951326293453,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+133,2,3:49,1429,1429,Kaila Clark Offensive Rebound.,23,13,10,11,0.7999284304093773,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+134,2,3:38,1418,1418,Foul on Mahri Petree.,23,13,10,7,0.8010521104452251,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+135,2,3:31,1411,1411,Kailyn Fee missed Three Point Jumper.,23,13,10,1,0.8017549516516373,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+136,2,3:30,1410,1410,Bradley Defensive Rebound.,23,13,10,26,0.8018546649125673,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+137,2,3:04,1384,1384,Gabi Haack missed Three Point Jumper.,23,13,10,4,0.804399362128291,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+138,2,3:00,1380,1380,Kaila Clark Defensive Rebound.,23,13,10,8,0.8047846619872828,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+139,2,2:52,1372,1372,Claire Holt Turnover.,23,13,10,0,0.8055522288186849,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+140,2,2:52,1372,1372,Chelsea Brackmann Steal.,23,13,10,8,0.8055522288186849,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+141,2,2:44,1364,1364,Chelsea Brackmann Turnover.,23,13,10,21,0.8063170769373444,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+142,2,2:23,1343,1343,Aniyah Carpenter made Jumper.,25,13,12,0,0.8490260840896031,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Richmond
+143,2,2:23,1343,1343,Foul on Ryan Wilkins.,25,13,12,0,0.8490260840896031,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+144,2,2:23,1343,1343,Aniyah Carpenter made Free Throw.,26,13,13,13,0.8665621569174957,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Richmond
+145,2,2:10,1330,1330,Nyjah White missed Jumper.,26,13,13,4,0.8677734851086776,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+146,2,2:06,1326,1326,Gabi Haack Offensive Rebound.,26,13,13,6,0.8681479884890835,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+147,2,2:00,1320,1320,Nyjah White Turnover.,26,13,13,0,0.8687119511170489,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+148,2,2:00,1320,1320,Aniyah Carpenter Steal.,26,13,13,20,0.8687119511170489,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+149,2,1:40,1300,1300,Kaila Clark missed Three Point Jumper.,26,13,13,4,0.8706178865354951,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+150,2,1:36,1296,1296,Chelsea Brackmann Defensive Rebound.,26,13,13,16,0.8710051332944979,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+151,2,1:20,1280,1280,Lasha Petree Turnover.,26,13,13,32,0.87257967961699745,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+152,2,0:48,1248,1248,Aniyah Carpenter missed Three Point Jumper.,26,13,13,4,0.8758829417279614,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+153,2,0:44,1244,1244,Lasha Petree Defensive Rebound.,26,13,13,4,0.8763131014684856,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+154,2,0:40,1240,1240,Lasha Petree made Layup.,26,15,11,35,0.8402568780831532,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Bradley
+155,2,0:05,1205,1205,Kate Klimkiewicz missed Layup.,26,15,11,3,0.8444689303798137,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+156,2,0:02,1202,1202,Foul on Kate Klimkiewicz.,26,15,11,0,0.8448371710525878,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+157,2,0:02,1202,1202,Tatum Koenig made Free Throw.,26,16,10,0,0.8235530980279755,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Bradley
+158,2,0:02,1202,1202,Tatum Koenig made Free Throw.,26,17,9,0,0.8000404559887966,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,Bradley
+159,2,0:02,1202,1202,Chelsea Brackmann Defensive Rebound.,26,17,9,2,0.8000404559887966,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+160,2,0:00,1200,1200,End of 2nd Quarter,26,17,9,23,0.8002839754918194,Richmond,Bradley,4,4,0,0,NA,401178097,2019-12-01,
+161,3,9:37,1177,1177,Emma Squires Turnover.,26,17,9,0,0.8030075465548853,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+162,3,9:37,1177,1177,Nyjah White Steal.,26,17,9,2,0.8030075465548853,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+163,3,9:35,1175,1175,Tatum Koenig Turnover.,26,17,9,21,0.8032386310920432,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+164,3,9:14,1154,1154,Aniyah Carpenter made Three Point Jumper. Assisted by Jaide Hinds-Clarke.,29,17,12,22,0.8694119108859553,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,Richmond
+165,3,8:52,1132,1132,Gabi Haack made Three Point Jumper. Assisted by Lasha Petree.,29,20,9,17,0.8080733230407074,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,Bradley
+166,3,8:35,1115,1115,Jaide Hinds-Clarke missed Jumper.,29,20,9,2,0.8099554164104971,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+167,3,8:33,1113,1113,Kate Klimkiewicz Offensive Rebound.,29,20,9,1,0.8101772381554048,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+168,3,8:32,1112,1112,Emma Squires missed Three Point Jumper.,29,20,9,0,0.8102882174250059,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+169,3,8:32,1112,1112,Jaide Hinds-Clarke Offensive Rebound.,29,20,9,0,0.8102882174250059,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+170,3,8:32,1112,1112,Foul on Emily Marsh.,29,20,9,18,0.8102882174250059,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+171,3,8:14,1094,1094,Jaide Hinds-Clarke missed Layup.,29,20,9,2,0.8122979803978567,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+172,3,8:12,1092,1092,Chelsea Brackmann Defensive Rebound.,29,20,9,4,0.8125232086894493,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+173,3,8:08,1088,1088,Mahri Petree made Layup.,29,22,7,17,0.7582140005351233,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,Bradley
+174,3,7:51,1071,1071,Foul on Mahri Petree.,29,22,7,0,0.760043185809508,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+175,3,7:51,1071,1071,Kate Klimkiewicz made Free Throw.,30,22,8,0,0.7887852334032424,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,Richmond
+176,3,7:51,1071,1071,Kate Klimkiewicz made Free Throw.,31,22,9,24,0.8149228894797713,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,Richmond
+177,3,7:27,1047,1047,Chelsea Brackmann made Layup. Assisted by Nyjah White.,31,24,7,0,0.7627283465883494,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,Bradley
+178,3,7:27,1047,1047,Foul on Elaina Chapman.,31,24,7,1,0.7627283465883494,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+179,3,7:26,1046,1046,Chelsea Brackmann missed Free Throw.,31,24,7,1,0.7628434036845968,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+180,3,7:25,1045,1045,Elaina Chapman Defensive Rebound.,31,24,7,6,0.7629587422664907,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+181,3,7:19,1039,1039,Kate Klimkiewicz Turnover.,31,24,7,24,0.7636568599051665,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+182,3,6:55,1015,1015,Nyjah White made Layup.,31,26,5,12,0.7004197498551618,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,Bradley
+183,3,6:43,1003,1003,Elaina Chapman missed Layup.,31,26,5,4,0.701704878428278,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+184,3,6:39,999,999,Tatum Koenig Defensive Rebound.,31,26,5,2,0.7021446930793132,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+185,3,6:37,997,997,Chelsea Brackmann made Layup. Assisted by Tatum Koenig.,31,28,3,0,0.626014489720301,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,Bradley
+186,3,6:37,997,997,Foul on Kate Klimkiewicz.,31,28,3,0,0.626014489720301,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+187,3,6:37,997,997,Chelsea Brackmann made Free Throw.,31,29,2,25,0.585025324890365,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,Bradley
+188,3,6:12,972,972,Alex Parson made Jumper.,33,29,4,26,0.6677552268679906,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,Richmond
+189,3,5:46,946,946,Lasha Petree made Three Point Jumper. Assisted by Tatum Koenig.,33,32,1,13,0.5442332108734333,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,Bradley
+190,3,5:33,933,933,Jaide Hinds-Clarke missed Three Point Jumper.,33,32,1,2,0.5445567961608494,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+191,3,5:31,931,931,Nyjah White Defensive Rebound.,33,32,1,4,0.5446049492733727,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+192,3,5:27,927,927,Tatum Koenig missed Three Point Jumper.,33,32,1,4,0.5447001037467366,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+193,3,5:23,923,923,Chelsea Brackmann Offensive Rebound.,33,32,1,0,0.5447938289415208,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+194,3,5:23,923,923,Foul on Aniyah Carpenter.,33,32,1,1,0.5447938289415208,Richmond,Bradley,5,5,0,0,NA,401178097,2019-12-01,
+195,3,5:22,922,922,Richmond  Timeout,33,32,1,0,0.5448170518750493,Richmond,Bradley,4,5,1,0,NA,401178097,2019-12-01,
+196,3,5:22,922,922,Official TV Timeout,33,32,1,15,0.5448170518750493,Richmond,Bradley,4,5,1,0,NA,401178097,2019-12-01,
+197,3,5:07,907,907,Tatum Koenig Turnover.,33,32,1,0,0.5451569896979659,Richmond,Bradley,4,5,1,0,NA,401178097,2019-12-01,
+198,3,5:07,907,907,Jaide Hinds-Clarke Steal.,33,32,1,18,0.5451569896979659,Richmond,Bradley,4,5,1,0,NA,401178097,2019-12-01,
+199,3,4:49,889,889,Jaide Hinds-Clarke missed Three Point Jumper.,33,32,1,3,0.5455508200333111,Richmond,Bradley,4,5,1,0,NA,401178097,2019-12-01,
+200,3,4:46,886,886,Gabi Haack Defensive Rebound.,33,32,1,10,0.5456157168193182,Richmond,Bradley,4,5,1,0,NA,401178097,2019-12-01,
+201,3,4:36,876,876,Emily Marsh missed Layup.,33,32,1,4,0.5458318472347176,Richmond,Bradley,4,5,1,0,NA,401178097,2019-12-01,
+202,3,4:32,872,872,Jaide Hinds-Clarke Defensive Rebound.,33,32,1,10,0.5459185326111171,Richmond,Bradley,4,5,1,0,NA,401178097,2019-12-01,
+203,3,4:22,862,862,Kailyn Fee missed Three Point Jumper.,33,32,1,3,0.5461369441507579,Richmond,Bradley,4,5,1,0,NA,401178097,2019-12-01,
+204,3,4:19,859,859,Gabi Haack Defensive Rebound.,33,32,1,13,0.5462031606334852,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+205,3,4:06,846,846,Lasha Petree missed Three Point Jumper.,33,32,1,5,0.5464955887172783,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+206,3,4:01,841,841,Gabi Haack Offensive Rebound.,33,32,1,14,0.5466110632913116,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+207,3,3:47,827,827,Foul on Kate Klimkiewicz.,33,32,1,0,0.5469460871553821,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+208,3,3:47,827,827,Official TV Timeout,33,32,1,0,0.5469460871553821,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+209,3,3:47,827,827,Lasha Petree made Free Throw.,33,33,0,0,0.5,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,Bradley
+210,3,3:47,827,827,Lasha Petree made Free Throw.,33,34,-1,18,0.45305391284461793,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,Bradley
+211,3,3:29,809,809,Kaila Clark missed Three Point Jumper.,33,34,-1,4,0.45259078187039065,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+212,3,3:25,805,805,Gabi Haack Defensive Rebound.,33,34,-1,5,0.45248186685416714,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+213,3,3:20,800,800,Lasha Petree made Three Point Jumper.,33,37,-4,13,0.31759511876464813,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,Bradley
+214,3,3:07,787,787,Kate Klimkiewicz made Layup. Assisted by Kaila Clark.,35,37,-2,20,0.4047979042920238,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,Richmond
+215,3,2:47,767,767,Lasha Petree missed Three Point Jumper.,35,37,-2,3,0.40352840931849304,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+216,3,2:44,764,764,Kaila Clark Defensive Rebound.,35,37,-2,12,0.4033234737858728,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+217,3,2:32,752,752,Kailyn Fee Turnover.,35,37,-2,0,0.4024618932884698,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+218,3,2:32,752,752,Tatum Koenig Steal.,35,37,-2,10,0.4024618932884698,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+219,3,2:22,742,742,Chelsea Brackmann made Layup.,35,39,-4,10,0.31069706891407173,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,Bradley
+220,3,2:12,732,732,Foul on Kailyn Fee.,35,39,-4,0,0.3092259751010645,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+221,3,2:12,732,732,Kailyn Fee Turnover.,35,39,-4,21,0.3092259751010645,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+222,3,1:51,711,711,Emily Marsh Turnover.,35,39,-4,19,0.30620207548267425,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+223,3,1:32,692,692,Alex Parson missed Three Point Jumper.,35,39,-4,3,0.3038093298554439,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+224,3,1:29,689,689,Lasha Petree Defensive Rebound.,35,39,-4,2,0.3034525835450941,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+225,3,1:27,687,687,Chelsea Brackmann missed Layup.,35,39,-4,4,0.30321718190068697,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+226,3,1:23,683,683,Emma Squires Defensive Rebound.,35,39,-4,24,0.3027515283414929,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+227,3,0:59,659,659,Elaina Chapman Turnover.,35,39,-4,0,0.3000387518987594,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+228,3,0:59,659,659,Emily Marsh Steal.,35,39,-4,6,0.3000387518987594,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+229,3,0:53,653,653,Foul on Emma Squires.,35,39,-4,0,0.29936330070560246,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+230,3,0:53,653,653,Lasha Petree made Free Throw.,35,40,-5,0,0.2567528831426105,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,Bradley
+231,3,0:53,653,653,Lasha Petree made Free Throw.,35,41,-6,24,0.21831763943234941,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,Bradley
+232,3,0:29,629,629,Foul on Nyjah White.,35,41,-6,4,0.21489843188655688,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+233,3,0:25,625,625,Aniyah Carpenter made Layup.,37,41,-4,23,0.29605664518162084,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,Richmond
+234,3,0:02,602,602,Chelsea Brackmann made Layup. Assisted by Nyjah White.,37,43,-6,2,0.2105432611537659,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,Bradley
+235,3,0:00,600,600,End of 3rd Quarter,37,43,-6,21,0.2101886602059725,Richmond,Bradley,4,5,0,0,NA,401178097,2019-12-01,
+236,4,9:39,579,579,Foul on Nyjah White.,37,43,-6,0,0.2061206149430286,Richmond,Bradley,5,6,0,0,NA,401178097,2019-12-01,
+237,4,9:39,579,579,Nyjah White Turnover.,37,43,-6,20,0.2061206149430286,Richmond,Bradley,5,6,0,0,NA,401178097,2019-12-01,
+238,4,9:19,559,559,Emma Squires missed Layup.,37,43,-6,3,0.20155529395878122,Richmond,Bradley,5,6,0,0,NA,401178097,2019-12-01,
+239,4,9:16,556,556,Tatum Koenig Defensive Rebound.,37,43,-6,6,0.20080384124713144,Richmond,Bradley,5,6,0,0,NA,401178097,2019-12-01,
+240,4,9:10,550,550,Tatum Koenig made Three Point Jumper. Assisted by Lasha Petree.,37,46,-9,24,0.11041275448188474,Richmond,Bradley,5,6,0,0,NA,401178097,2019-12-01,Bradley
+241,4,8:46,526,526,Aniyah Carpenter missed Three Point Jumper.,37,46,-9,3,0.1053542069174515,Richmond,Bradley,5,6,0,0,NA,401178097,2019-12-01,
+242,4,8:43,523,523,Chelsea Brackmann Defensive Rebound.,37,46,-9,13,0.10481131749131903,Richmond,Bradley,5,6,0,0,NA,401178097,2019-12-01,
+243,4,8:30,510,510,Lasha Petree made Three Point Jumper. Assisted by Tatum Koenig.,37,49,-12,7,0.0525626229810801,Richmond,Bradley,5,6,0,0,NA,401178097,2019-12-01,Bradley
+244,4,8:23,503,503,Richmond  Timeout,37,49,-12,0,0.051735561306823545,Richmond,Bradley,4,6,1,0,NA,401178097,2019-12-01,
+245,4,8:23,503,503,Official TV Timeout,37,49,-12,22,0.051735561306823545,Richmond,Bradley,4,6,1,0,NA,401178097,2019-12-01,
+246,4,8:01,481,481,Kate Klimkiewicz made Layup.,39,49,-10,15,0.07803713887824895,Richmond,Bradley,4,6,1,0,NA,401178097,2019-12-01,Richmond
+247,4,7:46,466,466,Gabi Haack missed Three Point Jumper.,39,49,-10,4,0.07550057021646257,Richmond,Bradley,4,6,1,0,NA,401178097,2019-12-01,
+248,4,7:42,462,462,Jaide Hinds-Clarke Defensive Rebound.,39,49,-10,16,0.07476423096279362,Richmond,Bradley,4,6,1,0,NA,401178097,2019-12-01,
+249,4,7:26,446,446,Jaide Hinds-Clarke Turnover.,39,49,-10,0,0.07149236117592359,Richmond,Bradley,4,6,1,0,NA,401178097,2019-12-01,
+250,4,7:26,446,446,Nyjah White Steal.,39,49,-10,5,0.07149236117592359,Richmond,Bradley,4,6,1,0,NA,401178097,2019-12-01,
+251,4,7:21,441,441,Tatum Koenig Turnover.,39,49,-10,0,0.0703483276550791,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+252,4,7:21,441,441,Claire Holt Steal.,39,49,-10,5,0.0703483276550791,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+253,4,7:16,436,436,Kate Klimkiewicz made Layup.,41,49,-8,19,0.11105855338702779,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,Richmond
+254,4,6:57,417,417,Foul on Aniyah Carpenter.,41,49,-8,21,0.10518342404050789,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+255,4,6:36,396,396,Gabi Haack Turnover.,41,49,-8,0,0.09947501357200077,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+256,4,6:36,396,396,Claire Holt Steal.,41,49,-8,0,0.09947501357200077,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+257,4,6:36,396,396,Kate Klimkiewicz missed Three Point Jumper.,41,49,-8,0,0.09947501357200077,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+258,4,6:36,396,396,Tatum Koenig Defensive Rebound.,41,49,-8,0,0.09947501357200077,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+259,4,6:36,396,396,Gabi Haack made Three Point Jumper. Assisted by Tatum Koenig.,41,52,-11,47,0.046122990784242965,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,Bradley
+260,4,5:49,349,349,Kate Klimkiewicz made Jumper.,43,52,-9,21,0.06608531988925266,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,Richmond
+261,4,5:28,328,328,Lasha Petree missed Jumper.,43,52,-9,3,0.060107794685497026,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+262,4,5:25,325,325,Emma Squires Defensive Rebound.,43,52,-9,8,0.059182329142256886,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+263,4,5:17,317,317,Emma Squires Turnover.,43,52,-9,0,0.05662283226822643,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+264,4,5:17,317,317,Gabi Haack Steal.,43,52,-9,4,0.05662283226822643,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+265,4,5:13,313,313,Foul on Claire Holt.,43,52,-9,0,0.05529332422453762,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+266,4,5:13,313,313,Gabi Haack made Free Throw.,43,53,-10,0,0.04095043460047808,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,Bradley
+267,4,5:13,313,313,Gabi Haack made Free Throw.,43,54,-11,21,0.03020906805098781,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,Bradley
+268,4,4:52,292,292,Claire Holt Turnover.,43,54,-11,0,0.027348622371471645,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+269,4,4:52,292,292,Chelsea Brackmann Steal.,43,54,-11,19,0.027348622371471645,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+270,4,4:33,273,273,Foul on Gabi Haack.,43,54,-11,0,0.02793870352407202,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+271,4,4:33,273,273,Gabi Haack Turnover.,43,54,-11,16,0.02793870352407202,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+272,4,4:17,257,257,Jaide Hinds-Clarke Turnover.,43,54,-11,0,0.029383897432818353,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+273,4,4:17,257,257,Lasha Petree Steal.,43,54,-11,5,0.029383897432818353,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+274,4,4:12,252,252,Lasha Petree missed Layup.,43,54,-11,4,0.029827028705929057,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+275,4,4:08,248,248,Jaide Hinds-Clarke Defensive Rebound.,43,54,-11,3,0.030133848618248662,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+276,4,4:05,245,245,Alex Parson missed Jumper.,43,54,-11,3,0.030322773482592602,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+277,4,4:02,242,242,Tatum Koenig Defensive Rebound.,43,54,-11,20,0.030466693355900923,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+278,4,3:42,222,222,Lasha Petree made Jumper.,43,56,-13,20,0.01595695060015259,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,Bradley
+279,4,3:22,202,202,Alex Parson made Layup.,45,56,-11,33,0.024663991692504637,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,Richmond
+280,4,2:49,169,169,Nyjah White Turnover.,45,56,-11,0,0.01219582345751161,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+281,4,2:49,169,169,Alex Parson Steal.,45,56,-11,21,0.01219582345751161,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+282,4,2:28,148,148,Foul on Kate Klimkiewicz.,45,56,-11,1,0.007098556392894268,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+283,4,2:27,147,147,Alex Parson made Layup.,47,56,-9,0,0.016864454868028803,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,Richmond
+284,4,2:27,147,147,Nyjah White missed Jumper.,47,56,-9,0,0.016864454868028803,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+285,4,2:27,147,147,Aniyah Carpenter Defensive Rebound.,47,56,-9,0,0.016864454868028803,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+286,4,2:27,147,147,Kate Klimkiewicz missed Three Point Jumper.,47,56,-9,0,0.016864454868028803,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+287,4,2:27,147,147,Chelsea Brackmann Defensive Rebound.,47,56,-9,37,0.016864454868028803,Richmond,Bradley,4,6,0,0,NA,401178097,2019-12-01,
+288,4,1:50,110,110,Bradley  Timeout,47,56,-9,2,0.00605965246067965,Richmond,Bradley,4,5,0,1,NA,401178097,2019-12-01,
+289,4,1:48,108,108,Foul on Molly Mraz.,47,56,-9,0,0.005662393598875716,Richmond,Bradley,4,5,0,1,NA,401178097,2019-12-01,
+290,4,1:48,108,108,Nyjah White Turnover.,47,56,-9,16,0.005662393598875716,Richmond,Bradley,4,5,0,1,NA,401178097,2019-12-01,
+291,4,1:32,92,92,Claire Holt missed Three Point Jumper.,47,56,-9,0,0.0031116967093806143,Richmond,Bradley,4,5,0,1,NA,401178097,2019-12-01,
+292,4,1:32,92,92,Chelsea Brackmann Block.,47,56,-9,5,0.0031116967093806143,Richmond,Bradley,4,5,0,1,NA,401178097,2019-12-01,
+293,4,1:27,87,87,Claire Holt Offensive Rebound.,47,56,-9,1,0.0025452783851913153,Richmond,Bradley,4,5,0,1,NA,401178097,2019-12-01,
+294,4,1:26,86,86,Claire Holt made Three Point Jumper.,50,56,-6,8,0.017848450688287023,Richmond,Bradley,4,5,0,1,NA,401178097,2019-12-01,Richmond
+295,4,1:18,78,78,Lasha Petree Turnover.,50,56,-6,0,0.014330547460318121,Richmond,Bradley,4,5,0,1,NA,401178097,2019-12-01,
+296,4,1:18,78,78,Aniyah Carpenter Steal.,50,56,-6,4,0.014330547460318121,Richmond,Bradley,4,5,0,1,NA,401178097,2019-12-01,
+297,4,1:14,74,74,Alex Parson made Layup. Assisted by Aniyah Carpenter.,52,56,-4,0,0.05224121254343593,Richmond,Bradley,4,5,0,1,NA,401178097,2019-12-01,Richmond
+298,4,1:14,74,74,Bradley  Timeout,52,56,-4,7,0.05224121254343593,Richmond,Bradley,4,4,0,1,NA,401178097,2019-12-01,
+299,4,1:07,67,67,Chelsea Brackmann Turnover.,52,56,-4,0,0.04564835652421991,Richmond,Bradley,4,4,0,1,NA,401178097,2019-12-01,
+300,4,1:07,67,67,Jaide Hinds-Clarke Steal.,52,56,-4,7,0.04564835652421991,Richmond,Bradley,4,4,0,1,NA,401178097,2019-12-01,
+301,4,1:00,60,60,Alex Parson made Three Point Jumper.,55,56,-1,7,0.31072158953861545,Richmond,Bradley,4,4,0,1,NA,401178097,2019-12-01,Richmond
+302,4,0:53,53,53,Lasha Petree made Layup. Assisted by Gabi Haack.,55,58,-3,13,0.07554350399720401,Richmond,Bradley,4,4,0,1,NA,401178097,2019-12-01,Bradley
+303,4,0:40,40,40,Jaide Hinds-Clarke missed Layup.,55,58,-3,3,0.06125403944911376,Richmond,Bradley,4,4,0,1,NA,401178097,2019-12-01,
+304,4,0:37,37,37,Chelsea Brackmann Defensive Rebound.,55,58,-3,22,0.058197772165053605,Richmond,Bradley,4,4,0,1,NA,401178097,2019-12-01,
+305,4,0:15,15,15,Foul on Claire Holt.,55,58,-3,0,0.03887846863636717,Richmond,Bradley,4,4,0,1,NA,401178097,2019-12-01,
+306,4,0:15,15,15,Chelsea Brackmann made Free Throw.,55,59,-4,1,0.013695735787999078,Richmond,Bradley,4,4,0,1,NA,401178097,2019-12-01,Bradley
+307,4,0:14,14,14,Chelsea Brackmann missed Free Throw.,55,59,-4,0,0.013329460440830233,Richmond,Bradley,4,4,1,1,NA,401178097,2019-12-01,
+308,4,0:14,14,14,Elaina Chapman Defensive Rebound.,55,59,-4,0,0.013329460440830233,Richmond,Bradley,4,4,1,1,NA,401178097,2019-12-01,
+309,4,0:14,14,14,Richmond  Timeout,55,59,-4,5,0.013329460440830233,Richmond,Bradley,3,4,1,1,NA,401178097,2019-12-01,
+310,4,0:09,9,9,Aniyah Carpenter Turnover.,55,59,-4,0,0.011610250459567963,Richmond,Bradley,3,4,1,0,NA,401178097,2019-12-01,
+311,4,0:09,9,9,Lasha Petree Steal.,55,59,-4,2,0.011610250459567963,Richmond,Bradley,3,4,1,0,NA,401178097,2019-12-01,
+312,4,0:07,7,7,Foul on Kate Klimkiewicz.,55,59,-4,0,0.010974511870150696,Richmond,Bradley,3,4,1,0,NA,401178097,2019-12-01,
+313,4,0:07,7,7,Gabi Haack missed Free Throw.,55,59,-4,0,0.010974511870150696,Richmond,Bradley,3,4,1,0,NA,401178097,2019-12-01,
+314,4,0:07,7,7,Bradley Deadball Team Rebound.,55,59,-4,0,0.010974511870150696,Richmond,Bradley,3,4,1,0,NA,401178097,2019-12-01,
+315,4,0:07,7,7,Gabi Haack made Free Throw.,55,60,-5,0,0.0035884830521534074,Richmond,Bradley,3,4,1,0,NA,401178097,2019-12-01,Bradley
+316,4,0:07,7,7,Richmond  Timeout,55,60,-5,2,0.0035884830521534074,Richmond,Bradley,2,4,1,0,NA,401178097,2019-12-01,
+317,4,0:05,5,5,Aniyah Carpenter missed Three Point Jumper.,55,60,-5,3,0.0033405698550199206,Richmond,Bradley,2,4,1,0,NA,401178097,2019-12-01,
+318,4,0:02,2,2,Alex Parson made Layup.,57,60,-3,0,0.029763475716734225,Richmond,Bradley,2,4,1,1,NA,401178097,2019-12-01,Richmond
+319,4,0:02,2,2,Bradley  Timeout,57,60,-3,1,0.029763475716734225,Richmond,Bradley,2,3,1,1,NA,401178097,2019-12-01,
+320,4,0:01,1,1,Alex Parson Offensive Rebound.,57,60,-3,1,0.029136972928700006,Richmond,Bradley,2,3,1,1,NA,401178097,2019-12-01,
+321,4,0:00,0,0,Foul on Emma Squires.,57,60,-3,0,8.75651076269652e-27,Richmond,Bradley,2,3,1,1,NA,401178097,2019-12-01,
+322,4,0:00,0,0,Nyjah White missed Free Throw.,57,60,-3,0,8.75651076269652e-27,Richmond,Bradley,2,3,1,1,NA,401178097,2019-12-01,
+323,4,0:00,0,0,Bradley Deadball Team Rebound.,57,60,-3,0,8.75651076269652e-27,Richmond,Bradley,2,3,1,1,NA,401178097,2019-12-01,
+324,4,0:00,0,0,Nyjah White made Free Throw.,57,61,-4,0,1.8048513878454153e-35,Richmond,Bradley,2,3,1,1,NA,401178097,2019-12-01,Bradley
+325,4,0:00,0,0,End of 4th Quarter,57,60,-3,0,8.75651076269652e-27,Richmond,Bradley,2,3,1,1,NA,401178097,2019-12-01,
+326,4,0:00,0,0,End of Game,57,61,-4,0,1.8048513878454153e-35,Richmond,Bradley,2,3,1,1,NA,401178097,2019-12-01,Bradley

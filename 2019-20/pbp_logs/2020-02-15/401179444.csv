@@ -1,0 +1,336 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:38,2378,2378,Angel Hastings made Jumper.,0,0,0,25,0.5,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,NA
+2,1,9:13,2353,2353,Abbey Sutherland made Layup.,2,2,0,13,0.5,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Houston Baptist
+3,1,9:00,2340,2340,Jadyn Pimentel missed Jumper.,2,2,0,4,0.5,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+4,1,8:56,2336,2336,Timia Jefferson Defensive Rebound.,2,2,0,7,0.5,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+5,1,8:49,2329,2329,Timia Jefferson missed Three Point Jumper.,2,2,0,4,0.5,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+6,1,8:45,2325,2325,Malay McQueen Defensive Rebound.,2,2,0,14,0.5,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+7,1,8:31,2311,2311,Ashlan Miles Turnover.,2,2,0,0,0.5,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+8,1,8:31,2311,2311,Abbey Sutherland Steal.,2,2,0,19,0.5,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+9,1,8:12,2292,2292,Julija Vujakovic missed Three Point Jumper.,2,2,0,4,0.5,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+10,1,8:08,2288,2288,Lamar Defensive Rebound.,2,2,0,9,0.5,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+11,1,7:59,2279,2279,Foul on Timia Jefferson.,2,2,0,8,0.5,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+12,1,7:51,2271,2271,Ashlan Miles missed Three Point Jumper.,2,2,0,4,0.5,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+13,1,7:47,2267,2267,Angel Hastings Offensive Rebound.,2,2,0,2,0.5,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+14,1,7:45,2265,2265,Malay McQueen made Three Point Jumper. Assisted by Angel Hastings.,2,5,-3,29,0.4298023429618303,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Lamar
+15,1,7:16,2236,2236,Megan Valdez-Crader missed Layup.,2,5,-3,2,0.42882797906493575,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+16,1,7:14,2234,2234,Marilyn Nzoiwu Offensive Rebound.,2,5,-3,2,0.42876045509782373,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+17,1,7:12,2232,2232,Marilyn Nzoiwu made Layup.,4,5,-1,13,0.4760860834024592,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Houston Baptist
+18,1,6:59,2219,2219,Malay McQueen missed Jumper.,4,5,-1,0,0.47593667802322864,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+19,1,6:59,2219,2219,Marilyn Nzoiwu Block.,4,5,-1,0,0.47593667802322864,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+20,1,6:59,2219,2219,Lamar Offensive Rebound.,4,5,-1,13,0.47593667802322864,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+21,1,6:46,2206,2206,Angel Hastings missed Jumper.,4,5,-1,6,0.4757867509350248,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+22,1,6:40,2200,2200,Marilyn Nzoiwu Defensive Rebound.,4,5,-1,9,0.4757173938657539,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+23,1,6:31,2191,2191,Marilyn Nzoiwu Turnover.,4,5,-1,23,0.4756131854327252,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+24,1,6:08,2168,2168,Jadyn Pimentel made Jumper.,4,7,-3,24,0.4265142055072612,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Lamar
+25,1,5:44,2144,2144,Abbey Sutherland missed Jumper.,4,7,-3,3,0.4256890771561222,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+26,1,5:41,2141,2141,Angel Hastings Defensive Rebound.,4,7,-3,5,0.42558548116383255,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+27,1,5:36,2136,2136,Angel Hastings made Layup.,4,9,-5,14,0.3773085313601949,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Lamar
+28,1,5:22,2122,2122,Foul on Angel Hastings.,4,9,-5,0,0.37653063115692414,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+29,1,5:22,2122,2122,Megan Valdez-Crader made Free Throw.,5,9,-4,0,0.4004860791695032,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Houston Baptist
+30,1,5:22,2122,2122,Megan Valdez-Crader made Free Throw.,6,9,-3,14,0.42492686781206146,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Houston Baptist
+31,1,5:08,2108,2108,Angel Hastings made Layup.,6,11,-5,21,0.3757491645412554,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Lamar
+32,1,4:47,2087,2087,Kennedy Wilson missed Three Point Jumper.,6,11,-5,4,0.3745698260495475,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+33,1,4:43,2083,2083,Ashlan Miles Defensive Rebound.,6,11,-5,3,0.37434417021813476,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+34,1,4:40,2080,2080,Official TV Timeout,6,11,-5,20,0.37417470684268095,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+35,1,4:20,2060,2060,Jadyn Pimentel missed Jumper.,6,11,-5,4,0.3730399451158912,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+36,1,4:16,2056,2056,Julija Vujakovic Defensive Rebound.,6,11,-5,21,0.37281191601892333,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+37,1,3:55,2035,2035,Kennedy Wilson missed Layup.,6,11,-5,4,0.3716085839055157,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+38,1,3:51,2031,2031,Briana Laidler Defensive Rebound.,6,11,-5,8,0.37137816521728206,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+39,1,3:43,2023,2023,Jadyn Pimentel made Jumper.,6,13,-7,10,0.32309072458994703,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Lamar
+40,1,3:33,2013,2013,Kennedy Wilson missed Layup.,6,13,-7,0,0.32233006754087934,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+41,1,3:33,2013,2013,Jadyn Pimentel Block.,6,13,-7,2,0.32233006754087934,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+42,1,3:31,2011,2011,Houston Baptist Offensive Rebound.,6,13,-7,7,0.3221775797509675,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+43,1,3:24,2004,2004,Foul on Amber Vidal.,6,13,-7,0,0.3216429195735698,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+44,1,3:24,2004,2004,Julija Vujakovic missed Free Throw.,6,13,-7,0,0.3216429195735698,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+45,1,3:24,2004,2004,Houston Baptist Offensive Rebound.,6,13,-7,0,0.3216429195735698,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+46,1,3:24,2004,2004,Julija Vujakovic made Free Throw.,7,13,-6,13,0.345330797121401,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Houston Baptist
+47,1,3:11,1991,1991,Amber Vidal missed Jumper.,7,13,-6,0,0.34444518205811314,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+48,1,3:11,1991,1991,Kennedy Wilson Block.,7,13,-6,4,0.34444518205811314,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+49,1,3:07,1987,1987,Abbey Sutherland Defensive Rebound.,7,13,-6,14,0.34417165610176115,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+50,1,2:53,1973,1973,N'Denasija Collins Turnover.,7,13,-6,0,0.34321039751140436,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+51,1,2:53,1973,1973,Malay McQueen Steal.,7,13,-6,8,0.34321039751140436,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+52,1,2:45,1965,1965,Malay McQueen Turnover.,7,13,-6,0,0.34265830992095797,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+53,1,2:45,1965,1965,Abbey Sutherland Steal.,7,13,-6,5,0.34265830992095797,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+54,1,2:40,1960,1960,Kennedy Wilson made Jumper.,9,13,-4,37,0.39285236259980805,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Houston Baptist
+55,1,2:03,1923,1923,Malay McQueen missed Three Point Jumper.,9,13,-4,3,0.3910239557885958,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+56,1,2:00,1920,1920,Megan Valdez-Crader Defensive Rebound.,9,13,-4,2,0.390874974500516,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+57,1,1:58,1918,1918,Foul on Kayla Mitchell.,9,13,-4,14,0.3907757004918583,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+58,1,1:44,1904,1904,Julija Vujakovic made Three Point Jumper. Assisted by Megan Valdez-Crader.,12,13,-1,18,0.47209346027667076,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Houston Baptist
+59,1,1:26,1886,1886,Briana Laidler missed Three Point Jumper.,12,13,-1,6,0.47185998586772737,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+60,1,1:20,1880,1880,N'Denasija Collins Defensive Rebound.,12,13,-1,15,0.4717821281327981,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+61,1,1:05,1865,1865,Megan Valdez-Crader missed Layup.,12,13,-1,1,0.4715872527827407,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+62,1,1:04,1864,1864,N'Denasija Collins Offensive Rebound.,12,13,-1,0,0.4715742448042418,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+63,1,1:04,1864,1864,Foul on Briana Laidler.,12,13,-1,3,0.4715742448042418,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+64,1,1:01,1861,1861,N'Denasija Collins missed Free Throw.,12,13,-1,0,0.4715352057025124,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+65,1,1:01,1861,1861,Houston Baptist Offensive Rebound.,12,13,-1,0,0.4715352057025124,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+66,1,1:01,1861,1861,N'Denasija Collins made Free Throw.,13,13,0,14,0.5,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Houston Baptist
+67,1,0:47,1847,1847,Angel Hastings made Jumper. Assisted by Ashlan Miles.,13,15,-2,33,0.4428927986165797,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Lamar
+68,1,0:14,1814,1814,Julija Vujakovic made Three Point Jumper. Assisted by Megan Valdez-Crader.,16,15,1,13,0.5290809272471098,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Houston Baptist
+69,1,0:01,1801,1801,Ashlan Miles Turnover.,16,15,1,0,0.5292534828865595,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+70,1,0:01,1801,1801,Megan Valdez-Crader Steal.,16,15,1,1,0.5292534828865595,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+71,1,0:00,1800,1800,End of 1st Quarter,16,15,1,6,0.5292668057759684,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+72,2,9:54,1794,1794,Briana Laidler made Jumper. Assisted by Jadyn Pimentel.,16,17,-1,19,0.47065309789275517,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Lamar
+73,2,9:35,1775,1775,Patience Idoko made Layup.,18,17,1,20,0.52960249827348,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Houston Baptist
+74,2,9:15,1755,1755,Foul on Abbey Sutherland.,18,17,1,0,0.5298752153615465,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+75,2,9:15,1755,1755,Briana Laidler missed Free Throw.,18,17,1,0,0.5298752153615465,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+76,2,9:15,1755,1755,Lamar Offensive Rebound.,18,17,1,0,0.5298752153615465,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+77,2,9:15,1755,1755,Briana Laidler made Free Throw.,18,18,0,27,0.5,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Lamar
+78,2,8:48,1728,1728,Patience Idoko made Jumper. Assisted by Megan Valdez-Crader.,20,18,2,23,0.5602802207214562,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Houston Baptist
+79,2,8:25,1705,1705,Umaja Collins Turnover.,20,18,2,0,0.5609271234687757,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+80,2,8:25,1705,1705,Julija Vujakovic Steal.,20,18,2,5,0.5609271234687757,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+81,2,8:20,1700,1700,Julija Vujakovic made Layup.,22,18,4,10,0.6203441393666596,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Houston Baptist
+82,2,8:10,1690,1690,Angel Hastings made Three Point Jumper.,22,21,1,22,0.5307949536065145,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Lamar
+83,2,7:48,1668,1668,Patience Idoko made Jumper.,24,21,3,15,0.5923809555366459,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Houston Baptist
+84,2,7:33,1653,1653,Jadyn Pimentel Turnover.,24,21,3,0,0.5929930298549655,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+85,2,7:33,1653,1653,Megan Valdez-Crader Steal.,24,21,3,5,0.5929930298549655,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+86,2,7:28,1648,1648,Megan Valdez-Crader made Layup.,26,21,5,0,0.6521827882934683,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Houston Baptist
+87,2,7:28,1648,1648,Foul on Jadyn Pimentel.,26,21,5,0,0.6521827882934683,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+88,2,7:28,1648,1648,Megan Valdez-Crader missed Free Throw.,26,21,5,2,0.6521827882934683,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+89,2,7:26,1646,1646,Briana Laidler Defensive Rebound.,26,21,5,18,0.6523088524925122,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+90,2,7:08,1628,1628,Angel Hastings missed Three Point Jumper.,26,21,5,4,0.6534340268295901,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+91,2,7:04,1624,1624,Patience Idoko Defensive Rebound.,26,21,5,22,0.6536822099297468,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+92,2,6:42,1602,1602,Timia Jefferson missed Three Point Jumper.,26,21,5,3,0.6550404139332007,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+93,2,6:39,1599,1599,Julija Vujakovic Offensive Rebound.,26,21,5,2,0.6552251842263535,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+94,2,6:37,1597,1597,Timia Jefferson Turnover.,26,21,5,0,0.65534836188932,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+95,2,6:37,1597,1597,Ashlan Miles Steal.,26,21,5,4,0.65534836188932,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+96,2,6:33,1593,1593,Foul on Julija Vujakovic.,26,21,5,6,0.6555947558573074,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+97,2,6:27,1587,1587,Kayla Mitchell missed Jumper.,26,21,5,2,0.6559645922904116,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+98,2,6:25,1585,1585,Abbey Sutherland Defensive Rebound.,26,21,5,23,0.6560879762157026,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+99,2,6:02,1562,1562,Patience Idoko missed Jumper.,26,21,5,3,0.6575143390056941,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+100,2,5:59,1559,1559,Ashlan Miles Defensive Rebound.,26,21,5,7,0.6577018449432936,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+101,2,5:52,1552,1552,Kayla Mitchell missed Layup.,26,21,5,3,0.6581411405077361,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+102,2,5:49,1549,1549,Amber Vidal Offensive Rebound.,26,21,5,10,0.6583302531657537,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+103,2,5:39,1539,1539,Angel Hastings missed Three Point Jumper.,26,21,5,3,0.6589648113665952,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+104,2,5:36,1536,1536,Ashlan Miles Offensive Rebound.,26,21,5,1,0.6591565603320823,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+105,2,5:35,1535,1535,Ashlan Miles missed Layup.,26,21,5,3,0.6592206296984441,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+106,2,5:32,1532,1532,Abbey Sutherland Defensive Rebound.,26,21,5,5,0.6594133139296061,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+107,2,5:27,1527,1527,Timia Jefferson missed Jumper.,26,21,5,4,0.6597361141830707,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+108,2,5:23,1523,1523,Angel Hastings Defensive Rebound.,26,21,5,2,0.6599959354631356,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+109,2,5:21,1521,1521,Amber Vidal missed Layup.,26,21,5,0,0.660126399732964,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+110,2,5:21,1521,1521,Julija Vujakovic Block.,26,21,5,5,0.660126399732964,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+111,2,5:16,1516,1516,Timia Jefferson Defensive Rebound.,26,21,5,4,0.6604542526236019,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+112,2,5:12,1512,1512,Megan Valdez-Crader missed Three Point Jumper.,26,21,5,3,0.6607183550468859,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+113,2,5:09,1509,1509,Patience Idoko Offensive Rebound.,26,21,5,12,0.6609175441371675,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+114,2,4:57,1497,1497,Patience Idoko made Layup. Assisted by Julija Vujakovic.,28,21,7,3,0.7189752579831169,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Houston Baptist
+115,2,4:54,1494,1494,Official TV Timeout,28,21,7,23,0.7192335962910029,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+116,2,4:31,1471,1471,Malay McQueen missed Three Point Jumper.,28,21,7,5,0.7212631018181269,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+117,2,4:26,1466,1466,Briana Laidler Offensive Rebound.,28,21,7,0,0.7217167930691798,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+118,2,4:26,1466,1466,Briana Laidler made Layup.,28,23,5,0,0.6638970612946437,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Lamar
+119,2,4:26,1466,1466,Foul on Abbey Sutherland.,28,23,5,0,0.6638970612946437,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+120,2,4:26,1466,1466,Briana Laidler made Free Throw.,28,24,4,15,0.6328743410874906,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Lamar
+121,2,4:11,1451,1451,Foul on Jadyn Pimentel.,28,24,4,0,0.6337947476519342,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+122,2,4:11,1451,1451,Kennedy Wilson made Three Point Jumper.,31,24,7,11,0.7231077044537898,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Houston Baptist
+123,2,4:00,1440,1440,Angel Hastings made Jumper.,31,26,5,23,0.6658190068174223,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Lamar
+124,2,3:37,1417,1417,Patience Idoko made Layup. Assisted by Kennedy Wilson.,33,26,7,0,0.7262067784016701,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Houston Baptist
+125,2,3:37,1417,1417,Foul on Ashlan Miles.,33,26,7,0,0.7262067784016701,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+126,2,3:37,1417,1417,Patience Idoko made Free Throw.,34,26,8,30,0.7530253698795969,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Houston Baptist
+127,2,3:07,1387,1387,Kayla Mitchell missed Jumper.,34,26,8,3,0.7557916522608676,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+128,2,3:04,1384,1384,Patience Idoko Defensive Rebound.,34,26,8,13,0.7560633626239566,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+129,2,2:51,1371,1371,Kennedy Wilson missed Jumper.,34,26,8,3,0.7572351444279011,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+130,2,2:48,1368,1368,Malay McQueen Defensive Rebound.,34,26,8,10,0.7575046992377154,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+131,2,2:38,1358,1358,Malay McQueen Turnover.,34,26,8,18,0.7584025251333275,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+132,2,2:20,1340,1340,Taylor Kollmorgen made Jumper.,36,26,10,16,0.8086109516123601,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Houston Baptist
+133,2,2:04,1324,1324,Ashlan Miles missed Three Point Jumper.,36,26,10,4,0.8101549539844576,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+134,2,2:00,1320,1320,Megan Valdez-Crader Defensive Rebound.,36,26,10,15,0.8105445170873646,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+135,2,1:45,1305,1305,Megan Valdez-Crader missed Three Point Jumper.,36,26,10,3,0.812022820826896,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+136,2,1:42,1302,1302,Briana Laidler Defensive Rebound.,36,26,10,7,0.8123223427035897,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+137,2,1:35,1295,1295,Malay McQueen missed Jumper.,36,26,10,3,0.8130270407028751,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+138,2,1:32,1292,1292,Ashlan Miles Offensive Rebound.,36,26,10,1,0.8133317234161501,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+139,2,1:31,1291,1291,Ashlan Miles missed Jumper.,36,26,10,4,0.8134336601362532,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+140,2,1:27,1287,1287,Taylor Kollmorgen Defensive Rebound.,36,26,10,12,0.8138433579402603,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+141,2,1:15,1275,1275,Kennedy Wilson missed Layup.,36,26,10,3,0.8150926302685781,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+142,2,1:12,1272,1272,Briana Laidler Defensive Rebound.,36,26,10,5,0.8154100534429398,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+143,2,1:07,1267,1267,Malay McQueen Turnover.,36,26,10,0,0.8159439766049043,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+144,2,1:07,1267,1267,Timia Jefferson Steal.,36,26,10,32,0.8159439766049043,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+145,2,0:35,1235,1235,Megan Valdez-Crader missed Jumper.,36,26,10,0,0.8195255341047807,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+146,2,0:35,1235,1235,Ashlan Miles Defensive Rebound.,36,26,10,4,0.8195255341047807,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+147,2,0:31,1231,1231,Angel Hastings missed Layup.,36,26,10,3,0.8199956323145599,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+148,2,0:28,1228,1228,Briana Laidler Offensive Rebound.,36,26,10,1,0.8203517956950561,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+149,2,0:27,1227,1227,Briana Laidler missed Jumper.,36,26,10,0,0.8204712127773868,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+150,2,0:27,1227,1227,Lamar Offensive Rebound.,36,26,10,0,0.8204712127773868,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+151,2,0:27,1227,1227,Foul on Kennedy Wilson.,36,26,10,24,0.8204712127773868,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+152,2,0:03,1203,1203,Angel Hastings made Jumper.,36,28,8,3,0.7741347727953571,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,Lamar
+153,2,0:00,1200,1200,End of 2nd Quarter,36,28,8,10,0.774489981219977,Houston Baptist,Lamar,4,4,0,0,NA,401179444,2020-02-15,
+154,3,9:50,1190,1190,Jadyn Pimentel Turnover.,36,28,8,0,0.7756565279505574,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+155,3,9:50,1190,1190,Julija Vujakovic Steal.,36,28,8,22,0.7756565279505574,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+156,3,9:28,1168,1168,Megan Valdez-Crader made Jumper.,38,28,10,16,0.8275852684461429,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,Houston Baptist
+157,3,9:12,1152,1152,Angel Hastings missed Jumper.,38,28,10,0,0.8294025208870351,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+158,3,9:12,1152,1152,Abbey Sutherland Block.,38,28,10,9,0.8294025208870351,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+159,3,9:03,1143,1143,Julija Vujakovic Defensive Rebound.,38,28,10,20,0.8304111775024475,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+160,3,8:43,1123,1123,Julija Vujakovic made Jumper.,40,28,12,16,0.8727282552231267,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,Houston Baptist
+161,3,8:27,1107,1107,Foul on Abbey Sutherland.,40,28,12,0,0.8744258401105275,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+162,3,8:27,1107,1107,Briana Laidler missed Free Throw.,40,28,12,0,0.8744258401105275,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+163,3,8:27,1107,1107,Lamar Offensive Rebound.,40,28,12,0,0.8744258401105275,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+164,3,8:27,1107,1107,Briana Laidler made Free Throw.,40,29,11,23,0.8555669668222937,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,Lamar
+165,3,8:04,1084,1084,Megan Valdez-Crader missed Jumper.,40,29,11,6,0.8581074765651432,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+166,3,7:58,1078,1078,Briana Laidler Defensive Rebound.,40,29,11,3,0.8587795428697196,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+167,3,7:55,1075,1075,Jadyn Pimentel missed Layup.,40,29,11,4,0.8591174996574241,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+168,3,7:51,1071,1071,Briana Laidler Offensive Rebound.,40,29,11,5,0.8595702989359008,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+169,3,7:46,1066,1066,Jadyn Pimentel missed Three Point Jumper.,40,29,11,4,0.8601401036546443,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+170,3,7:42,1062,1062,Megan Valdez-Crader Defensive Rebound.,40,29,11,5,0.860599236172686,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+171,3,7:37,1057,1057,Julija Vujakovic missed Three Point Jumper.,40,29,11,4,0.8611775864845104,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+172,3,7:33,1053,1053,Patience Idoko Offensive Rebound.,40,29,11,0,0.8616440511262685,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+173,3,7:33,1053,1053,Foul on Jadyn Pimentel.,40,29,11,0,0.8616440511262685,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+174,3,7:33,1053,1053,Patience Idoko made Free Throw.,41,29,12,0,0.8803012928738977,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,Houston Baptist
+175,3,7:33,1053,1053,Patience Idoko made Free Throw.,42,29,13,12,0.8967441110687503,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,Houston Baptist
+176,3,7:21,1041,1041,Briana Laidler Turnover.,42,29,13,11,0.8980473356735367,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+177,3,7:10,1030,1030,Patience Idoko Turnover.,42,29,13,10,0.8992686809470198,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+178,3,7:00,1020,1020,Angel Hastings missed Jumper.,42,29,13,3,0.9004038826476578,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+179,3,6:57,1017,1017,Timia Jefferson Defensive Rebound.,42,29,13,4,0.9007494106532907,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+180,3,6:53,1013,1013,Patience Idoko missed Layup.,42,29,13,3,0.9012138485035024,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+181,3,6:50,1010,1010,Patience Idoko Offensive Rebound.,42,29,13,3,0.901565048467148,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+182,3,6:47,1007,1007,Timia Jefferson made Layup. Assisted by Patience Idoko.,44,29,15,0,0.9282472052007551,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,Houston Baptist
+183,3,6:47,1007,1007,Foul on Amber Vidal.,44,29,15,0,0.9282472052007551,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+184,3,6:47,1007,1007,Timia Jefferson made Free Throw.,45,29,16,15,0.9388165115306649,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,Houston Baptist
+185,3,6:32,992,992,Amber Vidal missed Jumper.,45,29,16,1,0.9402574694563439,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+186,3,6:31,991,991,Lamar Offensive Rebound.,45,29,16,9,0.9403551768020976,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+187,3,6:22,982,982,Foul on Marilyn Nzoiwu.,45,29,16,4,0.9412441684811081,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+188,3,6:18,978,978,Kayla Mitchell missed Jumper.,45,29,16,3,0.9416449456033487,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+189,3,6:15,975,975,Taylor Kollmorgen Defensive Rebound.,45,29,16,27,0.9419478639665705,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+190,3,5:48,948,948,Megan Valdez-Crader made Jumper.,47,29,18,15,0.9604332624525165,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,Houston Baptist
+191,3,5:33,933,933,Ashlan Miles missed Three Point Jumper.,47,29,18,3,0.9614550261535431,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+192,3,5:30,930,930,Taylor Kollmorgen Defensive Rebound.,47,29,18,15,0.9616484367990136,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+193,3,5:15,915,915,Timia Jefferson missed Three Point Jumper.,47,29,18,4,0.9625708438891329,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+194,3,5:11,911,911,Briana Laidler Defensive Rebound.,47,29,18,4,0.9628060333711529,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+195,3,5:07,907,907,Angel Hastings Turnover.,47,29,18,0,0.9630374353391434,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+196,3,5:07,907,907,Lamar  Turnover.,47,29,18,16,0.9630374353391434,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+197,3,4:51,891,891,Timia Jefferson Turnover.,47,29,18,0,0.9639325977728583,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+198,3,4:51,891,891,Ashlan Miles Steal.,47,29,18,6,0.9639325977728583,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+199,3,4:45,885,885,Jadyn Pimentel missed Layup.,47,29,18,3,0.9642589059961714,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+200,3,4:42,882,882,Taylor Kollmorgen Defensive Rebound.,47,29,18,5,0.9644207423171429,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+201,3,4:37,877,877,Julija Vujakovic Turnover.,47,29,18,0,0.9646889944390857,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+202,3,4:37,877,877,Jadyn Pimentel Steal.,47,29,18,10,0.9646889944390857,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+203,3,4:27,867,867,Briana Laidler made Layup. Assisted by Ashlan Miles.,47,31,16,20,0.9504575899683763,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,Lamar
+204,3,4:07,847,847,Patience Idoko missed Jumper.,47,31,16,0,0.951793917190111,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+205,3,4:07,847,847,Ashlan Miles Block.,47,31,16,0,0.951793917190111,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+206,3,4:07,847,847,Houston Baptist Offensive Rebound.,47,31,16,0,0.951793917190111,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+207,3,4:07,847,847,Official TV Timeout,47,31,16,0,0.951793917190111,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+208,3,4:07,847,847,Official TV Timeout,47,31,16,12,0.951793917190111,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+209,3,3:55,835,835,Megan Valdez-Crader missed Jumper.,47,31,16,3,0.9526155503062972,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+210,3,3:52,832,832,Amber Vidal Defensive Rebound.,47,31,16,5,0.9528246257241669,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+211,3,3:47,827,827,Amber Vidal missed Layup.,47,31,16,3,0.9531769823413058,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+212,3,3:44,824,824,Ashlan Miles Offensive Rebound.,47,31,16,10,0.9533909366382654,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+213,3,3:34,814,814,Ashlan Miles missed Three Point Jumper.,47,31,16,3,0.9541195925542291,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+214,3,3:31,811,811,Taylor Kollmorgen Defensive Rebound.,47,31,16,20,0.9543432688266467,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+215,3,3:11,791,791,Timia Jefferson Turnover.,47,31,16,0,0.9559040925592337,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+216,3,3:11,791,791,Amber Vidal Steal.,47,31,16,0,0.9559040925592337,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+217,3,3:11,791,791,Amber Vidal Turnover.,47,31,16,0,0.9559040925592337,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+218,3,3:11,791,791,Timia Jefferson Steal.,47,31,16,7,0.9559040925592337,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+219,3,3:04,784,784,Megan Valdez-Crader missed Layup.,47,31,16,3,0.9564822393723104,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+220,3,3:01,781,781,Angel Hastings Defensive Rebound.,47,31,16,2,0.9567355331568997,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+221,3,2:59,779,779,Angel Hastings Turnover.,47,31,16,17,0.9569062883731141,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+222,3,2:42,762,762,Foul on Malay McQueen.,47,31,16,0,0.9584216023486896,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+223,3,2:42,762,762,Patience Idoko made Free Throw.,48,31,17,0,0.9655707775038629,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,Houston Baptist
+224,3,2:42,762,762,Patience Idoko made Free Throw.,49,31,18,17,0.9715272104819658,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,Houston Baptist
+225,3,2:25,745,745,Foul on Patience Idoko.,49,31,18,0,0.9728009637907156,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+226,3,2:25,745,745,Ashlan Miles missed Free Throw.,49,31,18,0,0.9728009637907156,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+227,3,2:25,745,745,Lamar Offensive Rebound.,49,31,18,0,0.9728009637907156,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+228,3,2:25,745,745,Ashlan Miles missed Free Throw.,49,31,18,2,0.9728009637907156,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+229,3,2:23,743,743,Julija Vujakovic Defensive Rebound.,49,31,18,2,0.9729566906849145,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+230,3,2:21,741,741,Foul on Angel Hastings.,49,31,18,19,0.973113658508386,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+231,3,2:02,722,722,Foul on Briana Laidler.,49,31,18,0,0.974628831783523,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+232,3,2:02,722,722,Julija Vujakovic made Free Throw.,50,31,19,0,0.9791867909730997,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,Houston Baptist
+233,3,2:02,722,722,Julija Vujakovic made Free Throw.,51,31,20,11,0.9829402405161018,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,Houston Baptist
+234,3,1:51,711,711,Briana Laidler Turnover.,51,31,20,24,0.9835311308258302,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+235,3,1:27,687,687,Julija Vujakovic missed Three Point Jumper.,51,31,20,3,0.9846341438711875,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+236,3,1:24,684,684,Malay McQueen Defensive Rebound.,51,31,20,3,0.9847589440912567,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+237,3,1:21,681,681,Malay McQueen missed Jumper.,51,31,20,3,0.9848816038414236,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+238,3,1:18,678,678,Taylor Kollmorgen Defensive Rebound.,51,31,20,5,0.9850023338234137,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+239,3,1:13,673,673,Kennedy Wilson missed Jumper.,51,31,20,3,0.9851998147842762,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+240,3,1:10,670,670,Taylor Kollmorgen Offensive Rebound.,51,31,20,2,0.9853163822829121,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+241,3,1:08,668,668,Taylor Kollmorgen missed Jumper.,51,31,20,3,0.985393410995774,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+242,3,1:05,665,665,Patience Idoko Offensive Rebound.,51,31,20,24,0.9855080661588106,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+243,3,0:41,641,641,Patience Idoko missed Layup.,51,31,20,2,0.9864066885910023,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+244,3,0:39,639,639,Houston Baptist Offensive Rebound.,51,31,20,16,0.9864815396602273,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+245,3,0:23,623,623,Kennedy Wilson missed Three Point Jumper.,51,31,20,3,0.9870904408886036,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+246,3,0:20,620,620,Umaja Collins Defensive Rebound.,51,31,20,8,0.987207481214916,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+247,3,0:12,612,612,Amber Vidal made Three Point Jumper.,51,34,17,11,0.9762420385805655,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,Lamar
+248,3,0:01,601,601,Patience Idoko missed Jumper.,51,34,17,0,0.9769709006805242,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+249,3,0:01,601,601,Lamar Defensive Rebound.,51,34,17,1,0.9769709006805242,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+250,3,0:00,600,600,End of 3rd Quarter,51,34,17,9,0.9770391102371526,Houston Baptist,Lamar,5,5,0,0,NA,401179444,2020-02-15,
+251,4,9:51,591,591,Jadyn Pimentel made Jumper.,51,36,15,3,0.9655963482166673,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Lamar
+252,4,9:48,588,588,Foul on Jadyn Pimentel.,51,36,15,0,0.9658873892613273,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+253,4,9:48,588,588,Julija Vujakovic made Free Throw.,52,36,16,0,0.9725157225092688,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Houston Baptist
+254,4,9:48,588,588,Julija Vujakovic missed Free Throw.,52,36,16,0,0.9725157225092688,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+255,4,9:48,588,588,Houston Baptist Offensive Rebound.,52,36,16,11,0.9725157225092688,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+256,4,9:37,577,577,Foul on Megan Valdez-Crader.,52,36,16,0,0.973476220390078,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+257,4,9:37,577,577,Megan Valdez-Crader Turnover.,52,36,16,15,0.973476220390078,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+258,4,9:22,562,562,Briana Laidler made Layup. Assisted by Angel Hastings.,52,38,14,17,0.960888961269175,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Lamar
+259,4,9:05,545,545,Julija Vujakovic made Three Point Jumper. Assisted by Megan Valdez-Crader.,55,38,17,18,0.9813694256113595,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Houston Baptist
+260,4,8:47,527,527,Angel Hastings Turnover.,55,38,17,0,0.9826529407911924,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+261,4,8:47,527,527,Patience Idoko Steal.,55,38,17,24,0.9826529407911924,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+262,4,8:23,503,503,Taylor Kollmorgen made Jumper. Assisted by Megan Valdez-Crader.,57,38,19,21,0.990098381017356,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Houston Baptist
+263,4,8:02,482,482,Foul on Abbey Sutherland.,57,38,19,10,0.990874507764237,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+264,4,7:52,472,472,Amber Vidal missed Jumper.,57,38,19,3,0.9912613679806644,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+265,4,7:49,469,469,Taylor Kollmorgen Defensive Rebound.,57,38,19,14,0.9913818359878469,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+266,4,7:35,455,455,Megan Valdez-Crader missed Layup.,57,38,19,0,0.9919787173886732,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+267,4,7:35,455,455,Malay McQueen Block.,57,38,19,4,0.9919787173886732,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+268,4,7:31,451,451,Malay McQueen Defensive Rebound.,57,38,19,2,0.9921610688615075,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+269,4,7:29,449,449,Malay McQueen made Layup.,57,40,17,32,0.9871569076373123,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Lamar
+270,4,6:57,417,417,Julija Vujakovic made Layup.,59,40,19,15,0.9938471525624342,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Houston Baptist
+271,4,6:42,402,402,Angel Hastings Turnover.,59,40,19,0,0.9944634789140417,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+272,4,6:42,402,402,Julija Vujakovic Steal.,59,40,19,6,0.9944634789140417,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+273,4,6:36,396,396,Megan Valdez-Crader made Layup. Assisted by Kennedy Wilson.,61,40,21,15,0.9969301820345372,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Houston Baptist
+274,4,6:21,381,381,Amber Vidal missed Layup.,61,40,21,1,0.9972648403555845,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+275,4,6:20,380,380,Houston Baptist Defensive Rebound.,61,40,21,4,0.9972863134059982,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+276,4,6:16,376,376,Kennedy Wilson made Layup. Assisted by Megan Valdez-Crader.,63,40,23,4,0.9985052613560078,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Houston Baptist
+277,4,6:12,372,372,Foul on Julija Vujakovic.,63,40,23,10,0.9985577474343585,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+278,4,6:02,362,362,Jadyn Pimentel missed Jumper.,63,40,23,5,0.9986867311503397,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+279,4,5:57,357,357,Umaja Collins Offensive Rebound.,63,40,23,1,0.9987504176673384,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+280,4,5:56,356,356,Umaja Collins missed Layup.,63,40,23,0,0.9987631090059469,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+281,4,5:56,356,356,Marilyn Nzoiwu Block.,63,40,23,5,0.9987631090059469,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+282,4,5:51,351,351,Amber Vidal Offensive Rebound.,63,40,23,3,0.9988263723152895,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+283,4,5:48,348,348,Foul on Julija Vujakovic.,63,40,23,10,0.9988641881745414,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+284,4,5:38,338,338,Jadyn Pimentel Turnover.,63,40,23,0,0.9989894505194239,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+285,4,5:38,338,338,Kennedy Wilson Steal.,63,40,23,2,0.9989894505194239,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+286,4,5:36,336,336,Foul on Jadyn Pimentel.,63,40,23,1,0.999014329867124,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+287,4,5:35,335,335,Timia Jefferson Turnover.,63,40,23,0,0.9990267430150881,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+288,4,5:35,335,335,Amber Vidal Steal.,63,40,23,9,0.9990267430150881,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+289,4,5:26,326,326,Angel Hastings made Three Point Jumper. Assisted by Amber Vidal.,63,43,20,24,0.997838055641679,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Lamar
+290,4,5:02,302,302,Marilyn Nzoiwu made Layup. Assisted by Taylor Kollmorgen.,65,43,22,26,0.9991650194446449,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Houston Baptist
+291,4,4:36,276,276,Angel Hastings made Three Point Jumper.,65,46,19,20,0.9978590898003039,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Lamar
+292,4,4:16,256,256,Taylor Kollmorgen made Three Point Jumper. Assisted by Megan Valdez-Crader.,68,46,22,19,0.9990784288360948,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Houston Baptist
+293,4,3:57,237,237,Foul on Julija Vujakovic.,68,46,22,0,0.9990057266985939,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+294,4,3:57,237,237,Angel Hastings made Free Throw.,68,47,21,0,0.9986391703306285,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Lamar
+295,4,3:57,237,237,Angel Hastings made Free Throw.,68,48,20,21,0.9981377284133782,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Lamar
+296,4,3:36,216,216,Foul on Timia Jefferson.,68,48,20,0,0.9983528166889688,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+297,4,3:36,216,216,Timia Jefferson Turnover.,68,48,20,19,0.9983528166889688,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+298,4,3:17,197,197,Foul on Megan Valdez-Crader.,68,48,20,0,0.9989265888624694,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+299,4,3:17,197,197,Amber Vidal made Free Throw.,68,49,19,0,0.998489869216217,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Lamar
+300,4,3:17,197,197,Amber Vidal made Free Throw.,68,50,18,34,0.9978758470617426,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Lamar
+301,4,2:43,163,163,Megan Valdez-Crader missed Jumper.,68,50,18,4,0.9994092093055216,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+302,4,2:39,159,159,Houston Baptist Offensive Rebound.,68,50,18,0,0.9994999202403193,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+303,4,2:39,159,159,Houston Baptist  Turnover.,68,50,18,6,0.9994999202403193,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+304,4,2:33,153,153,Angel Hastings missed Layup.,68,50,18,0,0.9996140451568863,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+305,4,2:33,153,153,Marilyn Nzoiwu Block.,68,50,18,4,0.9996140451568863,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+306,4,2:29,149,149,Marilyn Nzoiwu Defensive Rebound.,68,50,18,2,0.9996774756626028,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+307,4,2:27,147,147,Kennedy Wilson made Layup. Assisted by Megan Valdez-Crader.,70,50,20,15,0.9998807931100326,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Houston Baptist
+308,4,2:12,132,132,Malay McQueen made Three Point Jumper. Assisted by Amber Vidal.,70,53,17,19,0.9997716892338274,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Lamar
+309,4,1:53,113,113,Julija Vujakovic made Layup.,72,53,19,19,0.9999739777545634,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Houston Baptist
+310,4,1:34,94,94,Briana Laidler made Layup.,72,55,17,27,0.9999784945711367,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Lamar
+311,4,1:07,67,67,Marilyn Nzoiwu Turnover.,72,55,17,8,0.9999975520925213,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+312,4,0:59,59,59,Amber Vidal missed Layup.,72,55,17,0,0.9999988030347333,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+313,4,0:59,59,59,Marilyn Nzoiwu Block.,72,55,17,0,0.9999988030347333,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+314,4,0:59,59,59,Lamar Offensive Rebound.,72,55,17,2,0.9999988030347333,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+315,4,0:57,57,57,Amber Vidal Turnover.,72,55,17,0,0.9999990036597745,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+316,4,0:57,57,57,Taylor Kollmorgen Steal.,72,55,17,7,0.9999990036597745,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+317,4,0:50,50,50,Taylor Kollmorgen missed Jumper.,72,55,17,0,0.9999994841745935,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+318,4,0:50,50,50,Malay McQueen Defensive Rebound.,72,55,17,0,0.9999994841745935,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+319,4,0:50,50,50,Foul on Julija Vujakovic.,72,55,17,0,0.9999994841745935,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+320,4,0:50,50,50,Malay McQueen missed Free Throw.,72,55,17,0,0.9999994841745935,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+321,4,0:50,50,50,Lamar Offensive Rebound.,72,55,17,0,0.9999994841745935,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+322,4,0:50,50,50,Malay McQueen made Free Throw.,72,56,16,20,0.9999987911979283,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Lamar
+323,4,0:30,30,30,Foul on Amber Vidal.,72,56,16,2,0.9999998220518439,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+324,4,0:28,28,28,Foul on Ashlan Miles.,72,56,16,6,0.999999854616696,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+325,4,0:22,22,22,Taylor Kollmorgen missed Jumper.,72,56,16,4,0.9999999214216816,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+326,4,0:18,18,18,Taylor Kollmorgen Offensive Rebound.,72,56,16,1,0.9999999485211375,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+327,4,0:17,17,17,Taylor Kollmorgen missed Jumper.,72,56,16,0,0.9999999537787333,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+328,4,0:17,17,17,Briana Laidler Block.,72,56,16,4,0.9999999537787333,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+329,4,0:13,13,13,Briana Laidler Defensive Rebound.,72,56,16,4,0.999999970178479,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+330,4,0:09,9,9,Ashlan Miles missed Layup.,72,56,16,0,0.9999999809605932,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+331,4,0:09,9,9,Marilyn Nzoiwu Block.,72,56,16,5,0.9999999809605932,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+332,4,0:04,4,4,Ashlan Miles Offensive Rebound.,72,56,16,3,0.9999999892687587,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+333,4,0:01,1,1,Angel Hastings made Three Point Jumper.,72,59,13,1,0.99999974789899,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Lamar
+334,4,0:00,0,0,End of 4th Quarter,72,56,16,0,1,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,
+335,4,0:00,0,0,End of Game,72,59,13,0,1,Houston Baptist,Lamar,6,6,0,0,NA,401179444,2020-02-15,Lamar

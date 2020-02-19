@@ -1,0 +1,400 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:48,2388,2388,Foul on Victoria Miller.,0,0,0,12,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,NA
+2,1,9:36,2376,2376,Celeste Taylor missed Three Point Jumper.,0,0,0,5,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+3,1,9:31,2371,2371,Jada Underwood Offensive Rebound.,0,0,0,0,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+4,1,9:31,2371,2371,Jada Underwood made Layup.,2,0,2,28,0.5446393791777019,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Texas
+5,1,9:03,2343,2343,Jasmyn Johnson missed Three Point Jumper.,2,0,2,3,0.5452425068556261,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+6,1,9:00,2340,2340,Texas Defensive Rebound.,2,0,2,8,0.5453077293526352,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+7,1,8:52,2332,2332,Joyner Holmes Turnover.,2,0,2,0,0.5454821952070623,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+8,1,8:52,2332,2332,Jasmyn Johnson Steal.,2,0,2,6,0.5454821952070623,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+9,1,8:46,2326,2326,Jasmyn Johnson made Layup.,2,2,0,10,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Northwestern State
+10,1,8:36,2316,2316,Charli Collier missed Layup.,2,2,0,4,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+11,1,8:32,2312,2312,Victoria Miller Defensive Rebound.,2,2,0,5,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+12,1,8:27,2307,2307,Lacee Savage missed Jumper.,2,2,0,4,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+13,1,8:23,2303,2303,Charli Collier Defensive Rebound.,2,2,0,6,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+14,1,8:17,2297,2297,Foul on Lacee Savage.,2,2,0,0,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+15,1,8:17,2297,2297,Joyner Holmes missed Free Throw.,2,2,0,0,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+16,1,8:17,2297,2297,Texas Deadball Team Rebound.,2,2,0,0,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+17,1,8:17,2297,2297,Joyner Holmes missed Free Throw.,2,2,0,2,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+18,1,8:15,2295,2295,Lacee Savage Defensive Rebound.,2,2,0,12,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+19,1,8:03,2283,2283,Tristen Washington missed Layup.,2,2,0,0,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+20,1,8:03,2283,2283,Celeste Taylor Block.,2,2,0,0,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+21,1,8:03,2283,2283,Northwestern State Offensive Rebound.,2,2,0,4,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+22,1,7:59,2279,2279,Victoria Miller Turnover.,2,2,0,7,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+23,1,7:52,2272,2272,Charli Collier missed Jumper.,2,2,0,3,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+24,1,7:49,2269,2269,Joyner Holmes Offensive Rebound.,2,2,0,1,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+25,1,7:48,2268,2268,Joyner Holmes missed Layup.,2,2,0,0,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+26,1,7:48,2268,2268,Celeste Taylor Offensive Rebound.,2,2,0,0,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+27,1,7:48,2268,2268,Foul on Lacee Savage.,2,2,0,0,0.5,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+28,1,7:48,2268,2268,Celeste Taylor made Free Throw.,3,2,1,0,0.523503381418564,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Texas
+29,1,7:48,2268,2268,Celeste Taylor made Free Throw.,4,2,2,16,0.5469031240173988,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Texas
+30,1,7:32,2252,2252,Tristen Washington missed Three Point Jumper.,4,2,2,5,0.5472643690441272,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+31,1,7:27,2247,2247,Sug Sutton Defensive Rebound.,4,2,2,4,0.5473776731412484,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+32,1,7:23,2243,2243,Celeste Taylor missed Layup.,4,2,2,3,0.5474684508315749,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+33,1,7:20,2240,2240,Tristen Washington Defensive Rebound.,4,2,2,12,0.5475366103001577,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+34,1,7:08,2228,2228,Kira Bonner missed Three Point Jumper.,4,2,2,2,0.5478098713841724,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+35,1,7:06,2226,2226,Texas Deadball Team Rebound.,4,2,2,0,0.5478555076754315,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+36,1,7:06,2226,2226,Foul on Jocelyn Scott.,4,2,2,19,0.5478555076754315,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+37,1,6:47,2207,2207,Sug Sutton Turnover.,4,2,2,6,0.548290259298426,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+38,1,6:41,2201,2201,Tristen Washington Turnover.,4,2,2,0,0.5484279675606346,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+39,1,6:41,2201,2201,Sug Sutton Steal.,4,2,2,5,0.5484279675606346,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+40,1,6:36,2196,2196,Sug Sutton made Layup.,6,2,4,12,0.5961791766315144,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Texas
+41,1,6:24,2184,2184,Kira Bonner missed Three Point Jumper.,6,2,4,4,0.5967161595591195,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+42,1,6:20,2180,2180,Charli Collier Defensive Rebound.,6,2,4,6,0.5968953817854274,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+43,1,6:14,2174,2174,Sug Sutton made Layup.,8,2,6,21,0.6434789222215519,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Texas
+44,1,5:53,2153,2153,Tristen Washington Turnover.,8,2,6,0,0.6448291080202297,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+45,1,5:53,2153,2153,Lashann Higgs Steal.,8,2,6,3,0.6448291080202297,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+46,1,5:50,2150,2150,Lashann Higgs made Layup.,10,2,8,1,0.6891842027529433,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Texas
+47,1,5:49,2149,2149,Northwestern State  Timeout,10,2,8,0,0.6892646843111998,Texas,Northwestern State,4,3,0,1,NA,401176890,2019-12-29,
+48,1,5:49,2149,2149,Official TV Timeout,10,2,8,7,0.6892646843111998,Texas,Northwestern State,4,3,0,1,NA,401176890,2019-12-29,
+49,1,5:42,2142,2142,Gabby Bell Turnover.,10,2,8,0,0.6898285286017019,Texas,Northwestern State,4,3,0,1,NA,401176890,2019-12-29,
+50,1,5:42,2142,2142,Lashann Higgs Steal.,10,2,8,4,0.6898285286017019,Texas,Northwestern State,4,3,0,1,NA,401176890,2019-12-29,
+51,1,5:38,2138,2138,Joanne Allen-Taylor made Layup. Assisted by Lashann Higgs.,12,2,10,0,0.7312614900231498,Texas,Northwestern State,4,3,0,1,NA,401176890,2019-12-29,Texas
+52,1,5:38,2138,2138,Foul on Leilani Moncrease.,12,2,10,0,0.7312614900231498,Texas,Northwestern State,4,3,0,1,NA,401176890,2019-12-29,
+53,1,5:38,2138,2138,Joanne Allen-Taylor made Free Throw.,13,2,11,22,0.7504728064282639,Texas,Northwestern State,4,3,0,1,NA,401176890,2019-12-29,Texas
+54,1,5:16,2116,2116,Gabby Bell missed Jumper.,13,2,11,0,0.752612675786185,Texas,Northwestern State,4,3,0,1,NA,401176890,2019-12-29,
+55,1,5:16,2116,2116,Joyner Holmes Block.,13,2,11,4,0.752612675786185,Texas,Northwestern State,4,3,0,1,NA,401176890,2019-12-29,
+56,1,5:12,2112,2112,Joanne Allen-Taylor Defensive Rebound.,13,2,11,4,0.7530023615687585,Texas,Northwestern State,4,3,0,1,NA,401176890,2019-12-29,
+57,1,5:08,2108,2108,Joyner Holmes made Layup. Assisted by Joanne Allen-Taylor.,15,2,13,26,0.7891549526829944,Texas,Northwestern State,4,3,0,1,NA,401176890,2019-12-29,Texas
+58,1,4:42,2082,2082,Kalen Green Turnover.,15,2,13,7,0.7918398409846024,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+59,1,4:35,2075,2075,Charli Collier made Layup. Assisted by Joyner Holmes.,17,2,15,6,0.8244322173536394,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,Texas
+60,1,4:29,2069,2069,Kira Bonner made Three Point Jumper. Assisted by Gabby Bell.,17,5,12,18,0.775707372765121,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,Northwestern State
+61,1,4:11,2051,2051,Charli Collier missed Layup.,17,5,12,7,0.7775326487373684,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+62,1,4:04,2044,2044,Charli Collier Offensive Rebound.,17,5,12,0,0.7782437577319641,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+63,1,4:04,2044,2044,Charli Collier made Layup.,19,5,14,8,0.8122511645768333,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,Texas
+64,1,3:56,2036,2036,Jasmyn Johnson made Jumper.,19,7,12,10,0.7790573929892141,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,Northwestern State
+65,1,3:46,2026,2026,Isabel Palmer made Jumper. Assisted by Lashann Higgs.,21,7,14,16,0.8141382325070168,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,Texas
+66,1,3:30,2010,2010,Leilani Moncrease missed Jumper.,21,7,14,9,0.8158175104450487,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+67,1,3:21,2001,2001,Lashann Higgs Defensive Rebound.,21,7,14,5,0.8167630119526915,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+68,1,3:16,1996,1996,Isabel Palmer missed Three Point Jumper.,21,7,14,3,0.8172885997305204,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+69,1,3:13,1993,1993,Kira Bonner Defensive Rebound.,21,7,14,13,0.8176040634527804,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+70,1,3:00,1980,1980,Jasmyn Johnson missed Three Point Jumper.,21,7,14,4,0.8189720881136515,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+71,1,2:56,1976,1976,Isabel Palmer Defensive Rebound.,21,7,14,3,0.8193933667126239,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+72,1,2:53,1973,1973,Foul on Leilani Moncrease.,21,7,14,0,0.8197094379606213,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+73,1,2:53,1973,1973,Isabel Palmer missed Free Throw.,21,7,14,0,0.8197094379606213,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+74,1,2:53,1973,1973,Texas Deadball Team Rebound.,21,7,14,0,0.8197094379606213,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+75,1,2:53,1973,1973,Isabel Palmer missed Free Throw.,21,7,14,2,0.8197094379606213,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+76,1,2:51,1971,1971,Victoria Miller Defensive Rebound.,21,7,14,17,0.8199202066187793,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+77,1,2:34,1954,1954,Kira Bonner made Jumper.,21,9,12,0,0.7874654167538694,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,Northwestern State
+78,1,2:34,1954,1954,Foul on Isabel Palmer.,21,9,12,0,0.7874654167538694,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+79,1,2:34,1954,1954,Kira Bonner made Free Throw.,21,10,11,28,0.7686264950588834,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,Northwestern State
+80,1,2:06,1926,1926,Isabel Palmer missed Three Point Jumper.,21,10,11,3,0.771456958751858,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+81,1,2:03,1923,1923,Gabby Bell Defensive Rebound.,21,10,11,0,0.7717603300229053,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+82,1,2:03,1923,1923,Foul on Joyner Holmes.,21,10,11,16,0.7717603300229053,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+83,1,1:47,1907,1907,Kira Bonner made Three Point Jumper.,21,13,8,19,0.7094447661281957,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,Northwestern State
+84,1,1:28,1888,1888,Lashann Higgs Turnover.,21,13,8,10,0.711072809350421,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+85,1,1:18,1878,1878,Kira Bonner missed Three Point Jumper.,21,13,8,4,0.7119278941724706,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+86,1,1:14,1874,1874,Lashann Higgs Defensive Rebound.,21,13,8,1,0.7122697402445444,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+87,1,1:13,1873,1873,Lashann Higgs Turnover.,21,13,8,0,0.7123551912775697,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+88,1,1:13,1873,1873,Victoria Miller Steal.,21,13,8,4,0.7123551912775697,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+89,1,1:09,1869,1869,Victoria Miller missed Layup.,21,13,8,5,0.7126969685093207,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+90,1,1:04,1864,1864,Lashann Higgs Defensive Rebound.,21,13,8,0,0.7131241670271646,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+91,1,1:04,1864,1864,Foul on Jasmyn Johnson.,21,13,8,0,0.7131241670271646,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+92,1,1:04,1864,1864,Charli Collier made Free Throw.,22,13,9,0,0.73583496612994,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,Texas
+93,1,1:04,1864,1864,Charli Collier made Free Throw.,23,13,10,15,0.7573595859256667,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,Texas
+94,1,0:49,1849,1849,Kira Bonner missed Jumper.,23,13,10,0,0.758798123910523,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+95,1,0:49,1849,1849,Texas Defensive Rebound.,23,13,10,12,0.758798123910523,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+96,1,0:37,1837,1837,Celeste Taylor missed Three Point Jumper.,23,13,10,3,0.7599490298141858,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+97,1,0:34,1834,1834,Joyner Holmes Offensive Rebound.,23,13,10,11,0.7602368891737407,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+98,1,0:23,1823,1823,Charli Collier made Jumper. Assisted by Joyner Holmes.,25,13,12,20,0.8008697145023472,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,Texas
+99,1,0:03,1803,1803,Kira Bonner made Three Point Jumper. Assisted by Jasmyn Johnson.,25,16,9,3,0.7414210754737142,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,Northwestern State
+100,1,0:00,1800,1800,End of 1st Quarter,25,16,9,14,0.7416976282934893,Texas,Northwestern State,4,3,0,0,NA,401176890,2019-12-29,
+101,2,9:46,1786,1786,Jasmyn Johnson missed Jumper.,25,16,9,4,0.7429920337554196,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+102,2,9:42,1782,1782,Charli Collier Defensive Rebound.,25,16,9,3,0.7433631457606724,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+103,2,9:39,1779,1779,Foul on Jasmyn Johnson.,25,16,9,18,0.7436418897324124,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+104,2,9:21,1761,1761,Sug Sutton Turnover.,25,16,9,18,0.7453224979746981,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+105,2,9:03,1743,1743,Kira Bonner missed Layup.,25,16,9,1,0.7470190887848637,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+106,2,9:02,1742,1742,Texas Defensive Rebound.,25,16,9,22,0.7471138680049271,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+107,2,8:40,1720,1720,Joyner Holmes made Jumper.,27,16,11,30,0.7921005725260326,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Texas
+108,2,8:10,1690,1690,Nakaylis Washington missed Jumper.,27,16,11,4,0.7952220488691433,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+109,2,8:06,1686,1686,Charli Collier Defensive Rebound.,27,16,11,8,0.7956408237583403,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+110,2,7:58,1678,1678,Joyner Holmes made Layup. Assisted by Sug Sutton.,29,16,13,9,0.8337492378134916,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Texas
+111,2,7:49,1669,1669,Nakaylis Washington missed Layup.,29,16,13,0,0.834675651426719,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+112,2,7:49,1669,1669,Jada Underwood Block.,29,16,13,6,0.834675651426719,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+113,2,7:43,1663,1663,Charli Collier Defensive Rebound.,29,16,13,10,0.8352850203941697,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+114,2,7:33,1653,1653,Celeste Taylor missed Three Point Jumper.,29,16,13,5,0.8362874316633949,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+115,2,7:28,1648,1648,Nakaylis Washington Defensive Rebound.,29,16,13,22,0.836783009070883,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+116,2,7:06,1626,1626,Charli Collier Defensive Rebound.,29,16,13,4,0.83892664461866,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+117,2,7:02,1622,1622,Jada Underwood missed Three Point Jumper.,29,16,13,2,0.839311038702359,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+118,2,7:00,1620,1620,Celeste Taylor Offensive Rebound.,29,16,13,0,0.8395027307799408,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+119,2,7:00,1620,1620,Celeste Taylor made Layup.,31,16,15,0,0.8709153404154675,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Texas
+120,2,7:00,1620,1620,Foul on Nakaylis Washington.,31,16,15,0,0.8709153404154675,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+121,2,7:00,1620,1620,Celeste Taylor missed Free Throw.,31,16,15,1,0.8709153404154675,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+122,2,6:59,1619,1619,Northwestern State Defensive Rebound.,31,16,15,22,0.8710074945582617,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+123,2,6:37,1597,1597,Foul on Lashann Higgs.,31,16,15,5,0.8730166161004366,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+124,2,6:32,1592,1592,Foul on Sug Sutton.,31,16,15,13,0.8734695437570574,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+125,2,6:19,1579,1579,Victoria Miller missed Jumper.,31,16,15,4,0.874643617043381,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+126,2,6:15,1575,1575,Charli Collier Defensive Rebound.,31,16,15,1,0.8750042867853035,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+127,2,6:14,1574,1574,Foul on Victoria Miller.,31,16,15,5,0.8750944376838149,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+128,2,6:09,1569,1569,Foul on Karyn Ford.,31,16,15,0,0.8755451795882135,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+129,2,6:09,1569,1569,Joanne Allen-Taylor missed Free Throw.,31,16,15,0,0.8755451795882135,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+130,2,6:09,1569,1569,Texas Deadball Team Rebound.,31,16,15,0,0.8755451795882135,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+131,2,6:09,1569,1569,Joanne Allen-Taylor made Free Throw.,32,16,16,13,0.8890391917023649,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Texas
+132,2,5:56,1556,1556,Tristen Washington Turnover.,32,16,16,0,0.8901715334034903,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+133,2,5:56,1556,1556,Lashann Higgs Steal.,32,16,16,2,0.8901715334034903,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+134,2,5:54,1554,1554,Foul on Tristen Washington.,32,16,16,0,0.8903459606771263,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+135,2,5:54,1554,1554,Lashann Higgs missed Free Throw.,32,16,16,0,0.8903459606771263,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+136,2,5:54,1554,1554,Texas Deadball Team Rebound.,32,16,16,0,0.8903459606771263,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+137,2,5:54,1554,1554,Lashann Higgs made Free Throw.,33,16,17,20,0.9024873254811265,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Texas
+138,2,5:34,1534,1534,Kira Bonner made Jumper.,33,18,15,12,0.8787158798913649,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Northwestern State
+139,2,5:22,1522,1522,Celeste Taylor made Jumper.,35,18,17,27,0.9051776813504879,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Texas
+140,2,4:55,1495,1495,Jocelyn Scott made Jumper. Assisted by Kira Bonner.,35,20,15,18,0.8823413630303342,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Northwestern State
+141,2,4:37,1477,1477,Celeste Taylor missed Three Point Jumper.,35,20,15,4,0.8840707315441754,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+142,2,4:33,1473,1473,Jocelyn Scott Defensive Rebound.,35,20,15,6,0.8844610574686568,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+143,2,4:27,1467,1467,Foul on Joyner Holmes.,35,20,15,0,0.8850510068304569,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+144,2,4:27,1467,1467,Official TV Timeout,35,20,15,0,0.8850510068304569,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+145,2,4:27,1467,1467,Karyn Ford missed Free Throw.,35,20,15,0,0.8850510068304569,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+146,2,4:27,1467,1467,Northwestern State Deadball Team Rebound.,35,20,15,0,0.8850510068304569,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+147,2,4:27,1467,1467,Karyn Ford made Free Throw.,35,21,14,16,0.8704653642096585,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Northwestern State
+148,2,4:11,1451,1451,Sug Sutton missed Jumper.,35,21,14,2,0.8721227260410248,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+149,2,4:09,1449,1449,Charli Collier Offensive Rebound.,35,21,14,1,0.8723329282133238,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+150,2,4:08,1448,1448,Charli Collier made Layup.,37,21,16,19,0.9000117963791548,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Texas
+151,2,3:49,1429,1429,Nakaylis Washington missed Jumper.,37,21,16,2,0.901797239409949,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+152,2,3:47,1427,1427,Isabel Palmer Defensive Rebound.,37,21,16,0,0.9019797289987059,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+153,2,3:47,1427,1427,Foul on Julia Sion.,37,21,16,0,0.9019797289987059,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+154,2,3:47,1427,1427,Isabel Palmer made Free Throw.,38,21,17,0,0.9135783841892852,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Texas
+155,2,3:47,1427,1427,Isabel Palmer missed Free Throw.,38,21,17,1,0.9135783841892852,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+156,2,3:46,1426,1426,Tristen Washington Defensive Rebound.,38,21,17,6,0.9136646206555417,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+157,2,3:40,1420,1420,Tristen Washington missed Layup.,38,21,17,0,0.9141774008078987,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+158,2,3:40,1420,1420,Charli Collier Defensive Rebound.,38,21,17,0,0.9141774008078987,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+159,2,3:40,1420,1420,Charli Collier Block.,38,21,17,5,0.9141774008078987,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+160,2,3:35,1415,1415,Sug Sutton Turnover.,38,21,17,17,0.9145989789035838,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+161,2,3:18,1398,1398,Foul on Sug Sutton.,38,21,17,0,0.9159985176358884,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+162,2,3:18,1398,1398,Nakaylis Washington missed Free Throw.,38,21,17,0,0.9159985176358884,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+163,2,3:18,1398,1398,Northwestern State Deadball Team Rebound.,38,21,17,0,0.9159985176358884,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+164,2,3:18,1398,1398,Nakaylis Washington made Free Throw.,38,22,16,29,0.9045331841419493,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Northwestern State
+165,2,2:49,1369,1369,Isabel Palmer made Three Point Jumper. Assisted by Jada Underwood.,41,22,19,14,0.9372667489243284,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Texas
+166,2,2:35,1355,1355,Jocelyn Scott made Three Point Jumper. Assisted by Tristen Washington.,41,25,16,6,0.9081142864832553,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Northwestern State
+167,2,2:29,1349,1349,Foul on Nakaylis Washington.,41,25,16,0,0.908605227238946,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+168,2,2:29,1349,1349,Joanne Allen-Taylor missed Free Throw.,41,25,16,0,0.908605227238946,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+169,2,2:29,1349,1349,Texas Deadball Team Rebound.,41,25,16,0,0.908605227238946,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+170,2,2:29,1349,1349,Joanne Allen-Taylor made Free Throw.,42,25,17,10,0.919846817738005,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Texas
+171,2,2:19,1339,1339,Jocelyn Scott Turnover.,42,25,17,0,0.9206177999296759,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+172,2,2:19,1339,1339,Jada Underwood Steal.,42,25,17,19,0.9206177999296759,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+173,2,2:00,1320,1320,Shae Routt made Jumper. Assisted by Jada Underwood.,44,25,19,24,0.940573478440078,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Texas
+174,2,1:36,1296,1296,Tristen Washington made Jumper.,44,27,17,24,0.9239684251024592,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Northwestern State
+175,2,1:12,1272,1272,Shae Routt made Jumper. Assisted by Isabel Palmer.,46,27,19,24,0.9438824529928218,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Texas
+176,2,0:48,1248,1248,Kira Bonner missed Three Point Jumper.,46,27,19,3,0.9456206421391233,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+177,2,0:45,1245,1245,Jada Underwood Defensive Rebound.,46,27,19,14,0.9458432219668154,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+178,2,0:31,1231,1231,Charli Collier missed Jumper.,46,27,19,2,0.9468993686757362,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+179,2,0:29,1229,1229,Northwestern State Defensive Rebound.,46,27,19,26,0.9470526951593475,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+180,2,0:03,1203,1203,Kira Bonner made Three Point Jumper. Assisted by Tristen Washington.,46,30,16,3,0.9215514059921698,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,Northwestern State
+181,2,0:00,1200,1200,End of 2nd Quarter,46,30,16,9,0.9218447990893213,Texas,Northwestern State,4,4,0,0,NA,401176890,2019-12-29,
+182,3,9:51,1191,1191,Foul on Lacee Savage.,46,30,16,15,0.9227089506809844,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+183,3,9:36,1176,1176,Celeste Taylor missed Jumper.,46,30,16,0,0.9241019159018021,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+184,3,9:36,1176,1176,Northwestern State Deadball Team Rebound.,46,30,16,0,0.9241019159018021,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+185,3,9:36,1176,1176,Foul on Joyner Holmes.,46,30,16,14,0.9241019159018021,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+186,3,9:22,1162,1162,Kira Bonner Turnover.,46,30,16,24,0.925358019440539,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+187,3,8:58,1138,1138,Charli Collier missed Jumper.,46,30,16,4,0.927439929268129,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+188,3,8:54,1134,1134,Jasmyn Johnson Defensive Rebound.,46,30,16,5,0.9277806597546295,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+189,3,8:49,1129,1129,Victoria Miller missed Jumper.,46,30,16,0,0.9282048157353169,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+190,3,8:49,1129,1129,Celeste Taylor Block.,46,30,16,6,0.9282048157353169,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+191,3,8:43,1123,1123,Victoria Miller Offensive Rebound.,46,30,16,2,0.9287117091353575,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+192,3,8:41,1121,1121,Jasmyn Johnson missed Jumper.,46,30,16,3,0.9288802657177254,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+193,3,8:38,1118,1118,Celeste Taylor Defensive Rebound.,46,30,16,2,0.9291327959105535,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+194,3,8:36,1116,1116,Joyner Holmes Turnover.,46,30,16,0,0.9293009787473597,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+195,3,8:36,1116,1116,Jasmyn Johnson Steal.,46,30,16,3,0.9293009787473597,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+196,3,8:33,1113,1113,Kira Bonner missed Jumper.,46,30,16,0,0.9295530521492221,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+197,3,8:33,1113,1113,Texas Defensive Rebound.,46,30,16,14,0.9295530521492221,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+198,3,8:19,1099,1099,Celeste Taylor missed Three Point Jumper.,46,30,16,0,0.9307282320730482,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+199,3,8:19,1099,1099,Jocelyn Scott Defensive Rebound.,46,30,16,0,0.9307282320730482,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+200,3,8:19,1099,1099,Jasmyn Johnson missed Three Point Jumper.,46,30,16,0,0.9307282320730482,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+201,3,8:19,1099,1099,Jada Underwood Defensive Rebound.,46,30,16,0,0.9307282320730482,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+202,3,8:19,1099,1099,Celeste Taylor Turnover.,46,30,16,0,0.9307282320730482,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+203,3,8:19,1099,1099,Kira Bonner Steal.,46,30,16,19,0.9307282320730482,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+204,3,8:00,1080,1080,Foul on Joyner Holmes.,46,30,16,1,0.9323297155772339,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+205,3,7:59,1079,1079,Kira Bonner made Free Throw.,46,31,15,0,0.9213157558325628,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Northwestern State
+206,3,7:59,1079,1079,Kira Bonner made Free Throw.,46,32,14,17,0.908573124110635,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Northwestern State
+207,3,7:42,1062,1062,Foul on Jada Underwood.,46,32,14,0,0.9102519273544165,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+208,3,7:42,1062,1062,Jada Underwood Turnover.,46,32,14,7,0.9102519273544165,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+209,3,7:35,1055,1055,Foul on Leilani Moncrease.,46,32,14,0,0.9109541600277993,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+210,3,7:35,1055,1055,Leilani Moncrease Turnover.,46,32,14,16,0.9109541600277993,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+211,3,7:19,1039,1039,Foul on Jasmyn Johnson.,46,32,14,0,0.9125892518371572,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+212,3,7:19,1039,1039,Charli Collier made Free Throw.,47,32,15,0,0.9250630862954133,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Texas
+213,3,7:19,1039,1039,Charli Collier made Free Throw.,48,32,16,11,0.9358819250942698,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Texas
+214,3,7:08,1028,1028,Kira Bonner made Jumper.,48,34,14,11,0.9137413896349533,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Northwestern State
+215,3,6:57,1017,1017,Lashann Higgs missed Layup.,48,34,14,4,0.9149195749642633,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+216,3,6:53,1013,1013,Jada Underwood Offensive Rebound.,48,34,14,0,0.9153549701815749,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+217,3,6:53,1013,1013,Jada Underwood made Layup.,50,34,16,11,0.938252541796116,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Texas
+218,3,6:42,1002,1002,Foul on Leilani Moncrease.,50,34,16,0,0.9392917957687451,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+219,3,6:42,1002,1002,Leilani Moncrease Turnover.,50,34,16,16,0.9392917957687451,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+220,3,6:26,986,986,Jada Underwood made Layup.,52,34,18,8,0.9574047269587684,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Texas
+221,3,6:18,978,978,Kira Bonner missed Layup.,52,34,18,2,0.9580618972616002,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+222,3,6:16,976,976,Victoria Miller Offensive Rebound.,52,34,18,0,0.9582277887594084,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+223,3,6:16,976,976,Foul on Isabel Palmer.,52,34,18,0,0.9582277887594084,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+224,3,6:16,976,976,Victoria Miller missed Free Throw.,52,34,18,0,0.9582277887594084,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+225,3,6:16,976,976,Northwestern State Deadball Team Rebound.,52,34,18,0,0.9582277887594084,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+226,3,6:16,976,976,Victoria Miller missed Free Throw.,52,34,18,1,0.9582277887594084,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+227,3,6:15,975,975,Nakaylis Washington Offensive Rebound.,52,34,18,2,0.9583109768683775,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+228,3,6:13,973,973,Nakaylis Washington missed Jumper.,52,34,18,4,0.9584778398386022,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+229,3,6:09,969,969,Isabel Palmer Defensive Rebound.,52,34,18,5,0.958813109655895,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+230,3,6:04,964,964,Isabel Palmer missed Layup.,52,34,18,1,0.9592221940442262,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+231,3,6:03,963,963,Isabel Palmer Offensive Rebound.,52,34,18,1,0.9593021358310719,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+232,3,6:02,962,962,Isabel Palmer Turnover.,52,34,18,24,0.9593814725679547,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+233,3,5:38,938,938,Kalen Green Turnover.,52,34,18,5,0.9611250386350438,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+234,3,5:33,933,933,Sug Sutton made Layup. Assisted by Lashann Higgs.,54,34,20,16,0.9727221783178664,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Texas
+235,3,5:17,917,917,Kalen Green missed Three Point Jumper.,54,34,20,0,0.973513704502878,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+236,3,5:17,917,917,Texas Deadball Team Rebound.,54,34,20,0,0.973513704502878,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+237,3,5:17,917,917,Foul on Victoria Miller.,54,34,20,0,0.973513704502878,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+238,3,5:17,917,917,Audrey Warren made Free Throw.,55,34,21,0,0.9777844917923059,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Texas
+239,3,5:17,917,917,Audrey Warren made Free Throw.,56,34,22,6,0.9813798067947493,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Texas
+240,3,5:11,911,911,Kira Bonner missed Jumper.,56,34,22,0,0.9815985158308532,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+241,3,5:11,911,911,Charli Collier Defensive Rebound.,56,34,22,34,0.9815985158308532,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+242,3,4:37,877,877,Foul on Jocelyn Scott.,56,34,22,0,0.9827515788622118,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+243,3,4:37,877,877,Official TV Timeout,56,34,22,0,0.9827515788622118,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+244,3,4:37,877,877,Charli Collier made Free Throw.,57,34,23,0,0.98560524387149,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Texas
+245,3,4:37,877,877,Charli Collier made Free Throw.,58,34,24,11,0.9879925527865092,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Texas
+246,3,4:26,866,866,Nakaylis Washington missed Jumper.,58,34,24,0,0.9882639797131861,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+247,3,4:26,866,866,Charli Collier Block.,58,34,24,2,0.9882639797131861,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+248,3,4:24,864,864,Nakaylis Washington Offensive Rebound.,58,34,24,0,0.9883130587869461,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+249,3,4:24,864,864,Nakaylis Washington missed Jumper.,58,34,24,0,0.9883130587869461,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+250,3,4:24,864,864,Texas Defensive Rebound.,58,34,24,12,0.9883130587869461,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+251,3,4:12,852,852,Audrey Warren Turnover.,58,34,24,14,0.9886072438608157,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+252,3,3:58,838,838,Victoria Miller made Jumper.,58,36,22,11,0.9840144339967621,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Northwestern State
+253,3,3:47,827,827,Charli Collier Turnover.,58,36,22,0,0.9843800070681424,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+254,3,3:47,827,827,Jocelyn Scott Steal.,58,36,22,5,0.9843800070681424,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+255,3,3:42,822,822,Jocelyn Scott made Layup.,58,38,20,11,0.9776174694114566,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Northwestern State
+256,3,3:31,811,811,Isabel Palmer missed Layup.,58,38,20,1,0.9781153145555327,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+257,3,3:30,810,810,Northwestern State Deadball Team Rebound.,58,38,20,0,0.9781614319070825,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+258,3,3:30,810,810,Foul on Lashann Higgs.,58,38,20,0,0.9781614319070825,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+259,3,3:30,810,810,Victoria Miller made Free Throw.,58,39,19,0,0.973709293423931,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Northwestern State
+260,3,3:30,810,810,Victoria Miller missed Free Throw.,58,39,19,1,0.973709293423931,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+261,3,3:29,809,809,Isabel Palmer Defensive Rebound.,58,39,19,0,0.973761973380117,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+262,3,3:29,809,809,Foul on Jocelyn Scott.,58,39,19,0,0.973761973380117,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+263,3,3:29,809,809,Isabel Palmer missed Free Throw.,58,39,19,0,0.973761973380117,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+264,3,3:29,809,809,Texas Deadball Team Rebound.,58,39,19,0,0.973761973380117,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+265,3,3:29,809,809,Isabel Palmer missed Free Throw.,58,39,19,1,0.973761973380117,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+266,3,3:28,808,808,Audrey Warren Offensive Rebound.,58,39,19,18,0.9738148358221038,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+267,3,3:10,790,790,Isabel Palmer made Jumper.,60,39,21,16,0.9827097634764457,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Texas
+268,3,2:54,774,774,Victoria Miller missed Three Point Jumper.,60,39,21,3,0.9834234446502162,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+269,3,2:51,771,771,Lashann Higgs Defensive Rebound.,60,39,21,3,0.9835620807051364,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+270,3,2:48,768,768,Foul on Kira Bonner.,60,39,21,0,0.9837022855260028,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+271,3,2:48,768,768,Lashann Higgs missed Free Throw.,60,39,21,0,0.9837022855260028,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+272,3,2:48,768,768,Texas Deadball Team Rebound.,60,39,21,0,0.9837022855260028,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+273,3,2:48,768,768,Lashann Higgs made Free Throw.,61,39,22,13,0.9865541899669954,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Texas
+274,3,2:35,755,755,Foul on Audrey Warren.,61,39,22,0,0.9870962076079981,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+275,3,2:35,755,755,Gabby Bell missed Free Throw.,61,39,22,0,0.9870962076079981,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+276,3,2:35,755,755,Northwestern State Deadball Team Rebound.,61,39,22,0,0.9870962076079981,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+277,3,2:35,755,755,Gabby Bell made Free Throw.,61,40,21,10,0.9843282345729918,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Northwestern State
+278,3,2:25,745,745,Isabel Palmer Turnover.,61,40,21,0,0.9848302247806822,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+279,3,2:25,745,745,Nakaylis Washington Steal.,61,40,21,17,0.9848302247806822,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+280,3,2:08,728,728,Kira Bonner Turnover.,61,40,21,0,0.9857222174508561,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+281,3,2:08,728,728,Celeste Taylor Steal.,61,40,21,0,0.9857222174508561,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+282,3,2:08,728,728,Foul on Kira Bonner.,61,40,21,0,0.9857222174508561,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+283,3,2:08,728,728,Isabel Palmer made Free Throw.,62,40,22,0,0.9882991144909051,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Texas
+284,3,2:08,728,728,Isabel Palmer made Free Throw.,63,40,23,9,0.9904154476295731,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Texas
+285,3,1:59,719,719,Nakaylis Washington Turnover.,63,40,23,12,0.990746570277418,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+286,3,1:47,707,707,Foul on Gabby Bell.,63,40,23,0,0.9911406346132517,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+287,3,1:47,707,707,Celeste Taylor made Free Throw.,64,40,24,0,0.9927716137756732,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Texas
+288,3,1:47,707,707,Celeste Taylor made Free Throw.,65,40,25,11,0.9941041213051495,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Texas
+289,3,1:36,696,696,Leilani Moncrease Turnover.,65,40,25,3,0.9943384039237971,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+290,3,1:33,693,693,Foul on Nakaylis Washington.,65,40,25,0,0.9943984854918053,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+291,3,1:33,693,693,Celeste Taylor missed Free Throw.,65,40,25,0,0.9943984854918053,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+292,3,1:33,693,693,Texas Deadball Team Rebound.,65,40,25,0,0.9943984854918053,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+293,3,1:33,693,693,Celeste Taylor missed Free Throw.,65,40,25,1,0.9943984854918053,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+294,3,1:32,692,692,Leilani Moncrease Defensive Rebound.,65,40,25,16,0.9944181940318391,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+295,3,1:16,676,676,Nakaylis Washington Turnover.,65,40,25,0,0.9947155204243687,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+296,3,1:16,676,676,Isabel Palmer Steal.,65,40,25,5,0.9947155204243687,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+297,3,1:11,671,671,Isabel Palmer made Layup.,67,40,27,8,0.996580390503735,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Texas
+298,3,1:03,663,663,Nakaylis Washington missed Jumper.,67,40,27,0,0.9966771632962712,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+299,3,1:03,663,663,Shae Routt Block.,67,40,27,0,0.9966771632962712,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+300,3,1:03,663,663,Northwestern State Offensive Rebound.,67,40,27,1,0.9966771632962712,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+301,3,1:02,662,662,Leilani Moncrease missed Jumper.,67,40,27,4,0.9966890604039284,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+302,3,0:58,658,658,Audrey Warren Defensive Rebound.,67,40,27,2,0.996736296589884,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+303,3,0:56,656,656,Joanne Allen-Taylor made Layup.,69,40,29,27,0.997877875097799,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,Texas
+304,3,0:29,629,629,Victoria Miller missed Jumper.,69,40,29,4,0.9980967678853472,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+305,3,0:25,625,625,Audrey Warren Defensive Rebound.,69,40,29,23,0.9981292929790723,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+306,3,0:02,602,602,Isabel Palmer missed Three Point Jumper.,69,40,29,2,0.9983211966113437,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+307,3,0:00,600,600,Texas Deadball Team Rebound.,69,40,29,0,0.9983384004142992,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+308,3,0:00,600,600,End of 3rd Quarter,69,40,29,11,0.9983384004142992,Texas,Northwestern State,5,5,0,0,NA,401176890,2019-12-29,
+309,4,9:49,589,589,Victoria Miller made Jumper.,69,42,27,15,0.9975586535287755,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,Northwestern State
+310,4,9:34,574,574,Celeste Taylor Turnover.,69,42,27,0,0.9977569345957533,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+311,4,9:34,574,574,Leilani Moncrease Steal.,69,42,27,11,0.9977569345957533,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+312,4,9:23,563,563,Victoria Miller made Jumper. Assisted by Jasmyn Johnson.,69,44,25,34,0.996700490422441,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,Northwestern State
+313,4,8:49,529,529,Lashann Higgs missed Jumper.,69,44,25,3,0.9973367429045588,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+314,4,8:46,526,526,Lashann Higgs Offensive Rebound.,69,44,25,3,0.9973799644140527,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+315,4,8:43,523,523,Lashann Higgs made Layup.,71,44,27,6,0.9983975506971303,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,Texas
+316,4,8:37,517,517,Kira Bonner missed Layup.,71,44,27,5,0.9984505238941463,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+317,4,8:32,512,512,Jada Underwood Defensive Rebound.,71,44,27,6,0.9984922541742303,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+318,4,8:26,506,506,Sug Sutton Turnover.,71,44,27,0,0.9985401776607364,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+319,4,8:26,506,506,Victoria Miller Steal.,71,44,27,3,0.9985401776607364,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+320,4,8:23,503,503,Jasmyn Johnson Turnover.,71,44,27,22,0.9985634855175398,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+321,4,8:01,481,481,Foul on Leilani Moncrease.,71,44,27,0,0.9987296152010104,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+322,4,8:01,481,481,Lashann Higgs made Free Throw.,72,44,28,0,0.9990073073270075,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,Texas
+323,4,8:01,481,481,Lashann Higgs made Free Throw.,73,44,29,13,0.9992243461549727,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,Texas
+324,4,7:48,468,468,Lacee Savage Turnover.,73,44,29,0,0.9992903302708375,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+325,4,7:48,468,468,Shae Routt Steal.,73,44,29,5,0.9992903302708375,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+326,4,7:43,463,463,Shae Routt Turnover.,73,44,29,0,0.9993165904403281,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+327,4,7:43,463,463,Jasmyn Johnson Steal.,73,44,29,5,0.9993165904403281,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+328,4,7:38,458,458,Tristen Washington missed Three Point Jumper.,73,44,29,3,0.9993434468629413,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+329,4,7:35,455,455,Joanne Allen-Taylor Defensive Rebound.,73,44,29,3,0.9993598604476722,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+330,4,7:32,452,452,Foul on Tristen Washington.,73,44,29,10,0.9993765013513062,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+331,4,7:22,442,442,Isabel Palmer Turnover.,73,44,29,18,0.999433555910859,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+332,4,7:04,424,424,Jasmyn Johnson missed Three Point Jumper.,73,44,29,3,0.9995387934780144,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+333,4,7:01,421,421,Shae Routt Defensive Rebound.,73,44,29,5,0.9995544439817117,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+334,4,6:56,416,416,Joanne Allen-Taylor made Layup.,75,44,31,21,0.999753503208263,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,Texas
+335,4,6:35,395,395,Jasmyn Johnson made Layup. Assisted by Victoria Miller.,75,46,29,13,0.9996635315060022,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,Northwestern State
+336,4,6:22,382,382,Lashann Higgs made Jumper.,77,46,31,23,0.9998328035236538,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,Texas
+337,4,5:59,359,359,Kalen Green missed Jumper.,77,46,31,4,0.9998742733934871,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+338,4,5:55,355,355,Jasmyn Johnson Offensive Rebound.,77,46,31,4,0.9998809846087557,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+339,4,5:51,351,351,Jasmyn Johnson missed Jumper.,77,46,31,4,0.999887571837312,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+340,4,5:47,347,347,Isabel Palmer Defensive Rebound.,77,46,31,11,0.9998940364990488,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+341,4,5:36,336,336,Joanne Allen-Taylor missed Three Point Jumper.,77,46,31,3,0.9999111593581955,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+342,4,5:33,333,333,Shae Routt Offensive Rebound.,77,46,31,0,0.9999156502149457,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+343,4,5:33,333,333,Shae Routt made Layup.,79,46,33,20,0.9999539457531175,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,Texas
+344,4,5:13,313,313,Victoria Miller missed Jumper.,79,46,33,3,0.9999697751260003,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+345,4,5:10,310,310,Shae Routt Defensive Rebound.,79,46,33,13,0.9999718782043768,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+346,4,4:57,297,297,Audrey Warren missed Three Point Jumper.,79,46,33,3,0.9999771303756304,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+347,4,4:54,294,294,Isabel Palmer Offensive Rebound.,79,46,33,0,0.9999775823904329,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+348,4,4:54,294,294,Isabel Palmer missed Layup.,79,46,33,2,0.9999775823904329,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+349,4,4:52,292,292,Lashann Higgs Offensive Rebound.,79,46,33,0,0.9999777707356351,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+350,4,4:52,292,292,Lashann Higgs made Layup.,81,46,35,13,0.9999883874994702,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,Texas
+351,4,4:39,279,279,Lacee Savage missed Jumper.,81,46,35,3,0.9999881079797659,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+352,4,4:36,276,276,Isabel Palmer Defensive Rebound.,81,46,35,3,0.9999878551912021,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+353,4,4:33,273,273,Foul on Jasmyn Johnson.,81,46,35,0,0.9999875473452495,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+354,4,4:33,273,273,Official TV Timeout,81,46,35,0,0.9999875473452495,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+355,4,4:33,273,273,Joanne Allen-Taylor made Free Throw.,82,46,36,0,0.9999909816264437,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,Texas
+356,4,4:33,273,273,Joanne Allen-Taylor missed Free Throw.,82,46,36,1,0.9999909816264437,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+357,4,4:32,272,272,Victoria Miller Defensive Rebound.,82,46,36,13,0.9999908969822737,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+358,4,4:19,259,259,Nakaylis Washington made Jumper.,82,48,34,0,0.9999802201326861,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,Northwestern State
+359,4,4:19,259,259,Foul on Isabel Palmer.,82,48,34,0,0.9999802201326861,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+360,4,4:19,259,259,Nakaylis Washington made Free Throw.,82,49,33,24,0.9999728001649616,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,Northwestern State
+361,4,3:55,235,235,Joanne Allen-Taylor Turnover.,82,49,33,0,0.999968615607305,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+362,4,3:55,235,235,Karyn Ford Steal.,82,49,33,11,0.999968615607305,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+363,4,3:44,224,224,Victoria Miller missed Jumper.,82,49,33,3,0.9999706683218849,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+364,4,3:41,221,221,Victoria Miller Offensive Rebound.,82,49,33,17,0.9999718477667153,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+365,4,3:24,204,204,Nakaylis Washington missed Jumper.,82,49,33,3,0.999982381774433,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+366,4,3:21,201,201,Charli Collier Defensive Rebound.,82,49,33,11,0.9999845503662588,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+367,4,3:10,190,190,Charli Collier made Layup. Assisted by Shae Routt.,84,49,35,29,0.9999959552231582,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,Texas
+368,4,2:41,161,161,Gabby Bell missed Three Point Jumper.,84,49,35,0,0.9999995504537629,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+369,4,2:41,161,161,Texas Defensive Rebound.,84,49,35,10,0.9999995504537629,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+370,4,2:31,151,151,Audrey Warren Turnover.,84,49,35,0,0.9999998059925688,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+371,4,2:31,151,151,Jasmyn Johnson Steal.,84,49,35,12,0.9999998059925688,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+372,4,2:19,139,139,Jasmyn Johnson missed Jumper.,84,49,35,0,0.9999999356648267,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+373,4,2:19,139,139,Texas Deadball Team Rebound.,84,49,35,1,0.9999999356648267,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+374,4,2:18,138,138,Foul on Victoria Miller.,84,49,35,10,0.9999999416445061,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+375,4,2:08,128,128,Foul on Victoria Miller.,84,49,35,0,0.999999979167901,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+376,4,2:08,128,128,Sophie Taylor missed Free Throw.,84,49,35,0,0.999999979167901,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+377,4,2:08,128,128,Texas Deadball Team Rebound.,84,49,35,0,0.999999979167901,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+378,4,2:08,128,128,Sophie Taylor missed Free Throw.,84,49,35,3,0.999999979167901,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+379,4,2:05,125,125,Jocelyn Scott Defensive Rebound.,84,49,35,11,0.9999999850225011,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+380,4,1:54,114,114,Karyn Ford Turnover.,84,49,35,0,0.9999999959313747,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+381,4,1:54,114,114,Audrey Warren Steal.,84,49,35,7,0.9999999959313747,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+382,4,1:47,107,107,Joanne Allen-Taylor made Three Point Jumper. Assisted by Shae Routt.,87,49,38,23,0.9999999997119194,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,Texas
+383,4,1:24,84,84,Karyn Ford missed Jumper.,87,49,38,5,0.999999999993306,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+384,4,1:19,79,79,Isabel Palmer Defensive Rebound.,87,49,38,3,0.9999999999972382,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+385,4,1:16,76,76,Isabel Palmer missed Layup.,87,49,38,5,0.9999999999984007,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+386,4,1:11,71,71,Anessa Dussette Defensive Rebound.,87,49,38,6,0.9999999999993764,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+387,4,1:05,65,65,Jocelyn Scott missed Three Point Jumper.,87,49,38,3,0.9999999999998067,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+388,4,1:02,62,62,Shae Routt Defensive Rebound.,87,49,38,11,0.9999999999998938,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+389,4,0:51,51,51,Foul on Gabby Bell.,87,49,38,0,0.9999999999999891,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+390,4,0:51,51,51,Joanne Allen-Taylor made Free Throw.,88,49,39,0,0.9999999999999953,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,Texas
+391,4,0:51,51,51,Joanne Allen-Taylor made Free Throw.,89,49,40,24,0.999999999999998,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,Texas
+392,4,0:27,27,27,Foul on Shae Routt.,89,49,40,11,1,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+393,4,0:16,16,16,Anessa Dussette missed Three Point Jumper.,89,49,40,5,1,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+394,4,0:11,11,11,Sophie Taylor Defensive Rebound.,89,49,40,3,1,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+395,4,0:08,8,8,Sophie Taylor made Layup. Assisted by Joanne Allen-Taylor.,91,49,42,8,1,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,Texas
+396,4,0:00,0,0,Julia Sion missed Three Point Jumper.,91,49,42,0,1,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+397,4,0:00,0,0,Northwestern State Deadball Team Rebound.,91,49,42,0,1,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+398,4,0:00,0,0,End of 4th Quarter,91,49,42,0,1,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,
+399,4,0:00,0,0,End of Game,91,49,42,0,1,Texas,Northwestern State,6,6,0,0,NA,401176890,2019-12-29,

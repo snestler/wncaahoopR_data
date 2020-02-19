@@ -1,0 +1,329 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Jump Ball won by Texas A&M,0,0,0,17,0.5,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,NA
+2,1,9:43,2383,2383,N'dea Jones made Layup. Assisted by Kayla Wells.,0,2,-2,28,0.4556158174412416,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+3,1,9:15,2355,2355,Jessika Carter Turnover.,0,2,-2,15,0.45501724388899867,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+4,1,9:00,2340,2340,Foul on Jessika Carter.,0,2,-2,0,0.4546922706473648,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+5,1,9:00,2340,2340,Ciera Johnson made Free Throw.,0,3,-3,0,0.4322703531301972,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+6,1,9:00,2340,2340,Ciera Johnson missed Free Throw.,0,3,-3,0,0.4322703531301972,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+7,1,9:00,2340,2340,Jordan Danberry Defensive Rebound.,0,3,-3,13,0.4322703531301972,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+8,1,8:47,2327,2327,Jessika Carter missed Jumper.,0,3,-3,0,0.43184888909472174,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+9,1,8:47,2327,2327,Rickea Jackson Offensive Rebound.,0,3,-3,5,0.43184888909472174,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+10,1,8:42,2322,2322,Foul on Ciera Johnson.,0,3,-3,0,0.4316860139922695,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+11,1,8:42,2322,2322,Rickea Jackson made Free Throw.,1,3,-2,0,0.45429865275097875,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Mississippi State
+12,1,8:42,2322,2322,Rickea Jackson made Free Throw.,2,3,-1,10,0.4771013997479743,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Mississippi State
+13,1,8:32,2312,2312,Aaliyah Wilson missed Jumper.,2,3,-1,0,0.47699055563160475,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+14,1,8:32,2312,2312,Ciera Johnson Offensive Rebound.,2,3,-1,12,0.47699055563160475,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+15,1,8:20,2300,2300,N'dea Jones made Layup. Assisted by Kayla Wells.,2,5,-3,21,0.43096457021193246,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+16,1,7:59,2279,2279,Rickea Jackson missed Jumper.,2,5,-3,0,0.4302692013663114,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+17,1,7:59,2279,2279,N'dea Jones Defensive Rebound.,2,5,-3,10,0.4302692013663114,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+18,1,7:49,2269,2269,Aaliyah Wilson missed Jumper.,2,5,-3,0,0.4299359825185363,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+19,1,7:49,2269,2269,Rickea Jackson Defensive Rebound.,2,5,-3,20,0.4299359825185363,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+20,1,7:29,2249,2249,Chloe Bibby missed Three Point Jumper.,2,5,-3,0,0.4292658988850709,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+21,1,7:29,2249,2249,Aaliyah Wilson Defensive Rebound.,2,5,-3,16,0.4292658988850709,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+22,1,7:13,2233,2233,Ciera Johnson Turnover.,2,5,-3,6,0.428726678572818,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+23,1,7:07,2227,2227,Rickea Jackson made Jumper. Assisted by Jordan Danberry.,4,5,-1,19,0.47602868522233716,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Mississippi State
+24,1,6:48,2208,2208,Ciera Johnson missed Jumper.,4,5,-1,0,0.47580984828110745,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+25,1,6:48,2208,2208,Rickea Jackson Defensive Rebound.,4,5,-1,12,0.47580984828110745,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+26,1,6:36,2196,2196,Foul on Ciera Johnson.,4,5,-1,16,0.4756711037333512,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+27,1,6:20,2180,2180,Foul on Rickea Jackson.,4,5,-1,0,0.47548556302100853,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+28,1,6:20,2180,2180,Rickea Jackson Turnover.,4,5,-1,0,0.47548556302100853,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+29,1,6:20,2180,2180,Shambria Washington Turnover.,4,5,-1,3,0.47548556302100853,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+30,1,6:17,2177,2177,Rickea Jackson missed Jumper.,4,5,-1,0,0.4754507121695394,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+31,1,6:17,2177,2177,N'dea Jones Defensive Rebound.,4,5,-1,17,0.4754507121695394,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+32,1,6:00,2160,2160,Kayla Wells Turnover.,4,5,-1,0,0.4752528051079688,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+33,1,6:00,2160,2160,Jordan Danberry Steal.,4,5,-1,12,0.4752528051079688,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+34,1,5:48,2148,2148,Jessika Carter made Jumper. Assisted by Myah Taylor.,6,5,1,16,0.5248875332213728,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Mississippi State
+35,1,5:32,2132,2132,Cheah Rael-Whitsitt Turnover.,6,5,1,12,0.5250755715999145,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+36,1,5:20,2120,2120,Jessika Carter missed Jumper.,6,5,1,0,0.5252173290431131,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+37,1,5:20,2120,2120,N'dea Jones Defensive Rebound.,6,5,1,0,0.5252173290431131,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+38,1,5:20,2120,2120,Foul on Jessika Carter.,6,5,1,26,0.5252173290431131,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+39,1,4:54,2094,2094,Jasmine Williams Turnover.,6,5,1,0,0.5255267644046429,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+40,1,4:54,2094,2094,Myah Taylor Steal.,6,5,1,5,0.5255267644046429,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+41,1,4:49,2089,2089,Myah Taylor missed Jumper.,6,5,1,0,0.5255866500692816,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+42,1,4:49,2089,2089,N'dea Jones Defensive Rebound.,6,5,1,15,0.5255866500692816,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+43,1,4:34,2074,2074,Shambria Washington Turnover.,6,5,1,3,0.5257670795551526,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+44,1,4:31,2071,2071,Official TV Timeout,6,5,1,19,0.5258033080288738,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+45,1,4:12,2052,2052,Yemiyah Morris made Layup. Assisted by Chloe Bibby.,8,5,3,26,0.5775416280204761,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Mississippi State
+46,1,3:46,2026,2026,Kayla Wells made Layup.,8,7,1,18,0.5263528246544972,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+47,1,3:28,2008,2008,Rickea Jackson made Jumper.,10,7,3,24,0.5791325212715424,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Mississippi State
+48,1,3:04,1984,1984,Aaliyah Wilson missed Jumper.,10,7,3,0,0.5800148818043652,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+49,1,3:04,1984,1984,Chloe Bibby Defensive Rebound.,10,7,3,13,0.5800148818043652,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+50,1,2:51,1971,1971,Jordan Danberry missed Jumper.,10,7,3,0,0.5804974444086886,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+51,1,2:51,1971,1971,Texas A&M Defensive Rebound.,10,7,3,9,0.5804974444086886,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+52,1,2:42,1962,1962,Shambria Washington missed Jumper.,10,7,3,0,0.580833500086444,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+53,1,2:42,1962,1962,Yemiyah Morris Defensive Rebound.,10,7,3,15,0.580833500086444,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+54,1,2:27,1947,1947,Rickea Jackson missed Jumper.,10,7,3,0,0.5813972885459624,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+55,1,2:27,1947,1947,N'dea Jones Defensive Rebound.,10,7,3,15,0.5813972885459624,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+56,1,2:12,1932,1932,Kayla Wells missed Jumper.,10,7,3,0,0.5819658370238904,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+57,1,2:12,1932,1932,Yemiyah Morris Defensive Rebound.,10,7,3,9,0.5819658370238904,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+58,1,2:03,1923,1923,Rickea Jackson missed Layup.,10,7,3,0,0.5823085788430995,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+59,1,2:03,1923,1923,N'dea Jones Defensive Rebound.,10,7,3,22,0.5823085788430995,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+60,1,1:41,1901,1901,Kayla Wells made Jumper.,10,9,1,14,0.5279454540636609,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+61,1,1:27,1887,1887,Chloe Bibby Turnover.,10,9,1,15,0.5281270409839967,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+62,1,1:12,1872,1872,Foul on Myah Taylor.,10,9,1,3,0.5283217541739113,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+63,1,1:09,1869,1869,Kayla Wells made Layup. Assisted by Aaliyah Wilson.,10,11,-1,14,0.4716392614896913,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+64,1,0:55,1855,1855,Xaria Wiggins missed Three Point Jumper.,10,11,-1,0,0.4714570522650251,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+65,1,0:55,1855,1855,N'dea Jones Defensive Rebound.,10,11,-1,15,0.4714570522650251,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+66,1,0:40,1840,1840,Shambria Washington missed Layup.,10,11,-1,0,0.4712611320099359,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+67,1,0:40,1840,1840,Yemiyah Morris Block.,10,11,-1,0,0.4712611320099359,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+68,1,0:40,1840,1840,Yemiyah Morris Defensive Rebound.,10,11,-1,1,0.4712611320099359,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+69,1,0:39,1839,1839,Foul on N'dea Jones.,10,11,-1,12,0.4712480388474865,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+70,1,0:27,1827,1827,Xaria Wiggins Turnover.,10,11,-1,0,0.47109055423599977,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+71,1,0:27,1827,1827,Jasmine Williams Steal.,10,11,-1,7,0.47109055423599977,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+72,1,0:20,1820,1820,Kayla Wells missed Layup.,10,11,-1,0,0.47099834121014167,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+73,1,0:20,1820,1820,Myah Taylor Defensive Rebound.,10,11,-1,15,0.47099834121014167,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+74,1,0:05,1805,1805,Rickea Jackson made Jumper.,12,11,1,5,0.529200264196867,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Mississippi State
+75,1,0:00,1800,1800,End of 1st Quarter,12,11,1,0,0.5292668057759684,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+76,2,10:00,1800,1800,Jump Ball won by Mississippi State,12,11,1,12,0.5292668057759684,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+77,2,9:48,1788,1788,Chloe Bibby missed Three Point Jumper.,12,11,1,0,0.5294272830997627,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+78,2,9:48,1788,1788,Jordan Danberry Offensive Rebound.,12,11,1,14,0.5294272830997627,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+79,2,9:34,1774,1774,Yemiyah Morris Turnover.,12,11,1,21,0.5296160398568243,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+80,2,9:13,1753,1753,Foul on Jasmine Williams.,12,11,1,0,0.5299027173203668,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+81,2,9:13,1753,1753,Jasmine Williams Turnover.,12,11,1,18,0.5299027173203668,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+82,2,8:55,1735,1735,Yemiyah Morris missed Jumper.,12,11,1,0,0.53015230483358,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+83,2,8:55,1735,1735,Jasmine Williams Defensive Rebound.,12,11,1,8,0.53015230483358,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+84,2,8:47,1727,1727,Kayla Wells missed Jumper.,12,11,1,0,0.5302645037705677,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+85,2,8:47,1727,1727,Yemiyah Morris Defensive Rebound.,12,11,1,6,0.5302645037705677,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+86,2,8:41,1721,1721,Jordan Danberry Turnover.,12,11,1,0,0.5303492010359951,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+87,2,8:41,1721,1721,N'dea Jones Steal.,12,11,1,5,0.5303492010359951,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+88,2,8:36,1716,1716,Kayla Wells made Jumper. Assisted by Shambria Washington.,12,13,-1,20,0.46957984556608334,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+89,2,8:16,1696,1696,Chloe Bibby missed Jumper.,12,13,-1,0,0.46929244693541566,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+90,2,8:16,1696,1696,Texas A&M Defensive Rebound.,12,13,-1,6,0.46929244693541566,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+91,2,8:10,1690,1690,Aaliyah Wilson made Jumper.,12,15,-3,21,0.4085391441373022,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+92,2,7:49,1669,1669,Rickea Jackson made Jumper. Assisted by Myah Taylor.,14,15,-1,19,0.4689029980229216,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Mississippi State
+93,2,7:30,1650,1650,Shambria Washington made Jumper.,14,17,-3,16,0.40688575158717183,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+94,2,7:14,1634,1634,Jessika Carter made Jumper.,16,17,-1,0,0.46841611073538614,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Mississippi State
+95,2,7:14,1634,1634,Foul on Jasmine Williams.,16,17,-1,0,0.46841611073538614,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+96,2,7:14,1634,1634,Jessika Carter missed Free Throw.,16,17,-1,0,0.46841611073538614,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+97,2,7:14,1634,1634,Xaria Wiggins Offensive Rebound.,16,17,-1,6,0.46841611073538614,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+98,2,7:08,1628,1628,Jessika Carter missed Jumper.,16,17,-1,0,0.4683340201744518,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+99,2,7:08,1628,1628,N'dea Jones Defensive Rebound.,16,17,-1,10,0.4683340201744518,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+100,2,6:58,1618,1618,Foul on Myah Taylor.,16,17,-1,0,0.4681977238463864,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+101,2,6:58,1618,1618,Kayla Wells made Free Throw.,16,18,-2,0,0.4366517256120925,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+102,2,6:58,1618,1618,Kayla Wells made Free Throw.,16,19,-3,20,0.40561008841491536,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+103,2,6:38,1598,1598,Xaria Wiggins missed Three Point Jumper.,16,19,-3,0,0.40482127427981895,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+104,2,6:38,1598,1598,N'dea Jones Defensive Rebound.,16,19,-3,12,0.40482127427981895,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+105,2,6:26,1586,1586,Kayla Wells missed Three Point Jumper.,16,19,-3,0,0.40434784744273905,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+106,2,6:26,1586,1586,Jordan Danberry Defensive Rebound.,16,19,-3,13,0.40434784744273905,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+107,2,6:13,1573,1573,Rickea Jackson missed Jumper.,16,19,-3,0,0.403832911329311,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+108,2,6:13,1573,1573,Aaliyah Wilson Defensive Rebound.,16,19,-3,10,0.403832911329311,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+109,2,6:03,1563,1563,N'dea Jones Turnover.,16,19,-3,0,0.4034342849463322,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+110,2,6:03,1563,1563,JaMya Mingo-Young Steal.,16,19,-3,9,0.4034342849463322,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+111,2,5:54,1554,1554,Rickea Jackson made Jumper. Assisted by JaMya Mingo-Young.,18,19,-1,22,0.46732351831370933,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Mississippi State
+112,2,5:32,1532,1532,Aaliyah Wilson made Jumper. Assisted by Shambria Washington.,18,21,-3,18,0.4021755399001593,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+113,2,5:14,1514,1514,Rickea Jackson missed Jumper.,18,21,-3,0,0.4014218345030141,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+114,2,5:14,1514,1514,Jessika Carter Offensive Rebound.,18,21,-3,0,0.4014218345030141,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+115,2,5:14,1514,1514,Jessika Carter made Two Point Tip Shot.,20,21,-1,11,0.4667537696524527,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Mississippi State
+116,2,5:03,1503,1503,Kayla Wells made Layup. Assisted by Shambria Washington.,20,23,-3,0,0.4009504668640698,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+117,2,5:03,1503,1503,Foul on Xaria Wiggins.,20,23,-3,0,0.4009504668640698,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+118,2,5:03,1503,1503,Kayla Wells missed Free Throw.,20,23,-3,0,0.4009504668640698,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+119,2,5:03,1503,1503,Jessika Carter Defensive Rebound.,20,23,-3,12,0.4009504668640698,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+120,2,4:51,1491,1491,Jordan Danberry Turnover.,20,23,-3,0,0.4004254462216812,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+121,2,4:51,1491,1491,Aaliyah Wilson Steal.,20,23,-3,8,0.4004254462216812,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+122,2,4:43,1483,1483,N'dea Jones made Layup.,20,25,-5,24,0.33731124595055595,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+123,2,4:19,1459,1459,Andra Espinoza-Hunter Turnover.,20,25,-5,0,0.33559220571545256,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+124,2,4:19,1459,1459,Official TV Timeout,20,25,-5,20,0.33559220571545256,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+125,2,3:59,1439,1439,Kayla Wells missed Jumper.,20,25,-5,0,0.33410768748560465,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+126,2,3:59,1439,1439,Kayla Wells Offensive Rebound.,20,25,-5,3,0.33410768748560465,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+127,2,3:56,1436,1436,Kayla Wells made Layup.,20,27,-7,14,0.27549711544910477,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+128,2,3:42,1422,1422,Jordan Danberry Turnover.,20,27,-7,0,0.27423568371174417,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+129,2,3:42,1422,1422,Aaliyah Wilson Steal.,20,27,-7,5,0.27423568371174417,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+130,2,3:37,1417,1417,Aaliyah Wilson made Jumper.,20,29,-9,10,0.2219799967052829,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+131,2,3:27,1407,1407,Mississippi State  Timeout,20,29,-9,16,0.22100420785199007,Mississippi State,Texas A&M,3,4,1,0,NA,401166705,2020-02-09,
+132,2,3:11,1391,1391,Andra Espinoza-Hunter missed Jumper.,20,29,-9,0,0.21947153841241424,Mississippi State,Texas A&M,3,4,1,0,NA,401166705,2020-02-09,
+133,2,3:11,1391,1391,N'dea Jones Block.,20,29,-9,0,0.21947153841241424,Mississippi State,Texas A&M,3,4,1,0,NA,401166705,2020-02-09,
+134,2,3:11,1391,1391,Aaliyah Wilson Defensive Rebound.,20,29,-9,8,0.21947153841241424,Mississippi State,Texas A&M,3,4,1,0,NA,401166705,2020-02-09,
+135,2,3:03,1383,1383,N'dea Jones made Jumper.,20,31,-11,17,0.17420737754760574,Mississippi State,Texas A&M,3,4,1,0,NA,401166705,2020-02-09,Texas A&M
+136,2,2:46,1366,1366,Rickea Jackson made Layup. Assisted by Andra Espinoza-Hunter.,22,31,-9,19,0.21712010270297227,Mississippi State,Texas A&M,3,4,1,0,NA,401166705,2020-02-09,Mississippi State
+137,2,2:27,1347,1347,Jasmine Williams made Jumper. Assisted by Aaliyah Wilson.,22,33,-11,17,0.17074569176401014,Mississippi State,Texas A&M,3,4,1,0,NA,401166705,2020-02-09,Texas A&M
+138,2,2:10,1330,1330,Aliyah Matharu missed Three Point Jumper.,22,33,-11,0,0.16910748838444833,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+139,2,2:10,1330,1330,Shambria Washington Defensive Rebound.,22,33,-11,17,0.16910748838444833,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+140,2,1:53,1313,1313,Shambria Washington Turnover.,22,33,-11,0,0.1674470909657306,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+141,2,1:53,1313,1313,JaMya Mingo-Young Steal.,22,33,-11,6,0.1674470909657306,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+142,2,1:47,1307,1307,JaMya Mingo-Young made Layup.,24,33,-9,28,0.21153212511829195,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,Mississippi State
+143,2,1:19,1279,1279,Jump Ball won by Texas A&M,24,33,-9,3,0.20873019296162967,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+144,2,1:16,1276,1276,Aaliyah Wilson missed Jumper.,24,33,-9,0,0.20842040377463647,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+145,2,1:16,1276,1276,JaMya Mingo-Young Defensive Rebound.,24,33,-9,10,0.20842040377463647,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+146,2,1:06,1266,1266,Foul on Rickea Jackson.,24,33,-9,0,0.2073720243642728,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+147,2,1:06,1266,1266,Rickea Jackson Turnover.,24,33,-9,20,0.2073720243642728,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+148,2,0:46,1246,1246,Foul on Andra Espinoza-Hunter.,24,33,-9,0,0.20519408943744286,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+149,2,0:46,1246,1246,N'dea Jones made Free Throw.,24,34,-10,0,0.18174018142677614,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,Texas A&M
+150,2,0:46,1246,1246,N'dea Jones made Free Throw.,24,35,-11,17,0.16042597858588872,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,Texas A&M
+151,2,0:29,1229,1229,JaMya Mingo-Young made Jumper.,26,35,-9,10,0.20324541293385984,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,Mississippi State
+152,2,0:19,1219,1219,Foul on Aliyah Matharu.,26,35,-9,0,0.20205219650372033,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+153,2,0:19,1219,1219,Jasmine Williams made Free Throw.,26,36,-10,0,0.17856059860939047,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,Texas A&M
+154,2,0:19,1219,1219,Jasmine Williams made Free Throw.,26,37,-11,16,0.15726196813565083,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,Texas A&M
+155,2,0:03,1203,1203,JaMya Mingo-Young missed Three Point Jumper.,26,37,-11,1,0.15528524122536655,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+156,2,0:02,1202,1202,Mississippi State Offensive Rebound.,26,37,-11,2,0.15516282894741212,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+157,2,0:00,1200,1200,End of 2nd Quarter,26,37,-11,0,0.15491898598161316,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+158,3,10:00,1200,1200,Jump Ball won by Mississippi State,26,37,-11,28,0.15491898598161316,Mississippi State,Texas A&M,4,5,0,0,NA,401166705,2020-02-09,
+159,3,9:32,1172,1172,Xaria Wiggins made Three Point Jumper. Assisted by Jordan Danberry.,29,37,-8,30,0.22230098615907762,Mississippi State,Texas A&M,4,5,0,0,NA,401166705,2020-02-09,Mississippi State
+160,3,9:02,1142,1142,Ciera Johnson missed Jumper.,29,37,-8,0,0.21900576864454985,Mississippi State,Texas A&M,4,5,0,0,NA,401166705,2020-02-09,
+161,3,9:02,1142,1142,Xaria Wiggins Block.,29,37,-8,0,0.21900576864454985,Mississippi State,Texas A&M,4,5,0,0,NA,401166705,2020-02-09,
+162,3,9:02,1142,1142,Jessika Carter Defensive Rebound.,29,37,-8,10,0.21900576864454985,Mississippi State,Texas A&M,4,5,0,0,NA,401166705,2020-02-09,
+163,3,8:52,1132,1132,Rickea Jackson missed Jumper.,29,37,-8,0,0.2179227645408244,Mississippi State,Texas A&M,4,5,0,0,NA,401166705,2020-02-09,
+164,3,8:52,1132,1132,Ciera Johnson Defensive Rebound.,29,37,-8,22,0.2179227645408244,Mississippi State,Texas A&M,4,5,0,0,NA,401166705,2020-02-09,
+165,3,8:30,1110,1110,Foul on N'dea Jones.,29,37,-8,0,0.21554009446037822,Mississippi State,Texas A&M,4,5,0,1,NA,401166705,2020-02-09,
+166,3,8:30,1110,1110,N'dea Jones Turnover.,29,37,-8,0,0.21554009446037822,Mississippi State,Texas A&M,4,5,0,1,NA,401166705,2020-02-09,
+167,3,8:30,1110,1110,Texas A&M  Timeout,29,37,-8,0,0.21554009446037822,Mississippi State,Texas A&M,4,4,0,1,NA,401166705,2020-02-09,
+168,3,8:30,1110,1110,Official TV Timeout,29,37,-8,13,0.21554009446037822,Mississippi State,Texas A&M,4,4,0,1,NA,401166705,2020-02-09,
+169,3,8:17,1097,1097,Jordan Danberry missed Jumper.,29,37,-8,0,0.21411971186867376,Mississippi State,Texas A&M,4,4,0,1,NA,401166705,2020-02-09,
+170,3,8:17,1097,1097,N'dea Jones Defensive Rebound.,29,37,-8,17,0.21411971186867376,Mississippi State,Texas A&M,4,4,0,1,NA,401166705,2020-02-09,
+171,3,8:00,1080,1080,Aaliyah Wilson made Jumper.,29,39,-10,19,0.1625467747398098,Mississippi State,Texas A&M,4,4,0,1,NA,401166705,2020-02-09,Texas A&M
+172,3,7:41,1061,1061,Rickea Jackson missed Three Point Jumper.,29,39,-10,0,0.16034409354359044,Mississippi State,Texas A&M,4,4,0,1,NA,401166705,2020-02-09,
+173,3,7:41,1061,1061,Aaliyah Wilson Defensive Rebound.,29,39,-10,26,0.16034409354359044,Mississippi State,Texas A&M,4,4,0,1,NA,401166705,2020-02-09,
+174,3,7:15,1035,1035,Foul on Jessika Carter.,29,39,-10,0,0.15719997928490656,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+175,3,7:15,1035,1035,N'dea Jones made Free Throw.,29,40,-11,0,0.13620997848389607,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+176,3,7:15,1035,1035,N'dea Jones made Free Throw.,29,41,-12,22,0.11763147535080556,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+177,3,6:53,1013,1013,Xaria Wiggins missed Three Point Jumper.,29,41,-12,0,0.11499295382650318,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+178,3,6:53,1013,1013,Aaliyah Wilson Defensive Rebound.,29,41,-12,28,0.11499295382650318,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+179,3,6:25,985,985,Aaliyah Wilson missed Jumper.,29,41,-12,0,0.11141942301957244,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+180,3,6:25,985,985,Jessika Carter Defensive Rebound.,29,41,-12,20,0.11141942301957244,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+181,3,6:05,965,965,Jessika Carter made Jumper. Assisted by Myah Taylor.,31,41,-10,27,0.14763234441742146,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Mississippi State
+182,3,5:38,938,938,N'dea Jones made Layup.,31,43,-12,17,0.1054104947459099,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+183,3,5:21,921,921,Jessika Carter made Jumper. Assisted by Myah Taylor.,33,43,-10,15,0.14204112212531397,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Mississippi State
+184,3,5:06,906,906,Kayla Wells missed Three Point Jumper.,33,43,-10,0,0.14038332948036536,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+185,3,5:06,906,906,Ciera Johnson Offensive Rebound.,33,43,-10,5,0.14038332948036536,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+186,3,5:01,901,901,Ciera Johnson made Layup.,33,45,-12,19,0.10157284518069397,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Texas A&M
+187,3,4:42,882,882,Xaria Wiggins made Three Point Jumper. Assisted by Myah Taylor.,36,45,-9,3,0.16112484179458175,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Mississippi State
+188,3,4:39,879,879,Mississippi State  Timeout,36,45,-9,0,0.16080702353806786,Mississippi State,Texas A&M,3,4,1,0,NA,401166705,2020-02-09,
+189,3,4:39,879,879,Official TV Timeout,36,45,-9,23,0.16080702353806786,Mississippi State,Texas A&M,3,4,1,0,NA,401166705,2020-02-09,
+190,3,4:16,856,856,Aaliyah Wilson missed Three Point Jumper.,36,45,-9,0,0.15835860285557302,Mississippi State,Texas A&M,3,4,1,0,NA,401166705,2020-02-09,
+191,3,4:16,856,856,Ciera Johnson Offensive Rebound.,36,45,-9,6,0.15835860285557302,Mississippi State,Texas A&M,3,4,1,0,NA,401166705,2020-02-09,
+192,3,4:10,850,850,Ciera Johnson missed Layup.,36,45,-9,0,0.1577076658292565,Mississippi State,Texas A&M,3,4,1,0,NA,401166705,2020-02-09,
+193,3,4:10,850,850,Texas A&M Offensive Rebound.,36,45,-9,3,0.1577076658292565,Mississippi State,Texas A&M,3,4,1,0,NA,401166705,2020-02-09,
+194,3,4:07,847,847,Aaliyah Wilson made Jumper. Assisted by Shambria Washington.,36,47,-11,27,0.11397979732923125,Mississippi State,Texas A&M,3,4,1,0,NA,401166705,2020-02-09,Texas A&M
+195,3,3:40,820,820,Xaria Wiggins missed Jumper.,36,47,-11,0,0.11110438725747655,Mississippi State,Texas A&M,3,4,1,0,NA,401166705,2020-02-09,
+196,3,3:40,820,820,Ciera Johnson Defensive Rebound.,36,47,-11,7,0.11110438725747655,Mississippi State,Texas A&M,3,4,1,0,NA,401166705,2020-02-09,
+197,3,3:33,813,813,Kayla Wells missed Jumper.,36,47,-11,0,0.1103119394576894,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+198,3,3:33,813,813,Xaria Wiggins Defensive Rebound.,36,47,-11,13,0.1103119394576894,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+199,3,3:20,800,800,Foul on Ciera Johnson.,36,47,-11,0,0.10877397941764434,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+200,3,3:20,800,800,Rickea Jackson missed Free Throw.,36,47,-11,0,0.10877397941764434,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+201,3,3:20,800,800,Mississippi State Deadball Team Rebound.,36,47,-11,0,0.10877397941764434,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+202,3,3:20,800,800,Rickea Jackson made Free Throw.,37,47,-10,10,0.12874348845690342,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,Mississippi State
+203,3,3:10,790,790,N'dea Jones missed Jumper.,37,47,-10,0,0.12742825795666465,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+204,3,3:10,790,790,Rickea Jackson Defensive Rebound.,37,47,-10,4,0.12742825795666465,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+205,3,3:06,786,786,Rickea Jackson missed Jumper.,37,47,-10,0,0.12688288815609897,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+206,3,3:06,786,786,Ciera Johnson Defensive Rebound.,37,47,-10,21,0.12688288815609897,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+207,3,2:45,765,765,Shambria Washington Turnover.,37,47,-10,10,0.12381892353722702,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+208,3,2:35,755,755,Xaria Wiggins missed Jumper.,37,47,-10,0,0.12223048419707577,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+209,3,2:35,755,755,N'dea Jones Defensive Rebound.,37,47,-10,19,0.12223048419707577,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+210,3,2:16,736,736,Shambria Washington Turnover.,37,47,-10,0,0.1189582192095893,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+211,3,2:16,736,736,Myah Taylor Steal.,37,47,-10,6,0.1189582192095893,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,
+212,3,2:10,730,730,Myah Taylor made Layup.,39,47,-8,11,0.16654059856713196,Mississippi State,Texas A&M,3,4,0,0,NA,401166705,2020-02-09,Mississippi State
+213,3,1:59,719,719,Texas A&M  Timeout,39,47,-8,0,0.1644404843086809,Mississippi State,Texas A&M,3,3,0,1,NA,401166705,2020-02-09,
+214,3,1:59,719,719,Texas A&M  Turnover.,39,47,-8,7,0.1644404843086809,Mississippi State,Texas A&M,3,3,0,1,NA,401166705,2020-02-09,
+215,3,1:52,712,712,Myah Taylor made Layup.,41,47,-6,25,0.22688952386560568,Mississippi State,Texas A&M,3,3,0,1,NA,401166705,2020-02-09,Mississippi State
+216,3,1:27,687,687,Aaliyah Wilson missed Jumper.,41,47,-6,0,0.2230401857811141,Mississippi State,Texas A&M,3,3,0,1,NA,401166705,2020-02-09,
+217,3,1:27,687,687,N'dea Jones Offensive Rebound.,41,47,-6,5,0.2230401857811141,Mississippi State,Texas A&M,3,3,0,1,NA,401166705,2020-02-09,
+218,3,1:22,682,682,N'dea Jones made Layup.,41,49,-8,21,0.15848381646316442,Mississippi State,Texas A&M,3,3,0,1,NA,401166705,2020-02-09,Texas A&M
+219,3,1:01,661,661,Xaria Wiggins missed Jumper.,41,49,-8,0,0.15550104897542605,Mississippi State,Texas A&M,3,3,0,1,NA,401166705,2020-02-09,
+220,3,1:01,661,661,Jessika Carter Offensive Rebound.,41,49,-8,8,0.15550104897542605,Mississippi State,Texas A&M,3,3,0,1,NA,401166705,2020-02-09,
+221,3,0:53,653,653,Myah Taylor made Jumper.,43,49,-6,14,0.21831763943234941,Mississippi State,Texas A&M,3,3,0,0,NA,401166705,2020-02-09,Mississippi State
+222,3,0:39,639,639,Aaliyah Wilson missed Jumper.,43,49,-6,0,0.21635652694098362,Mississippi State,Texas A&M,3,3,0,0,NA,401166705,2020-02-09,
+223,3,0:39,639,639,N'dea Jones Offensive Rebound.,43,49,-6,3,0.21635652694098362,Mississippi State,Texas A&M,3,3,0,0,NA,401166705,2020-02-09,
+224,3,0:36,636,636,Jump Ball won by Texas A&M,43,49,-6,4,0.21592539743497224,Mississippi State,Texas A&M,3,3,0,0,NA,401166705,2020-02-09,
+225,3,0:32,632,632,Kayla Wells missed Jumper.,43,49,-6,0,0.21534245837728622,Mississippi State,Texas A&M,3,3,0,0,NA,401166705,2020-02-09,
+226,3,0:32,632,632,Jessika Carter Defensive Rebound.,43,49,-6,23,0.21534245837728622,Mississippi State,Texas A&M,3,3,0,0,NA,401166705,2020-02-09,
+227,3,0:09,609,609,Rickea Jackson missed Jumper.,43,49,-6,0,0.2117454124043689,Mississippi State,Texas A&M,3,3,0,0,NA,401166705,2020-02-09,
+228,3,0:09,609,609,Shambria Washington Defensive Rebound.,43,49,-6,6,0.2117454124043689,Mississippi State,Texas A&M,3,3,0,0,NA,401166705,2020-02-09,
+229,3,0:03,603,603,Kayla Wells missed Three Point Jumper.,43,49,-6,0,0.21071864810450286,Mississippi State,Texas A&M,3,3,0,0,NA,401166705,2020-02-09,
+230,3,0:03,603,603,Mississippi State Deadball Team Rebound.,43,49,-6,3,0.21071864810450286,Mississippi State,Texas A&M,3,3,0,0,NA,401166705,2020-02-09,
+231,3,0:00,600,600,End of 3rd Quarter,43,49,-6,0,0.2101886602059725,Mississippi State,Texas A&M,3,3,0,0,NA,401166705,2020-02-09,
+232,4,10:00,600,600,Jump Ball won by Mississippi State,43,49,-6,13,0.2101886602059725,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+233,4,9:47,587,587,Myah Taylor made Jumper.,45,49,-4,16,0.2906223494701497,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Mississippi State
+234,4,9:31,571,571,Kayla Wells missed Jumper.,45,49,-4,0,0.2878026741684827,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+235,4,9:31,571,571,Xaria Wiggins Block.,45,49,-4,0,0.2878026741684827,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+236,4,9:31,571,571,Texas A&M Offensive Rebound.,45,49,-4,10,0.2878026741684827,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+237,4,9:21,561,561,Foul on N'dea Jones.,45,49,-4,0,0.28583421284987337,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+238,4,9:21,561,561,N'dea Jones Turnover.,45,49,-4,10,0.28583421284987337,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+239,4,9:11,551,551,Jayla Hemingway made Layup.,47,49,-2,23,0.3862459142801408,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Mississippi State
+240,4,8:48,528,528,N'dea Jones missed Jumper.,47,49,-2,0,0.38355546606232876,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+241,4,8:48,528,528,Xaria Wiggins Defensive Rebound.,47,49,-2,14,0.38355546606232876,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+242,4,8:34,514,514,Xaria Wiggins Turnover.,47,49,-2,0,0.3821690007929303,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+243,4,8:34,514,514,Ciera Johnson Steal.,47,49,-2,7,0.3821690007929303,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+244,4,8:27,507,507,Foul on Xaria Wiggins.,47,49,-2,8,0.38150716650247163,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+245,4,8:19,499,499,Shambria Washington missed Layup.,47,49,-2,0,0.38075493725155396,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+246,4,8:19,499,499,Myah Taylor Defensive Rebound.,47,49,-2,16,0.38075493725155396,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+247,4,8:03,483,483,Jessika Carter made Layup. Assisted by Myah Taylor.,49,49,0,0,0.5,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Mississippi State
+248,4,8:03,483,483,Foul on Kayla Wells.,49,49,0,0,0.5,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+249,4,8:03,483,483,Jessika Carter made Free Throw.,50,49,1,2,0.5613130072457982,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Mississippi State
+250,4,8:01,481,481,Shambria Washington Turnover.,50,49,1,0,0.5614212202311549,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+251,4,8:01,481,481,Rickea Jackson Steal.,50,49,1,27,0.5614212202311549,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+252,4,7:34,454,454,Jayla Hemingway missed Three Point Jumper.,50,49,1,0,0.563125609571123,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+253,4,7:34,454,454,Rickea Jackson Offensive Rebound.,50,49,1,4,0.563125609571123,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,
+254,4,7:30,450,450,Rickea Jackson made Layup.,52,49,3,1,0.6824990404712643,Mississippi State,Texas A&M,4,4,0,0,NA,401166705,2020-02-09,Mississippi State
+255,4,7:29,449,449,Texas A&M  Timeout,52,49,3,0,0.6827068253182516,Mississippi State,Texas A&M,4,3,0,1,NA,401166705,2020-02-09,
+256,4,7:29,449,449,Official TV Timeout,52,49,3,7,0.6827068253182516,Mississippi State,Texas A&M,4,3,0,1,NA,401166705,2020-02-09,
+257,4,7:22,442,442,Aaliyah Wilson made Jumper.,52,51,1,24,0.5640900270470465,Mississippi State,Texas A&M,4,3,0,1,NA,401166705,2020-02-09,Texas A&M
+258,4,6:58,418,418,Myah Taylor made Jumper.,54,51,3,35,0.6903351959095613,Mississippi State,Texas A&M,4,3,0,1,NA,401166705,2020-02-09,Mississippi State
+259,4,6:23,383,383,Kayla Wells missed Jumper.,54,51,3,0,0.6985589956018912,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,
+260,4,6:23,383,383,Ciera Johnson Offensive Rebound.,54,51,3,1,0.6985589956018912,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,
+261,4,6:22,382,382,Foul on Jayla Hemingway.,54,51,3,1,0.6987947625365203,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,
+262,4,6:21,381,381,Kayla Wells made Jumper. Assisted by Shambria Washington.,54,53,1,19,0.5697659999214687,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,Texas A&M
+263,4,6:02,362,362,Foul on N'dea Jones.,54,53,1,0,0.5716120662639479,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,
+264,4,6:02,362,362,Rickea Jackson missed Free Throw.,54,53,1,0,0.5716120662639479,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,
+265,4,6:02,362,362,Mississippi State Deadball Team Rebound.,54,53,1,0,0.5716120662639479,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,
+266,4,6:02,362,362,Rickea Jackson missed Free Throw.,54,53,1,0,0.5716120662639479,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,
+267,4,6:02,362,362,Kayla Wells Defensive Rebound.,54,53,1,0,0.5716120662639479,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,
+268,4,6:02,362,362,Foul on Jessika Carter.,54,53,1,5,0.5716120662639479,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,
+269,4,5:57,357,357,Foul on Rickea Jackson.,54,53,1,20,0.572141904864454,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,
+270,4,5:37,337,337,Shambria Washington missed Jumper.,54,53,1,0,0.5745345283831335,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,
+271,4,5:37,337,337,Jessika Carter Block.,54,53,1,0,0.5745345283831335,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,
+272,4,5:37,337,337,Rickea Jackson Defensive Rebound.,54,53,1,23,0.5745345283831335,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,
+273,4,5:14,314,314,Xaria Wiggins missed Three Point Jumper.,54,53,1,0,0.5780190163717189,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,
+274,4,5:14,314,314,Rickea Jackson Offensive Rebound.,54,53,1,5,0.5780190163717189,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,
+275,4,5:09,309,309,Rickea Jackson made Layup.,56,53,3,22,0.7220773939924091,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,Mississippi State
+276,4,4:47,287,287,Shambria Washington Turnover.,56,53,3,0,0.7260225733272759,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,
+277,4,4:47,287,287,Xaria Wiggins Steal.,56,53,3,7,0.7260225733272759,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,
+278,4,4:40,280,280,Rickea Jackson made Layup. Assisted by Xaria Wiggins.,58,53,5,4,0.8349055121973116,Mississippi State,Texas A&M,4,3,0,0,NA,401166705,2020-02-09,Mississippi State
+279,4,4:36,276,276,Texas A&M  Timeout,58,53,5,11,0.8343730135615165,Mississippi State,Texas A&M,4,2,0,1,NA,401166705,2020-02-09,
+280,4,4:25,265,265,Aaliyah Wilson missed Jumper.,58,53,5,0,0.8322950291244372,Mississippi State,Texas A&M,4,2,0,1,NA,401166705,2020-02-09,
+281,4,4:25,265,265,Xaria Wiggins Defensive Rebound.,58,53,5,13,0.8322950291244372,Mississippi State,Texas A&M,4,2,0,1,NA,401166705,2020-02-09,
+282,4,4:12,252,252,Rickea Jackson missed Jumper.,58,53,5,0,0.8295942359398817,Mississippi State,Texas A&M,4,2,0,1,NA,401166705,2020-02-09,
+283,4,4:12,252,252,Rickea Jackson Offensive Rebound.,58,53,5,4,0.8295942359398817,Mississippi State,Texas A&M,4,2,0,1,NA,401166705,2020-02-09,
+284,4,4:08,248,248,Rickea Jackson missed Jumper.,58,53,5,0,0.8289152164651781,Mississippi State,Texas A&M,4,2,0,1,NA,401166705,2020-02-09,
+285,4,4:08,248,248,Aaliyah Wilson Defensive Rebound.,58,53,5,19,0.8289152164651781,Mississippi State,Texas A&M,4,2,0,1,NA,401166705,2020-02-09,
+286,4,3:49,229,229,Ciera Johnson made Jumper.,58,55,3,24,0.720037774507312,Mississippi State,Texas A&M,4,2,0,1,NA,401166705,2020-02-09,Texas A&M
+287,4,3:25,205,205,Foul on Ciera Johnson.,58,55,3,0,0.7293812487962947,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+288,4,3:25,205,205,Jessika Carter made Free Throw.,59,55,4,0,0.7895110628510629,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,Mississippi State
+289,4,3:25,205,205,Jessika Carter made Free Throw.,60,55,5,29,0.8392253996398844,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,Mississippi State
+290,4,2:56,176,176,Texas A&M  Turnover.,60,55,5,18,0.8722888451668948,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+291,4,2:38,158,158,Myah Taylor missed Layup.,60,55,5,0,0.8931146652254178,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+292,4,2:38,158,158,Rickea Jackson Offensive Rebound.,60,55,5,5,0.8931146652254178,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+293,4,2:33,153,153,Rickea Jackson missed Layup.,60,55,5,0,0.8987277593762579,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+294,4,2:33,153,153,Ciera Johnson Block.,60,55,5,0,0.8987277593762579,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+295,4,2:33,153,153,Shambria Washington Defensive Rebound.,60,55,5,11,0.8987277593762579,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+296,4,2:22,142,142,Kayla Wells missed Jumper.,60,55,5,0,0.910891203781119,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+297,4,2:22,142,142,N'dea Jones Offensive Rebound.,60,55,5,0,0.910891203781119,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+298,4,2:22,142,142,Foul on Xaria Wiggins.,60,55,5,0,0.910891203781119,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+299,4,2:22,142,142,N'dea Jones missed Free Throw.,60,55,5,0,0.910891203781119,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+300,4,2:22,142,142,Texas A&M Deadball Team Rebound.,60,55,5,0,0.910891203781119,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+301,4,2:22,142,142,N'dea Jones missed Free Throw.,60,55,5,0,0.910891203781119,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+302,4,2:22,142,142,Jessika Carter Defensive Rebound.,60,55,5,24,0.910891203781119,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+303,4,1:58,118,118,Myah Taylor made Jumper.,62,55,7,17,0.9773713357784517,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,Mississippi State
+304,4,1:41,101,101,Kayla Wells Turnover.,62,55,7,0,0.9854401022550683,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+305,4,1:41,101,101,Myah Taylor Steal.,62,55,7,5,0.9854401022550683,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+306,4,1:36,96,96,Myah Taylor made Layup.,64,55,9,22,0.9963536133449915,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,Mississippi State
+307,4,1:14,74,74,Kayla Wells missed Jumper.,64,55,9,0,0.9985299881795381,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+308,4,1:14,74,74,Ciera Johnson Offensive Rebound.,64,55,9,2,0.9985299881795381,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+309,4,1:12,72,72,Foul on Jessika Carter.,64,55,9,0,0.998655785666953,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+310,4,1:12,72,72,Ciera Johnson made Free Throw.,64,56,8,0,0.9972021138759982,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,Texas A&M
+311,4,1:12,72,72,Ciera Johnson made Free Throw.,64,57,7,11,0.9941855527312995,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,Texas A&M
+312,4,1:01,61,61,Foul on Jasmine Williams.,64,57,7,0,0.996088661261065,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+313,4,1:01,61,61,Jordan Danberry made Free Throw.,65,57,8,0,0.99822358311674,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,Mississippi State
+314,4,1:01,61,61,Jordan Danberry made Free Throw.,66,57,9,6,0.9991941456023136,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,Mississippi State
+315,4,0:55,55,55,Shambria Washington missed Three Point Jumper.,66,57,9,0,0.9993977372483436,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+316,4,0:55,55,55,Yemiyah Morris Defensive Rebound.,66,57,9,4,0.9993977372483436,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+317,4,0:51,51,51,Foul on Ciera Johnson.,66,57,9,0,0.9995067044472361,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+318,4,0:51,51,51,Jordan Danberry made Free Throw.,67,57,10,0,0.9997882512798644,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,Mississippi State
+319,4,0:51,51,51,Jordan Danberry missed Free Throw.,67,57,10,0,0.9997882512798644,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+320,4,0:51,51,51,N'dea Jones Defensive Rebound.,67,57,10,7,0.9997882512798644,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+321,4,0:44,44,44,Aaliyah Wilson missed Three Point Jumper.,67,57,10,0,0.9998582283618525,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+322,4,0:44,44,44,Mississippi State Defensive Rebound.,67,57,10,7,0.9998582283618525,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+323,4,0:37,37,37,Foul on N'dea Jones.,67,57,10,0,0.9999067214808122,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+324,4,0:37,37,37,Myah Taylor made Free Throw.,68,57,11,0,0.999963120217277,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,Mississippi State
+325,4,0:37,37,37,Myah Taylor made Free Throw.,69,57,12,7,0.9999854192368997,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,Mississippi State
+326,4,0:30,30,30,Jasmine Williams missed Three Point Jumper.,69,57,12,0,0.9999913360404823,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+327,4,0:30,30,30,Rickea Jackson Defensive Rebound.,69,57,12,30,0.9999913360404823,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,
+328,4,0:00,0,0,End of Game,69,57,12,0,1,Mississippi State,Texas A&M,4,2,0,0,NA,401166705,2020-02-09,

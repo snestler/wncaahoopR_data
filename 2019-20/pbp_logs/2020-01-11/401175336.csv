@@ -1,0 +1,378 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:45,2385,2385,Anacia Wilkinson Turnover.,0,0,0,0,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,NA
+2,1,9:45,2385,2385,Macey Turley Steal.,0,0,0,5,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+3,1,9:40,2380,2380,Macey Turley Turnover.,0,0,0,11,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+4,1,9:29,2369,2369,Foul on Cekeya Mack.,0,0,0,0,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+5,1,9:29,2369,2369,Kesha Brady missed Free Throw.,0,0,0,0,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+6,1,9:29,2369,2369,Tennessee Tech Offensive Rebound.,0,0,0,0,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+7,1,9:29,2369,2369,Kesha Brady missed Free Throw.,0,0,0,2,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+8,1,9:27,2367,2367,Alexis Burpo Defensive Rebound.,0,0,0,7,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+9,1,9:20,2360,2360,Cekeya Mack missed Layup.,0,0,0,0,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+10,1,9:20,2360,2360,Anacia Wilkinson Block.,0,0,0,4,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+11,1,9:16,2356,2356,Jordan Brock Defensive Rebound.,0,0,0,5,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+12,1,9:11,2351,2351,Anacia Wilkinson made Jumper. Assisted by Jordan Brock.,2,0,2,12,0.5450691340700113,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Tennessee Tech
+13,1,8:59,2339,2339,Macey Turley missed Layup.,2,0,2,3,0.5453294949396444,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+14,1,8:56,2336,2336,Kesha Brady Defensive Rebound.,2,0,2,3,0.5453948652273468,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+15,1,8:53,2333,2333,Anacia Wilkinson Turnover.,2,0,2,15,0.5454603446991073,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+16,1,8:38,2318,2318,Macey Turley made Layup.,2,2,0,9,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+17,1,8:29,2309,2309,Akia Harris missed Layup.,2,2,0,3,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+18,1,8:26,2306,2306,Cekeya Mack Defensive Rebound.,2,2,0,3,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+19,1,8:23,2303,2303,Macey Turley missed Layup.,2,2,0,0,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+20,1,8:23,2303,2303,Anacia Wilkinson Block.,2,2,0,0,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+21,1,8:23,2303,2303,Murray State Offensive Rebound.,2,2,0,4,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+22,1,8:19,2299,2299,Lex Mayes missed Three Point Jumper.,2,2,0,4,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+23,1,8:15,2295,2295,Alexis Burpo Offensive Rebound.,2,2,0,1,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+24,1,8:14,2294,2294,Sadie Hill made Layup. Assisted by Alexis Burpo.,2,4,-2,28,0.4536791332234905,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+25,1,7:46,2266,2266,Anacia Wilkinson missed Layup.,2,4,-2,3,0.45305183568790486,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+26,1,7:43,2263,2263,Sadie Hill Defensive Rebound.,2,4,-2,5,0.45298421201451977,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+27,1,7:38,2258,2258,Alexis Burpo missed Jumper.,2,4,-2,4,0.4528713407795984,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+28,1,7:34,2254,2254,Akia Harris Defensive Rebound.,2,4,-2,3,0.45278089897456814,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+29,1,7:31,2251,2251,Kesha Brady missed Layup.,2,4,-2,2,0.4527129853514023,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+30,1,7:29,2249,2249,Macey Turley Defensive Rebound.,2,4,-2,3,0.4526676712149446,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+31,1,7:26,2246,2246,Foul on Cekeya Mack.,2,4,-2,0,0.4525996434796062,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+32,1,7:26,2246,2246,Cekeya Mack Turnover.,2,4,-2,15,0.4525996434796062,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+33,1,7:11,2231,2231,Mackenzie Coleman made Jumper. Assisted by Anacia Wilkinson.,4,4,0,14,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Tennessee Tech
+34,1,6:57,2217,2217,Cekeya Mack made Layup. Assisted by Sadie Hill.,4,6,-2,16,0.45193882090682996,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+35,1,6:41,2201,2201,Anacia Wilkinson missed Jumper.,4,6,-2,4,0.45157203243936533,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+36,1,6:37,2197,2197,Macey Turley Defensive Rebound.,4,6,-2,5,0.45148012553608485,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+37,1,6:32,2192,2192,Foul on Anacia Wilkinson.,4,6,-2,6,0.45136513373923337,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+38,1,6:26,2186,2186,Macey Turley missed Jumper.,4,6,-2,0,0.45122699359142715,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+39,1,6:26,2186,2186,Laci Hawthorne Offensive Rebound.,4,6,-2,0,0.45122699359142715,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+40,1,6:26,2186,2186,Foul on Akia Harris.,4,6,-2,0,0.45122699359142715,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+41,1,6:26,2186,2186,Laci Hawthorne missed Free Throw.,4,6,-2,0,0.45122699359142715,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+42,1,6:26,2186,2186,Murray State Offensive Rebound.,4,6,-2,0,0.45122699359142715,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+43,1,6:26,2186,2186,Laci Hawthorne made Free Throw.,4,7,-3,14,0.427129719175092,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+44,1,6:12,2172,2172,Akia Harris missed Three Point Jumper.,4,7,-3,3,0.4266511374356508,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+45,1,6:09,2169,2169,Murray State Defensive Rebound.,4,7,-3,9,0.4265484511850659,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+46,1,6:00,2160,2160,Lex Mayes missed Three Point Jumper.,4,7,-3,3,0.4262398616956621,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+47,1,5:57,2157,2157,Akia Harris Defensive Rebound.,4,7,-3,8,0.4261368060846866,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+48,1,5:49,2149,2149,Jordan Brock made Three Point Jumper. Assisted by Kesha Brady.,7,7,0,16,0.5,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Tennessee Tech
+49,1,5:33,2133,2133,Macey Turley made Three Point Jumper. Assisted by Alexis Burpo.,7,10,-3,18,0.425308705660547,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+50,1,5:15,2115,2115,Mackenzie Coleman made Layup. Assisted by Akia Harris.,9,10,-1,16,0.4747234130496318,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Tennessee Tech
+51,1,4:59,2099,2099,Alexis Burpo missed Jumper.,9,10,-1,2,0.4745329960623789,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+52,1,4:57,2097,2097,Alexis Burpo Offensive Rebound.,9,10,-1,1,0.47450910676291413,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+53,1,4:56,2096,2096,Alexis Burpo missed Jumper.,9,10,-1,4,0.4744971546865564,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+54,1,4:52,2092,2092,Alexis Burpo Offensive Rebound.,9,10,-1,1,0.4744492964725376,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+55,1,4:51,2091,2091,Alexis Burpo made Jumper.,9,12,-3,11,0.4238423256438061,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+56,1,4:40,2080,2080,Mackenzie Coleman Turnover.,9,12,-3,0,0.42345428846603644,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+57,1,4:40,2080,2080,Official TV Timeout,9,12,-3,18,0.42345428846603644,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+58,1,4:22,2062,2062,Alexis Burpo made Layup. Assisted by Raegan Blackburn.,9,14,-5,21,0.37315382240483835,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+59,1,4:01,2041,2041,Maaliya Owens made Three Point Jumper. Assisted by Jordan Brock.,12,14,-2,16,0.44780628203614325,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Tennessee Tech
+60,1,3:45,2025,2025,Macey Turley made Three Point Jumper.,12,17,-5,20,0.37103178691156263,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+61,1,3:25,2005,2005,Taylor Lamb missed Layup.,12,17,-5,3,0.3698705004376275,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+62,1,3:22,2002,2002,Macie Gibson Defensive Rebound.,12,17,-5,5,0.36969539520948,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+63,1,3:17,1997,1997,Alexis Burpo missed Jumper.,12,17,-5,1,0.369403010780912,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+64,1,3:16,1996,1996,Tennessee Tech Defensive Rebound.,12,17,-5,18,0.3693444518871093,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+65,1,2:58,1978,1978,Maaliya Owens missed Layup.,12,17,-5,0,0.36828561867399295,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+66,1,2:58,1978,1978,Lex Mayes Block.,12,17,-5,0,0.36828561867399295,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+67,1,2:58,1978,1978,Tennessee Tech Offensive Rebound.,12,17,-5,7,0.36828561867399295,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+68,1,2:51,1971,1971,Maaliya Owens missed Three Point Jumper.,12,17,-5,4,0.3678713532912228,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+69,1,2:47,1967,1967,Jada Guinn Offensive Rebound.,12,17,-5,10,0.3676339871770814,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+70,1,2:37,1957,1957,Akia Harris missed Three Point Jumper.,12,17,-5,4,0.3670384908809329,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+71,1,2:33,1953,1953,Maaliya Owens Offensive Rebound.,12,17,-5,15,0.36679944799680164,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+72,1,2:18,1938,1938,Jada Guinn missed Jumper.,12,17,-5,0,0.3658986422360943,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+73,1,2:18,1938,1938,Laci Hawthorne Block.,12,17,-5,5,0.3658986422360943,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+74,1,2:13,1933,1933,Akia Harris Offensive Rebound.,12,17,-5,1,0.3655968032909283,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+75,1,2:12,1932,1932,Akia Harris missed Three Point Jumper.,12,17,-5,4,0.365536339800248,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+76,1,2:08,1928,1928,Laci Hawthorne Defensive Rebound.,12,17,-5,9,0.365294261319252,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+77,1,1:59,1919,1919,Foul on Alexis Burpo.,12,17,-5,0,0.3647502471366143,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+78,1,1:59,1919,1919,Alexis Burpo Turnover.,12,17,-5,15,0.3647502471366143,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+79,1,1:44,1904,1904,Kesha Brady made Jumper.,14,17,-3,21,0.41696939504462704,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Tennessee Tech
+80,1,1:23,1883,1883,Alexis Burpo made Layup.,14,19,-5,26,0.36258162894833806,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+81,1,0:57,1857,1857,Foul on Macie Gibson.,14,19,-5,0,0.36101595946851006,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+82,1,0:57,1857,1857,Taylor Lamb made Free Throw.,15,19,-4,0,0.38775333409892104,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Tennessee Tech
+83,1,0:57,1857,1857,Taylor Lamb missed Free Throw.,15,19,-4,3,0.38775333409892104,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+84,1,0:54,1854,1854,Sadie Hill Defensive Rebound.,15,19,-4,9,0.3876043442500068,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+85,1,0:45,1845,1845,Sadie Hill Turnover.,15,19,-4,0,0.38715679209039233,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+86,1,0:45,1845,1845,Maaliya Owens Steal.,15,19,-4,6,0.38715679209039233,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+87,1,0:39,1839,1839,Kesha Brady missed Three Point Jumper.,15,19,-4,4,0.38685785938456985,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+88,1,0:35,1835,1835,Alexis Burpo Defensive Rebound.,15,19,-4,3,0.3866582829180913,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+89,1,0:32,1832,1832,Laci Hawthorne made Layup. Assisted by Macey Turley.,15,21,-6,30,0.33336176782935384,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+90,1,0:02,1802,1802,Maaliya Owens made Three Point Jumper.,18,21,-3,2,0.4130713725788033,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Tennessee Tech
+91,1,0:00,1800,1800,End of 1st Quarter,18,21,-3,11,0.4129936088523014,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+92,2,9:49,1789,1789,Macey Turley missed Three Point Jumper.,18,21,-3,3,0.4125643759278075,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+93,2,9:46,1786,1786,Anacia Wilkinson Defensive Rebound.,18,21,-3,26,0.41244683720585124,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+94,2,9:20,1760,1760,Anacia Wilkinson Turnover.,18,21,-3,30,0.4114185117753196,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+95,2,8:50,1730,1730,Macey Turley missed Layup.,18,21,-3,3,0.4102067759952113,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+96,2,8:47,1727,1727,Jada Guinn Defensive Rebound.,18,21,-3,4,0.41008390002188033,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+97,2,8:43,1723,1723,Maaliya Owens missed Three Point Jumper.,18,21,-3,2,0.4099195455009772,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+98,2,8:41,1721,1721,Murray State Defensive Rebound.,18,21,-3,27,0.4098371414329203,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+99,2,8:14,1694,1694,Macey Turley Turnover.,18,21,-3,0,0.4087089322107817,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+100,2,8:14,1694,1694,Maaliya Owens Steal.,18,21,-3,8,0.4087089322107817,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+101,2,8:06,1686,1686,Anacia Wilkinson missed Jumper.,18,21,-3,3,0.4083695544405919,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+102,2,8:03,1683,1683,Laci Hawthorne Defensive Rebound.,18,21,-3,11,0.4082430749110526,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+103,2,7:52,1672,1672,Sadie Hill missed Three Point Jumper.,18,21,-3,4,0.407784171604722,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+104,2,7:48,1668,1668,Anacia Wilkinson Defensive Rebound.,18,21,-3,8,0.4076190444633542,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+105,2,7:40,1660,1660,Jada Guinn missed Jumper.,18,21,-3,3,0.4072912893407058,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+106,2,7:37,1657,1657,Laci Hawthorne Defensive Rebound.,18,21,-3,8,0.40716917401941377,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+107,2,7:29,1649,1649,Sadie Hill missed Jumper.,18,21,-3,5,0.4068454238586608,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+108,2,7:24,1644,1644,Jada Guinn Defensive Rebound.,18,21,-3,9,0.4066443375870552,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+109,2,7:15,1635,1635,Jordan Brock made Jumper.,20,21,-1,16,0.46842982074859985,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Tennessee Tech
+110,2,6:59,1619,1619,Sadie Hill made Layup. Assisted by Laci Hawthorne.,20,23,-3,27,0.4056496136110187,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+111,2,6:32,1592,1592,Kesha Brady made Layup.,22,23,-1,18,0.46784460356492075,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Tennessee Tech
+112,2,6:14,1574,1574,Sadie Hill Turnover.,22,23,-1,0,0.467599236466821,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+113,2,6:14,1574,1574,Anacia Wilkinson Steal.,22,23,-1,7,0.467599236466821,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+114,2,6:07,1567,1567,Maaliya Owens missed Three Point Jumper.,22,23,-1,3,0.4675032089225179,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+115,2,6:04,1564,1564,Alexis Burpo Defensive Rebound.,22,23,-1,6,0.4674619117801377,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+116,2,5:58,1558,1558,Alexis Burpo missed Layup.,22,23,-1,1,0.4673790215152715,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+117,2,5:57,1557,1557,Tennessee Tech Defensive Rebound.,22,23,-1,14,0.46736516490208285,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+118,2,5:43,1543,1543,Mackenzie Coleman missed Three Point Jumper.,22,23,-1,3,0.4671697235858243,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+119,2,5:40,1540,1540,Macey Turley Defensive Rebound.,22,23,-1,5,0.46712744949462964,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+120,2,5:35,1535,1535,Foul on Mackenzie Coleman.,22,23,-1,0,0.467056643572941,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+121,2,5:35,1535,1535,Alexis Burpo made Free Throw.,22,24,-2,0,0.4343980689943466,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+122,2,5:35,1535,1535,Alexis Burpo made Free Throw.,22,25,-3,14,0.40229929521828844,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+123,2,5:21,1521,1521,Abby Buckner made Jumper. Assisted by Mackenzie Coleman.,24,25,-1,26,0.4668557979464423,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Tennessee Tech
+124,2,4:55,1495,1495,Macie Gibson made Three Point Jumper. Assisted by Alexis Burpo.,24,28,-4,13,0.3688210784698439,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+125,2,4:42,1482,1482,Kesha Brady missed Layup.,24,28,-4,0,0.36807368960440023,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+126,2,4:42,1482,1482,Alexis Burpo Block.,24,28,-4,0,0.36807368960440023,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+127,2,4:42,1482,1482,Tennessee Tech Offensive Rebound.,24,28,-4,1,0.36807368960440023,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+128,2,4:41,1481,1481,Official TV Timeout,24,28,-4,0,0.36801538325913075,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+129,2,4:41,1481,1481,Abby Buckner missed Jumper.,24,28,-4,4,0.36801538325913075,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+130,2,4:37,1477,1477,Alexis Burpo Defensive Rebound.,24,28,-4,24,0.3677809337097305,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+131,2,4:13,1453,1453,Sadie Hill made Jumper.,24,30,-6,16,0.30534108662003623,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+132,2,3:57,1437,1437,Abby Buckner missed Three Point Jumper.,24,30,-6,4,0.3039864859144371,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+133,2,3:53,1433,1433,Alexis Burpo Defensive Rebound.,24,30,-6,6,0.303655004883111,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+134,2,3:47,1427,1427,Alexis Burpo missed Jumper.,24,30,-6,5,0.303162842833643,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+135,2,3:42,1422,1422,Mackenzie Coleman Defensive Rebound.,24,30,-6,17,0.302756993605702,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+136,2,3:25,1405,1405,Akia Harris missed Three Point Jumper.,24,30,-6,4,0.30140180304540015,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+137,2,3:21,1401,1401,Sadie Hill Defensive Rebound.,24,30,-6,24,0.3010875586735851,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+138,2,2:57,1377,1377,Macey Turley made Layup.,24,32,-8,5,0.2433047455426852,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+139,2,2:52,1372,1372,Tennessee Tech  Timeout,24,32,-8,13,0.24285475532186537,Tennessee Tech,Murray State,3,4,1,0,NA,401175336,2020-01-11,
+140,2,2:39,1359,1359,Anacia Wilkinson made Jumper.,26,32,-6,22,0.2978434280952794,Tennessee Tech,Murray State,3,4,1,0,NA,401175336,2020-01-11,Tennessee Tech
+141,2,2:17,1337,1337,Macey Turley missed Jumper.,26,32,-6,1,0.2961449675663771,Tennessee Tech,Murray State,3,4,1,0,NA,401175336,2020-01-11,
+142,2,2:16,1336,1336,Tennessee Tech Defensive Rebound.,26,32,-6,24,0.2960671673298584,Tennessee Tech,Murray State,3,4,1,0,NA,401175336,2020-01-11,
+143,2,1:52,1312,1312,Jada Guinn missed Layup.,26,32,-6,3,0.2941730020995604,Tennessee Tech,Murray State,3,4,1,0,NA,401175336,2020-01-11,
+144,2,1:49,1309,1309,Laci Hawthorne Defensive Rebound.,26,32,-6,7,0.2939316847244797,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+145,2,1:42,1302,1302,Alexis Burpo Turnover.,26,32,-6,11,0.29336373535343147,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+146,2,1:31,1291,1291,Foul on Macie Gibson.,26,32,-6,4,0.2924558131344785,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+147,2,1:27,1287,1287,Kesha Brady missed Layup.,26,32,-6,2,0.29212046569890726,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+148,2,1:25,1285,1285,Macie Gibson Defensive Rebound.,26,32,-6,11,0.2919516735205738,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+149,2,1:14,1274,1274,Lex Mayes missed Three Point Jumper.,26,32,-6,4,0.2910090441888767,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+150,2,1:10,1270,1270,Kesha Brady Defensive Rebound.,26,32,-6,5,0.29065988718517793,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+151,2,1:05,1265,1265,Kesha Brady missed Layup.,26,32,-6,5,0.2902183077014585,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+152,2,1:00,1260,1260,Laci Hawthorne Defensive Rebound.,26,32,-6,3,0.2897707569234893,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+153,2,0:57,1257,1257,Lex Mayes Turnover.,26,32,-6,15,0.28949924140537076,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+154,2,0:42,1242,1242,Anacia Wilkinson made Jumper. Assisted by Maaliya Owens.,28,32,-4,23,0.3536421198964404,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,Tennessee Tech
+155,2,0:19,1219,1219,Laci Hawthorne Turnover.,28,32,-4,13,0.35195608497509623,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+156,2,0:06,1206,1206,Jordan Brock Turnover.,28,32,-4,6,0.3509465604153632,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+157,2,0:00,1200,1200,Alexis Burpo missed Three Point Jumper.,28,32,-4,0,0.3504822574627354,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+158,2,0:00,1200,1200,Tennessee Tech Defensive Rebound.,28,32,-4,0,0.3504822574627354,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+159,2,0:00,1200,1200,End of 2nd Quarter,28,32,-4,15,0.3504822574627354,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+160,3,9:45,1185,1185,Mackenzie Coleman Turnover.,28,32,-4,0,0.34934561606475834,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+161,3,9:45,1185,1185,Cekeya Mack Steal.,28,32,-4,7,0.34934561606475834,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+162,3,9:38,1178,1178,Macey Turley made Layup.,28,34,-6,23,0.28164609958719,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Murray State
+163,3,9:15,1155,1155,Akia Harris made Layup.,30,34,-4,25,0.3471468092161474,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Tennessee Tech
+164,3,8:50,1130,1130,Macey Turley missed Three Point Jumper.,30,34,-4,3,0.34535025650275614,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+165,3,8:47,1127,1127,Cekeya Mack Offensive Rebound.,30,34,-4,14,0.34513484255265464,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+166,3,8:33,1113,1113,Macey Turley made Jumper.,30,36,-6,26,0.27539076155658226,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Murray State
+167,3,8:07,1087,1087,Mackenzie Coleman missed Jumper.,30,36,-6,0,0.27286472463102956,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+168,3,8:07,1087,1087,Kesha Brady Offensive Rebound.,30,36,-6,0,0.27286472463102956,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+169,3,8:07,1087,1087,Foul on Lex Mayes.,30,36,-6,18,0.27286472463102956,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+170,3,7:49,1069,1069,Anacia Wilkinson made Jumper. Assisted by Akia Harris.,32,36,-4,13,0.34085310653505363,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Tennessee Tech
+171,3,7:36,1056,1056,Foul on Anacia Wilkinson.,32,36,-4,0,0.3398352520360343,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+172,3,7:36,1056,1056,Macey Turley made Free Throw.,32,37,-5,0,0.30363754420817457,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Murray State
+173,3,7:36,1056,1056,Macey Turley made Free Throw.,32,38,-6,18,0.2697201824728156,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Murray State
+174,3,7:18,1038,1038,Mackenzie Coleman made Jumper.,34,38,-4,18,0.3383708984157818,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Tennessee Tech
+175,3,7:00,1020,1020,Alexis Burpo made Layup.,34,40,-6,17,0.265772436430524,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Murray State
+176,3,6:43,1003,1003,Foul on Lex Mayes.,34,40,-6,0,0.2637602060500709,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+177,3,6:43,1003,1003,Kesha Brady made Free Throw.,35,40,-5,0,0.29829512157172194,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Tennessee Tech
+178,3,6:43,1003,1003,Kesha Brady missed Free Throw.,35,40,-5,2,0.29829512157172194,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+179,3,6:41,1001,1001,Alexis Burpo Defensive Rebound.,35,40,-5,9,0.2980759535249519,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+180,3,6:32,992,992,Sadie Hill missed Three Point Jumper.,35,40,-5,5,0.29707110081801363,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+181,3,6:27,987,987,Mackenzie Coleman Defensive Rebound.,35,40,-5,6,0.29649921849474264,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+182,3,6:21,981,981,Akia Harris missed Jumper.,35,40,-5,2,0.2957995444399577,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+183,3,6:19,979,979,Tennessee Tech Offensive Rebound.,35,40,-5,0,0.29556297952640664,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+184,3,6:19,979,979,Foul on Sadie Hill.,35,40,-5,2,0.29556297952640664,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+185,3,6:17,977,977,Maaliya Owens made Three Point Jumper. Assisted by Akia Harris.,38,40,-2,9,0.4139003312316972,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Tennessee Tech
+186,3,6:08,968,968,Macey Turley missed Layup.,38,40,-2,0,0.41339097869063607,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+187,3,6:08,968,968,Maaliya Owens Block.,38,40,-2,4,0.41339097869063607,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+188,3,6:04,964,964,Cekeya Mack Offensive Rebound.,38,40,-2,2,0.41316729448422695,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+189,3,6:02,962,962,Cekeya Mack missed Layup.,38,40,-2,0,0.4130573918079103,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+190,3,6:02,962,962,Alexis Burpo Offensive Rebound.,38,40,-2,0,0.4130573918079103,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+191,3,6:02,962,962,Foul on Anacia Wilkinson.,38,40,-2,0,0.4130573918079103,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+192,3,6:02,962,962,Alexis Burpo made Free Throw.,38,41,-3,0,0.37121435358018084,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Murray State
+193,3,6:02,962,962,Alexis Burpo made Free Throw.,38,42,-4,18,0.3312180851508733,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Murray State
+194,3,5:44,944,944,Foul on Cekeya Mack.,38,42,-4,1,0.3295082493581304,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+195,3,5:43,943,943,Mackenzie Coleman missed Three Point Jumper.,38,42,-4,4,0.32941793560814525,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+196,3,5:39,939,939,Alexis Burpo Defensive Rebound.,38,42,-4,14,0.32906104471892117,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+197,3,5:25,925,925,Lex Mayes made Jumper.,38,44,-6,12,0.25410973976564516,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Murray State
+198,3,5:13,913,913,Foul on Laci Hawthorne.,38,44,-6,0,0.2528479963331684,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+199,3,5:13,913,913,Jada Guinn made Free Throw.,39,44,-5,0,0.2884548861501708,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Tennessee Tech
+200,3,5:13,913,913,Jada Guinn made Free Throw.,40,44,-4,19,0.32688228631470584,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Tennessee Tech
+201,3,4:54,894,894,Laci Hawthorne missed Layup.,40,44,-4,3,0.32539453046681094,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+202,3,4:51,891,891,Lex Mayes Offensive Rebound.,40,44,-4,1,0.32516391344309953,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+203,3,4:50,890,890,Alexis Burpo missed Layup.,40,44,-4,1,0.32508719245880463,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+204,3,4:49,889,889,Laci Hawthorne Offensive Rebound.,40,44,-4,0,0.32501053536696145,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+205,3,4:49,889,889,Foul on Taylor Lamb.,40,44,-4,0,0.32501053536696145,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+206,3,4:49,889,889,Official TV Timeout,40,44,-4,0,0.32501053536696145,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+207,3,4:49,889,889,Macey Turley made Free Throw.,40,45,-5,0,0.2862740787526196,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Murray State
+208,3,4:49,889,889,Macey Turley made Free Throw.,40,46,-6,0,0.2504414586059869,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Murray State
+209,3,4:49,889,889,Tennessee Tech  Turnover.,40,46,-6,10,0.2504414586059869,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+210,3,4:39,879,879,Sadie Hill missed Layup.,40,46,-6,8,0.24946073586647502,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+211,3,4:31,871,871,Taylor Lamb Defensive Rebound.,40,46,-6,22,0.24867631872157256,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+212,3,4:09,849,849,Kesha Brady made Layup.,42,46,-4,25,0.32191590874259657,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Tennessee Tech
+213,3,3:44,824,824,Lex Mayes missed Layup.,42,46,-4,3,0.31982905521753113,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+214,3,3:41,821,821,Maaliya Owens Defensive Rebound.,42,46,-4,9,0.31956416515199615,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+215,3,3:32,812,812,Jada Guinn missed Jumper.,42,46,-4,1,0.31874635112185934,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+216,3,3:31,811,811,Kesha Brady Offensive Rebound.,42,46,-4,0,0.31865319320665075,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+217,3,3:31,811,811,Kesha Brady Turnover.,42,46,-4,0,0.31865319320665075,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+218,3,3:31,811,811,Lex Mayes Steal.,42,46,-4,16,0.31865319320665075,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+219,3,3:15,795,795,Macey Turley missed Layup.,42,46,-4,0,0.3170924526336541,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+220,3,3:15,795,795,Tennessee Tech Defensive Rebound.,42,46,-4,16,0.3170924526336541,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+221,3,2:59,779,779,Akia Harris made Layup.,44,46,-2,7,0.4043093833426463,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Tennessee Tech
+222,3,2:52,772,772,Lex Mayes missed Layup.,44,46,-2,5,0.40386117618725154,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+223,3,2:47,767,767,Maaliya Owens Defensive Rebound.,44,46,-2,2,0.40352840931849304,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+224,3,2:45,765,765,Foul on Sadie Hill.,44,46,-2,0,0.40339223409737324,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+225,3,2:45,765,765,Kesha Brady made Free Throw.,45,46,-1,0,0.451236677246197,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Tennessee Tech
+226,3,2:45,765,765,Kesha Brady made Free Throw.,46,46,0,16,0.5,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Tennessee Tech
+227,3,2:29,749,749,Alexis Burpo Turnover.,46,46,0,20,0.5,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+228,3,2:09,729,729,Jada Guinn missed Jumper.,46,46,0,3,0.5,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+229,3,2:06,726,726,Laci Hawthorne Defensive Rebound.,46,46,0,20,0.5,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+230,3,1:46,706,706,Macey Turley missed Jumper.,46,46,0,3,0.5,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+231,3,1:43,703,703,Mackenzie Coleman Defensive Rebound.,46,46,0,6,0.5,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+232,3,1:37,697,697,Foul on Alexis Burpo.,46,46,0,0,0.5,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+233,3,1:37,697,697,Maaliya Owens made Free Throw.,47,46,1,0,0.5514647042068811,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Tennessee Tech
+234,3,1:37,697,697,Maaliya Owens missed Free Throw.,47,46,1,3,0.5514647042068811,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+235,3,1:34,694,694,Laci Hawthorne Defensive Rebound.,47,46,1,5,0.5515713539058666,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+236,3,1:29,689,689,Alexis Burpo missed Layup.,47,46,1,6,0.5517459669379929,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+237,3,1:23,683,683,Mackenzie Coleman Defensive Rebound.,47,46,1,16,0.5519511677185919,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+238,3,1:07,667,667,Jada Guinn missed Jumper.,47,46,1,4,0.5524838899079085,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+239,3,1:03,663,663,Alexis Burpo Defensive Rebound.,47,46,1,5,0.5526156694966685,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+240,3,0:58,658,658,Macey Turley made Three Point Jumper. Assisted by Alexis Burpo.,47,49,-2,15,0.3956020694032841,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Murray State
+241,3,0:43,643,643,Akia Harris made Layup.,49,49,0,13,0.5,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Tennessee Tech
+242,3,0:30,630,630,Lex Mayes missed Three Point Jumper.,49,49,0,3,0.5,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+243,3,0:27,627,627,Foul on Mackenzie Coleman.,49,49,0,0,0.5,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+244,3,0:27,627,627,Laci Hawthorne made Free Throw.,49,50,-1,1,0.4461503250048118,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Murray State
+245,3,0:26,626,626,Laci Hawthorne Offensive Rebound.,49,50,-1,0,0.4461134380284714,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+246,3,0:26,626,626,Laci Hawthorne missed Free Throw.,49,50,-1,0,0.4461134380284714,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+247,3,0:26,626,626,Tennessee Tech Defensive Rebound.,49,50,-1,21,0.4461134380284714,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+248,3,0:05,605,605,Foul on Sadie Hill.,49,50,-1,0,0.4452819542750466,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+249,3,0:05,605,605,Mackenzie Coleman made Free Throw.,50,50,0,0,0.5,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Tennessee Tech
+250,3,0:05,605,605,Mackenzie Coleman made Free Throw.,51,50,1,5,0.5547180457249534,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,Tennessee Tech
+251,3,0:00,600,600,Lex Mayes missed Jumper.,51,50,1,0,0.5549351931430931,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+252,3,0:00,600,600,Tennessee Tech Defensive Rebound.,51,50,1,0,0.5549351931430931,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+253,3,0:00,600,600,End of 3rd Quarter,51,50,1,29,0.5549351931430931,Tennessee Tech,Murray State,4,5,0,0,NA,401175336,2020-01-11,
+254,4,9:31,571,571,Akia Harris missed Layup.,51,50,1,0,0.5563890851149359,Tennessee Tech,Murray State,5,6,0,0,NA,401175336,2020-01-11,
+255,4,9:31,571,571,Laci Hawthorne Block.,51,50,1,0,0.5563890851149359,Tennessee Tech,Murray State,5,6,0,0,NA,401175336,2020-01-11,
+256,4,9:31,571,571,Tennessee Tech Offensive Rebound.,51,50,1,0,0.5563890851149359,Tennessee Tech,Murray State,5,6,0,0,NA,401175336,2020-01-11,
+257,4,9:31,571,571,Akia Harris Turnover.,51,50,1,0,0.5563890851149359,Tennessee Tech,Murray State,5,6,0,0,NA,401175336,2020-01-11,
+258,4,9:31,571,571,Cekeya Mack Steal.,51,50,1,6,0.5563890851149359,Tennessee Tech,Murray State,5,6,0,0,NA,401175336,2020-01-11,
+259,4,9:25,565,565,Laci Hawthorne missed Layup.,51,50,1,0,0.5567388769076889,Tennessee Tech,Murray State,5,6,0,0,NA,401175336,2020-01-11,
+260,4,9:25,565,565,Tennessee Tech Defensive Rebound.,51,50,1,0,0.5567388769076889,Tennessee Tech,Murray State,5,6,0,0,NA,401175336,2020-01-11,
+261,4,9:25,565,565,Foul on Macey Turley.,51,50,1,14,0.5567388769076889,Tennessee Tech,Murray State,5,6,0,0,NA,401175336,2020-01-11,
+262,4,9:11,551,551,Jordan Brock missed Three Point Jumper.,51,50,1,3,0.5576327181216795,Tennessee Tech,Murray State,5,6,0,0,NA,401175336,2020-01-11,
+263,4,9:08,548,548,Kesha Brady Offensive Rebound.,51,50,1,0,0.5578364888920876,Tennessee Tech,Murray State,5,6,0,0,NA,401175336,2020-01-11,
+264,4,9:08,548,548,Kesha Brady Turnover.,51,50,1,23,0.5578364888920876,Tennessee Tech,Murray State,5,6,0,0,NA,401175336,2020-01-11,
+265,4,8:45,525,525,Alexis Burpo missed Jumper.,51,50,1,3,0.5591943732679755,Tennessee Tech,Murray State,5,6,0,0,NA,401175336,2020-01-11,
+266,4,8:42,522,522,Jada Guinn Defensive Rebound.,51,50,1,2,0.5593513815402407,Tennessee Tech,Murray State,5,6,0,0,NA,401175336,2020-01-11,
+267,4,8:40,520,520,Anacia Wilkinson made Layup. Assisted by Jada Guinn.,53,50,3,1,0.6719116501882708,Tennessee Tech,Murray State,5,6,0,0,NA,401175336,2020-01-11,Tennessee Tech
+268,4,8:39,519,519,Murray State  Timeout,53,50,3,0,0.6720486292639689,Tennessee Tech,Murray State,5,5,0,1,NA,401175336,2020-01-11,
+269,4,8:39,519,519,Official TV Timeout,53,50,3,24,0.6720486292639689,Tennessee Tech,Murray State,5,5,0,1,NA,401175336,2020-01-11,
+270,4,8:15,495,495,Foul on Jordan Brock.,53,50,3,0,0.6752299888203832,Tennessee Tech,Murray State,5,5,0,1,NA,401175336,2020-01-11,
+271,4,8:15,495,495,Laci Hawthorne missed Free Throw.,53,50,3,0,0.6752299888203832,Tennessee Tech,Murray State,5,5,0,1,NA,401175336,2020-01-11,
+272,4,8:15,495,495,Murray State Offensive Rebound.,53,50,3,0,0.6752299888203832,Tennessee Tech,Murray State,5,5,0,1,NA,401175336,2020-01-11,
+273,4,8:15,495,495,Laci Hawthorne made Free Throw.,53,51,2,26,0.6196251274169704,Tennessee Tech,Murray State,5,5,0,1,NA,401175336,2020-01-11,Murray State
+274,4,7:49,469,469,Anacia Wilkinson made Jumper. Assisted by Jada Guinn.,55,51,4,19,0.7308609975350576,Tennessee Tech,Murray State,5,5,0,1,NA,401175336,2020-01-11,Tennessee Tech
+275,4,7:30,450,450,Macey Turley missed Layup.,55,51,4,3,0.7350453867815689,Tennessee Tech,Murray State,5,5,0,0,NA,401175336,2020-01-11,
+276,4,7:27,447,447,Anacia Wilkinson Defensive Rebound.,55,51,4,10,0.7358021244043058,Tennessee Tech,Murray State,5,5,0,0,NA,401175336,2020-01-11,
+277,4,7:17,437,437,Akia Harris missed Layup.,55,51,4,2,0.738551905208566,Tennessee Tech,Murray State,5,5,0,0,NA,401175336,2020-01-11,
+278,4,7:15,435,435,Laci Hawthorne Defensive Rebound.,55,51,4,7,0.7391470036505791,Tennessee Tech,Murray State,5,5,0,0,NA,401175336,2020-01-11,
+279,4,7:08,428,428,Alexis Burpo missed Layup.,55,51,4,2,0.7413444328385764,Tennessee Tech,Murray State,5,5,0,0,NA,401175336,2020-01-11,
+280,4,7:06,426,426,Cekeya Mack Offensive Rebound.,55,51,4,2,0.7419724693588385,Tennessee Tech,Murray State,5,5,0,0,NA,401175336,2020-01-11,
+281,4,7:04,424,424,Cekeya Mack made Layup.,55,53,2,14,0.6294220398005361,Tennessee Tech,Murray State,5,5,0,0,NA,401175336,2020-01-11,Murray State
+282,4,6:50,410,410,Jordan Brock made Layup.,57,53,4,8,0.7466896623055245,Tennessee Tech,Murray State,5,5,0,0,NA,401175336,2020-01-11,Tennessee Tech
+283,4,6:42,402,402,Macey Turley Turnover.,57,53,4,0,0.7489100791890828,Tennessee Tech,Murray State,5,5,0,0,NA,401175336,2020-01-11,
+284,4,6:42,402,402,Kesha Brady Steal.,57,53,4,17,0.7489100791890828,Tennessee Tech,Murray State,5,5,0,0,NA,401175336,2020-01-11,
+285,4,6:25,385,385,Jordan Brock made Three Point Jumper. Assisted by Akia Harris.,60,53,7,2,0.8760821554797898,Tennessee Tech,Murray State,5,5,0,0,NA,401175336,2020-01-11,Tennessee Tech
+286,4,6:23,383,383,Murray State  Timeout,60,53,7,0,0.876645358756463,Tennessee Tech,Murray State,5,4,0,1,NA,401175336,2020-01-11,
+287,4,6:23,383,383,Official TV Timeout,60,53,7,5,0.876645358756463,Tennessee Tech,Murray State,5,4,0,1,NA,401175336,2020-01-11,
+288,4,6:18,378,378,Sadie Hill Turnover.,60,53,7,0,0.8780630922636546,Tennessee Tech,Murray State,5,4,0,1,NA,401175336,2020-01-11,
+289,4,6:18,378,378,Anacia Wilkinson Steal.,60,53,7,14,0.8780630922636546,Tennessee Tech,Murray State,5,4,0,1,NA,401175336,2020-01-11,
+290,4,6:04,364,364,Tennessee Tech  Timeout,60,53,7,2,0.8821694152785116,Tennessee Tech,Murray State,4,4,1,1,NA,401175336,2020-01-11,
+291,4,6:02,362,362,Jordan Brock made Three Point Jumper. Assisted by Anacia Wilkinson.,63,53,10,8,0.9470655438806903,Tennessee Tech,Murray State,4,4,1,1,NA,401175336,2020-01-11,Tennessee Tech
+292,4,5:54,354,354,Foul on Kesha Brady.,63,53,10,21,0.9487976599941208,Tennessee Tech,Murray State,4,4,1,1,NA,401175336,2020-01-11,
+293,4,5:33,333,333,Cekeya Mack missed Jumper.,63,53,10,3,0.953732915765073,Tennessee Tech,Murray State,4,4,1,1,NA,401175336,2020-01-11,
+294,4,5:30,330,330,Kesha Brady Defensive Rebound.,63,53,10,3,0.9544908414976132,Tennessee Tech,Murray State,4,4,1,1,NA,401175336,2020-01-11,
+295,4,5:27,327,327,Anacia Wilkinson Turnover.,63,53,10,16,0.9552627726038969,Tennessee Tech,Murray State,4,4,1,1,NA,401175336,2020-01-11,
+296,4,5:11,311,311,Sadie Hill Turnover.,63,53,10,12,0.9596146438182735,Tennessee Tech,Murray State,4,4,1,0,NA,401175336,2020-01-11,
+297,4,4:59,299,299,Akia Harris missed Layup.,63,53,10,0,0.9620379883250749,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+298,4,4:59,299,299,Cekeya Mack Block.,63,53,10,1,0.9620379883250749,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+299,4,4:58,298,298,Tennessee Tech Offensive Rebound.,63,53,10,6,0.9621464015267439,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+300,4,4:52,292,292,Jada Guinn missed Layup.,63,53,10,0,0.9625540086408426,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+301,4,4:52,292,292,Sadie Hill Block.,63,53,10,4,0.9625540086408426,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+302,4,4:48,288,288,Cekeya Mack Defensive Rebound.,63,53,10,4,0.9626224739188735,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+303,4,4:44,284,284,Macey Turley missed Three Point Jumper.,63,53,10,4,0.96255432812749,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+304,4,4:40,280,280,Cekeya Mack Offensive Rebound.,63,53,10,1,0.9623701377799256,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+305,4,4:39,279,279,Cekeya Mack missed Layup.,63,53,10,2,0.9623082862868817,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+306,4,4:37,277,277,Alexis Burpo Offensive Rebound.,63,53,10,2,0.9621677603090648,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+307,4,4:35,275,275,Alexis Burpo made Layup.,63,55,8,12,0.9299089982835929,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+308,4,4:23,263,263,Kesha Brady missed Three Point Jumper.,63,55,8,5,0.9281265088944434,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+309,4,4:18,258,258,Cekeya Mack Defensive Rebound.,63,55,8,3,0.9273051361077839,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+310,4,4:15,255,255,Foul on Jada Guinn.,63,55,8,0,0.9268291530037155,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+311,4,4:15,255,255,Macey Turley made Free Throw.,63,56,7,1,0.9021725555859491,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+312,4,4:14,254,254,Macey Turley missed Free Throw.,63,56,7,1,0.9019985876496857,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+313,4,4:13,253,253,Jada Guinn Defensive Rebound.,63,56,7,7,0.9018289967269213,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+314,4,4:06,246,246,Kesha Brady made Three Point Jumper. Assisted by Akia Harris.,66,56,10,14,0.9589821799330062,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Tennessee Tech
+315,4,3:52,232,232,Foul on Jada Guinn.,66,56,10,6,0.9586817281198159,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+316,4,3:46,226,226,Alexis Burpo made Layup. Assisted by Sadie Hill.,66,58,8,9,0.9258702847747867,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+317,4,3:37,217,217,Foul on Lex Mayes.,66,58,8,25,0.9280838400124677,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+318,4,3:12,192,192,Abby Buckner missed Three Point Jumper.,66,58,8,6,0.9430067136822597,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+319,4,3:06,186,186,Cekeya Mack Defensive Rebound.,66,58,8,5,0.9481013336592419,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+320,4,3:01,181,181,Macey Turley Turnover.,66,58,8,16,0.9520808894075475,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+321,4,2:45,165,165,Mackenzie Coleman Turnover.,66,58,8,0,0.9632932804828039,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+322,4,2:45,165,165,Alexis Burpo Steal.,66,58,8,6,0.9632932804828039,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,
+323,4,2:39,159,159,Alexis Burpo made Layup.,66,60,6,11,0.9264513368129754,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Murray State
+324,4,2:28,148,148,Mackenzie Coleman made Jumper. Assisted by Maaliya Owens.,68,60,8,1,0.973228094217493,Tennessee Tech,Murray State,4,4,0,0,NA,401175336,2020-01-11,Tennessee Tech
+325,4,2:27,147,147,Tennessee Tech  Timeout,68,60,8,17,0.9737582729999175,Tennessee Tech,Murray State,3,4,1,0,NA,401175336,2020-01-11,
+326,4,2:10,130,130,Alexis Burpo missed Layup.,68,60,8,2,0.9819020518908254,Tennessee Tech,Murray State,3,4,1,0,NA,401175336,2020-01-11,
+327,4,2:08,128,128,Cekeya Mack Offensive Rebound.,68,60,8,3,0.9827525061739614,Tennessee Tech,Murray State,3,4,1,0,NA,401175336,2020-01-11,
+328,4,2:05,125,125,Cekeya Mack made Layup.,68,62,6,32,0.9564192167456673,Tennessee Tech,Murray State,3,4,1,0,NA,401175336,2020-01-11,Murray State
+329,4,1:33,93,93,Abby Buckner made Layup.,70,62,8,0,0.99389741120596,Tennessee Tech,Murray State,3,4,1,0,NA,401175336,2020-01-11,Tennessee Tech
+330,4,1:33,93,93,Foul on Alexis Burpo.,70,62,8,0,0.99389741120596,Tennessee Tech,Murray State,3,4,1,0,NA,401175336,2020-01-11,
+331,4,1:33,93,93,Abby Buckner made Free Throw.,71,62,9,19,0.9967619350119419,Tennessee Tech,Murray State,3,4,1,0,NA,401175336,2020-01-11,Tennessee Tech
+332,4,1:14,74,74,Foul on Anacia Wilkinson.,71,62,9,0,0.9985299881795381,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+333,4,1:14,74,74,Cekeya Mack made Free Throw.,71,63,8,0,0.996970901886939,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,Murray State
+334,4,1:14,74,74,Cekeya Mack made Free Throw.,71,64,7,3,0.9937685766065896,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,Murray State
+335,4,1:11,71,71,Foul on Alexis Burpo.,71,64,7,7,0.9943862330099739,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+336,4,1:04,64,64,Foul on Lex Mayes.,71,64,7,0,0.9956327196355618,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+337,4,1:04,64,64,Akia Harris missed Free Throw.,71,64,7,0,0.9956327196355618,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+338,4,1:04,64,64,Tennessee Tech Offensive Rebound.,71,64,7,0,0.9956327196355618,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+339,4,1:04,64,64,Akia Harris missed Free Throw.,71,64,7,1,0.9956327196355618,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+340,4,1:03,63,63,Laci Hawthorne Defensive Rebound.,71,64,7,7,0.9957895302543087,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,
+341,4,0:56,56,56,Macey Turley made Three Point Jumper. Assisted by Cekeya Mack.,71,67,4,1,0.9635024103677605,Tennessee Tech,Murray State,3,4,0,0,NA,401175336,2020-01-11,Murray State
+342,4,0:55,55,55,Murray State  Timeout,71,67,4,1,0.964263993907232,Tennessee Tech,Murray State,3,3,0,1,NA,401175336,2020-01-11,
+343,4,0:54,54,54,Foul on Ashley Hunter.,71,67,4,0,0.9650143806869779,Tennessee Tech,Murray State,3,3,0,1,NA,401175336,2020-01-11,
+344,4,0:54,54,54,Jordan Brock made Free Throw.,72,67,5,0,0.9844267896415257,Tennessee Tech,Murray State,3,3,0,1,NA,401175336,2020-01-11,Tennessee Tech
+345,4,0:54,54,54,Jordan Brock made Free Throw.,73,67,6,7,0.993144390603789,Tennessee Tech,Murray State,3,3,0,1,NA,401175336,2020-01-11,Tennessee Tech
+346,4,0:47,47,47,Macey Turley missed Three Point Jumper.,73,67,6,0,0.9945799601842901,Tennessee Tech,Murray State,3,3,0,1,NA,401175336,2020-01-11,
+347,4,0:47,47,47,Maaliya Owens Block.,73,67,6,0,0.9945799601842901,Tennessee Tech,Murray State,3,3,0,1,NA,401175336,2020-01-11,
+348,4,0:47,47,47,Murray State Offensive Rebound.,73,67,6,4,0.9945799601842901,Tennessee Tech,Murray State,3,3,0,1,NA,401175336,2020-01-11,
+349,4,0:43,43,43,Cekeya Mack made Layup. Assisted by Alexis Burpo.,73,69,4,3,0.9725611464308712,Tennessee Tech,Murray State,3,3,0,1,NA,401175336,2020-01-11,Murray State
+350,4,0:40,40,40,Foul on Lex Mayes.,73,69,4,0,0.9744030910750776,Tennessee Tech,Murray State,3,3,0,1,NA,401175336,2020-01-11,
+351,4,0:40,40,40,Kesha Brady made Free Throw.,74,69,5,1,0.9895349281097368,Tennessee Tech,Murray State,3,3,0,1,NA,401175336,2020-01-11,Tennessee Tech
+352,4,0:39,39,39,Kesha Brady missed Free Throw.,74,69,5,1,0.9898418777433137,Tennessee Tech,Murray State,3,3,0,1,NA,401175336,2020-01-11,
+353,4,0:38,38,38,Laci Hawthorne Defensive Rebound.,74,69,5,9,0.9901414974572486,Tennessee Tech,Murray State,3,3,0,1,NA,401175336,2020-01-11,
+354,4,0:29,29,29,Raegan Blackburn Turnover.,74,69,5,0,0.9925223005850036,Tennessee Tech,Murray State,3,3,0,1,NA,401175336,2020-01-11,
+355,4,0:29,29,29,Jada Guinn Steal.,74,69,5,0,0.9925223005850036,Tennessee Tech,Murray State,3,3,0,1,NA,401175336,2020-01-11,
+356,4,0:29,29,29,Foul on Macey Turley.,74,69,5,0,0.9925223005850036,Tennessee Tech,Murray State,3,3,0,1,NA,401175336,2020-01-11,
+357,4,0:29,29,29,Jada Guinn made Free Throw.,75,69,6,0,0.9971737919323381,Tennessee Tech,Murray State,3,3,0,1,NA,401175336,2020-01-11,Tennessee Tech
+358,4,0:29,29,29,Jada Guinn made Free Throw.,76,69,7,0,0.9989349352191362,Tennessee Tech,Murray State,3,3,0,1,NA,401175336,2020-01-11,Tennessee Tech
+359,4,0:29,29,29,Murray State  Timeout,76,69,7,3,0.9989349352191362,Tennessee Tech,Murray State,3,2,0,1,NA,401175336,2020-01-11,
+360,4,0:26,26,26,Macey Turley made Three Point Jumper. Assisted by Alexis Burpo.,76,72,4,0,0.981780575772125,Tennessee Tech,Murray State,3,2,1,1,NA,401175336,2020-01-11,Murray State
+361,4,0:26,26,26,Tennessee Tech  Timeout,76,72,4,1,0.981780575772125,Tennessee Tech,Murray State,2,2,1,1,NA,401175336,2020-01-11,
+362,4,0:25,25,25,Foul on Laci Hawthorne.,76,72,4,0,0.9822326570149583,Tennessee Tech,Murray State,2,2,1,1,NA,401175336,2020-01-11,
+363,4,0:25,25,25,Abby Buckner missed Free Throw.,76,72,4,0,0.9822326570149583,Tennessee Tech,Murray State,2,2,1,1,NA,401175336,2020-01-11,
+364,4,0:25,25,25,Tennessee Tech Offensive Rebound.,76,72,4,0,0.9822326570149583,Tennessee Tech,Murray State,2,2,1,1,NA,401175336,2020-01-11,
+365,4,0:25,25,25,Abby Buckner made Free Throw.,77,72,5,7,0.9934099508758157,Tennessee Tech,Murray State,2,2,1,1,NA,401175336,2020-01-11,Tennessee Tech
+366,4,0:18,18,18,Raegan Blackburn missed Three Point Jumper.,77,72,5,3,0.9947507371379145,Tennessee Tech,Murray State,2,2,1,1,NA,401175336,2020-01-11,
+367,4,0:15,15,15,Tennessee Tech Defensive Rebound.,77,72,5,1,0.9952559108828367,Tennessee Tech,Murray State,2,2,1,1,NA,401175336,2020-01-11,
+368,4,0:14,14,14,Jordan Brock Turnover.,77,72,5,2,0.9954153640975865,Tennessee Tech,Murray State,2,2,1,1,NA,401175336,2020-01-11,
+369,4,0:12,12,12,Alexis Burpo Turnover.,77,72,5,0,0.995721129015984,Tennessee Tech,Murray State,2,2,1,1,NA,401175336,2020-01-11,
+370,4,0:12,12,12,Anacia Wilkinson Steal.,77,72,5,3,0.995721129015984,Tennessee Tech,Murray State,2,2,1,1,NA,401175336,2020-01-11,
+371,4,0:09,9,9,Kesha Brady Turnover.,77,72,5,4,0.9961477412586438,Tennessee Tech,Murray State,2,2,1,1,NA,401175336,2020-01-11,
+372,4,0:05,5,5,Cekeya Mack missed Layup.,77,72,5,3,0.99665943014498,Tennessee Tech,Murray State,2,2,1,1,NA,401175336,2020-01-11,
+373,4,0:02,2,2,Alexis Burpo Offensive Rebound.,77,72,5,1,0.9970028640030048,Tennessee Tech,Murray State,2,2,1,1,NA,401175336,2020-01-11,
+374,4,0:01,1,1,Alexis Burpo missed Layup.,77,72,5,1,0.9971100707139258,Tennessee Tech,Murray State,2,2,1,1,NA,401175336,2020-01-11,
+375,4,0:00,0,0,Murray State Offensive Rebound.,77,72,5,0,1,Tennessee Tech,Murray State,2,2,1,1,NA,401175336,2020-01-11,
+376,4,0:00,0,0,End of 4th Quarter,77,72,5,0,1,Tennessee Tech,Murray State,2,2,1,1,NA,401175336,2020-01-11,
+377,4,0:00,0,0,End of Game,77,72,5,0,1,Tennessee Tech,Murray State,2,2,1,1,NA,401175336,2020-01-11,
