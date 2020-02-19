@@ -1,0 +1,434 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:52,2392,2392,Hannah Friend missed Three Point Jumper.,0,0,0,0,0.5,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,NA
+2,1,9:52,2392,2392,Kennedy Nicholas Offensive Rebound.,0,0,0,6,0.5,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+3,1,9:46,2386,2386,Summer Menke missed Three Point Jumper.,0,0,0,0,0.5,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+4,1,9:46,2386,2386,Kennedy Nicholas Offensive Rebound.,0,0,0,7,0.5,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+5,1,9:39,2379,2379,Kennedy Nicholas missed Jumper.,0,0,0,0,0.5,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+6,1,9:39,2379,2379,Illinois Defensive Rebound.,0,0,0,1,0.5,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+7,1,9:38,2378,2378,Foul on Summer Menke.,0,0,0,9,0.5,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+8,1,9:29,2369,2369,Foul on Hannah Friend.,0,0,0,12,0.5,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+9,1,9:17,2357,2357,Courtney Joens made Jumper.,2,0,2,7,0.5449396457150346,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+10,1,9:10,2350,2350,Quayonna Harris missed Three Point Jumper.,2,0,2,0,0.5450907609955827,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+11,1,9:10,2350,2350,Illinois Defensive Rebound.,2,0,2,3,0.5450907609955827,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+12,1,9:07,2347,2347,Illinois  Turnover.,2,0,2,7,0.5451557187753678,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+13,1,9:00,2340,2340,Hannah Friend made Three Point Jumper.,2,3,-1,11,0.477299439779222,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+14,1,8:49,2329,2329,Foul on Hannah Friend.,2,3,-1,12,0.47717864708090213,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+15,1,8:37,2317,2317,Brandi Beasley Turnover.,2,3,-1,0,0.47704604854630217,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+16,1,8:37,2317,2317,Summer Menke Steal.,2,3,-1,0,0.47704604854630217,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+17,1,8:37,2317,2317,Summer Menke missed Layup.,2,3,-1,0,0.47704604854630217,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+18,1,8:37,2317,2317,Courtney Joens Defensive Rebound.,2,3,-1,0,0.47704604854630217,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+19,1,8:37,2317,2317,Ali Andrews made Layup. Assisted by Cierra Rice.,4,3,1,0,0.5229539514536978,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+20,1,8:37,2317,2317,Kennedy Nicholas missed Three Point Jumper.,4,3,1,0,0.5229539514536978,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+21,1,8:37,2317,2317,Tiara Scott Offensive Rebound.,4,3,1,0,0.5229539514536978,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+22,1,8:37,2317,2317,Tiara Scott made Three Point Jumper.,4,6,-2,0,0.4541886461494085,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+23,1,8:37,2317,2317,Alex Wittinger made Layup. Assisted by Cierra Rice.,6,6,0,0,0.5,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+24,1,8:37,2317,2317,Hannah Friend made Three Point Jumper.,6,9,-3,0,0.43152272424912347,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+25,1,8:37,2317,2317,Brandi Beasley Turnover.,6,9,-3,0,0.43152272424912347,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+26,1,8:37,2317,2317,Hannah Friend Steal.,6,9,-3,0,0.43152272424912347,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+27,1,8:37,2317,2317,Hannah Friend made Layup.,6,11,-5,4,0.38712770848667527,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+28,1,8:33,2313,2313,Cierra Rice Turnover.,6,11,-5,1,0.3869166772280398,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+29,1,8:32,2312,2312,Hannah Friend missed Free Throw.,6,11,-5,0,0.3868638593422185,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+30,1,8:32,2312,2312,Raegen Rohn Steal.,6,11,-5,1,0.3868638593422185,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+31,1,8:31,2311,2311,Foul on Cierra Rice.,6,11,-5,30,0.38681101768829973,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+32,1,8:01,2281,2281,Tiara Scott made Three Point Jumper. Assisted by Raegen Rohn.,6,14,-8,21,0.3212678982987846,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+33,1,7:40,2260,2260,Alex Wittinger missed Jumper.,6,14,-8,0,0.3196078782471133,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+34,1,7:40,2260,2260,Sarah Abney Defensive Rebound.,6,14,-8,9,0.3196078782471133,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+35,1,7:31,2251,2251,Sarah Abney missed Three Point Jumper.,6,14,-8,0,0.31889379468299145,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+36,1,7:31,2251,2251,Sacramento State Offensive Rebound.,6,14,-8,2,0.31889379468299145,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+37,1,7:29,2249,2249,Foul on Ali Andrews.,6,14,-8,4,0.3187349170686267,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+38,1,7:25,2245,2245,Tiana Johnson missed Layup.,6,14,-8,0,0.3184169638172553,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+39,1,7:25,2245,2245,Illinois Defensive Rebound.,6,14,-8,18,0.3184169638172553,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+40,1,7:07,2227,2227,Brandi Beasley missed Jumper.,6,14,-8,0,0.3169832183277449,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+41,1,7:07,2227,2227,Hannah Friend Defensive Rebound.,6,14,-8,7,0.3169832183277449,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+42,1,7:00,2220,2220,Tiara Scott missed Three Point Jumper.,6,14,-8,0,0.3164245101362902,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+43,1,7:00,2220,2220,Alex Wittinger Defensive Rebound.,6,14,-8,16,0.3164245101362902,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+44,1,6:44,2204,2204,Alex Wittinger made Layup. Assisted by Cierra Rice.,8,14,-6,7,0.3584429069437356,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+45,1,6:37,2197,2197,Tiara Scott made Layup.,8,16,-8,43,0.31458533288308793,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+46,1,5:54,2154,2154,Arieal Scott missed Three Point Jumper.,8,16,-8,0,0.31113755850318414,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+47,1,5:54,2154,2154,Alex Wittinger Offensive Rebound.,8,16,-8,2,0.31113755850318414,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+48,1,5:52,2152,2152,Alex Wittinger made Layup.,10,16,-6,13,0.35510642130774994,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+49,1,5:39,2139,2139,Hannah Friend missed Layup.,10,16,-6,0,0.3542667210677301,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+50,1,5:39,2139,2139,Alex Wittinger Block.,10,16,-6,2,0.3542667210677301,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+51,1,5:37,2137,2137,J-Naya Ephraim Defensive Rebound.,10,16,-6,4,0.3541372688000424,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+52,1,5:33,2133,2133,J-Naya Ephraim missed Layup.,10,16,-6,0,0.3538781436046453,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+53,1,5:33,2133,2133,Kennedy Nicholas Block.,10,16,-6,0,0.3538781436046453,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+54,1,5:33,2133,2133,Sacramento State Defensive Rebound.,10,16,-6,2,0.3538781436046453,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+55,1,5:31,2131,2131,Raegen Rohn missed Three Point Jumper.,10,16,-6,0,0.3537484692973355,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+56,1,5:31,2131,2131,Cierra Rice Defensive Rebound.,10,16,-6,11,0.3537484692973355,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+57,1,5:20,2120,2120,Alex Wittinger made Layup.,12,16,-4,9,0.40039491721990095,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+58,1,5:11,2111,2111,Tiana Johnson missed Three Point Jumper.,12,16,-4,0,0.3999838910068344,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+59,1,5:11,2111,2111,Alex Wittinger Defensive Rebound.,12,16,-4,17,0.3999838910068344,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+60,1,4:54,2094,2094,Arieal Scott missed Three Point Jumper.,12,16,-4,0,0.39920381790398657,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+61,1,4:54,2094,2094,Tiana Johnson Defensive Rebound.,12,16,-4,3,0.39920381790398657,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+62,1,4:51,2091,2091,Official TV Timeout,12,16,-4,10,0.3990656387602772,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+63,1,4:41,2081,2081,Tiana Johnson made Three Point Jumper. Assisted by Anna Weibel.,12,19,-7,14,0.3274480447483664,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+64,1,4:27,2067,2067,Arieal Scott made Jumper.,14,19,-5,9,0.37343812003277826,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+65,1,4:18,2058,2058,Tiana Johnson made Three Point Jumper. Assisted by Milee Enger.,14,22,-8,20,0.30332896085192995,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+66,1,3:58,2038,2038,Arieal Scott missed Three Point Jumper.,14,22,-8,0,0.3016752326744181,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+67,1,3:58,2038,2038,Tiana Johnson Defensive Rebound.,14,22,-8,12,0.3016752326744181,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+68,1,3:46,2026,2026,Anna Weibel missed Jumper.,14,22,-8,0,0.30067775226669696,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+69,1,3:46,2026,2026,J-Naya Ephraim Defensive Rebound.,14,22,-8,8,0.30067775226669696,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+70,1,3:38,2018,2018,Foul on Milee Enger.,14,22,-8,0,0.3000104814356509,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+71,1,3:38,2018,2018,Arieal Scott missed Free Throw.,14,22,-8,0,0.3000104814356509,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+72,1,3:38,2018,2018,Illinois Deadball Team Rebound.,14,22,-8,0,0.3000104814356509,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+73,1,3:38,2018,2018,Arieal Scott made Free Throw.,15,22,-7,9,0.322710764741844,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+74,1,3:29,2009,2009,Kennedy Nicholas missed Jumper.,15,22,-7,0,0.32202497153666343,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+75,1,3:29,2009,2009,Sacramento State Offensive Rebound.,15,22,-7,13,0.32202497153666343,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+76,1,3:16,1996,1996,Summer Menke Turnover.,15,22,-7,9,0.3210300347732191,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+77,1,3:07,1987,1987,Brandi Beasley Turnover.,15,22,-7,1,0.3203381346342331,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+78,1,3:06,1986,1986,Hannah Friend Steal.,15,22,-7,3,0.32026109708939243,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+79,1,3:03,1983,1983,Foul on Alex Wittinger.,15,22,-7,11,0.32002979052707753,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+80,1,2:52,1972,1972,Hannah Friend made Free Throw.,15,23,-8,19,0.29613573129403054,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+81,1,2:33,1953,1953,Kennedy Nicholas Offensive Rebound.,15,23,-8,0,0.2945150895670896,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+82,1,2:33,1953,1953,Kennedy Nicholas made Layup.,15,25,-10,0,0.25125240073333044,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+83,1,2:33,1953,1953,Arieal Scott made Jumper. Assisted by Alex Wittinger.,17,25,-8,0,0.2945150895670896,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+84,1,2:33,1953,1953,Hannah Friend missed Three Point Jumper.,17,25,-8,0,0.2945150895670896,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+85,1,2:33,1953,1953,Hannah Friend Offensive Rebound.,17,25,-8,3,0.2945150895670896,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+86,1,2:30,1950,1950,Foul on Arieal Scott.,17,25,-8,8,0.29425805398605726,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+87,1,2:22,1942,1942,Foul on Mackenzie Blazek.,17,25,-8,0,0.2935710618700509,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+88,1,2:22,1942,1942,Maesyn Rix made Free Throw.,17,26,-9,0,0.27133383883165835,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+89,1,2:22,1942,1942,Maesyn Rix missed Free Throw.,17,26,-9,0,0.27133383883165835,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+90,1,2:22,1942,1942,Raegen Rohn Offensive Rebound.,17,26,-9,1,0.27133383883165835,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+91,1,2:21,1941,1941,Raegen Rohn missed Layup.,17,26,-9,0,0.27124156643830305,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+92,1,2:21,1941,1941,Mackenzie Blazek Defensive Rebound.,17,26,-9,0,0.27124156643830305,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+93,1,2:21,1941,1941,Brandi Beasley made Layup.,19,26,-7,6,0.31675972859296786,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+94,1,2:15,1935,1935,Sarah Abney made Three Point Jumper. Assisted by Raegen Rohn.,19,29,-10,22,0.24950287834241605,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+95,1,1:53,1913,1913,Cierra Rice missed Three Point Jumper.,19,29,-10,0,0.2473609987001594,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+96,1,1:53,1913,1913,Maesyn Rix Defensive Rebound.,19,29,-10,13,0.2473609987001594,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+97,1,1:40,1900,1900,Tiana Johnson made Three Point Jumper. Assisted by Milee Enger.,19,32,-13,16,0.18917861549851042,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+98,1,1:24,1884,1884,Arieal Scott Turnover.,19,32,-13,1,0.18752358643782222,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+99,1,1:23,1883,1883,Sarah Abney Steal.,19,32,-13,5,0.18742047913886628,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+100,1,1:18,1878,1878,Sarah Abney missed Three Point Jumper.,19,32,-13,0,0.18690546101978772,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+101,1,1:18,1878,1878,Brandi Beasley Defensive Rebound.,19,32,-13,13,0.18690546101978772,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+102,1,1:05,1865,1865,Arieal Scott made Layup.,21,32,-11,10,0.2224390092115951,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+103,1,0:55,1855,1855,Raegen Rohn missed Three Point Jumper.,21,32,-11,0,0.22144651389296327,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+104,1,0:55,1855,1855,Cierra Rice Defensive Rebound.,21,32,-11,9,0.22144651389296327,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+105,1,0:46,1846,1846,Foul on Raegen Rohn.,21,32,-11,0,0.22055391261857665,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+106,1,0:46,1846,1846,Brandi Beasley made Free Throw.,22,32,-10,0,0.24091420012015657,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+107,1,0:46,1846,1846,Brandi Beasley made Free Throw.,23,32,-9,17,0.26252099421300934,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+108,1,0:29,1829,1829,Hannah Friend missed Layup.,23,32,-9,0,0.2609662995730389,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+109,1,0:29,1829,1829,Kennedy Nicholas Offensive Rebound.,23,32,-9,2,0.2609662995730389,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+110,1,0:27,1827,1827,Kennedy Nicholas made Layup.,23,34,-11,6,0.21866964607641937,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+111,1,0:21,1821,1821,Courtney Joens Turnover.,23,34,-11,1,0.21807417666827114,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+112,1,0:20,1820,1820,Summer Menke Steal.,23,34,-11,3,0.21797489476452958,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+113,1,0:17,1817,1817,Hannah Friend missed Three Point Jumper.,23,34,-11,0,0.21767697480845982,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+114,1,0:17,1817,1817,Cierra Rice Defensive Rebound.,23,34,-11,8,0.21767697480845982,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+115,1,0:09,1809,1809,Cierra Rice Turnover.,23,34,-11,3,0.21688188260006652,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+116,1,0:06,1806,1806,Quayonna Harris Steal.,23,34,-11,0,0.21658344226908596,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+117,1,0:06,1806,1806,Summer Menke Turnover.,23,34,-11,6,0.21658344226908596,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+118,1,0:00,1800,1800,End of 1st Quarter,23,34,-11,4,0.2159860210681694,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+119,2,9:56,1796,1796,Alex Wittinger made Jumper.,25,34,-9,6,0.25793320768788475,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+120,2,9:50,1790,1790,Tiara Scott missed Three Point Jumper.,25,34,-9,0,0.2573784822633371,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+121,2,9:50,1790,1790,Courtney Joens Defensive Rebound.,25,34,-9,11,0.2573784822633371,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+122,2,9:39,1779,1779,Alex Wittinger missed Jumper.,25,34,-9,0,0.2563581102675876,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+123,2,9:39,1779,1779,Hannah Friend Defensive Rebound.,25,34,-9,2,0.2563581102675876,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+124,2,9:37,1777,1777,Summer Menke missed Layup.,25,34,-9,0,0.25617207841189477,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+125,2,9:37,1777,1777,Brandi Beasley Defensive Rebound.,25,34,-9,17,0.25617207841189477,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+126,2,9:20,1760,1760,Alex Wittinger made Layup. Assisted by Ali Andrews.,27,34,-7,8,0.302467144204294,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+127,2,9:12,1752,1752,Hannah Friend made Three Point Jumper. Assisted by Tiara Scott.,27,37,-10,6,0.23181508399898998,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+128,2,9:06,1746,1746,Alex Wittinger missed Jumper.,27,37,-10,0,0.2312233925312555,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+129,2,9:06,1746,1746,Kennedy Nicholas Defensive Rebound.,27,37,-10,5,0.2312233925312555,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+130,2,9:01,1741,1741,Hannah Friend made Layup. Assisted by Tiara Scott.,27,39,-12,8,0.1907660244763931,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+131,2,8:53,1733,1733,Alex Wittinger made Layup.,29,39,-10,8,0.229934612505104,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+132,2,8:45,1725,1725,Tiara Scott missed Three Point Jumper.,29,39,-10,0,0.2291365473652806,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+133,2,8:45,1725,1725,Illinois Defensive Rebound.,29,39,-10,6,0.2291365473652806,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+134,2,8:39,1719,1719,Foul on Kennedy Nicholas.,29,39,-10,15,0.22853533746017857,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+135,2,8:24,1704,1704,Arieal Scott made Three Point Jumper. Assisted by Brandi Beasley.,32,39,-7,25,0.2978318139716825,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+136,2,7:59,1679,1679,Anna Weibel made Jumper. Assisted by Milee Enger.,32,41,-9,19,0.2467944073604525,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+137,2,7:40,1660,1660,Alex Wittinger made Layup. Assisted by Brandi Beasley.,34,41,-7,10,0.2941304604944661,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+138,2,7:30,1650,1650,Tiana Johnson made Three Point Jumper. Assisted by Milee Enger.,34,44,-10,14,0.22163183703802003,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+139,2,7:16,1636,1636,Ali Andrews missed Layup.,34,44,-10,0,0.22029666472392873,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+140,2,7:16,1636,1636,Anna Weibel Defensive Rebound.,34,44,-10,8,0.22029666472392873,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+141,2,7:08,1628,1628,Milee Enger missed Three Point Jumper.,34,44,-10,0,0.2195421059670357,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+142,2,7:08,1628,1628,Sarah Abney Offensive Rebound.,34,44,-10,8,0.2195421059670357,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+143,2,7:00,1620,1620,Sarah Abney made Layup.,34,46,-12,11,0.1783947807622965,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+144,2,6:49,1609,1609,Arieal Scott missed Three Point Jumper.,34,46,-12,0,0.17734099547547755,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+145,2,6:49,1609,1609,Tiana Johnson Defensive Rebound.,34,46,-12,12,0.17734099547547755,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+146,2,6:37,1597,1597,Tiana Johnson missed Three Point Jumper.,34,46,-12,0,0.1761984601112286,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+147,2,6:37,1597,1597,Brandi Beasley Defensive Rebound.,34,46,-12,19,0.1761984601112286,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+148,2,6:18,1578,1578,Alex Wittinger missed Layup.,34,46,-12,0,0.1743965541604087,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+149,2,6:18,1578,1578,Sarah Abney Defensive Rebound.,34,46,-12,12,0.1743965541604087,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+150,2,6:06,1566,1566,Milee Enger made Three Point Jumper.,34,49,-15,13,0.12418432348407313,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+151,2,5:53,1553,1553,Illinois  Timeout,34,49,-15,15,0.1230104883508066,Illinois,Sacramento State,3,4,1,0,NA,401094615,2018-11-24,
+152,2,5:38,1538,1538,J-Naya Ephraim Turnover.,34,49,-15,14,0.12164907994491471,Illinois,Sacramento State,3,4,1,0,NA,401094615,2018-11-24,
+153,2,5:24,1524,1524,Hannah Friend made Jumper.,34,51,-17,12,0.09499187449373035,Illinois,Sacramento State,3,4,1,0,NA,401094615,2018-11-24,Sacramento State
+154,2,5:12,1512,1512,Alex Wittinger made Jumper. Assisted by J-Naya Ephraim.,36,51,-15,9,0.11925634690939116,Illinois,Sacramento State,3,4,1,0,NA,401094615,2018-11-24,Illinois
+155,2,5:03,1503,1503,Hannah Friend missed Three Point Jumper.,36,51,-15,0,0.11841437986916337,Illinois,Sacramento State,3,4,1,0,NA,401094615,2018-11-24,
+156,2,5:03,1503,1503,Kennedy Nicholas Offensive Rebound.,36,51,-15,7,0.11841437986916337,Illinois,Sacramento State,3,4,1,0,NA,401094615,2018-11-24,
+157,2,4:56,1496,1496,Kennedy Nicholas missed Layup.,36,51,-15,0,0.11775350796522357,Illinois,Sacramento State,3,4,1,0,NA,401094615,2018-11-24,
+158,2,4:56,1496,1496,Alex Wittinger Block.,36,51,-15,1,0.11775350796522357,Illinois,Sacramento State,3,4,1,0,NA,401094615,2018-11-24,
+159,2,4:55,1495,1495,Sarah Shewan Defensive Rebound.,36,51,-15,8,0.11765863696966589,Illinois,Sacramento State,3,4,1,0,NA,401094615,2018-11-24,
+160,2,4:47,1487,1487,Brandi Beasley Turnover.,36,51,-15,1,0.11689526155215983,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+161,2,4:46,1486,1486,Summer Menke Steal.,36,51,-15,4,0.11679926864053061,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+162,2,4:42,1482,1482,Tiara Scott made Three Point Jumper. Assisted by Quayonna Harris.,36,54,-18,16,0.08074976476029831,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,Sacramento State
+163,2,4:26,1466,1466,Arieal Scott made Three Point Jumper. Assisted by Brandi Beasley.,39,54,-15,5,0.1148501321457783,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,Illinois
+164,2,4:21,1461,1461,Summer Menke Turnover.,39,54,-15,17,0.11435345709117131,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+165,2,4:04,1444,1444,J-Naya Ephraim made Jumper. Assisted by Brandi Beasley.,41,54,-13,14,0.143216648055771,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,Illinois
+166,2,3:50,1430,1430,Sarah Abney missed Layup.,41,54,-13,0,0.14175843570865948,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+167,2,3:50,1430,1430,Alex Wittinger Block.,41,54,-13,3,0.14175843570865948,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+168,2,3:47,1427,1427,Maesyn Rix Offensive Rebound.,41,54,-13,5,0.14145263609762165,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+169,2,3:42,1422,1422,Maesyn Rix made Layup.,41,56,-15,12,0.1105132896472175,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,Sacramento State
+170,2,3:30,1410,1410,Alex Wittinger missed Jumper.,41,56,-15,0,0.10939947435807447,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+171,2,3:30,1410,1410,Alex Wittinger Offensive Rebound.,41,56,-15,2,0.10939947435807447,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+172,2,3:28,1408,1408,Alex Wittinger missed Jumper.,41,56,-15,0,0.10921654761173709,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+173,2,3:28,1408,1408,Sarah Shewan Offensive Rebound.,41,56,-15,4,0.10921654761173709,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+174,2,3:24,1404,1404,Foul on Tiana Johnson.,41,56,-15,0,0.1088527877465287,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+175,2,3:24,1404,1404,Sarah Shewan missed Free Throw.,41,56,-15,0,0.1088527877465287,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+176,2,3:24,1404,1404,Illinois Deadball Team Rebound.,41,56,-15,0,0.1088527877465287,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+177,2,3:24,1404,1404,Sarah Shewan missed Free Throw.,41,56,-15,0,0.1088527877465287,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+178,2,3:24,1404,1404,Sacramento State Defensive Rebound.,41,56,-15,28,0.1088527877465287,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+179,2,2:56,1376,1376,Tiana Johnson missed Three Point Jumper.,41,56,-15,0,0.10636903303140668,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+180,2,2:56,1376,1376,Maesyn Rix Offensive Rebound.,41,56,-15,3,0.10636903303140668,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+181,2,2:53,1373,1373,Maesyn Rix Turnover.,41,56,-15,9,0.10610778650575581,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+182,2,2:44,1364,1364,Cierra Rice made Layup. Assisted by Brandi Beasley.,43,56,-13,8,0.13538859327376865,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,Illinois
+183,2,2:36,1356,1356,Hannah Friend made Three Point Jumper. Assisted by Quayonna Harris.,43,59,-16,10,0.09196761526898303,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,Sacramento State
+184,2,2:26,1346,1346,Cierra Rice Turnover.,43,59,-16,14,0.09114948990221576,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+185,2,2:12,1332,1332,Quayonna Harris missed Three Point Jumper.,43,59,-16,0,0.0900042144840343,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+186,2,2:12,1332,1332,Summer Menke Offensive Rebound.,43,59,-16,4,0.0900042144840343,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+187,2,2:08,1328,1328,Tiara Scott missed Three Point Jumper.,43,59,-16,0,0.08967619059200346,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+188,2,2:08,1328,1328,Alex Wittinger Defensive Rebound.,43,59,-16,10,0.08967619059200346,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+189,2,1:58,1318,1318,Foul on Tiara Scott.,43,59,-16,0,0.08885302118474993,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+190,2,1:58,1318,1318,J-Naya Ephraim missed Free Throw.,43,59,-16,0,0.08885302118474993,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+191,2,1:58,1318,1318,Illinois Deadball Team Rebound.,43,59,-16,0,0.08885302118474993,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+192,2,1:58,1318,1318,J-Naya Ephraim made Free Throw.,44,59,-15,12,0.10135688944765546,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,Illinois
+193,2,1:46,1306,1306,Quayonna Harris missed Layup.,44,59,-15,0,0.10030557038324381,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+194,2,1:46,1306,1306,Kennedy Nicholas Offensive Rebound.,44,59,-15,5,0.10030557038324381,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+195,2,1:41,1301,1301,Kennedy Nicholas missed Layup.,44,59,-15,0,0.0998634525952898,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+196,2,1:41,1301,1301,Kennedy Nicholas Offensive Rebound.,44,59,-15,1,0.0998634525952898,Illinois,Sacramento State,3,4,0,0,NA,401094615,2018-11-24,
+197,2,1:40,1300,1300,Sacramento State  Timeout,44,59,-15,4,0.09977470036378293,Illinois,Sacramento State,3,3,0,1,NA,401094615,2018-11-24,
+198,2,1:36,1296,1296,Tiara Scott made Three Point Jumper. Assisted by Kennedy Nicholas.,44,62,-18,10,0.0663323599420926,Illinois,Sacramento State,3,3,0,1,NA,401094615,2018-11-24,Sacramento State
+199,2,1:26,1286,1286,Sarah Shewan made Layup. Assisted by Brandi Beasley.,46,62,-16,9,0.08616591802032558,Illinois,Sacramento State,3,3,0,1,NA,401094615,2018-11-24,Illinois
+200,2,1:17,1277,1277,Summer Menke missed Three Point Jumper.,46,62,-16,0,0.08538897914951575,Illinois,Sacramento State,3,3,0,1,NA,401094615,2018-11-24,
+201,2,1:17,1277,1277,Cierra Rice Defensive Rebound.,46,62,-16,6,0.08538897914951575,Illinois,Sacramento State,3,3,0,1,NA,401094615,2018-11-24,
+202,2,1:11,1271,1271,Sarah Shewan made Layup. Assisted by J-Naya Ephraim.,48,62,-14,7,0.11098048483737623,Illinois,Sacramento State,3,3,0,1,NA,401094615,2018-11-24,Illinois
+203,2,1:04,1264,1264,Quayonna Harris missed Three Point Jumper.,48,62,-14,0,0.11029174352279329,Illinois,Sacramento State,3,3,0,1,NA,401094615,2018-11-24,
+204,2,1:04,1264,1264,Illinois Defensive Rebound.,48,62,-14,14,0.11029174352279329,Illinois,Sacramento State,3,3,0,1,NA,401094615,2018-11-24,
+205,2,0:50,1250,1250,J-Naya Ephraim Turnover.,48,62,-14,1,0.10888298092848744,Illinois,Sacramento State,3,3,0,1,NA,401094615,2018-11-24,
+206,2,0:49,1249,1249,Raegen Rohn Steal.,48,62,-14,3,0.10878064830302869,Illinois,Sacramento State,3,3,0,1,NA,401094615,2018-11-24,
+207,2,0:46,1246,1246,Raegen Rohn missed Layup.,48,62,-14,0,0.10847221478841293,Illinois,Sacramento State,3,3,0,1,NA,401094615,2018-11-24,
+208,2,0:46,1246,1246,Brandi Beasley Block.,48,62,-14,2,0.10847221478841293,Illinois,Sacramento State,3,3,0,1,NA,401094615,2018-11-24,
+209,2,0:44,1244,1244,Raegen Rohn Offensive Rebound.,48,62,-14,2,0.10826537708202681,Illinois,Sacramento State,3,3,0,1,NA,401094615,2018-11-24,
+210,2,0:42,1242,1242,Raegen Rohn missed Jumper.,48,62,-14,0,0.1080575495508324,Illinois,Sacramento State,3,3,0,1,NA,401094615,2018-11-24,
+211,2,0:42,1242,1242,Sarah Shewan Defensive Rebound.,48,62,-14,11,0.1080575495508324,Illinois,Sacramento State,3,3,0,1,NA,401094615,2018-11-24,
+212,2,0:31,1231,1231,J-Naya Ephraim Turnover.,48,62,-14,28,0.10689615071562776,Illinois,Sacramento State,3,3,0,0,NA,401094615,2018-11-24,
+213,2,0:03,1203,1203,Sacramento State  Turnover.,48,62,-14,3,0.10380320973194711,Illinois,Sacramento State,3,3,0,0,NA,401094615,2018-11-24,
+214,2,0:00,1200,1200,Brandi Beasley missed Three Point Jumper.,48,62,-14,0,0.10347276448009536,Illinois,Sacramento State,3,3,0,0,NA,401094615,2018-11-24,
+215,2,0:00,1200,1200,Sarah Abney Block.,48,62,-14,0,0.10347276448009536,Illinois,Sacramento State,3,3,0,0,NA,401094615,2018-11-24,
+216,2,0:00,1200,1200,Sacramento State Defensive Rebound.,48,62,-14,0,0.10347276448009536,Illinois,Sacramento State,3,3,0,0,NA,401094615,2018-11-24,
+217,2,0:00,1200,1200,End of 2nd Quarter,48,62,-14,8,0.10347276448009536,Illinois,Sacramento State,3,3,0,0,NA,401094615,2018-11-24,
+218,3,9:52,1192,1192,Kennedy Nicholas made Layup. Assisted by Hannah Friend.,48,64,-16,14,0.07738593544380491,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+219,3,9:38,1178,1178,Alex Wittinger missed Layup.,48,64,-16,0,0.07608074936486153,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+220,3,9:38,1178,1178,Illinois Offensive Rebound.,48,64,-16,1,0.07608074936486153,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+221,3,9:37,1177,1177,Foul on Quayonna Harris.,48,64,-16,16,0.07598930731082047,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+222,3,9:21,1161,1161,Alex Wittinger made Jumper.,50,64,-14,8,0.09939966309771513,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+223,3,9:13,1153,1153,Hannah Friend missed Three Point Jumper.,50,64,-14,0,0.09860295144237022,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+224,3,9:13,1153,1153,Courtney Joens Defensive Rebound.,50,64,-14,12,0.09860295144237022,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+225,3,9:01,1141,1141,Ali Andrews made Layup. Assisted by Alex Wittinger.,52,64,-12,13,0.1291881602182671,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+226,3,8:48,1128,1128,Quayonna Harris missed Jumper.,52,64,-12,0,0.12780256567370754,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+227,3,8:48,1128,1128,Kennedy Nicholas Offensive Rebound.,52,64,-12,5,0.12780256567370754,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+228,3,8:43,1123,1123,Kennedy Nicholas missed Layup.,52,64,-12,0,0.1272717447768733,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+229,3,8:43,1123,1123,Courtney Joens Defensive Rebound.,52,64,-12,9,0.1272717447768733,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+230,3,8:34,1114,1114,Cierra Rice missed Layup.,52,64,-12,0,0.12631717253705488,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+231,3,8:34,1114,1114,Illinois Offensive Rebound.,52,64,-12,4,0.12631717253705488,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+232,3,8:30,1110,1110,Alex Wittinger Turnover.,52,64,-12,13,0.1258927445050638,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+233,3,8:17,1097,1097,Tiana Johnson made Jumper. Assisted by Milee Enger.,52,66,-14,24,0.09317490830304374,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+234,3,7:53,1073,1073,Alex Wittinger made Jumper.,54,66,-12,12,0.12191917757893354,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+235,3,7:41,1061,1061,Sarah Abney missed Three Point Jumper.,54,66,-12,0,0.12059538389665346,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+236,3,7:41,1061,1061,Cierra Rice Defensive Rebound.,54,66,-12,2,0.12059538389665346,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+237,3,7:39,1059,1059,Foul on Maesyn Rix.,54,66,-12,14,0.12037235649306495,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+238,3,7:25,1045,1045,Ali Andrews made Three Point Jumper. Assisted by Brandi Beasley.,57,66,-9,8,0.181984300891266,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+239,3,7:17,1037,1037,Milee Enger missed Three Point Jumper.,57,66,-9,0,0.1809974079966999,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+240,3,7:17,1037,1037,Illinois Defensive Rebound.,57,66,-9,15,0.1809974079966999,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+241,3,7:02,1022,1022,Cierra Rice made Layup. Assisted by Courtney Joens.,59,66,-7,9,0.234303651503528,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+242,3,6:53,1013,1013,Hannah Friend missed Three Point Jumper.,59,66,-7,0,0.23318333193117016,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+243,3,6:53,1013,1013,Kennedy Nicholas Offensive Rebound.,59,66,-7,6,0.23318333193117016,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+244,3,6:47,1007,1007,Hannah Friend missed Layup.,59,66,-7,0,0.23241941123407103,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+245,3,6:47,1007,1007,Courtney Joens Defensive Rebound.,59,66,-7,3,0.23241941123407103,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+246,3,6:44,1004,1004,Foul on Hannah Friend.,59,66,-7,0,0.2320321021359053,Illinois,Sacramento State,4,4,0,1,NA,401094615,2018-11-24,
+247,3,6:44,1004,1004,Sacramento State  Timeout,59,66,-7,4,0.2320321021359053,Illinois,Sacramento State,4,3,0,1,NA,401094615,2018-11-24,
+248,3,6:40,1000,1000,Cierra Rice made Layup. Assisted by Courtney Joens.,61,66,-5,8,0.29796581634190966,Illinois,Sacramento State,4,3,0,1,NA,401094615,2018-11-24,Illinois
+249,3,6:32,992,992,Hannah Friend missed Three Point Jumper.,61,66,-5,0,0.29707110081801363,Illinois,Sacramento State,4,3,0,1,NA,401094615,2018-11-24,
+250,3,6:32,992,992,Brandi Beasley Defensive Rebound.,61,66,-5,10,0.29707110081801363,Illinois,Sacramento State,4,3,0,1,NA,401094615,2018-11-24,
+251,3,6:22,982,982,Courtney Joens made Layup. Assisted by Ali Andrews.,63,66,-3,7,0.3728312396759644,Illinois,Sacramento State,4,3,0,1,NA,401094615,2018-11-24,Illinois
+252,3,6:15,975,975,Kennedy Nicholas missed Layup.,63,66,-3,0,0.3722703881371238,Illinois,Sacramento State,4,3,0,1,NA,401094615,2018-11-24,
+253,3,6:15,975,975,Alex Wittinger Defensive Rebound.,63,66,-3,10,0.3722703881371238,Illinois,Sacramento State,4,3,0,1,NA,401094615,2018-11-24,
+254,3,6:05,965,965,Courtney Joens made Jumper.,65,66,-1,10,0.45627961775669784,Illinois,Sacramento State,4,3,0,1,NA,401094615,2018-11-24,Illinois
+255,3,5:55,955,955,Tiara Scott made Jumper.,65,68,-3,15,0.37067286588333487,Illinois,Sacramento State,4,3,0,1,NA,401094615,2018-11-24,Sacramento State
+256,3,5:40,940,940,Cierra Rice missed Three Point Jumper.,65,68,-3,0,0.36957855059748673,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+257,3,5:40,940,940,Alex Wittinger Offensive Rebound.,65,68,-3,3,0.36957855059748673,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+258,3,5:37,937,937,Foul on Kennedy Nicholas.,65,68,-3,0,0.36936920576650306,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+259,3,5:37,937,937,Alex Wittinger made Free Throw.,66,68,-2,0,0.4117790027843806,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Illinois
+260,3,5:37,937,937,Alex Wittinger made Free Throw.,67,68,-1,19,0.45554074161924285,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Illinois
+261,3,5:18,918,918,Foul on Ali Andrews.,67,68,-1,0,0.45509083002014566,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+262,3,5:18,918,918,Anna Weibel missed Free Throw.,67,68,-1,0,0.45509083002014566,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+263,3,5:18,918,918,Sacramento State Deadball Team Rebound.,67,68,-1,0,0.45509083002014566,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+264,3,5:18,918,918,Anna Weibel missed Free Throw.,67,68,-1,0,0.45509083002014566,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+265,3,5:18,918,918,Alex Wittinger Defensive Rebound.,67,68,-1,15,0.45509083002014566,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+266,3,5:03,903,903,Courtney Joens missed Three Point Jumper.,67,68,-1,0,0.45475451708460474,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+267,3,5:03,903,903,Cierra Rice Offensive Rebound.,67,68,-1,5,0.45475451708460474,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+268,3,4:58,898,898,Cierra Rice missed Layup.,67,68,-1,0,0.4546448188531244,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+269,3,4:58,898,898,Ali Andrews Offensive Rebound.,67,68,-1,13,0.4546448188531244,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+270,3,4:45,885,885,Alex Wittinger made Layup.,69,68,1,10,0.545637331216283,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Illinois
+271,3,4:35,875,875,Raegen Rohn made Jumper.,69,70,-1,23,0.45414650486735314,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Sacramento State
+272,3,4:12,852,852,J-Naya Ephraim missed Three Point Jumper.,69,70,-1,0,0.4536406259399822,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+273,3,4:12,852,852,Alex Wittinger Offensive Rebound.,69,70,-1,5,0.4536406259399822,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+274,3,4:07,847,847,Alex Wittinger missed Jumper.,69,70,-1,0,0.453527282175433,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+275,3,4:07,847,847,Courtney Joens Offensive Rebound.,69,70,-1,4,0.453527282175433,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+276,3,4:03,843,843,Alex Wittinger missed Layup.,69,70,-1,0,0.4534353585169084,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+277,3,4:03,843,843,Kennedy Nicholas Defensive Rebound.,69,70,-1,9,0.4534353585169084,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+278,3,3:54,834,834,Summer Menke missed Three Point Jumper.,69,70,-1,0,0.4532237740066682,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+279,3,3:54,834,834,Kennedy Nicholas Offensive Rebound.,69,70,-1,5,0.4532237740066682,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+280,3,3:49,829,829,Kennedy Nicholas Turnover.,69,70,-1,18,0.4531029638036787,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+281,3,3:31,811,811,J-Naya Ephraim missed Layup.,69,70,-1,0,0.452644358041393,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+282,3,3:31,811,811,Alex Wittinger Offensive Rebound.,69,70,-1,6,0.452644358041393,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+283,3,3:25,805,805,Ali Andrews missed Three Point Jumper.,69,70,-1,0,0.45248186685416714,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+284,3,3:25,805,805,Summer Menke Defensive Rebound.,69,70,-1,8,0.45248186685416714,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+285,3,3:17,797,797,Technical Foul on Sacramento State.,69,70,-1,0,0.4522565413810003,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+286,3,3:17,797,797,Ali Andrews made Free Throw.,70,70,0,0,0.5,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Illinois
+287,3,3:17,797,797,Ali Andrews made Free Throw.,71,70,1,3,0.5477434586189996,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Illinois
+288,3,3:14,794,794,Foul on Arieal Scott.,71,70,1,0,0.5478306959880616,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+289,3,3:14,794,794,Hannah Friend made Free Throw.,71,71,0,0,0.5,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Sacramento State
+290,3,3:14,794,794,Hannah Friend missed Free Throw.,71,71,0,0,0.5,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+291,3,3:14,794,794,Sacramento State Offensive Rebound.,71,71,0,3,0.5,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+292,3,3:11,791,791,Foul on Cierra Rice.,71,71,0,2,0.5,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+293,3,3:09,789,789,Tiara Scott missed Three Point Jumper.,71,71,0,0,0.5,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+294,3,3:09,789,789,Sarah Shewan Defensive Rebound.,71,71,0,11,0.5,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+295,3,2:58,778,778,Foul on Kennedy Nicholas.,71,71,0,0,0.5,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+296,3,2:58,778,778,Cierra Rice made Free Throw.,72,71,1,0,0.5483239201348192,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Illinois
+297,3,2:58,778,778,Cierra Rice made Free Throw.,73,71,2,7,0.595753426184808,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Illinois
+298,3,2:51,771,771,Sarah Abney missed Three Point Jumper.,73,71,2,0,0.5962045156604113,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+299,3,2:51,771,771,Arieal Scott Defensive Rebound.,73,71,2,3,0.5962045156604113,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+300,3,2:48,768,768,Foul on Maesyn Rix.,73,71,2,0,0.5964041681892613,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+301,3,2:48,768,768,Arieal Scott made Free Throw.,74,71,3,0,0.6423909941460847,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Illinois
+302,3,2:48,768,768,Arieal Scott made Free Throw.,75,71,4,12,0.6858975835637963,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Illinois
+303,3,2:36,756,756,Tiana Johnson missed Jumper.,75,71,4,0,0.6873981707489135,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+304,3,2:36,756,756,Alex Wittinger Defensive Rebound.,75,71,4,11,0.6873981707489135,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+305,3,2:25,745,745,Foul on Milee Enger.,75,71,4,4,0.688880007635965,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+306,3,2:21,741,741,Brandi Beasley made Free Throw.,76,71,5,0,0.7304509686534881,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Illinois
+307,3,2:21,741,741,Brandi Beasley made Free Throw.,77,71,6,7,0.7678648793257095,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Illinois
+308,3,2:14,734,734,Raegen Rohn missed Three Point Jumper.,77,71,6,0,0.7691452019233761,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+309,3,2:14,734,734,Sarah Abney Offensive Rebound.,77,71,6,5,0.7691452019233761,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+310,3,2:09,729,729,Milee Enger Turnover.,77,71,6,0,0.7700930703402845,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+311,3,2:09,729,729,Sarah Shewan Steal.,77,71,6,10,0.7700930703402845,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+312,3,1:59,719,719,Arieal Scott missed Three Point Jumper.,77,71,6,0,0.7719165106249092,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+313,3,1:59,719,719,Sarah Shewan Offensive Rebound.,77,71,6,4,0.7719165106249092,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+314,3,1:55,715,715,Foul on Maesyn Rix.,77,71,6,0,0.7726063814647721,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+315,3,1:55,715,715,Sarah Shewan made Free Throw.,78,71,7,0,0.8064233128991918,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Illinois
+316,3,1:55,715,715,Sarah Shewan made Free Throw.,79,71,8,6,0.8362768630570487,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Illinois
+317,3,1:49,709,709,Summer Menke made Three Point Jumper. Assisted by Tiara Scott.,79,74,5,12,0.7357467964802344,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Sacramento State
+318,3,1:37,697,697,Brandi Beasley made Layup.,81,74,7,21,0.8094026206235951,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Illinois
+319,3,1:16,676,676,Hannah Friend made Three Point Jumper.,81,77,4,14,0.6980499853434914,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Sacramento State
+320,3,1:02,662,662,Brandi Beasley missed Layup.,81,77,4,0,0.6996248612952227,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+321,3,1:02,662,662,Sarah Shewan Offensive Rebound.,81,77,4,3,0.6996248612952227,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+322,3,0:59,659,659,Sarah Shewan made Layup.,83,77,6,12,0.7808574195496293,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Illinois
+323,3,0:47,647,647,Hannah Friend made Three Point Jumper. Assisted by Tiara Scott.,83,80,3,13,0.6547964435499769,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Sacramento State
+324,3,0:34,634,634,Sarah Shewan made Layup. Assisted by Brandi Beasley.,85,80,5,34,0.7457499239833566,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,Illinois
+325,3,0:00,600,600,Sacramento State  Turnover.,85,80,5,0,0.7508511955786001,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+326,3,0:00,600,600,End of 3rd Quarter,85,80,5,15,0.7508511955786001,Illinois,Sacramento State,4,3,0,0,NA,401094615,2018-11-24,
+327,4,9:45,585,585,Summer Menke Turnover.,85,80,5,0,0.7535188249809183,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+328,4,9:45,585,585,Arieal Scott Steal.,85,80,5,22,0.7535188249809183,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+329,4,9:23,563,563,Alex Wittinger Turnover.,85,80,5,2,0.7580714657916107,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+330,4,9:21,561,561,Tiara Scott Steal.,85,80,5,3,0.7585285064228021,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+331,4,9:18,558,558,Foul on Brandi Beasley.,85,80,5,0,0.7592286736542811,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+332,4,9:18,558,558,Summer Menke missed Free Throw.,85,80,5,0,0.7592286736542811,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+333,4,9:18,558,558,Sacramento State Deadball Team Rebound.,85,80,5,0,0.7592286736542811,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+334,4,9:18,558,558,Summer Menke made Free Throw.,85,81,4,6,0.7147902580684806,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,Sacramento State
+335,4,9:12,552,552,Brandi Beasley Turnover.,85,81,4,1,0.7160888345818271,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+336,4,9:11,551,551,Kennedy Nicholas Steal.,85,81,4,15,0.7163118756618977,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+337,4,8:56,536,536,Foul on Ali Andrews.,85,81,4,2,0.719439743473581,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+338,4,8:54,534,534,Kennedy Nicholas made Layup. Assisted by Summer Menke.,85,83,2,20,0.6158046364254884,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,Sacramento State
+339,4,8:34,514,514,Alex Wittinger missed Jumper.,85,83,2,0,0.6178309992070697,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+340,4,8:34,514,514,Hannah Friend Defensive Rebound.,85,83,2,9,0.6178309992070697,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+341,4,8:25,505,505,Tiara Scott made Three Point Jumper. Assisted by Hannah Friend.,85,86,-1,27,0.43979945721858715,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,Sacramento State
+342,4,7:58,478,478,Sarah Shewan made Three Point Jumper. Assisted by Brandi Beasley.,88,86,2,13,0.6213332521642982,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,Illinois
+343,4,7:45,465,465,Hannah Friend missed Three Point Jumper.,88,86,2,0,0.62282180873301,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+344,4,7:45,465,465,Kennedy Nicholas Offensive Rebound.,88,86,2,6,0.62282180873301,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+345,4,7:39,459,459,Kennedy Nicholas Turnover.,88,86,2,1,0.6235870427162955,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+346,4,7:38,458,458,Brandi Beasley Steal.,88,86,2,5,0.6237202285577227,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+347,4,7:33,453,453,Courtney Joens made Layup. Assisted by Brandi Beasley.,90,86,4,9,0.7343175274278637,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,Illinois
+348,4,7:24,444,444,Foul on Brandi Beasley.,90,86,4,0,0.7365892131313372,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+349,4,7:24,444,444,Kennedy Nicholas made Free Throw.,90,87,3,0,0.6837883591046623,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,Sacramento State
+350,4,7:24,444,444,Kennedy Nicholas made Free Throw.,90,88,2,11,0.6257806551334474,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,Sacramento State
+351,4,7:13,433,433,Courtney Joens missed Three Point Jumper.,90,88,2,0,0.6276984814851125,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+352,4,7:13,433,433,Alex Wittinger Offensive Rebound.,90,88,2,5,0.6276984814851125,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+353,4,7:08,428,428,Alex Wittinger made Layup.,92,88,4,12,0.7413444328385764,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,Illinois
+354,4,6:56,416,416,Milee Enger Turnover.,92,88,4,0,0.744974991992274,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+355,4,6:56,416,416,Foul on Milee Enger.,92,88,4,9,0.744974991992274,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+356,4,6:47,407,407,Foul on Sarah Abney.,92,88,4,3,0.7475293743283881,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+357,4,6:44,404,404,Sarah Shewan made Jumper. Assisted by J-Naya Ephraim.,94,88,6,12,0.8368299819213708,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,Illinois
+358,4,6:32,392,392,Tiana Johnson missed Three Point Jumper.,94,88,6,0,0.8403763587343881,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+359,4,6:32,392,392,Milee Enger Offensive Rebound.,94,88,6,6,0.8403763587343881,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+360,4,6:26,386,386,Kennedy Nicholas missed Layup.,94,88,6,0,0.8421374259193496,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+361,4,6:26,386,386,Alex Wittinger Defensive Rebound.,94,88,6,9,0.8421374259193496,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+362,4,6:17,377,377,Arieal Scott missed Three Point Jumper.,94,88,6,0,0.8448116391926007,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+363,4,6:17,377,377,Alex Wittinger Offensive Rebound.,94,88,6,3,0.8448116391926007,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+364,4,6:14,374,374,Alex Wittinger made Layup.,96,88,8,11,0.9062392669619603,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,Illinois
+365,4,6:03,363,363,Summer Menke missed Jumper.,96,88,8,0,0.9092140117707894,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+366,4,6:03,363,363,Quayonna Harris Offensive Rebound.,96,88,8,4,0.9092140117707894,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+367,4,5:59,359,359,Hannah Friend made Three Point Jumper. Assisted by Quayonna Harris.,96,91,5,9,0.8097817626921977,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,Sacramento State
+368,4,5:50,350,350,Sarah Shewan Turnover.,96,91,5,1,0.8129021184114177,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+369,4,5:49,349,349,Tiara Scott Steal.,96,91,5,2,0.8132632057937972,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+370,4,5:47,347,347,Tiara Scott missed Layup.,96,91,5,0,0.8139947494593756,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+371,4,5:47,347,347,Sarah Shewan Block.,96,91,5,1,0.8139947494593756,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+372,4,5:46,346,346,Sacramento State Offensive Rebound.,96,91,5,8,0.8143653252286948,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+373,4,5:38,338,338,Tiara Scott made Three Point Jumper.,96,94,2,23,0.6455816990358894,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,Sacramento State
+374,4,5:15,315,315,Alex Wittinger missed Layup.,96,94,2,0,0.6520101149800688,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+375,4,5:15,315,315,Brandi Beasley Offensive Rebound.,96,94,2,6,0.6520101149800688,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+376,4,5:09,309,309,Alex Wittinger missed Layup.,96,94,2,0,0.6539678342576559,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+377,4,5:09,309,309,Quayonna Harris Defensive Rebound.,96,94,2,6,0.6539678342576559,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+378,4,5:03,303,303,Tiara Scott made Layup.,96,96,0,14,0.5,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,Sacramento State
+379,4,4:49,289,289,Arieal Scott Turnover.,96,96,0,0,0.5,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+380,4,4:49,289,289,Foul on Arieal Scott.,96,96,0,0,0.5,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+381,4,4:49,289,289,Official TV Timeout,96,96,0,12,0.5,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+382,4,4:37,277,277,Kennedy Nicholas missed Layup.,96,96,0,0,0.5,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+383,4,4:37,277,277,Sarah Shewan Defensive Rebound.,96,96,0,13,0.5,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+384,4,4:24,264,264,Sarah Shewan Turnover.,96,96,0,1,0.5,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+385,4,4:23,263,263,Sarah Abney Steal.,96,96,0,4,0.5,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+386,4,4:19,259,259,Hannah Friend missed Three Point Jumper.,96,96,0,0,0.5,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+387,4,4:19,259,259,Courtney Joens Defensive Rebound.,96,96,0,3,0.5,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+388,4,4:16,256,256,Foul on Kennedy Nicholas.,96,96,0,9,0.5,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+389,4,4:07,247,247,Sarah Shewan missed Three Point Jumper.,96,96,0,0,0.5,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+390,4,4:07,247,247,Tiara Scott Defensive Rebound.,96,96,0,9,0.5,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+391,4,3:58,238,238,Hannah Friend missed Layup.,96,96,0,0,0.5,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+392,4,3:58,238,238,Hannah Friend Offensive Rebound.,96,96,0,2,0.5,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+393,4,3:56,236,236,Hannah Friend made Layup.,96,98,-2,17,0.34787389687019926,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,Sacramento State
+394,4,3:39,219,219,Brandi Beasley missed Layup.,96,98,-2,0,0.3459125988246164,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+395,4,3:39,219,219,Milee Enger Defensive Rebound.,96,98,-2,8,0.3459125988246164,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,
+396,4,3:31,211,211,Tiara Scott made Three Point Jumper. Assisted by Milee Enger.,96,101,-5,7,0.165030390221271,Illinois,Sacramento State,5,4,0,0,NA,401094615,2018-11-24,Sacramento State
+397,4,3:24,204,204,Illinois  Timeout,96,101,-5,3,0.1599541113085146,Illinois,Sacramento State,4,4,1,0,NA,401094615,2018-11-24,
+398,4,3:21,201,201,Cierra Rice made Layup. Assisted by Courtney Joens.,98,101,-3,23,0.2675511570510872,Illinois,Sacramento State,4,4,1,0,NA,401094615,2018-11-24,Illinois
+399,4,2:58,178,178,Milee Enger missed Three Point Jumper.,98,101,-3,0,0.2423209842776676,Illinois,Sacramento State,4,4,1,0,NA,401094615,2018-11-24,
+400,4,2:58,178,178,Ali Andrews Defensive Rebound.,98,101,-3,15,0.2423209842776676,Illinois,Sacramento State,4,4,1,0,NA,401094615,2018-11-24,
+401,4,2:43,163,163,Alex Wittinger made Layup.,100,101,-1,10,0.39820021451912896,Illinois,Sacramento State,4,4,1,0,NA,401094615,2018-11-24,Illinois
+402,4,2:33,153,153,Tiara Scott missed Three Point Jumper.,100,101,-1,0,0.39254341524516473,Illinois,Sacramento State,4,4,1,0,NA,401094615,2018-11-24,
+403,4,2:33,153,153,Courtney Joens Defensive Rebound.,100,101,-1,21,0.39254341524516473,Illinois,Sacramento State,4,4,1,0,NA,401094615,2018-11-24,
+404,4,2:12,132,132,Ali Andrews Turnover.,100,101,-1,1,0.37913760331156826,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+405,4,2:11,131,131,Hannah Friend Steal.,100,101,-1,0,0.3784350903455454,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+406,4,2:11,131,131,Foul on Ali Andrews.,100,101,-1,0,0.3784350903455454,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+407,4,2:11,131,131,Milee Enger made Free Throw.,100,102,-2,0,0.27043995887278305,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+408,4,2:11,131,131,Milee Enger made Free Throw.,100,103,-3,14,0.18413385487703654,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+409,4,1:57,117,117,Brandi Beasley made Layup.,102,103,-1,11,0.3678606601113074,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+410,4,1:46,106,106,Foul on Courtney Joens.,102,103,-1,0,0.35847400185149225,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+411,4,1:46,106,106,Hannah Friend made Free Throw.,102,104,-2,0,0.2379435553065749,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+412,4,1:46,106,106,Hannah Friend made Free Throw.,102,105,-3,16,0.14855486459770081,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Sacramento State
+413,4,1:30,90,90,Cierra Rice missed Layup.,102,105,-3,0,0.12456586014669642,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+414,4,1:30,90,90,Kennedy Nicholas Defensive Rebound.,102,105,-3,9,0.12456586014669642,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+415,4,1:21,81,81,Hannah Friend missed Layup.,102,105,-3,0,0.11175223215948267,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+416,4,1:21,81,81,Ali Andrews Block.,102,105,-3,2,0.11175223215948267,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+417,4,1:19,79,79,Ali Andrews Defensive Rebound.,102,105,-3,20,0.10898056493133726,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,
+418,4,0:59,59,59,Brandi Beasley made Jumper.,104,105,-1,16,0.3095762369625999,Illinois,Sacramento State,4,4,0,0,NA,401094615,2018-11-24,Illinois
+419,4,0:43,43,43,Sacramento State  Timeout,104,105,-1,15,0.2906986657227635,Illinois,Sacramento State,4,3,0,1,NA,401094615,2018-11-24,
+420,4,0:28,28,28,Tiara Scott missed Jumper.,104,105,-1,0,0.2721001550322998,Illinois,Sacramento State,4,3,0,1,NA,401094615,2018-11-24,
+421,4,0:28,28,28,Illinois Defensive Rebound.,104,105,-1,2,0.2721001550322998,Illinois,Sacramento State,4,3,0,1,NA,401094615,2018-11-24,
+422,4,0:26,26,26,Illinois  Timeout,104,105,-1,6,0.26958681934971407,Illinois,Sacramento State,3,3,1,1,NA,401094615,2018-11-24,
+423,4,0:20,20,20,Arieal Scott missed Three Point Jumper.,104,105,-1,0,0.26200730844051134,Illinois,Sacramento State,3,3,1,1,NA,401094615,2018-11-24,
+424,4,0:20,20,20,Kennedy Nicholas Defensive Rebound.,104,105,-1,3,0.26200730844051134,Illinois,Sacramento State,3,3,1,1,NA,401094615,2018-11-24,
+425,4,0:17,17,17,Foul on Ali Andrews.,104,105,-1,0,0.2581484954637708,Illinois,Sacramento State,3,3,1,1,NA,401094615,2018-11-24,
+426,4,0:17,17,17,Kennedy Nicholas made Free Throw.,104,106,-2,0,0.108010277825502,Illinois,Sacramento State,3,3,1,1,NA,401094615,2018-11-24,Sacramento State
+427,4,0:17,17,17,Kennedy Nicholas made Free Throw.,104,107,-3,0,0.04043274873834274,Illinois,Sacramento State,3,3,1,1,NA,401094615,2018-11-24,Sacramento State
+428,4,0:17,17,17,Illinois  Timeout,104,107,-3,10,0.04043274873834274,Illinois,Sacramento State,2,3,1,1,NA,401094615,2018-11-24,
+429,4,0:07,7,7,Arieal Scott made Three Point Jumper.,107,107,0,1,0.5,Illinois,Sacramento State,2,3,1,1,NA,401094615,2018-11-24,Illinois
+430,4,0:06,6,6,Sacramento State  Timeout,107,107,0,4,0.5,Illinois,Sacramento State,2,2,1,1,NA,401094615,2018-11-24,
+431,4,0:02,2,2,Tiara Scott made Layup.,107,109,-2,1,0.08924905907234798,Illinois,Sacramento State,2,2,1,1,NA,401094615,2018-11-24,Sacramento State
+432,4,0:01,1,1,Courtney Joens Turnover.,107,109,-2,1,0.08806836377885878,Illinois,Sacramento State,2,2,1,1,NA,401094615,2018-11-24,
+433,4,0:00,0,0,End of Game,107,109,-2,0,4.248354255291589e-18,Illinois,Sacramento State,2,2,1,1,NA,401094615,2018-11-24,

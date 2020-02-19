@@ -1,0 +1,307 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:42,2382,2382,Erika Bean missed Layup.,0,0,0,3,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,NA
+2,1,9:39,2379,2379,Sirena Tuitele Defensive Rebound.,0,0,0,1,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+3,1,9:38,2378,2378,Sirena Tuitele Turnover.,0,0,0,0,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+4,1,9:38,2378,2378,Dru Gylten Steal.,0,0,0,4,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+5,1,9:34,2374,2374,Dru Gylten made Layup.,0,2,-2,6,0.45542461220397373,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Utah
+6,1,9:28,2368,2368,Mya Hollingshed made Layup. Assisted by Kennedy Leonard.,2,2,0,11,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Colorado
+7,1,9:17,2357,2357,Dru Gylten missed Layup.,2,2,0,0,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+8,1,9:17,2357,2357,Sirena Tuitele Block.,2,2,0,4,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+9,1,9:13,2353,2353,Alexis Robinson Defensive Rebound.,2,2,0,4,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+10,1,9:09,2349,2349,Quinessa Caylao-Do missed Layup.,2,2,0,4,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+11,1,9:05,2345,2345,Mya Hollingshed Offensive Rebound.,2,2,0,0,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+12,1,9:05,2345,2345,Mya Hollingshed made Layup.,4,2,2,14,0.5451990876043378,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Colorado
+13,1,8:51,2331,2331,Dre'Una Edwards Turnover.,4,2,2,0,0.5455040576359357,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+14,1,8:51,2331,2331,Kennedy Leonard Steal.,4,2,2,4,0.5455040576359357,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+15,1,8:47,2327,2327,Kennedy Leonard made Layup.,6,2,4,12,0.5904313697666148,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Colorado
+16,1,8:35,2315,2315,Daneesha Provo made Layup.,6,4,2,0,0.5458554347780128,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Utah
+17,1,8:35,2315,2315,Foul on Sirena Tuitele.,6,4,2,0,0.5458554347780128,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+18,1,8:35,2315,2315,Daneesha Provo made Free Throw.,6,5,1,22,0.5229761317984666,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Utah
+19,1,8:13,2293,2293,Mya Hollingshed missed Layup.,6,5,1,4,0.5232215517927618,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+20,1,8:09,2289,2289,Daneesha Provo Defensive Rebound.,6,5,1,15,0.5232664437104748,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+21,1,7:54,2274,2274,Dre'Una Edwards missed Jumper.,6,5,1,0,0.523435477271786,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+22,1,7:54,2274,2274,Sirena Tuitele Block.,6,5,1,4,0.523435477271786,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+23,1,7:50,2270,2270,Kennedy Leonard Defensive Rebound.,6,5,1,5,0.5234807289117777,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+24,1,7:45,2265,2265,Sirena Tuitele missed Three Point Jumper.,6,5,1,3,0.5235373929445338,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+25,1,7:42,2262,2262,Erika Bean Defensive Rebound.,6,5,1,6,0.5235714431572539,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+26,1,7:36,2256,2256,Megan Huff missed Layup.,6,5,1,4,0.523639656798127,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+27,1,7:32,2252,2252,Dre'Una Edwards Offensive Rebound.,6,5,1,0,0.523685214139179,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+28,1,7:32,2252,2252,Dre'Una Edwards made Layup.,6,7,-1,31,0.47631478586082104,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Utah
+29,1,7:01,2221,2221,Kennedy Leonard missed Jumper.,6,7,-1,3,0.47595969887185324,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+30,1,6:58,2218,2218,Dru Gylten Defensive Rebound.,6,7,-1,8,0.4759251629552016,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+31,1,6:50,2210,2210,Dru Gylten made Layup.,6,9,-3,17,0.427947330295773,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Utah
+32,1,6:33,2193,2193,Alexis Robinson missed Jumper.,6,9,-3,3,0.42736858890213136,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+33,1,6:30,2190,2190,Sirena Tuitele Offensive Rebound.,6,9,-3,4,0.42726625335296897,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+34,1,6:26,2186,2186,Mya Hollingshed missed Layup.,6,9,-3,2,0.427129719175092,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+35,1,6:24,2184,2184,Megan Huff Defensive Rebound.,6,9,-3,8,0.42706141630147587,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+36,1,6:16,2176,2176,Dre'Una Edwards made Layup. Assisted by Dru Gylten.,6,11,-5,17,0.379513461007988,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Utah
+37,1,5:59,2159,2159,Alexis Robinson missed Layup.,6,11,-5,3,0.3785793150089429,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+38,1,5:56,2156,2156,Dre'Una Edwards Defensive Rebound.,6,11,-5,2,0.3784140421149803,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+39,1,5:54,2154,2154,Daneesha Provo missed Layup.,6,11,-5,3,0.3783037822190347,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+40,1,5:51,2151,2151,Mya Hollingshed Defensive Rebound.,6,11,-5,19,0.37813827390183374,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+41,1,5:32,2132,2132,Sirena Tuitele made Jumper. Assisted by Kennedy Leonard.,8,11,-3,18,0.42527405470464896,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Colorado
+42,1,5:14,2114,2114,Megan Huff made Three Point Jumper.,8,14,-6,14,0.35264312436080414,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Utah
+43,1,5:00,2100,2100,Quinessa Caylao-Do made Layup. Assisted by Annika Jank.,10,14,-4,25,0.39947970270338606,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Colorado
+44,1,4:35,2075,2075,Kiana Moore missed Three Point Jumper.,10,14,-4,5,0.3983259383027953,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+45,1,4:30,2070,2070,Mya Hollingshed Defensive Rebound.,10,14,-4,6,0.398093807486047,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+46,1,4:24,2064,2064,Emma Clarke missed Jumper.,10,14,-4,2,0.3978146194378104,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+47,1,4:22,2062,2062,Colorado Offensive Rebound.,10,14,-4,0,0.39772140160430103,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+48,1,4:22,2062,2062,Official TV Timeout,10,14,-4,10,0.39772140160430103,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+49,1,4:12,2052,2052,Kennedy Leonard made Layup.,12,14,-2,15,0.44807297189182055,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Colorado
+50,1,3:57,2037,2037,Megan Huff missed Layup.,12,14,-2,3,0.4477089600936891,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+51,1,3:54,2034,2034,Kennedy Leonard Defensive Rebound.,12,14,-2,9,0.44763584619598756,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+52,1,3:45,2025,2025,Kennedy Leonard missed Jumper.,12,14,-2,3,0.44741586518206855,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+53,1,3:42,2022,2022,Utah Defensive Rebound.,12,14,-2,12,0.44734232206351526,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+54,1,3:30,2010,2010,Kiana Moore missed Layup.,12,14,-2,3,0.44704704497341163,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+55,1,3:27,2007,2007,Quinessa Caylao-Do Defensive Rebound.,12,14,-2,17,0.4469729450400265,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+56,1,3:10,1990,1990,Emma Clarke made Layup.,14,14,0,17,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Colorado
+57,1,2:53,1973,1973,Megan Huff missed Jumper.,14,14,0,3,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+58,1,2:50,1970,1970,Mya Hollingshed Defensive Rebound.,14,14,0,11,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+59,1,2:39,1959,1959,Foul on Annika Jank.,14,14,0,0,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+60,1,2:39,1959,1959,Annika Jank Turnover.,14,14,0,13,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+61,1,2:26,1946,1946,Dru Gylten Turnover.,14,14,0,9,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+62,1,2:17,1937,1937,Sirena Tuitele made Layup. Assisted by Emma Clarke.,16,14,2,10,0.5547903374866949,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Colorado
+63,1,2:07,1927,1927,Dre'Una Edwards missed Layup.,16,14,2,3,0.555047878106275,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+64,1,2:04,1924,1924,Emma Clarke Defensive Rebound.,16,14,2,6,0.5551251898677473,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+65,1,1:58,1918,1918,Kennedy Leonard missed Layup.,16,14,2,2,0.5552796947367151,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+66,1,1:56,1916,1916,Andrea Torres Defensive Rebound.,16,14,2,8,0.5553311657182827,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+67,1,1:48,1908,1908,Dru Gylten missed Layup.,16,14,2,3,0.5555369292689899,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+68,1,1:45,1905,1905,Dre'Una Edwards Offensive Rebound.,16,14,2,0,0.5556140519468978,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+69,1,1:45,1905,1905,Dre'Una Edwards made Layup.,16,16,0,16,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Utah
+70,1,1:29,1889,1889,Foul on Dre'Una Edwards.,16,16,0,0,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+71,1,1:29,1889,1889,Sirena Tuitele made Free Throw.,17,16,1,0,0.5281010966808245,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Colorado
+72,1,1:29,1889,1889,Sirena Tuitele made Free Throw.,18,16,2,14,0.5560252272305706,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Colorado
+73,1,1:15,1875,1875,Dre'Una Edwards made Layup. Assisted by Andrea Torres.,18,18,0,29,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Utah
+74,1,0:46,1846,1846,Annika Jank missed Three Point Jumper.,18,18,0,4,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+75,1,0:42,1842,1842,Kiana Moore Defensive Rebound.,18,18,0,7,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+76,1,0:35,1835,1835,Kiana Moore made Three Point Jumper. Assisted by Erika Bean.,18,21,-3,26,0.4143440852671358,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Utah
+77,1,0:09,1809,1809,Sirena Tuitele Turnover.,18,21,-3,0,0.4133429176165556,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+78,1,0:09,1809,1809,Dre'Una Edwards Steal.,18,21,-3,7,0.4133429176165556,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+79,1,0:02,1802,1802,Erika Bean missed Layup.,18,21,-3,0,0.4130713725788033,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+80,1,0:02,1802,1802,Annika Jank Defensive Rebound.,18,21,-3,2,0.4130713725788033,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+81,1,0:00,1800,1800,End of 1st Quarter,18,21,-3,8,0.4129936088523014,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+82,2,9:52,1792,1792,Alexis Robinson made Three Point Jumper. Assisted by Kennedy Leonard.,21,21,0,33,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Colorado
+83,2,9:19,1759,1759,Megan Huff missed Jumper.,21,21,0,4,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+84,2,9:15,1755,1755,Mathilde Diop Defensive Rebound.,21,21,0,27,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+85,2,8:48,1728,1728,Kennedy Leonard Turnover.,21,21,0,18,0.5,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+86,2,8:30,1710,1710,Kiana Moore made Three Point Jumper. Assisted by Dre'Una Edwards.,21,24,-3,21,0.4093811263522718,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Utah
+87,2,8:09,1689,1689,Foul on Dre'Una Edwards.,21,24,-3,0,0.4084966424769681,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+88,2,8:09,1689,1689,Alexis Robinson made Free Throw.,22,24,-2,0,0.43861396578043454,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Colorado
+89,2,8:09,1689,1689,Alexis Robinson missed Free Throw.,22,24,-2,0,0.43861396578043454,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+90,2,8:09,1689,1689,Colorado Offensive Rebound.,22,24,-2,0,0.43861396578043454,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+91,2,8:09,1689,1689,Alexis Robinson missed Free Throw.,22,24,-2,2,0.43861396578043454,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+92,2,8:07,1687,1687,Annika Jank Offensive Rebound.,22,24,-2,10,0.43855635813169036,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+93,2,7:57,1677,1677,Mya Hollingshed Turnover.,22,24,-2,19,0.43827099104724504,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+94,2,7:38,1658,1658,Niyah Becker made Three Point Jumper. Assisted by Erika Bean.,22,27,-5,6,0.34845142442366955,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Utah
+95,2,7:32,1652,1652,Foul on Erika Bean.,22,27,-5,17,0.34807008809825885,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+96,2,7:15,1635,1635,Quinessa Caylao-Do missed Layup.,22,27,-5,3,0.34700173982130017,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+97,2,7:12,1632,1632,Dru Gylten Defensive Rebound.,22,27,-5,0,0.3468147372093064,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+98,2,7:12,1632,1632,Foul on Mya Hollingshed.,22,27,-5,17,0.3468147372093064,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+99,2,6:55,1615,1615,Erika Bean Turnover.,22,27,-5,0,0.34576108660436666,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+100,2,6:55,1615,1615,Alexis Robinson Steal.,22,27,-5,7,0.34576108660436666,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+101,2,6:48,1608,1608,Sirena Tuitele made Layup. Assisted by Kennedy Leonard.,24,27,-3,15,0.40521542523694876,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Colorado
+102,2,6:33,1593,1593,Dru Gylten missed Jumper.,24,27,-3,5,0.4046241418462579,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+103,2,6:28,1588,1588,Megan Huff Offensive Rebound.,24,27,-3,1,0.4044268387466266,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+104,2,6:27,1587,1587,Megan Huff Turnover.,24,27,-3,0,0.40438734889460626,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+105,2,6:27,1587,1587,Quinessa Caylao-Do Steal.,24,27,-3,4,0.40438734889460626,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+106,2,6:23,1583,1583,Sirena Tuitele missed Layup.,24,27,-3,3,0.4042292655370895,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+107,2,6:20,1580,1580,Daneesha Provo Defensive Rebound.,24,27,-3,17,0.4041105506136054,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+108,2,6:03,1563,1563,Erika Bean missed Layup.,24,27,-3,0,0.4034342849463322,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+109,2,6:03,1563,1563,Kennedy Leonard Block.,24,27,-3,0,0.4034342849463322,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+110,2,6:03,1563,1563,Utah Offensive Rebound.,24,27,-3,5,0.4034342849463322,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+111,2,5:58,1558,1558,Erika Bean Turnover.,24,27,-3,0,0.4032338717621448,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+112,2,5:58,1558,1558,Kennedy Leonard Steal.,24,27,-3,4,0.4032338717621448,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+113,2,5:54,1554,1554,Kennedy Leonard made Layup.,26,27,-1,22,0.46732351831370933,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Colorado
+114,2,5:32,1532,1532,Megan Huff made Three Point Jumper. Assisted by Erika Bean.,26,30,-4,26,0.3708563834300123,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Utah
+115,2,5:06,1506,1506,Quinessa Caylao-Do made Jumper.,28,30,-2,27,0.4335671983142847,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Colorado
+116,2,4:39,1479,1479,Megan Huff missed Jumper.,28,30,-2,3,0.43275448665093824,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+117,2,4:36,1476,1476,Sirena Tuitele Defensive Rebound.,28,30,-2,13,0.4326613787219527,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+118,2,4:23,1463,1463,Mya Hollingshed missed Three Point Jumper.,28,30,-2,5,0.43225062278804194,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+119,2,4:18,1458,1458,Dru Gylten Defensive Rebound.,28,30,-2,5,0.4320893169189578,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+120,2,4:13,1453,1453,Megan Huff missed Three Point Jumper.,28,30,-2,3,0.4319260621196006,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+121,2,4:10,1450,1450,Utah Offensive Rebound.,28,30,-2,0,0.4318271458483927,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+122,2,4:10,1450,1450,Official TV Timeout,28,30,-2,4,0.4318271458483927,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+123,2,4:06,1446,1446,Daneesha Provo made Three Point Jumper. Assisted by Dru Gylten.,28,33,-5,16,0.334624300312615,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Utah
+124,2,3:50,1430,1430,Annika Jank missed Layup.,28,33,-5,5,0.33345484167943473,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+125,2,3:45,1425,1425,Mya Hollingshed Offensive Rebound.,28,33,-5,0,0.33309713016857756,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+126,2,3:45,1425,1425,Mya Hollingshed made Layup.,30,33,-3,7,0.3973483052519587,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Colorado
+127,2,3:38,1418,1418,Dru Gylten made Layup.,30,35,-5,27,0.33260165665461605,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Utah
+128,2,3:11,1391,1391,Quinessa Caylao-Do made Three Point Jumper. Assisted by Kennedy Leonard.,33,35,-2,22,0.42997720792167154,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Colorado
+129,2,2:49,1369,1369,Dru Gylten made Three Point Jumper. Assisted by Andrea Torres.,33,38,-5,24,0.3292456102381068,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Utah
+130,2,2:25,1345,1345,Annika Jank made Jumper. Assisted by Emma Clarke.,35,38,-3,20,0.3937980296194867,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Colorado
+131,2,2:05,1325,1325,Andrea Torres missed Three Point Jumper.,35,38,-3,4,0.3929053947280267,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+132,2,2:01,1321,1321,Emma Clarke Defensive Rebound.,35,38,-3,5,0.392724284262956,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+133,2,1:56,1316,1316,Emma Clarke missed Three Point Jumper.,35,38,-3,4,0.39249638063182773,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+134,2,1:52,1312,1312,Dre'Una Edwards Defensive Rebound.,35,38,-3,8,0.3923127362311123,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+135,2,1:44,1304,1304,Dre'Una Edwards missed Layup.,35,38,-3,2,0.3919415435079427,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+136,2,1:42,1302,1302,Kennedy Leonard Defensive Rebound.,35,38,-3,5,0.3918478668834848,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+137,2,1:37,1297,1297,Annika Jank missed Three Point Jumper.,35,38,-3,4,0.3916120160448172,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+138,2,1:33,1293,1293,Annika Jank Offensive Rebound.,35,38,-3,20,0.3914215367508182,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+139,2,1:13,1273,1273,Mya Hollingshed missed Three Point Jumper.,35,38,-3,4,0.3904419320559157,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+140,2,1:09,1269,1269,Dru Gylten Defensive Rebound.,35,38,-3,24,0.39023994751417723,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+141,2,0:45,1245,1245,Andrea Torres made Three Point Jumper. Assisted by Dru Gylten.,35,41,-6,17,0.2883894289686643,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,Utah
+142,2,0:28,1228,1228,Kennedy Leonard missed Layup.,35,41,-6,2,0.2867462335828471,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+143,2,0:26,1226,1226,Kiana Moore Defensive Rebound.,35,41,-6,3,0.28654700972435915,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+144,2,0:23,1223,1223,Dru Gylten Turnover.,35,41,-6,21,0.2862457211246323,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+145,2,0:02,1202,1202,Alexis Robinson missed Three Point Jumper.,35,41,-6,1,0.28406936750647005,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+146,2,0:01,1201,1201,Megan Huff Defensive Rebound.,35,41,-6,1,0.28396603370332435,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+147,2,0:00,1200,1200,End of 2nd Quarter,35,41,-6,15,0.28386293076294067,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+148,3,9:45,1185,1185,Megan Huff Turnover.,35,41,-6,0,0.28234174327881045,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+149,3,9:45,1185,1185,Alexis Robinson Steal.,35,41,-6,4,0.28234174327881045,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+150,3,9:41,1181,1181,Quinessa Caylao-Do missed Layup.,35,41,-6,0,0.28194325258267394,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+151,3,9:41,1181,1181,Dre'Una Edwards Block.,35,41,-6,0,0.28194325258267394,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+152,3,9:41,1181,1181,Utah Defensive Rebound.,35,41,-6,16,0.28194325258267394,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+153,3,9:25,1165,1165,Dre'Una Edwards missed Layup.,35,41,-6,3,0.2803730713349221,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+154,3,9:22,1162,1162,Sirena Tuitele Defensive Rebound.,35,41,-6,15,0.2800821596606147,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+155,3,9:07,1147,1147,Mya Hollingshed made Layup. Assisted by Sirena Tuitele.,37,41,-4,20,0.34657051309748776,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,Colorado
+156,3,8:47,1127,1127,Dre'Una Edwards made Layup. Assisted by Megan Huff.,37,43,-6,22,0.2767298110361078,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,Utah
+157,3,8:25,1105,1105,Kennedy Leonard missed Three Point Jumper.,37,43,-6,5,0.2746206395842522,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+158,3,8:20,1100,1100,Megan Huff Defensive Rebound.,37,43,-6,7,0.27413654688307915,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+159,3,8:13,1093,1093,Erika Bean missed Layup.,37,43,-6,5,0.2734543510180463,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+160,3,8:08,1088,1088,Dre'Una Edwards Offensive Rebound.,37,43,-6,0,0.2729633404627093,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+161,3,8:08,1088,1088,Erika Bean made Layup. Assisted by Dre'Una Edwards.,37,45,-8,0,0.2131257865679527,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,Utah
+162,3,8:08,1088,1088,Dre'Una Edwards missed Layup.,37,45,-8,0,0.2131257865679527,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+163,3,8:08,1088,1088,Quinessa Caylao-Do Block.,37,45,-8,0,0.2131257865679527,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+164,3,8:08,1088,1088,Erika Bean Offensive Rebound.,37,45,-8,20,0.2131257865679527,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+165,3,7:48,1068,1068,Mya Hollingshed missed Layup.,37,45,-8,4,0.21087197668735205,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+166,3,7:44,1064,1064,Megan Huff Defensive Rebound.,37,45,-8,0,0.21041195661299011,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+167,3,7:44,1064,1064,Daneesha Provo Turnover.,37,45,-8,10,0.21041195661299011,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+168,3,7:34,1054,1054,Kennedy Leonard missed Layup.,37,45,-8,1,0.20924576087184757,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+169,3,7:33,1053,1053,Utah Defensive Rebound.,37,45,-8,17,0.2091277826362874,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+170,3,7:16,1036,1036,Dre'Una Edwards missed Layup.,37,45,-8,2,0.20707975836870782,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+171,3,7:14,1034,1034,Megan Huff Offensive Rebound.,37,45,-8,6,0.20683314858703228,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+172,3,7:08,1028,1028,Dre'Una Edwards missed Jumper.,37,45,-8,3,0.20608553890702241,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+173,3,7:05,1025,1025,Colorado Defensive Rebound.,37,45,-8,5,0.20570720596967432,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+174,3,7:00,1020,1020,Kennedy Leonard Turnover.,37,45,-8,19,0.20506965983109948,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+175,3,6:41,1001,1001,Megan Huff missed Layup.,37,45,-8,0,0.2025612057784865,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+176,3,6:41,1001,1001,Annika Jank Block.,37,45,-8,6,0.2025612057784865,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+177,3,6:35,995,995,Megan Huff Offensive Rebound.,37,45,-8,1,0.20173867861970454,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+178,3,6:34,994,994,Megan Huff missed Layup.,37,45,-8,1,0.20160008736866353,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+179,3,6:33,993,993,Kennedy Leonard Defensive Rebound.,37,45,-8,9,0.20146105923490992,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+180,3,6:24,984,984,Emma Clarke Turnover.,37,45,-8,18,0.20018969903222417,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+181,3,6:06,966,966,Dru Gylten missed Layup.,37,45,-8,3,0.19754417438772215,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+182,3,6:03,963,963,Dre'Una Edwards Offensive Rebound.,37,45,-8,0,0.19710964953042,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+183,3,6:03,963,963,Dre'Una Edwards made Layup.,37,47,-10,6,0.14734572298672433,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,Utah
+184,3,5:57,957,957,Foul on Dru Gylten.,37,47,-10,0,0.14650776291828266,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+185,3,5:57,957,957,Mya Hollingshed missed Layup.,37,47,-10,0,0.14650776291828266,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+186,3,5:57,957,957,Daneesha Provo Defensive Rebound.,37,47,-10,0,0.14650776291828266,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+187,3,5:57,957,957,Daneesha Provo missed Layup.,37,47,-10,0,0.14650776291828266,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+188,3,5:57,957,957,Mya Hollingshed Block.,37,47,-10,0,0.14650776291828266,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+189,3,5:57,957,957,Mya Hollingshed Defensive Rebound.,37,47,-10,2,0.14650776291828266,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+190,3,5:55,955,955,Foul on Dru Gylten.,37,47,-10,16,0.1462354253354339,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+191,3,5:39,939,939,Kennedy Leonard made Free Throw.,38,47,-9,0,0.1675657436266975,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,Colorado
+192,3,5:39,939,939,Kennedy Leonard made Free Throw.,39,47,-8,13,0.19389929468005346,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,Colorado
+193,3,5:26,926,926,Megan Huff missed Jumper.,39,47,-8,4,0.192321988082543,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+194,3,5:22,922,922,Annika Jank Defensive Rebound.,39,47,-8,6,0.1918544674935563,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+195,3,5:16,916,916,Annika Jank made Layup. Assisted by Kennedy Leonard.,41,47,-6,0,0.2531586467223351,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,Colorado
+196,3,5:16,916,916,Foul on Dre'Una Edwards.,41,47,-6,0,0.2531586467223351,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+197,3,5:16,916,916,Annika Jank made Free Throw.,42,47,-5,6,0.2887361098644227,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,Colorado
+198,3,5:10,910,910,Utah  Timeout,42,47,-5,25,0.28817610453273323,Colorado,Utah,4,5,1,0,NA,401095332,2018-12-30,
+199,3,4:45,885,885,Erika Bean missed Layup.,42,47,-5,2,0.2859177260186569,Colorado,Utah,4,5,1,0,NA,401095332,2018-12-30,
+200,3,4:43,883,883,Kennedy Leonard Defensive Rebound.,42,47,-5,17,0.2857398165878924,Colorado,Utah,4,5,1,0,NA,401095332,2018-12-30,
+201,3,4:26,866,866,Alexis Robinson missed Three Point Jumper.,42,47,-5,5,0.28422463768123785,Colorado,Utah,4,5,1,0,NA,401095332,2018-12-30,
+202,3,4:21,861,861,Erika Bean Defensive Rebound.,42,47,-5,22,0.28377441044566704,Colorado,Utah,4,5,1,0,NA,401095332,2018-12-30,
+203,3,3:59,839,839,Dre'Una Edwards made Layup.,42,49,-7,8,0.21244824005333665,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,Utah
+204,3,3:51,831,831,Foul on Dru Gylten.,42,49,-7,0,0.21154885812289498,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+205,3,3:51,831,831,Official TV Timeout,42,49,-7,25,0.21154885812289498,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+206,3,3:26,806,806,Foul on Annika Jank.,42,49,-7,0,0.2085381751413546,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+207,3,3:26,806,806,Annika Jank Turnover.,42,49,-7,14,0.2085381751413546,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+208,3,3:12,792,792,Daneesha Provo missed Layup.,42,49,-7,1,0.206683196976664,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+209,3,3:11,791,791,Quinessa Caylao-Do Defensive Rebound.,42,49,-7,0,0.2065452260517461,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+210,3,3:11,791,791,Foul on Dre'Una Edwards.,42,49,-7,0,0.2065452260517461,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+211,3,3:11,791,791,Quinessa Caylao-Do missed Free Throw.,42,49,-7,0,0.2065452260517461,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+212,3,3:11,791,791,Colorado Offensive Rebound.,42,49,-7,1,0.2065452260517461,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+213,3,3:10,790,790,Quinessa Caylao-Do missed Free Throw.,42,49,-7,2,0.2064064824661931,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+214,3,3:08,788,788,Megan Huff Defensive Rebound.,42,49,-7,11,0.2061266455184366,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+215,3,2:57,777,777,Foul on Alexis Robinson.,42,49,-7,2,0.20452892050999136,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+216,3,2:55,775,775,Andrea Torres made Three Point Jumper. Assisted by Dru Gylten.,42,52,-10,17,0.1253217413687013,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,Utah
+217,3,2:38,758,758,Alexis Robinson made Three Point Jumper.,45,52,-7,25,0.20151240744839968,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,Colorado
+218,3,2:13,733,733,Dru Gylten missed Three Point Jumper.,45,52,-7,3,0.1969756381659148,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+219,3,2:10,730,730,Kiana Moore Offensive Rebound.,45,52,-7,0,0.19638352246102597,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+220,3,2:10,730,730,Foul on Annika Jank.,45,52,-7,0,0.19638352246102597,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+221,3,2:10,730,730,Kiana Moore made Free Throw.,45,53,-8,1,0.16654059856713196,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,Utah
+222,3,2:09,729,729,Kiana Moore missed Free Throw.,45,53,-8,2,0.1663412969406867,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+223,3,2:07,727,727,Kiana Moore Offensive Rebound.,45,53,-8,17,0.16594795234099238,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+224,3,1:50,710,710,Kiana Moore missed Three Point Jumper.,45,53,-8,8,0.16285703846117114,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+225,3,1:42,702,702,Megan Huff Offensive Rebound.,45,53,-8,17,0.1615340143331071,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+226,3,1:25,685,685,Daneesha Provo missed Jumper.,45,53,-8,5,0.15892331842968335,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+227,3,1:20,680,680,Kiana Moore Offensive Rebound.,45,53,-8,4,0.15819343849718245,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,
+228,3,1:16,676,676,Andrea Torres made Three Point Jumper.,45,56,-11,1,0.09074432705058717,Colorado,Utah,4,5,0,0,NA,401095332,2018-12-30,Utah
+229,3,1:15,675,675,Colorado  Timeout,45,56,-11,24,0.09062229897138874,Colorado,Utah,4,4,0,1,NA,401095332,2018-12-30,
+230,3,0:51,651,651,Foul on Andrea Torres.,45,56,-11,0,0.0877532179946996,Colorado,Utah,4,4,0,1,NA,401095332,2018-12-30,
+231,3,0:51,651,651,Mya Hollingshed made Free Throw.,46,56,-10,0,0.10635470973925482,Colorado,Utah,4,4,0,1,NA,401095332,2018-12-30,Colorado
+232,3,0:51,651,651,Mya Hollingshed made Free Throw.,47,56,-9,13,0.12834450325703312,Colorado,Utah,4,4,0,1,NA,401095332,2018-12-30,Colorado
+233,3,0:38,638,638,Erika Bean missed Layup.,47,56,-9,2,0.12655073194647215,Colorado,Utah,4,4,0,1,NA,401095332,2018-12-30,
+234,3,0:36,636,636,Kennedy Leonard Defensive Rebound.,47,56,-9,7,0.12626913090256453,Colorado,Utah,4,4,0,1,NA,401095332,2018-12-30,
+235,3,0:29,629,629,Alexis Robinson made Layup.,49,56,-7,29,0.18070344447983283,Colorado,Utah,4,4,0,1,NA,401095332,2018-12-30,Colorado
+236,3,0:00,600,600,Niyah Becker missed Three Point Jumper.,49,56,-7,0,0.17589365087052686,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+237,3,0:00,600,600,Utah Offensive Rebound.,49,56,-7,0,0.17589365087052686,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+238,3,0:00,600,600,End of 3rd Quarter,49,56,-7,18,0.17589365087052686,Colorado,Utah,4,4,0,0,NA,401095332,2018-12-30,
+239,4,9:42,582,582,Alexis Robinson missed Jumper.,49,56,-7,0,0.17239066663222385,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+240,4,9:42,582,582,Colorado Offensive Rebound.,49,56,-7,2,0.17239066663222385,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+241,4,9:40,580,580,Mya Hollingshed missed Three Point Jumper.,49,56,-7,6,0.17197090031302256,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+242,4,9:34,574,574,Quinessa Caylao-Do Offensive Rebound.,49,56,-7,1,0.17067139214696625,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+243,4,9:33,573,573,Quinessa Caylao-Do Turnover.,49,56,-7,0,0.1704487731653004,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+244,4,9:33,573,573,Megan Huff Steal.,49,56,-7,12,0.1704487731653004,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+245,4,9:21,561,561,Foul on Mya Hollingshed.,49,56,-7,3,0.16763521135221676,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+246,4,9:18,558,558,Andrea Torres made Three Point Jumper. Assisted by Erika Bean.,49,59,-10,28,0.09137913305631064,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,Utah
+247,4,8:50,530,530,Alexis Robinson made Three Point Jumper.,52,59,-7,26,0.16008522234537675,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,Colorado
+248,4,8:24,504,504,Andrea Torres missed Layup.,52,59,-7,3,0.1550899789166592,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+249,4,8:21,501,501,Mya Hollingshed Defensive Rebound.,52,59,-7,4,0.15454252465627216,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+250,4,8:17,497,497,Kennedy Leonard Turnover.,52,59,-7,26,0.15381068120730595,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+251,4,7:51,471,471,Erika Bean missed Layup.,52,59,-7,0,0.1487063488933316,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+252,4,7:51,471,471,Mathilde Diop Block.,52,59,-7,6,0.1487063488933316,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+253,4,7:45,465,465,Mathilde Diop Defensive Rebound.,52,59,-7,26,0.14736745201531573,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+254,4,7:19,439,439,Quinessa Caylao-Do Turnover.,52,59,-7,0,0.14039065384076493,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+255,4,7:19,439,439,Daneesha Provo Steal.,52,59,-7,7,0.14039065384076493,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+256,4,7:12,432,432,Andrea Torres made Jumper.,52,61,-9,19,0.08672890073125895,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,Utah
+257,4,6:53,413,413,Foul on Dru Gylten.,52,61,-9,0,0.08149407287529722,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+258,4,6:53,413,413,Kennedy Leonard made Free Throw.,53,61,-8,0,0.10404350529906994,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,Colorado
+259,4,6:53,413,413,Kennedy Leonard made Free Throw.,54,61,-7,23,0.13193612642050748,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,Colorado
+260,4,6:30,390,390,Andrea Torres made Jumper. Assisted by Dru Gylten.,54,63,-9,33,0.07599052041534816,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,Utah
+261,4,5:57,357,357,Annika Jank missed Three Point Jumper.,54,63,-9,3,0.06815645052476861,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+262,4,5:54,354,354,Megan Huff Defensive Rebound.,54,63,-9,25,0.06739133071295852,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+263,4,5:29,329,329,Megan Huff made Jumper.,54,65,-11,19,0.033761658034558564,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,Utah
+264,4,5:10,310,310,Kennedy Leonard Turnover.,54,65,-11,0,0.02951265605203362,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+265,4,5:10,310,310,Megan Huff Steal.,54,65,-11,4,0.02951265605203362,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+266,4,5:06,306,306,Foul on Quinessa Caylao-Do.,54,65,-11,0,0.02869696794665369,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+267,4,5:06,306,306,Dru Gylten missed Free Throw.,54,65,-11,0,0.02869696794665369,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+268,4,5:06,306,306,Utah Offensive Rebound.,54,65,-11,0,0.02869696794665369,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+269,4,5:06,306,306,Dru Gylten made Free Throw.,54,66,-12,14,0.020999882023476347,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,Utah
+270,4,4:52,292,292,Foul on Andrea Torres.,54,66,-12,0,0.019917683376798962,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+271,4,4:52,292,292,Official TV Timeout,54,66,-12,0,0.019917683376798962,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+272,4,4:52,292,292,Foul on Andrea Torres.,54,66,-12,2,0.019917683376798962,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+273,4,4:50,290,290,Alexis Robinson missed Jumper.,54,66,-12,4,0.019883476360131342,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+274,4,4:46,286,286,Megan Huff Defensive Rebound.,54,66,-12,6,0.019885090488874303,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+275,4,4:40,280,280,Erika Bean Turnover.,54,66,-12,14,0.020037251746649647,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+276,4,4:26,266,266,Sirena Tuitele made Layup. Assisted by Alexis Robinson.,56,66,-10,31,0.0389033398758798,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,Colorado
+277,4,3:55,235,235,Megan Huff missed Three Point Jumper.,56,66,-10,4,0.04140082340642742,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+278,4,3:51,231,231,Mya Hollingshed Defensive Rebound.,56,66,-10,8,0.041269343951073574,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+279,4,3:43,223,223,Kennedy Leonard missed Three Point Jumper.,56,66,-10,3,0.04044783337418076,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+280,4,3:40,220,220,Megan Huff Defensive Rebound.,56,66,-10,27,0.03992543406759099,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+281,4,3:13,193,193,Dru Gylten missed Jumper.,56,66,-10,3,0.02964202352103637,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+282,4,3:10,190,190,Alexis Robinson Defensive Rebound.,56,66,-10,4,0.027976288266648275,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+283,4,3:06,186,186,Kennedy Leonard missed Layup.,56,66,-10,3,0.025794515248038746,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+284,4,3:03,183,183,Daneesha Provo Defensive Rebound.,56,66,-10,9,0.02426129667525534,Colorado,Utah,5,5,0,0,NA,401095332,2018-12-30,
+285,4,2:54,174,174,Foul on Kennedy Leonard.,56,66,-10,0,0.02011990124311324,Colorado,Utah,5,5,0,1,NA,401095332,2018-12-30,
+286,4,2:54,174,174,Colorado  Timeout,56,66,-10,6,0.02011990124311324,Colorado,Utah,5,4,0,1,NA,401095332,2018-12-30,
+287,4,2:48,168,168,Andrea Torres made Layup. Assisted by Erika Bean.,56,68,-12,11,0.00799853067746421,Colorado,Utah,5,4,0,1,NA,401095332,2018-12-30,Utah
+288,4,2:37,157,157,Kennedy Leonard made Layup.,58,68,-10,0,0.013793825404590595,Colorado,Utah,5,4,0,1,NA,401095332,2018-12-30,Colorado
+289,4,2:37,157,157,Foul on Daneesha Provo.,58,68,-10,0,0.013793825404590595,Colorado,Utah,5,4,0,1,NA,401095332,2018-12-30,
+290,4,2:37,157,157,Kennedy Leonard made Free Throw.,59,68,-9,24,0.0209862147956266,Colorado,Utah,5,4,0,1,NA,401095332,2018-12-30,Colorado
+291,4,2:13,133,133,Megan Huff made Three Point Jumper. Assisted by Andrea Torres.,59,71,-12,14,0.0027785186475456298,Colorado,Utah,5,4,0,1,NA,401095332,2018-12-30,Utah
+292,4,1:59,119,119,Alexis Robinson missed Three Point Jumper.,59,71,-12,1,0.0016351699300243007,Colorado,Utah,5,4,0,1,NA,401095332,2018-12-30,
+293,4,1:58,118,118,Utah Defensive Rebound.,59,71,-12,14,0.0015695450920275979,Colorado,Utah,5,4,0,1,NA,401095332,2018-12-30,
+294,4,1:44,104,104,Daneesha Provo made Three Point Jumper. Assisted by Megan Huff.,59,74,-15,19,1.4355315067913284e-4,Colorado,Utah,5,4,0,0,NA,401095332,2018-12-30,Utah
+295,4,1:25,85,85,Foul on Andrea Torres.,59,74,-15,0,4.1579520231851314e-5,Colorado,Utah,5,4,0,0,NA,401095332,2018-12-30,
+296,4,1:25,85,85,Alexis Robinson made Free Throw.,60,74,-14,0,8.145835799961199e-5,Colorado,Utah,5,4,0,0,NA,401095332,2018-12-30,Colorado
+297,4,1:25,85,85,Alexis Robinson made Free Throw.,61,74,-13,27,1.5957880848070337e-4,Colorado,Utah,5,4,0,0,NA,401095332,2018-12-30,Colorado
+298,4,0:58,58,58,Andrea Torres missed Three Point Jumper.,61,74,-13,5,2.7610873025113124e-5,Colorado,Utah,5,4,0,0,NA,401095332,2018-12-30,
+299,4,0:53,53,53,Megan Huff Offensive Rebound.,61,74,-13,0,1.9349558738366e-5,Colorado,Utah,5,4,0,0,NA,401095332,2018-12-30,
+300,4,0:53,53,53,Megan Huff made Layup.,61,76,-15,7,3.643775831903958e-6,Colorado,Utah,5,4,0,0,NA,401095332,2018-12-30,Utah
+301,4,0:46,46,46,Kennedy Leonard missed Layup.,61,76,-15,3,2.010676909111592e-6,Colorado,Utah,5,4,0,0,NA,401095332,2018-12-30,
+302,4,0:43,43,43,Erika Bean Defensive Rebound.,61,76,-15,24,1.5459066046044564e-6,Colorado,Utah,5,4,0,0,NA,401095332,2018-12-30,
+303,4,0:19,19,19,Andrea Torres missed Three Point Jumper.,61,76,-15,5,1.6244223802820115e-7,Colorado,Utah,5,4,0,0,NA,401095332,2018-12-30,
+304,4,0:14,14,14,Kennedy Leonard Defensive Rebound.,61,76,-15,14,9.770155850897595e-8,Colorado,Utah,5,4,0,0,NA,401095332,2018-12-30,
+305,4,0:00,0,0,End of 4th Quarter,61,76,-15,0,5.148200222412013e-131,Colorado,Utah,5,4,0,0,NA,401095332,2018-12-30,
+306,4,0:00,0,0,End of Game,61,76,-15,0,5.148200222412013e-131,Colorado,Utah,5,4,0,0,NA,401095332,2018-12-30,

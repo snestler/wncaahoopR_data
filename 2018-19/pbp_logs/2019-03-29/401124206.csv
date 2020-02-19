@@ -1,0 +1,321 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Jump Ball won by Oregon,0,0,0,11,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,NA
+2,1,9:49,2389,2389,Sabrina Ionescu missed Layup.,0,0,0,0,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+3,1,9:49,2389,2389,Tylee Irwin Block.,0,0,0,0,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+4,1,9:49,2389,2389,Myah Selland Defensive Rebound.,0,0,0,2,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+5,1,9:47,2387,2387,Foul on Ruthy Hebard.,0,0,0,25,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+6,1,9:22,2362,2362,Madison Guebert missed Jumper.,0,0,0,0,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+7,1,9:22,2362,2362,Oregon Defensive Rebound.,0,0,0,14,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+8,1,9:08,2348,2348,Satou Sabally missed Layup.,0,0,0,0,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+9,1,9:08,2348,2348,Tagyn Larson Defensive Rebound.,0,0,0,24,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+10,1,8:44,2324,2324,Macy Miller missed Jumper.,0,0,0,0,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+11,1,8:44,2324,2324,Ruthy Hebard Block.,0,0,0,0,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+12,1,8:44,2324,2324,Ruthy Hebard Defensive Rebound.,0,0,0,9,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+13,1,8:35,2315,2315,Erin Boley missed Layup.,0,0,0,0,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+14,1,8:35,2315,2315,Myah Selland Defensive Rebound.,0,0,0,11,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+15,1,8:24,2304,2304,Tylee Irwin missed Three Point Jumper.,0,0,0,0,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+16,1,8:24,2304,2304,Tagyn Larson Offensive Rebound.,0,0,0,23,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+17,1,8:01,2281,2281,Myah Selland missed Jumper.,0,0,0,0,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+18,1,8:01,2281,2281,South Dakota State Offensive Rebound.,0,0,0,8,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+19,1,7:53,2273,2273,Tylee Irwin made Jumper.,0,2,-2,20,0.45320932611296233,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,South Dakota State
+20,1,7:33,2253,2253,Satou Sabally missed Layup.,0,2,-2,0,0.45275826884777715,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+21,1,7:33,2253,2253,Myah Selland Block.,0,2,-2,0,0.45275826884777715,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+22,1,7:33,2253,2253,Oregon Offensive Rebound.,0,2,-2,10,0.45275826884777715,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+23,1,7:23,2243,2243,Maite Cazorla made Three Point Jumper. Assisted by Satou Sabally.,3,2,1,12,0.5237879470207863,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,Oregon
+24,1,7:11,2231,2231,Tagyn Larson missed Jumper.,3,2,1,0,0.5239253894801664,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+25,1,7:11,2231,2231,Ruthy Hebard Block.,3,2,1,0,0.5239253894801664,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+26,1,7:11,2231,2231,South Dakota State Offensive Rebound.,3,2,1,5,0.5239253894801664,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+27,1,7:06,2226,2226,Myah Selland made Three Point Jumper. Assisted by Macy Miller.,3,5,-2,18,0.45214449232456844,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,South Dakota State
+28,1,6:48,2208,2208,Erin Boley missed Three Point Jumper.,3,5,-2,0,0.45173267366113046,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+29,1,6:48,2208,2208,Macy Miller Defensive Rebound.,3,5,-2,11,0.45173267366113046,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+30,1,6:37,2197,2197,Foul on Sabrina Ionescu.,3,5,-2,0,0.45148012553608485,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+31,1,6:37,2197,2197,Macy Miller made Free Throw.,3,6,-3,0,0.4275049455104304,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,South Dakota State
+32,1,6:37,2197,2197,Macy Miller made Free Throw.,3,7,-4,15,0.4038655218500054,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,South Dakota State
+33,1,6:22,2182,2182,Ruthy Hebard made Jumper. Assisted by Sabrina Ionescu.,5,7,-2,22,0.4511348144998577,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,Oregon
+34,1,6:00,2160,2160,Tylee Irwin missed Jumper.,5,7,-2,0,0.45062656006611934,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+35,1,6:00,2160,2160,Satou Sabally Block.,5,7,-2,0,0.45062656006611934,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+36,1,6:00,2160,2160,Ruthy Hebard Defensive Rebound.,5,7,-2,1,0.45062656006611934,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+37,1,5:59,2159,2159,Foul on Tylee Irwin.,5,7,-2,14,0.4506033848195652,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+38,1,5:45,2145,2145,Ruthy Hebard missed Jumper.,5,7,-2,0,0.4502781200489009,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+39,1,5:45,2145,2145,Tagyn Larson Defensive Rebound.,5,7,-2,7,0.4502781200489009,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+40,1,5:38,2138,2138,Myah Selland missed Three Point Jumper.,5,7,-2,0,0.45011490161899603,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+41,1,5:38,2138,2138,Satou Sabally Defensive Rebound.,5,7,-2,0,0.45011490161899603,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+42,1,5:38,2138,2138,Foul on Tylee Irwin.,5,7,-2,11,0.45011490161899603,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+43,1,5:27,2127,2127,Satou Sabally made Jumper.,7,7,0,19,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,Oregon
+44,1,5:08,2108,2108,Myah Selland made Jumper.,7,9,-2,13,0.4494106518129116,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,South Dakota State
+45,1,4:55,2095,2095,Foul on Rylie Cascio Jensen.,7,9,-2,0,0.44910293228347964,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+46,1,4:55,2095,2095,Official TV Timeout,7,9,-2,14,0.44910293228347964,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+47,1,4:41,2081,2081,Foul on Myah Selland.,7,9,-2,0,0.4487697008644929,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+48,1,4:41,2081,2081,Ruthy Hebard missed Free Throw.,7,9,-2,0,0.4487697008644929,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+49,1,4:41,2081,2081,Oregon Deadball Team Rebound.,7,9,-2,0,0.4487697008644929,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+50,1,4:41,2081,2081,Ruthy Hebard made Free Throw.,8,9,-1,19,0.4743172671380922,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,Oregon
+51,1,4:22,2062,2062,Madison Guebert made Three Point Jumper.,8,12,-4,8,0.39772140160430103,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,South Dakota State
+52,1,4:14,2054,2054,Foul on Paiton Burckhard.,8,12,-4,0,0.3973477412113458,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+53,1,4:14,2054,2054,Ruthy Hebard made Free Throw.,9,12,-3,0,0.4225299142988811,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,Oregon
+54,1,4:14,2054,2054,Ruthy Hebard made Free Throw.,10,12,-2,9,0.44812131443438624,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,Oregon
+55,1,4:05,2045,2045,Myah Selland Turnover.,10,12,-2,0,0.4479034193632476,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+56,1,4:05,2045,2045,Oti Gildon Steal.,10,12,-2,26,0.4479034193632476,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+57,1,3:39,2019,2019,Sabrina Ionescu made Jumper.,12,12,0,54,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,Oregon
+58,1,2:45,1965,1965,Tagyn Larson missed Three Point Jumper.,12,12,0,0,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+59,1,2:45,1965,1965,Satou Sabally Defensive Rebound.,12,12,0,12,0.5,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+60,1,2:33,1953,1953,Sabrina Ionescu made Jumper.,14,12,2,0,0.554381231370722,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,Oregon
+61,1,2:33,1953,1953,Jump Ball won by South Dakota State,14,12,2,30,0.554381231370722,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+62,1,2:03,1923,1923,Macy Miller missed Jumper.,14,12,2,0,0.555150951152577,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+63,1,2:03,1923,1923,Satou Sabally Defensive Rebound.,14,12,2,8,0.555150951152577,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+64,1,1:55,1915,1915,Sabrina Ionescu made Jumper.,16,12,4,0,0.6093731461820154,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,Oregon
+65,1,1:55,1915,1915,Foul on Madison Guebert.,16,12,4,0,0.6093731461820154,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+66,1,1:55,1915,1915,Sabrina Ionescu missed Free Throw.,16,12,4,0,0.6093731461820154,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+67,1,1:55,1915,1915,Paiton Burckhard Defensive Rebound.,16,12,4,20,0.6093731461820154,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+68,1,1:35,1895,1895,Myah Selland missed Jumper.,16,12,4,0,0.6103640524229491,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+69,1,1:35,1895,1895,Sabrina Ionescu Defensive Rebound.,16,12,4,31,0.6103640524229491,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+70,1,1:04,1864,1864,Maite Cazorla Turnover.,16,12,4,0,0.6118993355291673,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+71,1,1:04,1864,1864,Rylie Cascio Jensen Steal.,16,12,4,16,0.6118993355291673,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+72,1,0:48,1848,1848,Macy Miller missed Three Point Jumper.,16,12,4,0,0.6126939188418746,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+73,1,0:48,1848,1848,Sabrina Ionescu Defensive Rebound.,16,12,4,0,0.6126939188418746,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+74,1,0:48,1848,1848,Jump Ball won by Oregon,16,12,4,27,0.6126939188418746,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+75,1,0:21,1821,1821,Sabrina Ionescu made Jumper.,18,12,6,18,0.6674122833303127,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,Oregon
+76,1,0:03,1803,1803,Paiton Burckhard missed Jumper.,18,12,6,0,0.6686853667459397,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+77,1,0:03,1803,1803,Lydia Giomi Defensive Rebound.,18,12,6,2,0.6686853667459397,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+78,1,0:01,1801,1801,Lydia Giomi Turnover.,18,12,6,0,0.6688273980094421,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+79,1,0:01,1801,1801,Myah Selland Steal.,18,12,6,0,0.6688273980094421,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+80,1,0:01,1801,1801,Myah Selland missed Layup.,18,12,6,0,0.6688273980094421,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+81,1,0:01,1801,1801,South Dakota State Offensive Rebound.,18,12,6,1,0.6688273980094421,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+82,1,0:00,1800,1800,End of 1st Quarter,18,12,6,0,0.6688984611571205,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+83,2,10:00,1800,1800,Jump Ball won by South Dakota State,18,12,6,13,0.6688984611571205,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+84,2,9:47,1787,1787,Rylie Cascio Jensen made Three Point Jumper. Assisted by Madison Guebert.,18,15,3,12,0.5875139596205512,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,South Dakota State
+85,2,9:35,1775,1775,Erin Boley missed Three Point Jumper.,18,15,3,0,0.5879860242513557,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+86,2,9:35,1775,1775,Sabrina Ionescu Offensive Rebound.,18,15,3,12,0.5879860242513557,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+87,2,9:23,1763,1763,Ruthy Hebard missed Layup.,18,15,3,0,0.5884618847325426,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+88,2,9:23,1763,1763,Paiton Burckhard Defensive Rebound.,18,15,3,26,0.5884618847325426,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+89,2,8:57,1737,1737,Tylee Irwin missed Jumper.,18,15,3,0,0.5895077768274464,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+90,2,8:57,1737,1737,Paiton Burckhard Offensive Rebound.,18,15,3,15,0.5895077768274464,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+91,2,8:42,1722,1722,Paiton Burckhard missed Jumper.,18,15,3,0,0.5901216374473957,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+92,2,8:42,1722,1722,Tylee Irwin Offensive Rebound.,18,15,3,13,0.5901216374473957,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+93,2,8:29,1709,1709,Paiton Burckhard missed Layup.,18,15,3,0,0.5906605701265953,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+94,2,8:29,1709,1709,Ruthy Hebard Defensive Rebound.,18,15,3,23,0.5906605701265953,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+95,2,8:06,1686,1686,Foul on Tylee Irwin.,18,15,3,2,0.591630445559408,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+96,2,8:04,1684,1684,Sabrina Ionescu missed Jumper.,18,15,3,0,0.5917148315158343,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+97,2,8:04,1684,1684,Paiton Burckhard Defensive Rebound.,18,15,3,12,0.5917148315158343,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+98,2,7:52,1672,1672,Myah Selland missed Layup.,18,15,3,0,0.5922158283952779,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+99,2,7:52,1672,1672,Ruthy Hebard Defensive Rebound.,18,15,3,14,0.5922158283952779,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+100,2,7:38,1658,1658,Maite Cazorla missed Three Point Jumper.,18,15,3,0,0.592790166249948,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+101,2,7:38,1658,1658,Myah Selland Defensive Rebound.,18,15,3,9,0.592790166249948,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+102,2,7:29,1649,1649,Paiton Burckhard missed Jumper.,18,15,3,0,0.5931545761413392,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+103,2,7:29,1649,1649,Ruthy Hebard Defensive Rebound.,18,15,3,6,0.5931545761413392,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+104,2,7:23,1643,1643,Sabrina Ionescu Turnover.,18,15,3,15,0.5933957748006476,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+105,2,7:08,1628,1628,Myah Selland missed Layup.,18,15,3,0,0.5939939384024777,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+106,2,7:08,1628,1628,Satou Sabally Defensive Rebound.,18,15,3,9,0.5939939384024777,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+107,2,6:59,1619,1619,Satou Sabally missed Jumper.,18,15,3,0,0.5943503863889814,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+108,2,6:59,1619,1619,Paiton Burckhard Defensive Rebound.,18,15,3,10,0.5943503863889814,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+109,2,6:49,1609,1609,Macy Miller made Jumper. Assisted by Myah Selland.,18,17,1,28,0.531924581412623,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,South Dakota State
+110,2,6:21,1581,1581,Ruthy Hebard missed Layup.,18,17,1,0,0.5323051252240589,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+111,2,6:21,1581,1581,Ruthy Hebard Offensive Rebound.,18,17,1,7,0.5323051252240589,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+112,2,6:14,1574,1574,Ruthy Hebard made Layup.,20,17,3,26,0.5961273640994997,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,Oregon
+113,2,5:48,1548,1548,Macy Miller missed Three Point Jumper.,20,17,3,0,0.5971696498634803,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+114,2,5:48,1548,1548,Oregon Defensive Rebound.,20,17,3,9,0.5971696498634803,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+115,2,5:39,1539,1539,Maite Cazorla missed Three Point Jumper.,20,17,3,0,0.5975364333101101,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+116,2,5:39,1539,1539,Macy Miller Defensive Rebound.,20,17,3,10,0.5975364333101101,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+117,2,5:29,1529,1529,Myah Selland made Layup. Assisted by Macy Miller.,20,19,1,16,0.5330289417930258,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,South Dakota State
+118,2,5:13,1513,1513,Ruthy Hebard missed Layup.,20,19,1,0,0.5332609012347075,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+119,2,5:13,1513,1513,Myah Selland Defensive Rebound.,20,19,1,22,0.5332609012347075,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+120,2,4:51,1491,1491,Tagyn Larson missed Layup.,20,19,1,0,0.5335903894628868,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+121,2,4:51,1491,1491,Sabrina Ionescu Defensive Rebound.,20,19,1,6,0.5335903894628868,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+122,2,4:45,1485,1485,Satou Sabally made Layup. Assisted by Sabrina Ionescu.,22,19,3,26,0.5998417004353702,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,Oregon
+123,2,4:19,1459,1459,Foul on Morgan Yaeger.,22,19,3,0,0.601039829491288,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+124,2,4:19,1459,1459,Official TV Timeout,22,19,3,11,0.601039829491288,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+125,2,4:08,1448,1448,Madison Guebert missed Three Point Jumper.,22,19,3,0,0.6015683473900564,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+126,2,4:08,1448,1448,Oregon Defensive Rebound.,22,19,3,17,0.6015683473900564,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+127,2,3:51,1431,1431,Satou Sabally made Layup. Assisted by Sabrina Ionescu.,24,19,5,13,0.6664732069344339,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,Oregon
+128,2,3:38,1418,1418,Myah Selland missed Layup.,24,19,5,0,0.667398343345384,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+129,2,3:38,1418,1418,Satou Sabally Block.,24,19,5,0,0.667398343345384,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+130,2,3:38,1418,1418,Ruthy Hebard Defensive Rebound.,24,19,5,13,0.667398343345384,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+131,2,3:25,1405,1405,Ruthy Hebard made Layup. Assisted by Sabrina Ionescu.,26,19,7,28,0.7272543752526895,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,Oregon
+132,2,2:57,1377,1377,Macy Miller missed Layup.,26,19,7,0,0.7296436019044682,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+133,2,2:57,1377,1377,Ruthy Hebard Block.,26,19,7,0,0.7296436019044682,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+134,2,2:57,1377,1377,Macy Miller Offensive Rebound.,26,19,7,12,0.7296436019044682,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+135,2,2:45,1365,1365,Macy Miller missed Layup.,26,19,7,0,0.7306553784084776,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+136,2,2:45,1365,1365,Oti Gildon Defensive Rebound.,26,19,7,6,0.7306553784084776,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+137,2,2:39,1359,1359,Sabrina Ionescu missed Three Point Jumper.,26,19,7,0,0.7311607828278865,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+138,2,2:39,1359,1359,South Dakota State Defensive Rebound.,26,19,7,18,0.7311607828278865,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+139,2,2:21,1341,1341,Macy Miller missed Three Point Jumper.,26,19,7,0,0.7326820347484393,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+140,2,2:21,1341,1341,Erin Boley Defensive Rebound.,26,19,7,8,0.7326820347484393,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+141,2,2:13,1333,1333,Satou Sabally made Three Point Jumper. Assisted by Sabrina Ionescu.,29,19,10,12,0.8092840419454791,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,Oregon
+142,2,2:01,1321,1321,Macy Miller made Jumper.,29,21,8,0,0.7617564912186061,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,South Dakota State
+143,2,2:01,1321,1321,Foul on Erin Boley.,29,21,8,0,0.7617564912186061,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+144,2,2:01,1321,1321,Macy Miller made Free Throw.,29,22,7,19,0.734396004345031,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,South Dakota State
+145,2,1:42,1302,1302,Satou Sabally missed Three Point Jumper.,29,22,7,0,0.7360658477306085,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+146,2,1:42,1302,1302,Satou Sabally Offensive Rebound.,29,22,7,3,0.7360658477306085,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,
+147,2,1:39,1299,1299,Satou Sabally made Layup.,31,22,9,1,0.7892535913496046,Oregon,South Dakota State,4,4,0,0,NA,401124206,2019-03-29,Oregon
+148,2,1:38,1298,1298,South Dakota State  Timeout,31,22,9,10,0.7893525630138243,Oregon,South Dakota State,3,4,1,0,NA,401124206,2019-03-29,
+149,2,1:28,1288,1288,Myah Selland missed Three Point Jumper.,31,22,9,0,0.790352482720989,Oregon,South Dakota State,3,4,1,0,NA,401124206,2019-03-29,
+150,2,1:28,1288,1288,Sabrina Ionescu Defensive Rebound.,31,22,9,8,0.790352482720989,Oregon,South Dakota State,3,4,1,0,NA,401124206,2019-03-29,
+151,2,1:20,1280,1280,Sabrina Ionescu missed Layup.,31,22,9,0,0.7911670041272171,Oregon,South Dakota State,3,4,1,0,NA,401124206,2019-03-29,
+152,2,1:20,1280,1280,Ruthy Hebard Offensive Rebound.,31,22,9,8,0.7911670041272171,Oregon,South Dakota State,3,4,1,0,NA,401124206,2019-03-29,
+153,2,1:12,1272,1272,Sabrina Ionescu Turnover.,31,22,9,0,0.7919959675258508,Oregon,South Dakota State,3,4,1,0,NA,401124206,2019-03-29,
+154,2,1:12,1272,1272,Macy Miller Steal.,31,22,9,8,0.7919959675258508,Oregon,South Dakota State,3,4,1,0,NA,401124206,2019-03-29,
+155,2,1:04,1264,1264,Macy Miller missed Jumper.,31,22,9,0,0.7928407147820973,Oregon,South Dakota State,3,4,1,0,NA,401124206,2019-03-29,
+156,2,1:04,1264,1264,Lindsey Theuninck Offensive Rebound.,31,22,9,18,0.7928407147820973,Oregon,South Dakota State,3,4,1,0,NA,401124206,2019-03-29,
+157,2,0:46,1246,1246,Madison Guebert missed Three Point Jumper.,31,22,9,0,0.7948059105625571,Oregon,South Dakota State,3,4,1,0,NA,401124206,2019-03-29,
+158,2,0:46,1246,1246,Madison Guebert Offensive Rebound.,31,22,9,17,0.7948059105625571,Oregon,South Dakota State,3,4,1,0,NA,401124206,2019-03-29,
+159,2,0:29,1229,1229,Tagyn Larson missed Layup.,31,22,9,0,0.7967545870661402,Oregon,South Dakota State,3,4,0,0,NA,401124206,2019-03-29,
+160,2,0:29,1229,1229,Tagyn Larson Offensive Rebound.,31,22,9,28,0.7967545870661402,Oregon,South Dakota State,3,4,0,0,NA,401124206,2019-03-29,
+161,2,0:01,1201,1201,Madison Guebert missed Three Point Jumper.,31,22,9,0,0.8001623663834582,Oregon,South Dakota State,3,4,0,0,NA,401124206,2019-03-29,
+162,2,0:01,1201,1201,Satou Sabally Defensive Rebound.,31,22,9,1,0.8001623663834582,Oregon,South Dakota State,3,4,0,0,NA,401124206,2019-03-29,
+163,2,0:00,1200,1200,End of 2nd Quarter,31,22,9,0,0.8002839754918194,Oregon,South Dakota State,3,4,0,0,NA,401124206,2019-03-29,
+164,3,10:00,1200,1200,Jump Ball won by Oregon,31,22,9,15,0.8002839754918194,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,
+165,3,9:45,1185,1185,Ruthy Hebard made Layup. Assisted by Sabrina Ionescu.,33,22,11,22,0.8468714799536478,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,Oregon
+166,3,9:23,1163,1163,Myah Selland missed Layup.,33,22,11,0,0.849397736088793,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,
+167,3,9:23,1163,1163,Ruthy Hebard Defensive Rebound.,33,22,11,11,0.849397736088793,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,
+168,3,9:12,1152,1152,Foul on Madison Guebert.,33,22,11,0,0.8506284498343993,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,
+169,3,9:12,1152,1152,Ruthy Hebard made Free Throw.,34,22,12,0,0.869628549091399,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,Oregon
+170,3,9:12,1152,1152,Ruthy Hebard made Free Throw.,35,22,13,14,0.8865342114676446,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,Oregon
+171,3,8:58,1138,1138,Macy Miller made Jumper.,35,24,11,15,0.852174539339514,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,South Dakota State
+172,3,8:43,1123,1123,Satou Sabally missed Three Point Jumper.,35,24,11,0,0.8538170550888519,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,
+173,3,8:43,1123,1123,Ruthy Hebard Offensive Rebound.,35,24,11,7,0.8538170550888519,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,
+174,3,8:36,1116,1116,Erin Boley missed Three Point Jumper.,35,24,11,0,0.854582066941236,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,
+175,3,8:36,1116,1116,Tylee Irwin Defensive Rebound.,35,24,11,29,0.854582066941236,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,
+176,3,8:07,1087,1087,Tylee Irwin missed Three Point Jumper.,35,24,11,0,0.8577731909677991,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,
+177,3,8:07,1087,1087,Erin Boley Defensive Rebound.,35,24,11,16,0.8577731909677991,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,
+178,3,7:51,1071,1071,Ruthy Hebard made Jumper. Assisted by Sabrina Ionescu.,37,24,13,11,0.8948370187546678,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,Oregon
+179,3,7:40,1060,1060,Tylee Irwin missed Layup.,37,24,13,0,0.895996294249647,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,
+180,3,7:40,1060,1060,Satou Sabally Defensive Rebound.,37,24,13,17,0.895996294249647,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,
+181,3,7:23,1043,1043,Foul on Madison Guebert.,37,24,13,0,0.8978281241544799,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,
+182,3,7:23,1043,1043,Satou Sabally missed Free Throw.,37,24,13,0,0.8978281241544799,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,
+183,3,7:23,1043,1043,Oregon Deadball Team Rebound.,37,24,13,0,0.8978281241544799,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,
+184,3,7:23,1043,1043,Satou Sabally made Free Throw.,38,24,14,13,0.9121762153062278,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,Oregon
+185,3,7:10,1030,1030,Tagyn Larson missed Layup.,38,24,14,0,0.913530051049208,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,
+186,3,7:10,1030,1030,Ruthy Hebard Defensive Rebound.,38,24,14,7,0.913530051049208,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,
+187,3,7:03,1023,1023,Sabrina Ionescu made Layup.,40,24,16,11,0.9373273016216318,Oregon,South Dakota State,4,5,0,0,NA,401124206,2019-03-29,Oregon
+188,3,6:52,1012,1012,South Dakota State  Timeout,40,24,16,0,0.938346064667412,Oregon,South Dakota State,3,5,1,0,NA,401124206,2019-03-29,
+189,3,6:52,1012,1012,Official TV Timeout,40,24,16,10,0.938346064667412,Oregon,South Dakota State,3,5,1,0,NA,401124206,2019-03-29,
+190,3,6:42,1002,1002,Macy Miller missed Jumper.,40,24,16,0,0.9392917957687451,Oregon,South Dakota State,3,5,1,0,NA,401124206,2019-03-29,
+191,3,6:42,1002,1002,Satou Sabally Defensive Rebound.,40,24,16,11,0.9392917957687451,Oregon,South Dakota State,3,5,1,0,NA,401124206,2019-03-29,
+192,3,6:31,991,991,Erin Boley missed Three Point Jumper.,40,24,16,0,0.9403551768020976,Oregon,South Dakota State,3,5,1,0,NA,401124206,2019-03-29,
+193,3,6:31,991,991,Tylee Irwin Defensive Rebound.,40,24,16,0,0.9403551768020976,Oregon,South Dakota State,3,5,1,0,NA,401124206,2019-03-29,
+194,3,6:31,991,991,Foul on Maite Cazorla.,40,24,16,9,0.9403551768020976,Oregon,South Dakota State,3,5,1,0,NA,401124206,2019-03-29,
+195,3,6:22,982,982,Myah Selland made Jumper. Assisted by Tylee Irwin.,40,26,14,17,0.918869538234828,Oregon,South Dakota State,3,5,1,0,NA,401124206,2019-03-29,South Dakota State
+196,3,6:05,965,965,Sabrina Ionescu made Jumper.,42,26,16,15,0.9429598709749032,Oregon,South Dakota State,3,5,1,0,NA,401124206,2019-03-29,Oregon
+197,3,5:50,950,950,Foul on Erin Boley.,42,26,16,19,0.9443627482591043,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+198,3,5:31,931,931,Paiton Burckhard made Layup. Assisted by Myah Selland.,42,28,14,20,0.9244591542441908,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,South Dakota State
+199,3,5:11,911,911,Sabrina Ionescu made Jumper. Assisted by Satou Sabally.,44,28,16,22,0.9474586386460828,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,Oregon
+200,3,4:49,889,889,Paiton Burckhard missed Jumper.,44,28,16,0,0.9489890980895691,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+201,3,4:49,889,889,Paiton Burckhard Offensive Rebound.,44,28,16,3,0.9489890980895691,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+202,3,4:46,886,886,Paiton Burckhard missed Jumper.,44,28,16,0,0.9491914631363703,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+203,3,4:46,886,886,Ruthy Hebard Defensive Rebound.,44,28,16,7,0.9491914631363703,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+204,3,4:39,879,879,Maite Cazorla made Three Point Jumper. Assisted by Sabrina Ionescu.,47,28,19,19,0.9703459240445842,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,Oregon
+205,3,4:20,860,860,Tylee Irwin missed Three Point Jumper.,47,28,19,0,0.9712456710042328,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+206,3,4:20,860,860,Sabrina Ionescu Defensive Rebound.,47,28,19,13,0.9712456710042328,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+207,3,4:07,847,847,Satou Sabally missed Three Point Jumper.,47,28,19,0,0.9718635684219599,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+208,3,4:07,847,847,Macy Miller Defensive Rebound.,47,28,19,14,0.9718635684219599,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+209,3,3:53,833,833,Tylee Irwin missed Jumper.,47,28,19,0,0.9725420181125342,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+210,3,3:53,833,833,Paiton Burckhard Offensive Rebound.,47,28,19,4,0.9725420181125342,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+211,3,3:49,829,829,Paiton Burckhard missed Layup.,47,28,19,0,0.9727396181838162,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+212,3,3:49,829,829,Tylee Irwin Offensive Rebound.,47,28,19,3,0.9727396181838162,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+213,3,3:46,826,826,Foul on Erin Boley.,47,28,19,0,0.9728891485211069,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+214,3,3:46,826,826,Macy Miller made Free Throw.,47,29,18,0,0.9674503451544298,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,South Dakota State
+215,3,3:46,826,826,Macy Miller made Free Throw.,47,30,17,14,0.9609642230121679,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,South Dakota State
+216,3,3:32,812,812,Sabrina Ionescu missed Three Point Jumper.,47,30,17,0,0.9618759793475611,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+217,3,3:32,812,812,Macy Miller Defensive Rebound.,47,30,17,12,0.9618759793475611,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+218,3,3:20,800,800,Macy Miller made Three Point Jumper. Assisted by Rylie Cascio Jensen.,47,33,14,12,0.9356533548197523,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,South Dakota State
+219,3,3:08,788,788,Lydia Giomi missed Layup.,47,33,14,0,0.9368414817546598,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+220,3,3:08,788,788,Rylie Cascio Jensen Defensive Rebound.,47,33,14,8,0.9368414817546598,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+221,3,3:00,780,780,Rylie Cascio Jensen missed Three Point Jumper.,47,33,14,0,0.9376710606842351,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+222,3,3:00,780,780,Lydia Giomi Defensive Rebound.,47,33,14,22,0.9376710606842351,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+223,3,2:38,758,758,Satou Sabally missed Three Point Jumper.,47,33,14,0,0.9401240520093124,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+224,3,2:38,758,758,Oregon Offensive Rebound.,47,33,14,37,0.9401240520093124,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+225,3,2:01,721,721,Oregon  Turnover.,47,33,14,12,0.9448016457020136,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+226,3,1:49,709,709,Tagyn Larson missed Jumper.,47,33,14,0,0.9461978977012213,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+227,3,1:49,709,709,Sabrina Ionescu Defensive Rebound.,47,33,14,17,0.9461978977012213,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+228,3,1:32,692,692,Ruthy Hebard made Layup.,49,33,16,18,0.9650038182660661,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,Oregon
+229,3,1:14,674,674,Macy Miller missed Three Point Jumper.,49,33,16,0,0.9663143824003281,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+230,3,1:14,674,674,Rylie Cascio Jensen Offensive Rebound.,49,33,16,25,0.9663143824003281,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+231,3,0:49,649,649,Tagyn Larson missed Layup.,49,33,16,0,0.9680151684313734,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+232,3,0:49,649,649,Ruthy Hebard Block.,49,33,16,0,0.9680151684313734,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+233,3,0:49,649,649,South Dakota State Offensive Rebound.,49,33,16,7,0.9680151684313734,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+234,3,0:42,642,642,Macy Miller missed Jumper.,49,33,16,0,0.9684879601459646,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+235,3,0:42,642,642,South Dakota State Offensive Rebound.,49,33,16,8,0.9684879601459646,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+236,3,0:34,634,634,Macy Miller Turnover.,49,33,16,23,0.9690346148264382,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+237,3,0:11,611,611,Maite Cazorla missed Layup.,49,33,16,0,0.9706834095608706,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+238,3,0:11,611,611,South Dakota State Defensive Rebound.,49,33,16,9,0.9706834095608706,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+239,3,0:02,602,602,Foul on Maite Cazorla.,49,33,16,0,0.971374394870476,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+240,3,0:02,602,602,Macy Miller missed Free Throw.,49,33,16,0,0.971374394870476,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+241,3,0:02,602,602,South Dakota State Deadball Team Rebound.,49,33,16,0,0.971374394870476,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+242,3,0:02,602,602,Macy Miller made Free Throw.,49,34,15,2,0.9645703839050339,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,South Dakota State
+243,3,0:00,600,600,End of 3rd Quarter,49,34,15,0,0.9647523131759473,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+244,4,10:00,600,600,Jump Ball won by South Dakota State,49,34,15,11,0.9647523131759473,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+245,4,9:49,589,589,Madison Guebert missed Three Point Jumper.,49,34,15,0,0.9657898177578274,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+246,4,9:49,589,589,South Dakota State Offensive Rebound.,49,34,15,3,0.9657898177578274,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+247,4,9:46,586,586,Tylee Irwin made Three Point Jumper. Assisted by Rylie Cascio Jensen.,49,37,12,26,0.9358058969375685,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,South Dakota State
+248,4,9:20,560,560,Sabrina Ionescu missed Three Point Jumper.,49,37,12,0,0.9399214179657854,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+249,4,9:20,560,560,Tagyn Larson Defensive Rebound.,49,37,12,11,0.9399214179657854,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+250,4,9:09,549,549,Foul on Sabrina Ionescu.,49,37,12,0,0.9418794931953444,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+251,4,9:09,549,549,Myah Selland missed Free Throw.,49,37,12,0,0.9418794931953444,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+252,4,9:09,549,549,South Dakota State Deadball Team Rebound.,49,37,12,0,0.9418794931953444,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+253,4,9:09,549,549,Myah Selland missed Free Throw.,49,37,12,0,0.9418794931953444,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+254,4,9:09,549,549,Ruthy Hebard Defensive Rebound.,49,37,12,12,0.9418794931953444,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+255,4,8:57,537,537,Ruthy Hebard missed Layup.,49,37,12,0,0.9438637596486901,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+256,4,8:57,537,537,Oti Gildon Offensive Rebound.,49,37,12,6,0.9438637596486901,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+257,4,8:51,531,531,Oti Gildon made Layup.,51,37,14,17,0.964839805604493,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,Oregon
+258,4,8:34,514,514,Foul on Satou Sabally.,51,37,14,10,0.9665106306923081,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+259,4,8:24,504,504,Rylie Cascio Jensen missed Three Point Jumper.,51,37,14,0,0.9674047172707425,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+260,4,8:24,504,504,South Dakota State Offensive Rebound.,51,37,14,10,0.9674047172707425,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+261,4,8:14,494,494,Macy Miller made Layup. Assisted by Myah Selland.,51,39,12,23,0.9493185252645953,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,South Dakota State
+262,4,7:51,471,471,Foul on Tagyn Larson.,51,39,12,0,0.9521684990935643,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+263,4,7:51,471,471,Oti Gildon missed Free Throw.,51,39,12,0,0.9521684990935643,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+264,4,7:51,471,471,Oregon Deadball Team Rebound.,51,39,12,0,0.9521684990935643,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+265,4,7:51,471,471,Oti Gildon missed Free Throw.,51,39,12,0,0.9521684990935643,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+266,4,7:51,471,471,Tagyn Larson Defensive Rebound.,51,39,12,25,0.9521684990935643,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+267,4,7:26,446,446,Madison Guebert missed Layup.,51,39,12,0,0.9559249524250679,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+268,4,7:26,446,446,Satou Sabally Block.,51,39,12,0,0.9559249524250679,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+269,4,7:26,446,446,Macy Miller Offensive Rebound.,51,39,12,17,0.9559249524250679,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+270,4,7:09,429,429,Macy Miller missed Layup.,51,39,12,0,0.9590633348743955,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+271,4,7:09,429,429,Ruthy Hebard Defensive Rebound.,51,39,12,14,0.9590633348743955,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,
+272,4,6:55,415,415,Ruthy Hebard made Layup. Assisted by Sabrina Ionescu.,53,39,14,29,0.9771858997414405,Oregon,South Dakota State,4,6,0,0,NA,401124206,2019-03-29,Oregon
+273,4,6:26,386,386,Tagyn Larson made Layup.,53,41,12,0,0.9660536058896403,Oregon,South Dakota State,4,6,1,0,NA,401124206,2019-03-29,South Dakota State
+274,4,6:26,386,386,South Dakota State  Timeout,53,41,12,0,0.9660536058896403,Oregon,South Dakota State,3,6,1,0,NA,401124206,2019-03-29,
+275,4,6:26,386,386,Official TV Timeout,53,41,12,4,0.9660536058896403,Oregon,South Dakota State,3,6,1,0,NA,401124206,2019-03-29,
+276,4,6:22,382,382,Maite Cazorla Turnover.,53,41,12,0,0.9666332994397189,Oregon,South Dakota State,3,6,1,0,NA,401124206,2019-03-29,
+277,4,6:22,382,382,Rylie Cascio Jensen Steal.,53,41,12,14,0.9666332994397189,Oregon,South Dakota State,3,6,1,0,NA,401124206,2019-03-29,
+278,4,6:08,368,368,Madison Guebert missed Three Point Jumper.,53,41,12,0,0.9686710617403809,Oregon,South Dakota State,3,6,1,0,NA,401124206,2019-03-29,
+279,4,6:08,368,368,Oti Gildon Defensive Rebound.,53,41,12,25,0.9686710617403809,Oregon,South Dakota State,3,6,1,0,NA,401124206,2019-03-29,
+280,4,5:43,343,343,Foul on Rylie Cascio Jensen.,53,41,12,0,0.9725275948980984,Oregon,South Dakota State,3,6,1,0,NA,401124206,2019-03-29,
+281,4,5:43,343,343,Ruthy Hebard made Free Throw.,54,41,13,0,0.979446226085226,Oregon,South Dakota State,3,6,1,0,NA,401124206,2019-03-29,Oregon
+282,4,5:43,343,343,Ruthy Hebard made Free Throw.,55,41,14,25,0.9846499752063679,Oregon,South Dakota State,3,6,1,0,NA,401124206,2019-03-29,Oregon
+283,4,5:18,318,318,Madison Guebert missed Three Point Jumper.,55,41,14,0,0.9874618058448587,Oregon,South Dakota State,3,6,0,0,NA,401124206,2019-03-29,
+284,4,5:18,318,318,Satou Sabally Defensive Rebound.,55,41,14,18,0.9874618058448587,Oregon,South Dakota State,3,6,0,0,NA,401124206,2019-03-29,
+285,4,5:00,300,300,Ruthy Hebard missed Layup.,55,41,14,0,0.9892370061598655,Oregon,South Dakota State,3,6,0,0,NA,401124206,2019-03-29,
+286,4,5:00,300,300,Madison Guebert Defensive Rebound.,55,41,14,12,0.9892370061598655,Oregon,South Dakota State,3,6,0,0,NA,401124206,2019-03-29,
+287,4,4:48,288,288,Rylie Cascio Jensen Turnover.,55,41,14,0,0.9895228728044572,Oregon,South Dakota State,3,6,0,0,NA,401124206,2019-03-29,
+288,4,4:48,288,288,Sabrina Ionescu Steal.,55,41,14,5,0.9895228728044572,Oregon,South Dakota State,3,6,0,0,NA,401124206,2019-03-29,
+289,4,4:43,283,283,Ruthy Hebard missed Layup.,55,41,14,0,0.9894808540921273,Oregon,South Dakota State,3,6,0,0,NA,401124206,2019-03-29,
+290,4,4:43,283,283,Myah Selland Defensive Rebound.,55,41,14,9,0.9894808540921273,Oregon,South Dakota State,3,6,0,0,NA,401124206,2019-03-29,
+291,4,4:34,274,274,Myah Selland missed Jumper.,55,41,14,0,0.9892380646468385,Oregon,South Dakota State,3,6,0,0,NA,401124206,2019-03-29,
+292,4,4:34,274,274,Oregon Defensive Rebound.,55,41,14,5,0.9892380646468385,Oregon,South Dakota State,3,6,0,0,NA,401124206,2019-03-29,
+293,4,4:29,269,269,Oregon  Timeout,55,41,14,14,0.9890368011049873,Oregon,South Dakota State,3,5,0,1,NA,401124206,2019-03-29,
+294,4,4:15,255,255,Maite Cazorla missed Three Point Jumper.,55,41,14,0,0.988378412802246,Oregon,South Dakota State,3,5,0,1,NA,401124206,2019-03-29,
+295,4,4:15,255,255,Madison Guebert Defensive Rebound.,55,41,14,27,0.988378412802246,Oregon,South Dakota State,3,5,0,1,NA,401124206,2019-03-29,
+296,4,3:48,228,228,Tylee Irwin missed Layup.,55,41,14,0,0.9880066016960892,Oregon,South Dakota State,3,5,0,1,NA,401124206,2019-03-29,
+297,4,3:48,228,228,South Dakota State Offensive Rebound.,55,41,14,7,0.9880066016960892,Oregon,South Dakota State,3,5,0,1,NA,401124206,2019-03-29,
+298,4,3:41,221,221,Myah Selland made Layup.,55,43,12,21,0.9783344756201257,Oregon,South Dakota State,3,5,0,1,NA,401124206,2019-03-29,South Dakota State
+299,4,3:20,200,200,Sabrina Ionescu made Three Point Jumper. Assisted by Satou Sabally.,58,43,15,22,0.9936755136412735,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,Oregon
+300,4,2:58,178,178,Tagyn Larson made Layup. Assisted by Myah Selland.,58,45,13,20,0.9928961225164458,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,South Dakota State
+301,4,2:38,158,158,Ruthy Hebard made Layup. Assisted by Sabrina Ionescu.,60,45,15,0,0.998288846686981,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,Oregon
+302,4,2:38,158,158,Foul on Madison Guebert.,60,45,15,0,0.998288846686981,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+303,4,2:38,158,158,Ruthy Hebard made Free Throw.,61,45,16,10,0.9988801798459904,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,Oregon
+304,4,2:28,148,148,Myah Selland made Jumper.,61,47,14,34,0.9981453714715245,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,South Dakota State
+305,4,1:54,114,114,Erin Boley missed Jumper.,61,47,14,0,0.9995598629918341,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+306,4,1:54,114,114,Madison Guebert Defensive Rebound.,61,47,14,9,0.9995598629918341,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+307,4,1:45,105,105,Myah Selland missed Three Point Jumper.,61,47,14,0,0.9997262514933057,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+308,4,1:45,105,105,Morgan Yaeger Defensive Rebound.,61,47,14,7,0.9997262514933057,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+309,4,1:38,98,98,Erin Boley missed Three Point Jumper.,61,47,14,0,0.9998170717802827,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+310,4,1:38,98,98,Macy Miller Defensive Rebound.,61,47,14,10,0.9998170717802827,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+311,4,1:28,88,88,Foul on Satou Sabally.,61,47,14,0,0.9999014670569756,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,
+312,4,1:28,88,88,Macy Miller made Free Throw.,61,48,13,0,0.9998095805792929,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,South Dakota State
+313,4,1:28,88,88,Macy Miller made Free Throw.,61,49,12,30,0.9996320372901862,Oregon,South Dakota State,3,5,0,0,NA,401124206,2019-03-29,South Dakota State
+314,4,0:58,58,58,Satou Sabally made Layup. Assisted by Sabrina Ionescu.,63,49,14,0,0.999987685931604,Oregon,South Dakota State,3,5,0,1,NA,401124206,2019-03-29,Oregon
+315,4,0:58,58,58,Oregon  Timeout,63,49,14,11,0.999987685931604,Oregon,South Dakota State,3,4,0,1,NA,401124206,2019-03-29,
+316,4,0:47,47,47,Tylee Irwin made Jumper.,63,51,12,31,0.9999703029953083,Oregon,South Dakota State,3,4,0,1,NA,401124206,2019-03-29,South Dakota State
+317,4,0:16,16,16,Satou Sabally missed Three Point Jumper.,63,51,12,0,0.9999970940056794,Oregon,South Dakota State,3,4,0,1,NA,401124206,2019-03-29,
+318,4,0:16,16,16,Macy Miller Defensive Rebound.,63,51,12,7,0.9999970940056794,Oregon,South Dakota State,3,4,0,1,NA,401124206,2019-03-29,
+319,4,0:09,9,9,Macy Miller made Jumper.,63,53,10,9,0.9999850453279087,Oregon,South Dakota State,3,4,0,1,NA,401124206,2019-03-29,South Dakota State
+320,4,0:00,0,0,End of Game,63,53,10,0,1,Oregon,South Dakota State,3,4,0,1,NA,401124206,2019-03-29,

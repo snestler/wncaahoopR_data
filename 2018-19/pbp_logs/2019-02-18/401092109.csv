@@ -1,0 +1,343 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Jump Ball won by Notre Dame,0,0,0,11,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,NA
+2,1,9:49,2389,2389,Jackie Young missed Jumper.,0,0,0,0,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+3,1,9:49,2389,2389,Jessica Shepard Offensive Rebound.,0,0,0,6,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+4,1,9:43,2383,2383,Jessica Shepard made Jumper.,0,2,-2,18,0.4556158174412416,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,Notre Dame
+5,1,9:25,2365,2365,Elissa Cunane Turnover.,0,2,-2,0,0.45523226214346435,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+6,1,9:25,2365,2365,Jackie Young Steal.,0,2,-2,5,0.45523226214346435,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+7,1,9:20,2360,2360,Jessica Shepard made Layup. Assisted by Jackie Young.,0,4,-4,19,0.41096700977113776,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,Notre Dame
+8,1,9:01,2341,2341,Elissa Cunane made Layup. Assisted by Kai Crutchfield.,2,4,-2,17,0.45471402389215027,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,NC State
+9,1,8:44,2324,2324,Brianna Turner made Layup. Assisted by Jessica Shepard.,2,6,-4,20,0.40944027533947197,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,Notre Dame
+10,1,8:24,2304,2304,Elissa Cunane made Layup. Assisted by DD Rogers.,4,6,-2,17,0.4539013430582895,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,NC State
+11,1,8:07,2287,2287,Marina Mabrey made Three Point Jumper. Assisted by Brianna Turner.,4,9,-5,20,0.3855360256458552,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,Notre Dame
+12,1,7:47,2267,2267,Elissa Cunane missed Layup.,4,9,-5,0,0.38446442678649795,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+13,1,7:47,2267,2267,Jessica Shepard Defensive Rebound.,4,9,-5,12,0.38446442678649795,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+14,1,7:35,2255,2255,Brianna Turner missed Layup.,4,9,-5,0,0.38381795823868775,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+15,1,7:35,2255,2255,Elissa Cunane Block.,4,9,-5,0,0.38381795823868775,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+16,1,7:35,2255,2255,Jessica Shepard Offensive Rebound.,4,9,-5,3,0.38381795823868775,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+17,1,7:32,2252,2252,Foul on DD Rogers.,4,9,-5,0,0.38365596376763217,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+18,1,7:32,2252,2252,Jessica Shepard missed Free Throw.,4,9,-5,0,0.38365596376763217,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+19,1,7:32,2252,2252,Notre Dame Deadball Team Rebound.,4,9,-5,0,0.38365596376763217,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+20,1,7:32,2252,2252,Jessica Shepard made Free Throw.,4,10,-6,15,0.36149739920602925,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,Notre Dame
+21,1,7:17,2237,2237,DD Rogers made Layup.,6,10,-4,14,0.4056456439646893,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,NC State
+22,1,7:03,2223,2223,Brianna Turner Turnover.,6,10,-4,0,0.4050245057678152,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+23,1,7:03,2223,2223,Kiara Leslie Steal.,6,10,-4,13,0.4050245057678152,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+24,1,6:50,2210,2210,Kiara Leslie missed Jumper.,6,10,-4,0,0.4044458193214133,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+25,1,6:50,2210,2210,Jackie Young Defensive Rebound.,6,10,-4,14,0.4044458193214133,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+26,1,6:36,2196,2196,Brianna Turner missed Layup.,6,10,-4,0,0.4038208233684857,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+27,1,6:36,2196,2196,Elissa Cunane Defensive Rebound.,6,10,-4,26,0.4038208233684857,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+28,1,6:10,2170,2170,Kiara Leslie missed Jumper.,6,10,-4,0,0.40265612661406397,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+29,1,6:10,2170,2170,Jackie Young Defensive Rebound.,6,10,-4,10,0.40265612661406397,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+30,1,6:00,2160,2160,Foul on Kai Crutchfield.,6,10,-4,2,0.40220669737305154,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+31,1,5:58,2158,2158,Arike Ogunbowale missed Jumper.,6,10,-4,0,0.40211665241788574,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+32,1,5:58,2158,2158,Aislinn Konig Defensive Rebound.,6,10,-4,6,0.40211665241788574,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+33,1,5:52,2152,2152,Kai Crutchfield missed Layup.,6,10,-4,0,0.40184619018168427,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+34,1,5:52,2152,2152,Brianna Turner Block.,6,10,-4,0,0.40184619018168427,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+35,1,5:52,2152,2152,Jackie Young Defensive Rebound.,6,10,-4,10,0.40184619018168427,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+36,1,5:42,2142,2142,Brianna Turner made Layup. Assisted by Arike Ogunbowale.,6,12,-6,0,0.35446076349908506,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,Notre Dame
+37,1,5:42,2142,2142,Foul on Kai Crutchfield.,6,12,-6,0,0.35446076349908506,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+38,1,5:42,2142,2142,Brianna Turner missed Free Throw.,6,12,-6,0,0.35446076349908506,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+39,1,5:42,2142,2142,DD Rogers Defensive Rebound.,6,12,-6,17,0.35446076349908506,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+40,1,5:25,2125,2125,Elissa Cunane made Layup. Assisted by Kiara Leslie.,8,12,-4,19,0.40062270347841344,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,NC State
+41,1,5:06,2106,2106,Jackie Young missed Jumper.,8,12,-4,0,0.3997549674954223,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+42,1,5:06,2106,2106,Elissa Cunane Block.,8,12,-4,0,0.3997549674954223,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+43,1,5:06,2106,2106,Kayla Jones Defensive Rebound.,8,12,-4,9,0.3997549674954223,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+44,1,4:57,2097,2097,Elissa Cunane made Layup. Assisted by Kiara Leslie.,10,12,-2,3,0.4491503789396843,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,NC State
+45,1,4:54,2094,2094,Official TV Timeout,10,12,-2,0,0.4490791943765155,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+46,1,4:54,2094,2094,Official TV Timeout,10,12,-2,14,0.4490791943765155,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+47,1,4:40,2080,2080,Brianna Turner Turnover.,10,12,-2,0,0.44874582321189277,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+48,1,4:40,2080,2080,DD Rogers Steal.,10,12,-2,0,0.44874582321189277,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+49,1,4:40,2080,2080,Jump Ball won by NC State,10,12,-2,23,0.44874582321189277,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+50,1,4:17,2057,2057,Kiara Leslie Turnover.,10,12,-2,9,0.44819374505431697,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+51,1,4:08,2048,2048,Arike Ogunbowale made Three Point Jumper. Assisted by Jackie Young.,10,15,-5,20,0.37235474320842976,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,Notre Dame
+52,1,3:48,2028,2028,Aislinn Konig made Three Point Jumper. Assisted by Kiara Leslie.,13,15,-2,17,0.44748929964234846,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,NC State
+53,1,3:31,2011,2011,Arike Ogunbowale missed Jumper.,13,15,-2,0,0.4470717197588073,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+54,1,3:31,2011,2011,Kayla Jones Defensive Rebound.,13,15,-2,8,0.4470717197588073,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+55,1,3:23,2003,2003,Aislinn Konig Turnover.,13,15,-2,0,0.4468739675363185,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+56,1,3:23,2003,2003,Jessica Shepard Steal.,13,15,-2,5,0.4468739675363185,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+57,1,3:18,1998,1998,Arike Ogunbowale made Layup. Assisted by Marina Mabrey.,13,17,-4,24,0.3946943197454173,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,Notre Dame
+58,1,2:54,1974,1974,Kiara Leslie made Three Point Jumper. Assisted by DD Rogers.,16,17,-1,17,0.4729965263134973,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,NC State
+59,1,2:37,1957,1957,Arike Ogunbowale made Jumper.,16,19,-3,20,0.41897908932055017,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,Notre Dame
+60,1,2:17,1937,1937,Aislinn Konig missed Three Point Jumper.,16,19,-3,0,0.41822421801601556,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+61,1,2:17,1937,1937,Arike Ogunbowale Defensive Rebound.,16,19,-3,8,0.41822421801601556,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+62,1,2:09,1929,1929,Jackie Young made Layup. Assisted by Arike Ogunbowale.,16,21,-5,19,0.3653547809158354,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,Notre Dame
+63,1,1:50,1910,1910,Foul on Mikayla Vaughn.,16,21,-5,1,0.3642072394642703,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+64,1,1:49,1909,1909,Aislinn Konig made Three Point Jumper. Assisted by Elissa Cunane.,19,21,-2,16,0.44448878225763816,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,NC State
+65,1,1:33,1893,1893,Arike Ogunbowale missed Three Point Jumper.,19,21,-2,0,0.44407756204327364,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+66,1,1:33,1893,1893,NC State Defensive Rebound.,19,21,-2,19,0.44407756204327364,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+67,1,1:14,1874,1874,Kayla Jones made Jumper.,21,21,0,18,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,NC State
+68,1,0:56,1856,1856,Foul on Kiara Leslie.,21,21,0,0,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+69,1,0:56,1856,1856,Arike Ogunbowale made Free Throw.,21,22,-1,0,0.4714700853215193,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,Notre Dame
+70,1,0:56,1856,1856,Arike Ogunbowale made Free Throw.,21,23,-2,31,0.443125344518527,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,Notre Dame
+71,1,0:25,1825,1825,NC State  Turnover.,21,23,-2,19,0.44232164250227196,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+72,1,0:06,1806,1806,Arike Ogunbowale missed Jumper.,21,23,-2,0,0.44182428013957953,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+73,1,0:06,1806,1806,Kai Crutchfield Defensive Rebound.,21,23,-2,6,0.44182428013957953,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+74,1,0:00,1800,1800,End of 1st Quarter,21,23,-2,0,0.44166625058836706,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+75,2,10:00,1800,1800,Jump Ball won by Notre Dame,21,23,-2,8,0.44166625058836706,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+76,2,9:52,1792,1792,Abby Prohaska Turnover.,21,23,-2,12,0.44145472764641835,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+77,2,9:40,1780,1780,Kai Crutchfield missed Three Point Jumper.,21,23,-2,0,0.4411355337061376,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+78,2,9:40,1780,1780,DD Rogers Offensive Rebound.,21,23,-2,5,0.4411355337061376,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+79,2,9:35,1775,1775,DD Rogers missed Layup.,21,23,-2,0,0.4410018057886836,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+80,2,9:35,1775,1775,Elissa Cunane Offensive Rebound.,21,23,-2,1,0.4410018057886836,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+81,2,9:34,1774,1774,Foul on Brianna Turner.,21,23,-2,1,0.4409750058934215,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+82,2,9:33,1773,1773,DD Rogers made Layup. Assisted by Kayla Jones.,23,23,0,13,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,NC State
+83,2,9:20,1760,1760,Arike Ogunbowale missed Jumper.,23,23,0,0,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+84,2,9:20,1760,1760,Elissa Cunane Defensive Rebound.,23,23,0,10,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+85,2,9:10,1750,1750,Kai Crutchfield missed Jumper.,23,23,0,0,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+86,2,9:10,1750,1750,Notre Dame Defensive Rebound.,23,23,0,29,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+87,2,8:41,1721,1721,Arike Ogunbowale missed Three Point Jumper.,23,23,0,0,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+88,2,8:41,1721,1721,DD Rogers Defensive Rebound.,23,23,0,19,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+89,2,8:22,1702,1702,DD Rogers missed Layup.,23,23,0,0,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+90,2,8:22,1702,1702,Jessica Shepard Defensive Rebound.,23,23,0,6,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+91,2,8:16,1696,1696,Brianna Turner missed Layup.,23,23,0,2,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+92,2,8:14,1694,1694,DD Rogers Defensive Rebound.,23,23,0,1,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+93,2,8:13,1693,1693,Foul on Abby Prohaska.,23,23,0,15,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+94,2,7:58,1678,1678,Elissa Cunane missed Layup.,23,23,0,0,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+95,2,7:58,1678,1678,Jackie Young Defensive Rebound.,23,23,0,10,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+96,2,7:48,1668,1668,Foul on Kayla Jones.,23,23,0,0,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+97,2,7:48,1668,1668,Jackie Young missed Free Throw.,23,23,0,0,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+98,2,7:48,1668,1668,Notre Dame Deadball Team Rebound.,23,23,0,0,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+99,2,7:48,1668,1668,Jackie Young missed Free Throw.,23,23,0,0,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+100,2,7:48,1668,1668,Kiara Leslie Defensive Rebound.,23,23,0,18,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+101,2,7:30,1650,1650,Foul on Abby Prohaska.,23,23,0,3,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+102,2,7:27,1647,1647,Kai Crutchfield missed Three Point Jumper.,23,23,0,0,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+103,2,7:27,1647,1647,Elissa Cunane Offensive Rebound.,23,23,0,5,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+104,2,7:22,1642,1642,Elissa Cunane missed Layup.,23,23,0,0,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+105,2,7:22,1642,1642,Jackie Young Block.,23,23,0,0,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+106,2,7:22,1642,1642,Jessica Shepard Defensive Rebound.,23,23,0,5,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+107,2,7:17,1637,1637,Jessica Shepard Turnover.,23,23,0,0,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+108,2,7:17,1637,1637,Kai Crutchfield Steal.,23,23,0,5,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+109,2,7:12,1632,1632,Kiara Leslie missed Three Point Jumper.,23,23,0,0,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+110,2,7:12,1632,1632,Jessica Shepard Defensive Rebound.,23,23,0,10,0.5,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+111,2,7:02,1622,1622,Brianna Turner made Layup. Assisted by Arike Ogunbowale.,23,25,-2,27,0.4367593219887009,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,Notre Dame
+112,2,6:35,1595,1595,Kayla Jones Turnover.,23,25,-2,0,0.4360346033793481,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+113,2,6:35,1595,1595,Jackie Young Steal.,23,25,-2,6,0.4360346033793481,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+114,2,6:29,1589,1589,Marina Mabrey made Layup. Assisted by Arike Ogunbowale.,23,27,-4,21,0.37382253415405664,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,Notre Dame
+115,2,6:08,1568,1568,Elissa Cunane missed Layup.,23,27,-4,0,0.37274426220437046,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+116,2,6:08,1568,1568,Brianna Turner Defensive Rebound.,23,27,-4,6,0.37274426220437046,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+117,2,6:02,1562,1562,Jessica Shepard made Layup. Assisted by Jackie Young.,23,29,-6,27,0.3137416815414643,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,Notre Dame
+118,2,5:35,1535,1535,Elissa Cunane made Layup. Assisted by Aislinn Konig.,25,29,-4,11,0.37101651812761693,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,NC State
+119,2,5:24,1524,1524,Marina Mabrey made Three Point Jumper.,25,32,-7,29,0.28329400380470837,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,Notre Dame
+120,2,4:55,1495,1495,Aislinn Konig Turnover.,25,32,-7,0,0.28085266843786844,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+121,2,4:55,1495,1495,Jackie Young Steal.,25,32,-7,3,0.28085266843786844,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,
+122,2,4:52,1492,1492,Jackie Young made Layup.,25,34,-9,8,0.2296080441015675,NC State,Notre Dame,4,4,0,0,NA,401092109,2019-02-18,Notre Dame
+123,2,4:44,1484,1484,NC State  Timeout,25,34,-9,0,0.22882158203137026,NC State,Notre Dame,3,4,1,0,NA,401092109,2019-02-18,
+124,2,4:44,1484,1484,Official TV Timeout,25,34,-9,27,0.22882158203137026,NC State,Notre Dame,3,4,1,0,NA,401092109,2019-02-18,
+125,2,4:17,1457,1457,Kai Crutchfield made Jumper.,27,34,-7,15,0.2774542085882186,NC State,Notre Dame,3,4,1,0,NA,401092109,2019-02-18,NC State
+126,2,4:02,1442,1442,Marina Mabrey missed Layup.,27,34,-7,0,0.2760493173476919,NC State,Notre Dame,3,4,1,0,NA,401092109,2019-02-18,
+127,2,4:02,1442,1442,Brianna Turner Offensive Rebound.,27,34,-7,0,0.2760493173476919,NC State,Notre Dame,3,4,1,0,NA,401092109,2019-02-18,
+128,2,4:02,1442,1442,Brianna Turner made Two Point Tip Shot.,27,36,-9,11,0.22450329051671547,NC State,Notre Dame,3,4,1,0,NA,401092109,2019-02-18,Notre Dame
+129,2,3:51,1431,1431,Elissa Cunane made Layup. Assisted by Kiara Leslie.,29,36,-7,14,0.2750424936308125,NC State,Notre Dame,3,4,1,0,NA,401092109,2019-02-18,NC State
+130,2,3:37,1417,1417,Foul on Brianna Turner.,29,36,-7,0,0.27379322159832986,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+131,2,3:37,1417,1417,Brianna Turner Turnover.,29,36,-7,20,0.27379322159832986,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+132,2,3:17,1397,1397,Kiara Leslie missed Three Point Jumper.,29,36,-7,0,0.27205658676911476,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+133,2,3:17,1397,1397,Jessica Shepard Defensive Rebound.,29,36,-7,14,0.27205658676911476,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+134,2,3:03,1383,1383,Mikayla Vaughn Turnover.,29,36,-7,24,0.27086394223566623,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+135,2,2:39,1359,1359,DD Rogers missed Jumper.,29,36,-7,0,0.26883921717211345,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+136,2,2:39,1359,1359,Jessica Shepard Defensive Rebound.,29,36,-7,2,0.26883921717211345,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+137,2,2:37,1357,1357,Foul on DD Rogers.,29,36,-7,8,0.268670676753949,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+138,2,2:29,1349,1349,Jessica Shepard missed Jumper.,29,36,-7,0,0.26799558106974414,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+139,2,2:29,1349,1349,Notre Dame Offensive Rebound.,29,36,-7,5,0.26799558106974414,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+140,2,2:24,1344,1344,Jackie Young missed Jumper.,29,36,-7,0,0.2675724530569702,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+141,2,2:24,1344,1344,Kiara Leslie Defensive Rebound.,29,36,-7,3,0.2675724530569702,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+142,2,2:21,1341,1341,Foul on Jessica Shepard.,29,36,-7,0,0.26731796525156076,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+143,2,2:21,1341,1341,Kiara Leslie missed Free Throw.,29,36,-7,0,0.26731796525156076,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+144,2,2:21,1341,1341,NC State Deadball Team Rebound.,29,36,-7,0,0.26731796525156076,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+145,2,2:21,1341,1341,Kiara Leslie made Free Throw.,30,36,-6,10,0.29645550309777874,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,NC State
+146,2,2:11,1331,1331,Arike Ogunbowale missed Jumper.,30,36,-6,0,0.2956770470101613,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+147,2,2:11,1331,1331,Arike Ogunbowale Offensive Rebound.,30,36,-6,5,0.2956770470101613,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+148,2,2:06,1326,1326,Arike Ogunbowale made Jumper.,30,38,-8,18,0.2387028424875487,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,Notre Dame
+149,2,1:48,1308,1308,Foul on Mikayla Vaughn.,30,38,-8,0,0.23703493280160537,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+150,2,1:48,1308,1308,Elissa Cunane made Free Throw.,31,38,-7,0,0.2644669603289633,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,NC State
+151,2,1:48,1308,1308,Elissa Cunane made Free Throw.,32,38,-6,8,0.2938509764939525,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,NC State
+152,2,1:40,1300,1300,Arike Ogunbowale missed Jumper.,32,38,-6,0,0.2932001250836879,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+153,2,1:40,1300,1300,Kayla Jones Defensive Rebound.,32,38,-6,13,0.2932001250836879,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+154,2,1:27,1287,1287,Aislinn Konig missed Jumper.,32,38,-6,0,0.29212046569890726,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+155,2,1:27,1287,1287,Kayla Jones Offensive Rebound.,32,38,-6,6,0.29212046569890726,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+156,2,1:21,1281,1281,Kayla Jones made Layup.,34,38,-4,11,0.3562419883956697,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,NC State
+157,2,1:10,1270,1270,Marina Mabrey made Jumper.,34,40,-6,14,0.29065988718517793,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,Notre Dame
+158,2,0:56,1256,1256,Elissa Cunane made Layup. Assisted by Kiara Leslie.,36,40,-4,11,0.3546091475610365,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,NC State
+159,2,0:45,1245,1245,Marina Mabrey missed Three Point Jumper.,36,40,-4,0,0.35385286720955367,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+160,2,0:45,1245,1245,Jessica Shepard Offensive Rebound.,36,40,-4,4,0.35385286720955367,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+161,2,0:41,1241,1241,Foul on Kayla Jones.,36,40,-4,0,0.35357142588618623,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+162,2,0:41,1241,1241,Jessica Shepard missed Free Throw.,36,40,-4,0,0.35357142588618623,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+163,2,0:41,1241,1241,Notre Dame Deadball Team Rebound.,36,40,-4,0,0.35357142588618623,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+164,2,0:41,1241,1241,Jessica Shepard made Free Throw.,36,41,-5,11,0.31990215565534597,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,Notre Dame
+165,2,0:30,1230,1230,Elissa Cunane missed Jumper.,36,41,-5,0,0.31895897757551794,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+166,2,0:30,1230,1230,Danielle Patterson Block.,36,41,-5,0,0.31895897757551794,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+167,2,0:30,1230,1230,Arike Ogunbowale Defensive Rebound.,36,41,-5,29,0.31895897757551794,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+168,2,0:01,1201,1201,Foul on Kiara Leslie.,36,41,-5,0,0.31632175920889233,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+169,2,0:01,1201,1201,Jackie Young missed Jumper.,36,41,-5,0,0.31632175920889233,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+170,2,0:01,1201,1201,NC State Deadball Team Rebound.,36,41,-5,1,0.31632175920889233,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+171,2,0:00,1200,1200,End of 2nd Quarter,36,41,-5,0,0.3162303721963287,NC State,Notre Dame,3,4,0,0,NA,401092109,2019-02-18,
+172,3,10:00,1200,1200,Jump Ball won by NC State,36,41,-5,10,0.3162303721963287,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+173,3,9:50,1190,1190,Kiara Leslie made Layup. Assisted by Aislinn Konig.,38,41,-3,15,0.3857531234098843,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,NC State
+174,3,9:35,1175,1175,Marina Mabrey made Jumper.,38,43,-5,15,0.31400145758827086,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,Notre Dame
+175,3,9:20,1160,1160,Elissa Cunane missed Jumper.,38,43,-5,0,0.3127032683039024,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+176,3,9:20,1160,1160,Jessica Shepard Defensive Rebound.,38,43,-5,13,0.3127032683039024,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+177,3,9:07,1147,1147,Jessica Shepard made Layup. Assisted by Marina Mabrey.,38,45,-7,28,0.2479157142369214,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,Notre Dame
+178,3,8:39,1119,1119,Kiara Leslie made Three Point Jumper.,41,45,-4,15,0.3445592848537169,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,NC State
+179,3,8:24,1104,1104,Marina Mabrey missed Three Point Jumper.,41,45,-4,0,0.34347205609746995,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+180,3,8:24,1104,1104,Elissa Cunane Defensive Rebound.,41,45,-4,11,0.34347205609746995,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+181,3,8:13,1093,1093,Elissa Cunane made Three Point Jumper. Assisted by Kiara Leslie.,44,45,-1,17,0.4593744798069461,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,NC State
+182,3,7:56,1076,1076,Arike Ogunbowale missed Jumper.,44,45,-1,0,0.45902284431402945,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+183,3,7:56,1076,1076,Aislinn Konig Defensive Rebound.,44,45,-1,15,0.45902284431402945,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+184,3,7:41,1061,1061,DD Rogers Turnover.,44,45,-1,0,0.45870254352648077,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+185,3,7:41,1061,1061,Jessica Shepard Steal.,44,45,-1,5,0.45870254352648077,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+186,3,7:36,1056,1056,Jackie Young Turnover.,44,45,-1,10,0.45859326849932336,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+187,3,7:26,1046,1046,Aislinn Konig Turnover.,44,45,-1,0,0.458370448552782,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+188,3,7:26,1046,1046,Jessica Shepard Steal.,44,45,-1,5,0.458370448552782,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+189,3,7:21,1041,1041,Jackie Young made Layup. Assisted by Jessica Shepard.,44,47,-3,18,0.37705013472418697,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,Notre Dame
+190,3,7:03,1023,1023,Aislinn Konig made Three Point Jumper. Assisted by Kai Crutchfield.,47,47,0,14,0.5,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,NC State
+191,3,6:49,1009,1009,Marina Mabrey made Jumper.,47,49,-2,17,0.4155829375044146,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,Notre Dame
+192,3,6:32,992,992,Elissa Cunane Turnover.,47,49,-2,0,0.41471346462945474,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+193,3,6:32,992,992,Jackie Young Steal.,47,49,-2,6,0.41471346462945474,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+194,3,6:26,986,986,Jackie Young made Layup.,47,51,-4,0,0.3336632610118589,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,Notre Dame
+195,3,6:26,986,986,Foul on Kai Crutchfield.,47,51,-4,0,0.3336632610118589,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+196,3,6:26,986,986,Jackie Young missed Free Throw.,47,51,-4,0,0.3336632610118589,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+197,3,6:26,986,986,DD Rogers Defensive Rebound.,47,51,-4,13,0.3336632610118589,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+198,3,6:13,973,973,Foul on Jessica Shepard.,47,51,-4,16,0.33234853862650837,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+199,3,5:57,957,957,Aislinn Konig missed Three Point Jumper.,47,51,-4,0,0.33072602049106065,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+200,3,5:57,957,957,Jackie Young Defensive Rebound.,47,51,-4,5,0.33072602049106065,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+201,3,5:52,952,952,Marina Mabrey made Three Point Jumper. Assisted by Jackie Young.,47,54,-7,22,0.22489507808354522,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,Notre Dame
+202,3,5:30,930,930,Kai Crutchfield missed Three Point Jumper.,47,54,-7,0,0.22219109266647533,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+203,3,5:30,930,930,Arike Ogunbowale Defensive Rebound.,47,54,-7,7,0.22219109266647533,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+204,3,5:23,923,923,Arike Ogunbowale missed Layup.,47,54,-7,0,0.221387502311883,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+205,3,5:23,923,923,Notre Dame Offensive Rebound.,47,54,-7,4,0.221387502311883,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+206,3,5:19,919,919,Brianna Turner made Layup. Assisted by Jessica Shepard.,47,56,-9,0,0.16516803474923805,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,Notre Dame
+207,3,5:19,919,919,Foul on DD Rogers.,47,56,-9,0,0.16516803474923805,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+208,3,5:19,919,919,Brianna Turner made Free Throw.,47,57,-10,17,0.14181493984201646,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,Notre Dame
+209,3,5:02,902,902,Elissa Cunane missed Layup.,47,57,-10,0,0.1399540624029756,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+210,3,5:02,902,902,Brianna Turner Block.,47,57,-10,0,0.1399540624029756,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+211,3,5:02,902,902,Arike Ogunbowale Defensive Rebound.,47,57,-10,5,0.1399540624029756,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,
+212,3,4:57,897,897,Jackie Young made Layup. Assisted by Arike Ogunbowale.,47,59,-12,9,0.10118684484834257,NC State,Notre Dame,4,5,0,0,NA,401092109,2019-02-18,Notre Dame
+213,3,4:48,888,888,NC State  Timeout,47,59,-12,0,0.1003297519209988,NC State,Notre Dame,3,5,1,0,NA,401092109,2019-02-18,
+214,3,4:48,888,888,Official TV Timeout,47,59,-12,17,0.1003297519209988,NC State,Notre Dame,3,5,1,0,NA,401092109,2019-02-18,
+215,3,4:31,871,871,Foul on Brianna Turner.,47,59,-12,0,0.09873419663132128,NC State,Notre Dame,3,5,1,0,NA,401092109,2019-02-18,
+216,3,4:31,871,871,Official TV Timeout,47,59,-12,0,0.09873419663132128,NC State,Notre Dame,3,5,1,0,NA,401092109,2019-02-18,
+217,3,4:31,871,871,Elissa Cunane made Free Throw.,48,59,-11,0,0.11638805012603003,NC State,Notre Dame,3,5,1,0,NA,401092109,2019-02-18,NC State
+218,3,4:31,871,871,Elissa Cunane made Free Throw.,49,59,-10,16,0.1367196058441308,NC State,Notre Dame,3,5,1,0,NA,401092109,2019-02-18,NC State
+219,3,4:15,855,855,Mikayla Vaughn missed Layup.,49,59,-10,0,0.1350528357102451,NC State,Notre Dame,3,5,1,0,NA,401092109,2019-02-18,
+220,3,4:15,855,855,Mikayla Vaughn Offensive Rebound.,49,59,-10,10,0.1350528357102451,NC State,Notre Dame,3,5,1,0,NA,401092109,2019-02-18,
+221,3,4:05,845,845,Mikayla Vaughn missed Layup.,49,59,-10,0,0.1339892074616592,NC State,Notre Dame,3,5,1,0,NA,401092109,2019-02-18,
+222,3,4:05,845,845,Jackie Young Offensive Rebound.,49,59,-10,1,0.1339892074616592,NC State,Notre Dame,3,5,1,0,NA,401092109,2019-02-18,
+223,3,4:04,844,844,Marina Mabrey Turnover.,49,59,-10,0,0.133881479053359,NC State,Notre Dame,3,5,1,0,NA,401092109,2019-02-18,
+224,3,4:04,844,844,Kiara Leslie Steal.,49,59,-10,5,0.133881479053359,NC State,Notre Dame,3,5,1,0,NA,401092109,2019-02-18,
+225,3,3:59,839,839,Kiara Leslie missed Layup.,49,59,-10,0,0.13333841965101273,NC State,Notre Dame,3,5,1,0,NA,401092109,2019-02-18,
+226,3,3:59,839,839,Jessica Shepard Defensive Rebound.,49,59,-10,8,0.13333841965101273,NC State,Notre Dame,3,5,1,0,NA,401092109,2019-02-18,
+227,3,3:51,831,831,Mikayla Vaughn made Layup. Assisted by Arike Ogunbowale.,49,61,-12,10,0.09488992100377508,NC State,Notre Dame,3,5,1,0,NA,401092109,2019-02-18,Notre Dame
+228,3,3:41,821,821,Kayla Jones missed Three Point Jumper.,49,61,-12,0,0.09386537364966337,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,
+229,3,3:41,821,821,Marina Mabrey Defensive Rebound.,49,61,-12,8,0.09386537364966337,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,
+230,3,3:33,813,813,Jessica Shepard made Layup. Assisted by Jackie Young.,49,63,-14,16,0.06556543544896927,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,Notre Dame
+231,3,3:17,797,797,Aislinn Konig Turnover.,49,63,-14,10,0.06405562077429051,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,
+232,3,3:07,787,787,Arike Ogunbowale missed Layup.,49,63,-14,0,0.0630565227891434,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,
+233,3,3:07,787,787,Arike Ogunbowale Offensive Rebound.,49,63,-14,3,0.0630565227891434,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,
+234,3,3:04,784,784,Arike Ogunbowale made Layup.,49,65,-16,10,0.04351776062768965,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,Notre Dame
+235,3,2:54,774,774,Foul on Mikayla Vaughn.,49,65,-16,0,0.04266005428879847,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,
+236,3,2:54,774,774,Elissa Cunane made Free Throw.,50,65,-15,0,0.05134563521644348,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,NC State
+237,3,2:54,774,774,Elissa Cunane made Free Throw.,51,65,-14,14,0.06168565441995785,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,NC State
+238,3,2:40,760,760,Jackie Young Turnover.,51,65,-14,12,0.06010993444035547,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,
+239,3,2:28,748,748,Kiara Leslie made Three Point Jumper. Assisted by Aislinn Konig.,54,65,-11,16,0.101504020902138,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,NC State
+240,3,2:12,732,732,Marina Mabrey missed Jumper.,54,65,-11,0,0.09883058355334645,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,
+241,3,2:12,732,732,Aislinn Konig Block.,54,65,-11,0,0.09883058355334645,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,
+242,3,2:12,732,732,Mikayla Vaughn Offensive Rebound.,54,65,-11,6,0.09883058355334645,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,
+243,3,2:06,726,726,Mikayla Vaughn made Layup.,54,67,-13,11,0.06748121511645323,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,Notre Dame
+244,3,1:55,715,715,Elissa Cunane made Layup. Assisted by Aislinn Konig.,56,67,-11,23,0.09601342204919083,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,NC State
+245,3,1:32,692,692,Foul on Elissa Cunane.,56,67,-11,0,0.09276231497097576,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,
+246,3,1:32,692,692,Arike Ogunbowale made Free Throw.,56,68,-12,0,0.07672710457636814,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,Notre Dame
+247,3,1:32,692,692,Arike Ogunbowale made Free Throw.,56,69,-13,11,0.06327048382629177,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,Notre Dame
+248,3,1:21,681,681,Foul on Marina Mabrey.,56,69,-13,18,0.06210590622496289,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,
+249,3,1:03,663,663,DD Rogers missed Layup.,56,69,-13,0,0.060302658269763304,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,
+250,3,1:03,663,663,Mikayla Vaughn Block.,56,69,-13,0,0.060302658269763304,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,
+251,3,1:03,663,663,Jessica Shepard Defensive Rebound.,56,69,-13,11,0.060302658269763304,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,
+252,3,0:52,652,652,Jessica Shepard made Layup. Assisted by Marina Mabrey.,56,71,-15,10,0.03951467839065309,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,Notre Dame
+253,3,0:42,642,642,Kiara Leslie made Three Point Jumper.,59,71,-12,20,0.07115873507890584,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,NC State
+254,3,0:22,622,622,Foul on Kiara Leslie.,59,71,-12,0,0.06888720187974086,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,
+255,3,0:22,622,622,Arike Ogunbowale made Free Throw.,59,72,-13,0,0.056205039405964545,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,Notre Dame
+256,3,0:22,622,622,Arike Ogunbowale made Free Throw.,59,73,-14,16,0.04574296654258085,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,Notre Dame
+257,3,0:06,606,606,Kai Crutchfield Turnover.,59,73,-14,0,0.0441872129670353,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,
+258,3,0:06,606,606,Marina Mabrey Steal.,59,73,-14,5,0.0441872129670353,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,
+259,3,0:01,601,601,Jackie Young made Layup. Assisted by Marina Mabrey.,59,75,-16,1,0.028546878337109918,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,Notre Dame
+260,3,0:00,600,600,End of 3rd Quarter,59,75,-16,0,0.028467740896911738,NC State,Notre Dame,3,5,0,0,NA,401092109,2019-02-18,
+261,4,10:00,600,600,Jump Ball won by NC State,59,75,-16,9,0.028467740896911738,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+262,4,9:51,591,591,Kayla Jones missed Three Point Jumper.,59,75,-16,0,0.027736200811994006,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+263,4,9:51,591,591,Jackie Young Defensive Rebound.,59,75,-16,13,0.027736200811994006,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+264,4,9:38,578,578,Arike Ogunbowale missed Three Point Jumper.,59,75,-16,0,0.026613551624234087,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+265,4,9:38,578,578,Kiara Leslie Defensive Rebound.,59,75,-16,9,0.026613551624234087,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+266,4,9:29,569,569,Elissa Cunane missed Three Point Jumper.,59,75,-16,0,0.025787418375411823,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+267,4,9:29,569,569,Brianna Turner Defensive Rebound.,59,75,-16,11,0.025787418375411823,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+268,4,9:18,558,558,Arike Ogunbowale made Layup. Assisted by Brianna Turner.,59,77,-18,0,0.015759306628052416,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,Notre Dame
+269,4,9:18,558,558,Foul on Kiara Leslie.,59,77,-18,0,0.015759306628052416,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+270,4,9:18,558,558,Arike Ogunbowale made Free Throw.,59,78,-19,16,0.012565806951930918,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,Notre Dame
+271,4,9:02,542,542,Elissa Cunane missed Jumper.,59,78,-19,0,0.011599130794442377,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+272,4,9:02,542,542,Jackie Young Defensive Rebound.,59,78,-19,21,0.011599130794442377,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+273,4,8:41,521,521,Arike Ogunbowale missed Jumper.,59,78,-19,0,0.010602005311819538,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+274,4,8:41,521,521,Jessica Shepard Offensive Rebound.,59,78,-19,7,0.010602005311819538,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+275,4,8:34,514,514,Jessica Shepard missed Jumper.,59,78,-19,0,0.010319525779687058,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+276,4,8:34,514,514,DD Rogers Defensive Rebound.,59,78,-19,14,0.010319525779687058,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+277,4,8:20,500,500,DD Rogers Turnover.,59,78,-19,0,0.009790772903304682,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+278,4,8:20,500,500,Arike Ogunbowale Steal.,59,78,-19,4,0.009790772903304682,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+279,4,8:16,496,496,Arike Ogunbowale made Layup.,59,80,-21,26,0.0059446585785048675,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,Notre Dame
+280,4,7:50,470,470,Kayla Jones missed Three Point Jumper.,59,80,-21,0,0.0052748865878118525,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+281,4,7:50,470,470,Jackie Young Defensive Rebound.,59,80,-21,13,0.0052748865878118525,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+282,4,7:37,457,457,Jackie Young made Jumper.,59,82,-23,21,0.0029636855276236104,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,Notre Dame
+283,4,7:16,436,436,Aislinn Konig missed Three Point Jumper.,59,82,-23,0,0.00252263700065439,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+284,4,7:16,436,436,Notre Dame Defensive Rebound.,59,82,-23,17,0.00252263700065439,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,
+285,4,6:59,419,419,Jessica Shepard made Layup. Assisted by Brianna Turner.,59,84,-25,13,0.0012654766123182649,NC State,Notre Dame,4,6,0,0,NA,401092109,2019-02-18,Notre Dame
+286,4,6:46,406,406,NC State  Timeout,59,84,-25,0,0.0011198440257634541,NC State,Notre Dame,3,6,1,0,NA,401092109,2019-02-18,
+287,4,6:46,406,406,Official TV Timeout,59,84,-25,6,0.0011198440257634541,NC State,Notre Dame,3,6,1,0,NA,401092109,2019-02-18,
+288,4,6:40,400,400,Aislinn Konig Turnover.,59,84,-25,16,0.0010601765095965183,NC State,Notre Dame,3,6,1,0,NA,401092109,2019-02-18,
+289,4,6:24,384,384,Arike Ogunbowale Turnover.,59,84,-25,0,9.161509052294554e-4,NC State,Notre Dame,3,6,1,0,NA,401092109,2019-02-18,
+290,4,6:24,384,384,Elissa Cunane Steal.,59,84,-25,7,9.161509052294554e-4,NC State,Notre Dame,3,6,1,0,NA,401092109,2019-02-18,
+291,4,6:17,377,377,Kiara Leslie made Jumper.,61,84,-23,19,0.001507966719652819,NC State,Notre Dame,3,6,1,0,NA,401092109,2019-02-18,NC State
+292,4,5:58,358,358,Marina Mabrey made Layup.,61,86,-25,32,7.069266677490035e-4,NC State,Notre Dame,3,6,1,0,NA,401092109,2019-02-18,Notre Dame
+293,4,5:26,326,326,Kai Crutchfield missed Three Point Jumper.,61,86,-25,0,4.6722664338206334e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,
+294,4,5:26,326,326,NC State Offensive Rebound.,61,86,-25,2,4.6722664338206334e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,
+295,4,5:24,324,324,NC State  Turnover.,61,86,-25,9,4.529297972895836e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,
+296,4,5:15,315,315,Jackie Young missed Jumper.,61,86,-25,0,3.9015225146270396e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,
+297,4,5:15,315,315,Kiara Leslie Block.,61,86,-25,0,3.9015225146270396e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,
+298,4,5:15,315,315,Brianna Turner Offensive Rebound.,61,86,-25,4,3.9015225146270396e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,
+299,4,5:11,311,311,Foul on DD Rogers.,61,86,-25,0,3.632117231402701e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,
+300,4,5:11,311,311,Brianna Turner missed Free Throw.,61,86,-25,0,3.632117231402701e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,
+301,4,5:11,311,311,Notre Dame Deadball Team Rebound.,61,86,-25,0,3.632117231402701e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,
+302,4,5:11,311,311,Brianna Turner made Free Throw.,61,87,-26,12,2.6461557077612943e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,Notre Dame
+303,4,4:59,299,299,Aislinn Konig Turnover.,61,87,-26,0,2.23826227312566e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,
+304,4,4:59,299,299,Brianna Turner Steal.,61,87,-26,5,2.23826227312566e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,
+305,4,4:54,294,294,Jackie Young made Layup. Assisted by Arike Ogunbowale.,61,89,-28,22,1.1350223990767605e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,Notre Dame
+306,4,4:32,272,272,Kiara Leslie missed Jumper.,61,89,-28,0,1.2003761371567427e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,
+307,4,4:32,272,272,Kai Crutchfield Offensive Rebound.,61,89,-28,8,1.2003761371567427e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,
+308,4,4:24,264,264,Kai Crutchfield made Three Point Jumper. Assisted by Aislinn Konig.,64,89,-25,21,3.345951218534615e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,NC State
+309,4,4:03,243,243,Jessica Shepard missed Layup.,64,89,-25,0,3.8291510566032045e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,
+310,4,4:03,243,243,Arike Ogunbowale Offensive Rebound.,64,89,-25,26,3.8291510566032045e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,
+311,4,3:37,217,217,Jessica Shepard made Layup. Assisted by Jackie Young.,64,91,-27,19,1.7828102973508882e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,Notre Dame
+312,4,3:18,198,198,Kiara Leslie missed Three Point Jumper.,64,91,-27,0,1.0257002681863298e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,
+313,4,3:18,198,198,Arike Ogunbowale Defensive Rebound.,64,91,-27,6,1.0257002681863298e-4,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,
+314,4,3:12,192,192,Marina Mabrey made Layup. Assisted by Arike Ogunbowale.,64,93,-29,13,3.821450341979691e-5,NC State,Notre Dame,3,6,0,0,NA,401092109,2019-02-18,Notre Dame
+315,4,2:59,179,179,NC State  Timeout,64,93,-29,6,1.7411894108691707e-5,NC State,Notre Dame,2,6,1,0,NA,401092109,2019-02-18,
+316,4,2:53,173,173,Kiara Leslie missed Jumper.,64,93,-29,0,1.1990944115928574e-5,NC State,Notre Dame,2,6,1,0,NA,401092109,2019-02-18,
+317,4,2:53,173,173,Jackie Young Defensive Rebound.,64,93,-29,28,1.1990944115928574e-5,NC State,Notre Dame,2,6,1,0,NA,401092109,2019-02-18,
+318,4,2:25,145,145,Arike Ogunbowale missed Three Point Jumper.,64,93,-29,0,1.7586005286465612e-6,NC State,Notre Dame,2,6,1,0,NA,401092109,2019-02-18,
+319,4,2:25,145,145,Aislinn Konig Defensive Rebound.,64,93,-29,13,1.7586005286465612e-6,NC State,Notre Dame,2,6,1,0,NA,401092109,2019-02-18,
+320,4,2:12,132,132,Elissa Cunane made Layup. Assisted by Aislinn Konig.,66,93,-27,0,1.6467962719724457e-6,NC State,Notre Dame,2,6,1,0,NA,401092109,2019-02-18,NC State
+321,4,2:12,132,132,Foul on Mikayla Vaughn.,66,93,-27,0,1.6467962719724457e-6,NC State,Notre Dame,2,6,1,0,NA,401092109,2019-02-18,
+322,4,2:12,132,132,Elissa Cunane made Free Throw.,67,93,-26,16,2.6967327900254073e-6,NC State,Notre Dame,2,6,1,0,NA,401092109,2019-02-18,NC State
+323,4,1:56,116,116,Marina Mabrey missed Jumper.,67,93,-26,0,7.03381296709803e-7,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,
+324,4,1:56,116,116,Elissa Cunane Defensive Rebound.,67,93,-26,13,7.03381296709803e-7,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,
+325,4,1:43,103,103,Foul on Mikayla Vaughn.,67,93,-26,0,1.9655806994927887e-7,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,
+326,4,1:43,103,103,DD Rogers made Free Throw.,68,93,-25,0,3.5598644786706636e-7,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,NC State
+327,4,1:43,103,103,DD Rogers made Free Throw.,69,93,-24,15,6.447272030622578e-7,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,NC State
+328,4,1:28,88,88,Danielle Cosgrove missed Three Point Jumper.,69,93,-24,0,1.3549623424506417e-7,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,
+329,4,1:28,88,88,Jackie Young Offensive Rebound.,69,93,-24,12,1.3549623424506417e-7,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,
+330,4,1:16,76,76,Danielle Patterson missed Jumper.,69,93,-24,0,3.5468102198457507e-8,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,
+331,4,1:16,76,76,Jackie Young Offensive Rebound.,69,93,-24,3,3.5468102198457507e-8,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,
+332,4,1:13,73,73,Jump Ball won by Notre Dame,69,93,-24,1,2.490300172445547e-8,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,
+333,4,1:12,72,72,Danielle Cosgrove missed Three Point Jumper.,69,93,-24,0,2.208719280636671e-8,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,
+334,4,1:12,72,72,Esra McGoldrick Defensive Rebound.,69,93,-24,13,2.208719280636671e-8,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,
+335,4,0:59,59,59,Foul on Danielle Cosgrove.,69,93,-24,1,4.361594342213984e-9,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,
+336,4,0:58,58,58,Katie Wadsworth missed Three Point Jumper.,69,93,-24,0,3.833140164811404e-9,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,
+337,4,0:58,58,58,Abby Prohaska Defensive Rebound.,69,93,-24,19,3.833140164811404e-9,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,
+338,4,0:39,39,39,Danielle Cosgrove missed Three Point Jumper.,69,93,-24,0,2.84438602184684e-10,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,
+339,4,0:39,39,39,Katie Wadsworth Defensive Rebound.,69,93,-24,12,2.84438602184684e-10,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,
+340,4,0:27,27,27,Esra McGoldrick made Three Point Jumper. Assisted by Kai Crutchfield.,72,93,-21,14,9.286872942590371e-10,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,NC State
+341,4,0:13,13,13,Danielle Patterson made Jumper.,72,95,-23,13,1.5210258416416086e-11,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,Notre Dame
+342,4,0:00,0,0,End of Game,72,95,-23,0,1.6770203186015345e-200,NC State,Notre Dame,2,6,0,0,NA,401092109,2019-02-18,

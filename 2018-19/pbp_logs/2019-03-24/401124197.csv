@@ -1,0 +1,361 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Jump Ball won by South Carolina,0,0,0,19,0.5,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,NA
+2,1,9:41,2381,2381,Tyasha Harris made Layup.,2,0,2,0,0.5444265717083462,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,South Carolina
+3,1,9:41,2381,2381,Foul on Morgan Jones.,2,0,2,0,0.5444265717083462,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+4,1,9:41,2381,2381,Tyasha Harris made Free Throw.,3,0,3,9,0.5664211611662462,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,South Carolina
+5,1,9:32,2372,2372,Nicki Ekhomu made Three Point Jumper. Assisted by Nausia Woolfolk.,3,3,0,19,0.5,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,Florida State
+6,1,9:13,2353,2353,Alexis Jennings missed Jumper.,3,3,0,0,0.5,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+7,1,9:13,2353,2353,Kiah Gillespie Defensive Rebound.,3,3,0,14,0.5,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+8,1,8:59,2339,2339,Morgan Jones made Layup. Assisted by Valencia Myers.,3,5,-2,15,0.4546705050603555,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,Florida State
+9,1,8:44,2324,2324,Tyasha Harris missed Three Point Jumper.,3,5,-2,0,0.4543425759993232,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+10,1,8:44,2324,2324,Kiah Gillespie Defensive Rebound.,3,5,-2,16,0.4543425759993232,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+11,1,8:28,2308,2308,Nicki Ekhomu missed Jumper.,3,5,-2,0,0.4539899374231114,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+12,1,8:28,2308,2308,Nicki Ekhomu Offensive Rebound.,3,5,-2,1,0.4539899374231114,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+13,1,8:27,2307,2307,Nicki Ekhomu Turnover.,3,5,-2,22,0.4539678046865719,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+14,1,8:05,2285,2285,Destanni Henderson Turnover.,3,5,-2,0,0.45347829464029976,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+15,1,8:05,2285,2285,Morgan Jones Steal.,3,5,-2,6,0.45347829464029976,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+16,1,7:59,2279,2279,Morgan Jones made Layup.,3,7,-4,15,0.407493417154684,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,Florida State
+17,1,7:44,2264,2264,Destanni Henderson missed Three Point Jumper.,3,7,-4,0,0.4068364792306825,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+18,1,7:44,2264,2264,Kiah Gillespie Defensive Rebound.,3,7,-4,11,0.4068364792306825,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+19,1,7:33,2253,2253,Nausia Woolfolk missed Three Point Jumper.,3,7,-4,0,0.40635254024188056,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+20,1,7:33,2253,2253,Valencia Myers Offensive Rebound.,3,7,-4,8,0.40635254024188056,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+21,1,7:25,2245,2245,Valencia Myers missed Jumper.,3,7,-4,0,0.4059995132609002,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+22,1,7:25,2245,2245,Te'a Cooper Defensive Rebound.,3,7,-4,8,0.4059995132609002,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+23,1,7:17,2237,2237,Tyasha Harris missed Jumper.,3,7,-4,0,0.4056456439646893,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+24,1,7:17,2237,2237,Valencia Myers Defensive Rebound.,3,7,-4,0,0.4056456439646893,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+25,1,7:17,2237,2237,Foul on Morgan Jones.,3,7,-4,0,0.4056456439646893,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+26,1,7:17,2237,2237,Morgan Jones Turnover.,3,7,-4,9,0.4056456439646893,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+27,1,7:08,2228,2228,Doniyah Cliney made Layup.,5,7,-2,20,0.45219012861582764,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,South Carolina
+28,1,6:48,2208,2208,Kiah Gillespie missed Three Point Jumper.,5,7,-2,0,0.45173267366113046,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+29,1,6:48,2208,2208,Florida State Offensive Rebound.,5,7,-2,19,0.45173267366113046,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+30,1,6:29,2189,2189,Kiah Gillespie missed Three Point Jumper.,5,7,-2,0,0.4512960834893763,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+31,1,6:29,2189,2189,South Carolina Defensive Rebound.,5,7,-2,14,0.4512960834893763,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+32,1,6:15,2175,2175,Alexis Jennings Turnover.,5,7,-2,13,0.45097334763387426,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+33,1,6:02,2162,2162,Foul on Tyasha Harris.,5,7,-2,15,0.4506728879503894,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+34,1,5:47,2147,2147,Kiah Gillespie missed Jumper.,5,7,-2,0,0.4503246809153073,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+35,1,5:47,2147,2147,Sayawni Lassiter Offensive Rebound.,5,7,-2,13,0.4503246809153073,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+36,1,5:34,2134,2134,Nicki Ekhomu made Layup.,5,9,-4,9,0.4010317382941978,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,Florida State
+37,1,5:25,2125,2125,Destanni Henderson made Layup. Assisted by Tyasha Harris.,7,9,-2,9,0.4498106956225497,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,South Carolina
+38,1,5:16,2116,2116,Nicki Ekhomu made Jumper.,7,11,-4,5,0.400212401263518,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,Florida State
+39,1,5:11,2111,2111,Foul on Sayawni Lassiter.,7,11,-4,12,0.3999838910068344,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+40,1,4:59,2099,2099,Te'a Cooper made Three Point Jumper. Assisted by Tyasha Harris.,10,11,-1,35,0.4745329960623789,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,South Carolina
+41,1,4:24,2064,2064,Savannah Wilkinson missed Jumper.,10,11,-1,0,0.47411196907380904,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+42,1,4:24,2064,2064,Kiah Gillespie Offensive Rebound.,10,11,-1,5,0.47411196907380904,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+43,1,4:19,2059,2059,Kiah Gillespie missed Layup.,10,11,-1,0,0.4740512874837421,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+44,1,4:19,2059,2059,Kourtney Weber Offensive Rebound.,10,11,-1,5,0.4740512874837421,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+45,1,4:14,2054,2054,Kourtney Weber made Layup.,10,13,-3,19,0.4225299142988811,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,Florida State
+46,1,3:55,2035,2035,Alexis Jennings missed Layup.,10,13,-3,0,0.4218476259683945,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+47,1,3:55,2035,2035,Kiah Gillespie Defensive Rebound.,10,13,-3,13,0.4218476259683945,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+48,1,3:42,2022,2022,Kiah Gillespie made Three Point Jumper. Assisted by Sayawni Lassiter.,10,16,-6,19,0.34654885209663466,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,Florida State
+49,1,3:23,2003,2003,Destanni Henderson missed Three Point Jumper.,10,16,-6,0,0.34526285190081135,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+50,1,3:23,2003,2003,Savannah Wilkinson Defensive Rebound.,10,16,-6,9,0.34526285190081135,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+51,1,3:14,1994,1994,Kourtney Weber made Jumper. Assisted by Nicki Ekhomu.,10,18,-8,27,0.29799719110593087,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,Florida State
+52,1,2:47,1967,1967,Doniyah Cliney missed Three Point Jumper.,10,18,-8,0,0.2957104437536342,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+53,1,2:47,1967,1967,Savannah Wilkinson Defensive Rebound.,10,18,-8,16,0.2957104437536342,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+54,1,2:31,1951,1951,Nicki Ekhomu Turnover.,10,18,-8,0,0.2943437678019871,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+55,1,2:31,1951,1951,Destanni Henderson Steal.,10,18,-8,7,0.2943437678019871,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+56,1,2:24,1944,1944,Te'a Cooper made Layup.,12,18,-6,14,0.3411990565913868,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,South Carolina
+57,1,2:10,1930,1930,Savannah Wilkinson missed Three Point Jumper.,12,18,-6,0,0.34021788090756927,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+58,1,2:10,1930,1930,Alexis Jennings Defensive Rebound.,12,18,-6,9,0.34021788090756927,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+59,1,2:01,1921,1921,Te'a Cooper made Three Point Jumper. Assisted by Tyasha Harris.,15,18,-3,16,0.41761532587524786,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,South Carolina
+60,1,1:45,1905,1905,Savannah Wilkinson missed Layup.,15,18,-3,0,0.41700735833789904,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+61,1,1:45,1905,1905,Alexis Jennings Defensive Rebound.,15,18,-3,7,0.41700735833789904,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+62,1,1:38,1898,1898,Te'a Cooper made Jumper. Assisted by Alexis Jennings.,17,18,-1,20,0.4720156351671368,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,South Carolina
+63,1,1:18,1878,1878,Foul on Doniyah Cliney.,17,18,-1,0,0.4717561665119255,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+64,1,1:18,1878,1878,Official TV Timeout,17,18,-1,24,0.4717561665119255,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+65,1,0:54,1854,1854,Nausia Woolfolk made Jumper.,17,20,-3,18,0.41506997324697303,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,Florida State
+66,1,0:36,1836,1836,Te'a Cooper missed Jumper.,17,20,-3,0,0.4143823923767152,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+67,1,0:36,1836,1836,Te'a Cooper Offensive Rebound.,17,20,-3,12,0.4143823923767152,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+68,1,0:24,1824,1824,Doniyah Cliney missed Three Point Jumper.,17,20,-3,0,0.41392180679703694,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+69,1,0:24,1824,1824,Mikiah Herbert Harrigan Offensive Rebound.,17,20,-3,22,0.41392180679703694,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+70,1,0:02,1802,1802,Mikiah Herbert Harrigan made Three Point Jumper. Assisted by Tyasha Harris.,20,20,0,2,0.5,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,South Carolina
+71,1,0:00,1800,1800,End of 1st Quarter,20,20,0,0,0.5,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+72,2,10:00,1800,1800,Jump Ball won by South Carolina,20,20,0,22,0.5,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+73,2,9:38,1778,1778,Mikiah Herbert Harrigan missed Jumper.,20,20,0,0,0.5,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+74,2,9:38,1778,1778,Victaria Saxton Offensive Rebound.,20,20,0,14,0.5,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+75,2,9:24,1764,1764,Victaria Saxton missed Jumper.,20,20,0,0,0.5,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+76,2,9:24,1764,1764,Kiah Gillespie Block.,20,20,0,0,0.5,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+77,2,9:24,1764,1764,Nausia Woolfolk Defensive Rebound.,20,20,0,10,0.5,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+78,2,9:14,1754,1754,Nausia Woolfolk missed Layup.,20,20,0,0,0.5,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+79,2,9:14,1754,1754,Victaria Saxton Block.,20,20,0,0,0.5,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+80,2,9:14,1754,1754,Te'a Cooper Defensive Rebound.,20,20,0,7,0.5,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+81,2,9:07,1747,1747,Tyasha Harris made Three Point Jumper. Assisted by Destanni Henderson.,23,20,3,14,0.5891029374258591,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,South Carolina
+82,2,8:53,1733,1733,Valencia Myers missed Jumper.,23,20,3,0,0.5896706755804625,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+83,2,8:53,1733,1733,Morgan Jones Offensive Rebound.,23,20,3,7,0.5896706755804625,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+84,2,8:46,1726,1726,Morgan Jones missed Jumper.,23,20,3,0,0.5899571324615944,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+85,2,8:46,1726,1726,Mikiah Herbert Harrigan Defensive Rebound.,23,20,3,10,0.5899571324615944,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+86,2,8:36,1716,1716,Mikiah Herbert Harrigan missed Jumper.,23,20,3,0,0.5903695445027735,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+87,2,8:36,1716,1716,Valencia Myers Defensive Rebound.,23,20,3,18,0.5903695445027735,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+88,2,8:18,1698,1698,Valencia Myers made Jumper. Assisted by Nicki Ekhomu.,23,22,1,16,0.5306785443909293,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,Florida State
+89,2,8:02,1682,1682,Foul on Victaria Saxton.,23,22,1,0,0.5309111252196457,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+90,2,8:02,1682,1682,Victaria Saxton Turnover.,23,22,1,16,0.5309111252196457,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+91,2,7:46,1666,1666,Valencia Myers Turnover.,23,22,1,18,0.5311394391212894,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+92,2,7:28,1648,1648,Tyasha Harris missed Jumper.,23,22,1,0,0.5313910478582424,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+93,2,7:28,1648,1648,Sayawni Lassiter Defensive Rebound.,23,22,1,16,0.5313910478582424,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+94,2,7:12,1632,1632,Nicki Ekhomu made Jumper.,23,24,-1,27,0.46838871602454246,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,Florida State
+95,2,6:45,1605,1605,Mikiah Herbert Harrigan missed Jumper.,23,24,-1,0,0.4680211158672352,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+96,2,6:45,1605,1605,Bianca Jackson Offensive Rebound.,23,24,-1,2,0.4680211158672352,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+97,2,6:43,1603,1603,Bianca Jackson Turnover.,23,24,-1,22,0.46799396900193746,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+98,2,6:21,1581,1581,Nausia Woolfolk missed Jumper.,23,24,-1,0,0.467694874775941,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+99,2,6:21,1581,1581,Alexis Jennings Defensive Rebound.,23,24,-1,20,0.467694874775941,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+100,2,6:01,1561,1561,Foul on Kiah Gillespie.,23,24,-1,8,0.4674205184472976,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+101,2,5:53,1553,1553,Alexis Jennings made Layup.,25,24,1,22,0.5326903903799105,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,South Carolina
+102,2,5:31,1531,1531,Kiah Gillespie missed Three Point Jumper.,25,24,1,0,0.5330003351058455,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+103,2,5:31,1531,1531,Sayawni Lassiter Offensive Rebound.,25,24,1,19,0.5330003351058455,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+104,2,5:12,1512,1512,Nicki Ekhomu missed Jumper.,25,24,1,0,0.53327559679856,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+105,2,5:12,1512,1512,Alexis Jennings Defensive Rebound.,25,24,1,4,0.53327559679856,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+106,2,5:08,1508,1508,Alexis Jennings Turnover.,25,24,1,0,0.5333346313041962,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+107,2,5:08,1508,1508,Nicki Ekhomu Steal.,25,24,1,6,0.5333346313041962,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+108,2,5:02,1502,1502,Nicki Ekhomu missed Layup.,25,24,1,0,0.5334239699698087,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+109,2,5:02,1502,1502,Kiah Gillespie Offensive Rebound.,25,24,1,4,0.5334239699698087,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+110,2,4:58,1498,1498,Kiah Gillespie made Layup.,25,26,-1,3,0.4665159207295211,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,Florida State
+111,2,4:55,1495,1495,Foul on Sayawni Lassiter.,25,26,-1,0,0.46647053743223055,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+112,2,4:55,1495,1495,Official TV Timeout,25,26,-1,5,0.46647053743223055,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+113,2,4:50,1490,1490,Mikiah Herbert Harrigan made Jumper.,27,26,1,21,0.5336056972695123,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,South Carolina
+114,2,4:29,1469,1469,Valencia Myers missed Jumper.,27,26,1,0,0.5339347398650169,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+115,2,4:29,1469,1469,Alexis Jennings Block.,27,26,1,0,0.5339347398650169,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+116,2,4:29,1469,1469,Mikiah Herbert Harrigan Defensive Rebound.,27,26,1,27,0.5339347398650169,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+117,2,4:02,1442,1442,Foul on Nicki Ekhomu.,27,26,1,0,0.5343793714687943,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+118,2,4:02,1442,1442,Mikiah Herbert Harrigan made Free Throw.,28,26,2,0,0.5684351974248883,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,South Carolina
+119,2,4:02,1442,1442,Mikiah Herbert Harrigan made Free Throw.,29,26,3,13,0.6018559983958909,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,South Carolina
+120,2,3:49,1429,1429,Nausia Woolfolk missed Layup.,29,26,3,0,0.6024668061943815,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+121,2,3:49,1429,1429,Bianca Jackson Defensive Rebound.,29,26,3,12,0.6024668061943815,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+122,2,3:37,1417,1417,Bianca Cuevas-Moore Turnover.,29,26,3,0,0.6030177318770372,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+123,2,3:37,1417,1417,Valencia Myers Steal.,29,26,3,32,0.6030177318770372,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+124,2,3:05,1385,1385,Nausia Woolfolk missed Layup.,29,26,3,0,0.604445339811183,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+125,2,3:05,1385,1385,Mikiah Herbert Harrigan Defensive Rebound.,29,26,3,8,0.604445339811183,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+126,2,2:57,1377,1377,Bianca Cuevas-Moore missed Three Point Jumper.,29,26,3,0,0.6047967335748258,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+127,2,2:57,1377,1377,Savannah Wilkinson Defensive Rebound.,29,26,3,11,0.6047967335748258,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+128,2,2:46,1366,1366,Nicki Ekhomu missed Jumper.,29,26,3,0,0.6052788136162416,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+129,2,2:46,1366,1366,Mikiah Herbert Harrigan Defensive Rebound.,29,26,3,9,0.6052788136162416,South Carolina,Florida State,4,4,0,0,NA,401124197,2019-03-24,
+130,2,2:37,1357,1357,Bianca Jackson missed Layup.,29,26,3,0,0.6056734917507002,South Carolina,Florida State,4,4,1,0,NA,401124197,2019-03-24,
+131,2,2:37,1357,1357,Nausia Woolfolk Defensive Rebound.,29,26,3,0,0.6056734917507002,South Carolina,Florida State,4,4,1,0,NA,401124197,2019-03-24,
+132,2,2:37,1357,1357,Florida State  Timeout,29,26,3,11,0.6056734917507002,South Carolina,Florida State,3,4,1,0,NA,401124197,2019-03-24,
+133,2,2:26,1346,1346,Kiah Gillespie missed Jumper.,29,26,3,0,0.6061577811002022,South Carolina,Florida State,3,4,1,0,NA,401124197,2019-03-24,
+134,2,2:26,1346,1346,Valencia Myers Offensive Rebound.,29,26,3,0,0.6061577811002022,South Carolina,Florida State,3,4,1,0,NA,401124197,2019-03-24,
+135,2,2:26,1346,1346,Foul on Alexis Jennings.,29,26,3,9,0.6061577811002022,South Carolina,Florida State,3,4,1,0,NA,401124197,2019-03-24,
+136,2,2:17,1337,1337,Kiah Gillespie made Jumper. Assisted by Valencia Myers.,29,28,1,20,0.5360093542555637,South Carolina,Florida State,3,4,1,0,NA,401124197,2019-03-24,Florida State
+137,2,1:57,1317,1317,Mikiah Herbert Harrigan made Jumper.,31,28,3,20,0.6074578964679083,South Carolina,Florida State,3,4,1,0,NA,401124197,2019-03-24,South Carolina
+138,2,1:37,1297,1297,Kiah Gillespie missed Jumper.,31,28,3,0,0.6083879839551827,South Carolina,Florida State,3,4,1,0,NA,401124197,2019-03-24,
+139,2,1:37,1297,1297,Nicki Ekhomu Offensive Rebound.,31,28,3,11,0.6083879839551827,South Carolina,Florida State,3,4,1,0,NA,401124197,2019-03-24,
+140,2,1:26,1286,1286,Nausia Woolfolk Turnover.,31,28,3,0,0.6089159348354848,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,
+141,2,1:26,1286,1286,Mikiah Herbert Harrigan Steal.,31,28,3,1,0.6089159348354848,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,
+142,2,1:25,1285,1285,Foul on Te'a Cooper.,31,28,3,0,0.6089645966940835,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,
+143,2,1:25,1285,1285,Te'a Cooper Turnover.,31,28,3,15,0.6089645966940835,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,
+144,2,1:10,1270,1270,Valencia Myers Turnover.,31,28,3,0,0.6097093509215477,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,
+145,2,1:10,1270,1270,Bianca Cuevas-Moore Steal.,31,28,3,7,0.6097093509215477,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,
+146,2,1:03,1263,1263,Bianca Cuevas-Moore missed Layup.,31,28,3,0,0.6100672347381886,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,
+147,2,1:03,1263,1263,Kiah Gillespie Block.,31,28,3,0,0.6100672347381886,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,
+148,2,1:03,1263,1263,Bianca Cuevas-Moore Offensive Rebound.,31,28,3,1,0.6100672347381886,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,
+149,2,1:02,1262,1262,Foul on Sayawni Lassiter.,31,28,3,0,0.6101189401644032,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,
+150,2,1:02,1262,1262,Bianca Cuevas-Moore made Free Throw.,32,28,4,0,0.6449886454197721,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,South Carolina
+151,2,1:02,1262,1262,Bianca Cuevas-Moore made Free Throw.,33,28,5,7,0.6783836643741665,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,South Carolina
+152,2,0:55,1255,1255,Foul on Mikiah Herbert Harrigan.,33,28,5,0,0.6789432821987232,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,
+153,2,0:55,1255,1255,Nicki Ekhomu made Free Throw.,33,29,4,0,0.6454585740997525,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,Florida State
+154,2,0:55,1255,1255,Nicki Ekhomu made Free Throw.,33,30,3,27,0.6104851257402714,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,Florida State
+155,2,0:28,1228,1228,Mikiah Herbert Harrigan made Jumper. Assisted by Te'a Cooper.,35,30,5,20,0.6812161510740998,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,South Carolina
+156,2,0:08,1208,1208,Nausia Woolfolk missed Layup.,35,30,5,0,0.6830327958932753,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,
+157,2,0:08,1208,1208,Mikiah Herbert Harrigan Defensive Rebound.,35,30,5,2,0.6830327958932753,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,
+158,2,0:06,1206,1206,Foul on Valencia Myers.,35,30,5,0,0.6832182633759083,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,
+159,2,0:06,1206,1206,Mikiah Herbert Harrigan made Free Throw.,36,30,6,0,0.7155149193015726,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,South Carolina
+160,2,0:06,1206,1206,Mikiah Herbert Harrigan made Free Throw.,37,30,7,4,0.7457442213481225,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,South Carolina
+161,2,0:02,1202,1202,Nicki Ekhomu missed Jumper.,37,30,7,0,0.7461959315992981,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,
+162,2,0:02,1202,1202,Te'a Cooper Defensive Rebound.,37,30,7,2,0.7461959315992981,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,
+163,2,0:00,1200,1200,End of 2nd Quarter,37,30,7,0,0.7464201950257411,South Carolina,Florida State,3,4,0,0,NA,401124197,2019-03-24,
+164,3,10:00,1200,1200,Jump Ball won by Florida State,37,30,7,22,0.7464201950257411,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+165,3,9:38,1178,1178,Nicki Ekhomu made Jumper.,37,32,5,31,0.6857359726861918,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,Florida State
+166,3,9:07,1147,1147,Alexis Jennings missed Jumper.,37,32,5,0,0.6884076490398987,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+167,3,9:07,1147,1147,Nausia Woolfolk Defensive Rebound.,37,32,5,6,0.6884076490398987,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+168,3,9:01,1141,1141,Foul on Tyasha Harris.,37,32,5,0,0.6889178463131453,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+169,3,9:01,1141,1141,Morgan Jones missed Free Throw.,37,32,5,0,0.6889178463131453,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+170,3,9:01,1141,1141,Florida State Deadball Team Rebound.,37,32,5,0,0.6889178463131453,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+171,3,9:01,1141,1141,Morgan Jones made Free Throw.,37,33,4,20,0.6538604637017569,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,Florida State
+172,3,8:41,1121,1121,Destanni Henderson made Jumper. Assisted by Te'a Cooper.,39,33,6,15,0.7238431295147184,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,South Carolina
+173,3,8:26,1106,1106,Kiah Gillespie missed Jumper.,39,33,6,0,0.7252828195833937,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+174,3,8:26,1106,1106,Alexis Jennings Block.,39,33,6,0,0.7252828195833937,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+175,3,8:26,1106,1106,Florida State Offensive Rebound.,39,33,6,16,0.7252828195833937,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+176,3,8:10,1090,1090,Morgan Jones missed Layup.,39,33,6,0,0.7268398510191773,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+177,3,8:10,1090,1090,Destanni Henderson Defensive Rebound.,39,33,6,9,0.7268398510191773,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+178,3,8:01,1081,1081,Foul on Kourtney Weber.,39,33,6,10,0.727730129695696,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+179,3,7:51,1071,1071,Alexis Jennings made Layup. Assisted by Doniyah Cliney.,41,33,8,0,0.7887852334032424,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,South Carolina
+180,3,7:51,1071,1071,Foul on Kourtney Weber.,41,33,8,0,0.7887852334032424,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+181,3,7:51,1071,1071,Alexis Jennings made Free Throw.,42,33,9,16,0.8149228894797713,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,South Carolina
+182,3,7:35,1055,1055,Morgan Jones missed Layup.,42,33,9,0,0.8168069490502876,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+183,3,7:35,1055,1055,Alexis Jennings Block.,42,33,9,0,0.8168069490502876,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+184,3,7:35,1055,1055,Kourtney Weber Offensive Rebound.,42,33,9,2,0.8168069490502876,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+185,3,7:33,1053,1053,Kourtney Weber made Layup.,42,35,7,20,0.7620437391682947,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,Florida State
+186,3,7:13,1033,1033,Alexis Jennings made Layup. Assisted by Te'a Cooper.,44,35,9,13,0.8195032166800715,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,South Carolina
+187,3,7:00,1020,1020,Nicki Ekhomu made Layup.,44,37,7,8,0.7659427469629233,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,Florida State
+188,3,6:52,1012,1012,Tyasha Harris missed Jumper.,44,37,7,0,0.7669430170216602,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+189,3,6:52,1012,1012,Kiah Gillespie Defensive Rebound.,44,37,7,19,0.7669430170216602,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+190,3,6:33,993,993,Valencia Myers Turnover.,44,37,7,15,0.7694200109845263,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+191,3,6:18,978,978,Foul on Doniyah Cliney.,44,37,7,0,0.771486434302484,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+192,3,6:18,978,978,Doniyah Cliney Turnover.,44,37,7,16,0.771486434302484,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+193,3,6:02,962,962,Kiah Gillespie missed Three Point Jumper.,44,37,7,0,0.7737646169997322,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+194,3,6:02,962,962,Destanni Henderson Defensive Rebound.,44,37,7,0,0.7737646169997322,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+195,3,6:02,962,962,Foul on Nausia Woolfolk.,44,37,7,15,0.7737646169997322,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+196,3,5:47,947,947,Alexis Jennings missed Jumper.,44,37,7,0,0.7757467628952879,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+197,3,5:47,947,947,Kiah Gillespie Defensive Rebound.,44,37,7,7,0.7757467628952879,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+198,3,5:40,940,940,Nicki Ekhomu made Layup.,44,39,5,10,0.7088988601238831,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,Florida State
+199,3,5:30,930,930,Foul on Sayawni Lassiter.,44,39,5,0,0.7099125462282376,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+200,3,5:30,930,930,Te'a Cooper made Free Throw.,45,39,6,0,0.7453476011933087,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,South Carolina
+201,3,5:30,930,930,Te'a Cooper missed Free Throw.,45,39,6,0,0.7453476011933087,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+202,3,5:30,930,930,Kiah Gillespie Defensive Rebound.,45,39,6,18,0.7453476011933087,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+203,3,5:12,912,912,Kiah Gillespie made Three Point Jumper. Assisted by Nausia Woolfolk.,45,42,3,28,0.6322804551514172,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,Florida State
+204,3,4:44,884,884,Doniyah Cliney missed Jumper.,45,42,3,0,0.6340051783186426,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+205,3,4:44,884,884,Te'a Cooper Offensive Rebound.,45,42,3,17,0.6340051783186426,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+206,3,4:27,867,867,Doniyah Cliney missed Layup.,45,42,3,0,0.6350391269095444,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+207,3,4:27,867,867,Kiah Gillespie Defensive Rebound.,45,42,3,18,0.6350391269095444,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+208,3,4:09,849,849,Foul on Alexis Jennings.,45,42,3,0,0.6361599581461712,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+209,3,4:09,849,849,Official TV Timeout,45,42,3,0,0.6361599581461712,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+210,3,4:09,849,849,Nausia Woolfolk made Free Throw.,45,43,2,0,0.5920606276654343,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,Florida State
+211,3,4:09,849,849,Nausia Woolfolk made Free Throw.,45,44,1,22,0.5464271841472972,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,Florida State
+212,3,3:47,827,827,Tyasha Harris missed Three Point Jumper.,45,44,1,0,0.5469460871553821,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+213,3,3:47,827,827,Florida State Defensive Rebound.,45,44,1,26,0.5469460871553821,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+214,3,3:21,801,801,Nausia Woolfolk missed Jumper.,45,44,1,0,0.5476295042920027,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+215,3,3:21,801,801,Morgan Jones Offensive Rebound.,45,44,1,3,0.5476295042920027,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+216,3,3:18,798,798,Kiah Gillespie missed Jumper.,45,44,1,0,0.5477147209171183,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+217,3,3:18,798,798,Nicki Ekhomu Offensive Rebound.,45,44,1,28,0.5477147209171183,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+218,3,2:50,770,770,Nicki Ekhomu missed Jumper.,45,44,1,0,0.548589903068157,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+219,3,2:50,770,770,Mikiah Herbert Harrigan Block.,45,44,1,0,0.548589903068157,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+220,3,2:50,770,770,Bianca Cuevas-Moore Defensive Rebound.,45,44,1,6,0.548589903068157,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+221,3,2:44,764,764,Bianca Cuevas-Moore made Layup.,47,44,3,21,0.6427808412803422,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,South Carolina
+222,3,2:23,743,743,Nausia Woolfolk Turnover.,47,44,3,0,0.6450039985253034,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+223,3,2:23,743,743,Mikiah Herbert Harrigan Steal.,47,44,3,0,0.6450039985253034,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+224,3,2:23,743,743,Foul on Kiah Gillespie.,47,44,3,0,0.6450039985253034,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+225,3,2:23,743,743,Mikiah Herbert Harrigan made Free Throw.,48,44,4,0,0.6891610351993017,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,South Carolina
+226,3,2:23,743,743,Mikiah Herbert Harrigan made Free Throw.,49,44,5,12,0.7301236443340238,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,South Carolina
+227,3,2:11,731,731,Nicki Ekhomu missed Layup.,49,44,5,0,0.7321518677822808,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+228,3,2:11,731,731,Mikiah Herbert Harrigan Block.,49,44,5,0,0.7321518677822808,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+229,3,2:11,731,731,Doniyah Cliney Defensive Rebound.,49,44,5,7,0.7321518677822808,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+230,3,2:04,724,724,Doniyah Cliney Turnover.,49,44,5,15,0.7333622940695462,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+231,3,1:49,709,709,Foul on Mikiah Herbert Harrigan.,49,44,5,0,0.7357467964802344,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+232,3,1:49,709,709,Nicki Ekhomu missed Free Throw.,49,44,5,0,0.7357467964802344,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+233,3,1:49,709,709,Florida State Deadball Team Rebound.,49,44,5,0,0.7357467964802344,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+234,3,1:49,709,709,Nicki Ekhomu missed Free Throw.,49,44,5,0,0.7357467964802344,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+235,3,1:49,709,709,Nausia Woolfolk Offensive Rebound.,49,44,5,1,0.7357467964802344,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+236,3,1:48,708,708,Nausia Woolfolk missed Layup.,49,44,5,0,0.735896880069385,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+237,3,1:48,708,708,Mikiah Herbert Harrigan Block.,49,44,5,0,0.735896880069385,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+238,3,1:48,708,708,Florida State Offensive Rebound.,49,44,5,16,0.735896880069385,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+239,3,1:32,692,692,Morgan Jones made Layup. Assisted by Nicki Ekhomu.,49,46,3,11,0.6506545181763175,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,Florida State
+240,3,1:21,681,681,Foul on Valencia Myers.,49,46,3,0,0.6516934662860532,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+241,3,1:21,681,681,Te'a Cooper missed Free Throw.,49,46,3,0,0.6516934662860532,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+242,3,1:21,681,681,South Carolina Deadball Team Rebound.,49,46,3,0,0.6516934662860532,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+243,3,1:21,681,681,Te'a Cooper made Free Throw.,50,46,4,19,0.6974790252363775,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,South Carolina
+244,3,1:02,662,662,Morgan Jones made Jumper.,50,48,2,20,0.6041425627329206,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,Florida State
+245,3,0:42,642,642,Mikiah Herbert Harrigan made Layup. Assisted by Bianca Cuevas-Moore.,52,48,4,4,0.7018957414320413,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,South Carolina
+246,3,0:38,638,638,Foul on Te'a Cooper.,52,48,4,0,0.7023640555034405,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+247,3,0:38,638,638,Valencia Myers missed Free Throw.,52,48,4,0,0.7023640555034405,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+248,3,0:38,638,638,Florida State Deadball Team Rebound.,52,48,4,0,0.7023640555034405,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+249,3,0:38,638,638,Valencia Myers made Free Throw.,52,49,3,28,0.655642564063079,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,Florida State
+250,3,0:10,610,610,Bianca Cuevas-Moore missed Three Point Jumper.,52,49,3,0,0.6585227347353076,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+251,3,0:10,610,610,Kiah Gillespie Defensive Rebound.,52,49,3,6,0.6585227347353076,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+252,3,0:04,604,604,Morgan Jones made Layup. Assisted by Kiah Gillespie.,52,51,1,4,0.554760805615502,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,Florida State
+253,3,0:00,600,600,End of 3rd Quarter,52,51,1,0,0.5549351931430931,South Carolina,Florida State,4,5,0,0,NA,401124197,2019-03-24,
+254,4,10:00,600,600,Jump Ball won by South Carolina,52,51,1,21,0.5549351931430931,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+255,4,9:39,579,579,Mikiah Herbert Harrigan Turnover.,52,51,1,0,0.5559509411561041,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+256,4,9:39,579,579,Valencia Myers Steal.,52,51,1,18,0.5559509411561041,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+257,4,9:21,561,561,Foul on Valencia Myers.,52,51,1,0,0.5569828065288794,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+258,4,9:21,561,561,Valencia Myers Turnover.,52,51,1,26,0.5569828065288794,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+259,4,8:55,535,535,South Carolina  Turnover.,52,51,1,16,0.558642949065016,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+260,4,8:39,519,519,Nausia Woolfolk Turnover.,52,51,1,0,0.559505431827126,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+261,4,8:39,519,519,Bianca Cuevas-Moore Steal.,52,51,1,5,0.559505431827126,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+262,4,8:34,514,514,Bianca Cuevas-Moore missed Jumper.,52,51,1,0,0.5597570255285672,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+263,4,8:34,514,514,Nausia Woolfolk Block.,52,51,1,0,0.5597570255285672,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+264,4,8:34,514,514,South Carolina Offensive Rebound.,52,51,1,3,0.5597570255285672,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+265,4,8:31,511,511,Mikiah Herbert Harrigan missed Jumper.,52,51,1,0,0.5599057372964811,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+266,4,8:31,511,511,Nausia Woolfolk Defensive Rebound.,52,51,1,23,0.5599057372964811,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+267,4,8:08,488,488,Morgan Jones missed Layup.,52,51,1,0,0.561049546810648,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+268,4,8:08,488,488,Alexis Jennings Defensive Rebound.,52,51,1,0,0.561049546810648,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+269,4,8:08,488,488,Foul on Valencia Myers.,52,51,1,20,0.561049546810648,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+270,4,7:48,468,468,Alexis Jennings made Jumper.,54,51,3,21,0.6791787204693782,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,South Carolina
+271,4,7:27,447,447,Morgan Jones missed Jumper.,54,51,3,0,0.6831307740620025,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+272,4,7:27,447,447,Alexis Jennings Block.,54,51,3,0,0.6831307740620025,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+273,4,7:27,447,447,Morgan Jones Offensive Rebound.,54,51,3,6,0.6831307740620025,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+274,4,7:21,441,441,Foul on Nausia Woolfolk.,54,51,3,0,0.6844730745644677,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+275,4,7:21,441,441,Nausia Woolfolk Turnover.,54,51,3,10,0.6844730745644677,South Carolina,Florida State,5,6,0,0,NA,401124197,2019-03-24,
+276,4,7:11,431,431,South Carolina  Timeout,54,51,3,14,0.6869675978431395,South Carolina,Florida State,5,5,0,1,NA,401124197,2019-03-24,
+277,4,6:57,417,417,Alexis Jennings missed Layup.,54,51,3,0,0.690582166758453,South Carolina,Florida State,5,5,0,1,NA,401124197,2019-03-24,
+278,4,6:57,417,417,Alexis Jennings Offensive Rebound.,54,51,3,4,0.690582166758453,South Carolina,Florida State,5,5,0,1,NA,401124197,2019-03-24,
+279,4,6:53,413,413,Alexis Jennings made Layup.,56,51,5,13,0.7934219232390805,South Carolina,Florida State,5,5,0,1,NA,401124197,2019-03-24,South Carolina
+280,4,6:40,400,400,Nicki Ekhomu missed Jumper.,56,51,5,0,0.7973238949107092,South Carolina,Florida State,5,5,0,1,NA,401124197,2019-03-24,
+281,4,6:40,400,400,Kiah Gillespie Offensive Rebound.,56,51,5,0,0.7973238949107092,South Carolina,Florida State,5,5,0,1,NA,401124197,2019-03-24,
+282,4,6:40,400,400,Foul on Alexis Jennings.,56,51,5,6,0.7973238949107092,South Carolina,Florida State,5,5,0,1,NA,401124197,2019-03-24,
+283,4,6:34,394,394,Kiah Gillespie Turnover.,56,51,5,21,0.7990798691425827,South Carolina,Florida State,5,5,0,1,NA,401124197,2019-03-24,
+284,4,6:13,373,373,Bianca Cuevas-Moore missed Layup.,56,51,5,0,0.8053069420869444,South Carolina,Florida State,5,5,0,1,NA,401124197,2019-03-24,
+285,4,6:13,373,373,Nicki Ekhomu Defensive Rebound.,56,51,5,10,0.8053069420869444,South Carolina,Florida State,5,5,0,1,NA,401124197,2019-03-24,
+286,4,6:03,363,363,Morgan Jones made Layup. Assisted by Nicki Ekhomu.,56,53,3,24,0.7035016000431438,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,Florida State
+287,4,5:39,339,339,Alexis Jennings made Jumper.,58,53,5,10,0.8170544409669148,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,South Carolina
+288,4,5:29,329,329,Morgan Jones missed Jumper.,58,53,5,0,0.8212125032399834,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+289,4,5:29,329,329,Kiah Gillespie Offensive Rebound.,58,53,5,4,0.8212125032399834,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+290,4,5:25,325,325,Kiah Gillespie missed Jumper.,58,53,5,0,0.8229898605904286,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+291,4,5:25,325,325,Kiah Gillespie Offensive Rebound.,58,53,5,7,0.8229898605904286,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+292,4,5:18,318,318,Kiah Gillespie made Layup.,58,55,3,0,0.7182197779969554,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,Florida State
+293,4,5:18,318,318,Foul on Mikiah Herbert Harrigan.,58,55,3,0,0.7182197779969554,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+294,4,5:18,318,318,Kiah Gillespie made Free Throw.,58,56,2,15,0.6510744611204844,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,Florida State
+295,4,5:03,303,303,Mikiah Herbert Harrigan made Jumper.,60,56,4,15,0.7836121758039871,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,South Carolina
+296,4,4:48,288,288,Nausia Woolfolk made Layup.,60,58,2,8,0.656946987835273,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,Florida State
+297,4,4:40,280,280,Bianca Cuevas-Moore missed Layup.,60,58,2,0,0.6566318324699312,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+298,4,4:40,280,280,Kiah Gillespie Defensive Rebound.,60,58,2,28,0.6566318324699312,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+299,4,4:12,252,252,Kiah Gillespie missed Jumper.,60,58,2,0,0.6531924318693068,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+300,4,4:12,252,252,Morgan Jones Offensive Rebound.,60,58,2,5,0.6531924318693068,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+301,4,4:07,247,247,Morgan Jones made Layup.,60,60,0,21,0.5,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,Florida State
+302,4,3:46,226,226,Tyasha Harris missed Layup.,60,60,0,0,0.5,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+303,4,3:46,226,226,Alexis Jennings Offensive Rebound.,60,60,0,6,0.5,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+304,4,3:40,220,220,Alexis Jennings missed Layup.,60,60,0,0,0.5,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+305,4,3:40,220,220,Kiah Gillespie Defensive Rebound.,60,60,0,29,0.5,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+306,4,3:11,191,191,Nausia Woolfolk missed Three Point Jumper.,60,60,0,0,0.5,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+307,4,3:11,191,191,Bianca Jackson Defensive Rebound.,60,60,0,27,0.5,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+308,4,2:44,164,164,Alexis Jennings Turnover.,60,60,0,0,0.5,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+309,4,2:44,164,164,Morgan Jones Steal.,60,60,0,10,0.5,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+310,4,2:34,154,154,Kiah Gillespie missed Layup.,60,60,0,0,0.5,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+311,4,2:34,154,154,Morgan Jones Offensive Rebound.,60,60,0,2,0.5,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+312,4,2:32,152,152,Morgan Jones missed Jumper.,60,60,0,0,0.5,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+313,4,2:32,152,152,Tyasha Harris Defensive Rebound.,60,60,0,1,0.5,South Carolina,Florida State,5,5,0,0,NA,401124197,2019-03-24,
+314,4,2:31,151,151,South Carolina  Timeout,60,60,0,0,0.5,South Carolina,Florida State,5,4,0,1,NA,401124197,2019-03-24,
+315,4,2:31,151,151,Official TV Timeout,60,60,0,16,0.5,South Carolina,Florida State,5,4,0,1,NA,401124197,2019-03-24,
+316,4,2:15,135,135,Alexis Jennings made Layup. Assisted by Te'a Cooper.,62,60,2,0,0.7248924908127014,South Carolina,Florida State,5,4,0,1,NA,401124197,2019-03-24,South Carolina
+317,4,2:15,135,135,Foul on Kiah Gillespie.,62,60,2,0,0.7248924908127014,South Carolina,Florida State,5,4,0,1,NA,401124197,2019-03-24,
+318,4,2:15,135,135,Alexis Jennings made Free Throw.,63,60,3,22,0.8105045724293557,South Carolina,Florida State,5,4,0,1,NA,401124197,2019-03-24,South Carolina
+319,4,1:53,113,113,Nicki Ekhomu made Jumper.,63,62,1,31,0.6354354740080755,South Carolina,Florida State,5,4,0,1,NA,401124197,2019-03-24,Florida State
+320,4,1:22,82,82,Te'a Cooper missed Jumper.,63,62,1,0,0.6651502239660979,South Carolina,Florida State,5,4,0,0,NA,401124197,2019-03-24,
+321,4,1:22,82,82,Victaria Saxton Offensive Rebound.,63,62,1,0,0.6651502239660979,South Carolina,Florida State,5,4,0,0,NA,401124197,2019-03-24,
+322,4,1:22,82,82,Foul on Nausia Woolfolk.,63,62,1,0,0.6651502239660979,South Carolina,Florida State,5,4,0,0,NA,401124197,2019-03-24,
+323,4,1:22,82,82,Victaria Saxton made Free Throw.,64,62,2,0,0.7978098716309224,South Carolina,Florida State,5,4,0,0,NA,401124197,2019-03-24,South Carolina
+324,4,1:22,82,82,Victaria Saxton made Free Throw.,65,62,3,13,0.8868531364565443,South Carolina,Florida State,5,4,0,0,NA,401124197,2019-03-24,South Carolina
+325,4,1:09,69,69,Florida State  Timeout,65,62,3,15,0.9045837737169687,South Carolina,Florida State,4,4,1,0,NA,401124197,2019-03-24,
+326,4,0:54,54,54,Nausia Woolfolk missed Three Point Jumper.,65,62,3,0,0.9232895132408648,South Carolina,Florida State,4,4,1,0,NA,401124197,2019-03-24,
+327,4,0:54,54,54,Kiah Gillespie Offensive Rebound.,65,62,3,9,0.9232895132408648,South Carolina,Florida State,4,4,1,0,NA,401124197,2019-03-24,
+328,4,0:45,45,45,Kiah Gillespie missed Layup.,65,62,3,0,0.9334429554452127,South Carolina,Florida State,4,4,1,0,NA,401124197,2019-03-24,
+329,4,0:45,45,45,Nausia Woolfolk Offensive Rebound.,65,62,3,3,0.9334429554452127,South Carolina,Florida State,4,4,1,0,NA,401124197,2019-03-24,
+330,4,0:42,42,42,Nausia Woolfolk missed Jumper.,65,62,3,0,0.9366551189788949,South Carolina,Florida State,4,4,1,1,NA,401124197,2019-03-24,
+331,4,0:42,42,42,Victaria Saxton Block.,65,62,3,0,0.9366551189788949,South Carolina,Florida State,4,4,1,1,NA,401124197,2019-03-24,
+332,4,0:42,42,42,Kiah Gillespie Offensive Rebound.,65,62,3,0,0.9366551189788949,South Carolina,Florida State,4,4,1,1,NA,401124197,2019-03-24,
+333,4,0:42,42,42,Kiah Gillespie made Layup.,65,64,1,0,0.7105192038279043,South Carolina,Florida State,4,4,1,1,NA,401124197,2019-03-24,Florida State
+334,4,0:42,42,42,South Carolina  Timeout,65,64,1,15,0.7105192038279043,South Carolina,Florida State,4,3,1,1,NA,401124197,2019-03-24,
+335,4,0:27,27,27,Tyasha Harris made Jumper.,67,64,3,0,0.9512483242711521,South Carolina,Florida State,4,3,1,1,NA,401124197,2019-03-24,South Carolina
+336,4,0:27,27,27,Foul on Morgan Jones.,67,64,3,0,0.9512483242711521,South Carolina,Florida State,4,3,1,1,NA,401124197,2019-03-24,
+337,4,0:27,27,27,Tyasha Harris made Free Throw.,68,64,4,0,0.9813188194015151,South Carolina,Florida State,4,3,1,1,NA,401124197,2019-03-24,South Carolina
+338,4,0:27,27,27,Florida State  Timeout,68,64,4,4,0.9813188194015151,South Carolina,Florida State,3,3,1,1,NA,401124197,2019-03-24,
+339,4,0:23,23,23,Foul on Tyasha Harris.,68,64,4,6,0.983108178118838,South Carolina,Florida State,3,3,1,1,NA,401124197,2019-03-24,
+340,4,0:17,17,17,Nicki Ekhomu missed Three Point Jumper.,68,64,4,0,0.9855493021485758,South Carolina,Florida State,3,3,1,1,NA,401124197,2019-03-24,
+341,4,0:17,17,17,Te'a Cooper Defensive Rebound.,68,64,4,0,0.9855493021485758,South Carolina,Florida State,3,3,1,1,NA,401124197,2019-03-24,
+342,4,0:17,17,17,Foul on Nicki Ekhomu.,68,64,4,0,0.9855493021485758,South Carolina,Florida State,3,3,1,1,NA,401124197,2019-03-24,
+343,4,0:17,17,17,Te'a Cooper missed Free Throw.,68,64,4,0,0.9855493021485758,South Carolina,Florida State,3,3,1,1,NA,401124197,2019-03-24,
+344,4,0:17,17,17,South Carolina Deadball Team Rebound.,68,64,4,0,0.9855493021485758,South Carolina,Florida State,3,3,1,1,NA,401124197,2019-03-24,
+345,4,0:17,17,17,Te'a Cooper made Free Throw.,69,64,5,0,0.9949236351283457,South Carolina,Florida State,3,3,1,1,NA,401124197,2019-03-24,South Carolina
+346,4,0:17,17,17,Florida State  Timeout,69,64,5,7,0.9949236351283457,South Carolina,Florida State,2,3,1,1,NA,401124197,2019-03-24,
+347,4,0:10,10,10,Kiah Gillespie missed Three Point Jumper.,69,64,5,0,0.9960097291441499,South Carolina,Florida State,2,3,1,1,NA,401124197,2019-03-24,
+348,4,0:10,10,10,Valencia Myers Offensive Rebound.,69,64,5,0,0.9960097291441499,South Carolina,Florida State,2,3,1,1,NA,401124197,2019-03-24,
+349,4,0:10,10,10,Foul on Valencia Myers.,69,64,5,0,0.9960097291441499,South Carolina,Florida State,2,3,1,1,NA,401124197,2019-03-24,
+350,4,0:10,10,10,Valencia Myers Turnover.,69,64,5,0,0.9960097291441499,South Carolina,Florida State,2,3,1,1,NA,401124197,2019-03-24,
+351,4,0:10,10,10,Technical Foul on Kiah Gillespie.,69,64,5,0,0.9960097291441499,South Carolina,Florida State,2,3,1,1,NA,401124197,2019-03-24,
+352,4,0:10,10,10,Tyasha Harris made Free Throw.,70,64,6,0,0.9986734913790579,South Carolina,Florida State,2,3,1,1,NA,401124197,2019-03-24,South Carolina
+353,4,0:10,10,10,Foul on Kiah Gillespie.,69,64,5,0,0.9960097291441499,South Carolina,Florida State,2,3,1,1,NA,401124197,2019-03-24,
+354,4,0:10,10,10,Tyasha Harris made Free Throw.,71,64,7,0,0.9995598070342894,South Carolina,Florida State,2,3,1,1,NA,401124197,2019-03-24,South Carolina
+355,4,0:10,10,10,Mikiah Herbert Harrigan missed Free Throw.,71,64,7,0,0.9995598070342894,South Carolina,Florida State,2,3,1,1,NA,401124197,2019-03-24,
+356,4,0:10,10,10,South Carolina Deadball Team Rebound.,71,64,7,0,0.9995598070342894,South Carolina,Florida State,2,3,1,1,NA,401124197,2019-03-24,
+357,4,0:10,10,10,Mikiah Herbert Harrigan made Free Throw.,72,64,8,2,0.9998540114933221,South Carolina,Florida State,2,3,1,1,NA,401124197,2019-03-24,South Carolina
+358,4,0:08,8,8,Nicki Ekhomu missed Three Point Jumper.,72,64,8,0,0.9998696554629153,South Carolina,Florida State,2,3,1,1,NA,401124197,2019-03-24,
+359,4,0:08,8,8,Bianca Jackson Defensive Rebound.,72,64,8,8,0.9998696554629153,South Carolina,Florida State,2,3,1,1,NA,401124197,2019-03-24,
+360,4,0:00,0,0,End of Game,72,64,8,0,1,South Carolina,Florida State,2,3,1,1,NA,401124197,2019-03-24,

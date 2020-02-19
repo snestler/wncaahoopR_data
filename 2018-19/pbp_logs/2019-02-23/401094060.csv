@@ -1,0 +1,313 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:34,2374,2374,Zykera Rice Turnover.,0,0,0,0,0.5,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,NA
+2,1,9:34,2374,2374,Shannon Powell Steal.,0,0,0,15,0.5,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+3,1,9:19,2359,2359,Abby Rathbun missed Jumper.,0,0,0,0,0.5,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+4,1,9:19,2359,2359,Zykera Rice Defensive Rebound.,0,0,0,33,0.5,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+5,1,8:46,2326,2326,Gonzaga  Turnover.,0,0,0,24,0.5,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+6,1,8:22,2302,2302,Shannon Powell made Layup.,2,0,2,16,0.5461430170165493,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,San Francisco
+7,1,8:06,2286,2286,LeeAnne Wirth missed Layup.,2,0,2,0,0.5464993514705677,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+8,1,8:06,2286,2286,Shannon Powell Defensive Rebound.,2,0,2,22,0.5464993514705677,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+9,1,7:44,2264,2264,Katie Campbell missed Jumper.,2,0,2,0,0.5469932384002621,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+10,1,7:44,2264,2264,Marianna Klavina Block.,2,0,2,2,0.5469932384002621,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+11,1,7:42,2262,2262,Lucija Kostic Defensive Rebound.,2,0,2,4,0.547038345861369,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+12,1,7:38,2258,2258,Shannon Powell made Three Point Jumper.,5,0,5,21,0.616020194741062,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,San Francisco
+13,1,7:17,2237,2237,Laura Stockton missed Three Point Jumper.,5,0,5,0,0.6171560986146801,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+14,1,7:17,2237,2237,Lucija Kostic Defensive Rebound.,5,0,5,8,0.6171560986146801,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+15,1,7:09,2229,2229,Abby Rathbun missed Layup.,5,0,5,0,0.6175905202901149,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+16,1,7:09,2229,2229,Moa Lundqvist Offensive Rebound.,5,0,5,3,0.6175905202901149,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+17,1,7:06,2226,2226,Moa Lundqvist missed Layup.,5,0,5,0,0.6177536470971274,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+18,1,7:06,2226,2226,Abby Rathbun Offensive Rebound.,5,0,5,4,0.6177536470971274,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+19,1,7:02,2222,2222,Shannon Powell missed Three Point Jumper.,5,0,5,0,0.617971326071389,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+20,1,7:02,2222,2222,Abby Rathbun Offensive Rebound.,5,0,5,4,0.617971326071389,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+21,1,6:58,2218,2218,Abby Rathbun made Layup.,7,0,7,2,0.6625362334214253,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,San Francisco
+22,1,6:56,2216,2216,Gonzaga  Timeout,7,0,7,0,0.6626807864799589,San Francisco,Gonzaga,3,4,1,0,NA,401094060,2019-02-23,
+23,1,6:56,2216,2216,Official TV Timeout,7,0,7,12,0.6626807864799589,San Francisco,Gonzaga,3,4,1,0,NA,401094060,2019-02-23,
+24,1,6:44,2204,2204,Jenn Wirth Turnover.,7,0,7,4,0.663549016076131,San Francisco,Gonzaga,3,4,1,0,NA,401094060,2019-02-23,
+25,1,6:40,2200,2200,Shannon Powell Steal.,7,0,7,20,0.6638387398377238,San Francisco,Gonzaga,3,4,1,0,NA,401094060,2019-02-23,
+26,1,6:20,2180,2180,Moa Lundqvist Turnover.,7,0,7,1,0.66528921601273,San Francisco,Gonzaga,3,4,1,0,NA,401094060,2019-02-23,
+27,1,6:19,2179,2179,Jill Townsend Steal.,7,0,7,18,0.6653618060402517,San Francisco,Gonzaga,3,4,1,0,NA,401094060,2019-02-23,
+28,1,6:01,2161,2161,Zykera Rice made Jumper. Assisted by Laura Stockton.,7,2,5,22,0.6213105801391459,San Francisco,Gonzaga,3,4,1,0,NA,401094060,2019-02-23,Gonzaga
+29,1,5:39,2139,2139,Lucija Kostic made Jumper. Assisted by Abby Rathbun.,9,2,7,28,0.6682747965530983,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,San Francisco
+30,1,5:11,2111,2111,Foul on Shannon Powell.,9,2,7,2,0.6703307573401611,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+31,1,5:09,2109,2109,Jill Townsend missed Jumper.,9,2,7,0,0.6704782194488468,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+32,1,5:09,2109,2109,Shannon Powell Defensive Rebound.,9,2,7,11,0.6704782194488468,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+33,1,4:58,2098,2098,Julia Nielacna made Jumper.,11,2,9,18,0.7146420102087014,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,San Francisco
+34,1,4:40,2080,2080,Foul on Julia Nielacna.,11,2,9,3,0.7162279428147935,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+35,1,4:37,2077,2077,Chandler Smith missed Jumper.,11,2,9,0,0.7164929458268391,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+36,1,4:37,2077,2077,Abby Rathbun Defensive Rebound.,11,2,9,18,0.7164929458268391,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+37,1,4:19,2059,2059,Abby Rathbun missed Jumper.,11,2,9,0,0.718087294522049,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+38,1,4:19,2059,2059,Jill Townsend Defensive Rebound.,11,2,9,13,0.718087294522049,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+39,1,4:06,2046,2046,Jenn Wirth Turnover.,11,2,9,1,0.7192436102117998,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+40,1,4:05,2045,2045,Lucija Kostic Steal.,11,2,9,20,0.7193327330384741,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+41,1,3:45,2025,2025,Julia Nielacna Turnover.,11,2,9,14,0.7211206817802976,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+42,1,3:31,2011,2011,Chandler Smith made Layup.,11,4,7,0,0.6778224202490325,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,Gonzaga
+43,1,3:31,2011,2011,Foul on Abby Rathbun.,11,4,7,0,0.6778224202490325,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+44,1,3:31,2011,2011,Chandler Smith made Free Throw.,11,5,6,11,0.6541944066618746,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,Gonzaga
+45,1,3:20,2000,2000,Nia Alexander missed Three Point Jumper.,11,5,6,0,0.6549411613245076,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+46,1,3:20,2000,2000,Gonzaga Defensive Rebound.,11,5,6,27,0.6549411613245076,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+47,1,2:53,1973,1973,Chandler Smith missed Jumper.,11,5,6,0,0.6567896024885955,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+48,1,2:53,1973,1973,Melody Kempton Offensive Rebound.,11,5,6,6,0.6567896024885955,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+49,1,2:47,1967,1967,Melody Kempton made Layup.,11,7,4,27,0.6068056200258655,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,Gonzaga
+50,1,2:20,1940,1940,Julia Nielacna missed Three Point Jumper.,11,7,4,0,0.6081318904362184,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+51,1,2:20,1940,1940,Gonzaga Defensive Rebound.,11,7,4,19,0.6081318904362184,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+52,1,2:01,1921,1921,Jill Townsend missed Jumper.,11,7,4,0,0.6090753747370153,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+53,1,2:01,1921,1921,Shannon Powell Defensive Rebound.,11,7,4,18,0.6090753747370153,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+54,1,1:43,1903,1903,Marta Galic missed Three Point Jumper.,11,7,4,0,0.6099679120395765,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+55,1,1:43,1903,1903,Chandler Smith Defensive Rebound.,11,7,4,22,0.6099679120395765,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+56,1,1:21,1881,1881,Chandler Smith missed Layup.,11,7,4,0,0.6110571015727363,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+57,1,1:21,1881,1881,Jill Townsend Offensive Rebound.,11,7,4,8,0.6110571015727363,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+58,1,1:13,1873,1873,Foul on Marta Galic.,11,7,4,2,0.6114532770714997,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+59,1,1:11,1871,1871,Zykera Rice missed Jumper.,11,7,4,0,0.6115523612725797,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+60,1,1:11,1871,1871,San Francisco Defensive Rebound.,11,7,4,15,0.6115523612725797,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+61,1,0:56,1856,1856,Nia Alexander Turnover.,11,7,4,0,0.6122963194698661,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+62,1,0:56,1856,1856,Melody Kempton Steal.,11,7,4,13,0.6122963194698661,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+63,1,0:43,1843,1843,Chandler Smith made Three Point Jumper. Assisted by Jessie Loera.,11,10,1,18,0.5286996142243332,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,Gonzaga
+64,1,0:25,1825,1825,Shannon Powell Turnover.,11,10,1,6,0.5289357644419893,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+65,1,0:19,1819,1819,Jill Townsend made Jumper.,11,12,-1,16,0.47098514497939825,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,Gonzaga
+66,1,0:03,1803,1803,Foul on Melody Kempton.,11,12,-1,0,0.47077314087674993,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+67,1,0:03,1803,1803,Shannon Powell made Free Throw.,12,12,0,0,0.5,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,San Francisco
+68,1,0:03,1803,1803,Shannon Powell made Free Throw.,13,12,1,3,0.5292268591232502,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,San Francisco
+69,1,0:00,1800,1800,End of 1st Quarter,13,12,1,6,0.5292668057759684,San Francisco,Gonzaga,3,4,0,0,NA,401094060,2019-02-23,
+70,2,9:54,1794,1794,Moa Lundqvist missed Layup.,13,12,1,0,0.5293469021072449,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+71,2,9:54,1794,1794,Katie Campbell Block.,13,12,1,2,0.5293469021072449,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+72,2,9:52,1792,1792,Chandler Smith Defensive Rebound.,13,12,1,5,0.529373663315156,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+73,2,9:47,1787,1787,Zykera Rice made Layup.,13,14,-1,25,0.470559291216549,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,Gonzaga
+74,2,9:22,1762,1762,Foul on Katie Campbell.,13,14,-1,6,0.4702207012371656,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+75,2,9:16,1756,1756,Lucija Kostic missed Jumper.,13,14,-1,0,0.4701385191826093,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+76,2,9:16,1756,1756,Gonzaga Defensive Rebound.,13,14,-1,10,0.4701385191826093,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+77,2,9:06,1746,1746,Laura Stockton missed Jumper.,13,14,-1,0,0.4700006725452892,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+78,2,9:06,1746,1746,Chandler Smith Offensive Rebound.,13,14,-1,4,0.4700006725452892,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+79,2,9:02,1742,1742,Chandler Smith made Layup.,13,16,-3,12,0.41069506443406634,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,Gonzaga
+80,2,8:50,1730,1730,Shannon Powell made Layup.,15,16,-1,15,0.469777666955943,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,San Francisco
+81,2,8:35,1715,1715,Chandler Smith Turnover.,15,16,-1,1,0.4695656133376494,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+82,2,8:34,1714,1714,Lucija Kostic Steal.,15,16,-1,25,0.4695513670788595,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+83,2,8:09,1689,1689,Shannon Powell missed Layup.,15,16,-1,0,0.46919044411514405,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+84,2,8:09,1689,1689,Moa Lundqvist Offensive Rebound.,15,16,-1,2,0.46919044411514405,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+85,2,8:07,1687,1687,Moa Lundqvist missed Layup.,15,16,-1,0,0.46916131021290813,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+86,2,8:07,1687,1687,Laura Stockton Defensive Rebound.,15,16,-1,23,0.46916131021290813,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+87,2,7:44,1664,1664,LeeAnne Wirth made Jumper. Assisted by Laura Stockton.,15,18,-3,34,0.40745476750699916,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,Gonzaga
+88,2,7:10,1630,1630,Nia Alexander missed Jumper.,15,18,-3,0,0.40608548370873926,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+89,2,7:10,1630,1630,Gonzaga Defensive Rebound.,15,18,-3,14,0.40608548370873926,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+90,2,6:56,1616,1616,Foul on Marija Galic.,15,18,-3,13,0.4055310765221919,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+91,2,6:43,1603,1603,Foul on Abby Rathbun.,15,18,-3,7,0.40501833555380407,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+92,2,6:36,1596,1596,Jenn Wirth missed Jumper.,15,18,-3,0,0.4047424354193056,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+93,2,6:36,1596,1596,Marta Galic Defensive Rebound.,15,18,-3,8,0.4047424354193056,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+94,2,6:28,1588,1588,Marija Galic made Layup. Assisted by Lucija Kostic.,17,18,-1,18,0.4677902179891035,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,San Francisco
+95,2,6:10,1570,1570,Jenn Wirth made Jumper. Assisted by Laura Stockton.,17,20,-3,32,0.4037135981053401,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,Gonzaga
+96,2,5:38,1538,1538,Marija Galic missed Layup.,17,20,-3,0,0.40242257526927494,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+97,2,5:38,1538,1538,Marija Galic Offensive Rebound.,17,20,-3,4,0.40242257526927494,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+98,2,5:34,1534,1534,San Francisco  Turnover.,17,20,-3,18,0.40225809730575945,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+99,2,5:16,1516,1516,Jenn Wirth Turnover.,17,20,-3,7,0.4015066053290615,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+100,2,5:09,1509,1509,Official TV Timeout,17,20,-3,5,0.40120867983807257,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+101,2,5:04,1504,1504,Marta Galic missed Layup.,17,20,-3,0,0.4009936928029703,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+102,2,5:04,1504,1504,Jill Townsend Block.,17,20,-3,4,0.4009936928029703,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+103,2,5:00,1500,1500,Jenn Wirth Defensive Rebound.,17,20,-3,11,0.4008203178416517,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+104,2,4:49,1489,1489,Jenn Wirth Turnover.,17,20,-3,22,0.40033675540277147,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+105,2,4:27,1467,1467,Foul on Jill Townsend.,17,20,-3,21,0.3993362842478114,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+106,2,4:06,1446,1446,Lucija Kostic missed Jumper.,17,20,-3,0,0.3983353338315703,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+107,2,4:06,1446,1446,Nia Alexander Offensive Rebound.,17,20,-3,5,0.3983353338315703,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+108,2,4:01,1441,1441,Foul on Zykera Rice.,17,20,-3,0,0.3980964321682033,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+109,2,4:01,1441,1441,Nia Alexander missed Free Throw.,17,20,-3,0,0.3980964321682033,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+110,2,4:01,1441,1441,San Francisco Deadball Team Rebound.,17,20,-3,0,0.3980964321682033,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+111,2,4:01,1441,1441,Nia Alexander made Free Throw.,18,20,-2,10,0.4315323360506565,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,San Francisco
+112,2,3:51,1431,1431,Zykera Rice made Jumper. Assisted by Chandler Smith.,18,22,-4,19,0.3649782725055745,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,Gonzaga
+113,2,3:32,1412,1412,Marta Galic made Layup. Assisted by Lucija Kostic.,20,22,-2,14,0.4306170205298191,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,San Francisco
+114,2,3:18,1398,1398,Chandler Smith missed Jumper.,20,22,-2,0,0.43018901091808015,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+115,2,3:18,1398,1398,Shannon Powell Defensive Rebound.,20,22,-2,23,0.43018901091808015,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+116,2,2:55,1375,1375,Marta Galic missed Layup.,20,22,-2,0,0.42949640742501055,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+117,2,2:55,1375,1375,Melody Kempton Defensive Rebound.,20,22,-2,9,0.42949640742501055,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+118,2,2:46,1366,1366,Chandler Smith missed Three Point Jumper.,20,22,-2,0,0.4292268295666444,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+119,2,2:46,1366,1366,Lucija Kostic Defensive Rebound.,20,22,-2,26,0.4292268295666444,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+120,2,2:20,1340,1340,Lucija Kostic missed Jumper.,20,22,-2,0,0.4284441216355076,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+121,2,2:20,1340,1340,Gonzaga Defensive Rebound.,20,22,-2,10,0.4284441216355076,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+122,2,2:10,1330,1330,Melody Kempton made Layup. Assisted by Jessie Loera.,20,24,-4,13,0.3591865046020953,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,Gonzaga
+123,2,1:57,1317,1317,Foul on Katie Campbell.,20,24,-4,7,0.35842988374164764,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+124,2,1:50,1310,1310,Foul on Nia Alexander.,20,24,-4,0,0.3580163270779545,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+125,2,1:50,1310,1310,Nia Alexander Turnover.,20,24,-4,14,0.3580163270779545,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,
+126,2,1:36,1296,1296,Jessie Loera made Three Point Jumper.,20,27,-7,7,0.26339550729405686,San Francisco,Gonzaga,4,4,0,0,NA,401094060,2019-02-23,Gonzaga
+127,2,1:29,1289,1289,San Francisco  Timeout,20,27,-7,4,0.2627589772112059,San Francisco,Gonzaga,4,3,0,1,NA,401094060,2019-02-23,
+128,2,1:25,1285,1285,Shannon Powell Turnover.,20,27,-7,1,0.262391008451138,San Francisco,Gonzaga,4,3,0,1,NA,401094060,2019-02-23,
+129,2,1:24,1284,1284,Melody Kempton Steal.,20,27,-7,33,0.26229850956691003,San Francisco,Gonzaga,4,3,0,1,NA,401094060,2019-02-23,
+130,2,0:51,1251,1251,LeeAnne Wirth missed Layup.,20,27,-7,0,0.259114680510333,San Francisco,Gonzaga,4,3,0,1,NA,401094060,2019-02-23,
+131,2,0:51,1251,1251,Lucija Kostic Defensive Rebound.,20,27,-7,18,0.259114680510333,San Francisco,Gonzaga,4,3,0,1,NA,401094060,2019-02-23,
+132,2,0:33,1233,1233,Marta Galic Turnover.,20,27,-7,1,0.2572511381854244,San Francisco,Gonzaga,4,3,0,1,NA,401094060,2019-02-23,
+133,2,0:32,1232,1232,Jessie Loera Steal.,20,27,-7,30,0.2571445866743454,San Francisco,Gonzaga,4,3,0,1,NA,401094060,2019-02-23,
+134,2,0:02,1202,1202,Gonzaga  Turnover.,20,27,-7,2,0.25380406840070185,San Francisco,Gonzaga,4,3,0,0,NA,401094060,2019-02-23,
+135,2,0:00,1200,1200,End of 2nd Quarter,20,27,-7,8,0.2535798049742589,San Francisco,Gonzaga,4,3,0,0,NA,401094060,2019-02-23,
+136,3,9:52,1192,1192,Foul on Nia Alexander.,20,27,-7,14,0.2526926516882796,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+137,3,9:38,1178,1178,Foul on Moa Lundqvist.,20,27,-7,0,0.25117359643581477,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+138,3,9:38,1178,1178,LeeAnne Wirth made Free Throw.,20,28,-8,2,0.22297468171023577,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,Gonzaga
+139,3,9:36,1176,1176,Moa Lundqvist Defensive Rebound.,20,28,-8,13,0.2227493977296724,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+140,3,9:23,1163,1163,Foul on Katie Campbell.,20,28,-8,0,0.22130142769765201,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+141,3,9:23,1163,1163,Shannon Powell missed Free Throw.,20,28,-8,0,0.22130142769765201,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+142,3,9:23,1163,1163,San Francisco Deadball Team Rebound.,20,28,-8,0,0.22130142769765201,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+143,3,9:23,1163,1163,Shannon Powell made Free Throw.,21,28,-7,16,0.2495832785884907,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,San Francisco
+144,3,9:07,1147,1147,Laura Stockton made Jumper. Assisted by Katie Campbell.,21,30,-9,17,0.1935925041030363,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,Gonzaga
+145,3,8:50,1130,1130,Shannon Powell made Layup. Assisted by Lucija Kostic.,23,30,-7,13,0.24616023986226804,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,San Francisco
+146,3,8:37,1117,1117,LeeAnne Wirth missed Layup.,23,30,-7,0,0.24481852634548412,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+147,3,8:37,1117,1117,Lucija Kostic Defensive Rebound.,23,30,-7,12,0.24481852634548412,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+148,3,8:25,1105,1105,Moa Lundqvist missed Layup.,23,30,-7,0,0.24357322077472648,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+149,3,8:25,1105,1105,Zykera Rice Block.,23,30,-7,2,0.24357322077472648,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+150,3,8:23,1103,1103,Nia Alexander Offensive Rebound.,23,30,-7,14,0.2433646000195646,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+151,3,8:09,1089,1089,Nia Alexander Turnover.,23,30,-7,1,0.2418921312610347,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+152,3,8:08,1088,1088,Katie Campbell Steal.,23,30,-7,2,0.24178599946487664,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+153,3,8:06,1086,1086,Katie Campbell made Layup.,23,32,-9,15,0.18679806517891956,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,Gonzaga
+154,3,7:51,1071,1071,Moa Lundqvist missed Layup.,23,32,-9,0,0.18507711052022868,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+155,3,7:51,1071,1071,Zykera Rice Block.,23,32,-9,0,0.18507711052022868,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+156,3,7:51,1071,1071,San Francisco Offensive Rebound.,23,32,-9,3,0.18507711052022868,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+157,3,7:48,1068,1068,Shannon Powell missed Layup.,23,32,-9,0,0.18472804402872017,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+158,3,7:48,1068,1068,Zykera Rice Defensive Rebound.,23,32,-9,10,0.18472804402872017,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+159,3,7:38,1058,1058,LeeAnne Wirth missed Layup.,23,32,-9,0,0.1835507203997485,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+160,3,7:38,1058,1058,Lucija Kostic Defensive Rebound.,23,32,-9,13,0.1835507203997485,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+161,3,7:25,1045,1045,Foul on Katie Campbell.,23,32,-9,16,0.181984300891266,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+162,3,7:09,1029,1029,Abby Rathbun missed Three Point Jumper.,23,32,-9,0,0.17999111292759673,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+163,3,7:09,1029,1029,Gonzaga Defensive Rebound.,23,32,-9,16,0.17999111292759673,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+164,3,6:53,1013,1013,Jessie Loera missed Three Point Jumper.,23,32,-9,0,0.17791416987827188,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+165,3,6:53,1013,1013,Shannon Powell Defensive Rebound.,23,32,-9,11,0.17791416987827188,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+166,3,6:42,1002,1002,Shannon Powell missed Layup.,23,32,-9,0,0.17643148600121442,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+167,3,6:42,1002,1002,Shannon Powell Offensive Rebound.,23,32,-9,2,0.17643148600121442,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+168,3,6:40,1000,1000,Foul on Zykera Rice.,23,32,-9,15,0.17615675978733716,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+169,3,6:25,985,985,Abby Rathbun missed Three Point Jumper.,23,32,-9,0,0.17404265058953441,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+170,3,6:25,985,985,Jenn Wirth Defensive Rebound.,23,32,-9,11,0.17404265058953441,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+171,3,6:14,974,974,Jenn Wirth missed Jumper.,23,32,-9,0,0.1724287082464024,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+172,3,6:14,974,974,Lucija Kostic Defensive Rebound.,23,32,-9,11,0.1724287082464024,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+173,3,6:03,963,963,Nia Alexander missed Three Point Jumper.,23,32,-9,0,0.1707933247667033,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+174,3,6:03,963,963,Abby Rathbun Offensive Rebound.,23,32,-9,5,0.1707933247667033,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+175,3,5:58,958,958,Moa Lundqvist made Jumper. Assisted by Abby Rathbun.,25,32,-7,24,0.22568973053579455,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,San Francisco
+176,3,5:34,934,934,Foul on Lucija Kostic.,25,32,-7,0,0.22266122930655363,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+177,3,5:34,934,934,Foul on Marija Galic.,25,32,-7,1,0.22266122930655363,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+178,3,5:33,933,933,Melody Kempton missed Layup.,25,32,-7,0,0.22254289789492898,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+179,3,5:33,933,933,Shannon Powell Defensive Rebound.,25,32,-7,2,0.22254289789492898,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+180,3,5:31,931,931,Foul on Laura Stockton.,25,32,-7,8,0.22230783984725208,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+181,3,5:23,923,923,Marija Galic missed Layup.,25,32,-7,0,0.221387502311883,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+182,3,5:23,923,923,Gonzaga Defensive Rebound.,25,32,-7,25,0.221387502311883,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+183,3,4:58,898,898,Laura Stockton missed Jumper.,25,32,-7,0,0.2186679990978802,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+184,3,4:58,898,898,Laura Stockton Offensive Rebound.,25,32,-7,14,0.2186679990978802,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+185,3,4:44,884,884,Jill Townsend made Layup.,25,34,-9,22,0.1613369729971128,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,Gonzaga
+186,3,4:22,862,862,Abby Rathbun missed Jumper.,25,34,-9,0,0.15900257529549222,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+187,3,4:22,862,862,Lucija Kostic Offensive Rebound.,25,34,-9,3,0.15900257529549222,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+188,3,4:19,859,859,Lucija Kostic missed Jumper.,25,34,-9,0,0.15868133480115945,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+189,3,4:19,859,859,Jill Townsend Defensive Rebound.,25,34,-9,2,0.15868133480115945,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+190,3,4:17,857,857,Foul on Marta Galic.,25,34,-9,0,0.15846636136502545,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+191,3,4:17,857,857,Official TV Timeout,25,34,-9,0,0.15846636136502545,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+192,3,4:17,857,857,Laura Stockton made Free Throw.,25,35,-10,0,0.13526303859396657,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,Gonzaga
+193,3,4:17,857,857,Laura Stockton made Free Throw.,25,36,-11,27,0.11499298363868579,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,Gonzaga
+194,3,3:50,830,830,Zykera Rice Defensive Rebound.,25,36,-11,0,0.11219923914262765,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+195,3,3:50,830,830,Marta Galic missed Jumper.,25,36,-11,30,0.11219923914262765,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+196,3,3:20,800,800,Zykera Rice missed Jumper.,25,36,-11,0,0.10877397941764434,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+197,3,3:20,800,800,Marta Galic Defensive Rebound.,25,36,-11,24,0.10877397941764434,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+198,3,2:56,776,776,Marta Galic missed Jumper.,25,36,-11,0,0.10566500717920843,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+199,3,2:56,776,776,San Francisco Offensive Rebound.,25,36,-11,12,0.10566500717920843,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+200,3,2:44,764,764,Foul on Melody Kempton.,25,36,-11,0,0.10395809787826277,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+201,3,2:44,764,764,Shannon Powell made Free Throw.,26,36,-10,0,0.12366402372704642,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,San Francisco
+202,3,2:44,764,764,Shannon Powell missed Free Throw.,26,36,-10,0,0.12366402372704642,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+203,3,2:44,764,764,Lucija Kostic Offensive Rebound.,26,36,-10,14,0.12366402372704642,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+204,3,2:30,750,750,Moa Lundqvist made Layup. Assisted by Lucija Kostic.,28,36,-8,19,0.17031839869293205,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,San Francisco
+205,3,2:11,731,731,Foul on Zykera Rice.,28,36,-8,0,0.1667402090305161,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+206,3,2:11,731,731,Zykera Rice Turnover.,28,36,-8,14,0.1667402090305161,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+207,3,1:57,717,717,Moa Lundqvist Turnover.,28,36,-8,12,0.16407896411352527,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+208,3,1:45,705,705,Chandler Smith missed Jumper.,28,36,-8,0,0.16202176628287573,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+209,3,1:45,705,705,Jenn Wirth Offensive Rebound.,28,36,-8,3,0.16202176628287573,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+210,3,1:42,702,702,Jenn Wirth missed Layup.,28,36,-8,0,0.1615340143331071,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+211,3,1:42,702,702,San Francisco Defensive Rebound.,28,36,-8,14,0.1615340143331071,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+212,3,1:28,688,688,Abby Rathbun made Jumper.,30,36,-6,27,0.2231847308735101,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,San Francisco
+213,3,1:01,661,661,LeeAnne Wirth missed Layup.,30,36,-6,0,0.21941679189918137,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+214,3,1:01,661,661,Chandler Smith Offensive Rebound.,30,36,-6,24,0.21941679189918137,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+215,3,0:37,637,637,Foul on Lucija Kostic.,30,36,-6,0,0.21606965006958384,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+216,3,0:37,637,637,Jill Townsend made Free Throw.,30,37,-7,0,0.18190320908424934,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,Gonzaga
+217,3,0:37,637,637,Jill Townsend made Free Throw.,30,38,-8,25,0.15209123252247642,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,Gonzaga
+218,3,0:12,612,612,Lucija Kostic missed Jumper.,30,38,-8,0,0.1482228052010976,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+219,3,0:12,612,612,Abby Rathbun Offensive Rebound.,30,38,-8,2,0.1482228052010976,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+220,3,0:10,610,610,Abby Rathbun made Layup.,32,38,-6,8,0.21191246437721983,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,San Francisco
+221,3,0:02,602,602,Jill Townsend made Jumper.,32,40,-8,2,0.14651437108082085,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,Gonzaga
+222,3,0:00,600,600,End of 3rd Quarter,32,40,-8,6,0.14615880788992122,San Francisco,Gonzaga,5,4,0,0,NA,401094060,2019-02-23,
+223,4,9:54,594,594,Foul on Jessie Loera.,32,40,-8,0,0.1450617748242311,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+224,4,9:54,594,594,Jessie Loera Turnover.,32,40,-8,11,0.1450617748242311,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+225,4,9:43,583,583,Shannon Powell made Layup. Assisted by Lucija Kostic.,34,40,-6,10,0.20694801098007237,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,San Francisco
+226,4,9:33,573,573,Jenn Wirth missed Jumper.,34,40,-6,0,0.2048283375620838,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+227,4,9:33,573,573,Nia Alexander Defensive Rebound.,34,40,-6,40,0.2048283375620838,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+228,4,8:53,533,533,Shannon Powell missed Jumper.,34,40,-6,0,0.19517633306474996,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+229,4,8:53,533,533,Nia Alexander Offensive Rebound.,34,40,-6,1,0.19517633306474996,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+230,4,8:52,532,532,Foul on Jenn Wirth.,34,40,-6,1,0.1949610783617485,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+231,4,8:51,531,531,Lucija Kostic missed Jumper.,34,40,-6,0,0.19474798999819956,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+232,4,8:51,531,531,Chandler Smith Defensive Rebound.,34,40,-6,10,0.19474798999819956,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+233,4,8:41,521,521,Foul on Moa Lundqvist.,34,40,-6,17,0.1927191075732782,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+234,4,8:24,504,504,Chandler Smith made Three Point Jumper. Assisted by Laura Stockton.,34,43,-9,20,0.10159975168334094,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,Gonzaga
+235,4,8:04,484,484,Shannon Powell made Three Point Jumper.,37,43,-6,17,0.18578224712526148,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,San Francisco
+236,4,7:47,467,467,Jessie Loera made Jumper.,37,45,-8,10,0.1189896237956438,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,Gonzaga
+237,4,7:37,457,457,Lucija Kostic Turnover.,37,45,-8,1,0.11672919504143847,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+238,4,7:36,456,456,Chandler Smith Steal.,37,45,-8,11,0.1164892462035288,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+239,4,7:25,445,445,Jessie Loera missed Three Point Jumper.,37,45,-8,0,0.11365970481579542,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+240,4,7:25,445,445,Shannon Powell Defensive Rebound.,37,45,-8,3,0.11365970481579542,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+241,4,7:22,442,442,Foul on Jenn Wirth.,37,45,-8,19,0.11282293061390436,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+242,4,7:03,423,423,Lucija Kostic missed Layup.,37,45,-8,0,0.10696256399857304,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+243,4,7:03,423,423,Zykera Rice Defensive Rebound.,37,45,-8,7,0.10696256399857304,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+244,4,6:56,416,416,Foul on Moa Lundqvist.,37,45,-8,9,0.104895291244168,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+245,4,6:47,407,407,Zykera Rice made Jumper. Assisted by Chandler Smith.,37,47,-10,18,0.06216996469224226,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,Gonzaga
+246,4,6:29,389,389,Lucija Kostic missed Layup.,37,47,-10,0,0.058450874577111324,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+247,4,6:29,389,389,Abby Rathbun Offensive Rebound.,37,47,-10,11,0.058450874577111324,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+248,4,6:18,378,378,Marta Galic missed Three Point Jumper.,37,47,-10,0,0.05623665361982731,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+249,4,6:18,378,378,Zykera Rice Defensive Rebound.,37,47,-10,13,0.05623665361982731,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+250,4,6:05,365,365,Katie Campbell missed Three Point Jumper.,37,47,-10,0,0.053567540538666164,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+251,4,6:05,365,365,Marta Galic Defensive Rebound.,37,47,-10,5,0.053567540538666164,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+252,4,6:00,360,360,Foul on Melody Kempton.,37,47,-10,11,0.05250773103578903,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+253,4,5:49,349,349,Marta Galic missed Three Point Jumper.,37,47,-10,0,0.05008221938526526,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+254,4,5:49,349,349,Jill Townsend Defensive Rebound.,37,47,-10,3,0.05008221938526526,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+255,4,5:46,346,346,Foul on Nia Alexander.,37,47,-10,13,0.04939464972701084,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+256,4,5:33,333,333,Jill Townsend missed Three Point Jumper.,37,47,-10,0,0.04626708423492702,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+257,4,5:33,333,333,Melody Kempton Offensive Rebound.,37,47,-10,3,0.04626708423492702,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+258,4,5:30,330,330,Foul on Shannon Powell.,37,47,-10,0,0.04550915850238685,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+259,4,5:30,330,330,Foul on Marija Galic.,37,47,-10,0,0.04550915850238685,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+260,4,5:30,330,330,Melody Kempton made Free Throw.,37,48,-11,0,0.033974141799299515,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,Gonzaga
+261,4,5:30,330,330,Melody Kempton made Free Throw.,37,49,-12,8,0.025285405132506048,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,Gonzaga
+262,4,5:22,322,322,Shannon Powell Turnover.,37,49,-12,26,0.023870563184410186,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+263,4,4:56,296,296,Melody Kempton missed Layup.,37,49,-12,0,0.020065380333833756,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+264,4,4:56,296,296,Melody Kempton Offensive Rebound.,37,49,-12,4,0.020065380333833756,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+265,4,4:52,292,292,Melody Kempton Turnover.,37,49,-12,0,0.019917683376798962,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+266,4,4:52,292,292,Marta Galic Steal.,37,49,-12,7,0.019917683376798962,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+267,4,4:45,285,285,Shannon Powell missed Layup.,37,49,-12,0,0.019898824434608234,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+268,4,4:45,285,285,Jill Townsend Defensive Rebound.,37,49,-12,5,0.019898824434608234,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,
+269,4,4:40,280,280,Jill Townsend made Layup.,37,51,-14,28,0.010579076939546638,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,Gonzaga
+270,4,4:12,252,252,Nia Alexander made Jumper.,39,51,-12,24,0.021911034930131666,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,San Francisco
+271,4,3:48,228,228,Zykera Rice made Jumper.,39,53,-14,8,0.011993398303910817,San Francisco,Gonzaga,6,5,0,0,NA,401094060,2019-02-23,Gonzaga
+272,4,3:40,220,220,San Francisco  Timeout,39,53,-14,0,0.01152099541707445,San Francisco,Gonzaga,6,4,0,1,NA,401094060,2019-02-23,
+273,4,3:40,220,220,Official TV Timeout,39,53,-14,11,0.01152099541707445,San Francisco,Gonzaga,6,4,0,1,NA,401094060,2019-02-23,
+274,4,3:29,209,209,Lucija Kostic missed Jumper.,39,53,-14,0,0.01029340542758843,San Francisco,Gonzaga,6,4,0,1,NA,401094060,2019-02-23,
+275,4,3:29,209,209,Jill Townsend Defensive Rebound.,39,53,-14,13,0.01029340542758843,San Francisco,Gonzaga,6,4,0,1,NA,401094060,2019-02-23,
+276,4,3:16,196,196,Laura Stockton made Layup.,39,55,-16,21,0.004088746461753647,San Francisco,Gonzaga,6,4,0,1,NA,401094060,2019-02-23,Gonzaga
+277,4,2:55,175,175,Moa Lundqvist Turnover.,39,55,-16,3,0.0020606530995432573,San Francisco,Gonzaga,6,4,0,1,NA,401094060,2019-02-23,
+278,4,2:52,172,172,LeeAnne Wirth Steal.,39,55,-16,28,0.0018577114059614556,San Francisco,Gonzaga,6,4,0,1,NA,401094060,2019-02-23,
+279,4,2:24,144,144,Chandler Smith made Three Point Jumper. Assisted by Jill Townsend.,39,58,-19,25,1.6134847165543797e-4,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,Gonzaga
+280,4,1:59,119,119,Abby Rathbun Turnover.,39,58,-19,1,3.88373595387552e-5,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+281,4,1:58,118,118,Laura Stockton Steal.,39,58,-19,8,3.6394812921115586e-5,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+282,4,1:50,110,110,Melody Kempton missed Layup.,39,58,-19,0,2.1089400434216744e-5,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+283,4,1:50,110,110,Shannon Powell Defensive Rebound.,39,58,-19,11,2.1089400434216744e-5,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+284,4,1:39,99,99,Lucija Kostic made Layup.,41,58,-17,18,3.110344649955126e-5,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,San Francisco
+285,4,1:21,81,81,Jill Townsend Turnover.,41,58,-17,1,7.914467369487386e-6,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+286,4,1:20,80,80,Shannon Powell Steal.,41,58,-17,3,7.30810935976496e-6,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+287,4,1:17,77,77,Shannon Powell made Layup.,43,58,-15,11,2.3719311355869117e-5,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,San Francisco
+288,4,1:06,66,66,Zykera Rice made Layup. Assisted by Laura Stockton.,43,60,-17,21,2.241865320536152e-6,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,Gonzaga
+289,4,0:45,45,45,Moa Lundqvist missed Layup.,43,60,-17,0,3.169095007053117e-7,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+290,4,0:45,45,45,Zykera Rice Block.,43,60,-17,0,3.169095007053117e-7,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+291,4,0:45,45,45,San Francisco Offensive Rebound.,43,60,-17,0,3.169095007053117e-7,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+292,4,0:45,45,45,Official TV Timeout,43,60,-17,11,3.169095007053117e-7,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+293,4,0:34,34,34,Foul on Jill Townsend.,43,60,-17,0,1.0296492091099316e-7,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+294,4,0:34,34,34,Moa Lundqvist missed Free Throw.,43,60,-17,0,1.0296492091099316e-7,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+295,4,0:34,34,34,San Francisco Deadball Team Rebound.,43,60,-17,0,1.0296492091099316e-7,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+296,4,0:34,34,34,Moa Lundqvist missed Free Throw.,43,60,-17,0,1.0296492091099316e-7,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+297,4,0:34,34,34,Abby Rathbun Offensive Rebound.,43,60,-17,2,1.0296492091099316e-7,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+298,4,0:32,32,32,Foul on Melody Kempton.,43,60,-17,0,8.336017930904014e-8,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+299,4,0:32,32,32,Abby Rathbun made Free Throw.,44,60,-16,0,2.1745669212121797e-7,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,San Francisco
+300,4,0:32,32,32,Abby Rathbun missed Free Throw.,44,60,-16,0,2.1745669212121797e-7,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+301,4,0:32,32,32,Jenn Wirth Defensive Rebound.,44,60,-16,6,2.1745669212121797e-7,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+302,4,0:26,26,26,Jessie Loera made Free Throw.,44,62,-18,0,1.6156264347400373e-8,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,Gonzaga
+303,4,0:26,26,26,Foul on Marija Galic.,44,60,-16,0,1.1859893784584715e-7,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+304,4,0:26,26,26,Jessie Loera made Free Throw.,44,61,-17,15,4.3773460927997953e-8,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,Gonzaga
+305,4,0:11,11,11,Marta Galic Turnover.,44,62,-18,0,2.6596425886516632e-9,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,Gonzaga
+306,4,0:11,11,11,Jessie Loera Steal.,44,62,-18,0,2.6596425886516632e-9,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+307,4,0:11,11,11,Foul on Abby Rathbun.,44,62,-18,0,2.6596425886516632e-9,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+308,4,0:11,11,11,Jessie Loera made Free Throw.,44,63,-19,0,8.880237330431103e-10,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,Gonzaga
+309,4,0:11,11,11,Jessie Loera made Free Throw.,44,64,-20,7,2.965007978447939e-10,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,Gonzaga
+310,4,0:04,4,4,Marija Galic missed Jumper.,44,64,-20,0,1.0922258727274572e-10,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+311,4,0:04,4,4,Gonzaga Deadball Team Rebound.,44,64,-20,4,1.0922258727274572e-10,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,
+312,4,0:00,0,0,End of Game,44,64,-20,0,1.9151695967140057e-174,San Francisco,Gonzaga,6,4,0,0,NA,401094060,2019-02-23,

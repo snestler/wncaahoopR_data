@@ -1,0 +1,318 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Jump Ball won by Indiana,0,0,0,10,0.5,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,NA
+2,1,9:50,2390,2390,Brenna Wise Turnover.,0,0,0,16,0.5,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+3,1,9:34,2374,2374,Ruthy Hebard made Layup. Assisted by Sabrina Ionescu.,2,0,2,24,0.5445753877960263,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+4,1,9:10,2350,2350,Bendu Yeaney made Jumper.,2,2,0,18,0.5,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Indiana
+5,1,8:52,2332,2332,Maite Cazorla made Layup.,4,2,2,12,0.5454821952070623,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+6,1,8:40,2320,2320,Ali Patberg missed Jumper.,4,2,2,0,0.545745316074961,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+7,1,8:40,2320,2320,Satou Sabally Defensive Rebound.,4,2,2,14,0.545745316074961,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+8,1,8:26,2306,2306,Foul on Satou Sabally.,4,2,2,0,0.5460543386548282,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+9,1,8:26,2306,2306,Satou Sabally Turnover.,4,2,2,9,0.5460543386548282,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+10,1,8:17,2297,2297,Brenna Wise missed Three Point Jumper.,4,2,2,0,0.5462540972634312,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+11,1,8:17,2297,2297,Linsey Marchese Offensive Rebound.,4,2,2,4,0.5462540972634312,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+12,1,8:13,2293,2293,Linsey Marchese missed Layup.,4,2,2,0,0.5463431431926905,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+13,1,8:13,2293,2293,Ruthy Hebard Block.,4,2,2,0,0.5463431431926905,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+14,1,8:13,2293,2293,Maite Cazorla Defensive Rebound.,4,2,2,14,0.5463431431926905,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+15,1,7:59,2279,2279,Ruthy Hebard missed Layup.,4,2,2,0,0.5466560252495682,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+16,1,7:59,2279,2279,Indiana Defensive Rebound.,4,2,2,12,0.5466560252495682,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+17,1,7:47,2267,2267,Jaelynn Penn missed Jumper.,4,2,2,0,0.546925639914279,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+18,1,7:47,2267,2267,Ruthy Hebard Defensive Rebound.,4,2,2,11,0.546925639914279,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+19,1,7:36,2256,2256,Foul on Ruthy Hebard.,4,2,2,0,0.5471738642773869,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+20,1,7:36,2256,2256,Ruthy Hebard Turnover.,4,2,2,5,0.5471738642773869,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+21,1,7:31,2251,2251,Ali Patberg made Layup.,4,4,0,17,0.5,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Indiana
+22,1,7:14,2234,2234,Sabrina Ionescu made Jumper.,6,4,2,10,0.5476731190364036,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+23,1,7:04,2224,2224,Ali Patberg made Layup.,6,6,0,16,0.5,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Indiana
+24,1,6:48,2208,2208,Erin Boley Turnover.,6,6,0,0,0.5,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+25,1,6:48,2208,2208,Ali Patberg Steal.,6,6,0,5,0.5,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+26,1,6:43,2203,2203,Bendu Yeaney made Layup. Assisted by Ali Patberg.,6,8,-2,16,0.4516179558921834,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Indiana
+27,1,6:27,2187,2187,Ruthy Hebard made Jumper. Assisted by Satou Sabally.,8,8,0,12,0.5,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+28,1,6:15,2175,2175,Jaelynn Penn missed Three Point Jumper.,8,8,0,0,0.5,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+29,1,6:15,2175,2175,Erin Boley Defensive Rebound.,8,8,0,9,0.5,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+30,1,6:06,2166,2166,Erin Boley made Three Point Jumper. Assisted by Sabrina Ionescu.,11,8,3,21,0.5735543170849603,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+31,1,5:45,2145,2145,Ali Patberg missed Three Point Jumper.,11,8,3,0,0.574276414067759,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+32,1,5:45,2145,2145,Brenna Wise Offensive Rebound.,11,8,3,6,0.574276414067759,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+33,1,5:39,2139,2139,Ali Patberg missed Layup.,11,8,3,0,0.5744836413761442,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+34,1,5:39,2139,2139,Ruthy Hebard Defensive Rebound.,11,8,3,9,0.5744836413761442,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+35,1,5:30,2130,2130,Erin Boley made Layup. Assisted by Sabrina Ionescu.,13,8,5,25,0.6230244310212453,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+36,1,5:05,2105,2105,Ali Patberg missed Jumper.,13,8,5,0,0.6244187764379728,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+37,1,5:05,2105,2105,Erin Boley Defensive Rebound.,13,8,5,11,0.6244187764379728,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+38,1,4:54,2094,2094,Sabrina Ionescu missed Layup.,13,8,5,0,0.6250360750198689,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+39,1,4:54,2094,2094,Linsey Marchese Defensive Rebound.,13,8,5,11,0.6250360750198689,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+40,1,4:43,2083,2083,Jaelynn Penn missed Layup.,13,8,5,0,0.6256558297818652,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+41,1,4:43,2083,2083,Satou Sabally Defensive Rebound.,13,8,5,20,0.6256558297818652,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+42,1,4:23,2063,2063,Ruthy Hebard missed Jumper.,13,8,5,0,0.6267892730067947,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+43,1,4:23,2063,2063,Oregon Offensive Rebound.,13,8,5,0,0.6267892730067947,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+44,1,4:23,2063,2063,Official TV Timeout,13,8,5,5,0.6267892730067947,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+45,1,4:18,2058,2058,Maite Cazorla missed Three Point Jumper.,13,8,5,0,0.627074023482335,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+46,1,4:18,2058,2058,Oregon Offensive Rebound.,13,8,5,13,0.627074023482335,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+47,1,4:05,2045,2045,Satou Sabally missed Layup.,13,8,5,0,0.6278170858277525,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+48,1,4:05,2045,2045,Brenna Wise Block.,13,8,5,0,0.6278170858277525,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+49,1,4:05,2045,2045,Indiana Defensive Rebound.,13,8,5,12,0.6278170858277525,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+50,1,3:53,2033,2033,Ali Patberg missed Three Point Jumper.,13,8,5,0,0.6285065758106235,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+51,1,3:53,2033,2033,Sabrina Ionescu Defensive Rebound.,13,8,5,9,0.6285065758106235,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+52,1,3:44,2024,2024,Oti Gildon made Layup. Assisted by Sabrina Ionescu.,15,8,7,0,0.6768333709576275,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+53,1,3:44,2024,2024,Foul on Brenna Wise.,15,8,7,0,0.6768333709576275,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+54,1,3:44,2024,2024,Oti Gildon made Free Throw.,16,8,8,19,0.6994888915689305,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+55,1,3:25,2005,2005,Kym Royster made Layup.,16,10,6,24,0.6546012871172677,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Indiana
+56,1,3:01,1981,1981,Sabrina Ionescu made Jumper.,18,10,8,11,0.7031008549938805,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+57,1,2:50,1970,1970,Brenna Wise missed Three Point Jumper.,18,10,8,0,0.7040342825802951,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+58,1,2:50,1970,1970,Brenna Wise Offensive Rebound.,18,10,8,11,0.7040342825802951,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+59,1,2:39,1959,1959,Grace Berger made Jumper.,18,12,6,10,0.6577571217699562,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Indiana
+60,1,2:29,1949,1949,Satou Sabally Turnover.,18,12,6,0,0.6584521602713852,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+61,1,2:29,1949,1949,Jaelynn Penn Steal.,18,12,6,9,0.6584521602713852,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+62,1,2:20,1940,1940,Jaelynn Penn made Layup.,18,14,4,12,0.6081318904362184,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Indiana
+63,1,2:08,1928,1928,Erin Boley missed Three Point Jumper.,18,14,4,0,0.6087275348662343,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+64,1,2:08,1928,1928,Ali Patberg Defensive Rebound.,18,14,4,12,0.6087275348662343,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+65,1,1:56,1916,1916,Grace Berger made Jumper. Assisted by Ali Patberg.,18,16,2,11,0.5553311657182827,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Indiana
+66,1,1:45,1905,1905,Satou Sabally made Layup.,20,16,4,0,0.6098688405376097,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+67,1,1:45,1905,1905,Foul on Grace Berger.,20,16,4,0,0.6098688405376097,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+68,1,1:45,1905,1905,Satou Sabally missed Free Throw.,20,16,4,0,0.6098688405376097,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+69,1,1:45,1905,1905,Aleksa Gulbe Defensive Rebound.,20,16,4,9,0.6098688405376097,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+70,1,1:36,1896,1896,Foul on Sabrina Ionescu.,20,16,4,0,0.6103145445116247,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+71,1,1:36,1896,1896,Linsey Marchese missed Free Throw.,20,16,4,0,0.6103145445116247,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+72,1,1:36,1896,1896,Indiana Deadball Team Rebound.,20,16,4,0,0.6103145445116247,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+73,1,1:36,1896,1896,Linsey Marchese missed Free Throw.,20,16,4,0,0.6103145445116247,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+74,1,1:36,1896,1896,Oti Gildon Defensive Rebound.,20,16,4,8,0.6103145445116247,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+75,1,1:28,1888,1888,Foul on Bendu Yeaney.,20,16,4,8,0.610710572084459,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+76,1,1:20,1880,1880,Sabrina Ionescu made Layup.,22,16,6,0,0.6632808469974103,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+77,1,1:20,1880,1880,Foul on Aleksa Gulbe.,22,16,6,0,0.6632808469974103,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+78,1,1:20,1880,1880,Sabrina Ionescu made Free Throw.,23,16,7,12,0.6880333115507471,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+79,1,1:08,1868,1868,Grace Berger missed Jumper.,23,16,7,0,0.6889723010360082,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+80,1,1:08,1868,1868,Ruthy Hebard Defensive Rebound.,23,16,7,19,0.6889723010360082,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+81,1,0:49,1849,1849,Foul on Bendu Yeaney.,23,16,7,0,0.6904600744191841,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+82,1,0:49,1849,1849,Maite Cazorla missed Free Throw.,23,16,7,0,0.6904600744191841,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+83,1,0:49,1849,1849,Oregon Deadball Team Rebound.,23,16,7,0,0.6904600744191841,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+84,1,0:49,1849,1849,Maite Cazorla made Free Throw.,24,16,8,10,0.7144062064320809,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+85,1,0:39,1839,1839,Ali Patberg missed Layup.,24,16,8,0,0.7152618875637983,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+86,1,0:39,1839,1839,Maite Cazorla Defensive Rebound.,24,16,8,17,0.7152618875637983,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+87,1,0:22,1822,1822,Morgan Yaeger Turnover.,24,16,8,17,0.7167199351165132,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+88,1,0:05,1805,1805,Jaelynn Penn made Three Point Jumper.,24,19,5,5,0.6421413986087154,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Indiana
+89,1,0:00,1800,1800,End of 1st Quarter,24,19,5,0,0.6424482088636343,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+90,2,10:00,1800,1800,Jump Ball won by Indiana,24,19,5,15,0.6424482088636343,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+91,2,9:45,1785,1785,Brenna Wise made Three Point Jumper. Assisted by Ali Patberg.,24,22,2,21,0.5587311769655111,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Indiana
+92,2,9:24,1764,1764,Foul on Grace Berger.,24,22,2,2,0.5592940335899296,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+93,2,9:22,1762,1762,Erin Boley missed Three Point Jumper.,24,22,2,0,0.55934807645382,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+94,2,9:22,1762,1762,Jaelynn Penn Defensive Rebound.,24,22,2,17,0.55934807645382,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+95,2,9:05,1745,1745,Ali Patberg made Jumper.,24,24,0,18,0.5,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Indiana
+96,2,8:47,1727,1727,Sabrina Ionescu Turnover.,24,24,0,0,0.5,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+97,2,8:47,1727,1727,Brenna Wise Steal.,24,24,0,6,0.5,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+98,2,8:41,1721,1721,Foul on Erin Boley.,24,24,0,0,0.5,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+99,2,8:41,1721,1721,Grace Berger made Free Throw.,24,25,-1,0,0.4696507989640048,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Indiana
+100,2,8:41,1721,1721,Grace Berger missed Free Throw.,24,25,-1,0,0.4696507989640048,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+101,2,8:41,1721,1721,Ruthy Hebard Defensive Rebound.,24,25,-1,10,0.4696507989640048,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+102,2,8:31,1711,1711,Satou Sabally missed Three Point Jumper.,24,25,-1,0,0.46950854334579023,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+103,2,8:31,1711,1711,Lydia Giomi Offensive Rebound.,24,25,-1,4,0.46950854334579023,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+104,2,8:27,1707,1707,Sabrina Ionescu missed Three Point Jumper.,24,25,-1,0,0.46945124391114296,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+105,2,8:27,1707,1707,Grace Berger Defensive Rebound.,24,25,-1,10,0.46945124391114296,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+106,2,8:17,1697,1697,Jaelynn Penn made Three Point Jumper. Assisted by Ali Patberg.,24,28,-4,19,0.3794915474155856,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Indiana
+107,2,7:58,1678,1678,Ruthy Hebard missed Jumper.,24,28,-4,0,0.37844962820694666,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+108,2,7:58,1678,1678,Grace Berger Defensive Rebound.,24,28,-4,5,0.37844962820694666,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+109,2,7:53,1673,1673,Foul on Lydia Giomi.,24,28,-4,23,0.3781795941649741,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+110,2,7:30,1650,1650,Ali Patberg Turnover.,24,28,-4,0,0.37695972633777897,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+111,2,7:30,1650,1650,Ruthy Hebard Steal.,24,28,-4,15,0.37695972633777897,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+112,2,7:15,1635,1635,Sabrina Ionescu made Three Point Jumper. Assisted by Lydia Giomi.,27,28,-1,0,0.46842982074859985,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+113,2,7:15,1635,1635,Foul on Ali Patberg.,27,28,-1,0,0.46842982074859985,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+114,2,7:15,1635,1635,Sabrina Ionescu made Free Throw.,28,28,0,15,0.5,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+115,2,7:00,1620,1620,Ali Patberg Turnover.,28,28,0,0,0.5,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+116,2,7:00,1620,1620,Satou Sabally Steal.,28,28,0,33,0.5,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+117,2,6:27,1587,1587,Foul on Ali Patberg.,28,28,0,10,0.5,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+118,2,6:17,1577,1577,Sabrina Ionescu made Three Point Jumper. Assisted by Erin Boley.,31,28,3,10,0.5960083187829487,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+119,2,6:07,1567,1567,Jaelynn Penn missed Layup.,31,28,3,0,0.5964059410488348,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+120,2,6:07,1567,1567,Sabrina Ionescu Defensive Rebound.,31,28,3,14,0.5964059410488348,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+121,2,5:53,1553,1553,Ruthy Hebard made Layup. Assisted by Maite Cazorla.,33,28,5,22,0.658078220263089,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+122,2,5:31,1531,1531,Aleksa Gulbe missed Jumper.,33,28,5,0,0.6594777047613101,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+123,2,5:31,1531,1531,Sabrina Ionescu Defensive Rebound.,33,28,5,14,0.6594777047613101,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+124,2,5:17,1517,1517,Foul on Linsey Marchese.,33,28,5,0,0.660388483825753,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+125,2,5:17,1517,1517,Satou Sabally missed Free Throw.,33,28,5,0,0.660388483825753,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+126,2,5:17,1517,1517,Oregon Deadball Team Rebound.,33,28,5,0,0.660388483825753,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+127,2,5:17,1517,1517,Satou Sabally missed Free Throw.,33,28,5,0,0.660388483825753,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+128,2,5:17,1517,1517,Grace Berger Defensive Rebound.,33,28,5,33,0.660388483825753,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+129,2,4:44,1484,1484,Indiana  Turnover.,33,28,5,0,0.6626190024714683,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+130,2,4:44,1484,1484,Official TV Timeout,33,28,5,16,0.6626190024714683,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+131,2,4:28,1468,1468,Satou Sabally made Three Point Jumper. Assisted by Maite Cazorla.,36,28,8,21,0.7480237131203396,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+132,2,4:07,1447,1447,Grace Berger missed Three Point Jumper.,36,28,8,0,0.7501128539404939,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+133,2,4:07,1447,1447,Ruthy Hebard Defensive Rebound.,36,28,8,25,0.7501128539404939,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+134,2,3:42,1422,1422,Jump Ball won by Oregon,36,28,8,1,0.7525523190595655,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+135,2,3:41,1421,1421,Ruthy Hebard Turnover.,36,28,8,27,0.7526472719360344,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+136,2,3:14,1394,1394,Bendu Yeaney missed Three Point Jumper.,36,28,8,0,0.755154979997352,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+137,2,3:14,1394,1394,Ruthy Hebard Defensive Rebound.,36,28,8,18,0.755154979997352,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+138,2,2:56,1376,1376,Ruthy Hebard missed Layup.,36,28,8,0,0.7567853277077223,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+139,2,2:56,1376,1376,Jaelynn Penn Defensive Rebound.,36,28,8,9,0.7567853277077223,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+140,2,2:47,1367,1367,Sabrina Ionescu Steal.,36,28,8,0,0.7575945123275607,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+141,2,2:47,1367,1367,Kym Royster Turnover.,36,28,8,8,0.7575945123275607,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+142,2,2:39,1359,1359,Satou Sabally made Layup. Assisted by Sabrina Ionescu.,38,28,10,24,0.8067944264449057,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+143,2,2:15,1335,1335,Foul on Lydia Giomi.,38,28,10,0,0.8090914011253149,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+144,2,2:15,1335,1335,Linsey Marchese missed Free Throw.,38,28,10,0,0.8090914011253149,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+145,2,2:15,1335,1335,Indiana Deadball Team Rebound.,38,28,10,0,0.8090914011253149,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+146,2,2:15,1335,1335,Linsey Marchese made Free Throw.,38,29,9,8,0.7857853991328723,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Indiana
+147,2,2:07,1327,1327,Sabrina Ionescu missed Jumper.,38,29,9,0,0.7865431980703126,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+148,2,2:07,1327,1327,Jaelynn Penn Defensive Rebound.,38,29,9,8,0.7865431980703126,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+149,2,1:59,1319,1319,Jaelynn Penn missed Three Point Jumper.,38,29,9,0,0.7873071709991522,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+150,2,1:59,1319,1319,Satou Sabally Defensive Rebound.,38,29,9,24,0.7873071709991522,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+151,2,1:35,1295,1295,Lydia Giomi made Layup. Assisted by Sabrina Ionescu.,40,29,11,25,0.834350629187101,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+152,2,1:10,1270,1270,Foul on Satou Sabally.,40,29,11,16,0.8369443096735669,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+153,2,0:54,1254,1254,Bendu Yeaney made Jumper.,40,31,9,22,0.7939208547761201,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Indiana
+154,2,0:32,1232,1232,Sabrina Ionescu made Three Point Jumper. Assisted by Ruthy Hebard.,43,31,12,30,0.8604007108709697,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,Oregon
+155,2,0:02,1202,1202,Brenna Wise missed Three Point Jumper.,43,31,12,0,0.8639778792073194,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+156,2,0:02,1202,1202,Ruthy Hebard Defensive Rebound.,43,31,12,2,0.8639778792073194,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+157,2,0:00,1200,1200,End of 2nd Quarter,43,31,12,0,0.8642163350891481,Oregon,Indiana,4,4,0,0,NA,401124203,2019-03-24,
+158,3,10:00,1200,1200,Jump Ball won by Indiana,43,31,12,19,0.8642163350891481,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+159,3,9:41,1181,1181,Bendu Yeaney made Jumper. Assisted by Kym Royster.,43,33,10,15,0.8260764234901378,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,Indiana
+160,3,9:26,1166,1166,Sabrina Ionescu made Three Point Jumper. Assisted by Erin Boley.,46,33,13,25,0.8850637544446505,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,Oregon
+161,3,9:01,1141,1141,Brenna Wise missed Jumper.,46,33,13,0,0.8876709862706899,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+162,3,9:01,1141,1141,Indiana Offensive Rebound.,46,33,13,9,0.8876709862706899,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+163,3,8:52,1132,1132,Jaelynn Penn missed Jumper.,46,33,13,0,0.8885926672148512,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+164,3,8:52,1132,1132,Brenna Wise Offensive Rebound.,46,33,13,6,0.8885926672148512,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+165,3,8:46,1126,1126,Bendu Yeaney Turnover.,46,33,13,0,0.8892043093998356,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+166,3,8:46,1126,1126,Sabrina Ionescu Steal.,46,33,13,15,0.8892043093998356,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+167,3,8:31,1111,1111,Erin Boley missed Jumper.,46,33,13,0,0.890729013897493,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+168,3,8:31,1111,1111,Ruthy Hebard Offensive Rebound.,46,33,13,5,0.890729013897493,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+169,3,8:26,1106,1106,Satou Sabally made Three Point Jumper. Assisted by Sabrina Ionescu.,49,33,16,23,0.9301406651706338,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,Oregon
+170,3,8:03,1083,1083,Bendu Yeaney missed Layup.,49,33,16,0,0.9320757533128106,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+171,3,8:03,1083,1083,Satou Sabally Defensive Rebound.,49,33,16,4,0.9320757533128106,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+172,3,7:59,1079,1079,Jump Ball won by Oregon,49,33,16,9,0.9324144924650302,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+173,3,7:50,1070,1070,Satou Sabally missed Three Point Jumper.,49,33,16,0,0.933180689016245,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+174,3,7:50,1070,1070,Indiana Deadball Team Rebound.,49,33,16,3,0.933180689016245,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+175,3,7:47,1067,1067,Foul on Ruthy Hebard.,49,33,16,12,0.9334375422765409,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+176,3,7:35,1055,1055,Bendu Yeaney made Jumper.,49,35,14,13,0.9109541600277993,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,Indiana
+177,3,7:22,1042,1042,Ruthy Hebard missed Jumper.,49,35,14,0,0.9122791933613231,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+178,3,7:22,1042,1042,Jaelynn Penn Defensive Rebound.,49,35,14,16,0.9122791933613231,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+179,3,7:06,1026,1026,Bendu Yeaney Turnover.,49,35,14,6,0.9139535898815012,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+180,3,7:00,1020,1020,Erin Boley missed Three Point Jumper.,49,35,14,0,0.9145955184876778,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+181,3,7:00,1020,1020,Satou Sabally Offensive Rebound.,49,35,14,20,0.9145955184876778,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+182,3,6:40,1000,1000,Sabrina Ionescu missed Jumper.,49,35,14,0,0.9167975071963593,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+183,3,6:40,1000,1000,Jaelynn Penn Block.,49,35,14,0,0.9167975071963593,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+184,3,6:40,1000,1000,Jaelynn Penn Defensive Rebound.,49,35,14,12,0.9167975071963593,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+185,3,6:28,988,988,Grace Berger made Layup.,49,37,12,14,0.888184916155036,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,Indiana
+186,3,6:14,974,974,Satou Sabally made Jumper.,51,37,14,13,0.9198202003831769,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,Oregon
+187,3,6:01,961,961,Ali Patberg made Jumper.,51,39,12,19,0.8918126183209286,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,Indiana
+188,3,5:42,942,942,Satou Sabally Turnover.,51,39,12,14,0.8941335779887027,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+189,3,5:28,928,928,Ali Patberg made Jumper. Assisted by Kym Royster.,51,41,10,21,0.8571523505399209,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,Indiana
+190,3,5:07,907,907,Maite Cazorla made Three Point Jumper. Assisted by Sabrina Ionescu.,54,41,13,11,0.913297522916899,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,Oregon
+191,3,4:56,896,896,Kym Royster made Jumper.,54,43,11,0,0.881118514102543,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,Indiana
+192,3,4:56,896,896,Foul on Oti Gildon.,54,43,11,0,0.881118514102543,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+193,3,4:56,896,896,Kym Royster made Free Throw.,54,44,10,20,0.8606822670698696,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,Indiana
+194,3,4:36,876,876,Ruthy Hebard made Layup. Assisted by Sabrina Ionescu.,56,44,12,19,0.9007978653080665,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,Oregon
+195,3,4:17,857,857,Grace Berger made Jumper.,56,46,10,0,0.8647369614060334,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,Indiana
+196,3,4:17,857,857,Foul on Ruthy Hebard.,56,46,10,0,0.8647369614060334,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+197,3,4:17,857,857,Grace Berger Turnover.,56,46,10,7,0.8647369614060334,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+198,3,4:10,850,850,Satou Sabally missed Three Point Jumper.,56,46,10,0,0.8654760932311724,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+199,3,4:10,850,850,Ali Patberg Defensive Rebound.,56,46,10,12,0.8654760932311724,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+200,3,3:58,838,838,Foul on Maite Cazorla.,56,46,10,0,0.8667711355341409,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+201,3,3:58,838,838,Grace Berger missed Free Throw.,56,46,10,0,0.8667711355341409,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+202,3,3:58,838,838,Indiana Deadball Team Rebound.,56,46,10,0,0.8667711355341409,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+203,3,3:58,838,838,Grace Berger missed Free Throw.,56,46,10,0,0.8667711355341409,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+204,3,3:58,838,838,Satou Sabally Defensive Rebound.,56,46,10,19,0.8667711355341409,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+205,3,3:39,819,819,Oti Gildon made Layup. Assisted by Satou Sabally.,58,46,12,14,0.9063440974994121,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,Oregon
+206,3,3:25,805,805,Jaelynn Penn missed Three Point Jumper.,58,46,12,0,0.9078594714377102,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+207,3,3:25,805,805,Satou Sabally Defensive Rebound.,58,46,12,15,0.9078594714377102,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,
+208,3,3:10,790,790,Erin Boley made Three Point Jumper. Assisted by Sabrina Ionescu.,61,46,15,4,0.9471418534629457,Oregon,Indiana,5,5,0,0,NA,401124203,2019-03-24,Oregon
+209,3,3:06,786,786,Indiana  Timeout,61,46,15,0,0.9475096492120537,Oregon,Indiana,4,5,1,0,NA,401124203,2019-03-24,
+210,3,3:06,786,786,Official TV Timeout,61,46,15,8,0.9475096492120537,Oregon,Indiana,4,5,1,0,NA,401124203,2019-03-24,
+211,3,2:58,778,778,Ali Patberg made Layup.,61,48,13,18,0.9255811118012912,Oregon,Indiana,4,5,1,0,NA,401124203,2019-03-24,Indiana
+212,3,2:40,760,760,Oti Gildon missed Layup.,61,48,13,0,0.9277874399847542,Oregon,Indiana,4,5,1,0,NA,401124203,2019-03-24,
+213,3,2:40,760,760,Brenna Wise Defensive Rebound.,61,48,13,7,0.9277874399847542,Oregon,Indiana,4,5,1,0,NA,401124203,2019-03-24,
+214,3,2:33,753,753,Brenna Wise Turnover.,61,48,13,9,0.9287008582977939,Oregon,Indiana,4,5,1,0,NA,401124203,2019-03-24,
+215,3,2:24,744,744,Oti Gildon made Layup. Assisted by Satou Sabally.,63,48,15,0,0.9518131444509588,Oregon,Indiana,4,5,1,0,NA,401124203,2019-03-24,Oregon
+216,3,2:24,744,744,Foul on Jaelynn Penn.,63,48,15,0,0.9518131444509588,Oregon,Indiana,4,5,1,0,NA,401124203,2019-03-24,
+217,3,2:24,744,744,Oti Gildon made Free Throw.,64,48,16,19,0.9601576838894544,Oregon,Indiana,4,5,1,0,NA,401124203,2019-03-24,Oregon
+218,3,2:05,725,725,Jaelynn Penn missed Layup.,64,48,16,0,0.9621242921617221,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,
+219,3,2:05,725,725,Satou Sabally Block.,64,48,16,0,0.9621242921617221,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,
+220,3,2:05,725,725,Oti Gildon Defensive Rebound.,64,48,16,16,0.9621242921617221,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,
+221,3,1:49,709,709,Sabrina Ionescu missed Three Point Jumper.,64,48,16,0,0.9636218460280972,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,
+222,3,1:49,709,709,Ali Patberg Defensive Rebound.,64,48,16,10,0.9636218460280972,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,
+223,3,1:39,699,699,Jaelynn Penn made Three Point Jumper. Assisted by Ali Patberg.,64,51,13,12,0.9359497154905685,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,Indiana
+224,3,1:27,687,687,Sabrina Ionescu made Jumper.,66,51,15,12,0.9577139408980193,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,Oregon
+225,3,1:15,675,675,Ali Patberg made Layup.,66,53,13,7,0.9385056679868805,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,Indiana
+226,3,1:08,668,668,Foul on Aleksa Gulbe.,66,53,13,2,0.9392046076539949,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,
+227,3,1:06,666,666,Foul on Keyanna Warthen.,66,53,13,0,0.9394022008931514,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,
+228,3,1:06,666,666,Sabrina Ionescu made Free Throw.,67,53,14,0,0.9503499153532659,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,Oregon
+229,3,1:06,666,666,Sabrina Ionescu made Free Throw.,68,53,15,15,0.9594052636704374,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,Oregon
+230,3,0:51,651,651,Ali Patberg missed Jumper.,68,53,15,0,0.9605621872855895,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,
+231,3,0:51,651,651,Satou Sabally Block.,68,53,15,0,0.9605621872855895,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,
+232,3,0:51,651,651,Sabrina Ionescu Defensive Rebound.,68,53,15,13,0.9605621872855895,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,
+233,3,0:38,638,638,Maite Cazorla missed Three Point Jumper.,68,53,15,0,0.9615681154505279,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,
+234,3,0:38,638,638,Erin Boley Offensive Rebound.,68,53,15,32,0.9615681154505279,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,
+235,3,0:06,606,606,Sabrina Ionescu missed Three Point Jumper.,68,53,15,0,0.9642122948086157,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,
+236,3,0:06,606,606,Indiana Deadball Team Rebound.,68,53,15,5,0.9642122948086157,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,
+237,3,0:01,601,601,Jaelynn Penn missed Three Point Jumper.,68,53,15,0,0.9646611026392125,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,
+238,3,0:01,601,601,Indiana Deadball Team Rebound.,68,53,15,1,0.9646611026392125,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,
+239,3,0:00,600,600,End of 3rd Quarter,68,53,15,0,0.9647523131759473,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,
+240,4,10:00,600,600,Jump Ball won by Indiana,68,53,15,11,0.9647523131759473,Oregon,Indiana,5,6,0,0,NA,401124203,2019-03-24,
+241,4,9:49,589,589,Jaelynn Penn made Jumper.,68,55,13,19,0.9476003626183523,Oregon,Indiana,5,6,0,0,NA,401124203,2019-03-24,Indiana
+242,4,9:30,570,570,Satou Sabally missed Three Point Jumper.,68,55,13,0,0.950157600478264,Oregon,Indiana,5,6,0,0,NA,401124203,2019-03-24,
+243,4,9:30,570,570,Grace Berger Defensive Rebound.,68,55,13,10,0.950157600478264,Oregon,Indiana,5,6,0,0,NA,401124203,2019-03-24,
+244,4,9:20,560,560,Grace Berger made Jumper.,68,57,11,18,0.9255984892063035,Oregon,Indiana,5,6,0,0,NA,401124203,2019-03-24,Indiana
+245,4,9:02,542,542,Sabrina Ionescu made Three Point Jumper.,71,57,14,12,0.9635744645658727,Oregon,Indiana,5,6,0,0,NA,401124203,2019-03-24,Oregon
+246,4,8:50,530,530,Ali Patberg missed Jumper.,71,57,14,0,0.9649461970408653,Oregon,Indiana,5,6,0,0,NA,401124203,2019-03-24,
+247,4,8:50,530,530,Sabrina Ionescu Defensive Rebound.,71,57,14,13,0.9649461970408653,Oregon,Indiana,5,6,0,0,NA,401124203,2019-03-24,
+248,4,8:37,517,517,Ruthy Hebard Turnover.,71,57,14,16,0.9662331943263813,Oregon,Indiana,5,6,0,0,NA,401124203,2019-03-24,
+249,4,8:21,501,501,Jaelynn Penn made Layup.,71,59,12,17,0.9484986252821423,Oregon,Indiana,5,6,0,0,NA,401124203,2019-03-24,Indiana
+250,4,8:04,484,484,Maite Cazorla missed Three Point Jumper.,71,59,12,0,0.9505136257316986,Oregon,Indiana,5,6,0,0,NA,401124203,2019-03-24,
+251,4,8:04,484,484,Sabrina Ionescu Offensive Rebound.,71,59,12,10,0.9505136257316986,Oregon,Indiana,5,6,0,0,NA,401124203,2019-03-24,
+252,4,7:54,474,474,Sabrina Ionescu missed Layup.,71,59,12,0,0.9517727709610467,Oregon,Indiana,5,6,0,0,NA,401124203,2019-03-24,
+253,4,7:54,474,474,Aleksa Gulbe Defensive Rebound.,71,59,12,14,0.9517727709610467,Oregon,Indiana,5,6,0,0,NA,401124203,2019-03-24,
+254,4,7:40,460,460,Ali Patberg Turnover.,71,59,12,22,0.9537106194860182,Oregon,Indiana,5,6,0,0,NA,401124203,2019-03-24,
+255,4,7:18,438,438,Maite Cazorla made Three Point Jumper. Assisted by Sabrina Ionescu.,74,59,15,20,0.9799357248421561,Oregon,Indiana,5,6,0,0,NA,401124203,2019-03-24,Oregon
+256,4,6:58,418,418,Ali Patberg made Layup. Assisted by Grace Berger.,74,61,13,0,0.9699381764292432,Oregon,Indiana,5,6,1,0,NA,401124203,2019-03-24,Indiana
+257,4,6:58,418,418,Indiana  Timeout,74,61,13,11,0.9699381764292432,Oregon,Indiana,4,6,1,0,NA,401124203,2019-03-24,
+258,4,6:47,407,407,Erin Boley made Three Point Jumper. Assisted by Maite Cazorla.,77,61,16,18,0.9871555367974066,Oregon,Indiana,4,6,1,0,NA,401124203,2019-03-24,Oregon
+259,4,6:29,389,389,Jaelynn Penn missed Three Point Jumper.,77,61,16,0,0.988421322634585,Oregon,Indiana,4,6,1,0,NA,401124203,2019-03-24,
+260,4,6:29,389,389,Sabrina Ionescu Defensive Rebound.,77,61,16,7,0.988421322634585,Oregon,Indiana,4,6,1,0,NA,401124203,2019-03-24,
+261,4,6:22,382,382,Sabrina Ionescu missed Jumper.,77,61,16,0,0.9888857169375908,Oregon,Indiana,4,6,1,0,NA,401124203,2019-03-24,
+262,4,6:22,382,382,Jaelynn Penn Defensive Rebound.,77,61,16,2,0.9888857169375908,Oregon,Indiana,4,6,1,0,NA,401124203,2019-03-24,
+263,4,6:20,380,380,Foul on Sabrina Ionescu.,77,61,16,14,0.9890170291578776,Oregon,Indiana,4,6,1,0,NA,401124203,2019-03-24,
+264,4,6:06,366,366,Jaelynn Penn Turnover.,77,61,16,0,0.9899314294145197,Oregon,Indiana,4,6,1,0,NA,401124203,2019-03-24,
+265,4,6:06,366,366,Sabrina Ionescu Steal.,77,61,16,19,0.9899314294145197,Oregon,Indiana,4,6,1,0,NA,401124203,2019-03-24,
+266,4,5:47,347,347,Erin Boley made Three Point Jumper. Assisted by Sabrina Ionescu.,80,61,19,9,0.9963503957146619,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,Oregon
+267,4,5:38,338,338,Grace Berger missed Layup.,80,61,19,0,0.9966548806200435,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+268,4,5:38,338,338,Satou Sabally Block.,80,61,19,0,0.9966548806200435,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+269,4,5:38,338,338,Ruthy Hebard Defensive Rebound.,80,61,19,34,0.9966548806200435,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+270,4,5:04,304,304,Satou Sabally missed Layup.,80,61,19,0,0.9977698749511339,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+271,4,5:04,304,304,Satou Sabally Offensive Rebound.,80,61,19,5,0.9977698749511339,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+272,4,4:59,299,299,Satou Sabally made Layup.,82,61,21,12,0.9988742537402975,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,Oregon
+273,4,4:47,287,287,Ali Patberg missed Jumper.,82,61,21,0,0.998911371836051,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+274,4,4:47,287,287,Satou Sabally Block.,82,61,21,0,0.998911371836051,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+275,4,4:47,287,287,Ruthy Hebard Defensive Rebound.,82,61,21,5,0.998911371836051,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+276,4,4:42,282,282,Technical Foul on Indiana.,82,61,21,0,0.9989023439923002,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+277,4,4:42,282,282,Foul on Indiana.,82,61,21,0,0.9989023439923002,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+278,4,4:42,282,282,Sabrina Ionescu made Free Throw.,83,61,22,0,0.9992062369156021,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,Oregon
+279,4,4:42,282,282,Sabrina Ionescu made Free Throw.,84,61,23,9,0.9994260435272198,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,Oregon
+280,4,4:33,273,273,Erin Boley missed Three Point Jumper.,84,61,23,0,0.9994020976873974,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+281,4,4:33,273,273,Brenna Wise Defensive Rebound.,84,61,23,7,0.9994020976873974,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+282,4,4:26,266,266,Foul on Erin Boley.,84,61,23,0,0.9993743466394592,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+283,4,4:26,266,266,Brenna Wise made Free Throw.,84,62,22,0,0.999137996403794,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,Indiana
+284,4,4:26,266,266,Brenna Wise made Free Throw.,84,63,21,19,0.9988124673055049,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,Indiana
+285,4,4:07,247,247,Satou Sabally made Layup.,86,63,23,13,0.9992930125318085,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,Oregon
+286,4,3:54,234,234,Kym Royster made Layup. Assisted by Brenna Wise.,86,65,21,0,0.9986407601217365,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,Indiana
+287,4,3:54,234,234,Foul on Satou Sabally.,86,65,21,0,0.9986407601217365,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+288,4,3:54,234,234,Kym Royster made Free Throw.,86,66,20,20,0.9981397994329271,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,Indiana
+289,4,3:34,214,214,Sabrina Ionescu missed Jumper.,86,66,20,0,0.9983990834253202,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+290,4,3:34,214,214,Sabrina Ionescu Offensive Rebound.,86,66,20,8,0.9983990834253202,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+291,4,3:26,206,206,Sabrina Ionescu Turnover.,86,66,20,0,0.9986231500281372,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+292,4,3:26,206,206,Jaelynn Penn Steal.,86,66,20,4,0.9986231500281372,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+293,4,3:22,202,202,Brenna Wise missed Layup.,86,66,20,0,0.998753602022946,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+294,4,3:22,202,202,Sabrina Ionescu Defensive Rebound.,86,66,20,3,0.998753602022946,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+295,4,3:19,199,199,Foul on Jaelynn Penn.,86,66,20,10,0.9988565281448208,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+296,4,3:09,189,189,Satou Sabally made Layup.,88,66,22,0,0.9996109789203765,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,Oregon
+297,4,3:09,189,189,Foul on Brenna Wise.,88,66,22,0,0.9996109789203765,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+298,4,3:09,189,189,Satou Sabally made Free Throw.,89,66,23,16,0.9997277108680107,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,Oregon
+299,4,2:53,173,173,Kym Royster Turnover.,89,66,23,21,0.9998749823077954,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+300,4,2:32,152,152,Sabrina Ionescu missed Three Point Jumper.,89,66,23,0,0.9999588913506837,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+301,4,2:32,152,152,Sabrina Ionescu Offensive Rebound.,89,66,23,11,0.9999588913506837,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+302,4,2:21,141,141,Lydia Giomi missed Jumper.,89,66,23,0,0.9999786689498417,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+303,4,2:21,141,141,Brenna Wise Defensive Rebound.,89,66,23,13,0.9999786689498417,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,
+304,4,2:08,128,128,Keyanna Warthen made Jumper.,89,68,21,10,0.9999753833396143,Oregon,Indiana,4,6,0,0,NA,401124203,2019-03-24,Indiana
+305,4,1:58,118,118,Oregon  Timeout,89,68,21,10,0.9999875894059322,Oregon,Indiana,4,5,0,1,NA,401124203,2019-03-24,
+306,4,1:48,108,108,Maite Cazorla missed Three Point Jumper.,89,68,21,0,0.9999942090218428,Oregon,Indiana,4,5,0,1,NA,401124203,2019-03-24,
+307,4,1:48,108,108,Kym Royster Defensive Rebound.,89,68,21,10,0.9999942090218428,Oregon,Indiana,4,5,0,1,NA,401124203,2019-03-24,
+308,4,1:38,98,98,Aleksa Gulbe missed Jumper.,89,68,21,0,0.9999975252053707,Oregon,Indiana,4,5,0,1,NA,401124203,2019-03-24,
+309,4,1:38,98,98,Oti Gildon Defensive Rebound.,89,68,21,19,0.9999975252053707,Oregon,Indiana,4,5,0,1,NA,401124203,2019-03-24,
+310,4,1:19,79,79,Foul on Lydia Giomi.,89,68,21,0,0.9999995905197433,Oregon,Indiana,4,5,0,1,NA,401124203,2019-03-24,
+311,4,1:19,79,79,Lydia Giomi Turnover.,89,68,21,19,0.9999995905197433,Oregon,Indiana,4,5,0,1,NA,401124203,2019-03-24,
+312,4,1:00,60,60,Ali Patberg missed Three Point Jumper.,89,68,21,0,0.9999999458608025,Oregon,Indiana,4,5,0,1,NA,401124203,2019-03-24,
+313,4,1:00,60,60,Oregon Defensive Rebound.,89,68,21,24,0.9999999458608025,Oregon,Indiana,4,5,0,1,NA,401124203,2019-03-24,
+314,4,0:36,36,36,Morgan Yaeger made Jumper.,91,68,23,22,0.9999999995327482,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,Oregon
+315,4,0:14,14,14,Aleksa Gulbe missed Jumper.,91,68,23,0,0.9999999999821687,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,
+316,4,0:14,14,14,Lydia Giomi Defensive Rebound.,91,68,23,14,0.9999999999821687,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,
+317,4,0:00,0,0,End of Game,91,68,23,0,1,Oregon,Indiana,4,5,0,0,NA,401124203,2019-03-24,

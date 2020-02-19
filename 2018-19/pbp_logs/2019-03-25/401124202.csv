@@ -1,0 +1,318 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Jump Ball won by Syracuse,0,0,0,7,0.5,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,NA
+2,1,9:53,2393,2393,Tiana Mangakahia Turnover.,0,0,0,0,0.5,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+3,1,9:53,2393,2393,Macy Miller Steal.,0,0,0,7,0.5,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+4,1,9:46,2386,2386,Myah Selland made Jumper. Assisted by Macy Miller.,0,2,-2,21,0.4556792914736857,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,South Dakota State
+5,1,9:25,2365,2365,Amaya Finklea-Guity missed Jumper.,0,2,-2,0,0.45523226214346435,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+6,1,9:25,2365,2365,Amaya Finklea-Guity Offensive Rebound.,0,2,-2,0,0.45523226214346435,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+7,1,9:25,2365,2365,Amaya Finklea-Guity made Two Point Tip Shot.,2,2,0,27,0.5,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+8,1,8:58,2338,2338,Myah Selland made Jumper. Assisted by Tagyn Larson.,2,4,-2,14,0.4546487271837898,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,South Dakota State
+9,1,8:44,2324,2324,Tiana Mangakahia Turnover.,2,4,-2,0,0.4543425759993232,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+10,1,8:44,2324,2324,Myah Selland Steal.,2,4,-2,23,0.4543425759993232,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+11,1,8:21,2301,2301,Foul on Amaya Finklea-Guity.,2,4,-2,0,0.4538347874070997,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+12,1,8:21,2301,2301,Tagyn Larson made Free Throw.,2,5,-3,0,0.4309975254039924,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,South Dakota State
+13,1,8:21,2301,2301,Tagyn Larson made Free Throw.,2,6,-4,8,0.4084500298337122,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,South Dakota State
+14,1,8:13,2293,2293,Foul on Tylee Irwin.,2,6,-4,4,0.4081031760421934,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+15,1,8:09,2289,2289,Amaya Finklea-Guity missed Jumper.,2,6,-4,0,0.40792930992190235,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+16,1,8:09,2289,2289,Myah Selland Block.,2,6,-4,0,0.40792930992190235,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+17,1,8:09,2289,2289,Tagyn Larson Defensive Rebound.,2,6,-4,17,0.40792930992190235,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+18,1,7:52,2272,2272,Tagyn Larson missed Jumper.,2,6,-4,0,0.4071872923306549,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+19,1,7:52,2272,2272,Syracuse Defensive Rebound.,2,6,-4,8,0.4071872923306549,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+20,1,7:44,2264,2264,Amaya Finklea-Guity made Jumper. Assisted by Tiana Mangakahia.,4,6,-2,33,0.45300676159973796,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+21,1,7:11,2231,2231,Myah Selland missed Three Point Jumper.,4,6,-2,0,0.45225853453217346,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+22,1,7:11,2231,2231,Gabrielle Cooper Defensive Rebound.,4,6,-2,6,0.45225853453217346,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+23,1,7:05,2225,2225,Miranda Drummond made Jumper. Assisted by Tiana Mangakahia.,6,6,0,8,0.5,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+24,1,6:57,2217,2217,Macy Miller missed Jumper.,6,6,0,0,0.5,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+25,1,6:57,2217,2217,Gabrielle Cooper Defensive Rebound.,6,6,0,7,0.5,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+26,1,6:50,2210,2210,Tiana Mangakahia made Jumper.,8,6,2,8,0.548221476678421,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+27,1,6:42,2202,2202,Tylee Irwin made Three Point Jumper. Assisted by Myah Selland.,8,9,-1,18,0.47574052351671575,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,South Dakota State
+28,1,6:24,2184,2184,Foul on Madison Guebert.,8,9,-1,0,0.4755320018567772,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+29,1,6:24,2184,2184,Tiana Mangakahia made Free Throw.,9,9,0,0,0.5,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+30,1,6:24,2184,2184,Tiana Mangakahia made Free Throw.,10,9,1,9,0.5244679981432226,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+31,1,6:15,2175,2175,Paiton Burckhard made Jumper. Assisted by Myah Selland.,10,11,-1,23,0.4754274683183452,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,South Dakota State
+32,1,5:52,2152,2152,Foul on Rylie Cascio Jensen.,10,11,-1,7,0.4751593101598761,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+33,1,5:45,2145,2145,Kiara Lewis missed Jumper.,10,11,-1,0,0.47507729138774896,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+34,1,5:45,2145,2145,Maeva Djaldi-Tabdi Offensive Rebound.,10,11,-1,7,0.47507729138774896,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+35,1,5:38,2138,2138,Miranda Drummond missed Three Point Jumper.,10,11,-1,0,0.4749950698399447,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+36,1,5:38,2138,2138,Rylie Cascio Jensen Defensive Rebound.,10,11,-1,9,0.4749950698399447,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+37,1,5:29,2129,2129,Madison Guebert missed Three Point Jumper.,10,11,-1,0,0.4748890490503926,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+38,1,5:29,2129,2129,Miranda Drummond Defensive Rebound.,10,11,-1,20,0.4748890490503926,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+39,1,5:09,2109,2109,Digna Strautmane made Jumper. Assisted by Tiana Mangakahia.,12,11,1,16,0.5253478500729736,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+40,1,4:53,2093,2093,Foul on Digna Strautmane.,12,11,1,0,0.525538731453577,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+41,1,4:53,2093,2093,Official TV Timeout,12,11,1,0,0.525538731453577,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+42,1,4:53,2093,2093,Myah Selland missed Free Throw.,12,11,1,0,0.525538731453577,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+43,1,4:53,2093,2093,South Dakota State Deadball Team Rebound.,12,11,1,0,0.525538731453577,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+44,1,4:53,2093,2093,Myah Selland made Free Throw.,12,12,0,5,0.5,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,South Dakota State
+45,1,4:48,2088,2088,Kiara Lewis missed Jumper.,12,12,0,0,0.5,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+46,1,4:48,2088,2088,Sydney Palmer Defensive Rebound.,12,12,0,23,0.5,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+47,1,4:25,2065,2065,Rylie Cascio Jensen made Three Point Jumper. Assisted by Tylee Irwin.,12,15,-3,22,0.42292226470450106,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,South Dakota State
+48,1,4:03,2043,2043,Emily Engstler missed Jumper.,12,15,-3,0,0.42213562993400006,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+49,1,4:03,2043,2043,Tagyn Larson Defensive Rebound.,12,15,-3,32,0.42213562993400006,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+50,1,3:31,2011,2011,South Dakota State  Turnover.,12,15,-3,16,0.42097702232514267,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+51,1,3:15,1995,1995,Kiara Lewis made Jumper.,14,15,-1,16,0.47326144895321626,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+52,1,2:59,1979,1979,Tagyn Larson missed Jumper.,14,15,-1,0,0.47305987930257315,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+53,1,2:59,1979,1979,Macy Miller Offensive Rebound.,14,15,-1,0,0.47305987930257315,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+54,1,2:59,1979,1979,Macy Miller made Two Point Tip Shot.,14,17,-3,16,0.41979991049781323,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,South Dakota State
+55,1,2:43,1963,1963,Tiana Mangakahia made Jumper.,16,17,-1,10,0.4728565261893283,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+56,1,2:33,1953,1953,Foul on Tiana Mangakahia.,16,17,-1,18,0.4727284938592801,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+57,1,2:15,1935,1935,Tylee Irwin missed Jumper.,16,17,-1,0,0.47249615715896764,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+58,1,2:15,1935,1935,Emily Engstler Defensive Rebound.,16,17,-1,11,0.47249615715896764,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+59,1,2:04,1924,1924,Kiara Lewis made Jumper.,18,17,1,0,0.5276468647155523,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+60,1,2:04,1924,1924,Foul on Rylie Cascio Jensen.,18,17,1,0,0.5276468647155523,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+61,1,2:04,1924,1924,Kiara Lewis missed Free Throw.,18,17,1,0,0.5276468647155523,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+62,1,2:04,1924,1924,Tylee Irwin Defensive Rebound.,18,17,1,1,0.5276468647155523,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+63,1,2:03,1923,1923,Jump Ball won by South Dakota State,18,17,1,14,0.5276598640407679,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+64,1,1:49,1909,1909,Myah Selland Turnover.,18,17,1,9,0.5278416688584938,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+65,1,1:40,1900,1900,Maeva Djaldi-Tabdi Turnover.,18,17,1,0,0.5279584246133091,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+66,1,1:40,1900,1900,Tylee Irwin Steal.,18,17,1,8,0.5279584246133091,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+67,1,1:32,1892,1892,Tylee Irwin missed Three Point Jumper.,18,17,1,0,0.5280621840448054,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+68,1,1:32,1892,1892,Paiton Burckhard Offensive Rebound.,18,17,1,0,0.5280621840448054,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+69,1,1:32,1892,1892,Foul on Kadiatou Sissoko.,18,17,1,4,0.5280621840448054,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+70,1,1:28,1888,1888,Rylie Cascio Jensen Turnover.,18,17,1,0,0.5281140685260627,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+71,1,1:28,1888,1888,Digna Strautmane Steal.,18,17,1,10,0.5281140685260627,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+72,1,1:18,1878,1878,Kiara Lewis made Jumper.,20,17,3,22,0.5840173604571438,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+73,1,0:56,1856,1856,Tylee Irwin Turnover.,20,17,3,0,0.5848538250277832,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+74,1,0:56,1856,1856,Kadiatou Sissoko Steal.,20,17,3,10,0.5848538250277832,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+75,1,0:46,1846,1846,Gabrielle Cooper made Three Point Jumper. Assisted by Kadiatou Sissoko.,23,17,6,25,0.6656563914090154,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+76,1,0:21,1821,1821,Madison Guebert made Three Point Jumper. Assisted by Tylee Irwin.,23,20,3,19,0.5861936701488931,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,South Dakota State
+77,1,0:02,1802,1802,Foul on Paiton Burckhard.,23,20,3,0,0.5869286274211967,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+78,1,0:02,1802,1802,Kiara Lewis missed Free Throw.,23,20,3,0,0.5869286274211967,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+79,1,0:02,1802,1802,Syracuse Deadball Team Rebound.,23,20,3,0,0.5869286274211967,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+80,1,0:02,1802,1802,Kiara Lewis made Free Throw.,24,20,4,2,0.6149995676756664,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+81,1,0:00,1800,1800,End of 1st Quarter,24,20,4,0,0.6151008263378087,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+82,2,10:00,1800,1800,Jump Ball won by Syracuse,24,20,4,8,0.6151008263378087,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+83,2,9:52,1792,1792,Miranda Drummond Turnover.,24,20,4,0,0.6155069222036872,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+84,2,9:52,1792,1792,Foul on Miranda Drummond.,24,20,4,8,0.6155069222036872,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+85,2,9:44,1784,1784,Myah Selland missed Jumper.,24,20,4,0,0.6159148272308327,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+86,2,9:44,1784,1784,Maeva Djaldi-Tabdi Block.,24,20,4,0,0.6159148272308327,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+87,2,9:44,1784,1784,Maeva Djaldi-Tabdi Defensive Rebound.,24,20,4,11,0.6159148272308327,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+88,2,9:33,1773,1773,Emily Engstler made Jumper. Assisted by Kiara Lewis.,26,20,6,23,0.6708306432288391,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+89,2,9:10,1750,1750,Madison Guebert missed Three Point Jumper.,26,20,6,0,0.672500937980324,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+90,2,9:10,1750,1750,Macy Miller Offensive Rebound.,26,20,6,11,0.672500937980324,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+91,2,8:59,1739,1739,South Dakota State  Turnover.,26,20,6,15,0.67330918725682265,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+92,2,8:44,1724,1724,Maeva Djaldi-Tabdi made Layup.,28,20,8,25,0.7253203056420023,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+93,2,8:19,1699,1699,Paiton Burckhard made Jumper. Assisted by Myah Selland.,28,22,6,22,0.676309337510148,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,South Dakota State
+94,2,7:57,1677,1677,Miranda Drummond missed Three Point Jumper.,28,22,6,0,0.6779892209330605,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+95,2,7:57,1677,1677,Myah Selland Defensive Rebound.,28,22,6,12,0.6779892209330605,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+96,2,7:45,1665,1665,Foul on Kiara Lewis.,28,22,6,10,0.6788855606773685,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+97,2,7:35,1655,1655,Macy Miller missed Three Point Jumper.,28,22,6,0,0.6796215909290247,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+98,2,7:35,1655,1655,Amaya Finklea-Guity Defensive Rebound.,28,22,6,12,0.6796215909290247,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+99,2,7:23,1643,1643,Tiana Mangakahia missed Three Point Jumper.,28,22,6,0,0.6804939212147533,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+100,2,7:23,1643,1643,Miranda Drummond Offensive Rebound.,28,22,6,3,0.6804939212147533,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+101,2,7:20,1640,1640,Foul on Tylee Irwin.,28,22,6,0,0.680710418991071,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+102,2,7:20,1640,1640,Tiana Mangakahia made Free Throw.,29,22,7,0,0.7074873021174427,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+103,2,7:20,1640,1640,Tiana Mangakahia made Free Throw.,30,22,8,17,0.7328997149905648,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+104,2,7:03,1623,1623,Macy Miller made Jumper. Assisted by Rylie Cascio Jensen.,30,24,6,12,0.6819279041332751,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,South Dakota State
+105,2,6:51,1611,1611,Miranda Drummond made Three Point Jumper. Assisted by Tiana Mangakahia.,33,24,9,13,0.7594869452501396,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+106,2,6:38,1598,1598,Jump Ball won by South Dakota State,33,24,9,13,0.7606503257885855,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+107,2,6:25,1585,1585,Tagyn Larson missed Jumper.,33,24,9,0,0.7618113993969771,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+108,2,6:25,1585,1585,Amaya Finklea-Guity Defensive Rebound.,33,24,9,12,0.7618113993969771,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+109,2,6:13,1573,1573,Amaya Finklea-Guity Turnover.,33,24,9,0,0.7628845062259484,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+110,2,6:13,1573,1573,Madison Guebert Steal.,33,24,9,8,0.7628845062259484,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+111,2,6:05,1565,1565,Macy Miller missed Three Point Jumper.,33,24,9,0,0.7636021821226533,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+112,2,6:05,1565,1565,Syracuse Defensive Rebound.,33,24,9,18,0.7636021821226533,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+113,2,5:47,1547,1547,Gabrielle Cooper missed Three Point Jumper.,33,24,9,0,0.7652287562940832,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+114,2,5:47,1547,1547,Madison Guebert Defensive Rebound.,33,24,9,29,0.7652287562940832,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+115,2,5:18,1518,1518,Paiton Burckhard missed Jumper.,33,24,9,0,0.767905063956677,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+116,2,5:18,1518,1518,Digna Strautmane Defensive Rebound.,33,24,9,12,0.767905063956677,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+117,2,5:06,1506,1506,Gabrielle Cooper made Three Point Jumper.,36,24,12,21,0.8325585670337143,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+118,2,4:45,1485,1485,Macy Miller made Jumper.,36,26,10,0,0.7940236516189508,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,South Dakota State
+119,2,4:45,1485,1485,Foul on Digna Strautmane.,36,26,10,0,0.7940236516189508,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+120,2,4:45,1485,1485,Official TV Timeout,36,26,10,0,0.7940236516189508,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+121,2,4:45,1485,1485,Macy Miller made Free Throw.,36,27,9,13,0.7710795019099459,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,South Dakota State
+122,2,4:32,1472,1472,Maeva Djaldi-Tabdi missed Jumper.,36,27,9,0,0.7723797768285957,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+123,2,4:32,1472,1472,Maeva Djaldi-Tabdi Offensive Rebound.,36,27,9,10,0.7723797768285957,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+124,2,4:22,1462,1462,Miranda Drummond missed Three Point Jumper.,36,27,9,0,0.7734024659593814,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+125,2,4:22,1462,1462,Emily Engstler Offensive Rebound.,36,27,9,2,0.7734024659593814,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+126,2,4:20,1460,1460,Foul on Macy Miller.,36,27,9,12,0.77360950143892,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+127,2,4:08,1448,1448,Kiara Lewis made Jumper.,38,27,11,26,0.8191622591257302,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,Syracuse
+128,2,3:42,1422,1422,Lindsey Theuninck missed Three Point Jumper.,38,27,11,0,0.8219145739975569,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+129,2,3:42,1422,1422,Emily Engstler Defensive Rebound.,38,27,11,19,0.8219145739975569,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+130,2,3:23,1403,1403,Maeva Djaldi-Tabdi missed Jumper.,38,27,11,0,0.8238318667546387,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+131,2,3:23,1403,1403,Paiton Burckhard Defensive Rebound.,38,27,11,13,0.8238318667546387,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+132,2,3:10,1390,1390,Paiton Burckhard made Jumper. Assisted by Myah Selland.,38,29,9,30,0.780623324600082,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,South Dakota State
+133,2,2:40,1360,1360,Emily Engstler Turnover.,38,29,9,0,0.7834408251182648,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+134,2,2:40,1360,1360,Myah Selland Steal.,38,29,9,9,0.7834408251182648,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,
+135,2,2:31,1351,1351,Madison Guebert made Three Point Jumper. Assisted by Lindsey Theuninck.,38,32,6,14,0.7027719661750957,Syracuse,South Dakota State,4,4,0,0,NA,401124202,2019-03-25,South Dakota State
+136,2,2:17,1337,1337,Syracuse  Timeout,38,32,6,13,0.7038550324336229,Syracuse,South Dakota State,3,4,1,0,NA,401124202,2019-03-25,
+137,2,2:04,1324,1324,Maeva Djaldi-Tabdi Turnover.,38,32,6,16,0.704872694304677,Syracuse,South Dakota State,3,4,1,0,NA,401124202,2019-03-25,
+138,2,1:48,1308,1308,Myah Selland made Jumper. Assisted by Paiton Burckhard.,38,34,4,14,0.6421027400637768,Syracuse,South Dakota State,3,4,1,0,NA,401124202,2019-03-25,South Dakota State
+139,2,1:34,1294,1294,Miranda Drummond missed Three Point Jumper.,38,34,4,0,0.6429490410415435,Syracuse,South Dakota State,3,4,1,0,NA,401124202,2019-03-25,
+140,2,1:34,1294,1294,Lindsey Theuninck Defensive Rebound.,38,34,4,25,0.6429490410415435,Syracuse,South Dakota State,3,4,1,0,NA,401124202,2019-03-25,
+141,2,1:09,1269,1269,Paiton Burckhard made Jumper.,38,36,2,18,0.5738400162080081,Syracuse,South Dakota State,3,4,0,0,NA,401124202,2019-03-25,South Dakota State
+142,2,0:51,1251,1251,Tiana Mangakahia Turnover.,38,36,2,17,0.5744826845368721,Syracuse,South Dakota State,3,4,0,0,NA,401124202,2019-03-25,
+143,2,0:34,1234,1234,Lindsey Theuninck Turnover.,38,36,2,24,0.5751233203813216,Syracuse,South Dakota State,3,4,0,0,NA,401124202,2019-03-25,
+144,2,0:10,1210,1210,Miranda Drummond missed Three Point Jumper.,38,36,2,0,0.5760926513825614,Syracuse,South Dakota State,3,4,0,0,NA,401124202,2019-03-25,
+145,2,0:10,1210,1210,Myah Selland Defensive Rebound.,38,36,2,7,0.5760926513825614,Syracuse,South Dakota State,3,4,0,0,NA,401124202,2019-03-25,
+146,2,0:03,1203,1203,Foul on Kadiatou Sissoko.,38,36,2,3,0.5763852586073499,Syracuse,South Dakota State,3,4,0,0,NA,401124202,2019-03-25,
+147,2,0:00,1200,1200,End of 2nd Quarter,38,36,2,0,0.5765093285143758,Syracuse,South Dakota State,3,4,0,0,NA,401124202,2019-03-25,
+148,3,10:00,1200,1200,Jump Ball won by Syracuse,38,36,2,7,0.5765093285143758,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+149,3,9:53,1193,1193,Tiana Mangakahia missed Jumper.,38,36,2,0,0.5767959799276776,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+150,3,9:53,1193,1193,Madison Guebert Defensive Rebound.,38,36,2,13,0.5767959799276776,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+151,3,9:40,1180,1180,Myah Selland missed Jumper.,38,36,2,0,0.5773190995999056,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+152,3,9:40,1180,1180,Digna Strautmane Defensive Rebound.,38,36,2,9,0.5773190995999056,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+153,3,9:31,1171,1171,Digna Strautmane missed Three Point Jumper.,38,36,2,0,0.5776755082767817,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+154,3,9:31,1171,1171,Tylee Irwin Defensive Rebound.,38,36,2,8,0.5776755082767817,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+155,3,9:23,1163,1163,Tylee Irwin Turnover.,38,36,2,0,0.5779892744979779,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+156,3,9:23,1163,1163,Tiana Mangakahia Steal.,38,36,2,12,0.5779892744979779,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+157,3,9:11,1151,1151,Miranda Drummond missed Three Point Jumper.,38,36,2,0,0.5784561050861952,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+158,3,9:11,1151,1151,Macy Miller Defensive Rebound.,38,36,2,26,0.5784561050861952,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+159,3,8:45,1125,1125,Tagyn Larson made Jumper.,38,38,0,17,0.5,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,South Dakota State
+160,3,8:28,1108,1108,Tiana Mangakahia made Jumper.,40,38,2,38,0.5801243760510574,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,Syracuse
+161,3,7:50,1070,1070,South Dakota State  Turnover.,40,38,2,20,0.5816561686415377,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+162,3,7:30,1050,1050,Foul on Myah Selland.,40,38,2,6,0.5825099218364845,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+163,3,7:24,1044,1044,Digna Strautmane made Jumper.,42,38,4,20,0.6611331728590772,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,Syracuse
+164,3,7:04,1024,1024,Myah Selland missed Jumper.,42,38,4,0,0.6628201639891834,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+165,3,7:04,1024,1024,Miranda Drummond Defensive Rebound.,42,38,4,14,0.6628201639891834,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+166,3,6:50,1010,1010,Tiana Mangakahia missed Jumper.,42,38,4,0,0.6640638761678146,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+167,3,6:50,1010,1010,Tagyn Larson Defensive Rebound.,42,38,4,10,0.6640638761678146,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+168,3,6:40,1000,1000,Tylee Irwin missed Jumper.,42,38,4,0,0.6649880042274091,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+169,3,6:40,1000,1000,Syracuse Defensive Rebound.,42,38,4,21,0.6649880042274091,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+170,3,6:19,979,979,Foul on Madison Guebert.,42,38,4,4,0.6670368771396497,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+171,3,6:15,975,975,Tiana Mangakahia missed Jumper.,42,38,4,0,0.6674450834204249,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+172,3,6:15,975,975,Madison Guebert Defensive Rebound.,42,38,4,2,0.6674450834204249,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+173,3,6:13,973,973,Foul on Miranda Drummond.,42,38,4,9,0.6676514613734916,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+174,3,6:04,964,964,Macy Miller missed Three Point Jumper.,42,38,4,0,0.668581061021867,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+175,3,6:04,964,964,Tagyn Larson Offensive Rebound.,42,38,4,8,0.668581061021867,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+176,3,5:56,956,956,Myah Selland made Jumper. Assisted by Tagyn Larson.,42,40,2,6,0.5872649359249552,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,South Dakota State
+177,3,5:50,950,950,Tiana Mangakahia made Three Point Jumper.,45,40,5,16,0.7078351300838696,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,Syracuse
+178,3,5:34,934,934,Tylee Irwin missed Three Point Jumper.,45,40,5,0,0.7095125283609721,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+179,3,5:34,934,934,Tiana Mangakahia Defensive Rebound.,45,40,5,24,0.7095125283609721,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+180,3,5:10,910,910,Maeva Djaldi-Tabdi missed Jumper.,45,40,5,0,0.7118238954672668,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+181,3,5:10,910,910,Myah Selland Defensive Rebound.,45,40,5,8,0.7118238954672668,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+182,3,5:02,902,902,Myah Selland made Jumper. Assisted by Tagyn Larson.,45,42,3,27,0.6329054196965083,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,South Dakota State
+183,3,4:35,875,875,Tiana Mangakahia missed Jumper.,45,42,3,0,0.6345513218766503,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+184,3,4:35,875,875,Myah Selland Defensive Rebound.,45,42,3,2,0.6345513218766503,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+185,3,4:33,873,873,Foul on Tiana Mangakahia.,45,42,3,0,0.6346729435704266,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+186,3,4:33,873,873,Official TV Timeout,45,42,3,0,0.6346729435704266,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+187,3,4:33,873,873,South Dakota State  Turnover.,45,42,3,4,0.6346729435704266,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+188,3,4:29,869,869,Tiana Mangakahia missed Jumper.,45,42,3,0,0.6349168015046496,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+189,3,4:29,869,869,Myah Selland Defensive Rebound.,45,42,3,14,0.6349168015046496,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+190,3,4:15,855,855,Madison Guebert made Three Point Jumper. Assisted by Paiton Burckhard.,45,45,0,18,0.5,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,South Dakota State
+191,3,3:57,837,837,Maeva Djaldi-Tabdi Turnover.,45,45,0,4,0.5,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+192,3,3:53,833,833,Madison Guebert missed Jumper.,45,45,0,0,0.5,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+193,3,3:53,833,833,Maeva Djaldi-Tabdi Block.,45,45,0,0,0.5,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+194,3,3:53,833,833,South Dakota State Offensive Rebound.,45,45,0,16,0.5,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+195,3,3:37,817,817,Rylie Cascio Jensen missed Jumper.,45,45,0,0,0.5,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+196,3,3:37,817,817,Paiton Burckhard Offensive Rebound.,45,45,0,0,0.5,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+197,3,3:37,817,817,Paiton Burckhard made Two Point Tip Shot.,45,47,-2,13,0.40643721351154144,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,South Dakota State
+198,3,3:24,804,804,Foul on Madison Guebert.,45,47,-2,9,0.40576066737016536,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+199,3,3:15,795,795,Amaya Finklea-Guity missed Jumper.,45,47,-2,0,0.40526299953161937,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+200,3,3:15,795,795,Myah Selland Defensive Rebound.,45,47,-2,19,0.40526299953161937,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+201,3,2:56,776,776,Myah Selland missed Jumper.,45,47,-2,0,0.40411974991442284,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+202,3,2:56,776,776,Amaya Finklea-Guity Defensive Rebound.,45,47,-2,9,0.40411974991442284,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+203,3,2:47,767,767,Tiana Mangakahia Turnover.,45,47,-2,0,0.40352840931849304,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+204,3,2:47,767,767,Madison Guebert Steal.,45,47,-2,10,0.40352840931849304,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+205,3,2:37,757,757,Madison Guebert made Three Point Jumper. Assisted by Rylie Cascio Jensen.,45,50,-5,25,0.27205408376639467,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,South Dakota State
+206,3,2:12,732,732,Kiara Lewis missed Jumper.,45,50,-5,0,0.26802315021091194,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+207,3,2:12,732,732,Myah Selland Defensive Rebound.,45,50,-5,0,0.26802315021091194,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+208,3,2:12,732,732,Foul on Kiara Lewis.,45,50,-5,27,0.26802315021091194,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+209,3,1:45,705,705,Sydney Palmer made Three Point Jumper. Assisted by Macy Miller.,45,53,-8,28,0.16202176628287573,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,South Dakota State
+210,3,1:17,677,677,Amaya Finklea-Guity made Jumper. Assisted by Digna Strautmane.,47,53,-6,27,0.2216226718474279,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,Syracuse
+211,3,0:50,650,650,Rylie Cascio Jensen missed Three Point Jumper.,47,53,-6,0,0.21790276668378902,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+212,3,0:50,650,650,Digna Strautmane Defensive Rebound.,47,53,-6,9,0.21790276668378902,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+213,3,0:41,641,641,Kiara Lewis missed Jumper.,47,53,-6,0,0.21664137632946145,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+214,3,0:41,641,641,Madison Guebert Defensive Rebound.,47,53,-6,30,0.21664137632946145,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+215,3,0:11,611,611,Rylie Cascio Jensen missed Jumper.,47,53,-6,0,0.212078404974777,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+216,3,0:11,611,611,Tagyn Larson Offensive Rebound.,47,53,-6,4,0.212078404974777,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+217,3,0:07,607,607,South Dakota State  Turnover.,47,53,-6,7,0.21140789452081432,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+218,3,0:00,600,600,End of 3rd Quarter,47,53,-6,0,0.2101886602059725,Syracuse,South Dakota State,4,5,0,0,NA,401124202,2019-03-25,
+219,4,10:00,600,600,Jump Ball won by South Dakota State,47,53,-6,10,0.2101886602059725,Syracuse,South Dakota State,5,6,0,0,NA,401124202,2019-03-25,
+220,4,9:50,590,590,Myah Selland missed Jumper.,47,53,-6,0,0.20833412290717931,Syracuse,South Dakota State,5,6,0,0,NA,401124202,2019-03-25,
+221,4,9:50,590,590,Syracuse Defensive Rebound.,47,53,-6,27,0.20833412290717931,Syracuse,South Dakota State,5,6,0,0,NA,401124202,2019-03-25,
+222,4,9:23,563,563,Miranda Drummond made Jumper. Assisted by Tiana Mangakahia.,49,53,-4,7,0.2862416173979074,Syracuse,South Dakota State,5,6,0,0,NA,401124202,2019-03-25,Syracuse
+223,4,9:16,556,556,Madison Guebert Turnover.,49,53,-4,0,0.28478433832661826,Syracuse,South Dakota State,5,6,0,0,NA,401124202,2019-03-25,
+224,4,9:16,556,556,Miranda Drummond Steal.,49,53,-4,5,0.28478433832661826,Syracuse,South Dakota State,5,6,0,0,NA,401124202,2019-03-25,
+225,4,9:11,551,551,Miranda Drummond made Jumper. Assisted by Tiana Mangakahia.,51,53,-2,23,0.3862459142801408,Syracuse,South Dakota State,5,6,0,0,NA,401124202,2019-03-25,Syracuse
+226,4,8:48,528,528,Macy Miller Turnover.,51,53,-2,0,0.38355546606232876,Syracuse,South Dakota State,5,6,0,0,NA,401124202,2019-03-25,
+227,4,8:48,528,528,Tiana Mangakahia Steal.,51,53,-2,6,0.38355546606232876,Syracuse,South Dakota State,5,6,0,0,NA,401124202,2019-03-25,
+228,4,8:42,522,522,Tiana Mangakahia made Jumper.,53,53,0,12,0.5,Syracuse,South Dakota State,5,6,0,0,NA,401124202,2019-03-25,Syracuse
+229,4,8:30,510,510,Madison Guebert Turnover.,53,53,0,0,0.5,Syracuse,South Dakota State,5,6,0,0,NA,401124202,2019-03-25,
+230,4,8:30,510,510,Kiara Lewis Steal.,53,53,0,2,0.5,Syracuse,South Dakota State,5,6,0,0,NA,401124202,2019-03-25,
+231,4,8:28,508,508,Kiara Lewis made Jumper.,55,53,2,0,0.6183988260313151,Syracuse,South Dakota State,5,6,0,1,NA,401124202,2019-03-25,Syracuse
+232,4,8:28,508,508,South Dakota State  Timeout,55,53,2,0,0.6183988260313151,Syracuse,South Dakota State,5,5,0,1,NA,401124202,2019-03-25,
+233,4,8:28,508,508,Official TV Timeout,55,53,2,14,0.6183988260313151,Syracuse,South Dakota State,5,5,0,1,NA,401124202,2019-03-25,
+234,4,8:14,494,494,Madison Guebert missed Three Point Jumper.,55,53,2,0,0.6197209541976347,Syracuse,South Dakota State,5,5,0,1,NA,401124202,2019-03-25,
+235,4,8:14,494,494,Syracuse Defensive Rebound.,55,53,2,19,0.6197209541976347,Syracuse,South Dakota State,5,5,0,1,NA,401124202,2019-03-25,
+236,4,7:55,475,475,Tiana Mangakahia missed Jumper.,55,53,2,0,0.6216590886821729,Syracuse,South Dakota State,5,5,0,1,NA,401124202,2019-03-25,
+237,4,7:55,475,475,Macy Miller Defensive Rebound.,55,53,2,10,0.6216590886821729,Syracuse,South Dakota State,5,5,0,1,NA,401124202,2019-03-25,
+238,4,7:45,465,465,Macy Miller missed Jumper.,55,53,2,0,0.62282180873301,Syracuse,South Dakota State,5,5,0,1,NA,401124202,2019-03-25,
+239,4,7:45,465,465,Digna Strautmane Defensive Rebound.,55,53,2,16,0.62282180873301,Syracuse,South Dakota State,5,5,0,1,NA,401124202,2019-03-25,
+240,4,7:29,449,449,Miranda Drummond made Jumper. Assisted by Tiana Mangakahia.,57,53,4,29,0.7352943508267824,Syracuse,South Dakota State,5,5,0,1,NA,401124202,2019-03-25,Syracuse
+241,4,7:00,420,420,Myah Selland made Jumper. Assisted by Tagyn Larson.,57,55,2,27,0.630160175578846,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,South Dakota State
+242,4,6:33,393,393,Kiara Lewis missed Jumper.,57,55,2,0,0.6348194702698756,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,
+243,4,6:33,393,393,Macy Miller Defensive Rebound.,57,55,2,19,0.6348194702698756,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,
+244,4,6:14,374,374,Foul on Gabrielle Cooper.,57,55,2,2,0.638102822949975,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,
+245,4,6:12,372,372,Tagyn Larson made Jumper. Assisted by Macy Miller.,57,57,0,21,0.5,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,South Dakota State
+246,4,5:51,351,351,Miranda Drummond missed Three Point Jumper.,57,57,0,0,0.5,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,
+247,4,5:51,351,351,Macy Miller Defensive Rebound.,57,57,0,11,0.5,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,
+248,4,5:40,340,340,Tylee Irwin missed Jumper.,57,57,0,0,0.5,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,
+249,4,5:40,340,340,Gabrielle Cooper Block.,57,57,0,0,0.5,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,
+250,4,5:40,340,340,Macy Miller Offensive Rebound.,57,57,0,12,0.5,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,
+251,4,5:28,328,328,Madison Guebert missed Three Point Jumper.,57,57,0,0,0.5,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,
+252,4,5:28,328,328,Tiana Mangakahia Defensive Rebound.,57,57,0,2,0.5,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,
+253,4,5:26,326,326,Foul on Tylee Irwin.,57,57,0,0,0.5,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,
+254,4,5:26,326,326,Kiara Lewis made Free Throw.,58,57,1,0,0.576086683776374,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,Syracuse
+255,4,5:26,326,326,Kiara Lewis made Free Throw.,59,57,2,9,0.6487292831360406,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,Syracuse
+256,4,5:17,317,317,Myah Selland made Jumper.,59,59,0,22,0.5,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,South Dakota State
+257,4,4:55,295,295,Tiana Mangakahia made Three Point Jumper. Assisted by Miranda Drummond.,62,59,3,19,0.7256626139153337,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,Syracuse
+258,4,4:36,276,276,Macy Miller missed Jumper.,62,59,3,0,0.7251524687443015,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,
+259,4,4:36,276,276,Miranda Drummond Defensive Rebound.,62,59,3,28,0.7251524687443015,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,
+260,4,4:08,248,248,Tiana Mangakahia missed Jumper.,62,59,3,0,0.7204661785491073,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,
+261,4,4:08,248,248,Macy Miller Defensive Rebound.,62,59,3,13,0.7204661785491073,Syracuse,South Dakota State,5,5,0,0,NA,401124202,2019-03-25,
+262,4,3:55,235,235,Foul on Digna Strautmane.,62,59,3,0,0.7196349725775896,Syracuse,South Dakota State,5,5,0,1,NA,401124202,2019-03-25,
+263,4,3:55,235,235,South Dakota State  Timeout,62,59,3,0,0.7196349725775896,Syracuse,South Dakota State,5,4,0,1,NA,401124202,2019-03-25,
+264,4,3:55,235,235,Macy Miller made Free Throw.,62,60,2,0,0.6521343941570551,Syracuse,South Dakota State,5,4,0,1,NA,401124202,2019-03-25,South Dakota State
+265,4,3:55,235,235,Macy Miller made Free Throw.,62,61,1,13,0.5779143029299657,Syracuse,South Dakota State,5,4,0,1,NA,401124202,2019-03-25,South Dakota State
+266,4,3:42,222,222,Tiana Mangakahia missed Jumper.,62,61,1,0,0.5786074937892213,Syracuse,South Dakota State,5,4,0,1,NA,401124202,2019-03-25,
+267,4,3:42,222,222,Myah Selland Defensive Rebound.,62,61,1,12,0.5786074937892213,Syracuse,South Dakota State,5,4,0,1,NA,401124202,2019-03-25,
+268,4,3:30,210,210,Madison Guebert made Three Point Jumper. Assisted by Macy Miller.,62,64,-2,22,0.34291262801810646,Syracuse,South Dakota State,5,4,0,1,NA,401124202,2019-03-25,South Dakota State
+269,4,3:08,188,188,Tiana Mangakahia missed Jumper.,62,64,-2,0,0.3278464995354239,Syracuse,South Dakota State,5,4,0,1,NA,401124202,2019-03-25,
+270,4,3:08,188,188,Myah Selland Block.,62,64,-2,0,0.3278464995354239,Syracuse,South Dakota State,5,4,0,1,NA,401124202,2019-03-25,
+271,4,3:08,188,188,Macy Miller Defensive Rebound.,62,64,-2,9,0.3278464995354239,Syracuse,South Dakota State,5,4,0,1,NA,401124202,2019-03-25,
+272,4,2:59,179,179,Madison Guebert made Three Point Jumper. Assisted by Macy Miller.,62,67,-5,24,0.13131644412278606,Syracuse,South Dakota State,5,4,0,1,NA,401124202,2019-03-25,South Dakota State
+273,4,2:35,155,155,Tiana Mangakahia missed Three Point Jumper.,62,67,-5,0,0.10351064742594232,Syracuse,South Dakota State,5,4,0,0,NA,401124202,2019-03-25,
+274,4,2:35,155,155,Paiton Burckhard Defensive Rebound.,62,67,-5,16,0.10351064742594232,Syracuse,South Dakota State,5,4,0,0,NA,401124202,2019-03-25,
+275,4,2:19,139,139,Madison Guebert missed Jumper.,62,67,-5,0,0.08583421923690629,Syracuse,South Dakota State,5,4,0,0,NA,401124202,2019-03-25,
+276,4,2:19,139,139,Madison Guebert Offensive Rebound.,62,67,-5,5,0.08583421923690629,Syracuse,South Dakota State,5,4,0,0,NA,401124202,2019-03-25,
+277,4,2:14,134,134,Foul on Miranda Drummond.,62,67,-5,21,0.08042096288510231,Syracuse,South Dakota State,5,4,0,0,NA,401124202,2019-03-25,
+278,4,1:53,113,113,Myah Selland missed Jumper.,62,67,-5,0,0.05852273222416378,Syracuse,South Dakota State,5,4,0,0,NA,401124202,2019-03-25,
+279,4,1:53,113,113,Tiana Mangakahia Defensive Rebound.,62,67,-5,7,0.05852273222416378,Syracuse,South Dakota State,5,4,0,0,NA,401124202,2019-03-25,
+280,4,1:46,106,106,Kiara Lewis missed Three Point Jumper.,62,67,-5,0,0.05166301006249745,Syracuse,South Dakota State,5,4,0,0,NA,401124202,2019-03-25,
+281,4,1:46,106,106,Syracuse Offensive Rebound.,62,67,-5,20,0.05166301006249745,Syracuse,South Dakota State,5,4,0,0,NA,401124202,2019-03-25,
+282,4,1:26,86,86,Gabrielle Cooper missed Three Point Jumper.,62,67,-5,0,0.034228870369769675,Syracuse,South Dakota State,5,4,0,0,NA,401124202,2019-03-25,
+283,4,1:26,86,86,Tiana Mangakahia Offensive Rebound.,62,67,-5,4,0.034228870369769675,Syracuse,South Dakota State,5,4,0,0,NA,401124202,2019-03-25,
+284,4,1:22,82,82,Tiana Mangakahia missed Jumper.,62,67,-5,0,0.03132069407857405,Syracuse,South Dakota State,5,4,0,0,NA,401124202,2019-03-25,
+285,4,1:22,82,82,Tagyn Larson Defensive Rebound.,62,67,-5,8,0.03132069407857405,Syracuse,South Dakota State,5,4,0,0,NA,401124202,2019-03-25,
+286,4,1:14,74,74,Foul on Kiara Lewis.,62,67,-5,0,0.026013408685017652,Syracuse,South Dakota State,5,4,0,1,NA,401124202,2019-03-25,
+287,4,1:14,74,74,South Dakota State  Timeout,62,67,-5,18,0.026013408685017652,Syracuse,South Dakota State,5,3,0,1,NA,401124202,2019-03-25,
+288,4,0:56,56,56,Tagyn Larson made Jumper. Assisted by Myah Selland.,62,69,-7,10,0.003241974936530969,Syracuse,South Dakota State,5,3,0,1,NA,401124202,2019-03-25,South Dakota State
+289,4,0:46,46,46,Miranda Drummond missed Three Point Jumper.,62,69,-7,0,0.002190824738038808,Syracuse,South Dakota State,5,3,0,1,NA,401124202,2019-03-25,
+290,4,0:46,46,46,Macy Miller Defensive Rebound.,62,69,-7,6,0.002190824738038808,Syracuse,South Dakota State,5,3,0,1,NA,401124202,2019-03-25,
+291,4,0:40,40,40,South Dakota State  Timeout,62,69,-7,4,0.0017111644027851347,Syracuse,South Dakota State,5,2,0,1,NA,401124202,2019-03-25,
+292,4,0:36,36,36,Foul on Tiana Mangakahia.,62,69,-7,0,0.0014443432437946737,Syracuse,South Dakota State,5,2,1,1,NA,401124202,2019-03-25,
+293,4,0:36,36,36,Myah Selland made Free Throw.,62,70,-8,0,5.680409908012861e-4,Syracuse,South Dakota State,5,2,1,1,NA,401124202,2019-03-25,South Dakota State
+294,4,0:36,36,36,Myah Selland made Free Throw.,62,71,-9,0,2.232840839613955e-4,Syracuse,South Dakota State,5,2,1,1,NA,401124202,2019-03-25,South Dakota State
+295,4,0:36,36,36,Syracuse  Timeout,62,71,-9,2,2.232840839613955e-4,Syracuse,South Dakota State,4,2,1,1,NA,401124202,2019-03-25,
+296,4,0:34,34,34,Gabrielle Cooper missed Three Point Jumper.,62,71,-9,0,1.998705092184059e-4,Syracuse,South Dakota State,4,2,1,1,NA,401124202,2019-03-25,
+297,4,0:34,34,34,Digna Strautmane Offensive Rebound.,62,71,-9,4,1.998705092184059e-4,Syracuse,South Dakota State,4,2,1,1,NA,401124202,2019-03-25,
+298,4,0:30,30,30,Foul on Tagyn Larson.,62,71,-9,0,0.00015966906565084682,Syracuse,South Dakota State,4,2,1,1,NA,401124202,2019-03-25,
+299,4,0:30,30,30,Digna Strautmane made Jumper. Assisted by Tiana Mangakahia.,64,71,-7,3,0.0011130630613296858,Syracuse,South Dakota State,4,2,1,1,NA,401124202,2019-03-25,Syracuse
+300,4,0:27,27,27,Foul on Tiana Mangakahia.,64,71,-7,0,9.746895862391419e-4,Syracuse,South Dakota State,4,2,1,1,NA,401124202,2019-03-25,
+301,4,0:27,27,27,Macy Miller made Free Throw.,64,72,-8,0,3.622688752197497e-4,Syracuse,South Dakota State,4,2,1,1,NA,401124202,2019-03-25,South Dakota State
+302,4,0:27,27,27,Macy Miller missed Free Throw.,64,72,-8,0,3.622688752197497e-4,Syracuse,South Dakota State,4,2,1,1,NA,401124202,2019-03-25,
+303,4,0:27,27,27,Miranda Drummond Defensive Rebound.,64,72,-8,1,3.622688752197497e-4,Syracuse,South Dakota State,4,2,1,1,NA,401124202,2019-03-25,
+304,4,0:26,26,26,Syracuse  Timeout,64,72,-8,4,3.442634273405428e-4,Syracuse,South Dakota State,3,2,1,1,NA,401124202,2019-03-25,
+305,4,0:22,22,22,Tiana Mangakahia Turnover.,64,72,-8,0,2.802396995516709e-4,Syracuse,South Dakota State,3,2,1,1,NA,401124202,2019-03-25,
+306,4,0:22,22,22,Macy Miller Steal.,64,72,-8,6,2.802396995516709e-4,Syracuse,South Dakota State,3,2,1,1,NA,401124202,2019-03-25,
+307,4,0:16,16,16,Foul on Gabrielle Cooper.,64,72,-8,0,2.035989737496987e-4,Syracuse,South Dakota State,3,2,1,1,NA,401124202,2019-03-25,
+308,4,0:16,16,16,Macy Miller missed Free Throw.,64,72,-8,0,2.035989737496987e-4,Syracuse,South Dakota State,3,2,1,1,NA,401124202,2019-03-25,
+309,4,0:16,16,16,South Dakota State Deadball Team Rebound.,64,72,-8,0,2.035989737496987e-4,Syracuse,South Dakota State,3,2,1,1,NA,401124202,2019-03-25,
+310,4,0:16,16,16,Macy Miller made Free Throw.,64,73,-9,0,7.037873415495215e-5,Syracuse,South Dakota State,3,2,1,1,NA,401124202,2019-03-25,South Dakota State
+311,4,0:16,16,16,Syracuse  Timeout,64,73,-9,5,7.037873415495215e-5,Syracuse,South Dakota State,2,2,1,1,NA,401124202,2019-03-25,
+312,4,0:11,11,11,Gabrielle Cooper missed Three Point Jumper.,64,73,-9,0,5.1569063325248095e-5,Syracuse,South Dakota State,2,2,1,1,NA,401124202,2019-03-25,
+313,4,0:11,11,11,Madison Guebert Defensive Rebound.,64,73,-9,8,5.1569063325248095e-5,Syracuse,South Dakota State,2,2,1,1,NA,401124202,2019-03-25,
+314,4,0:03,3,3,Foul on Tiana Mangakahia.,64,73,-9,0,3.0822441514341e-5,Syracuse,South Dakota State,2,2,1,1,NA,401124202,2019-03-25,
+315,4,0:03,3,3,Madison Guebert made Free Throw.,64,74,-10,0,9.719427705704867e-6,Syracuse,South Dakota State,2,2,1,1,NA,401124202,2019-03-25,South Dakota State
+316,4,0:03,3,3,Madison Guebert made Free Throw.,64,75,-11,3,3.0648418929538114e-6,Syracuse,South Dakota State,2,2,1,1,NA,401124202,2019-03-25,South Dakota State
+317,4,0:00,0,0,End of Game,64,75,-11,0,2.852423339163565e-96,Syracuse,South Dakota State,2,2,1,1,NA,401124202,2019-03-25,

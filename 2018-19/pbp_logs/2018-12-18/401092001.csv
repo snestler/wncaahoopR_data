@@ -1,0 +1,329 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:42,2382,2382,Kobi Thornton missed Jumper.,0,0,0,0,0.5,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,NA
+2,1,9:42,2382,2382,Shayna Gore Defensive Rebound.,0,0,0,16,0.5,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+3,1,9:26,2366,2366,Khadaijia Brooks made Three Point Jumper. Assisted by Taylor Porter.,0,3,-3,29,0.4331039792936883,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Marshall
+4,1,8:57,2337,2337,Danielle Edwards missed Jumper.,0,3,-3,0,0.43217335596304424,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+5,1,8:57,2337,2337,Khadaijia Brooks Defensive Rebound.,0,3,-3,8,0.43217335596304424,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+6,1,8:49,2329,2329,Khadaijia Brooks Turnover.,0,3,-3,0,0.4319139208293343,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+7,1,8:49,2329,2329,Simone Westbrook Steal.,0,3,-3,17,0.4319139208293343,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+8,1,8:32,2312,2312,Danielle Edwards missed Layup.,0,3,-3,0,0.43135902971555484,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+9,1,8:32,2312,2312,Khadaijia Brooks Defensive Rebound.,0,3,-3,16,0.43135902971555484,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+10,1,8:16,2296,2296,Ashley Saintigene Turnover.,0,3,-3,1,0.4308326017028225,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+11,1,8:15,2295,2295,Tylar Bennett Steal.,0,3,-3,3,0.4307995730338573,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+12,1,8:12,2292,2292,Simone Westbrook Turnover.,0,3,-3,3,0.4307004005860406,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+13,1,8:09,2289,2289,Kristen Mayo Turnover.,0,3,-3,0,0.4306011001291803,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+14,1,8:09,2289,2289,Foul on Kristen Mayo.,0,3,-3,12,0.4306011001291803,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+15,1,7:57,2277,2277,Foul on Ashley Saintigene.,0,3,-3,0,0.4302026606879118,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+16,1,7:57,2277,2277,Tylar Bennett made Free Throw.,1,3,-2,0,0.4532991278378673,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Clemson
+17,1,7:57,2277,2277,Tylar Bennett made Free Throw.,2,3,-1,15,0.4765984139265295,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Clemson
+18,1,7:42,2262,2262,Shayna Gore missed Three Point Jumper.,2,3,-1,0,0.47642855684274604,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+19,1,7:42,2262,2262,Tylar Bennett Defensive Rebound.,2,3,-1,10,0.47642855684274604,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+20,1,7:32,2252,2252,Simone Westbrook missed Three Point Jumper.,2,3,-1,0,0.47631478586082104,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+21,1,7:32,2252,2252,Tylar Bennett Offensive Rebound.,2,3,-1,3,0.47631478586082104,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+22,1,7:29,2249,2249,Foul on Taylor Porter.,2,3,-1,12,0.47628057622372727,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+23,1,7:17,2237,2237,Danielle Edwards Turnover.,2,3,-1,5,0.47614339584835497,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+24,1,7:12,2232,2232,Kristen Mayo Turnover.,2,3,-1,12,0.4760860834024592,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+25,1,7:00,2220,2220,Kobi Thornton missed Jumper.,2,3,-1,0,0.47594819000422334,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+26,1,7:00,2220,2220,Tylar Bennett Offensive Rebound.,2,3,-1,4,0.47594819000422334,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+27,1,6:56,2216,2216,Tylar Bennett Turnover.,2,3,-1,1,0.4759021236633784,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+28,1,6:55,2215,2215,Kristen Mayo Steal.,2,3,-1,8,0.4758905994922459,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+29,1,6:47,2207,2207,Shayna Gore Turnover.,2,3,-1,24,0.47579830099359666,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+30,1,6:23,2183,2183,Danielle Edwards made Three Point Jumper. Assisted by Simone Westbrook.,5,3,2,20,0.548842134538738,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Clemson
+31,1,6:03,2163,2163,Taylor Porter missed Three Point Jumper.,5,3,2,0,0.5493039593446217,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+32,1,6:03,2163,2163,Tylar Bennett Defensive Rebound.,5,3,2,18,0.5493039593446217,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+33,1,5:45,2145,2145,Danielle Edwards missed Three Point Jumper.,5,3,2,0,0.5497218799510991,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+34,1,5:45,2145,2145,Ashley Saintigene Defensive Rebound.,5,3,2,16,0.5497218799510991,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+35,1,5:29,2129,2129,Ashley Saintigene missed Jumper.,5,3,2,0,0.5500955489304163,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+36,1,5:29,2129,2129,Marshall Offensive Rebound.,5,3,2,14,0.5500955489304163,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+37,1,5:15,2115,2115,Taylor Pearson made Layup. Assisted by Shayna Gore.,5,5,0,15,0.5,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Marshall
+38,1,5:00,2100,2100,Kobi Thornton made Layup. Assisted by Simone Westbrook.,7,5,2,8,0.5507785234673286,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Clemson
+39,1,4:52,2092,2092,Kristen Mayo Turnover.,7,5,2,3,0.5509683107627823,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+40,1,4:49,2089,2089,Simone Westbrook Steal.,7,5,2,1,0.5510396422880394,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+41,1,4:48,2088,2088,Simone Westbrook Turnover.,7,5,2,0,0.5510634392815655,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+42,1,4:48,2088,2088,Lorelei Roper Steal.,7,5,2,0,0.5510634392815655,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+43,1,4:48,2088,2088,Lorelei Roper Turnover.,7,5,2,0,0.5510634392815655,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+44,1,4:48,2088,2088,Official TV Timeout,7,5,2,21,0.5510634392815655,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+45,1,4:27,2067,2067,Danielle Edwards missed Jumper.,7,5,2,0,0.5515655296841933,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+46,1,4:27,2067,2067,Lorelei Roper Defensive Rebound.,7,5,2,19,0.5515655296841933,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+47,1,4:08,2048,2048,Shayna Gore made Three Point Jumper.,7,8,-1,13,0.4739172918013723,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Marshall
+48,1,3:55,2035,2035,Foul on Kia Sivils.,7,8,-1,8,0.47375802797736627,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+49,1,3:47,2027,2027,Danielle Edwards missed Layup.,7,8,-1,0,0.47365951674357903,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+50,1,3:47,2027,2027,Lorelei Roper Defensive Rebound.,7,8,-1,15,0.47365951674357903,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+51,1,3:32,2012,2012,Shayna Gore made Three Point Jumper.,7,11,-4,18,0.3953641799254241,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Marshall
+52,1,3:14,1994,1994,Kobi Thornton made Jumper. Assisted by Danielle Edwards.,9,11,-2,18,0.44665051566184294,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Clemson
+53,1,2:56,1976,1976,Kia Sivils Turnover.,9,11,-2,1,0.44620040245950554,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+54,1,2:55,1975,1975,Keniece Purvis Steal.,9,11,-2,6,0.44617526774321387,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+55,1,2:49,1969,1969,Taylor Hosendove made Jumper.,11,11,0,17,0.5,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Clemson
+56,1,2:32,1952,1952,Foul on Danielle Edwards.,11,11,0,1,0.5,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+57,1,2:31,1951,1951,Foul on Keniece Purvis.,11,11,0,1,0.5,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+58,1,2:30,1950,1950,Shayna Gore made Layup.,11,13,-2,1,0.4455423475571626,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Marshall
+59,1,2:29,1949,1949,Foul on Simone Westbrook.,11,13,-2,0,0.44551684476573233,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+60,1,2:29,1949,1949,Shayna Gore missed Free Throw.,11,13,-2,0,0.44551684476573233,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+61,1,2:29,1949,1949,Taylor Hosendove Defensive Rebound.,11,13,-2,14,0.44551684476573233,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+62,1,2:15,1935,1935,Taylor Hosendove Turnover.,11,13,-2,0,0.44515825695845757,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+63,1,2:15,1935,1935,Foul on Taylor Hosendove.,11,13,-2,10,0.44515825695845757,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+64,1,2:05,1925,1925,Shayna Gore made Jumper.,11,15,-4,12,0.3911233269615844,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Marshall
+65,1,1:53,1913,1913,Chyna Cotton missed Jumper.,11,15,-4,0,0.39052766213370954,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+66,1,1:53,1913,1913,Lorelei Roper Defensive Rebound.,11,15,-4,8,0.39052766213370954,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+67,1,1:45,1905,1905,Foul on Simone Westbrook.,11,15,-4,0,0.39013115946239035,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+68,1,1:45,1905,1905,Taylor Porter made Free Throw.,11,16,-5,0,0.36390590661852107,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Marshall
+69,1,1:45,1905,1905,Taylor Porter missed Free Throw.,11,16,-5,0,0.36390590661852107,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+70,1,1:45,1905,1905,Tylar Bennett Defensive Rebound.,11,16,-5,23,0.36390590661852107,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+71,1,1:22,1882,1882,Danielle Edwards missed Layup.,11,16,-5,0,0.36252145744399744,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+72,1,1:22,1882,1882,Taylor Porter Defensive Rebound.,11,16,-5,7,0.36252145744399744,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+73,1,1:15,1875,1875,Taylor Porter Turnover.,11,16,-5,0,0.36210021255014346,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+74,1,1:15,1875,1875,Foul on Taylor Porter.,11,16,-5,17,0.36210021255014346,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+75,1,0:58,1858,1858,Danielle Edwards missed Three Point Jumper.,11,16,-5,0,0.3610762596966901,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+76,1,0:58,1858,1858,Danielle Edwards Offensive Rebound.,11,16,-5,19,0.3610762596966901,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+77,1,0:39,1839,1839,Destiny Thomas made Three Point Jumper. Assisted by Danielle Edwards.,14,16,-2,28,0.4426855992857409,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Clemson
+78,1,0:11,1811,1811,Khadaijia Brooks missed Three Point Jumper.,14,16,-2,0,0.44195559694186315,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+79,1,0:11,1811,1811,Kobi Thornton Defensive Rebound.,14,16,-2,7,0.44195559694186315,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+80,1,0:04,1804,1804,Camreé Clegg made Three Point Jumper.,17,16,1,4,0.5292135580942247,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Clemson
+81,1,0:00,1800,1800,End of 1st Quarter,17,16,1,13,0.5292668057759684,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+82,2,9:47,1787,1787,Khadaijia Brooks Turnover.,17,16,1,20,0.529440708783451,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+83,2,9:27,1767,1767,Tylar Bennett made Layup. Assisted by Kobi Thornton.,19,16,3,14,0.5883028189593663,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Clemson
+84,2,9:13,1753,1753,Khadaijia Brooks Turnover.,19,16,3,9,0.588861613376298,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+85,2,9:04,1744,1744,Camreé Clegg missed Three Point Jumper.,19,16,3,0,0.589224036693987,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+86,2,9:04,1744,1744,Khadaijia Brooks Defensive Rebound.,19,16,3,15,0.589224036693987,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+87,2,8:49,1729,1729,Khadaijia Brooks Turnover.,19,16,3,0,0.589834145971904,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+88,2,8:49,1729,1729,Kobi Thornton missed Jumper.,19,16,3,0,0.589834145971904,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+89,2,8:49,1729,1729,Marshall Defensive Rebound.,19,16,3,20,0.589834145971904,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+90,2,8:29,1709,1709,Taylor Porter made Three Point Jumper. Assisted by Shayna Gore.,19,19,0,21,0.5,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Marshall
+91,2,8:08,1688,1688,Foul on Taylor Porter.,19,19,0,0,0.5,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+92,2,8:08,1688,1688,Simone Westbrook made Free Throw.,20,19,1,0,0.5308241345200851,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Clemson
+93,2,8:08,1688,1688,Simone Westbrook made Free Throw.,21,19,2,12,0.5614148613024106,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Clemson
+94,2,7:56,1676,1676,Kia Sivils missed Layup.,21,19,2,0,0.5617573137871905,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+95,2,7:56,1676,1676,Kobi Thornton Block.,21,19,2,0,0.5617573137871905,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+96,2,7:56,1676,1676,Marshall Offensive Rebound.,21,19,2,16,0.5617573137871905,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+97,2,7:40,1660,1660,Kristen Mayo missed Three Point Jumper.,21,19,2,0,0.5622051239692175,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+98,2,7:40,1660,1660,Khadaijia Brooks Offensive Rebound.,21,19,2,5,0.5622051239692175,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+99,2,7:35,1655,1655,Kristen Mayo missed Three Point Jumper.,21,19,2,0,0.5623433181028693,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+100,2,7:35,1655,1655,Kobi Thornton Defensive Rebound.,21,19,2,8,0.5623433181028693,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+101,2,7:27,1647,1647,Danielle Edwards made Jumper.,23,19,4,10,0.6231971087250656,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Clemson
+102,2,7:17,1637,1637,Shayna Gore missed Three Point Jumper.,23,19,4,0,0.623716909221895,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+103,2,7:17,1637,1637,Clemson Defensive Rebound.,23,19,4,23,0.623716909221895,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+104,2,6:54,1614,1614,Destiny Thomas missed Three Point Jumper.,23,19,4,0,0.624899770275058,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+105,2,6:54,1614,1614,Kristen Mayo Defensive Rebound.,23,19,4,5,0.624899770275058,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+106,2,6:49,1609,1609,Shayna Gore made Layup. Assisted by Kristen Mayo.,23,21,2,0,0.5635899247872772,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Marshall
+107,2,6:49,1609,1609,Foul on Destiny Thomas.,23,21,2,0,0.5635899247872772,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+108,2,6:49,1609,1609,Shayna Gore made Free Throw.,23,22,1,22,0.531924581412623,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Marshall
+109,2,6:27,1587,1587,Taylor Hosendove Turnover.,23,22,1,6,0.5322233879710383,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+110,2,6:21,1581,1581,Lorelei Roper made Layup. Assisted by Kristen Mayo.,23,24,-1,15,0.467694874775941,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Marshall
+111,2,6:06,1566,1566,Keniece Purvis missed Layup.,23,24,-1,0,0.46748945343887743,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+112,2,6:06,1566,1566,Lorelei Roper Block.,23,24,-1,2,0.46748945343887743,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+113,2,6:04,1564,1564,Kristen Mayo Defensive Rebound.,23,24,-1,10,0.4674619117801377,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+114,2,5:54,1554,1554,Khadaijia Brooks made Three Point Jumper. Assisted by Tana Driver.,23,27,-4,21,0.37201783992376386,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Marshall
+115,2,5:33,1533,1533,Danielle Edwards missed Jumper.,23,27,-4,0,0.37090983033381036,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+116,2,5:33,1533,1533,Keniece Purvis Offensive Rebound.,23,27,-4,7,0.37090983033381036,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+117,2,5:26,1526,1526,Tylar Bennett Turnover.,23,27,-4,1,0.3705341959657353,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+118,2,5:25,1525,1525,Kristen Mayo Steal.,23,27,-4,19,0.3704802375811365,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+119,2,5:06,1506,1506,Khadaijia Brooks missed Three Point Jumper.,23,27,-4,0,0.36943922112141836,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+120,2,5:06,1506,1506,Tylar Bennett Defensive Rebound.,23,27,-4,17,0.36943922112141836,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+121,2,4:49,1489,1489,Danielle Edwards missed Jumper.,23,27,-4,0,0.3684785183567042,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+122,2,4:49,1489,1489,Taylor Hosendove Offensive Rebound.,23,27,-4,2,0.3684785183567042,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+123,2,4:47,1487,1487,Taylor Hosendove missed Layup.,23,27,-4,0,0.3683634350727723,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+124,2,4:47,1487,1487,Taylor Hosendove Offensive Rebound.,23,27,-4,15,0.3683634350727723,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+125,2,4:32,1472,1472,Foul on Shayna Gore.,23,27,-4,0,0.36748504249975056,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+126,2,4:32,1472,1472,Official TV Timeout,23,27,-4,0,0.36748504249975056,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+127,2,4:32,1472,1472,Tylar Bennett made Free Throw.,24,27,-3,0,0.39956787862844434,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Clemson
+128,2,4:32,1472,1472,Tylar Bennett made Free Throw.,25,27,-2,31,0.4325362762813512,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Clemson
+129,2,4:01,1441,1441,Marshall  Turnover.,25,27,-2,16,0.4315323360506565,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+130,2,3:45,1425,1425,Kobi Thornton Turnover.,25,27,-2,9,0.4310216377475957,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+131,2,3:36,1416,1416,Shayna Gore Turnover.,25,27,-2,14,0.430740677327383,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+132,2,3:22,1402,1402,Simone Westbrook missed Three Point Jumper.,25,27,-2,0,0.43031062939964254,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+133,2,3:22,1402,1402,Kobi Thornton Offensive Rebound.,25,27,-2,5,0.43031062939964254,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+134,2,3:17,1397,1397,Kobi Thornton missed Layup.,25,27,-2,0,0.4301586779675893,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+135,2,3:17,1397,1397,Shayna Gore Defensive Rebound.,25,27,-2,12,0.4301586779675893,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+136,2,3:05,1385,1385,Shayna Gore missed Jumper.,25,27,-2,0,0.4297964918028296,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+137,2,3:05,1385,1385,Danielle Edwards Defensive Rebound.,25,27,-2,19,0.4297964918028296,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+138,2,2:46,1366,1366,Simone Westbrook missed Layup.,25,27,-2,0,0.4292268295666444,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+139,2,2:46,1366,1366,Tana Driver Defensive Rebound.,25,27,-2,7,0.4292268295666444,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+140,2,2:39,1359,1359,Taylor Pearson missed Layup.,25,27,-2,0,0.42901701619999166,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+141,2,2:39,1359,1359,Simone Westbrook Defensive Rebound.,25,27,-2,21,0.42901701619999166,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+142,2,2:18,1338,1338,Kobi Thornton missed Jumper.,25,27,-2,0,0.42838333907945,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+143,2,2:18,1338,1338,Chyna Cotton Offensive Rebound.,25,27,-2,1,0.42838333907945,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+144,2,2:17,1337,1337,Foul on Lorelei Roper.,25,27,-2,0,0.4283529030834783,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+145,2,2:17,1337,1337,Camreé Clegg made Three Point Jumper. Assisted by Danielle Edwards.,28,27,1,24,0.5360093542555637,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Clemson
+146,2,1:53,1313,1313,Ashley Saintigene missed Layup.,28,27,1,0,0.5363862303455025,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+147,2,1:53,1313,1313,Marshall Offensive Rebound.,28,27,1,12,0.5363862303455025,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+148,2,1:41,1301,1301,Shayna Gore missed Three Point Jumper.,28,27,1,12,0.536580236450934,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+149,2,1:29,1289,1289,Taylor Pearson Offensive Rebound.,28,27,1,9,0.5367790810008528,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+150,2,1:20,1280,1280,Shayna Gore missed Three Point Jumper.,28,27,1,0,0.5369318976859069,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+151,2,1:20,1280,1280,Kia Sivils Offensive Rebound.,28,27,1,5,0.5369318976859069,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+152,2,1:15,1275,1275,Kia Sivils made Layup.,28,29,-1,16,0.462981691763151,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Marshall
+153,2,0:59,1259,1259,Danielle Edwards missed Three Point Jumper.,28,29,-1,0,0.4626970978351408,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+154,2,0:59,1259,1259,Taylor Pearson Defensive Rebound.,28,29,-1,28,0.4626970978351408,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+155,2,0:31,1231,1231,Ashley Saintigene missed Layup.,28,29,-1,0,0.46216451819114257,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+156,2,0:31,1231,1231,Chyna Cotton Block.,28,29,-1,1,0.46216451819114257,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+157,2,0:30,1230,1230,Kia Sivils Offensive Rebound.,28,29,-1,2,0.4621445782809615,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+158,2,0:28,1228,1228,Tana Driver missed Three Point Jumper.,28,29,-1,0,0.4621044931534604,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+159,2,0:28,1228,1228,Clemson Defensive Rebound.,28,29,-1,27,0.4621044931534604,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+160,2,0:01,1201,1201,Simone Westbrook missed Layup.,28,29,-1,0,0.4615397499338115,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+161,2,0:01,1201,1201,Marshall Deadball Team Rebound.,28,29,-1,1,0.4615397499338115,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+162,2,0:00,1200,1200,End of 2nd Quarter,28,29,-1,10,0.4615187446422248,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+163,3,9:50,1190,1190,Kobi Thornton missed Jumper.,28,29,-1,0,0.46131088268724885,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+164,3,9:50,1190,1190,Tylar Bennett Offensive Rebound.,28,29,-1,4,0.46131088268724885,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+165,3,9:46,1186,1186,Tylar Bennett missed Layup.,28,29,-1,0,0.4612287581741608,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+166,3,9:46,1186,1186,Khadaijia Brooks Block.,28,29,-1,1,0.4612287581741608,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+167,3,9:45,1185,1185,Kristen Mayo Defensive Rebound.,28,29,-1,4,0.4612083096485313,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+168,3,9:41,1181,1181,Taylor Porter made Three Point Jumper. Assisted by Shayna Gore.,28,32,-4,25,0.3490475311376454,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,Marshall
+169,3,9:16,1156,1156,Danielle Edwards made Jumper.,30,32,-2,15,0.4217379675010065,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,Clemson
+170,3,9:01,1141,1141,Kristen Mayo missed Jumper.,30,32,-2,0,0.42115690286835933,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+171,3,9:01,1141,1141,Tylar Bennett Defensive Rebound.,30,32,-2,9,0.42115690286835933,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+172,3,8:52,1132,1132,Foul on Kristen Mayo.,30,32,-2,12,0.42080901338516086,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+173,3,8:40,1120,1120,Tylar Bennett missed Jumper.,30,32,-2,0,0.4203440222291642,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+174,3,8:40,1120,1120,Destiny Thomas Offensive Rebound.,30,32,-2,6,0.4203440222291642,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+175,3,8:34,1114,1114,Simone Westbrook missed Jumper.,30,32,-2,0,0.42011039246825355,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+176,3,8:34,1114,1114,Marshall Defensive Rebound.,30,32,-2,18,0.42011039246825355,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+177,3,8:16,1096,1096,Shayna Gore Turnover.,30,32,-2,2,0.41940152382042034,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+178,3,8:14,1094,1094,Danielle Edwards Steal.,30,32,-2,4,0.41932179182403406,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+179,3,8:10,1090,1090,Destiny Thomas missed Layup.,30,32,-2,0,0.4191616192735098,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+180,3,8:10,1090,1090,Shayna Gore Defensive Rebound.,30,32,-2,18,0.4191616192735098,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+181,3,7:52,1072,1072,Shayna Gore made Layup.,30,34,-4,13,0.3410839114632948,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,Marshall
+182,3,7:39,1059,1059,Foul on Ashley Saintigene.,30,34,-4,4,0.34007284970516144,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+183,3,7:35,1055,1055,Danielle Edwards Turnover.,30,34,-4,24,0.3397556694736423,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+184,3,7:11,1031,1031,Kristen Mayo Turnover.,30,34,-4,0,0.33778154814694694,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+185,3,7:11,1031,1031,Danielle Edwards Steal.,30,34,-4,0,0.33778154814694694,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+186,3,7:11,1031,1031,Kobi Thornton Turnover.,30,34,-4,0,0.33778154814694694,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+187,3,7:11,1031,1031,Khadaijia Brooks Steal.,30,34,-4,0,0.33778154814694694,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+188,3,7:11,1031,1031,Khadaijia Brooks missed Layup.,30,34,-4,0,0.33778154814694694,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+189,3,7:11,1031,1031,Tylar Bennett Block.,30,34,-4,0,0.33778154814694694,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+190,3,7:11,1031,1031,Marshall Offensive Rebound.,30,34,-4,1,0.33778154814694694,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+191,3,7:10,1030,1030,Taylor Porter missed Three Point Jumper.,30,34,-4,0,0.3376963648570033,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+192,3,7:10,1030,1030,Tylar Bennett Defensive Rebound.,30,34,-4,14,0.3376963648570033,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+193,3,6:56,1016,1016,Chyna Cotton missed Jumper.,30,34,-4,0,0.33647599994052163,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+194,3,6:56,1016,1016,Khadaijia Brooks Defensive Rebound.,30,34,-4,14,0.33647599994052163,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+195,3,6:42,1002,1002,Taylor Porter made Three Point Jumper. Assisted by Ashley Saintigene.,30,37,-7,3,0.23177186217702878,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,Marshall
+196,3,6:39,999,999,Clemson  Timeout,30,37,-7,0,0.23137839422317041,Clemson,Marshall,4,5,1,0,NA,401092001,2018-12-18,
+197,3,6:39,999,999,Official TV Timeout,30,37,-7,7,0.23137839422317041,Clemson,Marshall,4,5,1,0,NA,401092001,2018-12-18,
+198,3,6:32,992,992,Foul on Khadaijia Brooks.,30,37,-7,14,0.23044540193601684,Clemson,Marshall,4,5,1,0,NA,401092001,2018-12-18,
+199,3,6:18,978,978,Taylor Hosendove made Jumper. Assisted by Simone Westbrook.,32,37,-5,15,0.29544405941027274,Clemson,Marshall,4,5,1,0,NA,401092001,2018-12-18,Clemson
+200,3,6:03,963,963,Kristen Mayo Turnover.,32,37,-5,1,0.2936367342798013,Clemson,Marshall,4,5,1,0,NA,401092001,2018-12-18,
+201,3,6:02,962,962,Foul on Kristen Mayo.,32,37,-5,20,0.2935195583688833,Clemson,Marshall,4,5,1,0,NA,401092001,2018-12-18,
+202,3,5:42,942,942,Kobi Thornton made Jumper. Assisted by Danielle Edwards.,34,37,-3,15,0.36971975301505827,Clemson,Marshall,4,5,1,0,NA,401092001,2018-12-18,Clemson
+203,3,5:27,927,927,Tana Driver Turnover.,34,37,-3,2,0.36869085233323773,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+204,3,5:25,925,925,Camreé Clegg Steal.,34,37,-3,4,0.368558434288748,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+205,3,5:21,921,921,Camreé Clegg Turnover.,34,37,-3,1,0.3682964882526081,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+206,3,5:20,920,920,Shayna Gore Steal.,34,37,-3,6,0.3682315708348779,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+207,3,5:14,914,914,Shayna Gore Turnover.,34,37,-3,2,0.36784641149979175,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+208,3,5:12,912,912,Kobi Thornton Steal.,34,37,-3,3,0.3677195448485827,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+209,3,5:09,909,909,Camreé Clegg missed Three Point Jumper.,34,37,-3,0,0.3675305145481146,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+210,3,5:09,909,909,Camreé Clegg Offensive Rebound.,34,37,-3,13,0.3675305145481146,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+211,3,4:56,896,896,Foul on Shayna Gore.,34,37,-3,0,0.36672547560939023,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+212,3,4:56,896,896,Official TV Timeout,34,37,-3,0,0.36672547560939023,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+213,3,4:56,896,896,Danielle Edwards made Free Throw.,35,37,-2,0,0.4099447826435142,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,Clemson
+214,3,4:56,896,896,Danielle Edwards made Free Throw.,36,37,-1,15,0.4546011740991455,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,Clemson
+215,3,4:41,881,881,Tana Driver made Layup.,36,39,-3,18,0.36581284963502847,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,Marshall
+216,3,4:23,863,863,Kobi Thornton made Layup. Assisted by Taylor Hosendove.,38,39,-1,22,0.45388504498782395,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,Clemson
+217,3,4:01,841,841,Taylor Porter missed Three Point Jumper.,38,39,-1,0,0.4533889367086885,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+218,3,4:01,841,841,Kobi Thornton Defensive Rebound.,38,39,-1,3,0.4533889367086885,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+219,3,3:58,838,838,Foul on Taylor Porter.,38,39,-1,0,0.4533186842708011,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+220,3,3:58,838,838,Camreé Clegg made Free Throw.,39,39,0,0,0.5,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,Clemson
+221,3,3:58,838,838,Camreé Clegg made Free Throw.,40,39,1,15,0.546681315729199,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,Clemson
+222,3,3:43,823,823,Tana Driver Turnover.,40,39,1,2,0.5470455226127717,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+223,3,3:41,821,821,Simone Westbrook Steal.,40,39,1,4,0.5470959389110441,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+224,3,3:37,817,817,Kobi Thornton made Layup. Assisted by Simone Westbrook.,42,39,3,0,0.6383177894057825,Clemson,Marshall,4,5,0,1,NA,401092001,2018-12-18,Clemson
+225,3,3:37,817,817,Foul on Tana Driver.,42,39,3,0,0.6383177894057825,Clemson,Marshall,4,5,0,1,NA,401092001,2018-12-18,
+226,3,3:37,817,817,Marshall  Timeout,42,39,3,0,0.6383177894057825,Clemson,Marshall,4,4,0,1,NA,401092001,2018-12-18,
+227,3,3:37,817,817,Kobi Thornton missed Free Throw.,42,39,3,0,0.6383177894057825,Clemson,Marshall,4,4,0,1,NA,401092001,2018-12-18,
+228,3,3:37,817,817,Taylor Pearson Defensive Rebound.,42,39,3,12,0.6383177894057825,Clemson,Marshall,4,4,0,1,NA,401092001,2018-12-18,
+229,3,3:25,805,805,Foul on Kobi Thornton.,42,39,3,0,0.6392115471404044,Clemson,Marshall,4,4,0,1,NA,401092001,2018-12-18,
+230,3,3:25,805,805,Shayna Gore made Free Throw.,42,40,2,0,0.5941855922033435,Clemson,Marshall,4,4,0,1,NA,401092001,2018-12-18,Marshall
+231,3,3:25,805,805,Shayna Gore made Free Throw.,42,41,1,15,0.5475181331458329,Clemson,Marshall,4,4,0,1,NA,401092001,2018-12-18,Marshall
+232,3,3:10,790,790,Kobi Thornton made Layup. Assisted by Taylor Hosendove.,44,41,3,21,0.6404153663586223,Clemson,Marshall,4,4,0,1,NA,401092001,2018-12-18,Clemson
+233,3,2:49,769,769,Shayna Gore made Jumper.,44,43,1,16,0.54862413325495,Clemson,Marshall,4,4,0,1,NA,401092001,2018-12-18,Marshall
+234,3,2:33,753,753,Taylor Hosendove missed Jumper.,44,43,1,0,0.549203747986818,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+235,3,2:33,753,753,Tana Driver Defensive Rebound.,44,43,1,26,0.549203747986818,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+236,3,2:07,727,727,Lorelei Roper missed Jumper.,44,43,1,0,0.5502863422922066,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+237,3,2:07,727,727,Keniece Purvis Defensive Rebound.,44,43,1,15,0.5502863422922066,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+238,3,1:52,712,712,Simone Westbrook made Jumper.,46,43,3,0,0.6486201363855859,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Clemson
+239,3,1:52,712,712,Foul on Lorelei Roper.,46,43,3,0,0.6486201363855859,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+240,3,1:52,712,712,Simone Westbrook made Free Throw.,47,43,4,28,0.6936641423806643,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Clemson
+241,3,1:24,684,684,Kia Sivils missed Jumper.,47,43,4,0,0.6971326548186279,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+242,3,1:24,684,684,Simone Westbrook Defensive Rebound.,47,43,4,14,0.6971326548186279,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+243,3,1:10,670,670,Danielle Edwards missed Three Point Jumper.,47,43,4,0,0.6987275881884127,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+244,3,1:10,670,670,Taylor Pearson Defensive Rebound.,47,43,4,18,0.6987275881884127,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+245,3,0:52,652,652,Tana Driver made Layup.,47,45,2,23,0.6047831906074348,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Marshall
+246,3,0:29,629,629,Simone Westbrook Turnover.,47,45,2,0,0.6063231094120057,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+247,3,0:29,629,629,Shayna Gore Steal.,47,45,2,3,0.6063231094120057,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+248,3,0:26,626,626,Foul on Keniece Purvis.,47,45,2,26,0.6065357067820983,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+249,3,0:00,600,600,Taylor Porter made Layup.,47,47,0,0,0.5,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Marshall
+250,3,0:00,600,600,End of 3rd Quarter,47,47,0,11,0.5,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+251,4,9:49,589,589,Shayna Gore missed Jumper.,47,47,0,0,0.5,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+252,4,9:49,589,589,Destiny Thomas Defensive Rebound.,47,47,0,25,0.5,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+253,4,9:24,564,564,Kobi Thornton missed Jumper.,47,47,0,0,0.5,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+254,4,9:24,564,564,Ashley Saintigene Defensive Rebound.,47,47,0,17,0.5,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+255,4,9:07,547,547,Kristen Mayo missed Three Point Jumper.,47,47,0,0,0.5,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+256,4,9:07,547,547,Clemson Defensive Rebound.,47,47,0,23,0.5,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+257,4,8:44,524,524,Kobi Thornton made Layup. Assisted by Simone Westbrook.,49,47,2,0,0.6168534178172673,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,Clemson
+258,4,8:44,524,524,Foul on Ashley Saintigene.,49,47,2,0,0.6168534178172673,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+259,4,8:44,524,524,Kobi Thornton missed Free Throw.,49,47,2,0,0.6168534178172673,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+260,4,8:44,524,524,Khadaijia Brooks Defensive Rebound.,49,47,2,4,0.6168534178172673,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+261,4,8:40,520,520,Khadaijia Brooks Turnover.,49,47,2,0,0.6172509114802167,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+262,4,8:40,520,520,Simone Westbrook Steal.,49,47,2,0,0.6172509114802167,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+263,4,8:40,520,520,Foul on Khadaijia Brooks.,49,47,2,4,0.6172509114802167,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+264,4,8:36,516,516,Simone Westbrook made Free Throw.,50,47,3,13,0.6724552629689952,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,Clemson
+265,4,8:23,503,503,Simone Westbrook made Free Throw.,51,47,4,22,0.7250190299955684,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,Clemson
+266,4,8:01,481,481,Shayna Gore made Three Point Jumper.,51,50,1,1,0.5614212202311549,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,Marshall
+267,4,8:00,480,480,Tylar Bennett missed Jumper.,51,50,1,0,0.5614760098695519,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+268,4,8:00,480,480,Khadaijia Brooks Defensive Rebound.,51,50,1,11,0.5614760098695519,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+269,4,7:49,469,469,Foul on Kobi Thornton.,51,50,1,0,0.5621146774317954,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+270,4,7:49,469,469,Shayna Gore made Free Throw.,51,51,0,0,0.5,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,Marshall
+271,4,7:49,469,469,Shayna Gore made Free Throw.,51,52,-1,14,0.43788532256820445,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,Marshall
+272,4,7:35,455,455,Foul on Khadaijia Brooks.,51,52,-1,12,0.43694793160933143,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+273,4,7:23,443,443,Foul on Lorelei Roper.,51,52,-1,0,0.43599653830398655,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+274,4,7:23,443,443,Danielle Edwards made Free Throw.,52,52,0,0,0.5,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,Clemson
+275,4,7:23,443,443,Danielle Edwards made Free Throw.,53,52,1,24,0.5640034616960135,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,Clemson
+276,4,6:59,419,419,Khadaijia Brooks missed Three Point Jumper.,53,52,1,0,0.5663173604510946,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+277,4,6:59,419,419,Kobi Thornton Defensive Rebound.,53,52,1,20,0.5663173604510946,Clemson,Marshall,5,5,0,0,NA,401092001,2018-12-18,
+278,4,6:39,399,399,Clemson  Timeout,53,52,1,0,0.5681467737009431,Clemson,Marshall,4,5,1,0,NA,401092001,2018-12-18,
+279,4,6:39,399,399,Official TV Timeout,53,52,1,8,0.5681467737009431,Clemson,Marshall,4,5,1,0,NA,401092001,2018-12-18,
+280,4,6:31,391,391,Danielle Edwards Turnover.,53,52,1,1,0.5688603851729758,Clemson,Marshall,4,5,1,0,NA,401092001,2018-12-18,
+281,4,6:30,390,390,Khadaijia Brooks Steal.,53,52,1,20,0.5689499333047318,Clemson,Marshall,4,5,1,0,NA,401092001,2018-12-18,
+282,4,6:10,370,370,Kristen Mayo missed Three Point Jumper.,53,52,1,0,0.5708071674759091,Clemson,Marshall,4,5,1,0,NA,401092001,2018-12-18,
+283,4,6:10,370,370,Destiny Thomas Block.,53,52,1,0,0.5708071674759091,Clemson,Marshall,4,5,1,0,NA,401092001,2018-12-18,
+284,4,6:10,370,370,Marshall Offensive Rebound.,53,52,1,2,0.5708071674759091,Clemson,Marshall,4,5,1,0,NA,401092001,2018-12-18,
+285,4,6:08,368,368,Shayna Gore Turnover.,53,52,1,0,0.5710039885097508,Clemson,Marshall,4,5,1,0,NA,401092001,2018-12-18,
+286,4,6:08,368,368,Simone Westbrook Steal.,53,52,1,11,0.5710039885097508,Clemson,Marshall,4,5,1,0,NA,401092001,2018-12-18,
+287,4,5:57,357,357,Tylar Bennett made Layup. Assisted by Destiny Thomas.,55,52,3,21,0.7051172698007595,Clemson,Marshall,4,5,1,0,NA,401092001,2018-12-18,Clemson
+288,4,5:36,336,336,Foul on Simone Westbrook.,55,52,3,3,0.7115174950606639,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+289,4,5:33,333,333,Shayna Gore Turnover.,55,52,3,0,0.7125468687634497,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+290,4,5:33,333,333,Foul on Shayna Gore.,55,52,3,13,0.7125468687634497,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+291,4,5:20,320,320,Danielle Edwards missed Three Point Jumper.,55,52,3,0,0.7174091859290803,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+292,4,5:20,320,320,Clemson Offensive Rebound.,55,52,3,17,0.7174091859290803,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+293,4,5:03,303,303,Foul on Tana Driver.,55,52,3,0,0.7241480313047577,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+294,4,5:03,303,303,Danielle Edwards made Free Throw.,56,52,4,0,0.7836121758039871,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,Clemson
+295,4,5:03,303,303,Danielle Edwards missed Free Throw.,56,52,4,0,0.7836121758039871,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+296,4,5:03,303,303,Simone Westbrook Offensive Rebound.,56,52,4,24,0.7836121758039871,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+297,4,4:39,279,279,Kobi Thornton missed Jumper.,56,52,4,0,0.7851539073677951,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+298,4,4:39,279,279,Kobi Thornton Offensive Rebound.,56,52,4,2,0.7851539073677951,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,
+299,4,4:37,277,277,Kobi Thornton made Layup.,58,52,6,9,0.874529604528951,Clemson,Marshall,4,5,0,0,NA,401092001,2018-12-18,Clemson
+300,4,4:28,268,268,Marshall  Timeout,58,52,6,0,0.8730022191899492,Clemson,Marshall,4,4,0,1,NA,401092001,2018-12-18,
+301,4,4:28,268,268,Shayna Gore missed Free Throw.,58,52,6,0,0.8730022191899492,Clemson,Marshall,4,4,0,1,NA,401092001,2018-12-18,
+302,4,4:28,268,268,Tylar Bennett Defensive Rebound.,58,52,6,6,0.8730022191899492,Clemson,Marshall,4,4,0,1,NA,401092001,2018-12-18,
+303,4,4:22,262,262,Simone Westbrook made Layup. Assisted by Tylar Bennett.,60,52,8,22,0.9279617666027425,Clemson,Marshall,4,4,0,1,NA,401092001,2018-12-18,Clemson
+304,4,4:00,240,240,Khadaijia Brooks made Jumper.,60,54,6,44,0.8683150281043988,Clemson,Marshall,4,4,0,1,NA,401092001,2018-12-18,Marshall
+305,4,3:16,196,196,Danielle Edwards made Three Point Jumper. Assisted by Simone Westbrook.,63,54,9,32,0.9565271925175552,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Clemson
+306,4,2:44,164,164,Tana Driver Turnover.,63,54,9,0,0.9757836715377524,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+307,4,2:44,164,164,Kobi Thornton Steal.,63,54,9,5,0.9757836715377524,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+308,4,2:39,159,159,Danielle Edwards missed Layup.,63,54,9,0,0.9781213266185009,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+309,4,2:39,159,159,Khadaijia Brooks Defensive Rebound.,63,54,9,10,0.9781213266185009,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+310,4,2:29,149,149,Shayna Gore missed Jumper.,63,54,9,0,0.9823550762450661,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+311,4,2:29,149,149,Destiny Thomas Defensive Rebound.,63,54,9,25,0.9823550762450661,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+312,4,2:04,124,124,Danielle Edwards missed Three Point Jumper.,63,54,9,0,0.9906385094424888,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+313,4,2:04,124,124,Khadaijia Brooks Defensive Rebound.,63,54,9,8,0.9906385094424888,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+314,4,1:56,116,116,Shayna Gore missed Three Point Jumper.,63,54,9,0,0.9926383933048804,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+315,4,1:56,116,116,Kobi Thornton Defensive Rebound.,63,54,9,27,0.9926383933048804,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+316,4,1:29,89,89,Simone Westbrook made Three Point Jumper. Assisted by Destiny Thomas.,66,54,12,22,0.999611664398358,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,Clemson
+317,4,1:07,67,67,Taylor Porter Turnover.,66,54,12,1,0.9998905785065867,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+318,4,1:06,66,66,Tylar Bennett Steal.,66,54,12,26,0.9998971626260956,Clemson,Marshall,4,4,0,0,NA,401092001,2018-12-18,
+319,4,0:40,40,40,Clemson  Timeout,66,54,12,2,0.9999818724656027,Clemson,Marshall,3,4,1,0,NA,401092001,2018-12-18,
+320,4,0:38,38,38,Kobi Thornton made Jumper. Assisted by Destiny Thomas.,68,54,14,1,0.9999975184829971,Clemson,Marshall,3,4,1,0,NA,401092001,2018-12-18,Clemson
+321,4,0:37,37,37,Marshall  Timeout,68,54,14,5,0.9999977209700762,Clemson,Marshall,3,3,1,1,NA,401092001,2018-12-18,
+322,4,0:32,32,32,Taylor Pearson missed Layup.,68,54,14,0,0.9999985202081871,Clemson,Marshall,3,3,1,1,NA,401092001,2018-12-18,
+323,4,0:32,32,32,Kobi Thornton Defensive Rebound.,68,54,14,22,0.9999985202081871,Clemson,Marshall,3,3,1,1,NA,401092001,2018-12-18,
+324,4,0:10,10,10,Simone Westbrook missed Jumper.,68,54,14,0,0.9999998060594856,Clemson,Marshall,3,3,1,1,NA,401092001,2018-12-18,
+325,4,0:10,10,10,Taylor Pearson Defensive Rebound.,68,54,14,10,0.9999998060594856,Clemson,Marshall,3,3,1,1,NA,401092001,2018-12-18,
+326,4,0:00,0,0,Shayna Gore missed Three Point Jumper.,68,54,14,0,1,Clemson,Marshall,3,3,1,1,NA,401092001,2018-12-18,
+327,4,0:00,0,0,Simone Westbrook Defensive Rebound.,68,54,14,0,1,Clemson,Marshall,3,3,1,1,NA,401092001,2018-12-18,
+328,4,0:00,0,0,End of Game,68,54,14,0,1,Clemson,Marshall,3,3,1,1,NA,401092001,2018-12-18,

@@ -1,0 +1,346 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Jump Ball won by Rutgers,0,0,0,19,0.5,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,NA
+2,1,9:41,2381,2381,Theresa Onwuka missed Jumper.,0,0,0,0,0.5,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+3,1,9:41,2381,2381,Stasha Carey Defensive Rebound.,0,0,0,20,0.5,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+4,1,9:21,2361,2361,Victoria Harris made Layup.,2,0,2,9,0.5448535841976563,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+5,1,9:12,2352,2352,Foul on Victoria Harris.,2,0,2,17,0.5450475200660853,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+6,1,8:55,2335,2335,Cierra Dillard missed Three Point Jumper.,2,0,2,0,0.5454166796565887,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+7,1,8:55,2335,2335,Stasha Carey Defensive Rebound.,2,0,2,16,0.5454166796565887,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+8,1,8:39,2319,2319,Foul on Adebola Adeyeye.,2,0,2,0,0.5457673174479175,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+9,1,8:39,2319,2319,Jordan Wallace made Free Throw.,3,0,3,0,0.568411910727213,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+10,1,8:39,2319,2319,Jordan Wallace made Free Throw.,4,0,4,19,0.5907740761846345,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+11,1,8:20,2300,2300,Adebola Adeyeye made Layup.,4,2,2,18,0.5461874184583804,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Buffalo
+12,1,8:02,2282,2282,Stasha Carey missed Layup.,4,2,2,0,0.546588823501246,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+13,1,8:02,2282,2282,Adebola Adeyeye Block.,4,2,2,0,0.546588823501246,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+14,1,8:02,2282,2282,Buffalo Defensive Rebound.,4,2,2,0,0.546588823501246,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+15,1,8:02,2282,2282,Foul on Stasha Carey.,4,2,2,14,0.546588823501246,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+16,1,7:48,2268,2268,Cierra Dillard missed Three Point Jumper.,4,2,2,0,0.5469031240173988,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+17,1,7:48,2268,2268,Buffalo Offensive Rebound.,4,2,2,0,0.5469031240173988,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+18,1,7:48,2268,2268,Charise Wilson Block.,4,2,2,8,0.5469031240173988,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+19,1,7:40,2260,2260,Summer Hemphill missed Layup.,4,2,2,0,0.5470834862749095,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+20,1,7:40,2260,2260,Adebola Adeyeye Offensive Rebound.,4,2,2,22,0.5470834862749095,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+21,1,7:18,2238,2238,Summer Hemphill missed Layup.,4,2,2,0,0.5475820854440291,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+22,1,7:18,2238,2238,Adebola Adeyeye Offensive Rebound.,4,2,2,6,0.5475820854440291,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+23,1,7:12,2232,2232,Theresa Onwuka made Layup.,4,4,0,10,0.5,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Buffalo
+24,1,7:02,2222,2222,Arella Guirantes made Jumper.,6,4,2,17,0.5479468560005873,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+25,1,6:45,2205,2205,Theresa Onwuka Turnover.,6,4,2,0,0.5483361412138311,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+26,1,6:45,2205,2205,Arella Guirantes Steal.,6,4,2,0,0.5483361412138311,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+27,1,6:45,2205,2205,Arella Guirantes Turnover.,6,4,2,0,0.5483361412138311,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+28,1,6:45,2205,2205,Hanna Hall Steal.,6,4,2,8,0.5483361412138311,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+29,1,6:37,2197,2197,Cierra Dillard made Three Point Jumper. Assisted by Hanna Hall.,6,7,-1,23,0.47568268005444203,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Buffalo
+30,1,6:14,2174,2174,Foul on Adebola Adeyeye.,6,7,-1,0,0.47541584348665267,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+31,1,6:14,2174,2174,Arella Guirantes made Free Throw.,7,7,0,0,0.5,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+32,1,6:14,2174,2174,Arella Guirantes missed Free Throw.,7,7,0,0,0.5,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+33,1,6:14,2174,2174,Cierra Dillard Defensive Rebound.,7,7,0,14,0.5,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+34,1,6:00,2160,2160,Cierra Dillard missed Three Point Jumper.,7,7,0,0,0.5,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+35,1,6:00,2160,2160,Noga Peleg Pelc Defensive Rebound.,7,7,0,0,0.5,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+36,1,6:00,2160,2160,Foul on Theresa Onwuka.,7,7,0,9,0.5,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+37,1,5:51,2151,2151,Victoria Harris made Jumper. Assisted by Noga Peleg Pelc.,9,7,2,21,0.5495822928983269,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+38,1,5:30,2130,2130,Courtney Wilkins made Three Point Jumper. Assisted by Hanna Hall.,9,10,-1,12,0.47490084655538,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Buffalo
+39,1,5:18,2118,2118,Zipporah Broughton made Three Point Jumper. Assisted by Stasha Carey.,12,10,2,32,0.550353713567204,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+40,1,4:46,2086,2086,Cierra Dillard made Three Point Jumper.,12,13,-1,28,0.4743773575507046,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Buffalo
+41,1,4:18,2058,2058,Stasha Carey missed Layup.,12,13,-1,0,0.47403913442073575,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+42,1,4:18,2058,2058,Summer Hemphill Defensive Rebound.,12,13,-1,17,0.47403913442073575,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+43,1,4:01,2041,2041,Official TV Timeout,12,13,-1,4,0.4738316583701015,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+44,1,3:57,2037,2037,Summer Hemphill made Layup. Assisted by Hanna Hall.,12,15,-3,28,0.4219197274312312,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Buffalo
+45,1,3:29,2009,2009,Arella Guirantes missed Three Point Jumper.,12,15,-3,0,0.4209040114124597,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+46,1,3:29,2009,2009,Victoria Harris Offensive Rebound.,12,15,-3,7,0.4209040114124597,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+47,1,3:22,2002,2002,Tekia Mack missed Three Point Jumper.,12,15,-3,0,0.42064789838832606,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+48,1,3:22,2002,2002,Victoria Harris Offensive Rebound.,12,15,-3,5,0.42064789838832606,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+49,1,3:17,1997,1997,Arella Guirantes missed Three Point Jumper.,12,15,-3,0,0.4204644062843387,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+50,1,3:17,1997,1997,Stasha Carey Offensive Rebound.,12,15,-3,3,0.4204644062843387,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+51,1,3:14,1994,1994,Stasha Carey made Layup.,14,15,-1,0,0.4732489017809514,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+52,1,3:14,1994,1994,Foul on Theresa Onwuka.,14,15,-1,0,0.4732489017809514,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+53,1,3:14,1994,1994,Stasha Carey made Free Throw.,15,15,0,9,0.5,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+54,1,3:05,1985,1985,Autumn Jones made Layup. Assisted by Summer Hemphill.,15,17,-2,27,0.4464260020688232,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Buffalo
+55,1,2:38,1958,1958,Tekia Mack missed Three Point Jumper.,15,17,-2,0,0.44574584807054307,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+56,1,2:38,1958,1958,Cierra Dillard Defensive Rebound.,15,17,-2,11,0.44574584807054307,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+57,1,2:27,1947,1947,Cierra Dillard made Three Point Jumper. Assisted by Hanna Hall.,15,20,-5,32,0.3664399647901124,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Buffalo
+58,1,1:55,1915,1915,Stasha Carey made Layup. Assisted by Arella Guirantes.,17,20,-3,10,0.4173871906663713,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+59,1,1:45,1905,1905,Hanna Hall Turnover.,17,20,-3,14,0.41700735833789904,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+60,1,1:31,1891,1891,Arella Guirantes made Jumper. Assisted by Charise Wilson.,19,20,-1,19,0.4719248454821553,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+61,1,1:12,1872,1872,Summer Hemphill made Layup.,19,22,-3,0,0.4157547667141279,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Buffalo
+62,1,1:12,1872,1872,Foul on Victoria Harris.,19,22,-3,0,0.4157547667141279,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+63,1,1:12,1872,1872,Summer Hemphill made Free Throw.,19,23,-4,12,0.3884971832858312,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Buffalo
+64,1,1:00,1860,1860,Charise Wilson made Jumper.,21,23,-2,15,0.4432285381096179,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+65,1,0:45,1845,1845,Cierra Dillard missed Layup.,21,23,-2,0,0.4428410455580461,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+66,1,0:45,1845,1845,Stasha Carey Defensive Rebound.,21,23,-2,6,0.4428410455580461,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+67,1,0:39,1839,1839,Charise Wilson missed Layup.,21,23,-2,0,0.4426855992857409,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+68,1,0:39,1839,1839,Cierra Dillard Defensive Rebound.,21,23,-2,6,0.4426855992857409,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+69,1,0:33,1833,1833,Foul on Mael Gilles.,21,23,-2,0,0.44252984660655714,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+70,1,0:33,1833,1833,Cierra Dillard made Free Throw.,21,24,-3,0,0.41426743215406525,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Buffalo
+71,1,0:33,1833,1833,Cierra Dillard missed Free Throw.,21,24,-3,0,0.41426743215406525,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+72,1,0:33,1833,1833,Mael Gilles Defensive Rebound.,21,24,-3,9,0.41426743215406525,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+73,1,0:24,1824,1824,Stasha Carey missed Layup.,21,24,-3,0,0.41392180679703694,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+74,1,0:24,1824,1824,Summer Hemphill Block.,21,24,-3,0,0.41392180679703694,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+75,1,0:24,1824,1824,Cierra Dillard Defensive Rebound.,21,24,-3,20,0.41392180679703694,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+76,1,0:04,1804,1804,Autumn Jones made Three Point Jumper. Assisted by Hanna Hall.,21,27,-6,4,0.33138560216818624,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Buffalo
+77,1,0:00,1800,1800,End of 1st Quarter,21,27,-6,0,0.3311015388428796,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+78,2,10:00,1800,1800,Jump Ball won by Buffalo,21,27,-6,10,0.3311015388428796,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+79,2,9:50,1790,1790,Zipporah Broughton missed Three Point Jumper.,21,27,-6,0,0.33038907014617325,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+80,2,9:50,1790,1790,Rutgers Offensive Rebound.,21,27,-6,2,0.33038907014617325,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+81,2,9:48,1788,1788,Foul on Cierra Dillard.,21,27,-6,5,0.33024615487633335,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+82,2,9:43,1783,1783,Zipporah Broughton made Jumper.,23,27,-4,11,0.38403405005668617,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+83,2,9:32,1772,1772,Summer Hemphill Turnover.,23,27,-4,0,0.3834695992246901,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+84,2,9:32,1772,1772,Zipporah Broughton Steal.,23,27,-4,4,0.3834695992246901,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+85,2,9:28,1768,1768,Zipporah Broughton missed Jumper.,23,27,-4,0,0.38326334322682554,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+86,2,9:28,1768,1768,Buffalo Defensive Rebound.,23,27,-4,12,0.38326334322682554,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+87,2,9:16,1756,1756,Summer Hemphill made Layup. Assisted by Cierra Dillard.,23,29,-6,21,0.3279372456116413,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Buffalo
+88,2,8:55,1735,1735,Foul on Courtney Wilkins.,23,29,-6,1,0.3263952462914194,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+89,2,8:54,1734,1734,Charise Wilson made Three Point Jumper. Assisted by Zipporah Broughton.,26,29,-3,16,0.4103701021429877,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+90,2,8:38,1718,1718,Summer Hemphill made Jumper. Assisted by Cierra Dillard.,26,31,-5,11,0.3523820749336352,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Buffalo
+91,2,8:27,1707,1707,Foul on Summer Hemphill.,26,31,-5,14,0.3516630514394655,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+92,2,8:13,1693,1693,Arella Guirantes missed Three Point Jumper.,26,31,-5,0,0.3507370802858956,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+93,2,8:13,1693,1693,Autumn Jones Defensive Rebound.,26,31,-5,9,0.3507370802858956,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+94,2,8:04,1684,1684,Cierra Dillard made Three Point Jumper.,26,34,-8,11,0.2710127224536308,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Buffalo
+95,2,7:53,1673,1673,Arella Guirantes made Layup.,28,34,-6,17,0.32171026932878943,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+96,2,7:36,1656,1656,Autumn Jones missed Three Point Jumper.,28,34,-6,0,0.32045161173009346,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+97,2,7:36,1656,1656,Tekia Mack Defensive Rebound.,28,34,-6,12,0.32045161173009346,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+98,2,7:24,1644,1644,Stasha Carey made Layup. Assisted by Zipporah Broughton.,30,34,-4,17,0.37664649112549553,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+99,2,7:07,1627,1627,Cierra Dillard missed Layup.,30,34,-4,0,0.37576708166277667,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+100,2,7:07,1627,1627,Zipporah Broughton Defensive Rebound.,30,34,-4,7,0.37576708166277667,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+101,2,7:00,1620,1620,Foul on Arella Guirantes.,30,34,-4,0,0.37540757472987163,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+102,2,7:00,1620,1620,Arella Guirantes Turnover.,30,34,-4,16,0.37540757472987163,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+103,2,6:44,1604,1604,Cierra Dillard Turnover.,30,34,-4,0,0.3745890018322981,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+104,2,6:44,1604,1604,Stasha Carey Steal.,30,34,-4,10,0.3745890018322981,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+105,2,6:34,1594,1594,Tekia Mack missed Layup.,30,34,-4,0,0.37407814545308254,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+106,2,6:34,1594,1594,Autumn Jones Defensive Rebound.,30,34,-4,2,0.37407814545308254,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+107,2,6:32,1592,1592,Hanna Hall Turnover.,30,34,-4,16,0.373975927948437,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+108,2,6:16,1576,1576,Mael Gilles missed Jumper.,30,34,-4,0,0.3731562491513981,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+109,2,6:16,1576,1576,Summer Hemphill Defensive Rebound.,30,34,-4,6,0.3731562491513981,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+110,2,6:10,1570,1570,Summer Hemphill Turnover.,30,34,-4,0,0.37284743831976475,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+111,2,6:10,1570,1570,Mael Gilles Steal.,30,34,-4,1,0.37284743831976475,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+112,2,6:09,1569,1569,Foul on Summer Hemphill.,30,34,-4,18,0.37279586640604373,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+113,2,5:51,1551,1551,Arella Guirantes made Jumper. Assisted by Mael Gilles.,32,34,-2,13,0.4348425018729785,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+114,2,5:38,1538,1538,Autumn Jones made Layup.,32,36,-4,28,0.3711760500209782,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Buffalo
+115,2,5:10,1510,1510,Foul on Arella Guirantes.,32,36,-4,0,0.3696610400863992,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+116,2,5:10,1510,1510,Arella Guirantes Turnover.,32,36,-4,1,0.3696610400863992,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+117,2,5:09,1509,1509,Courtney Wilkins Turnover.,32,36,-4,0,0.3696057263024707,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+118,2,5:09,1509,1509,Mael Gilles Steal.,32,36,-4,7,0.3696057263024707,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+119,2,5:02,1502,1502,Jordan Wallace missed Jumper.,32,36,-4,0,0.36921586098251286,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+120,2,5:02,1502,1502,Courtney Wilkins Defensive Rebound.,32,36,-4,12,0.36921586098251286,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+121,2,4:50,1490,1490,Cierra Dillard missed Three Point Jumper.,32,36,-4,0,0.3685358893831622,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+122,2,4:50,1490,1490,Mael Gilles Defensive Rebound.,32,36,-4,4,0.3685358893831622,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+123,2,4:46,1486,1486,Foul on Brittany Morrison.,32,36,-4,0,0.3683057208113053,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+124,2,4:46,1486,1486,Official TV Timeout,32,36,-4,0,0.3683057208113053,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+125,2,4:46,1486,1486,Mael Gilles made Free Throw.,33,36,-3,0,0.400203049757647,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+126,2,4:46,1486,1486,Mael Gilles missed Free Throw.,33,36,-3,0,0.400203049757647,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+127,2,4:46,1486,1486,Brittany Morrison Defensive Rebound.,33,36,-3,13,0.400203049757647,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+128,2,4:33,1473,1473,Courtney Wilkins missed Three Point Jumper.,33,36,-3,0,0.3996138875017199,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+129,2,4:33,1473,1473,Charise Wilson Defensive Rebound.,33,36,-3,23,0.3996138875017199,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+130,2,4:10,1450,1450,Charise Wilson missed Three Point Jumper.,33,36,-3,0,0.398528421722579,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+131,2,4:10,1450,1450,Stasha Carey Offensive Rebound.,33,36,-3,4,0.398528421722579,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+132,2,4:06,1446,1446,Rutgers Deadball Team Rebound.,33,36,-3,0,0.3983353338315703,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+133,2,4:06,1446,1446,Stasha Carey made Free Throw.,34,36,-2,0,0.4316953810496253,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+134,2,4:06,1446,1446,Cierra Dillard Turnover.,34,36,-2,0,0.4316953810496253,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+135,2,4:06,1446,1446,Charise Wilson Steal.,34,36,-2,0,0.4316953810496253,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+136,2,4:06,1446,1446,Stasha Carey missed Free Throw.,33,36,-3,0,0.3983353338315703,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+137,2,4:06,1446,1446,Stasha Carey missed Free Throw.,33,36,-3,8,0.3983353338315703,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+138,2,3:58,1438,1438,Charise Wilson missed Layup.,34,36,-2,0,0.43143534839972875,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+139,2,3:58,1438,1438,Tekia Mack Offensive Rebound.,34,36,-2,11,0.43143534839972875,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+140,2,3:47,1427,1427,Tekia Mack made Layup.,36,36,0,14,0.5,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+141,2,3:33,1413,1413,Hanna Hall missed Three Point Jumper.,36,36,0,0,0.5,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+142,2,3:33,1413,1413,Zipporah Broughton Defensive Rebound.,36,36,0,8,0.5,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+143,2,3:25,1405,1405,Tekia Mack made Layup. Assisted by Charise Wilson.,38,36,2,0,0.5695978286753738,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+144,2,3:25,1405,1405,Foul on Hanna Hall.,38,36,2,0,0.5695978286753738,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+145,2,3:25,1405,1405,Tekia Mack missed Free Throw.,38,36,2,0,0.5695978286753738,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+146,2,3:25,1405,1405,Adebola Adeyeye Defensive Rebound.,38,36,2,21,0.5695978286753738,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+147,2,3:04,1384,1384,Foul on Stasha Carey.,38,36,2,14,0.570233568892694,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+148,2,2:50,1370,1370,Adebola Adeyeye Turnover.,38,36,2,10,0.5706533680910078,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+149,2,2:40,1360,1360,Mael Gilles missed Jumper.,38,36,2,0,0.5709529884150905,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+150,2,2:40,1360,1360,Brittany Morrison Defensive Rebound.,38,36,2,12,0.5709529884150905,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+151,2,2:28,1348,1348,Cierra Dillard Turnover.,38,36,2,19,0.5713137995173716,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+152,2,2:09,1329,1329,Foul on Mael Gilles.,38,36,2,0,0.5718917850613409,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+153,2,2:09,1329,1329,Mael Gilles Turnover.,38,36,2,2,0.5718917850613409,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+154,2,2:07,1327,1327,Finess Dickson Turnover.,38,36,2,13,0.571953325734305,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+155,2,1:54,1314,1314,Jordan Wallace made Jumper. Assisted by Zipporah Broughton.,40,36,4,14,0.6417467708530297,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+156,2,1:40,1300,1300,Foul on Jordan Wallace.,40,36,4,0,0.6425834487611141,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+157,2,1:40,1300,1300,Autumn Jones made Free Throw.,40,37,3,0,0.608246183430483,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Buffalo
+158,2,1:40,1300,1300,Autumn Jones made Free Throw.,40,38,2,11,0.5728031960130557,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Buffalo
+159,2,1:29,1289,1289,Mael Gilles made Three Point Jumper. Assisted by Zipporah Broughton.,43,38,5,40,0.6763203669438366,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Rutgers
+160,2,0:49,1249,1249,Cierra Dillard missed Three Point Jumper.,43,38,5,0,0.6794321149663183,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+161,2,0:49,1249,1249,Buffalo Offensive Rebound.,43,38,5,0,0.6794321149663183,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+162,2,0:49,1249,1249,Buffalo  Turnover.,43,38,5,18,0.6794321149663183,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+163,2,0:31,1231,1231,Mael Gilles missed Layup.,43,38,5,0,0.6809538883335242,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+164,2,0:31,1231,1231,Mael Gilles Offensive Rebound.,43,38,5,6,0.6809538883335242,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+165,2,0:25,1225,1225,Jordan Wallace Turnover.,43,38,5,0,0.6814810252161019,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+166,2,0:25,1225,1225,Cierra Dillard Steal.,43,38,5,18,0.6814810252161019,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+167,2,0:07,1207,1207,Brittany Morrison missed Layup.,43,38,5,0,0.6831256381438029,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+168,2,0:07,1207,1207,Adebola Adeyeye Offensive Rebound.,43,38,5,5,0.6831256381438029,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+169,2,0:02,1202,1202,Hanna Hall made Three Point Jumper. Assisted by Cierra Dillard.,43,41,2,2,0.576426700548488,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,Buffalo
+170,2,0:00,1200,1200,End of 2nd Quarter,43,41,2,0,0.5765093285143758,Rutgers,Buffalo,4,4,0,0,NA,401124140,2019-03-22,
+171,3,10:00,1200,1200,Jump Ball won by Rutgers,43,41,2,20,0.5765093285143758,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+172,3,9:40,1180,1180,Foul on Adebola Adeyeye.,43,41,2,0,0.5773190995999056,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+173,3,9:40,1180,1180,Arella Guirantes missed Free Throw.,43,41,2,0,0.5773190995999056,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+174,3,9:40,1180,1180,Rutgers Deadball Team Rebound.,43,41,2,0,0.5773190995999056,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+175,3,9:40,1180,1180,Arella Guirantes made Free Throw.,44,41,3,10,0.6148312846150986,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,Rutgers
+176,3,9:30,1170,1170,Adebola Adeyeye made Layup. Assisted by Cierra Dillard.,44,43,1,23,0.5390949967418553,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,Buffalo
+177,3,9:07,1147,1147,Charise Wilson missed Three Point Jumper.,44,43,1,0,0.5395514645944625,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+178,3,9:07,1147,1147,Tekia Mack Offensive Rebound.,44,43,1,5,0.5395514645944625,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+179,3,9:02,1142,1142,Foul on Summer Hemphill.,44,43,1,0,0.5396500000301686,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+180,3,9:02,1142,1142,Tekia Mack made Free Throw.,45,43,2,0,0.5788044391321452,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,Rutgers
+181,3,9:02,1142,1142,Tekia Mack missed Free Throw.,45,43,2,0,0.5788044391321452,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+182,3,9:02,1142,1142,Adebola Adeyeye Defensive Rebound.,45,43,2,17,0.5788044391321452,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+183,3,8:45,1125,1125,Cierra Dillard missed Three Point Jumper.,45,43,2,0,0.5794619491860366,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+184,3,8:45,1125,1125,Arella Guirantes Defensive Rebound.,45,43,2,8,0.5794619491860366,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+185,3,8:37,1117,1117,Tekia Mack made Layup. Assisted by Arella Guirantes.,47,43,4,8,0.6555849656082006,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,Rutgers
+186,3,8:29,1109,1109,Adebola Adeyeye Turnover.,47,43,4,0,0.6561639995233887,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+187,3,8:29,1109,1109,Arella Guirantes Steal.,47,43,4,2,0.6561639995233887,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+188,3,8:27,1107,1107,Zipporah Broughton made Jumper. Assisted by Arella Guirantes.,49,43,6,0,0.7251863638834635,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,Rutgers
+189,3,8:27,1107,1107,Foul on Adebola Adeyeye.,49,43,6,0,0.7251863638834635,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+190,3,8:27,1107,1107,Zipporah Broughton made Free Throw.,50,43,7,6,0.7562185098587828,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,Rutgers
+191,3,8:21,1101,1101,Summer Hemphill Turnover.,50,43,7,7,0.75684439942428,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+192,3,8:14,1094,1094,Arella Guirantes made Layup. Assisted by Zipporah Broughton.,52,43,9,10,0.8122979803978567,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,Rutgers
+193,3,8:04,1084,1084,Theresa Onwuka Turnover.,52,43,9,18,0.8134292835949358,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+194,3,7:46,1066,1066,Arella Guirantes missed Jumper.,52,43,9,0,0.8155056819786426,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+195,3,7:46,1066,1066,Courtney Wilkins Defensive Rebound.,52,43,9,21,0.8155056819786426,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+196,3,7:25,1045,1045,Foul on Mael Gilles.,52,43,9,11,0.818015699108734,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+197,3,7:14,1034,1034,Cierra Dillard made Layup.,52,45,7,20,0.7642469361694111,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,Buffalo
+198,3,6:54,1014,1014,Arella Guirantes Turnover.,52,45,7,0,0.7666907007694582,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+199,3,6:54,1014,1014,Theresa Onwuka Steal.,52,45,7,9,0.7666907007694582,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+200,3,6:45,1005,1005,Theresa Onwuka missed Layup.,52,45,7,0,0.7678383909224236,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+201,3,6:45,1005,1005,Theresa Onwuka Offensive Rebound.,52,45,7,0,0.7678383909224236,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+202,3,6:45,1005,1005,Theresa Onwuka missed Layup.,52,45,7,0,0.7678383909224236,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+203,3,6:45,1005,1005,Victoria Harris Block.,52,45,7,0,0.7678383909224236,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+204,3,6:45,1005,1005,Courtney Wilkins Offensive Rebound.,52,45,7,9,0.7678383909224236,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+205,3,6:36,996,996,Hanna Hall made Three Point Jumper. Assisted by Courtney Wilkins.,52,48,4,8,0.6653666015585541,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,Buffalo
+206,3,6:28,988,988,Victoria Harris missed Jumper.,52,48,4,0,0.6661399366016737,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+207,3,6:28,988,988,Summer Hemphill Defensive Rebound.,52,48,4,8,0.6661399366016737,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+208,3,6:20,980,980,Cierra Dillard Turnover.,52,48,4,0,0.6669357603558058,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+209,3,6:20,980,980,Arella Guirantes Steal.,52,48,4,5,0.6669357603558058,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+210,3,6:15,975,975,Arella Guirantes Turnover.,52,48,4,16,0.6674450834204249,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+211,3,5:59,959,959,Theresa Onwuka missed Jumper.,52,48,4,0,0.6690788431001071,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+212,3,5:59,959,959,Victoria Harris Defensive Rebound.,52,48,4,4,0.6690788431001071,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+213,3,5:55,955,955,Foul on Courtney Wilkins.,52,48,4,22,0.6694669319179777,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+214,3,5:33,933,933,Zipporah Broughton missed Three Point Jumper.,52,48,4,0,0.6714619978187049,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+215,3,5:33,933,933,Rutgers Offensive Rebound.,52,48,4,0,0.6714619978187049,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+216,3,5:33,933,933,Foul on Victoria Harris.,52,48,4,0,0.6714619978187049,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+217,3,5:33,933,933,Victoria Harris Turnover.,52,48,4,12,0.6714619978187049,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+218,3,5:21,921,921,Foul on Tekia Mack.,52,48,4,0,0.6724695546583843,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+219,3,5:21,921,921,Courtney Wilkins made Free Throw.,52,49,3,0,0.6317035117473919,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,Buffalo
+220,3,5:21,921,921,Courtney Wilkins made Free Throw.,52,50,2,0,0.588964884369149,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,Buffalo
+221,3,5:21,921,921,Courtney Wilkins made Free Throw.,52,51,1,9,0.5448401954513757,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,Buffalo
+222,3,5:12,912,912,Arella Guirantes missed Jumper.,52,51,1,0,0.5450452456015694,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+223,3,5:12,912,912,Buffalo Defensive Rebound.,52,51,1,19,0.5450452456015694,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+224,3,4:53,893,893,Summer Hemphill missed Jumper.,52,51,1,0,0.545464091557912,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+225,3,4:53,893,893,Stasha Carey Defensive Rebound.,52,51,1,10,0.545464091557912,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+226,3,4:43,883,883,Tekia Mack missed Layup.,52,51,1,0,0.5456805451643713,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+227,3,4:43,883,883,Courtney Wilkins Defensive Rebound.,52,51,1,7,0.5456805451643713,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+228,3,4:36,876,876,Summer Hemphill made Layup. Assisted by Autumn Jones.,52,53,-1,30,0.45416815276528233,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,Buffalo
+229,3,4:06,846,846,Tekia Mack missed Jumper.,52,53,-1,0,0.4535044112827217,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+230,3,4:06,846,846,Stasha Carey Offensive Rebound.,52,53,-1,4,0.4535044112827217,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+231,3,4:02,842,842,Stasha Carey made Layup.,54,53,1,34,0.5465878123980799,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,Rutgers
+232,3,3:28,808,808,Hanna Hall made Three Point Jumper.,54,56,-2,12,0.40597386156024656,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,Buffalo
+233,3,3:16,796,796,Tekia Mack made Three Point Jumper. Assisted by Charise Wilson.,57,56,1,22,0.5477723657085629,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,Rutgers
+234,3,2:54,774,774,Autumn Jones Turnover.,57,56,1,0,0.5484551916654117,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+235,3,2:54,774,774,Official TV Timeout,57,56,1,13,0.5484551916654117,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+236,3,2:41,761,761,Arella Guirantes missed Three Point Jumper.,57,56,1,0,0.5489062372784966,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+237,3,2:41,761,761,Stasha Carey Offensive Rebound.,57,56,1,7,0.5489062372784966,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+238,3,2:34,754,754,Stasha Carey made Layup.,59,56,3,24,0.6438011666246813,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,Rutgers
+239,3,2:10,730,730,Cierra Dillard missed Three Point Jumper.,59,56,3,0,0.6465434189523888,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+240,3,2:10,730,730,Zipporah Broughton Defensive Rebound.,59,56,3,8,0.6465434189523888,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+241,3,2:02,722,722,Arella Guirantes missed Layup.,59,56,3,0,0.6475013034810102,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+242,3,2:02,722,722,Autumn Jones Defensive Rebound.,59,56,3,9,0.6475013034810102,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+243,3,1:53,713,713,Courtney Wilkins missed Layup.,59,56,3,0,0.6485117855566495,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+244,3,1:53,713,713,Summer Hemphill Offensive Rebound.,59,56,3,15,0.6485117855566495,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+245,3,1:38,698,698,Courtney Wilkins Turnover.,59,56,3,12,0.6500675213656736,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+246,3,1:26,686,686,Stasha Carey missed Layup.,59,56,3,0,0.6512262776559739,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+247,3,1:26,686,686,Courtney Wilkins Defensive Rebound.,59,56,3,26,0.6512262776559739,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+248,3,1:00,660,660,Summer Hemphill missed Jumper.,59,56,3,0,0.653607481621627,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+249,3,1:00,660,660,Buffalo Offensive Rebound.,59,56,3,3,0.653607481621627,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+250,3,0:57,657,657,Buffalo  Turnover.,59,56,3,24,0.6538797858828062,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+251,3,0:33,633,633,Zipporah Broughton missed Three Point Jumper.,59,56,3,0,0.6561254273862219,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+252,3,0:33,633,633,Stasha Carey Offensive Rebound.,59,56,3,13,0.6561254273862219,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+253,3,0:20,620,620,Stasha Carey made Layup.,61,56,5,9,0.7477230050821305,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,Rutgers
+254,3,0:11,611,611,Autumn Jones made Three Point Jumper. Assisted by Hanna Hall.,61,59,2,11,0.6076586039103276,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,Buffalo
+255,3,0:00,600,600,End of 3rd Quarter,61,59,2,0,0.6085599051970726,Rutgers,Buffalo,5,5,0,0,NA,401124140,2019-03-22,
+256,4,10:00,600,600,Jump Ball won by Rutgers,61,59,2,23,0.6085599051970726,Rutgers,Buffalo,6,6,0,0,NA,401124140,2019-03-22,
+257,4,9:37,577,577,Charise Wilson missed Three Point Jumper.,61,59,2,0,0.6107233890979671,Rutgers,Buffalo,6,6,0,0,NA,401124140,2019-03-22,
+258,4,9:37,577,577,Charise Wilson Offensive Rebound.,61,59,2,6,0.6107233890979671,Rutgers,Buffalo,6,6,0,0,NA,401124140,2019-03-22,
+259,4,9:31,571,571,Stasha Carey made Layup. Assisted by Charise Wilson.,63,59,4,10,0.7121973258315173,Rutgers,Buffalo,6,6,0,0,NA,401124140,2019-03-22,Rutgers
+260,4,9:21,561,561,Foul on Tekia Mack.,63,59,4,6,0.7141657871501266,Rutgers,Buffalo,6,6,0,0,NA,401124140,2019-03-22,
+261,4,9:15,555,555,Courtney Wilkins made Three Point Jumper. Assisted by Summer Hemphill.,63,62,1,30,0.5573656659758498,Rutgers,Buffalo,6,6,0,0,NA,401124140,2019-03-22,Buffalo
+262,4,8:45,525,525,Arella Guirantes Turnover.,63,62,1,11,0.5591943732679755,Rutgers,Buffalo,6,6,0,0,NA,401124140,2019-03-22,
+263,4,8:34,514,514,Courtney Wilkins missed Three Point Jumper.,63,62,1,0,0.5597570255285672,Rutgers,Buffalo,6,6,0,0,NA,401124140,2019-03-22,
+264,4,8:34,514,514,Charise Wilson Defensive Rebound.,63,62,1,5,0.5597570255285672,Rutgers,Buffalo,6,6,0,0,NA,401124140,2019-03-22,
+265,4,8:29,509,509,Foul on Charise Wilson.,63,62,1,0,0.5600042650063819,Rutgers,Buffalo,6,6,0,0,NA,401124140,2019-03-22,
+266,4,8:29,509,509,Charise Wilson Turnover.,63,62,1,18,0.5600042650063819,Rutgers,Buffalo,6,6,0,0,NA,401124140,2019-03-22,
+267,4,8:11,491,491,Foul on Tekia Mack.,63,62,1,0,0.5608955499664696,Rutgers,Buffalo,6,6,0,0,NA,401124140,2019-03-22,
+268,4,8:11,491,491,Summer Hemphill made Free Throw.,63,63,0,0,0.5,Rutgers,Buffalo,6,6,0,0,NA,401124140,2019-03-22,Buffalo
+269,4,8:11,491,491,Summer Hemphill made Free Throw.,63,64,-1,28,0.4391044500335304,Rutgers,Buffalo,6,6,0,0,NA,401124140,2019-03-22,Buffalo
+270,4,7:43,463,463,Zipporah Broughton missed Three Point Jumper.,63,64,-1,0,0.43750327418124624,Rutgers,Buffalo,6,6,0,0,NA,401124140,2019-03-22,
+271,4,7:43,463,463,Summer Hemphill Block.,63,64,-1,0,0.43750327418124624,Rutgers,Buffalo,6,6,0,0,NA,401124140,2019-03-22,
+272,4,7:43,463,463,Rutgers Offensive Rebound.,63,64,-1,3,0.43750327418124624,Rutgers,Buffalo,6,6,0,0,NA,401124140,2019-03-22,
+273,4,7:40,460,460,Rutgers  Turnover.,63,64,-1,2,0.4373016055358058,Rutgers,Buffalo,6,6,0,0,NA,401124140,2019-03-22,
+274,4,7:38,458,458,Official TV Timeout,63,64,-1,0,0.43716286572931273,Rutgers,Buffalo,6,6,1,0,NA,401124140,2019-03-22,
+275,4,7:38,458,458,Rutgers  Timeout,63,64,-1,24,0.43716286572931273,Rutgers,Buffalo,5,6,1,0,NA,401124140,2019-03-22,
+276,4,7:14,434,434,Summer Hemphill made Three Point Jumper. Assisted by Hanna Hall.,63,67,-4,28,0.2605494678236337,Rutgers,Buffalo,5,6,1,0,NA,401124140,2019-03-22,Buffalo
+277,4,6:46,406,406,Stasha Carey made Layup.,65,67,-2,35,0.36737943283221663,Rutgers,Buffalo,5,6,1,0,NA,401124140,2019-03-22,Rutgers
+278,4,6:11,371,371,Cierra Dillard missed Jumper.,65,67,-2,0,0.3613533649873076,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,
+279,4,6:11,371,371,Buffalo Offensive Rebound.,65,67,-2,1,0.3613533649873076,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,
+280,4,6:10,370,370,Buffalo  Turnover.,65,67,-2,12,0.36116985091374765,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,
+281,4,5:58,358,358,Arella Guirantes made Jumper. Assisted by Zipporah Broughton.,67,67,0,12,0.5,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,Rutgers
+282,4,5:46,346,346,Summer Hemphill made Jumper. Assisted by Cierra Dillard.,67,69,-2,16,0.35630191062639543,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,Buffalo
+283,4,5:30,330,330,Arella Guirantes missed Jumper.,67,69,-2,0,0.35236655282916185,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,
+284,4,5:30,330,330,Summer Hemphill Defensive Rebound.,67,69,-2,15,0.35236655282916185,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,
+285,4,5:15,315,315,Cierra Dillard missed Layup.,67,69,-2,0,0.3479898850199312,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,
+286,4,5:15,315,315,Stasha Carey Defensive Rebound.,67,69,-2,20,0.3479898850199312,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,
+287,4,4:55,295,295,Victoria Harris made Layup. Assisted by Arella Guirantes.,69,69,0,30,0.5,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,Rutgers
+288,4,4:25,265,265,Summer Hemphill made Layup. Assisted by Hanna Hall.,69,71,-2,0,0.34506746805711414,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,Buffalo
+289,4,4:25,265,265,Foul on Victoria Harris.,69,71,-2,0,0.34506746805711414,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,
+290,4,4:25,265,265,Official TV Timeout,69,71,-2,0,0.34506746805711414,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,
+291,4,4:25,265,265,Summer Hemphill made Free Throw.,69,72,-3,18,0.27664032004941114,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,Buffalo
+292,4,4:07,247,247,Stasha Carey Turnover.,69,72,-3,0,0.27966043751930214,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,
+293,4,4:07,247,247,Cierra Dillard Steal.,69,72,-3,8,0.27966043751930214,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,
+294,4,3:59,239,239,Summer Hemphill made Layup. Assisted by Cierra Dillard.,69,74,-5,25,0.1720135823324885,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,Buffalo
+295,4,3:34,214,214,Stasha Carey made Layup.,71,74,-3,31,0.27581100923362845,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,Rutgers
+296,4,3:03,183,183,Hanna Hall missed Jumper.,71,74,-3,0,0.24818912439492416,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,
+297,4,3:03,183,183,Buffalo Offensive Rebound.,71,74,-3,2,0.24818912439492416,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,
+298,4,3:01,181,181,Buffalo  Turnover.,71,74,-3,15,0.24583958787591953,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,
+299,4,2:46,166,166,Foul on Courtney Wilkins.,71,74,-3,2,0.22819750214902731,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,
+300,4,2:44,164,164,Tekia Mack Turnover.,71,74,-3,0,0.2258191124985424,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,
+301,4,2:44,164,164,Summer Hemphill Steal.,71,74,-3,22,0.2258191124985424,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,
+302,4,2:22,142,142,Cierra Dillard made Layup.,71,76,-5,1,0.08910879621888101,Rutgers,Buffalo,5,6,0,0,NA,401124140,2019-03-22,Buffalo
+303,4,2:21,141,141,Buffalo  Timeout,71,76,-5,8,0.08801516513632233,Rutgers,Buffalo,5,5,0,1,NA,401124140,2019-03-22,
+304,4,2:13,133,133,Arella Guirantes missed Jumper.,71,76,-5,0,0.07934551404234692,Rutgers,Buffalo,5,5,0,1,NA,401124140,2019-03-22,
+305,4,2:13,133,133,Rutgers Offensive Rebound.,71,76,-5,2,0.07934551404234692,Rutgers,Buffalo,5,5,0,1,NA,401124140,2019-03-22,
+306,4,2:11,131,131,Foul on Courtney Wilkins.,71,76,-5,6,0.07720243445149548,Rutgers,Buffalo,5,5,0,1,NA,401124140,2019-03-22,
+307,4,2:05,125,125,Zipporah Broughton missed Three Point Jumper.,71,76,-5,0,0.07084266259415171,Rutgers,Buffalo,5,5,0,1,NA,401124140,2019-03-22,
+308,4,2:05,125,125,Rutgers Offensive Rebound.,71,76,-5,2,0.07084266259415171,Rutgers,Buffalo,5,5,0,1,NA,401124140,2019-03-22,
+309,4,2:03,123,123,Foul on Hanna Hall.,71,76,-5,8,0.06874882714712816,Rutgers,Buffalo,5,5,0,1,NA,401124140,2019-03-22,
+310,4,1:55,115,115,Charise Wilson Turnover.,71,76,-5,0,0.06053163326245776,Rutgers,Buffalo,5,5,0,1,NA,401124140,2019-03-22,
+311,4,1:55,115,115,Cierra Dillard Steal.,71,76,-5,26,0.06053163326245776,Rutgers,Buffalo,5,5,0,1,NA,401124140,2019-03-22,
+312,4,1:29,89,89,Cierra Dillard Turnover.,71,76,-5,0,0.036537711480410295,Rutgers,Buffalo,5,5,0,1,NA,401124140,2019-03-22,
+313,4,1:29,89,89,Charise Wilson Steal.,71,76,-5,6,0.036537711480410295,Rutgers,Buffalo,5,5,0,1,NA,401124140,2019-03-22,
+314,4,1:23,83,83,Charise Wilson Turnover.,71,76,-5,0,0.03203056108626805,Rutgers,Buffalo,5,5,0,1,NA,401124140,2019-03-22,
+315,4,1:23,83,83,Cierra Dillard Steal.,71,76,-5,32,0.03203056108626805,Rutgers,Buffalo,5,5,0,1,NA,401124140,2019-03-22,
+316,4,0:51,51,51,Summer Hemphill missed Layup.,71,76,-5,0,0.014344373597834605,Rutgers,Buffalo,5,5,1,0,NA,401124140,2019-03-22,
+317,4,0:51,51,51,Buffalo Offensive Rebound.,71,76,-5,0,0.014344373597834605,Rutgers,Buffalo,5,5,1,0,NA,401124140,2019-03-22,
+318,4,0:51,51,51,Buffalo  Turnover.,71,76,-5,0,0.014344373597834605,Rutgers,Buffalo,5,5,1,0,NA,401124140,2019-03-22,
+319,4,0:51,51,51,Rutgers  Timeout,71,76,-5,3,0.014344373597834605,Rutgers,Buffalo,4,5,1,0,NA,401124140,2019-03-22,
+320,4,0:48,48,48,Arella Guirantes missed Jumper.,71,76,-5,0,0.013191971985376541,Rutgers,Buffalo,4,5,1,0,NA,401124140,2019-03-22,
+321,4,0:48,48,48,Summer Hemphill Defensive Rebound.,71,76,-5,10,0.013191971985376541,Rutgers,Buffalo,4,5,1,0,NA,401124140,2019-03-22,
+322,4,0:38,38,38,Foul on Victoria Harris.,71,76,-5,0,0.00985850254275146,Rutgers,Buffalo,4,5,1,0,NA,401124140,2019-03-22,
+323,4,0:38,38,38,Hanna Hall made Free Throw.,71,77,-6,0,0.003944753369715626,Rutgers,Buffalo,4,5,1,0,NA,401124140,2019-03-22,Buffalo
+324,4,0:38,38,38,Hanna Hall made Free Throw.,71,78,-7,3,0.0015728074844056114,Rutgers,Buffalo,4,5,1,0,NA,401124140,2019-03-22,Buffalo
+325,4,0:35,35,35,Arella Guirantes missed Three Point Jumper.,71,78,-7,0,0.0013836561552478138,Rutgers,Buffalo,4,5,1,0,NA,401124140,2019-03-22,
+326,4,0:35,35,35,Summer Hemphill Defensive Rebound.,71,78,-7,6,0.0013836561552478138,Rutgers,Buffalo,4,5,1,0,NA,401124140,2019-03-22,
+327,4,0:29,29,29,Foul on Tekia Mack.,71,78,-7,0,0.0010650647808638,Rutgers,Buffalo,4,5,1,0,NA,401124140,2019-03-22,
+328,4,0:29,29,29,Cierra Dillard missed Free Throw.,71,78,-7,0,0.0010650647808638,Rutgers,Buffalo,4,5,1,0,NA,401124140,2019-03-22,
+329,4,0:29,29,29,Buffalo Deadball Team Rebound.,71,78,-7,0,0.0010650647808638,Rutgers,Buffalo,4,5,1,0,NA,401124140,2019-03-22,
+330,4,0:29,29,29,Cierra Dillard made Free Throw.,71,79,-8,0,4.009315295688359e-4,Rutgers,Buffalo,4,5,1,0,NA,401124140,2019-03-22,Buffalo
+331,4,0:29,29,29,Rutgers  Timeout,71,79,-8,3,4.009315295688359e-4,Rutgers,Buffalo,3,5,1,0,NA,401124140,2019-03-22,
+332,4,0:26,26,26,Tekia Mack missed Three Point Jumper.,71,79,-8,0,3.442634273405428e-4,Rutgers,Buffalo,3,5,1,0,NA,401124140,2019-03-22,
+333,4,0:26,26,26,Buffalo Defensive Rebound.,71,79,-8,5,3.442634273405428e-4,Rutgers,Buffalo,3,5,1,0,NA,401124140,2019-03-22,
+334,4,0:21,21,21,Foul on Arella Guirantes.,71,79,-8,0,2.6597914718104427e-4,Rutgers,Buffalo,3,5,1,0,NA,401124140,2019-03-22,
+335,4,0:21,21,21,Cierra Dillard made Free Throw.,71,80,-9,0,9.506972055110818e-5,Rutgers,Buffalo,3,5,1,0,NA,401124140,2019-03-22,Buffalo
+336,4,0:21,21,21,Cierra Dillard made Free Throw.,71,81,-10,9,3.3977321601119836e-5,Rutgers,Buffalo,3,5,1,0,NA,401124140,2019-03-22,Buffalo
+337,4,0:12,12,12,Charise Wilson missed Layup.,71,81,-10,0,1.846608873892065e-5,Rutgers,Buffalo,3,5,1,0,NA,401124140,2019-03-22,
+338,4,0:12,12,12,Hanna Hall Defensive Rebound.,71,81,-10,1,1.846608873892065e-5,Rutgers,Buffalo,3,5,1,0,NA,401124140,2019-03-22,
+339,4,0:11,11,11,Foul on Charise Wilson.,71,81,-10,0,1.7218902031901813e-5,Rutgers,Buffalo,3,5,1,0,NA,401124140,2019-03-22,
+340,4,0:11,11,11,Hanna Hall made Free Throw.,71,82,-11,0,5.749257092822092e-6,Rutgers,Buffalo,3,5,1,0,NA,401124140,2019-03-22,Buffalo
+341,4,0:11,11,11,Hanna Hall missed Free Throw.,71,82,-11,0,5.749257092822092e-6,Rutgers,Buffalo,3,5,1,0,NA,401124140,2019-03-22,
+342,4,0:11,11,11,Stasha Carey Defensive Rebound.,71,82,-11,8,5.749257092822092e-6,Rutgers,Buffalo,3,5,1,0,NA,401124140,2019-03-22,
+343,4,0:03,3,3,Zipporah Broughton missed Three Point Jumper.,71,82,-11,0,3.0648418929538114e-6,Rutgers,Buffalo,3,5,1,0,NA,401124140,2019-03-22,
+344,4,0:03,3,3,Buffalo Defensive Rebound.,71,82,-11,3,3.0648418929538114e-6,Rutgers,Buffalo,3,5,1,0,NA,401124140,2019-03-22,
+345,4,0:00,0,0,End of Game,71,82,-11,0,2.852423339163565e-96,Rutgers,Buffalo,3,5,1,0,NA,401124140,2019-03-22,

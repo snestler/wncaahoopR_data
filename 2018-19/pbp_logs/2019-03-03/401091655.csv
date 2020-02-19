@@ -1,0 +1,279 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:45,2385,2385,Shaquera Wade missed Three Point Jumper.,0,0,0,0,0.5,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,NA
+2,1,9:45,2385,2385,Ariyah Copeland Offensive Rebound.,0,0,0,6,0.5,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+3,1,9:39,2379,2379,Ariyah Copeland missed Jumper.,0,0,0,0,0.5,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+4,1,9:39,2379,2379,Missouri Defensive Rebound.,0,0,0,20,0.5,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+5,1,9:19,2359,2359,Lauren Aldridge missed Three Point Jumper.,0,0,0,0,0.5,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+6,1,9:19,2359,2359,Jordan Roundtree Offensive Rebound.,0,0,0,8,0.5,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+7,1,9:11,2351,2351,Sophie Cunningham made Three Point Jumper. Assisted by Lauren Aldridge.,3,0,3,27,0.567375393171412,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Missouri
+8,1,8:44,2324,2324,Jasmine Walker Turnover.,3,0,3,2,0.5682487856581603,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+9,1,8:42,2322,2322,Sophie Cunningham Steal.,3,0,3,14,0.5683139860077305,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+10,1,8:28,2308,2308,Cierra Porter made Jumper.,5,0,5,35,0.613347648580658,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Missouri
+11,1,7:53,2273,2273,Cierra Johnson missed Three Point Jumper.,5,0,5,0,0.6152132933334801,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+12,1,7:53,2273,2273,Cierra Porter Defensive Rebound.,5,0,5,11,0.6152132933334801,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+13,1,7:42,2262,2262,Amber Smith made Jumper. Assisted by Jordan Roundtree.,7,0,7,0,0.6593704518124749,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Missouri
+14,1,7:42,2262,2262,Foul on Jasmine Walker.,7,0,7,0,0.6593704518124749,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+15,1,7:42,2262,2262,Amber Smith made Free Throw.,8,0,8,21,0.6802336383217444,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Missouri
+16,1,7:21,2241,2241,Jasmine Walker Turnover.,8,0,8,1,0.6819012429587471,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+17,1,7:20,2240,2240,Jordan Roundtree Steal.,8,0,8,6,0.6819808327904783,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+18,1,7:14,2234,2234,Cierra Porter made Layup. Assisted by Sophie Cunningham.,10,0,10,2,0.72239393341581,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Missouri
+19,1,7:12,2232,2232,Alabama  Timeout,10,0,10,11,0.7225782969882133,Missouri,Alabama,3,4,1,0,NA,401091655,2019-03-03,
+20,1,7:01,2221,2221,Megan Abrams Turnover.,10,0,10,1,0.7235928825137501,Missouri,Alabama,3,4,1,0,NA,401091655,2019-03-03,
+21,1,7:00,2220,2220,Amber Smith Steal.,10,0,10,3,0.7236851602442169,Missouri,Alabama,3,4,1,0,NA,401091655,2019-03-03,
+22,1,6:57,2217,2217,Amber Smith missed Layup.,10,0,10,0,0.7239620291949072,Missouri,Alabama,3,4,1,0,NA,401091655,2019-03-03,
+23,1,6:57,2217,2217,Jasmine Walker Defensive Rebound.,10,0,10,12,0.7239620291949072,Missouri,Alabama,3,4,1,0,NA,401091655,2019-03-03,
+24,1,6:45,2205,2205,Megan Abrams missed Layup.,10,0,10,0,0.7250699311612518,Missouri,Alabama,3,4,1,0,NA,401091655,2019-03-03,
+25,1,6:45,2205,2205,Shaquera Wade Offensive Rebound.,10,0,10,3,0.7250699311612518,Missouri,Alabama,3,4,1,0,NA,401091655,2019-03-03,
+26,1,6:42,2202,2202,Foul on Cierra Porter.,10,0,10,0,0.7253469823021488,Missouri,Alabama,3,4,1,0,NA,401091655,2019-03-03,
+27,1,6:42,2202,2202,Shaquera Wade missed Free Throw.,10,0,10,0,0.7253469823021488,Missouri,Alabama,3,4,1,0,NA,401091655,2019-03-03,
+28,1,6:42,2202,2202,Alabama Deadball Team Rebound.,10,0,10,0,0.7253469823021488,Missouri,Alabama,3,4,1,0,NA,401091655,2019-03-03,
+29,1,6:42,2202,2202,Shaquera Wade made Free Throw.,10,1,9,15,0.7055830309227793,Missouri,Alabama,3,4,1,0,NA,401091655,2019-03-03,Alabama
+30,1,6:27,2187,2187,Amber Smith missed Three Point Jumper.,10,1,9,0,0.7068835640506084,Missouri,Alabama,3,4,1,0,NA,401091655,2019-03-03,
+31,1,6:27,2187,2187,Ariyah Copeland Defensive Rebound.,10,1,9,25,0.7068835640506084,Missouri,Alabama,3,4,1,0,NA,401091655,2019-03-03,
+32,1,6:02,2162,2162,Cierra Johnson Turnover.,10,1,9,1,0.7090522370383883,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+33,1,6:01,2161,2161,Cierra Porter Steal.,10,1,9,23,0.7091390768970636,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+34,1,5:38,2138,2138,Cierra Porter made Layup.,12,1,11,18,0.7504728064282639,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,Missouri
+35,1,5:20,2120,2120,Shaquera Wade missed Three Point Jumper.,12,1,11,0,0.7522231907011127,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+36,1,5:20,2120,2120,Amber Smith Defensive Rebound.,12,1,11,31,0.7522231907011127,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+37,1,4:49,2089,2089,Cierra Porter Turnover.,12,1,11,17,0.75524728929128,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+38,1,4:32,2072,2072,Shaquera Wade missed Jumper.,12,1,11,0,0.7569117387572125,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+39,1,4:32,2072,2072,Cierra Porter Defensive Rebound.,12,1,11,11,0.7569117387572125,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+40,1,4:21,2061,2061,Jordan Roundtree missed Three Point Jumper.,12,1,11,0,0.7579913366211644,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+41,1,4:21,2061,2061,Alabama Defensive Rebound.,12,1,11,16,0.7579913366211644,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+42,1,4:05,2045,2045,Cierra Johnson made Layup.,12,3,9,12,0.7193327330384741,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,Alabama
+43,1,3:53,2033,2033,Sophie Cunningham missed Three Point Jumper.,12,3,9,0,0.7204042271306651,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+44,1,3:53,2033,2033,Megan Abrams Defensive Rebound.,12,3,9,21,0.7204042271306651,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+45,1,3:32,2012,2012,Jasmine Walker missed Three Point Jumper.,12,3,9,0,0.7222886881839333,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+46,1,3:32,2012,2012,Hannah Schuchts Defensive Rebound.,12,3,9,18,0.7222886881839333,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+47,1,3:14,1994,1994,Emmanuelle Tahane made Layup.,14,3,11,20,0.7646192080953362,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,Missouri
+48,1,2:54,1974,1974,Ariyah Copeland Turnover.,14,3,11,22,0.7666176444747755,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+49,1,2:32,1952,1952,Sophie Cunningham missed Three Point Jumper.,14,3,11,0,0.7688279779962429,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+50,1,2:32,1952,1952,Sophie Cunningham Offensive Rebound.,14,3,11,14,0.7688279779962429,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+51,1,2:18,1938,1938,Foul on Taylor Berry.,14,3,11,0,0.7702415082734364,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+52,1,2:18,1938,1938,Jordan Chavis made Free Throw.,15,3,12,0,0.7891227844216251,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,Missouri
+53,1,2:18,1938,1938,Jordan Chavis missed Free Throw.,15,3,12,0,0.7891227844216251,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+54,1,2:18,1938,1938,Missouri Deadball Team Rebound.,15,3,12,0,0.7891227844216251,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+55,1,2:18,1938,1938,Jordan Chavis missed Free Throw.,15,3,12,0,0.7891227844216251,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+56,1,2:18,1938,1938,Emmanuelle Tahane Offensive Rebound.,15,3,12,23,0.7891227844216251,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+57,1,1:55,1915,1915,Emmanuelle Tahane missed Layup.,15,3,12,0,0.7915071393258595,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+58,1,1:55,1915,1915,Ashley Knight Block.,15,3,12,4,0.7915071393258595,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+59,1,1:51,1911,1911,Ashley Knight Defensive Rebound.,15,3,12,6,0.7919194144333465,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+60,1,1:45,1905,1905,Cierra Johnson missed Three Point Jumper.,15,3,12,0,0.7925364421267412,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+61,1,1:45,1905,1905,Emmanuelle Tahane Defensive Rebound.,15,3,12,32,0.7925364421267412,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+62,1,1:13,1873,1873,Jordan Chavis missed Jumper.,15,3,12,0,0.7958044461232244,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+63,1,1:13,1873,1873,Emmanuelle Tahane Offensive Rebound.,15,3,12,3,0.7958044461232244,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+64,1,1:10,1870,1870,Lauren Aldridge made Three Point Jumper. Assisted by Emmanuelle Tahane.,18,3,15,23,0.8458857945832927,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,Missouri
+65,1,0:47,1847,1847,Ashley Knight missed Layup.,18,3,15,0,0.8482221319992074,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+66,1,0:47,1847,1847,Sophie Cunningham Defensive Rebound.,18,3,15,10,0.8482221319992074,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+67,1,0:37,1837,1837,Hannah Schuchts made Three Point Jumper. Assisted by Sophie Cunningham.,21,3,18,16,0.8883820650253608,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,Missouri
+68,1,0:21,1821,1821,Cierra Johnson made Jumper.,21,5,16,20,0.8649871738153884,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,Alabama
+69,1,0:01,1801,1801,Lauren Aldridge Turnover.,21,5,16,1,0.8669623696728581,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+70,1,0:00,1800,1800,End of 1st Quarter,21,5,16,16,0.8670610218404036,Missouri,Alabama,3,4,0,0,NA,401091655,2019-03-03,
+71,2,9:44,1784,1784,Sophie Cunningham Turnover.,21,5,16,0,0.8686388924054436,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+72,2,9:44,1784,1784,Cierra Johnson Steal.,21,5,16,15,0.8686388924054436,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+73,2,9:29,1769,1769,Ariyah Copeland made Layup. Assisted by Cierra Johnson.,21,7,14,16,0.8408083581212065,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Alabama
+74,2,9:13,1753,1753,Amber Smith missed Three Point Jumper.,21,7,14,0,0.8424475407454832,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+75,2,9:13,1753,1753,Cierra Johnson Defensive Rebound.,21,7,14,10,0.8424475407454832,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+76,2,9:03,1743,1743,Cierra Johnson Turnover.,21,7,14,2,0.8434756328797562,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+77,2,9:01,1741,1741,Lauren Aldridge Steal.,21,7,14,6,0.843681635162803,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+78,2,8:55,1735,1735,Foul on Ariyah Copeland.,21,7,14,13,0.8443004741015363,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+79,2,8:42,1722,1722,Cierra Porter made Layup. Assisted by Sophie Cunningham.,23,7,16,21,0.8747723744257084,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Missouri
+80,2,8:21,1701,1701,Jasmine Walker made Layup. Assisted by Shaquera Wade.,23,9,14,24,0.8478349010747471,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Alabama
+81,2,7:57,1677,1677,Sophie Cunningham Turnover.,23,9,14,1,0.8503405913173505,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+82,2,7:56,1676,1676,Ariyah Copeland Steal.,23,9,14,11,0.8504429834622457,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+83,2,7:45,1665,1665,Jasmine Walker missed Three Point Jumper.,23,9,14,0,0.8515565302170668,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+84,2,7:45,1665,1665,Sophie Cunningham Defensive Rebound.,23,9,14,12,0.8515565302170668,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+85,2,7:33,1653,1653,Amber Smith missed Layup.,23,9,14,0,0.8527470231363152,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+86,2,7:33,1653,1653,Ariyah Copeland Defensive Rebound.,23,9,14,8,0.8527470231363152,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+87,2,7:25,1645,1645,Cierra Johnson made Jumper.,23,11,12,31,0.8191730200823406,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Alabama
+88,2,6:54,1614,1614,Cierra Porter Turnover.,23,11,12,1,0.8221809434098414,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+89,2,6:53,1613,1613,Cierra Johnson Steal.,23,11,12,7,0.8222766707486586,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+90,2,6:46,1606,1606,Megan Abrams missed Three Point Jumper.,23,11,12,0,0.8229452052411088,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+91,2,6:46,1606,1606,Cierra Porter Defensive Rebound.,23,11,12,37,0.8229452052411088,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+92,2,6:09,1569,1569,Emmanuelle Tahane missed Jumper.,23,11,12,0,0.8264571021701547,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+93,2,6:09,1569,1569,Ariyah Copeland Defensive Rebound.,23,11,12,26,0.8264571021701547,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+94,2,5:43,1543,1543,Ariyah Copeland missed Jumper.,23,11,12,0,0.8289386391853313,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+95,2,5:43,1543,1543,Hannah Schuchts Block.,23,11,12,3,0.8289386391853313,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+96,2,5:40,1540,1540,Ariyah Copeland Offensive Rebound.,23,11,12,1,0.8292274260823087,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+97,2,5:39,1539,1539,Ariyah Copeland made Layup.,23,13,10,14,0.7887436341876889,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Alabama
+98,2,5:25,1525,1525,Sophie Cunningham made Three Point Jumper. Assisted by Haley Troup.,26,13,13,28,0.8485162292418197,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Missouri
+99,2,4:57,1497,1497,Foul on Sophie Cunningham.,26,13,13,0,0.8512667008542173,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+100,2,4:57,1497,1497,Official TV Timeout,26,13,13,20,0.8512667008542173,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+101,2,4:37,1477,1477,Allie Craig Cruce made Layup.,26,15,11,29,0.8160495031467956,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Alabama
+102,2,4:08,1448,1448,Jordan Chavis missed Three Point Jumper.,26,15,11,0,0.8191622591257302,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+103,2,4:08,1448,1448,Hannah Schuchts Offensive Rebound.,26,15,11,7,0.8191622591257302,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+104,2,4:01,1441,1441,Hannah Schuchts Turnover.,26,15,11,0,0.8199207888455166,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+105,2,4:01,1441,1441,Shaquera Wade Steal.,26,15,11,9,0.8199207888455166,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+106,2,3:52,1432,1432,Shaquera Wade made Jumper.,26,17,9,30,0.7765224125211911,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Alabama
+107,2,3:22,1402,1402,Sophie Cunningham Turnover.,26,17,9,27,0.7794780993361425,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+108,2,2:55,1375,1375,Allie Craig Cruce missed Three Point Jumper.,26,17,9,0,0.7820371147482509,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+109,2,2:55,1375,1375,Cierra Porter Defensive Rebound.,26,17,9,15,0.7820371147482509,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+110,2,2:40,1360,1360,Sophie Cunningham missed Three Point Jumper.,26,17,9,0,0.7834408251182648,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+111,2,2:40,1360,1360,Cierra Johnson Defensive Rebound.,26,17,9,7,0.7834408251182648,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+112,2,2:33,1353,1353,Cierra Johnson missed Layup.,26,17,9,0,0.7840953009502931,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+113,2,2:33,1353,1353,Cierra Porter Defensive Rebound.,26,17,9,8,0.7840953009502931,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+114,2,2:25,1345,1345,Sophie Cunningham missed Jumper.,26,17,9,0,0.7848445963308263,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+115,2,2:25,1345,1345,Allie Craig Cruce Defensive Rebound.,26,17,9,6,0.7848445963308263,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+116,2,2:19,1339,1339,Allie Craig Cruce Turnover.,26,17,9,0,0.7854083571290909,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+117,2,2:19,1339,1339,Cierra Porter Steal.,26,17,9,0,0.7854083571290909,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+118,2,2:19,1339,1339,Foul on Cierra Johnson.,26,17,9,4,0.7854083571290909,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+119,2,2:15,1335,1335,Lauren Aldridge made Three Point Jumper. Assisted by Emmanuelle Tahane.,29,17,12,15,0.8497881613427939,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Missouri
+120,2,2:00,1320,1320,Foul on Cierra Porter.,29,17,12,9,0.8512276889888657,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+121,2,1:51,1311,1311,Cierra Johnson made Jumper.,29,19,10,27,0.811427864428235,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Alabama
+122,2,1:24,1284,1284,Foul on Allie Craig Cruce.,29,19,10,0,0.8141527547630373,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+123,2,1:24,1284,1284,Lauren Aldridge missed Free Throw.,29,19,10,0,0.8141527547630373,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+124,2,1:24,1284,1284,Missouri Deadball Team Rebound.,29,19,10,0,0.8141527547630373,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+125,2,1:24,1284,1284,Lauren Aldridge made Free Throw.,30,19,11,9,0.835476008379975,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Missouri
+126,2,1:15,1275,1275,Jasmine Walker made Jumper. Assisted by Shaquera Wade.,30,21,9,18,0.7916833282008534,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Alabama
+127,2,0:57,1257,1257,Haley Troup made Three Point Jumper. Assisted by Jordan Chavis.,33,21,12,21,0.8576167159847552,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Missouri
+128,2,0:36,1236,1236,Allie Craig Cruce missed Three Point Jumper.,33,21,12,0,0.8599430482459658,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+129,2,0:36,1236,1236,Jasmine Walker Offensive Rebound.,33,21,12,7,0.8599430482459658,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+130,2,0:29,1229,1229,Jasmine Walker Turnover.,33,21,12,1,0.8607472213731772,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+131,2,0:28,1228,1228,Amber Smith Steal.,33,21,12,28,0.8608633574253376,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+132,2,0:00,1200,1200,Sophie Cunningham made Layup.,35,21,14,0,0.8965272355199047,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Missouri
+133,2,0:00,1200,1200,Foul on Jasmine Walker.,35,21,14,0,0.8965272355199047,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+134,2,0:00,1200,1200,Sophie Cunningham made Free Throw.,36,21,15,0,0.9099848741674551,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,Missouri
+135,2,0:00,1200,1200,End of 2nd Quarter,35,21,14,16,0.8965272355199047,Missouri,Alabama,4,4,0,0,NA,401091655,2019-03-03,
+136,3,9:44,1184,1184,Jasmine Walker missed Jumper.,36,21,15,0,0.911607361070731,Missouri,Alabama,5,5,0,0,NA,401091655,2019-03-03,Missouri
+137,3,9:44,1184,1184,Ariyah Copeland Offensive Rebound.,36,21,15,20,0.911607361070731,Missouri,Alabama,5,5,0,0,NA,401091655,2019-03-03,
+138,3,9:24,1164,1164,Cierra Johnson Turnover.,36,21,15,24,0.9135468860518362,Missouri,Alabama,5,5,0,0,NA,401091655,2019-03-03,
+139,3,9:00,1140,1140,Lauren Aldridge missed Three Point Jumper.,36,21,15,0,0.9157831181397432,Missouri,Alabama,5,5,0,0,NA,401091655,2019-03-03,
+140,3,9:00,1140,1140,Alabama Defensive Rebound.,36,21,15,13,0.9157831181397432,Missouri,Alabama,5,5,0,0,NA,401091655,2019-03-03,
+141,3,8:47,1127,1127,Shaquera Wade missed Jumper.,36,21,15,0,0.9169685023393164,Missouri,Alabama,5,5,0,0,NA,401091655,2019-03-03,
+142,3,8:47,1127,1127,Sophie Cunningham Defensive Rebound.,36,21,15,13,0.9169685023393164,Missouri,Alabama,5,5,0,0,NA,401091655,2019-03-03,
+143,3,8:34,1114,1114,Sophie Cunningham made Three Point Jumper. Assisted by Jordan Roundtree.,39,21,18,15,0.9478900269615483,Missouri,Alabama,5,5,0,0,NA,401091655,2019-03-03,Missouri
+144,3,8:19,1099,1099,Shaquera Wade missed Layup.,39,21,18,0,0.9489558401674095,Missouri,Alabama,5,5,0,0,NA,401091655,2019-03-03,
+145,3,8:19,1099,1099,Cierra Porter Defensive Rebound.,39,21,18,10,0.9489558401674095,Missouri,Alabama,5,5,0,0,NA,401091655,2019-03-03,
+146,3,8:09,1089,1089,Jordan Roundtree made Three Point Jumper. Assisted by Sophie Cunningham.,42,21,21,3,0.9685378212343737,Missouri,Alabama,5,5,0,0,NA,401091655,2019-03-03,Missouri
+147,3,8:06,1086,1086,Alabama  Timeout,42,21,21,14,0.9686964467121782,Missouri,Alabama,4,5,1,0,NA,401091655,2019-03-03,
+148,3,7:52,1072,1072,Taylor Berry missed Three Point Jumper.,42,21,21,0,0.9694378865055195,Missouri,Alabama,4,5,1,0,NA,401091655,2019-03-03,
+149,3,7:52,1072,1072,Jordan Roundtree Defensive Rebound.,42,21,21,15,0.9694378865055195,Missouri,Alabama,4,5,1,0,NA,401091655,2019-03-03,
+150,3,7:37,1057,1057,Cierra Porter made Layup.,44,21,23,11,0.978461282826728,Missouri,Alabama,4,5,1,0,NA,401091655,2019-03-03,Missouri
+151,3,7:26,1046,1046,Cierra Johnson made Three Point Jumper. Assisted by Hannah Barber.,44,24,20,20,0.965712712443906,Missouri,Alabama,4,5,1,0,NA,401091655,2019-03-03,Alabama
+152,3,7:06,1026,1026,Sophie Cunningham Turnover.,44,24,20,18,0.9669319772747111,Missouri,Alabama,4,5,1,0,NA,401091655,2019-03-03,
+153,3,6:48,1008,1008,Jasmine Walker missed Three Point Jumper.,44,24,20,0,0.9680581155932202,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+154,3,6:48,1008,1008,Lauren Aldridge Defensive Rebound.,44,24,20,20,0.9680581155932202,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+155,3,6:28,988,988,Foul on Ariyah Copeland.,44,24,20,0,0.9693469120118315,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+156,3,6:28,988,988,Cierra Porter missed Free Throw.,44,24,20,0,0.9693469120118315,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+157,3,6:28,988,988,Missouri Deadball Team Rebound.,44,24,20,0,0.9693469120118315,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+158,3,6:28,988,988,Cierra Porter made Free Throw.,45,24,21,13,0.9740826520363743,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,Missouri
+159,3,6:15,975,975,Allie Craig Cruce missed Three Point Jumper.,45,24,21,0,0.9748499470118493,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+160,3,6:15,975,975,Jordan Roundtree Defensive Rebound.,45,24,21,14,0.9748499470118493,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+161,3,6:01,961,961,Lauren Aldridge missed Three Point Jumper.,45,24,21,0,0.9756704871232329,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+162,3,6:01,961,961,Jordan Roundtree Offensive Rebound.,45,24,21,4,0.9756704871232329,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+163,3,5:57,957,957,Jordan Roundtree made Layup.,47,24,23,21,0.9829296325448447,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,Missouri
+164,3,5:36,936,936,Cierra Johnson missed Three Point Jumper.,47,24,23,0,0.9837512814985977,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+165,3,5:36,936,936,Jordan Roundtree Defensive Rebound.,47,24,23,13,0.9837512814985977,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+166,3,5:23,923,923,Jordan Roundtree missed Three Point Jumper.,47,24,23,0,0.9842045328594637,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+167,3,5:23,923,923,Sophie Cunningham Offensive Rebound.,47,24,23,6,0.9842045328594637,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+168,3,5:17,917,917,Sophie Cunningham made Three Point Jumper. Assisted by Lauren Aldridge.,50,24,26,29,0.9908568924124309,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,Missouri
+169,3,4:48,888,888,Jasmine Walker Turnover.,50,24,26,0,0.9914456685073505,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+170,3,4:48,888,888,Official TV Timeout,50,24,26,15,0.9914456685073505,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+171,3,4:33,873,873,Lauren Aldridge missed Three Point Jumper.,50,24,26,0,0.9917294208129156,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+172,3,4:33,873,873,Ariyah Copeland Defensive Rebound.,50,24,26,17,0.9917294208129156,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+173,3,4:16,856,856,Cierra Johnson made Three Point Jumper. Assisted by Shaquera Wade.,50,27,23,29,0.9861978815121569,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,Alabama
+174,3,3:47,827,827,Foul on Sophie Cunningham.,50,27,23,0,0.9870266453286698,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+175,3,3:47,827,827,Sophie Cunningham Turnover.,50,27,23,22,0.9870266453286698,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+176,3,3:25,805,805,Megan Abrams missed Jumper.,50,27,23,0,0.9876893260608576,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+177,3,3:25,805,805,Allie Craig Cruce Offensive Rebound.,50,27,23,18,0.9876893260608576,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+178,3,3:07,787,787,Allie Craig Cruce made Three Point Jumper. Assisted by Cierra Johnson.,50,30,20,35,0.9792680747860889,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,Alabama
+179,3,2:32,752,752,Emmanuelle Tahane made Jumper.,52,30,22,29,0.9872248261359647,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,Missouri
+180,3,2:03,723,723,Shaquera Wade Turnover.,52,30,22,2,0.9885184533542967,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+181,3,2:01,721,721,Emmanuelle Tahane Steal.,52,30,22,9,0.9886027776053999,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+182,3,1:52,712,712,Sophie Cunningham missed Three Point Jumper.,52,30,22,0,0.9889605807278226,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+183,3,1:52,712,712,Cierra Johnson Defensive Rebound.,52,30,22,7,0.9889605807278226,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+184,3,1:45,705,705,Cierra Johnson missed Jumper.,52,30,22,0,0.9892172779609326,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+185,3,1:45,705,705,Sophie Cunningham Defensive Rebound.,52,30,22,3,0.9892172779609326,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+186,3,1:42,702,702,Foul on Ariyah Copeland.,52,30,22,13,0.9893222742146139,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+187,3,1:29,689,689,Haley Troup Turnover.,52,30,22,1,0.9897483065267629,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+188,3,1:28,688,688,Ariyah Copeland Steal.,52,30,22,8,0.9897793996990396,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+189,3,1:20,680,680,Cierra Johnson Turnover.,52,30,22,1,0.9900211860187483,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+190,3,1:19,679,679,Jordan Chavis Steal.,52,30,22,4,0.9900506285334314,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+191,3,1:15,675,675,Foul on Cierra Johnson.,52,30,22,0,0.9901669112491278,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+192,3,1:15,675,675,Sophie Cunningham made Free Throw.,53,30,23,0,0.99201174225053,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,Missouri
+193,3,1:15,675,675,Sophie Cunningham made Free Throw.,54,30,24,11,0.9935127236798306,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,Missouri
+194,3,1:04,664,664,Foul on Sophie Cunningham.,54,30,24,0,0.9937361443234412,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+195,3,1:04,664,664,Ariyah Copeland missed Free Throw.,54,30,24,0,0.9937361443234412,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+196,3,1:04,664,664,Alabama Deadball Team Rebound.,54,30,24,0,0.9937361443234412,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+197,3,1:04,664,664,Ariyah Copeland missed Free Throw.,54,30,24,0,0.9937361443234412,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+198,3,1:04,664,664,Hannah Schuchts Defensive Rebound.,54,30,24,11,0.9937361443234412,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+199,3,0:53,653,653,Hannah Schuchts made Three Point Jumper. Assisted by Haley Troup.,57,30,27,28,0.9967946973922782,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,Missouri
+200,3,0:25,625,625,Taylor Berry missed Three Point Jumper.,57,30,27,0,0.9971183109486347,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+201,3,0:25,625,625,Jordan Chavis Defensive Rebound.,57,30,27,11,0.9971183109486347,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+202,3,0:14,614,614,Jordan Chavis missed Layup.,57,30,27,0,0.997248271692038,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+203,3,0:14,614,614,Emmanuelle Tahane Offensive Rebound.,57,30,27,3,0.997248271692038,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+204,3,0:11,611,611,Emmanuelle Tahane Turnover.,57,30,27,5,0.9972843143955528,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+205,3,0:06,606,606,Hannah Barber Turnover.,57,30,27,6,0.9973450547246517,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+206,3,0:00,600,600,Jordan Chavis missed Three Point Jumper.,57,30,27,0,0.9974191407242069,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+207,3,0:00,600,600,Taylor Berry Defensive Rebound.,57,30,27,0,0.9974191407242069,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+208,3,0:00,600,600,End of 3rd Quarter,57,30,27,29,0.9974191407242069,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+209,4,9:31,571,571,Foul on Cierra Johnson.,57,30,27,2,0.9977976807613533,Missouri,Alabama,5,6,0,0,NA,401091655,2019-03-03,
+210,4,9:29,569,569,Amber Smith made Layup. Assisted by Lauren Aldridge.,59,30,29,14,0.9986175766186975,Missouri,Alabama,5,6,0,0,NA,401091655,2019-03-03,Missouri
+211,4,9:15,555,555,Cierra Johnson made Layup.,59,32,27,31,0.9980204278206332,Missouri,Alabama,5,6,0,0,NA,401091655,2019-03-03,Alabama
+212,4,8:44,524,524,Sophie Cunningham missed Jumper.,59,32,27,0,0.9983883536745723,Missouri,Alabama,5,6,0,0,NA,401091655,2019-03-03,
+213,4,8:44,524,524,Jasmine Walker Defensive Rebound.,59,32,27,15,0.9983883536745723,Missouri,Alabama,5,6,0,0,NA,401091655,2019-03-03,
+214,4,8:29,509,509,Cierra Johnson made Layup.,59,34,25,25,0.9975990433009835,Missouri,Alabama,5,6,0,0,NA,401091655,2019-03-03,Alabama
+215,4,8:04,484,484,Amber Smith made Layup.,61,34,27,14,0.998706922784296,Missouri,Alabama,5,6,0,0,NA,401091655,2019-03-03,Missouri
+216,4,7:50,470,470,Hannah Barber made Three Point Jumper.,61,37,24,1,0.9974976277124471,Missouri,Alabama,5,6,0,0,NA,401091655,2019-03-03,Alabama
+217,4,7:49,469,469,Alabama  Timeout,61,37,24,16,0.9975124636072716,Missouri,Alabama,4,6,1,0,NA,401091655,2019-03-03,
+218,4,7:33,453,453,Amber Smith Turnover.,61,37,24,2,0.9977617895079559,Missouri,Alabama,4,6,1,0,NA,401091655,2019-03-03,
+219,4,7:31,451,451,Ariyah Copeland Steal.,61,37,24,4,0.9977946763168789,Missouri,Alabama,4,6,1,0,NA,401091655,2019-03-03,
+220,4,7:27,447,447,Taylor Berry missed Three Point Jumper.,61,37,24,0,0.9978616438897169,Missouri,Alabama,4,6,1,0,NA,401091655,2019-03-03,
+221,4,7:27,447,447,Sophie Cunningham Defensive Rebound.,61,37,24,13,0.9978616438897169,Missouri,Alabama,4,6,1,0,NA,401091655,2019-03-03,
+222,4,7:14,434,434,Foul on Allie Craig Cruce.,61,37,24,13,0.99808990024607,Missouri,Alabama,4,6,1,0,NA,401091655,2019-03-03,
+223,4,7:01,421,421,Amber Smith missed Layup.,61,37,24,0,0.9983169137110606,Missouri,Alabama,4,6,1,0,NA,401091655,2019-03-03,
+224,4,7:01,421,421,Ariyah Copeland Defensive Rebound.,61,37,24,9,0.9983169137110606,Missouri,Alabama,4,6,1,0,NA,401091655,2019-03-03,
+225,4,6:52,412,412,Allie Craig Cruce Turnover.,61,37,24,2,0.9984504970855625,Missouri,Alabama,4,6,1,0,NA,401091655,2019-03-03,
+226,4,6:50,410,410,Amber Smith Steal.,61,37,24,4,0.9984779982540325,Missouri,Alabama,4,6,1,0,NA,401091655,2019-03-03,
+227,4,6:46,406,406,Foul on Allie Craig Cruce.,61,37,24,0,0.9985310062737142,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+228,4,6:46,406,406,Jordan Roundtree missed Free Throw.,61,37,24,0,0.9985310062737142,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+229,4,6:46,406,406,Missouri Deadball Team Rebound.,61,37,24,0,0.9985310062737142,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+230,4,6:46,406,406,Jordan Roundtree made Free Throw.,62,37,25,25,0.9988801559742365,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,Missouri
+231,4,6:21,381,381,Cierra Johnson missed Three Point Jumper.,62,37,25,0,0.9991091227031814,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+232,4,6:21,381,381,Missouri Defensive Rebound.,62,37,25,15,0.9991091227031814,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+233,4,6:06,366,366,Cierra Porter missed Layup.,62,37,25,0,0.9992305685393854,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+234,4,6:06,366,366,Cierra Porter Offensive Rebound.,62,37,25,4,0.9992305685393854,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+235,4,6:02,362,362,Cierra Porter Turnover.,62,37,25,1,0.9992619676384764,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+236,4,6:01,361,361,Allie Craig Cruce Steal.,62,37,25,7,0.9992697698834024,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+237,4,5:54,354,354,Shaquera Wade missed Three Point Jumper.,62,37,25,0,0.9993239220148514,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+238,4,5:54,354,354,Ariyah Copeland Offensive Rebound.,62,37,25,18,0.9993239220148514,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+239,4,5:36,336,336,Hannah Barber made Jumper.,62,39,23,26,0.999014329867124,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,Alabama
+240,4,5:10,310,310,Haley Troup made Three Point Jumper. Assisted by Sophie Cunningham.,65,39,26,15,0.9997404061374203,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,Missouri
+241,4,4:55,295,295,Cierra Johnson Turnover.,65,39,26,1,0.999781890753445,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+242,4,4:54,294,294,Cierra Porter Steal.,65,39,26,8,0.9997828592709355,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+243,4,4:46,286,286,Sophie Cunningham made Three Point Jumper. Assisted by Lauren Aldridge.,68,39,29,35,0.9999188751964289,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,Missouri
+244,4,4:11,251,251,Shaquera Wade missed Jumper.,68,39,29,0,0.9998961592327584,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+245,4,4:11,251,251,Shaquera Wade Offensive Rebound.,68,39,29,6,0.9998961592327584,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+246,4,4:05,245,245,Foul on Haley Troup.,68,39,29,9,0.9998922047683522,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+247,4,3:56,236,236,Hannah Barber missed Three Point Jumper.,68,39,29,0,0.9998896529284295,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+248,4,3:56,236,236,Cierra Johnson Offensive Rebound.,68,39,29,12,0.9998896529284295,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+249,4,3:44,224,224,Cierra Johnson made Jumper.,68,41,27,14,0.99980439365609175,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,Alabama
+250,4,3:30,210,210,Hannah Schuchts made Three Point Jumper. Assisted by Jordan Chavis.,71,41,30,23,0.9999420063853338,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,Missouri
+251,4,3:07,187,187,Hannah Barber missed Three Point Jumper.,71,41,30,0,0.9999802377181487,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+252,4,3:07,187,187,Hannah Schuchts Defensive Rebound.,71,41,30,18,0.9999802377181487,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,
+253,4,2:49,169,169,Hannah Schuchts made Three Point Jumper. Assisted by Lauren Aldridge.,74,41,33,3,0.9999981179983686,Missouri,Alabama,4,6,0,0,NA,401091655,2019-03-03,Missouri
+254,4,2:46,166,166,Missouri  Timeout,74,41,33,3,0.9999984904374388,Missouri,Alabama,4,5,0,1,NA,401091655,2019-03-03,
+255,4,2:43,163,163,Hannah Barber missed Jumper.,74,41,33,0,0.9999987937656516,Missouri,Alabama,4,5,0,1,NA,401091655,2019-03-03,
+256,4,2:43,163,163,Hannah Barber Offensive Rebound.,74,41,33,20,0.9999987937656516,Missouri,Alabama,4,5,0,1,NA,401091655,2019-03-03,
+257,4,2:23,143,143,Ariyah Copeland missed Jumper.,74,41,33,0,0.9999997626022441,Missouri,Alabama,4,5,0,1,NA,401091655,2019-03-03,
+258,4,2:23,143,143,Sophie Cunningham Defensive Rebound.,74,41,33,16,0.9999997626022441,Missouri,Alabama,4,5,0,1,NA,401091655,2019-03-03,
+259,4,2:07,127,127,Foul on Shaquera Wade.,74,41,33,0,0.9999999483472813,Missouri,Alabama,4,5,0,1,NA,401091655,2019-03-03,
+260,4,2:07,127,127,Sophie Cunningham made Free Throw.,75,41,34,0,0.9999999689345366,Missouri,Alabama,4,5,0,1,NA,401091655,2019-03-03,Missouri
+261,4,2:07,127,127,Sophie Cunningham made Free Throw.,76,41,35,9,0.9999999813163172,Missouri,Alabama,4,5,0,1,NA,401091655,2019-03-03,Missouri
+262,4,1:58,118,118,Cierra Johnson made Jumper.,76,43,33,17,0.99999998049015,Missouri,Alabama,4,5,0,1,NA,401091655,2019-03-03,Alabama
+263,4,1:41,101,101,Foul on Shaquera Wade.,76,43,33,0,0.9999999976523549,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+264,4,1:41,101,101,Haley Troup missed Free Throw.,76,43,33,0,0.9999999976523549,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+265,4,1:41,101,101,Missouri Deadball Team Rebound.,76,43,33,0,0.9999999976523549,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+266,4,1:41,101,101,Haley Troup made Free Throw.,77,43,34,14,0.9999999987143094,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,Missouri
+267,4,1:27,87,87,Shaquera Wade missed Three Point Jumper.,77,43,34,0,0.999999999840182,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+268,4,1:27,87,87,Ariyah Copeland Offensive Rebound.,77,43,34,6,0.999999999840182,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+269,4,1:21,81,81,Foul on Hannah Schuchts.,77,43,34,0,0.9999999999373602,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+270,4,1:21,81,81,Ariyah Copeland made Free Throw.,77,44,33,0,0.9999999998749906,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,Alabama
+271,4,1:21,81,81,Ariyah Copeland made Free Throw.,77,45,32,27,0.9999999997505201,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,Alabama
+272,4,0:54,54,54,Elle Brown made Jumper.,79,45,34,13,0.9999999999994318,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,Missouri
+273,4,0:41,41,41,Cierra Johnson missed Layup.,79,45,34,0,0.9999999999999549,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+274,4,0:41,41,41,Shaquera Wade Offensive Rebound.,79,45,34,3,0.9999999999999549,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+275,4,0:38,38,38,Shaquera Wade Turnover.,79,45,34,13,0.9999999999999756,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,
+276,4,0:25,25,25,Haley Troup made Three Point Jumper. Assisted by Elle Brown.,82,45,37,24,0.9999999999999999,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,Missouri
+277,4,0:01,1,1,Ariyah Copeland made Layup. Assisted by Cierra Johnson.,82,47,35,1,1,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,Alabama
+278,4,0:00,0,0,End of Game,82,47,35,0,1,Missouri,Alabama,4,5,0,0,NA,401091655,2019-03-03,

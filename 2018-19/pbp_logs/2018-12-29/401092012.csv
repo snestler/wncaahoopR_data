@@ -1,0 +1,364 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:45,2385,2385,Emma Guy made Layup. Assisted by Georgia Pineau.,0,0,0,22,0.5,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,NA
+2,1,9:23,2363,2363,Annie McKenna missed Layup.,2,0,2,3,0.5448106339192909,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Boston College
+3,1,9:20,2360,2360,Isalys Quinones Offensive Rebound.,2,0,2,11,0.5448750795359576,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+4,1,9:09,2349,2349,Paula Lenart Turnover.,2,0,2,9,0.5451124007901187,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+5,1,9:00,2340,2340,Taylor Ortlepp Turnover.,2,0,2,0,0.5453077293526352,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+6,1,9:00,2340,2340,Kealy Brown Steal.,2,0,2,25,0.5453077293526352,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+7,1,8:35,2315,2315,Isalys Quinones missed Three Point Jumper.,2,0,2,5,0.5458554347780128,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+8,1,8:30,2310,2310,Makayla Dickens Defensive Rebound.,2,0,2,2,0.5459658291288992,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+9,1,8:28,2308,2308,Makayla Dickens Turnover.,2,0,2,15,0.5460100625768887,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+10,1,8:13,2293,2293,Paula Lenart missed Layup.,2,0,2,1,0.5463431431926905,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+11,1,8:12,2292,2292,Boston College Defensive Rebound.,2,0,2,8,0.546365429477102,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+12,1,8:04,2284,2284,Makayla Dickens Turnover.,2,0,2,9,0.5465440686962537,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+13,1,7:55,2275,2275,Kealy Brown missed Three Point Jumper.,2,0,2,4,0.5467457551815094,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+14,1,7:51,2271,2271,Isalys Quinones Offensive Rebound.,2,0,2,1,0.5468356278580805,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+15,1,7:50,2270,2270,Foul on Annie McKenna.,2,0,2,0,0.5468581179367272,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+16,1,7:50,2270,2270,Annie McKenna Turnover.,2,0,2,17,0.5468581179367272,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+17,1,7:33,2253,2253,Makayla Dickens missed Three Point Jumper.,2,0,2,0,0.5472417311522229,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+18,1,7:33,2253,2253,Dartmouth Defensive Rebound.,2,0,2,17,0.5472417311522229,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+19,1,7:16,2236,2236,Isalys Quinones made Layup. Assisted by Cy Lippold.,2,2,0,5,0.5,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Dartmouth
+20,1,7:11,2231,2231,Emma Guy Turnover.,2,2,0,23,0.5,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+21,1,6:48,2208,2208,Kealy Brown made Layup. Assisted by Paula Lenart.,2,4,-2,15,0.45173267366113046,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Dartmouth
+22,1,6:33,2193,2193,Makayla Dickens made Three Point Jumper. Assisted by Marnelle Garraud.,5,4,1,13,0.5243636400132976,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Boston College
+23,1,6:20,2180,2180,Kealy Brown made Layup. Assisted by Cy Lippold.,5,6,-1,0,0.47548556302100853,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Dartmouth
+24,1,6:20,2180,2180,Foul on Georgia Pineau.,5,6,-1,0,0.47548556302100853,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+25,1,6:20,2180,2180,Kealy Brown made Free Throw.,5,7,-2,8,0.451088700514614,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Dartmouth
+26,1,6:12,2172,2172,Taylor Ortlepp made Three Point Jumper. Assisted by Marnelle Garraud.,8,7,1,7,0.5246074118573106,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Boston College
+27,1,6:05,2165,2165,Cy Lippold Turnover.,8,7,1,0,0.5246888872821309,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+28,1,6:05,2165,2165,Taylor Ortlepp Steal.,8,7,1,7,0.5246888872821309,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+29,1,5:58,2158,2158,Sydney Lowery missed Jumper.,8,7,1,5,0.5247705449934248,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+30,1,5:53,2153,2153,Emma Guy Offensive Rebound.,8,7,1,2,0.5248289890846521,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+31,1,5:51,2151,2151,Sydney Lowery missed Three Point Jumper.,8,7,1,4,0.524852394614474,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+32,1,5:47,2147,2147,Marnelle Garraud Offensive Rebound.,8,7,1,2,0.5248992542418136,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+33,1,5:45,2145,2145,Marnelle Garraud made Layup.,10,7,3,12,0.574276414067759,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Boston College
+34,1,5:33,2133,2133,Cy Lippold Turnover.,10,7,3,0,0.574691294339453,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+35,1,5:33,2133,2133,Georgia Pineau Steal.,10,7,3,4,0.574691294339453,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+36,1,5:29,2129,2129,Marnelle Garraud made Layup. Assisted by Taylor Ortlepp.,12,7,5,1,0.6230799858828722,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Boston College
+37,1,5:28,2128,2128,Dartmouth  Timeout,12,7,5,0,0.6231355584122863,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+38,1,5:28,2128,2128,Official TV Timeout,12,7,5,5,0.6231355584122863,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+39,1,5:23,2123,2123,Kealy Brown Turnover.,12,7,5,0,0.623413688720598,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+40,1,5:23,2123,2123,Marnelle Garraud Steal.,12,7,5,3,0.623413688720598,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+41,1,5:20,2120,2120,Sydney Lowery Turnover.,12,7,5,7,0.6235807837525128,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+42,1,5:13,2113,2113,Kealy Brown Turnover.,12,7,5,0,0.6239713178266638,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+43,1,5:13,2113,2113,Marnelle Garraud Steal.,12,7,5,0,0.6239713178266638,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+44,1,5:13,2113,2113,Foul on Kealy Brown.,12,7,5,9,0.6239713178266638,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+45,1,5:04,2104,2104,Makayla Dickens Turnover.,12,7,5,0,0.6244747956149365,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+46,1,5:04,2104,2104,Elle Louie Steal.,12,7,5,6,0.6244747956149365,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+47,1,4:58,2098,2098,Cy Lippold missed Three Point Jumper.,12,7,5,4,0.6248113238578489,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+48,1,4:54,2094,2094,Georgia Pineau Defensive Rebound.,12,7,5,1,0.6250360750198689,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+49,1,4:53,2093,2093,Makayla Dickens made Three Point Jumper. Assisted by Taylor Ortlepp.,15,7,8,28,0.6938012683524268,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,Boston College
+50,1,4:25,2065,2065,Anna Luce Turnover.,15,7,8,24,0.6960946996661999,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+51,1,4:01,2041,2041,Georgia Pineau Turnover.,15,7,8,10,0.6980760236069945,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+52,1,3:51,2031,2031,Anna Luce made Layup. Assisted by Isalys Quinones.,15,9,6,21,0.6528455516691938,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,Dartmouth
+53,1,3:30,2010,2010,Emma Guy Turnover.,15,9,6,8,0.6542621473674913,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+54,1,3:22,2002,2002,Elle Louie Turnover.,15,9,6,1,0.6548051228598597,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+55,1,3:21,2001,2001,Foul on Elle Louie.,15,9,6,10,0.6548731272413891,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+56,1,3:11,1991,1991,Taylor Ortlepp Turnover.,15,9,6,18,0.6555548179418867,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+57,1,2:53,1973,1973,Annie McKenna missed Three Point Jumper.,15,9,6,2,0.6567896024885955,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+58,1,2:51,1971,1971,Boston College Defensive Rebound.,15,9,6,0,0.6569274311419396,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+59,1,2:51,1971,1971,Boston College  Turnover.,15,9,6,4,0.6569274311419396,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+60,1,2:47,1967,1967,Foul on Emma Guy.,15,9,6,0,0.65720347430361,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+61,1,2:47,1967,1967,Isalys Quinones made Free Throw.,15,10,5,0,0.6323660128229186,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,Dartmouth
+62,1,2:47,1967,1967,Isalys Quinones missed Free Throw.,15,10,5,1,0.6323660128229186,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+63,1,2:46,1966,1966,Emma Guy Defensive Rebound.,15,10,5,6,0.6324254281385384,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+64,1,2:40,1960,1960,Marnelle Garraud missed Three Point Jumper.,15,10,5,1,0.6327825453354079,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+65,1,2:39,1959,1959,Makayla Dickens Offensive Rebound.,15,10,5,0,0.6328421697502168,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+66,1,2:39,1959,1959,Foul on Annie McKenna.,15,10,5,11,0.6328421697502168,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+67,1,2:28,1948,1948,Emma Guy made Layup. Assisted by Georgia Pineau.,17,10,7,23,0.682691012494058,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,Boston College
+68,1,2:05,1925,1925,Elle Louie made Layup. Assisted by Cy Lippold.,17,12,5,9,0.6348872048370062,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,Dartmouth
+69,1,1:56,1916,1916,Taylor Ortlepp missed Three Point Jumper.,17,12,5,0,0.6354308542547058,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+70,1,1:56,1916,1916,Isalys Quinones Block.,17,12,5,9,0.6354308542547058,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+71,1,1:47,1907,1907,Isalys Quinones Defensive Rebound.,17,12,5,3,0.6359735848978677,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+72,1,1:44,1904,1904,Anna Luce made Layup.,17,14,3,0,0.583030604955373,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,Dartmouth
+73,1,1:44,1904,1904,Foul on Marnelle Garraud.,17,14,3,0,0.583030604955373,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+74,1,1:44,1904,1904,Anna Luce made Free Throw.,17,15,2,8,0.5556397560516335,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,Dartmouth
+75,1,1:36,1896,1896,Makayla Dickens missed Three Point Jumper.,17,15,2,4,0.5558453488551554,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+76,1,1:32,1892,1892,Dartmouth Defensive Rebound.,17,15,2,13,0.5559481345600445,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+77,1,1:19,1879,1879,Anna Luce made Layup. Assisted by Isalys Quinones.,17,17,0,16,0.5,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,Dartmouth
+78,1,1:03,1863,1863,Emma Guy made Layup. Assisted by Taylor Ortlepp.,19,17,2,23,0.5566941227763208,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,Boston College
+79,1,0:40,1840,1840,Isalys Quinones missed Jumper.,19,17,2,4,0.5572884726183811,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+80,1,0:36,1836,1836,Anna Luce Offensive Rebound.,19,17,2,3,0.5573922366831335,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+81,1,0:33,1833,1833,Isalys Quinones made Layup.,19,19,0,21,0.5,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,Dartmouth
+82,1,0:12,1812,1812,Sydney Lowery made Layup.,21,19,2,12,0.5580181787143008,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,Boston College
+83,1,0:00,1800,1800,Cy Lippold missed Layup.,21,19,2,0,0.558333749411633,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+84,1,0:00,1800,1800,Anna Luce made Layup.,21,21,0,0,0.5,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,Dartmouth
+85,1,0:00,1800,1800,Anna Luce Offensive Rebound.,21,21,0,0,0.5,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+86,1,0:00,1800,1800,End of 1st Quarter,21,19,2,17,0.558333749411633,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+87,2,9:43,1783,1783,Kealy Brown made Layup. Assisted by Cy Lippold.,21,23,-2,18,0.44121555871107754,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Dartmouth
+88,2,9:25,1765,1765,Marnelle Garraud Turnover.,21,23,-2,0,0.44073295778389904,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+89,2,9:25,1765,1765,Kealy Brown Steal.,21,23,-2,5,0.44073295778389904,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+90,2,9:20,1760,1760,Kealy Brown made Layup.,21,25,-4,7,0.38284912339063054,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Dartmouth
+91,2,9:13,1753,1753,Emma Guy made Layup. Assisted by Marnelle Garraud.,23,25,-2,11,0.4404077085130537,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Boston College
+92,2,9:02,1742,1742,Anna Luce made Layup. Assisted by Cy Lippold.,23,27,-4,18,0.3819081306706745,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Dartmouth
+93,2,8:44,1724,1724,Sydney Lowery made Layup.,25,27,-2,15,0.43960829471967094,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Boston College
+94,2,8:29,1709,1709,Elle Louie missed Layup.,25,27,-2,4,0.4391864305456816,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+95,2,8:25,1705,1705,Georgia Pineau Defensive Rebound.,25,27,-2,2,0.4390728765312243,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+96,2,8:23,1703,1703,Emma Guy missed Layup.,25,27,-2,4,0.4390159262543432,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+97,2,8:19,1699,1699,Marnelle Garraud Offensive Rebound.,25,27,-2,7,0.43890167307783334,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+98,2,8:12,1692,1692,Makayla Dickens missed Three Point Jumper.,25,27,-2,4,0.43870057332251106,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+99,2,8:08,1688,1688,Georgia Pineau Offensive Rebound.,25,27,-2,6,0.43858513869758936,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+100,2,8:02,1682,1682,Sydney Lowery missed Jumper.,25,27,-2,3,0.4384131339867359,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+101,2,7:59,1679,1679,Georgia Pineau Offensive Rebound.,25,27,-2,0,0.43832772283580895,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+102,2,7:59,1679,1679,Georgia Pineau made Jumper.,27,27,0,0,0.5,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Boston College
+103,2,7:59,1679,1679,Foul on Kealy Brown.,27,27,0,2,0.5,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+104,2,7:57,1677,1677,Georgia Pineau missed Free Throw.,27,27,0,1,0.5,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+105,2,7:56,1676,1676,Isalys Quinones Defensive Rebound.,27,27,0,18,0.5,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+106,2,7:38,1658,1658,Katie Douglas made Three Point Jumper. Assisted by Isalys Quinones.,27,30,-3,10,0.4072098337500521,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Dartmouth
+107,2,7:28,1648,1648,Sydney Lowery missed Layup.,27,30,-3,0,0.4068051340231543,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+108,2,7:28,1648,1648,Paula Lenart Block.,27,30,-3,8,0.4068051340231543,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+109,2,7:20,1640,1640,Sydney Lowery Offensive Rebound.,27,30,-3,2,0.40648408335447606,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+110,2,7:18,1638,1638,Makayla Dickens missed Layup.,27,30,-3,0,0.40640414355080734,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+111,2,7:18,1638,1638,Paula Lenart Block.,27,30,-3,0,0.40640414355080734,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+112,2,7:18,1638,1638,Paula Lenart Defensive Rebound.,27,30,-3,0,0.40640414355080734,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+113,2,7:18,1638,1638,Foul on Paula Lenart.,27,30,-3,0,0.40640414355080734,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+114,2,7:18,1638,1638,Paula Lenart Turnover.,27,30,-3,13,0.40640414355080734,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+115,2,7:05,1625,1625,Emma Guy made Layup. Assisted by Georgia Pineau.,29,30,-1,23,0.46829307151024974,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Boston College
+116,2,6:42,1602,1602,Cy Lippold missed Layup.,29,30,-1,4,0.46798039573200534,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+117,2,6:38,1598,1598,Marnelle Garraud Defensive Rebound.,29,30,-1,2,0.46792609733079027,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+118,2,6:36,1596,1596,Taylor Ortlepp made Three Point Jumper. Assisted by Marnelle Garraud.,32,30,2,8,0.5639385686636278,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Boston College
+119,2,6:28,1588,1588,Cy Lippold Turnover.,32,30,2,0,0.5641533353637581,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+120,2,6:28,1588,1588,Marnelle Garraud Steal.,32,30,2,7,0.5641533353637581,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+121,2,6:21,1581,1581,Foul on Cy Lippold.,32,30,2,0,0.5643416571998157,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+122,2,6:21,1581,1581,Taylor Ortlepp missed Free Throw.,32,30,2,0,0.5643416571998157,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+123,2,6:21,1581,1581,Boston College Offensive Rebound.,32,30,2,0,0.5643416571998157,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+124,2,6:21,1581,1581,Taylor Ortlepp made Free Throw.,33,30,3,0,0.595849861640906,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Boston College
+125,2,6:21,1581,1581,Taylor Ortlepp missed Free Throw.,33,30,3,3,0.595849861640906,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+126,2,6:18,1578,1578,Elle Louie Defensive Rebound.,33,30,3,24,0.5959686771630336,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+127,2,5:54,1554,1554,Foul on Isalys Quinones.,33,30,3,0,0.5969270771377916,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+128,2,5:54,1554,1554,Isalys Quinones Turnover.,33,30,3,20,0.5969270771377916,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+129,2,5:34,1534,1534,Marnelle Garraud made Layup.,35,30,5,8,0.6592847776111121,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Boston College
+130,2,5:26,1526,1526,Foul on Marnelle Garraud.,35,30,5,18,0.659800934116902,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+131,2,5:08,1508,1508,Katie Douglas Turnover.,35,30,5,0,0.6609841587706841,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+132,2,5:08,1508,1508,Taylor Ortlepp Steal.,35,30,5,4,0.6609841587706841,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+133,2,5:04,1504,1504,Makayla Dickens missed Layup.,35,30,5,0,0.6612517406542736,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+134,2,5:04,1504,1504,Elle Louie Block.,35,30,5,0,0.6612517406542736,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+135,2,5:04,1504,1504,Boston College Offensive Rebound.,35,30,5,0,0.6612517406542736,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+136,2,5:04,1504,1504,Foul on Katie Douglas.,35,30,5,0,0.6612517406542736,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+137,2,5:04,1504,1504,Taylor Ortlepp made Free Throw.,36,30,6,0,0.6905416670364446,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Boston College
+138,2,5:04,1504,1504,Taylor Ortlepp made Free Throw.,37,30,7,28,0.7183776333859325,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,Boston College
+139,2,4:36,1476,1476,Elle Louie missed Three Point Jumper.,37,30,7,4,0.7208140880702067,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+140,2,4:32,1472,1472,Makayla Dickens Defensive Rebound.,37,30,7,2,0.7211729305739936,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+141,2,4:30,1470,1470,Taylor Ortlepp missed Jumper.,37,30,7,4,0.7213534601655,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+142,2,4:26,1466,1466,Georgia Pineau Offensive Rebound.,37,30,7,1,0.7217167930691798,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+143,2,4:25,1465,1465,Georgia Pineau missed Layup.,37,30,7,3,0.7218081082803176,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+144,2,4:22,1462,1462,Georgia Pineau Offensive Rebound.,37,30,7,3,0.7220832333623407,Boston College,Dartmouth,4,4,0,0,NA,401092012,2018-12-29,
+145,2,4:19,1459,1459,Sydney Lowery made Three Point Jumper. Assisted by Georgia Pineau.,40,30,10,0,0.7967329171702421,Boston College,Dartmouth,4,4,1,0,NA,401092012,2018-12-29,Boston College
+146,2,4:19,1459,1459,Dartmouth  Timeout,40,30,10,0,0.7967329171702421,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+147,2,4:19,1459,1459,Official TV Timeout,40,30,10,10,0.7967329171702421,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+148,2,4:09,1449,1449,Elle Louie missed Layup.,40,30,10,4,0.7978120280413503,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+149,2,4:05,1445,1445,Paula Lenart Offensive Rebound.,40,30,10,1,0.7982438594834228,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+150,2,4:04,1444,1444,Paula Lenart missed Layup.,40,30,10,3,0.7983511063385511,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+151,2,4:01,1441,1441,Makayla Dickens Defensive Rebound.,40,30,10,6,0.7986711957490853,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+152,2,3:55,1435,1435,Sydney Lowery missed Layup.,40,30,10,4,0.799304253431067,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+153,2,3:51,1431,1431,Paula Lenart Defensive Rebound.,40,30,10,5,0.7997213129046556,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+154,2,3:46,1426,1426,Cy Lippold missed Jumper.,40,30,10,5,0.8002374172957119,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+155,2,3:41,1421,1421,Emma Guy Defensive Rebound.,40,30,10,7,0.8007481141698456,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+156,2,3:34,1414,1414,Makayla Dickens missed Jumper.,40,30,10,2,0.8014547992268103,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+157,2,3:32,1412,1412,Georgia Pineau Offensive Rebound.,40,30,10,0,0.8016550718034481,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+158,2,3:32,1412,1412,Foul on Paula Lenart.,40,30,10,0,0.8016550718034481,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+159,2,3:32,1412,1412,Georgia Pineau made Free Throw.,41,30,11,0,0.8229317385711219,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,Boston College
+160,2,3:32,1412,1412,Georgia Pineau made Free Throw.,42,30,12,9,0.842374805532097,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,Boston College
+161,2,3:23,1403,1403,Jimena Abejon Turnover.,42,30,12,4,0.8432693120004399,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+162,2,3:19,1399,1399,Foul on Jimena Abejon.,42,30,12,0,0.8436627208733861,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,
+163,2,3:19,1399,1399,Makayla Dickens made Free Throw.,43,30,13,0,0.8613102276895604,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,Boston College
+164,2,3:19,1399,1399,Makayla Dickens made Free Throw.,44,30,14,13,0.8772554924900534,Boston College,Dartmouth,3,4,1,0,NA,401092012,2018-12-29,Boston College
+165,2,3:06,1386,1386,Cy Lippold missed Three Point Jumper.,44,30,14,4,0.8784583505456818,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+166,2,3:02,1382,1382,Katie Douglas Offensive Rebound.,44,30,14,2,0.8788244997727825,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+167,2,3:00,1380,1380,Katie Douglas missed Three Point Jumper.,44,30,14,4,0.8790069918472739,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+168,2,2:56,1376,1376,Emma Guy Defensive Rebound.,44,30,14,3,0.8793709317173137,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+169,2,2:53,1373,1373,Taylor Ortlepp made Layup. Assisted by Makayla Dickens.,46,30,16,27,0.9066334498454769,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,Boston College
+170,2,2:26,1346,1346,Foul on Makayla Dickens.,46,30,16,12,0.9088505100977843,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+171,2,2:14,1334,1334,Anna Luce missed Jumper.,46,30,16,4,0.9098319650287928,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+172,2,2:10,1330,1330,Milan Bolden-Morris Defensive Rebound.,46,30,16,1,0.9101597273173193,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+173,2,2:09,1329,1329,Sydney Lowery missed Three Point Jumper.,46,30,16,4,0.9102417496458381,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+174,2,2:05,1325,1325,Emma Guy Offensive Rebound.,46,30,16,2,0.9105702367608223,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+175,2,2:03,1323,1323,Makayla Dickens missed Three Point Jumper.,46,30,16,4,0.9107347517001749,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+176,2,1:59,1319,1319,Georgia Pineau Offensive Rebound.,46,30,16,4,0.9110644168354128,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+177,2,1:55,1315,1315,Emma Guy missed Layup.,46,30,16,0,0.9113950506998217,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+178,2,1:55,1315,1315,Anna Luce Block.,46,30,16,2,0.9113950506998217,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+179,2,1:53,1313,1313,Isalys Quinones Defensive Rebound.,46,30,16,0,0.9115607760319311,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+180,2,1:53,1313,1313,Isalys Quinones Turnover.,46,30,16,4,0.9115607760319311,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+181,2,1:49,1309,1309,Emma Guy made Layup.,48,30,18,15,0.9327107012730516,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,Boston College
+182,2,1:34,1294,1294,Anna Luce Turnover.,48,30,18,0,0.9338160386091431,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+183,2,1:34,1294,1294,Sydney Lowery Steal.,48,30,18,3,0.9338160386091431,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+184,2,1:31,1291,1291,Foul on Elle Louie.,48,30,18,0,0.9340393046847122,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+185,2,1:31,1291,1291,Sydney Lowery missed Free Throw.,48,30,18,0,0.9340393046847122,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+186,2,1:31,1291,1291,Boston College Offensive Rebound.,48,30,18,0,0.9340393046847122,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+187,2,1:31,1291,1291,Sydney Lowery made Free Throw.,49,30,19,21,0.9425518012690784,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,Boston College
+188,2,1:10,1270,1270,Katie Douglas missed Three Point Jumper.,49,30,19,5,0.9440246471748565,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+189,2,1:05,1265,1265,Anna Luce Offensive Rebound.,49,30,19,6,0.9443821163283488,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+190,2,0:59,1259,1259,Anna Luce made Jumper. Assisted by Isalys Quinones.,49,32,17,10,0.9269881741697266,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,Dartmouth
+191,2,0:49,1249,1249,Foul on Georgia Pineau.,49,32,17,0,0.9278387718944716,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+192,2,0:49,1249,1249,Georgia Pineau Turnover.,49,32,17,11,0.9278387718944716,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+193,2,0:38,1238,1238,Foul on Taylor Ortlepp.,49,32,17,12,0.928794834459132,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+194,2,0:26,1226,1226,Jimena Abejon made Three Point Jumper. Assisted by Katie Douglas.,49,35,14,23,0.8936424481681535,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,Dartmouth
+195,2,0:03,1203,1203,Foul on Clara Ford.,49,35,14,0,0.8961967902680529,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+196,2,0:03,1203,1203,Clara Ford Turnover.,49,35,14,3,0.8961967902680529,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+197,2,0:00,1200,1200,End of 2nd Quarter,49,35,14,11,0.8965272355199047,Boston College,Dartmouth,3,4,0,0,NA,401092012,2018-12-29,
+198,3,9:49,1189,1189,Cy Lippold Turnover.,49,35,14,0,0.8977150160695897,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+199,3,9:49,1189,1189,Marnelle Garraud Steal.,49,35,14,3,0.8977150160695897,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+200,3,9:46,1186,1186,Taylor Ortlepp made Layup. Assisted by Marnelle Garraud.,51,35,16,0,0.9231794060021524,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Boston College
+201,3,9:46,1186,1186,Foul on Cy Lippold.,51,35,16,0,0.9231794060021524,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+202,3,9:46,1186,1186,Taylor Ortlepp missed Free Throw.,51,35,16,1,0.9231794060021524,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+203,3,9:45,1185,1185,Marnelle Garraud Offensive Rebound.,51,35,16,2,0.9232727280761713,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+204,3,9:43,1183,1183,Emma Guy Turnover.,51,35,16,6,0.9234586327471911,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+205,3,9:37,1177,1177,Paula Lenart made Layup. Assisted by Isalys Quinones.,51,37,14,7,0.8989729489595761,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Dartmouth
+206,3,9:30,1170,1170,Taylor Ortlepp missed Layup.,51,37,14,3,0.8996911717209963,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+207,3,9:27,1167,1167,Paula Lenart Defensive Rebound.,51,37,14,19,0.8999958961302548,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+208,3,9:08,1148,1148,Isalys Quinones made Jumper.,51,39,12,17,0.8700603390665068,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Dartmouth
+209,3,8:51,1131,1131,Marnelle Garraud missed Layup.,51,39,12,0,0.8718785270635812,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+210,3,8:51,1131,1131,Marnelle Garraud Offensive Rebound.,51,39,12,0,0.8718785270635812,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+211,3,8:51,1131,1131,Foul on Paula Lenart.,51,39,12,0,0.8718785270635812,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+212,3,8:51,1131,1131,Marnelle Garraud made Free Throw.,52,39,13,0,0.888694734538288,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Boston College
+213,3,8:51,1131,1131,Marnelle Garraud made Free Throw.,53,39,14,15,0.903547948635511,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Boston College
+214,3,8:36,1116,1116,Isalys Quinones made Three Point Jumper. Assisted by Anna Luce.,53,42,11,14,0.854582066941236,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Dartmouth
+215,3,8:22,1102,1102,Emma Guy made Layup. Assisted by Taylor Ortlepp.,55,42,13,10,0.8916444315242218,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Boston College
+216,3,8:12,1092,1092,Annie McKenna Turnover.,55,42,13,0,0.8926655662728303,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+217,3,8:12,1092,1092,Marnelle Garraud Steal.,55,42,13,5,0.8926655662728303,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+218,3,8:07,1087,1087,Makayla Dickens made Layup.,57,42,15,23,0.9205863794197806,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Boston College
+219,3,7:44,1064,1064,Isalys Quinones missed Jumper.,57,42,15,4,0.9226980294533352,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+220,3,7:40,1060,1060,Emma Guy Defensive Rebound.,57,42,15,12,0.9230706947977262,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+221,3,7:28,1048,1048,Taylor Ortlepp missed Three Point Jumper.,57,42,15,4,0.9242012030338822,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+222,3,7:24,1044,1044,Dartmouth Defensive Rebound.,57,42,15,15,0.9245826701226472,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+223,3,7:09,1029,1029,Kealy Brown Turnover.,57,42,15,0,0.926036790818291,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+224,3,7:09,1029,1029,Makayla Dickens Steal.,57,42,15,3,0.926036790818291,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+225,3,7:06,1026,1026,Makayla Dickens Turnover.,57,42,15,5,0.9263324688988609,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+226,3,7:01,1021,1021,Kealy Brown Turnover.,57,42,15,19,0.9268291391940491,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+227,3,6:42,1002,1002,Emma Guy missed Jumper.,57,42,15,3,0.9287640339833348,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+228,3,6:39,999,999,Georgia Pineau Offensive Rebound.,57,42,15,0,0.929076880873297,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+229,3,6:39,999,999,Foul on Anna Luce.,57,42,15,0,0.929076880873297,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+230,3,6:39,999,999,Georgia Pineau made Free Throw.,58,42,16,0,0.9395793514211891,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Boston College
+231,3,6:39,999,999,Georgia Pineau made Free Throw.,59,42,17,10,0.9486126103214633,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Boston College
+232,3,6:29,989,989,Kealy Brown Turnover.,59,42,17,0,0.9494987233646842,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+233,3,6:29,989,989,Sydney Lowery Steal.,59,42,17,6,0.9494987233646842,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+234,3,6:23,983,983,Makayla Dickens made Layup. Assisted by Sydney Lowery.,61,42,19,34,0.9641451868256997,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Boston College
+235,3,5:49,949,949,Annie McKenna missed Three Point Jumper.,61,42,19,0,0.9665794926312992,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+236,3,5:49,949,949,Boston College Defensive Rebound.,61,42,19,15,0.9665794926312992,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+237,3,5:34,934,934,Foul on Annie McKenna.,61,42,19,6,0.9674997467879398,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+238,3,5:28,928,928,Sydney Lowery missed Three Point Jumper.,61,42,19,5,0.9678445739683277,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+239,3,5:23,923,923,Isalys Quinones Defensive Rebound.,61,42,19,20,0.9681232584317615,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+240,3,5:03,903,903,Emily Dryden missed Layup.,61,42,19,4,0.9691741003917618,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+241,3,4:59,899,899,Cy Lippold Offensive Rebound.,61,42,19,13,0.9693745379075366,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+242,3,4:46,886,886,Foul on Emma Guy.,61,42,19,0,0.9700105426932084,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+243,3,4:46,886,886,Official TV Timeout,61,42,19,0,0.9700105426932084,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+244,3,4:46,886,886,Elle Louie made Free Throw.,61,43,18,0,0.9642047825899741,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Dartmouth
+245,3,4:46,886,886,Elle Louie missed Free Throw.,61,43,18,2,0.9642047825899741,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+246,3,4:44,884,884,Georgia Pineau Defensive Rebound.,61,43,18,9,0.9643129370012685,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+247,3,4:35,875,875,Emma Guy made Layup. Assisted by Taylor Ortlepp.,63,43,20,29,0.9753643241662366,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Boston College
+248,3,4:06,846,846,Emily Dryden made Layup. Assisted by Isalys Quinones.,63,45,18,23,0.9663457487268947,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Dartmouth
+249,3,3:43,823,823,Sydney Lowery missed Three Point Jumper.,63,45,18,4,0.9676208948454093,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+250,3,3:39,819,819,Georgia Pineau Offensive Rebound.,63,45,18,3,0.9678507063851884,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+251,3,3:36,816,816,Georgia Pineau made Layup.,65,45,20,15,0.9778869413449005,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Boston College
+252,3,3:21,801,801,Isalys Quinones made Three Point Jumper. Assisted by Elle Louie.,65,48,17,27,0.9626248090465102,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Dartmouth
+253,3,2:54,774,774,Taylor Ortlepp missed Three Point Jumper.,65,48,17,1,0.9646110908624081,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+254,3,2:53,773,773,Emily Dryden Defensive Rebound.,65,48,17,0,0.9646891580393099,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+255,3,2:53,773,773,Foul on Emma Guy.,65,48,17,10,0.9646891580393099,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+256,3,2:43,763,763,Isalys Quinones missed Three Point Jumper.,65,48,17,4,0.9654888698069373,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+257,3,2:39,759,759,Marnelle Garraud Defensive Rebound.,65,48,17,15,0.9658186492568436,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+258,3,2:24,744,744,Georgia Pineau made Jumper. Assisted by Makayla Dickens.,67,48,19,10,0.9776609016467904,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Boston College
+259,3,2:14,734,734,Foul on Emily Dryden.,67,48,19,0,0.978354072670804,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+260,3,2:14,734,734,Emily Dryden Turnover.,67,48,19,13,0.978354072670804,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+261,3,2:01,721,721,Foul on Kealy Brown.,67,48,19,0,0.9792520685879726,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+262,3,2:01,721,721,Taylor Ortlepp made Free Throw.,68,48,20,0,0.9829967726634186,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Boston College
+263,3,2:01,721,721,Taylor Ortlepp missed Free Throw.,68,48,20,2,0.9829967726634186,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+264,3,1:59,719,719,Isalys Quinones Defensive Rebound.,68,48,20,2,0.9831080553822275,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+265,3,1:57,717,717,Kealy Brown Turnover.,68,48,20,12,0.9832170413274041,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+266,3,1:45,705,705,Marnelle Garraud missed Three Point Jumper.,68,48,20,3,0.9838277433137896,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+267,3,1:42,702,702,Sydney Lowery Offensive Rebound.,68,48,20,10,0.9839701933105158,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+268,3,1:32,692,692,Makayla Dickens made Three Point Jumper.,71,48,23,9,0.9915745214137827,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Boston College
+269,3,1:23,683,683,Katie Douglas missed Three Point Jumper.,71,48,23,0,0.9918116359068484,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+270,3,1:23,683,683,Kealy Brown Offensive Rebound.,71,48,23,0,0.9918116359068484,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+271,3,1:23,683,683,Foul on Sydney Lowery.,71,48,23,8,0.9918116359068484,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+272,3,1:15,675,675,Cy Lippold Turnover.,71,48,23,0,0.99201174225053,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+273,3,1:15,675,675,Makayla Dickens Steal.,71,48,23,16,0.99201174225053,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+274,3,0:59,659,659,Georgia Pineau missed Layup.,71,48,23,4,0.9923918777415531,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+275,3,0:55,655,655,Elle Louie Defensive Rebound.,71,48,23,3,0.992484323226011,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+276,3,0:52,652,652,Anna Luce missed Layup.,71,48,23,0,0.9925532917880233,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+277,3,0:52,652,652,Marnelle Garraud Block.,71,48,23,1,0.9925532917880233,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+278,3,0:51,651,651,Dartmouth Offensive Rebound.,71,48,23,2,0.9925762310071589,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+279,3,0:49,649,649,Anna Luce made Jumper. Assisted by Cy Lippold.,71,50,21,14,0.98874480648832,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Dartmouth
+280,3,0:35,635,635,Sydney Lowery made Layup.,73,50,23,21,0.9929428806792496,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Boston College
+281,3,0:14,614,614,Katie Douglas missed Three Point Jumper.,73,50,23,3,0.99343729135883,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+282,3,0:11,611,611,Makayla Dickens Defensive Rebound.,73,50,23,1,0.9935103105202606,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+283,3,0:10,610,610,Foul on Georgia Pineau.,73,50,23,0,0.9935348155045106,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+284,3,0:10,610,610,Georgia Pineau Turnover.,73,50,23,9,0.9935348155045106,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+285,3,0:01,601,601,Cy Lippold missed Layup.,73,50,23,0,0.9937593783177917,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+286,3,0:01,601,601,Dartmouth Offensive Rebound.,73,50,23,1,0.9937593783177917,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+287,3,0:00,600,600,Anna Luce made Jumper. Assisted by Jimena Abejon.,73,52,21,0,0.9903706170924059,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,Dartmouth
+288,3,0:00,600,600,End of 3rd Quarter,73,50,23,8,0.9937848010894879,Boston College,Dartmouth,4,5,0,0,NA,401092012,2018-12-29,
+289,4,9:52,592,592,Makayla Dickens made Three Point Jumper. Assisted by Emma Guy.,76,52,24,33,0.9951827348076604,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,Boston College
+290,4,9:19,559,559,Foul on Makayla Dickens.,76,52,24,3,0.995955754593514,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+291,4,9:16,556,556,Elle Louie missed Layup.,76,52,24,3,0.9960303967150386,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+292,4,9:13,553,553,Marnelle Garraud Defensive Rebound.,76,52,24,3,0.9961056735756056,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+293,4,9:10,550,550,Sydney Lowery made Layup.,78,52,26,14,0.9975949074550325,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,Boston College
+294,4,8:56,536,536,Elle Louie made Layup.,78,54,24,18,0.9964951813638018,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,Dartmouth
+295,4,8:38,518,518,Makayla Dickens Turnover.,78,54,24,0,0.9968104099253096,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+296,4,8:38,518,518,Anna Luce Steal.,78,54,24,6,0.9968104099253096,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+297,4,8:32,512,512,Elle Louie made Layup. Assisted by Cy Lippold.,78,56,22,15,0.9949971698884806,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,Dartmouth
+298,4,8:17,497,497,Foul on Makayla Dickens.,78,56,22,0,0.9953147335262853,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+299,4,8:17,497,497,Makayla Dickens Turnover.,78,56,22,23,0.9953147335262853,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+300,4,7:54,474,474,Cy Lippold Turnover.,78,56,22,19,0.9957969712309216,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+301,4,7:35,455,455,Georgia Pineau missed Layup.,78,56,22,0,0.9962351583295262,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+302,4,7:35,455,455,Emma Guy Offensive Rebound.,78,56,22,0,0.9962351583295262,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+303,4,7:35,455,455,Anna Luce Block.,78,56,22,19,0.9962351583295262,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+304,4,7:16,436,436,Emma Guy made Layup.,80,56,24,7,0.998053786339206,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,Boston College
+305,4,7:09,429,429,Jimena Abejon made Three Point Jumper.,80,59,21,15,0.9960076672365351,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,Dartmouth
+306,4,6:54,414,414,Foul on Elle Louie.,80,59,21,0,0.9964734873180044,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+307,4,6:54,414,414,Emma Guy made Layup. Assisted by Marnelle Garraud.,82,59,23,27,0.9979367934464958,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,Boston College
+308,4,6:27,387,387,Foul on Sydney Lowery.,82,59,23,0,0.9983566334932914,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+309,4,6:27,387,387,Official TV Timeout,82,59,23,18,0.9983566334932914,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+310,4,6:09,369,369,Anna Luce made Layup. Assisted by Isalys Quinones.,82,61,21,30,0.9975186167737414,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,Dartmouth
+311,4,5:39,339,339,Milan Bolden-Morris missed Three Point Jumper.,82,61,21,5,0.9981401017475784,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+312,4,5:34,334,334,Marnelle Garraud Offensive Rebound.,82,61,21,22,0.9982434668846145,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+313,4,5:12,312,312,Marnelle Garraud missed Layup.,82,61,21,4,0.9986915954873589,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+314,4,5:08,308,308,Cy Lippold Defensive Rebound.,82,61,21,3,0.9987678201373515,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+315,4,5:05,305,305,Foul on Anna Luce.,82,61,21,0,0.9988130058737646,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+316,4,5:05,305,305,Anna Luce Turnover.,82,61,21,3,0.9988130058737646,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+317,4,5:02,302,302,Makayla Dickens missed Three Point Jumper.,82,61,21,4,0.9988480175452008,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+318,4,4:58,298,298,Isalys Quinones Defensive Rebound.,82,61,21,9,0.9988812514506796,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+319,4,4:49,289,289,Cy Lippold missed Jumper.,82,61,21,4,0.998911471605497,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+320,4,4:45,285,285,Georgia Pineau Defensive Rebound.,82,61,21,11,0.9989091880158503,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+321,4,4:34,274,274,Sydney Lowery made Layup. Assisted by Georgia Pineau.,84,61,23,24,0.9994055177708011,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,Boston College
+322,4,4:10,250,250,Annie McKenna made Three Point Jumper. Assisted by Cy Lippold.,84,64,20,0,0.998205044724031,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,Dartmouth
+323,4,4:10,250,250,Official TV Timeout,84,64,20,19,0.998205044724031,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+324,4,3:51,231,231,Emma Guy made Layup. Assisted by Marnelle Garraud.,86,64,22,0,0.9990132222971477,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,Boston College
+325,4,3:51,231,231,Foul on Isalys Quinones.,86,64,22,0,0.9990132222971477,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+326,4,3:51,231,231,Emma Guy made Free Throw.,87,64,23,11,0.9992793438510328,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,Boston College
+327,4,3:40,220,220,Foul on Marnelle Garraud.,87,64,23,0,0.9993342923329513,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+328,4,3:40,220,220,Annie McKenna made Free Throw.,87,65,22,1,0.9990852953916279,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,Dartmouth
+329,4,3:39,219,219,Annie McKenna missed Free Throw.,87,65,22,2,0.999095843288643,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+330,4,3:37,217,217,Makayla Dickens Defensive Rebound.,87,65,22,3,0.9991189000183248,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+331,4,3:34,214,214,Foul on Kealy Brown.,87,65,22,0,0.9991582071354305,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+332,4,3:34,214,214,Makayla Dickens missed Free Throw.,87,65,22,0,0.9991582071354305,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+333,4,3:34,214,214,Boston College Offensive Rebound.,87,65,22,0,0.9991582071354305,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+334,4,3:34,214,214,Makayla Dickens made Free Throw.,88,65,23,12,0.9993896779423913,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,Boston College
+335,4,3:22,202,202,Jimena Abejon missed Three Point Jumper.,88,65,23,6,0.9995424596704499,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+336,4,3:16,196,196,Makayla Dickens Defensive Rebound.,88,65,23,12,0.9996292700436239,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+337,4,3:04,184,184,Georgia Pineau missed Layup.,88,65,23,3,0.9997858562809007,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+338,4,3:01,181,181,Kealy Brown Defensive Rebound.,88,65,23,15,0.9998147770098257,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+339,4,2:46,166,166,Kealy Brown Turnover.,88,65,23,0,0.999912340697268,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+340,4,2:46,166,166,Kate Klimkiewicz Steal.,88,65,23,17,0.999912340697268,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+341,4,2:29,149,149,Georgia Pineau missed Jumper.,88,65,23,0,0.9999654154023859,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+342,4,2:29,149,149,Boston College Offensive Rebound.,88,65,23,8,0.9999654154023859,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+343,4,2:21,141,141,Marnelle Garraud Turnover.,88,65,23,0,0.9999786689498417,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+344,4,2:21,141,141,Annie McKenna Steal.,88,65,23,9,0.9999786689498417,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+345,4,2:12,132,132,Annie McKenna made Jumper. Assisted by Anna Luce.,88,67,21,25,0.9999682445860154,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,Dartmouth
+346,4,1:47,107,107,Marnelle Garraud made Three Point Jumper. Assisted by Kate Klimkiewicz.,91,67,24,17,0.9999990571786483,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,Boston College
+347,4,1:30,90,90,Jimena Abejon missed Jumper.,91,67,24,3,0.9999998319632225,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+348,4,1:27,87,87,Kate Klimkiewicz Defensive Rebound.,91,67,24,6,0.9999998784059816,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,
+349,4,1:21,81,81,Lana Hollingsworth made Three Point Jumper. Assisted by Makayla Dickens.,94,67,27,2,0.9999999921023346,Boston College,Dartmouth,5,6,0,0,NA,401092012,2018-12-29,Boston College
+350,4,1:19,79,79,Boston College  Timeout,94,67,27,3,0.9999999938742834,Boston College,Dartmouth,5,5,0,1,NA,401092012,2018-12-29,
+351,4,1:16,76,76,Anna Luce missed Jumper.,94,67,27,4,0.9999999958450317,Boston College,Dartmouth,5,5,0,1,NA,401092012,2018-12-29,
+352,4,1:12,72,72,Makayla Dickens Defensive Rebound.,94,67,27,16,0.9999999975613015,Boston College,Dartmouth,5,5,0,1,NA,401092012,2018-12-29,
+353,4,0:56,56,56,Lana Hollingsworth made Three Point Jumper. Assisted by Jenasae Bishop.,97,67,30,21,0.9999999999782186,Boston College,Dartmouth,5,5,0,1,NA,401092012,2018-12-29,Boston College
+354,4,0:35,35,35,Foul on Jenasae Bishop.,97,67,30,0,0.9999999999994379,Boston College,Dartmouth,5,5,0,1,NA,401092012,2018-12-29,
+355,4,0:35,35,35,Annie McKenna missed Free Throw.,97,67,30,0,0.9999999999994379,Boston College,Dartmouth,5,5,0,1,NA,401092012,2018-12-29,
+356,4,0:35,35,35,Dartmouth Offensive Rebound.,97,67,30,0,0.9999999999994379,Boston College,Dartmouth,5,5,0,1,NA,401092012,2018-12-29,
+357,4,0:35,35,35,Annie McKenna made Free Throw.,97,68,29,9,0.9999999999985606,Boston College,Dartmouth,5,5,0,1,NA,401092012,2018-12-29,Dartmouth
+358,4,0:26,26,26,Foul on Jimena Abejon.,97,68,29,17,0.9999999999997202,Boston College,Dartmouth,5,5,0,1,NA,401092012,2018-12-29,
+359,4,0:09,9,9,Clara Ford missed Layup.,97,68,29,0,0.9999999999999898,Boston College,Dartmouth,5,5,0,0,NA,401092012,2018-12-29,
+360,4,0:09,9,9,Clara Ford Offensive Rebound.,97,68,29,0,0.9999999999999898,Boston College,Dartmouth,5,5,0,0,NA,401092012,2018-12-29,
+361,4,0:09,9,9,Clara Ford made Layup.,99,68,31,9,0.9999999999999989,Boston College,Dartmouth,5,5,0,0,NA,401092012,2018-12-29,Boston College
+362,4,0:00,0,0,End of 4th Quarter,99,68,31,0,1,Boston College,Dartmouth,5,5,0,0,NA,401092012,2018-12-29,
+363,4,0:00,0,0,End of Game,99,68,31,0,1,Boston College,Dartmouth,5,5,0,0,NA,401092012,2018-12-29,

@@ -1,0 +1,338 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:42,2382,2382,Amy Dilk made Jumper.,0,0,0,25,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,NA
+2,1,9:17,2357,2357,Mai-Loni Henson made Layup.,2,2,0,18,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Washington
+3,1,8:59,2339,2339,Hailey Brown missed Three Point Jumper.,2,2,0,0,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+4,1,8:59,2339,2339,Jenna Moser Defensive Rebound.,2,2,0,10,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+5,1,8:49,2329,2329,Mai-Loni Henson Turnover.,2,2,0,30,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+6,1,8:19,2299,2299,Deja Church Turnover.,2,2,0,1,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+7,1,8:18,2298,2298,Amber Melgoza Steal.,2,2,0,7,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+8,1,8:11,2291,2291,Mai-Loni Henson made Three Point Jumper. Assisted by Amber Melgoza.,5,2,3,14,0.5693326854479217,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Washington
+9,1,7:57,2277,2277,Hallie Thome made Layup.,5,4,1,13,0.5234015860734704,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Michigan
+10,1,7:44,2264,2264,Darcy Rees Turnover.,5,4,1,11,0.5235487387520344,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+11,1,7:33,2253,2253,Nicole Munger made Three Point Jumper. Assisted by Naz Hillmon.,5,7,-2,12,0.45275826884777715,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Michigan
+12,1,7:21,2241,2241,Amber Melgoza made Jumper.,7,7,0,12,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Washington
+13,1,7:09,2229,2229,Nicole Munger Turnover.,7,7,0,16,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+14,1,6:53,2213,2213,Mai-Loni Henson missed Three Point Jumper.,7,7,0,0,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+15,1,6:53,2213,2213,Nicole Munger Defensive Rebound.,7,7,0,13,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+16,1,6:40,2200,2200,Amy Dilk missed Layup.,7,7,0,0,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+17,1,6:40,2200,2200,Naz Hillmon Offensive Rebound.,7,7,0,3,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+18,1,6:37,2197,2197,Foul on Jenna Moser.,7,7,0,0,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+19,1,6:37,2197,2197,Naz Hillmon made Free Throw.,7,8,-1,0,0.47568268005444203,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Michigan
+20,1,6:37,2197,2197,Naz Hillmon missed Free Throw.,7,8,-1,0,0.47568268005444203,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+21,1,6:37,2197,2197,Mai-Loni Henson Defensive Rebound.,7,8,-1,8,0.47568268005444203,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+22,1,6:29,2189,2189,Missy Peterson missed Three Point Jumper.,7,8,-1,0,0.475590001479493,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+23,1,6:29,2189,2189,Washington Offensive Rebound.,7,8,-1,5,0.475590001479493,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+24,1,6:24,2184,2184,Amber Melgoza missed Jumper.,7,8,-1,0,0.4755320018567772,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+25,1,6:24,2184,2184,Alexis Griggsby Offensive Rebound.,7,8,-1,4,0.4755320018567772,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+26,1,6:20,2180,2180,Alexis Griggsby Turnover.,7,8,-1,21,0.47548556302100853,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+27,1,5:59,2159,2159,Nicole Munger Turnover.,7,8,-1,3,0.4752411320070056,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+28,1,5:56,2156,2156,Amber Melgoza Steal.,7,8,-1,1,0.47520608923907626,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+29,1,5:55,2155,2155,Missy Peterson made Layup. Assisted by Amber Melgoza.,9,8,1,13,0.5248055995621104,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Washington
+30,1,5:42,2142,2142,Nicole Munger made Jumper.,9,10,-1,14,0.47504207875235266,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Michigan
+31,1,5:28,2128,2128,Alexis Griggsby Turnover.,9,10,-1,16,0.4748772471342439,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+32,1,5:12,2112,2112,Amy Dilk Turnover.,9,10,-1,8,0.4746878026430107,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+33,1,5:04,2104,2104,Hannah Johnson made Three Point Jumper. Assisted by Missy Peterson.,12,10,2,7,0.5506838603985946,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Washington
+34,1,4:57,2097,2097,Nicole Munger missed Three Point Jumper.,12,10,2,0,0.5508496210603158,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+35,1,4:57,2097,2097,Kayla Robbins Offensive Rebound.,12,10,2,6,0.5508496210603158,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+36,1,4:51,2091,2091,Kayla Robbins missed Layup.,12,10,2,0,0.5509920780621692,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+37,1,4:51,2091,2091,Kayla Robbins Offensive Rebound.,12,10,2,2,0.5509920780621692,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+38,1,4:49,2089,2089,Nicole Munger missed Three Point Jumper.,12,10,2,0,0.5510396422880394,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+39,1,4:49,2089,2089,Amy Dilk Offensive Rebound.,12,10,2,5,0.5510396422880394,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+40,1,4:44,2084,2084,Amy Dilk made Layup.,12,12,0,13,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Michigan
+41,1,4:31,2071,2071,Hannah Johnson made Three Point Jumper. Assisted by Mai-Loni Henson.,15,12,3,13,0.5768645179347631,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Washington
+42,1,4:18,2058,2058,Kayla Robbins made Jumper.,15,14,1,22,0.5259608655792642,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Michigan
+43,1,3:56,2036,2036,Alexis Griggsby Turnover.,15,14,1,0,0.5262296853567899,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+44,1,3:56,2036,2036,Official TV Timeout,15,14,1,22,0.5262296853567899,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+45,1,3:34,2014,2014,Naz Hillmon missed Layup.,15,14,1,0,0.5265014072900054,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+46,1,3:34,2014,2014,Hannah Johnson Defensive Rebound.,15,14,1,12,0.5265014072900054,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+47,1,3:22,2002,2002,Amber Melgoza missed Layup.,15,14,1,0,0.5266509073289624,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+48,1,3:22,2002,2002,Kayla Robbins Block.,15,14,1,4,0.5266509073289624,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+49,1,3:18,1998,1998,Akienreh Johnson Defensive Rebound.,15,14,1,1,0.5267009496278943,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+50,1,3:17,1997,1997,Foul on Khayla Rooks.,15,14,1,23,0.5267134767682292,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+51,1,2:54,1974,1974,Nicole Munger made Three Point Jumper. Assisted by Kayla Robbins.,15,17,-2,27,0.44615011928619763,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Michigan
+52,1,2:27,1947,1947,Alexis Griggsby missed Three Point Jumper.,15,17,-2,0,0.4454657953323223,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+53,1,2:27,1947,1947,Naz Hillmon Defensive Rebound.,15,17,-2,8,0.4454657953323223,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+54,1,2:19,1939,1939,Amy Dilk missed Layup.,15,17,-2,0,0.4452610080501231,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+55,1,2:19,1939,1939,Khayla Rooks Defensive Rebound.,15,17,-2,13,0.4452610080501231,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+56,1,2:06,1926,1926,Khayla Rooks Turnover.,15,17,-2,16,0.4449263465014464,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+57,1,1:50,1910,1910,Deja Church missed Jumper.,15,17,-2,0,0.4445144960243255,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+58,1,1:50,1910,1910,Haley Van Dyke Defensive Rebound.,15,17,-2,14,0.4445144960243255,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+59,1,1:36,1896,1896,Khayla Rooks made Layup. Assisted by Mai-Loni Henson.,17,17,0,9,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Washington
+60,1,1:27,1887,1887,Kayla Robbins made Layup.,17,19,-2,31,0.44392337373482016,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Michigan
+61,1,0:56,1856,1856,Mai-Loni Henson missed Jumper.,17,19,-2,0,0.443125344518527,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+62,1,0:56,1856,1856,Akienreh Johnson Defensive Rebound.,17,19,-2,14,0.443125344518527,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+63,1,0:42,1842,1842,Hallie Thome Turnover.,17,19,-2,18,0.4427633586527379,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+64,1,0:24,1824,1824,Amber Melgoza missed Jumper.,17,19,-2,0,0.4422955706409941,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+65,1,0:24,1824,1824,Naz Hillmon Defensive Rebound.,17,19,-2,23,0.4422955706409941,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+66,1,0:01,1801,1801,Deja Church missed Jumper.,17,19,-2,0,0.44169262416690125,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+67,1,0:01,1801,1801,Washington Deadball Team Rebound.,17,19,-2,1,0.44169262416690125,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+68,1,0:00,1800,1800,End of 1st Quarter,17,19,-2,10,0.44166625058836706,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+69,2,9:50,1790,1790,Foul on Hallie Thome.,17,19,-2,0,0.44140169288134457,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+70,2,9:50,1790,1790,Hallie Thome Turnover.,17,19,-2,21,0.44140169288134457,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+71,2,9:29,1769,1769,Jenna Moser Turnover.,17,19,-2,2,0.440840726454833,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+72,2,9:27,1767,1767,Akienreh Johnson Steal.,17,19,-2,4,0.4407868811788135,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+73,2,9:23,1763,1763,Akienreh Johnson missed Three Point Jumper.,17,19,-2,0,0.4406789550483938,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+74,2,9:23,1763,1763,Amy Dilk Offensive Rebound.,17,19,-2,11,0.4406789550483938,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+75,2,9:12,1752,1752,Akienreh Johnson Turnover.,17,19,-2,2,0.4403804672096414,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+76,2,9:10,1750,1750,Mai-Loni Henson Steal.,17,19,-2,16,0.44032591899175627,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+77,2,8:54,1734,1734,Mai-Loni Henson missed Jumper.,17,19,-2,0,0.43988624480643973,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+78,2,8:54,1734,1734,Amber Melgoza Offensive Rebound.,17,19,-2,13,0.43988624480643973,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+79,2,8:41,1721,1721,Darcy Rees missed Jumper.,17,19,-2,0,0.4395244079108935,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+80,2,8:41,1721,1721,Akienreh Johnson Block.,17,19,-2,2,0.4395244079108935,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+81,2,8:39,1719,1719,Mai-Loni Henson Offensive Rebound.,17,19,-2,3,0.439468350901819,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+82,2,8:36,1716,1716,Mai-Loni Henson missed Jumper.,17,19,-2,0,0.43938406363819593,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+83,2,8:36,1716,1716,Nicole Munger Defensive Rebound.,17,19,-2,4,0.43938406363819593,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+84,2,8:32,1712,1712,Deja Church missed Layup.,17,19,-2,0,0.4392712976264718,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+85,2,8:32,1712,1712,Missy Peterson Defensive Rebound.,17,19,-2,13,0.4392712976264718,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+86,2,8:19,1699,1699,Darcy Rees missed Three Point Jumper.,17,19,-2,0,0.43890167307783334,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+87,2,8:19,1699,1699,Nicole Munger Defensive Rebound.,17,19,-2,13,0.43890167307783334,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+88,2,8:06,1686,1686,Hallie Thome made Layup. Assisted by Deja Church.,17,21,-4,22,0.3788859360837009,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Michigan
+89,2,7:44,1664,1664,Jenna Moser made Three Point Jumper. Assisted by Mai-Loni Henson.,20,21,-1,22,0.46883235651561483,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Washington
+90,2,7:22,1642,1642,Amy Dilk missed Three Point Jumper.,20,21,-1,0,0.46852605275690906,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+91,2,7:22,1642,1642,Jenna Moser Defensive Rebound.,20,21,-1,13,0.46852605275690906,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+92,2,7:09,1629,1629,Missy Peterson made Layup.,22,21,1,0,0.5316523168728163,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Washington
+93,2,7:09,1629,1629,Foul on Amy Dilk.,22,21,1,0,0.5316523168728163,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+94,2,7:09,1629,1629,Missy Peterson made Free Throw.,23,21,2,10,0.5630519545099658,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Washington
+95,2,6:59,1619,1619,Hallie Thome made Layup. Assisted by Amy Dilk.,23,23,0,13,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Michigan
+96,2,6:46,1606,1606,Hannah Johnson missed Three Point Jumper.,23,23,0,0,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+97,2,6:46,1606,1606,Hallie Thome Defensive Rebound.,23,23,0,14,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+98,2,6:32,1592,1592,Amy Dilk Turnover.,23,23,0,2,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+99,2,6:30,1590,1590,Missy Peterson Steal.,23,23,0,5,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+100,2,6:25,1585,1585,Haley Van Dyke missed Layup.,23,23,0,0,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+101,2,6:25,1585,1585,Amber Melgoza Offensive Rebound.,23,23,0,4,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+102,2,6:21,1581,1581,Missy Peterson missed Jumper.,23,23,0,0,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+103,2,6:21,1581,1581,Amy Dilk Defensive Rebound.,23,23,0,9,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+104,2,6:12,1572,1572,Naz Hillmon made Layup. Assisted by Amy Dilk.,23,25,-2,13,0.43541535278541793,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Michigan
+105,2,5:59,1559,1559,Jenna Moser made Layup. Assisted by Missy Peterson.,25,25,0,18,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Washington
+106,2,5:41,1541,1541,Hallie Thome missed Layup.,25,25,0,0,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+107,2,5:41,1541,1541,Hallie Thome Offensive Rebound.,25,25,0,0,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+108,2,5:41,1541,1541,Hallie Thome missed Layup.,25,25,0,0,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+109,2,5:41,1541,1541,Naz Hillmon Offensive Rebound.,25,25,0,0,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+110,2,5:41,1541,1541,Foul on Missy Peterson.,25,25,0,17,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+111,2,5:24,1524,1524,Naz Hillmon Turnover.,25,25,0,10,0.5,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+112,2,5:14,1514,1514,Jenna Moser made Three Point Jumper. Assisted by Haley Van Dyke.,28,25,3,15,0.5985781654969858,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Washington
+113,2,4:59,1499,1499,Foul on Darcy Rees.,28,25,3,0,0.5992232248521422,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+114,2,4:59,1499,1499,Official TV Timeout,28,25,3,0,0.5992232248521422,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,
+115,2,4:59,1499,1499,Kayla Robbins made Free Throw.,28,26,2,0,0.5666394277196649,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Michigan
+116,2,4:59,1499,1499,Kayla Robbins made Free Throw.,28,27,1,18,0.533469009447533,Washington,Michigan,4,4,0,0,NA,401100934,2018-11-25,Michigan
+117,2,4:41,1481,1481,Khayla Rooks Turnover.,28,27,1,0,0.5337448945696408,Washington,Michigan,4,4,1,0,NA,401100934,2018-11-25,
+118,2,4:41,1481,1481,Amy Dilk Steal.,28,27,1,0,0.5337448945696408,Washington,Michigan,4,4,1,0,NA,401100934,2018-11-25,
+119,2,4:41,1481,1481,Amy Dilk Turnover.,28,27,1,0,0.5337448945696408,Washington,Michigan,4,4,1,0,NA,401100934,2018-11-25,
+120,2,4:41,1481,1481,Jenna Moser Steal.,28,27,1,0,0.5337448945696408,Washington,Michigan,4,4,1,0,NA,401100934,2018-11-25,
+121,2,4:41,1481,1481,Washington  Timeout,28,27,1,10,0.5337448945696408,Washington,Michigan,3,4,1,0,NA,401100934,2018-11-25,
+122,2,4:31,1471,1471,Foul on Kayla Robbins.,28,27,1,9,0.533902744416709,Washington,Michigan,3,4,1,0,NA,401100934,2018-11-25,
+123,2,4:22,1462,1462,Haley Van Dyke missed Jumper.,28,27,1,0,0.53404789546587506,Washington,Michigan,3,4,1,0,NA,401100934,2018-11-25,
+124,2,4:22,1462,1462,Darcy Rees Offensive Rebound.,28,27,1,15,0.53404789546587506,Washington,Michigan,3,4,1,0,NA,401100934,2018-11-25,
+125,2,4:07,1447,1447,Foul on Hallie Thome.,28,27,1,16,0.5342965051211632,Washington,Michigan,3,4,1,0,NA,401100934,2018-11-25,
+126,2,3:51,1431,1431,Amber Melgoza Turnover.,28,27,1,2,0.5345586474277225,Washington,Michigan,3,4,1,0,NA,401100934,2018-11-25,
+127,2,3:49,1429,1429,Hallie Thome Steal.,28,27,1,9,0.5345908336643116,Washington,Michigan,3,4,1,0,NA,401100934,2018-11-25,
+128,2,3:40,1420,1420,Kayla Robbins missed Jumper.,28,27,1,0,0.534734290746616,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+129,2,3:40,1420,1420,Hallie Thome Offensive Rebound.,28,27,1,4,0.534734290746616,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+130,2,3:36,1416,1416,Hallie Thome made Layup.,28,29,-1,10,0.46520261222669784,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,Michigan
+131,2,3:26,1406,1406,Jenna Moser missed Layup.,28,29,-1,0,0.4650463882099137,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+132,2,3:26,1406,1406,Amy Dilk Defensive Rebound.,28,29,-1,17,0.4650463882099137,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+133,2,3:09,1389,1389,Kayla Robbins missed Jumper.,28,29,-1,0,0.4647846245795455,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+134,2,3:09,1389,1389,Haley Van Dyke Defensive Rebound.,28,29,-1,11,0.4647846245795455,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+135,2,2:58,1378,1378,Jenna Moser missed Three Point Jumper.,28,29,-1,0,0.4646168543525624,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+136,2,2:58,1378,1378,Amy Dilk Defensive Rebound.,28,29,-1,8,0.4646168543525624,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+137,2,2:50,1370,1370,Amy Dilk made Layup.,28,31,-3,0,0.3948964414431408,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,Michigan
+138,2,2:50,1370,1370,Foul on Amber Melgoza.,28,31,-3,0,0.3948964414431408,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+139,2,2:50,1370,1370,Amy Dilk made Free Throw.,28,32,-4,11,0.361459582582674,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,Michigan
+140,2,2:39,1359,1359,Foul on Akienreh Johnson.,28,32,-4,0,0.3608387352812712,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+141,2,2:39,1359,1359,Haley Van Dyke missed Free Throw.,28,32,-4,0,0.3608387352812712,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+142,2,2:39,1359,1359,Washington Deadball Team Rebound.,28,32,-4,0,0.3608387352812712,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+143,2,2:39,1359,1359,Haley Van Dyke made Free Throw.,29,32,-3,7,0.39441429304191866,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,Washington
+144,2,2:32,1352,1352,Nicole Munger missed Three Point Jumper.,29,32,-3,0,0.3941067349697349,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+145,2,2:32,1352,1352,Akienreh Johnson Offensive Rebound.,29,32,-3,4,0.3941067349697349,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+146,2,2:28,1348,1348,Akienreh Johnson missed Layup.,29,32,-3,0,0.3939305033239894,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+147,2,2:28,1348,1348,Hannah Johnson Defensive Rebound.,29,32,-3,24,0.3939305033239894,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+148,2,2:04,1324,1324,Amber Melgoza missed Jumper.,29,32,-3,0,0.39286021255278836,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+149,2,2:04,1324,1324,Akienreh Johnson Defensive Rebound.,29,32,-3,14,0.39286021255278836,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+150,2,1:50,1310,1310,Foul on Amber Melgoza.,29,32,-3,29,0.3922204427937284,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+151,2,1:21,1281,1281,Nicole Munger missed Three Point Jumper.,29,32,-3,0,0.3908395712192175,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+152,2,1:21,1281,1281,Akienreh Johnson Offensive Rebound.,29,32,-3,4,0.3908395712192175,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+153,2,1:17,1277,1277,Akienreh Johnson missed Layup.,29,32,-3,0,0.39064177706031145,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+154,2,1:17,1277,1277,Hannah Johnson Defensive Rebound.,29,32,-3,19,0.39064177706031145,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+155,2,0:58,1258,1258,Missy Peterson missed Three Point Jumper.,29,32,-3,0,0.38967273493900817,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+156,2,0:58,1258,1258,Haley Van Dyke Offensive Rebound.,29,32,-3,3,0.38967273493900817,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+157,2,0:55,1255,1255,Jenna Moser made Layup. Assisted by Haley Van Dyke.,31,32,-1,13,0.4626238627077999,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,Washington
+158,2,0:42,1242,1242,Akienreh Johnson missed Layup.,31,32,-1,0,0.46237949070908224,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+159,2,0:42,1242,1242,Mai-Loni Henson Defensive Rebound.,31,32,-1,30,0.46237949070908224,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+160,2,0:12,1212,1212,Mai-Loni Henson Turnover.,31,32,-1,2,0.46177351257701166,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+161,2,0:10,1210,1210,Naz Hillmon Steal.,31,32,-1,2,0.4617307940439419,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+162,2,0:08,1208,1208,Kayla Robbins made Layup. Assisted by Naz Hillmon.,31,34,-3,8,0.3868324106993999,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,Michigan
+163,2,0:00,1200,1200,Jenna Moser missed Three Point Jumper.,31,34,-3,0,0.38634786325026177,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+164,2,0:00,1200,1200,Nicole Munger Defensive Rebound.,31,34,-3,0,0.38634786325026177,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+165,2,0:00,1200,1200,End of 2nd Quarter,31,34,-3,20,0.38634786325026177,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+166,3,9:40,1180,1180,Hallie Thome missed Layup.,31,34,-3,0,0.3851687153849014,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+167,3,9:40,1180,1180,Missy Peterson Defensive Rebound.,31,34,-3,9,0.3851687153849014,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+168,3,9:31,1171,1171,Missy Peterson made Three Point Jumper.,34,34,0,10,0.5,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Washington
+169,3,9:21,1161,1161,Foul on Darcy Rees.,34,34,0,0,0.5,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+170,3,9:21,1161,1161,Foul on Mai-Loni Henson.,34,34,0,1,0.5,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+171,3,9:20,1160,1160,Nicole Munger made Three Point Jumper. Assisted by Amy Dilk.,34,37,-3,26,0.38402307915424205,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Michigan
+172,3,8:54,1134,1134,Foul on Hallie Thome.,34,37,-3,0,0.38255822705761056,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+173,3,8:54,1134,1134,Amber Melgoza made Free Throw.,35,37,-2,0,0.4208863419498253,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Washington
+174,3,8:54,1134,1134,Amber Melgoza missed Free Throw.,35,37,-2,0,0.4208863419498253,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+175,3,8:54,1134,1134,Hallie Thome Defensive Rebound.,35,37,-2,13,0.4208863419498253,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+176,3,8:41,1121,1121,Hallie Thome missed Jumper.,35,37,-2,0,0.4203828699546611,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+177,3,8:41,1121,1121,Missy Peterson Defensive Rebound.,35,37,-2,14,0.4203828699546611,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+178,3,8:27,1107,1107,Amber Melgoza made Layup.,37,37,0,14,0.5,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Washington
+179,3,8:13,1093,1093,Kayla Robbins missed Layup.,37,37,0,0,0.5,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+180,3,8:13,1093,1093,Darcy Rees Defensive Rebound.,37,37,0,10,0.5,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+181,3,8:03,1083,1083,Foul on Amy Dilk.,37,37,0,7,0.5,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+182,3,7:56,1076,1076,Amber Melgoza missed Jumper.,37,37,0,0,0.5,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+183,3,7:56,1076,1076,Missy Peterson Offensive Rebound.,37,37,0,10,0.5,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+184,3,7:46,1066,1066,Amber Melgoza Turnover.,37,37,0,1,0.5,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+185,3,7:45,1065,1065,Hallie Thome Steal.,37,37,0,3,0.5,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+186,3,7:42,1062,1062,Kayla Robbins made Layup.,37,39,-2,12,0.41800723763296493,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Michigan
+187,3,7:30,1050,1050,Missy Peterson missed Jumper.,37,39,-2,0,0.4174900781635155,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+188,3,7:30,1050,1050,Amy Dilk Defensive Rebound.,37,39,-2,7,0.4174900781635155,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+189,3,7:23,1043,1043,Amy Dilk Turnover.,37,39,-2,2,0.41718081357292236,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+190,3,7:21,1041,1041,Amber Melgoza Steal.,37,39,-2,4,0.4170913422935576,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+191,3,7:17,1037,1037,Amber Melgoza made Layup.,39,39,0,11,0.5,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Washington
+192,3,7:06,1026,1026,Amy Dilk made Layup.,39,41,-2,19,0.416403241401469,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Michigan
+193,3,6:47,1007,1007,Missy Peterson missed Three Point Jumper.,39,41,-2,0,0.4154833228589728,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+194,3,6:47,1007,1007,Amber Melgoza Offensive Rebound.,39,41,-2,6,0.4154833228589728,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+195,3,6:41,1001,1001,Amber Melgoza Turnover.,39,41,-2,16,0.41518029092662345,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+196,3,6:25,985,985,Amy Dilk made Layup. Assisted by Naz Hillmon.,39,43,-4,13,0.33356432707006184,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Michigan
+197,3,6:12,972,972,Foul on Kayla Robbins.,39,43,-4,0,0.3322447731320094,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+198,3,6:12,972,972,Amber Melgoza missed Free Throw.,39,43,-4,0,0.3322447731320094,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+199,3,6:12,972,972,Washington Deadball Team Rebound.,39,43,-4,0,0.3322447731320094,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+200,3,6:12,972,972,Amber Melgoza made Free Throw.,40,43,-3,15,0.3720254707701473,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Washington
+201,3,5:57,957,957,Naz Hillmon missed Layup.,40,43,-3,0,0.37082541413861964,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+202,3,5:57,957,957,Amy Dilk Offensive Rebound.,40,43,-3,3,0.37082541413861964,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+203,3,5:54,954,954,Amy Dilk Turnover.,40,43,-3,0,0.3705972176008195,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+204,3,5:54,954,954,Foul on Naz Hillmon.,40,43,-3,0,0.3705972176008195,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+205,3,5:54,954,954,Haley Van Dyke Steal.,40,43,-3,10,0.3705972176008195,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+206,3,5:44,944,944,Jenna Moser Turnover.,40,43,-3,1,0.3698623199089921,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+207,3,5:43,943,943,Akienreh Johnson Steal.,40,43,-3,3,0.36979086305527575,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+208,3,5:40,940,940,Naz Hillmon made Layup. Assisted by Amy Dilk.,40,45,-5,17,0.29110113987611685,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Michigan
+209,3,5:23,923,923,Foul on Hannah Johnson.,40,45,-5,0,0.28940307015791367,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+210,3,5:23,923,923,Hannah Johnson Turnover.,40,45,-5,15,0.28940307015791367,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+211,3,5:08,908,908,Naz Hillmon Turnover.,40,45,-5,17,0.2879914951255196,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+212,3,4:51,891,891,Khayla Rooks Turnover.,40,45,-5,0,0.2864526536205722,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+213,3,4:51,891,891,Official TV Timeout,40,45,-5,14,0.2864526536205722,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+214,3,4:37,877,877,Kayla Robbins missed Layup.,40,45,-5,0,0.2852063687076131,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+215,3,4:37,877,877,Naz Hillmon Offensive Rebound.,40,45,-5,5,0.2852063687076131,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+216,3,4:32,872,872,Naz Hillmon missed Layup.,40,45,-5,0,0.2847611758849912,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+217,3,4:32,872,872,Khayla Rooks Defensive Rebound.,40,45,-5,23,0.2847611758849912,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+218,3,4:09,849,849,Foul on Nicole Munger.,40,45,-5,0,0.2826760138278909,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+219,3,4:09,849,849,Hannah Johnson missed Free Throw.,40,45,-5,0,0.2826760138278909,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+220,3,4:09,849,849,Washington Deadball Team Rebound.,40,45,-5,0,0.2826760138278909,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+221,3,4:09,849,849,Hannah Johnson made Free Throw.,41,45,-4,4,0.32191590874259657,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Washington
+222,3,4:05,845,845,Nicole Munger made Three Point Jumper. Assisted by Amy Dilk.,41,48,-7,13,0.2131072032273582,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Michigan
+223,3,3:52,832,832,Amber Melgoza made Jumper.,43,48,-5,14,0.2810544631107893,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Washington
+224,3,3:38,818,818,Akienreh Johnson made Layup.,43,50,-7,2,0.21002587940717185,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Michigan
+225,3,3:36,816,816,Washington  Timeout,43,50,-7,0,0.20978381558252318,Washington,Michigan,3,5,1,0,NA,401100934,2018-11-25,
+226,3,3:36,816,816,Official TV Timeout,43,50,-7,24,0.20978381558252318,Washington,Michigan,3,5,1,0,NA,401100934,2018-11-25,
+227,3,3:12,792,792,Foul on Deja Church.,43,50,-7,0,0.206683196976664,Washington,Michigan,3,5,1,0,NA,401100934,2018-11-25,
+228,3,3:12,792,792,Amber Melgoza made Free Throw.,44,50,-6,0,0.23996205637201298,Washington,Michigan,3,5,1,0,NA,401100934,2018-11-25,Washington
+229,3,3:12,792,792,Amber Melgoza made Free Throw.,45,50,-5,9,0.27673013482512737,Washington,Michigan,3,5,1,0,NA,401100934,2018-11-25,Washington
+230,3,3:03,783,783,Nicole Munger made Three Point Jumper. Assisted by Hallie Thome.,45,53,-8,13,0.17565646378953692,Washington,Michigan,3,5,1,0,NA,401100934,2018-11-25,Michigan
+231,3,2:50,770,770,Foul on Nicole Munger.,45,53,-8,0,0.17367541503246103,Washington,Michigan,3,5,1,0,NA,401100934,2018-11-25,
+232,3,2:50,770,770,Missy Peterson made Free Throw.,46,53,-7,0,0.20345729899495538,Washington,Michigan,3,5,1,0,NA,401100934,2018-11-25,Washington
+233,3,2:50,770,770,Missy Peterson made Free Throw.,47,53,-6,9,0.23688216226166586,Washington,Michigan,3,5,1,0,NA,401100934,2018-11-25,Washington
+234,3,2:41,761,761,Hallie Thome missed Layup.,47,53,-6,0,0.23549938508570648,Washington,Michigan,3,5,1,0,NA,401100934,2018-11-25,
+235,3,2:41,761,761,Hannah Johnson Defensive Rebound.,47,53,-6,7,0.23549938508570648,Washington,Michigan,3,5,1,0,NA,401100934,2018-11-25,
+236,3,2:34,754,754,Jenna Moser made Layup.,49,53,-4,28,0.31234023152471935,Washington,Michigan,3,5,0,0,NA,401100934,2018-11-25,Washington
+237,3,2:06,726,726,Deja Church missed Jumper.,49,53,-4,0,0.3083142204833604,Washington,Michigan,3,5,0,0,NA,401100934,2018-11-25,
+238,3,2:06,726,726,Mai-Loni Henson Defensive Rebound.,49,53,-4,20,0.3083142204833604,Washington,Michigan,3,5,0,0,NA,401100934,2018-11-25,
+239,3,1:46,706,706,Missy Peterson made Layup.,51,53,-2,4,0.3987893293197509,Washington,Michigan,3,5,0,0,NA,401100934,2018-11-25,Washington
+240,3,1:42,702,702,Michigan  Timeout,51,53,-2,21,0.39850107082273756,Washington,Michigan,3,4,0,1,NA,401100934,2018-11-25,
+241,3,1:21,681,681,Akienreh Johnson Turnover.,51,53,-2,23,0.39707660804067246,Washington,Michigan,3,4,0,1,NA,401100934,2018-11-25,
+242,3,0:58,658,658,Missy Peterson missed Three Point Jumper.,51,53,-2,0,0.3956020694032841,Washington,Michigan,3,4,0,1,NA,401100934,2018-11-25,
+243,3,0:58,658,658,Naz Hillmon Defensive Rebound.,51,53,-2,12,0.3956020694032841,Washington,Michigan,3,4,0,1,NA,401100934,2018-11-25,
+244,3,0:46,646,646,Akienreh Johnson made Layup.,51,55,-4,8,0.2985663034517014,Washington,Michigan,3,4,0,1,NA,401100934,2018-11-25,Michigan
+245,3,0:38,638,638,Missy Peterson made Jumper.,53,55,-2,27,0.3942957913807102,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,Washington
+246,3,0:11,611,611,Akienreh Johnson Turnover.,53,55,-2,2,0.39234139608967245,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+247,3,0:09,609,609,Jenna Moser Steal.,53,55,-2,8,0.3921829520425204,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+248,3,0:01,601,601,Amber Melgoza made Jumper.,55,55,0,1,0.5,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,Washington
+249,3,0:00,600,600,End of 3rd Quarter,55,55,0,12,0.5,Washington,Michigan,3,4,0,0,NA,401100934,2018-11-25,
+250,4,9:48,588,588,Nicole Munger missed Three Point Jumper.,55,55,0,0,0.5,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+251,4,9:48,588,588,Hallie Thome Offensive Rebound.,55,55,0,6,0.5,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+252,4,9:42,582,582,Hallie Thome made Layup.,55,57,-2,4,0.38978351627922236,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Michigan
+253,4,9:38,578,578,Technical Foul on Washington.,55,57,-2,0,0.38937976821980935,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+254,4,9:38,578,578,Foul on Washington.,55,57,-2,0,0.38937976821980935,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+255,4,9:38,578,578,Nicole Munger made Free Throw.,55,58,-3,0,0.3374049634525294,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Michigan
+256,4,9:38,578,578,Nicole Munger made Free Throw.,55,59,-4,21,0.2890833461788036,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Michigan
+257,4,9:17,557,557,Amber Melgoza Turnover.,55,59,-4,0,0.2849979593387163,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+258,4,9:17,557,557,Nicole Munger Steal.,55,59,-4,0,0.2849979593387163,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+259,4,9:17,557,557,Foul on Amber Melgoza.,55,59,-4,1,0.2849979593387163,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+260,4,9:16,556,556,Amy Dilk Turnover.,55,59,-4,3,0.28478433832661826,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+261,4,9:13,553,553,Mai-Loni Henson Steal.,55,59,-4,2,0.28413229229075776,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+262,4,9:11,551,551,Jenna Moser made Three Point Jumper. Assisted by Mai-Loni Henson.,58,59,-1,13,0.4423672818783205,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Washington
+263,4,8:58,538,538,Amy Dilk missed Layup.,58,59,-1,0,0.44153290830263303,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+264,4,8:58,538,538,Michigan Offensive Rebound.,58,59,-1,8,0.44153290830263303,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+265,4,8:50,530,530,Foul on Mai-Loni Henson.,58,59,-1,24,0.4410752976101347,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+266,4,8:26,506,506,Amy Dilk made Layup.,58,61,-3,1,0.3262201265695789,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Michigan
+267,4,8:25,505,505,Foul on Darcy Rees.,58,61,-3,0,0.32608894312117054,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+268,4,8:25,505,505,Amy Dilk made Free Throw.,58,62,-4,11,0.27529848630049913,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Michigan
+269,4,8:14,494,494,Amber Melgoza missed Jumper.,58,62,-4,0,0.27354150674984157,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+270,4,8:14,494,494,Amy Dilk Defensive Rebound.,58,62,-4,22,0.27354150674984157,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+271,4,7:52,472,472,Nicole Munger missed Three Point Jumper.,58,62,-4,0,0.2697192825686729,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+272,4,7:52,472,472,Jenna Moser Defensive Rebound.,58,62,-4,28,0.2697192825686729,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+273,4,7:24,444,444,Foul on Naz Hillmon.,58,62,-4,19,0.2634107868686628,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+274,4,7:05,425,425,Foul on Amy Dilk.,58,62,-4,14,0.25771732206163167,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+275,4,6:51,411,411,Mai-Loni Henson missed Three Point Jumper.,58,62,-4,0,0.25359259035113396,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+276,4,6:51,411,411,Nicole Munger Defensive Rebound.,58,62,-4,21,0.25359259035113396,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+277,4,6:30,390,390,Amy Dilk Turnover.,58,62,-4,3,0.2478200395259983,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+278,4,6:27,387,387,Jenna Moser Steal.,58,62,-4,2,0.24700092023260342,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+279,4,6:25,385,385,Jenna Moser Turnover.,58,62,-4,2,0.24645237182036953,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+280,4,6:23,383,383,Amy Dilk Steal.,58,62,-4,11,0.2459011657150175,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+281,4,6:12,372,372,Nicole Munger made Layup. Assisted by Amy Dilk.,58,64,-6,10,0.15366835463211212,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Michigan
+282,4,6:02,362,362,Hannah Johnson missed Three Point Jumper.,58,64,-6,0,0.1505123453224983,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+283,4,6:02,362,362,Deja Church Defensive Rebound.,58,64,-6,24,0.1505123453224983,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+284,4,5:38,338,338,Missy Peterson made Jumper.,60,64,-4,13,0.2315912550720301,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Washington
+285,4,5:25,325,325,Hallie Thome missed Jumper.,60,64,-4,0,0.22628829679838128,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+286,4,5:25,325,325,Hannah Johnson Defensive Rebound.,60,64,-4,8,0.22628829679838128,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+287,4,5:17,317,317,Amber Melgoza made Layup.,62,64,-2,31,0.34861718502317307,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Washington
+288,4,4:46,286,286,Nicole Munger missed Three Point Jumper.,62,64,-2,0,0.34307594121108087,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+289,4,4:46,286,286,Khayla Rooks Defensive Rebound.,62,64,-2,4,0.34307594121108087,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+290,4,4:42,282,282,Foul on Naz Hillmon.,62,64,-2,0,0.343236818191074,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+291,4,4:42,282,282,Official TV Timeout,62,64,-2,24,0.343236818191074,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+292,4,4:18,258,258,Amber Melgoza missed Layup.,62,64,-2,0,0.3460374714983458,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+293,4,4:18,258,258,Kayla Robbins Defensive Rebound.,62,64,-2,15,0.3460374714983458,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+294,4,4:03,243,243,Hallie Thome missed Layup.,62,64,-2,0,0.3476499683116708,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+295,4,4:03,243,243,Hallie Thome Offensive Rebound.,62,64,-2,0,0.3476499683116708,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+296,4,4:03,243,243,Hallie Thome made Layup.,62,66,-4,0,0.22118565399657758,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Michigan
+297,4,4:03,243,243,Hallie Thome missed Free Throw.,62,66,-4,0,0.22118565399657758,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+298,4,4:03,243,243,Naz Hillmon Offensive Rebound.,62,66,-4,17,0.22118565399657758,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+299,4,3:46,226,226,Naz Hillmon made Layup.,62,68,-6,5,0.13082450834896883,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Michigan
+300,4,3:41,221,221,Missy Peterson missed Three Point Jumper.,62,68,-6,0,0.12953632607962712,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+301,4,3:41,221,221,Kayla Robbins Defensive Rebound.,62,68,-6,24,0.12953632607962712,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+302,4,3:17,197,197,Foul on Hannah Johnson.,62,68,-6,0,0.11397642595282607,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+303,4,3:17,197,197,Hallie Thome made Free Throw.,62,69,-7,0,0.08374303074933437,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Michigan
+304,4,3:17,197,197,Hallie Thome missed Free Throw.,62,69,-7,0,0.08374303074933437,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+305,4,3:17,197,197,Missy Peterson Defensive Rebound.,62,69,-7,5,0.08374303074933437,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,
+306,4,3:12,192,192,Missy Peterson made Layup.,64,69,-5,18,0.14756383645667065,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Washington
+307,4,2:54,174,174,Nicole Munger made Three Point Jumper. Assisted by Kayla Robbins.,64,72,-8,11,0.042754860689692246,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Michigan
+308,4,2:43,163,163,Hannah Johnson made Three Point Jumper. Assisted by Amber Melgoza.,67,72,-5,3,0.11256051081150792,Washington,Michigan,4,5,0,0,NA,401100934,2018-11-25,Washington
+309,4,2:40,160,160,Washington  Timeout,67,72,-5,18,0.1091473491534009,Washington,Michigan,3,5,1,0,NA,401100934,2018-11-25,
+310,4,2:22,142,142,Nicole Munger made Three Point Jumper. Assisted by Amy Dilk.,67,75,-8,15,0.02367664635671794,Washington,Michigan,3,5,1,0,NA,401100934,2018-11-25,Michigan
+311,4,2:07,127,127,Missy Peterson missed Three Point Jumper.,67,75,-8,0,0.016830824643500674,Washington,Michigan,3,5,1,0,NA,401100934,2018-11-25,
+312,4,2:07,127,127,Amy Dilk Defensive Rebound.,67,75,-8,37,0.016830824643500674,Washington,Michigan,3,5,1,0,NA,401100934,2018-11-25,
+313,4,1:30,90,90,Amy Dilk made Layup.,67,77,-10,18,0.0015017552067401849,Washington,Michigan,3,5,0,0,NA,401100934,2018-11-25,Michigan
+314,4,1:12,72,72,Foul on Hallie Thome.,67,77,-10,0,6.453245742950154e-4,Washington,Michigan,3,5,0,1,NA,401100934,2018-11-25,
+315,4,1:12,72,72,Amber Melgoza made Free Throw.,68,77,-9,0,0.0013442143330470377,Washington,Michigan,3,5,0,1,NA,401100934,2018-11-25,Washington
+316,4,1:12,72,72,Amber Melgoza made Free Throw.,69,77,-8,0,0.0027978861240018065,Washington,Michigan,3,5,0,1,NA,401100934,2018-11-25,Washington
+317,4,1:12,72,72,Michigan  Timeout,69,77,-8,14,0.0027978861240018065,Washington,Michigan,3,4,0,1,NA,401100934,2018-11-25,
+318,4,0:58,58,58,Foul on Haley Van Dyke.,69,77,-8,0,0.001562568583583082,Washington,Michigan,3,4,0,1,NA,401100934,2018-11-25,
+319,4,0:58,58,58,Amy Dilk made Free Throw.,69,78,-9,0,6.974771704638701e-4,Washington,Michigan,3,4,0,1,NA,401100934,2018-11-25,Michigan
+320,4,0:58,58,58,Amy Dilk made Free Throw.,69,79,-10,8,3.1118068133665104e-4,Washington,Michigan,3,4,0,1,NA,401100934,2018-11-25,Michigan
+321,4,0:50,50,50,Haley Van Dyke made Layup. Assisted by Amber Melgoza.,71,79,-8,0,0.0010982485408034177,Washington,Michigan,3,4,1,1,NA,401100934,2018-11-25,Washington
+322,4,0:50,50,50,Washington  Timeout,71,79,-8,11,0.0010982485408034177,Washington,Michigan,2,4,1,1,NA,401100934,2018-11-25,
+323,4,0:39,39,39,Foul on Amber Melgoza.,71,79,-8,0,6.572198286397005e-4,Washington,Michigan,2,4,1,1,NA,401100934,2018-11-25,
+324,4,0:39,39,39,Kayla Robbins missed Free Throw.,71,79,-8,0,6.572198286397005e-4,Washington,Michigan,2,4,1,1,NA,401100934,2018-11-25,
+325,4,0:39,39,39,Michigan Deadball Team Rebound.,71,79,-8,0,6.572198286397005e-4,Washington,Michigan,2,4,1,1,NA,401100934,2018-11-25,
+326,4,0:39,39,39,Kayla Robbins missed Free Throw.,71,79,-8,0,6.572198286397005e-4,Washington,Michigan,2,4,1,1,NA,401100934,2018-11-25,
+327,4,0:39,39,39,Haley Van Dyke Defensive Rebound.,71,79,-8,8,6.572198286397005e-4,Washington,Michigan,2,4,1,1,NA,401100934,2018-11-25,
+328,4,0:31,31,31,Foul on Hallie Thome.,71,79,-8,0,4.433729010915954e-4,Washington,Michigan,2,4,1,1,NA,401100934,2018-11-25,
+329,4,0:31,31,31,Amber Melgoza made Free Throw.,72,79,-7,0,0.001163017203532151,Washington,Michigan,2,4,1,1,NA,401100934,2018-11-25,Washington
+330,4,0:31,31,31,Amber Melgoza made Free Throw.,73,79,-6,4,0.003047164638682367,Washington,Michigan,2,4,1,1,NA,401100934,2018-11-25,Washington
+331,4,0:27,27,27,Foul on Missy Peterson.,73,79,-6,0,0.002619703084679086,Washington,Michigan,2,4,1,1,NA,401100934,2018-11-25,
+332,4,0:27,27,27,Amy Dilk missed Free Throw.,73,79,-6,0,0.002619703084679086,Washington,Michigan,2,4,1,1,NA,401100934,2018-11-25,
+333,4,0:27,27,27,Michigan Deadball Team Rebound.,73,79,-6,0,0.002619703084679086,Washington,Michigan,2,4,1,1,NA,401100934,2018-11-25,
+334,4,0:27,27,27,Amy Dilk made Free Throw.,73,80,-7,7,9.746895862391419e-4,Washington,Michigan,2,4,1,1,NA,401100934,2018-11-25,Michigan
+335,4,0:20,20,20,Foul on Amber Melgoza.,73,80,-7,0,7.104291421599877e-4,Washington,Michigan,2,4,1,1,NA,401100934,2018-11-25,
+336,4,0:20,20,20,Amber Melgoza Turnover.,73,80,-7,20,7.104291421599877e-4,Washington,Michigan,2,4,1,1,NA,401100934,2018-11-25,
+337,4,0:00,0,0,End of Game,73,80,-7,0,1.580420060273613e-61,Washington,Michigan,2,4,1,0,NA,401100934,2018-11-25,

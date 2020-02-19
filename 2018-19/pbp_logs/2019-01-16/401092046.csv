@@ -1,0 +1,367 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Jump Ball won by Notre Dame,0,0,0,4,0.5,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,NA
+2,1,9:56,2396,2396,Marina Mabrey Turnover.,0,0,0,27,0.5,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+3,1,9:29,2369,2369,Dara Mabrey missed Layup.,0,0,0,0,0.5,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+4,1,9:29,2369,2369,Marina Mabrey Block.,0,0,0,0,0.5,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+5,1,9:29,2369,2369,Virginia Tech Offensive Rebound.,0,0,0,1,0.5,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+6,1,9:28,2368,2368,Kendyl Brooks missed Three Point Jumper.,0,0,0,0,0.5,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+7,1,9:28,2368,2368,Trinity Baptiste Offensive Rebound.,0,0,0,6,0.5,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+8,1,9:22,2362,2362,Trinity Baptiste missed Layup.,0,0,0,0,0.5,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+9,1,9:22,2362,2362,Brianna Turner Block.,0,0,0,0,0.5,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+10,1,9:22,2362,2362,Notre Dame Defensive Rebound.,0,0,0,0,0.5,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+11,1,9:22,2362,2362,Notre Dame Defensive Rebound.,0,0,0,0,0.5,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+12,1,9:22,2362,2362,Jessica Shepard Turnover.,0,0,0,27,0.5,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+13,1,8:55,2335,2335,Taylor Emery made Three Point Jumper. Assisted by Regan Magarity.,3,0,3,9,0.5678913977879856,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Virginia Tech
+14,1,8:46,2326,2326,Jessica Shepard made Layup. Assisted by Brianna Turner.,3,2,1,22,0.5228544235375375,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Notre Dame
+15,1,8:24,2304,2304,Kendyl Brooks missed Three Point Jumper.,3,2,1,0,0.5230985195738199,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+16,1,8:24,2304,2304,Trinity Baptiste Offensive Rebound.,3,2,1,8,0.5230985195738199,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+17,1,8:16,2296,2296,Regan Magarity missed Layup.,3,2,1,0,0.5231879356419173,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+18,1,8:16,2296,2296,Brianna Turner Block.,3,2,1,0,0.5231879356419173,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+19,1,8:16,2296,2296,Trinity Baptiste Offensive Rebound.,3,2,1,7,0.5231879356419173,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+20,1,8:09,2289,2289,Trinity Baptiste made Layup.,5,2,3,6,0.5693988998708198,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Virginia Tech
+21,1,8:03,2283,2283,Jessica Shepard missed Jumper.,5,2,3,0,0.5695978763155807,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+22,1,8:03,2283,2283,Trinity Baptiste Defensive Rebound.,5,2,3,32,0.5695978763155807,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+23,1,7:31,2251,2251,Foul on Brianna Turner.,5,2,3,3,0.5706668871886571,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+24,1,7:28,2248,2248,Taylor Emery made Jumper.,7,2,5,0,0.6165602522137568,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Virginia Tech
+25,1,7:28,2248,2248,Taylor Emery made Jumper.,7,2,5,18,0.6165602522137568,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+26,1,7:10,2230,2230,Arike Ogunbowale missed Three Point Jumper.,7,2,5,0,0.6175361705953504,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+27,1,7:10,2230,2230,Kendyl Brooks Defensive Rebound.,7,2,5,10,0.6175361705953504,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+28,1,7:00,2220,2220,Dara Mabrey made Layup.,9,2,7,18,0.6623917274563644,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Virginia Tech
+29,1,6:42,2202,2202,Arike Ogunbowale missed Jumper.,9,2,7,0,0.6636938599520162,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+30,1,6:42,2202,2202,Virginia Tech Defensive Rebound.,9,2,7,24,0.6636938599520162,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+31,1,6:18,2178,2178,Taylor Emery made Jumper.,11,2,9,17,0.7076641409767795,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Virginia Tech
+32,1,6:01,2161,2161,Brianna Turner missed Layup.,11,2,9,0,0.7091390768970636,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+33,1,6:01,2161,2161,Trinity Baptiste Defensive Rebound.,11,2,9,6,0.7091390768970636,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+34,1,5:55,2155,2155,Foul on Arike Ogunbowale.,11,2,9,0,0.7096604070717335,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+35,1,5:55,2155,2155,Official TV Timeout,11,2,9,14,0.7096604070717335,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+36,1,5:41,2141,2141,Trinity Baptiste missed Jumper.,11,2,9,0,0.7108788898427587,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+37,1,5:41,2141,2141,Jessica Shepard Defensive Rebound.,11,2,9,11,0.7108788898427587,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+38,1,5:30,2130,2130,Brianna Turner missed Layup.,11,2,9,0,0.711838430222384,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+39,1,5:30,2130,2130,Jessica Shepard Offensive Rebound.,11,2,9,6,0.711838430222384,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+40,1,5:24,2124,2124,Jackie Young made Layup. Assisted by Jessica Shepard.,11,4,7,27,0.669374274654817,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Notre Dame
+41,1,4:57,2097,2097,Dara Mabrey missed Layup.,11,4,7,0,0.6713648038315527,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+42,1,4:57,2097,2097,Virginia Tech  Turnover.,11,4,7,0,0.6713648038315527,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+43,1,4:57,2097,2097,Notre Dame Defensive Rebound.,11,4,7,0,0.6713648038315527,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+44,1,4:57,2097,2097,Virginia Tech  Turnover.,11,4,7,0,0.6713648038315527,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+45,1,4:57,2097,2097,Notre Dame Defensive Rebound.,11,4,7,9,0.6713648038315527,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+46,1,4:48,2088,2088,Jessica Shepard made Jumper.,11,6,5,18,0.6253738122342009,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Notre Dame
+47,1,4:30,2070,2070,Regan Magarity made Layup. Assisted by Dara Mabrey.,13,6,7,16,0.6733716401603698,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Virginia Tech
+48,1,4:14,2054,2054,Jessica Shepard made Layup.,13,8,5,0,0.6273022369711612,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Notre Dame
+49,1,4:14,2054,2054,Jessica Shepard made Layup.,13,8,5,19,0.6273022369711612,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+50,1,3:55,2035,2035,Aisha Sheppard missed Jumper.,13,8,5,0,0.6283914160944843,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+51,1,3:55,2035,2035,Aisha Sheppard missed Jumper.,13,8,5,0,0.6283914160944843,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+52,1,3:55,2035,2035,Marina Mabrey Defensive Rebound.,13,8,5,6,0.6283914160944843,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+53,1,3:49,2029,2029,Arike Ogunbowale missed Jumper.,13,8,5,0,0.6287371935963528,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+54,1,3:49,2029,2029,Trinity Baptiste Defensive Rebound.,13,8,5,19,0.6287371935963528,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+55,1,3:30,2010,2010,Dara Mabrey missed Three Point Jumper.,13,8,5,0,0.6298381936211821,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+56,1,3:30,2010,2010,Marina Mabrey Defensive Rebound.,13,8,5,15,0.6298381936211821,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+57,1,3:15,1995,1995,Jessica Shepard made Layup. Assisted by Marina Mabrey.,13,10,3,0,0.5796091214569224,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Notre Dame
+58,1,3:15,1995,1995,Foul on Rachel Camp.,13,10,3,0,0.5796091214569224,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+59,1,3:15,1995,1995,Jessica Shepard missed Free Throw.,13,10,3,0,0.5796091214569224,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+60,1,3:15,1995,1995,Taylor Emery Defensive Rebound.,13,10,3,0,0.5796091214569224,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+61,1,3:15,1995,1995,Taylor Emery Defensive Rebound.,13,10,3,0,0.5796091214569224,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+62,1,3:15,1995,1995,Regan Magarity Offensive Rebound.,13,10,3,0,0.5796091214569224,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+63,1,3:15,1995,1995,Regan Magarity Offensive Rebound.,13,10,3,0,0.5796091214569224,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+64,1,3:15,1995,1995,Taylor Emery missed Layup.,13,10,3,0,0.5796091214569224,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+65,1,3:15,1995,1995,Regan Magarity Offensive Rebound.,13,10,3,27,0.5796091214569224,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+66,1,2:48,1968,1968,Regan Magarity made Layup.,15,10,5,11,0.632306627093513,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Virginia Tech
+67,1,2:37,1957,1957,Marina Mabrey missed Jumper.,15,10,5,0,0.6329615091190671,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+68,1,2:37,1957,1957,Danielle Patterson Offensive Rebound.,15,10,5,0,0.6329615091190671,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+69,1,2:37,1957,1957,Danielle Patterson Offensive Rebound.,15,10,5,0,0.6329615091190671,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+70,1,2:37,1957,1957,Regan Magarity Block.,15,10,5,0,0.6329615091190671,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+71,1,2:37,1957,1957,Danielle Patterson Offensive Rebound.,15,10,5,0,0.6329615091190671,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+72,1,2:37,1957,1957,Regan Magarity Block.,15,10,5,0,0.6329615091190671,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+73,1,2:37,1957,1957,Danielle Patterson Offensive Rebound.,15,10,5,13,0.6329615091190671,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+74,1,2:24,1944,1944,Jackie Young missed Jumper.,15,10,5,0,0.633740194453431,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+75,1,2:24,1944,1944,Regan Magarity Defensive Rebound.,15,10,5,14,0.633740194453431,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+76,1,2:10,1930,1930,Regan Magarity missed Jumper.,15,10,5,0,0.6345846834451611,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+77,1,2:10,1930,1930,Danielle Patterson Defensive Rebound.,15,10,5,9,0.6345846834451611,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+78,1,2:01,1921,1921,Marina Mabrey made Three Point Jumper.,15,13,2,21,0.5552024606924355,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Notre Dame
+79,1,1:40,1900,1900,Trinity Baptiste made Three Point Jumper.,18,13,5,10,0.6363952417623815,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Virginia Tech
+80,1,1:30,1890,1890,Marina Mabrey missed Jumper.,18,13,5,0,0.6369971648359438,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+81,1,1:30,1890,1890,Jessica Shepard Offensive Rebound.,18,13,5,0,0.6369971648359438,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+82,1,1:30,1890,1890,Jessica Shepard Offensive Rebound.,18,13,5,4,0.6369971648359438,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+83,1,1:26,1886,1886,Jessica Shepard made Layup.,18,15,3,0,0.5837136994895804,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Notre Dame
+84,1,1:26,1886,1886,Jessica Shepard made Layup.,18,15,3,19,0.5837136994895804,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+85,1,1:07,1867,1867,Taylor Emery made Jumper.,20,15,5,21,0.6383814194564776,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Virginia Tech
+86,1,0:46,1846,1846,Jessica Shepard missed Jumper.,20,15,5,0,0.6396480660673586,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+87,1,0:46,1846,1846,Regan Magarity Block.,20,15,5,0,0.6396480660673586,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+88,1,0:46,1846,1846,Virginia Tech Defensive Rebound.,20,15,5,0,0.6396480660673586,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+89,1,0:46,1846,1846,Virginia Tech Defensive Rebound.,20,15,5,10,0.6396480660673586,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+90,1,0:36,1836,1836,Virginia Tech  Turnover.,20,15,5,0,0.6402531484761286,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+91,1,0:36,1836,1836,Virginia Tech  Turnover.,20,15,5,14,0.6402531484761286,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+92,1,0:22,1822,1822,Marina Mabrey made Three Point Jumper.,20,18,2,14,0.557756605665876,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Notre Dame
+93,1,0:08,1808,1808,Taylor Emery missed Jumper.,20,18,2,0,0.5581231535105275,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+94,1,0:08,1808,1808,Jessica Shepard Defensive Rebound.,20,18,2,0,0.5581231535105275,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+95,1,0:08,1808,1808,Taylor Emery missed Jumper.,20,18,2,0,0.5581231535105275,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+96,1,0:08,1808,1808,Jessica Shepard Defensive Rebound.,20,18,2,8,0.5581231535105275,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+97,1,0:00,1800,1800,End of 1st Quarter,20,18,2,0,0.558333749411633,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+98,2,10:00,1800,1800,Jump Ball won by Virginia Tech,20,18,2,11,0.558333749411633,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+99,2,9:49,1789,1789,Taylor Emery made Jumper.,22,18,4,21,0.6156596666190358,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Virginia Tech
+100,2,9:28,1768,1768,Arike Ogunbowale missed Jumper.,22,18,4,0,0.6167366567731744,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+101,2,9:28,1768,1768,Regan Magarity Defensive Rebound.,22,18,4,14,0.6167366567731744,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+102,2,9:14,1754,1754,Taylor Emery made Jumper.,24,18,6,20,0.6722086131863931,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Virginia Tech
+103,2,8:54,1734,1734,Marina Mabrey made Three Point Jumper.,24,21,3,15,0.5896298978570124,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Notre Dame
+104,2,8:39,1719,1719,Dara Mabrey Turnover.,24,21,3,0,0.5902454162082106,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+105,2,8:39,1719,1719,Abby Prohaska Steal.,24,21,3,8,0.5902454162082106,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+106,2,8:31,1711,1711,Arike Ogunbowale made Layup.,24,23,1,0,0.5304914566542098,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Notre Dame
+107,2,8:31,1711,1711,Foul on Taylor Emery.,24,23,1,0,0.5304914566542098,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+108,2,8:31,1711,1711,Arike Ogunbowale missed Free Throw.,24,23,1,0,0.5304914566542098,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+109,2,8:31,1711,1711,Brianna Turner Offensive Rebound.,24,23,1,0,0.5304914566542098,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+110,2,8:31,1711,1711,Brianna Turner made Layup.,24,25,-1,31,0.46950854334579023,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Notre Dame
+111,2,8:00,1680,1680,Taylor Emery missed Jumper.,24,25,-1,0,0.4690600545642063,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+112,2,8:00,1680,1680,Brianna Turner Block.,24,25,-1,0,0.4690600545642063,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+113,2,8:00,1680,1680,Notre Dame Defensive Rebound.,24,25,-1,15,0.4690600545642063,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+114,2,7:45,1665,1665,Jackie Young made Layup.,24,27,-3,24,0.4074957598523519,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Notre Dame
+115,2,7:21,1641,1641,Rachel Camp missed Jumper.,24,27,-3,0,0.406524098883698,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+116,2,7:21,1641,1641,Brianna Turner Defensive Rebound.,24,27,-3,10,0.406524098883698,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+117,2,7:11,1631,1631,Arike Ogunbowale missed Jumper.,24,27,-3,0,0.40612522839305526,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+118,2,7:11,1631,1631,Brianna Turner Offensive Rebound.,24,27,-3,0,0.40612522839305526,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+119,2,7:11,1631,1631,Brianna Turner made Two Point Tip Shot.,24,29,-5,32,0.34675248734333547,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Notre Dame
+120,2,6:39,1599,1599,Dara Mabrey missed Three Point Jumper.,24,29,-5,0,0.34477481577364666,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+121,2,6:39,1599,1599,Rachel Camp Offensive Rebound.,24,29,-5,11,0.34477481577364666,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+122,2,6:28,1588,1588,Kendyl Brooks missed Three Point Jumper.,24,29,-5,0,0.34409707686784946,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+123,2,6:28,1588,1588,Arike Ogunbowale Defensive Rebound.,24,29,-5,11,0.34409707686784946,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+124,2,6:17,1577,1577,Foul on Regan Magarity.,24,29,-5,0,0.34341769861763755,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+125,2,6:17,1577,1577,Arike Ogunbowale made Free Throw.,24,30,-6,0,0.31481134037188985,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Notre Dame
+126,2,6:17,1577,1577,Arike Ogunbowale missed Free Throw.,24,30,-6,0,0.31481134037188985,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+127,2,6:17,1577,1577,Trinity Baptiste Defensive Rebound.,24,30,-6,17,0.31481134037188985,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+128,2,6:00,1560,1560,Kendyl Brooks Turnover.,24,30,-6,6,0.31359831897065277,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+129,2,5:54,1554,1554,Foul on Kendyl Brooks.,24,30,-6,5,0.313166926708624,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,
+130,2,5:49,1549,1549,Jessica Shepard made Jumper. Assisted by Arike Ogunbowale.,24,32,-8,6,0.25934430102107364,Virginia Tech,Notre Dame,4,4,0,0,NA,401092046,2019-01-16,Notre Dame
+131,2,5:43,1543,1543,Virginia Tech  Timeout,24,32,-8,0,0.2588253968981278,Virginia Tech,Notre Dame,3,4,1,0,NA,401092046,2019-01-16,
+132,2,5:43,1543,1543,Official TV Timeout,24,32,-8,12,0.2588253968981278,Virginia Tech,Notre Dame,3,4,1,0,NA,401092046,2019-01-16,
+133,2,5:31,1531,1531,Trinity Baptiste missed Jumper.,24,32,-8,0,0.2577782942866787,Virginia Tech,Notre Dame,3,4,1,0,NA,401092046,2019-01-16,
+134,2,5:31,1531,1531,Regan Magarity Offensive Rebound.,24,32,-8,6,0.2577782942866787,Virginia Tech,Notre Dame,3,4,1,0,NA,401092046,2019-01-16,
+135,2,5:25,1525,1525,Foul on Brianna Turner.,24,32,-8,0,0.2572493986724253,Virginia Tech,Notre Dame,3,4,1,0,NA,401092046,2019-01-16,
+136,2,5:25,1525,1525,Foul on Brianna Turner.,24,32,-8,0,0.2572493986724253,Virginia Tech,Notre Dame,3,4,1,0,NA,401092046,2019-01-16,
+137,2,5:25,1525,1525,Regan Magarity made Free Throw.,25,32,-7,0,0.2833763365298915,Virginia Tech,Notre Dame,3,4,1,0,NA,401092046,2019-01-16,Virginia Tech
+138,2,5:25,1525,1525,Regan Magarity missed Free Throw.,25,32,-7,0,0.2833763365298915,Virginia Tech,Notre Dame,3,4,1,0,NA,401092046,2019-01-16,
+139,2,5:25,1525,1525,Jessica Shepard Defensive Rebound.,25,32,-7,5,0.2833763365298915,Virginia Tech,Notre Dame,3,4,1,0,NA,401092046,2019-01-16,
+140,2,5:20,1520,1520,Danielle Patterson made Layup. Assisted by Marina Mabrey.,25,34,-9,0,0.2322823972240721,Virginia Tech,Notre Dame,3,4,1,0,NA,401092046,2019-01-16,Notre Dame
+141,2,5:20,1520,1520,Danielle Patterson made Layup. Assisted by Marina Mabrey.,25,34,-9,20,0.2322823972240721,Virginia Tech,Notre Dame,3,4,1,0,NA,401092046,2019-01-16,
+142,2,5:00,1500,1500,Regan Magarity missed Layup.,25,34,-9,0,0.2303838869237246,Virginia Tech,Notre Dame,3,4,1,0,NA,401092046,2019-01-16,
+143,2,5:00,1500,1500,Jackie Young Defensive Rebound.,25,34,-9,8,0.2303838869237246,Virginia Tech,Notre Dame,3,4,1,0,NA,401092046,2019-01-16,
+144,2,4:52,1492,1492,Arike Ogunbowale missed Jumper.,25,34,-9,6,0.2296080441015675,Virginia Tech,Notre Dame,3,4,1,0,NA,401092046,2019-01-16,
+145,2,4:46,1486,1486,Danielle Patterson Offensive Rebound.,25,34,-9,1,0.22901923721647283,Virginia Tech,Notre Dame,3,4,1,0,NA,401092046,2019-01-16,
+146,2,4:45,1485,1485,Danielle Patterson missed Layup.,25,34,-9,0,0.2289204980900541,Virginia Tech,Notre Dame,3,4,1,0,NA,401092046,2019-01-16,
+147,2,4:45,1485,1485,Danielle Patterson Offensive Rebound.,25,34,-9,0,0.2289204980900541,Virginia Tech,Notre Dame,3,4,1,0,NA,401092046,2019-01-16,
+148,2,4:45,1485,1485,Danielle Patterson missed Layup.,25,34,-9,0,0.2289204980900541,Virginia Tech,Notre Dame,3,4,1,0,NA,401092046,2019-01-16,
+149,2,4:45,1485,1485,Virginia Tech Defensive Rebound.,25,34,-9,16,0.2289204980900541,Virginia Tech,Notre Dame,3,4,1,0,NA,401092046,2019-01-16,
+150,2,4:29,1469,1469,Taylor Emery missed Jumper.,25,34,-9,0,0.22731555429164174,Virginia Tech,Notre Dame,3,4,0,0,NA,401092046,2019-01-16,
+151,2,4:29,1469,1469,Arike Ogunbowale Defensive Rebound.,25,34,-9,17,0.22731555429164174,Virginia Tech,Notre Dame,3,4,0,0,NA,401092046,2019-01-16,
+152,2,4:12,1452,1452,Foul on Dara Mabrey.,25,34,-9,0,0.2255536314581747,Virginia Tech,Notre Dame,3,4,0,0,NA,401092046,2019-01-16,
+153,2,4:12,1452,1452,Arike Ogunbowale made Free Throw.,25,35,-10,0,0.2025138720540789,Virginia Tech,Notre Dame,3,4,0,0,NA,401092046,2019-01-16,Notre Dame
+154,2,4:12,1452,1452,Arike Ogunbowale made Free Throw.,25,36,-11,8,0.1812766889278464,Virginia Tech,Notre Dame,3,4,0,0,NA,401092046,2019-01-16,Notre Dame
+155,2,4:04,1444,1444,Dara Mabrey missed Jumper.,25,36,-11,0,0.18040256016399697,Virginia Tech,Notre Dame,3,4,0,0,NA,401092046,2019-01-16,
+156,2,4:04,1444,1444,Marina Mabrey Defensive Rebound.,25,36,-11,12,0.18040256016399697,Virginia Tech,Notre Dame,3,4,0,0,NA,401092046,2019-01-16,
+157,2,3:52,1432,1432,Marina Mabrey made Layup.,25,38,-13,26,0.1419635408794791,Virginia Tech,Notre Dame,3,4,0,0,NA,401092046,2019-01-16,Notre Dame
+158,2,3:26,1406,1406,Dara Mabrey missed Jumper.,25,38,-13,0,0.13936700426443102,Virginia Tech,Notre Dame,3,4,0,0,NA,401092046,2019-01-16,
+159,2,3:26,1406,1406,Jessica Shepard Defensive Rebound.,25,38,-13,7,0.13936700426443102,Virginia Tech,Notre Dame,3,4,0,0,NA,401092046,2019-01-16,
+160,2,3:19,1399,1399,Arike Ogunbowale made Jumper.,25,40,-15,23,0.10840175591197822,Virginia Tech,Notre Dame,3,4,0,0,NA,401092046,2019-01-16,Notre Dame
+161,2,2:56,1376,1376,Taylor Emery missed Three Point Jumper.,25,40,-15,0,0.10636903303140668,Virginia Tech,Notre Dame,3,4,0,0,NA,401092046,2019-01-16,
+162,2,2:56,1376,1376,Jessica Shepard Defensive Rebound.,25,40,-15,5,0.10636903303140668,Virginia Tech,Notre Dame,3,4,0,0,NA,401092046,2019-01-16,
+163,2,2:51,1371,1371,Danielle Patterson made Layup.,25,42,-17,3,0.08185855605238161,Virginia Tech,Notre Dame,3,4,0,0,NA,401092046,2019-01-16,Notre Dame
+164,2,2:48,1368,1368,Virginia Tech  Timeout,25,42,-17,15,0.08162458561134206,Virginia Tech,Notre Dame,2,4,1,0,NA,401092046,2019-01-16,
+165,2,2:33,1353,1353,Kendyl Brooks made Three Point Jumper. Assisted by Taylor Emery.,28,42,-14,21,0.11855455891721128,Virginia Tech,Notre Dame,2,4,1,0,NA,401092046,2019-01-16,Virginia Tech
+166,2,2:12,1332,1332,Arike Ogunbowale missed Three Point Jumper.,28,42,-14,0,0.11666627784404256,Virginia Tech,Notre Dame,2,4,1,0,NA,401092046,2019-01-16,
+167,2,2:12,1332,1332,Trinity Baptiste Defensive Rebound.,28,42,-14,18,0.11666627784404256,Virginia Tech,Notre Dame,2,4,1,0,NA,401092046,2019-01-16,
+168,2,1:54,1314,1314,Aisha Sheppard missed Three Point Jumper.,28,42,-14,0,0.11503232158261732,Virginia Tech,Notre Dame,2,4,1,0,NA,401092046,2019-01-16,
+169,2,1:54,1314,1314,Trinity Baptiste Offensive Rebound.,28,42,-14,7,0.11503232158261732,Virginia Tech,Notre Dame,2,4,1,0,NA,401092046,2019-01-16,
+170,2,1:47,1307,1307,Foul on Mikayla Vaughn.,28,42,-14,0,0.11438955098063146,Virginia Tech,Notre Dame,2,4,0,0,NA,401092046,2019-01-16,
+171,2,1:47,1307,1307,Trinity Baptiste made Free Throw.,29,42,-13,0,0.13005450693996284,Virginia Tech,Notre Dame,2,4,0,0,NA,401092046,2019-01-16,Virginia Tech
+172,2,1:47,1307,1307,Trinity Baptiste made Free Throw.,30,42,-12,0,0.14750737549110643,Virginia Tech,Notre Dame,2,4,0,0,NA,401092046,2019-01-16,Virginia Tech
+173,2,1:47,1307,1307,Trinity Baptiste made Free Throw.,30,42,-12,4,0.14750737549110643,Virginia Tech,Notre Dame,2,4,0,0,NA,401092046,2019-01-16,
+174,2,1:43,1303,1303,Marina Mabrey missed Layup.,30,42,-12,0,0.14711393095300324,Virginia Tech,Notre Dame,2,4,0,0,NA,401092046,2019-01-16,
+175,2,1:43,1303,1303,Trinity Baptiste Defensive Rebound.,30,42,-12,24,0.14711393095300324,Virginia Tech,Notre Dame,2,4,0,0,NA,401092046,2019-01-16,
+176,2,1:19,1279,1279,Aisha Sheppard made Jumper.,32,42,-10,33,0.18532732637623067,Virginia Tech,Notre Dame,2,4,0,0,NA,401092046,2019-01-16,Virginia Tech
+177,2,0:46,1246,1246,Marina Mabrey missed Jumper.,32,42,-10,0,0.18174018142677614,Virginia Tech,Notre Dame,2,4,0,0,NA,401092046,2019-01-16,
+178,2,0:46,1246,1246,Trinity Baptiste Defensive Rebound.,32,42,-10,17,0.18174018142677614,Virginia Tech,Notre Dame,2,4,0,0,NA,401092046,2019-01-16,
+179,2,0:29,1229,1229,Foul on Abby Prohaska.,32,42,-10,0,0.17976727189259561,Virginia Tech,Notre Dame,2,4,0,0,NA,401092046,2019-01-16,
+180,2,0:29,1229,1229,Aisha Sheppard made Free Throw.,33,42,-9,0,0.20324541293385984,Virginia Tech,Notre Dame,2,4,0,0,NA,401092046,2019-01-16,Virginia Tech
+181,2,0:29,1229,1229,Aisha Sheppard made Free Throw.,34,42,-8,27,0.22893403409034466,Virginia Tech,Notre Dame,2,4,0,0,NA,401092046,2019-01-16,Virginia Tech
+182,2,0:02,1202,1202,Foul on Trinity Baptiste.,34,42,-8,0,0.2257465391819878,Virginia Tech,Notre Dame,2,4,0,0,NA,401092046,2019-01-16,
+183,2,0:02,1202,1202,Jessica Shepard made Free Throw.,34,43,-9,0,0.19995954401120347,Virginia Tech,Notre Dame,2,4,0,0,NA,401092046,2019-01-16,Notre Dame
+184,2,0:02,1202,1202,Jessica Shepard made Free Throw.,34,43,-9,0,0.19995954401120347,Virginia Tech,Notre Dame,2,4,0,0,NA,401092046,2019-01-16,
+185,2,0:02,1202,1202,Jessica Shepard made Free Throw.,34,44,-10,0,0.17644690197202445,Virginia Tech,Notre Dame,2,4,0,0,NA,401092046,2019-01-16,Notre Dame
+186,2,0:02,1202,1202,Jessica Shepard made Free Throw.,34,44,-10,2,0.17644690197202445,Virginia Tech,Notre Dame,2,4,0,0,NA,401092046,2019-01-16,
+187,2,0:00,1200,1200,End of 2nd Quarter,34,44,-10,0,0.17620114634698963,Virginia Tech,Notre Dame,2,4,0,0,NA,401092046,2019-01-16,
+188,3,10:00,1200,1200,Jump Ball won by Notre Dame,34,44,-10,9,0.17620114634698963,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+189,3,9:51,1191,1191,Arike Ogunbowale made Layup.,34,46,-12,17,0.13472615856737738,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Notre Dame
+190,3,9:34,1174,1174,Foul on Marina Mabrey.,34,46,-12,0,0.13278917276761829,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+191,3,9:34,1174,1174,Taylor Emery made Free Throw.,35,46,-11,0,0.15185277169670963,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Virginia Tech
+192,3,9:34,1174,1174,Taylor Emery made Free Throw.,36,46,-10,0,0.173106889182296,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Virginia Tech
+193,3,9:34,1174,1174,Taylor Emery missed Free Throw.,36,46,-10,0,0.173106889182296,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+194,3,9:34,1174,1174,Jessica Shepard Defensive Rebound.,36,46,-10,10,0.173106889182296,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+195,3,9:24,1164,1164,Jackie Young made Layup. Assisted by Marina Mabrey.,36,48,-12,15,0.1316799540998455,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Notre Dame
+196,3,9:09,1149,1149,Kendyl Brooks Turnover.,36,48,-12,0,0.1300474322245093,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+197,3,9:09,1149,1149,Marina Mabrey Steal.,36,48,-12,5,0.1300474322245093,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+198,3,9:04,1144,1144,Marina Mabrey made Layup.,36,50,-14,23,0.0977171030052356,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Notre Dame
+199,3,8:41,1121,1121,Trinity Baptiste Turnover.,36,50,-14,0,0.09548643412519896,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+200,3,8:41,1121,1121,Arike Ogunbowale Steal.,36,50,-14,4,0.09548643412519896,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+201,3,8:37,1117,1117,Arike Ogunbowale Turnover.,36,50,-14,0,0.09510118411472217,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+202,3,8:37,1117,1117,Trinity Baptiste Steal.,36,50,-14,3,0.09510118411472217,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+203,3,8:34,1114,1114,Kendyl Brooks missed Three Point Jumper.,36,50,-14,0,0.0948124299708865,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+204,3,8:34,1114,1114,Jackie Young Defensive Rebound.,36,50,-14,4,0.0948124299708865,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+205,3,8:30,1110,1110,Foul on Kendyl Brooks.,36,50,-14,0,0.09442750778839908,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+206,3,8:30,1110,1110,Brianna Turner missed Free Throw.,36,50,-14,0,0.09442750778839908,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+207,3,8:30,1110,1110,Notre Dame Deadball Team Rebound.,36,50,-14,0,0.09442750778839908,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+208,3,8:30,1110,1110,Brianna Turner made Free Throw.,36,51,-15,20,0.08149422975796679,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Notre Dame
+209,3,8:10,1090,1090,Regan Magarity Turnover.,36,51,-15,9,0.07968608900914899,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+210,3,8:01,1081,1081,Jackie Young made Layup. Assisted by Marina Mabrey.,36,53,-17,12,0.058109847638424215,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Notre Dame
+211,3,7:49,1069,1069,Trinity Baptiste made Jumper.,38,53,-15,12,0.07776522290004678,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Virginia Tech
+212,3,7:37,1057,1057,Foul on Regan Magarity.,38,53,-15,0,0.07664850703968062,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+213,3,7:37,1057,1057,Brianna Turner missed Free Throw.,38,53,-15,0,0.07664850703968062,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+214,3,7:37,1057,1057,Notre Dame Deadball Team Rebound.,38,53,-15,0,0.07664850703968062,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+215,3,7:37,1057,1057,Brianna Turner missed Free Throw.,38,53,-15,0,0.07664850703968062,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+216,3,7:37,1057,1057,Taylor Emery Defensive Rebound.,38,53,-15,29,0.07664850703968062,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+217,3,7:08,1028,1028,Dara Mabrey missed Jumper.,38,53,-15,0,0.07386483940630363,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+218,3,7:08,1028,1028,Arike Ogunbowale Defensive Rebound.,38,53,-15,3,0.07386483940630363,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+219,3,7:05,1025,1025,Foul on Dara Mabrey.,38,53,-15,7,0.07356858903524151,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+220,3,6:58,1018,1018,Jessica Shepard missed Layup.,38,53,-15,0,0.07287045909376107,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+221,3,6:58,1018,1018,Jessica Shepard Offensive Rebound.,38,53,-15,0,0.07287045909376107,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+222,3,6:58,1018,1018,Jessica Shepard made Two Point Tip Shot.,38,55,-17,18,0.053023890214725485,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Notre Dame
+223,3,6:40,1000,1000,Aisha Sheppard missed Three Point Jumper.,38,55,-17,0,0.05147502826220232,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+224,3,6:40,1000,1000,Brianna Turner Defensive Rebound.,38,55,-17,9,0.05147502826220232,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+225,3,6:31,991,991,Arike Ogunbowale Turnover.,38,55,-17,8,0.05067993490424195,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+226,3,6:23,983,983,Rachel Camp missed Three Point Jumper.,38,55,-17,0,0.049960892807403165,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+227,3,6:23,983,983,Taylor Emery Offensive Rebound.,38,55,-17,15,0.049960892807403165,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+228,3,6:08,968,968,Foul on Marina Mabrey.,38,55,-17,8,0.04858201715162636,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+229,3,6:00,960,960,Regan Magarity made Layup. Assisted by Taylor Emery.,40,55,-15,11,0.06670664257861139,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Virginia Tech
+230,3,5:49,949,949,Marina Mabrey missed Three Point Jumper.,40,55,-15,0,0.06560432905611038,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+231,3,5:49,949,949,Jessica Shepard Offensive Rebound.,40,55,-15,6,0.06560432905611038,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+232,3,5:43,943,943,Foul on Regan Magarity.,40,55,-15,0,0.06503578589302135,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+233,3,5:43,943,943,Jessica Shepard made Free Throw.,40,56,-16,0,0.055029968798565275,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Notre Dame
+234,3,5:43,943,943,Jessica Shepard made Free Throw.,40,57,-17,29,0.04648701594851567,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Notre Dame
+235,3,5:14,914,914,Foul on Taylor Emery.,40,57,-17,0,0.04443342666939345,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+236,3,5:14,914,914,Taylor Emery Turnover.,40,57,-17,14,0.04443342666939345,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+237,3,5:00,900,900,Brianna Turner made Jumper. Assisted by Jessica Shepard.,40,59,-19,31,0.03067532756828052,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Notre Dame
+238,3,4:29,869,869,Trinity Baptiste missed Layup.,40,59,-19,0,0.02917969112051007,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+239,3,4:29,869,869,Brianna Turner Block.,40,59,-19,0,0.02917969112051007,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+240,3,4:29,869,869,Jessica Shepard Defensive Rebound.,40,59,-19,3,0.02917969112051007,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+241,3,4:26,866,866,Foul on Rachel Camp.,40,59,-19,0,0.02903789882836383,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+242,3,4:26,866,866,Official TV Timeout,40,59,-19,0,0.02903789882836383,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+243,3,4:26,866,866,Arike Ogunbowale made Free Throw.,40,60,-20,0,0.0242590852372918,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Notre Dame
+244,3,4:26,866,866,Arike Ogunbowale made Free Throw.,40,61,-21,24,0.020250326365178897,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Notre Dame
+245,3,4:02,842,842,Regan Magarity Turnover.,40,61,-21,6,0.019364477610002002,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+246,3,3:56,836,836,Arike Ogunbowale made Three Point Jumper. Assisted by Brianna Turner.,40,64,-24,0,0.010997012874386453,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Notre Dame
+247,3,3:56,836,836,Arike Ogunbowale made Three Point Jumper. Assisted by Brianna Turner.,40,64,-24,29,0.010997012874386453,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+248,3,3:27,807,807,Taylor Emery missed Layup.,40,64,-24,0,0.010249287441266899,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+249,3,3:27,807,807,Virginia Tech Offensive Rebound.,40,64,-24,2,0.010249287441266899,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+250,3,3:25,805,805,Aisha Sheppard Turnover.,40,64,-24,0,0.010195617016717977,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+251,3,3:25,805,805,Jessica Shepard Steal.,40,64,-24,13,0.010195617016717977,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+252,3,3:12,792,792,Arike Ogunbowale missed Layup.,40,64,-24,0,0.009838642413514365,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+253,3,3:12,792,792,Taylor Emery Defensive Rebound.,40,64,-24,21,0.009838642413514365,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+254,3,2:51,771,771,Regan Magarity Turnover.,40,64,-24,17,0.009229273761375655,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+255,3,2:34,754,754,Marina Mabrey made Jumper.,40,66,-26,21,0.005882887892191351,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Notre Dame
+256,3,2:13,733,733,Foul on Jessica Shepard.,40,66,-26,0,0.00537982937442791,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+257,3,2:13,733,733,Trinity Baptiste made Free Throw.,41,66,-25,0,0.006568064150859113,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Virginia Tech
+258,3,2:13,733,733,Trinity Baptiste made Free Throw.,42,66,-24,10,0.008016627252472222,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Virginia Tech
+259,3,2:03,723,723,Danielle Patterson missed Jumper.,42,66,-24,0,0.007686995467452098,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+260,3,2:03,723,723,Marina Mabrey Offensive Rebound.,42,66,-24,5,0.007686995467452098,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+261,3,1:58,718,718,Marina Mabrey missed Jumper.,42,66,-24,0,0.007535074562210751,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+262,3,1:58,718,718,Regan Magarity Defensive Rebound.,42,66,-24,10,0.007535074562210751,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+263,3,1:48,708,708,Regan Magarity made Layup. Assisted by Rachel Camp.,44,66,-22,22,0.010890635470673576,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Virginia Tech
+264,3,1:26,686,686,Arike Ogunbowale made Three Point Jumper. Assisted by Jessica Shepard.,44,69,-25,17,0.005466609293078972,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Notre Dame
+265,3,1:09,669,669,Rachel Camp missed Jumper.,44,69,-25,0,0.00516267016330971,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+266,3,1:09,669,669,Jessica Shepard Block.,44,69,-25,0,0.00516267016330971,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+267,3,1:09,669,669,Rachel Camp missed Jumper.,44,69,-25,0,0.00516267016330971,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+268,3,1:09,669,669,Jessica Shepard Block.,44,69,-25,0,0.00516267016330971,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+269,3,1:09,669,669,Abby Prohaska Defensive Rebound.,44,69,-25,19,0.00516267016330971,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+270,3,0:50,650,650,Marina Mabrey missed Layup.,44,69,-25,0,0.004846168734875953,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+271,3,0:50,650,650,Marina Mabrey Offensive Rebound.,44,69,-25,7,0.004846168734875953,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+272,3,0:43,643,643,Jessica Shepard made Jumper.,44,71,-27,13,0.0030897755262560976,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Notre Dame
+273,3,0:30,630,630,Dara Mabrey missed Three Point Jumper.,44,71,-27,0,0.0029398603419831435,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+274,3,0:30,630,630,Trinity Baptiste Offensive Rebound.,44,71,-27,7,0.0029398603419831435,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+275,3,0:23,623,623,Trinity Baptiste missed Layup.,44,71,-27,0,0.002858284224085107,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+276,3,0:23,623,623,Jessica Shepard Defensive Rebound.,44,71,-27,18,0.002858284224085107,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+277,3,0:05,605,605,Foul on Taylor Emery.,44,71,-27,0,0.002642691056910425,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+278,3,0:05,605,605,Arike Ogunbowale made Free Throw.,44,72,-28,0,0.002122441246893781,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Notre Dame
+279,3,0:05,605,605,Arike Ogunbowale made Free Throw.,44,73,-29,4,0.0017044346861181164,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,Notre Dame
+280,3,0:01,601,601,Dara Mabrey missed Jumper.,44,73,-29,0,0.0016702132919726022,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+281,3,0:01,601,601,Virginia Tech Offensive Rebound.,44,73,-29,0,0.0016702132919726022,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+282,3,0:01,601,601,Virginia Tech Offensive Rebound.,44,73,-29,1,0.0016702132919726022,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+283,3,0:00,600,600,End of 3rd Quarter,44,73,-29,0,0.0016615995857008025,Virginia Tech,Notre Dame,3,5,0,0,NA,401092046,2019-01-16,
+284,4,10:00,600,600,Jump Ball won by Virginia Tech,44,73,-29,10,0.0016615995857008025,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+285,4,9:50,590,590,Kendyl Brooks Turnover.,44,73,-29,0,0.001574122381898736,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+286,4,9:50,590,590,Abby Prohaska Steal.,44,73,-29,10,0.001574122381898736,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+287,4,9:40,580,580,Jackie Young missed Layup.,44,73,-29,0,0.0014841557330066337,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+288,4,9:40,580,580,Arike Ogunbowale Offensive Rebound.,44,73,-29,0,0.0014841557330066337,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+289,4,9:40,580,580,Regan Magarity Block.,44,73,-29,15,0.0014841557330066337,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+290,4,9:25,565,565,Arike Ogunbowale missed Jumper.,44,73,-29,0,0.0013447770491154876,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+291,4,9:25,565,565,Regan Magarity Defensive Rebound.,44,73,-29,11,0.0013447770491154876,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+292,4,9:14,554,554,Rachel Camp Turnover.,44,73,-29,0,0.0012397690709219178,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+293,4,9:14,554,554,Jackie Young Steal.,44,73,-29,27,0.0012397690709219178,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+294,4,8:47,527,527,Arike Ogunbowale missed Three Point Jumper.,44,73,-29,0,0.001020580921481618,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+295,4,8:47,527,527,Virginia Tech Defensive Rebound.,44,73,-29,23,0.001020580921481618,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+296,4,8:24,504,504,Kendyl Brooks missed Three Point Jumper.,44,73,-29,0,8.902890608994064e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+297,4,8:24,504,504,Rachel Camp Offensive Rebound.,44,73,-29,0,8.902890608994064e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+298,4,8:24,504,504,Rachel Camp missed Layup.,44,73,-29,0,8.902890608994064e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+299,4,8:24,504,504,Brianna Turner Block.,44,73,-29,0,8.902890608994064e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+300,4,8:24,504,504,Regan Magarity Offensive Rebound.,44,73,-29,0,8.902890608994064e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+301,4,8:24,504,504,Abby Prohaska Steal.,44,73,-29,0,8.902890608994064e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+302,4,8:24,504,504,Rachel Camp Turnover.,44,73,-29,30,8.902890608994064e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+303,4,7:54,474,474,Jackie Young missed Jumper.,44,73,-29,0,7.404787952267899e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+304,4,7:54,474,474,Alexis Jean Defensive Rebound.,44,73,-29,19,7.404787952267899e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+305,4,7:35,455,455,Jump Ball won by Notre Dame,44,73,-29,3,6.401395523277652e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+306,4,7:32,452,452,Regan Magarity made Jumper.,46,73,-27,16,0.0010367714547785119,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,Virginia Tech
+307,4,7:16,436,436,Foul on Regan Magarity.,46,73,-27,0,8.931061848210497e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+308,4,7:16,436,436,Jackie Young made Free Throw.,46,74,-28,0,6.887740311559342e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,Notre Dame
+309,4,7:16,436,436,Jackie Young missed Free Throw.,46,74,-28,0,6.887740311559342e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+310,4,7:16,436,436,Trinity Baptiste Defensive Rebound.,46,74,-28,29,6.887740311559342e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+311,4,6:47,407,407,Aisha Sheppard missed Three Point Jumper.,46,74,-28,0,5.010262791876163e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+312,4,6:47,407,407,Brianna Turner Defensive Rebound.,46,74,-28,12,5.010262791876163e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+313,4,6:35,395,395,Jordan Nixon Turnover.,46,74,-28,5,4.4325486155242036e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+314,4,6:30,390,390,Aisha Sheppard Turnover.,46,74,-28,0,4.212303599927907e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+315,4,6:30,390,390,Abby Prohaska Steal.,46,74,-28,6,4.212303599927907e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+316,4,6:24,384,384,Jordan Nixon missed Layup.,46,74,-28,0,3.959833071976279e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+317,4,6:24,384,384,Virginia Tech Defensive Rebound.,46,74,-28,10,3.959833071976279e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+318,4,6:14,374,374,Trinity Baptiste missed Jumper.,46,74,-28,0,3.560973440147177e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+319,4,6:14,374,374,Mikayla Vaughn Defensive Rebound.,46,74,-28,13,3.560973440147177e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+320,4,6:01,361,361,Jordan Nixon missed Layup.,46,74,-28,0,3.0711203274874296e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+321,4,6:01,361,361,Taylor Emery Defensive Rebound.,46,74,-28,27,3.0711203274874296e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+322,4,5:34,334,334,Kendyl Brooks missed Three Point Jumper.,46,74,-28,0,2.1239008432612222e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+323,4,5:34,334,334,Trinity Baptiste Offensive Rebound.,46,74,-28,22,2.1239008432612222e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+324,4,5:12,312,312,Aisha Sheppard Turnover.,46,74,-28,11,1.4333489423700428e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+325,4,5:01,301,301,Abby Prohaska Turnover.,46,74,-28,0,1.1958087021424585e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+326,4,5:01,301,301,Dara Mabrey Steal.,46,74,-28,2,1.1958087021424585e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+327,4,4:59,299,299,Foul on Jordan Nixon.,46,74,-28,0,1.172704680201786e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+328,4,4:59,299,299,Official TV Timeout,46,74,-28,16,1.172704680201786e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+329,4,4:43,283,283,Dara Mabrey made Three Point Jumper. Assisted by Kendyl Brooks.,49,74,-25,16,2.9915304245214653e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,Virginia Tech
+330,4,4:27,267,267,Danielle Patterson made Layup. Assisted by Mikayla Vaughn.,49,76,-27,22,1.7214831970914285e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,Notre Dame
+331,4,4:05,245,245,Foul on Abby Prohaska.,49,76,-27,3,2.0238068482841476e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+332,4,4:02,242,242,Dara Mabrey Turnover.,49,76,-27,4,2.0482065718402338e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+333,4,3:58,238,238,Jordan Nixon Turnover.,49,76,-27,11,2.0664389734605343e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+334,4,3:47,227,227,Regan Magarity missed Layup.,49,76,-27,0,2.0056973393676406e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+335,4,3:47,227,227,Mikayla Vaughn Defensive Rebound.,49,76,-27,10,2.0056973393676406e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+336,4,3:37,217,217,Marina Mabrey Turnover.,49,76,-27,7,1.7828102973508882e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+337,4,3:30,210,210,Dara Mabrey missed Jumper.,49,76,-27,0,1.538147638425566e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+338,4,3:30,210,210,Danielle Patterson Defensive Rebound.,49,76,-27,0,1.538147638425566e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+339,4,3:30,210,210,Danielle Patterson Defensive Rebound.,49,76,-27,34,1.538147638425566e-4,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+340,4,2:56,176,176,Jordan Nixon missed Jumper.,49,76,-27,0,3.119294824287559e-5,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+341,4,2:56,176,176,Danielle Patterson Offensive Rebound.,49,76,-27,7,3.119294824287559e-5,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+342,4,2:49,169,169,Danielle Patterson made Layup.,49,78,-29,7,9.302552482112148e-6,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,Notre Dame
+343,4,2:42,162,162,Rachel Camp made Layup.,51,78,-27,15,1.3509308007538356e-5,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,Virginia Tech
+344,4,2:27,147,147,Marina Mabrey missed Three Point Jumper.,51,78,-27,0,5.0474791728239435e-6,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+345,4,2:27,147,147,Notre Dame Offensive Rebound.,51,78,-27,9,5.0474791728239435e-6,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+346,4,2:18,138,138,Foul on Trinity Baptiste.,51,78,-27,29,2.627529835830795e-6,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+347,4,1:49,109,109,Danielle Cosgrove missed Three Point Jumper.,51,78,-27,0,2.0467874023618266e-7,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+348,4,1:49,109,109,Regan Magarity Defensive Rebound.,51,78,-27,24,2.0467874023618266e-7,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+349,4,1:25,85,85,Dara Mabrey missed Three Point Jumper.,51,78,-27,0,1.3002161376478024e-8,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+350,4,1:25,85,85,Virginia Tech Offensive Rebound.,51,78,-27,4,1.3002161376478024e-8,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+351,4,1:21,81,81,Kendyl Brooks Turnover.,51,78,-27,0,7.897665446655349e-9,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+352,4,1:21,81,81,Jordan Nixon Steal.,51,78,-27,1,7.897665446655349e-9,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+353,4,1:20,80,80,Foul on Dara Mabrey.,51,78,-27,7,6.958552706315212e-9,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+354,4,1:13,73,73,Jordan Nixon made Layup. Assisted by Maureen Butler.,51,80,-29,22,6.488398003556763e-10,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,Notre Dame
+355,4,0:51,51,51,Dara Mabrey missed Three Point Jumper.,51,80,-29,0,2.2138440198572808e-11,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+356,4,0:51,51,51,Trinity Baptiste Offensive Rebound.,51,80,-29,0,2.2138440198572808e-11,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+357,4,0:51,51,51,Dara Mabrey missed Three Point Jumper.,51,80,-29,0,2.2138440198572808e-11,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+358,4,0:51,51,51,Trinity Baptiste Offensive Rebound.,51,80,-29,9,2.2138440198572808e-11,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+359,4,0:42,42,42,Rachel Camp missed Jumper.,51,80,-29,0,4.9121791804618034e-12,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+360,4,0:42,42,42,Danielle Cosgrove Block.,51,80,-29,0,4.9121791804618034e-12,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+361,4,0:42,42,42,Nicole Benz Defensive Rebound.,51,80,-29,14,4.9121791804618034e-12,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+362,4,0:28,28,28,Maureen Butler Turnover.,51,80,-29,0,4.046296542802466e-13,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+363,4,0:28,28,28,Dara Mabrey Steal.,51,80,-29,10,4.046296542802466e-13,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+364,4,0:18,18,18,Rachel Camp Turnover.,51,80,-29,0,6.16350138802801e-14,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+365,4,0:18,18,18,Jordan Nixon Steal.,51,80,-29,18,6.16350138802801e-14,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,
+366,4,0:00,0,0,End of Game,51,80,-29,0,1.285880161551771e-252,Virginia Tech,Notre Dame,4,6,0,0,NA,401092046,2019-01-16,

@@ -1,0 +1,316 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Jump Ball won by Arizona State,0,0,0,27,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,NA
+2,1,9:33,2373,2373,Kianna Ibis missed Jumper.,0,0,0,0,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+3,1,9:33,2373,2373,DiJonai Carrington Defensive Rebound.,0,0,0,11,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+4,1,9:22,2362,2362,Alanna Smith missed Jumper.,0,0,0,0,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+5,1,9:22,2362,2362,Arizona State Defensive Rebound.,0,0,0,29,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+6,1,8:53,2333,2333,Courtney Ekmark Turnover.,0,0,0,0,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+7,1,8:53,2333,2333,DiJonai Carrington Steal.,0,0,0,7,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+8,1,8:46,2326,2326,DiJonai Carrington Turnover.,0,0,0,0,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+9,1,8:46,2326,2326,Kianna Ibis Steal.,0,0,0,15,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+10,1,8:31,2311,2311,Foul on Lacie Hull.,0,0,0,8,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+11,1,8:23,2303,2303,Robbi Ryan missed Three Point Jumper.,0,0,0,0,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+12,1,8:23,2303,2303,Kianna Ibis Offensive Rebound.,0,0,0,5,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+13,1,8:18,2298,2298,Kianna Ibis missed Layup.,0,0,0,0,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+14,1,8:18,2298,2298,Stanford Defensive Rebound.,0,0,0,29,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+15,1,7:49,2269,2269,Alyssa Jerome made Layup. Assisted by Alanna Smith.,0,2,-2,28,0.4531193833259757,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+16,1,7:21,2241,2241,Kianna Ibis missed Layup.,0,2,-2,5,0.45248611667486166,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+17,1,7:16,2236,2236,Charnea Johnson-Chapman Offensive Rebound.,0,2,-2,5,0.45237241150382773,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+18,1,7:11,2231,2231,Charnea Johnson-Chapman made Layup.,2,2,0,15,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Arizona State
+19,1,6:56,2216,2216,DiJonai Carrington made Three Point Jumper. Assisted by Alanna Smith.,2,5,-3,7,0.42815107435017075,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+20,1,6:49,2209,2209,Robbi Ryan missed Three Point Jumper.,2,5,-3,0,0.4279133452371713,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+21,1,6:49,2209,2209,Alyssa Jerome Defensive Rebound.,2,5,-3,8,0.4279133452371713,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+22,1,6:41,2201,2201,Kiana Williams missed Jumper.,2,5,-3,0,0.4276411937721093,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+23,1,6:41,2201,2201,Reili Richardson Defensive Rebound.,2,5,-3,5,0.4276411937721093,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+24,1,6:36,2196,2196,Reili Richardson made Layup.,4,5,-1,0,0.4756711037333512,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Arizona State
+25,1,6:36,2196,2196,Foul on Kiana Williams.,4,5,-1,0,0.4756711037333512,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+26,1,6:36,2196,2196,Reili Richardson made Free Throw.,5,5,0,8,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Arizona State
+27,1,6:28,2188,2188,Jenna Brown Turnover.,5,5,0,8,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+28,1,6:20,2180,2180,Jamie Ruden missed Jumper.,5,5,0,0,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+29,1,6:20,2180,2180,Iris Mbulito Offensive Rebound.,5,5,0,0,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+30,1,6:20,2180,2180,Iris Mbulito missed Layup.,5,5,0,6,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+31,1,6:14,2174,2174,Sophia Elenga Offensive Rebound.,5,5,0,10,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+32,1,6:04,2164,2164,Kiara Russell made Jumper.,7,5,2,11,0.5492808140862127,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Arizona State
+33,1,5:53,2153,2153,Foul on Iris Mbulito.,7,5,2,0,0.5495358270404799,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+34,1,5:53,2153,2153,Alanna Smith made Free Throw.,7,6,1,0,0.5248289890846521,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+35,1,5:53,2153,2153,Alanna Smith made Free Throw.,7,7,0,20,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+36,1,5:33,2133,2133,Jamie Ruden missed Jumper.,7,7,0,0,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+37,1,5:33,2133,2133,Taya Hanson Offensive Rebound.,7,7,0,5,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+38,1,5:28,2128,2128,Foul on Alyssa Jerome.,7,7,0,0,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+39,1,5:28,2128,2128,Taya Hanson missed Free Throw.,7,7,0,0,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+40,1,5:28,2128,2128,Arizona State Deadball Team Rebound.,7,7,0,0,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+41,1,5:28,2128,2128,Taya Hanson missed Free Throw.,7,7,0,0,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+42,1,5:28,2128,2128,Taya Hanson Offensive Rebound.,7,7,0,10,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+43,1,5:18,2118,2118,Jamie Ruden Turnover.,7,7,0,0,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+44,1,5:18,2118,2118,Shannon Coffee Steal.,7,7,0,0,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+45,1,5:18,2118,2118,Jump Ball won by Stanford,7,7,0,14,0.5,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+46,1,5:04,2104,2104,DiJonai Carrington made Jumper. Assisted by Anna Wilson.,7,9,-2,23,0.4493161396014054,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+47,1,4:41,2081,2081,Jamie Ruden missed Jumper.,7,9,-2,0,0.4487697008644929,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+48,1,4:41,2081,2081,Alanna Smith Block.,7,9,-2,0,0.4487697008644929,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+49,1,4:41,2081,2081,Arizona State Offensive Rebound.,7,9,-2,0,0.4487697008644929,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+50,1,4:41,2081,2081,Official TV Timeout,7,9,-2,7,0.4487697008644929,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+51,1,4:34,2074,2074,Reili Richardson missed Three Point Jumper.,7,9,-2,0,0.448602341227073,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+52,1,4:34,2074,2074,DiJonai Carrington Defensive Rebound.,7,9,-2,12,0.448602341227073,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+53,1,4:22,2062,2062,Kiana Williams Turnover.,7,9,-2,0,0.44831424313450896,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+54,1,4:22,2062,2062,Reili Richardson Steal.,7,9,-2,5,0.44831424313450896,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+55,1,4:17,2057,2057,Reili Richardson Turnover.,7,9,-2,9,0.44819374505431697,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+56,1,4:08,2048,2048,Alanna Smith Turnover.,7,9,-2,0,0.4479761524920453,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+57,1,4:08,2048,2048,Charnea Johnson-Chapman Steal.,7,9,-2,31,0.4479761524920453,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+58,1,3:37,2017,2017,Robbi Ryan missed Jumper.,7,9,-2,0,0.4472195062872298,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+59,1,3:37,2017,2017,Alanna Smith Defensive Rebound.,7,9,-2,13,0.4472195062872298,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+60,1,3:24,2004,2004,Anna Wilson missed Three Point Jumper.,7,9,-2,0,0.4468987310401092,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+61,1,3:24,2004,2004,DiJonai Carrington Offensive Rebound.,7,9,-2,6,0.4468987310401092,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+62,1,3:18,1998,1998,Alanna Smith made Layup. Assisted by Shannon Coffee.,7,11,-4,17,0.3946943197454173,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+63,1,3:01,1981,1981,Reili Richardson missed Layup.,7,11,-4,0,0.3938746929222732,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+64,1,3:01,1981,1981,DiJonai Carrington Defensive Rebound.,7,11,-4,8,0.3938746929222732,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+65,1,2:53,1973,1973,Foul on Kianna Ibis.,7,11,-4,0,0.3934865439634745,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+66,1,2:53,1973,1973,Kiana Williams made Free Throw.,7,12,-5,0,0.3679898602591419,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+67,1,2:53,1973,1973,Kiana Williams made Free Throw.,7,13,-6,22,0.34321039751140436,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+68,1,2:31,1951,1951,Charnea Johnson-Chapman made Jumper. Assisted by Taya Hanson.,9,13,-4,21,0.3924107592001998,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Arizona State
+69,1,2:10,1930,1930,DiJonai Carrington made Three Point Jumper.,9,16,-7,26,0.3158930288632477,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+70,1,1:44,1904,1904,Charnea Johnson-Chapman missed Jumper.,9,16,-7,0,0.3138467921171239,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+71,1,1:44,1904,1904,DiJonai Carrington Defensive Rebound.,9,16,-7,15,0.3138467921171239,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+72,1,1:29,1889,1889,Kiana Williams Turnover.,9,16,-7,20,0.31267117635097297,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+73,1,1:09,1869,1869,Robbi Ryan Turnover.,9,16,-7,0,0.3111059506943644,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+74,1,1:09,1869,1869,Anna Wilson Steal.,9,16,-7,4,0.3111059506943644,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+75,1,1:05,1865,1865,Anna Wilson made Layup.,9,18,-9,20,0.2642563655585755,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+76,1,0:45,1845,1845,Jamie Ruden made Layup. Assisted by Sophia Elenga.,11,18,-7,15,0.3092263023883238,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Arizona State
+77,1,0:30,1830,1830,Alanna Smith missed Three Point Jumper.,11,18,-7,0,0.30804813324808616,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+78,1,0:30,1830,1830,Taya Hanson Defensive Rebound.,11,18,-7,18,0.30804813324808616,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+79,1,0:12,1812,1812,Jamie Ruden missed Jumper.,11,18,-7,0,0.3066283422509875,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+80,1,0:12,1812,1812,Sophia Elenga Offensive Rebound.,11,18,-7,4,0.3066283422509875,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+81,1,0:08,1808,1808,Sophia Elenga missed Layup.,11,18,-7,0,0.30631170334906804,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+82,1,0:08,1808,1808,Kiana Williams Defensive Rebound.,11,18,-7,8,0.30631170334906804,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+83,1,0:00,1800,1800,End of 1st Quarter,11,18,-7,0,0.30567697989727144,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+84,2,10:00,1800,1800,Jump Ball won by Arizona State,11,18,-7,12,0.30567697989727144,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+85,2,9:48,1788,1788,Jamie Ruden missed Three Point Jumper.,11,18,-7,0,0.304720857167825,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+86,2,9:48,1788,1788,Alanna Smith Defensive Rebound.,11,18,-7,22,0.304720857167825,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+87,2,9:26,1766,1766,Kiana Williams missed Jumper.,11,18,-7,0,0.3029530898644524,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+88,2,9:26,1766,1766,Kiara Russell Defensive Rebound.,11,18,-7,10,0.3029530898644524,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+89,2,9:16,1756,1756,Kiara Russell Turnover.,11,18,-7,18,0.3021421772620275,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+90,2,8:58,1738,1738,Alanna Smith missed Layup.,11,18,-7,0,0.30066910574269007,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+91,2,8:58,1738,1738,Taya Hanson Defensive Rebound.,11,18,-7,15,0.30066910574269007,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+92,2,8:43,1723,1723,Courtney Ekmark missed Jumper.,11,18,-7,0,0.2994268532732455,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+93,2,8:43,1723,1723,Alanna Smith Defensive Rebound.,11,18,-7,8,0.2994268532732455,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+94,2,8:35,1715,1715,Kiana Williams Turnover.,11,18,-7,16,0.2987583293169268,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+95,2,8:19,1699,1699,Taya Hanson made Layup.,13,18,-5,0,0.3511354641256455,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Arizona State
+96,2,8:19,1699,1699,Foul on Alanna Smith.,13,18,-5,0,0.3511354641256455,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+97,2,8:19,1699,1699,Taya Hanson missed Free Throw.,13,18,-5,0,0.3511354641256455,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+98,2,8:19,1699,1699,Kianna Ibis Offensive Rebound.,13,18,-5,5,0.3511354641256455,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+99,2,8:14,1694,1694,Courtney Ekmark missed Three Point Jumper.,13,18,-5,0,0.3508036415370671,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+100,2,8:14,1694,1694,DiJonai Carrington Defensive Rebound.,13,18,-5,16,0.3508036415370671,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+101,2,7:58,1678,1678,DiJonai Carrington Turnover.,13,18,-5,18,0.349743364213726,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+102,2,7:40,1660,1660,Sophia Elenga missed Jumper.,13,18,-5,0,0.3485791161779443,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+103,2,7:40,1660,1660,Kianna Ibis Offensive Rebound.,13,18,-5,5,0.3485791161779443,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+104,2,7:35,1655,1655,Taya Hanson missed Three Point Jumper.,13,18,-5,0,0.3482604397117185,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+105,2,7:35,1655,1655,DiJonai Carrington Defensive Rebound.,13,18,-5,16,0.3482604397117185,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+106,2,7:19,1639,1639,Alanna Smith made Layup.,13,20,-7,15,0.2924326718048656,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+107,2,7:04,1624,1624,Taya Hanson missed Three Point Jumper.,13,20,-7,0,0.2912397942662524,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+108,2,7:04,1624,1624,Stanford Defensive Rebound.,13,20,-7,2,0.2912397942662524,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+109,2,7:02,1622,1622,Arizona State  Timeout,13,20,-7,0,0.2910816437175587,Arizona State,Stanford,3,4,1,0,NA,401094283,2019-01-11,
+110,2,7:02,1622,1622,Official TV Timeout,13,20,-7,19,0.2910816437175587,Arizona State,Stanford,3,4,1,0,NA,401094283,2019-01-11,
+111,2,6:43,1603,1603,DiJonai Carrington missed Layup.,13,20,-7,0,0.28958593114688874,Arizona State,Stanford,3,4,1,0,NA,401094283,2019-01-11,
+112,2,6:43,1603,1603,Alanna Smith Offensive Rebound.,13,20,-7,5,0.28958593114688874,Arizona State,Stanford,3,4,1,0,NA,401094283,2019-01-11,
+113,2,6:38,1598,1598,Alanna Smith made Jumper.,13,22,-9,19,0.23934967421141456,Arizona State,Stanford,3,4,1,0,NA,401094283,2019-01-11,Stanford
+114,2,6:19,1579,1579,Kianna Ibis Turnover.,13,22,-9,0,0.23765241073237375,Arizona State,Stanford,3,4,1,0,NA,401094283,2019-01-11,
+115,2,6:19,1579,1579,Lacie Hull Steal.,13,22,-9,6,0.23765241073237375,Arizona State,Stanford,3,4,1,0,NA,401094283,2019-01-11,
+116,2,6:13,1573,1573,Foul on Lexie Hull.,13,22,-9,0,0.23711549377405164,Arizona State,Stanford,3,4,1,0,NA,401094283,2019-01-11,
+117,2,6:13,1573,1573,Lexie Hull Turnover.,13,22,-9,21,0.23711549377405164,Arizona State,Stanford,3,4,1,0,NA,401094283,2019-01-11,
+118,2,5:52,1552,1552,Jayde Van Hyfte Turnover.,13,22,-9,0,0.23522510164018387,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,
+119,2,5:52,1552,1552,Kiana Williams Steal.,13,22,-9,0,0.23522510164018387,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,
+120,2,5:52,1552,1552,Jump Ball won by Stanford,13,22,-9,14,0.23522510164018387,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,
+121,2,5:38,1538,1538,DiJonai Carrington made Jumper.,13,24,-11,23,0.19004299368704694,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,Stanford
+122,2,5:15,1515,1515,Iris Mbulito Turnover.,13,24,-11,0,0.1878031469810611,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,
+123,2,5:15,1515,1515,Lacie Hull Steal.,13,24,-11,4,0.1878031469810611,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,
+124,2,5:11,1511,1511,Foul on Iris Mbulito.,13,24,-11,13,0.18740752865562993,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,
+125,2,4:58,1498,1498,Alanna Smith missed Jumper.,13,24,-11,0,0.18610688563555175,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,
+126,2,4:58,1498,1498,Robbi Ryan Defensive Rebound.,13,24,-11,7,0.18610688563555175,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,
+127,2,4:51,1491,1491,Courtney Ekmark missed Three Point Jumper.,13,24,-11,0,0.1853962044529155,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,
+128,2,4:51,1491,1491,Kiara Russell Offensive Rebound.,13,24,-11,5,0.1853962044529155,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,
+129,2,4:46,1486,1486,Kiara Russell made Layup.,15,24,-9,8,0.22901923721647283,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,Arizona State
+130,2,4:38,1478,1478,Foul on Charnea Johnson-Chapman.,15,24,-9,10,0.22822428289429084,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,
+131,2,4:28,1468,1468,Alanna Smith Turnover.,15,24,-9,20,0.22721359685199885,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,
+132,2,4:08,1448,1448,Robbi Ryan missed Jumper.,15,24,-9,0,0.2251308206370347,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,
+133,2,4:08,1448,1448,Stanford Defensive Rebound.,15,24,-9,17,0.2251308206370347,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,
+134,2,3:51,1431,1431,Foul on Robbi Ryan.,15,24,-9,5,0.22337630221855864,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,
+135,2,3:46,1426,1426,Kiana Williams made Three Point Jumper.,15,27,-12,25,0.1590471819195028,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,Stanford
+136,2,3:21,1401,1401,Kianna Ibis made Jumper. Assisted by Kiara Russell.,17,27,-10,14,0.19725487366089117,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,Arizona State
+137,2,3:07,1387,1387,Alanna Smith made Layup.,17,29,-12,29,0.15516975516474912,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,Stanford
+138,2,2:38,1358,1358,Courtney Ekmark missed Three Point Jumper.,17,29,-12,0,0.15239848658157332,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,
+139,2,2:38,1358,1358,DiJonai Carrington Defensive Rebound.,17,29,-12,4,0.15239848658157332,Arizona State,Stanford,3,4,0,0,NA,401094283,2019-01-11,
+140,2,2:34,1354,1354,Stanford  Timeout,17,29,-12,17,0.15201874278687563,Arizona State,Stanford,3,3,0,1,NA,401094283,2019-01-11,
+141,2,2:17,1337,1337,DiJonai Carrington missed Jumper.,17,29,-12,0,0.1504026307747702,Arizona State,Stanford,3,3,0,1,NA,401094283,2019-01-11,
+142,2,2:17,1337,1337,Charnea Johnson-Chapman Defensive Rebound.,17,29,-12,16,0.1504026307747702,Arizona State,Stanford,3,3,0,1,NA,401094283,2019-01-11,
+143,2,2:01,1321,1321,Charnea Johnson-Chapman made Jumper. Assisted by Courtney Ekmark.,19,29,-10,30,0.18955303461817727,Arizona State,Stanford,3,3,0,1,NA,401094283,2019-01-11,Arizona State
+144,2,1:31,1291,1291,Anna Wilson Turnover.,19,29,-10,0,0.1865663398637468,Arizona State,Stanford,3,3,0,0,NA,401094283,2019-01-11,
+145,2,1:31,1291,1291,Charnea Johnson-Chapman Steal.,19,29,-10,6,0.1865663398637468,Arizona State,Stanford,3,3,0,0,NA,401094283,2019-01-11,
+146,2,1:25,1285,1285,Courtney Ekmark made Three Point Jumper. Assisted by Reili Richardson.,22,29,-7,15,0.262391008451138,Arizona State,Stanford,3,3,0,0,NA,401094283,2019-01-11,Arizona State
+147,2,1:10,1270,1270,Alanna Smith missed Jumper.,22,29,-7,0,0.26098058154435805,Arizona State,Stanford,3,3,0,0,NA,401094283,2019-01-11,
+148,2,1:10,1270,1270,Charnea Johnson-Chapman Block.,22,29,-7,0,0.26098058154435805,Arizona State,Stanford,3,3,0,0,NA,401094283,2019-01-11,
+149,2,1:10,1270,1270,Kianna Ibis Defensive Rebound.,22,29,-7,20,0.26098058154435805,Arizona State,Stanford,3,3,0,0,NA,401094283,2019-01-11,
+150,2,0:50,1250,1250,Charnea Johnson-Chapman missed Jumper.,22,29,-7,0,0.25901373299004005,Arizona State,Stanford,3,3,0,0,NA,401094283,2019-01-11,
+151,2,0:50,1250,1250,Kiana Williams Defensive Rebound.,22,29,-7,6,0.25901373299004005,Arizona State,Stanford,3,3,0,0,NA,401094283,2019-01-11,
+152,2,0:44,1244,1244,Lacie Hull made Three Point Jumper. Assisted by Kiana Williams.,22,32,-10,23,0.18151291091005553,Arizona State,Stanford,3,3,0,0,NA,401094283,2019-01-11,Stanford
+153,2,0:21,1221,1221,Kianna Ibis missed Jumper.,22,32,-10,0,0.1788048190438593,Arizona State,Stanford,3,3,0,0,NA,401094283,2019-01-11,
+154,2,0:21,1221,1221,Kiana Williams Defensive Rebound.,22,32,-10,20,0.1788048190438593,Arizona State,Stanford,3,3,0,0,NA,401094283,2019-01-11,
+155,2,0:01,1201,1201,Kiana Williams made Layup.,22,34,-12,1,0.13590272851805288,Arizona State,Stanford,3,3,0,0,NA,401094283,2019-01-11,Stanford
+156,2,0:00,1200,1200,End of 2nd Quarter,22,34,-12,0,0.13578366491085198,Arizona State,Stanford,3,3,0,0,NA,401094283,2019-01-11,
+157,3,10:00,1200,1200,Jump Ball won by Arizona State,22,34,-12,21,0.13578366491085198,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+158,3,9:39,1179,1179,Kianna Ibis missed Three Point Jumper.,22,34,-12,0,0.1333515474224936,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+159,3,9:39,1179,1179,Charnea Johnson-Chapman Offensive Rebound.,22,34,-12,4,0.1333515474224936,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+160,3,9:35,1175,1175,Charnea Johnson-Chapman made Layup.,24,34,-10,22,0.17322292516000634,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Arizona State
+161,3,9:13,1153,1153,DiJonai Carrington missed Three Point Jumper.,24,34,-10,0,0.17071005484451132,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+162,3,9:13,1153,1153,Reili Richardson Defensive Rebound.,24,34,-10,9,0.17071005484451132,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+163,3,9:04,1144,1144,Charnea Johnson-Chapman made Layup. Assisted by Reili Richardson.,26,34,-8,18,0.21922287021999662,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Arizona State
+164,3,8:46,1126,1126,Alyssa Jerome missed Layup.,26,34,-8,0,0.21727389412234507,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+165,3,8:46,1126,1126,Charnea Johnson-Chapman Block.,26,34,-8,0,0.21727389412234507,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+166,3,8:46,1126,1126,Robbi Ryan Defensive Rebound.,26,34,-8,19,0.21727389412234507,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+167,3,8:27,1107,1107,Courtney Ekmark made Three Point Jumper. Assisted by Charnea Johnson-Chapman.,29,34,-5,19,0.3081861544858667,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Arizona State
+168,3,8:08,1088,1088,Alyssa Jerome missed Jumper.,29,34,-5,0,0.30653556584780967,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+169,3,8:08,1088,1088,Reili Richardson Defensive Rebound.,29,34,-5,35,0.30653556584780967,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+170,3,7:33,1053,1053,Iris Mbulito missed Jumper.,29,34,-5,0,0.30335560834502706,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+171,3,7:33,1053,1053,Shannon Coffee Defensive Rebound.,29,34,-5,6,0.30335560834502706,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+172,3,7:27,1047,1047,Shannon Coffee missed Three Point Jumper.,29,34,-5,0,0.30278544491739434,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+173,3,7:27,1047,1047,Kiara Russell Defensive Rebound.,29,34,-5,11,0.30278544491739434,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+174,3,7:16,1036,1036,Taya Hanson missed Jumper.,29,34,-5,0,0.3017166501419558,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+175,3,7:16,1036,1036,Shannon Coffee Block.,29,34,-5,0,0.3017166501419558,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+176,3,7:16,1036,1036,Alanna Smith Defensive Rebound.,29,34,-5,7,0.3017166501419558,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+177,3,7:09,1029,1029,Foul on DiJonai Carrington.,29,34,-5,0,0.30101930544575817,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+178,3,7:09,1029,1029,DiJonai Carrington Turnover.,29,34,-5,29,0.30101930544575817,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+179,3,6:40,1000,1000,Taya Hanson missed Three Point Jumper.,29,34,-5,0,0.29796581634190966,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+180,3,6:40,1000,1000,Arizona State Offensive Rebound.,29,34,-5,0,0.29796581634190966,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+181,3,6:40,1000,1000,Taya Hanson Turnover.,29,34,-5,12,0.29796581634190966,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+182,3,6:28,988,988,Alanna Smith made Layup. Assisted by Shannon Coffee.,29,36,-7,10,0.22990261002023124,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+183,3,6:18,978,978,Iris Mbulito made Layup.,31,36,-5,8,0.29544405941027274,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Arizona State
+184,3,6:10,970,970,DiJonai Carrington missed Three Point Jumper.,31,36,-5,0,0.2944770635235976,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+185,3,6:10,970,970,Jamie Ruden Defensive Rebound.,31,36,-5,25,0.2944770635235976,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+186,3,5:45,945,945,Iris Mbulito made Layup.,33,36,-3,0,0.36993412927323976,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Arizona State
+187,3,5:45,945,945,Foul on Shannon Coffee.,33,36,-3,0,0.36993412927323976,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+188,3,5:45,945,945,Iris Mbulito missed Free Throw.,33,36,-3,0,0.36993412927323976,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+189,3,5:45,945,945,Lexie Hull Defensive Rebound.,33,36,-3,10,0.36993412927323976,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+190,3,5:35,935,935,Foul on Kianna Ibis.,33,36,-3,3,0.3692312153978319,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+191,3,5:32,932,932,Lexie Hull made Layup.,33,38,-5,24,0.29028659880961627,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+192,3,5:08,908,908,Courtney Ekmark made Jumper.,35,38,-3,20,0.3674678204841126,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Arizona State
+193,3,4:48,888,888,Foul on Charnea Johnson-Chapman.,35,38,-3,0,0.3662376722948604,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+194,3,4:48,888,888,Official TV Timeout,35,38,-3,0,0.3662376722948604,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+195,3,4:48,888,888,Alanna Smith made Free Throw.,35,39,-4,0,0.3249339351011338,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+196,3,4:48,888,888,Alanna Smith made Free Throw.,35,40,-5,22,0.28618490328955754,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+197,3,4:26,866,866,Robbi Ryan made Jumper.,37,40,-3,23,0.36489959178655085,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Arizona State
+198,3,4:03,843,843,DiJonai Carrington missed Jumper.,37,40,-3,0,0.36345500757210303,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+199,3,4:03,843,843,Lexie Hull Offensive Rebound.,37,40,-3,5,0.36345500757210303,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+200,3,3:58,838,838,Lexie Hull missed Layup.,37,40,-3,0,0.36312831082149266,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+201,3,3:58,838,838,Sophia Elenga Defensive Rebound.,37,40,-3,8,0.36312831082149266,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+202,3,3:50,830,830,Foul on Robbi Ryan.,37,40,-3,0,0.36259274550246423,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+203,3,3:50,830,830,Robbi Ryan Turnover.,37,40,-3,17,0.36259274550246423,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+204,3,3:33,813,813,Alanna Smith made Jumper. Assisted by Lacie Hull.,37,42,-5,24,0.2791080388796656,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+205,3,3:09,789,789,Kianna Ibis made Jumper. Assisted by Courtney Ekmark.,39,42,-3,16,0.3595005521202124,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Arizona State
+206,3,2:53,773,773,Alanna Smith missed Three Point Jumper.,39,42,-3,0,0.35808237683350685,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+207,3,2:53,773,773,Taya Hanson Defensive Rebound.,39,42,-3,10,0.35808237683350685,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+208,3,2:43,763,763,Sophia Elenga made Layup.,41,42,-1,17,0.4511656935293653,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Arizona State
+209,3,2:26,746,746,Alyssa Jerome Turnover.,41,42,-1,0,0.45052249575519476,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+210,3,2:26,746,746,Taya Hanson Steal.,41,42,-1,5,0.45052249575519476,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+211,3,2:21,741,741,Taya Hanson missed Jumper.,41,42,-1,0,0.45031888350509447,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+212,3,2:21,741,741,Lacie Hull Defensive Rebound.,41,42,-1,13,0.45031888350509447,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+213,3,2:08,728,728,Lacie Hull missed Three Point Jumper.,41,42,-1,0,0.44975739918281593,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+214,3,2:08,728,728,Lexie Hull Offensive Rebound.,41,42,-1,4,0.44975739918281593,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+215,3,2:04,724,724,Foul on Kianna Ibis.,41,42,-1,0,0.4495844560438734,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+216,3,2:04,724,724,Lexie Hull made Free Throw.,41,43,-2,0,0.4001837349008176,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+217,3,2:04,724,724,Lexie Hull made Free Throw.,41,44,-3,19,0.35273256154236504,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+218,3,1:45,705,705,Kiara Russell made Layup. Assisted by Robbi Ryan.,43,44,-1,13,0.4488278761327404,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Arizona State
+219,3,1:32,692,692,Foul on Sophia Elenga.,43,44,-1,0,0.44835835769795945,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+220,3,1:32,692,692,Alanna Smith made Free Throw.,43,45,-2,0,0.39780685432681395,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+221,3,1:32,692,692,Alanna Smith made Free Throw.,43,46,-3,3,0.34934548182368247,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+222,3,1:29,689,689,Foul on Alanna Smith.,43,46,-3,1,0.34905790225850303,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+223,3,1:28,688,688,Robbi Ryan Turnover.,43,46,-3,0,0.3489628180855834,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+224,3,1:28,688,688,Alanna Smith Steal.,43,46,-3,6,0.3489628180855834,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+225,3,1:22,682,682,Kiana Williams missed Three Point Jumper.,43,46,-3,0,0.34839939754286436,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+226,3,1:22,682,682,Arizona State Defensive Rebound.,43,46,-3,29,0.34839939754286436,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+227,3,0:53,653,653,Kiara Russell missed Jumper.,43,46,-3,0,0.34575562535333076,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+228,3,0:53,653,653,Arizona State Offensive Rebound.,43,46,-3,5,0.34575562535333076,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+229,3,0:48,648,648,Charnea Johnson-Chapman made Jumper. Assisted by Courtney Ekmark.,45,46,-1,12,0.4468860897198802,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Arizona State
+230,3,0:36,636,636,Anna Wilson made Layup. Assisted by Lacie Hull.,45,48,-3,29,0.344165549885496,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+231,3,0:07,607,607,Reili Richardson made Layup.,47,48,-1,6,0.4453665076344338,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Arizona State
+232,3,0:01,601,601,DiJonai Carrington made Three Point Jumper.,47,51,-4,1,0.29280256210093664,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,Stanford
+233,3,0:00,600,600,End of 3rd Quarter,47,51,-4,0,0.2926546588354372,Arizona State,Stanford,4,4,0,0,NA,401094283,2019-01-11,
+234,4,10:00,600,600,Jump Ball won by Stanford,47,51,-4,9,0.2926546588354372,Arizona State,Stanford,5,5,0,0,NA,401094283,2019-01-11,
+235,4,9:51,591,591,Alanna Smith made Layup. Assisted by DiJonai Carrington.,47,53,-6,25,0.2085260044549917,Arizona State,Stanford,5,5,0,0,NA,401094283,2019-01-11,Stanford
+236,4,9:26,566,566,Courtney Ekmark missed Three Point Jumper.,47,53,-6,0,0.2032386570137018,Arizona State,Stanford,5,5,0,0,NA,401094283,2019-01-11,
+237,4,9:26,566,566,DiJonai Carrington Defensive Rebound.,47,53,-6,25,0.2032386570137018,Arizona State,Stanford,5,5,0,0,NA,401094283,2019-01-11,
+238,4,9:01,541,541,Lacie Hull made Layup.,47,55,-8,13,0.13311953559654008,Arizona State,Stanford,5,5,0,0,NA,401094283,2019-01-11,Stanford
+239,4,8:48,528,528,Courtney Ekmark missed Jumper.,47,55,-8,0,0.13034220797017101,Arizona State,Stanford,5,5,0,0,NA,401094283,2019-01-11,
+240,4,8:48,528,528,Kiana Williams Defensive Rebound.,47,55,-8,9,0.13034220797017101,Arizona State,Stanford,5,5,0,0,NA,401094283,2019-01-11,
+241,4,8:39,519,519,Alanna Smith made Layup. Assisted by Kiana Williams.,47,57,-10,5,0.08381923139227687,Arizona State,Stanford,5,5,0,0,NA,401094283,2019-01-11,Stanford
+242,4,8:34,514,514,Arizona State  Timeout,47,57,-10,19,0.08303857287873163,Arizona State,Stanford,4,5,1,0,NA,401094283,2019-01-11,
+243,4,8:15,495,495,Kiara Russell missed Jumper.,47,57,-10,0,0.0801886254624789,Arizona State,Stanford,4,5,1,0,NA,401094283,2019-01-11,
+244,4,8:15,495,495,Kianna Ibis Offensive Rebound.,47,57,-10,23,0.0801886254624789,Arizona State,Stanford,4,5,1,0,NA,401094283,2019-01-11,
+245,4,7:52,472,472,Foul on Alanna Smith.,47,57,-10,12,0.07655384085596609,Arizona State,Stanford,4,5,1,0,NA,401094283,2019-01-11,
+246,4,7:40,460,460,Charnea Johnson-Chapman made Layup. Assisted by Taya Hanson.,49,57,-8,10,0.11743316605644505,Arizona State,Stanford,4,5,1,0,NA,401094283,2019-01-11,Arizona State
+247,4,7:30,450,450,Anna Wilson made Layup. Assisted by Kiana Williams.,49,59,-10,31,0.07236374540859879,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,Stanford
+248,4,6:59,419,419,Robbi Ryan missed Three Point Jumper.,49,59,-10,0,0.06486297676215767,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+249,4,6:59,419,419,Kianna Ibis Offensive Rebound.,49,59,-10,6,0.06486297676215767,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+250,4,6:53,413,413,Foul on Anna Wilson.,49,59,-10,6,0.06348550388999485,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+251,4,6:47,407,407,Taya Hanson missed Layup.,49,59,-10,0,0.06216996469224226,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+252,4,6:47,407,407,Arizona State Offensive Rebound.,49,59,-10,9,0.06216996469224226,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+253,4,6:38,398,398,Foul on Kiara Russell.,49,59,-10,0,0.060280416981130215,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+254,4,6:38,398,398,Kiara Russell Turnover.,49,59,-10,11,0.060280416981130215,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+255,4,6:27,387,387,Lacie Hull missed Jumper.,49,59,-10,0,0.05804822990914093,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+256,4,6:27,387,387,Kianna Ibis Defensive Rebound.,49,59,-10,10,0.05804822990914093,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+257,4,6:17,377,377,Foul on Alanna Smith.,49,59,-10,0,0.05603442486034905,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+258,4,6:17,377,377,Robbi Ryan made Free Throw.,50,59,-9,0,0.0729853170350897,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,Arizona State
+259,4,6:17,377,377,Robbi Ryan made Free Throw.,51,59,-8,16,0.09455038430713933,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,Arizona State
+260,4,6:01,361,361,Anna Wilson Turnover.,51,59,-8,0,0.0902279759477803,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+261,4,6:01,361,361,Iris Mbulito Steal.,51,59,-8,4,0.0902279759477803,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+262,4,5:57,357,357,Iris Mbulito Turnover.,51,59,-8,0,0.08909270521232686,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+263,4,5:57,357,357,Shannon Coffee Steal.,51,59,-8,11,0.08909270521232686,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+264,4,5:46,346,346,Anna Wilson missed Layup.,51,59,-8,0,0.0858176389777497,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+265,4,5:46,346,346,Taya Hanson Block.,51,59,-8,0,0.0858176389777497,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+266,4,5:46,346,346,DiJonai Carrington Offensive Rebound.,51,59,-8,8,0.0858176389777497,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+267,4,5:38,338,338,DiJonai Carrington Turnover.,51,59,-8,0,0.08327221374882975,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+268,4,5:38,338,338,Taya Hanson Steal.,51,59,-8,4,0.08327221374882975,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+269,4,5:34,334,334,Iris Mbulito missed Jumper.,51,59,-8,0,0.0819419478209506,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+270,4,5:34,334,334,Lexie Hull Defensive Rebound.,51,59,-8,17,0.0819419478209506,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+271,4,5:17,317,317,Kiana Williams made Jumper.,51,61,-10,0,0.04206292388253968,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,Stanford
+272,4,5:17,317,317,Foul on Kiara Russell.,51,61,-10,0,0.04206292388253968,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+273,4,5:17,317,317,Kiana Williams made Free Throw.,51,62,-11,15,0.031123410820966202,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,Stanford
+274,4,5:02,302,302,Kianna Ibis made Layup. Assisted by Charnea Johnson-Chapman.,53,62,-9,13,0.05218637622754873,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,Arizona State
+275,4,4:49,289,289,DiJonai Carrington Turnover.,53,62,-9,0,0.0509969837883867,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+276,4,4:49,289,289,Charnea Johnson-Chapman Steal.,53,62,-9,21,0.0509969837883867,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+277,4,4:28,268,268,Robbi Ryan missed Jumper.,53,62,-9,0,0.052567744439899373,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+278,4,4:28,268,268,Charnea Johnson-Chapman Offensive Rebound.,53,62,-9,14,0.052567744439899373,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+279,4,4:14,254,254,Robbi Ryan made Three Point Jumper. Assisted by Reili Richardson.,56,62,-6,23,0.12982116347523923,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,Arizona State
+280,4,3:51,231,231,Kiana Williams missed Three Point Jumper.,56,62,-6,0,0.13155329810941827,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+281,4,3:51,231,231,Courtney Ekmark Defensive Rebound.,56,62,-6,6,0.13155329810941827,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+282,4,3:45,225,225,Foul on DiJonai Carrington.,56,62,-6,0,0.1306137598145136,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+283,4,3:45,225,225,Official TV Timeout,56,62,-6,13,0.1306137598145136,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+284,4,3:32,212,212,Robbi Ryan made Jumper.,58,62,-4,21,0.21525584815280954,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,Arizona State
+285,4,3:11,191,191,Foul on Robbi Ryan.,58,62,-4,0,0.19607498143067248,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+286,4,3:11,191,191,DiJonai Carrington made Free Throw.,58,63,-5,0,0.14631991722030271,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,Stanford
+287,4,3:11,191,191,DiJonai Carrington made Free Throw.,58,64,-6,15,0.10750214687158342,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,Stanford
+288,4,2:56,176,176,Charnea Johnson-Chapman missed Layup.,58,64,-6,0,0.09065863258239472,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+289,4,2:56,176,176,Lexie Hull Block.,58,64,-6,0,0.09065863258239472,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+290,4,2:56,176,176,Charnea Johnson-Chapman Offensive Rebound.,58,64,-6,7,0.09065863258239472,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+291,4,2:49,169,169,Charnea Johnson-Chapman made Jumper.,60,64,-4,0,0.16826687919376096,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,Arizona State
+292,4,2:49,169,169,Charnea Johnson-Chapman Offensive Rebound.,60,64,-4,0,0.16826687919376096,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+293,4,2:49,169,169,Charnea Johnson-Chapman missed Layup.,60,64,-4,15,0.16826687919376096,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+294,4,2:34,154,154,Kiana Williams Turnover.,60,64,-4,0,0.14972566989873978,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+295,4,2:34,154,154,Robbi Ryan Steal.,60,64,-4,6,0.14972566989873978,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+296,4,2:28,148,148,Reili Richardson missed Layup.,60,64,-4,0,0.1422614566767474,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+297,4,2:28,148,148,Lexie Hull Defensive Rebound.,60,64,-4,12,0.1422614566767474,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+298,4,2:16,136,136,Alanna Smith made Three Point Jumper. Assisted by Kiana Williams.,60,67,-7,19,0.03321641607110035,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,Stanford
+299,4,1:57,117,117,Robbi Ryan made Jumper. Assisted by Kianna Ibis.,62,67,-5,24,0.06255991584942738,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,Arizona State
+300,4,1:33,93,93,Lacie Hull made Layup.,62,69,-7,0,0.011472021312986731,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,Stanford
+301,4,1:33,93,93,Foul on Courtney Ekmark.,62,69,-7,0,0.011472021312986731,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+302,4,1:33,93,93,Lacie Hull made Free Throw.,62,70,-8,9,0.006102588794039983,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,Stanford
+303,4,1:24,84,84,Courtney Ekmark missed Three Point Jumper.,62,70,-8,0,0.00442168647867207,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+304,4,1:24,84,84,Arizona State Offensive Rebound.,62,70,-8,10,0.00442168647867207,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+305,4,1:14,74,74,Courtney Ekmark made Three Point Jumper. Assisted by Reili Richardson.,65,70,-5,31,0.026013408685017652,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,Arizona State
+306,4,0:43,43,43,Kiana Williams missed Jumper.,65,70,-5,0,0.011430585529614127,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+307,4,0:43,43,43,DiJonai Carrington Offensive Rebound.,65,70,-5,0,0.011430585529614127,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+308,4,0:43,43,43,DiJonai Carrington made Two Point Tip Shot.,65,72,-7,12,0.0019383990052115906,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,Stanford
+309,4,0:31,31,31,Courtney Ekmark missed Three Point Jumper.,65,72,-7,0,0.001163017203532151,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+310,4,0:31,31,31,Arizona State Offensive Rebound.,65,72,-7,5,0.001163017203532151,Arizona State,Stanford,4,5,0,0,NA,401094283,2019-01-11,
+311,4,0:26,26,26,Arizona State  Timeout,65,72,-7,7,9.321919274303346e-4,Arizona State,Stanford,3,5,1,0,NA,401094283,2019-01-11,
+312,4,0:19,19,19,Courtney Ekmark missed Jumper.,65,72,-7,0,6.782111201505494e-4,Arizona State,Stanford,3,5,1,0,NA,401094283,2019-01-11,
+313,4,0:19,19,19,Alanna Smith Defensive Rebound.,65,72,-7,5,6.782111201505494e-4,Arizona State,Stanford,3,5,1,0,NA,401094283,2019-01-11,
+314,4,0:14,14,14,Stanford  Timeout,65,72,-7,14,5.350425085883905e-4,Arizona State,Stanford,3,4,1,1,NA,401094283,2019-01-11,
+315,4,0:00,0,0,End of Game,65,72,-7,0,1.580420060273613e-61,Arizona State,Stanford,3,4,1,1,NA,401094283,2019-01-11,

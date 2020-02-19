@@ -1,0 +1,338 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Jump Ball won by Baylor,0,0,0,10,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,NA
+2,1,9:50,2390,2390,Chloe Jackson missed Jumper.,0,0,0,0,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+3,1,9:50,2390,2390,Kalani Brown Offensive Rebound.,0,0,0,6,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+4,1,9:44,2384,2384,Kalani Brown made Layup.,2,0,2,28,0.5443630098696349,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,Baylor
+5,1,9:16,2356,2356,Recee' Caldwell made Layup.,2,2,0,18,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,California
+6,1,8:58,2338,2338,Lauren Cox made Layup. Assisted by Chloe Jackson.,4,2,2,16,0.5453512728162102,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,Baylor
+7,1,8:42,2322,2322,Kristine Anigwe missed Jumper.,4,2,2,0,0.5457013472490212,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+8,1,8:42,2322,2322,DiDi Richards Defensive Rebound.,4,2,2,14,0.5457013472490212,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+9,1,8:28,2308,2308,Foul on Kristine Anigwe.,4,2,2,20,0.5460100625768887,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+10,1,8:08,2288,2288,DiDi Richards missed Jumper.,4,2,2,0,0.5464546722449519,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+11,1,8:08,2288,2288,Kianna Smith Defensive Rebound.,4,2,2,2,0.5464546722449519,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+12,1,8:06,2286,2286,Jump Ball won by California,4,2,2,11,0.5464993514705677,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+13,1,7:55,2275,2275,Kristine Anigwe missed Jumper.,4,2,2,0,0.5467457551815094,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+14,1,7:55,2275,2275,Kalani Brown Block.,4,2,2,0,0.5467457551815094,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+15,1,7:55,2275,2275,Chloe Jackson Defensive Rebound.,4,2,2,24,0.5467457551815094,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+16,1,7:31,2251,2251,DiDi Richards Turnover.,4,2,2,4,0.5472870146485976,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+17,1,7:27,2247,2247,Kristine Anigwe missed Jumper.,4,2,2,0,0.5473776731412484,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+18,1,7:27,2247,2247,Lauren Cox Defensive Rebound.,4,2,2,10,0.5473776731412484,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+19,1,7:17,2237,2237,Lauren Cox made Jumper. Assisted by Juicy Landrum.,6,2,4,15,0.5943543560353107,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,Baylor
+20,1,7:02,2222,2222,Kianna Smith made Three Point Jumper.,6,5,1,21,0.5240287954002141,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,California
+21,1,6:41,2201,2201,Juicy Landrum missed Jumper.,6,5,1,0,0.5242710400022217,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+22,1,6:41,2201,2201,Jaelyn Brown Defensive Rebound.,6,5,1,30,0.5242710400022217,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+23,1,6:11,2171,2171,Kristine Anigwe missed Jumper.,6,5,1,0,0.5246190423169371,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+24,1,6:11,2171,2171,Juicy Landrum Defensive Rebound.,6,5,1,3,0.5246190423169371,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+25,1,6:08,2168,2168,Jump Ball won by Baylor,6,5,1,14,0.5246539484179567,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+26,1,5:54,2154,2154,Chloe Jackson made Jumper.,8,5,3,26,0.5739663479675535,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,Baylor
+27,1,5:28,2128,2128,Foul on Lauren Cox.,8,5,3,0,0.5748646712882423,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+28,1,5:28,2128,2128,Jaelyn Brown made Free Throw.,8,6,2,0,0.5501189748240702,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,California
+29,1,5:28,2128,2128,Jaelyn Brown made Free Throw.,8,7,1,25,0.5251227528657562,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,California
+30,1,5:03,2103,2103,DiDi Richards Turnover.,8,7,1,13,0.5254192842743747,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+31,1,4:50,2090,2090,Asha Thomas missed Jumper.,8,7,1,0,0.5255746628182693,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+32,1,4:50,2090,2090,Kalani Brown Defensive Rebound.,8,7,1,10,0.5255746628182693,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+33,1,4:40,2080,2080,Kalani Brown missed Jumper.,8,7,1,0,0.5256947665647138,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+34,1,4:40,2080,2080,Recee' Caldwell Defensive Rebound.,8,7,1,11,0.5256947665647138,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+35,1,4:29,2069,2069,Kianna Smith made Jumper.,8,9,-1,23,0.4741725126841792,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,California
+36,1,4:06,2046,2046,Juicy Landrum made Jumper.,10,9,1,25,0.5261071456788048,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,Baylor
+37,1,3:41,2021,2021,Foul on Kalani Brown.,10,9,1,0,0.5264146244831973,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+38,1,3:41,2021,2021,Official TV Timeout,10,9,1,0,0.5264146244831973,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+39,1,3:41,2021,2021,Kristine Anigwe made Free Throw.,10,10,0,0,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,California
+40,1,3:41,2021,2021,Kristine Anigwe missed Free Throw.,10,10,0,0,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+41,1,3:41,2021,2021,Lauren Cox Defensive Rebound.,10,10,0,7,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+42,1,3:34,2014,2014,Chloe Jackson missed Jumper.,10,10,0,0,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+43,1,3:34,2014,2014,Kristine Anigwe Defensive Rebound.,10,10,0,10,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+44,1,3:24,2004,2004,Foul on Kristine Anigwe.,10,10,0,0,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+45,1,3:24,2004,2004,Kristine Anigwe Turnover.,10,10,0,15,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+46,1,3:09,1989,1989,Lauren Cox Turnover.,10,10,0,0,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+47,1,3:09,1989,1989,Kianna Smith Steal.,10,10,0,7,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+48,1,3:02,1982,1982,Kianna Smith made Jumper.,10,12,-2,15,0.44635092406702026,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,California
+49,1,2:47,1967,1967,Kalani Brown made Layup. Assisted by Juicy Landrum.,12,12,0,16,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,Baylor
+50,1,2:31,1951,1951,Kristine Anigwe missed Layup.,12,12,0,0,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+51,1,2:31,1951,1951,Lauren Cox Block.,12,12,0,0,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+52,1,2:31,1951,1951,Kristine Anigwe Offensive Rebound.,12,12,0,2,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+53,1,2:29,1949,1949,Foul on Chloe Jackson.,12,12,0,0,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+54,1,2:29,1949,1949,Kristine Anigwe made Free Throw.,12,13,-1,0,0.4726770744269815,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,California
+55,1,2:29,1949,1949,Kristine Anigwe made Free Throw.,12,14,-2,26,0.44551684476573233,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,California
+56,1,2:03,1923,1923,Juicy Landrum made Layup.,14,14,0,22,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,Baylor
+57,1,1:41,1901,1901,Foul on NaLyssa Smith.,14,14,0,0,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+58,1,1:41,1901,1901,Kristine Anigwe missed Free Throw.,14,14,0,0,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+59,1,1:41,1901,1901,California Deadball Team Rebound.,14,14,0,0,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+60,1,1:41,1901,1901,Kristine Anigwe missed Free Throw.,14,14,0,0,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+61,1,1:41,1901,1901,Lauren Cox Defensive Rebound.,14,14,0,10,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+62,1,1:31,1891,1891,Juicy Landrum missed Three Point Jumper.,14,14,0,0,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+63,1,1:31,1891,1891,California Defensive Rebound.,14,14,0,15,0.5,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+64,1,1:16,1876,1876,Kristine Anigwe made Jumper. Assisted by Recee' Caldwell.,14,16,-2,24,0.4436405643716033,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,California
+65,1,0:52,1852,1852,Foul on McKenzie Forbes.,14,16,-2,0,0.44302205646961973,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+66,1,0:52,1852,1852,DiDi Richards made Free Throw.,15,16,-1,0,0.4714179337378455,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,Baylor
+67,1,0:52,1852,1852,DiDi Richards missed Free Throw.,15,16,-1,0,0.4714179337378455,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+68,1,0:52,1852,1852,Baylor Offensive Rebound.,15,16,-1,1,0.4714179337378455,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+69,1,0:51,1851,1851,Foul on CJ West.,15,16,-1,2,0.4714048875175046,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+70,1,0:49,1849,1849,Lauren Cox missed Layup.,15,16,-1,0,0.47137878454422355,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+71,1,0:49,1849,1849,Kristine Anigwe Block.,15,16,-1,0,0.47137878454422355,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+72,1,0:49,1849,1849,Lauren Cox Offensive Rebound.,15,16,-1,11,0.47137878454422355,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+73,1,0:38,1838,1838,Lauren Cox made Jumper.,17,16,1,9,0.5287650587312349,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,Baylor
+74,1,0:29,1829,1829,Kristine Anigwe missed Jumper.,17,16,1,0,0.5288831484756331,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+75,1,0:29,1829,1829,Kalani Brown Block.,17,16,1,0,0.5288831484756331,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+76,1,0:29,1829,1829,CJ West Offensive Rebound.,17,16,1,8,0.5288831484756331,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+77,1,0:21,1821,1821,CJ West missed Layup.,17,16,1,0,0.528988468449615,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+78,1,0:21,1821,1821,Kristine Anigwe Offensive Rebound.,17,16,1,0,0.528988468449615,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+79,1,0:21,1821,1821,Kristine Anigwe missed Layup.,17,16,1,0,0.528988468449615,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+80,1,0:21,1821,1821,California Offensive Rebound.,17,16,1,11,0.528988468449615,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+81,1,0:10,1810,1810,Foul on CJ West.,17,16,1,0,0.529133898970281,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+82,1,0:10,1810,1810,CJ West Turnover.,17,16,1,7,0.529133898970281,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+83,1,0:03,1803,1803,Chloe Jackson made Jumper.,19,16,3,3,0.5868897761363941,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,Baylor
+84,1,0:00,1800,1800,End of 1st Quarter,19,16,3,0,0.5870063911476985,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+85,2,10:00,1800,1800,Jump Ball won by California,19,16,3,16,0.5870063911476985,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+86,2,9:44,1784,1784,Kristine Anigwe missed Jumper.,19,16,3,0,0.5876316410602007,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+87,2,9:44,1784,1784,Kalani Brown Block.,19,16,3,0,0.5876316410602007,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+88,2,9:44,1784,1784,Kalani Brown Defensive Rebound.,19,16,3,14,0.5876316410602007,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+89,2,9:30,1770,1770,Foul on Kianna Smith.,19,16,3,0,0.5881838159738149,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+90,2,9:30,1770,1770,DiDi Richards made Free Throw.,20,16,4,0,0.6166334595330472,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,Baylor
+91,2,9:30,1770,1770,DiDi Richards made Free Throw.,21,16,5,23,0.6443062452212827,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,Baylor
+92,2,9:07,1747,1747,Recee' Caldwell missed Jumper.,21,16,5,0,0.6457547564764768,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+93,2,9:07,1747,1747,Juicy Landrum Defensive Rebound.,21,16,5,23,0.6457547564764768,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+94,2,8:44,1724,1724,Chloe Jackson made Jumper. Assisted by Juicy Landrum.,23,16,7,23,0.7004898829446943,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,Baylor
+95,2,8:21,1701,1701,McKenzie Forbes Turnover.,23,16,7,0,0.702422401448269,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+96,2,8:21,1701,1701,Juicy Landrum Steal.,23,16,7,6,0.702422401448269,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,
+97,2,8:15,1695,1695,Chloe Jackson made Layup. Assisted by Juicy Landrum.,25,16,9,3,0.751642190893207,Baylor,California,4,4,0,0,NA,401124196,2019-03-25,Baylor
+98,2,8:12,1692,1692,California  Timeout,25,16,9,30,0.751936708461552,Baylor,California,3,4,1,0,NA,401124196,2019-03-25,
+99,2,7:42,1662,1662,Jaelyn Brown Turnover.,25,16,9,7,0.7548240857325392,Baylor,California,3,4,1,0,NA,401124196,2019-03-25,
+100,2,7:35,1655,1655,DiDi Richards made Layup. Assisted by Lauren Cox.,27,16,11,26,0.7987865982126191,Baylor,California,3,4,1,0,NA,401124196,2019-03-25,Baylor
+101,2,7:09,1629,1629,Kristine Anigwe missed Jumper.,27,16,11,0,0.8013203116837267,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+102,2,7:09,1629,1629,Kalani Brown Block.,27,16,11,0,0.8013203116837267,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+103,2,7:09,1629,1629,Kalani Brown Defensive Rebound.,27,16,11,17,0.8013203116837267,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+104,2,6:52,1612,1612,Lauren Cox Turnover.,27,16,11,17,0.8029436879619154,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+105,2,6:35,1595,1595,Jaelyn Brown missed Three Point Jumper.,27,16,11,0,0.8045521345404562,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+106,2,6:35,1595,1595,Kalani Brown Defensive Rebound.,27,16,11,21,0.8045521345404562,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+107,2,6:14,1574,1574,DiDi Richards missed Jumper.,27,16,11,0,0.8065324233310558,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+108,2,6:14,1574,1574,Kianna Smith Block.,27,16,11,0,0.8065324233310558,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+109,2,6:14,1574,1574,Jaelyn Brown Defensive Rebound.,27,16,11,21,0.8065324233310558,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+110,2,5:53,1553,1553,Foul on Jaelyn Brown.,27,16,11,0,0.8085215351493368,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+111,2,5:53,1553,1553,Jaelyn Brown Turnover.,27,16,11,14,0.8085215351493368,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+112,2,5:39,1539,1539,Juicy Landrum missed Three Point Jumper.,27,16,11,0,0.8098607833743329,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+113,2,5:39,1539,1539,Jaelyn Brown Defensive Rebound.,27,16,11,9,0.8098607833743329,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+114,2,5:30,1530,1530,Kianna Smith Turnover.,27,16,11,15,0.8107299679082483,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+115,2,5:15,1515,1515,Kalani Brown made Jumper. Assisted by Juicy Landrum.,29,16,13,14,0.8494883303551346,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,Baylor
+116,2,5:01,1501,1501,Foul on DiDi Richards.,29,16,13,7,0.850867980565627,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+117,2,4:54,1494,1494,Jaelyn Brown made Layup.,29,18,11,13,0.8142982776195762,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,California
+118,2,4:41,1481,1481,Chloe Jackson made Jumper. Assisted by Lauren Cox.,31,18,13,14,0.8528844846862887,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,Baylor
+119,2,4:27,1467,1467,Kristine Anigwe missed Layup.,31,18,13,0,0.8543335842803687,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+120,2,4:27,1467,1467,Kalani Brown Block.,31,18,13,0,0.8543335842803687,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+121,2,4:27,1467,1467,Lauren Cox Defensive Rebound.,31,18,13,18,0.8543335842803687,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+122,2,4:09,1449,1449,Chloe Jackson made Jumper.,33,18,15,8,0.8868551485859814,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,Baylor
+123,2,4:01,1441,1441,Recee' Caldwell missed Three Point Jumper.,33,18,15,0,0.8876556214307988,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+124,2,4:01,1441,1441,Juicy Landrum Defensive Rebound.,33,18,15,16,0.8876556214307988,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+125,2,3:45,1425,1425,DiDi Richards made Layup. Assisted by Kalani Brown.,35,18,17,32,0.9137506311031587,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,Baylor
+126,2,3:13,1393,1393,Jaelyn Brown Turnover.,35,18,17,0,0.9164016306494981,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+127,2,3:13,1393,1393,DiDi Richards Steal.,35,18,17,14,0.9164016306494981,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+128,2,2:59,1379,1379,Juicy Landrum made Jumper. Assisted by DiDi Richards.,37,18,19,19,0.9365801888288878,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,Baylor
+129,2,2:40,1360,1360,Recee' Caldwell Turnover.,37,18,19,11,0.9378788098712901,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+130,2,2:29,1349,1349,NaLyssa Smith made Layup. Assisted by Chloe Jackson.,39,18,21,14,0.9532225956508691,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,Baylor
+131,2,2:15,1335,1335,Recee' Caldwell made Jumper.,39,20,19,18,0.939563519563953,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,California
+132,2,1:57,1317,1317,NaLyssa Smith made Jumper. Assisted by Juicy Landrum.,41,20,21,14,0.9550611826923763,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,Baylor
+133,2,1:43,1303,1303,Kianna Smith made Jumper.,41,22,19,9,0.9417271626684753,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,California
+134,2,1:34,1294,1294,DiDi Richards missed Layup.,41,22,19,0,0.94234465021766,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+135,2,1:34,1294,1294,NaLyssa Smith Offensive Rebound.,41,22,19,5,0.94234465021766,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+136,2,1:29,1289,1289,NaLyssa Smith made Layup.,43,22,21,7,0.9566873991644342,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,Baylor
+137,2,1:22,1282,1282,Recee' Caldwell made Three Point Jumper. Assisted by Asha Thomas.,43,25,18,18,0.9347143443327932,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,California
+138,2,1:04,1264,1264,DiDi Richards Turnover.,43,25,18,0,0.9360919688524588,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+139,2,1:04,1264,1264,Jaelyn Brown Steal.,43,25,18,6,0.9360919688524588,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+140,2,0:58,1258,1258,Jaelyn Brown missed Layup.,43,25,18,0,0.9365605582393725,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+141,2,0:58,1258,1258,Chloe Jackson Defensive Rebound.,43,25,18,10,0.9365605582393725,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+142,2,0:48,1248,1248,Juicy Landrum missed Three Point Jumper.,43,25,18,0,0.93735326071936,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+143,2,0:48,1248,1248,DiDi Richards Offensive Rebound.,43,25,18,26,0.93735326071936,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+144,2,0:22,1222,1222,Juicy Landrum missed Three Point Jumper.,43,25,18,0,0.9394911638793548,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+145,2,0:22,1222,1222,Jaelyn Brown Defensive Rebound.,43,25,18,8,0.9394911638793548,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+146,2,0:14,1214,1214,Foul on Kalani Brown.,43,25,18,0,0.9401735698084727,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+147,2,0:14,1214,1214,Kristine Anigwe made Free Throw.,43,26,17,0,0.9309633695387846,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,California
+148,2,0:14,1214,1214,Kristine Anigwe made Free Throw.,43,27,16,13,0.9204552344083007,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,California
+149,2,0:01,1201,1201,Juicy Landrum made Three Point Jumper. Assisted by Chloe Jackson.,46,27,19,1,0.9492501847320496,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,Baylor
+150,2,0:00,1200,1200,End of 2nd Quarter,46,27,19,0,0.9493274924441191,Baylor,California,3,4,0,0,NA,401124196,2019-03-25,
+151,3,10:00,1200,1200,Jump Ball won by California,46,27,19,9,0.9493274924441191,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+152,3,9:51,1191,1191,Recee' Caldwell missed Three Point Jumper.,46,27,19,0,0.9500117388797624,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+153,3,9:51,1191,1191,Kalani Brown Defensive Rebound.,46,27,19,20,0.9500117388797624,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+154,3,9:31,1171,1171,Kalani Brown missed Layup.,46,27,19,0,0.9514671525439704,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+155,3,9:31,1171,1171,Kristine Anigwe Block.,46,27,19,0,0.9514671525439704,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+156,3,9:31,1171,1171,Kalani Brown Offensive Rebound.,46,27,19,8,0.9514671525439704,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+157,3,9:23,1163,1163,Kalani Brown missed Layup.,46,27,19,0,0.9520283012724756,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+158,3,9:23,1163,1163,Lauren Cox Offensive Rebound.,46,27,19,9,0.9520283012724756,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+159,3,9:14,1154,1154,Juicy Landrum made Three Point Jumper. Assisted by Chloe Jackson.,49,27,22,13,0.9699848009284662,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,Baylor
+160,3,9:01,1141,1141,Foul on Lauren Cox.,49,27,22,0,0.9706389602383602,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+161,3,9:01,1141,1141,Kianna Smith missed Free Throw.,49,27,22,0,0.9706389602383602,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+162,3,9:01,1141,1141,California Deadball Team Rebound.,49,27,22,0,0.9706389602383602,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+163,3,9:01,1141,1141,Kianna Smith made Free Throw.,49,28,21,11,0.9657518034478754,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,California
+164,3,8:50,1130,1130,Chloe Jackson made Jumper. Assisted by Kalani Brown.,51,28,23,17,0.9753341868629056,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,Baylor
+165,3,8:33,1113,1113,Kristine Anigwe made Layup. Assisted by Recee' Caldwell.,51,30,21,9,0.9672655556324364,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,California
+166,3,8:24,1104,1104,Foul on Kristine Anigwe.,51,30,21,3,0.9677439643456371,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+167,3,8:21,1101,1101,Kalani Brown Turnover.,51,30,21,0,0.9679029699325578,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+168,3,8:21,1101,1101,Kianna Smith Steal.,51,30,21,8,0.9679029699325578,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+169,3,8:13,1093,1093,Recee' Caldwell missed Jumper.,51,30,21,0,0.9683263219288267,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+170,3,8:13,1093,1093,Juicy Landrum Defensive Rebound.,51,30,21,11,0.9683263219288267,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+171,3,8:02,1082,1082,Foul on Kristine Anigwe.,51,30,21,2,0.9689080225729471,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+172,3,8:00,1080,1080,Foul on CJ West.,51,30,21,0,0.9690138680115643,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+173,3,8:00,1080,1080,Kalani Brown made Free Throw.,52,30,22,0,0.9735753808369241,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,Baylor
+174,3,8:00,1080,1080,Kalani Brown made Free Throw.,53,30,23,8,0.977480992045417,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,Baylor
+175,3,7:52,1072,1072,Asha Thomas made Three Point Jumper. Assisted by Recee' Caldwell.,53,33,20,19,0.9641650343322307,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,California
+176,3,7:33,1053,1053,Juicy Landrum made Three Point Jumper. Assisted by Lauren Cox.,56,33,23,15,0.9786327896197216,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,Baylor
+177,3,7:18,1038,1038,Foul on DiDi Richards.,56,33,23,7,0.9792803287412929,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+178,3,7:11,1031,1031,Recee' Caldwell Turnover.,56,33,23,0,0.9795853708480224,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+179,3,7:11,1031,1031,Lauren Cox Steal.,56,33,23,11,0.9795853708480224,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+180,3,7:00,1020,1020,Kalani Brown missed Jumper.,56,33,23,0,0.9800690883824116,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+181,3,7:00,1020,1020,California Defensive Rebound.,56,33,23,17,0.9800690883824116,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+182,3,6:43,1003,1003,Asha Thomas missed Three Point Jumper.,56,33,23,0,0.9808285608104325,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+183,3,6:43,1003,1003,Chloe Jackson Defensive Rebound.,56,33,23,13,0.9808285608104325,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+184,3,6:30,990,990,Lauren Cox made Layup. Assisted by Kalani Brown.,58,33,25,17,0.9867689690303522,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,Baylor
+185,3,6:13,973,973,Recee' Caldwell Turnover.,58,33,25,0,0.9873814408040222,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+186,3,6:13,973,973,DiDi Richards Steal.,58,33,25,11,0.9873814408040222,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+187,3,6:02,962,962,Foul on Jaelyn Brown.,58,33,25,3,0.9877723951567985,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+188,3,5:59,959,959,Foul on Asha Thomas.,58,33,25,0,0.9878731939968307,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+189,3,5:59,959,959,Chloe Jackson made Free Throw.,59,33,26,0,0.9898103555248857,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,Baylor
+190,3,5:59,959,959,Chloe Jackson made Free Throw.,60,33,27,8,0.9914407519320932,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,Baylor
+191,3,5:51,951,951,CJ West Turnover.,60,33,27,0,0.9916372003775694,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+192,3,5:51,951,951,Chloe Jackson Steal.,60,33,27,6,0.9916372003775694,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+193,3,5:45,945,945,Chloe Jackson made Layup.,62,33,29,0,0.994219652134514,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,Baylor
+194,3,5:45,945,945,Foul on CJ West.,62,33,29,0,0.994219652134514,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+195,3,5:45,945,945,Chloe Jackson missed Free Throw.,62,33,29,0,0.994219652134514,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+196,3,5:45,945,945,California Defensive Rebound.,62,33,29,14,0.994219652134514,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+197,3,5:31,931,931,Kianna Smith made Jumper.,62,35,27,14,0.9920781359130707,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,California
+198,3,5:17,917,917,Chloe Jackson missed Layup.,62,35,27,0,0.992353140662138,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+199,3,5:17,917,917,Asha Thomas Defensive Rebound.,62,35,27,8,0.992353140662138,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+200,3,5:09,909,909,Asha Thomas Turnover.,62,35,27,0,0.9925007938484537,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+201,3,5:09,909,909,DiDi Richards Steal.,62,35,27,8,0.9925007938484537,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+202,3,5:01,901,901,Lauren Cox made Layup. Assisted by DiDi Richards.,64,35,29,18,0.994872608869647,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,Baylor
+203,3,4:43,883,883,Kristine Anigwe made Jumper. Assisted by Kianna Smith.,64,37,27,18,0.9929474915592174,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,California
+204,3,4:25,865,865,Juicy Landrum made Three Point Jumper. Assisted by Lauren Cox.,67,37,30,17,0.99610538016497,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,Baylor
+205,3,4:08,848,848,Kristine Anigwe missed Jumper.,67,37,30,0,0.9962792739907398,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+206,3,4:08,848,848,Lauren Cox Defensive Rebound.,67,37,30,11,0.9962792739907398,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+207,3,3:57,837,837,DiDi Richards made Layup. Assisted by Chloe Jackson.,69,37,32,26,0.997516765679072,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,Baylor
+208,3,3:31,811,811,Kianna Smith missed Jumper.,69,37,32,0,0.9977164656991074,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+209,3,3:31,811,811,Baylor Defensive Rebound.,69,37,32,5,0.9977164656991074,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+210,3,3:26,806,806,Official TV Timeout,69,37,32,12,0.9977558603835753,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+211,3,3:14,794,794,Moon Ursin made Three Point Jumper. Assisted by Lauren Cox.,72,37,35,16,0.9987911020576644,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,Baylor
+212,3,2:58,778,778,Kianna Smith missed Three Point Jumper.,72,37,35,0,0.9988723962914801,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+213,3,2:58,778,778,NaLyssa Smith Defensive Rebound.,72,37,35,13,0.9988723962914801,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+214,3,2:45,765,765,Chloe Jackson missed Jumper.,72,37,35,0,0.9989402204339851,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+215,3,2:45,765,765,Baylor Offensive Rebound.,72,37,35,7,0.9989402204339851,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+216,3,2:38,758,758,NaLyssa Smith made Jumper. Assisted by Chloe Jackson.,74,37,37,24,0.9993097273368824,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,Baylor
+217,3,2:14,734,734,Foul on Chloe Jackson.,74,37,37,0,0.9994021226280401,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+218,3,2:14,734,734,Kianna Smith missed Free Throw.,74,37,37,0,0.9994021226280401,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+219,3,2:14,734,734,California Deadball Team Rebound.,74,37,37,0,0.9994021226280401,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+220,3,2:14,734,734,Kianna Smith made Free Throw.,74,38,36,8,0.9992694229599406,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,California
+221,3,2:06,726,726,NaLyssa Smith missed Jumper.,74,38,36,0,0.9993058380443156,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+222,3,2:06,726,726,Kristine Anigwe Defensive Rebound.,74,38,36,4,0.9993058380443156,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+223,3,2:02,722,722,Foul on Queen Egbo.,74,38,36,12,0.999322813608193,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+224,3,1:50,710,710,Kristine Anigwe missed Layup.,74,38,36,0,0.9993686694686054,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+225,3,1:50,710,710,Queen Egbo Block.,74,38,36,0,0.9993686694686054,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+226,3,1:50,710,710,Queen Egbo Defensive Rebound.,74,38,36,17,0.9993686694686054,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+227,3,1:33,693,693,Moon Ursin missed Jumper.,74,38,36,0,0.9994234694044756,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+228,3,1:33,693,693,NaLyssa Smith Offensive Rebound.,74,38,36,18,0.9994234694044756,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+229,3,1:15,675,675,Juicy Landrum missed Layup.,74,38,36,0,0.9994726434353534,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+230,3,1:15,675,675,Queen Egbo Offensive Rebound.,74,38,36,8,0.9994726434353534,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+231,3,1:07,667,667,Queen Egbo made Layup.,76,38,38,1,0.9996670036615652,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,Baylor
+232,3,1:06,666,666,Kianna Smith made Jumper. Assisted by Recee' Caldwell.,76,40,36,36,0.9994949865701955,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,California
+233,3,0:30,630,630,Queen Egbo made Jumper. Assisted by Moon Ursin.,78,40,38,19,0.9997254733076141,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,Baylor
+234,3,0:11,611,611,Kianna Smith missed Jumper.,78,40,38,0,0.9997545412398646,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+235,3,0:11,611,611,NaLyssa Smith Defensive Rebound.,78,40,38,0,0.9997545412398646,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+236,3,0:11,611,611,Foul on Kianna Smith.,78,40,38,0,0.9997545412398646,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+237,3,0:11,611,611,NaLyssa Smith made Free Throw.,79,40,39,0,0.9998027569445699,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,Baylor
+238,3,0:11,611,611,NaLyssa Smith missed Free Throw.,79,40,39,0,0.9998027569445699,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+239,3,0:11,611,611,Jaelyn Brown Defensive Rebound.,79,40,39,11,0.9998027569445699,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+240,3,0:00,600,600,End of 3rd Quarter,79,40,39,0,0.999816777467843,Baylor,California,4,5,0,0,NA,401124196,2019-03-25,
+241,4,10:00,600,600,Jump Ball won by Baylor,79,40,39,4,0.999816777467843,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+242,4,9:56,596,596,Juicy Landrum made Layup.,81,40,41,24,0.9998856087310662,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,Baylor
+243,4,9:32,572,572,Asha Thomas made Jumper.,81,42,39,19,0.9998530621036916,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,California
+244,4,9:13,553,553,Foul on Jaelyn Brown.,81,42,39,0,0.9998777769295325,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+245,4,9:13,553,553,Queen Egbo made Free Throw.,82,42,40,0,0.9999029856239765,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,Baylor
+246,4,9:13,553,553,Queen Egbo made Free Throw.,83,42,41,23,0.9999229953872171,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,Baylor
+247,4,8:50,530,530,Asha Thomas made Layup.,83,44,39,11,0.9999024616354079,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,California
+248,4,8:39,519,519,NaLyssa Smith missed Layup.,83,44,39,0,0.9999110235412042,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+249,4,8:39,519,519,NaLyssa Smith Offensive Rebound.,83,44,39,5,0.9999110235412042,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+250,4,8:34,514,514,NaLyssa Smith made Layup.,85,44,41,8,0.9999471085895467,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,Baylor
+251,4,8:26,506,506,Kristine Anigwe missed Three Point Jumper.,85,44,41,0,0.9999504687866901,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+252,4,8:26,506,506,Baylor Defensive Rebound.,85,44,41,15,0.9999504687866901,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+253,4,8:11,491,491,Aquira DeCosta made Jumper. Assisted by Juicy Landrum.,87,44,43,14,0.9999731787111437,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,Baylor
+254,4,7:57,477,477,Foul on Queen Egbo.,87,44,43,4,0.999976461952633,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+255,4,7:53,473,473,Jaelyn Brown missed Three Point Jumper.,87,44,43,0,0.99997739171303,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+256,4,7:53,473,473,Queen Egbo Defensive Rebound.,87,44,43,14,0.99997739171303,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+257,4,7:39,459,459,Queen Egbo missed Layup.,87,44,43,0,0.9999806583969033,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+258,4,7:39,459,459,Queen Egbo Offensive Rebound.,87,44,43,0,0.9999806583969033,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+259,4,7:39,459,459,Queen Egbo missed Layup.,87,44,43,0,0.9999806583969033,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+260,4,7:39,459,459,NaLyssa Smith Offensive Rebound.,87,44,43,11,0.9999806583969033,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+261,4,7:28,448,448,NaLyssa Smith missed Layup.,87,44,43,0,0.9999832433543121,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+262,4,7:28,448,448,Aquira DeCosta Offensive Rebound.,87,44,43,9,0.9999832433543121,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+263,4,7:19,439,439,Aquira DeCosta made Layup.,89,44,45,5,0.9999912713156477,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,Baylor
+264,4,7:14,434,434,Kristine Anigwe made Layup. Assisted by Asha Thomas.,89,46,43,20,0.9999865091104868,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,California
+265,4,6:54,414,414,NaLyssa Smith missed Jumper.,89,46,43,0,0.9999904272827324,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+266,4,6:54,414,414,Aquira DeCosta Offensive Rebound.,89,46,43,5,0.9999904272827324,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+267,4,6:49,409,409,Aquira DeCosta missed Layup.,89,46,43,0,0.9999911677906301,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+268,4,6:49,409,409,NaLyssa Smith Offensive Rebound.,89,46,43,8,0.9999911677906301,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+269,4,6:41,401,401,NaLyssa Smith made Layup.,91,46,45,5,0.9999954957604621,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,Baylor
+270,4,6:36,396,396,Foul on Moon Ursin.,91,46,45,0,0.9999958494963974,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+271,4,6:36,396,396,Kristine Anigwe missed Free Throw.,91,46,45,0,0.9999958494963974,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+272,4,6:36,396,396,California Deadball Team Rebound.,91,46,45,0,0.9999958494963974,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+273,4,6:36,396,396,Kristine Anigwe missed Free Throw.,91,46,45,0,0.9999958494963974,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+274,4,6:36,396,396,NaLyssa Smith Defensive Rebound.,91,46,45,14,0.9999958494963974,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+275,4,6:22,382,382,Queen Egbo made Layup. Assisted by Aquira DeCosta.,93,46,47,10,0.9999981205348726,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,Baylor
+276,4,6:12,372,372,Foul on Queen Egbo.,93,46,47,0,0.999998430205158,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+277,4,6:12,372,372,Jaelyn Brown made Free Throw.,93,47,46,0,0.999997913898846,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,California
+278,4,6:12,372,372,Jaelyn Brown made Free Throw.,93,48,45,19,0.9999972277795994,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,California
+279,4,5:53,353,353,Queen Egbo Turnover.,93,48,45,8,0.9999980698497193,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+280,4,5:45,345,345,Jaelyn Brown made Layup. Assisted by Recee' Caldwell.,93,50,43,8,0.9999970611494615,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,California
+281,4,5:37,337,337,Aquira DeCosta missed Three Point Jumper.,93,50,43,0,0.9999975420617406,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+282,4,5:37,337,337,Kristine Anigwe Defensive Rebound.,93,50,43,6,0.9999975420617406,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+283,4,5:31,331,331,Recee' Caldwell missed Three Point Jumper.,93,50,43,0,0.9999978733084005,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+284,4,5:31,331,331,Aquira DeCosta Defensive Rebound.,93,50,43,13,0.9999978733084005,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+285,4,5:18,318,318,Caitlin Bickle Turnover.,93,50,43,15,0.9999985013699023,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+286,4,5:03,303,303,Recee' Caldwell made Jumper.,93,52,41,9,0.9999981310462883,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,California
+287,4,4:54,294,294,Caitlin Bickle missed Three Point Jumper.,93,52,41,0,0.9999983270968292,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+288,4,4:54,294,294,Aquira DeCosta Offensive Rebound.,93,52,41,6,0.9999983270968292,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+289,4,4:48,288,288,Aquira DeCosta missed Layup.,93,52,41,0,0.9999983573956519,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+290,4,4:48,288,288,CJ West Defensive Rebound.,93,52,41,5,0.9999983573956519,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+291,4,4:43,283,283,Jaelyn Brown Turnover.,93,52,41,0,0.9999983378217502,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+292,4,4:43,283,283,Official TV Timeout,93,52,41,10,0.9999983378217502,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+293,4,4:33,273,273,Aquira DeCosta missed Three Point Jumper.,93,52,41,0,0.9999982033839923,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+294,4,4:33,273,273,California Defensive Rebound.,93,52,41,5,0.9999982033839923,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+295,4,4:28,268,268,Foul on Honesty Scott-Grayson.,93,52,41,9,0.9999980989164635,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+296,4,4:19,259,259,Kianna Smith missed Jumper.,93,52,41,0,0.9999978728005617,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+297,4,4:19,259,259,Kalani Brown Defensive Rebound.,93,52,41,9,0.9999978728005617,Baylor,California,5,6,0,0,NA,401124196,2019-03-25,
+298,4,4:10,250,250,Baylor  Timeout,93,52,41,1,0.9999976427349728,Baylor,California,5,5,0,1,NA,401124196,2019-03-25,
+299,4,4:09,249,249,Queen Egbo missed Jumper.,93,52,41,0,0.9999976199470871,Baylor,California,5,5,0,1,NA,401124196,2019-03-25,
+300,4,4:09,249,249,California Defensive Rebound.,93,52,41,27,0.9999976199470871,Baylor,California,5,5,0,1,NA,401124196,2019-03-25,
+301,4,3:42,222,222,Kianna Smith made Three Point Jumper.,93,55,38,30,0.999994145334185,Baylor,California,5,5,0,1,NA,401124196,2019-03-25,California
+302,4,3:12,192,192,Foul on Mo Mosley.,93,55,38,0,0.9999983736401651,Baylor,California,5,5,0,1,NA,401124196,2019-03-25,
+303,4,3:12,192,192,Trinity Oliver made Free Throw.,94,55,39,0,0.9999988548023091,Baylor,California,5,5,0,1,NA,401124196,2019-03-25,Baylor
+304,4,3:12,192,192,Trinity Oliver missed Free Throw.,94,55,39,0,0.9999988548023091,Baylor,California,5,5,0,1,NA,401124196,2019-03-25,
+305,4,3:12,192,192,CJ West Defensive Rebound.,94,55,39,13,0.9999988548023091,Baylor,California,5,5,0,1,NA,401124196,2019-03-25,
+306,4,2:59,179,179,Mo Mosley missed Jumper.,94,55,39,0,0.999999602105044,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+307,4,2:59,179,179,Queen Egbo Block.,94,55,39,0,0.999999602105044,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+308,4,2:59,179,179,Queen Egbo Defensive Rebound.,94,55,39,13,0.999999602105044,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+309,4,2:46,166,166,Honesty Scott-Grayson missed Jumper.,94,55,39,0,0.9999998680342812,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+310,4,2:46,166,166,Aquira DeCosta Offensive Rebound.,94,55,39,5,0.9999998680342812,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+311,4,2:41,161,161,Aquira DeCosta made Jumper.,96,55,41,5,0.9999999632989274,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,Baylor
+312,4,2:36,156,156,Recee' Caldwell made Three Point Jumper.,96,58,38,10,0.9999999179117903,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,California
+313,4,2:26,146,146,Foul on Alaysia Styles.,96,58,38,0,0.9999999682080966,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+314,4,2:26,146,146,Trinity Oliver made Free Throw.,97,58,39,0,0.9999999798159145,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,Baylor
+315,4,2:26,146,146,Trinity Oliver made Free Throw.,98,58,40,15,0.9999999871855013,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,Baylor
+316,4,2:11,131,131,Mo Mosley Turnover.,98,58,40,17,0.9999999976000818,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+317,4,1:54,114,114,Queen Egbo missed Jumper.,98,58,40,0,0.9999999997424881,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+318,4,1:54,114,114,Aquira DeCosta Offensive Rebound.,98,58,40,15,0.9999999997424881,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+319,4,1:39,99,99,Aquira DeCosta Turnover.,98,58,40,0,0.9999999999751757,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+320,4,1:39,99,99,Mo Mosley Steal.,98,58,40,6,0.9999999999751757,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+321,4,1:33,93,93,Alaysia Styles missed Three Point Jumper.,98,58,40,0,0.9999999999912731,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+322,4,1:33,93,93,Queen Egbo Defensive Rebound.,98,58,40,0,0.9999999999912731,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+323,4,1:33,93,93,Foul on McKenzie Forbes.,98,58,40,0,0.9999999999912731,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+324,4,1:33,93,93,Honesty Scott-Grayson made Free Throw.,99,58,41,0,0.9999999999953827,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,Baylor
+325,4,1:33,93,93,Honesty Scott-Grayson made Free Throw.,100,58,42,17,0.9999999999975571,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,Baylor
+326,4,1:16,76,76,Kianna Smith missed Three Point Jumper.,100,58,42,0,0.9999999999999083,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+327,4,1:16,76,76,Trinity Oliver Defensive Rebound.,100,58,42,17,0.9999999999999083,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+328,4,0:59,59,59,Trinity Oliver made Layup.,102,58,44,7,0.9999999999999996,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,Baylor
+329,4,0:52,52,52,Chen Yue made Jumper.,102,60,42,13,0.9999999999999996,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,California
+330,4,0:39,39,39,Caitlin Bickle missed Jumper.,102,60,42,0,1,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+331,4,0:39,39,39,Kianna Smith Defensive Rebound.,102,60,42,17,1,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+332,4,0:22,22,22,Kianna Smith missed Jumper.,102,60,42,0,1,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+333,4,0:22,22,22,Alaysia Styles Offensive Rebound.,102,60,42,3,1,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+334,4,0:19,19,19,Alaysia Styles made Layup.,102,62,40,0,1,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,California
+335,4,0:19,19,19,Foul on Caitlin Bickle.,102,62,40,0,1,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,
+336,4,0:19,19,19,Alaysia Styles made Free Throw.,102,63,39,19,1,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,California
+337,4,0:00,0,0,End of Game,102,63,39,0,1,Baylor,California,5,5,0,0,NA,401124196,2019-03-25,

@@ -1,0 +1,316 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:47,2387,2387,Sabrina Ionescu made Layup.,0,0,0,17,0.5,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,NA
+2,1,9:30,2370,2370,Victoria Gaines missed Layup.,0,2,-2,3,0.4553392623404728,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,Oregon
+3,1,9:27,2367,2367,Ruthy Hebard Defensive Rebound.,0,2,-2,4,0.4552751035690411,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+4,1,9:23,2363,2363,Erin Boley made Three Point Jumper. Assisted by Sabrina Ionescu.,0,5,-5,22,0.3895243851790373,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,Oregon
+5,1,9:01,2341,2341,Taryn McCutcheon Turnover.,0,5,-5,0,0.3883853991566175,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+6,1,9:01,2341,2341,Satou Sabally Steal.,0,5,-5,7,0.3883853991566175,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+7,1,8:54,2334,2334,Sabrina Ionescu made Jumper.,0,7,-7,17,0.3457216212440959,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,Oregon
+8,1,8:37,2317,2317,Taryn McCutcheon missed Jumper.,0,7,-7,5,0.34453195157762956,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+9,1,8:32,2312,2312,Maite Cazorla Defensive Rebound.,0,7,-7,7,0.3441803993403536,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+10,1,8:25,2305,2305,Erin Boley missed Three Point Jumper.,0,7,-7,2,0.3436870395702724,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+11,1,8:23,2303,2303,Satou Sabally Offensive Rebound.,0,7,-7,1,0.3435458328804318,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+12,1,8:22,2302,2302,Satou Sabally made Layup.,0,9,-9,0,0.30302286305045995,Michigan State,Oregon,4,4,1,0,NA,401094700,2018-12-09,Oregon
+13,1,8:22,2302,2302,Michigan State  Timeout,0,9,-9,0,0.30302286305045995,Michigan State,Oregon,3,4,1,0,NA,401094700,2018-12-09,
+14,1,8:22,2302,2302,Official TV Timeout,0,9,-9,12,0.30302286305045995,Michigan State,Oregon,3,4,1,0,NA,401094700,2018-12-09,
+15,1,8:10,2290,2290,Mardrekia Cook missed Layup.,0,9,-9,2,0.3019999893159419,Michigan State,Oregon,3,4,1,0,NA,401094700,2018-12-09,
+16,1,8:08,2288,2288,Michigan State Offensive Rebound.,0,9,-9,8,0.3018291614573695,Michigan State,Oregon,3,4,1,0,NA,401094700,2018-12-09,
+17,1,8:00,2280,2280,Mardrekia Cook missed Three Point Jumper.,0,9,-9,3,0.30114491827100304,Michigan State,Oregon,3,4,1,0,NA,401094700,2018-12-09,
+18,1,7:57,2277,2277,Victoria Gaines Offensive Rebound.,0,9,-9,2,0.3008879585485692,Michigan State,Oregon,3,4,1,0,NA,401094700,2018-12-09,
+19,1,7:55,2275,2275,Victoria Gaines made Layup.,2,9,-7,18,0.3415583489482292,Michigan State,Oregon,3,4,1,0,NA,401094700,2018-12-09,Michigan State
+20,1,7:37,2257,2257,Sabrina Ionescu made Jumper.,2,11,-9,9,0.2991702802620554,Michigan State,Oregon,3,4,1,0,NA,401094700,2018-12-09,Oregon
+21,1,7:28,2248,2248,Taryn McCutcheon missed Three Point Jumper.,2,11,-9,4,0.29839501240066496,Michigan State,Oregon,3,4,1,0,NA,401094700,2018-12-09,
+22,1,7:24,2244,2244,Ruthy Hebard Defensive Rebound.,2,11,-9,7,0.29805005051016714,Michigan State,Oregon,3,4,1,0,NA,401094700,2018-12-09,
+23,1,7:17,2237,2237,Satou Sabally made Layup.,2,13,-11,18,0.2591313582263496,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,Oregon
+24,1,6:59,2219,2219,Jenna Allen made Layup.,4,13,-9,0,0.2958894770914071,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,Michigan State
+25,1,6:59,2219,2219,Foul on Ruthy Hebard.,4,13,-9,0,0.2958894770914071,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+26,1,6:59,2219,2219,Jenna Allen missed Free Throw.,4,13,-9,4,0.2958894770914071,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+27,1,6:55,2215,2215,Erin Boley Defensive Rebound.,4,13,-9,10,0.29554319261825074,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+28,1,6:45,2205,2205,Ruthy Hebard missed Layup.,4,13,-9,8,0.2946769604243901,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+29,1,6:37,2197,2197,Satou Sabally Offensive Rebound.,4,13,-9,0,0.2939835507355935,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+30,1,6:37,2197,2197,Satou Sabally missed Layup.,4,13,-9,0,0.2939835507355935,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+31,1,6:37,2197,2197,Taryn McCutcheon Defensive Rebound.,4,13,-9,1,0.2939835507355935,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+32,1,6:36,2196,2196,Taryn McCutcheon missed Layup.,4,13,-9,0,0.29389685405066407,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+33,1,6:36,2196,2196,Oregon Defensive Rebound.,4,13,-9,13,0.29389685405066407,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+34,1,6:23,2183,2183,Erin Boley made Three Point Jumper. Assisted by Maite Cazorla.,4,16,-12,14,0.23577915651013148,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,Oregon
+35,1,6:09,2169,2169,Jenna Allen made Layup. Assisted by Taryn McCutcheon.,6,16,-10,14,0.271605604190885,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,Michigan State
+36,1,5:55,2155,2155,Sabrina Ionescu missed Jumper.,6,16,-10,7,0.270312190792184,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+37,1,5:48,2148,2148,Ruthy Hebard Offensive Rebound.,6,16,-10,1,0.269664644464639,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+38,1,5:47,2147,2147,Ruthy Hebard missed Layup.,6,16,-10,1,0.2695720888943531,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+39,1,5:46,2146,2146,Jenna Allen Defensive Rebound.,6,16,-10,2,0.26947952075500836,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+40,1,5:44,2144,2144,Nia Clouden made Layup.,8,16,-8,0,0.3103326553198422,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,Michigan State
+41,1,5:44,2144,2144,Foul on Satou Sabally.,8,16,-8,0,0.3103326553198422,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+42,1,5:44,2144,2144,Nia Clouden missed Free Throw.,8,16,-8,1,0.3103326553198422,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+43,1,5:43,2143,2143,Ruthy Hebard Defensive Rebound.,8,16,-8,14,0.31025207201624094,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+44,1,5:29,2129,2129,Satou Sabally made Layup.,8,18,-10,18,0.2679038331906027,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,Oregon
+45,1,5:11,2111,2111,Jenna Allen made Layup. Assisted by Nia Clouden.,10,18,-8,8,0.30766371239275736,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,Michigan State
+46,1,5:03,2103,2103,Foul on Maite Cazorla.,10,18,-8,0,0.30701346538459706,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+47,1,5:03,2103,2103,Maite Cazorla Turnover.,10,18,-8,17,0.30701346538459706,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+48,1,4:46,2086,2086,Foul on Satou Sabally.,10,18,-8,7,0.3056270966841516,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+49,1,4:39,2079,2079,Jenna Allen Turnover.,10,18,-8,13,0.30505433528662473,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+50,1,4:26,2066,2066,Erin Boley made Three Point Jumper. Assisted by Maite Cazorla.,10,21,-11,17,0.24249965451459976,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,Oregon
+51,1,4:09,2049,2049,Taryn McCutcheon made Three Point Jumper. Assisted by Tory Ozment.,13,21,-8,14,0.3025860994942021,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,Michigan State
+52,1,3:55,2035,2035,Foul on Tory Ozment.,13,21,-8,9,0.3014262409110426,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+53,1,3:46,2026,2026,Erin Boley missed Jumper.,13,21,-8,4,0.30067775226669696,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+54,1,3:42,2022,2022,Mardrekia Cook Defensive Rebound.,13,21,-8,9,0.30034434917023084,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+55,1,3:33,2013,2013,Jenna Allen missed Three Point Jumper.,13,21,-8,3,0.299592484444908,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+56,1,3:30,2010,2010,Nia Hollie Offensive Rebound.,13,21,-8,2,0.29934132863534474,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+57,1,3:28,2008,2008,Mardrekia Cook made Layup. Assisted by Nia Hollie.,15,21,-6,13,0.3456022842200891,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,Michigan State
+58,1,3:15,1995,1995,Taylor Chavez Turnover.,15,21,-6,0,0.3447182199136961,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+59,1,3:15,1995,1995,Nia Hollie Steal.,15,21,-6,7,0.3447182199136961,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+60,1,3:08,1988,1988,Nia Hollie made Layup. Assisted by Taryn McCutcheon.,17,21,-4,24,0.39421303038095096,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,Michigan State
+61,1,2:44,1964,1964,Oti Gildon missed Layup.,17,21,-4,0,0.3930479550822824,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+62,1,2:44,1964,1964,Jenna Allen Defensive Rebound.,17,21,-4,0,0.3930479550822824,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+63,1,2:44,1964,1964,Jenna Allen Block.,17,21,-4,19,0.3930479550822824,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+64,1,2:25,1945,1945,Taryn McCutcheon Turnover.,17,21,-4,0,0.39211517014890607,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+65,1,2:25,1945,1945,Maite Cazorla Steal.,17,21,-4,4,0.39211517014890607,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+66,1,2:21,1941,1941,Taylor Chavez made Layup. Assisted by Maite Cazorla.,17,23,-6,19,0.3409893766374379,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,Oregon
+67,1,2:02,1922,1922,Tory Ozment missed Three Point Jumper.,17,23,-6,4,0.3396558929113862,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+68,1,1:58,1918,1918,Taylor Chavez Defensive Rebound.,17,23,-6,16,0.3393753392741558,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+69,1,1:42,1902,1902,Sabrina Ionescu missed Layup.,17,23,-6,2,0.33825543383645196,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+70,1,1:40,1900,1900,Jenna Allen Defensive Rebound.,17,23,-6,0,0.33811565020683493,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+71,1,1:40,1900,1900,Foul on Erin Boley.,17,23,-6,0,0.33811565020683493,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+72,1,1:40,1900,1900,Jenna Allen made Free Throw.,18,23,-5,0,0.3636047582376185,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,Michigan State
+73,1,1:40,1900,1900,Jenna Allen made Free Throw.,19,23,-4,16,0.38988351170982083,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,Michigan State
+74,1,1:24,1884,1884,Maite Cazorla missed Three Point Jumper.,19,23,-4,2,0.3890914187599575,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+75,1,1:22,1882,1882,Michigan State Defensive Rebound.,19,23,-4,8,0.3889924070770922,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+76,1,1:14,1874,1874,Sidney Cooks made Three Point Jumper. Assisted by Nia Clouden.,22,23,-1,13,0.47170422597965794,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,Michigan State
+77,1,1:01,1861,1861,Sabrina Ionescu missed Jumper.,22,23,-1,3,0.4715352057025124,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+78,1,0:58,1858,1858,Sabrina Ionescu Offensive Rebound.,22,23,-1,1,0.47149614222135666,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+79,1,0:57,1857,1857,Foul on Nia Clouden.,22,23,-1,0,0.4714831152810906,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+80,1,0:57,1857,1857,Sabrina Ionescu made Free Throw.,22,24,-2,0,0.44315115138806743,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,Oregon
+81,1,0:57,1857,1857,Sabrina Ionescu made Free Throw.,22,25,-3,10,0.4151842634937579,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,Oregon
+82,1,0:47,1847,1847,Nia Clouden missed Layup.,22,25,-3,2,0.4148029843375389,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+83,1,0:45,1845,1845,Sidney Cooks Offensive Rebound.,22,25,-3,1,0.41472661352295626,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+84,1,0:44,1844,1844,Sidney Cooks missed Layup.,22,25,-3,3,0.41468841227594394,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+85,1,0:41,1841,1841,Ruthy Hebard Defensive Rebound.,22,25,-3,13,0.41457374246929246,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+86,1,0:28,1828,1828,Ruthy Hebard Turnover.,22,25,-3,27,0.41407556197755135,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+87,1,0:01,1801,1801,Nia Clouden Turnover.,22,25,-3,0,0.4130325009831776,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+88,1,0:01,1801,1801,Sabrina Ionescu Steal.,22,25,-3,1,0.4130325009831776,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+89,1,0:00,1800,1800,Sabrina Ionescu Turnover.,22,25,-3,0,0.4129936088523014,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+90,1,0:00,1800,1800,Taryn McCutcheon Steal.,22,25,-3,0,0.4129936088523014,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+91,1,0:00,1800,1800,End of 1st Quarter,22,25,-3,11,0.4129936088523014,Michigan State,Oregon,3,4,0,0,NA,401094700,2018-12-09,
+92,2,9:49,1789,1789,Sidney Cooks Turnover.,22,25,-3,0,0.4125643759278075,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+93,2,9:49,1789,1789,Ruthy Hebard Steal.,22,25,-3,18,0.4125643759278075,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+94,2,9:31,1771,1771,Erin Boley missed Three Point Jumper.,22,25,-3,2,0.411855796433243,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+95,2,9:29,1769,1769,Sabrina Ionescu Offensive Rebound.,22,25,-3,2,0.41177654414072956,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+96,2,9:27,1767,1767,Sabrina Ionescu made Layup.,22,27,-5,1,0.355506114447288,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,Oregon
+97,2,9:26,1766,1766,Foul on Nia Clouden.,22,27,-5,0,0.3554434856299442,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+98,2,9:26,1766,1766,Sabrina Ionescu made Free Throw.,22,28,-6,20,0.32866362838743096,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,Oregon
+99,2,9:06,1746,1746,Taryn McCutcheon missed Layup.,22,28,-6,0,0.3272059068900757,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+100,2,9:06,1746,1746,Michigan State Offensive Rebound.,22,28,-6,3,0.3272059068900757,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+101,2,9:03,1743,1743,Foul on Erin Boley.,22,28,-6,5,0.3269854806916723,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+102,2,8:58,1738,1738,Jenna Allen missed Jumper.,22,28,-6,3,0.32661700633002544,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+103,2,8:55,1735,1735,Ruthy Hebard Defensive Rebound.,22,28,-6,17,0.3263952462914194,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+104,2,8:38,1718,1718,Sabrina Ionescu missed Jumper.,22,28,-6,3,0.3251284923876011,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+105,2,8:35,1715,1715,Mardrekia Cook Defensive Rebound.,22,28,-6,16,0.3249030746650438,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+106,2,8:19,1699,1699,Foul on Jenna Allen.,22,28,-6,0,0.32369066248985207,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+107,2,8:19,1699,1699,Jenna Allen Turnover.,22,28,-6,12,0.32369066248985207,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+108,2,8:07,1687,1687,Sabrina Ionescu missed Three Point Jumper.,22,28,-6,2,0.3227703811678906,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+109,2,8:05,1685,1685,Satou Sabally Offensive Rebound.,22,28,-6,0,0.3226174615228109,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+110,2,8:05,1685,1685,Foul on Taryn McCutcheon.,22,28,-6,4,0.3226174615228109,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+111,2,8:01,1681,1681,Ruthy Hebard made Jumper. Assisted by Sabrina Ionescu.,22,30,-8,7,0.2707378373047298,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,Oregon
+112,2,7:54,1674,1674,Mardrekia Cook made Layup. Assisted by Taryn McCutcheon.,24,30,-6,23,0.3217852279427711,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,Michigan State
+113,2,7:31,1651,1651,Satou Sabally made Jumper. Assisted by Maite Cazorla.,24,32,-8,19,0.26805767148344295,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,Oregon
+114,2,7:12,1632,1632,Mardrekia Cook made Layup. Assisted by Victoria Gaines.,26,32,-6,20,0.31871486141293875,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,Michigan State
+115,2,6:52,1612,1612,Taylor Chavez missed Three Point Jumper.,26,32,-6,4,0.3172904646789545,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+116,2,6:48,1608,1608,Ruthy Hebard Offensive Rebound.,26,32,-6,2,0.31700697253440185,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+117,2,6:46,1606,1606,Sabrina Ionescu Turnover.,26,32,-6,9,0.31686532511991267,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+118,2,6:37,1597,1597,Mardrekia Cook Turnover.,26,32,-6,21,0.3162283714157315,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+119,2,6:16,1576,1576,Satou Sabally missed Three Point Jumper.,26,32,-6,4,0.3147402825907659,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+120,2,6:12,1572,1572,Taryn McCutcheon Defensive Rebound.,26,32,-6,5,0.3144557372347473,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+121,2,6:07,1567,1567,Jenna Allen made Three Point Jumper. Assisted by Taryn McCutcheon.,29,32,-3,16,0.4035940589511651,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,Michigan State
+122,2,5:51,1551,1551,Sabrina Ionescu missed Layup.,29,32,-3,3,0.40295181721744616,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+123,2,5:48,1548,1548,Lydia Giomi Offensive Rebound.,29,32,-3,1,0.40283035013651963,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+124,2,5:47,1547,1547,Lydia Giomi made Layup.,29,34,-5,20,0.34154336624621506,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,Oregon
+125,2,5:27,1527,1527,Victoria Gaines Turnover.,29,34,-5,14,0.34026388581692935,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+126,2,5:13,1513,1513,Sabrina Ionescu made Three Point Jumper. Assisted by Taylor Chavez.,29,37,-8,16,0.25617919181522447,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,Oregon
+127,2,4:57,1497,1497,Foul on Lydia Giomi.,29,37,-8,0,0.2547224881735076,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+128,2,4:57,1497,1497,Official TV Timeout,29,37,-8,19,0.2547224881735076,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+129,2,4:38,1478,1478,Taryn McCutcheon made Three Point Jumper.,32,37,-5,16,0.33696035010309033,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,Michigan State
+130,2,4:22,1462,1462,Taylor Chavez Turnover.,32,37,-5,14,0.33581208311226945,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+131,2,4:08,1448,1448,Nia Hollie made Layup.,34,37,-3,14,0.3984316526099437,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,Michigan State
+132,2,3:54,1434,1434,Sabrina Ionescu Turnover.,34,37,-3,14,0.39776623897298613,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+133,2,3:40,1420,1420,Sidney Cooks missed Jumper.,34,37,-3,4,0.3971189796612946,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+134,2,3:36,1416,1416,Sabrina Ionescu Defensive Rebound.,34,37,-3,7,0.3969368363875747,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+135,2,3:29,1409,1409,Sabrina Ionescu missed Jumper.,34,37,-3,3,0.39662061133917376,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+136,2,3:26,1406,1406,Jenna Allen Defensive Rebound.,34,37,-3,21,0.3964859709947734,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+137,2,3:05,1385,1385,Nia Hollie made Layup. Assisted by Sidney Cooks.,36,37,-1,15,0.4647235191841378,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,Michigan State
+138,2,2:50,1370,1370,Oti Gildon Turnover.,36,37,-1,0,0.46449518583752314,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+139,2,2:50,1370,1370,Sidney Cooks Steal.,36,37,-1,6,0.46449518583752314,Michigan State,Oregon,4,4,0,0,NA,401094700,2018-12-09,
+140,2,2:44,1364,1364,Jenna Allen made Three Point Jumper. Assisted by Taryn McCutcheon.,39,37,2,0,0.5708330867884075,Michigan State,Oregon,4,4,0,1,NA,401094700,2018-12-09,Michigan State
+141,2,2:44,1364,1364,Foul on Sabrina Ionescu.,39,37,2,0,0.5708330867884075,Michigan State,Oregon,4,4,0,1,NA,401094700,2018-12-09,
+142,2,2:44,1364,1364,Oregon  Timeout,39,37,2,1,0.5708330867884075,Michigan State,Oregon,4,3,0,1,NA,401094700,2018-12-09,
+143,2,2:43,1363,1363,Jenna Allen missed Free Throw.,39,37,2,2,0.5708630521351009,Michigan State,Oregon,4,3,0,1,NA,401094700,2018-12-09,
+144,2,2:41,1361,1361,Ruthy Hebard Defensive Rebound.,39,37,2,10,0.5709230019849232,Michigan State,Oregon,4,3,0,1,NA,401094700,2018-12-09,
+145,2,2:31,1351,1351,Sabrina Ionescu missed Jumper.,39,37,2,3,0.5712233848382078,Michigan State,Oregon,4,3,0,1,NA,401094700,2018-12-09,
+146,2,2:28,1348,1348,Michigan State Defensive Rebound.,39,37,2,13,0.5713137995173716,Michigan State,Oregon,4,3,0,1,NA,401094700,2018-12-09,
+147,2,2:15,1335,1335,Jenna Allen made Jumper. Assisted by Nia Hollie.,41,37,4,15,0.6405257663082089,Michigan State,Oregon,4,3,0,1,NA,401094700,2018-12-09,Michigan State
+148,2,2:00,1320,1320,Maite Cazorla missed Three Point Jumper.,41,37,4,3,0.6413942840217873,Michigan State,Oregon,4,3,0,1,NA,401094700,2018-12-09,
+149,2,1:57,1317,1317,Oti Gildon Offensive Rebound.,41,37,4,1,0.6415701162583524,Michigan State,Oregon,4,3,0,1,NA,401094700,2018-12-09,
+150,2,1:56,1316,1316,Oti Gildon made Layup.,41,39,2,14,0.5722949162054078,Michigan State,Oregon,4,3,0,1,NA,401094700,2018-12-09,Oregon
+151,2,1:42,1302,1302,Taryn McCutcheon missed Three Point Jumper.,41,39,2,3,0.572738808810413,Michigan State,Oregon,4,3,0,0,NA,401094700,2018-12-09,
+152,2,1:39,1299,1299,Ruthy Hebard Defensive Rebound.,41,39,2,10,0.5728354890781201,Michigan State,Oregon,4,3,0,0,NA,401094700,2018-12-09,
+153,2,1:29,1289,1289,Sabrina Ionescu Turnover.,41,39,2,0,0.5731622952208199,Michigan State,Oregon,4,3,0,0,NA,401094700,2018-12-09,
+154,2,1:29,1289,1289,Jenna Allen Steal.,41,39,2,7,0.5731622952208199,Michigan State,Oregon,4,3,0,0,NA,401094700,2018-12-09,
+155,2,1:22,1282,1282,Sidney Cooks made Three Point Jumper. Assisted by Taryn McCutcheon.,44,39,5,21,0.6768420754083765,Michigan State,Oregon,4,3,0,0,NA,401094700,2018-12-09,Michigan State
+156,2,1:01,1261,1261,Ruthy Hebard missed Layup.,44,39,5,4,0.678462929686586,Michigan State,Oregon,4,3,0,0,NA,401094700,2018-12-09,
+157,2,0:57,1257,1257,Sidney Cooks Defensive Rebound.,44,39,5,17,0.6787822442474266,Michigan State,Oregon,4,3,0,0,NA,401094700,2018-12-09,
+158,2,0:40,1240,1240,Taryn McCutcheon missed Jumper.,44,39,5,3,0.6801822273590818,Michigan State,Oregon,4,3,0,0,NA,401094700,2018-12-09,
+159,2,0:37,1237,1237,Sabrina Ionescu Defensive Rebound.,44,39,5,9,0.680436980733746,Michigan State,Oregon,4,3,0,0,NA,401094700,2018-12-09,
+160,2,0:28,1228,1228,Maite Cazorla Turnover.,44,39,5,0,0.6812161510740998,Michigan State,Oregon,4,3,0,0,NA,401094700,2018-12-09,
+161,2,0:28,1228,1228,Nia Hollie Steal.,44,39,5,6,0.6812161510740998,Michigan State,Oregon,4,3,0,0,NA,401094700,2018-12-09,
+162,2,0:22,1222,1222,Sidney Cooks made Layup. Assisted by Taryn McCutcheon.,46,39,7,21,0.7439396651004332,Michigan State,Oregon,4,3,0,0,NA,401094700,2018-12-09,Michigan State
+163,2,0:01,1201,1201,Maite Cazorla Turnover.,46,39,7,0,0.7463081927719248,Michigan State,Oregon,4,3,0,0,NA,401094700,2018-12-09,
+164,2,0:01,1201,1201,Taryn McCutcheon Steal.,46,39,7,1,0.7463081927719248,Michigan State,Oregon,4,3,0,0,NA,401094700,2018-12-09,
+165,2,0:00,1200,1200,End of 2nd Quarter,46,39,7,14,0.7464201950257411,Michigan State,Oregon,4,3,0,0,NA,401094700,2018-12-09,
+166,3,9:46,1186,1186,Erin Boley made Jumper. Assisted by Maite Cazorla.,46,41,5,15,0.6850298702424034,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Oregon
+167,3,9:31,1171,1171,Foul on Satou Sabally.,46,41,5,0,0.6863469622172212,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+168,3,9:31,1171,1171,Mardrekia Cook made Free Throw.,47,41,6,0,0.7190420954768674,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Michigan State
+169,3,9:31,1171,1171,Mardrekia Cook made Free Throw.,48,41,7,18,0.7495726200922592,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Michigan State
+170,3,9:13,1153,1153,Foul on Victoria Gaines.,48,41,7,0,0.751461519939288,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+171,3,9:13,1153,1153,Sabrina Ionescu missed Free Throw.,48,41,7,0,0.751461519939288,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+172,3,9:13,1153,1153,Oregon Deadball Team Rebound.,48,41,7,0,0.751461519939288,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+173,3,9:13,1153,1153,Sabrina Ionescu made Free Throw.,48,42,6,20,0.720785641524795,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Oregon
+174,3,8:53,1133,1133,Mardrekia Cook missed Layup.,48,42,6,2,0.7226978770190743,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+175,3,8:51,1131,1131,Erin Boley Defensive Rebound.,48,42,6,5,0.7228886212184823,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+176,3,8:46,1126,1126,Erin Boley made Three Point Jumper. Assisted by Maite Cazorla.,48,45,3,25,0.6178916790207294,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Oregon
+177,3,8:21,1101,1101,Mardrekia Cook made Layup.,50,45,5,14,0.6923310949516199,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Michigan State
+178,3,8:07,1087,1087,Erin Boley made Three Point Jumper. Assisted by Sabrina Ionescu.,50,48,2,22,0.5809591718557734,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Oregon
+179,3,7:45,1065,1065,Taryn McCutcheon missed Layup.,50,48,2,4,0.5818658224037415,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+180,3,7:41,1061,1061,Victoria Gaines Offensive Rebound.,50,48,2,1,0.5820352748936806,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+181,3,7:40,1060,1060,Victoria Gaines made Layup.,52,48,4,8,0.6598483264744891,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Michigan State
+182,3,7:32,1052,1052,Satou Sabally Turnover.,52,48,4,0,0.6604842615281447,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+183,3,7:32,1052,1052,Victoria Gaines Steal.,52,48,4,4,0.6604842615281447,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+184,3,7:28,1048,1048,Tory Ozment made Layup. Assisted by Victoria Gaines.,54,48,6,19,0.7311252153222176,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Michigan State
+185,3,7:09,1029,1029,Foul on Sabrina Ionescu.,54,48,6,0,0.7332037686452532,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+186,3,7:09,1029,1029,Sabrina Ionescu Turnover.,54,48,6,20,0.7332037686452532,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+187,3,6:49,1009,1009,Jenna Allen missed Jumper.,54,48,6,3,0.7355172610628778,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+188,3,6:46,1006,1006,Nia Hollie Offensive Rebound.,54,48,6,1,0.7358767862728094,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+189,3,6:45,1005,1005,Nia Hollie made Layup.,56,48,8,10,0.7968988295263075,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Michigan State
+190,3,6:35,995,995,Erin Boley made Jumper.,56,50,6,21,0.7372254133699064,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Oregon
+191,3,6:14,974,974,Taryn McCutcheon Turnover.,56,50,6,0,0.7399433737615658,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+192,3,6:14,974,974,Ruthy Hebard Steal.,56,50,6,5,0.7399433737615658,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+193,3,6:09,969,969,Sabrina Ionescu made Jumper. Assisted by Maite Cazorla.,56,52,4,15,0.6680683401594815,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Oregon
+194,3,5:54,954,954,Taryn McCutcheon made Jumper. Assisted by Jenna Allen.,58,52,6,15,0.7425588924718582,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Michigan State
+195,3,5:39,939,939,Satou Sabally missed Three Point Jumper.,58,52,6,3,0.7443405391089929,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+196,3,5:36,936,936,Jenna Allen Defensive Rebound.,58,52,6,10,0.744680866604752,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+197,3,5:26,926,926,Victoria Gaines made Layup. Assisted by Nia Hollie.,60,52,8,12,0.807678011917457,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Michigan State
+198,3,5:14,914,914,Ruthy Hebard Turnover.,60,52,8,13,0.8090596722470087,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+199,3,5:01,901,901,Nia Hollie Turnover.,60,52,8,0,0.8104975349916564,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+200,3,5:01,901,901,Erin Boley Steal.,60,52,8,17,0.8104975349916564,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+201,3,4:44,884,884,Satou Sabally missed Jumper.,60,52,8,4,0.8123218090790162,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+202,3,4:40,880,880,Sidney Cooks Defensive Rebound.,60,52,8,27,0.8127465906462262,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+203,3,4:13,853,853,Taryn McCutcheon missed Layup.,60,52,8,5,0.8156347081119434,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+204,3,4:08,848,848,Erin Boley Defensive Rebound.,60,52,8,2,0.8161826674138176,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+205,3,4:06,846,846,Satou Sabally made Layup. Assisted by Erin Boley.,60,54,6,21,0.7538268285490572,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Oregon
+206,3,3:45,825,825,Sidney Cooks missed Three Point Jumper.,60,54,6,3,0.756066367803795,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+207,3,3:42,822,822,Maite Cazorla Defensive Rebound.,60,54,6,14,0.7564015671916972,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+208,3,3:28,808,808,Satou Sabally missed Three Point Jumper.,60,54,6,5,0.7580289774167781,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+209,3,3:23,803,803,Satou Sabally Offensive Rebound.,60,54,6,1,0.7586382807941524,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+210,3,3:22,802,802,Satou Sabally missed Layup.,60,54,6,3,0.7587620789032492,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+211,3,3:19,799,799,Erin Boley Offensive Rebound.,60,54,6,2,0.7591374936991029,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+212,3,3:17,797,797,Sabrina Ionescu made Three Point Jumper. Assisted by Erin Boley.,60,57,3,28,0.6398405935542224,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Oregon
+213,3,2:49,769,769,Jenna Allen made Layup. Assisted by Sidney Cooks.,62,57,5,15,0.7262274969301056,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Michigan State
+214,3,2:34,754,754,Erin Boley made Three Point Jumper. Assisted by Maite Cazorla.,62,60,2,23,0.5973896974017431,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Oregon
+215,3,2:11,731,731,Foul on Sidney Cooks.,62,60,2,0,0.5992226330737962,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+216,3,2:11,731,731,Sidney Cooks Turnover.,62,60,2,0,0.5992226330737962,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+217,3,2:11,731,731,Official TV Timeout,62,60,2,11,0.5992226330737962,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+218,3,2:00,720,720,Foul on Lydia Giomi.,62,60,2,0,0.6001416765678396,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+219,3,2:00,720,720,Lydia Giomi Turnover.,62,60,2,22,0.6001416765678396,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+220,3,1:38,698,698,Jenna Allen made Jumper. Assisted by Mardrekia Cook.,64,60,4,14,0.6954621820661493,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Michigan State
+221,3,1:24,684,684,Maite Cazorla missed Three Point Jumper.,64,60,4,4,0.6971326548186279,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+222,3,1:20,680,680,Nia Hollie Defensive Rebound.,64,60,4,5,0.6975937995823726,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+223,3,1:15,675,675,Foul on Maite Cazorla.,64,60,4,0,0.6981633975724223,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+224,3,1:15,675,675,Nia Clouden made Free Throw.,65,60,5,1,0.7404308657596894,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Michigan State
+225,3,1:14,674,674,Nia Clouden missed Free Throw.,65,60,5,1,0.740559906146967,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+226,3,1:13,673,673,Oti Gildon Defensive Rebound.,65,60,5,11,0.7406887071339416,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+227,3,1:02,662,662,Erin Boley missed Three Point Jumper.,65,60,5,4,0.7420958012823039,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+228,3,0:58,658,658,Nia Clouden Defensive Rebound.,65,60,5,5,0.7426064401460188,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+229,3,0:53,653,653,Foul on Sabrina Ionescu.,65,60,5,0,0.7432471168573895,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+230,3,0:53,653,653,Mardrekia Cook made Free Throw.,66,60,6,0,0.7816823605676506,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Michigan State
+231,3,0:53,653,653,Mardrekia Cook made Free Throw.,67,60,7,11,0.8157899622454146,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Michigan State
+232,3,0:42,642,642,Erin Boley missed Jumper.,67,60,7,3,0.8173652473522173,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+233,3,0:39,639,639,Nia Clouden Defensive Rebound.,67,60,7,7,0.8178027009395128,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+234,3,0:32,632,632,Nia Clouden made Jumper.,69,60,9,31,0.8743001338978341,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,Michigan State
+235,3,0:01,601,601,Erin Boley missed Jumper.,69,60,9,1,0.87911494813132,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+236,3,0:00,600,600,Oregon Offensive Rebound.,69,60,9,0,0.8792856595745164,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+237,3,0:00,600,600,End of 3rd Quarter,69,60,9,12,0.8792856595745164,Michigan State,Oregon,5,4,0,0,NA,401094700,2018-12-09,
+238,4,9:48,588,588,Foul on Oti Gildon.,69,60,9,20,0.8814285355180328,Michigan State,Oregon,6,5,0,0,NA,401094700,2018-12-09,
+239,4,9:28,568,568,Nia Clouden Turnover.,69,60,9,0,0.8854385244073435,Michigan State,Oregon,6,5,0,0,NA,401094700,2018-12-09,
+240,4,9:28,568,568,Ruthy Hebard Steal.,69,60,9,15,0.8854385244073435,Michigan State,Oregon,6,5,0,0,NA,401094700,2018-12-09,
+241,4,9:13,553,553,Erin Boley missed Three Point Jumper.,69,60,9,2,0.8888575951995671,Michigan State,Oregon,6,5,0,0,NA,401094700,2018-12-09,
+242,4,9:11,551,551,Michigan State Defensive Rebound.,69,60,9,16,0.8893422840866293,Michigan State,Oregon,6,5,0,0,NA,401094700,2018-12-09,
+243,4,8:55,535,535,Mardrekia Cook Turnover.,69,60,9,0,0.8929186977965649,Michigan State,Oregon,6,5,0,0,NA,401094700,2018-12-09,
+244,4,8:55,535,535,Ruthy Hebard Steal.,69,60,9,22,0.8929186977965649,Michigan State,Oregon,6,5,0,0,NA,401094700,2018-12-09,
+245,4,8:33,513,513,Sabrina Ionescu missed Jumper.,69,60,9,3,0.8969143336321738,Michigan State,Oregon,6,5,0,0,NA,401094700,2018-12-09,
+246,4,8:30,510,510,Nia Clouden Defensive Rebound.,69,60,9,5,0.8974140782984469,Michigan State,Oregon,6,5,0,0,NA,401094700,2018-12-09,
+247,4,8:25,505,505,Nia Clouden made Layup.,71,60,11,17,0.9347306503955103,Michigan State,Oregon,6,5,0,0,NA,401094700,2018-12-09,Michigan State
+248,4,8:08,488,488,Satou Sabally missed Three Point Jumper.,71,60,11,4,0.9370059551490366,Michigan State,Oregon,6,5,0,0,NA,401094700,2018-12-09,
+249,4,8:04,484,484,Mardrekia Cook Defensive Rebound.,71,60,11,6,0.9375573682206729,Michigan State,Oregon,6,5,0,0,NA,401094700,2018-12-09,
+250,4,7:58,478,478,Victoria Gaines missed Jumper.,71,60,11,3,0.9384084594885848,Michigan State,Oregon,6,5,0,0,NA,401094700,2018-12-09,
+251,4,7:55,475,475,Satou Sabally Defensive Rebound.,71,60,11,8,0.9388473099283148,Michigan State,Oregon,6,5,0,0,NA,401094700,2018-12-09,
+252,4,7:47,467,467,Ruthy Hebard made Jumper. Assisted by Maite Cazorla.,71,62,9,2,0.9048476458903613,Michigan State,Oregon,6,5,0,0,NA,401094700,2018-12-09,Oregon
+253,4,7:45,465,465,Oregon  Timeout,71,62,9,0,0.9052476804690444,Michigan State,Oregon,6,4,0,1,NA,401094700,2018-12-09,
+254,4,7:45,465,465,Official TV Timeout,71,62,9,11,0.9052476804690444,Michigan State,Oregon,6,4,0,1,NA,401094700,2018-12-09,
+255,4,7:34,454,454,Mardrekia Cook Turnover.,71,62,9,0,0.9076030327592164,Michigan State,Oregon,6,4,0,1,NA,401094700,2018-12-09,
+256,4,7:34,454,454,Satou Sabally Steal.,71,62,9,12,0.9076030327592164,Michigan State,Oregon,6,4,0,1,NA,401094700,2018-12-09,
+257,4,7:22,442,442,Ruthy Hebard missed Jumper.,71,62,9,3,0.9105201939565579,Michigan State,Oregon,6,4,0,1,NA,401094700,2018-12-09,
+258,4,7:19,439,439,Erin Boley Offensive Rebound.,71,62,9,2,0.91131335039223,Michigan State,Oregon,6,4,0,1,NA,401094700,2018-12-09,
+259,4,7:17,437,437,Sabrina Ionescu made Three Point Jumper. Assisted by Maite Cazorla.,71,65,6,25,0.8260206868956402,Michigan State,Oregon,6,4,0,1,NA,401094700,2018-12-09,Oregon
+260,4,6:52,412,412,Jenna Allen made Jumper. Assisted by Victoria Gaines.,73,65,8,20,0.896236506865644,Michigan State,Oregon,6,4,0,1,NA,401094700,2018-12-09,Michigan State
+261,4,6:32,392,392,Sabrina Ionescu made Three Point Jumper. Assisted by Maite Cazorla.,73,68,5,26,0.799663494872302,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,Oregon
+262,4,6:06,366,366,Foul on Maite Cazorla.,73,68,5,0,0.8074954748118961,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+263,4,6:06,366,366,Nia Clouden made Free Throw.,74,68,6,0,0.848203702514718,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,Michigan State
+264,4,6:06,366,366,Nia Clouden made Free Throw.,75,68,7,12,0.8815660916980794,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,Michigan State
+265,4,5:54,354,354,Ruthy Hebard made Jumper. Assisted by Satou Sabally.,75,70,5,22,0.8114875762253236,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,Oregon
+266,4,5:32,332,332,Victoria Gaines missed Layup.,75,70,5,0,0.8199234529676563,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+267,4,5:32,332,332,Satou Sabally Block.,75,70,5,8,0.8199234529676563,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+268,4,5:24,324,324,Nia Clouden Offensive Rebound.,75,70,5,0,0.8234449651467922,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+269,4,5:24,324,324,Nia Clouden missed Layup.,75,70,5,4,0.8234449651467922,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+270,4,5:20,320,320,Ruthy Hebard Defensive Rebound.,75,70,5,5,0.8253096985658215,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+271,4,5:15,315,315,Erin Boley missed Three Point Jumper.,75,70,5,3,0.8277432115379985,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+272,4,5:12,312,312,Taryn McCutcheon Defensive Rebound.,75,70,5,22,0.8292597292976239,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+273,4,4:50,290,290,Taryn McCutcheon missed Layup.,75,70,5,3,0.8353564939465343,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+274,4,4:47,287,287,Satou Sabally Defensive Rebound.,75,70,5,3,0.8353770740815923,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+275,4,4:44,284,284,Erin Boley missed Three Point Jumper.,75,70,5,4,0.8352565748613903,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+276,4,4:40,280,280,Jenna Allen Defensive Rebound.,75,70,5,23,0.8349055121973116,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+277,4,4:17,257,257,Nia Hollie Turnover.,75,70,5,0,0.8305831149874437,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+278,4,4:17,257,257,Official TV Timeout,75,70,5,18,0.8305831149874437,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+279,4,3:59,239,239,Maite Cazorla made Three Point Jumper. Assisted by Sabrina Ionescu.,75,73,2,32,0.6521649899957244,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,Oregon
+280,4,3:27,207,207,Taryn McCutcheon missed Layup.,75,73,2,3,0.6584576729617606,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+281,4,3:24,204,204,Satou Sabally Defensive Rebound.,75,73,2,4,0.660029979777004,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+282,4,3:20,200,200,Foul on Jenna Allen.,75,73,2,5,0.6624573378400163,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+283,4,3:15,195,195,Erin Boley made Jumper. Assisted by Sabrina Ionescu.,75,75,0,22,0.5,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,Oregon
+284,4,2:53,173,173,Jenna Allen made Layup. Assisted by Sidney Cooks.,77,75,2,11,0.6859973193683748,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,Michigan State
+285,4,2:42,162,162,Ruthy Hebard made Layup. Assisted by Satou Sabally.,77,77,0,24,0.5,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,Oregon
+286,4,2:18,138,138,Sidney Cooks made Jumper. Assisted by Taryn McCutcheon.,79,77,2,19,0.7214794658863791,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,Michigan State
+287,4,1:59,119,119,Maite Cazorla missed Three Point Jumper.,79,77,2,3,0.7444184944788205,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+288,4,1:56,116,116,Michigan State Defensive Rebound.,79,77,2,13,0.7483435659427222,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+289,4,1:43,103,103,Foul on Sabrina Ionescu.,79,77,2,5,0.7663598677580039,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+290,4,1:38,98,98,Taryn McCutcheon made Three Point Jumper. Assisted by Nia Clouden.,82,77,5,19,0.955792860831193,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,Michigan State
+291,4,1:19,79,79,Maite Cazorla missed Three Point Jumper.,82,77,5,1,0.9707444644683182,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+292,4,1:18,78,78,Ruthy Hebard Offensive Rebound.,82,77,5,1,0.9714122603985966,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+293,4,1:17,77,77,Foul on Jenna Allen.,82,77,5,12,0.9720701627339999,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,
+294,4,1:05,65,65,Ruthy Hebard made Jumper.,82,79,3,8,0.9097965570007291,Michigan State,Oregon,6,4,0,0,NA,401094700,2018-12-09,Oregon
+295,4,0:57,57,57,Michigan State  Timeout,82,79,3,23,0.9197295518563419,Michigan State,Oregon,5,4,1,0,NA,401094700,2018-12-09,
+296,4,0:34,34,34,Jenna Allen made Three Point Jumper. Assisted by Nia Clouden.,85,79,6,0,0.9965927181247126,Michigan State,Oregon,5,4,1,1,NA,401094700,2018-12-09,Michigan State
+297,4,0:34,34,34,Oregon  Timeout,85,79,6,5,0.9965927181247126,Michigan State,Oregon,5,3,1,1,NA,401094700,2018-12-09,
+298,4,0:29,29,29,Sabrina Ionescu missed Layup.,85,79,6,2,0.9971737919323381,Michigan State,Oregon,5,3,1,1,NA,401094700,2018-12-09,
+299,4,0:27,27,27,Jenna Allen Defensive Rebound.,85,79,6,9,0.9973802969153209,Michigan State,Oregon,5,3,1,1,NA,401094700,2018-12-09,
+300,4,0:18,18,18,Foul on Ruthy Hebard.,85,79,6,0,0.998154735048266,Michigan State,Oregon,5,3,1,1,NA,401094700,2018-12-09,
+301,4,0:18,18,18,Michigan State  Turnover.,85,79,6,5,0.998154735048266,Michigan State,Oregon,5,3,1,1,NA,401094700,2018-12-09,
+302,4,0:13,13,13,Sabrina Ionescu missed Three Point Jumper.,85,79,6,1,0.9984958368847389,Michigan State,Oregon,5,3,1,1,NA,401094700,2018-12-09,
+303,4,0:12,12,12,Michigan State Defensive Rebound.,85,79,6,2,0.9985572113565686,Michigan State,Oregon,5,3,1,1,NA,401094700,2018-12-09,
+304,4,0:10,10,10,Michigan State  Timeout,85,79,6,3,0.9986734913790579,Michigan State,Oregon,4,3,1,1,NA,401094700,2018-12-09,
+305,4,0:07,7,7,Foul on Erin Boley.,85,79,6,0,0.9988324936396711,Michigan State,Oregon,4,3,1,1,NA,401094700,2018-12-09,
+306,4,0:07,7,7,Taryn McCutcheon made Free Throw.,86,79,7,0,0.9996207755773373,Michigan State,Oregon,4,3,1,1,NA,401094700,2018-12-09,Michigan State
+307,4,0:07,7,7,Taryn McCutcheon made Free Throw.,87,79,8,0,0.9998768875463498,Michigan State,Oregon,4,3,1,1,NA,401094700,2018-12-09,Michigan State
+308,4,0:07,7,7,Oregon  Timeout,87,79,8,2,0.9998768875463498,Michigan State,Oregon,4,2,1,1,NA,401094700,2018-12-09,
+309,4,0:05,5,5,Sabrina Ionescu made Three Point Jumper. Assisted by Taylor Chavez.,87,82,5,2,0.99665943014498,Michigan State,Oregon,4,2,1,1,NA,401094700,2018-12-09,Oregon
+310,4,0:03,3,3,Foul on Sabrina Ionescu.,87,82,5,0,0.9968920744933377,Michigan State,Oregon,4,2,1,1,NA,401094700,2018-12-09,
+311,4,0:03,3,3,Taryn McCutcheon missed Free Throw.,87,82,5,0,0.9968920744933377,Michigan State,Oregon,4,2,1,1,NA,401094700,2018-12-09,
+312,4,0:03,3,3,Michigan State Deadball Team Rebound.,87,82,5,0,0.9968920744933377,Michigan State,Oregon,4,2,1,1,NA,401094700,2018-12-09,
+313,4,0:03,3,3,Taryn McCutcheon made Free Throw.,88,82,6,3,0.9990178898163832,Michigan State,Oregon,4,2,1,1,NA,401094700,2018-12-09,Michigan State
+314,4,0:00,0,0,End of 4th Quarter,88,82,6,0,1,Michigan State,Oregon,4,2,1,1,NA,401094700,2018-12-09,
+315,4,0:00,0,0,End of Game,88,82,6,0,1,Michigan State,Oregon,4,2,1,1,NA,401094700,2018-12-09,

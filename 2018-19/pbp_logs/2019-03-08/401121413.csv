@@ -1,0 +1,353 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:45,2385,2385,Foul on Mandy Simpson.,0,0,0,0,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,NA
+2,1,9:45,2385,2385,Zuri Sanders made Free Throw.,0,1,-1,0,0.47778530933840474,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+3,1,9:45,2385,2385,Zuri Sanders made Free Throw.,0,2,-2,13,0.45565814815875233,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+4,1,9:32,2372,2372,Foul on Sydney Goodson.,0,2,-2,0,0.4553819653286264,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+5,1,9:32,2372,2372,Ana Llanusa made Free Throw.,1,2,-1,0,0.4776463928503165,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Oklahoma
+6,1,9:32,2372,2372,Ana Llanusa made Free Throw.,2,2,0,8,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Oklahoma
+7,1,9:24,2364,2364,Brittany Brewer made Three Point Jumper. Assisted by Sydney Goodson.,2,5,-3,26,0.4330403178930196,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+8,1,8:58,2338,2338,Mandy Simpson made Layup. Assisted by Madi Williams.,4,5,-1,17,0.4772775329142592,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Oklahoma
+9,1,8:41,2321,2321,Brittany Brewer Turnover.,4,5,-1,1,0.47709034100278574,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+10,1,8:40,2320,2320,Madi Williams Steal.,4,5,-1,7,0.47707927648367326,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+11,1,8:33,2313,2313,Madi Williams missed Jumper.,4,5,-1,0,0.4770016653934843,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+12,1,8:33,2313,2313,Mandy Simpson Offensive Rebound.,4,5,-1,6,0.4770016653934843,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+13,1,8:27,2307,2307,Taylor Robertson made Three Point Jumper. Assisted by Mandy Simpson.,7,5,2,14,0.5460321953134282,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Oklahoma
+14,1,8:13,2293,2293,Chrislyn Carr made Jumper.,7,7,0,19,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+15,1,7:54,2274,2274,Ana Llanusa made Three Point Jumper. Assisted by Jessi Murcer.,10,7,3,14,0.5698972479600887,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Oklahoma
+16,1,7:40,2260,2260,Brittany Brewer made Three Point Jumper. Assisted by Angel Hayden.,10,10,0,18,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+17,1,7:22,2242,2242,Ana Llanusa missed Three Point Jumper.,10,10,0,0,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+18,1,7:22,2242,2242,Brittany Brewer Defensive Rebound.,10,10,0,9,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+19,1,7:13,2233,2233,Chrislyn Carr missed Three Point Jumper.,10,10,0,0,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+20,1,7:13,2233,2233,Sydney Goodson Offensive Rebound.,10,10,0,8,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+21,1,7:05,2225,2225,Zuri Sanders made Jumper. Assisted by Sydney Goodson.,10,12,-2,5,0.4521216646323532,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+22,1,7:00,2220,2220,Ana Llanusa made Layup. Assisted by Madi Williams.,12,12,0,12,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Oklahoma
+23,1,6:48,2208,2208,Angel Hayden missed Three Point Jumper.,12,12,0,0,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+24,1,6:48,2208,2208,Jessi Murcer Defensive Rebound.,12,12,0,24,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+25,1,6:24,2184,2184,Ana Llanusa missed Jumper.,12,12,0,0,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+26,1,6:24,2184,2184,Mandy Simpson Offensive Rebound.,12,12,0,6,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+27,1,6:18,2178,2178,Jessi Murcer made Jumper. Assisted by Mandy Simpson.,14,12,2,18,0.5489574292043569,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Oklahoma
+28,1,6:00,2160,2160,Chrislyn Carr made Three Point Jumper. Assisted by Angel Hayden.,14,15,-1,18,0.4752528051079688,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+29,1,5:42,2142,2142,Taylor Robertson missed Three Point Jumper.,14,15,-1,0,0.47504207875235266,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+30,1,5:42,2142,2142,Angel Hayden Defensive Rebound.,14,15,-1,11,0.47504207875235266,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+31,1,5:31,2131,2131,Sydney Goodson Turnover.,14,15,-1,12,0.47491263966625974,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+32,1,5:19,2119,2119,Madi Williams made Layup. Assisted by Nydia Lampkin.,16,15,1,16,0.5252291714270902,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Oklahoma
+33,1,5:03,2103,2103,Zuri Sanders made Jumper. Assisted by Brittany Brewer.,16,17,-1,13,0.47458071572562543,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+34,1,4:50,2090,2090,Nydia Lampkin Turnover.,16,17,-1,0,0.47442533718173074,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+35,1,4:50,2090,2090,Official TV Timeout,16,17,-1,1,0.47442533718173074,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+36,1,4:49,2089,2089,Official TV Timeout,16,17,-1,11,0.4744133499307184,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+37,1,4:38,2078,2078,Brittany Brewer made Layup. Assisted by Sydney Goodson.,16,19,-3,12,0.4233835468592264,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+38,1,4:26,2066,2066,Jessi Murcer made Layup.,18,19,-1,24,0.4741362029562442,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Oklahoma
+39,1,4:02,2042,2042,Angel Hayden missed Three Point Jumper.,18,19,-1,0,0.4738439093142479,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+40,1,4:02,2042,2042,Oklahoma Defensive Rebound.,18,19,-1,15,0.4738439093142479,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+41,1,3:47,2027,2027,Ana Llanusa made Jumper.,20,19,1,15,0.526340483256421,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Oklahoma
+42,1,3:32,2012,2012,Chrislyn Carr Turnover.,20,19,1,14,0.5265262594599909,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+43,1,3:18,1998,1998,Jessi Murcer missed Jumper.,20,19,1,0,0.5267009496278943,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+44,1,3:18,1998,1998,Nydia Lampkin Offensive Rebound.,20,19,1,16,0.5267009496278943,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+45,1,3:02,1982,1982,Foul on Sydney Goodson.,20,19,1,5,0.52690219264,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+46,1,2:57,1977,1977,Madi Williams made Jumper. Assisted by Ana Llanusa.,22,19,3,10,0.5802743095629743,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Oklahoma
+47,1,2:47,1967,1967,Foul on Ana Llanusa.,22,19,3,3,0.5806466003782391,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+48,1,2:44,1964,1964,Brittany Brewer made Jumper. Assisted by Chrislyn Carr.,22,21,1,11,0.5271307106723907,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+49,1,2:33,1953,1953,Jessi Murcer made Jumper. Assisted by Madi Williams.,24,21,3,19,0.5811712110282169,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Oklahoma
+50,1,2:14,1934,1934,Zuri Sanders made Layup. Assisted by Chrislyn Carr.,24,23,1,8,0.5275168228141781,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+51,1,2:06,1926,1926,Madi Williams Turnover.,24,23,1,11,0.527620859437904,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+52,1,1:55,1915,1915,Brittany Brewer made Jumper. Assisted by Chrislyn Carr.,24,25,-1,11,0.4722362106306855,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+53,1,1:44,1904,1904,Ana Llanusa Turnover.,24,25,-1,4,0.47209346027667076,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+54,1,1:40,1900,1900,Chrislyn Carr Steal.,24,25,-1,0,0.4720415753866909,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+55,1,1:40,1900,1900,Sydney Goodson made Layup. Assisted by Zuri Sanders.,24,27,-3,0,0.416817566772299,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+56,1,1:40,1900,1900,Foul on Taylor Robertson.,24,27,-3,2,0.416817566772299,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+57,1,1:38,1898,1898,Sydney Goodson missed Free Throw.,24,27,-3,0,0.4167416643991403,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+58,1,1:38,1898,1898,Madi Williams Defensive Rebound.,24,27,-3,7,0.4167416643991403,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+59,1,1:31,1891,1891,Taylor Robertson made Three Point Jumper. Assisted by Jessi Murcer.,27,27,0,13,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Oklahoma
+60,1,1:18,1878,1878,Brittany Brewer missed Jumper.,27,27,0,0,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+61,1,1:18,1878,1878,Taylor Robertson Defensive Rebound.,27,27,0,19,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+62,1,0:59,1859,1859,Madi Williams missed Layup.,27,27,0,0,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+63,1,0:59,1859,1859,Brittany Brewer Defensive Rebound.,27,27,0,21,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+64,1,0:38,1838,1838,Brittany Brewer missed Three Point Jumper.,27,27,0,0,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+65,1,0:38,1838,1838,Ana Llanusa Defensive Rebound.,27,27,0,4,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+66,1,0:34,1834,1834,Taylor Robertson Turnover.,27,27,0,16,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+67,1,0:18,1818,1818,Zuri Sanders made Layup.,27,29,-2,18,0.44213890709364023,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+68,1,0:00,1800,1800,Jessi Murcer missed Jumper.,27,29,-2,0,0.44166625058836706,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+69,1,0:00,1800,1800,Mandy Simpson Offensive Rebound.,27,29,-2,0,0.44166625058836706,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+70,1,0:00,1800,1800,End of 1st Quarter,27,29,-2,5,0.44166625058836706,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+71,2,9:55,1795,1795,Ana Llanusa missed Three Point Jumper.,27,29,-2,0,0.44153416235979903,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+72,2,9:55,1795,1795,Eryka Sidney Defensive Rebound.,27,29,-2,11,0.44153416235979903,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+73,2,9:44,1784,1784,Chrislyn Carr Turnover.,27,29,-2,1,0.44124219933886116,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+74,2,9:43,1783,1783,Madi Williams Steal.,27,29,-2,3,0.44121555871107754,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+75,2,9:40,1780,1780,Madi Williams made Layup.,29,29,0,14,0.5,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Oklahoma
+76,2,9:26,1766,1766,Eryka Sidney made Three Point Jumper. Assisted by Brittany Brewer.,29,32,-3,10,0.41165745737907367,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+77,2,9:16,1756,1756,Ana Llanusa made Layup.,31,32,-1,19,0.4701385191826093,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Oklahoma
+78,2,8:57,1737,1737,Zuri Sanders made Jumper.,31,34,-3,17,0.4104922231725536,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+79,2,8:40,1720,1720,Jessi Murcer missed Jumper.,31,34,-3,0,0.4097958819199593,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+80,2,8:40,1720,1720,Brittany Brewer Defensive Rebound.,31,34,-3,8,0.4097958819199593,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+81,2,8:32,1712,1712,Foul on Ana Llanusa.,31,34,-3,0,0.40946439703375087,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+82,2,8:32,1712,1712,Zuri Sanders made Free Throw.,31,35,-4,0,0.38030827573984377,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+83,2,8:32,1712,1712,Zuri Sanders missed Free Throw.,31,35,-4,0,0.38030827573984377,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+84,2,8:32,1712,1712,Nydia Lampkin Defensive Rebound.,31,35,-4,1,0.38030827573984377,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+85,2,8:31,1711,1711,Nydia Lampkin Turnover.,31,35,-4,3,0.3802541961882877,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+86,2,8:28,1708,1708,Brittany Brewer made Layup.,31,37,-6,10,0.3243747947373486,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+87,2,8:18,1698,1698,Foul on Eryka Sidney.,31,37,-6,0,0.32361429574860845,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+88,2,8:18,1698,1698,Taylor Robertson made Free Throw.,32,37,-5,0,0.3510692296490861,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Oklahoma
+89,2,8:18,1698,1698,Taylor Robertson made Free Throw.,33,37,-4,18,0.3795463735611663,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Oklahoma
+90,2,8:00,1680,1680,Eryka Sidney made Three Point Jumper. Assisted by Sydney Goodson.,33,40,-7,13,0.2957900204976792,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+91,2,7:47,1667,1667,Foul on Mandy Simpson.,33,40,-7,0,0.2947058780247077,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+92,2,7:47,1667,1667,Mandy Simpson Turnover.,33,40,-7,27,0.2947058780247077,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+93,2,7:20,1640,1640,Sydney Goodson missed Three Point Jumper.,33,40,-7,0,0.2925126978825573,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+94,2,7:20,1640,1640,Taylor Robertson Defensive Rebound.,33,40,-7,12,0.2925126978825573,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+95,2,7:08,1628,1628,Nydia Lampkin made Layup. Assisted by Taylor Robertson.,35,40,-5,23,0.34656597317040994,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Oklahoma
+96,2,6:45,1605,1605,Chrislyn Carr made Jumper.,35,42,-7,21,0.2897429739879817,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+97,2,6:24,1584,1584,Ijeoma Odimgbe made Jumper.,37,42,-5,19,0.34385030654282556,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Oklahoma
+98,2,6:05,1565,1565,Chrislyn Carr missed Jumper.,37,42,-5,0,0.34267275657361435,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+99,2,6:05,1565,1565,Oklahoma Defensive Rebound.,37,42,-5,23,0.34267275657361435,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+100,2,5:42,1542,1542,Taylor Robertson Turnover.,37,42,-5,4,0.3412262744219781,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+101,2,5:38,1538,1538,Angel Hayden Turnover.,37,42,-5,13,0.3409713476189267,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+102,2,5:25,1525,1525,Tatum Veitenheimer Turnover.,37,42,-5,1,0.340134156497824,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+103,2,5:24,1524,1524,Kiara Shoals Steal.,37,42,-5,9,0.34006915645195807,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+104,2,5:15,1515,1515,Foul on Nydia Lampkin.,37,42,-5,15,0.33947987705900246,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+105,2,5:00,1500,1500,Kiara Shoals missed Jumper.,37,42,-5,0,0.33847882258479245,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+106,2,5:00,1500,1500,Sydney Goodson Offensive Rebound.,37,42,-5,3,0.33847882258479245,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,
+107,2,4:57,1497,1497,Sydney Goodson made Jumper.,37,44,-7,1,0.28102474201688316,Oklahoma,Texas Tech,4,4,0,0,NA,401121413,2019-03-08,Texas Tech
+108,2,4:56,1496,1496,Texas Tech  Timeout,37,44,-7,16,0.2809387807198334,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,
+109,2,4:40,1480,1480,Taylor Robertson made Jumper. Assisted by Gileysa Penzo.,39,44,-5,28,0.3371011407697063,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,Oklahoma
+110,2,4:12,1452,1452,Chrislyn Carr missed Three Point Jumper.,39,44,-5,0,0.3350731817382578,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,
+111,2,4:12,1452,1452,Brittany Brewer Offensive Rebound.,39,44,-5,5,0.3350731817382578,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,
+112,2,4:07,1447,1447,Brittany Brewer made Layup.,39,46,-7,9,0.276515452260659,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,Texas Tech
+113,2,3:58,1438,1438,Nydia Lampkin made Jumper. Assisted by Gileysa Penzo.,41,46,-5,15,0.33403454119982545,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,Oklahoma
+114,2,3:43,1423,1423,Sydney Goodson missed Three Point Jumper.,41,46,-5,0,0.3329549585759021,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+115,2,3:43,1423,1423,Brittany Brewer Offensive Rebound.,41,46,-5,4,0.3329549585759021,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+116,2,3:39,1419,1419,Foul on Ijeoma Odimgbe.,41,46,-5,0,0.3326720828195253,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+117,2,3:39,1419,1419,Brittany Brewer made Free Throw.,41,47,-6,0,0.30251521126012193,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,Texas Tech
+118,2,3:39,1419,1419,Brittany Brewer made Free Throw.,41,48,-7,21,0.2739697461508053,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,Texas Tech
+119,2,3:18,1398,1398,Tatum Veitenheimer missed Layup.,41,48,-7,0,0.27214236874719155,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+120,2,3:18,1398,1398,Brittany Brewer Block.,41,48,-7,1,0.27214236874719155,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+121,2,3:17,1397,1397,Ijeoma Odimgbe Offensive Rebound.,41,48,-7,2,0.27205658676911476,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+122,2,3:15,1395,1395,Ijeoma Odimgbe missed Jumper.,41,48,-7,1,0.2718852931745767,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+123,2,3:14,1394,1394,Chrislyn Carr Defensive Rebound.,41,48,-7,25,0.2717997760248222,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+124,2,2:49,1369,1369,Gileysa Penzo missed Jumper.,41,48,-7,0,0.2696815927686256,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+125,2,2:49,1369,1369,Brittany Brewer Defensive Rebound.,41,48,-7,6,0.2696815927686256,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+126,2,2:43,1363,1363,Chrislyn Carr Turnover.,41,48,-7,8,0.2691761680573052,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+127,2,2:35,1355,1355,Brittany Brewer made Jumper. Assisted by Chrislyn Carr.,41,50,-9,18,0.21609175320930035,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,Texas Tech
+128,2,2:17,1337,1337,Mandy Simpson missed Layup.,41,50,-9,0,0.21440325746455582,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+129,2,2:17,1337,1337,Sydney Goodson Defensive Rebound.,41,50,-9,5,0.21440325746455582,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+130,2,2:12,1332,1332,Chrislyn Carr missed Jumper.,41,50,-9,0,0.21393105701946238,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+131,2,2:12,1332,1332,Gileysa Penzo Defensive Rebound.,41,50,-9,25,0.21393105701946238,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+132,2,1:47,1307,1307,Foul on Chrislyn Carr.,41,50,-9,17,0.21153212511829195,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+133,2,1:30,1290,1290,Mandy Simpson missed Layup.,41,50,-9,0,0.2098490502620084,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+134,2,1:30,1290,1290,Madi Williams Offensive Rebound.,41,50,-9,10,0.2098490502620084,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+135,2,1:20,1280,1280,Mandy Simpson Turnover.,41,50,-9,1,0.20883299587278298,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+136,2,1:19,1279,1279,Zuri Sanders Steal.,41,50,-9,5,0.20873019296162967,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+137,2,1:14,1274,1274,Brittany Brewer missed Jumper.,41,50,-9,0,0.20821270099867223,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+138,2,1:14,1274,1274,Ijeoma Odimgbe Defensive Rebound.,41,50,-9,7,0.20821270099867223,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+139,2,1:07,1267,1267,Gileysa Penzo made Jumper.,43,50,-7,20,0.26069221634585155,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,Oklahoma
+140,2,0:47,1247,1247,Angel Hayden missed Jumper.,43,50,-7,0,0.25870913408265594,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+141,2,0:47,1247,1247,Zuri Sanders Offensive Rebound.,43,50,-7,17,0.25870913408265594,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+142,2,0:30,1230,1230,Foul on Ijeoma Odimgbe.,43,50,-7,0,0.25693048021354736,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+143,2,0:30,1230,1230,Brittany Brewer made Free Throw.,43,51,-8,0,0.2290477269655318,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,Texas Tech
+144,2,0:30,1230,1230,Brittany Brewer missed Free Throw.,43,51,-8,0,0.2290477269655318,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+145,2,0:30,1230,1230,Ijeoma Odimgbe Defensive Rebound.,43,51,-8,29,0.2290477269655318,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+146,2,0:01,1201,1201,Ana Llanusa missed Three Point Jumper.,43,51,-8,0,0.2256281377352615,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+147,2,0:01,1201,1201,Zuri Sanders Defensive Rebound.,43,51,-8,1,0.2256281377352615,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+148,2,0:00,1200,1200,End of 2nd Quarter,43,51,-8,13,0.22551001878002297,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+149,3,9:47,1187,1187,Jessi Murcer Turnover.,43,51,-8,28,0.22399833175479172,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+150,3,9:19,1159,1159,Chrislyn Carr missed Jumper.,43,51,-8,0,0.2208607700643166,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+151,3,9:19,1159,1159,Mandy Simpson Defensive Rebound.,43,51,-8,7,0.2208607700643166,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+152,3,9:12,1152,1152,Taylor Robertson made Three Point Jumper. Assisted by Jessi Murcer.,46,51,-5,21,0.31201852204188807,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,Oklahoma
+153,3,8:51,1131,1131,Angel Hayden made Layup. Assisted by Brittany Brewer.,46,53,-7,9,0.24626334244794937,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,Texas Tech
+154,3,8:42,1122,1122,Ana Llanusa made Three Point Jumper. Assisted by Taylor Robertson.,49,53,-4,23,0.3447753591073529,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,Oklahoma
+155,3,8:19,1099,1099,Brittany Brewer Turnover.,49,53,-4,2,0.3431061703843043,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+156,3,8:17,1097,1097,Jessi Murcer Steal.,49,53,-4,7,0.3429592043869802,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+157,3,8:10,1090,1090,Madi Williams made Layup. Assisted by Ana Llanusa.,51,53,-2,1,0.4191616192735098,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,Oklahoma
+158,3,8:09,1089,1089,Texas Tech  Timeout,51,53,-2,14,0.4191214207917574,Oklahoma,Texas Tech,3,5,1,0,NA,401121413,2019-03-08,
+159,3,7:55,1075,1075,Brittany Brewer made Jumper. Assisted by Sydney Goodson.,51,55,-4,19,0.3413133211609682,Oklahoma,Texas Tech,3,5,1,0,NA,401121413,2019-03-08,Texas Tech
+160,3,7:36,1056,1056,Madi Williams made Layup. Assisted by Mandy Simpson.,53,55,-2,15,0.4177506090507982,Oklahoma,Texas Tech,3,5,1,0,NA,401121413,2019-03-08,Oklahoma
+161,3,7:21,1041,1041,Foul on Jessi Murcer.,53,55,-2,2,0.4170913422935576,Oklahoma,Texas Tech,3,5,1,0,NA,401121413,2019-03-08,
+162,3,7:19,1039,1039,Brittany Brewer missed Layup.,53,55,-2,0,0.41700135839194996,Oklahoma,Texas Tech,3,5,1,0,NA,401121413,2019-03-08,
+163,3,7:19,1039,1039,Brittany Brewer Offensive Rebound.,53,55,-2,3,0.41700135839194996,Oklahoma,Texas Tech,3,5,1,0,NA,401121413,2019-03-08,
+164,3,7:16,1036,1036,Brittany Brewer made Layup.,53,57,-4,10,0.3382037271484429,Oklahoma,Texas Tech,3,5,1,0,NA,401121413,2019-03-08,Texas Tech
+165,3,7:06,1026,1026,Madi Williams made Layup. Assisted by Mandy Simpson.,55,57,-2,12,0.416403241401469,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Oklahoma
+166,3,6:54,1014,1014,Zuri Sanders made Layup.,55,59,-4,2,0.336297214905735,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Texas Tech
+167,3,6:52,1012,1012,Foul on Taylor Robertson.,55,60,-5,0,0.29926364028303304,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Texas Tech
+168,3,6:52,1012,1012,Zuri Sanders made Free Throw.,55,60,-5,11,0.29926364028303304,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+169,3,6:41,1001,1001,Jessi Murcer missed Jumper.,55,60,-5,0,0.2980759535249519,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+170,3,6:41,1001,1001,Chrislyn Carr Defensive Rebound.,55,60,-5,5,0.2980759535249519,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+171,3,6:36,996,996,Foul on Zuri Sanders.,55,60,-5,0,0.29752151930123233,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+172,3,6:36,996,996,Zuri Sanders Turnover.,55,60,-5,10,0.29752151930123233,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+173,3,6:26,986,986,Foul on Angel Hayden.,55,60,-5,6,0.29638363519296423,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+174,3,6:20,980,980,Ana Llanusa made Layup.,57,60,-3,19,0.3726724894512946,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Oklahoma
+175,3,6:01,961,961,Chrislyn Carr missed Jumper.,57,60,-3,0,0.3711356777594915,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+176,3,6:01,961,961,Zuri Sanders Offensive Rebound.,57,60,-3,3,0.3711356777594915,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+177,3,5:58,958,958,Zuri Sanders missed Jumper.,57,60,-3,0,0.370902325561329,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+178,3,5:58,958,958,Brittany Brewer Offensive Rebound.,57,60,-3,1,0.370902325561329,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+179,3,5:57,957,957,Foul on Mandy Simpson.,57,60,-3,0,0.37082541413861964,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+180,3,5:57,957,957,Brittany Brewer missed Free Throw.,57,60,-3,0,0.37082541413861964,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+181,3,5:57,957,957,Texas Tech Deadball Team Rebound.,57,60,-3,0,0.37082541413861964,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+182,3,5:57,957,957,Brittany Brewer made Free Throw.,57,61,-4,11,0.33072602049106065,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Texas Tech
+183,3,5:46,946,946,Ana Llanusa missed Layup.,57,61,-4,0,0.3296902370116193,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+184,3,5:46,946,946,Brittany Brewer Defensive Rebound.,57,61,-4,7,0.3296902370116193,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+185,3,5:39,939,939,Foul on Madi Williams.,57,61,-4,0,0.32906104471892117,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+186,3,5:39,939,939,Chrislyn Carr made Free Throw.,57,62,-5,0,0.2909976609163312,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Texas Tech
+187,3,5:39,939,939,Chrislyn Carr made Free Throw.,57,63,-6,9,0.2556594608910071,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Texas Tech
+188,3,5:30,930,930,Nydia Lampkin made Jumper. Assisted by Madi Williams.,59,63,-4,25,0.32828158935867807,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Oklahoma
+189,3,5:05,905,905,Brittany Brewer missed Three Point Jumper.,59,63,-4,0,0.32624868137530044,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+190,3,5:05,905,905,Taylor Robertson Defensive Rebound.,59,63,-4,8,0.32624868137530044,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+191,3,4:57,897,897,Madi Williams made Layup.,61,63,-2,1,0.40998733431440365,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Oklahoma
+192,3,4:56,896,896,Foul on Zuri Sanders.,61,63,-2,0,0.4099447826435142,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+193,3,4:56,896,896,Official TV Timeout,61,63,-2,0,0.4099447826435142,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+194,3,4:56,896,896,Madi Williams made Free Throw.,62,63,-1,1,0.4546011740991455,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Oklahoma
+195,3,4:55,895,895,Official TV Timeout,61,63,-2,20,0.4099022856912607,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+196,3,4:35,875,875,Foul on Taylor Robertson.,62,63,-1,0,0.45414650486735314,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Oklahoma
+197,3,4:35,875,875,Kiara Shoals missed Free Throw.,62,63,-1,0,0.45414650486735314,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+198,3,4:35,875,875,Texas Tech Deadball Team Rebound.,62,63,-1,0,0.45414650486735314,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+199,3,4:35,875,875,Kiara Shoals made Free Throw.,62,64,-2,10,0.4090578488735066,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Texas Tech
+200,3,4:25,865,865,Foul on Sydney Goodson.,62,64,-2,15,0.4086335391460184,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+201,3,4:10,850,850,Nydia Lampkin missed Jumper.,62,64,-2,0,0.4079835504783856,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+202,3,4:10,850,850,Brittany Brewer Block.,62,64,-2,2,0.4079835504783856,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+203,3,4:08,848,848,Brittany Brewer Defensive Rebound.,62,64,-2,13,0.40789506656782076,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+204,3,3:55,835,835,Foul on Ana Llanusa.,62,64,-2,0,0.4073057192440122,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+205,3,3:55,835,835,Zuri Sanders made Free Throw.,62,65,-3,0,0.3629294374933096,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Texas Tech
+206,3,3:55,835,835,Zuri Sanders made Free Throw.,62,66,-4,10,0.32077133394737245,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Texas Tech
+207,3,3:45,825,825,Madi Williams missed Layup.,62,66,-4,0,0.3199165535846526,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+208,3,3:45,825,825,Madi Williams Offensive Rebound.,62,66,-4,7,0.3199165535846526,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+209,3,3:38,818,818,Foul on Brittany Brewer.,62,66,-4,0,0.3192955398591728,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+210,3,3:38,818,818,Nydia Lampkin missed Free Throw.,62,66,-4,0,0.3192955398591728,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+211,3,3:38,818,818,Oklahoma Deadball Team Rebound.,62,66,-4,0,0.3192955398591728,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+212,3,3:38,818,818,Nydia Lampkin missed Free Throw.,62,66,-4,0,0.3192955398591728,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+213,3,3:38,818,818,Ana Llanusa Offensive Rebound.,62,66,-4,8,0.3192955398591728,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+214,3,3:30,810,810,Taylor Robertson missed Three Point Jumper.,62,66,-4,0,0.3185595525905047,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+215,3,3:30,810,810,Zuri Sanders Defensive Rebound.,62,66,-4,2,0.3185595525905047,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+216,3,3:28,808,808,Foul on Madi Williams.,62,66,-4,0,0.3183707963149146,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+217,3,3:28,808,808,Zuri Sanders made Free Throw.,62,67,-5,0,0.2785659034132582,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Texas Tech
+218,3,3:28,808,808,Zuri Sanders made Free Throw.,62,68,-6,10,0.2419710225832219,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Texas Tech
+219,3,3:18,798,798,Jessi Murcer missed Jumper.,62,68,-6,0,0.24073600105632104,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+220,3,3:18,798,798,Madi Williams Offensive Rebound.,62,68,-6,0,0.24073600105632104,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+221,3,3:18,798,798,Foul on Angel Hayden.,62,68,-6,0,0.24073600105632104,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+222,3,3:18,798,798,Madi Williams made Free Throw.,63,68,-5,0,0.27743770827769876,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Oklahoma
+223,3,3:18,798,798,Madi Williams made Free Throw.,64,68,-4,16,0.3173957683702033,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Oklahoma
+224,3,3:02,782,782,Chrislyn Carr Turnover.,64,68,-4,1,0.31571445765347483,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+225,3,3:01,781,781,Ana Llanusa Steal.,64,68,-4,4,0.315603913858251,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+226,3,2:57,777,777,Jessi Murcer missed Layup.,64,68,-4,0,0.31515485367475937,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+227,3,2:57,777,777,Zuri Sanders Defensive Rebound.,64,68,-4,23,0.31515485367475937,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+228,3,2:34,754,754,Sydney Goodson made Three Point Jumper.,64,71,-7,10,0.20083208021527593,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Texas Tech
+229,3,2:24,744,744,Ana Llanusa missed Layup.,64,71,-7,0,0.19905701366146863,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+230,3,2:24,744,744,Chrislyn Carr Defensive Rebound.,64,71,-7,22,0.19905701366146863,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+231,3,2:02,722,722,Sydney Goodson missed Three Point Jumper.,64,71,-7,0,0.19484364709979582,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+232,3,2:02,722,722,Jessi Murcer Defensive Rebound.,64,71,-7,25,0.19484364709979582,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+233,3,1:37,697,697,Jessi Murcer missed Three Point Jumper.,64,71,-7,0,0.19059737937640486,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+234,3,1:37,697,697,Brittany Brewer Defensive Rebound.,64,71,-7,24,0.19059737937640486,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+235,3,1:13,673,673,Brittany Brewer made Jumper. Assisted by Angel Hayden.,64,73,-9,13,0.1313366071531414,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Texas Tech
+236,3,1:00,660,660,Nydia Lampkin missed Jumper.,64,73,-9,0,0.12956580804289292,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+237,3,1:00,660,660,Angel Hayden Defensive Rebound.,64,73,-9,25,0.12956580804289292,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+238,3,0:35,635,635,Zuri Sanders made Layup. Assisted by Angel Hayden.,64,75,-11,29,0.085819441278459,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,Texas Tech
+239,3,0:06,606,606,Jessi Murcer missed Jumper.,64,75,-11,0,0.08200699677119916,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+240,3,0:06,606,606,Brittany Brewer Defensive Rebound.,64,75,-11,5,0.08200699677119916,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+241,3,0:01,601,601,Chrislyn Carr missed Three Point Jumper.,64,75,-11,0,0.08128748140875579,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+242,3,0:01,601,601,Angel Hayden Offensive Rebound.,64,75,-11,1,0.08128748140875579,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+243,3,0:00,600,600,End of 3rd Quarter,64,75,-11,9,0.08114089109593305,Oklahoma,Texas Tech,3,5,0,0,NA,401121413,2019-03-08,
+244,4,9:51,591,591,Ijeoma Odimgbe made Layup. Assisted by Madi Williams.,66,75,-9,17,0.11912420943588443,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,Oklahoma
+245,4,9:34,574,574,Brittany Brewer made Three Point Jumper. Assisted by Sydney Goodson.,66,78,-12,21,0.062381528700184236,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,Texas Tech
+246,4,9:13,553,553,Jessi Murcer made Jumper. Assisted by Taylor Robertson.,68,78,-10,31,0.09028676085706072,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,Oklahoma
+247,4,8:42,522,522,Brittany Brewer missed Layup.,68,78,-10,0,0.08430046518922457,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+248,4,8:42,522,522,Madi Williams Defensive Rebound.,68,78,-10,15,0.08430046518922457,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+249,4,8:27,507,507,Ana Llanusa missed Three Point Jumper.,68,78,-10,0,0.08197729187912879,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+250,4,8:27,507,507,Zuri Sanders Defensive Rebound.,68,78,-10,15,0.08197729187912879,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+251,4,8:12,492,492,Sydney Goodson missed Three Point Jumper.,68,78,-10,0,0.07973796404350762,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+252,4,8:12,492,492,Ana Llanusa Block.,68,78,-10,2,0.07973796404350762,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+253,4,8:10,490,490,Zuri Sanders Offensive Rebound.,68,78,-10,2,0.07943517352621712,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+254,4,8:08,488,488,Zuri Sanders made Layup.,68,80,-12,13,0.049969934445609154,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,Texas Tech
+255,4,7:55,475,475,Ana Llanusa missed Layup.,68,80,-12,0,0.04835708650860952,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+256,4,7:55,475,475,Sydney Goodson Defensive Rebound.,68,80,-12,18,0.04835708650860952,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+257,4,7:37,457,457,Foul on Madi Williams.,68,80,-12,0,0.04584050553545475,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+258,4,7:37,457,457,Zuri Sanders made Free Throw.,68,81,-13,0,0.03596315277110392,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,Texas Tech
+259,4,7:37,457,457,Zuri Sanders missed Free Throw.,68,81,-13,0,0.03596315277110392,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+260,4,7:37,457,457,Oklahoma Defensive Rebound.,68,81,-13,20,0.03596315277110392,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+261,4,7:17,437,437,Jessi Murcer missed Layup.,68,81,-13,0,0.03308659472184619,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+262,4,7:17,437,437,Brittany Brewer Block.,68,81,-13,3,0.03308659472184619,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+263,4,7:14,434,434,Brittany Brewer Defensive Rebound.,68,81,-13,2,0.032605587844916524,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+264,4,7:12,432,432,Sydney Goodson missed Three Point Jumper.,68,81,-13,0,0.03227743763406462,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+265,4,7:12,432,432,Madi Williams Defensive Rebound.,68,81,-13,0,0.03227743763406462,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+266,4,7:12,432,432,Foul on Brittany Brewer.,68,81,-13,5,0.03227743763406462,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+267,4,7:07,427,427,Ana Llanusa missed Three Point Jumper.,68,81,-13,0,0.031447218639103394,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+268,4,7:07,427,427,Chrislyn Carr Defensive Rebound.,68,81,-13,17,0.031447218639103394,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+269,4,6:50,410,410,Brittany Brewer made Jumper. Assisted by Chrislyn Carr.,68,83,-15,11,0.0170588759975886,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,Texas Tech
+270,4,6:39,399,399,Ana Llanusa made Layup.,70,83,-13,0,0.027496306919986797,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,Oklahoma
+271,4,6:39,399,399,Foul on Brittany Brewer.,70,83,-13,0,0.027496306919986797,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+272,4,6:39,399,399,Ana Llanusa missed Free Throw.,70,83,-13,0,0.027496306919986797,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+273,4,6:39,399,399,Oklahoma Deadball Team Rebound.,70,83,-13,2,0.027496306919986797,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+274,4,6:37,397,397,Foul on Sydney Goodson.,70,83,-13,7,0.02724482027074166,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+275,4,6:30,390,390,Jessi Murcer missed Three Point Jumper.,70,83,-13,0,0.02638073041318372,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+276,4,6:30,390,390,Chrislyn Carr Defensive Rebound.,70,83,-13,15,0.02638073041318372,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+277,4,6:15,375,375,Chrislyn Carr made Three Point Jumper. Assisted by Zuri Sanders.,70,86,-16,9,0.010656117960526616,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,Texas Tech
+278,4,6:06,366,366,Taylor Robertson missed Jumper.,70,86,-16,0,0.010068570585480253,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+279,4,6:06,366,366,Brittany Brewer Defensive Rebound.,70,86,-16,6,0.010068570585480253,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,
+280,4,6:00,360,360,Chrislyn Carr made Layup. Assisted by Brittany Brewer.,70,88,-18,8,0.005447451509179883,Oklahoma,Texas Tech,4,6,0,0,NA,401121413,2019-03-08,Texas Tech
+281,4,5:52,352,352,Oklahoma  Timeout,70,88,-18,7,0.005109814921850665,Oklahoma,Texas Tech,4,5,0,1,NA,401121413,2019-03-08,
+282,4,5:45,345,345,Foul on Zuri Sanders.,70,88,-18,9,0.004811265876767675,Oklahoma,Texas Tech,4,5,0,1,NA,401121413,2019-03-08,
+283,4,5:36,336,336,Madi Williams Turnover.,70,88,-18,1,0.004422607619756556,Oklahoma,Texas Tech,4,5,0,1,NA,401121413,2019-03-08,
+284,4,5:35,335,335,Angel Hayden Steal.,70,88,-18,15,0.0043791077428928776,Oklahoma,Texas Tech,4,5,0,1,NA,401121413,2019-03-08,
+285,4,5:20,320,320,Brittany Brewer missed Jumper.,70,88,-18,0,0.0037215800683463073,Oklahoma,Texas Tech,4,5,0,1,NA,401121413,2019-03-08,
+286,4,5:20,320,320,Mandy Simpson Defensive Rebound.,70,88,-18,7,0.0037215800683463073,Oklahoma,Texas Tech,4,5,0,1,NA,401121413,2019-03-08,
+287,4,5:13,313,313,Ana Llanusa missed Layup.,70,88,-18,0,0.0034140211318577146,Oklahoma,Texas Tech,4,5,0,1,NA,401121413,2019-03-08,
+288,4,5:13,313,313,Brittany Brewer Block.,70,88,-18,0,0.0034140211318577146,Oklahoma,Texas Tech,4,5,0,1,NA,401121413,2019-03-08,
+289,4,5:13,313,313,Oklahoma Offensive Rebound.,70,88,-18,12,0.0034140211318577146,Oklahoma,Texas Tech,4,5,0,1,NA,401121413,2019-03-08,
+290,4,5:01,301,301,Mandy Simpson Turnover.,70,88,-18,1,0.003000717056913595,Oklahoma,Texas Tech,4,5,0,1,NA,401121413,2019-03-08,
+291,4,5:00,300,300,Chrislyn Carr Steal.,70,88,-18,18,0.0029810829508145295,Oklahoma,Texas Tech,4,5,0,1,NA,401121413,2019-03-08,
+292,4,4:42,282,282,Eryka Sidney made Three Point Jumper. Assisted by Angel Hayden.,70,91,-21,19,0.0010976560076998143,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,Texas Tech
+293,4,4:23,263,263,Madi Williams missed Jumper.,70,91,-21,0,0.001210592646055761,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+294,4,4:23,263,263,Chrislyn Carr Defensive Rebound.,70,91,-21,5,0.001210592646055761,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+295,4,4:18,258,258,Chrislyn Carr Turnover.,70,91,-21,1,0.001250099375458405,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+296,4,4:17,257,257,Taylor Robertson made Three Point Jumper. Assisted by Jessi Murcer.,73,91,-18,19,0.0032587225296900916,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,Oklahoma
+297,4,3:58,238,238,Brittany Brewer made Layup. Assisted by Chrislyn Carr.,73,93,-20,5,0.0018611983990428835,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,Texas Tech
+298,4,3:53,233,233,Foul on Zuri Sanders.,73,93,-20,0,0.001857636465044729,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+299,4,3:53,233,233,Ana Llanusa made Free Throw.,74,93,-19,0,0.002541993571119952,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,Oklahoma
+300,4,3:53,233,233,Ana Llanusa made Free Throw.,75,93,-18,11,0.0034775908499465203,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,Oklahoma
+301,4,3:42,222,222,Chrislyn Carr Turnover.,75,93,-18,1,0.003311380385685359,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+302,4,3:41,221,221,Jessi Murcer Steal.,75,93,-18,3,0.003284686316862156,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+303,4,3:38,218,218,Taylor Robertson missed Three Point Jumper.,75,93,-18,0,0.0031926524132497116,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+304,4,3:38,218,218,Chrislyn Carr Defensive Rebound.,75,93,-18,8,0.0031926524132497116,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+305,4,3:30,210,210,Foul on Mandy Simpson.,75,93,-18,0,0.002862846862604809,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+306,4,3:30,210,210,Foul on Mandy Simpson.,75,93,-18,1,0.002862846862604809,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+307,4,3:29,209,209,Brittany Brewer made Layup. Assisted by Angel Hayden.,75,95,-20,0,0.0014675071388840777,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,Texas Tech
+308,4,3:29,209,209,Foul on Ijeoma Odimgbe.,75,95,-20,0,0.0014675071388840777,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+309,4,3:29,209,209,Brittany Brewer made Free Throw.,75,96,-21,8,0.0010595428483482308,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,Texas Tech
+310,4,3:21,201,201,Jessi Murcer made Jumper.,77,96,-19,25,0.0016953140922910987,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,Oklahoma
+311,4,2:56,176,176,Chrislyn Carr made Jumper.,77,98,-21,7,3.127893026919003e-4,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,Texas Tech
+312,4,2:49,169,169,Ijeoma Odimgbe made Layup. Assisted by Ana Llanusa.,79,98,-19,27,5.050683508659304e-4,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,Oklahoma
+313,4,2:22,142,142,Chrislyn Carr missed Jumper.,79,98,-19,0,1.4576798472057132e-4,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+314,4,2:22,142,142,Kiara Shoals Offensive Rebound.,79,98,-19,2,1.4576798472057132e-4,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+315,4,2:20,140,140,Kiara Shoals made Jumper.,79,100,-21,0,5.131292677132997e-5,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,Texas Tech
+316,4,2:20,140,140,Foul on Ijeoma Odimgbe.,79,100,-21,0,5.131292677132997e-5,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+317,4,2:20,140,140,Kiara Shoals missed Free Throw.,79,100,-21,0,5.131292677132997e-5,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+318,4,2:20,140,140,Madi Williams Defensive Rebound.,79,100,-21,9,5.131292677132997e-5,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,
+319,4,2:11,131,131,Taylor Robertson made Three Point Jumper. Assisted by Jessi Murcer.,82,100,-18,1,1.321389975030078e-4,Oklahoma,Texas Tech,4,5,0,0,NA,401121413,2019-03-08,Oklahoma
+320,4,2:10,130,130,Oklahoma  Timeout,82,100,-18,23,1.251579024651313e-4,Oklahoma,Texas Tech,4,4,0,1,NA,401121413,2019-03-08,
+321,4,1:47,107,107,Foul on Ana Llanusa.,82,100,-18,0,3.0255840627885946e-5,Oklahoma,Texas Tech,4,4,0,1,NA,401121413,2019-03-08,
+322,4,1:47,107,107,Sydney Goodson missed Free Throw.,82,100,-18,0,3.0255840627885946e-5,Oklahoma,Texas Tech,4,4,0,1,NA,401121413,2019-03-08,
+323,4,1:47,107,107,Texas Tech Deadball Team Rebound.,82,100,-18,0,3.0255840627885946e-5,Oklahoma,Texas Tech,4,4,0,1,NA,401121413,2019-03-08,
+324,4,1:47,107,107,Sydney Goodson made Free Throw.,82,101,-19,10,1.697264660200394e-5,Oklahoma,Texas Tech,4,4,0,1,NA,401121413,2019-03-08,Texas Tech
+325,4,1:37,97,97,Jessi Murcer missed Jumper.,82,101,-19,0,7.7986908806317e-6,Oklahoma,Texas Tech,4,4,0,1,NA,401121413,2019-03-08,
+326,4,1:37,97,97,Ijeoma Odimgbe Offensive Rebound.,82,101,-19,3,7.7986908806317e-6,Oklahoma,Texas Tech,4,4,0,1,NA,401121413,2019-03-08,
+327,4,1:34,94,94,Madi Williams missed Jumper.,82,101,-19,1,6.073568321905587e-6,Oklahoma,Texas Tech,4,4,0,1,NA,401121413,2019-03-08,
+328,4,1:33,93,93,Madi Williams Offensive Rebound.,82,101,-19,2,5.583511001251495e-6,Oklahoma,Texas Tech,4,4,0,1,NA,401121413,2019-03-08,
+329,4,1:31,91,91,Foul on Zuri Sanders.,82,101,-19,0,4.716159547658141e-6,Oklahoma,Texas Tech,4,4,0,1,NA,401121413,2019-03-08,
+330,4,1:31,91,91,Madi Williams missed Free Throw.,82,101,-19,0,4.716159547658141e-6,Oklahoma,Texas Tech,4,4,0,1,NA,401121413,2019-03-08,
+331,4,1:31,91,91,Oklahoma Deadball Team Rebound.,82,101,-19,0,4.716159547658141e-6,Oklahoma,Texas Tech,4,4,0,1,NA,401121413,2019-03-08,
+332,4,1:31,91,91,Madi Williams missed Free Throw.,82,101,-19,0,4.716159547658141e-6,Oklahoma,Texas Tech,4,4,0,1,NA,401121413,2019-03-08,
+333,4,1:31,91,91,Angel Hayden Defensive Rebound.,82,101,-19,8,4.716159547658141e-6,Oklahoma,Texas Tech,4,4,0,1,NA,401121413,2019-03-08,
+334,4,1:23,83,83,Texas Tech  Timeout,82,101,-19,19,2.370663933214927e-6,Oklahoma,Texas Tech,3,4,1,1,NA,401121413,2019-03-08,
+335,4,1:04,64,64,Chrislyn Carr missed Three Point Jumper.,82,101,-19,0,3.9812355693955743e-7,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,
+336,4,1:04,64,64,Brittany Brewer Offensive Rebound.,82,101,-19,3,3.9812355693955743e-7,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,
+337,4,1:01,61,61,Brittany Brewer made Jumper.,82,103,-21,8,6.054555610507601e-8,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,Texas Tech
+338,4,0:53,53,53,Ana Llanusa Turnover.,82,103,-21,1,2.4331815587312207e-8,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,
+339,4,0:52,52,52,Kiara Shoals Steal.,82,103,-21,7,2.164923679713259e-8,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,
+340,4,0:45,45,45,Foul on Ana Llanusa.,82,103,-21,0,9.370089117851667e-9,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,
+341,4,0:45,45,45,Sydney Goodson missed Free Throw.,82,103,-21,0,9.370089117851667e-9,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,
+342,4,0:45,45,45,Texas Tech Deadball Team Rebound.,82,103,-21,0,9.370089117851667e-9,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,
+343,4,0:45,45,45,Sydney Goodson made Free Throw.,82,104,-22,10,3.885490093206845e-9,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,Texas Tech
+344,4,0:35,35,35,Madi Williams missed Layup.,82,104,-22,0,1.038842927287055e-9,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,
+345,4,0:35,35,35,Madi Williams Offensive Rebound.,82,104,-22,1,1.038842927287055e-9,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,
+346,4,0:34,34,34,Foul on Erin DeGrate.,82,104,-22,0,9.06980526371186e-10,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,
+347,4,0:34,34,34,Madi Williams made Free Throw.,83,104,-21,0,2.3367714412581233e-9,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,Oklahoma
+348,4,0:34,34,34,Madi Williams made Free Throw.,84,104,-20,30,6.020527009790568e-9,Oklahoma,Texas Tech,3,4,1,0,NA,401121413,2019-03-08,Oklahoma
+349,4,0:04,4,4,Chrislyn Carr Turnover.,84,104,-20,3,1.0922258727274572e-10,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+350,4,0:01,1,1,Madi Williams missed Jumper.,84,104,-20,0,7.056290532286712e-11,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+351,4,0:01,1,1,Gileysa Penzo Offensive Rebound.,84,104,-20,1,7.056290532286712e-11,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,
+352,4,0:00,0,0,End of Game,84,104,-20,0,1.9151695967140057e-174,Oklahoma,Texas Tech,3,4,0,0,NA,401121413,2019-03-08,

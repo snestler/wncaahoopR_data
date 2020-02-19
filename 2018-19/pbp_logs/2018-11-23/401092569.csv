@@ -1,0 +1,352 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:48,2388,2388,Lauren Cox made Jumper.,0,0,0,20,0.5,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,NA
+2,1,9:28,2368,2368,Tylee Irwin missed Layup.,0,2,-2,0,0.4552965036611427,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,Baylor
+3,1,9:28,2368,2368,Tylee Irwin Offensive Rebound.,0,2,-2,4,0.4552965036611427,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+4,1,9:24,2364,2364,Tylee Irwin missed Layup.,0,2,-2,0,0.45521082091538556,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+5,1,9:24,2364,2364,Lauren Cox Block.,0,2,-2,2,0.45521082091538556,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+6,1,9:22,2362,2362,Chloe Jackson Defensive Rebound.,0,2,-2,4,0.4551678976921304,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+7,1,9:18,2358,2358,Chloe Jackson missed Jumper.,0,2,-2,0,0.45508188965266283,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+8,1,9:18,2358,2358,Tagyn Larson Defensive Rebound.,0,2,-2,24,0.45508188965266283,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+9,1,8:54,2334,2334,Macy Miller made Three Point Jumper. Assisted by Madison Guebert.,3,2,1,13,0.5227663552678309,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,South Dakota State
+10,1,8:41,2321,2321,Kalani Brown missed Jumper.,3,2,1,0,0.5229096589972142,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+11,1,8:41,2321,2321,DiDi Richards Offensive Rebound.,3,2,1,9,0.5229096589972142,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+12,1,8:32,2312,2312,Kalani Brown missed Layup.,3,2,1,0,0.5230094443683952,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+13,1,8:32,2312,2312,Tagyn Larson Block.,3,2,1,2,0.5230094443683952,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+14,1,8:30,2310,2310,Tagyn Larson Defensive Rebound.,3,2,1,6,0.5230316804761159,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+15,1,8:24,2304,2304,Myah Selland missed Jumper.,3,2,1,0,0.5230985195738199,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+16,1,8:24,2304,2304,Lauren Cox Defensive Rebound.,3,2,1,14,0.5230985195738199,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+17,1,8:10,2290,2290,Kalani Brown made Jumper.,3,4,-1,16,0.4767447867309777,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,Baylor
+18,1,7:54,2274,2274,Tylee Irwin missed Three Point Jumper.,3,4,-1,0,0.476564522728214,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+19,1,7:54,2274,2274,Kalani Brown Defensive Rebound.,3,4,-1,8,0.476564522728214,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+20,1,7:46,2266,2266,DiDi Richards made Jumper. Assisted by Chloe Jackson.,3,6,-3,18,0.4298357711983823,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,Baylor
+21,1,7:28,2248,2248,Tagyn Larson missed Layup.,3,6,-3,0,0.4292322756158619,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+22,1,7:28,2248,2248,Juicy Landrum Defensive Rebound.,3,6,-3,6,0.4292322756158619,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+23,1,7:22,2242,2242,Juicy Landrum missed Layup.,3,6,-3,0,0.42903031265841174,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+24,1,7:22,2242,2242,Madison Guebert Defensive Rebound.,3,6,-3,19,0.42903031265841174,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+25,1,7:03,2223,2223,Tagyn Larson made Three Point Jumper. Assisted by Macy Miller.,6,6,0,20,0.5,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,South Dakota State
+26,1,6:43,2203,2203,DiDi Richards made Jumper. Assisted by Kalani Brown.,6,8,-2,19,0.4516179558921834,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,Baylor
+27,1,6:24,2184,2184,Madison Guebert missed Three Point Jumper.,6,8,-2,0,0.4511809123319471,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+28,1,6:24,2184,2184,Juicy Landrum Defensive Rebound.,6,8,-2,12,0.4511809123319471,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+29,1,6:12,2172,2172,Kalani Brown Turnover.,6,8,-2,2,0.4509040914302073,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+30,1,6:10,2170,2170,Myah Selland Steal.,6,8,-2,5,0.4508579029700246,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+31,1,6:05,2165,2165,Madison Guebert made Three Point Jumper. Assisted by Myah Selland.,9,8,1,15,0.5246888872821309,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,South Dakota State
+32,1,5:50,2150,2150,Lauren Cox made Layup. Assisted by DiDi Richards.,9,10,-1,10,0.47513589657523964,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,Baylor
+33,1,5:40,2140,2140,Tagyn Larson made Three Point Jumper. Assisted by Macy Miller.,12,10,2,4,0.5498384236125139,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,South Dakota State
+34,1,5:36,2136,2136,Baylor  Timeout,12,10,2,10,0.549931806297836,South Dakota State,Baylor,3,4,1,0,NA,401092569,2018-11-23,
+35,1,5:26,2126,2126,Lauren Cox made Layup. Assisted by Juicy Landrum.,12,12,0,19,0.5,South Dakota State,Baylor,3,4,1,0,NA,401092569,2018-11-23,Baylor
+36,1,5:07,2107,2107,Macy Miller missed Layup.,12,12,0,0,0.5,South Dakota State,Baylor,3,4,1,0,NA,401092569,2018-11-23,
+37,1,5:07,2107,2107,Chloe Jackson Block.,12,12,0,2,0.5,South Dakota State,Baylor,3,4,1,0,NA,401092569,2018-11-23,
+38,1,5:05,2105,2105,NaLyssa Smith Defensive Rebound.,12,12,0,10,0.5,South Dakota State,Baylor,3,4,1,0,NA,401092569,2018-11-23,
+39,1,4:55,2095,2095,Juicy Landrum missed Three Point Jumper.,12,12,0,0,0.5,South Dakota State,Baylor,3,4,1,0,NA,401092569,2018-11-23,
+40,1,4:55,2095,2095,Sydney Palmer Defensive Rebound.,12,12,0,19,0.5,South Dakota State,Baylor,3,4,1,0,NA,401092569,2018-11-23,
+41,1,4:36,2076,2076,Rylie Cascio Jensen missed Three Point Jumper.,12,12,0,0,0.5,South Dakota State,Baylor,3,4,1,0,NA,401092569,2018-11-23,
+42,1,4:36,2076,2076,NaLyssa Smith Defensive Rebound.,12,12,0,5,0.5,South Dakota State,Baylor,3,4,1,0,NA,401092569,2018-11-23,
+43,1,4:31,2071,2071,Foul on Sydney Palmer.,12,12,0,16,0.5,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+44,1,4:15,2055,2055,Chloe Jackson missed Jumper.,12,12,0,0,0.5,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+45,1,4:15,2055,2055,South Dakota State Defensive Rebound.,12,12,0,19,0.5,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+46,1,3:56,2036,2036,Madison Guebert missed Three Point Jumper.,12,12,0,0,0.5,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+47,1,3:56,2036,2036,Juicy Landrum Defensive Rebound.,12,12,0,5,0.5,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+48,1,3:51,2031,2031,Foul on Tylee Irwin.,12,12,0,8,0.5,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+49,1,3:43,2023,2023,Lauren Cox made Layup. Assisted by Chloe Jackson.,12,14,-2,19,0.4473668485651764,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,Baylor
+50,1,3:24,2004,2004,Foul on Juicy Landrum.,12,14,-2,23,0.4468987310401092,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+51,1,3:01,1981,1981,Myah Selland missed Three Point Jumper.,12,14,-2,0,0.44632587109568933,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+52,1,3:01,1981,1981,NaLyssa Smith Defensive Rebound.,12,14,-2,10,0.44632587109568933,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+53,1,2:51,1971,1971,NaLyssa Smith missed Jumper.,12,14,-2,0,0.4460745911378282,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+54,1,2:51,1971,1971,NaLyssa Smith Offensive Rebound.,12,14,-2,14,0.4460745911378282,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+55,1,2:37,1957,1957,Juicy Landrum made Jumper.,12,16,-4,31,0.3927053966377842,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,Baylor
+56,1,2:06,1926,1926,Madison Guebert missed Layup.,12,16,-4,0,0.39117302853347413,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+57,1,2:06,1926,1926,NaLyssa Smith Defensive Rebound.,12,16,-4,9,0.39117302853347413,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+58,1,1:57,1917,1917,DiDi Richards Turnover.,12,16,-4,15,0.3907260766520711,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+59,1,1:42,1902,1902,Foul on Honesty Scott-Grayson.,12,16,-4,16,0.3899825587058245,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+60,1,1:26,1886,1886,Myah Selland missed Three Point Jumper.,12,16,-4,0,0.38919042491954087,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+61,1,1:26,1886,1886,Honesty Scott-Grayson Defensive Rebound.,12,16,-4,13,0.38919042491954087,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+62,1,1:13,1873,1873,Chloe Jackson Turnover.,12,16,-4,2,0.3885467229285004,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+63,1,1:11,1871,1871,Myah Selland Steal.,12,16,-4,0,0.38844763872742033,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+64,1,1:11,1871,1871,Foul on Lauren Cox.,12,16,-4,10,0.38844763872742033,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+65,1,1:01,1861,1861,Foul on Honesty Scott-Grayson.,12,16,-4,0,0.3879518580781206,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+66,1,1:01,1861,1861,Macy Miller missed Free Throw.,12,16,-4,0,0.3879518580781206,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+67,1,1:01,1861,1861,South Dakota State Deadball Team Rebound.,12,16,-4,0,0.3879518580781206,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+68,1,1:01,1861,1861,Macy Miller missed Free Throw.,12,16,-4,0,0.3879518580781206,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+69,1,1:01,1861,1861,Moon Ursin Defensive Rebound.,12,16,-4,12,0.3879518580781206,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+70,1,0:49,1849,1849,Lauren Cox made Layup. Assisted by DiDi Richards.,12,18,-6,21,0.33455361651104376,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,Baylor
+71,1,0:28,1828,1828,Rylie Cascio Jensen missed Three Point Jumper.,12,18,-6,0,0.3330805938982312,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+72,1,0:28,1828,1828,NaLyssa Smith Defensive Rebound.,12,18,-6,21,0.3330805938982312,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+73,1,0:07,1807,1807,Lauren Cox made Three Point Jumper. Assisted by DiDi Richards.,12,21,-9,7,0.2589472602997484,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,Baylor
+74,1,0:00,1800,1800,End of 1st Quarter,12,21,-9,20,0.25830237170651077,South Dakota State,Baylor,3,4,0,0,NA,401092569,2018-11-23,
+75,2,9:40,1780,1780,Myah Selland missed Layup.,12,21,-9,0,0.25645106494599257,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+76,2,9:40,1780,1780,Kalani Brown Defensive Rebound.,12,21,-9,13,0.25645106494599257,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+77,2,9:27,1767,1767,DiDi Richards made Jumper.,12,23,-11,12,0.21268263464264417,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,Baylor
+78,2,9:15,1755,1755,Myah Selland missed Layup.,12,23,-11,0,0.21147169362006912,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+79,2,9:15,1755,1755,NaLyssa Smith Defensive Rebound.,12,23,-11,10,0.21147169362006912,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+80,2,9:05,1745,1745,Kalani Brown missed Layup.,12,23,-11,0,0.2104576187451819,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+81,2,9:05,1745,1745,DiDi Richards Offensive Rebound.,12,23,-11,3,0.2104576187451819,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+82,2,9:02,1742,1742,Lauren Cox missed Three Point Jumper.,12,23,-11,0,0.21015243876457876,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+83,2,9:02,1742,1742,Myah Selland Defensive Rebound.,12,23,-11,25,0.21015243876457876,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+84,2,8:37,1717,1717,Tylee Irwin Turnover.,12,23,-11,1,0.20758998681618268,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+85,2,8:36,1716,1716,Kalani Brown Steal.,12,23,-11,3,0.20748671400516674,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+86,2,8:33,1713,1713,NaLyssa Smith Turnover.,12,23,-11,2,0.20717651146010174,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+87,2,8:31,1711,1711,Myah Selland Steal.,12,23,-11,8,0.20696938516454697,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+88,2,8:23,1703,1703,Tylee Irwin made Three Point Jumper. Assisted by Macy Miller.,15,23,-8,17,0.2727673312236351,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,South Dakota State
+89,2,8:06,1686,1686,Lauren Cox missed Jumper.,15,23,-8,0,0.2711967789610988,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+90,2,8:06,1686,1686,Lauren Cox Offensive Rebound.,15,23,-8,21,0.2711967789610988,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+91,2,7:45,1665,1665,Kalani Brown Turnover.,15,23,-8,15,0.2692941571242763,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+92,2,7:30,1650,1650,Madison Guebert made Layup.,17,23,-6,16,0.3200136203515974,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,South Dakota State
+93,2,7:14,1634,1634,Foul on Sydney Palmer.,17,23,-6,12,0.3188582118545563,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+94,2,7:02,1622,1622,Queen Egbo Turnover.,17,23,-6,2,0.31800088202346866,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+95,2,7:00,1620,1620,Madison Guebert Steal.,17,23,-6,5,0.3178585597392676,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+96,2,6:55,1615,1615,Tylee Irwin made Layup.,19,23,-4,21,0.37515141272700603,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,South Dakota State
+97,2,6:34,1594,1594,DiDi Richards made Layup.,19,25,-6,0,0.3160161006872726,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,Baylor
+98,2,6:34,1594,1594,Foul on Macy Miller.,19,25,-6,0,0.3160161006872726,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+99,2,6:34,1594,1594,DiDi Richards missed Free Throw.,19,25,-6,0,0.3160161006872726,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+100,2,6:34,1594,1594,Queen Egbo Offensive Rebound.,19,25,-6,1,0.3160161006872726,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+101,2,6:33,1593,1593,Queen Egbo made Layup.,19,27,-8,26,0.2630922162666758,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,Baylor
+102,2,6:07,1567,1567,Foul on Queen Egbo.,19,27,-8,23,0.26088665012701684,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+103,2,5:44,1544,1544,Myah Selland Turnover.,19,27,-8,0,0.2589120785021297,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+104,2,5:44,1544,1544,Queen Egbo Steal.,19,27,-8,10,0.2589120785021297,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+105,2,5:34,1534,1534,Chloe Jackson Turnover.,19,27,-8,2,0.2580413409044641,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+106,2,5:32,1532,1532,Madison Guebert Steal.,19,27,-8,4,0.25786607654348775,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+107,2,5:28,1528,1528,Myah Selland made Jumper. Assisted by Madison Guebert.,21,27,-6,23,0.3112683835348042,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,South Dakota State
+108,2,5:05,1505,1505,Caitlin Bickle missed Jumper.,21,27,-6,0,0.30953511205836187,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+109,2,5:05,1505,1505,Myah Selland Defensive Rebound.,21,27,-6,10,0.30953511205836187,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+110,2,4:55,1495,1495,Tylee Irwin missed Three Point Jumper.,21,27,-6,0,0.30876132633274245,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+111,2,4:55,1495,1495,Kalani Brown Defensive Rebound.,21,27,-6,10,0.30876132633274245,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+112,2,4:45,1485,1485,DiDi Richards Turnover.,21,27,-6,2,0.30797336556822,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+113,2,4:43,1483,1483,Tylee Irwin Steal.,21,27,-6,7,0.3078139542845611,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+114,2,4:36,1476,1476,Paiton Burckhard made Layup. Assisted by Myah Selland.,23,27,-4,27,0.36772201028558377,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,South Dakota State
+115,2,4:09,1449,1449,Chloe Jackson missed Layup.,23,27,-4,0,0.3660801847224355,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+116,2,4:09,1449,1449,Paiton Burckhard Defensive Rebound.,23,27,-4,9,0.3660801847224355,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+117,2,4:00,1440,1440,Myah Selland missed Three Point Jumper.,23,27,-4,0,0.36552386474245063,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+118,2,4:00,1440,1440,Kalani Brown Defensive Rebound.,23,27,-4,20,0.36552386474245063,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+119,2,3:40,1420,1420,Caitlin Bickle missed Three Point Jumper.,23,27,-4,0,0.36432404068248336,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+120,2,3:40,1420,1420,Kalani Brown Offensive Rebound.,23,27,-4,7,0.36432404068248336,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+121,2,3:33,1413,1413,Kalani Brown missed Layup.,23,27,-4,0,0.36391388422200666,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+122,2,3:33,1413,1413,Myah Selland Block.,23,27,-4,1,0.36391388422200666,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+123,2,3:32,1412,1412,Paiton Burckhard Defensive Rebound.,23,27,-4,13,0.3638556357612198,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+124,2,3:19,1399,1399,Madison Guebert made Three Point Jumper. Assisted by Myah Selland.,26,27,-1,17,0.464938118169773,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,South Dakota State
+125,2,3:02,1382,1382,Chloe Jackson made Layup.,26,29,-3,13,0.3954227530911518,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,Baylor
+126,2,2:49,1369,1369,Foul on DiDi Richards.,26,29,-3,0,0.39485262830736106,South Dakota State,Baylor,4,4,0,1,NA,401092569,2018-11-23,
+127,2,2:49,1369,1369,South Dakota State  Timeout,26,29,-3,1,0.39485262830736106,South Dakota State,Baylor,4,3,0,1,NA,401092569,2018-11-23,
+128,2,2:48,1368,1368,Rylie Cascio Jensen Turnover.,26,29,-3,2,0.39480881569196985,South Dakota State,Baylor,4,3,0,1,NA,401092569,2018-11-23,
+129,2,2:46,1366,1366,Chloe Jackson Steal.,26,29,-3,7,0.3947211863837584,South Dakota State,Baylor,4,3,0,1,NA,401092569,2018-11-23,
+130,2,2:39,1359,1359,Foul on Tagyn Larson.,26,29,-3,11,0.39441429304191866,South Dakota State,Baylor,4,3,0,1,NA,401092569,2018-11-23,
+131,2,2:28,1348,1348,NaLyssa Smith made Jumper. Assisted by Chloe Jackson.,26,31,-5,17,0.32782614661554166,South Dakota State,Baylor,4,3,0,1,NA,401092569,2018-11-23,Baylor
+132,2,2:11,1331,1331,Tagyn Larson made Layup. Assisted by Myah Selland.,28,31,-3,13,0.3931752495931724,South Dakota State,Baylor,4,3,0,1,NA,401092569,2018-11-23,South Dakota State
+133,2,1:58,1318,1318,Foul on Myah Selland.,28,31,-3,0,0.39258775394730683,South Dakota State,Baylor,4,3,0,1,NA,401092569,2018-11-23,
+134,2,1:58,1318,1318,Lauren Cox made Free Throw.,28,32,-4,0,0.3584885834763121,South Dakota State,Baylor,4,3,0,1,NA,401092569,2018-11-23,Baylor
+135,2,1:58,1318,1318,Lauren Cox made Free Throw.,28,33,-5,7,0.32576274746838085,South Dakota State,Baylor,4,3,0,1,NA,401092569,2018-11-23,Baylor
+136,2,1:51,1311,1311,Tagyn Larson missed Layup.,28,33,-5,0,0.3252699048361848,South Dakota State,Baylor,4,3,0,1,NA,401092569,2018-11-23,
+137,2,1:51,1311,1311,Lauren Cox Defensive Rebound.,28,33,-5,13,0.3252699048361848,South Dakota State,Baylor,4,3,0,1,NA,401092569,2018-11-23,
+138,2,1:38,1298,1298,Lauren Cox missed Three Point Jumper.,28,33,-5,0,0.324338601011039,South Dakota State,Baylor,4,3,0,0,NA,401092569,2018-11-23,
+139,2,1:38,1298,1298,Myah Selland Defensive Rebound.,28,33,-5,10,0.324338601011039,South Dakota State,Baylor,4,3,0,0,NA,401092569,2018-11-23,
+140,2,1:28,1288,1288,Madison Guebert made Three Point Jumper. Assisted by Myah Selland.,31,33,-2,21,0.42680461553122595,South Dakota State,Baylor,4,3,0,0,NA,401092569,2018-11-23,South Dakota State
+141,2,1:07,1267,1267,Lauren Cox made Layup. Assisted by DiDi Richards.,31,35,-4,19,0.3553413204548089,South Dakota State,Baylor,4,3,0,0,NA,401092569,2018-11-23,Baylor
+142,2,0:48,1248,1248,Myah Selland missed Layup.,31,35,-4,0,0.35406164890473313,South Dakota State,Baylor,4,3,0,0,NA,401092569,2018-11-23,
+143,2,0:48,1248,1248,NaLyssa Smith Defensive Rebound.,31,35,-4,2,0.35406164890473313,South Dakota State,Baylor,4,3,0,0,NA,401092569,2018-11-23,
+144,2,0:46,1246,1246,Foul on Tagyn Larson.,31,35,-4,0,0.35392267719363396,South Dakota State,Baylor,4,3,0,0,NA,401092569,2018-11-23,
+145,2,0:46,1246,1246,NaLyssa Smith made Free Throw.,31,36,-5,0,0.32032015086011373,South Dakota State,Baylor,4,3,0,0,NA,401092569,2018-11-23,Baylor
+146,2,0:46,1246,1246,NaLyssa Smith made Free Throw.,31,37,-6,32,0.28848342274370803,South Dakota State,Baylor,4,3,0,0,NA,401092569,2018-11-23,Baylor
+147,2,0:14,1214,1214,Rylie Cascio Jensen made Three Point Jumper.,34,37,-3,11,0.38719867959670484,South Dakota State,Baylor,4,3,0,0,NA,401092569,2018-11-23,South Dakota State
+148,2,0:03,1203,1203,Chloe Jackson missed Jumper.,34,37,-3,0,0.3865285927396723,South Dakota State,Baylor,4,3,0,0,NA,401092569,2018-11-23,
+149,2,0:03,1203,1203,South Dakota State Defensive Rebound.,34,37,-3,3,0.3865285927396723,South Dakota State,Baylor,4,3,0,0,NA,401092569,2018-11-23,
+150,2,0:00,1200,1200,End of 2nd Quarter,34,37,-3,12,0.38634786325026177,South Dakota State,Baylor,4,3,0,0,NA,401092569,2018-11-23,
+151,3,9:48,1188,1188,Madison Guebert made Three Point Jumper. Assisted by Macy Miller.,37,37,0,19,0.5,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,South Dakota State
+152,3,9:29,1169,1169,Kalani Brown missed Layup.,37,37,0,0,0.5,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+153,3,9:29,1169,1169,Kalani Brown Offensive Rebound.,37,37,0,1,0.5,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+154,3,9:28,1168,1168,Foul on Madison Guebert.,37,37,0,0,0.5,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+155,3,9:28,1168,1168,Kalani Brown missed Free Throw.,37,37,0,0,0.5,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+156,3,9:28,1168,1168,Baylor Deadball Team Rebound.,37,37,0,0,0.5,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+157,3,9:28,1168,1168,Kalani Brown made Free Throw.,37,38,-1,17,0.46086497783984914,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,Baylor
+158,3,9:11,1151,1151,Macy Miller missed Jumper.,37,38,-1,0,0.4605274655270612,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+159,3,9:11,1151,1151,Lauren Cox Defensive Rebound.,37,38,-1,16,0.4605274655270612,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+160,3,8:55,1135,1135,Kalani Brown missed Layup.,37,38,-1,0,0.4602121358183175,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+161,3,8:55,1135,1135,South Dakota State Defensive Rebound.,37,38,-1,16,0.4602121358183175,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+162,3,8:39,1119,1119,Foul on Kalani Brown.,37,38,-1,0,0.4598962269586672,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+163,3,8:39,1119,1119,Myah Selland made Free Throw.,38,38,0,0,0.5,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,South Dakota State
+164,3,8:39,1119,1119,Myah Selland made Free Throw.,39,38,1,10,0.5401037730413328,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,South Dakota State
+165,3,8:29,1109,1109,Lauren Cox missed Jumper.,39,38,1,0,0.5403027447964085,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+166,3,8:29,1109,1109,Juicy Landrum Offensive Rebound.,39,38,1,15,0.5403027447964085,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+167,3,8:14,1094,1094,DiDi Richards Turnover.,39,38,1,0,0.5406051449647659,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+168,3,8:14,1094,1094,Madison Guebert Steal.,39,38,1,15,0.5406051449647659,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+169,3,7:59,1079,1079,Myah Selland missed Jumper.,39,38,1,0,0.54091430972409,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+170,3,7:59,1079,1079,Lauren Cox Block.,39,38,1,2,0.54091430972409,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+171,3,7:57,1077,1077,Lauren Cox Defensive Rebound.,39,38,1,6,0.5409561656740791,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+172,3,7:51,1071,1071,Foul on Kalani Brown.,39,38,1,0,0.5410827532086655,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+173,3,7:51,1071,1071,Kalani Brown Turnover.,39,38,1,14,0.5410827532086655,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+174,3,7:37,1057,1057,Myah Selland missed Three Point Jumper.,39,38,1,0,0.5413847675952427,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+175,3,7:37,1057,1057,Juicy Landrum Defensive Rebound.,39,38,1,4,0.5413847675952427,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+176,3,7:33,1053,1053,Foul on Tagyn Larson.,39,38,1,15,0.5414729607477611,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+177,3,7:18,1038,1038,Lauren Cox Turnover.,39,38,1,17,0.5418122800733118,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+178,3,7:01,1021,1021,Madison Guebert Turnover.,39,38,1,0,0.5422154561400285,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+179,3,7:01,1021,1021,Kalani Brown Steal.,39,38,1,0,0.5422154561400285,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+180,3,7:01,1021,1021,Foul on Madison Guebert.,39,38,1,8,0.5422154561400285,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+181,3,6:53,1013,1013,Juicy Landrum Turnover.,39,38,1,13,0.5424129311553842,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+182,3,6:40,1000,1000,Macy Miller made Jumper.,41,38,3,17,0.6257910028167197,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,South Dakota State
+183,3,6:23,983,983,Lauren Cox Turnover.,41,38,3,0,0.6270898258011149,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+184,3,6:23,983,983,Myah Selland Steal.,41,38,3,31,0.6270898258011149,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+185,3,5:52,952,952,Macy Miller missed Layup.,41,38,3,0,0.6295528558812014,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+186,3,5:52,952,952,Kalani Brown Block.,41,38,3,0,0.6295528558812014,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+187,3,5:52,952,952,South Dakota State Offensive Rebound.,41,38,3,1,0.6295528558812014,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+188,3,5:51,951,951,Paiton Burckhard missed Three Point Jumper.,41,38,3,0,0.6296272925166525,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+189,3,5:51,951,951,Baylor Defensive Rebound.,41,38,3,23,0.6296272925166525,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+190,3,5:28,928,928,Juicy Landrum missed Three Point Jumper.,41,38,3,0,0.6312425575734204,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+191,3,5:28,928,928,South Dakota State Defensive Rebound.,41,38,3,29,0.6312425575734204,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+192,3,4:59,899,899,Sydney Palmer missed Jumper.,41,38,3,0,0.6330904131020444,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+193,3,4:59,899,899,Paiton Burckhard Offensive Rebound.,41,38,3,19,0.6330904131020444,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+194,3,4:40,880,880,Foul on Paiton Burckhard.,41,38,3,0,0.634247805936034,South Dakota State,Baylor,5,4,1,0,NA,401092569,2018-11-23,
+195,3,4:40,880,880,Paiton Burckhard Turnover.,41,38,3,0,0.634247805936034,South Dakota State,Baylor,5,4,1,0,NA,401092569,2018-11-23,
+196,3,4:40,880,880,Baylor  Timeout,41,38,3,18,0.634247805936034,South Dakota State,Baylor,4,4,1,0,NA,401092569,2018-11-23,
+197,3,4:22,862,862,Foul on Paiton Burckhard.,41,38,3,0,0.6353464539475331,South Dakota State,Baylor,4,4,1,0,NA,401092569,2018-11-23,
+198,3,4:22,862,862,Lauren Cox missed Free Throw.,41,38,3,0,0.6353464539475331,South Dakota State,Baylor,4,4,1,0,NA,401092569,2018-11-23,
+199,3,4:22,862,862,Baylor Deadball Team Rebound.,41,38,3,0,0.6353464539475331,South Dakota State,Baylor,4,4,1,0,NA,401092569,2018-11-23,
+200,3,4:22,862,862,Lauren Cox made Free Throw.,41,39,2,19,0.5914948580353234,South Dakota State,Baylor,4,4,1,0,NA,401092569,2018-11-23,Baylor
+201,3,4:03,843,843,Tylee Irwin Turnover.,41,39,2,1,0.5923285119335604,South Dakota State,Baylor,4,4,1,0,NA,401092569,2018-11-23,
+202,3,4:02,842,842,Chloe Jackson Steal.,41,39,2,6,0.5923736646239279,South Dakota State,Baylor,4,4,1,0,NA,401092569,2018-11-23,
+203,3,3:56,836,836,Lauren Cox missed Jumper.,41,39,2,0,0.59264796421181,South Dakota State,Baylor,4,4,1,0,NA,401092569,2018-11-23,
+204,3,3:56,836,836,Tagyn Larson Defensive Rebound.,41,39,2,18,0.59264796421181,South Dakota State,Baylor,4,4,1,0,NA,401092569,2018-11-23,
+205,3,3:38,818,818,Foul on Chloe Jackson.,41,39,2,0,0.5935126094516849,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+206,3,3:38,818,818,Foul on DiDi Richards.,41,39,2,16,0.5935126094516849,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+207,3,3:22,802,802,Tagyn Larson missed Jumper.,41,39,2,0,0.5943477202544699,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+208,3,3:22,802,802,NaLyssa Smith Block.,41,39,2,2,0.5943477202544699,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+209,3,3:20,800,800,Juicy Landrum Defensive Rebound.,41,39,2,7,0.5944573424666182,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+210,3,3:13,793,793,Foul on Tagyn Larson.,41,39,2,0,0.5948511850622467,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+211,3,3:13,793,793,NaLyssa Smith missed Free Throw.,41,39,2,0,0.5948511850622467,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+212,3,3:13,793,793,Baylor Deadball Team Rebound.,41,39,2,0,0.5948511850622467,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+213,3,3:13,793,793,NaLyssa Smith missed Free Throw.,41,39,2,0,0.5948511850622467,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+214,3,3:13,793,793,Tylee Irwin Defensive Rebound.,41,39,2,5,0.5948511850622467,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+215,3,3:08,788,788,Macy Miller Turnover.,41,39,2,16,0.5951427177992694,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+216,3,2:52,772,772,Juicy Landrum missed Jumper.,41,39,2,0,0.5961388238127484,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+217,3,2:52,772,772,Tylee Irwin Defensive Rebound.,41,39,2,21,0.5961388238127484,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+218,3,2:31,751,751,Madison Guebert missed Layup.,41,39,2,0,0.5976130577874013,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+219,3,2:31,751,751,Lauren Cox Defensive Rebound.,41,39,2,5,0.5976130577874013,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+220,3,2:26,746,746,Juicy Landrum made Three Point Jumper. Assisted by Chloe Jackson.,41,42,-1,16,0.45052249575519476,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,Baylor
+221,3,2:10,730,730,Tylee Irwin missed Jumper.,41,42,-1,0,0.44984592634161424,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+222,3,2:10,730,730,Lauren Cox Defensive Rebound.,41,42,-1,20,0.44984592634161424,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+223,3,1:50,710,710,NaLyssa Smith made Jumper.,41,44,-3,20,0.35116533232078057,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,Baylor
+224,3,1:30,690,690,Macy Miller made Layup. Assisted by Myah Selland.,43,44,-1,22,0.4482886674885203,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,South Dakota State
+225,3,1:08,668,668,Lauren Cox made Three Point Jumper. Assisted by Juicy Landrum.,43,47,-4,18,0.3010477270659527,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,Baylor
+226,3,0:50,650,650,Myah Selland missed Layup.,43,47,-4,0,0.2990232432690973,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+227,3,0:50,650,650,South Dakota State Offensive Rebound.,43,47,-4,3,0.2990232432690973,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+228,3,0:47,647,647,Macy Miller missed Three Point Jumper.,43,47,-4,0,0.2986809714349213,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+229,3,0:47,647,647,Lauren Cox Defensive Rebound.,43,47,-4,20,0.2986809714349213,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+230,3,0:27,627,627,Juicy Landrum missed Three Point Jumper.,43,47,-4,0,0.29630630548390113,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+231,3,0:27,627,627,Madison Guebert Defensive Rebound.,43,47,-4,23,0.29630630548390113,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+232,3,0:04,604,604,Macy Miller missed Jumper.,43,47,-4,0,0.2932396295203893,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+233,3,0:04,604,604,Kalani Brown Defensive Rebound.,43,47,-4,4,0.2932396295203893,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+234,3,0:00,600,600,Juicy Landrum missed Three Point Jumper.,43,47,-4,0,0.2926546588354372,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+235,3,0:00,600,600,South Dakota State Defensive Rebound.,43,47,-4,0,0.2926546588354372,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+236,3,0:00,600,600,End of 3rd Quarter,43,47,-4,7,0.2926546588354372,South Dakota State,Baylor,4,4,0,0,NA,401092569,2018-11-23,
+237,4,9:53,593,593,Lindsey Theuninck missed Layup.,43,47,-4,0,0.29158657637593266,South Dakota State,Baylor,5,5,0,0,NA,401092569,2018-11-23,
+238,4,9:53,593,593,Lauren Cox Block.,43,47,-4,2,0.29158657637593266,South Dakota State,Baylor,5,5,0,0,NA,401092569,2018-11-23,
+239,4,9:51,591,591,Chloe Jackson Defensive Rebound.,43,47,-4,3,0.2912703683824263,South Dakota State,Baylor,5,5,0,0,NA,401092569,2018-11-23,
+240,4,9:48,588,588,Chloe Jackson made Layup.,43,49,-6,28,0.20794585050754305,South Dakota State,Baylor,5,5,0,0,NA,401092569,2018-11-23,Baylor
+241,4,9:20,560,560,Sydney Palmer missed Three Point Jumper.,43,49,-6,0,0.2018017155866714,South Dakota State,Baylor,5,5,0,0,NA,401092569,2018-11-23,
+242,4,9:20,560,560,South Dakota State Offensive Rebound.,43,49,-6,7,0.2018017155866714,South Dakota State,Baylor,5,5,0,0,NA,401092569,2018-11-23,
+243,4,9:13,553,553,Madison Guebert made Three Point Jumper. Assisted by Macy Miller.,46,49,-3,18,0.3333568011219204,South Dakota State,Baylor,5,5,0,0,NA,401092569,2018-11-23,South Dakota State
+244,4,8:55,535,535,Lauren Cox missed Jumper.,46,49,-3,0,0.330268914672043,South Dakota State,Baylor,5,5,0,0,NA,401092569,2018-11-23,
+245,4,8:55,535,535,Sydney Palmer Defensive Rebound.,46,49,-3,27,0.330268914672043,South Dakota State,Baylor,5,5,0,0,NA,401092569,2018-11-23,
+246,4,8:28,508,508,Madison Guebert made Three Point Jumper. Assisted by Myah Selland.,49,49,0,19,0.5,South Dakota State,Baylor,5,5,0,0,NA,401092569,2018-11-23,South Dakota State
+247,4,8:09,489,489,Kalani Brown made Layup. Assisted by Chloe Jackson.,49,51,-2,0,0.37979320928376264,South Dakota State,Baylor,5,5,0,0,NA,401092569,2018-11-23,Baylor
+248,4,8:09,489,489,Foul on Sydney Palmer.,49,51,-2,0,0.37979320928376264,South Dakota State,Baylor,5,5,0,0,NA,401092569,2018-11-23,
+249,4,8:09,489,489,Kalani Brown made Free Throw.,49,52,-3,10,0.32395849726494774,South Dakota State,Baylor,5,5,0,0,NA,401092569,2018-11-23,Baylor
+250,4,7:59,479,479,Foul on Myah Selland.,49,52,-3,0,0.3225370124715564,South Dakota State,Baylor,5,5,0,1,NA,401092569,2018-11-23,
+251,4,7:59,479,479,Myah Selland Turnover.,49,52,-3,0,0.3225370124715564,South Dakota State,Baylor,5,5,0,1,NA,401092569,2018-11-23,
+252,4,7:59,479,479,South Dakota State  Timeout,49,52,-3,3,0.3225370124715564,South Dakota State,Baylor,5,4,0,1,NA,401092569,2018-11-23,
+253,4,7:56,476,476,Juicy Landrum missed Jumper.,49,52,-3,0,0.32208750194943736,South Dakota State,Baylor,5,4,0,1,NA,401092569,2018-11-23,
+254,4,7:56,476,476,Chloe Jackson Offensive Rebound.,49,52,-3,14,0.32208750194943736,South Dakota State,Baylor,5,4,0,1,NA,401092569,2018-11-23,
+255,4,7:42,462,462,Chloe Jackson made Layup.,49,54,-5,29,0.2213434478504076,South Dakota State,Baylor,5,4,0,1,NA,401092569,2018-11-23,Baylor
+256,4,7:13,433,433,Tylee Irwin missed Layup.,49,54,-5,0,0.21317546450140626,South Dakota State,Baylor,5,4,0,1,NA,401092569,2018-11-23,
+257,4,7:13,433,433,Lauren Cox Block.,49,54,-5,1,0.21317546450140626,South Dakota State,Baylor,5,4,0,1,NA,401092569,2018-11-23,
+258,4,7:12,432,432,South Dakota State Offensive Rebound.,49,54,-5,6,0.21283607962752302,South Dakota State,Baylor,5,4,0,1,NA,401092569,2018-11-23,
+259,4,7:06,426,426,Myah Selland missed Jumper.,49,54,-5,0,0.21076716880387525,South Dakota State,Baylor,5,4,0,1,NA,401092569,2018-11-23,
+260,4,7:06,426,426,Kalani Brown Defensive Rebound.,49,54,-5,20,0.21076716880387525,South Dakota State,Baylor,5,4,0,1,NA,401092569,2018-11-23,
+261,4,6:46,406,406,Lauren Cox missed Jumper.,49,54,-5,0,0.2044534439166975,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+262,4,6:46,406,406,Baylor Offensive Rebound.,49,54,-5,8,0.2044534439166975,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+263,4,6:38,398,398,Lauren Cox made Jumper. Assisted by Chloe Jackson.,49,56,-7,0,0.12757169521342152,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,Baylor
+264,4,6:38,398,398,Foul on Myah Selland.,49,56,-7,0,0.12757169521342152,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+265,4,6:38,398,398,Lauren Cox missed Free Throw.,49,56,-7,0,0.12757169521342152,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+266,4,6:38,398,398,Macy Miller Defensive Rebound.,49,56,-7,13,0.12757169521342152,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+267,4,6:25,385,385,Sydney Palmer missed Three Point Jumper.,49,56,-7,0,0.1239178445202101,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+268,4,6:25,385,385,NaLyssa Smith Defensive Rebound.,49,56,-7,25,0.1239178445202101,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+269,4,6:00,360,360,Chloe Jackson Turnover.,49,56,-7,1,0.11660288133181086,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+270,4,5:59,359,359,Sydney Palmer Steal.,49,56,-7,7,0.11629123630550729,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+271,4,5:52,352,352,Foul on Kalani Brown.,49,56,-7,0,0.11405078559029772,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+272,4,5:52,352,352,Macy Miller made Free Throw.,50,56,-6,0,0.14714683929108513,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,South Dakota State
+273,4,5:52,352,352,Macy Miller made Free Throw.,51,56,-5,14,0.18781099075085167,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,South Dakota State
+274,4,5:38,338,338,NaLyssa Smith made Layup.,51,58,-7,8,0.10920779956890868,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,Baylor
+275,4,5:30,330,330,Macy Miller missed Jumper.,51,58,-7,0,0.10618792735024074,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+276,4,5:30,330,330,Myah Selland Offensive Rebound.,51,58,-7,7,0.10618792735024074,South Dakota State,Baylor,5,4,0,0,NA,401092569,2018-11-23,
+277,4,5:23,323,323,South Dakota State  Timeout,51,58,-7,12,0.1033782914472696,South Dakota State,Baylor,5,3,0,1,NA,401092569,2018-11-23,
+278,4,5:11,311,311,Myah Selland made Three Point Jumper. Assisted by Macy Miller.,54,58,-4,22,0.21973251630381896,South Dakota State,Baylor,5,3,0,1,NA,401092569,2018-11-23,South Dakota State
+279,4,4:49,289,289,NaLyssa Smith Turnover.,54,58,-4,14,0.21426635095260654,South Dakota State,Baylor,5,3,0,1,NA,401092569,2018-11-23,
+280,4,4:35,275,275,Madison Guebert made Layup.,56,58,-2,27,0.3438186012309036,South Dakota State,Baylor,5,3,0,1,NA,401092569,2018-11-23,South Dakota State
+281,4,4:08,248,248,Kalani Brown made Layup. Assisted by Juicy Landrum.,56,60,-4,9,0.22056671142046072,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,Baylor
+282,4,3:59,239,239,Myah Selland missed Layup.,56,60,-4,0,0.22146685130909394,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+283,4,3:59,239,239,Kalani Brown Block.,56,60,-4,1,0.22146685130909394,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+284,4,3:58,238,238,South Dakota State Offensive Rebound.,56,60,-4,0,0.22150207765273663,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+285,4,3:58,238,238,Foul on DiDi Richards.,56,60,-4,6,0.22150207765273663,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+286,4,3:52,232,232,Myah Selland made Layup.,58,60,-2,18,0.34777114652866264,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,South Dakota State
+287,4,3:34,214,214,Chloe Jackson missed Jumper.,58,60,-2,0,0.34444276535741225,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+288,4,3:34,214,214,Lauren Cox Offensive Rebound.,58,60,-2,7,0.34444276535741225,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+289,4,3:27,207,207,Foul on Tagyn Larson.,58,60,-2,0,0.34154232703823945,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+290,4,3:27,207,207,Kalani Brown missed Free Throw.,58,60,-2,0,0.34154232703823945,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+291,4,3:27,207,207,Baylor Deadball Team Rebound.,58,60,-2,0,0.34154232703823945,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+292,4,3:27,207,207,Kalani Brown made Free Throw.,58,61,-3,13,0.27197149531984327,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,Baylor
+293,4,3:14,194,194,Macy Miller missed Three Point Jumper.,58,61,-3,0,0.26096263216774207,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+294,4,3:14,194,194,Chloe Jackson Block.,58,61,-3,2,0.26096263216774207,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+295,4,3:12,192,192,Juicy Landrum Defensive Rebound.,58,61,-3,4,0.2587832081828631,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+296,4,3:08,188,188,Foul on Chloe Jackson.,58,61,-3,0,0.2540908665880078,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+297,4,3:08,188,188,Chloe Jackson Turnover.,58,61,-3,12,0.2540908665880078,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+298,4,2:56,176,176,Myah Selland missed Three Point Jumper.,58,61,-3,0,0.2399762538707685,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+299,4,2:56,176,176,Kalani Brown Defensive Rebound.,58,61,-3,17,0.2399762538707685,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+300,4,2:39,159,159,Lauren Cox made Layup. Assisted by Chloe Jackson.,58,63,-5,0,0.10801506443721275,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,Baylor
+301,4,2:39,159,159,Foul on Paiton Burckhard.,58,63,-5,0,0.10801506443721275,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+302,4,2:39,159,159,Lauren Cox missed Free Throw.,58,63,-5,0,0.10801506443721275,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+303,4,2:39,159,159,Lauren Cox Offensive Rebound.,58,63,-5,13,0.10801506443721275,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+304,4,2:26,146,146,Kalani Brown made Layup. Assisted by Juicy Landrum.,58,65,-7,0,0.039916882664395734,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,Baylor
+305,4,2:26,146,146,Foul on Sydney Palmer.,58,65,-7,0,0.039916882664395734,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+306,4,2:26,146,146,Kalani Brown missed Free Throw.,58,65,-7,0,0.039916882664395734,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+307,4,2:26,146,146,Kalani Brown Offensive Rebound.,58,65,-7,27,0.039916882664395734,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+308,4,1:59,119,119,Chloe Jackson missed Jumper.,58,65,-7,0,0.023164054419719457,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+309,4,1:59,119,119,Paiton Burckhard Defensive Rebound.,58,65,-7,8,0.023164054419719457,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+310,4,1:51,111,111,Foul on Chloe Jackson.,58,65,-7,12,0.019066116643095158,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+311,4,1:39,99,99,Sydney Palmer missed Three Point Jumper.,58,65,-7,0,0.01374336634675232,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+312,4,1:39,99,99,Juicy Landrum Defensive Rebound.,58,65,-7,27,0.01374336634675232,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+313,4,1:12,72,72,Lauren Cox made Three Point Jumper. Assisted by DiDi Richards.,58,68,-10,16,6.453245742950154e-4,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,Baylor
+314,4,0:56,56,56,Sydney Palmer missed Three Point Jumper.,58,68,-10,0,2.791947041571023e-4,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+315,4,0:56,56,56,Myah Selland Offensive Rebound.,58,68,-10,6,2.791947041571023e-4,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+316,4,0:50,50,50,Myah Selland made Layup.,60,68,-8,0,0.0010982485408034177,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,South Dakota State
+317,4,0:50,50,50,Foul on Chloe Jackson.,60,68,-8,0,0.0010982485408034177,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+318,4,0:50,50,50,Myah Selland made Free Throw.,61,68,-7,11,0.0025698815462143485,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,South Dakota State
+319,4,0:39,39,39,Foul on Tylee Irwin.,61,68,-7,2,0.001640716391910268,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+320,4,0:37,37,37,DiDi Richards missed Free Throw.,61,68,-7,0,0.0015073717490320558,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+321,4,0:37,37,37,Baylor Deadball Team Rebound.,61,68,-7,0,0.0015073717490320558,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+322,4,0:37,37,37,DiDi Richards missed Free Throw.,61,68,-7,0,0.0015073717490320558,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+323,4,0:37,37,37,Sydney Palmer Defensive Rebound.,61,68,-7,6,0.0015073717490320558,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+324,4,0:31,31,31,Foul on Chloe Jackson.,61,68,-7,0,0.001163017203532151,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,
+325,4,0:31,31,31,Macy Miller made Free Throw.,62,68,-6,0,0.003047164638682367,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,South Dakota State
+326,4,0:31,31,31,Macy Miller made Free Throw.,63,68,-5,1,0.007959403722891823,South Dakota State,Baylor,5,3,0,0,NA,401092569,2018-11-23,South Dakota State
+327,4,0:30,30,30,DiDi Richards Turnover.,63,68,-5,0,0.007715303838717683,South Dakota State,Baylor,5,3,1,0,NA,401092569,2018-11-23,
+328,4,0:30,30,30,Baylor  Timeout,63,68,-5,2,0.007715303838717683,South Dakota State,Baylor,4,3,1,0,NA,401092569,2018-11-23,
+329,4,0:28,28,28,Madison Guebert missed Three Point Jumper.,63,68,-5,0,0.00724648247509824,South Dakota State,Baylor,4,3,1,0,NA,401092569,2018-11-23,
+330,4,0:28,28,28,Macy Miller Offensive Rebound.,63,68,-5,6,0.00724648247509824,South Dakota State,Baylor,4,3,1,0,NA,401092569,2018-11-23,
+331,4,0:22,22,22,Lindsey Theuninck missed Three Point Jumper.,63,68,-5,0,0.005986519317341805,South Dakota State,Baylor,4,3,1,0,NA,401092569,2018-11-23,
+332,4,0:22,22,22,Macy Miller Offensive Rebound.,63,68,-5,2,0.005986519317341805,South Dakota State,Baylor,4,3,1,0,NA,401092569,2018-11-23,
+333,4,0:20,20,20,Macy Miller made Layup.,65,68,-3,0,0.04283236356086821,South Dakota State,Baylor,4,3,1,0,NA,401092569,2018-11-23,South Dakota State
+334,4,0:20,20,20,Foul on Lauren Cox.,65,68,-3,0,0.04283236356086821,South Dakota State,Baylor,4,3,1,0,NA,401092569,2018-11-23,
+335,4,0:20,20,20,Macy Miller made Free Throw.,66,68,-2,0,0.11193535250918163,South Dakota State,Baylor,4,3,1,0,NA,401092569,2018-11-23,South Dakota State
+336,4,0:20,20,20,Baylor  Timeout,66,68,-2,1,0.11193535250918163,South Dakota State,Baylor,3,3,1,0,NA,401092569,2018-11-23,
+337,4,0:19,19,19,Foul on Madison Guebert.,66,68,-2,0,0.11062307552550993,South Dakota State,Baylor,3,3,1,1,NA,401092569,2018-11-23,
+338,4,0:19,19,19,Juicy Landrum made Free Throw.,66,69,-3,0,0.04202372636616275,South Dakota State,Baylor,3,3,1,1,NA,401092569,2018-11-23,Baylor
+339,4,0:19,19,19,Juicy Landrum made Free Throw.,66,70,-4,0,0.015235341616680557,South Dakota State,Baylor,3,3,1,1,NA,401092569,2018-11-23,Baylor
+340,4,0:19,19,19,South Dakota State  Timeout,66,70,-4,4,0.015235341616680557,South Dakota State,Baylor,3,2,1,1,NA,401092569,2018-11-23,
+341,4,0:15,15,15,Paiton Burckhard missed Jumper.,66,70,-4,0,0.013695735787999078,South Dakota State,Baylor,3,2,1,1,NA,401092569,2018-11-23,
+342,4,0:15,15,15,Baylor Defensive Rebound.,66,70,-4,2,0.013695735787999078,South Dakota State,Baylor,3,2,1,1,NA,401092569,2018-11-23,
+343,4,0:13,13,13,Baylor  Timeout,66,70,-4,1,0.012970672914026048,South Dakota State,Baylor,2,2,1,1,NA,401092569,2018-11-23,
+344,4,0:12,12,12,Foul on Macy Miller.,66,70,-4,0,0.01261937299311161,South Dakota State,Baylor,2,2,1,1,NA,401092569,2018-11-23,
+345,4,0:12,12,12,Kalani Brown made Free Throw.,66,71,-5,0,0.004278870984016073,South Dakota State,Baylor,2,2,1,1,NA,401092569,2018-11-23,Baylor
+346,4,0:12,12,12,Kalani Brown made Free Throw.,66,72,-6,6,0.0014427886434313826,South Dakota State,Baylor,2,2,1,1,NA,401092569,2018-11-23,Baylor
+347,4,0:06,6,6,Tylee Irwin missed Three Point Jumper.,66,72,-6,0,0.0011184110655953123,South Dakota State,Baylor,2,2,1,1,NA,401092569,2018-11-23,
+348,4,0:06,6,6,Myah Selland Offensive Rebound.,66,72,-6,5,0.0011184110655953123,South Dakota State,Baylor,2,2,1,1,NA,401092569,2018-11-23,
+349,4,0:01,1,1,Myah Selland missed Jumper.,66,72,-6,0,8.998745092052004e-4,South Dakota State,Baylor,2,2,1,1,NA,401092569,2018-11-23,
+350,4,0:01,1,1,Tylee Irwin Offensive Rebound.,66,72,-6,1,8.998745092052004e-4,South Dakota State,Baylor,2,2,1,1,NA,401092569,2018-11-23,
+351,4,0:00,0,0,End of Game,66,72,-6,0,7.667648073722e-53,South Dakota State,Baylor,2,2,1,1,NA,401092569,2018-11-23,

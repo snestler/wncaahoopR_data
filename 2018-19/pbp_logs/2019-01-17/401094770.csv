@@ -1,0 +1,355 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:38,2678,2678,Makayla Waterman made Three Point Jumper. Assisted by Dorka Juhasz.,0,0,0,21,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,NA
+2,1,9:17,2657,2657,Siyeh Frazier missed Jumper.,0,3,-3,0,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Ohio State
+3,1,9:17,2657,2657,Janai Crooms Defensive Rebound.,0,3,-3,9,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+4,1,9:08,2648,2648,Carmen Grande missed Layup.,0,3,-3,0,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+5,1,9:08,2648,2648,Amari Carter Defensive Rebound.,0,3,-3,8,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+6,1,9:00,2640,2640,Teniya Page missed Three Point Jumper.,0,3,-3,0,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+7,1,9:00,2640,2640,Dorka Juhasz Defensive Rebound.,0,3,-3,18,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+8,1,8:42,2622,2622,Dorka Juhasz Turnover.,0,3,-3,2,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+9,1,8:40,2620,2620,Siyeh Frazier Steal.,0,3,-3,3,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+10,1,8:37,2617,2617,Siyeh Frazier made Jumper. Assisted by Teniya Page.,2,3,-1,26,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Penn State
+11,1,8:11,2591,2591,Dorka Juhasz missed Three Point Jumper.,2,3,-1,0,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+12,1,8:11,2591,2591,Amari Carter Defensive Rebound.,2,3,-1,8,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+13,1,8:03,2583,2583,Amari Carter missed Layup.,2,3,-1,0,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+14,1,8:03,2583,2583,Dorka Juhasz Defensive Rebound.,2,3,-1,7,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+15,1,7:56,2576,2576,Janai Crooms made Layup. Assisted by Carmen Grande.,2,5,-3,23,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Ohio State
+16,1,7:33,2553,2553,Karisma Ortiz made Three Point Jumper. Assisted by Siyeh Frazier.,5,5,0,23,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Penn State
+17,1,7:10,2530,2530,Carly Santoro missed Three Point Jumper.,5,5,0,0,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+18,1,7:10,2530,2530,Penn State Defensive Rebound.,5,5,0,18,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+19,1,6:52,2512,2512,Kamaria McDaniel missed Three Point Jumper.,5,5,0,0,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+20,1,6:52,2512,2512,Carmen Grande Defensive Rebound.,5,5,0,18,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+21,1,6:34,2494,2494,Carly Santoro Turnover.,5,5,0,15,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+22,1,6:19,2479,2479,Kamaria McDaniel made Three Point Jumper. Assisted by Teniya Page.,8,5,3,26,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Penn State
+23,1,5:53,2453,2453,Makayla Waterman missed Three Point Jumper.,8,5,3,0,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+24,1,5:53,2453,2453,Kamaria McDaniel Defensive Rebound.,8,5,3,10,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+25,1,5:43,2443,2443,Karisma Ortiz made Layup. Assisted by Kamaria McDaniel.,10,5,5,15,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Penn State
+26,1,5:28,2428,2428,Carmen Grande made Three Point Jumper.,10,8,2,13,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Ohio State
+27,1,5:15,2415,2415,Teniya Page made Jumper. Assisted by Amari Carter.,12,8,4,27,NA,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Penn State
+28,1,4:48,2388,2388,Najah Queenland made Three Point Jumper.,12,11,1,17,0.5221828099586213,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Ohio State
+29,1,4:31,2371,2371,Teniya Page missed Three Point Jumper.,12,11,1,0,0.5223643435976526,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+30,1,4:31,2371,2371,Ohio State Defensive Rebound.,12,11,1,3,0.5223643435976526,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+31,1,4:28,2368,2368,Official TV Timeout,12,11,1,8,0.5223965953861575,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+32,1,4:20,2360,2360,Janai Crooms made Layup. Assisted by Carmen Grande.,12,13,-1,17,0.4775170932231453,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Ohio State
+33,1,4:03,2343,2343,Amari Carter made Jumper.,14,13,1,18,0.5226677470488996,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Penn State
+34,1,3:45,2325,2325,Makayla Waterman missed Jumper.,14,13,1,0,0.5228654589235167,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+35,1,3:45,2325,2325,Jaida Travascio-Green Block.,14,13,1,3,0.5228654589235167,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+36,1,3:42,2322,2322,Amari Carter Defensive Rebound.,14,13,1,25,0.5228986002520256,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+37,1,3:17,2297,2297,Amari Carter made Jumper.,16,13,3,19,0.569134384166186,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Penn State
+38,1,2:58,2278,2278,Foul on Lauren Ebo.,16,13,3,4,0.5697640624117907,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+39,1,2:54,2274,2274,Carmen Grande missed Jumper.,16,13,3,0,0.5698972479600887,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+40,1,2:54,2274,2274,Siyeh Frazier Block.,16,13,3,26,0.5698972479600887,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+41,1,2:28,2248,2248,Makayla Waterman Offensive Rebound.,16,13,3,2,0.5707677243841381,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+42,1,2:26,2246,2246,Makayla Waterman made Layup.,16,15,1,17,0.5237536683071837,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Ohio State
+43,1,2:09,2229,2229,Lauren Ebo Turnover.,16,15,1,14,0.5239483454281848,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+44,1,1:55,2215,2215,Aaliyah Patty missed Three Point Jumper.,16,15,1,0,0.5241094005077541,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+45,1,1:55,2215,2215,Dorka Juhasz Offensive Rebound.,16,15,1,10,0.5241094005077541,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+46,1,1:45,2205,2205,Foul on Karisma Ortiz.,16,15,1,0,0.5242248018682784,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+47,1,1:45,2205,2205,Dorka Juhasz made Free Throw.,16,16,0,0,0.5,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Ohio State
+48,1,1:45,2205,2205,Dorka Juhasz missed Free Throw.,16,16,0,0,0.5,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+49,1,1:45,2205,2205,Siyeh Frazier Defensive Rebound.,16,16,0,27,0.5,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+50,1,1:18,2178,2178,Siyeh Frazier made Jumper.,18,16,2,18,0.5489574292043569,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Penn State
+51,1,1:00,2160,2160,Janai Crooms made Layup.,18,18,0,16,0.5,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Ohio State
+52,1,0:44,2144,2144,Kamaria McDaniel missed Layup.,18,18,0,0,0.5,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+53,1,0:44,2144,2144,Janai Crooms Defensive Rebound.,18,18,0,10,0.5,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+54,1,0:34,2134,2134,Dorka Juhasz made Jumper. Assisted by Janai Crooms.,18,20,-2,17,0.45002145236819663,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Ohio State
+55,1,0:17,2117,2117,Teniya Page Turnover.,18,20,-2,2,0.4496227638391357,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+56,1,0:15,2115,2115,Aaliyah Patty Steal.,18,20,-2,9,0.44957569164120237,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+57,1,0:06,2106,2106,Janai Crooms missed Jumper.,18,20,-2,0,0.4493634144301274,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+58,1,0:06,2106,2106,Siyeh Frazier Block.,18,20,-2,2,0.4493634144301274,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+59,1,0:04,2104,2104,Dorka Juhasz Offensive Rebound.,18,20,-2,3,0.4493161396014054,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+60,1,0:01,2101,2101,Aaliyah Patty missed Three Point Jumper.,18,20,-2,0,0.44924515656012415,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+61,1,0:01,2101,2101,Ohio State Deadball Team Rebound.,18,20,-2,1,0.44924515656012415,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+62,1,0:00,2100,2100,End of 1st Quarter,18,20,-2,17,0.4492214765326713,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+63,2,9:43,2083,2083,Janai Crooms Turnover.,18,20,-2,12,0.4488174256041903,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+64,2,9:31,2071,2071,Foul on Alisia Smith.,18,20,-2,0,0.4485304598256185,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+65,2,9:31,2071,2071,Alisia Smith Turnover.,18,20,-2,22,0.4485304598256185,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+66,2,9:09,2049,2049,Janai Crooms made Three Point Jumper. Assisted by Carmen Grande.,18,23,-5,14,0.3724119720304118,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Ohio State
+67,2,8:55,2035,2035,Siyeh Frazier Turnover.,18,23,-5,1,0.3716085839055157,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+68,2,8:54,2034,2034,Makayla Waterman Steal.,18,23,-5,6,0.3715510164178246,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+69,2,8:48,2028,2028,Dorka Juhasz made Layup. Assisted by Carmen Grande.,18,25,-7,1,0.3234699580610006,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Ohio State
+70,2,8:47,2027,2027,Penn State  Timeout,18,25,-7,0,0.3233941689487355,Penn State,Ohio State,3,4,1,0,NA,401094770,2019-01-17,
+71,2,8:47,2027,2027,Official TV Timeout,18,25,-7,22,0.3233941689487355,Penn State,Ohio State,3,4,1,0,NA,401094770,2019-01-17,
+72,2,8:25,2005,2005,Jaida Travascio-Green made Three Point Jumper. Assisted by Teniya Page.,21,25,-4,12,0.3950298166028172,Penn State,Ohio State,3,4,1,0,NA,401094770,2019-01-17,Penn State
+73,2,8:13,1993,1993,Carmen Grande Turnover.,21,25,-4,2,0.39445397344799726,Penn State,Ohio State,3,4,1,0,NA,401094770,2019-01-17,
+74,2,8:11,1991,1991,Teniya Page Steal.,21,25,-4,0,0.39435766826297847,Penn State,Ohio State,3,4,1,0,NA,401094770,2019-01-17,
+75,2,8:11,1991,1991,Foul on Carmen Grande.,21,25,-4,4,0.39435766826297847,Penn State,Ohio State,3,4,1,0,NA,401094770,2019-01-17,
+76,2,8:07,1987,1987,Teniya Page missed Jumper.,21,25,-4,0,0.39416476948051615,Penn State,Ohio State,3,4,1,0,NA,401094770,2019-01-17,
+77,2,8:07,1987,1987,Jaida Travascio-Green Offensive Rebound.,21,25,-4,3,0.39416476948051615,Penn State,Ohio State,3,4,1,0,NA,401094770,2019-01-17,
+78,2,8:04,1984,1984,Foul on Makayla Waterman.,21,25,-4,0,0.39401984110213684,Penn State,Ohio State,3,4,1,0,NA,401094770,2019-01-17,
+79,2,8:04,1984,1984,Jaida Travascio-Green missed Free Throw.,21,25,-4,0,0.39401984110213684,Penn State,Ohio State,3,4,1,0,NA,401094770,2019-01-17,
+80,2,8:04,1984,1984,Penn State Deadball Team Rebound.,21,25,-4,0,0.39401984110213684,Penn State,Ohio State,3,4,1,0,NA,401094770,2019-01-17,
+81,2,8:04,1984,1984,Jaida Travascio-Green made Free Throw.,22,25,-3,19,0.41998511819563483,Penn State,Ohio State,3,4,1,0,NA,401094770,2019-01-17,Penn State
+82,2,7:45,1965,1965,Carmen Grande made Layup.,22,27,-5,8,0.3675151268882924,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,Ohio State
+83,2,7:37,1957,1957,Amari Carter made Jumper. Assisted by Karisma Ortiz.,24,27,-3,24,0.41897908932055017,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,Penn State
+84,2,7:13,1933,1933,Dorka Juhasz missed Jumper.,24,27,-3,0,0.4180722175415657,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+85,2,7:13,1933,1933,Amari Carter Defensive Rebound.,24,27,-3,13,0.4180722175415657,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+86,2,7:00,1920,1920,Karisma Ortiz made Three Point Jumper. Assisted by Amari Carter.,27,27,0,4,0.5,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,Penn State
+87,2,6:56,1916,1916,Ohio State  Timeout,27,27,0,14,0.5,Penn State,Ohio State,3,3,0,1,NA,401094770,2019-01-17,
+88,2,6:42,1902,1902,Dorka Juhasz Turnover.,27,27,0,10,0.5,Penn State,Ohio State,3,3,0,1,NA,401094770,2019-01-17,
+89,2,6:32,1892,1892,Jaida Travascio-Green Turnover.,27,27,0,21,0.5,Penn State,Ohio State,3,3,0,1,NA,401094770,2019-01-17,
+90,2,6:11,1871,1871,Makayla Waterman made Jumper. Assisted by Carmen Grande.,27,29,-2,10,0.4435119136341477,Penn State,Ohio State,3,3,0,1,NA,401094770,2019-01-17,Ohio State
+91,2,6:01,1861,1861,Karisma Ortiz Turnover.,27,29,-2,1,0.4432543228993711,Penn State,Ohio State,3,3,0,1,NA,401094770,2019-01-17,
+92,2,6:00,1860,1860,Janai Crooms Steal.,27,29,-2,6,0.4432285381096179,Penn State,Ohio State,3,3,0,1,NA,401094770,2019-01-17,
+93,2,5:54,1854,1854,Carmen Grande missed Three Point Jumper.,27,29,-2,0,0.4430737129151218,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+94,2,5:54,1854,1854,Lauren Ebo Defensive Rebound.,27,29,-2,8,0.4430737129151218,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+95,2,5:46,1846,1846,Teniya Page missed Layup.,27,29,-2,0,0.44286692580623005,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+96,2,5:46,1846,1846,Janai Crooms Block.,27,29,-2,2,0.44286692580623005,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+97,2,5:44,1844,1844,Janai Crooms Defensive Rebound.,27,29,-2,3,0.4428151577186491,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+98,2,5:41,1841,1841,Foul on Amari Carter.,27,29,-2,0,0.44273744711950436,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+99,2,5:41,1841,1841,Janai Crooms made Free Throw.,27,30,-3,0,0.41457374246929246,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,Ohio State
+100,2,5:41,1841,1841,Janai Crooms made Free Throw.,27,31,-4,12,0.38695755887973676,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,Ohio State
+101,2,5:29,1829,1829,Karisma Ortiz made Three Point Jumper. Assisted by Teniya Page.,30,31,-1,19,0.47111685152436694,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,Penn State
+102,2,5:10,1810,1810,Janai Crooms made Layup.,30,33,-3,0,0.41338163301188374,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,Ohio State
+103,2,5:10,1810,1810,Foul on Jaida Travascio-Green.,30,33,-3,0,0.41338163301188374,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+104,2,5:10,1810,1810,Janai Crooms missed Free Throw.,30,33,-3,0,0.41338163301188374,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+105,2,5:10,1810,1810,Lauren Ebo Defensive Rebound.,30,33,-3,6,0.41338163301188374,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+106,2,5:04,1804,1804,Kamaria McDaniel Turnover.,30,33,-3,9,0.4131490550620406,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+107,2,4:55,1795,1795,Carmen Grande missed Three Point Jumper.,30,33,-3,0,0.4127988323161505,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+108,2,4:55,1795,1795,Karisma Ortiz Defensive Rebound.,30,33,-3,5,0.4127988323161505,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+109,2,4:50,1790,1790,Kamaria McDaniel missed Layup.,30,33,-3,0,0.4126035087506628,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+110,2,4:50,1790,1790,Makayla Waterman Defensive Rebound.,30,33,-3,10,0.4126035087506628,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+111,2,4:40,1780,1780,Aaliyah Patty missed Jumper.,30,33,-3,0,0.41221110846196957,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+112,2,4:40,1780,1780,Kamaria McDaniel Defensive Rebound.,30,33,-3,7,0.41221110846196957,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+113,2,4:33,1773,1773,Amari Carter made Jumper.,32,33,-1,17,0.4703704091017177,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,Penn State
+114,2,4:16,1756,1756,Najah Queenland Turnover.,32,33,-1,12,0.4701385191826093,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+115,2,4:04,1744,1744,Amari Carter missed Jumper.,32,33,-1,0,0.46997296615547884,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+116,2,4:04,1744,1744,Najah Queenland Defensive Rebound.,32,33,-1,25,0.46997296615547884,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+117,2,3:39,1719,1719,Najah Queenland Turnover.,32,33,-1,0,0.46962245884383996,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+118,2,3:39,1719,1719,Amari Carter Steal.,32,33,-1,0,0.46962245884383996,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+119,2,3:39,1719,1719,Foul on Najah Queenland.,32,33,-1,13,0.46962245884383996,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+120,2,3:26,1706,1706,Teniya Page missed Jumper.,32,33,-1,0,0.46943688262116656,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+121,2,3:26,1706,1706,Ohio State Defensive Rebound.,32,33,-1,25,0.46943688262116656,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+122,2,3:01,1681,1681,Carmen Grande missed Jumper.,32,33,-1,0,0.46907445395022607,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+123,2,3:01,1681,1681,Lauren Ebo Defensive Rebound.,32,33,-1,10,0.46907445395022607,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+124,2,2:51,1671,1671,Teniya Page missed Layup.,32,33,-1,0,0.4689313797248332,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+125,2,2:51,1671,1671,Aaliyah Patty Block.,32,33,-1,2,0.4689313797248332,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+126,2,2:49,1669,1669,Aaliyah Patty Defensive Rebound.,32,33,-1,5,0.4689029980229216,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+127,2,2:44,1664,1664,Foul on Siyeh Frazier.,32,33,-1,16,0.46883235651561483,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+128,2,2:28,1648,1648,Jensen Caretti made Layup.,32,35,-3,8,0.4068051340231543,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,Ohio State
+129,2,2:20,1640,1640,Foul on Adreana Miller.,32,35,-3,0,0.40648408335447606,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+130,2,2:20,1640,1640,Siyeh Frazier missed Free Throw.,32,35,-3,0,0.40648408335447606,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+131,2,2:20,1640,1640,Penn State Deadball Team Rebound.,32,35,-3,0,0.40648408335447606,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+132,2,2:20,1640,1640,Siyeh Frazier missed Free Throw.,32,35,-3,0,0.40648408335447606,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+133,2,2:20,1640,1640,Dorka Juhasz Defensive Rebound.,32,35,-3,16,0.40648408335447606,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+134,2,2:04,1624,1624,Carmen Grande Turnover.,32,35,-3,1,0.40584746402487765,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+135,2,2:03,1623,1623,Amari Carter Steal.,32,35,-3,2,0.40580786135576086,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+136,2,2:01,1621,1621,Amari Carter made Layup.,34,35,-1,20,0.46823855682390153,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,Penn State
+137,2,1:41,1601,1601,Foul on Amari Carter.,34,35,-1,0,0.4679668222044749,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+138,2,1:41,1601,1601,Carly Santoro made Free Throw.,34,36,-2,0,0.43619552972440095,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,Ohio State
+139,2,1:41,1601,1601,Carly Santoro made Free Throw.,34,37,-3,30,0.40493951321235,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,Ohio State
+140,2,1:11,1571,1571,Foul on Carmen Grande.,34,37,-3,0,0.403753393225388,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+141,2,1:11,1571,1571,Karisma Ortiz missed Free Throw.,34,37,-3,0,0.403753393225388,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+142,2,1:11,1571,1571,Penn State Deadball Team Rebound.,34,37,-3,0,0.403753393225388,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+143,2,1:11,1571,1571,Karisma Ortiz made Free Throw.,35,37,-2,24,0.4353882786946128,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,Penn State
+144,2,0:47,1547,1547,Dorka Juhasz Turnover.,35,37,-2,1,0.43473214840967955,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+145,2,0:46,1546,1546,Lauren Ebo Steal.,35,37,-2,13,0.43470448637739734,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+146,2,0:33,1533,1533,Amari Carter missed Layup.,35,37,-2,0,0.4343419034301776,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+147,2,0:33,1533,1533,Aaliyah Patty Block.,35,37,-2,2,0.4343419034301776,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+148,2,0:31,1531,1531,Janai Crooms Defensive Rebound.,35,37,-2,29,0.4342855875824481,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+149,2,0:02,1502,1502,Jensen Caretti missed Jumper.,35,37,-2,1,0.4334494509765607,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+150,2,0:01,1501,1501,Ohio State Deadball Team Rebound.,35,37,-2,1,0.4334198797561209,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+151,2,0:00,1500,1500,End of 2nd Quarter,35,37,-2,11,0.4333902537036293,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+152,3,9:49,1489,1489,Janai Crooms Turnover.,35,37,-2,21,0.433060594158537,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+153,3,9:28,1468,1468,Foul on Carly Santoro.,35,37,-2,7,0.43241004683608336,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+154,3,9:21,1461,1461,Amari Carter missed Jumper.,35,37,-2,0,0.4321863300177815,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+155,3,9:21,1461,1461,Carly Santoro Defensive Rebound.,35,37,-2,9,0.4321863300177815,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+156,3,9:12,1452,1452,Foul on Siyeh Frazier.,35,37,-2,7,0.43189317138480615,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+157,3,9:05,1445,1445,Foul on Dorka Juhasz.,35,37,-2,0,0.4316626276362839,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+158,3,9:05,1445,1445,Dorka Juhasz Turnover.,35,37,-2,10,0.4316626276362839,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+159,3,8:55,1435,1435,Amari Carter Turnover.,35,37,-2,2,0.4313389582882983,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+160,3,8:53,1433,1433,Carmen Grande Steal.,35,37,-2,10,0.4312750172656792,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+161,3,8:43,1423,1423,Carly Santoro missed Three Point Jumper.,35,37,-2,0,0.43095885028942466,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+162,3,8:43,1423,1423,Lauren Ebo Defensive Rebound.,35,37,-2,13,0.43095885028942466,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+163,3,8:30,1410,1410,Teniya Page missed Jumper.,35,37,-2,0,0.43055544338689355,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+164,3,8:30,1410,1410,Dorka Juhasz Defensive Rebound.,35,37,-2,7,0.43055544338689355,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+165,3,8:23,1403,1403,Janai Crooms made Layup. Assisted by Carmen Grande.,35,39,-4,7,0.363334816208233,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Ohio State
+166,3,8:16,1396,1396,Karisma Ortiz Turnover.,35,39,-4,11,0.3629334043478855,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+167,3,8:05,1385,1385,Janai Crooms made Layup.,35,41,-6,4,0.29984322453137247,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Ohio State
+168,3,8:01,1381,1381,Penn State  Timeout,35,41,-6,0,0.2995345004481853,Penn State,Ohio State,3,4,1,0,NA,401094770,2019-01-17,
+169,3,8:01,1381,1381,Official TV Timeout,35,41,-6,26,0.2995345004481853,Penn State,Ohio State,3,4,1,0,NA,401094770,2019-01-17,
+170,3,7:35,1355,1355,Teniya Page missed Jumper.,35,41,-6,0,0.2975359319930654,Penn State,Ohio State,3,4,1,0,NA,401094770,2019-01-17,
+171,3,7:35,1355,1355,Dorka Juhasz Defensive Rebound.,35,41,-6,10,0.2975359319930654,Penn State,Ohio State,3,4,1,0,NA,401094770,2019-01-17,
+172,3,7:25,1345,1345,Janai Crooms made Layup. Assisted by Carmen Grande.,35,43,-8,20,0.2404281781475924,Penn State,Ohio State,3,4,1,0,NA,401094770,2019-01-17,Ohio State
+173,3,7:05,1325,1325,Lauren Ebo made Layup. Assisted by Siyeh Frazier.,37,43,-6,20,0.29520612187151646,Penn State,Ohio State,3,4,1,0,NA,401094770,2019-01-17,Penn State
+174,3,6:45,1305,1305,Carly Santoro missed Three Point Jumper.,37,43,-6,0,0.293608011237602,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+175,3,6:45,1305,1305,Amari Carter Defensive Rebound.,37,43,-6,8,0.293608011237602,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+176,3,6:37,1297,1297,Jaida Travascio-Green made Three Point Jumper. Assisted by Amari Carter.,40,43,-3,20,0.3916120160448172,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,Penn State
+177,3,6:17,1277,1277,Dorka Juhasz missed Jumper.,40,43,-3,0,0.39064177706031145,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+178,3,6:17,1277,1277,Jaida Travascio-Green Defensive Rebound.,40,43,-3,15,0.39064177706031145,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+179,3,6:02,1262,1262,Amari Carter missed Three Point Jumper.,40,43,-3,0,0.38988105983559695,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+180,3,6:02,1262,1262,Lauren Ebo Offensive Rebound.,40,43,-3,19,0.38988105983559695,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+181,3,5:43,1243,1243,Jaida Travascio-Green missed Three Point Jumper.,40,43,-3,0,0.38886878560958904,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+182,3,5:43,1243,1243,Carly Santoro Defensive Rebound.,40,43,-3,15,0.38886878560958904,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+183,3,5:28,1228,1228,Janai Crooms Turnover.,40,43,-3,10,0.3880254361329149,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+184,3,5:18,1218,1218,Siyeh Frazier made Layup.,42,43,-1,1,0.46189983455509476,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,Penn State
+185,3,5:17,1217,1217,Foul on Makayla Waterman.,42,43,-1,0,0.4618789690503707,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+186,3,5:17,1217,1217,Siyeh Frazier made Free Throw.,43,43,0,17,0.5,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,Penn State
+187,3,5:00,1200,1200,Aaliyah Patty missed Jumper.,43,43,0,0,0.5,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+188,3,5:00,1200,1200,Teniya Page Defensive Rebound.,43,43,0,8,0.5,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+189,3,4:52,1192,1192,Jaida Travascio-Green missed Three Point Jumper.,43,43,0,0,0.5,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+190,3,4:52,1192,1192,Ohio State Defensive Rebound.,43,43,0,3,0.5,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+191,3,4:49,1189,1189,Official TV Timeout,43,43,0,30,0.5,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+192,3,4:19,1159,1159,Carly Santoro Turnover.,43,43,0,14,0.5,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+193,3,4:05,1145,1145,Foul on Aaliyah Patty.,43,43,0,0,0.5,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+194,3,4:05,1145,1145,Teniya Page missed Free Throw.,43,43,0,0,0.5,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+195,3,4:05,1145,1145,Penn State Deadball Team Rebound.,43,43,0,0,0.5,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+196,3,4:05,1145,1145,Teniya Page made Free Throw.,44,43,1,0,0.5395908916589061,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,Penn State
+197,3,4:05,1145,1145,Teniya Page made Free Throw.,45,43,2,18,0.5786884261793309,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,Penn State
+198,3,3:47,1127,1127,Carly Santoro missed Jumper.,45,43,2,0,0.5793844661724069,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+199,3,3:47,1127,1127,Siyeh Frazier Defensive Rebound.,45,43,2,8,0.5793844661724069,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+200,3,3:39,1119,1119,Teniya Page missed Jumper.,45,43,2,0,0.5796948491585648,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+201,3,3:39,1119,1119,Janai Crooms Defensive Rebound.,45,43,2,9,0.5796948491585648,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+202,3,3:30,1110,1110,Janai Crooms Turnover.,45,43,2,9,0.5800459756448219,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+203,3,3:21,1101,1101,Foul on Najah Queenland.,45,43,2,0,0.5804000944655658,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+204,3,3:21,1101,1101,Teniya Page missed Free Throw.,45,43,2,0,0.5804000944655658,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+205,3,3:21,1101,1101,Penn State Deadball Team Rebound.,45,43,2,0,0.5804000944655658,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+206,3,3:21,1101,1101,Teniya Page made Free Throw.,46,43,3,17,0.6193108226158225,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,Penn State
+207,3,3:04,1084,1084,Makayla Waterman missed Layup.,46,43,3,0,0.6202986933233271,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+208,3,3:04,1084,1084,Karisma Ortiz Defensive Rebound.,46,43,3,6,0.6202986933233271,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+209,3,2:58,1078,1078,Foul on Adreana Miller.,46,43,3,0,0.6206538859700262,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+210,3,2:58,1078,1078,Alisia Smith made Free Throw.,47,43,4,0,0.6584585995389034,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,Penn State
+211,3,2:58,1078,1078,Alisia Smith made Free Throw.,48,43,5,2,0.6943511528560034,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,Penn State
+212,3,2:56,1076,1076,Adreana Miller missed Jumper.,48,43,5,0,0.6945303358026564,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+213,3,2:56,1076,1076,Teniya Page Defensive Rebound.,48,43,5,18,0.6945303358026564,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+214,3,2:38,1058,1058,Foul on Teniya Page.,48,43,5,0,0.6961756132160999,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+215,3,2:38,1058,1058,Teniya Page Turnover.,48,43,5,16,0.6961756132160999,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+216,3,2:22,1042,1042,Janai Crooms made Jumper. Assisted by Carly Santoro.,48,45,3,35,0.6228849437385835,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,Ohio State
+217,3,1:47,1007,1007,Foul on Makayla Waterman.,48,45,3,0,0.625278544094374,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+218,3,1:47,1007,1007,Jaida Travascio-Green made Free Throw.,49,45,4,0,0.6643378481158143,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,Penn State
+219,3,1:47,1007,1007,Jaida Travascio-Green made Free Throw.,50,45,5,12,0.7012708946520859,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,Penn State
+220,3,1:35,995,995,Carmen Grande missed Three Point Jumper.,50,45,5,0,0.7025905049816799,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+221,3,1:35,995,995,Jaida Travascio-Green Defensive Rebound.,50,45,5,18,0.7025905049816799,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+222,3,1:17,977,977,Amari Carter made Jumper.,52,45,7,8,0.7716279325633341,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,Penn State
+223,3,1:09,969,969,Ohio State  Timeout,52,45,7,1,0.772776787737904,Penn State,Ohio State,3,3,0,1,NA,401094770,2019-01-17,
+224,3,1:08,968,968,Foul on Jaida Travascio-Green.,52,45,7,9,0.7729205818549957,Penn State,Ohio State,3,3,0,1,NA,401094770,2019-01-17,
+225,3,0:59,959,959,Dorka Juhasz Turnover.,52,45,7,11,0.7741750853344888,Penn State,Ohio State,3,3,0,1,NA,401094770,2019-01-17,
+226,3,0:48,948,948,Foul on Carly Santoro.,52,45,7,0,0.7756198052562289,Penn State,Ohio State,3,3,0,1,NA,401094770,2019-01-17,
+227,3,0:48,948,948,Teniya Page made Free Throw.,53,45,8,0,0.8049476400867169,Penn State,Ohio State,3,3,0,1,NA,401094770,2019-01-17,Penn State
+228,3,0:48,948,948,Teniya Page made Free Throw.,54,45,9,18,0.8312760309681618,Penn State,Ohio State,3,3,0,1,NA,401094770,2019-01-17,Penn State
+229,3,0:30,930,930,Janai Crooms Turnover.,54,45,9,25,0.8335400237886342,Penn State,Ohio State,3,3,0,1,NA,401094770,2019-01-17,
+230,3,0:05,905,905,Teniya Page Turnover.,54,45,9,5,0.8364027465660258,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+231,3,0:00,900,900,End of 3rd Quarter,54,45,9,14,0.8369487600025095,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+232,4,9:46,886,886,Jaida Travascio-Green missed Jumper.,54,45,9,0,0.8384506024670809,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+233,4,9:46,886,886,Janai Crooms Defensive Rebound.,54,45,9,21,0.8384506024670809,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+234,4,9:25,865,865,Janai Crooms missed Layup.,54,45,9,0,0.8406774237552268,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+235,4,9:25,865,865,Amari Carter Defensive Rebound.,54,45,9,10,0.8406774237552268,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+236,4,9:15,855,855,Jaida Travascio-Green missed Three Point Jumper.,54,45,9,0,0.841749349179024,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+237,4,9:15,855,855,Janai Crooms Defensive Rebound.,54,45,9,11,0.841749349179024,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+238,4,9:04,844,844,Foul on Alisia Smith.,54,45,9,18,0.8429522152826827,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+239,4,8:46,826,826,Najah Queenland missed Layup.,54,45,9,0,0.8450048666475658,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+240,4,8:46,826,826,Amari Carter Defensive Rebound.,54,45,9,10,0.8450048666475658,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+241,4,8:36,816,816,Teniya Page made Three Point Jumper.,57,45,12,25,0.9066614103700759,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Penn State
+242,4,8:11,791,791,Dorka Juhasz Turnover.,57,45,12,2,0.9094730654895633,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+243,4,8:09,789,789,Teniya Page Steal.,57,45,12,7,0.9097125487308234,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+244,4,8:02,782,782,Karisma Ortiz Turnover.,57,45,12,2,0.9105697328508876,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+245,4,8:00,780,780,Jensen Caretti Steal.,57,45,12,11,0.9108202411353374,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+246,4,7:49,769,769,Jensen Caretti missed Jumper.,57,45,12,0,0.9122448612164915,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+247,4,7:49,769,769,Karisma Ortiz Defensive Rebound.,57,45,12,7,0.9122448612164915,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,
+248,4,7:42,762,762,Teniya Page made Three Point Jumper. Assisted by Karisma Ortiz.,60,45,15,2,0.9498649919437603,Penn State,Ohio State,4,4,0,0,NA,401094770,2019-01-17,Penn State
+249,4,7:40,760,760,Ohio State  Timeout,60,45,15,0,0.9500734759174271,Penn State,Ohio State,4,3,0,1,NA,401094770,2019-01-17,
+250,4,7:40,760,760,Official TV Timeout,60,45,15,19,0.9500734759174271,Penn State,Ohio State,4,3,0,1,NA,401094770,2019-01-17,
+251,4,7:21,741,741,Foul on Alisia Smith.,60,45,15,0,0.9521538239038071,Penn State,Ohio State,4,3,0,1,NA,401094770,2019-01-17,
+252,4,7:21,741,741,Dorka Juhasz missed Free Throw.,60,45,15,0,0.9521538239038071,Penn State,Ohio State,4,3,0,1,NA,401094770,2019-01-17,
+253,4,7:21,741,741,Ohio State Deadball Team Rebound.,60,45,15,0,0.9521538239038071,Penn State,Ohio State,4,3,0,1,NA,401094770,2019-01-17,
+254,4,7:21,741,741,Dorka Juhasz missed Free Throw.,60,45,15,0,0.9521538239038071,Penn State,Ohio State,4,3,0,1,NA,401094770,2019-01-17,
+255,4,7:21,741,741,Karisma Ortiz Defensive Rebound.,60,45,15,20,0.9521538239038071,Penn State,Ohio State,4,3,0,1,NA,401094770,2019-01-17,
+256,4,7:01,721,721,Teniya Page made Three Point Jumper. Assisted by Karisma Ortiz.,63,45,18,12,0.974703872926231,Penn State,Ohio State,4,3,0,1,NA,401094770,2019-01-17,Penn State
+257,4,6:49,709,709,Foul on Siyeh Frazier.,63,45,18,18,0.9755488223511196,Penn State,Ohio State,4,3,0,1,NA,401094770,2019-01-17,
+258,4,6:31,691,691,Carmen Grande missed Three Point Jumper.,63,45,18,0,0.9766617308508928,Penn State,Ohio State,4,3,0,0,NA,401094770,2019-01-17,
+259,4,6:31,691,691,Amari Carter Defensive Rebound.,63,45,18,8,0.9766617308508928,Penn State,Ohio State,4,3,0,0,NA,401094770,2019-01-17,
+260,4,6:23,683,683,Karisma Ortiz missed Three Point Jumper.,63,45,18,0,0.9771129793348696,Penn State,Ohio State,4,3,0,0,NA,401094770,2019-01-17,
+261,4,6:23,683,683,Makayla Waterman Defensive Rebound.,63,45,18,16,0.9771129793348696,Penn State,Ohio State,4,3,0,0,NA,401094770,2019-01-17,
+262,4,6:07,667,667,Foul on Karisma Ortiz.,63,45,18,3,0.9779643424094294,Penn State,Ohio State,4,3,0,0,NA,401094770,2019-01-17,
+263,4,6:04,664,664,Foul on Jaida Travascio-Green.,63,45,18,0,0.9781188757469468,Penn State,Ohio State,4,3,0,0,NA,401094770,2019-01-17,
+264,4,6:04,664,664,Adreana Miller made Free Throw.,63,46,17,0,0.973113995500173,Penn State,Ohio State,4,3,0,0,NA,401094770,2019-01-17,Ohio State
+265,4,6:04,664,664,Adreana Miller made Free Throw.,63,47,16,13,0.9670029655475088,Penn State,Ohio State,4,3,0,0,NA,401094770,2019-01-17,Ohio State
+266,4,5:51,651,651,Alisia Smith missed Jumper.,63,47,16,0,0.9678805391274943,Penn State,Ohio State,4,3,0,0,NA,401094770,2019-01-17,
+267,4,5:51,651,651,Ohio State Defensive Rebound.,63,47,16,10,0.9678805391274943,Penn State,Ohio State,4,3,0,0,NA,401094770,2019-01-17,
+268,4,5:41,641,641,Carmen Grande made Three Point Jumper. Assisted by Adreana Miller.,63,50,13,6,0.9418554173399449,Penn State,Ohio State,4,3,0,0,NA,401094770,2019-01-17,Ohio State
+269,4,5:35,635,635,Penn State  Timeout,63,50,13,20,0.9424552107793776,Penn State,Ohio State,3,3,1,0,NA,401094770,2019-01-17,
+270,4,5:15,615,615,Foul on Adreana Miller.,63,50,13,24,0.9445468852364062,Penn State,Ohio State,3,3,1,0,NA,401094770,2019-01-17,
+271,4,4:51,591,591,Foul on Karisma Ortiz.,63,50,13,0,0.947348489099402,Penn State,Ohio State,3,3,1,0,NA,401094770,2019-01-17,
+272,4,4:51,591,591,Karisma Ortiz Turnover.,63,50,13,17,0.947348489099402,Penn State,Ohio State,3,3,1,0,NA,401094770,2019-01-17,
+273,4,4:34,574,574,Makayla Waterman made Three Point Jumper. Assisted by Janai Crooms.,63,53,10,19,0.9053722077419907,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,Ohio State
+274,4,4:15,555,555,Lauren Ebo Turnover.,63,53,10,13,0.9092717461854836,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+275,4,4:02,542,542,Dorka Juhasz made Layup. Assisted by Makayla Waterman.,63,55,8,25,0.8666485669312044,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,Ohio State
+276,4,3:37,517,517,Amari Carter missed Three Point Jumper.,63,55,8,0,0.8717509496855109,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+277,4,3:37,517,517,Carmen Grande Defensive Rebound.,63,55,8,9,0.8717509496855109,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+278,4,3:28,508,508,Janai Crooms made Layup.,63,57,6,22,0.8097324659722543,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,Ohio State
+279,4,3:06,486,486,Teniya Page missed Three Point Jumper.,63,57,6,0,0.8138277524097407,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+280,4,3:06,486,486,Ohio State Defensive Rebound.,63,57,6,24,0.8138277524097407,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+281,4,2:42,462,462,Janai Crooms missed Three Point Jumper.,63,57,6,0,0.8189760369301782,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+282,4,2:42,462,462,Amari Carter Block.,63,57,6,4,0.8189760369301782,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+283,4,2:38,458,458,Dorka Juhasz Offensive Rebound.,63,57,6,2,0.8199644906168017,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+284,4,2:36,456,456,Dorka Juhasz missed Layup.,63,57,6,0,0.8204763860005609,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+285,4,2:36,456,456,Dorka Juhasz Offensive Rebound.,63,57,6,4,0.8204763860005609,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+286,4,2:32,452,452,Dorka Juhasz made Layup.,63,59,4,17,0.7345570302206954,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,Ohio State
+287,4,2:15,435,435,Foul on Carmen Grande.,63,59,4,7,0.7391470036505791,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+288,4,2:08,428,428,Siyeh Frazier made Layup.,65,59,6,14,0.8291268978097306,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,Penn State
+289,4,1:54,414,414,Dorka Juhasz made Three Point Jumper. Assisted by Carmen Grande.,65,62,3,27,0.6913147978541421,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,Ohio State
+290,4,1:27,387,387,Amari Carter missed Jumper.,65,62,3,0,0.6976229364138901,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+291,4,1:27,387,387,Siyeh Frazier Offensive Rebound.,65,62,3,4,0.6976229364138901,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+292,4,1:23,383,383,Siyeh Frazier made Layup.,67,62,5,22,0.8023016360041066,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,Penn State
+293,4,1:01,361,361,Dorka Juhasz made Three Point Jumper. Assisted by Carmen Grande.,67,65,2,29,0.6405411426305286,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,Ohio State
+294,4,0:32,332,332,Teniya Page missed Three Point Jumper.,67,65,2,0,0.6471035337161465,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+295,4,0:32,332,332,Ohio State Defensive Rebound.,67,65,2,15,0.6471035337161465,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,
+296,4,0:17,317,317,Janai Crooms made Layup. Assisted by Carmen Grande.,67,67,0,2,0.5,Penn State,Ohio State,3,3,0,0,NA,401094770,2019-01-17,Ohio State
+297,4,0:15,315,315,Penn State  Timeout,67,67,0,9,0.5,Penn State,Ohio State,2,3,1,0,NA,401094770,2019-01-17,
+298,4,0:06,306,306,Foul on Carmen Grande.,67,67,0,2,0.5,Penn State,Ohio State,2,3,1,0,NA,401094770,2019-01-17,
+299,4,0:04,304,304,Teniya Page missed Layup.,67,67,0,0,0.5,Penn State,Ohio State,2,3,1,0,NA,401094770,2019-01-17,
+300,4,0:04,304,304,Dorka Juhasz Block.,67,67,0,1,0.5,Penn State,Ohio State,2,3,1,0,NA,401094770,2019-01-17,
+301,4,0:03,303,303,Penn State Deadball Team Rebound.,67,67,0,3,0.5,Penn State,Ohio State,2,3,1,0,NA,401094770,2019-01-17,
+302,4,0:00,300,300,End of 4th Quarter,67,67,0,26,0.5,Penn State,Ohio State,2,3,1,0,NA,401094770,2019-01-17,
+303,5,4:34,274,274,Carmen Grande missed Layup.,67,67,0,0,0.5,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+304,5,4:34,274,274,Amari Carter Defensive Rebound.,67,67,0,7,0.5,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+305,5,4:27,267,267,Teniya Page made Jumper.,69,67,2,20,0.6552051215140164,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,Penn State
+306,5,4:07,247,247,Makayla Waterman missed Layup.,69,67,2,0,0.6526627630268607,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+307,5,4:07,247,247,Alisia Smith Block.,69,67,2,0,0.6526627630268607,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+308,5,4:07,247,247,Ohio State Offensive Rebound.,69,67,2,13,0.6526627630268607,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+309,5,3:54,234,234,Janai Crooms Turnover.,69,67,2,1,0.6521540058936759,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+310,5,3:53,233,233,Amari Carter Steal.,69,67,2,4,0.6521853539867312,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+311,5,3:49,229,229,Foul on Janai Crooms.,69,67,2,0,0.6524364000155451,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+312,5,3:49,229,229,Alisia Smith missed Free Throw.,69,67,2,0,0.6524364000155451,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+313,5,3:49,229,229,Penn State Deadball Team Rebound.,69,67,2,0,0.6524364000155451,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+314,5,3:49,229,229,Alisia Smith made Free Throw.,70,67,3,15,0.720037774507312,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,Penn State
+315,5,3:34,214,214,Dorka Juhasz Turnover.,70,67,3,14,0.7241889907663716,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+316,5,3:20,200,200,Teniya Page missed Jumper.,70,67,3,0,0.7332933335366364,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+317,5,3:20,200,200,Janai Crooms Defensive Rebound.,70,67,3,13,0.7332933335366364,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+318,5,3:07,187,187,Karisma Ortiz Steal.,70,67,3,0,0.7470937028739,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+319,5,3:07,187,187,Dorka Juhasz Turnover.,70,67,3,24,0.7470937028739,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+320,5,2:43,163,163,Teniya Page Turnover.,70,67,3,2,0.775374162936637,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+321,5,2:41,161,161,Janai Crooms Steal.,70,67,3,3,0.7777697585580758,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+322,5,2:38,158,158,Carly Santoro missed Three Point Jumper.,70,67,3,0,0.7813882829675197,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+323,5,2:38,158,158,Penn State Defensive Rebound.,70,67,3,28,0.7813882829675197,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+324,5,2:10,130,130,Teniya Page missed Layup.,70,67,3,0,0.817221460766769,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+325,5,2:10,130,130,Makayla Waterman Block.,70,67,3,2,0.817221460766769,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+326,5,2:08,128,128,Teniya Page Offensive Rebound.,70,67,3,6,0.8199500225029231,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+327,5,2:02,122,122,Penn State  Turnover.,70,67,3,13,0.8282778897350767,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+328,5,1:49,109,109,Carly Santoro missed Layup.,70,67,3,0,0.8470066096548361,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+329,5,1:49,109,109,Makayla Waterman Offensive Rebound.,70,67,3,2,0.8470066096548361,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+330,5,1:47,107,107,Makayla Waterman Turnover.,70,67,3,21,0.849961421319068,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+331,5,1:26,86,86,Karisma Ortiz Turnover.,70,67,3,1,0.8812074586815811,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+332,5,1:25,85,85,Janai Crooms Steal.,70,67,3,11,0.8826297408174165,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+333,5,1:14,74,74,Carly Santoro made Three Point Jumper.,70,70,0,23,0.5,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,Ohio State
+334,5,0:51,51,51,Karisma Ortiz missed Three Point Jumper.,70,70,0,0,0.5,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+335,5,0:51,51,51,Ohio State Defensive Rebound.,70,70,0,13,0.5,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,
+336,5,0:38,38,38,Janai Crooms made Layup. Assisted by Carmen Grande.,70,72,-2,24,0.13660185240532335,Penn State,Ohio State,3,4,0,0,NA,401094770,2019-01-17,Ohio State
+337,5,0:14,14,14,Foul on Makayla Waterman.,70,72,-2,0,0.10412770804069946,Penn State,Ohio State,3,4,0,1,NA,401094770,2019-01-17,
+338,5,0:14,14,14,Teniya Page missed Free Throw.,70,72,-2,0,0.10412770804069946,Penn State,Ohio State,3,4,0,1,NA,401094770,2019-01-17,
+339,5,0:14,14,14,Penn State Deadball Team Rebound.,70,72,-2,0,0.10412770804069946,Penn State,Ohio State,3,4,0,1,NA,401094770,2019-01-17,
+340,5,0:14,14,14,Teniya Page made Free Throw.,71,72,-1,0,0.25424668313989673,Penn State,Ohio State,3,4,0,1,NA,401094770,2019-01-17,Penn State
+341,5,0:14,14,14,Ohio State  Timeout,71,72,-1,3,0.25424668313989673,Penn State,Ohio State,3,3,0,1,NA,401094770,2019-01-17,
+342,5,0:11,11,11,Dorka Juhasz made Layup. Assisted by Janai Crooms.,71,74,-3,0,0.03588657491023283,Penn State,Ohio State,3,3,1,1,NA,401094770,2019-01-17,Ohio State
+343,5,0:11,11,11,Foul on Amari Carter.,71,74,-3,0,0.03588657491023283,Penn State,Ohio State,3,3,1,1,NA,401094770,2019-01-17,
+344,5,0:11,11,11,Dorka Juhasz made Free Throw.,71,75,-4,0,0.012275550504750075,Penn State,Ohio State,3,3,1,1,NA,401094770,2019-01-17,Ohio State
+345,5,0:11,11,11,Penn State  Timeout,71,75,-4,1,0.012275550504750075,Penn State,Ohio State,2,3,1,1,NA,401094770,2019-01-17,
+346,5,0:10,10,10,Teniya Page missed Three Point Jumper.,71,75,-4,0,0.0119391858379318,Penn State,Ohio State,2,3,1,1,NA,401094770,2019-01-17,
+347,5,0:10,10,10,Dorka Juhasz Defensive Rebound.,71,75,-4,3,0.0119391858379318,Penn State,Ohio State,2,3,1,1,NA,401094770,2019-01-17,
+348,5,0:07,7,7,Foul on Karisma Ortiz.,71,75,-4,0,0.010974511870150696,Penn State,Ohio State,2,3,1,1,NA,401094770,2019-01-17,
+349,5,0:07,7,7,Dorka Juhasz made Free Throw.,71,76,-5,0,0.0035884830521534074,Penn State,Ohio State,2,3,1,1,NA,401094770,2019-01-17,Ohio State
+350,5,0:07,7,7,Dorka Juhasz missed Free Throw.,71,76,-5,0,0.0035884830521534074,Penn State,Ohio State,2,3,1,1,NA,401094770,2019-01-17,
+351,5,0:07,7,7,Karisma Ortiz Defensive Rebound.,71,76,-5,4,0.0035884830521534074,Penn State,Ohio State,2,3,1,1,NA,401094770,2019-01-17,
+352,5,0:03,3,3,Amari Carter missed Three Point Jumper.,71,76,-5,0,0.003107925506662311,Penn State,Ohio State,2,3,1,1,NA,401094770,2019-01-17,
+353,5,0:03,3,3,Dorka Juhasz Defensive Rebound.,71,76,-5,3,0.003107925506662311,Penn State,Ohio State,2,3,1,1,NA,401094770,2019-01-17,
+354,5,0:00,0,0,End of Game,71,76,-5,0,3.720075976020836e-44,Penn State,Ohio State,2,3,1,1,NA,401094770,2019-01-17,

@@ -1,0 +1,387 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:36,2376,2376,Tatyana Wyatt made Jumper. Assisted by KeKe McKinney.,0,0,0,10,0.5,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,NA
+2,1,9:26,2366,2366,Rennia Davis missed Three Point Jumper.,0,2,-2,0,0.4552536897122488,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,Kentucky
+3,1,9:26,2366,2366,Cheridene Green Offensive Rebound.,0,2,-2,8,0.4552536897122488,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+4,1,9:18,2358,2358,Meme Jackson missed Three Point Jumper.,0,2,-2,0,0.45508188965266283,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+5,1,9:18,2358,2358,Kentucky Defensive Rebound.,0,2,-2,25,0.45508188965266283,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+6,1,8:53,2333,2333,Rhyne Howard missed Three Point Jumper.,0,2,-2,0,0.45453965530089274,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+7,1,8:53,2333,2333,Evina Westbrook Defensive Rebound.,0,2,-2,9,0.45453965530089274,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+8,1,8:44,2324,2324,Evina Westbrook Turnover.,0,2,-2,0,0.4543425759993232,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+9,1,8:44,2324,2324,Rhyne Howard Steal.,0,2,-2,1,0.4543425759993232,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+10,1,8:43,2323,2323,Foul on Cheridene Green.,0,2,-2,13,0.45432062009867336,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+11,1,8:30,2310,2310,Maci Morris made Three Point Jumper.,0,5,-5,13,0.3867581523964319,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,Kentucky
+12,1,8:17,2297,2297,Evina Westbrook Turnover.,0,5,-5,1,0.3860688117293953,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+13,1,8:16,2296,2296,Maci Morris Steal.,0,5,-5,4,0.3860156291604351,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+14,1,8:12,2292,2292,Taylor Murray made Jumper.,0,7,-7,3,0.34276732098051876,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,Kentucky
+15,1,8:09,2289,2289,Tennessee  Timeout,0,7,-7,0,0.3425544688134711,Tennessee,Kentucky,3,4,1,0,NA,401091561,2019-01-10,
+16,1,8:09,2289,2289,Official TV Timeout,0,7,-7,10,0.3425544688134711,Tennessee,Kentucky,3,4,1,0,NA,401091561,2019-01-10,
+17,1,7:59,2279,2279,Meme Jackson missed Jumper.,0,7,-7,0,0.34184341144830077,Tennessee,Kentucky,3,4,1,0,NA,401091561,2019-01-10,
+18,1,7:59,2279,2279,Maci Morris Defensive Rebound.,0,7,-7,10,0.34184341144830077,Tennessee,Kentucky,3,4,1,0,NA,401091561,2019-01-10,
+19,1,7:49,2269,2269,Maci Morris Turnover.,0,7,-7,2,0.34113010544086897,Tennessee,Kentucky,3,4,1,0,NA,401091561,2019-01-10,
+20,1,7:47,2267,2267,Meme Jackson Steal.,0,7,-7,3,0.3409871900029078,Tennessee,Kentucky,3,4,1,0,NA,401091561,2019-01-10,
+21,1,7:44,2264,2264,Rennia Davis Turnover.,0,7,-7,2,0.34077266458244676,Tennessee,Kentucky,3,4,1,0,NA,401091561,2019-01-10,
+22,1,7:42,2262,2262,KeKe McKinney Steal.,0,7,-7,14,0.34062954818752506,Tennessee,Kentucky,3,4,1,0,NA,401091561,2019-01-10,
+23,1,7:28,2248,2248,Rhyne Howard missed Jumper.,0,7,-7,0,0.3396256308787521,Tennessee,Kentucky,3,4,1,0,NA,401091561,2019-01-10,
+24,1,7:28,2248,2248,Cheridene Green Defensive Rebound.,0,7,-7,7,0.3396256308787521,Tennessee,Kentucky,3,4,1,0,NA,401091561,2019-01-10,
+25,1,7:21,2241,2241,Rennia Davis missed Jumper.,0,7,-7,0,0.339122391580062,Tennessee,Kentucky,3,4,1,0,NA,401091561,2019-01-10,
+26,1,7:21,2241,2241,Rennia Davis Offensive Rebound.,0,7,-7,10,0.339122391580062,Tennessee,Kentucky,3,4,1,0,NA,401091561,2019-01-10,
+27,1,7:11,2231,2231,Evina Westbrook made Layup.,2,7,-5,8,0.38251816593178145,Tennessee,Kentucky,3,4,1,0,NA,401091561,2019-01-10,Tennessee
+28,1,7:03,2223,2223,Taylor Murray made Jumper.,2,9,-7,7,0.33782494014969655,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Kentucky
+29,1,6:56,2216,2216,Evina Westbrook Turnover.,2,9,-7,3,0.3373192135200411,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+30,1,6:53,2213,2213,KeKe McKinney missed Jumper.,2,9,-7,0,0.33710229867040853,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+31,1,6:53,2213,2213,Rennia Davis Defensive Rebound.,2,9,-7,9,0.33710229867040853,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+32,1,6:44,2204,2204,Cheridene Green missed Jumper.,2,9,-7,0,0.33645098392386896,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+33,1,6:44,2204,2204,Tatyana Wyatt Block.,2,9,-7,2,0.33645098392386896,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+34,1,6:42,2202,2202,Tatyana Wyatt Defensive Rebound.,2,9,-7,13,0.3363061400479837,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+35,1,6:29,2189,2189,KeKe McKinney missed Three Point Jumper.,2,9,-7,0,0.33536383876143894,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+36,1,6:29,2189,2189,Cheridene Green Defensive Rebound.,2,9,-7,9,0.33536383876143894,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+37,1,6:20,2180,2180,Foul on Maci Morris.,2,9,-7,0,0.3347107839872701,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+38,1,6:20,2180,2180,Meme Jackson made Free Throw.,3,9,-6,0,0.35690596889703863,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Tennessee
+39,1,6:20,2180,2180,Meme Jackson made Free Throw.,4,9,-5,22,0.37973288038124037,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Tennessee
+40,1,5:58,2158,2158,Ogechi Anyagaligbo made Layup.,4,11,-7,0,0.3331119623893378,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Kentucky
+41,1,5:58,2158,2158,Foul on Kasiyahna Kushkituah.,4,11,-7,0,0.3331119623893378,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+42,1,5:58,2158,2158,Ogechi Anyagaligbo made Free Throw.,4,12,-8,8,0.31145906071672974,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Kentucky
+43,1,5:50,2150,2150,Evina Westbrook Turnover.,4,12,-8,13,0.3108157972470566,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+44,1,5:37,2137,2137,Ogechi Anyagaligbo made Jumper. Assisted by Amanda Paschal.,4,14,-10,17,0.26864582377972634,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Kentucky
+45,1,5:20,2120,2120,Foul on Rhyne Howard.,4,14,-10,0,0.2670679795295488,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+46,1,5:20,2120,2120,Meme Jackson missed Free Throw.,4,14,-10,0,0.2670679795295488,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+47,1,5:20,2120,2120,Tennessee Deadball Team Rebound.,4,14,-10,0,0.2670679795295488,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+48,1,5:20,2120,2120,Meme Jackson made Free Throw.,5,14,-9,17,0.28728748038269725,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Tennessee
+49,1,5:03,2103,2103,Maci Morris made Three Point Jumper.,5,17,-12,5,0.22772913335144732,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Kentucky
+50,1,4:58,2098,2098,Rennia Davis Turnover.,5,17,-12,1,0.2272245731034072,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+51,1,4:57,2097,2097,Jaida Roper Steal.,5,17,-12,3,0.22712363046265552,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+52,1,4:54,2094,2094,Jaida Roper made Jumper.,5,19,-14,12,0.19298298450762527,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Kentucky
+53,1,4:42,2082,2082,Zaay Green missed Three Point Jumper.,5,19,-14,0,0.19172743908390055,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+54,1,4:42,2082,2082,Amanda Paschal Defensive Rebound.,5,19,-14,6,0.19172743908390055,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+55,1,4:36,2076,2076,Foul on Kasiyahna Kushkituah.,5,19,-14,9,0.19109956599702577,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+56,1,4:27,2067,2067,Maci Morris made Three Point Jumper. Assisted by Jaida Roper.,5,22,-17,17,0.14685500618286682,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Kentucky
+57,1,4:10,2050,2050,Evina Westbrook missed Jumper.,5,22,-17,0,0.14509881404254102,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+58,1,4:10,2050,2050,Rennia Davis Offensive Rebound.,5,22,-17,6,0.14509881404254102,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+59,1,4:04,2044,2044,Foul on Jaida Roper.,5,22,-17,1,0.14447982777359206,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+60,1,4:03,2043,2043,Rae Burrell missed Three Point Jumper.,5,22,-17,0,0.1443767041812941,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+61,1,4:03,2043,2043,Amanda Paschal Defensive Rebound.,5,22,-17,9,0.1443767041812941,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+62,1,3:54,2034,2034,Amanda Paschal missed Jumper.,5,22,-17,0,0.143449098512158,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+63,1,3:54,2034,2034,Cheridene Green Defensive Rebound.,5,22,-17,17,0.143449098512158,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+64,1,3:37,2017,2017,Cheridene Green missed Layup.,5,22,-17,0,0.14169930091486502,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+65,1,3:37,2017,2017,Tennessee Offensive Rebound.,5,22,-17,2,0.14169930091486502,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+66,1,3:35,2015,2015,Rennia Davis made Jumper. Assisted by Cheridene Green.,7,22,-15,23,0.16926731262387373,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Tennessee
+67,1,3:12,1992,1992,Maci Morris made Jumper.,7,24,-17,26,0.13913104295002354,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Kentucky
+68,1,2:46,1966,1966,Jazmine Massengill Turnover.,7,24,-17,10,0.13646541505881996,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+69,1,2:36,1956,1956,Jaida Roper Turnover.,7,24,-17,20,0.13544142686321523,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+70,1,2:16,1936,1936,Rennia Davis missed Jumper.,7,24,-17,0,0.133395265617057,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+71,1,2:16,1936,1936,Rae Burrell Offensive Rebound.,7,24,-17,1,0.133395265617057,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+72,1,2:15,1935,1935,Foul on Ogechi Anyagaligbo.,7,24,-17,5,0.13329301626504433,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+73,1,2:10,1930,1930,Rae Burrell missed Layup.,7,24,-17,0,0.13278184796758302,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+74,1,2:10,1930,1930,Mimi Collins Offensive Rebound.,7,24,-17,1,0.13278184796758302,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+75,1,2:09,1929,1929,Foul on Rhyne Howard.,7,24,-17,0,0.13267967065388836,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+76,1,2:09,1929,1929,Mimi Collins made Free Throw.,8,24,-16,0,0.14591191738044243,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Tennessee
+77,1,2:09,1929,1929,Mimi Collins missed Free Throw.,8,24,-16,0,0.14591191738044243,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+78,1,2:09,1929,1929,Tennessee Offensive Rebound.,8,24,-16,3,0.14591191738044243,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+79,1,2:06,1926,1926,Mimi Collins made Layup. Assisted by Rennia Davis.,10,24,-14,18,0.17532551504263588,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Tennessee
+80,1,1:48,1908,1908,Maci Morris missed Jumper.,10,24,-14,0,0.17343483706905718,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+81,1,1:48,1908,1908,Rae Burrell Defensive Rebound.,10,24,-14,30,0.17343483706905718,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+82,1,1:18,1878,1878,Jazmine Massengill missed Jumper.,10,24,-14,0,0.170322950956348,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+83,1,1:18,1878,1878,Rennia Davis Offensive Rebound.,10,24,-14,8,0.170322950956348,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+84,1,1:10,1870,1870,Mimi Collins missed Jumper.,10,24,-14,0,0.16949961473522598,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+85,1,1:10,1870,1870,Mimi Collins Offensive Rebound.,10,24,-14,0,0.16949961473522598,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+86,1,1:10,1870,1870,Foul on Maci Morris.,10,24,-14,0,0.16949961473522598,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+87,1,1:10,1870,1870,Mimi Collins made Free Throw.,11,24,-13,0,0.18608308194276943,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Tennessee
+88,1,1:10,1870,1870,Mimi Collins made Free Throw.,12,24,-12,6,0.20389071205174897,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Tennessee
+89,1,1:04,1864,1864,Jaida Roper missed Three Point Jumper.,12,24,-12,0,0.20328159664515552,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+90,1,1:04,1864,1864,KeKe McKinney Offensive Rebound.,12,24,-12,21,0.20328159664515552,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+91,1,0:43,1843,1843,Taylor Murray made Jumper.,12,26,-14,0,0.16673486906609733,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Kentucky
+92,1,0:43,1843,1843,Foul on Mimi Collins.,12,26,-14,0,0.16673486906609733,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+93,1,0:43,1843,1843,Taylor Murray made Free Throw.,12,27,-15,9,0.15137313400684033,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Kentucky
+94,1,0:34,1834,1834,Rae Burrell made Layup. Assisted by Evina Westbrook.,14,27,-13,21,0.1823998290213549,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Tennessee
+95,1,0:13,1813,1813,Jaida Roper missed Jumper.,14,27,-13,0,0.18025699261098965,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+96,1,0:13,1813,1813,Rae Burrell Block.,14,27,-13,2,0.18025699261098965,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+97,1,0:11,1811,1811,Evina Westbrook Defensive Rebound.,14,27,-13,6,0.18005288067621444,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+98,1,0:05,1805,1805,Mimi Collins made Layup. Assisted by Meme Jackson.,16,27,-11,5,0.2164839238783707,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,Tennessee
+99,1,0:00,1800,1800,Taylor Murray missed Three Point Jumper.,16,27,-11,0,0.2159860210681694,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+100,1,0:00,1800,1800,Tennessee Defensive Rebound.,16,27,-11,0,0.2159860210681694,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+101,1,0:00,1800,1800,End of 1st Quarter,16,27,-11,17,0.2159860210681694,Tennessee,Kentucky,3,4,0,0,NA,401091561,2019-01-10,
+102,2,9:43,1783,1783,Taylor Murray missed Jumper.,16,27,-11,0,0.21428852681908833,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+103,2,9:43,1783,1783,Jaida Roper Offensive Rebound.,16,27,-11,20,0.21428852681908833,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+104,2,9:23,1763,1763,Jaida Roper Turnover.,16,27,-11,1,0.212279661771573,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+105,2,9:22,1762,1762,Evina Westbrook Steal.,16,27,-11,1,0.21217881609293163,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+106,2,9:21,1761,1761,Foul on Jaida Roper.,16,27,-11,18,0.21207792844239315,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+107,2,9:03,1743,1743,Mimi Collins missed Jumper.,16,27,-11,0,0.21025421644515052,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+108,2,9:03,1743,1743,Evina Westbrook Offensive Rebound.,16,27,-11,1,0.21025421644515052,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+109,2,9:02,1742,1742,Evina Westbrook missed Layup.,16,27,-11,0,0.21015243876457876,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+110,2,9:02,1742,1742,Tennessee Offensive Rebound.,16,27,-11,10,0.21015243876457876,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+111,2,8:52,1732,1732,Cheridene Green missed Jumper.,16,27,-11,0,0.20913174282178998,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+112,2,8:52,1732,1732,Taylor Murray Defensive Rebound.,16,27,-11,3,0.20913174282178998,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+113,2,8:49,1729,1729,KeKe McKinney missed Three Point Jumper.,16,27,-11,6,0.20882445624144289,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+114,2,8:43,1723,1723,KeKe McKinney Offensive Rebound.,16,27,-11,2,0.2082083110221825,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+115,2,8:41,1721,1721,Foul on Meme Jackson.,16,27,-11,5,0.2080024499496837,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+116,2,8:36,1716,1716,Foul on Tatyana Wyatt.,16,27,-11,0,0.20748671400516674,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+117,2,8:36,1716,1716,Tatyana Wyatt Turnover.,16,27,-11,22,0.20748671400516674,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+118,2,8:14,1694,1694,Mimi Collins made Jumper. Assisted by Meme Jackson.,18,27,-9,14,0.2482597166913676,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,Tennessee
+119,2,8:00,1680,1680,Rhyne Howard made Jumper. Assisted by Taylor Murray.,18,29,-11,9,0.2037370622502302,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,Kentucky
+120,2,7:51,1671,1671,Evina Westbrook missed Jumper.,18,29,-11,0,0.2028165827190309,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+121,2,7:51,1671,1671,Mimi Collins Offensive Rebound.,18,29,-11,5,0.2028165827190309,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+122,2,7:46,1666,1666,Meme Jackson missed Three Point Jumper.,18,29,-11,0,0.20231128975264273,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+123,2,7:46,1666,1666,Kentucky Defensive Rebound.,18,29,-11,28,0.20231128975264273,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+124,2,7:18,1638,1638,Taylor Murray missed Jumper.,18,29,-11,0,0.19954845060585213,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+125,2,7:18,1638,1638,Rhyne Howard Offensive Rebound.,18,29,-11,15,0.19954845060585213,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+126,2,7:03,1623,1623,Rhyne Howard made Jumper.,18,31,-13,28,0.16078493057967436,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,Kentucky
+127,2,6:35,1595,1595,Cheridene Green made Layup. Assisted by Meme Jackson.,20,31,-11,11,0.19544786545954382,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,Tennessee
+128,2,6:24,1584,1584,Taylor Murray missed Jumper.,20,31,-11,0,0.19441062552418012,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+129,2,6:24,1584,1584,Evina Westbrook Defensive Rebound.,20,31,-11,8,0.19441062552418012,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+130,2,6:16,1576,1576,Mimi Collins made Layup. Assisted by Cheridene Green.,22,31,-9,24,0.23738406691598576,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,Tennessee
+131,2,5:52,1552,1552,Maci Morris made Jumper.,22,33,-11,12,0.19138323851088032,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,Kentucky
+132,2,5:40,1540,1540,Evina Westbrook made Layup.,24,33,-9,0,0.2341326188832368,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,Tennessee
+133,2,5:40,1540,1540,Foul on KeKe McKinney.,24,33,-9,0,0.2341326188832368,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+134,2,5:40,1540,1540,Evina Westbrook made Free Throw.,25,33,-8,18,0.25856484863886486,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,Tennessee
+135,2,5:22,1522,1522,Rhyne Howard missed Jumper.,25,33,-8,0,0.2569834633223349,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+136,2,5:22,1522,1522,Cheridene Green Block.,25,33,-8,3,0.2569834633223349,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+137,2,5:19,1519,1519,Zaay Green Defensive Rebound.,25,33,-8,5,0.2567164789319792,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+138,2,5:14,1514,1514,Rennia Davis missed Three Point Jumper.,25,33,-8,0,0.25626905745887274,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+139,2,5:14,1514,1514,Rhyne Howard Defensive Rebound.,25,33,-8,25,0.25626905745887274,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+140,2,4:49,1489,1489,Taylor Murray made Layup.,25,35,-10,16,0.20638192781171777,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,Kentucky
+141,2,4:33,1473,1473,Cheridene Green missed Layup.,25,35,-10,0,0.2047423325469778,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+142,2,4:33,1473,1473,Cheridene Green Offensive Rebound.,25,35,-10,26,0.2047423325469778,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+143,2,4:07,1447,1447,Jazmine Massengill missed Jumper.,25,35,-10,0,0.20197148050899477,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+144,2,4:07,1447,1447,Cheridene Green Offensive Rebound.,25,35,-10,2,0.20197148050899477,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+145,2,4:05,1445,1445,Foul on Ogechi Anyagaligbo.,25,35,-10,0,0.20175614051657714,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+146,2,4:05,1445,1445,Official TV Timeout,25,35,-10,0,0.20175614051657714,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+147,2,4:05,1445,1445,Cheridene Green missed Free Throw.,25,35,-10,0,0.20175614051657714,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+148,2,4:05,1445,1445,Tennessee Deadball Team Rebound.,25,35,-10,0,0.20175614051657714,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+149,2,4:05,1445,1445,Cheridene Green missed Free Throw.,25,35,-10,0,0.20175614051657714,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+150,2,4:05,1445,1445,Ogechi Anyagaligbo Defensive Rebound.,25,35,-10,25,0.20175614051657714,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+151,2,3:40,1420,1420,Rhyne Howard Turnover.,25,35,-10,1,0.19915035857231767,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+152,2,3:39,1419,1419,Rennia Davis Steal.,25,35,-10,20,0.19904902758666748,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+153,2,3:19,1399,1399,Rennia Davis missed Jumper.,25,35,-10,0,0.1970585512636806,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+154,2,3:19,1399,1399,Mimi Collins Offensive Rebound.,25,35,-10,4,0.1970585512636806,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+155,2,3:15,1395,1395,Mimi Collins missed Layup.,25,35,-10,0,0.19666741230370519,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+156,2,3:15,1395,1395,Cheridene Green Offensive Rebound.,25,35,-10,3,0.19666741230370519,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+157,2,3:12,1392,1392,Cheridene Green missed Layup.,25,35,-10,0,0.19637527466543928,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+158,2,3:12,1392,1392,Taylor Murray Defensive Rebound.,25,35,-10,9,0.19637527466543928,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+159,2,3:03,1383,1383,Amanda Paschal missed Jumper.,25,35,-10,0,0.19550420092705448,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+160,2,3:03,1383,1383,Rhyne Howard Offensive Rebound.,25,35,-10,9,0.19550420092705448,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+161,2,2:54,1374,1374,Foul on Cheridene Green.,25,35,-10,15,0.1946393461241967,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+162,2,2:39,1359,1359,Ogechi Anyagaligbo made Layup. Assisted by Rhyne Howard.,25,37,-12,14,0.15249344613880306,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,Kentucky
+163,2,2:25,1345,1345,Zaay Green made Layup. Assisted by Rae Burrell.,27,37,-10,15,0.19186814495822052,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,Tennessee
+164,2,2:10,1330,1330,Foul on Zaay Green.,27,37,-10,16,0.19042642994190428,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+165,2,1:54,1314,1314,Amanda Paschal missed Jumper.,27,37,-10,0,0.1888677204908858,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+166,2,1:54,1314,1314,Kasiyahna Kushkituah Defensive Rebound.,27,37,-10,0,0.1888677204908858,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+167,2,1:54,1314,1314,Foul on Tatyana Wyatt.,27,37,-10,0,0.1888677204908858,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+168,2,1:54,1314,1314,Kasiyahna Kushkituah missed Free Throw.,27,37,-10,0,0.1888677204908858,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+169,2,1:54,1314,1314,Tennessee Deadball Team Rebound.,27,37,-10,0,0.1888677204908858,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+170,2,1:54,1314,1314,Kasiyahna Kushkituah made Free Throw.,28,37,-9,11,0.2122115655014806,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,Tennessee
+171,2,1:43,1303,1303,Amanda Paschal missed Jumper.,28,37,-9,0,0.2111405762789207,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+172,2,1:43,1303,1303,Maci Morris Offensive Rebound.,28,37,-9,21,0.2111405762789207,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+173,2,1:22,1282,1282,Tatyana Wyatt missed Three Point Jumper.,28,37,-9,0,0.20903792729228943,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+174,2,1:22,1282,1282,Rae Burrell Defensive Rebound.,28,37,-9,6,0.20903792729228943,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+175,2,1:16,1276,1276,Evina Westbrook Turnover.,28,37,-9,28,0.20842040377463647,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+176,2,0:48,1248,1248,Maci Morris missed Three Point Jumper.,28,37,-9,0,0.20541717859329436,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+177,2,0:48,1248,1248,Evina Westbrook Block.,28,37,-9,2,0.20541717859329436,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+178,2,0:46,1246,1246,Rae Burrell Defensive Rebound.,28,37,-9,0,0.20519408943744286,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+179,2,0:46,1246,1246,Foul on Taylor Murray.,28,37,-9,0,0.20519408943744286,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+180,2,0:46,1246,1246,Rae Burrell missed Free Throw.,28,37,-9,0,0.20519408943744286,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+181,2,0:46,1246,1246,Tennessee Deadball Team Rebound.,28,37,-9,0,0.20519408943744286,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+182,2,0:46,1246,1246,Rae Burrell missed Free Throw.,28,37,-9,0,0.20519408943744286,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+183,2,0:46,1246,1246,Rennia Davis Offensive Rebound.,28,37,-9,14,0.20519408943744286,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+184,2,0:32,1232,1232,Evina Westbrook missed Jumper.,28,37,-9,0,0.2035963830745303,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+185,2,0:32,1232,1232,Maci Morris Block.,28,37,-9,3,0.2035963830745303,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+186,2,0:29,1229,1229,Evina Westbrook Offensive Rebound.,28,37,-9,3,0.20324541293385984,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+187,2,0:26,1226,1226,Evina Westbrook missed Jumper.,28,37,-9,0,0.2028912633785694,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+188,2,0:26,1226,1226,Tatyana Wyatt Defensive Rebound.,28,37,-9,0,0.2028912633785694,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+189,2,0:26,1226,1226,Foul on Zaay Green.,28,37,-9,0,0.2028912633785694,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+190,2,0:26,1226,1226,Maci Morris missed Free Throw.,28,37,-9,0,0.2028912633785694,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+191,2,0:26,1226,1226,Kentucky Deadball Team Rebound.,28,37,-9,0,0.2028912633785694,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+192,2,0:26,1226,1226,Maci Morris missed Free Throw.,28,37,-9,0,0.2028912633785694,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+193,2,0:26,1226,1226,Kentucky Deadball Team Rebound.,28,37,-9,0,0.2028912633785694,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+194,2,0:26,1226,1226,Zaay Green Turnover.,28,37,-9,19,0.2028912633785694,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+195,2,0:07,1207,1207,Foul on Rennia Davis.,28,37,-9,0,0.20057376517434142,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+196,2,0:07,1207,1207,Maci Morris made Free Throw.,28,38,-10,0,0.17706696075180522,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,Kentucky
+197,2,0:07,1207,1207,Maci Morris missed Free Throw.,28,38,-10,0,0.17706696075180522,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+198,2,0:07,1207,1207,Kasiyahna Kushkituah Defensive Rebound.,28,38,-10,6,0.17706696075180522,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+199,2,0:01,1201,1201,Zaay Green missed Three Point Jumper.,28,38,-10,0,0.17632386656793889,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+200,2,0:01,1201,1201,Tennessee Offensive Rebound.,28,38,-10,1,0.17632386656793889,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+201,2,0:00,1200,1200,End of 2nd Quarter,28,38,-10,11,0.17620114634698963,Tennessee,Kentucky,4,4,0,0,NA,401091561,2019-01-10,
+202,3,9:49,1189,1189,Foul on Rhyne Howard.,28,38,-10,0,0.17487077980659063,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+203,3,9:49,1189,1189,Zaay Green missed Free Throw.,28,38,-10,0,0.17487077980659063,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+204,3,9:49,1189,1189,Tennessee Deadball Team Rebound.,28,38,-10,0,0.17487077980659063,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+205,3,9:49,1189,1189,Zaay Green missed Free Throw.,28,38,-10,0,0.17487077980659063,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+206,3,9:49,1189,1189,Rennia Davis Offensive Rebound.,28,38,-10,5,0.17487077980659063,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+207,3,9:44,1184,1184,Evina Westbrook made Jumper.,30,38,-8,26,0.2236552249904552,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,Tennessee
+208,3,9:18,1158,1158,KeKe McKinney missed Three Point Jumper.,30,38,-8,0,0.2207509058333701,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+209,3,9:18,1158,1158,Rhyne Howard Offensive Rebound.,30,38,-8,6,0.2207509058333701,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+210,3,9:12,1152,1152,Rhyne Howard missed Layup.,30,38,-8,0,0.22009394656193124,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+211,3,9:12,1152,1152,Rhyne Howard Offensive Rebound.,30,38,-8,3,0.22009394656193124,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+212,3,9:09,1149,1149,Rhyne Howard made Layup.,30,40,-10,5,0.1702604024722599,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,Kentucky
+213,3,9:04,1144,1144,Zaay Green made Layup. Assisted by Evina Westbrook.,32,40,-8,0,0.21922287021999662,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,Tennessee
+214,3,9:04,1144,1144,Zaay Green made Free Throw.,33,40,-7,1,0.24760517989063707,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,Tennessee
+215,3,9:03,1143,1143,Foul on Maci Morris.,33,40,-7,18,0.24750177024954065,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+216,3,8:45,1125,1125,Foul on Rhyne Howard.,33,40,-7,0,0.24564463955683374,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+217,3,8:45,1125,1125,Rhyne Howard Turnover.,33,40,-7,18,0.24564463955683374,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+218,3,8:27,1107,1107,Rennia Davis Turnover.,33,40,-7,2,0.24378149014121717,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+219,3,8:25,1105,1105,Maci Morris Steal.,33,40,-7,3,0.24357322077472648,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+220,3,8:22,1102,1102,Maci Morris made Layup.,33,42,-9,9,0.18859861478062137,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,Kentucky
+221,3,8:13,1093,1093,Foul on Tatyana Wyatt.,33,42,-9,14,0.18758946472896526,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+222,3,7:59,1079,1079,Rennia Davis Turnover.,33,42,-9,24,0.1859996611864047,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+223,3,7:35,1055,1055,Foul on Evina Westbrook.,33,42,-9,14,0.18319305094971242,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+224,3,7:21,1041,1041,Amanda Paschal made Jumper.,33,44,-11,0,0.13693437965306388,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,Kentucky
+225,3,7:21,1041,1041,Foul on Cheridene Green.,33,44,-11,0,0.13693437965306388,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+226,3,7:21,1041,1041,Amanda Paschal made Free Throw.,33,45,-12,11,0.11832885060967742,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,Kentucky
+227,3,7:10,1030,1030,Cheridene Green missed Layup.,33,45,-12,0,0.11704344019240927,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+228,3,7:10,1030,1030,KeKe McKinney Defensive Rebound.,33,45,-12,29,0.11704344019240927,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+229,3,6:41,1001,1001,Amanda Paschal Turnover.,33,45,-12,17,0.11349333918106148,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+230,3,6:24,984,984,Evina Westbrook missed Layup.,33,45,-12,0,0.11128681736163881,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+231,3,6:24,984,984,Cheridene Green Offensive Rebound.,33,45,-12,1,0.11128681736163881,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+232,3,6:23,983,983,Foul on Ogechi Anyagaligbo.,33,45,-12,0,0.11115384936596608,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+233,3,6:23,983,983,Cheridene Green missed Free Throw.,33,45,-12,0,0.11115384936596608,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+234,3,6:23,983,983,Tennessee Deadball Team Rebound.,33,45,-12,0,0.11115384936596608,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+235,3,6:23,983,983,Cheridene Green made Free Throw.,34,45,-11,25,0.1294581524949365,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,Tennessee
+236,3,5:58,958,958,Amanda Paschal missed Three Point Jumper.,34,45,-11,0,0.12594751239501512,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+237,3,5:58,958,958,Evina Westbrook Defensive Rebound.,34,45,-11,9,0.12594751239501512,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+238,3,5:49,949,949,Meme Jackson Turnover.,34,45,-11,19,0.12478003800529623,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+239,3,5:30,930,930,Maci Morris made Jumper.,34,47,-13,5,0.08891994496169393,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,Kentucky
+240,3,5:25,925,925,Zaay Green missed Jumper.,34,47,-13,0,0.08841902699685336,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+241,3,5:25,925,925,Cheridene Green Offensive Rebound.,34,47,-13,7,0.08841902699685336,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+242,3,5:18,918,918,Zaay Green made Jumper. Assisted by Cheridene Green.,36,47,-11,29,0.12117574162185114,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,Tennessee
+243,3,4:49,889,889,Amanda Paschal missed Jumper.,36,47,-11,0,0.11817692420532905,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+244,3,4:49,889,889,KeKe McKinney Offensive Rebound.,36,47,-11,6,0.11817692420532905,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+245,3,4:43,883,883,Maci Morris missed Three Point Jumper.,36,47,-11,0,0.11757842142783673,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+246,3,4:43,883,883,KeKe McKinney Offensive Rebound.,36,47,-11,5,0.11757842142783673,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+247,3,4:38,878,878,Ogechi Anyagaligbo made Jumper. Assisted by KeKe McKinney.,36,49,-13,13,0.08411574788348154,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,Kentucky
+248,3,4:25,865,865,Evina Westbrook missed Jumper.,36,49,-13,0,0.08298139311287182,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+249,3,4:25,865,865,Ogechi Anyagaligbo Defensive Rebound.,36,49,-13,26,0.08298139311287182,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,
+250,3,3:59,839,839,Maci Morris made Jumper. Assisted by Amanda Paschal.,36,51,-15,5,0.056912866297691905,Tennessee,Kentucky,5,5,0,0,NA,401091561,2019-01-10,Kentucky
+251,3,3:54,834,834,Tennessee  Timeout,36,51,-15,23,0.05652938682093682,Tennessee,Kentucky,4,5,1,0,NA,401091561,2019-01-10,
+252,3,3:31,811,811,Meme Jackson Turnover.,36,51,-15,2,0.05468750211399368,Tennessee,Kentucky,4,5,1,0,NA,401091561,2019-01-10,
+253,3,3:29,809,809,Blair Green Steal.,36,51,-15,15,0.05452005529257759,Tennessee,Kentucky,4,5,1,0,NA,401091561,2019-01-10,
+254,3,3:14,794,794,Jaida Roper missed Layup.,36,51,-15,0,0.05321940922075743,Tennessee,Kentucky,4,5,1,0,NA,401091561,2019-01-10,
+255,3,3:14,794,794,Rennia Davis Defensive Rebound.,36,51,-15,8,0.05321940922075743,Tennessee,Kentucky,4,5,1,0,NA,401091561,2019-01-10,
+256,3,3:06,786,786,Evina Westbrook made Layup. Assisted by Meme Jackson.,38,51,-13,22,0.07533778280563833,Tennessee,Kentucky,4,5,1,0,NA,401091561,2019-01-10,Tennessee
+257,3,2:44,764,764,Blair Green made Jumper.,38,53,-15,11,0.050341544701909484,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,Kentucky
+258,3,2:33,753,753,Foul on Evina Westbrook.,38,53,-15,0,0.04918127563656141,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,
+259,3,2:33,753,753,Evina Westbrook Turnover.,38,53,-15,0,0.04918127563656141,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,
+260,3,2:33,753,753,Official TV Timeout,38,53,-15,9,0.04918127563656141,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,
+261,3,2:24,744,744,Maci Morris Turnover.,38,53,-15,2,0.04818685554904119,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,
+262,3,2:22,742,742,Evina Westbrook Steal.,38,53,-15,4,0.04796025099423581,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,
+263,3,2:18,738,738,Evina Westbrook made Jumper.,40,53,-13,22,0.06923098042435943,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,Tennessee
+264,3,1:56,716,716,Maci Morris made Three Point Jumper.,40,56,-16,29,0.037005600583572544,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,Kentucky
+265,3,1:27,687,687,Rennia Davis made Three Point Jumper. Assisted by Evina Westbrook.,43,56,-13,27,0.06273306575784396,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,Tennessee
+266,3,1:00,660,660,Ogechi Anyagaligbo missed Layup.,43,56,-13,0,0.060008621935411725,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,
+267,3,1:00,660,660,Mimi Collins Block.,43,56,-13,1,0.060008621935411725,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,
+268,3,0:59,659,659,Kentucky Offensive Rebound.,43,56,-13,1,0.0599107796333324,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,
+269,3,0:58,658,658,Ogechi Anyagaligbo made Layup. Assisted by Jaida Roper.,43,58,-15,17,0.039975969001150136,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,Kentucky
+270,3,0:41,641,641,Rennia Davis made Three Point Jumper. Assisted by Cheridene Green.,46,58,-12,8,0.07104845161690314,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,Tennessee
+271,3,0:33,633,633,Foul on Amanda Paschal.,46,58,-12,0,0.07015570762128197,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,
+272,3,0:33,633,633,Amanda Paschal Turnover.,46,58,-12,30,0.07015570762128197,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,
+273,3,0:03,603,603,Rennia Davis missed Three Point Jumper.,46,58,-12,0,0.0665335894219666,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,
+274,3,0:03,603,603,Meme Jackson Offensive Rebound.,46,58,-12,2,0.0665335894219666,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,
+275,3,0:01,601,601,Meme Jackson missed Layup.,46,58,-12,1,0.06627098653106427,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,
+276,3,0:00,600,600,Kentucky Defensive Rebound.,46,58,-12,0,0.06613849491992857,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,
+277,3,0:00,600,600,End of 3rd Quarter,46,58,-12,10,0.06613849491992857,Tennessee,Kentucky,4,5,0,0,NA,401091561,2019-01-10,
+278,4,9:50,590,590,KeKe McKinney Turnover.,46,58,-12,15,0.06476741933475491,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+279,4,9:35,575,575,Cheridene Green made Layup. Assisted by Meme Jackson.,48,58,-10,23,0.09481884924644278,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,Tennessee
+280,4,9:12,552,552,Foul on Zaay Green.,48,58,-10,8,0.09006372483575342,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+281,4,9:04,544,544,Maci Morris missed Jumper.,48,58,-10,0,0.08830979558980274,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+282,4,9:04,544,544,Maci Morris Offensive Rebound.,48,58,-10,8,0.08830979558980274,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+283,4,8:56,536,536,Jaida Roper Turnover.,48,58,-10,11,0.086731669983664,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+284,4,8:45,525,525,Rennia Davis made Layup.,50,58,-8,0,0.12975295333931366,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,Tennessee
+285,4,8:45,525,525,Foul on Maci Morris.,50,58,-8,0,0.12975295333931366,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+286,4,8:45,525,525,Rennia Davis missed Free Throw.,50,58,-8,0,0.12975295333931366,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+287,4,8:45,525,525,Amanda Paschal Defensive Rebound.,50,58,-8,23,0.12975295333931366,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+288,4,8:22,502,502,Maci Morris missed Jumper.,50,58,-8,0,0.12558352862728178,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+289,4,8:22,502,502,Kentucky Offensive Rebound.,50,58,-8,2,0.12558352862728178,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+290,4,8:20,500,500,Foul on Evina Westbrook.,50,58,-8,18,0.12523324688736528,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+291,4,8:02,482,482,Rhyne Howard missed Jumper.,50,58,-8,0,0.12199299257296668,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+292,4,8:02,482,482,Kentucky Offensive Rebound.,50,58,-8,10,0.12199299257296668,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+293,4,7:52,472,472,Rhyne Howard Turnover.,50,58,-8,15,0.1200354442274367,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+294,4,7:37,457,457,Meme Jackson missed Jumper.,50,58,-8,0,0.11672919504143847,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+295,4,7:37,457,457,Cheridene Green Offensive Rebound.,50,58,-8,1,0.11672919504143847,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+296,4,7:36,456,456,Foul on Rhyne Howard.,50,58,-8,0,0.1164892462035288,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+297,4,7:36,456,456,Cheridene Green missed Free Throw.,50,58,-8,0,0.1164892462035288,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+298,4,7:36,456,456,Tennessee Deadball Team Rebound.,50,58,-8,0,0.1164892462035288,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+299,4,7:36,456,456,Cheridene Green made Free Throw.,51,58,-7,6,0.14518932400681236,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,Tennessee
+300,4,7:30,450,450,Maci Morris made Layup.,51,60,-9,10,0.09146800695611035,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,Kentucky
+301,4,7:20,440,440,Evina Westbrook Turnover.,51,60,-9,2,0.08895402197555,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+302,4,7:18,438,438,Maci Morris Steal.,51,60,-9,4,0.08841625262589844,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+303,4,7:14,434,434,KeKe McKinney Turnover.,51,60,-9,0,0.08730388998387184,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+304,4,7:14,434,434,Meme Jackson Steal.,51,60,-9,7,0.08730388998387184,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+305,4,7:07,427,427,Foul on Meme Jackson.,51,60,-9,0,0.08526429587375961,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+306,4,7:07,427,427,Meme Jackson Turnover.,51,60,-9,17,0.08526429587375961,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+307,4,6:50,410,410,Foul on Meme Jackson.,51,60,-9,12,0.0807405745783835,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+308,4,6:38,398,398,Maci Morris missed Layup.,51,60,-9,0,0.0778505169234343,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+309,4,6:38,398,398,Cheridene Green Defensive Rebound.,51,60,-9,10,0.0778505169234343,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+310,4,6:28,388,388,Meme Jackson made Three Point Jumper. Assisted by Rennia Davis.,54,60,-6,27,0.15845040447588385,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,Tennessee
+311,4,6:01,361,361,Jaida Roper missed Three Point Jumper.,54,60,-6,1,0.15018626706104254,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+312,4,6:00,360,360,Cheridene Green Defensive Rebound.,54,60,-6,0,0.14985802531890655,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+313,4,6:00,360,360,Foul on Tatyana Wyatt.,54,60,-6,17,0.14985802531890655,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,
+314,4,5:43,343,343,Cheridene Green made Layup. Assisted by Meme Jackson.,56,60,-4,4,0.2334547493212038,Tennessee,Kentucky,5,6,0,0,NA,401091561,2019-01-10,Tennessee
+315,4,5:39,339,339,Kentucky  Timeout,56,60,-4,0,0.23197125660203272,Tennessee,Kentucky,5,5,0,1,NA,401091561,2019-01-10,
+316,4,5:39,339,339,Official TV Timeout,56,60,-4,12,0.23197125660203272,Tennessee,Kentucky,5,5,0,1,NA,401091561,2019-01-10,
+317,4,5:27,327,327,Foul on Evina Westbrook.,56,60,-4,0,0.22715038596762052,Tennessee,Kentucky,5,5,0,1,NA,401091561,2019-01-10,
+318,4,5:27,327,327,Maci Morris made Free Throw.,56,61,-5,0,0.17790734344365142,Tennessee,Kentucky,5,5,0,1,NA,401091561,2019-01-10,Kentucky
+319,4,5:27,327,327,Maci Morris made Free Throw.,56,62,-6,7,0.13744106325109554,Tennessee,Kentucky,5,5,0,1,NA,401091561,2019-01-10,Kentucky
+320,4,5:20,320,320,Evina Westbrook made Layup.,58,62,-4,15,0.22405410943580922,Tennessee,Kentucky,5,5,0,1,NA,401091561,2019-01-10,Tennessee
+321,4,5:05,305,305,Kentucky  Timeout,58,62,-4,14,0.21705962478527202,Tennessee,Kentucky,5,4,0,1,NA,401091561,2019-01-10,
+322,4,4:51,291,291,Ogechi Anyagaligbo made Jumper. Assisted by Jaida Roper.,58,64,-6,25,0.12471350070172965,Tennessee,Kentucky,5,4,0,1,NA,401091561,2019-01-10,Kentucky
+323,4,4:26,266,266,Foul on Ogechi Anyagaligbo.,58,64,-6,0,0.12739428472645303,Tennessee,Kentucky,5,4,0,1,NA,401091561,2019-01-10,
+324,4,4:26,266,266,Evina Westbrook made Free Throw.,59,64,-5,0,0.16749336671984771,Tennessee,Kentucky,5,4,0,1,NA,401091561,2019-01-10,Tennessee
+325,4,4:26,266,266,Evina Westbrook made Free Throw.,60,64,-4,7,0.21707432652300038,Tennessee,Kentucky,5,4,0,1,NA,401091561,2019-01-10,Tennessee
+326,4,4:19,259,259,Foul on Maci Morris.,60,64,-4,0,0.2185365943968464,Tennessee,Kentucky,5,4,0,1,NA,401091561,2019-01-10,
+327,4,4:19,259,259,Maci Morris Turnover.,60,64,-4,21,0.2185365943968464,Tennessee,Kentucky,5,4,0,1,NA,401091561,2019-01-10,
+328,4,3:58,238,238,Cheridene Green Turnover.,60,64,-4,0,0.22150207765273663,Tennessee,Kentucky,5,4,0,0,NA,401091561,2019-01-10,
+329,4,3:58,238,238,Ogechi Anyagaligbo Steal.,60,64,-4,9,0.22150207765273663,Tennessee,Kentucky,5,4,0,0,NA,401091561,2019-01-10,
+330,4,3:49,229,229,Kentucky  Timeout,60,64,-4,21,0.22105446860393851,Tennessee,Kentucky,5,3,0,1,NA,401091561,2019-01-10,
+331,4,3:28,208,208,Jaida Roper made Jumper.,60,66,-6,13,0.12315333345280387,Tennessee,Kentucky,5,3,0,1,NA,401091561,2019-01-10,Kentucky
+332,4,3:15,195,195,Meme Jackson missed Three Point Jumper.,60,66,-6,0,0.1119299472300812,Tennessee,Kentucky,5,3,0,1,NA,401091561,2019-01-10,
+333,4,3:15,195,195,Zaay Green Offensive Rebound.,60,66,-6,5,0.1119299472300812,Tennessee,Kentucky,5,3,0,1,NA,401091561,2019-01-10,
+334,4,3:10,190,190,Zaay Green missed Jumper.,60,66,-6,0,0.1063276602242631,Tennessee,Kentucky,5,3,0,1,NA,401091561,2019-01-10,
+335,4,3:10,190,190,Kentucky Defensive Rebound.,60,66,-6,23,0.1063276602242631,Tennessee,Kentucky,5,3,0,1,NA,401091561,2019-01-10,
+336,4,2:47,167,167,Blair Green Turnover.,60,66,-6,2,0.08139091602238317,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,
+337,4,2:45,165,165,Meme Jackson Steal.,60,66,-6,4,0.07939844315167503,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,
+338,4,2:41,161,161,Foul on Jaida Roper.,60,66,-6,0,0.07547817304106784,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,
+339,4,2:41,161,161,Evina Westbrook made Free Throw.,61,66,-5,0,0.11028228291002978,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,Tennessee
+340,4,2:41,161,161,Evina Westbrook made Free Throw.,62,66,-4,13,0.15838568305107115,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,Tennessee
+341,4,2:28,148,148,Jaida Roper Turnover.,62,66,-4,0,0.1422614566767474,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,
+342,4,2:28,148,148,Rennia Davis Steal.,62,66,-4,9,0.1422614566767474,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,
+343,4,2:19,139,139,Evina Westbrook Turnover.,62,66,-4,2,0.1309624896725249,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,
+344,4,2:17,137,137,Amanda Paschal Steal.,62,66,-4,28,0.12843354911744906,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,
+345,4,1:49,109,109,Jaida Roper missed Jumper.,62,66,-4,0,0.09264559556806258,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,
+346,4,1:49,109,109,Zaay Green Defensive Rebound.,62,66,-4,6,0.09264559556806258,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,
+347,4,1:43,103,103,Foul on Amanda Paschal.,62,66,-4,0,0.08504147552425437,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,
+348,4,1:43,103,103,Meme Jackson made Free Throw.,63,66,-3,0,0.1440804285073075,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,Tennessee
+349,4,1:43,103,103,Meme Jackson made Free Throw.,64,66,-2,19,0.23364013224199612,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,Tennessee
+350,4,1:24,84,84,Amanda Paschal missed Jumper.,64,66,-2,0,0.20518446506384777,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,
+351,4,1:24,84,84,Cheridene Green Defensive Rebound.,64,66,-2,1,0.20518446506384777,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,
+352,4,1:23,83,83,Cheridene Green Turnover.,64,66,-2,0,0.20368761781756478,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,
+353,4,1:23,83,83,Amanda Paschal Steal.,64,66,-2,28,0.20368761781756478,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,
+354,4,0:55,55,55,Jaida Roper made Three Point Jumper.,64,69,-5,15,0.016000460216875505,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,Kentucky
+355,4,0:40,40,40,Zaay Green missed Three Point Jumper.,64,69,-5,0,0.0104650718902633,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,
+356,4,0:40,40,40,Blair Green Defensive Rebound.,64,69,-5,5,0.0104650718902633,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,
+357,4,0:35,35,35,Foul on Meme Jackson.,64,69,-5,0,0.009002833235275867,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,
+358,4,0:35,35,35,Jaida Roper made Free Throw.,64,70,-6,0,0.0035353307939678708,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,Kentucky
+359,4,0:35,35,35,Jaida Roper missed Free Throw.,64,70,-6,0,0.0035353307939678708,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,
+360,4,0:35,35,35,Cheridene Green Defensive Rebound.,64,70,-6,1,0.0035353307939678708,Tennessee,Kentucky,5,3,0,0,NA,401091561,2019-01-10,
+361,4,0:34,34,34,Tennessee  Timeout,64,70,-6,3,0.003407281875287406,Tennessee,Kentucky,4,3,1,0,NA,401091561,2019-01-10,
+362,4,0:31,31,31,Evina Westbrook missed Jumper.,64,70,-6,0,0.003047164638682367,Tennessee,Kentucky,4,3,1,0,NA,401091561,2019-01-10,
+363,4,0:31,31,31,Cheridene Green Offensive Rebound.,64,70,-6,4,0.003047164638682367,Tennessee,Kentucky,4,3,1,0,NA,401091561,2019-01-10,
+364,4,0:27,27,27,Cheridene Green missed Layup.,64,70,-6,0,0.002619703084679086,Tennessee,Kentucky,4,3,1,0,NA,401091561,2019-01-10,
+365,4,0:27,27,27,Zaay Green Offensive Rebound.,64,70,-6,2,0.002619703084679086,Tennessee,Kentucky,4,3,1,0,NA,401091561,2019-01-10,
+366,4,0:25,25,25,Zaay Green made Jumper.,66,70,-4,1,0.01776734298504168,Tennessee,Kentucky,4,3,1,0,NA,401091561,2019-01-10,Tennessee
+367,4,0:24,24,24,Foul on Zaay Green.,66,70,-4,0,0.017324842039353278,Tennessee,Kentucky,4,3,1,0,NA,401091561,2019-01-10,
+368,4,0:24,24,24,Amanda Paschal missed Free Throw.,66,70,-4,0,0.017324842039353278,Tennessee,Kentucky,4,3,1,0,NA,401091561,2019-01-10,
+369,4,0:24,24,24,Kentucky Deadball Team Rebound.,66,70,-4,0,0.017324842039353278,Tennessee,Kentucky,4,3,1,0,NA,401091561,2019-01-10,
+370,4,0:24,24,24,Amanda Paschal made Free Throw.,66,71,-5,0,0.006383267278336883,Tennessee,Kentucky,4,3,1,0,NA,401091561,2019-01-10,Kentucky
+371,4,0:24,24,24,Tennessee  Timeout,66,71,-5,2,0.006383267278336883,Tennessee,Kentucky,3,3,1,0,NA,401091561,2019-01-10,
+372,4,0:22,22,22,Zaay Green missed Three Point Jumper.,66,71,-5,0,0.005986519317341805,Tennessee,Kentucky,3,3,1,0,NA,401091561,2019-01-10,
+373,4,0:22,22,22,Ogechi Anyagaligbo Defensive Rebound.,66,71,-5,3,0.005986519317341805,Tennessee,Kentucky,3,3,1,0,NA,401091561,2019-01-10,
+374,4,0:19,19,19,Foul on Rennia Davis.,66,71,-5,0,0.005426708213685131,Tennessee,Kentucky,3,3,1,0,NA,401091561,2019-01-10,
+375,4,0:19,19,19,Ogechi Anyagaligbo missed Free Throw.,66,71,-5,0,0.005426708213685131,Tennessee,Kentucky,3,3,1,0,NA,401091561,2019-01-10,
+376,4,0:19,19,19,Kentucky Deadball Team Rebound.,66,71,-5,0,0.005426708213685131,Tennessee,Kentucky,3,3,1,0,NA,401091561,2019-01-10,
+377,4,0:19,19,19,Ogechi Anyagaligbo missed Free Throw.,66,71,-5,0,0.005426708213685131,Tennessee,Kentucky,3,3,1,0,NA,401091561,2019-01-10,
+378,4,0:19,19,19,Rennia Davis Defensive Rebound.,66,71,-5,7,0.005426708213685131,Tennessee,Kentucky,3,3,1,0,NA,401091561,2019-01-10,
+379,4,0:12,12,12,Rennia Davis made Layup.,68,71,-3,1,0.036619526208933564,Tennessee,Kentucky,3,3,1,0,NA,401091561,2019-01-10,Tennessee
+380,4,0:11,11,11,Foul on Meme Jackson.,68,71,-3,0,0.03588657491023283,Tennessee,Kentucky,3,3,1,0,NA,401091561,2019-01-10,
+381,4,0:11,11,11,Jaida Roper made Free Throw.,68,72,-4,0,0.012275550504750075,Tennessee,Kentucky,3,3,1,0,NA,401091561,2019-01-10,Kentucky
+382,4,0:11,11,11,Jaida Roper made Free Throw.,68,73,-5,6,0.004132454172197103,Tennessee,Kentucky,3,3,1,0,NA,401091561,2019-01-10,Kentucky
+383,4,0:05,5,5,Rennia Davis missed Jumper.,68,73,-5,0,0.0033405698550199206,Tennessee,Kentucky,3,3,1,0,NA,401091561,2019-01-10,
+384,4,0:05,5,5,Rennia Davis Offensive Rebound.,68,73,-5,3,0.0033405698550199206,Tennessee,Kentucky,3,3,1,0,NA,401091561,2019-01-10,
+385,4,0:02,2,2,Evina Westbrook made Three Point Jumper.,71,73,-2,2,0.08924905907234798,Tennessee,Kentucky,3,3,1,0,NA,401091561,2019-01-10,Tennessee
+386,4,0:00,0,0,End of Game,71,73,-2,0,4.248354255291589e-18,Tennessee,Kentucky,3,3,1,0,NA,401091561,2019-01-10,

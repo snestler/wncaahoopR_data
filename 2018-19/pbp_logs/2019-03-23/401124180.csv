@@ -1,0 +1,350 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Jump Ball won by Baylor,0,0,0,7,0.5,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,NA
+2,1,9:53,2393,2393,Kalani Brown missed Layup.,0,0,0,0,0.5,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+3,1,9:53,2393,2393,Sara Williamson Defensive Rebound.,0,0,0,32,0.5,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+4,1,9:21,2361,2361,Lexie Ducat missed Three Point Jumper.,0,0,0,0,0.5,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+5,1,9:21,2361,2361,Kalani Brown Block.,0,0,0,0,0.5,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+6,1,9:21,2361,2361,Chloe Jackson Defensive Rebound.,0,0,0,6,0.5,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+7,1,9:15,2355,2355,Foul on Sara Williamson.,0,0,0,0,0.5,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+8,1,9:15,2355,2355,Kalani Brown made Free Throw.,1,0,1,0,0.5225370733090802,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+9,1,9:15,2355,2355,Kalani Brown missed Free Throw.,1,0,1,0,0.5225370733090802,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+10,1,9:15,2355,2355,Lauren Cox Offensive Rebound.,1,0,1,9,0.5225370733090802,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+11,1,9:06,2346,2346,Chloe Jackson missed Jumper.,1,0,1,0,0.5226349910602054,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+12,1,9:06,2346,2346,Makayla Mabry Defensive Rebound.,1,0,1,19,0.5226349910602054,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+13,1,8:47,2327,2327,Breanna Wright Turnover.,1,0,1,4,0.5228433940572399,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+14,1,8:43,2323,2323,Kalani Brown made Layup. Assisted by Chloe Jackson.,3,0,3,15,0.5682813775007283,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+15,1,8:28,2308,2308,Breanna Wright missed Layup.,3,0,3,0,0.5687722107427648,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+16,1,8:28,2308,2308,Lauren Cox Defensive Rebound.,3,0,3,8,0.5687722107427648,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+17,1,8:20,2300,2300,Juicy Landrum missed Layup.,3,0,3,0,0.5690354297880675,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+18,1,8:20,2300,2300,Makayla Mabry Defensive Rebound.,3,0,3,14,0.5690354297880675,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+19,1,8:06,2286,2286,Breanna Wright missed Three Point Jumper.,3,0,3,0,0.5694983262126054,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+20,1,8:06,2286,2286,Breanna Wright Offensive Rebound.,3,0,3,28,0.5694983262126054,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+21,1,7:38,2258,2258,Sara Williamson missed Jumper.,3,0,3,0,0.5704319891144647,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+22,1,7:38,2258,2258,Kalani Brown Defensive Rebound.,3,0,3,10,0.5704319891144647,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+23,1,7:28,2248,2248,Kalani Brown made Layup. Assisted by Lauren Cox.,5,0,5,17,0.6165602522137568,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+24,1,7:11,2231,2231,Makayla Mabry missed Three Point Jumper.,5,0,5,0,0.6174818340682185,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+25,1,7:11,2231,2231,Juicy Landrum Defensive Rebound.,5,0,5,21,0.6174818340682185,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+26,1,6:50,2210,2210,Chloe Jackson made Jumper. Assisted by Juicy Landrum.,7,0,7,29,0.663114714330345,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+27,1,6:21,2181,2181,Lexie Ducat missed Layup.,7,0,7,0,0.6652166312055442,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+28,1,6:21,2181,2181,Kalani Brown Block.,7,0,7,0,0.6652166312055442,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+29,1,6:21,2181,2181,Dominique Golightly Offensive Rebound.,7,0,7,10,0.6652166312055442,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+30,1,6:11,2171,2171,Lexie Ducat missed Jumper.,7,0,7,0,0.6659426936712102,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+31,1,6:11,2171,2171,Kalani Brown Defensive Rebound.,7,0,7,15,0.6659426936712102,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+32,1,5:56,2156,2156,Foul on Breanna Wright.,7,0,7,0,0.667033718272603,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+33,1,5:56,2156,2156,Lauren Cox made Free Throw.,8,0,8,0,0.6887016584202823,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+34,1,5:56,2156,2156,Lauren Cox made Free Throw.,9,0,9,7,0.7095734835233857,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+35,1,5:49,2149,2149,Dominique Golightly missed Three Point Jumper.,9,0,9,0,0.7101822529744103,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+36,1,5:49,2149,2149,Abilene Christian Offensive Rebound.,9,0,9,12,0.7101822529744103,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+37,1,5:37,2137,2137,Breanna Wright missed Three Point Jumper.,9,0,9,0,0.7112275846525159,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+38,1,5:37,2137,2137,Juicy Landrum Defensive Rebound.,9,0,9,9,0.7112275846525159,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+39,1,5:28,2128,2128,Lauren Cox made Three Point Jumper. Assisted by Juicy Landrum.,12,0,12,35,0.7697514832127099,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+40,1,4:53,2093,2093,Breanna Wright Turnover.,12,0,12,5,0.7732802455087854,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+41,1,4:48,2088,2088,Official TV Timeout,12,0,12,4,0.7737853353237641,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+42,1,4:44,2084,2084,Juicy Landrum made Three Point Jumper. Assisted by Chloe Jackson.,15,0,15,18,0.823486740260973,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+43,1,4:26,2066,2066,Breanna Wright missed Three Point Jumper.,15,0,15,0,0.8253774698210565,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+44,1,4:26,2066,2066,Juicy Landrum Defensive Rebound.,15,0,15,8,0.8253774698210565,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+45,1,4:18,2058,2058,Chloe Jackson missed Layup.,15,0,15,0,0.8262175581332915,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+46,1,4:18,2058,2058,DiDi Richards Offensive Rebound.,15,0,15,15,0.8262175581332915,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+47,1,4:03,2043,2043,Kalani Brown missed Layup.,15,0,15,0,0.8277925371439229,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+48,1,4:03,2043,2043,Kalani Brown Offensive Rebound.,15,0,15,0,0.8277925371439229,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+49,1,4:03,2043,2043,Foul on Makayla Mabry.,15,0,15,0,0.8277925371439229,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+50,1,4:03,2043,2043,Kalani Brown missed Free Throw.,15,0,15,0,0.8277925371439229,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+51,1,4:03,2043,2043,Baylor Deadball Team Rebound.,15,0,15,0,0.8277925371439229,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+52,1,4:03,2043,2043,Kalani Brown made Free Throw.,16,0,16,17,0.842205896595461,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+53,1,3:46,2026,2026,Lexie Ducat missed Three Point Jumper.,16,0,16,0,0.8439800660960267,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+54,1,3:46,2026,2026,Juicy Landrum Defensive Rebound.,16,0,16,9,0.8439800660960267,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+55,1,3:37,2017,2017,Kalani Brown made Layup. Assisted by Chloe Jackson.,18,0,18,15,0.8707045947181891,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+56,1,3:22,2002,2002,Sara Williamson missed Jumper.,18,0,18,0,0.8722148731138287,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+57,1,3:22,2002,2002,Kalani Brown Defensive Rebound.,18,0,18,9,0.8722148731138287,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+58,1,3:13,1993,1993,Foul on Makayla Mabry.,18,0,18,6,0.8731194743987586,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+59,1,3:07,1987,1987,Kalani Brown made Layup. Assisted by Juicy Landrum.,20,0,20,15,0.8955935444842327,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+60,1,2:52,1972,1972,Breanna Wright made Three Point Jumper.,20,3,17,13,0.8629198743490056,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Abilene Christian
+61,1,2:39,1959,1959,Chloe Jackson made Jumper. Assisted by DiDi Richards.,22,3,19,34,0.8878366143866183,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+62,1,2:05,1925,1925,Lexi Kirgan missed Jumper.,22,3,19,0,0.8911280657247777,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+63,1,2:05,1925,1925,Lauren Cox Block.,22,3,19,0,0.8911280657247777,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+64,1,2:05,1925,1925,Kalani Brown Defensive Rebound.,22,3,19,1,0.8911280657247777,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+65,1,2:04,1924,1924,Kalani Brown Turnover.,22,3,19,0,0.891224188045718,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+66,1,2:04,1924,1924,Foul on Lauren Cox.,22,3,19,22,0.891224188045718,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+67,1,1:42,1902,1902,Madi Miller Turnover.,22,3,19,4,0.8933171522164798,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+68,1,1:38,1898,1898,Aquira DeCosta made Three Point Jumper. Assisted by Moon Ursin.,25,3,22,23,0.9216659402281103,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+69,1,1:15,1875,1875,Madi Miller missed Three Point Jumper.,25,3,22,0,0.9235469531226023,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+70,1,1:15,1875,1875,Moon Ursin Defensive Rebound.,25,3,22,11,0.9235469531226023,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+71,1,1:04,1864,1864,Foul on Dominique Golightly.,25,3,22,0,0.9244334045199433,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+72,1,1:04,1864,1864,Queen Egbo made Free Throw.,26,3,23,0,0.9320106043439066,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+73,1,1:04,1864,1864,Queen Egbo missed Free Throw.,26,3,23,0,0.9320106043439066,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+74,1,1:04,1864,1864,Dominique Golightly Defensive Rebound.,26,3,23,17,0.9320106043439066,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+75,1,0:47,1847,1847,Dominique Golightly missed Three Point Jumper.,26,3,23,0,0.9332951742549714,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+76,1,0:47,1847,1847,NaLyssa Smith Defensive Rebound.,26,3,23,9,0.9332951742549714,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+77,1,0:38,1838,1838,Moon Ursin missed Jumper.,26,3,23,0,0.9339684998321681,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+78,1,0:38,1838,1838,Lexi Kirgan Defensive Rebound.,26,3,23,23,0.9339684998321681,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+79,1,0:15,1815,1815,Breanna Wright missed Three Point Jumper.,26,3,23,0,0.9356706329038311,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+80,1,0:15,1815,1815,NaLyssa Smith Defensive Rebound.,26,3,23,15,0.9356706329038311,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+81,1,0:00,1800,1800,End of 1st Quarter,26,3,23,0,0.9367681403908857,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+82,2,10:00,1800,1800,Jump Ball won by Abilene Christian,26,3,23,24,0.9367681403908857,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+83,2,9:36,1776,1776,Madi Miller missed Three Point Jumper.,26,3,23,0,0.9385071342984392,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+84,2,9:36,1776,1776,Madi Miller Offensive Rebound.,26,3,23,22,0.9385071342984392,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+85,2,9:14,1754,1754,Madi Miller Turnover.,26,3,23,0,0.9400863175262474,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+86,2,9:14,1754,1754,NaLyssa Smith Steal.,26,3,23,14,0.9400863175262474,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+87,2,9:00,1740,1740,NaLyssa Smith made Layup.,28,3,25,5,0.9531086902442629,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+88,2,8:55,1735,1735,Breanna Wright missed Three Point Jumper.,28,3,25,0,0.9534204144555812,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+89,2,8:55,1735,1735,Lexie Ducat Offensive Rebound.,28,3,25,4,0.9534204144555812,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+90,2,8:51,1731,1731,Lexie Ducat Turnover.,28,3,25,0,0.9536693716471907,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+91,2,8:51,1731,1731,Aquira DeCosta Steal.,28,3,25,0,0.9536693716471907,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+92,2,8:51,1731,1731,Foul on Breanna Wright.,28,3,25,0,0.9536693716471907,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+93,2,8:51,1731,1731,Moon Ursin made Free Throw.,29,3,26,0,0.958730818306453,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+94,2,8:51,1731,1731,Moon Ursin made Free Throw.,30,3,27,9,0.9632606227211028,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+95,2,8:42,1722,1722,Alyssa Adams missed Three Point Jumper.,30,3,27,0,0.9637437680641809,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+96,2,8:42,1722,1722,Sara Williamson Offensive Rebound.,30,3,27,13,0.9637437680641809,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+97,2,8:29,1709,1709,Lexie Ducat missed Jumper.,30,3,27,0,0.9644381155425321,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+98,2,8:29,1709,1709,Honesty Scott-Grayson Defensive Rebound.,30,3,27,14,0.9644381155425321,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+99,2,8:15,1695,1695,Honesty Scott-Grayson missed Jumper.,30,3,27,0,0.9651815818416699,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+100,2,8:15,1695,1695,Aquira DeCosta Offensive Rebound.,30,3,27,18,0.9651815818416699,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+101,2,7:57,1677,1677,Moon Ursin Turnover.,30,3,27,0,0.9661198520767251,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+102,2,7:57,1677,1677,Sara Williamson Steal.,30,3,27,1,0.9661198520767251,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+103,2,7:56,1676,1676,Sara Williamson Turnover.,30,3,27,0,0.9661706200726303,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+104,2,7:56,1676,1676,Moon Ursin Steal.,30,3,27,3,0.9661706200726303,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+105,2,7:53,1673,1673,Aquira DeCosta made Layup. Assisted by Moon Ursin.,32,3,29,16,0.9735397572976273,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+106,2,7:37,1657,1657,Dominique Golightly missed Three Point Jumper.,32,3,29,0,0.974208399365922,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+107,2,7:37,1657,1657,NaLyssa Smith Defensive Rebound.,32,3,29,16,0.974208399365922,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+108,2,7:21,1641,1641,NaLyssa Smith missed Jumper.,32,3,29,0,0.9748497660767341,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+109,2,7:21,1641,1641,Makayla Mabry Defensive Rebound.,32,3,29,7,0.9748497660767341,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+110,2,7:14,1634,1634,Dominique Golightly missed Layup.,32,3,29,0,0.9751229002325201,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+111,2,7:14,1634,1634,Aquira DeCosta Defensive Rebound.,32,3,29,18,0.9751229002325201,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+112,2,6:56,1616,1616,Aquira DeCosta missed Jumper.,32,3,29,0,0.9758074139666975,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+113,2,6:56,1616,1616,Queen Egbo Offensive Rebound.,32,3,29,26,0.9758074139666975,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+114,2,6:30,1590,1590,Foul on Lexie Ducat.,32,3,29,0,0.9767595846636585,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+115,2,6:30,1590,1590,Queen Egbo missed Free Throw.,32,3,29,0,0.9767595846636585,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+116,2,6:30,1590,1590,Baylor Deadball Team Rebound.,32,3,29,0,0.9767595846636585,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+117,2,6:30,1590,1590,Official TV Timeout,32,3,29,0,0.9767595846636585,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+118,2,6:30,1590,1590,Queen Egbo missed Free Throw.,32,3,29,0,0.9767595846636585,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+119,2,6:30,1590,1590,Madi Miller Defensive Rebound.,32,3,29,27,0.9767595846636585,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+120,2,6:03,1563,1563,Dominique Golightly missed Layup.,32,3,29,0,0.9777163415336165,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+121,2,6:03,1563,1563,Honesty Scott-Grayson Defensive Rebound.,32,3,29,11,0.9777163415336165,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+122,2,5:52,1552,1552,Moon Ursin made Three Point Jumper. Assisted by Trinity Oliver.,35,3,32,20,0.9851110824654381,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+123,2,5:32,1532,1532,Breanna Wright missed Layup.,35,3,32,0,0.9856331024455469,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+124,2,5:32,1532,1532,NaLyssa Smith Defensive Rebound.,35,3,32,10,0.9856331024455469,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+125,2,5:22,1522,1522,NaLyssa Smith Turnover.,35,3,32,0,0.985892298351755,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+126,2,5:22,1522,1522,Dominique Golightly Steal.,35,3,32,9,0.985892298351755,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+127,2,5:13,1513,1513,Madi Miller missed Jumper.,35,3,32,0,0.9861249657127548,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+128,2,5:13,1513,1513,Madi Miller Offensive Rebound.,35,3,32,5,0.9861249657127548,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+129,2,5:08,1508,1508,Breanna Wright made Three Point Jumper. Assisted by Madi Miller.,35,6,29,10,0.979619019898993,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Abilene Christian
+130,2,4:58,1498,1498,NaLyssa Smith missed Layup.,35,6,29,0,0.9799638066779822,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+131,2,4:58,1498,1498,Makayla Mabry Defensive Rebound.,35,6,29,6,0.9799638066779822,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+132,2,4:52,1492,1492,Madi Miller missed Three Point Jumper.,35,6,29,0,0.9801710260722205,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+133,2,4:52,1492,1492,NaLyssa Smith Defensive Rebound.,35,6,29,11,0.9801710260722205,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+134,2,4:41,1481,1481,Caitlin Bickle Turnover.,35,6,29,13,0.9805519205240532,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+135,2,4:28,1468,1468,Makayla Mabry missed Three Point Jumper.,35,6,29,0,0.9810042476975489,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+136,2,4:28,1468,1468,Kamryn Mraz Offensive Rebound.,35,6,29,8,0.9810042476975489,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+137,2,4:20,1460,1460,Foul on DiDi Richards.,35,6,29,0,0.9812840434481676,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+138,2,4:20,1460,1460,Madi Miller made Three Point Jumper. Assisted by Kamryn Mraz.,35,9,26,19,0.9720742655630805,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Abilene Christian
+139,2,4:01,1441,1441,Juicy Landrum missed Three Point Jumper.,35,9,26,0,0.9729547401565501,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+140,2,4:01,1441,1441,DiDi Richards Offensive Rebound.,35,9,26,4,0.9729547401565501,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+141,2,3:57,1437,1437,Chloe Jackson missed Jumper.,35,9,26,0,0.9731343055921692,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+142,2,3:57,1437,1437,DiDi Richards Offensive Rebound.,35,9,26,0,0.9731343055921692,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+143,2,3:57,1437,1437,DiDi Richards missed Layup.,35,9,26,0,0.9731343055921692,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+144,2,3:57,1437,1437,Kalani Brown Offensive Rebound.,35,9,26,19,0.9731343055921692,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+145,2,3:38,1418,1418,Foul on Makayla Mabry.,35,9,26,0,0.9739539015784663,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+146,2,3:38,1418,1418,Kalani Brown made Free Throw.,36,9,27,0,0.9772634897866873,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+147,2,3:38,1418,1418,Kalani Brown made Free Throw.,37,9,28,14,0.9801611061188701,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+148,2,3:24,1404,1404,Makayla Mabry Turnover.,37,9,28,3,0.9806342093850691,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+149,2,3:21,1401,1401,Juicy Landrum made Three Point Jumper. Assisted by Lauren Cox.,40,9,31,18,0.9872699207788989,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+150,2,3:03,1383,1383,Kamryn Mraz missed Jumper.,40,9,31,0,0.9876949605967908,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+151,2,3:03,1383,1383,Chloe Jackson Block.,40,9,31,0,0.9876949605967908,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+152,2,3:03,1383,1383,Juicy Landrum Defensive Rebound.,40,9,31,11,0.9876949605967908,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+153,2,2:52,1372,1372,Kalani Brown made Layup. Assisted by Lauren Cox.,42,9,33,21,0.9909014737627189,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+154,2,2:31,1351,1351,Foul on Kalani Brown.,42,9,33,5,0.9912761333636271,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+155,2,2:26,1346,1346,Lexi Kirgan Turnover.,42,9,33,0,0.9913635476323254,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+156,2,2:26,1346,1346,Chloe Jackson Steal.,42,9,33,6,0.9913635476323254,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+157,2,2:20,1340,1340,Baylor Offensive Rebound.,42,9,33,5,0.9914677373076842,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+158,2,2:15,1335,1335,Lauren Cox missed Jumper.,42,9,33,0,0.9915540505387952,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+159,2,2:15,1335,1335,Kalani Brown Offensive Rebound.,42,9,33,0,0.9915540505387952,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+160,2,2:15,1335,1335,Foul on Dominique Golightly.,42,9,33,10,0.9915540505387952,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+161,2,2:05,1325,1325,Foul on Madi Miller.,42,9,33,1,0.9917255468604347,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+162,2,2:04,1324,1324,Juicy Landrum made Free Throw.,44,9,35,0,0.993809690745781,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+163,2,2:04,1324,1324,Juicy Landrum made Free Throw.,43,9,34,15,0.9928499411657481,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+164,2,1:49,1309,1309,Madi Miller made Three Point Jumper. Assisted by Breanna Wright.,44,12,32,15,0.9907509710671021,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+165,2,1:34,1294,1294,Foul on Lexi Kirgan.,44,12,32,0,0.99103565654174,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+166,2,1:34,1294,1294,Lauren Cox made Free Throw.,45,12,33,0,0.9922520001589609,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+167,2,1:34,1294,1294,Lauren Cox made Free Throw.,46,12,34,13,0.9933044169769379,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+168,2,1:21,1281,1281,Lexi Kirgan made Layup.,46,14,32,13,0.9912827953291204,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Abilene Christian
+169,2,1:08,1268,1268,Kalani Brown Turnover.,46,14,32,0,0.9915311205750726,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+170,2,1:08,1268,1268,Sara Williamson Steal.,46,14,32,8,0.9915311205750726,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+171,2,1:00,1260,1260,Foul on Kalani Brown.,46,14,32,0,0.9916848066161086,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+172,2,1:00,1260,1260,Lexi Kirgan missed Free Throw.,46,14,32,0,0.9916848066161086,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+173,2,1:00,1260,1260,Abilene Christian Deadball Team Rebound.,46,14,32,0,0.9916848066161086,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+174,2,1:00,1260,1260,Lexi Kirgan missed Free Throw.,46,14,32,0,0.9916848066161086,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+175,2,1:00,1260,1260,Dominique Golightly Offensive Rebound.,46,14,32,15,0.9916848066161086,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+176,2,0:45,1245,1245,Dominique Golightly Turnover.,46,14,32,0,0.9919752554140359,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+177,2,0:45,1245,1245,NaLyssa Smith Steal.,46,14,32,11,0.9919752554140359,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+178,2,0:34,1234,1234,Aquira DeCosta made Three Point Jumper. Assisted by Chloe Jackson.,49,14,35,32,0.99502700062610006,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Baylor
+179,2,0:02,1202,1202,Dominique Golightly made Layup.,49,16,33,2,0.9938431034747239,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,Abilene Christian
+180,2,0:00,1200,1200,End of 2nd Quarter,49,16,33,0,0.993877178183502,Baylor,Abilene Christian,4,4,0,0,NA,401124180,2019-03-23,
+181,3,10:00,1200,1200,Jump Ball won by Baylor,49,16,33,7,0.993877178183502,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+182,3,9:53,1193,1193,Kalani Brown made Layup. Assisted by Chloe Jackson.,51,16,35,31,0.995586215062336,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Baylor
+183,3,9:22,1162,1162,Makayla Mabry Turnover.,51,16,35,0,0.9959580677270324,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+184,3,9:22,1162,1162,DiDi Richards Steal.,51,16,35,0,0.9959580677270324,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+185,3,9:22,1162,1162,Foul on Makayla Mabry.,51,16,35,0,0.9959580677270324,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+186,3,9:22,1162,1162,DiDi Richards made Free Throw.,52,16,36,0,0.9965444931604943,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Baylor
+187,3,9:22,1162,1162,DiDi Richards made Free Throw.,53,16,37,17,0.9970460891587476,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Baylor
+188,3,9:05,1145,1145,Dominique Golightly missed Three Point Jumper.,53,16,37,0,0.9971899640632936,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+189,3,9:05,1145,1145,Chloe Jackson Defensive Rebound.,53,16,37,11,0.9971899640632936,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+190,3,8:54,1134,1134,Lauren Cox made Layup. Assisted by DiDi Richards.,55,16,39,37,0.9980209368905492,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Baylor
+191,3,8:17,1097,1097,Madi Miller missed Jumper.,55,16,39,0,0.9982367159434405,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+192,3,8:17,1097,1097,Lauren Cox Block.,55,16,39,0,0.9982367159434405,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+193,3,8:17,1097,1097,Dominique Golightly Offensive Rebound.,55,16,39,2,0.9982367159434405,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+194,3,8:15,1095,1095,Dominique Golightly missed Three Point Jumper.,55,16,39,0,0.9982479032581143,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+195,3,8:15,1095,1095,Kalani Brown Defensive Rebound.,55,16,39,13,0.9982479032581143,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+196,3,8:02,1082,1082,Chloe Jackson missed Jumper.,55,16,39,0,0.9983197358711263,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+197,3,8:02,1082,1082,Baylor Offensive Rebound.,55,16,39,12,0.9983197358711263,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+198,3,7:50,1070,1070,Juicy Landrum missed Three Point Jumper.,55,16,39,0,0.9983848788505885,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+199,3,7:50,1070,1070,DiDi Richards Offensive Rebound.,55,16,39,5,0.9983848788505885,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+200,3,7:45,1065,1065,Lauren Cox made Layup. Assisted by DiDi Richards.,57,16,41,21,0.9988581564250227,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Baylor
+201,3,7:24,1044,1044,Breanna Wright missed Layup.,57,16,41,0,0.9989422659352809,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+202,3,7:24,1044,1044,Kalani Brown Defensive Rebound.,57,16,41,11,0.9989422659352809,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+203,3,7:13,1033,1033,Juicy Landrum missed Jumper.,57,16,41,0,0.9989856464449892,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+204,3,7:13,1033,1033,Breanna Wright Defensive Rebound.,57,16,41,25,0.9989856464449892,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+205,3,6:48,1008,1008,Lauren Cox missed Jumper.,57,16,41,0,0.9990828451559267,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+206,3,6:48,1008,1008,Sara Williamson Block.,57,16,41,8,0.9990828451559267,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+207,3,6:40,1000,1000,Dominique Golightly missed Jumper.,57,16,41,0,0.9991135750602664,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+208,3,6:40,1000,1000,Dominique Golightly Offensive Rebound.,57,16,41,0,0.9991135750602664,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+209,3,6:40,1000,1000,Foul on Lauren Cox.,57,16,41,0,0.9991135750602664,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+210,3,6:40,1000,1000,Foul on Chloe Jackson.,57,16,41,6,0.9991135750602664,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+211,3,6:34,994,994,Breanna Wright missed Three Point Jumper.,57,16,41,0,0.9991365050888323,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+212,3,6:34,994,994,Lauren Cox Defensive Rebound.,57,16,41,0,0.9991365050888323,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+213,3,6:34,994,994,DiDi Richards Turnover.,57,16,41,0,0.9991365050888323,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+214,3,6:34,994,994,Dominique Golightly Steal.,57,16,41,1,0.9991365050888323,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+215,3,6:33,993,993,Foul on DiDi Richards.,57,16,41,18,0.9991403168217307,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+216,3,6:15,975,975,Madi Miller missed Jumper.,57,16,41,0,0.9992084171269634,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+217,3,6:15,975,975,Lauren Cox Defensive Rebound.,57,16,41,11,0.9992084171269634,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+218,3,6:04,964,964,Foul on Lexie Ducat.,57,16,41,5,0.9992488753646942,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+219,3,5:59,959,959,Chloe Jackson missed Jumper.,57,16,41,0,0.9992659675283424,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+220,3,5:59,959,959,Juicy Landrum Offensive Rebound.,57,16,41,11,0.9992659675283424,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+221,3,5:48,948,948,Lauren Cox made Jumper. Assisted by Chloe Jackson.,59,16,43,0,0.9995092632826703,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Baylor
+222,3,5:48,948,948,Foul on Lexie Ducat.,59,16,43,0,0.9995092632826703,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+223,3,5:48,948,948,Lauren Cox made Free Throw.,60,16,44,19,0.9995889154935172,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Baylor
+224,3,5:29,929,929,Breanna Wright made Layup.,60,18,42,6,0.9994590782380385,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Abilene Christian
+225,3,5:23,923,923,Juicy Landrum made Three Point Jumper. Assisted by Moon Ursin.,63,18,45,0,0.9996918342206846,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Baylor
+226,3,5:23,923,923,Foul on Lexie Ducat.,63,18,45,2,0.9996918342206846,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+227,3,5:21,921,921,Foul on Lexi Kirgan.,63,18,45,0,0.9996944153288945,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+228,3,5:21,921,921,Kalani Brown missed Free Throw.,63,18,45,0,0.9996944153288945,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+229,3,5:21,921,921,Baylor Deadball Team Rebound.,63,18,45,0,0.9996944153288945,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+230,3,5:21,921,921,Kalani Brown made Free Throw.,64,18,46,24,0.999744701553269,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Baylor
+231,3,4:57,897,897,Lexie Ducat made Three Point Jumper. Assisted by Breanna Wright.,64,21,43,18,0.9996010922316666,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Abilene Christian
+232,3,4:39,879,879,Chloe Jackson missed Jumper.,64,21,43,0,0.9996271698810352,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+233,3,4:39,879,879,Kalani Brown Offensive Rebound.,64,21,43,4,0.9996271698810352,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+234,3,4:35,875,875,Kalani Brown missed Jumper.,64,21,43,0,0.9996327216448374,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+235,3,4:35,875,875,Kalani Brown Offensive Rebound.,64,21,43,9,0.9996327216448374,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+236,3,4:26,866,866,Juicy Landrum made Jumper. Assisted by Kalani Brown.,66,21,45,0,0.99975460924343,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Baylor
+237,3,4:26,866,866,Official TV Timeout,66,21,45,0,0.99975460924343,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+238,3,4:26,866,866,Official TV Timeout,66,21,45,0,0.99975460924343,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+239,3,4:26,866,866,Foul on Breanna Wright.,66,21,45,0,0.99975460924343,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+240,3,4:26,866,866,Juicy Landrum made Free Throw.,67,21,46,28,0.9997959891948037,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Baylor
+241,3,3:58,838,838,Lexi Kirgan Turnover.,67,21,46,16,0.9998185683402898,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+242,3,3:42,822,822,Aquira DeCosta missed Three Point Jumper.,67,21,46,0,0.999831216795369,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+243,3,3:42,822,822,Makayla Mabry Defensive Rebound.,67,21,46,25,0.999831216795369,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+244,3,3:17,797,797,Sara Williamson made Jumper.,67,23,44,13,0.9997815047375291,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Abilene Christian
+245,3,3:04,784,784,Aquira DeCosta Turnover.,67,23,44,12,0.9997961161036655,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+246,3,2:52,772,772,Lexi Kirgan made Jumper. Assisted by Makayla Mabry.,67,25,42,22,0.9997191614621069,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Abilene Christian
+247,3,2:30,750,750,Queen Egbo made Layup. Assisted by Aquira DeCosta.,69,25,44,22,0.9998348594006472,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Baylor
+248,3,2:08,728,728,Sara Williamson made Layup.,69,27,42,3,0.9997902406497132,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Abilene Christian
+249,3,2:05,725,725,Moon Ursin Turnover.,69,27,42,20,0.9997948242517368,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+250,3,1:45,705,705,Lexi Kirgan made Jumper. Assisted by Sara Williamson.,69,29,40,20,0.9997298619342333,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Abilene Christian
+251,3,1:25,685,685,Honesty Scott-Grayson made Three Point Jumper. Assisted by DiDi Richards.,72,29,43,19,0.9998710752853857,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Baylor
+252,3,1:06,666,666,Breanna Wright missed Three Point Jumper.,72,29,43,0,0.9998845243593111,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+253,3,1:06,666,666,Trinity Oliver Defensive Rebound.,72,29,43,5,0.9998845243593111,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+254,3,1:01,661,661,Honesty Scott-Grayson missed Jumper.,72,29,43,0,0.9998877858473603,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+255,3,1:01,661,661,DiDi Richards Offensive Rebound.,72,29,43,16,0.9998877858473603,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+256,3,0:45,645,645,Honesty Scott-Grayson missed Three Point Jumper.,72,29,43,0,0.9998977356657004,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+257,3,0:45,645,645,Queen Egbo Offensive Rebound.,72,29,43,7,0.9998977356657004,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+258,3,0:38,638,638,Queen Egbo missed Jumper.,72,29,43,0,0.9999019312278807,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+259,3,0:38,638,638,NaLyssa Smith Offensive Rebound.,72,29,43,5,0.9999019312278807,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+260,3,0:33,633,633,NaLyssa Smith made Layup.,74,29,45,30,0.9999381740109008,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Baylor
+261,3,0:03,603,603,Lexi Kirgan made Layup. Assisted by Breanna Wright.,74,31,43,0,0.9999224331647832,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,Abilene Christian
+262,3,0:03,603,603,Foul on Queen Egbo.,74,31,43,0,0.9999224331647832,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+263,3,0:03,603,603,Lexi Kirgan missed Free Throw.,74,31,43,0,0.9999224331647832,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+264,3,0:03,603,603,DiDi Richards Defensive Rebound.,74,31,43,3,0.9999224331647832,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+265,3,0:00,600,600,End of 3rd Quarter,74,31,43,0,0.9999241859882034,Baylor,Abilene Christian,5,5,0,0,NA,401124180,2019-03-23,
+266,4,10:00,600,600,Jump Ball won by Abilene Christian,74,31,43,11,0.9999241859882034,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+267,4,9:49,589,589,Foul on Queen Egbo.,74,31,43,5,0.9999306225292842,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+268,4,9:44,584,584,Madi Miller missed Three Point Jumper.,74,31,43,0,0.999933550489177,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+269,4,9:44,584,584,Baylor Defensive Rebound.,74,31,43,15,0.999933550489177,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+270,4,9:29,569,569,NaLyssa Smith made Layup. Assisted by Trinity Oliver.,76,31,45,32,0.9999633579229764,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,Baylor
+271,4,8:57,537,537,Dominique Golightly missed Layup.,76,31,45,0,0.9999746637964123,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+272,4,8:57,537,537,Queen Egbo Defensive Rebound.,76,31,45,18,0.9999746637964123,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+273,4,8:39,519,519,NaLyssa Smith made Layup. Assisted by DiDi Richards.,78,31,47,11,0.9999868659683357,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,Baylor
+274,4,8:28,508,508,Madi Miller Turnover.,78,31,47,0,0.9999881693274235,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+275,4,8:28,508,508,Queen Egbo Steal.,78,31,47,10,0.9999881693274235,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+276,4,8:18,498,498,NaLyssa Smith missed Layup.,78,31,47,0,0.9999892278984192,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+277,4,8:18,498,498,DiDi Richards Offensive Rebound.,78,31,47,3,0.9999892278984192,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+278,4,8:15,495,495,NaLyssa Smith missed Jumper.,78,31,47,0,0.9999895301316296,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+279,4,8:15,495,495,NaLyssa Smith Offensive Rebound.,78,31,47,0,0.9999895301316296,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+280,4,8:15,495,495,NaLyssa Smith missed Layup.,78,31,47,0,0.9999895301316296,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+281,4,8:15,495,495,NaLyssa Smith Offensive Rebound.,78,31,47,10,0.9999895301316296,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+282,4,8:05,485,485,NaLyssa Smith made Layup. Assisted by DiDi Richards.,80,31,49,0,0.9999941958890609,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,Baylor
+283,4,8:05,485,485,Foul on Alyssa Adams.,80,31,49,0,0.9999941958890609,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+284,4,8:05,485,485,NaLyssa Smith made Free Throw.,81,31,50,23,0.9999954619030521,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,Baylor
+285,4,7:42,462,462,Dominique Golightly missed Layup.,81,31,50,0,0.9999965548686377,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+286,4,7:42,462,462,Queen Egbo Defensive Rebound.,81,31,50,9,0.9999965548686377,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+287,4,7:33,453,453,Foul on Honesty Scott-Grayson.,81,31,50,0,0.9999969731819949,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+288,4,7:33,453,453,Honesty Scott-Grayson Turnover.,81,31,50,17,0.9999969731819949,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+289,4,7:16,436,436,Makayla Mabry Turnover.,81,31,50,0,0.9999977393055275,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+290,4,7:16,436,436,Trinity Oliver Steal.,81,31,50,2,0.9999977393055275,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+291,4,7:14,434,434,Trinity Oliver missed Layup.,81,31,50,0,0.9999978259858647,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+292,4,7:14,434,434,Honesty Scott-Grayson Offensive Rebound.,81,31,50,5,0.9999978259858647,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+293,4,7:09,429,429,Honesty Scott-Grayson made Layup.,83,31,52,16,0.9999988399361093,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,Baylor
+294,4,6:53,413,413,Dominique Golightly missed Three Point Jumper.,83,31,52,0,0.9999991643354393,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+295,4,6:53,413,413,NaLyssa Smith Defensive Rebound.,83,31,52,8,0.9999991643354393,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+296,4,6:45,405,405,NaLyssa Smith made Jumper. Assisted by DiDi Richards.,85,31,54,19,0.9999995844534357,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,Baylor
+297,4,6:26,386,386,Dominique Golightly missed Three Point Jumper.,85,31,54,0,0.9999997141976603,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+298,4,6:26,386,386,DiDi Richards Defensive Rebound.,85,31,54,16,0.9999997141976603,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+299,4,6:10,370,370,Trinity Oliver missed Jumper.,85,31,54,0,0.999999794503596,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+300,4,6:10,370,370,Alyssa Adams Defensive Rebound.,85,31,54,20,0.999999794503596,Baylor,Abilene Christian,6,6,0,0,NA,401124180,2019-03-23,
+301,4,5:50,350,350,Foul on NaLyssa Smith.,85,31,54,0,0.9999998711956337,Baylor,Abilene Christian,6,6,0,1,NA,401124180,2019-03-23,
+302,4,5:50,350,350,Abilene Christian  Timeout,85,31,54,6,0.9999998711956337,Baylor,Abilene Christian,6,5,0,1,NA,401124180,2019-03-23,
+303,4,5:44,344,344,Alyssa Adams made Layup.,85,33,52,15,0.9999998009053293,Baylor,Abilene Christian,6,5,0,1,NA,401124180,2019-03-23,Abilene Christian
+304,4,5:29,329,329,Queen Egbo missed Jumper.,85,33,52,0,0.9999998699924759,Baylor,Abilene Christian,6,5,0,1,NA,401124180,2019-03-23,
+305,4,5:29,329,329,Abilene Christian Defensive Rebound.,85,33,52,8,0.9999998699924759,Baylor,Abilene Christian,6,5,0,1,NA,401124180,2019-03-23,
+306,4,5:21,321,321,Breanna Wright missed Three Point Jumper.,85,33,52,0,0.9999998996358326,Baylor,Abilene Christian,6,5,0,1,NA,401124180,2019-03-23,
+307,4,5:21,321,321,Honesty Scott-Grayson Block.,85,33,52,0,0.9999998996358326,Baylor,Abilene Christian,6,5,0,1,NA,401124180,2019-03-23,
+308,4,5:21,321,321,Honesty Scott-Grayson Defensive Rebound.,85,33,52,0,0.9999998996358326,Baylor,Abilene Christian,6,5,0,1,NA,401124180,2019-03-23,
+309,4,5:21,321,321,Foul on Breanna Wright.,85,33,52,8,0.9999998996358326,Baylor,Abilene Christian,6,5,0,1,NA,401124180,2019-03-23,
+310,4,5:13,313,313,Honesty Scott-Grayson missed Layup.,85,33,52,0,0.99999992446108,Baylor,Abilene Christian,6,5,0,1,NA,401124180,2019-03-23,
+311,4,5:13,313,313,Dominique Golightly Defensive Rebound.,85,33,52,14,0.99999992446108,Baylor,Abilene Christian,6,5,0,1,NA,401124180,2019-03-23,
+312,4,4:59,299,299,Alyssa Adams missed Layup.,85,33,52,0,0.9999999498793883,Baylor,Abilene Christian,6,5,0,1,NA,401124180,2019-03-23,
+313,4,4:59,299,299,Queen Egbo Block.,85,33,52,0,0.9999999498793883,Baylor,Abilene Christian,6,5,0,1,NA,401124180,2019-03-23,
+314,4,4:59,299,299,Queen Egbo Defensive Rebound.,85,33,52,13,0.9999999498793883,Baylor,Abilene Christian,6,5,0,1,NA,401124180,2019-03-23,
+315,4,4:46,286,286,NaLyssa Smith missed Layup.,85,33,52,0,0.9999999537882436,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+316,4,4:46,286,286,Queen Egbo Offensive Rebound.,85,33,52,0,0.9999999537882436,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+317,4,4:46,286,286,Queen Egbo made Layup.,87,33,54,39,0.999999975866096,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,Baylor
+318,4,4:07,247,247,Makayla Mabry made Three Point Jumper. Assisted by Sara Williamson.,87,36,51,28,0.9999998965825178,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,Abilene Christian
+319,4,3:39,219,219,Queen Egbo missed Layup.,87,36,51,0,0.999999911909279,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+320,4,3:39,219,219,NaLyssa Smith Offensive Rebound.,87,36,51,2,0.999999911909279,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+321,4,3:37,217,217,Foul on Makayla Mabry.,87,36,51,0,0.9999999170339586,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+322,4,3:37,217,217,Official TV Timeout,87,36,51,0,0.9999999170339586,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+323,4,3:37,217,217,NaLyssa Smith missed Free Throw.,87,36,51,0,0.9999999170339586,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+324,4,3:37,217,217,Baylor Deadball Team Rebound.,87,36,51,0,0.9999999170339586,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+325,4,3:37,217,217,NaLyssa Smith made Free Throw.,88,36,52,24,0.9999999397363699,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,Baylor
+326,4,3:13,193,193,Dominique Golightly missed Jumper.,88,36,52,0,0.9999999867604109,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+327,4,3:13,193,193,Queen Egbo Block.,88,36,52,0,0.9999999867604109,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+328,4,3:13,193,193,Baylor Defensive Rebound.,88,36,52,8,0.9999999867604109,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+329,4,3:05,185,185,Queen Egbo made Jumper.,90,36,54,25,0.9999999972805435,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,Baylor
+330,4,2:40,160,160,Breanna Wright Turnover.,90,36,54,0,0.9999999998578853,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+331,4,2:40,160,160,Caitlin Bickle Steal.,90,36,54,3,0.9999999998578853,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+332,4,2:37,157,157,Foul on Breanna Wright.,90,36,54,0,0.9999999999029776,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+333,4,2:37,157,157,Honesty Scott-Grayson made Free Throw.,91,36,55,0,0.9999999999366942,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,Baylor
+334,4,2:37,157,157,Honesty Scott-Grayson made Free Throw.,92,36,56,8,0.9999999999586938,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,Baylor
+335,4,2:29,149,149,Foul on Trinity Oliver.,92,36,56,32,0.9999999999862537,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+336,4,1:57,117,117,Dominique Golightly Turnover.,92,36,56,6,0.9999999999999319,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+337,4,1:51,111,111,Aquira DeCosta made Three Point Jumper. Assisted by Honesty Scott-Grayson.,95,36,59,27,0.9999999999999962,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,Baylor
+338,4,1:24,84,84,Foul on Queen Egbo.,95,36,59,0,1,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+339,4,1:24,84,84,Lexi Kirgan made Free Throw.,95,37,58,0,1,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,Abilene Christian
+340,4,1:24,84,84,Lexi Kirgan made Free Throw.,95,38,57,4,1,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,Abilene Christian
+341,4,1:20,80,80,Trinity Oliver missed Jumper.,95,38,57,0,1,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+342,4,1:20,80,80,Dominique Golightly Defensive Rebound.,95,38,57,13,1,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+343,4,1:07,67,67,Dominique Golightly missed Layup.,95,38,57,0,1,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+344,4,1:07,67,67,Aquira DeCosta Block.,95,38,57,0,1,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+345,4,1:07,67,67,Queen Egbo Defensive Rebound.,95,38,57,6,1,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+346,4,1:01,61,61,Queen Egbo Turnover.,95,38,57,25,1,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+347,4,0:36,36,36,Madi Miller missed Three Point Jumper.,95,38,57,0,1,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+348,4,0:36,36,36,Aquira DeCosta Defensive Rebound.,95,38,57,36,1,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,
+349,4,0:00,0,0,End of Game,95,38,57,0,1,Baylor,Abilene Christian,6,5,0,0,NA,401124180,2019-03-23,

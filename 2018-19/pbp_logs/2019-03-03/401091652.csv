@@ -1,0 +1,384 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Jump Ball won by Mississippi State,0,0,0,12,0.5,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,NA
+2,1,9:48,2388,2388,Foul on Doniyah Cliney.,0,0,0,0,0.5,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+3,1,9:48,2388,2388,Anriel Howard missed Free Throw.,0,0,0,0,0.5,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+4,1,9:48,2388,2388,Mississippi State Deadball Team Rebound.,0,0,0,0,0.5,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+5,1,9:48,2388,2388,Anriel Howard missed Free Throw.,0,0,0,0,0.5,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+6,1,9:48,2388,2388,Jordan Danberry Offensive Rebound.,0,0,0,4,0.5,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+7,1,9:44,2384,2384,Anriel Howard made Jumper. Assisted by Jordan Danberry.,0,2,-2,18,0.45563699013036496,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,Mississippi State
+8,1,9:26,2366,2366,Foul on Jordan Danberry.,0,2,-2,0,0.4552536897122488,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+9,1,9:26,2366,2366,Te'a Cooper missed Free Throw.,0,2,-2,0,0.4552536897122488,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+10,1,9:26,2366,2366,South Carolina Deadball Team Rebound.,0,2,-2,0,0.4552536897122488,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+11,1,9:26,2366,2366,Te'a Cooper made Free Throw.,1,2,-1,24,0.4775818683145915,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,South Carolina
+12,1,9:02,2342,2342,Jazzmun Holmes made Jumper. Assisted by Jordan Danberry.,1,4,-3,25,0.43233492801507767,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,Mississippi State
+13,1,8:37,2317,2317,Bianca Cuevas-Moore made Jumper.,3,4,-1,24,0.47704604854630217,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,South Carolina
+14,1,8:13,2293,2293,Anriel Howard made Jumper.,3,6,-3,14,0.4307334723967789,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,Mississippi State
+15,1,7:59,2279,2279,Te'a Cooper missed Three Point Jumper.,3,6,-3,0,0.4302692013663114,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+16,1,7:59,2279,2279,Alexis Jennings Offensive Rebound.,3,6,-3,8,0.4302692013663114,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+17,1,7:51,2271,2271,Bianca Cuevas-Moore Turnover.,3,6,-3,0,0.43000272812177887,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+18,1,7:51,2271,2271,Andra Espinoza-Hunter Steal.,3,6,-3,5,0.43000272812177887,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+19,1,7:46,2266,2266,Andra Espinoza-Hunter Turnover.,3,6,-3,0,0.4298357711983823,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+20,1,7:46,2266,2266,Tyasha Harris Steal.,3,6,-3,6,0.4298357711983823,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+21,1,7:40,2260,2260,Bianca Cuevas-Moore missed Three Point Jumper.,3,6,-3,0,0.4296350218399352,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+22,1,7:40,2260,2260,Andra Espinoza-Hunter Defensive Rebound.,3,6,-3,16,0.4296350218399352,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+23,1,7:24,2244,2244,Jordan Danberry Turnover.,3,6,-3,0,0.42909767566260976,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+24,1,7:24,2244,2244,Bianca Cuevas-Moore Steal.,3,6,-3,24,0.42909767566260976,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+25,1,7:00,2220,2220,Tyasha Harris missed Three Point Jumper.,3,6,-3,0,0.428286739601307,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+26,1,7:00,2220,2220,South Carolina Offensive Rebound.,3,6,-3,6,0.428286739601307,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+27,1,6:54,2214,2214,Te'a Cooper missed Jumper.,3,6,-3,0,0.4280831918628082,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+28,1,6:54,2214,2214,Jordan Danberry Defensive Rebound.,3,6,-3,19,0.4280831918628082,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+29,1,6:35,2195,2195,Teaira McCowan missed Jumper.,3,6,-3,0,0.42743678043690086,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+30,1,6:35,2195,2195,Alexis Jennings Block.,3,6,-3,0,0.42743678043690086,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+31,1,6:35,2195,2195,Alexis Jennings Defensive Rebound.,3,6,-3,0,0.42743678043690086,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+32,1,6:35,2195,2195,Jump Ball won by South Carolina,3,6,-3,23,0.42743678043690086,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+33,1,6:12,2172,2172,Doniyah Cliney missed Layup.,3,6,-3,0,0.4266511374356508,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+34,1,6:12,2172,2172,Anriel Howard Defensive Rebound.,3,6,-3,8,0.4266511374356508,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+35,1,6:04,2164,2164,Anriel Howard Turnover.,3,6,-3,0,0.4263771183452826,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+36,1,6:04,2164,2164,Doniyah Cliney Steal.,3,6,-3,6,0.4263771183452826,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+37,1,5:58,2158,2158,Bianca Cuevas-Moore missed Three Point Jumper.,3,6,-3,0,0.42617116882724937,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+38,1,5:58,2158,2158,Teaira McCowan Defensive Rebound.,3,6,-3,11,0.42617116882724937,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+39,1,5:47,2147,2147,Jordan Danberry missed Jumper.,3,6,-3,0,0.42579256894767775,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+40,1,5:47,2147,2147,Doniyah Cliney Defensive Rebound.,3,6,-3,22,0.42579256894767775,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+41,1,5:25,2125,2125,Te'a Cooper made Layup.,5,6,-1,20,0.4748418147482974,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,South Carolina
+42,1,5:05,2105,2105,Foul on Anriel Howard.,5,6,-1,0,0.4746045463621689,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+43,1,5:05,2105,2105,Anriel Howard Turnover.,5,6,-1,10,0.4746045463621689,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+44,1,4:55,2095,2095,Tyasha Harris Turnover.,5,6,-1,0,0.47448519763638625,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+45,1,4:55,2095,2095,Official TV Timeout,5,6,-1,8,0.47448519763638625,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+46,1,4:47,2087,2087,Andra Espinoza-Hunter made Three Point Jumper. Assisted by Jazzmun Holmes.,5,9,-4,33,0.3988811505815072,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,Mississippi State
+47,1,4:14,2054,2054,Te'a Cooper missed Layup.,5,9,-4,0,0.3973477412113458,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+48,1,4:14,2054,2054,Anriel Howard Defensive Rebound.,5,9,-4,22,0.3973477412113458,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+49,1,3:52,2032,2032,Bre'Amber Scott missed Jumper.,5,9,-4,0,0.39631344632150267,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+50,1,3:52,2032,2032,Te'a Cooper Block.,5,9,-4,0,0.39631344632150267,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+51,1,3:52,2032,2032,Mississippi State Offensive Rebound.,5,9,-4,8,0.39631344632150267,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+52,1,3:44,2024,2024,Jazzmun Holmes missed Jumper.,5,9,-4,0,0.3959347978624396,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+53,1,3:44,2024,2024,Mikiah Herbert Harrigan Defensive Rebound.,5,9,-4,30,0.3959347978624396,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+54,1,3:14,1994,1994,Te'a Cooper made Layup.,7,9,-2,20,0.44665051566184294,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,South Carolina
+55,1,2:54,1974,1974,Foul on Te'a Cooper.,7,9,-2,6,0.44615011928619763,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+56,1,2:48,1968,1968,Andra Espinoza-Hunter missed Three Point Jumper.,7,9,-2,0,0.4459989381243246,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+57,1,2:48,1968,1968,Teaira McCowan Offensive Rebound.,7,9,-2,3,0.4459989381243246,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+58,1,2:45,1965,1965,Foul on Doniyah Cliney.,7,9,-2,4,0.44592315934692306,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+59,1,2:41,1961,1961,Bre'Amber Scott missed Jumper.,7,9,-2,0,0.44582192379123653,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+60,1,2:41,1961,1961,Alexis Jennings Block.,7,9,-2,0,0.44582192379123653,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+61,1,2:41,1961,1961,Te'a Cooper Defensive Rebound.,7,9,-2,11,0.44582192379123653,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+62,1,2:30,1950,1950,Te'a Cooper missed Layup.,7,9,-2,0,0.4455423475571626,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+63,1,2:30,1950,1950,Teaira McCowan Defensive Rebound.,7,9,-2,2,0.4455423475571626,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+64,1,2:28,1948,1948,Foul on Te'a Cooper.,7,9,-2,0,0.4454913273685325,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+65,1,2:28,1948,1948,Andra Espinoza-Hunter made Free Throw.,7,10,-3,0,0.4186404436498843,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,Mississippi State
+66,1,2:28,1948,1948,Andra Espinoza-Hunter made Free Throw.,7,11,-4,0,0.39226308444526226,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,Mississippi State
+67,1,2:28,1948,1948,Andra Espinoza-Hunter made Free Throw.,7,12,-5,17,0.3664999557627809,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,Mississippi State
+68,1,2:11,1931,1931,Tyasha Harris made Jumper.,9,12,-3,18,0.41799608653618564,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,South Carolina
+69,1,1:53,1913,1913,Andra Espinoza-Hunter made Jumper.,9,14,-5,9,0.3643881464346105,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,Mississippi State
+70,1,1:44,1904,1904,Tyasha Harris made Layup.,11,14,-3,22,0.41696939504462704,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,South Carolina
+71,1,1:22,1882,1882,Jazzmun Holmes missed Jumper.,11,14,-3,0,0.4161344881985581,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+72,1,1:22,1882,1882,Tyasha Harris Block.,11,14,-3,0,0.4161344881985581,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+73,1,1:22,1882,1882,Mississippi State Offensive Rebound.,11,14,-3,2,0.4161344881985581,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+74,1,1:20,1880,1880,Anriel Howard missed Jumper.,11,14,-3,0,0.41605856931960766,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+75,1,1:20,1880,1880,Mikiah Herbert Harrigan Defensive Rebound.,11,14,-3,11,0.41605856931960766,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+76,1,1:09,1869,1869,Mikiah Herbert Harrigan made Three Point Jumper. Assisted by Bianca Jackson.,14,14,0,22,0.5,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,South Carolina
+77,1,0:47,1847,1847,Anriel Howard missed Layup.,14,14,0,0,0.5,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+78,1,0:47,1847,1847,Mikiah Herbert Harrigan Defensive Rebound.,14,14,0,10,0.5,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+79,1,0:37,1837,1837,Foul on Andra Espinoza-Hunter.,14,14,0,0,0.5,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+80,1,0:37,1837,1837,Tyasha Harris made Free Throw.,15,14,1,0,0.5287781608038282,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,South Carolina
+81,1,0:37,1837,1837,Tyasha Harris made Free Throw.,16,14,2,18,0.5573662825933144,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,South Carolina
+82,1,0:19,1819,1819,Jazzmun Holmes Turnover.,16,14,2,0,0.5578349538849362,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+83,1,0:19,1819,1819,Bianca Jackson Steal.,16,14,2,14,0.5578349538849362,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+84,1,0:05,1805,1805,Bianca Jackson made Three Point Jumper. Assisted by Tyasha Harris.,19,14,5,5,0.6421413986087154,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,South Carolina
+85,1,0:00,1800,1800,End of 1st Quarter,19,14,5,0,0.6424482088636343,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+86,2,10:00,1800,1800,Jump Ball won by Mississippi State,19,14,5,10,0.6424482088636343,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+87,2,9:50,1790,1790,Jazzmun Holmes missed Jumper.,19,14,5,0,0.6430641092398668,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+88,2,9:50,1790,1790,Anriel Howard Offensive Rebound.,19,14,5,13,0.6430641092398668,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+89,2,9:37,1777,1777,Jazzmun Holmes made Jumper.,19,16,3,16,0.5879070936507148,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,Mississippi State
+90,2,9:21,1761,1761,Mikiah Herbert Harrigan missed Jumper.,19,16,3,0,0.5885415909795322,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+91,2,9:21,1761,1761,South Carolina Offensive Rebound.,19,16,3,3,0.5885415909795322,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+92,2,9:18,1758,1758,Foul on Teaira McCowan.,19,16,3,0,0.5886613720744431,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+93,2,9:18,1758,1758,Mikiah Herbert Harrigan made Jumper. Assisted by Tyasha Harris.,21,16,5,23,0.6450590711866201,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,South Carolina
+94,2,8:55,1735,1735,Andra Espinoza-Hunter missed Three Point Jumper.,21,16,5,0,0.6465203406791983,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+95,2,8:55,1735,1735,Anriel Howard Offensive Rebound.,21,16,5,7,0.6465203406791983,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+96,2,8:48,1728,1728,Anriel Howard missed Three Point Jumper.,21,16,5,0,0.6469703650977525,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+97,2,8:48,1728,1728,Mikiah Herbert Harrigan Block.,21,16,5,0,0.6469703650977525,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+98,2,8:48,1728,1728,Mississippi State Offensive Rebound.,21,16,5,8,0.6469703650977525,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+99,2,8:40,1720,1720,Andra Espinoza-Hunter missed Three Point Jumper.,21,16,5,0,0.647487960188666,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+100,2,8:40,1720,1720,Teaira McCowan Offensive Rebound.,21,16,5,7,0.647487960188666,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+101,2,8:33,1713,1713,Andra Espinoza-Hunter missed Jumper.,21,16,5,0,0.6479438575118139,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+102,2,8:33,1713,1713,Bianca Cuevas-Moore Defensive Rebound.,21,16,5,7,0.6479438575118139,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+103,2,8:26,1706,1706,Bianca Cuevas-Moore missed Layup.,21,16,5,0,0.6484026776117341,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+104,2,8:26,1706,1706,Mississippi State Defensive Rebound.,21,16,5,17,0.6484026776117341,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+105,2,8:09,1689,1689,Jordan Danberry made Layup.,21,18,3,28,0.591503357523032,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,Mississippi State
+106,2,7:41,1661,1661,Bianca Cuevas-Moore missed Jumper.,21,18,3,0,0.5926679131946108,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+107,2,7:41,1661,1661,Teaira McCowan Defensive Rebound.,21,18,3,3,0.5926679131946108,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+108,2,7:38,1658,1658,Teaira McCowan Turnover.,21,18,3,3,0.592790166249948,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+109,2,7:35,1655,1655,Foul on Mikiah Herbert Harrigan.,21,18,3,0,0.592912013323398,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+110,2,7:35,1655,1655,Mikiah Herbert Harrigan Turnover.,21,18,3,24,0.592912013323398,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+111,2,7:11,1631,1631,Anriel Howard missed Jumper.,21,18,3,0,0.5938747716069446,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+112,2,7:11,1631,1631,South Carolina Defensive Rebound.,21,18,3,1,0.5938747716069446,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+113,2,7:10,1630,1630,Foul on Teaira McCowan.,21,18,3,19,0.5939145162912608,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+114,2,6:51,1611,1611,Alexis Jennings missed Jumper.,21,18,3,0,0.594666265872989,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+115,2,6:51,1611,1611,Mississippi State Defensive Rebound.,21,18,3,10,0.594666265872989,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+116,2,6:41,1601,1601,Jazzmun Holmes missed Jumper.,21,18,3,0,0.59506048678765,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+117,2,6:41,1601,1601,Mikiah Herbert Harrigan Defensive Rebound.,21,18,3,9,0.59506048678765,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+118,2,6:32,1592,1592,Bianca Cuevas-Moore made Layup. Assisted by Tyasha Harris.,23,18,5,21,0.6556563696398553,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,South Carolina
+119,2,6:11,1571,1571,Anriel Howard missed Layup.,23,18,5,0,0.6569541507530707,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+120,2,6:11,1571,1571,Mikiah Herbert Harrigan Block.,23,18,5,0,0.6569541507530707,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+121,2,6:11,1571,1571,Mikiah Herbert Harrigan Defensive Rebound.,23,18,5,15,0.6569541507530707,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,
+122,2,5:56,1556,1556,Alexis Jennings made Jumper.,25,18,7,3,0.7141174353266362,South Carolina,Mississippi State,4,4,0,0,NA,401091652,2019-03-03,South Carolina
+123,2,5:53,1553,1553,Mississippi State  Timeout,25,18,7,0,0.7143566871229897,South Carolina,Mississippi State,3,4,1,0,NA,401091652,2019-03-03,
+124,2,5:53,1553,1553,Official TV Timeout,25,18,7,16,0.7143566871229897,South Carolina,Mississippi State,3,4,1,0,NA,401091652,2019-03-03,
+125,2,5:37,1537,1537,Andra Espinoza-Hunter Turnover.,25,18,7,13,0.7156436655152765,South Carolina,Mississippi State,3,4,1,0,NA,401091652,2019-03-03,
+126,2,5:24,1524,1524,Mikiah Herbert Harrigan made Jumper.,27,18,9,19,0.7673441167721964,South Carolina,Mississippi State,3,4,1,0,NA,401091652,2019-03-03,South Carolina
+127,2,5:05,1505,1505,Andra Espinoza-Hunter made Jumper.,27,20,7,18,0.7182928271722442,South Carolina,Mississippi State,3,4,1,0,NA,401091652,2019-03-03,Mississippi State
+128,2,4:47,1487,1487,Foul on Jessika Carter.,27,20,7,0,0.719841840420978,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+129,2,4:47,1487,1487,Alexis Jennings made Free Throw.,28,20,8,0,0.7462077928969975,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,South Carolina
+130,2,4:47,1487,1487,Alexis Jennings made Free Throw.,29,20,9,20,0.7708821990263708,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,South Carolina
+131,2,4:27,1467,1467,Jordan Danberry made Layup. Assisted by Anriel Howard.,29,22,7,7,0.7216256720718808,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,Mississippi State
+132,2,4:20,1460,1460,Foul on Andra Espinoza-Hunter.,29,22,7,0,0.7222676470948731,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+133,2,4:20,1460,1460,Bianca Cuevas-Moore made Free Throw.,30,22,8,0,0.7488092871594161,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,South Carolina
+134,2,4:20,1460,1460,Bianca Cuevas-Moore missed Free Throw.,30,22,8,0,0.7488092871594161,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+135,2,4:20,1460,1460,Anriel Howard Defensive Rebound.,30,22,8,7,0.7488092871594161,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+136,2,4:13,1453,1453,Jump Ball won by South Carolina,30,22,8,0,0.7495077443907776,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+137,2,4:13,1453,1453,Jordan Danberry Turnover.,30,22,8,0,0.7495077443907776,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+138,2,4:13,1453,1453,Tyasha Harris Steal.,30,22,8,14,0.7495077443907776,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+139,2,3:59,1439,1439,Tyasha Harris missed Three Point Jumper.,30,22,8,0,0.7509084740965695,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+140,2,3:59,1439,1439,Alexis Jennings Offensive Rebound.,30,22,8,5,0.7509084740965695,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+141,2,3:54,1434,1434,Alexis Jennings made Jumper.,32,22,10,28,0.7994088798195557,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,South Carolina
+142,2,3:26,1406,1406,Jazzmun Holmes missed Jumper.,32,22,10,0,0.8022519174791358,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+143,2,3:26,1406,1406,Teaira McCowan Offensive Rebound.,32,22,10,4,0.8022519174791358,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+144,2,3:22,1402,1402,Teaira McCowan made Jumper.,32,24,8,8,0.7544216941024464,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,Mississippi State
+145,2,3:14,1394,1394,Tyasha Harris missed Layup.,32,24,8,0,0.755154979997352,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+146,2,3:14,1394,1394,Andra Espinoza-Hunter Defensive Rebound.,32,24,8,4,0.755154979997352,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+147,2,3:10,1390,1390,Anriel Howard missed Layup.,32,24,8,0,0.7555192877426385,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+148,2,3:10,1390,1390,Bianca Jackson Block.,32,24,8,0,0.7555192877426385,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+149,2,3:10,1390,1390,Mississippi State Offensive Rebound.,32,24,8,11,0.7555192877426385,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+150,2,2:59,1379,1379,Andra Espinoza-Hunter Turnover.,32,24,8,0,0.7565149747855058,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+151,2,2:59,1379,1379,Tyasha Harris Steal.,32,24,8,3,0.7565149747855058,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+152,2,2:56,1376,1376,Foul on Jazzmun Holmes.,32,24,8,0,0.7567853277077223,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+153,2,2:56,1376,1376,Bianca Cuevas-Moore made Free Throw.,33,24,9,0,0.7819432889208501,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,South Carolina
+154,2,2:56,1376,1376,Bianca Cuevas-Moore made Free Throw.,34,24,10,18,0.8051688843326824,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,South Carolina
+155,2,2:38,1358,1358,Anriel Howard made Jumper. Assisted by Jazzmun Holmes.,34,26,8,27,0.7584025251333275,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,Mississippi State
+156,2,2:11,1331,1331,Foul on Anriel Howard.,34,26,8,0,0.7608403549887233,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+157,2,2:11,1331,1331,Mikiah Herbert Harrigan made Free Throw.,35,26,9,0,0.7861636181543538,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,South Carolina
+158,2,2:11,1331,1331,Mikiah Herbert Harrigan made Free Throw.,36,26,10,10,0.8094769812273016,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,South Carolina
+159,2,2:01,1321,1321,Teaira McCowan made Layup. Assisted by Jazzmun Holmes.,36,28,8,21,0.7617564912186061,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,Mississippi State
+160,2,1:40,1300,1300,Bianca Cuevas-Moore missed Three Point Jumper.,36,28,8,0,0.7637210589593233,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+161,2,1:40,1300,1300,Mikiah Herbert Harrigan Offensive Rebound.,36,28,8,12,0.7637210589593233,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+162,2,1:28,1288,1288,Mikiah Herbert Harrigan missed Jumper.,36,28,8,0,0.7648760981249682,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+163,2,1:28,1288,1288,Anriel Howard Defensive Rebound.,36,28,8,31,0.7648760981249682,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+164,2,0:57,1257,1257,Andra Espinoza-Hunter made Jumper.,36,30,6,0,0.7105007585946292,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,Mississippi State
+165,2,0:57,1257,1257,Foul on LeLe Grissett.,36,30,6,0,0.7105007585946292,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+166,2,0:57,1257,1257,Andra Espinoza-Hunter missed Free Throw.,36,30,6,0,0.7105007585946292,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+167,2,0:57,1257,1257,Mikiah Herbert Harrigan Defensive Rebound.,36,30,6,23,0.7105007585946292,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+168,2,0:34,1234,1234,Destanni Henderson Turnover.,36,30,6,0,0.7126637505944637,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+169,2,0:34,1234,1234,Teaira McCowan Steal.,36,30,6,6,0.7126637505944637,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+170,2,0:28,1228,1228,Andra Espinoza-Hunter missed Layup.,36,30,6,0,0.7132537664171529,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+171,2,0:28,1228,1228,Mikiah Herbert Harrigan Block.,36,30,6,0,0.7132537664171529,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+172,2,0:28,1228,1228,Mississippi State Offensive Rebound.,36,30,6,8,0.7132537664171529,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+173,2,0:20,1220,1220,Foul on Nelly Perry.,36,30,6,0,0.7140585633115999,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+174,2,0:20,1220,1220,Jordan Danberry made Free Throw.,36,31,5,0,0.6819284315594378,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,Mississippi State
+175,2,0:20,1220,1220,Jordan Danberry made Free Throw.,36,32,4,17,0.6479678645969742,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,Mississippi State
+176,2,0:03,1203,1203,Tyasha Harris made Three Point Jumper. Assisted by Bianca Cuevas-Moore.,39,32,7,3,0.7460834076926617,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,South Carolina
+177,2,0:00,1200,1200,End of 2nd Quarter,39,32,7,0,0.7464201950257411,South Carolina,Mississippi State,3,4,0,0,NA,401091652,2019-03-03,
+178,3,10:00,1200,1200,Jump Ball won by Mississippi State,39,32,7,16,0.7464201950257411,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+179,3,9:44,1184,1184,Anriel Howard missed Jumper.,39,32,7,0,0.7481801139251432,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+180,3,9:44,1184,1184,Alexis Jennings Block.,39,32,7,0,0.7481801139251432,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+181,3,9:44,1184,1184,Tyasha Harris Defensive Rebound.,39,32,7,16,0.7481801139251432,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+182,3,9:28,1168,1168,Alexis Jennings missed Jumper.,39,32,7,0,0.7498901557928678,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+183,3,9:28,1168,1168,Jordan Danberry Block.,39,32,7,0,0.7498901557928678,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+184,3,9:28,1168,1168,South Carolina Offensive Rebound.,39,32,7,3,0.7498901557928678,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+185,3,9:25,1165,1165,Tyasha Harris missed Three Point Jumper.,39,32,7,0,0.750206472248669,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+186,3,9:25,1165,1165,Teaira McCowan Defensive Rebound.,39,32,7,26,0.750206472248669,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+187,3,8:59,1139,1139,Foul on Tyasha Harris.,39,32,7,0,0.7529114545278289,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+188,3,8:59,1139,1139,Jazzmun Holmes made Free Throw.,39,33,6,0,0.7221254894535684,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,Mississippi State
+189,3,8:59,1139,1139,Jazzmun Holmes made Free Throw.,39,34,5,3,0.6890877208960587,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,Mississippi State
+190,3,8:56,1136,1136,Foul on Andra Espinoza-Hunter.,39,34,5,0,0.6893424340111445,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+191,3,8:56,1136,1136,Technical Foul on Mississippi State.,39,34,5,0,0.6893424340111445,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+192,3,8:56,1136,1136,Bianca Cuevas-Moore missed Free Throw.,39,34,5,0,0.6893424340111445,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+193,3,8:56,1136,1136,Bianca Cuevas-Moore missed Free Throw.,39,34,5,25,0.6893424340111445,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+194,3,8:31,1111,1111,Bianca Cuevas-Moore missed Jumper.,39,34,5,0,0.6914706203837052,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+195,3,8:31,1111,1111,Alexis Jennings Offensive Rebound.,39,34,5,8,0.6914706203837052,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+196,3,8:23,1103,1103,Alexis Jennings missed Jumper.,39,34,5,0,0.6921583263713782,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+197,3,8:23,1103,1103,Teaira McCowan Block.,39,34,5,0,0.6921583263713782,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+198,3,8:23,1103,1103,Alexis Jennings Offensive Rebound.,39,34,5,8,0.6921583263713782,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+199,3,8:15,1095,1095,Alexis Jennings missed Jumper.,39,34,5,0,0.692851787391721,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+200,3,8:15,1095,1095,Anriel Howard Defensive Rebound.,39,34,5,3,0.692851787391721,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+201,3,8:12,1092,1092,Jordan Danberry made Layup.,39,36,3,17,0.6198307260005002,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,Mississippi State
+202,3,7:55,1075,1075,Alexis Jennings missed Jumper.,39,36,3,0,0.620832983822641,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+203,3,7:55,1075,1075,Mississippi State Defensive Rebound.,39,36,3,15,0.620832983822641,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+204,3,7:40,1060,1060,Jordan Danberry Turnover.,39,36,3,0,0.6217455451757833,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+205,3,7:40,1060,1060,Alexis Jennings Steal.,39,36,3,12,0.6217455451757833,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+206,3,7:28,1048,1048,Bianca Cuevas-Moore missed Three Point Jumper.,39,36,3,0,0.6224991578067698,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+207,3,7:28,1048,1048,South Carolina Offensive Rebound.,39,36,3,0,0.6224991578067698,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+208,3,7:28,1048,1048,Foul on Anriel Howard.,39,36,3,5,0.6224991578067698,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+209,3,7:23,1043,1043,Bianca Cuevas-Moore made Jumper.,41,36,5,20,0.6975995623072582,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,South Carolina
+210,3,7:03,1023,1023,Foul on Bianca Cuevas-Moore.,41,36,5,0,0.6995899105634457,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+211,3,7:03,1023,1023,Jordan Danberry missed Free Throw.,41,36,5,0,0.6995899105634457,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+212,3,7:03,1023,1023,Mississippi State Deadball Team Rebound.,41,36,5,0,0.6995899105634457,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+213,3,7:03,1023,1023,Jordan Danberry made Free Throw.,41,37,4,24,0.6629071787857869,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,Mississippi State
+214,3,6:39,999,999,Tyasha Harris missed Jumper.,41,37,4,0,0.6650821617086339,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+215,3,6:39,999,999,Jordan Danberry Defensive Rebound.,41,37,4,7,0.6650821617086339,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+216,3,6:32,992,992,Andra Espinoza-Hunter made Three Point Jumper. Assisted by Jordan Danberry.,41,40,1,26,0.5429580421010213,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,Mississippi State
+217,3,6:06,966,966,Bianca Cuevas-Moore missed Layup.,41,40,1,0,0.5436918592353146,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+218,3,6:06,966,966,Teaira McCowan Defensive Rebound.,41,40,1,8,0.5436918592353146,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+219,3,5:58,958,958,Andra Espinoza-Hunter made Layup. Assisted by Jordan Danberry.,41,42,-1,28,0.45608447008553377,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,Mississippi State
+220,3,5:30,930,930,Bianca Cuevas-Moore missed Layup.,41,42,-1,0,0.455371121131751,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+221,3,5:30,930,930,Teaira McCowan Defensive Rebound.,41,42,-1,7,0.455371121131751,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+222,3,5:23,923,923,Jordan Danberry missed Layup.,41,42,-1,0,0.4552061710584792,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+223,3,5:23,923,923,Te'a Cooper Block.,41,42,-1,0,0.4552061710584792,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+224,3,5:23,923,923,Mississippi State Offensive Rebound.,41,42,-1,21,0.4552061710584792,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+225,3,5:02,902,902,Jazzmun Holmes missed Layup.,41,42,-1,0,0.45473250245590535,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+226,3,5:02,902,902,Teaira McCowan Offensive Rebound.,41,42,-1,2,0.45473250245590535,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+227,3,5:00,900,900,Foul on Alexis Jennings.,41,42,-1,0,0.45468858965792575,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+228,3,5:00,900,900,Teaira McCowan made Free Throw.,41,43,-2,0,0.41011535655721715,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,Mississippi State
+229,3,5:00,900,900,Teaira McCowan missed Free Throw.,41,43,-2,0,0.41011535655721715,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+230,3,5:00,900,900,Mikiah Herbert Harrigan Defensive Rebound.,41,43,-2,15,0.41011535655721715,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+231,3,4:45,885,885,Official TV Timeout,41,43,-2,8,0.4094794698972313,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+232,3,4:37,877,877,Tyasha Harris Turnover.,41,43,-2,0,0.40914226397449643,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+233,3,4:37,877,877,Jordan Danberry Steal.,41,43,-2,21,0.40914226397449643,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+234,3,4:16,856,856,Teaira McCowan made Layup. Assisted by Jazzmun Holmes.,41,45,-4,26,0.322470626147266,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,Mississippi State
+235,3,3:50,830,830,Te'a Cooper missed Jumper.,41,45,-4,0,0.3203483646478025,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+236,3,3:50,830,830,Mikiah Herbert Harrigan Offensive Rebound.,41,45,-4,6,0.3203483646478025,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+237,3,3:44,824,824,Mikiah Herbert Harrigan missed Jumper.,41,45,-4,0,0.31982905521753113,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+238,3,3:44,824,824,South Carolina Offensive Rebound.,41,45,-4,5,0.31982905521753113,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+239,3,3:39,819,819,Mikiah Herbert Harrigan made Layup.,43,45,-2,19,0.4065373203797049,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,South Carolina
+240,3,3:20,800,800,Anriel Howard missed Jumper.,43,45,-2,0,0.40554265753338176,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+241,3,3:20,800,800,Tyasha Harris Defensive Rebound.,43,45,-2,26,0.40554265753338176,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+242,3,2:54,774,774,Te'a Cooper Turnover.,43,45,-2,0,0.4039912941810838,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+243,3,2:54,774,774,Jordan Danberry Steal.,43,45,-2,16,0.4039912941810838,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+244,3,2:38,758,758,Anriel Howard missed Jumper.,43,45,-2,0,0.4029012554800368,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+245,3,2:38,758,758,Teaira McCowan Offensive Rebound.,43,45,-2,4,0.4029012554800368,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+246,3,2:34,754,754,Teaira McCowan made Jumper.,43,47,-4,5,0.31234023152471935,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,Mississippi State
+247,3,2:29,749,749,Foul on Jazzmun Holmes.,43,47,-4,2,0.31167116340663636,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+248,3,2:27,747,747,Mikiah Herbert Harrigan missed Jumper.,43,47,-4,0,0.3113973754059501,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+249,3,2:27,747,747,Teaira McCowan Block.,43,47,-4,0,0.3113973754059501,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+250,3,2:27,747,747,Teaira McCowan Defensive Rebound.,43,47,-4,8,0.3113973754059501,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+251,3,2:19,739,739,Anriel Howard missed Jumper.,43,47,-4,0,0.3102657791670472,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+252,3,2:19,739,739,Teaira McCowan Offensive Rebound.,43,47,-4,4,0.3102657791670472,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+253,3,2:15,735,735,Teaira McCowan made Layup.,43,49,-6,35,0.2310411392687147,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,Mississippi State
+254,3,1:40,700,700,Tyasha Harris made Jumper.,45,49,-4,28,0.30478564843365047,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,South Carolina
+255,3,1:12,672,672,Jordan Danberry missed Jumper.,45,49,-4,0,0.30149758860397263,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+256,3,1:12,672,672,Alexis Jennings Defensive Rebound.,45,49,-4,8,0.30149758860397263,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+257,3,1:04,664,664,Tyasha Harris made Layup.,47,49,-2,28,0.3959849322122027,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,South Carolina
+258,3,0:36,636,636,Jazzmun Holmes made Jumper.,47,51,-4,32,0.2973990739664197,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,Mississippi State
+259,3,0:04,604,604,Mikiah Herbert Harrigan missed Jumper.,47,51,-4,0,0.2932396295203893,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+260,3,0:04,604,604,Teaira McCowan Defensive Rebound.,47,51,-4,4,0.2932396295203893,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+261,3,0:00,600,600,End of 3rd Quarter,47,51,-4,0,0.2926546588354372,South Carolina,Mississippi State,4,5,0,0,NA,401091652,2019-03-03,
+262,4,10:00,600,600,Jump Ball won by South Carolina,47,51,-4,8,0.2926546588354372,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+263,4,9:52,592,592,Tyasha Harris made Layup.,49,51,-2,17,0.3907343014424225,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,South Carolina
+264,4,9:35,575,575,Teaira McCowan made Layup. Assisted by Jordan Danberry.,49,53,-4,0,0.28854384388066967,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,Mississippi State
+265,4,9:35,575,575,Foul on LeLe Grissett.,49,53,-4,0,0.28854384388066967,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+266,4,9:35,575,575,Teaira McCowan missed Free Throw.,49,53,-4,0,0.28854384388066967,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+267,4,9:35,575,575,Mikiah Herbert Harrigan Defensive Rebound.,49,53,-4,10,0.28854384388066967,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+268,4,9:25,565,565,Tyasha Harris missed Jumper.,49,53,-4,0,0.28664203980661684,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+269,4,9:25,565,565,Mikiah Herbert Harrigan Offensive Rebound.,49,53,-4,14,0.28664203980661684,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+270,4,9:11,551,551,Mikiah Herbert Harrigan missed Three Point Jumper.,49,53,-4,0,0.2836881243381023,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+271,4,9:11,551,551,Anriel Howard Defensive Rebound.,49,53,-4,11,0.2836881243381023,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+272,4,9:00,540,540,Andra Espinoza-Hunter missed Layup.,49,53,-4,0,0.28134099032498416,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+273,4,9:00,540,540,Anriel Howard Offensive Rebound.,49,53,-4,19,0.28134099032498416,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+274,4,8:41,521,521,Anriel Howard made Layup.,49,55,-6,17,0.1927191075732782,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,Mississippi State
+275,4,8:24,504,504,Mikiah Herbert Harrigan made Jumper.,51,55,-4,23,0.27513973205664743,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,South Carolina
+276,4,8:01,481,481,Jordan Danberry made Layup.,51,57,-6,20,0.1851870694437006,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,Mississippi State
+277,4,7:41,461,461,Bianca Jackson missed Jumper.,51,57,-6,0,0.18078111870052269,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+278,4,7:41,461,461,Jordan Danberry Defensive Rebound.,51,57,-6,11,0.18078111870052269,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+279,4,7:30,450,450,Jordan Danberry missed Layup.,51,57,-6,0,0.1779116837709061,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+280,4,7:30,450,450,Teaira McCowan Offensive Rebound.,51,57,-6,3,0.1779116837709061,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+281,4,7:27,447,447,Foul on LeLe Grissett.,51,57,-6,0,0.17706004630133224,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+282,4,7:27,447,447,Teaira McCowan made Free Throw.,51,58,-7,0,0.14277138041926887,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,Mississippi State
+283,4,7:27,447,447,Teaira McCowan made Free Throw.,51,59,-8,12,0.11420143006838226,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,Mississippi State
+284,4,7:15,435,435,Bianca Cuevas-Moore missed Layup.,51,59,-8,0,0.11075230330803064,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+285,4,7:15,435,435,Teaira McCowan Block.,51,59,-8,0,0.11075230330803064,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+286,4,7:15,435,435,Alexis Jennings Offensive Rebound.,51,59,-8,1,0.11075230330803064,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+287,4,7:14,434,434,Alexis Jennings missed Jumper.,51,59,-8,0,0.11044248326072165,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+288,4,7:14,434,434,South Carolina Offensive Rebound.,51,59,-8,5,0.11044248326072165,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+289,4,7:09,429,429,Tyasha Harris Turnover.,51,59,-8,11,0.10884236734549153,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+290,4,6:58,418,418,Foul on Tyasha Harris.,51,59,-8,0,0.10547380477090496,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+291,4,6:58,418,418,Jordan Danberry missed Free Throw.,51,59,-8,0,0.10547380477090496,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+292,4,6:58,418,418,Mississippi State Deadball Team Rebound.,51,59,-8,0,0.10547380477090496,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+293,4,6:58,418,418,Jordan Danberry missed Free Throw.,51,59,-8,0,0.10547380477090496,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+294,4,6:58,418,418,Tyasha Harris Defensive Rebound.,51,59,-8,4,0.10547380477090496,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+295,4,6:54,414,414,Foul on Jordan Danberry.,51,59,-8,2,0.10432541857342165,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+296,4,6:52,412,412,Alexis Jennings Turnover.,51,59,-8,13,0.10376349313435594,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,
+297,4,6:39,399,399,Anriel Howard made Three Point Jumper. Assisted by Jazzmun Holmes.,51,62,-11,19,0.046653336775916716,South Carolina,Mississippi State,5,6,0,0,NA,401091652,2019-03-03,Mississippi State
+298,4,6:20,380,380,South Carolina  Timeout,51,62,-11,6,0.04335537316577808,South Carolina,Mississippi State,5,5,0,1,NA,401091652,2019-03-03,
+299,4,6:14,374,374,Te'a Cooper missed Jumper.,51,62,-11,0,0.04231950269825378,South Carolina,Mississippi State,5,5,0,1,NA,401091652,2019-03-03,
+300,4,6:14,374,374,Anriel Howard Block.,51,62,-11,0,0.04231950269825378,South Carolina,Mississippi State,5,5,0,1,NA,401091652,2019-03-03,
+301,4,6:14,374,374,South Carolina Offensive Rebound.,51,62,-11,5,0.04231950269825378,South Carolina,Mississippi State,5,5,0,1,NA,401091652,2019-03-03,
+302,4,6:09,369,369,Nelly Perry missed Jumper.,51,62,-11,0,0.041447369315895426,South Carolina,Mississippi State,5,5,0,1,NA,401091652,2019-03-03,
+303,4,6:09,369,369,Nelly Perry Offensive Rebound.,51,62,-11,6,0.041447369315895426,South Carolina,Mississippi State,5,5,0,1,NA,401091652,2019-03-03,
+304,4,6:03,363,363,Foul on Andra Espinoza-Hunter.,51,62,-11,0,0.040383831991506206,South Carolina,Mississippi State,5,5,0,1,NA,401091652,2019-03-03,
+305,4,6:03,363,363,Nelly Perry made Free Throw.,52,62,-10,0,0.05314638431096612,South Carolina,Mississippi State,5,5,0,1,NA,401091652,2019-03-03,South Carolina
+306,4,6:03,363,363,Nelly Perry made Free Throw.,53,62,-9,8,0.0696495575742334,South Carolina,Mississippi State,5,5,0,1,NA,401091652,2019-03-03,South Carolina
+307,4,5:55,355,355,Jordan Danberry missed Layup.,53,62,-9,0,0.06764784392538573,South Carolina,Mississippi State,5,5,0,1,NA,401091652,2019-03-03,
+308,4,5:55,355,355,Mikiah Herbert Harrigan Block.,53,62,-9,0,0.06764784392538573,South Carolina,Mississippi State,5,5,0,1,NA,401091652,2019-03-03,
+309,4,5:55,355,355,LeLe Grissett Defensive Rebound.,53,62,-9,5,0.06764784392538573,South Carolina,Mississippi State,5,5,0,1,NA,401091652,2019-03-03,
+310,4,5:50,350,350,Foul on Bre'Amber Scott.,53,62,-9,6,0.06634975483090019,South Carolina,Mississippi State,5,5,0,1,NA,401091652,2019-03-03,
+311,4,5:44,344,344,Destanni Henderson missed Jumper.,53,62,-9,0,0.06473742642484301,South Carolina,Mississippi State,5,5,0,1,NA,401091652,2019-03-03,
+312,4,5:44,344,344,Anriel Howard Defensive Rebound.,53,62,-9,16,0.06473742642484301,South Carolina,Mississippi State,5,5,0,1,NA,401091652,2019-03-03,
+313,4,5:28,328,328,Jordan Danberry missed Layup.,53,62,-9,0,0.060107794685497026,South Carolina,Mississippi State,5,5,0,1,NA,401091652,2019-03-03,
+314,4,5:28,328,328,Mississippi State Offensive Rebound.,53,62,-9,8,0.060107794685497026,South Carolina,Mississippi State,5,5,0,1,NA,401091652,2019-03-03,
+315,4,5:20,320,320,Anriel Howard missed Jumper.,53,62,-9,0,0.0575982646605716,South Carolina,Mississippi State,5,5,0,1,NA,401091652,2019-03-03,
+316,4,5:20,320,320,Anriel Howard Offensive Rebound.,53,62,-9,28,0.0575982646605716,South Carolina,Mississippi State,5,5,0,1,NA,401091652,2019-03-03,
+317,4,4:52,292,292,Jazzmun Holmes missed Jumper.,53,62,-9,0,0.05107563794164901,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,
+318,4,4:52,292,292,Teaira McCowan Offensive Rebound.,53,62,-9,3,0.05107563794164901,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,
+319,4,4:49,289,289,Foul on Alexis Jennings.,53,62,-9,0,0.0509969837883867,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,
+320,4,4:49,289,289,Official TV Timeout,53,62,-9,3,0.0509969837883867,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,
+321,4,4:46,286,286,Bre'Amber Scott missed Three Point Jumper.,53,62,-9,0,0.05101493186650163,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,
+322,4,4:46,286,286,Nelly Perry Defensive Rebound.,53,62,-9,10,0.05101493186650163,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,
+323,4,4:36,276,276,Destanni Henderson made Layup.,55,62,-7,15,0.09417261642772032,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,South Carolina
+324,4,4:21,261,261,Jazzmun Holmes missed Jumper.,55,62,-7,0,0.0967244145627624,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,
+325,4,4:21,261,261,Alexis Jennings Block.,55,62,-7,0,0.0967244145627624,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,
+326,4,4:21,261,261,Mississippi State Offensive Rebound.,55,62,-7,5,0.0967244145627624,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,
+327,4,4:16,256,256,Jordan Danberry missed Jumper.,55,62,-7,0,0.09764968750894519,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,
+328,4,4:16,256,256,Tyasha Harris Defensive Rebound.,55,62,-7,3,0.09764968750894519,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,
+329,4,4:13,253,253,Foul on Jordan Danberry.,55,62,-7,14,0.09817100327307872,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,
+330,4,3:59,239,239,Alexis Jennings missed Jumper.,55,62,-7,0,0.09975115062575343,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,
+331,4,3:59,239,239,Anriel Howard Defensive Rebound.,55,62,-7,23,0.09975115062575343,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,
+332,4,3:36,216,216,Anriel Howard missed Jumper.,55,62,-7,0,0.09600149022265138,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,
+333,4,3:36,216,216,Anriel Howard Offensive Rebound.,55,62,-7,1,0.09600149022265138,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,
+334,4,3:35,215,215,Anriel Howard missed Jumper.,55,62,-7,0,0.09558206882929451,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,
+335,4,3:35,215,215,Anriel Howard Offensive Rebound.,55,62,-7,1,0.09558206882929451,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,
+336,4,3:34,214,214,Foul on Nelly Perry.,55,62,-7,0,0.09513818185360644,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,
+337,4,3:34,214,214,Anriel Howard made Free Throw.,55,63,-8,0,0.07081541540539922,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,Mississippi State
+338,4,3:34,214,214,Anriel Howard made Free Throw.,55,64,-9,5,0.05235117866567944,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,Mississippi State
+339,4,3:29,209,209,Tyasha Harris made Three Point Jumper.,58,64,-6,5,0.12381199204888964,South Carolina,Mississippi State,5,5,0,0,NA,401091652,2019-03-03,South Carolina
+340,4,3:24,204,204,South Carolina  Timeout,58,64,-6,5,0.12022687700713511,South Carolina,Mississippi State,5,4,0,1,NA,401091652,2019-03-03,
+341,4,3:19,199,199,Jump Ball won by Mississippi State,58,64,-6,16,0.11590817903820622,South Carolina,Mississippi State,5,4,0,1,NA,401091652,2019-03-03,
+342,4,3:03,183,183,Jump Ball won by South Carolina,58,64,-6,0,0.09827078525957622,South Carolina,Mississippi State,5,4,0,1,NA,401091652,2019-03-03,
+343,4,3:03,183,183,Anriel Howard Turnover.,58,64,-6,0,0.09827078525957622,South Carolina,Mississippi State,5,4,0,1,NA,401091652,2019-03-03,
+344,4,3:03,183,183,Doniyah Cliney Steal.,58,64,-6,12,0.09827078525957622,South Carolina,Mississippi State,5,4,0,1,NA,401091652,2019-03-03,
+345,4,2:51,171,171,Destanni Henderson missed Jumper.,58,64,-6,0,0.08544575499694791,South Carolina,Mississippi State,5,4,0,1,NA,401091652,2019-03-03,
+346,4,2:51,171,171,Alexis Jennings Offensive Rebound.,58,64,-6,5,0.08544575499694791,South Carolina,Mississippi State,5,4,0,1,NA,401091652,2019-03-03,
+347,4,2:46,166,166,Nelly Perry made Layup.,60,64,-4,35,0.16455913316435664,South Carolina,Mississippi State,5,4,0,1,NA,401091652,2019-03-03,South Carolina
+348,4,2:11,131,131,Jazzmun Holmes missed Three Point Jumper.,60,64,-4,0,0.12080987760587489,South Carolina,Mississippi State,5,4,0,0,NA,401091652,2019-03-03,
+349,4,2:11,131,131,South Carolina Defensive Rebound.,60,64,-4,0,0.12080987760587489,South Carolina,Mississippi State,5,4,0,0,NA,401091652,2019-03-03,
+350,4,2:11,131,131,Jordan Danberry missed Free Throw.,60,64,-4,11,0.12080987760587489,South Carolina,Mississippi State,5,4,0,0,NA,401091652,2019-03-03,
+351,4,2:00,120,120,Tyasha Harris missed Layup.,60,64,-4,0,0.10672931060893309,South Carolina,Mississippi State,5,4,0,0,NA,401091652,2019-03-03,
+352,4,2:00,120,120,Alexis Jennings Offensive Rebound.,60,64,-4,12,0.10672931060893309,South Carolina,Mississippi State,5,4,0,0,NA,401091652,2019-03-03,
+353,4,1:48,108,108,Destanni Henderson missed Jumper.,60,64,-4,0,0.09137245921909595,South Carolina,Mississippi State,5,4,0,0,NA,401091652,2019-03-03,
+354,4,1:48,108,108,Teaira McCowan Block.,60,64,-4,0,0.09137245921909595,South Carolina,Mississippi State,5,4,0,0,NA,401091652,2019-03-03,
+355,4,1:48,108,108,Nelly Perry Offensive Rebound.,60,64,-4,0,0.09137245921909595,South Carolina,Mississippi State,5,4,0,0,NA,401091652,2019-03-03,
+356,4,1:48,108,108,Jordan Danberry missed Free Throw.,60,64,-4,9,0.09137245921909595,South Carolina,Mississippi State,5,4,0,0,NA,401091652,2019-03-03,
+357,4,1:39,99,99,Nelly Perry made Jumper.,62,64,-2,10,0.2277675355408222,South Carolina,Mississippi State,5,4,0,0,NA,401091652,2019-03-03,South Carolina
+358,4,1:29,89,89,Mississippi State  Timeout,62,64,-2,9,0.21267509603033555,South Carolina,Mississippi State,4,4,1,0,NA,401091652,2019-03-03,
+359,4,1:20,80,80,Teaira McCowan made Layup. Assisted by Jordan Danberry.,62,66,-4,16,0.05826566276605719,South Carolina,Mississippi State,4,4,1,0,NA,401091652,2019-03-03,Mississippi State
+360,4,1:04,64,64,Tyasha Harris missed Three Point Jumper.,62,66,-4,0,0.043007472972145445,South Carolina,Mississippi State,4,4,1,0,NA,401091652,2019-03-03,
+361,4,1:04,64,64,Anriel Howard Defensive Rebound.,62,66,-4,19,0.043007472972145445,South Carolina,Mississippi State,4,4,1,0,NA,401091652,2019-03-03,
+362,4,0:45,45,45,Anriel Howard Turnover.,62,66,-4,0,0.028717966465552115,South Carolina,Mississippi State,4,4,1,0,NA,401091652,2019-03-03,
+363,4,0:45,45,45,Tyasha Harris Steal.,62,66,-4,5,0.028717966465552115,South Carolina,Mississippi State,4,4,1,0,NA,401091652,2019-03-03,
+364,4,0:40,40,40,Tyasha Harris made Layup.,64,66,-2,2,0.13947266670925146,South Carolina,Mississippi State,4,4,1,0,NA,401091652,2019-03-03,South Carolina
+365,4,0:38,38,38,South Carolina  Timeout,64,66,-2,4,0.13660185240532335,South Carolina,Mississippi State,4,3,1,1,NA,401091652,2019-03-03,
+366,4,0:34,34,34,Foul on Doniyah Cliney.,64,66,-2,0,0.1309245089386119,South Carolina,Mississippi State,4,3,1,1,NA,401091652,2019-03-03,
+367,4,0:34,34,34,Jordan Danberry made Free Throw.,64,67,-3,0,0.05524156273369957,South Carolina,Mississippi State,4,3,1,1,NA,401091652,2019-03-03,Mississippi State
+368,4,0:34,34,34,Jordan Danberry missed Free Throw.,64,67,-3,0,0.05524156273369957,South Carolina,Mississippi State,4,3,1,1,NA,401091652,2019-03-03,
+369,4,0:34,34,34,Teaira McCowan Offensive Rebound.,64,67,-3,0,0.05524156273369957,South Carolina,Mississippi State,4,3,1,1,NA,401091652,2019-03-03,
+370,4,0:34,34,34,Anriel Howard Offensive Rebound.,64,67,-3,1,0.05524156273369957,South Carolina,Mississippi State,4,3,1,1,NA,401091652,2019-03-03,
+371,4,0:33,33,33,Jump Ball won by Mississippi State,64,67,-3,23,0.05427905517869263,South Carolina,Mississippi State,4,3,1,1,NA,401091652,2019-03-03,
+372,4,0:10,10,10,Andra Espinoza-Hunter missed Jumper.,64,67,-3,0,0.035163883243131466,South Carolina,Mississippi State,4,3,0,1,NA,401091652,2019-03-03,
+373,4,0:10,10,10,Jordan Danberry Offensive Rebound.,64,67,-3,6,0.035163883243131466,South Carolina,Mississippi State,4,3,0,1,NA,401091652,2019-03-03,
+374,4,0:04,4,4,Foul on Tyasha Harris.,64,67,-3,0,0.03104907390872038,South Carolina,Mississippi State,4,3,0,1,NA,401091652,2019-03-03,
+375,4,0:04,4,4,Foul on LeLe Grissett.,64,67,-3,0,0.03104907390872038,South Carolina,Mississippi State,4,3,0,1,NA,401091652,2019-03-03,
+376,4,0:04,4,4,Teaira McCowan missed Free Throw.,64,67,-3,0,0.03104907390872038,South Carolina,Mississippi State,4,3,0,1,NA,401091652,2019-03-03,
+377,4,0:04,4,4,Mississippi State Deadball Team Rebound.,64,67,-3,0,0.03104907390872038,South Carolina,Mississippi State,4,3,0,1,NA,401091652,2019-03-03,
+378,4,0:04,4,4,Teaira McCowan made Free Throw.,64,68,-4,2,0.010075453092990712,South Carolina,Mississippi State,4,3,0,1,NA,401091652,2019-03-03,Mississippi State
+379,4,0:02,2,2,South Carolina  Timeout,64,68,-4,0,0.00951168353188601,South Carolina,Mississippi State,4,2,1,1,NA,401091652,2019-03-03,
+380,4,0:02,2,2,Mississippi State  Timeout,64,68,-4,1,0.00951168353188601,South Carolina,Mississippi State,3,2,1,1,NA,401091652,2019-03-03,
+381,4,0:01,1,1,Destanni Henderson missed Three Point Jumper.,64,68,-4,0,0.00924024840272953,South Carolina,Mississippi State,3,2,1,1,NA,401091652,2019-03-03,
+382,4,0:01,1,1,Mississippi State Defensive Rebound.,64,68,-4,1,0.00924024840272953,South Carolina,Mississippi State,3,2,1,1,NA,401091652,2019-03-03,
+383,4,0:00,0,0,End of Game,64,68,-4,0,1.8048513878454153e-35,South Carolina,Mississippi State,3,2,1,1,NA,401091652,2019-03-03,

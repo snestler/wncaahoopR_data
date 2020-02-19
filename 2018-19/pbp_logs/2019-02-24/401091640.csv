@@ -1,0 +1,384 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:32,2672,2672,Cierra Johnson made Jumper.,0,0,0,13,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,NA
+2,1,9:19,2659,2659,Gabby Connally made Jumper.,2,2,0,23,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Alabama
+3,1,8:56,2636,2636,Ariyah Copeland Turnover.,2,2,0,0,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+4,1,8:56,2636,2636,Taja Cole Steal.,2,2,0,0,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+5,1,8:56,2636,2636,Foul on Cierra Johnson.,2,2,0,11,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+6,1,8:45,2625,2625,Caliya Robinson Turnover.,2,2,0,1,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+7,1,8:44,2624,2624,Shaquera Wade Steal.,2,2,0,3,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+8,1,8:41,2621,2621,Shaquera Wade Turnover.,2,2,0,1,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+9,1,8:40,2620,2620,Caliya Robinson Steal.,2,2,0,3,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+10,1,8:37,2617,2617,Taja Cole made Layup.,2,4,-2,28,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Georgia
+11,1,8:09,2589,2589,Ariyah Copeland missed Jumper.,2,4,-2,0,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+12,1,8:09,2589,2589,Caliya Robinson Block.,2,4,-2,1,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+13,1,8:08,2588,2588,Ariyah Copeland Offensive Rebound.,2,4,-2,6,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+14,1,8:02,2582,2582,Megan Abrams missed Jumper.,2,4,-2,0,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+15,1,8:02,2582,2582,Georgia Defensive Rebound.,2,4,-2,26,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+16,1,7:36,2556,2556,Taja Cole made Jumper.,2,6,-4,24,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Georgia
+17,1,7:12,2532,2532,Shaquera Wade made Jumper.,4,6,-2,15,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Alabama
+18,1,6:57,2517,2517,Caliya Robinson made Jumper. Assisted by Taja Cole.,4,8,-4,16,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Georgia
+19,1,6:41,2501,2501,Foul on Maya Caldwell.,4,8,-4,0,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+20,1,6:41,2501,2501,Cierra Johnson made Free Throw.,5,8,-3,0,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Alabama
+21,1,6:41,2501,2501,Cierra Johnson made Free Throw.,6,8,-2,15,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Alabama
+22,1,6:26,2486,2486,Maya Caldwell made Jumper. Assisted by Caliya Robinson.,6,10,-4,20,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Georgia
+23,1,6:06,2466,2466,Shaquera Wade made Jumper.,8,10,-2,16,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Alabama
+24,1,5:50,2450,2450,Maya Caldwell made Three Point Jumper. Assisted by Que Morrison.,8,13,-5,24,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Georgia
+25,1,5:26,2426,2426,Megan Abrams made Jumper.,10,13,-3,28,NA,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Alabama
+26,1,4:58,2398,2398,Taja Cole missed Jumper.,10,13,-3,0,0.4341112206288014,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+27,1,4:58,2398,2398,Ariyah Copeland Defensive Rebound.,10,13,-3,15,0.4341112206288014,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+28,1,4:43,2383,2383,Ariyah Copeland missed Jumper.,10,13,-3,0,0.4336417981362403,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+29,1,4:43,2383,2383,Caliya Robinson Block.,10,13,-3,2,0.4336417981362403,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+30,1,4:41,2381,2381,Maya Caldwell Defensive Rebound.,10,13,-3,8,0.4335788388337539,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+31,1,4:33,2373,2373,Que Morrison missed Three Point Jumper.,10,13,-3,0,0.4333261582413795,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+32,1,4:33,2373,2373,Megan Abrams Defensive Rebound.,10,13,-3,15,0.4333261582413795,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+33,1,4:18,2358,2358,Jasmine Walker missed Jumper.,10,13,-3,0,0.43284885863257627,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+34,1,4:18,2358,2358,Maya Caldwell Defensive Rebound.,10,13,-3,5,0.43284885863257627,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+35,1,4:13,2353,2353,Foul on Ariyah Copeland.,10,13,-3,0,0.4326887743214508,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+36,1,4:13,2353,2353,Official TV Timeout,10,13,-3,13,0.4326887743214508,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+37,1,4:00,2340,2340,Caliya Robinson missed Jumper.,10,13,-3,0,0.4322703531301972,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+38,1,4:00,2340,2340,Shaquera Wade Defensive Rebound.,10,13,-3,10,0.4322703531301972,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+39,1,3:50,2330,2330,Shaquera Wade Turnover.,10,13,-3,1,0.43194641102993836,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+40,1,3:49,2329,2329,Maya Caldwell Steal.,10,13,-3,5,0.4319139208293343,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+41,1,3:44,2324,2324,Caliya Robinson made Layup. Assisted by Taja Cole.,10,15,-5,18,0.3874960680351224,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Georgia
+42,1,3:26,2306,2306,Shaquera Wade made Three Point Jumper. Assisted by Cierra Johnson.,13,15,-2,26,0.4539456613451718,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Alabama
+43,1,3:00,2280,2280,Gabby Connally missed Jumper.,13,15,-2,0,0.4533663845351968,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+44,1,3:00,2280,2280,Cierra Johnson Defensive Rebound.,13,15,-2,11,0.4533663845351968,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+45,1,2:49,2269,2269,Cierra Johnson made Jumper.,15,15,0,21,0.5,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Alabama
+46,1,2:28,2248,2248,Caliya Robinson made Three Point Jumper. Assisted by Taja Cole.,15,18,-3,27,0.4292322756158619,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Georgia
+47,1,2:01,2221,2221,Foul on Jasmine Walker.,15,18,-3,0,0.42832063468160925,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+48,1,2:01,2221,2221,Jasmine Walker Turnover.,15,18,-3,15,0.42832063468160925,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+49,1,1:46,2206,2206,Stephanie Paul missed Jumper.,15,18,-3,0,0.42781134411298344,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+50,1,1:46,2206,2206,Ariyah Copeland Block.,15,18,-3,1,0.42781134411298344,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+51,1,1:45,2205,2205,Taylor Berry Defensive Rebound.,15,18,-3,13,0.42777732868292595,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+52,1,1:32,2192,2192,Shaquera Wade missed Three Point Jumper.,15,18,-3,0,0.4273344834071913,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+53,1,1:32,2192,2192,Gabby Connally Defensive Rebound.,15,18,-3,10,0.4273344834071913,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+54,1,1:22,2182,2182,Taja Cole Turnover.,15,18,-3,2,0.4269930904046104,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+55,1,1:20,2180,2180,Ariyah Copeland Steal.,15,18,-3,3,0.4269247421092793,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+56,1,1:17,2177,2177,Cierra Johnson missed Layup.,15,18,-3,0,0.42682217903564085,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+57,1,1:17,2177,2177,Shaquera Wade Offensive Rebound.,15,18,-3,0,0.42682217903564085,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+58,1,1:17,2177,2177,Foul on Kaila Hubbard.,15,18,-3,3,0.42682217903564085,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+59,1,1:14,2174,2174,De'Sha Benjamin made Jumper. Assisted by Cierra Johnson.,17,18,-1,21,0.47541584348665267,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Alabama
+60,1,0:53,2153,2153,Gabby Connally missed Jumper.,17,18,-1,0,0.4751710109153479,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+61,1,0:53,2153,2153,Stephanie Paul Offensive Rebound.,17,18,-1,2,0.4751710109153479,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+62,1,0:51,2151,2151,Foul on Ariyah Copeland.,17,18,-1,0,0.475147605385526,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+63,1,0:51,2151,2151,Stephanie Paul missed Free Throw.,17,18,-1,0,0.475147605385526,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+64,1,0:51,2151,2151,Georgia Deadball Team Rebound.,17,18,-1,0,0.475147605385526,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+65,1,0:51,2151,2151,Stephanie Paul missed Free Throw.,17,18,-1,0,0.475147605385526,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+66,1,0:51,2151,2151,Kaila Hubbard Offensive Rebound.,17,18,-1,6,0.475147605385526,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+67,1,0:45,2145,2145,Kaila Hubbard Turnover.,17,18,-1,1,0.47507729138774896,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+68,1,0:44,2144,2144,Jasmine Walker Steal.,17,18,-1,3,0.4750655580036388,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+69,1,0:41,2141,2141,Cierra Johnson made Layup.,19,18,1,7,0.524969667148936,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Alabama
+70,1,0:34,2134,2134,Gabby Connally missed Jumper.,19,18,1,0,0.5250520071952085,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+71,1,0:34,2134,2134,Cierra Johnson Defensive Rebound.,19,18,1,29,0.5250520071952085,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+72,1,0:05,2105,2105,De'Sha Benjamin missed Jumper.,19,18,1,0,0.525395453637831,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+73,1,0:05,2105,2105,Stephanie Paul Defensive Rebound.,19,18,1,5,0.525395453637831,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+74,1,0:00,2100,2100,End of 1st Quarter,19,18,1,9,0.5254550666804201,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+75,2,9:51,2091,2091,Taja Cole Turnover.,19,18,1,0,0.5255626806433447,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+76,2,9:51,2091,2091,De'Sha Benjamin Steal.,19,18,1,21,0.5255626806433447,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+77,2,9:30,2070,2070,Ashley Knight Turnover.,19,18,1,2,0.5258153949638733,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+78,2,9:28,2068,2068,Caliya Robinson Steal.,19,18,1,7,0.5258395851017568,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+79,2,9:21,2061,2061,Caliya Robinson missed Three Point Jumper.,19,18,1,0,0.5259244231863538,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+80,2,9:21,2061,2061,Jasmine Walker Defensive Rebound.,19,18,1,18,0.5259244231863538,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+81,2,9:03,2043,2043,Jasmine Walker Turnover.,19,18,1,1,0.5261438456356039,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+82,2,9:02,2042,2042,Gabby Connally Steal.,19,18,1,4,0.5261560906857521,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+83,2,8:58,2038,2038,Gabby Connally Turnover.,19,18,1,1,0.5262051299966672,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+84,2,8:57,2037,2037,Jasmine Walker Steal.,19,18,1,24,0.5262174046871455,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+85,2,8:33,2013,2013,Ashley Knight missed Jumper.,19,18,1,0,0.5265138301810544,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+86,2,8:33,2013,2013,Caliya Robinson Block.,19,18,1,1,0.5265138301810544,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+87,2,8:32,2012,2012,Caliya Robinson Defensive Rebound.,19,18,1,5,0.5265262594599909,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+88,2,8:27,2007,2007,Caliya Robinson made Jumper. Assisted by Gabby Connally.,19,20,-1,24,0.4734114977310812,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Georgia
+89,2,8:03,1983,1983,Shaquera Wade missed Three Point Jumper.,19,20,-1,0,0.47311043619191506,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+90,2,8:03,1983,1983,Stephanie Paul Defensive Rebound.,19,20,-1,6,0.47311043619191506,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+91,2,7:57,1977,1977,Caliya Robinson made Jumper. Assisted by Taja Cole.,19,22,-3,35,0.4197256904370257,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Georgia
+92,2,7:22,1942,1942,Foul on Caliya Robinson.,19,22,-3,0,0.4184137321789561,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+93,2,7:22,1942,1942,Ashley Knight made Free Throw.,20,22,-2,0,0.44533791440284665,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Alabama
+94,2,7:22,1942,1942,Ashley Knight made Free Throw.,21,22,-1,12,0.4725868018982542,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Alabama
+95,2,7:10,1930,1930,Stephanie Paul made Three Point Jumper. Assisted by Taja Cole.,21,25,-4,17,0.3913719483243208,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Georgia
+96,2,6:53,1913,1913,Megan Abrams Turnover.,21,25,-4,7,0.39052766213370954,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+97,2,6:46,1906,1906,Jenna Staiti missed Jumper.,21,25,-4,0,0.39018070230175,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+98,2,6:46,1906,1906,Jasmine Walker Defensive Rebound.,21,25,-4,34,0.39018070230175,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+99,2,6:12,1872,1872,Cierra Johnson made Three Point Jumper. Assisted by Shaquera Wade.,24,25,-1,19,0.47167824582608886,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Alabama
+100,2,5:53,1853,1853,Taja Cole missed Three Point Jumper.,24,25,-1,0,0.47143097655080335,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+101,2,5:53,1853,1853,Que Morrison Offensive Rebound.,24,25,-1,8,0.47143097655080335,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+102,2,5:45,1845,1845,Jenna Staiti missed Jumper.,24,25,-1,0,0.47132653429417115,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+103,2,5:45,1845,1845,Jasmine Walker Defensive Rebound.,24,25,-1,22,0.47132653429417115,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+104,2,5:23,1823,1823,Shaquera Wade made Jumper.,26,25,1,16,0.5289621051302998,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Alabama
+105,2,5:07,1807,1807,Foul on Allie Craig Cruce.,26,25,1,0,0.529173697486894,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+106,2,5:07,1807,1807,Stephanie Paul made Free Throw.,26,26,0,0,0.5,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Georgia
+107,2,5:07,1807,1807,Stephanie Paul made Free Throw.,26,27,-1,17,0.47082630251310603,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Georgia
+108,2,4:50,1790,1790,Jasmine Walker Turnover.,26,27,-1,1,0.47059954322747266,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+109,2,4:49,1789,1789,Taja Cole Steal.,26,27,-1,1,0.47058613421136253,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+110,2,4:48,1788,1788,Taja Cole Turnover.,26,27,-1,1,0.4705727169002372,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+111,2,4:47,1787,1787,Jasmine Walker Steal.,26,27,-1,2,0.470559291216549,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+112,2,4:45,1785,1785,Foul on Taja Cole.,26,27,-1,0,0.4705324144212983,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+113,2,4:45,1785,1785,Official TV Timeout,26,27,-1,0,0.4705324144212983,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+114,2,4:45,1785,1785,Cierra Johnson made Free Throw.,27,27,0,0,0.5,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Alabama
+115,2,4:45,1785,1785,Cierra Johnson missed Free Throw.,27,27,0,0,0.5,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+116,2,4:45,1785,1785,Caliya Robinson Defensive Rebound.,27,27,0,8,0.5,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+117,2,4:37,1777,1777,Gabby Connally made Three Point Jumper. Assisted by Caliya Robinson.,27,30,-3,26,0.41209290634928514,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Georgia
+118,2,4:11,1751,1751,Foul on Shaquera Wade.,27,30,-3,0,0.4110580727473581,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+119,2,4:11,1751,1751,Shaquera Wade Turnover.,27,30,-3,14,0.4110580727473581,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+120,2,3:57,1737,1737,Jenna Staiti Turnover.,27,30,-3,12,0.4104922231725536,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+121,2,3:45,1725,1725,Shaquera Wade missed Three Point Jumper.,27,30,-3,0,0.41000179777182627,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+122,2,3:45,1725,1725,Jenna Staiti Defensive Rebound.,27,30,-3,8,0.41000179777182627,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+123,2,3:37,1717,1717,Jenna Staiti missed Three Point Jumper.,27,30,-3,0,0.4096718708022683,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+124,2,3:37,1717,1717,Ariyah Copeland Defensive Rebound.,27,30,-3,10,0.4096718708022683,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+125,2,3:27,1707,1707,Shaquera Wade missed Jumper.,27,30,-3,0,0.4092559135316822,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+126,2,3:27,1707,1707,Caliya Robinson Defensive Rebound.,27,30,-3,27,0.4092559135316822,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+127,2,3:00,1680,1680,Taja Cole Turnover.,27,30,-3,2,0.408117182154001,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+128,2,2:58,1678,1678,Jasmine Walker Steal.,27,30,-3,5,0.4080335689048973,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+129,2,2:53,1673,1673,De'Sha Benjamin missed Three Point Jumper.,27,30,-3,0,0.4078255922568191,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+130,2,2:53,1673,1673,Georgia Defensive Rebound.,27,30,-3,21,0.4078255922568191,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+131,2,2:32,1652,1652,Donnetta Johnson Turnover.,27,30,-3,23,0.4069665239288286,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+132,2,2:09,1629,1629,Cierra Johnson Turnover.,27,30,-3,17,0.40604576171002954,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+133,2,1:52,1612,1612,Gabby Connally missed Jumper.,27,30,-3,0,0.4053731843877757,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+134,2,1:52,1612,1612,Cierra Johnson Defensive Rebound.,27,30,-3,4,0.4053731843877757,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+135,2,1:48,1608,1608,Cierra Johnson Turnover.,27,30,-3,1,0.40521542523694876,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+136,2,1:47,1607,1607,Donnetta Johnson Steal.,27,30,-3,12,0.4051760002462054,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+137,2,1:35,1595,1595,Gabby Connally missed Jumper.,27,30,-3,0,0.4047030097286457,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+138,2,1:35,1595,1595,De'Sha Benjamin Defensive Rebound.,27,30,-3,8,0.4047030097286457,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+139,2,1:27,1587,1587,Cierra Johnson missed Three Point Jumper.,27,30,-3,0,0.40438734889460626,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+140,2,1:27,1587,1587,Taja Cole Defensive Rebound.,27,30,-3,8,0.40438734889460626,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,
+141,2,1:19,1579,1579,Taja Cole made Layup.,27,32,-5,3,0.3435414180970822,Alabama,Georgia,4,4,0,0,NA,401091640,2019-02-24,Georgia
+142,2,1:16,1576,1576,Alabama  Timeout,27,32,-5,12,0.3433557987765931,Alabama,Georgia,3,4,1,0,NA,401091640,2019-02-24,
+143,2,1:04,1564,1564,Jasmine Walker Turnover.,27,32,-5,1,0.34261043493105336,Alabama,Georgia,3,4,1,0,NA,401091640,2019-02-24,
+144,2,1:03,1563,1563,Caliya Robinson Steal.,27,32,-5,15,0.3425480701470659,Alabama,Georgia,3,4,1,0,NA,401091640,2019-02-24,
+145,2,0:48,1548,1548,Caliya Robinson made Jumper. Assisted by Taja Cole.,27,34,-7,22,0.28524322865164164,Alabama,Georgia,3,4,1,0,NA,401091640,2019-02-24,Georgia
+146,2,0:26,1526,1526,Shaquera Wade missed Jumper.,27,34,-7,0,0.28345856124406194,Alabama,Georgia,3,4,1,0,NA,401091640,2019-02-24,
+147,2,0:26,1526,1526,Allie Craig Cruce Offensive Rebound.,27,34,-7,7,0.28345856124406194,Alabama,Georgia,3,4,1,0,NA,401091640,2019-02-24,
+148,2,0:19,1519,1519,Allie Craig Cruce Turnover.,27,34,-7,2,0.282880667568803,Alabama,Georgia,3,4,1,0,NA,401091640,2019-02-24,
+149,2,0:17,1517,1517,Stephanie Paul Steal.,27,34,-7,9,0.28271452460434404,Alabama,Georgia,3,4,1,0,NA,401091640,2019-02-24,
+150,2,0:08,1508,1508,Caliya Robinson missed Jumper.,27,34,-7,0,0.2819607707783236,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+151,2,0:08,1508,1508,Shaquera Wade Defensive Rebound.,27,34,-7,8,0.2819607707783236,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+152,2,0:00,1500,1500,Shaquera Wade missed Jumper.,27,34,-7,0,0.28128173463911355,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+153,2,0:00,1500,1500,Georgia Defensive Rebound.,27,34,-7,0,0.28128173463911355,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+154,2,0:00,1500,1500,End of 2nd Quarter,27,34,-7,11,0.28128173463911355,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+155,3,9:49,1489,1489,Caliya Robinson Turnover.,27,34,-7,1,0.2803327422887575,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+156,3,9:48,1488,1488,Ariyah Copeland Steal.,27,34,-7,18,0.28024553225472115,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+157,3,9:30,1470,1470,Foul on Caliya Robinson.,27,34,-7,0,0.27864653983450005,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+158,3,9:30,1470,1470,Megan Abrams made Free Throw.,28,34,-6,0,0.3067619168373749,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,Alabama
+159,3,9:30,1470,1470,Megan Abrams made Free Throw.,29,34,-5,26,0.33639121822391793,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,Alabama
+160,3,9:04,1444,1444,Foul on Shaquera Wade.,29,34,-5,0,0.33447585482675724,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+161,3,9:04,1444,1444,Taja Cole missed Free Throw.,29,34,-5,0,0.33447585482675724,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+162,3,9:04,1444,1444,Georgia Deadball Team Rebound.,29,34,-5,0,0.33447585482675724,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+163,3,9:04,1444,1444,Taja Cole made Free Throw.,29,35,-6,24,0.30457363129242326,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,Georgia
+164,3,8:40,1420,1420,Ariyah Copeland made Jumper. Assisted by Megan Abrams.,31,35,-4,8,0.36432404068248336,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,Alabama
+165,3,8:32,1412,1412,Foul on Cierra Johnson.,31,35,-4,2,0.3638556357612198,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+166,3,8:30,1410,1410,Caliya Robinson made Jumper. Assisted by Taja Cole.,31,37,-6,18,0.3017968580496119,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,Georgia
+167,3,8:12,1392,1392,Ariyah Copeland missed Jumper.,31,37,-6,0,0.3003854739520774,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+168,3,8:12,1392,1392,Caliya Robinson Defensive Rebound.,31,37,-6,12,0.3003854739520774,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+169,3,8:00,1380,1380,Caliya Robinson missed Three Point Jumper.,31,37,-6,0,0.2994574232278396,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+170,3,8:00,1380,1380,Taja Cole Offensive Rebound.,31,37,-6,19,0.2994574232278396,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+171,3,7:41,1361,1361,Maya Caldwell missed Jumper.,31,37,-6,0,0.2979970743904461,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+172,3,7:41,1361,1361,Caliya Robinson Offensive Rebound.,31,37,-6,3,0.2979970743904461,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+173,3,7:38,1358,1358,Caliya Robinson made Jumper.,31,39,-8,17,0.24159747486667235,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,Georgia
+174,3,7:21,1341,1341,Jasmine Walker missed Three Point Jumper.,31,39,-8,0,0.2400670421645096,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+175,3,7:21,1341,1341,Caliya Robinson Defensive Rebound.,31,39,-8,10,0.2400670421645096,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+176,3,7:11,1331,1331,Foul on Shaquera Wade.,31,39,-8,0,0.23915964501127665,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+177,3,7:11,1331,1331,Gabby Connally missed Jumper.,31,39,-8,0,0.23915964501127665,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+178,3,7:11,1331,1331,Ariyah Copeland Defensive Rebound.,31,39,-8,12,0.23915964501127665,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+179,3,6:59,1319,1319,Jasmine Walker missed Jumper.,31,39,-8,0,0.2380589894554725,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+180,3,6:59,1319,1319,Caliya Robinson Defensive Rebound.,31,39,-8,8,0.2380589894554725,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+181,3,6:51,1311,1311,Taja Cole missed Jumper.,31,39,-8,0,0.23731587402638216,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+182,3,6:51,1311,1311,De'Sha Benjamin Defensive Rebound.,31,39,-8,30,0.23731587402638216,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+183,3,6:21,1281,1281,Ashley Knight Turnover.,31,39,-8,1,0.23443687558650303,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+184,3,6:20,1280,1280,Caliya Robinson Steal.,31,39,-8,1,0.23433786173430163,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+185,3,6:19,1279,1279,Caliya Robinson Turnover.,31,39,-8,1,0.23423862325249903,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+186,3,6:18,1278,1278,Jasmine Walker Steal.,31,39,-8,13,0.23413915754424405,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+187,3,6:05,1265,1265,Megan Abrams missed Jumper.,31,39,-8,0,0.23282425142451554,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+188,3,6:05,1265,1265,Caliya Robinson Defensive Rebound.,31,39,-8,3,0.23282425142451554,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+189,3,6:02,1262,1262,Foul on Ashley Knight.,31,39,-8,16,0.23251469990385748,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+190,3,5:46,1246,1246,Taja Cole missed Three Point Jumper.,31,39,-8,0,0.23082095342900316,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+191,3,5:46,1246,1246,Alabama Defensive Rebound.,31,39,-8,20,0.23082095342900316,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+192,3,5:26,1226,1226,Foul on Taja Cole.,31,39,-8,0,0.22859083684541406,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+193,3,5:26,1226,1226,Megan Abrams missed Free Throw.,31,39,-8,0,0.22859083684541406,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+194,3,5:26,1226,1226,Alabama Deadball Team Rebound.,31,39,-8,0,0.22859083684541406,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+195,3,5:26,1226,1226,Megan Abrams made Free Throw.,32,39,-7,22,0.256498188460126,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,Alabama
+196,3,5:04,1204,1204,Foul on Cierra Johnson.,32,39,-7,0,0.25402938276774784,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+197,3,5:04,1204,1204,Gabby Connally made Free Throw.,32,40,-8,0,0.22598420589384982,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,Georgia
+198,3,5:04,1204,1204,Gabby Connally missed Free Throw.,32,40,-8,0,0.22598420589384982,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+199,3,5:04,1204,1204,Megan Abrams Defensive Rebound.,32,40,-8,7,0.22598420589384982,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+200,3,4:57,1197,1197,Megan Abrams Turnover.,32,40,-8,1,0.2251573161109907,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+201,3,4:56,1196,1196,Caliya Robinson Steal.,32,40,-8,6,0.22504028639999513,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+202,3,4:50,1190,1190,Que Morrison missed Jumper.,32,40,-8,0,0.22434347204944255,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+203,3,4:50,1190,1190,Stephanie Paul Offensive Rebound.,32,40,-8,23,0.22434347204944255,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+204,3,4:27,1167,1167,Taja Cole missed Jumper.,32,40,-8,0,0.2217441915698787,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+205,3,4:27,1167,1167,Caliya Robinson Offensive Rebound.,32,40,-8,21,0.2217441915698787,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+206,3,4:06,1146,1146,Caliya Robinson missed Three Point Jumper.,32,40,-8,0,0.21944020862483066,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+207,3,4:06,1146,1146,Cierra Johnson Defensive Rebound.,32,40,-8,9,0.21944020862483066,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+208,3,3:57,1137,1137,Cierra Johnson missed Layup.,32,40,-8,0,0.21846385386066036,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+209,3,3:57,1137,1137,Caliya Robinson Defensive Rebound.,32,40,-8,7,0.21846385386066036,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+210,3,3:50,1130,1130,Que Morrison missed Jumper.,32,40,-8,0,0.21770645593175214,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+211,3,3:50,1130,1130,Cierra Johnson Defensive Rebound.,32,40,-8,17,0.21770645593175214,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+212,3,3:33,1113,1113,Cierra Johnson Turnover.,32,40,-8,0,0.21586601615321288,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+213,3,3:33,1113,1113,Gabby Connally Steal.,32,40,-8,3,0.21586601615321288,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+214,3,3:30,1110,1110,Gabby Connally made Layup.,32,42,-10,3,0.1659217894116129,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,Georgia
+215,3,3:27,1107,1107,Alabama  Timeout,32,42,-10,0,0.16558781840047498,Alabama,Georgia,3,5,1,0,NA,401091640,2019-02-24,
+216,3,3:27,1107,1107,Official TV Timeout,32,42,-10,19,0.16558781840047498,Alabama,Georgia,3,5,1,0,NA,401091640,2019-02-24,
+217,3,3:08,1088,1088,Cierra Johnson missed Jumper.,32,42,-10,0,0.1634564027007941,Alabama,Georgia,3,5,1,0,NA,401091640,2019-02-24,
+218,3,3:08,1088,1088,Cierra Johnson Offensive Rebound.,32,42,-10,13,0.1634564027007941,Alabama,Georgia,3,5,1,0,NA,401091640,2019-02-24,
+219,3,2:55,1075,1075,Cierra Johnson missed Jumper.,32,42,-10,0,0.1619734003295915,Alabama,Georgia,3,5,1,0,NA,401091640,2019-02-24,
+220,3,2:55,1075,1075,Taja Cole Defensive Rebound.,32,42,-10,8,0.1619734003295915,Alabama,Georgia,3,5,1,0,NA,401091640,2019-02-24,
+221,3,2:47,1067,1067,Caliya Robinson missed Jumper.,32,42,-10,0,0.1610470141721507,Alabama,Georgia,3,5,1,0,NA,401091640,2019-02-24,
+222,3,2:47,1067,1067,Jasmine Walker Defensive Rebound.,32,42,-10,7,0.1610470141721507,Alabama,Georgia,3,5,1,0,NA,401091640,2019-02-24,
+223,3,2:40,1060,1060,Ariyah Copeland made Jumper. Assisted by Cierra Johnson.,34,42,-8,23,0.2099483513257963,Alabama,Georgia,3,5,1,0,NA,401091640,2019-02-24,Alabama
+224,3,2:17,1037,1037,Taja Cole Turnover.,34,42,-8,1,0.2072025908822477,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+225,3,2:16,1036,1036,Taylor Berry Steal.,34,42,-8,5,0.20707975836870782,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+226,3,2:11,1031,1031,Ariyah Copeland made Jumper. Assisted by Cierra Johnson.,36,42,-6,22,0.267020134958279,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,Alabama
+227,3,1:49,1009,1009,Caliya Robinson missed Jumper.,36,42,-6,0,0.26448273893712215,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+228,3,1:49,1009,1009,Ariyah Copeland Defensive Rebound.,36,42,-6,10,0.26448273893712215,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+229,3,1:39,999,999,Foul on Taja Cole.,36,42,-6,0,0.26327064804276656,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+230,3,1:39,999,999,Official TV Timeout,36,42,-6,0,0.26327064804276656,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+231,3,1:39,999,999,Cierra Johnson missed Free Throw.,36,42,-6,0,0.26327064804276656,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+232,3,1:39,999,999,Alabama Deadball Team Rebound.,36,42,-6,0,0.26327064804276656,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+233,3,1:39,999,999,Cierra Johnson made Free Throw.,37,42,-5,12,0.2978553069206868,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,Alabama
+234,3,1:27,987,987,Caliya Robinson made Jumper.,37,44,-7,24,0.22976578734550404,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,Georgia
+235,3,1:03,963,963,Jasmine Walker Turnover.,37,44,-7,1,0.22637388050768992,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+236,3,1:02,962,962,Gabby Connally Steal.,37,44,-7,3,0.22623538300026788,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+237,3,0:59,959,959,Foul on Taylor Berry.,37,44,-7,0,0.22582491466551136,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+238,3,0:59,959,959,Caliya Robinson made Free Throw.,37,45,-8,0,0.1965428296017064,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,Georgia
+239,3,0:59,959,959,Caliya Robinson missed Free Throw.,37,45,-8,0,0.1965428296017064,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+240,3,0:59,959,959,Jasmine Walker Defensive Rebound.,37,45,-8,11,0.1965428296017064,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+241,3,0:48,948,948,Foul on Caitlin Hose.,37,45,-8,0,0.19505235991328307,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+242,3,0:48,948,948,Cierra Johnson made Free Throw.,38,45,-7,0,0.2243801947437711,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,Alabama
+243,3,0:48,948,948,Cierra Johnson made Free Throw.,39,45,-6,11,0.25671140002252557,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,Alabama
+244,3,0:37,937,937,Caliya Robinson made Jumper.,39,47,-8,12,0.19365028288187477,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,Georgia
+245,3,0:25,925,925,Cierra Johnson missed Three Point Jumper.,39,47,-8,0,0.1922043969446781,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+246,3,0:25,925,925,Que Morrison Defensive Rebound.,39,47,-8,1,0.1922043969446781,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+247,3,0:24,924,924,Foul on Shaquera Wade.,39,47,-8,0,0.1920872868430405,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+248,3,0:24,924,924,Que Morrison made Free Throw.,39,48,-9,0,0.1657479721447704,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,Georgia
+249,3,0:24,924,924,Que Morrison made Free Throw.,39,49,-10,22,0.14238383427665796,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,Georgia
+250,3,0:02,902,902,Foul on Que Morrison.,39,49,-10,0,0.1399540624029756,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+251,3,0:02,902,902,Cierra Johnson missed Free Throw.,39,49,-10,0,0.1399540624029756,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+252,3,0:02,902,902,Alabama Deadball Team Rebound.,39,49,-10,0,0.1399540624029756,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+253,3,0:02,902,902,Cierra Johnson made Free Throw.,40,49,-9,2,0.1632688744714739,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,Alabama
+254,3,0:00,900,900,End of 3rd Quarter,40,49,-9,9,0.16305123999749047,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+255,4,9:51,891,891,Taylor Berry Turnover.,40,49,-9,21,0.1620822598395342,Alabama,Georgia,4,6,0,0,NA,401091640,2019-02-24,
+256,4,9:30,870,870,Stephanie Paul made Jumper. Assisted by Taja Cole.,40,51,-11,32,0.11628887753810989,Alabama,Georgia,4,6,0,0,NA,401091640,2019-02-24,Georgia
+257,4,8:58,838,838,De'Sha Benjamin made Jumper.,42,51,-9,23,0.1563770096353402,Alabama,Georgia,4,6,0,0,NA,401091640,2019-02-24,Alabama
+258,4,8:35,815,815,Taja Cole missed Jumper.,42,51,-9,0,0.1536706337501955,Alabama,Georgia,4,6,0,0,NA,401091640,2019-02-24,
+259,4,8:35,815,815,Stephanie Paul Offensive Rebound.,42,51,-9,1,0.1536706337501955,Alabama,Georgia,4,6,0,0,NA,401091640,2019-02-24,
+260,4,8:34,814,814,Foul on Taylor Berry.,42,51,-9,1,0.15354707995988545,Alabama,Georgia,4,6,0,0,NA,401091640,2019-02-24,
+261,4,8:33,813,813,Taja Cole Turnover.,42,51,-9,1,0.15342296633241292,Alabama,Georgia,4,6,0,0,NA,401091640,2019-02-24,
+262,4,8:32,812,812,Shaquera Wade Steal.,42,51,-9,3,0.1532982847310447,Alabama,Georgia,4,6,0,0,NA,401091640,2019-02-24,
+263,4,8:29,809,809,Shaquera Wade missed Layup.,42,51,-9,0,0.15292075118127252,Alabama,Georgia,4,6,0,0,NA,401091640,2019-02-24,
+264,4,8:29,809,809,Cierra Johnson Offensive Rebound.,42,51,-9,3,0.15292075118127252,Alabama,Georgia,4,6,0,0,NA,401091640,2019-02-24,
+265,4,8:26,806,806,Foul on Gabby Connally.,42,51,-9,18,0.15253781594301033,Alabama,Georgia,4,6,0,0,NA,401091640,2019-02-24,
+266,4,8:08,788,788,Ariyah Copeland missed Jumper.,42,51,-9,0,0.15011494571929906,Alabama,Georgia,4,6,0,0,NA,401091640,2019-02-24,
+267,4,8:08,788,788,De'Sha Benjamin Offensive Rebound.,42,51,-9,14,0.15011494571929906,Alabama,Georgia,4,6,0,0,NA,401091640,2019-02-24,
+268,4,7:54,774,774,Jasmine Walker missed Three Point Jumper.,42,51,-9,0,0.14806249133026114,Alabama,Georgia,4,6,0,0,NA,401091640,2019-02-24,
+269,4,7:54,774,774,Ariyah Copeland Offensive Rebound.,42,51,-9,2,0.14806249133026114,Alabama,Georgia,4,6,0,0,NA,401091640,2019-02-24,
+270,4,7:52,772,772,Ariyah Copeland made Jumper.,44,51,-7,29,0.20376803459338133,Alabama,Georgia,4,6,0,0,NA,401091640,2019-02-24,Alabama
+271,4,7:23,743,743,Caliya Robinson missed Jumper.,44,51,-7,0,0.1988734906210687,Alabama,Georgia,4,6,0,0,NA,401091640,2019-02-24,
+272,4,7:23,743,743,Cierra Johnson Defensive Rebound.,44,51,-7,8,0.1988734906210687,Alabama,Georgia,4,6,0,0,NA,401091640,2019-02-24,
+273,4,7:15,735,735,Shaquera Wade made Three Point Jumper. Assisted by Cierra Johnson.,47,51,-4,4,0.3096774266364503,Alabama,Georgia,4,6,0,0,NA,401091640,2019-02-24,Alabama
+274,4,7:11,731,731,Georgia  Timeout,47,51,-4,0,0.3090735186671662,Alabama,Georgia,4,5,0,1,NA,401091640,2019-02-24,
+275,4,7:11,731,731,Official TV Timeout,47,51,-4,20,0.3090735186671662,Alabama,Georgia,4,5,0,1,NA,401091640,2019-02-24,
+276,4,6:51,711,711,Taja Cole missed Jumper.,47,51,-4,0,0.30620207548267425,Alabama,Georgia,4,5,0,1,NA,401091640,2019-02-24,
+277,4,6:51,711,711,De'Sha Benjamin Defensive Rebound.,47,51,-4,12,0.30620207548267425,Alabama,Georgia,4,5,0,1,NA,401091640,2019-02-24,
+278,4,6:39,699,699,Foul on Taja Cole.,47,51,-4,0,0.30466139836413814,Alabama,Georgia,4,5,0,1,NA,401091640,2019-02-24,
+279,4,6:39,699,699,Shaquera Wade made Free Throw.,48,51,-3,0,0.35003202328635535,Alabama,Georgia,4,5,0,1,NA,401091640,2019-02-24,Alabama
+280,4,6:39,699,699,Shaquera Wade made Free Throw.,49,51,-2,13,0.3982891017836565,Alabama,Georgia,4,5,0,1,NA,401091640,2019-02-24,Alabama
+281,4,6:26,686,686,Caliya Robinson missed Jumper.,49,51,-2,0,0.397405049736539,Alabama,Georgia,4,5,0,1,NA,401091640,2019-02-24,
+282,4,6:26,686,686,Jasmine Walker Defensive Rebound.,49,51,-2,7,0.397405049736539,Alabama,Georgia,4,5,0,1,NA,401091640,2019-02-24,
+283,4,6:19,679,679,Foul on Gabby Connally.,49,51,-2,11,0.39694653813965525,Alabama,Georgia,4,5,0,1,NA,401091640,2019-02-24,
+284,4,6:08,668,668,Shaquera Wade made Jumper.,51,51,0,18,0.5,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,Alabama
+285,4,5:50,650,650,Gabby Connally missed Jumper.,51,51,0,0,0.5,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+286,4,5:50,650,650,Cierra Johnson Defensive Rebound.,51,51,0,6,0.5,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+287,4,5:44,644,644,Cierra Johnson missed Jumper.,51,51,0,0,0.5,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+288,4,5:44,644,644,Donnetta Johnson Defensive Rebound.,51,51,0,31,0.5,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+289,4,5:13,613,613,Que Morrison made Jumper.,51,53,-2,24,0.392497607084674,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,Georgia
+290,4,4:49,589,589,Shaquera Wade missed Three Point Jumper.,51,53,-2,0,0.39045745874376436,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+291,4,4:49,589,589,Caliya Robinson Defensive Rebound.,51,53,-2,14,0.39045745874376436,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+292,4,4:35,575,575,Donnetta Johnson missed Three Point Jumper.,51,53,-2,0,0.38906756042498825,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+293,4,4:35,575,575,Jasmine Walker Defensive Rebound.,51,53,-2,8,0.38906756042498825,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+294,4,4:27,567,567,Jasmine Walker missed Three Point Jumper.,51,53,-2,0,0.3881933868349289,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+295,4,4:27,567,567,Georgia Defensive Rebound.,51,53,-2,25,0.3881933868349289,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+296,4,4:02,542,542,Gabby Connally made Jumper.,51,55,-4,22,0.2817448939367872,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,Georgia
+297,4,3:40,520,520,Shaquera Wade missed Layup.,51,55,-4,0,0.2777215164608341,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+298,4,3:40,520,520,Caliya Robinson Defensive Rebound.,51,55,-4,8,0.2777215164608341,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,
+299,4,3:32,512,512,Que Morrison made Layup.,51,57,-6,2,0.19100803546112918,Alabama,Georgia,4,5,0,0,NA,401091640,2019-02-24,Georgia
+300,4,3:30,510,510,Alabama  Timeout,51,57,-6,20,0.19063679017277313,Alabama,Georgia,3,5,1,0,NA,401091640,2019-02-24,
+301,4,3:10,490,490,Ariyah Copeland made Jumper. Assisted by Shaquera Wade.,53,57,-4,15,0.2728881198700366,Alabama,Georgia,3,5,1,0,NA,401091640,2019-02-24,Alabama
+302,4,2:55,475,475,Gabby Connally missed Jumper.,53,57,-4,0,0.270281987096458,Alabama,Georgia,3,5,1,0,NA,401091640,2019-02-24,
+303,4,2:55,475,475,Cierra Johnson Defensive Rebound.,53,57,-4,10,0.270281987096458,Alabama,Georgia,3,5,1,0,NA,401091640,2019-02-24,
+304,4,2:45,465,465,Shaquera Wade made Jumper.,55,57,-2,17,0.37717819126699004,Alabama,Georgia,3,5,1,0,NA,401091640,2019-02-24,Alabama
+305,4,2:28,448,448,Gabby Connally Turnover.,55,57,-2,1,0.3748479634266263,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+306,4,2:27,447,447,Cierra Johnson Steal.,55,57,-2,3,0.3746939994625184,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+307,4,2:24,444,444,Cierra Johnson missed Jumper.,55,57,-2,0,0.37421934486655267,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+308,4,2:24,444,444,Cierra Johnson Offensive Rebound.,55,57,-2,3,0.37421934486655267,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+309,4,2:21,441,441,Cierra Johnson made Jumper.,57,57,0,0,0.5,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,Alabama
+310,4,2:21,441,441,Foul on Maya Caldwell.,57,57,0,0,0.5,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+311,4,2:21,441,441,Cierra Johnson made Free Throw.,58,57,1,20,0.5641778019251421,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,Alabama
+312,4,2:01,421,421,Gabby Connally made Jumper.,58,59,-1,19,0.4338745975266907,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,Georgia
+313,4,1:42,402,402,Shaquera Wade missed Jumper.,58,59,-1,0,0.4321211906918114,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+314,4,1:42,402,402,Shaquera Wade Offensive Rebound.,58,59,-1,16,0.4321211906918114,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+315,4,1:26,386,386,Foul on Caliya Robinson.,58,59,-1,0,0.43069003352664775,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+316,4,1:26,386,386,Shaquera Wade missed Free Throw.,58,59,-1,0,0.43069003352664775,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+317,4,1:26,386,386,Alabama Deadball Team Rebound.,58,59,-1,0,0.43069003352664775,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+318,4,1:26,386,386,Shaquera Wade made Free Throw.,59,59,0,12,0.5,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,Alabama
+319,4,1:14,374,374,Taja Cole missed Jumper.,59,59,0,0,0.5,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+320,4,1:14,374,374,Megan Abrams Defensive Rebound.,59,59,0,26,0.5,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+321,4,0:48,348,348,Cierra Johnson Turnover.,59,59,0,30,0.5,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+322,4,0:18,318,318,Taja Cole missed Jumper.,59,59,0,0,0.5,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+323,4,0:18,318,318,Cierra Johnson Defensive Rebound.,59,59,0,3,0.5,Alabama,Georgia,3,5,0,0,NA,401091640,2019-02-24,
+324,4,0:15,315,315,Cierra Johnson Turnover.,59,59,0,0,0.5,Alabama,Georgia,3,5,1,1,NA,401091640,2019-02-24,
+325,4,0:15,315,315,Que Morrison Steal.,59,59,0,0,0.5,Alabama,Georgia,3,5,1,1,NA,401091640,2019-02-24,
+326,4,0:15,315,315,Foul on Cierra Johnson.,59,59,0,0,0.5,Alabama,Georgia,3,5,1,1,NA,401091640,2019-02-24,
+327,4,0:15,315,315,Georgia  Timeout,59,59,0,0,0.5,Alabama,Georgia,3,4,1,1,NA,401091640,2019-02-24,
+328,4,0:15,315,315,Alabama  Timeout,59,59,0,5,0.5,Alabama,Georgia,2,4,1,1,NA,401091640,2019-02-24,
+329,4,0:10,310,310,Taja Cole missed Jumper.,59,59,0,0,0.5,Alabama,Georgia,2,4,1,1,NA,401091640,2019-02-24,
+330,4,0:10,310,310,Stephanie Paul Offensive Rebound.,59,59,0,2,0.5,Alabama,Georgia,2,4,1,1,NA,401091640,2019-02-24,
+331,4,0:08,308,308,Stephanie Paul missed Jumper.,59,59,0,0,0.5,Alabama,Georgia,2,4,1,1,NA,401091640,2019-02-24,
+332,4,0:08,308,308,Ariyah Copeland Block.,59,59,0,0,0.5,Alabama,Georgia,2,4,1,1,NA,401091640,2019-02-24,
+333,4,0:08,308,308,Georgia Offensive Rebound.,59,59,0,0,0.5,Alabama,Georgia,2,4,1,1,NA,401091640,2019-02-24,
+334,4,0:08,308,308,Georgia  Timeout,59,59,0,0,0.5,Alabama,Georgia,2,3,1,1,NA,401091640,2019-02-24,
+335,4,0:08,308,308,Georgia  Timeout,59,59,0,5,0.5,Alabama,Georgia,2,3,1,1,NA,401091640,2019-02-24,
+336,4,0:03,303,303,Gabby Connally missed Jumper.,59,59,0,0,0.5,Alabama,Georgia,2,3,1,1,NA,401091640,2019-02-24,
+337,4,0:03,303,303,Ashley Knight Defensive Rebound.,59,59,0,3,0.5,Alabama,Georgia,2,3,1,1,NA,401091640,2019-02-24,
+338,4,0:00,300,300,End of 4th Quarter,59,59,0,18,0.5,Alabama,Georgia,2,3,1,1,NA,401091640,2019-02-24,
+339,5,4:42,282,282,Caliya Robinson made Jumper. Assisted by Gabby Connally.,59,61,-2,20,0.343236818191074,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,Georgia
+340,5,4:22,262,262,Ariyah Copeland Turnover.,59,61,-2,26,0.34548429737347536,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+341,5,3:56,236,236,Stephanie Paul missed Jumper.,59,61,-2,0,0.34787389687019926,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+342,5,3:56,236,236,Que Morrison Offensive Rebound.,59,61,-2,4,0.34787389687019926,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+343,5,3:52,232,232,Que Morrison Turnover.,59,61,-2,29,0.34777114652866264,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+344,5,3:23,203,203,Ariyah Copeland missed Jumper.,59,61,-2,0,0.33939934220967827,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+345,5,3:23,203,203,Jasmine Walker Offensive Rebound.,59,61,-2,1,0.33939934220967827,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+346,5,3:22,202,202,Jasmine Walker made Jumper.,61,61,0,0,0.5,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,Alabama
+347,5,3:22,202,202,Foul on Caliya Robinson.,61,61,0,0,0.5,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+348,5,3:22,202,202,Jasmine Walker missed Free Throw.,61,61,0,0,0.5,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+349,5,3:22,202,202,Caliya Robinson Defensive Rebound.,61,61,0,24,0.5,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+350,5,2:58,178,178,Gabby Connally missed Three Point Jumper.,61,61,0,0,0.5,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+351,5,2:58,178,178,Stephanie Paul Offensive Rebound.,61,61,0,3,0.5,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+352,5,2:55,175,175,Foul on Shaquera Wade.,61,61,0,1,0.5,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+353,5,2:54,174,174,Caliya Robinson made Jumper. Assisted by Taja Cole.,61,63,-2,0,0.31493571200350956,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,Georgia
+354,5,2:54,174,174,Foul on Ariyah Copeland.,61,63,-2,0,0.31493571200350956,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+355,5,2:54,174,174,Caliya Robinson made Free Throw.,61,64,-3,30,0.2376301678021617,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,Georgia
+356,5,2:24,144,144,Jasmine Walker missed Jumper.,61,64,-3,0,0.20121745842773786,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+357,5,2:24,144,144,Taja Cole Defensive Rebound.,61,64,-3,21,0.20121745842773786,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+358,5,2:03,123,123,Taja Cole made Jumper. Assisted by Que Morrison.,61,66,-5,13,0.06874882714712816,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,Georgia
+359,5,1:50,110,110,Cierra Johnson made Jumper.,63,66,-3,32,0.15446418786755572,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,Alabama
+360,5,1:18,78,78,Stephanie Paul made Jumper. Assisted by Taja Cole.,63,68,-5,16,0.028587739601403407,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,Georgia
+361,5,1:02,62,62,Foul on Que Morrison.,63,68,-5,0,0.019253541270636203,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+362,5,1:02,62,62,Megan Abrams made Free Throw.,64,68,-4,0,0.04130873243484307,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,Alabama
+363,5,1:02,62,62,Megan Abrams made Free Throw.,65,68,-3,12,0.08640266662584788,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,Alabama
+364,5,0:50,50,50,Taja Cole made Jumper.,65,70,-5,12,0.013951928778082122,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,Georgia
+365,5,0:38,38,38,Cierra Johnson missed Jumper.,65,70,-5,0,0.00985850254275146,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+366,5,0:38,38,38,Caliya Robinson Defensive Rebound.,65,70,-5,8,0.00985850254275146,Alabama,Georgia,3,4,0,0,NA,401091640,2019-02-24,
+367,5,0:30,30,30,Foul on Megan Abrams.,65,70,-5,0,0.007715303838717683,Alabama,Georgia,3,4,1,0,NA,401091640,2019-02-24,
+368,5,0:30,30,30,Gabby Connally made Free Throw.,65,71,-6,0,0.0029348346104883754,Alabama,Georgia,3,4,1,0,NA,401091640,2019-02-24,Georgia
+369,5,0:30,30,30,Gabby Connally made Free Throw.,65,72,-7,0,0.0011130630613296858,Alabama,Georgia,3,4,1,0,NA,401091640,2019-02-24,Georgia
+370,5,0:30,30,30,Alabama  Timeout,65,72,-7,0,0.0011130630613296858,Alabama,Georgia,2,4,1,0,NA,401091640,2019-02-24,
+371,5,0:30,30,30,Official TV Timeout,65,72,-7,4,0.0011130630613296858,Alabama,Georgia,2,4,1,0,NA,401091640,2019-02-24,
+372,5,0:26,26,26,Megan Abrams missed Three Point Jumper.,65,72,-7,0,9.321919274303346e-4,Alabama,Georgia,2,4,1,0,NA,401091640,2019-02-24,
+373,5,0:26,26,26,Que Morrison Defensive Rebound.,65,72,-7,4,9.321919274303346e-4,Alabama,Georgia,2,4,1,0,NA,401091640,2019-02-24,
+374,5,0:22,22,22,Foul on Megan Abrams.,65,72,-7,0,7.786757560310607e-4,Alabama,Georgia,2,4,1,0,NA,401091640,2019-02-24,
+375,5,0:22,22,22,Que Morrison made Free Throw.,65,73,-8,0,2.802396995516709e-4,Alabama,Georgia,2,4,1,0,NA,401091640,2019-02-24,Georgia
+376,5,0:22,22,22,Que Morrison made Free Throw.,65,74,-9,5,1.0082402143373687e-4,Alabama,Georgia,2,4,1,0,NA,401091640,2019-02-24,Georgia
+377,5,0:17,17,17,Cierra Johnson made Jumper.,67,74,-7,7,6.174475591634666e-4,Alabama,Georgia,2,4,1,0,NA,401091640,2019-02-24,Alabama
+378,5,0:10,10,10,Foul on Megan Abrams.,67,74,-7,0,4.4019296571067674e-4,Alabama,Georgia,2,4,1,0,NA,401091640,2019-02-24,
+379,5,0:10,10,10,Caliya Robinson made Free Throw.,67,75,-8,0,1.459885066778675e-4,Alabama,Georgia,2,4,1,0,NA,401091640,2019-02-24,Georgia
+380,5,0:10,10,10,Caliya Robinson made Free Throw.,67,76,-9,2,4.840707135609436e-5,Alabama,Georgia,2,4,1,0,NA,401091640,2019-02-24,Georgia
+381,5,0:08,8,8,Jasmine Walker missed Three Point Jumper.,67,76,-9,0,4.261128391662958e-5,Alabama,Georgia,2,4,1,0,NA,401091640,2019-02-24,
+382,5,0:08,8,8,Que Morrison Defensive Rebound.,67,76,-9,8,4.261128391662958e-5,Alabama,Georgia,2,4,1,0,NA,401091640,2019-02-24,
+383,5,0:00,0,0,End of Game,67,76,-9,0,6.714184288211594e-79,Alabama,Georgia,2,4,1,0,NA,401091640,2019-02-24,
