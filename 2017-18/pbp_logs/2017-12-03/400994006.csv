@@ -1,0 +1,358 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:55,2395,2395,Lauren Cox made Jumper. Assisted by Kristy Wallace.,0,0,0,16,0.5,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,NA
+2,1,9:39,2379,2379,DiJonai Carrington missed Jumper.,2,0,2,0,0.5444690188682871,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Baylor
+3,1,9:39,2379,2379,Lauren Cox Defensive Rebound.,2,0,2,13,0.5444690188682871,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+4,1,9:26,2366,2366,Lauren Cox missed Jumper.,2,0,2,0,0.5447463102877513,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+5,1,9:26,2366,2366,Kaylee Johnson Defensive Rebound.,2,0,2,5,0.5447463102877513,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+6,1,9:21,2361,2361,Kaylee Johnson Turnover.,2,0,2,1,0.5448535841976563,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+7,1,9:20,2360,2360,Natalie Chou Steal.,2,0,2,1,0.5448750795359576,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+8,1,9:19,2359,2359,Natalie Chou missed Jumper.,2,0,2,0,0.5448965882700816,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+9,1,9:19,2359,2359,Kaylee Johnson Defensive Rebound.,2,0,2,17,0.5448965882700816,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+10,1,9:02,2342,2342,Alanna Smith missed Three Point Jumper.,2,0,2,0,0.5452642352579568,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+11,1,9:02,2342,2342,Kristy Wallace Defensive Rebound.,2,0,2,9,0.5452642352579568,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+12,1,8:53,2333,2333,Kalani Brown made Jumper. Assisted by Kristy Wallace.,4,0,4,32,0.5901752492294253,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Baylor
+13,1,8:21,2301,2301,DiJonai Carrington missed Jumper.,4,0,4,0,0.5915499701662879,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+14,1,8:21,2301,2301,Kristy Wallace Defensive Rebound.,4,0,4,9,0.5915499701662879,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+15,1,8:12,2292,2292,Foul on DiJonai Carrington.,4,0,4,0,0.5919402635064219,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+16,1,8:12,2292,2292,Kalani Brown missed Free Throw.,4,0,4,0,0.5919402635064219,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+17,1,8:12,2292,2292,Baylor Deadball Team Rebound.,4,0,4,0,0.5919402635064219,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+18,1,8:12,2292,2292,Kalani Brown made Free Throw.,5,0,5,16,0.6141973166990529,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Baylor
+19,1,7:56,2276,2276,Kaylee Johnson Turnover.,5,0,5,2,0.615052404202779,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+20,1,7:54,2274,2274,Kristy Wallace Steal.,5,0,5,10,0.6151596447430283,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+21,1,7:44,2264,2264,Dekeiya Cohen missed Jumper.,5,0,5,0,0.6156969569824661,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+22,1,7:44,2264,2264,Lauren Cox Offensive Rebound.,5,0,5,2,0.6156969569824661,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+23,1,7:42,2262,2262,Lauren Cox made Jumper.,7,0,7,5,0.6593704518124749,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Baylor
+24,1,7:37,2257,2257,Alexa Romano Turnover.,7,0,7,1,0.6597285805727143,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+25,1,7:36,2256,2256,Natalie Chou Steal.,7,0,7,10,0.6598002628181441,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+26,1,7:26,2246,2246,Lauren Cox made Jumper. Assisted by Dekeiya Cohen.,9,0,9,1,0.7017774394906969,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Baylor
+27,1,7:25,2245,2245,Stanford  Timeout,9,0,9,13,0.7018636873351541,Baylor,Stanford,3,4,1,0,NA,400994006,2017-12-03,
+28,1,7:12,2232,2232,Alanna Smith missed Jumper.,9,0,9,0,0.7029861328370819,Baylor,Stanford,3,4,1,0,NA,400994006,2017-12-03,
+29,1,7:12,2232,2232,Lauren Cox Block.,9,0,9,2,0.7029861328370819,Baylor,Stanford,3,4,1,0,NA,400994006,2017-12-03,
+30,1,7:10,2230,2230,Lauren Cox Defensive Rebound.,9,0,9,3,0.7031590011771066,Baylor,Stanford,3,4,1,0,NA,400994006,2017-12-03,
+31,1,7:07,2227,2227,Lauren Cox Turnover.,9,0,9,1,0.703418386211772,Baylor,Stanford,3,4,1,0,NA,400994006,2017-12-03,
+32,1,7:06,2226,2226,Alanna Smith Steal.,9,0,9,20,0.7035048690381862,Baylor,Stanford,3,4,1,0,NA,400994006,2017-12-03,
+33,1,6:46,2206,2206,Nadia Fingall missed Three Point Jumper.,9,0,9,0,0.7052363870033961,Baylor,Stanford,3,4,1,0,NA,400994006,2017-12-03,
+34,1,6:46,2206,2206,Lauren Cox Defensive Rebound.,9,0,9,9,0.7052363870033961,Baylor,Stanford,3,4,1,0,NA,400994006,2017-12-03,
+35,1,6:37,2197,2197,Dekeiya Cohen Turnover.,9,0,9,12,0.7060164492644064,Baylor,Stanford,3,4,1,0,NA,400994006,2017-12-03,
+36,1,6:25,2185,2185,Kiana Williams made Three Point Jumper. Assisted by DiJonai Carrington.,9,3,6,18,0.6427734629890032,Baylor,Stanford,3,4,1,0,NA,400994006,2017-12-03,Stanford
+37,1,6:07,2167,2167,Kalani Brown made Jumper. Assisted by Lauren Cox.,11,3,8,15,0.6878184723339954,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,Baylor
+38,1,5:52,2152,2152,DiJonai Carrington Turnover.,11,3,8,5,0.6890232893342941,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+39,1,5:47,2147,2147,Kristy Wallace Steal.,11,3,8,1,0.6894256976369034,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+40,1,5:46,2146,2146,Foul on Kiana Williams.,11,3,8,0,0.6895062296086558,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+41,1,5:46,2146,2146,Natalie Chou made Free Throw.,12,3,9,0,0.7104433765801699,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,Baylor
+42,1,5:46,2146,2146,Natalie Chou made Free Throw.,13,3,10,10,0.7305204792449916,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,Baylor
+43,1,5:36,2136,2136,Alanna Smith missed Three Point Jumper.,13,3,10,0,0.7314468760810724,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+44,1,5:36,2136,2136,Alexis Morris Defensive Rebound.,13,3,10,10,0.7314468760810724,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+45,1,5:26,2126,2126,Kalani Brown missed Jumper.,13,3,10,0,0.7323746500552958,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+46,1,5:26,2126,2126,Lauren Cox Offensive Rebound.,13,3,10,6,0.7323746500552958,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+47,1,5:20,2120,2120,Lauren Cox missed Jumper.,13,3,10,0,0.7329320204704511,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+48,1,5:20,2120,2120,Anna Wilson Defensive Rebound.,13,3,10,8,0.7329320204704511,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+49,1,5:12,2112,2112,Foul on Alanna Smith.,13,3,10,0,0.7336760527010444,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+50,1,5:12,2112,2112,Alanna Smith Turnover.,13,3,10,16,0.7336760527010444,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+51,1,4:56,2096,2096,Lauren Cox missed Three Point Jumper.,13,3,10,0,0.7351673088674519,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+52,1,4:56,2096,2096,Alyssa Jerome Defensive Rebound.,13,3,10,8,0.7351673088674519,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+53,1,4:48,2088,2088,Alyssa Jerome missed Jumper.,13,3,10,0,0.7359146398372904,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+54,1,4:48,2088,2088,Lauren Cox Block.,13,3,10,0,0.7359146398372904,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+55,1,4:48,2088,2088,Baylor Defensive Rebound.,13,3,10,11,0.7359146398372904,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+56,1,4:37,2077,2077,Kalani Brown made Jumper. Assisted by Kristy Wallace.,15,3,12,30,0.7748975500519462,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,Baylor
+57,1,4:07,2047,2047,Foul on Alexis Morris.,15,3,12,0,0.7779389048480089,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+58,1,4:07,2047,2047,Kiana Williams made Free Throw.,15,4,11,0,0.7593685686383168,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,Stanford
+59,1,4:07,2047,2047,Kiana Williams made Free Throw.,15,5,10,13,0.739764750715966,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,Stanford
+60,1,3:54,2034,2034,Natalie Chou made Jumper.,17,5,12,15,0.7792609635651663,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,Baylor
+61,1,3:39,2019,2019,Shannon Coffee missed Three Point Jumper.,17,5,12,0,0.780789901461555,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+62,1,3:39,2019,2019,Alexis Morris Defensive Rebound.,17,5,12,12,0.780789901461555,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+63,1,3:27,2007,2007,Alexis Morris Turnover.,17,5,12,6,0.7820159331536589,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+64,1,3:21,2001,2001,Kiana Williams missed Jumper.,17,5,12,0,0.7826299610056001,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+65,1,3:21,2001,2001,Natalie Chou Defensive Rebound.,17,5,12,15,0.7826299610056001,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+66,1,3:06,1986,1986,Kristy Wallace missed Three Point Jumper.,17,5,12,0,0.7841681283538685,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+67,1,3:06,1986,1986,Kaylee Johnson Defensive Rebound.,17,5,12,9,0.7841681283538685,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+68,1,2:57,1977,1977,Kiana Williams missed Three Point Jumper.,17,5,12,0,0.7850932415684846,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+69,1,2:57,1977,1977,Baylor Deadball Team Rebound.,17,5,12,2,0.7850932415684846,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+70,1,2:55,1975,1975,Foul on Kaylee Johnson.,17,5,12,11,0.7852990553256338,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+71,1,2:44,1964,1964,Kalani Brown Turnover.,17,5,12,19,0.7864325868876402,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+72,1,2:25,1945,1945,Kaylee Johnson Turnover.,17,5,12,1,0.7883969385526415,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+73,1,2:24,1944,1944,Natalie Chou Steal.,17,5,12,10,0.788500558909404,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+74,1,2:14,1934,1934,Dekeiya Cohen missed Jumper.,17,5,12,0,0.7895380860183904,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+75,1,2:14,1934,1934,Alanna Smith Defensive Rebound.,17,5,12,9,0.7895380860183904,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+76,1,2:05,1925,1925,DiJonai Carrington missed Layup.,17,5,12,0,0.7904729263083103,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+77,1,2:05,1925,1925,Juicy Landrum Defensive Rebound.,17,5,12,6,0.7904729263083103,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+78,1,1:59,1919,1919,Foul on Kaylee Johnson.,17,5,12,0,0.791094078683061,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+79,1,1:59,1919,1919,Kristy Wallace missed Free Throw.,17,5,12,0,0.791094078683061,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+80,1,1:59,1919,1919,Baylor Deadball Team Rebound.,17,5,12,0,0.791094078683061,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+81,1,1:59,1919,1919,Kristy Wallace made Free Throw.,18,5,13,18,0.8088405579509707,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,Baylor
+82,1,1:41,1901,1901,Kiana Williams missed Three Point Jumper.,18,5,13,0,0.8107175815538603,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+83,1,1:41,1901,1901,Kristy Wallace Defensive Rebound.,18,5,13,7,0.8107175815538603,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+84,1,1:34,1894,1894,Juicy Landrum missed Three Point Jumper.,18,5,13,0,0.8114432602143538,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+85,1,1:34,1894,1894,Kalani Brown Offensive Rebound.,18,5,13,2,0.8114432602143538,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+86,1,1:32,1892,1892,Kalani Brown made Jumper.,20,5,15,0,0.8436317494982706,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,Baylor
+87,1,1:32,1892,1892,Foul on Alanna Smith.,20,5,15,1,0.8436317494982706,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+88,1,1:31,1891,1891,Kalani Brown made Free Throw.,21,5,16,22,0.8579908363737737,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,Baylor
+89,1,1:09,1869,1869,Kiana Williams missed Three Point Jumper.,21,5,16,0,0.8602102835180657,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+90,1,1:09,1869,1869,Maya Dodson Offensive Rebound.,21,5,16,15,0.8602102835180657,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+91,1,0:54,1854,1854,Nadia Fingall missed Three Point Jumper.,21,5,16,0,0.8617109616661843,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+92,1,0:54,1854,1854,Kristy Wallace Defensive Rebound.,21,5,16,2,0.8617109616661843,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+93,1,0:52,1852,1852,Foul on Nadia Fingall.,21,5,16,0,0.8619104108442893,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+94,1,0:52,1852,1852,Kristy Wallace made Free Throw.,22,5,17,0,0.8749771994978848,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,Baylor
+95,1,0:52,1852,1852,Kristy Wallace made Free Throw.,23,5,18,3,0.8869696847343284,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,Baylor
+96,1,0:49,1849,1849,Marta Sniezek Turnover.,23,5,18,0,0.8872528938120329,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+97,1,0:49,1849,1849,Juicy Landrum Steal.,23,5,18,17,0.8872528938120329,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+98,1,0:32,1832,1832,Didi Richards missed Jumper.,23,5,18,0,0.888850971376198,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+99,1,0:32,1832,1832,DiJonai Carrington Defensive Rebound.,23,5,18,8,0.888850971376198,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+100,1,0:24,1824,1824,Kiana Williams made Three Point Jumper.,23,8,15,19,0.8505448330916833,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,Stanford
+101,1,0:05,1805,1805,Kristy Wallace made Jumper.,25,8,17,5,0.8795186704920318,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,Baylor
+102,1,0:00,1800,1800,End of 1st Quarter,25,8,17,25,0.8799989626675139,Baylor,Stanford,3,4,0,0,NA,400994006,2017-12-03,
+103,2,9:35,1775,1775,Anna Wilson missed Three Point Jumper.,25,8,17,0,0.8823969267365078,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+104,2,9:35,1775,1775,Maya Dodson Offensive Rebound.,25,8,17,7,0.8823969267365078,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+105,2,9:28,1768,1768,Kiana Williams made Layup.,25,10,15,22,0.8561838277136767,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Stanford
+106,2,9:06,1746,1746,Lauren Cox missed Jumper.,25,10,15,0,0.8584073133584886,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+107,2,9:06,1746,1746,Dekeiya Cohen Offensive Rebound.,25,10,15,2,0.8584073133584886,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+108,2,9:04,1744,1744,Foul on Alanna Smith.,25,10,15,10,0.8586099758447672,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+109,2,8:54,1734,1734,Kalani Brown made Jumper. Assisted by Natalie Chou.,27,10,17,25,0.8863312037956971,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Baylor
+110,2,8:29,1709,1709,Alyssa Jerome missed Jumper.,27,10,17,0,0.888741349688306,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+111,2,8:29,1709,1709,Lauren Cox Block.,27,10,17,2,0.888741349688306,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+112,2,8:27,1707,1707,Kristy Wallace Defensive Rebound.,27,10,17,6,0.8889347556519717,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+113,2,8:21,1701,1701,Lauren Cox made Layup. Assisted by Natalie Chou.,29,10,19,16,0.9114275446470614,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Baylor
+114,2,8:05,1685,1685,Maya Dodson missed Jumper.,29,10,19,0,0.9128495192353602,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+115,2,8:05,1685,1685,Lauren Cox Defensive Rebound.,29,10,19,14,0.9128495192353602,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+116,2,7:51,1671,1671,Lauren Cox Turnover.,29,10,19,12,0.9140611214877989,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+117,2,7:39,1659,1659,Foul on Kristy Wallace.,29,10,19,0,0.915070055656211,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+118,2,7:39,1659,1659,Anna Wilson made Free Throw.,29,11,18,0,0.9048280334543002,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Stanford
+119,2,7:39,1659,1659,Anna Wilson made Free Throw.,29,12,17,9,0.8934946437459325,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Stanford
+120,2,7:30,1650,1650,Kalani Brown made Jumper. Assisted by Lauren Cox.,31,12,19,14,0.9158110069492201,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Baylor
+121,2,7:16,1636,1636,Anna Wilson made Three Point Jumper. Assisted by Maya Dodson.,31,15,16,12,0.8831187723128464,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Stanford
+122,2,7:04,1624,1624,Lauren Cox missed Three Point Jumper.,31,15,16,0,0.8842028325159542,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+123,2,7:04,1624,1624,Anna Wilson Defensive Rebound.,31,15,16,20,0.8842028325159542,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+124,2,6:44,1604,1604,Kiana Williams missed Three Point Jumper.,31,15,16,0,0.8859797876658402,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+125,2,6:44,1604,1604,Maya Dodson Offensive Rebound.,31,15,16,4,0.8859797876658402,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+126,2,6:40,1600,1600,Maya Dodson missed Jumper.,31,15,16,0,0.8863317842192957,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+127,2,6:40,1600,1600,Kalani Brown Defensive Rebound.,31,15,16,8,0.8863317842192957,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+128,2,6:32,1592,1592,Kalani Brown made Jumper. Assisted by Alexis Morris.,33,15,18,15,0.9103885403782339,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Baylor
+129,2,6:17,1577,1577,Shannon Coffee made Three Point Jumper. Assisted by Alyssa Jerome.,33,18,15,22,0.8748239686270433,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Stanford
+130,2,5:55,1555,1555,Natalie Chou missed Three Point Jumper.,33,18,15,0,0.8768086579002929,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+131,2,5:55,1555,1555,Baylor Offensive Rebound.,33,18,15,4,0.8768086579002929,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+132,2,5:51,1551,1551,Dekeiya Cohen missed Jumper.,33,18,15,0,0.8771704943412483,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+133,2,5:51,1551,1551,Kaylee Johnson Defensive Rebound.,33,18,15,16,0.8771704943412483,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+134,2,5:35,1535,1535,Shannon Coffee missed Jumper.,33,18,15,0,0.8786245500376836,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+135,2,5:35,1535,1535,Dekeiya Cohen Defensive Rebound.,33,18,15,9,0.8786245500376836,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+136,2,5:26,1526,1526,Dekeiya Cohen missed Jumper.,33,18,15,0,0.8794488988630661,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+137,2,5:26,1526,1526,Kaylee Johnson Defensive Rebound.,33,18,15,10,0.8794488988630661,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+138,2,5:16,1516,1516,Anna Wilson missed Three Point Jumper.,33,18,15,0,0.8803719895025963,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+139,2,5:16,1516,1516,Dekeiya Cohen Defensive Rebound.,33,18,15,20,0.8803719895025963,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+140,2,4:56,1496,1496,Dekeiya Cohen missed Jumper.,33,18,15,0,0.8822464920347765,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+141,2,4:56,1496,1496,Kaylee Johnson Defensive Rebound.,33,18,15,16,0.8822464920347765,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+142,2,4:40,1480,1480,Anna Wilson missed Three Point Jumper.,33,18,15,0,0.8837794915655338,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+143,2,4:40,1480,1480,Kaylee Johnson Offensive Rebound.,33,18,15,5,0.8837794915655338,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+144,2,4:35,1475,1475,Kiana Williams made Three Point Jumper. Assisted by Kaylee Johnson.,33,21,12,24,0.8357263616208085,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Stanford
+145,2,4:11,1451,1451,Kristy Wallace missed Jumper.,33,21,12,1,0.8382946171745399,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+146,2,4:10,1450,1450,Stanford Defensive Rebound.,33,21,12,0,0.8384041585844259,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+147,2,4:10,1450,1450,Official TV Timeout,33,21,12,1,0.8384041585844259,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+148,2,4:09,1449,1449,Official TV Timeout,33,21,12,19,0.8385136493316669,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+149,2,3:50,1430,1430,Kiana Williams missed Three Point Jumper.,33,21,12,0,0.8405386097283285,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+150,2,3:50,1430,1430,DiJonai Carrington Offensive Rebound.,33,21,12,4,0.8405386097283285,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+151,2,3:46,1426,1426,DiJonai Carrington made Jumper.,33,23,10,0,0.8002374172957119,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Stanford
+152,2,3:46,1426,1426,Foul on Natalie Chou.,33,23,10,0,0.8002374172957119,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+153,2,3:46,1426,1426,DiJonai Carrington made Free Throw.,33,24,9,11,0.7771268802542937,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Stanford
+154,2,3:35,1415,1415,Alexis Morris missed Jumper.,33,24,9,1,0.7782164628190318,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+155,2,3:34,1414,1414,Kaylee Johnson Defensive Rebound.,33,24,9,17,0.7783144373740556,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+156,2,3:17,1397,1397,Foul on Juicy Landrum.,33,24,9,26,0.7799572066719958,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+157,2,2:51,1371,1371,Alexa Romano missed Jumper.,33,24,9,0,0.7824120010559604,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+158,2,2:51,1371,1371,Stanford Offensive Rebound.,33,24,9,3,0.7824120010559604,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+159,2,2:48,1368,1368,Maya Dodson Turnover.,33,24,9,15,0.7826928125884156,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+160,2,2:33,1353,1353,Kalani Brown made Layup. Assisted by Lauren Cox.,35,24,11,15,0.828678735887272,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Baylor
+161,2,2:18,1338,1338,Alyssa Jerome Turnover.,35,24,11,0,0.8301196959223167,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+162,2,2:18,1338,1338,Alexis Morris Steal.,35,24,11,10,0.8301196959223167,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+163,2,2:08,1328,1328,Foul on Kaylee Johnson.,35,24,11,4,0.8310864269669515,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+164,2,2:04,1324,1324,Lauren Cox missed Jumper.,35,24,11,0,0.8314752728220356,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+165,2,2:04,1324,1324,Maya Dodson Block.,35,24,11,0,0.8314752728220356,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+166,2,2:04,1324,1324,Baylor Offensive Rebound.,35,24,11,1,0.8314752728220356,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+167,2,2:03,1323,1323,Juicy Landrum missed Jumper.,35,24,11,0,0.8315727124674372,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+168,2,2:03,1323,1323,Shannon Coffee Defensive Rebound.,35,24,11,9,0.8315727124674372,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+169,2,1:54,1314,1314,Maya Dodson made Layup. Assisted by Kiana Williams.,35,26,9,0,0.7877884344985194,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Stanford
+170,2,1:54,1314,1314,Foul on Kalani Brown.,35,26,9,0,0.7877884344985194,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+171,2,1:54,1314,1314,Maya Dodson missed Free Throw.,35,26,9,0,0.7877884344985194,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+172,2,1:54,1314,1314,Juicy Landrum Defensive Rebound.,35,26,9,15,0.7877884344985194,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+173,2,1:39,1299,1299,Alexis Morris missed Jumper.,35,26,9,0,0.7892535913496046,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+174,2,1:39,1299,1299,Alexa Romano Defensive Rebound.,35,26,9,9,0.7892535913496046,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+175,2,1:30,1290,1290,Kiana Williams missed Three Point Jumper.,35,26,9,0,0.7901509497379915,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+176,2,1:30,1290,1290,Kalani Brown Defensive Rebound.,35,26,9,12,0.7901509497379915,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+177,2,1:18,1278,1278,Lauren Cox missed Three Point Jumper.,35,26,9,0,0.7913728382702102,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+178,2,1:18,1278,1278,Stanford Defensive Rebound.,35,26,9,12,0.7913728382702102,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+179,2,1:06,1266,1266,Foul on Maya Dodson.,35,26,9,0,0.7926279756357272,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+180,2,1:06,1266,1266,Maya Dodson Turnover.,35,26,9,10,0.7926279756357272,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+181,2,0:56,1256,1256,Natalie Chou missed Three Point Jumper.,35,26,9,0,0.7937025665738734,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+182,2,0:56,1256,1256,Dekeiya Cohen Offensive Rebound.,35,26,9,20,0.7937025665738734,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+183,2,0:36,1236,1236,Kalani Brown made Layup.,37,26,11,20,0.8407182947826116,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Baylor
+184,2,0:16,1216,1216,Alexa Romano missed Three Point Jumper.,37,26,11,0,0.8431048413320295,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+185,2,0:16,1216,1216,Juicy Landrum Defensive Rebound.,37,26,11,14,0.8431048413320295,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+186,2,0:02,1202,1202,Kristy Wallace made Jumper.,39,26,13,2,0.8810897454872961,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,Baylor
+187,2,0:00,1200,1200,End of 2nd Quarter,39,26,13,14,0.881320024494264,Baylor,Stanford,4,4,0,0,NA,400994006,2017-12-03,
+188,3,9:46,1186,1186,Kalani Brown Turnover.,39,26,13,12,0.8828975578167243,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+189,3,9:34,1174,1174,Shannon Coffee missed Three Point Jumper.,39,26,13,0,0.8842079159719262,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+190,3,9:34,1174,1174,Juicy Landrum Defensive Rebound.,39,26,13,17,0.8842079159719262,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+191,3,9:17,1157,1157,Juicy Landrum missed Three Point Jumper.,39,26,13,0,0.8860125399209862,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+192,3,9:17,1157,1157,Kaylee Johnson Defensive Rebound.,39,26,13,24,0.8860125399209862,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+193,3,8:53,1133,1133,Kaylee Johnson made Jumper.,39,28,11,24,0.8527230549945416,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Stanford
+194,3,8:29,1109,1109,Kristy Wallace missed Jumper.,39,28,11,0,0.8553478556525942,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+195,3,8:29,1109,1109,Kaylee Johnson Defensive Rebound.,39,28,11,10,0.8553478556525942,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+196,3,8:19,1099,1099,Shannon Coffee made Three Point Jumper. Assisted by Anna Wilson.,39,31,8,5,0.7856607335280045,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Stanford
+197,3,8:14,1094,1094,Foul on Kaylee Johnson.,39,31,8,8,0.7862104660873305,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+198,3,8:06,1086,1086,Natalie Chou missed Jumper.,39,31,8,0,0.7870965692774773,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+199,3,8:06,1086,1086,Kristy Wallace Offensive Rebound.,39,31,8,5,0.7870965692774773,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+200,3,8:01,1081,1081,Natalie Chou made Three Point Jumper. Assisted by Kristy Wallace.,42,31,11,17,0.858442897715837,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Baylor
+201,3,7:44,1064,1064,Kaylee Johnson missed Jumper.,42,31,11,0,0.8603692900213016,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+202,3,7:44,1064,1064,Kalani Brown Block.,42,31,11,3,0.8603692900213016,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+203,3,7:41,1061,1061,Juicy Landrum Defensive Rebound.,42,31,11,9,0.8607145018556133,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+204,3,7:32,1052,1052,Kalani Brown made Jumper.,44,31,13,1,0.8968516502758016,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Baylor
+205,3,7:31,1051,1051,Foul on Kaylee Johnson.,44,31,13,0,0.8969593743071813,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+206,3,7:31,1051,1051,Kalani Brown made Free Throw.,45,31,14,14,0.911358815204395,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Baylor
+207,3,7:17,1037,1037,Maya Dodson missed Jumper.,45,31,14,0,0.9127969162458239,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+208,3,7:17,1037,1037,Juicy Landrum Defensive Rebound.,45,31,14,9,0.9127969162458239,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+209,3,7:08,1028,1028,Kristy Wallace missed Layup.,45,31,14,0,0.9137413896349533,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+210,3,7:08,1028,1028,Maya Dodson Defensive Rebound.,45,31,14,4,0.9137413896349533,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+211,3,7:04,1024,1024,Alanna Smith missed Three Point Jumper.,45,31,14,0,0.9141666677002979,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+212,3,7:04,1024,1024,Alanna Smith Offensive Rebound.,45,31,14,4,0.9141666677002979,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+213,3,7:00,1020,1020,Foul on Natalie Chou.,45,31,14,0,0.9145955184876778,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+214,3,7:00,1020,1020,Alanna Smith missed Free Throw.,45,31,14,0,0.9145955184876778,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+215,3,7:00,1020,1020,Stanford Deadball Team Rebound.,45,31,14,0,0.9145955184876778,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+216,3,7:00,1020,1020,Alanna Smith made Free Throw.,45,32,13,13,0.9004038826476578,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Stanford
+217,3,6:47,1007,1007,Kalani Brown missed Jumper.,45,32,13,0,0.9019187692833157,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+218,3,6:47,1007,1007,Baylor Offensive Rebound.,45,32,13,6,0.9019187692833157,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+219,3,6:41,1001,1001,Foul on Shannon Coffee.,45,32,13,0,0.9026339808188966,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+220,3,6:41,1001,1001,Kalani Brown made Free Throw.,46,32,14,0,0.9166849954926826,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Baylor
+221,3,6:41,1001,1001,Kalani Brown missed Free Throw.,46,32,14,0,0.9166849954926826,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+222,3,6:41,1001,1001,Nadia Fingall Defensive Rebound.,46,32,14,22,0.9166849954926826,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+223,3,6:19,979,979,Shannon Coffee Turnover.,46,32,14,18,0.9192238235438324,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+224,3,6:01,961,961,Kalani Brown made Jumper. Assisted by Lauren Cox.,48,32,16,6,0.9433487363230885,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Baylor
+225,3,5:55,955,955,Anna Wilson missed Three Point Jumper.,48,32,16,0,0.9439114279719548,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+226,3,5:55,955,955,Juicy Landrum Defensive Rebound.,48,32,16,16,0.9439114279719548,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+227,3,5:39,939,939,Kalani Brown missed Jumper.,48,32,16,0,0.9453052161184337,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+228,3,5:39,939,939,Anna Wilson Defensive Rebound.,48,32,16,28,0.9453052161184337,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+229,3,5:11,911,911,Shannon Coffee missed Jumper.,48,32,16,0,0.9474586386460828,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+230,3,5:11,911,911,Alanna Smith Offensive Rebound.,48,32,16,6,0.9474586386460828,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+231,3,5:05,905,905,Shannon Coffee made Three Point Jumper. Assisted by Kiana Williams.,48,35,13,16,0.9134814145006002,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Stanford
+232,3,4:49,889,889,Lauren Cox made Layup. Assisted by Kalani Brown.,50,35,15,18,0.9393830097839737,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Baylor
+233,3,4:31,871,871,Nadia Fingall missed Three Point Jumper.,50,35,15,0,0.9407109387691289,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+234,3,4:31,871,871,Baylor Defensive Rebound.,50,35,15,5,0.9407109387691289,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+235,3,4:26,866,866,Official TV Timeout,50,35,15,7,0.9410776081190758,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+236,3,4:19,859,859,Foul on Nadia Fingall.,50,35,15,7,0.9415920895659503,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+237,3,4:12,852,852,Alexis Morris missed Jumper.,50,35,15,0,0.9421098496503963,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+238,3,4:12,852,852,Dekeiya Cohen Offensive Rebound.,50,35,15,5,0.9421098496503963,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+239,3,4:07,847,847,Dekeiya Cohen missed Jumper.,50,35,15,0,0.9424828396377425,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+240,3,4:07,847,847,Alanna Smith Block.,50,35,15,1,0.9424828396377425,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+241,3,4:06,846,846,Lauren Cox Offensive Rebound.,50,35,15,16,0.9425578306531529,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+242,3,3:50,830,830,Alexis Morris missed Jumper.,50,35,15,0,0.9437811639887738,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+243,3,3:50,830,830,Dekeiya Cohen Offensive Rebound.,50,35,15,5,0.9437811639887738,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+244,3,3:45,825,825,Lauren Cox missed Jumper.,50,35,15,0,0.9441746150008821,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+245,3,3:45,825,825,Kristy Wallace Offensive Rebound.,50,35,15,3,0.9441746150008821,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+246,3,3:42,822,822,Kristy Wallace made Jumper.,52,35,17,13,0.9612204985079684,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Baylor
+247,3,3:29,809,809,Alanna Smith made Three Point Jumper. Assisted by Alexa Romano.,52,38,14,18,0.9348025995141105,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Stanford
+248,3,3:11,791,791,Juicy Landrum Turnover.,52,38,14,29,0.9365383261593152,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+249,3,2:42,762,762,Alanna Smith missed Layup.,52,38,14,0,0.9396583426779265,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+250,3,2:42,762,762,Lauren Cox Defensive Rebound.,52,38,14,31,0.9396583426779265,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+251,3,2:11,731,731,Juicy Landrum missed Jumper.,52,38,14,0,0.9435124807039925,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+252,3,2:11,731,731,Alanna Smith Block.,52,38,14,1,0.9435124807039925,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+253,3,2:10,730,730,Dekeiya Cohen Offensive Rebound.,52,38,14,1,0.9436463941953124,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+254,3,2:09,729,729,Baylor  Turnover.,52,38,14,12,0.9437799304073983,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+255,3,1:57,717,717,Alanna Smith missed Three Point Jumper.,52,38,14,0,0.9452838385442309,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+256,3,1:57,717,717,Kristy Wallace Defensive Rebound.,52,38,14,6,0.9452838385442309,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+257,3,1:51,711,711,Kristy Wallace made Layup.,54,38,16,7,0.9634465671919454,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Baylor
+258,3,1:44,704,704,Alanna Smith made Layup.,54,40,14,13,0.9467389304066723,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Stanford
+259,3,1:31,691,691,Dekeiya Cohen missed Jumper.,54,40,14,0,0.9480565200445817,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+260,3,1:31,691,691,Alanna Smith Defensive Rebound.,54,40,14,8,0.9480565200445817,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+261,3,1:23,683,683,DiJonai Carrington missed Three Point Jumper.,54,40,14,0,0.9488167287232936,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+262,3,1:23,683,683,Lauren Cox Defensive Rebound.,54,40,14,21,0.9488167287232936,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+263,3,1:02,662,662,Kristy Wallace missed Three Point Jumper.,54,40,14,0,0.9507008416115592,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+264,3,1:02,662,662,Shannon Coffee Defensive Rebound.,54,40,14,20,0.9507008416115592,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+265,3,0:42,642,642,Alanna Smith missed Jumper.,54,40,14,0,0.9524472709293548,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+266,3,0:42,642,642,Dekeiya Cohen Defensive Rebound.,54,40,14,2,0.9524472709293548,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+267,3,0:40,640,640,Foul on Maya Dodson.,54,40,14,0,0.952623749035144,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+268,3,0:40,640,640,Dekeiya Cohen made Free Throw.,55,40,15,0,0.961412054573255,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Baylor
+269,3,0:40,640,640,Dekeiya Cohen made Free Throw.,56,40,16,29,0.9686238217037921,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Baylor
+270,3,0:11,611,611,Kiana Williams missed Three Point Jumper.,56,40,16,0,0.9706834095608706,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+271,3,0:11,611,611,Lauren Cox Defensive Rebound.,56,40,16,10,0.9706834095608706,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+272,3,0:01,601,601,Alexis Morris made Jumper.,58,40,18,1,0.9814425308530513,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Baylor
+273,3,0:00,600,600,End of 3rd Quarter,58,40,18,11,0.9815009897527635,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+274,4,9:49,589,589,DiJonai Carrington Turnover.,58,40,18,3,0.9821634406731573,Baylor,Stanford,6,6,0,0,NA,400994006,2017-12-03,
+275,4,9:46,586,586,Lauren Cox Steal.,58,40,18,2,0.9823505758381111,Baylor,Stanford,6,6,0,0,NA,400994006,2017-12-03,
+276,4,9:44,584,584,Lauren Cox made Layup.,60,40,20,6,0.9887264036773286,Baylor,Stanford,6,6,0,0,NA,400994006,2017-12-03,Baylor
+277,4,9:38,578,578,Stanford  Timeout,60,40,20,9,0.9890043695442857,Baylor,Stanford,5,6,1,0,NA,400994006,2017-12-03,
+278,4,9:29,569,569,Shannon Coffee made Three Point Jumper. Assisted by Anna Wilson.,60,43,17,14,0.9793409577704556,Baylor,Stanford,5,6,1,0,NA,400994006,2017-12-03,Stanford
+279,4,9:15,555,555,Didi Richards made Layup. Assisted by Lauren Cox.,62,43,19,0,0.9876182527618297,Baylor,Stanford,5,6,1,0,NA,400994006,2017-12-03,Baylor
+280,4,9:15,555,555,Foul on Alyssa Jerome.,62,43,19,0,0.9876182527618297,Baylor,Stanford,5,6,1,0,NA,400994006,2017-12-03,
+281,4,9:15,555,555,Didi Richards made Free Throw.,63,43,20,11,0.9901418565872757,Baylor,Stanford,5,6,1,0,NA,400994006,2017-12-03,Baylor
+282,4,9:04,544,544,Anna Wilson missed Three Point Jumper.,63,43,20,0,0.9907046153039579,Baylor,Stanford,5,6,1,0,NA,400994006,2017-12-03,
+283,4,9:04,544,544,Didi Richards Defensive Rebound.,63,43,20,2,0.9907046153039579,Baylor,Stanford,5,6,1,0,NA,400994006,2017-12-03,
+284,4,9:02,542,542,Foul on Anna Wilson.,63,43,20,14,0.9907982193293605,Baylor,Stanford,5,6,1,0,NA,400994006,2017-12-03,
+285,4,8:48,528,528,Kalani Brown missed Jumper.,63,43,20,0,0.9913785321539046,Baylor,Stanford,5,6,1,0,NA,400994006,2017-12-03,
+286,4,8:48,528,528,Shannon Coffee Block.,63,43,20,2,0.9913785321539046,Baylor,Stanford,5,6,1,0,NA,400994006,2017-12-03,
+287,4,8:46,526,526,Kristy Wallace Offensive Rebound.,63,43,20,3,0.991452694290662,Baylor,Stanford,5,6,1,0,NA,400994006,2017-12-03,
+288,4,8:43,523,523,Kalani Brown made Layup. Assisted by Kristy Wallace.,65,43,22,4,0.9947435145687834,Baylor,Stanford,5,6,1,0,NA,400994006,2017-12-03,Baylor
+289,4,8:39,519,519,Foul on Kristy Wallace.,65,43,22,10,0.9948388055273686,Baylor,Stanford,5,6,1,0,NA,400994006,2017-12-03,
+290,4,8:29,509,509,Alanna Smith made Three Point Jumper.,65,46,19,14,0.9898733651683854,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,Stanford
+291,4,8:15,495,495,Nadia Fingall Steal.,65,46,19,0,0.9903928606882053,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+292,4,8:15,495,495,Lauren Cox Turnover.,65,46,19,11,0.9903928606882053,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+293,4,8:04,484,484,Shannon Coffee made Layup.,65,48,17,26,0.9850308607278415,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,Stanford
+294,4,7:38,458,458,Kristy Wallace missed Jumper.,65,48,17,0,0.9865553251441633,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+295,4,7:38,458,458,Lauren Cox Offensive Rebound.,65,48,17,9,0.9865553251441633,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+296,4,7:29,449,449,Didi Richards made Jumper. Assisted by Kristy Wallace.,67,48,19,26,0.9922543579641101,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,Baylor
+297,4,7:03,423,423,Nadia Fingall missed Three Point Jumper.,67,48,19,0,0.9935685644053333,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+298,4,7:03,423,423,Lauren Cox Defensive Rebound.,67,48,19,24,0.9935685644053333,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+299,4,6:39,399,399,Alexis Morris made Jumper.,69,48,21,5,0.9968593323879242,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,Baylor
+300,4,6:34,394,394,Marta Sniezek Turnover.,69,48,21,20,0.9969765371248083,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+301,4,6:14,374,374,Moon Ursin missed Three Point Jumper.,69,48,21,0,0.9974137654007883,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+302,4,6:14,374,374,Shannon Coffee Defensive Rebound.,69,48,21,16,0.9974137654007883,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+303,4,5:58,358,358,Alexa Romano missed Three Point Jumper.,69,48,21,0,0.997747043018518,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+304,4,5:58,358,358,Lauren Cox Defensive Rebound.,69,48,21,21,0.997747043018518,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+305,4,5:37,337,337,Kristy Wallace made Layup. Assisted by Alexis Morris.,71,48,23,9,0.9990018987198517,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,Baylor
+306,4,5:28,328,328,Shannon Coffee missed Three Point Jumper.,71,48,23,0,0.9991130380727563,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+307,4,5:28,328,328,Kristy Wallace Defensive Rebound.,71,48,23,20,0.9991130380727563,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+308,4,5:08,308,308,Moon Ursin missed Jumper.,71,48,23,0,0.9993485233110867,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+309,4,5:08,308,308,Alanna Smith Defensive Rebound.,71,48,23,13,0.9993485233110867,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+310,4,4:55,295,295,Alanna Smith made Jumper. Assisted by Shannon Coffee.,71,50,21,17,0.9988975150615174,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,Stanford
+311,4,4:38,278,278,Official TV Timeout,71,50,21,11,0.9988873199348375,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+312,4,4:27,267,267,Lauren Cox missed Jumper.,71,50,21,0,0.9988199125789367,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+313,4,4:27,267,267,Alyssa Jerome Defensive Rebound.,71,50,21,12,0.9988199125789367,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+314,4,4:15,255,255,Shannon Coffee Turnover.,71,50,21,1,0.9987266144601601,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+315,4,4:14,254,254,Dekeiya Cohen Steal.,71,50,21,9,0.9987190777276477,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+316,4,4:05,245,245,Dekeiya Cohen missed Jumper.,71,50,21,0,0.9986618425837891,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+317,4,4:05,245,245,Kiana Williams Defensive Rebound.,71,50,21,7,0.9986618425837891,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+318,4,3:58,238,238,Kiana Williams missed Jumper.,71,50,21,0,0.9986399941603109,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+319,4,3:58,238,238,Dekeiya Cohen Defensive Rebound.,71,50,21,19,0.9986399941603109,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+320,4,3:39,219,219,Dekeiya Cohen made Layup.,73,50,23,18,0.9993423177294036,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,Baylor
+321,4,3:21,201,201,Kiana Williams missed Jumper.,73,50,23,0,0.9995567651430608,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+322,4,3:21,201,201,Maya Dodson Offensive Rebound.,73,50,23,2,0.9995567651430608,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+323,4,3:19,199,199,Foul on Kalani Brown.,73,50,23,0,0.9995856658384938,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+324,4,3:19,199,199,Maya Dodson missed Free Throw.,73,50,23,0,0.9995856658384938,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+325,4,3:19,199,199,Stanford Deadball Team Rebound.,73,50,23,0,0.9995856658384938,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,
+326,4,3:19,199,199,Maya Dodson made Free Throw.,73,51,22,14,0.999418777913695,Baylor,Stanford,5,6,0,0,NA,400994006,2017-12-03,Stanford
+327,4,3:05,185,185,Natalie Chou missed Jumper.,73,51,22,0,0.999676254348655,Baylor,Stanford,5,6,0,1,NA,400994006,2017-12-03,
+328,4,3:05,185,185,Maya Dodson Block.,73,51,22,0,0.999676254348655,Baylor,Stanford,5,6,0,1,NA,400994006,2017-12-03,
+329,4,3:05,185,185,Baylor Offensive Rebound.,73,51,22,0,0.999676254348655,Baylor,Stanford,5,6,0,1,NA,400994006,2017-12-03,
+330,4,3:05,185,185,Baylor  Timeout,73,51,22,6,0.999676254348655,Baylor,Stanford,5,5,0,1,NA,400994006,2017-12-03,
+331,4,2:59,179,179,Kalani Brown Turnover.,73,51,22,0,0.9997548078501957,Baylor,Stanford,5,5,0,1,NA,400994006,2017-12-03,
+332,4,2:59,179,179,Shannon Coffee Steal.,73,51,22,16,0.9997548078501957,Baylor,Stanford,5,5,0,1,NA,400994006,2017-12-03,
+333,4,2:43,163,163,Alexa Romano made Jumper.,73,53,20,14,0.9997412520999092,Baylor,Stanford,5,5,0,1,NA,400994006,2017-12-03,Stanford
+334,4,2:29,149,149,Foul on Alanna Smith.,73,53,20,0,0.9998679545930348,Baylor,Stanford,5,5,0,1,NA,400994006,2017-12-03,
+335,4,2:29,149,149,Dekeiya Cohen missed Free Throw.,73,53,20,0,0.9998679545930348,Baylor,Stanford,5,5,0,1,NA,400994006,2017-12-03,
+336,4,2:29,149,149,Baylor Deadball Team Rebound.,73,53,20,0,0.9998679545930348,Baylor,Stanford,5,5,0,1,NA,400994006,2017-12-03,
+337,4,2:29,149,149,Dekeiya Cohen made Free Throw.,74,53,21,11,0.9999155143423434,Baylor,Stanford,5,5,0,1,NA,400994006,2017-12-03,Baylor
+338,4,2:18,138,138,Maya Dodson made Layup.,74,55,19,0,0.9998817055300446,Baylor,Stanford,5,5,0,1,NA,400994006,2017-12-03,Stanford
+339,4,2:18,138,138,Foul on Kalani Brown.,74,55,19,0,0.9998817055300446,Baylor,Stanford,5,5,0,1,NA,400994006,2017-12-03,
+340,4,2:18,138,138,Maya Dodson missed Free Throw.,74,55,19,0,0.9998817055300446,Baylor,Stanford,5,5,0,1,NA,400994006,2017-12-03,
+341,4,2:18,138,138,Stanford Offensive Rebound.,74,55,19,2,0.9998817055300446,Baylor,Stanford,5,5,0,1,NA,400994006,2017-12-03,
+342,4,2:16,136,136,Kiana Williams missed Three Point Jumper.,74,55,19,1,0.9998937562555623,Baylor,Stanford,5,5,0,1,NA,400994006,2017-12-03,
+343,4,2:15,135,135,Maya Dodson Offensive Rebound.,74,55,19,3,0.9998993925082448,Baylor,Stanford,5,5,0,1,NA,400994006,2017-12-03,
+344,4,2:12,132,132,Maya Dodson made Jumper.,74,57,17,32,0.9997716892338274,Baylor,Stanford,5,5,0,1,NA,400994006,2017-12-03,Stanford
+345,4,1:40,100,100,Kristy Wallace made Layup.,76,57,19,9,0.9999900629856168,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Baylor
+346,4,1:31,91,91,Shannon Coffee missed Three Point Jumper.,76,57,19,0,0.9999952838404523,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+347,4,1:31,91,91,Lauren Cox Defensive Rebound.,76,57,19,31,0.9999952838404523,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+348,4,1:00,60,60,Lauren Cox made Three Point Jumper. Assisted by Kristy Wallace.,79,57,22,24,0.999999975594451,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Baylor
+349,4,0:36,36,36,Mikaela Brewer missed Jumper.,79,57,22,0,0.9999999988108881,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+350,4,0:36,36,36,Lauren Cox Defensive Rebound.,79,57,22,28,0.9999999988108881,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+351,4,0:08,8,8,Alexis Morris made Layup.,81,57,24,0,0.9999999999977847,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,Baylor
+352,4,0:08,8,8,Foul on Nadia Fingall.,81,57,24,0,0.9999999999977847,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+353,4,0:08,8,8,Alexis Morris missed Free Throw.,81,57,24,0,0.9999999999977847,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+354,4,0:08,8,8,Maya Dodson Defensive Rebound.,81,57,24,7,0.9999999999977847,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+355,4,0:01,1,1,Mikaela Brewer missed Jumper.,81,57,24,1,0.9999999999993419,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+356,4,0:00,0,0,Moon Ursin Defensive Rebound.,81,57,24,0,1,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,
+357,4,0:00,0,0,End of Game,81,57,24,0,1,Baylor,Stanford,5,5,0,0,NA,400994006,2017-12-03,

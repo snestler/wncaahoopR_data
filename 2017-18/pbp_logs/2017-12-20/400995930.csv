@@ -1,0 +1,291 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:50,2390,2390,Amy Griffin made Jumper.,0,0,0,22,0.5,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,NA
+2,1,9:28,2368,2368,Adrianna Hahn missed Layup.,2,0,2,0,0.5447034963388572,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,La Salle
+3,1,9:28,2368,2368,Amy Griffin Defensive Rebound.,2,0,2,7,0.5447034963388572,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+4,1,9:21,2361,2361,Adreana Miller made Three Point Jumper. Assisted by Amy Griffin.,5,0,5,28,0.6105785713448093,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,La Salle
+5,1,8:53,2333,2333,Jannah Tucker missed Layup.,5,0,5,0,0.6120321569610894,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+6,1,8:53,2333,2333,Shalina Miller Defensive Rebound.,5,0,5,3,0.6120321569610894,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+7,1,8:50,2330,2330,Shalina Miller Turnover.,5,0,5,13,0.6121891814424908,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+8,1,8:37,2317,2317,Alex Louin Turnover.,5,0,5,2,0.6128722915133248,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+9,1,8:35,2315,2315,Ashanti Freeland Steal.,5,0,5,19,0.6129777588253051,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+10,1,8:16,2296,2296,Amy Griffin Turnover.,5,0,5,0,0.6139843708395649,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+11,1,8:16,2296,2296,Alex Louin Steal.,5,0,5,12,0.6139843708395649,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+12,1,8:04,2284,2284,Adrianna Hahn missed Three Point Jumper.,5,0,5,0,0.6146242162314544,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+13,1,8:04,2284,2284,Ashanti Freeland Defensive Rebound.,5,0,5,12,0.6146242162314544,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+14,1,7:52,2272,2272,Shalina Miller missed Jumper.,5,0,5,0,0.6152669606316836,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+15,1,7:52,2272,2272,Alex Louin Defensive Rebound.,5,0,5,14,0.6152669606316836,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+16,1,7:38,2258,2258,Kelly Jekot made Layup.,5,2,3,28,0.5704319891144647,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,Villanova
+17,1,7:10,2230,2230,Shalina Miller made Jumper.,7,2,5,15,0.6175361705953504,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,La Salle
+18,1,6:55,2215,2215,Alex Louin missed Jumper.,7,2,5,0,0.6183527268036805,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+19,1,6:55,2215,2215,Alex Louin Offensive Rebound.,7,2,5,2,0.6183527268036805,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+20,1,6:53,2213,2213,Alex Louin missed Jumper.,7,2,5,0,0.6184618015703488,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+21,1,6:53,2213,2213,Alex Louin Offensive Rebound.,7,2,5,3,0.6184618015703488,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+22,1,6:50,2210,2210,Alex Louin missed Jumper.,7,2,5,0,0.618625495822218,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+23,1,6:50,2210,2210,Shalina Miller Defensive Rebound.,7,2,5,6,0.618625495822218,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+24,1,6:44,2204,2204,Adreana Miller missed Three Point Jumper.,7,2,5,0,0.6189531672356252,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+25,1,6:44,2204,2204,Adrianna Hahn Defensive Rebound.,7,2,5,12,0.6189531672356252,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+26,1,6:32,2192,2192,Jannah Tucker missed Jumper.,7,2,5,0,0.6196095451575472,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+27,1,6:32,2192,2192,Shalina Miller Defensive Rebound.,7,2,5,7,0.6196095451575472,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+28,1,6:25,2185,2185,Amy Griffin made Layup.,9,2,7,21,0.6649263476051946,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,La Salle
+29,1,6:04,2164,2164,Kelly Jekot made Layup.,9,4,5,23,0.6211455369518836,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,Villanova
+30,1,5:41,2141,2141,Shalina Miller Turnover.,9,4,5,9,0.6224144719794179,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+31,1,5:32,2132,2132,Mary Gedaka made Layup.,9,6,3,19,0.5747259452953509,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,Villanova
+32,1,5:13,2113,2113,Adreana Miller made Jumper.,11,6,5,19,0.6239713178266638,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,La Salle
+33,1,4:54,2094,2094,Mary Gedaka missed Layup.,11,6,5,0,0.6250360750198689,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+34,1,4:54,2094,2094,Sofilia Ngwafang Defensive Rebound.,11,6,5,20,0.6250360750198689,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+35,1,4:34,2074,2074,Amy Griffin missed Jumper.,11,6,5,0,0.6261647981958606,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+36,1,4:34,2074,2074,Adrianna Hahn Defensive Rebound.,11,6,5,16,0.6261647981958606,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+37,1,4:18,2058,2058,Adrianna Hahn made Three Point Jumper.,11,9,2,23,0.551782133456913,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,Villanova
+38,1,3:55,2035,2035,Amy Griffin made Jumper.,13,9,4,24,0.6035449164040675,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,La Salle
+39,1,3:31,2011,2011,Foul on Deja King.,13,9,4,0,0.6046835176637574,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+40,1,3:31,2011,2011,Official TV Timeout,13,9,4,16,0.6046835176637574,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+41,1,3:15,1995,1995,Mary Gedaka made Layup.,13,11,2,18,0.5533246043660945,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,Villanova
+42,1,2:57,1977,1977,Amy Griffin made Jumper.,15,11,4,16,0.6063191827530989,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,La Salle
+43,1,2:41,1961,1961,Adrianna Hahn Turnover.,15,11,4,15,0.6070987006012237,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+44,1,2:26,1946,1946,Amy Griffin missed Jumper.,15,11,4,0,0.6078354983688954,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+45,1,2:26,1946,1946,Grace Stant Defensive Rebound.,15,11,4,8,0.6078354983688954,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+46,1,2:18,1938,1938,Alex Louin made Three Point Jumper. Assisted by Grace Stant.,15,14,1,17,0.5274649491446592,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,Villanova
+47,1,2:01,1921,1921,Shaquana Edwards missed Jumper.,15,14,1,0,0.5276858564523762,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+48,1,2:01,1921,1921,Bridget Herlihy Defensive Rebound.,15,14,1,9,0.5276858564523762,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+49,1,1:52,1912,1912,Brianna Herlihy missed Jumper.,15,14,1,0,0.527802734743821,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+50,1,1:52,1912,1912,Ashanti Freeland Defensive Rebound.,15,14,1,6,0.527802734743821,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+51,1,1:46,1906,1906,Foul on Grace Stant.,15,14,1,0,0.5278805938103491,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+52,1,1:46,1906,1906,Deja King missed Free Throw.,15,14,1,0,0.5278805938103491,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+53,1,1:46,1906,1906,La Salle Deadball Team Rebound.,15,14,1,0,0.5278805938103491,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+54,1,1:46,1906,1906,Deja King made Free Throw.,16,14,2,25,0.5555883462174267,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,La Salle
+55,1,1:21,1881,1881,Adrianna Hahn Turnover.,16,14,2,16,0.556230855714162,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+56,1,1:05,1865,1865,Ashanti Freeland missed Jumper.,16,14,2,0,0.5566425877689026,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+57,1,1:05,1865,1865,Bridget Herlihy Block.,16,14,2,1,0.5566425877689026,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+58,1,1:04,1864,1864,Bridget Herlihy Defensive Rebound.,16,14,2,5,0.5566683529347572,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+59,1,0:59,1859,1859,Bridget Herlihy missed Layup.,16,14,2,0,0.5567972519698614,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+60,1,0:59,1859,1859,Shalina Miller Defensive Rebound.,16,14,2,24,0.5567972519698614,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+61,1,0:35,1835,1835,Ashanti Freeland missed Jumper.,16,14,2,0,0.5574181997442285,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+62,1,0:35,1835,1835,Brianna Herlihy Defensive Rebound.,16,14,2,30,0.5574181997442285,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+63,1,0:05,1805,1805,Villanova  Turnover.,16,14,2,5,0.5582020233090822,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+64,1,0:00,1800,1800,Deja King missed Jumper.,16,14,2,0,0.558333749411633,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+65,1,0:00,1800,1800,Brianna Herlihy Block.,16,14,2,0,0.558333749411633,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+66,1,0:00,1800,1800,Brianna Herlihy Defensive Rebound.,16,14,2,0,0.558333749411633,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+67,1,0:00,1800,1800,End of 1st Quarter,16,14,2,7,0.558333749411633,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+68,2,9:53,1793,1793,Grace Stant missed Layup.,16,14,2,0,0.5585187786108389,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+69,2,9:53,1793,1793,Ashanti Freeland Block.,16,14,2,2,0.5585187786108389,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+70,2,9:51,1791,1791,Shalina Miller Defensive Rebound.,16,14,2,8,0.5585717818052074,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+71,2,9:43,1783,1783,Adreana Miller Turnover.,16,14,2,1,0.5587844412889225,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+72,2,9:42,1782,1782,Mary Gedaka Steal.,16,14,2,6,0.5588110990017319,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+73,2,9:36,1776,1776,Bridget Herlihy made Three Point Jumper.,16,17,-1,25,0.4704110339292821,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,Villanova
+74,2,9:11,1751,1751,Foul on Shalina Miller.,16,17,-1,0,0.4700697363767509,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+75,2,9:11,1751,1751,Shalina Miller Turnover.,16,17,-1,18,0.4700697363767509,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+76,2,8:53,1733,1733,Grace Stant missed Three Point Jumper.,16,17,-1,0,0.46981972186740945,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+77,2,8:53,1733,1733,Brianna Herlihy Offensive Rebound.,16,17,-1,4,0.46981972186740945,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+78,2,8:49,1729,1729,Foul on Adreana Miller.,16,17,-1,1,0.46976362301874747,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,
+79,2,8:48,1728,1728,Kelly Jekot made Three Point Jumper. Assisted by Grace Stant.,16,20,-4,1,0.38116677805296906,La Salle,Villanova,4,4,0,0,NA,400995930,2017-12-20,Villanova
+80,2,8:47,1727,1727,La Salle  Timeout,16,20,-4,10,0.38111348366022896,La Salle,Villanova,3,4,1,0,NA,400995930,2017-12-20,
+81,2,8:37,1717,1717,Adreana Miller made Three Point Jumper. Assisted by Deja King.,19,20,-1,13,0.4695940638416196,La Salle,Villanova,3,4,1,0,NA,400995930,2017-12-20,La Salle
+82,2,8:24,1704,1704,Bridget Herlihy missed Three Point Jumper.,19,20,-1,0,0.46940811578150954,La Salle,Villanova,3,4,1,0,NA,400995930,2017-12-20,
+83,2,8:24,1704,1704,La Salle Defensive Rebound.,19,20,-1,18,0.46940811578150954,La Salle,Villanova,3,4,1,0,NA,400995930,2017-12-20,
+84,2,8:06,1686,1686,Deja King Turnover.,19,20,-1,0,0.46914677803923804,La Salle,Villanova,3,4,1,0,NA,400995930,2017-12-20,
+85,2,8:06,1686,1686,Bridget Herlihy Steal.,19,20,-1,10,0.46914677803923804,La Salle,Villanova,3,4,1,0,NA,400995930,2017-12-20,
+86,2,7:56,1676,1676,Kelly Jekot made Layup. Assisted by Bridget Herlihy.,19,22,-3,36,0.40795020035235163,La Salle,Villanova,3,4,1,0,NA,400995930,2017-12-20,Villanova
+87,2,7:20,1640,1640,Foul on Jannah Tucker.,19,22,-3,2,0.40648408335447606,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+88,2,7:18,1638,1638,Adreana Miller missed Jumper.,19,22,-3,0,0.40640414355080734,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+89,2,7:18,1638,1638,Jannah Tucker Block.,19,22,-3,0,0.40640414355080734,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+90,2,7:18,1638,1638,La Salle Offensive Rebound.,19,22,-3,12,0.40640414355080734,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+91,2,7:06,1626,1626,Adreana Miller missed Jumper.,19,22,-3,0,0.40592672383399103,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+92,2,7:06,1626,1626,Adrianna Hahn Defensive Rebound.,19,22,-3,5,0.40592672383399103,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+93,2,7:01,1621,1621,Jannah Tucker made Three Point Jumper. Assisted by Adrianna Hahn.,19,25,-6,22,0.31792970379502733,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,Villanova
+94,2,6:39,1599,1599,Shaquana Edwards missed Three Point Jumper.,19,25,-6,0,0.3163698816929168,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+95,2,6:39,1599,1599,Brianna Herlihy Defensive Rebound.,19,25,-6,14,0.3163698816929168,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+96,2,6:25,1585,1585,Jannah Tucker missed Three Point Jumper.,19,25,-6,0,0.3153788916227104,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+97,2,6:25,1585,1585,Brianna Herlihy Offensive Rebound.,19,25,-6,4,0.3153788916227104,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+98,2,6:21,1581,1581,Brianna Herlihy missed Jumper.,19,25,-6,0,0.3150952995965767,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+99,2,6:21,1581,1581,Deja King Defensive Rebound.,19,25,-6,1,0.3150952995965767,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+100,2,6:20,1580,1580,Foul on Brianna Herlihy.,19,25,-6,18,0.31502434775042604,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+101,2,6:02,1562,1562,Ashanti Freeland missed Three Point Jumper.,19,25,-6,0,0.3137416815414643,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+102,2,6:02,1562,1562,Alex Louin Defensive Rebound.,19,25,-6,13,0.3137416815414643,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+103,2,5:49,1549,1549,Kelly Jekot made Layup. Assisted by Alex Louin.,19,27,-8,15,0.25934430102107364,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,Villanova
+104,2,5:34,1534,1534,Shalina Miller missed Jumper.,19,27,-8,0,0.2580413409044641,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+105,2,5:34,1534,1534,Alex Louin Defensive Rebound.,19,27,-8,24,0.2580413409044641,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+106,2,5:10,1510,1510,Foul on Deja King.,19,27,-8,13,0.25590880382828485,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+107,2,4:57,1497,1497,Jannah Tucker missed Layup.,19,27,-8,0,0.2547224881735076,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+108,2,4:57,1497,1497,Jeryn Reese Defensive Rebound.,19,27,-8,17,0.2547224881735076,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+109,2,4:40,1480,1480,Shaquana Edwards made Three Point Jumper.,22,27,-5,20,0.3371011407697063,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,La Salle
+110,2,4:20,1460,1460,Kelly Jekot made Layup.,22,29,-7,19,0.27773235290512693,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,Villanova
+111,2,4:01,1441,1441,Shalina Miller missed Jumper.,22,29,-7,0,0.2759567556309186,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+112,2,4:01,1441,1441,Mary Gedaka Defensive Rebound.,22,29,-7,12,0.2759567556309186,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+113,2,3:49,1429,1429,Alex Louin made Jumper.,22,31,-9,19,0.22317439020321334,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,Villanova
+114,2,3:30,1410,1410,Foul on Jannah Tucker.,22,31,-9,0,0.2212952915279324,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+115,2,3:30,1410,1410,Adreana Miller made Free Throw.,23,31,-8,0,0.24631908889435225,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,La Salle
+116,2,3:30,1410,1410,Adreana Miller made Free Throw.,24,31,-7,18,0.273179864277068,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,La Salle
+117,2,3:12,1392,1392,Kelly Jekot made Layup.,24,33,-9,19,0.21956649515769772,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,Villanova
+118,2,2:53,1373,1373,Adreana Miller Turnover.,24,33,-9,10,0.2177753647535526,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+119,2,2:43,1363,1363,Adrianna Hahn made Three Point Jumper.,24,36,-12,17,0.15287346908948332,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,Villanova
+120,2,2:26,1346,1346,Foul on Rayshel Brown.,24,36,-12,0,0.15125908798836907,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+121,2,2:26,1346,1346,Rayshel Brown Turnover.,24,36,-12,17,0.15125908798836907,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+122,2,2:09,1329,1329,Alex Louin missed Jumper.,24,36,-12,0,0.1496380498335706,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+123,2,2:09,1329,1329,Rayshel Brown Defensive Rebound.,24,36,-12,20,0.1496380498335706,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+124,2,1:49,1309,1309,Shaquana Edwards missed Jumper.,24,36,-12,0,0.14770329135963867,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+125,2,1:49,1309,1309,Bridget Herlihy Defensive Rebound.,24,36,-12,21,0.14770329135963867,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+126,2,1:28,1288,1288,Adrianna Hahn missed Three Point Jumper.,24,36,-12,0,0.1456167292083386,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+127,2,1:28,1288,1288,Shalina Miller Defensive Rebound.,24,36,-12,10,0.1456167292083386,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+128,2,1:18,1278,1278,Foul on Adrianna Hahn.,24,36,-12,16,0.14459636369679899,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+129,2,1:02,1262,1262,Shaquana Edwards missed Three Point Jumper.,24,36,-12,0,0.1429196831266201,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+130,2,1:02,1262,1262,Kelly Jekot Defensive Rebound.,24,36,-12,19,0.1429196831266201,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+131,2,0:43,1243,1243,Kelly Jekot missed Three Point Jumper.,24,36,-12,0,0.14084626977545592,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+132,2,0:43,1243,1243,Shalina Miller Defensive Rebound.,24,36,-12,22,0.14084626977545592,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+133,2,0:21,1221,1221,Rayshel Brown Turnover.,24,36,-12,3,0.13831462805269215,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+134,2,0:18,1218,1218,Raven James Steal.,24,36,-12,18,0.13795737277871328,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+135,2,0:00,1200,1200,Kelly Jekot missed Jumper.,24,36,-12,0,0.13578366491085198,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+136,2,0:00,1200,1200,Ashanti Freeland Defensive Rebound.,24,36,-12,0,0.13578366491085198,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+137,2,0:00,1200,1200,End of 2nd Quarter,24,36,-12,12,0.13578366491085198,La Salle,Villanova,3,4,0,0,NA,400995930,2017-12-20,
+138,3,9:48,1188,1188,Ashanti Freeland Turnover.,24,36,-12,11,0.1343789441146333,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,
+139,3,9:37,1177,1177,Kelly Jekot made Layup. Assisted by Alex Louin.,24,38,-14,18,0.10102705104042391,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,Villanova
+140,3,9:19,1159,1159,Shalina Miller made Jumper.,26,38,-12,22,0.13113210049226118,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,La Salle
+141,3,8:57,1137,1137,Kelly Jekot made Jumper.,26,40,-14,0,0.09703417677615951,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,Villanova
+142,3,8:57,1137,1137,Foul on Ashanti Freeland.,26,40,-14,0,0.09703417677615951,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,
+143,3,8:57,1137,1137,Kelly Jekot made Free Throw.,26,41,-15,13,0.08394215712647911,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,Villanova
+144,3,8:44,1124,1124,Jeryn Reese missed Jumper.,26,41,-15,0,0.08275949971393215,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,
+145,3,8:44,1124,1124,Kelly Jekot Defensive Rebound.,26,41,-15,14,0.08275949971393215,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,
+146,3,8:30,1110,1110,Foul on Shaquana Edwards.,26,41,-15,12,0.08149422975796679,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,
+147,3,8:18,1098,1098,Mary Gedaka missed Layup.,26,41,-15,0,0.08041060456010556,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,
+148,3,8:18,1098,1098,Shaquana Edwards Defensive Rebound.,26,41,-15,18,0.08041060456010556,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,
+149,3,8:00,1080,1080,Foul on Shalina Miller.,26,41,-15,0,0.07877566824059655,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,
+150,3,8:00,1080,1080,Shalina Miller Turnover.,26,41,-15,26,0.07877566824059655,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,
+151,3,7:34,1054,1054,Adrianna Hahn missed Three Point Jumper.,26,41,-15,0,0.07636652863800199,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,
+152,3,7:34,1054,1054,Deja King Defensive Rebound.,26,41,-15,7,0.07636652863800199,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,
+153,3,7:27,1047,1047,Deja King Turnover.,26,41,-15,1,0.07570366091476496,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,
+154,3,7:26,1046,1046,Jannah Tucker Steal.,26,41,-15,3,0.07560837241607786,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,
+155,3,7:23,1043,1043,Foul on Adreana Miller.,26,41,-15,0,0.07532157177303848,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,
+156,3,7:23,1043,1043,Alex Louin made Free Throw.,26,42,-16,0,0.06447332475922835,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,Villanova
+157,3,7:23,1043,1043,Alex Louin made Free Throw.,26,43,-17,21,0.05509441191818097,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,Villanova
+158,3,7:02,1022,1022,Deja King missed Jumper.,26,43,-17,0,0.05336108650250659,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,
+159,3,7:02,1022,1022,Mary Gedaka Block.,26,43,-17,2,0.05336108650250659,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,
+160,3,7:00,1020,1020,Mary Gedaka Defensive Rebound.,26,43,-17,7,0.053192790538684816,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,
+161,3,6:53,1013,1013,Kelly Jekot Turnover.,26,43,-17,2,0.052598930572900264,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,
+162,3,6:51,1011,1011,Shalina Miller Steal.,26,43,-17,5,0.052427838154208484,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,
+163,3,6:46,1006,1006,Shaquana Edwards made Jumper.,28,43,-15,18,0.07164988080350648,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,La Salle
+164,3,6:28,988,988,Adrianna Hahn made Three Point Jumper. Assisted by Alex Louin.,28,46,-18,13,0.042757987104254984,La Salle,Villanova,4,5,0,0,NA,400995930,2017-12-20,Villanova
+165,3,6:15,975,975,La Salle  Timeout,28,46,-18,2,0.04168902313162253,La Salle,Villanova,3,5,1,0,NA,400995930,2017-12-20,
+166,3,6:13,973,973,Jeryn Reese missed Jumper.,28,46,-18,0,0.04152216016139775,La Salle,Villanova,3,5,1,0,NA,400995930,2017-12-20,
+167,3,6:13,973,973,Adrianna Hahn Defensive Rebound.,28,46,-18,11,0.04152216016139775,La Salle,Villanova,3,5,1,0,NA,400995930,2017-12-20,
+168,3,6:02,962,962,Alex Louin made Layup. Assisted by Mary Gedaka.,28,48,-20,21,0.02893321587314165,La Salle,Villanova,3,5,1,0,NA,400995930,2017-12-20,Villanova
+169,3,5:41,941,941,Adreana Miller missed Layup.,28,48,-20,0,0.027702124031889583,La Salle,Villanova,3,5,1,0,NA,400995930,2017-12-20,
+170,3,5:41,941,941,Jannah Tucker Defensive Rebound.,28,48,-20,44,0.027702124031889583,La Salle,Villanova,3,5,1,0,NA,400995930,2017-12-20,
+171,3,4:57,897,897,Mary Gedaka missed Layup.,28,48,-20,0,0.02557636757911775,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+172,3,4:57,897,897,Villanova Offensive Rebound.,28,48,-20,1,0.02557636757911775,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+173,3,4:56,896,896,Villanova  Turnover.,28,48,-20,0,0.025532563355400953,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+174,3,4:56,896,896,Official TV Timeout,28,48,-20,13,0.025532563355400953,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+175,3,4:43,883,883,Shaquana Edwards missed Jumper.,28,48,-20,0,0.02497317984216522,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+176,3,4:43,883,883,Jeryn Reese Offensive Rebound.,28,48,-20,5,0.02497317984216522,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+177,3,4:38,878,878,Adreana Miller missed Jumper.,28,48,-20,0,0.024761820460162152,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+178,3,4:38,878,878,Brianna Herlihy Defensive Rebound.,28,48,-20,13,0.024761820460162152,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+179,3,4:25,865,865,Foul on Shaquana Edwards.,28,48,-20,0,0.024217331703844915,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+180,3,4:25,865,865,Adrianna Hahn made Free Throw.,28,49,-21,0,0.02021358127709153,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,Villanova
+181,3,4:25,865,865,Adrianna Hahn made Free Throw.,28,50,-22,15,0.016860316990068847,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,Villanova
+182,3,4:10,850,850,Jeryn Reese Turnover.,28,50,-22,2,0.016376703121096122,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+183,3,4:08,848,848,Brianna Herlihy Steal.,28,50,-22,8,0.016311913668710598,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+184,3,4:00,840,840,Alex Louin made Three Point Jumper. Assisted by Adrianna Hahn.,28,53,-25,27,0.00922077022023829,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,Villanova
+185,3,3:33,813,813,Jeryn Reese missed Jumper.,28,53,-25,0,0.008624796665173066,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+186,3,3:33,813,813,Alex Louin Defensive Rebound.,28,53,-25,10,0.008624796665173066,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+187,3,3:23,803,803,Adrianna Hahn made Jumper.,28,55,-27,15,0.00574577759795937,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,Villanova
+188,3,3:08,788,788,Adreana Miller missed Jumper.,28,55,-27,0,0.005480303537791613,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+189,3,3:08,788,788,Villanova Defensive Rebound.,28,55,-27,13,0.005480303537791613,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+190,3,2:55,775,775,Foul on Grace Stant.,28,55,-27,0,0.0052408146307970456,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+191,3,2:55,775,775,Grace Stant Turnover.,28,55,-27,14,0.0052408146307970456,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+192,3,2:41,761,761,Adreana Miller made Jumper.,30,55,-25,12,0.00734538520640763,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,La Salle
+193,3,2:29,749,749,Bridget Herlihy made Layup. Assisted by Alex Louin.,30,57,-27,20,0.004734437837011953,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,Villanova
+194,3,2:09,729,729,Adreana Miller missed Jumper.,30,57,-27,0,0.004321741949287631,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+195,3,2:09,729,729,Alex Louin Defensive Rebound.,30,57,-27,8,0.004321741949287631,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+196,3,2:01,721,721,Bridget Herlihy made Jumper.,30,59,-29,9,0.002778826500105892,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,Villanova
+197,3,1:52,712,712,Adreana Miller missed Three Point Jumper.,30,59,-29,0,0.0026634467373445707,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+198,3,1:52,712,712,Brianna Herlihy Defensive Rebound.,30,59,-29,10,0.0026634467373445707,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+199,3,1:42,702,702,Kelly Jekot missed Layup.,30,59,-29,0,0.0025480864826437264,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+200,3,1:42,702,702,Brianna Herlihy Offensive Rebound.,30,59,-29,4,0.0025480864826437264,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+201,3,1:38,698,698,Kelly Jekot missed Jumper.,30,59,-29,0,0.002505108829212763,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+202,3,1:38,698,698,Rayshel Brown Defensive Rebound.,30,59,-29,8,0.002505108829212763,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+203,3,1:30,690,690,La Salle  Timeout,30,59,-29,16,0.002423683687740784,La Salle,Villanova,2,5,1,0,NA,400995930,2017-12-20,
+204,3,1:14,674,674,Adreana Miller Turnover.,30,59,-29,12,0.0022749762542192066,La Salle,Villanova,2,5,1,0,NA,400995930,2017-12-20,
+205,3,1:02,662,662,Foul on Jasmine White.,30,59,-29,0,0.002171934163347354,La Salle,Villanova,2,5,1,0,NA,400995930,2017-12-20,
+206,3,1:02,662,662,Bridget Herlihy missed Free Throw.,30,59,-29,0,0.002171934163347354,La Salle,Villanova,2,5,1,0,NA,400995930,2017-12-20,
+207,3,1:02,662,662,Villanova Deadball Team Rebound.,30,59,-29,0,0.002171934163347354,La Salle,Villanova,2,5,1,0,NA,400995930,2017-12-20,
+208,3,1:02,662,662,Bridget Herlihy made Free Throw.,30,60,-30,14,0.0017588390626231663,La Salle,Villanova,2,5,1,0,NA,400995930,2017-12-20,Villanova
+209,3,0:48,648,648,Foul on Cameron Onken.,30,60,-30,0,0.0016624365832653809,La Salle,Villanova,2,5,1,0,NA,400995930,2017-12-20,
+210,3,0:48,648,648,Rayshel Brown missed Free Throw.,30,60,-30,0,0.0016624365832653809,La Salle,Villanova,2,5,1,0,NA,400995930,2017-12-20,
+211,3,0:48,648,648,La Salle Deadball Team Rebound.,30,60,-30,0,0.0016624365832653809,La Salle,Villanova,2,5,1,0,NA,400995930,2017-12-20,
+212,3,0:48,648,648,Rayshel Brown made Free Throw.,31,60,-29,20,0.0020567961193053244,La Salle,Villanova,2,5,1,0,NA,400995930,2017-12-20,La Salle
+213,3,0:28,628,628,Foul on Jasmine White.,31,60,-29,0,0.0018951159869715502,La Salle,Villanova,2,5,0,0,NA,400995930,2017-12-20,
+214,3,0:28,628,628,Brianna Herlihy made Free Throw.,31,61,-30,0,0.0015273886210956263,La Salle,Villanova,2,5,0,0,NA,400995930,2017-12-20,Villanova
+215,3,0:28,628,628,Brianna Herlihy made Free Throw.,31,62,-31,22,0.0012309268929761414,La Salle,Villanova,2,5,0,0,NA,400995930,2017-12-20,Villanova
+216,3,0:06,606,606,Foul on Cameron Onken.,31,62,-31,0,0.0011047899510167895,La Salle,Villanova,2,5,0,0,NA,400995930,2017-12-20,
+217,3,0:06,606,606,Rayshel Brown made Free Throw.,32,62,-30,0,0.0013757024192598845,La Salle,Villanova,2,5,0,0,NA,400995930,2017-12-20,La Salle
+218,3,0:06,606,606,Rayshel Brown made Free Throw.,33,62,-29,6,0.0017129331121281803,La Salle,Villanova,2,5,0,0,NA,400995930,2017-12-20,La Salle
+219,3,0:00,600,600,End of 3rd Quarter,33,62,-29,14,0.0016615995857008025,La Salle,Villanova,2,5,0,0,NA,400995930,2017-12-20,
+220,4,9:46,586,586,Bridget Herlihy made Layup.,33,64,-31,16,9.84852625424592e-4,La Salle,Villanova,3,6,0,0,NA,400995930,2017-12-20,Villanova
+221,4,9:30,570,570,Adreana Miller missed Three Point Jumper.,33,64,-31,0,8.84787165923871e-4,La Salle,Villanova,3,6,0,0,NA,400995930,2017-12-20,
+222,4,9:30,570,570,Kelly Jekot Defensive Rebound.,33,64,-31,7,8.84787165923871e-4,La Salle,Villanova,3,6,0,0,NA,400995930,2017-12-20,
+223,4,9:23,563,563,Bridget Herlihy missed Three Point Jumper.,33,64,-31,0,8.400247520028929e-4,La Salle,Villanova,3,6,0,0,NA,400995930,2017-12-20,
+224,4,9:23,563,563,Deja King Defensive Rebound.,33,64,-31,28,8.400247520028929e-4,La Salle,Villanova,3,6,0,0,NA,400995930,2017-12-20,
+225,4,8:55,535,535,Rayshel Brown missed Jumper.,33,64,-31,0,6.714852071235268e-4,La Salle,Villanova,3,6,0,0,NA,400995930,2017-12-20,
+226,4,8:55,535,535,Raven James Defensive Rebound.,33,64,-31,14,6.714852071235268e-4,La Salle,Villanova,3,6,0,0,NA,400995930,2017-12-20,
+227,4,8:41,521,521,Bridget Herlihy missed Layup.,33,64,-31,0,6.103122130957947e-4,La Salle,Villanova,3,6,0,0,NA,400995930,2017-12-20,
+228,4,8:41,521,521,Jasmine White Defensive Rebound.,33,64,-31,10,6.103122130957947e-4,La Salle,Villanova,3,6,0,0,NA,400995930,2017-12-20,
+229,4,8:31,511,511,Adreana Miller made Three Point Jumper.,36,64,-28,20,0.0011790975055462707,La Salle,Villanova,3,6,0,0,NA,400995930,2017-12-20,La Salle
+230,4,8:11,491,491,Kelly Jekot missed Three Point Jumper.,36,64,-28,0,0.001053769790903749,La Salle,Villanova,3,6,0,0,NA,400995930,2017-12-20,
+231,4,8:11,491,491,Jasmine White Defensive Rebound.,36,64,-28,20,0.001053769790903749,La Salle,Villanova,3,6,0,0,NA,400995930,2017-12-20,
+232,4,7:51,471,471,Adreana Miller missed Three Point Jumper.,36,64,-28,0,9.302427155363377e-4,La Salle,Villanova,3,6,0,0,NA,400995930,2017-12-20,
+233,4,7:51,471,471,Kelly Jekot Defensive Rebound.,36,64,-28,26,9.302427155363377e-4,La Salle,Villanova,3,6,0,0,NA,400995930,2017-12-20,
+234,4,7:25,445,445,Bridget Herlihy missed Layup.,36,64,-28,0,7.545591334758799e-4,La Salle,Villanova,3,6,0,0,NA,400995930,2017-12-20,
+235,4,7:25,445,445,Ashanti Freeland Defensive Rebound.,36,64,-28,19,7.545591334758799e-4,La Salle,Villanova,3,6,0,0,NA,400995930,2017-12-20,
+236,4,7:06,426,426,Rayshel Brown missed Jumper.,36,64,-28,0,6.147247949738769e-4,La Salle,Villanova,3,6,0,0,NA,400995930,2017-12-20,
+237,4,7:06,426,426,Adrianna Hahn Defensive Rebound.,36,64,-28,9,6.147247949738769e-4,La Salle,Villanova,3,6,0,0,NA,400995930,2017-12-20,
+238,4,6:57,417,417,Villanova  Timeout,36,64,-28,10,5.565506816340435e-4,La Salle,Villanova,3,5,0,1,NA,400995930,2017-12-20,
+239,4,6:47,407,407,Alex Louin missed Jumper.,36,64,-28,0,5.010262791876163e-4,La Salle,Villanova,3,5,0,1,NA,400995930,2017-12-20,
+240,4,6:47,407,407,Alex Louin Offensive Rebound.,36,64,-28,4,5.010262791876163e-4,La Salle,Villanova,3,5,0,1,NA,400995930,2017-12-20,
+241,4,6:43,403,403,Foul on Deja King.,36,64,-28,0,4.8086864350167926e-4,La Salle,Villanova,3,5,0,1,NA,400995930,2017-12-20,
+242,4,6:43,403,403,Alex Louin made Free Throw.,36,65,-29,0,3.660873596907507e-4,La Salle,Villanova,3,5,0,1,NA,400995930,2017-12-20,Villanova
+243,4,6:43,403,403,Alex Louin missed Free Throw.,36,65,-29,0,3.660873596907507e-4,La Salle,Villanova,3,5,0,1,NA,400995930,2017-12-20,
+244,4,6:43,403,403,La Salle Deadball Team Rebound.,36,65,-29,13,3.660873596907507e-4,La Salle,Villanova,3,5,0,1,NA,400995930,2017-12-20,
+245,4,6:30,390,390,Adreana Miller missed Layup.,36,65,-29,0,3.191667733387427e-4,La Salle,Villanova,3,5,0,1,NA,400995930,2017-12-20,
+246,4,6:30,390,390,Adreana Miller Offensive Rebound.,36,65,-29,14,3.191667733387427e-4,La Salle,Villanova,3,5,0,1,NA,400995930,2017-12-20,
+247,4,6:16,376,376,Adreana Miller missed Three Point Jumper.,36,65,-29,0,2.7428073873842835e-4,La Salle,Villanova,3,5,0,1,NA,400995930,2017-12-20,
+248,4,6:16,376,376,Jasmine White Offensive Rebound.,36,65,-29,6,2.7428073873842835e-4,La Salle,Villanova,3,5,0,1,NA,400995930,2017-12-20,
+249,4,6:10,370,370,Jasmine White missed Jumper.,36,65,-29,0,2.562223165501378e-4,La Salle,Villanova,3,5,0,1,NA,400995930,2017-12-20,
+250,4,6:10,370,370,Bridget Herlihy Defensive Rebound.,36,65,-29,8,2.562223165501378e-4,La Salle,Villanova,3,5,0,1,NA,400995930,2017-12-20,
+251,4,6:02,362,362,Mary Gedaka made Layup. Assisted by Bridget Herlihy.,36,67,-31,25,1.3084413780340003e-4,La Salle,Villanova,3,5,0,1,NA,400995930,2017-12-20,Villanova
+252,4,5:37,337,337,Foul on Kelly Jekot.,36,67,-31,10,9.035549127832187e-5,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+253,4,5:27,327,327,Deja King made Three Point Jumper. Assisted by Shaquana Edwards.,39,67,-28,24,1.8942928375130082e-4,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,La Salle
+254,4,5:03,303,303,Brianna Herlihy missed Layup.,39,67,-28,0,1.2242450045237902e-4,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+255,4,5:03,303,303,Rayshel Brown Defensive Rebound.,39,67,-28,16,1.2242450045237902e-4,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+256,4,4:47,287,287,Shaquana Edwards Turnover.,39,67,-28,1,1.1213850816225113e-4,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+257,4,4:46,286,286,Brianna Herlihy Steal.,39,67,-28,21,1.1225419753945932e-4,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+258,4,4:25,265,265,Bridget Herlihy made Layup. Assisted by Adrianna Hahn.,39,69,-30,11,6.692413130022533e-5,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,Villanova
+259,4,4:14,254,254,Foul on Brianna Herlihy.,39,69,-30,4,7.390142377367603e-5,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+260,4,4:10,250,250,Rayshel Brown missed Jumper.,39,69,-30,0,7.624611026622489e-5,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+261,4,4:10,250,250,Cameron Onken Defensive Rebound.,39,69,-30,24,7.624611026622489e-5,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+262,4,3:46,226,226,Raven James missed Jumper.,39,69,-30,0,7.724575960018583e-5,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+263,4,3:46,226,226,Brianna Herlihy Offensive Rebound.,39,69,-30,7,7.724575960018583e-5,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+264,4,3:39,219,219,Cameron Onken Turnover.,39,69,-30,1,7.078287546417168e-5,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+265,4,3:38,218,218,Deja King Steal.,39,69,-30,2,6.958844382070105e-5,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+266,4,3:36,216,216,Deja King made Layup.,41,69,-28,27,1.2717033265862405e-4,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,La Salle
+267,4,3:09,189,189,Cameron Onken made Three Point Jumper. Assisted by Grace Stant.,41,72,-31,13,1.567449107451846e-5,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,Villanova
+268,4,2:56,176,176,Foul on Raven James.,41,72,-31,12,6.706900595376681e-6,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+269,4,2:44,164,164,Shalina Miller made Jumper. Assisted by Rayshel Brown.,43,72,-29,0,6.722644881175123e-6,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,La Salle
+270,4,2:44,164,164,Foul on Brianna Herlihy.,43,72,-29,0,6.722644881175123e-6,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+271,4,2:44,164,164,Shalina Miller made Free Throw.,44,72,-28,12,1.0136762491653324e-5,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,La Salle
+272,4,2:32,152,152,Mary Gedaka missed Layup.,44,72,-28,0,4.575727726278111e-6,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+273,4,2:32,152,152,Jasmine White Defensive Rebound.,44,72,-28,12,4.575727726278111e-6,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+274,4,2:20,140,140,Foul on Brianna Herlihy.,44,72,-28,0,1.906914705311178e-6,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+275,4,2:20,140,140,Adreana Miller missed Free Throw.,44,72,-28,0,1.906914705311178e-6,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+276,4,2:20,140,140,La Salle Deadball Team Rebound.,44,72,-28,0,1.906914705311178e-6,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+277,4,2:20,140,140,Adreana Miller made Free Throw.,45,72,-27,25,3.052141220096796e-6,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,La Salle
+278,4,1:55,115,115,Brianna Herlihy missed Three Point Jumper.,45,72,-27,0,3.708011611529673e-7,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+279,4,1:55,115,115,Amber Wilks Defensive Rebound.,45,72,-27,14,3.708011611529673e-7,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+280,4,1:41,101,101,Adreana Miller made Layup.,47,72,-25,20,2.901350561627105e-7,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,La Salle
+281,4,1:21,81,81,Brianna Herlihy made Layup.,47,74,-27,10,7.897665446655349e-9,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,Villanova
+282,4,1:11,71,71,Foul on Raven James.,47,74,-27,0,2.1280554212728197e-9,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+283,4,1:11,71,71,Deja King made Free Throw.,48,74,-26,0,4.458294471710916e-9,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,La Salle
+284,4,1:11,71,71,Deja King made Free Throw.,49,74,-25,24,9.340165367442574e-9,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,La Salle
+285,4,0:47,47,47,Raven James missed Layup.,49,74,-25,0,3.699799749363057e-10,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+286,4,0:47,47,47,Brianna Herlihy Offensive Rebound.,49,74,-25,16,3.699799749363057e-10,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+287,4,0:31,31,31,Raven James made Layup.,49,76,-27,15,4.824984043721751e-12,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,Villanova
+288,4,0:16,16,16,Rayshel Brown missed Jumper.,49,76,-27,0,3.4867118063879395e-13,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+289,4,0:16,16,16,Villanova Defensive Rebound.,49,76,-27,16,3.4867118063879395e-13,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,
+290,4,0:00,0,0,End of Game,49,76,-27,0,3.02677244947294e-235,La Salle,Villanova,3,5,0,0,NA,400995930,2017-12-20,

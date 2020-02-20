@@ -1,0 +1,317 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:51,2391,2391,Yacine Diop Turnover.,0,0,0,0,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,NA
+2,1,9:51,2391,2391,Foul on Yacine Diop.,0,0,0,25,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+3,1,9:26,2366,2366,Cayla McMorris Turnover.,0,0,0,11,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+4,1,9:15,2355,2355,Yacine Diop missed Jumper.,0,0,0,0,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+5,1,9:15,2355,2355,Marsha Howard Defensive Rebound.,0,0,0,13,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+6,1,9:02,2342,2342,Abby Laszewski Turnover.,0,0,0,11,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+7,1,8:51,2331,2331,Kalista Walters made Jumper. Assisted by Danielle Garven.,2,0,2,26,0.5455040576359357,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Pittsburgh
+8,1,8:25,2305,2305,Cayla McMorris Turnover.,2,0,2,1,0.5460764925484636,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+9,1,8:24,2304,2304,Alayna Gribble Steal.,2,0,2,5,0.5460986569417104,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+10,1,8:19,2299,2299,Danielle Garven missed Jumper.,2,0,2,0,0.5462096345603725,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+11,1,8:19,2299,2299,Niya Beverley Defensive Rebound.,2,0,2,8,0.5462096345603725,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+12,1,8:11,2291,2291,Kendra Van Leeuwen missed Jumper.,2,0,2,0,0.546387725577138,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+13,1,8:11,2291,2291,Jasmine Whitney Block.,2,0,2,0,0.546387725577138,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+14,1,8:11,2291,2291,Kendra Van Leeuwen Offensive Rebound.,2,0,2,3,0.546387725577138,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+15,1,8:08,2288,2288,Cayla McMorris missed Layup.,2,0,2,0,0.5464546722449519,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+16,1,8:08,2288,2288,Marsha Howard Offensive Rebound.,2,0,2,2,0.5464546722449519,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+17,1,8:06,2286,2286,Marsha Howard made Jumper.,2,2,0,15,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Wisconsin
+18,1,7:51,2271,2271,Yacine Diop missed Three Point Jumper.,2,2,0,0,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+19,1,7:51,2271,2271,Abby Laszewski Defensive Rebound.,2,2,0,11,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+20,1,7:40,2260,2260,Cayla McMorris Turnover.,2,2,0,1,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+21,1,7:39,2259,2259,Kalista Walters Steal.,2,2,0,36,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+22,1,7:03,2223,2223,Jasmine Whitney made Jumper.,4,2,2,21,0.5479240095827266,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Pittsburgh
+23,1,6:42,2202,2202,Abby Laszewski Turnover.,4,2,2,25,0.5484050032906047,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+24,1,6:17,2177,2177,Alayna Gribble missed Three Point Jumper.,4,2,2,0,0.5489804998329268,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+25,1,6:17,2177,2177,Marsha Howard Defensive Rebound.,4,2,2,14,0.5489804998329268,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+26,1,6:03,2163,2163,Courtney Fredrickson missed Layup.,4,2,2,0,0.5493039593446217,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+27,1,6:03,2163,2163,Kalista Walters Defensive Rebound.,4,2,2,8,0.5493039593446217,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+28,1,5:55,2155,2155,Alayna Gribble Turnover.,4,2,2,13,0.5494893923142233,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+29,1,5:42,2142,2142,Courtney Fredrickson missed Jumper.,4,2,2,0,0.5497917817235468,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+30,1,5:42,2142,2142,Danielle Garven Defensive Rebound.,4,2,2,6,0.5497917817235468,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+31,1,5:36,2136,2136,Danielle Garven Turnover.,4,2,2,1,0.549931806297836,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+32,1,5:35,2135,2135,Roichelle Marble Steal.,4,2,2,25,0.5499551727708791,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+33,1,5:10,2110,2110,Kendra Van Leeuwen Turnover.,4,2,2,1,0.5505421479818391,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+34,1,5:09,2109,2109,Danielle Garven Steal.,4,2,2,7,0.5505657434540481,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+35,1,5:02,2102,2102,Danielle Garven made Jumper. Assisted by Alayna Gribble.,6,2,4,32,0.600428474146825,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Pittsburgh
+36,1,4:30,2070,2070,Foul on Alayna Gribble.,6,2,4,0,0.601906192513953,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+37,1,4:30,2070,2070,Official TV Timeout,6,2,4,3,0.601906192513953,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+38,1,4:27,2067,2067,Kendra Van Leeuwen Turnover.,6,2,4,1,0.6020456997338557,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+39,1,4:26,2066,2066,Jasmine Whitney Steal.,6,2,4,4,0.6020922406369075,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+40,1,4:22,2062,2062,Danielle Garven missed Jumper.,6,2,4,0,0.602278598395699,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+41,1,4:22,2062,2062,Roichelle Marble Defensive Rebound.,6,2,4,12,0.602278598395699,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+42,1,4:10,2050,2050,Courtney Fredrickson missed Jumper.,6,2,4,0,0.60283956939799,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+43,1,4:10,2050,2050,Danielle Garven Block.,6,2,4,0,0.60283956939799,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+44,1,4:10,2050,2050,Wisconsin Offensive Rebound.,6,2,4,3,0.60283956939799,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+45,1,4:07,2047,2047,Courtney Fredrickson made Jumper. Assisted by Kendra Van Leeuwen.,6,4,2,30,0.5520480805352422,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Wisconsin
+46,1,3:37,2017,2017,Kalista Walters Turnover.,6,4,2,23,0.5527804937127703,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+47,1,3:14,1994,1994,Roichelle Marble made Three Point Jumper. Assisted by Niya Beverley.,6,7,-1,11,0.4732489017809514,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Wisconsin
+48,1,3:03,1983,1983,Kauai Bradley missed Three Point Jumper.,6,7,-1,0,0.47311043619191506,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+49,1,3:03,1983,1983,Roichelle Marble Defensive Rebound.,6,7,-1,18,0.47311043619191506,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+50,1,2:45,1965,1965,Courtney Fredrickson made Jumper.,6,9,-3,20,0.41927870065997547,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Wisconsin
+51,1,2:25,1945,1945,Danielle Garven made Jumper.,8,9,-1,22,0.4726255353614977,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Pittsburgh
+52,1,2:03,1923,1923,Roichelle Marble made Layup.,8,11,-3,17,0.41769142115690044,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Wisconsin
+53,1,1:46,1906,1906,Kauai Bradley missed Three Point Jumper.,8,11,-3,0,0.41704532457526233,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+54,1,1:46,1906,1906,Abby Laszewski Defensive Rebound.,8,11,-3,13,0.41704532457526233,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+55,1,1:33,1893,1893,Courtney Fredrickson missed Jumper.,8,11,-3,0,0.4165519282162206,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+56,1,1:33,1893,1893,Pittsburgh Defensive Rebound.,8,11,-3,17,0.4165519282162206,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+57,1,1:16,1876,1876,Yacine Diop missed Jumper.,8,11,-3,0,0.41590669705694366,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+58,1,1:16,1876,1876,Cayla McMorris Defensive Rebound.,8,11,-3,15,0.41590669705694366,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+59,1,1:01,1861,1861,Cayla McMorris missed Layup.,8,11,-3,0,0.4153365405766184,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+60,1,1:01,1861,1861,Pittsburgh Defensive Rebound.,8,11,-3,10,0.4153365405766184,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+61,1,0:51,1851,1851,Cassidy Walsh missed Three Point Jumper.,8,11,-3,0,0.4149556055664155,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+62,1,0:51,1851,1851,Yacine Diop Offensive Rebound.,8,11,-3,7,0.4149556055664155,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+63,1,0:44,1844,1844,Foul on Abby Laszewski.,8,11,-3,0,0.41468841227594394,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+64,1,0:44,1844,1844,Kalista Walters missed Free Throw.,8,11,-3,0,0.41468841227594394,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+65,1,0:44,1844,1844,Pittsburgh Deadball Team Rebound.,8,11,-3,0,0.41468841227594394,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+66,1,0:44,1844,1844,Kalista Walters made Free Throw.,9,11,-2,3,0.4428151577186491,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Pittsburgh
+67,1,0:41,1841,1841,Suzanne Gilreath missed Three Point Jumper.,9,11,-2,0,0.44273744711950436,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+68,1,0:41,1841,1841,Kyla Nelson Defensive Rebound.,9,11,-2,15,0.44273744711950436,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+69,1,0:26,1826,1826,Kalista Walters missed Jumper.,9,11,-2,0,0.44234770370639437,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+70,1,0:26,1826,1826,Cayla McMorris Defensive Rebound.,9,11,-2,9,0.44234770370639437,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+71,1,0:17,1817,1817,Marsha Howard made Layup. Assisted by Niya Beverley.,9,13,-4,16,0.3857567979387695,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Wisconsin
+72,1,0:01,1801,1801,Kyla Nelson made Three Point Jumper.,12,13,-1,1,0.47074651711344045,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Pittsburgh
+73,1,0:00,1800,1800,End of 1st Quarter,12,13,-1,19,0.47073319422403154,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+74,2,9:41,1781,1781,Kyla Nelson missed Jumper.,12,13,-1,0,0.4704785569480639,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+75,2,9:41,1781,1781,Marsha Howard Defensive Rebound.,12,13,-1,25,0.4704785569480639,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+76,2,9:16,1756,1756,Courtney Fredrickson Turnover.,12,13,-1,0,0.4701385191826093,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+77,2,9:16,1756,1756,Cassidy Walsh Steal.,12,13,-1,0,0.4701385191826093,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+78,2,9:16,1756,1756,Foul on Niya Beverley.,12,13,-1,18,0.4701385191826093,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+79,2,8:58,1738,1738,Foul on Kendra Van Leeuwen.,12,13,-1,0,0.46988956170164276,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+80,2,8:58,1738,1738,Yacine Diop missed Free Throw.,12,13,-1,0,0.46988956170164276,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+81,2,8:58,1738,1738,Pittsburgh Deadball Team Rebound.,12,13,-1,0,0.46988956170164276,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+82,2,8:58,1738,1738,Yacine Diop made Free Throw.,13,13,0,15,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Pittsburgh
+83,2,8:43,1723,1723,Cayla McMorris made Layup. Assisted by Courtney Fredrickson.,13,15,-2,19,0.43958035874101997,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Wisconsin
+84,2,8:24,1704,1704,Yacine Diop missed Three Point Jumper.,13,15,-2,0,0.43904441595867133,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+85,2,8:24,1704,1704,Courtney Fredrickson Defensive Rebound.,13,15,-2,11,0.43904441595867133,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+86,2,8:13,1693,1693,Marsha Howard made Jumper. Assisted by Niya Beverley.,13,17,-4,28,0.379271685512249,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Wisconsin
+87,2,7:45,1665,1665,Pika Rodriguez made Three Point Jumper. Assisted by Kalista Walters.,16,17,-1,11,0.46884645017372434,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Pittsburgh
+88,2,7:34,1654,1654,Cayla McMorris missed Three Point Jumper.,16,17,-1,0,0.46869229706016247,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+89,2,7:34,1654,1654,Kyla Nelson Defensive Rebound.,16,17,-1,13,0.46869229706016247,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+90,2,7:21,1641,1641,Yacine Diop missed Jumper.,16,17,-1,0,0.4685122753419046,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+91,2,7:21,1641,1641,Marsha Howard Defensive Rebound.,16,17,-1,25,0.4685122753419046,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+92,2,6:56,1616,1616,Foul on Yacine Diop.,16,17,-1,8,0.4681705229978664,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+93,2,6:48,1608,1608,Foul on Danielle Garven.,16,17,-1,5,0.4680618410972221,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+94,2,6:43,1603,1603,Cayla McMorris Turnover.,16,17,-1,19,0.46799396900193746,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+95,2,6:24,1584,1584,Foul on Cayla McMorris.,16,17,-1,0,0.46773576679770273,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+96,2,6:24,1584,1584,Danielle Garven made Free Throw.,17,17,0,0,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Pittsburgh
+97,2,6:24,1584,1584,Danielle Garven missed Free Throw.,17,17,0,0,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+98,2,6:24,1584,1584,Cayla McMorris Defensive Rebound.,17,17,0,25,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+99,2,5:59,1559,1559,Cayla McMorris missed Layup.,17,17,0,0,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+100,2,5:59,1559,1559,Abby Laszewski Offensive Rebound.,17,17,0,3,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+101,2,5:56,1556,1556,Abby Laszewski missed Layup.,17,17,0,0,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+102,2,5:56,1556,1556,Marsha Howard Offensive Rebound.,17,17,0,1,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+103,2,5:55,1555,1555,Foul on Kauai Bradley.,17,17,0,0,0.5,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+104,2,5:55,1555,1555,Abby Laszewski made Free Throw.,17,18,-1,0,0.46733741357567177,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Wisconsin
+105,2,5:55,1555,1555,Abby Laszewski made Free Throw.,17,19,-2,11,0.43495240982014094,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Wisconsin
+106,2,5:44,1544,1544,Danielle Garven missed Jumper.,17,19,-2,0,0.4346490701294855,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+107,2,5:44,1544,1544,Abby Laszewski Defensive Rebound.,17,19,-2,23,0.4346490701294855,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+108,2,5:21,1521,1521,Suzanne Gilreath missed Layup.,17,19,-2,0,0.434001602915687,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+109,2,5:21,1521,1521,Kalista Walters Defensive Rebound.,17,19,-2,23,0.434001602915687,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+110,2,4:58,1498,1498,Jasmine Whitney missed Three Point Jumper.,17,19,-2,0,0.4333308349475296,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+111,2,4:58,1498,1498,Wisconsin Defensive Rebound.,17,19,-2,2,0.4333308349475296,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+112,2,4:56,1496,1496,Official TV Timeout,17,19,-2,14,0.433271190398763,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+113,2,4:42,1482,1482,Suzanne Gilreath made Three Point Jumper. Assisted by Niya Beverley.,17,22,-5,19,0.33724135342119876,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Wisconsin
+114,2,4:23,1463,1463,Alayna Gribble missed Three Point Jumper.,17,22,-5,0,0.3358850426247731,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+115,2,4:23,1463,1463,Roichelle Marble Defensive Rebound.,17,22,-5,31,0.3358850426247731,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+116,2,3:52,1432,1432,Foul on Kauai Bradley.,17,22,-5,10,0.33359888600788673,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+117,2,3:42,1422,1422,Marsha Howard made Jumper. Assisted by Roichelle Marble.,17,24,-7,15,0.27423568371174417,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Wisconsin
+118,2,3:27,1407,1407,Kyla Nelson made Three Point Jumper. Assisted by Jasmine Whitney.,20,24,-4,25,0.36356556901434633,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Pittsburgh
+119,2,3:02,1382,1382,Cayla McMorris missed Jumper.,20,24,-4,0,0.3621375252295142,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+120,2,3:02,1382,1382,Marsha Howard Offensive Rebound.,20,24,-4,5,0.3621375252295142,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+121,2,2:57,1377,1377,Marsha Howard Turnover.,20,24,-4,1,0.36185477537556715,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+122,2,2:56,1376,1376,Kauai Bradley Steal.,20,24,-4,3,0.361798283244908,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+123,2,2:53,1373,1373,Kauai Bradley Turnover.,20,24,-4,3,0.3616288897924611,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+124,2,2:50,1370,1370,Suzanne Gilreath Steal.,20,24,-4,1,0.361459582582674,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+125,2,2:49,1369,1369,Suzanne Gilreath made Layup.,20,26,-6,5,0.29861143994577294,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Wisconsin
+126,2,2:44,1364,1364,Foul on Niya Beverley.,20,26,-6,12,0.29822747189240706,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+127,2,2:32,1352,1352,Kalista Walters Turnover.,20,26,-6,16,0.29730505462724016,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+128,2,2:16,1336,1336,Marsha Howard missed Layup.,20,26,-6,0,0.2960671673298584,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+129,2,2:16,1336,1336,Kalista Walters Block.,20,26,-6,0,0.2960671673298584,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+130,2,2:16,1336,1336,Pittsburgh Defensive Rebound.,20,26,-6,21,0.2960671673298584,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+131,2,1:55,1315,1315,Kauai Bradley made Three Point Jumper. Assisted by Jasmine Whitney.,23,26,-3,20,0.39245058384886455,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Pittsburgh
+132,2,1:35,1295,1295,Courtney Fredrickson made Jumper.,23,28,-5,13,0.3241203384702752,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Wisconsin
+133,2,1:22,1282,1282,Kalista Walters missed Jumper.,23,28,-5,0,0.3231579245916235,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+134,2,1:22,1282,1282,Marsha Howard Defensive Rebound.,23,28,-5,22,0.3231579245916235,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+135,2,1:00,1260,1260,Courtney Fredrickson missed Jumper.,23,28,-5,0,0.32145758172056954,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+136,2,1:00,1260,1260,Cayla McMorris Offensive Rebound.,23,28,-5,5,0.32145758172056954,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+137,2,0:55,1255,1255,Foul on Cassidy Walsh.,23,28,-5,0,0.32105671780127676,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+138,2,0:55,1255,1255,Cayla McMorris made Free Throw.,23,29,-6,0,0.28931694934408797,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Wisconsin
+139,2,0:55,1255,1255,Cayla McMorris missed Free Throw.,23,29,-6,0,0.28931694934408797,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+140,2,0:55,1255,1255,Jasmine Whitney Defensive Rebound.,23,29,-6,6,0.28931694934408797,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+141,2,0:49,1249,1249,Kyla Nelson made Three Point Jumper. Assisted by Jasmine Whitney.,26,29,-3,12,0.38919483350713374,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Pittsburgh
+142,2,0:37,1237,1237,Foul on Danielle Garven.,26,29,-3,0,0.3885364334611618,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+143,2,0:37,1237,1237,Courtney Fredrickson made Free Throw.,26,30,-4,0,0.3532863790850337,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Wisconsin
+144,2,0:37,1237,1237,Courtney Fredrickson made Free Throw.,26,31,-5,13,0.31956301926625397,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Wisconsin
+145,2,0:24,1224,1224,Jasmine Whitney made Three Point Jumper.,29,31,-2,19,0.42448262532549014,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,Pittsburgh
+146,2,0:05,1205,1205,Marsha Howard Turnover.,29,31,-2,0,0.42369788789132345,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+147,2,0:05,1205,1205,Foul on Marsha Howard.,29,31,-2,4,0.42369788789132345,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+148,2,0:01,1201,1201,Jasmine Whitney Turnover.,29,31,-2,0,0.4235319432624558,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+149,2,0:01,1201,1201,Roichelle Marble Steal.,29,31,-2,1,0.4235319432624558,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+150,2,0:00,1200,1200,End of 2nd Quarter,29,31,-2,10,0.4234906714856242,Pittsburgh,Wisconsin,4,4,0,0,NA,400993835,2017-11-29,
+151,3,9:50,1190,1190,Alayna Gribble missed Jumper.,29,31,-2,0,0.42308230172380085,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+152,3,9:50,1190,1190,Marsha Howard Defensive Rebound.,29,31,-2,18,0.42308230172380085,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+153,3,9:32,1172,1172,Cayla McMorris Turnover.,29,31,-2,1,0.4223638977476902,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+154,3,9:31,1171,1171,Danielle Garven Steal.,29,31,-2,10,0.42232449172321823,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+155,3,9:21,1161,1161,Danielle Garven Turnover.,29,31,-2,1,0.4219326466541057,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+156,3,9:20,1160,1160,Kendra Van Leeuwen Steal.,29,31,-2,17,0.42189365429561887,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+157,3,9:03,1143,1143,Abby Laszewski Turnover.,29,31,-2,11,0.4212342244718186,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+158,3,8:52,1132,1132,Yacine Diop made Jumper.,31,31,0,24,0.5,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,Pittsburgh
+159,3,8:28,1108,1108,Foul on Alayna Gribble.,31,31,0,4,0.5,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+160,3,8:24,1104,1104,Marsha Howard missed Layup.,31,31,0,0,0.5,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+161,3,8:24,1104,1104,Marsha Howard Offensive Rebound.,31,31,0,1,0.5,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+162,3,8:23,1103,1103,Marsha Howard missed Layup.,31,31,0,0,0.5,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+163,3,8:23,1103,1103,Danielle Garven Defensive Rebound.,31,31,0,17,0.5,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+164,3,8:06,1086,1086,Yacine Diop made Layup.,33,31,2,23,0.5809995686698094,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,Pittsburgh
+165,3,7:43,1063,1063,Kendra Van Leeuwen missed Layup.,33,31,2,0,0.58195035032309,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+166,3,7:43,1063,1063,Abby Laszewski Offensive Rebound.,33,31,2,3,0.58195035032309,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+167,3,7:40,1060,1060,Abby Laszewski made Jumper.,33,33,0,21,0.5,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,Wisconsin
+168,3,7:19,1039,1039,Jasmine Whitney missed Jumper.,33,33,0,0,0.5,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+169,3,7:19,1039,1039,Niya Beverley Defensive Rebound.,33,33,0,15,0.5,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+170,3,7:04,1024,1024,Marsha Howard made Jumper.,33,35,-2,15,0.416309077630803,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,Wisconsin
+171,3,6:49,1009,1009,Danielle Garven missed Three Point Jumper.,33,35,-2,0,0.4155829375044146,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+172,3,6:49,1009,1009,Cayla McMorris Defensive Rebound.,33,35,-2,9,0.4155829375044146,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+173,3,6:40,1000,1000,Niya Beverley missed Layup.,33,35,-2,0,0.4151291611331289,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+174,3,6:40,1000,1000,Abby Laszewski Offensive Rebound.,33,35,-2,1,0.4151291611331289,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+175,3,6:39,999,999,Foul on Kalista Walters.,33,35,-2,0,0.4150778494361092,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+176,3,6:39,999,999,Abby Laszewski made Free Throw.,33,36,-3,0,0.3741347639397898,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,Wisconsin
+177,3,6:39,999,999,Abby Laszewski made Free Throw.,33,37,-4,9,0.3349178382913661,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,Wisconsin
+178,3,6:30,990,990,Jasmine Whitney made Jumper.,35,37,-2,23,0.4146076431860001,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,Pittsburgh
+179,3,6:07,967,967,Courtney Fredrickson missed Jumper.,35,37,-2,0,0.41333456294848997,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+180,3,6:07,967,967,Cayla McMorris Offensive Rebound.,35,37,-2,3,0.41333456294848997,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+181,3,6:04,964,964,Cayla McMorris made Layup.,35,39,-4,19,0.33141893897813307,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,Wisconsin
+182,3,5:45,945,945,Kalista Walters made Jumper. Assisted by Jasmine Whitney.,37,39,-2,16,0.41217055684392784,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,Pittsburgh
+183,3,5:29,929,929,Cayla McMorris made Jumper.,37,41,-4,1,0.3281968270342112,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,Wisconsin
+184,3,5:28,928,928,Cayla McMorris missed Free Throw.,37,41,-4,0,0.32811240698979616,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+185,3,5:28,928,928,Foul on Jaala Henry.,37,41,-4,0,0.32811240698979616,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+186,3,5:28,928,928,Jaala Henry Defensive Rebound.,37,41,-4,11,0.32811240698979616,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+187,3,5:17,917,917,Kyla Nelson missed Three Point Jumper.,37,41,-4,0,0.3272043176478438,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+188,3,5:17,917,917,Courtney Fredrickson Defensive Rebound.,37,41,-4,13,0.3272043176478438,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+189,3,5:04,904,904,Marsha Howard Turnover.,37,41,-4,0,0.326170321979489,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+190,3,5:04,904,904,Foul on Marsha Howard.,37,41,-4,12,0.326170321979489,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+191,3,4:52,892,892,Kalista Walters Turnover.,37,41,-4,2,0.3252407053897313,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+192,3,4:50,890,890,Marsha Howard Steal.,37,41,-4,19,0.32508719245880463,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+193,3,4:31,871,871,Foul on Kalista Walters.,37,41,-4,0,0.32363359427523486,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+194,3,4:31,871,871,Official TV Timeout,37,41,-4,0,0.32363359427523486,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+195,3,4:31,871,871,Marsha Howard made Free Throw.,37,42,-5,0,0.28467196824701824,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,Wisconsin
+196,3,4:31,871,871,Marsha Howard made Free Throw.,37,43,-6,9,0.24867631872157256,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,Wisconsin
+197,3,4:22,862,862,Yacine Diop made Jumper. Assisted by Kyla Nelson.,39,43,-4,19,0.32293920642188306,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,Pittsburgh
+198,3,4:03,843,843,Kendra Van Leeuwen missed Jumper.,39,43,-4,0,0.32143183217293053,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+199,3,4:03,843,843,Yacine Diop Defensive Rebound.,39,43,-4,6,0.32143183217293053,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+200,3,3:57,837,837,Kyla Nelson missed Three Point Jumper.,39,43,-4,0,0.32093823767404195,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+201,3,3:57,837,837,Yacine Diop Offensive Rebound.,39,43,-4,17,0.32093823767404195,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+202,3,3:40,820,820,Yacine Diop Turnover.,39,43,-4,0,0.31947504746988437,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+203,3,3:40,820,820,Foul on Yacine Diop.,39,43,-4,14,0.31947504746988437,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+204,3,3:26,806,806,Suzanne Gilreath made Three Point Jumper. Assisted by Courtney Fredrickson.,39,46,-7,14,0.2085381751413546,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,Wisconsin
+205,3,3:12,792,792,Yacine Diop made Three Point Jumper.,42,46,-4,27,0.316783829194432,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,Pittsburgh
+206,3,2:45,765,765,Roichelle Marble Turnover.,42,46,-4,1,0.3137380445411841,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+207,3,2:44,764,764,Kauai Bradley Steal.,42,46,-4,4,0.31361502495519394,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+208,3,2:40,760,760,Foul on Cayla McMorris.,42,46,-4,0,0.31311496493603425,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+209,3,2:40,760,760,Kauai Bradley missed Free Throw.,42,46,-4,0,0.31311496493603425,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+210,3,2:40,760,760,Pittsburgh Deadball Team Rebound.,42,46,-4,0,0.31311496493603425,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+211,3,2:40,760,760,Kauai Bradley missed Free Throw.,42,46,-4,0,0.31311496493603425,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+212,3,2:40,760,760,Abby Laszewski Defensive Rebound.,42,46,-4,11,0.31311496493603425,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+213,3,2:29,749,749,Foul on Jaala Henry.,42,46,-4,0,0.31167116340663636,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+214,3,2:29,749,749,Niya Beverley made Free Throw.,42,47,-5,0,0.27083356731821806,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,Wisconsin
+215,3,2:29,749,749,Niya Beverley made Free Throw.,42,48,-6,16,0.23353142963688273,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,Wisconsin
+216,3,2:13,733,733,Jasmine Whitney missed Jumper.,42,48,-6,0,0.23066729370197603,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+217,3,2:13,733,733,Niya Beverley Defensive Rebound.,42,48,-6,6,0.23066729370197603,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+218,3,2:07,727,727,Cayla McMorris made Layup. Assisted by Niya Beverley.,42,50,-8,2,0.16594795234099238,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,Wisconsin
+219,3,2:05,725,725,Pittsburgh  Timeout,42,50,-8,14,0.16556142687872516,Pittsburgh,Wisconsin,4,5,1,0,NA,400993835,2017-11-29,
+220,3,1:51,711,711,Yacine Diop missed Three Point Jumper.,42,50,-8,0,0.1630276846091607,Pittsburgh,Wisconsin,4,5,1,0,NA,400993835,2017-11-29,
+221,3,1:51,711,711,Kauai Bradley Offensive Rebound.,42,50,-8,9,0.1630276846091607,Pittsburgh,Wisconsin,4,5,1,0,NA,400993835,2017-11-29,
+222,3,1:42,702,702,Foul on Suzanne Gilreath.,42,50,-8,7,0.1615340143331071,Pittsburgh,Wisconsin,4,5,1,0,NA,400993835,2017-11-29,
+223,3,1:35,695,695,Kyla Nelson Turnover.,42,50,-8,3,0.1604304634252576,Pittsburgh,Wisconsin,4,5,1,0,NA,400993835,2017-11-29,
+224,3,1:32,692,692,Niya Beverley Steal.,42,50,-8,3,0.159970639634639,Pittsburgh,Wisconsin,4,5,1,0,NA,400993835,2017-11-29,
+225,3,1:29,689,689,Suzanne Gilreath missed Three Point Jumper.,42,50,-8,0,0.159517700001523,Pittsburgh,Wisconsin,4,5,1,0,NA,400993835,2017-11-29,
+226,3,1:29,689,689,Yacine Diop Defensive Rebound.,42,50,-8,9,0.159517700001523,Pittsburgh,Wisconsin,4,5,1,0,NA,400993835,2017-11-29,
+227,3,1:20,680,680,Foul on Suzanne Gilreath.,42,50,-8,0,0.15819343849718245,Pittsburgh,Wisconsin,4,5,1,0,NA,400993835,2017-11-29,
+228,3,1:20,680,680,Yacine Diop made Free Throw.,43,50,-7,0,0.18804475732890102,Pittsburgh,Wisconsin,4,5,1,0,NA,400993835,2017-11-29,Pittsburgh
+229,3,1:20,680,680,Yacine Diop missed Free Throw.,43,50,-7,0,0.18804475732890102,Pittsburgh,Wisconsin,4,5,1,0,NA,400993835,2017-11-29,
+230,3,1:20,680,680,Marsha Howard Defensive Rebound.,43,50,-7,25,0.18804475732890102,Pittsburgh,Wisconsin,4,5,1,0,NA,400993835,2017-11-29,
+231,3,0:55,655,655,Marsha Howard missed Jumper.,43,50,-7,0,0.1844931578163984,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,
+232,3,0:55,655,655,Danielle Garven Defensive Rebound.,43,50,-7,1,0.1844931578163984,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,
+233,3,0:54,654,654,Foul on Kendra Van Leeuwen.,43,50,-7,0,0.18435167933407645,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,
+234,3,0:54,654,654,Danielle Garven missed Free Throw.,43,50,-7,0,0.18435167933407645,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,
+235,3,0:54,654,654,Pittsburgh Deadball Team Rebound.,43,50,-7,0,0.18435167933407645,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,
+236,3,0:54,654,654,Danielle Garven missed Free Throw.,43,50,-7,0,0.18435167933407645,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,
+237,3,0:54,654,654,Marsha Howard Defensive Rebound.,43,50,-7,25,0.18435167933407645,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,
+238,3,0:29,629,629,Niya Beverley missed Jumper.,43,50,-7,0,0.18070344447983283,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,
+239,3,0:29,629,629,Kalista Walters Block.,43,50,-7,1,0.18070344447983283,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,
+240,3,0:28,628,628,Jasmine Whitney Defensive Rebound.,43,50,-7,6,0.18055048562600765,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,
+241,3,0:22,622,622,Cassidy Walsh missed Three Point Jumper.,43,50,-7,0,0.17961655626225229,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,
+242,3,0:22,622,622,Danielle Garven Offensive Rebound.,43,50,-7,4,0.17961655626225229,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,
+243,3,0:18,618,618,Danielle Garven missed Layup.,43,50,-7,0,0.1789769969578983,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,
+244,3,0:18,618,618,Cayla McMorris Block.,43,50,-7,2,0.1789769969578983,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,
+245,3,0:16,616,616,Niya Beverley Defensive Rebound.,43,50,-7,6,0.17865163914769028,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,
+246,3,0:10,610,610,Cayla McMorris made Jumper.,43,52,-9,0,0.12237236535860657,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,Wisconsin
+247,3,0:10,610,610,Foul on Jasmine Whitney.,43,52,-9,0,0.12237236535860657,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,
+248,3,0:10,610,610,Cayla McMorris made Free Throw.,43,53,-10,6,0.10073723300289117,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,Wisconsin
+249,3,0:04,604,604,Jasmine Whitney missed Three Point Jumper.,43,53,-10,0,0.09981751207878926,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,
+250,3,0:04,604,604,Cayla McMorris Defensive Rebound.,43,53,-10,4,0.09981751207878926,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,
+251,3,0:00,600,600,End of 3rd Quarter,43,53,-10,17,0.09918489164439363,Pittsburgh,Wisconsin,4,5,0,0,NA,400993835,2017-11-29,
+252,4,9:43,583,583,Yacine Diop missed Jumper.,43,53,-10,0,0.09629946398993872,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+253,4,9:43,583,583,Niya Beverley Defensive Rebound.,43,53,-10,22,0.09629946398993872,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+254,4,9:21,561,561,Cayla McMorris missed Layup.,43,53,-10,0,0.09201653263707978,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+255,4,9:21,561,561,Kalista Walters Block.,43,53,-10,0,0.09201653263707978,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+256,4,9:21,561,561,Pittsburgh Defensive Rebound.,43,53,-10,11,0.09201653263707978,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+257,4,9:10,550,550,Pika Rodriguez made Three Point Jumper. Assisted by Kalista Walters.,46,53,-7,19,0.1648110711074176,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,Pittsburgh
+258,4,8:51,531,531,Marsha Howard made Jumper.,46,55,-9,25,0.1062934909625017,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,Wisconsin
+259,4,8:26,506,506,Jasmine Whitney Turnover.,46,55,-9,5,0.101927116275654,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+260,4,8:21,501,501,Niya Beverley Turnover.,46,55,-9,8,0.10110979608150752,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+261,4,8:13,493,493,Yacine Diop made Jumper. Assisted by Jasmine Whitney.,48,55,-7,14,0.1530725418106139,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,Pittsburgh
+262,4,7:59,479,479,Wisconsin  Turnover.,48,55,-7,16,0.15037625808007107,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+263,4,7:43,463,463,Pika Rodriguez Turnover.,48,55,-7,31,0.14690210852277372,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+264,4,7:12,432,432,Kendra Van Leeuwen missed Three Point Jumper.,48,55,-7,0,0.13810967538642335,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+265,4,7:12,432,432,Wisconsin Deadball Team Rebound.,48,55,-7,1,0.13810967538642335,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+266,4,7:11,431,431,Wisconsin  Turnover.,48,55,-7,2,0.13776787548262953,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+267,4,7:09,429,429,Official TV Timeout,48,55,-7,8,0.13707576635738958,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+268,4,7:01,421,421,Yacine Diop made Jumper.,50,55,-5,25,0.20910969124533635,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,Pittsburgh
+269,4,6:36,396,396,Kendra Van Leeuwen missed Three Point Jumper.,50,55,-5,0,0.20150417525503372,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+270,4,6:36,396,396,Yacine Diop Defensive Rebound.,50,55,-5,12,0.20150417525503372,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+271,4,6:24,384,384,Pika Rodriguez missed Three Point Jumper.,50,55,-5,0,0.19799348923911364,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+272,4,6:24,384,384,Cayla McMorris Defensive Rebound.,50,55,-5,20,0.19799348923911364,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+273,4,6:04,364,364,Cayla McMorris missed Jumper.,50,55,-5,0,0.1918623115565306,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+274,4,6:04,364,364,Kalista Walters Block.,50,55,-5,0,0.1918623115565306,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+275,4,6:04,364,364,Wisconsin Offensive Rebound.,50,55,-5,13,0.1918623115565306,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+276,4,5:51,351,351,Marsha Howard missed Three Point Jumper.,50,55,-5,0,0.18745592668340821,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+277,4,5:51,351,351,Wisconsin Deadball Team Rebound.,50,55,-5,0,0.18745592668340821,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+278,4,5:51,351,351,Wisconsin  Turnover.,50,55,-5,26,0.18745592668340821,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+279,4,5:25,325,325,Jasmine Whitney made Layup. Assisted by Kalista Walters.,52,55,-3,27,0.28454198128958624,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,Pittsburgh
+280,4,4:58,298,298,Niya Beverley missed Three Point Jumper.,52,55,-3,0,0.27475451467699313,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+281,4,4:58,298,298,Courtney Fredrickson Offensive Rebound.,52,55,-3,3,0.27475451467699313,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+282,4,4:55,295,295,Courtney Fredrickson missed Jumper.,52,55,-3,0,0.27433738608466623,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+283,4,4:55,295,295,Pittsburgh Defensive Rebound.,52,55,-3,19,0.27433738608466623,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+284,4,4:36,276,276,Pika Rodriguez made Three Point Jumper. Assisted by Yacine Diop.,55,55,0,24,0.5,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,Pittsburgh
+285,4,4:12,252,252,Courtney Fredrickson missed Jumper.,55,55,0,0,0.5,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+286,4,4:12,252,252,Cayla McMorris Offensive Rebound.,55,55,0,2,0.5,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+287,4,4:10,250,250,Foul on Kalista Walters.,55,55,0,4,0.5,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+288,4,4:06,246,246,Cayla McMorris missed Jumper.,55,55,0,0,0.5,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+289,4,4:06,246,246,Kalista Walters Defensive Rebound.,55,55,0,22,0.5,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+290,4,3:44,224,224,Foul on Marsha Howard.,55,55,0,0,0.5,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+291,4,3:44,224,224,Yacine Diop made Free Throw.,56,55,1,0,0.5784142387600146,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,Pittsburgh
+292,4,3:44,224,224,Yacine Diop made Free Throw.,57,55,2,22,0.6530638459984845,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,Pittsburgh
+293,4,3:22,202,202,Marsha Howard missed Layup.,57,55,2,0,0.6611952127657825,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+294,4,3:22,202,202,Kalista Walters Defensive Rebound.,57,55,2,8,0.6611952127657825,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+295,4,3:14,194,194,Yacine Diop missed Jumper.,57,55,2,0,0.6668518985385763,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+296,4,3:14,194,194,Kendra Van Leeuwen Defensive Rebound.,57,55,2,9,0.6668518985385763,Pittsburgh,Wisconsin,5,6,0,0,NA,400993835,2017-11-29,
+297,4,3:05,185,185,Wisconsin  Timeout,57,55,2,20,0.6749095707957317,Pittsburgh,Wisconsin,5,5,0,1,NA,400993835,2017-11-29,
+298,4,2:45,165,165,Courtney Fredrickson made Three Point Jumper. Assisted by Kendra Van Leeuwen.,57,58,-1,23,0.39928989414671123,Pittsburgh,Wisconsin,5,5,0,1,NA,400993835,2017-11-29,Wisconsin
+299,4,2:22,142,142,Jasmine Whitney missed Jumper.,57,58,-1,0,0.3858209532637846,Pittsburgh,Wisconsin,5,5,0,1,NA,400993835,2017-11-29,
+300,4,2:22,142,142,Marsha Howard Defensive Rebound.,57,58,-1,28,0.3858209532637846,Pittsburgh,Wisconsin,5,5,0,1,NA,400993835,2017-11-29,
+301,4,1:54,114,114,Niya Beverley missed Jumper.,57,58,-1,0,0.36540077895184797,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+302,4,1:54,114,114,Marsha Howard Offensive Rebound.,57,58,-1,32,0.36540077895184797,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+303,4,1:22,82,82,Courtney Fredrickson missed Three Point Jumper.,57,58,-1,0,0.33484977603390215,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+304,4,1:22,82,82,Kalista Walters Defensive Rebound.,57,58,-1,20,0.33484977603390215,Pittsburgh,Wisconsin,5,5,0,0,NA,400993835,2017-11-29,
+305,4,1:02,62,62,Pittsburgh  Timeout,57,58,-1,15,0.3130015714500615,Pittsburgh,Wisconsin,4,5,1,0,NA,400993835,2017-11-29,
+306,4,0:47,47,47,Jasmine Whitney missed Jumper.,57,58,-1,0,0.29552427541302684,Pittsburgh,Wisconsin,4,5,1,0,NA,400993835,2017-11-29,
+307,4,0:47,47,47,Niya Beverley Defensive Rebound.,57,58,-1,12,0.29552427541302684,Pittsburgh,Wisconsin,4,5,1,0,NA,400993835,2017-11-29,
+308,4,0:35,35,35,Wisconsin  Timeout,57,58,-1,20,0.2808529834261258,Pittsburgh,Wisconsin,4,4,1,1,NA,400993835,2017-11-29,
+309,4,0:15,15,15,Wisconsin  Turnover.,57,58,-1,0,0.2555514296206448,Pittsburgh,Wisconsin,4,4,1,1,NA,400993835,2017-11-29,
+310,4,0:15,15,15,Pittsburgh  Timeout,57,58,-1,1,0.2555514296206448,Pittsburgh,Wisconsin,3,4,1,1,NA,400993835,2017-11-29,
+311,4,0:14,14,14,Foul on Roichelle Marble.,57,58,-1,3,0.25424668313989673,Pittsburgh,Wisconsin,3,4,1,1,NA,400993835,2017-11-29,
+312,4,0:11,11,11,Foul on Roichelle Marble.,57,58,-1,4,0.25031207879760475,Pittsburgh,Wisconsin,3,4,1,1,NA,400993835,2017-11-29,
+313,4,0:07,7,7,Foul on Niya Beverley.,57,58,-1,6,0.24503207300114177,Pittsburgh,Wisconsin,3,4,1,1,NA,400993835,2017-11-29,
+314,4,0:01,1,1,Jasmine Whitney missed Three Point Jumper.,57,58,-1,0,0.23708537434148508,Pittsburgh,Wisconsin,3,4,1,1,NA,400993835,2017-11-29,
+315,4,0:01,1,1,Marsha Howard Defensive Rebound.,57,58,-1,1,0.23708537434148508,Pittsburgh,Wisconsin,3,4,1,1,NA,400993835,2017-11-29,
+316,4,0:00,0,0,End of Game,57,58,-1,0,2.0611536181902033e-9,Pittsburgh,Wisconsin,3,4,1,1,NA,400993835,2017-11-29,

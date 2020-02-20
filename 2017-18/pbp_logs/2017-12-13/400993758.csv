@@ -1,0 +1,367 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:34,2374,2374,Jordan Hamilton made Layup.,0,0,0,17,0.5,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,NA
+2,1,9:17,2357,2357,Chante Stonewall made Layup. Assisted by Amarah Coleman.,2,2,0,20,0.5,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,Northwestern
+3,1,8:57,2337,2337,Lindsey Pulliam missed Layup.,2,2,0,0,0.5,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+4,1,8:57,2337,2337,Lindsey Pulliam Offensive Rebound.,2,2,0,2,0.5,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+5,1,8:55,2335,2335,Foul on Chante Stonewall.,2,2,0,0,0.5,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+6,1,8:55,2335,2335,Lindsey Pulliam made Free Throw.,3,2,1,0,0.5227553739816719,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,Northwestern
+7,1,8:55,2335,2335,Lindsey Pulliam made Free Throw.,4,2,2,8,0.5454166796565887,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,Northwestern
+8,1,8:47,2327,2327,Mart'e Grays Turnover.,4,2,2,8,0.5455916255074778,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+9,1,8:39,2319,2319,Pallas Kunaiyi-Akpanah Turnover.,4,2,2,22,0.5457673174479175,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+10,1,8:17,2297,2297,Chante Stonewall missed Layup.,4,2,2,0,0.5462540972634312,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+11,1,8:17,2297,2297,Northwestern Defensive Rebound.,4,2,2,34,0.5462540972634312,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+12,1,7:43,2263,2263,Jordan Hamilton missed Jumper.,4,2,2,0,0.5470157879854802,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+13,1,7:43,2263,2263,Pallas Kunaiyi-Akpanah Offensive Rebound.,4,2,2,21,0.5470157879854802,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+14,1,7:22,2242,2242,Foul on Amarah Coleman.,4,2,2,2,0.5474911634847673,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+15,1,7:20,2240,2240,Lindsey Pulliam made Jumper. Assisted by Jordan Hamilton.,6,2,4,14,0.5942215597164868,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,Northwestern
+16,1,7:06,2226,2226,Amarah Coleman missed Three Point Jumper.,6,2,4,0,0.5948422040029784,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+17,1,7:06,2226,2226,Lindsey Pulliam Defensive Rebound.,6,2,4,12,0.5948422040029784,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+18,1,6:54,2214,2214,Lydia Rohde made Three Point Jumper. Assisted by Pallas Kunaiyi-Akpanah.,9,2,7,3,0.6628253852428388,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,Northwestern
+19,1,6:51,2211,2211,DePaul  Timeout,9,2,7,12,0.663042366046659,Northwestern,DePaul,3,4,1,0,NA,400993758,2017-12-13,
+20,1,6:39,2199,2199,Mart'e Grays missed Three Point Jumper.,9,2,7,0,0.663911192852751,Northwestern,DePaul,3,4,1,0,NA,400993758,2017-12-13,
+21,1,6:39,2199,2199,Abi Scheid Defensive Rebound.,9,2,7,27,0.663911192852751,Northwestern,DePaul,3,4,1,0,NA,400993758,2017-12-13,
+22,1,6:12,2172,2172,Pallas Kunaiyi-Akpanah Turnover.,9,2,7,0,0.6658700680359453,Northwestern,DePaul,3,4,1,0,NA,400993758,2017-12-13,
+23,1,6:12,2172,2172,Foul on Pallas Kunaiyi-Akpanah.,9,2,7,29,0.6658700680359453,Northwestern,DePaul,3,4,1,0,NA,400993758,2017-12-13,
+24,1,5:43,2143,2143,Ashton Millender Turnover.,9,2,7,1,0.6679823161326419,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+25,1,5:42,2142,2142,Jordan Hamilton Steal.,9,2,7,11,0.6680554089170966,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+26,1,5:31,2131,2131,Abi Scheid Turnover.,9,2,7,12,0.6688606483585754,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+27,1,5:19,2119,2119,Kelly Campbell missed Three Point Jumper.,9,2,7,0,0.6697417442839235,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+28,1,5:19,2119,2119,Jordan Hamilton Defensive Rebound.,9,2,7,17,0.6697417442839235,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+29,1,5:02,2102,2102,Abi Scheid made Jumper. Assisted by Lydia Rohde.,11,2,9,6,0.7142904948413253,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,Northwestern
+30,1,4:56,2096,2096,Mart'e Grays missed Layup.,11,2,9,0,0.714817889295911,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+31,1,4:56,2096,2096,Abi Scheid Defensive Rebound.,11,2,9,7,0.714817889295911,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+32,1,4:49,2089,2089,Lydia Rohde missed Three Point Jumper.,11,2,9,0,0.7154341173511481,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+33,1,4:49,2089,2089,Lindsey Pulliam Offensive Rebound.,11,2,9,3,0.7154341173511481,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+34,1,4:46,2086,2086,Lindsey Pulliam missed Layup.,11,2,9,0,0.715698531284268,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+35,1,4:46,2086,2086,Mart'e Grays Defensive Rebound.,11,2,9,7,0.715698531284268,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+36,1,4:39,2079,2079,Kelly Campbell missed Three Point Jumper.,11,2,9,0,0.7163162549005294,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+37,1,4:39,2079,2079,Pallas Kunaiyi-Akpanah Defensive Rebound.,11,2,9,18,0.7163162549005294,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+38,1,4:21,2061,2061,Jordan Hamilton made Three Point Jumper. Assisted by Lydia Rohde.,14,2,12,14,0.7765180431887583,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,Northwestern
+39,1,4:07,2047,2047,Lauren Prochaska missed Layup.,14,2,12,0,0.7779389048480089,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+40,1,4:07,2047,2047,Pallas Kunaiyi-Akpanah Block.,14,2,12,3,0.7779389048480089,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+41,1,4:04,2044,2044,Jordan Hamilton Defensive Rebound.,14,2,12,13,0.7782437577319641,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+42,1,3:51,2031,2031,Abi Scheid made Layup. Assisted by Lindsey Pulliam.,16,2,14,8,0.813613840379279,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,Northwestern
+43,1,3:43,2023,2023,Mart'e Grays missed Three Point Jumper.,16,2,14,0,0.8144529509808875,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+44,1,3:43,2023,2023,Pallas Kunaiyi-Akpanah Defensive Rebound.,16,2,14,3,0.8144529509808875,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+45,1,3:40,2020,2020,Pallas Kunaiyi-Akpanah Turnover.,16,2,14,0,0.8147677345196358,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+46,1,3:40,2020,2020,Foul on Bry Hopkins.,16,2,14,5,0.8147677345196358,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+47,1,3:35,2015,2015,Deja Cage missed Three Point Jumper.,16,2,14,0,0.8152925241909155,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+48,1,3:35,2015,2015,Byrdy Galernik Defensive Rebound.,16,2,14,18,0.8152925241909155,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+49,1,3:17,1997,1997,Lindsey Pulliam made Jumper.,18,2,16,10,0.8470037893231185,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,Northwestern
+50,1,3:07,1987,1987,Deja Cage missed Three Point Jumper.,18,2,16,0,0.8480458838689571,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+51,1,3:07,1987,1987,Northwestern Deadball Team Rebound.,18,2,16,1,0.8480458838689571,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+52,1,3:06,1986,1986,Foul on Kelly Campbell.,18,2,16,13,0.8481500820172325,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+53,1,2:53,1973,1973,Byrdy Galernik missed Layup.,18,2,16,0,0.8495045149746722,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+54,1,2:53,1973,1973,Lauren Prochaska Block.,18,2,16,1,0.8495045149746722,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+55,1,2:52,1972,1972,Northwestern Offensive Rebound.,18,2,16,2,0.8496086931821434,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+56,1,2:50,1970,1970,Abi Scheid missed Three Point Jumper.,18,2,16,0,0.8498170466831885,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+57,1,2:50,1970,1970,Northwestern Deadball Team Rebound.,18,2,16,2,0.8498170466831885,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+58,1,2:48,1968,1968,Foul on Amarah Coleman.,18,2,16,0,0.850025396672893,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+59,1,2:48,1968,1968,Oceana Hamilton made Free Throw.,19,2,17,0,0.8633297086803258,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,Northwestern
+60,1,2:48,1968,1968,Oceana Hamilton made Free Throw.,20,2,18,11,0.8756264778029184,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,Northwestern
+61,1,2:37,1957,1957,Ashton Millender made Three Point Jumper. Assisted by Dee Bekelja.,20,5,15,27,0.8368300452245704,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,DePaul
+62,1,2:10,1930,1930,Bry Hopkins missed Layup.,20,5,15,0,0.8396745478394858,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+63,1,2:10,1930,1930,Kelly Campbell Defensive Rebound.,20,5,15,19,0.8396745478394858,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+64,1,1:51,1911,1911,Dee Bekelja made Layup.,20,7,13,12,0.8096768887635495,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,DePaul
+65,1,1:39,1899,1899,Jordan Hamilton Turnover.,20,7,13,3,0.8109251415489911,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+66,1,1:36,1896,1896,Mart'e Grays Steal.,20,7,13,9,0.8112361435615218,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+67,1,1:27,1887,1887,Mart'e Grays made Layup. Assisted by Kelly Campbell.,20,9,11,0,0.7753720930013985,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,DePaul
+68,1,1:27,1887,1887,Foul on Oceana Hamilton.,20,9,11,0,0.7753720930013985,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+69,1,1:27,1887,1887,Mart'e Grays made Free Throw.,20,10,10,17,0.7551500097493533,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,DePaul
+70,1,1:10,1870,1870,Jordan Hamilton missed Layup.,20,10,10,0,0.7567838192550309,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+71,1,1:10,1870,1870,Jordan Hamilton Offensive Rebound.,20,10,10,27,0.7567838192550309,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+72,1,0:43,1843,1843,Byrdy Galernik missed Layup.,20,10,10,0,0.7593734997537135,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+73,1,0:43,1843,1843,Abi Scheid Offensive Rebound.,20,10,10,4,0.7593734997537135,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+74,1,0:39,1839,1839,Jordan Hamilton missed Three Point Jumper.,20,10,10,0,0.7597571621055584,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+75,1,0:39,1839,1839,DePaul Defensive Rebound.,20,10,10,14,0.7597571621055584,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+76,1,0:25,1825,1825,Foul on Oceana Hamilton.,20,10,10,0,0.7611010185386873,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+77,1,0:25,1825,1825,Chante Stonewall made Free Throw.,20,11,9,0,0.7394000752581628,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,DePaul
+78,1,0:25,1825,1825,Chante Stonewall made Free Throw.,20,12,8,20,0.7164622406916638,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,DePaul
+79,1,0:05,1805,1805,Pallas Kunaiyi-Akpanah made Layup. Assisted by Abi Scheid.,22,12,10,5,0.7630259089302027,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,Northwestern
+80,1,0:00,1800,1800,End of 1st Quarter,22,12,10,16,0.7635084954020187,Northwestern,DePaul,3,4,0,0,NA,400993758,2017-12-13,
+81,2,9:44,1784,1784,Ashton Millender missed Layup.,22,12,10,0,0.7650576249194383,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+82,2,9:44,1784,1784,Pallas Kunaiyi-Akpanah Defensive Rebound.,22,12,10,20,0.7650576249194383,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+83,2,9:24,1764,1764,Pallas Kunaiyi-Akpanah Turnover.,22,12,10,1,0.7670069288498657,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+84,2,9:23,1763,1763,Kelly Campbell Steal.,22,12,10,5,0.7671048347662557,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+85,2,9:18,1758,1758,Ashton Millender made Three Point Jumper. Assisted by Rachel McLimore.,22,15,7,17,0.6976952366647085,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,DePaul
+86,2,9:01,1741,1741,Lindsey Pulliam missed Jumper.,22,15,7,0,0.6990841035756823,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+87,2,9:01,1741,1741,Kelly Campbell Defensive Rebound.,22,15,7,12,0.6990841035756823,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+88,2,8:49,1729,1729,Rachel McLimore missed Three Point Jumper.,22,15,7,0,0.7000745406054502,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+89,2,8:49,1729,1729,Chante Stonewall Offensive Rebound.,22,15,7,6,0.7000745406054502,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+90,2,8:43,1723,1723,Chante Stonewall missed Three Point Jumper.,22,15,7,0,0.7005731467267545,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+91,2,8:43,1723,1723,Lindsey Pulliam Defensive Rebound.,22,15,7,22,0.7005731467267545,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+92,2,8:21,1701,1701,Pallas Kunaiyi-Akpanah missed Jumper.,22,15,7,0,0.702422401448269,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+93,2,8:21,1701,1701,Chante Stonewall Defensive Rebound.,22,15,7,8,0.702422401448269,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+94,2,8:13,1693,1693,Dee Bekelja made Three Point Jumper.,22,18,4,10,0.620728314487751,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,DePaul
+95,2,8:03,1683,1683,Jordan Hamilton Turnover.,22,18,4,1,0.6212783190930349,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+96,2,8:02,1682,1682,Kelly Campbell Steal.,22,18,4,3,0.6213328974243288,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,
+97,2,7:59,1679,1679,Ashton Millender made Layup. Assisted by Kelly Campbell.,22,20,2,8,0.5616722771641911,Northwestern,DePaul,4,4,0,0,NA,400993758,2017-12-13,DePaul
+98,2,7:51,1671,1671,Northwestern  Timeout,22,20,2,19,0.5618982491410116,Northwestern,DePaul,4,3,0,1,NA,400993758,2017-12-13,
+99,2,7:32,1652,1652,Jordan Hamilton made Layup.,24,20,4,13,0.6229354614340316,Northwestern,DePaul,4,3,0,1,NA,400993758,2017-12-13,Northwestern
+100,2,7:19,1639,1639,Deja Cage missed Three Point Jumper.,24,20,4,0,0.6236132857176387,Northwestern,DePaul,4,3,0,1,NA,400993758,2017-12-13,
+101,2,7:19,1639,1639,DePaul Offensive Rebound.,24,20,4,7,0.6236132857176387,Northwestern,DePaul,4,3,0,1,NA,400993758,2017-12-13,
+102,2,7:12,1632,1632,Mart'e Grays missed Three Point Jumper.,24,20,4,0,0.6239753227179412,Northwestern,DePaul,4,3,0,1,NA,400993758,2017-12-13,
+103,2,7:12,1632,1632,Lydia Rohde Defensive Rebound.,24,20,4,20,0.6239753227179412,Northwestern,DePaul,4,3,0,1,NA,400993758,2017-12-13,
+104,2,6:52,1612,1612,Bry Hopkins missed Layup.,24,20,4,0,0.6250020951618517,Northwestern,DePaul,4,3,0,1,NA,400993758,2017-12-13,
+105,2,6:52,1612,1612,Mart'e Grays Defensive Rebound.,24,20,4,10,0.6250020951618517,Northwestern,DePaul,4,3,0,1,NA,400993758,2017-12-13,
+106,2,6:42,1602,1602,Mart'e Grays missed Jumper.,24,20,4,0,0.6255131661245393,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+107,2,6:42,1602,1602,Bry Hopkins Defensive Rebound.,24,20,4,18,0.6255131661245393,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+108,2,6:24,1584,1584,Jordan Hamilton missed Jumper.,24,20,4,0,0.6264333708946164,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+109,2,6:24,1584,1584,DePaul Deadball Team Rebound.,24,20,4,1,0.6264333708946164,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+110,2,6:23,1583,1583,Foul on Lydia Rohde.,24,20,4,13,0.6264845984717283,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+111,2,6:10,1570,1570,Ashton Millender missed Three Point Jumper.,24,20,4,0,0.6271525616802353,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+112,2,6:10,1570,1570,Deja Cage Offensive Rebound.,24,20,4,9,0.6271525616802353,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+113,2,6:01,1561,1561,Kelly Campbell missed Three Point Jumper.,24,20,4,0,0.6276179572889758,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+114,2,6:01,1561,1561,Jordan Hamilton Defensive Rebound.,24,20,4,8,0.6276179572889758,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+115,2,5:53,1553,1553,Lindsey Pulliam made Layup. Assisted by Bry Hopkins.,26,20,6,17,0.6869051769179653,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,Northwestern
+116,2,5:36,1536,1536,Mart'e Grays missed Three Point Jumper.,26,20,6,0,0.6881416003849103,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+117,2,5:36,1536,1536,Jordan Hamilton Defensive Rebound.,26,20,6,19,0.6881416003849103,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+118,2,5:17,1517,1517,Jordan Hamilton made Three Point Jumper. Assisted by Lydia Rohde.,29,20,9,9,0.7679989798443327,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,Northwestern
+119,2,5:08,1508,1508,Mart'e Grays made Layup. Assisted by Kelly Campbell.,29,22,7,12,0.7180392292216764,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,DePaul
+120,2,4:56,1496,1496,Bry Hopkins made Layup. Assisted by Lydia Rohde.,31,22,9,12,0.7700027576931886,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,Northwestern
+121,2,4:44,1484,1484,Deja Cage missed Three Point Jumper.,31,22,9,0,0.7711784179686297,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+122,2,4:44,1484,1484,Jordan Hamilton Defensive Rebound.,31,22,9,24,0.7711784179686297,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+123,2,4:20,1460,1460,Byrdy Galernik Turnover.,31,22,9,0,0.77360950143892,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+124,2,4:20,1460,1460,Rachel McLimore Steal.,31,22,9,11,0.77360950143892,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+125,2,4:09,1449,1449,Chante Stonewall missed Three Point Jumper.,31,22,9,0,0.7747636425734833,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+126,2,4:09,1449,1449,Abi Scheid Defensive Rebound.,31,22,9,12,0.7747636425734833,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+127,2,3:57,1437,1437,Lindsey Pulliam missed Jumper.,31,22,9,0,0.7760125633641464,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+128,2,3:57,1437,1437,Kelly Campbell Defensive Rebound.,31,22,9,14,0.7760125633641464,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+129,2,3:43,1423,1423,Rachel McLimore Turnover.,31,22,9,1,0.7774263113207124,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+130,2,3:42,1422,1422,Pallas Kunaiyi-Akpanah Steal.,31,22,9,8,0.777525727984478,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+131,2,3:34,1414,1414,Pallas Kunaiyi-Akpanah Turnover.,31,22,9,0,0.7783144373740556,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+132,2,3:34,1414,1414,Foul on Pallas Kunaiyi-Akpanah.,31,22,9,16,0.7783144373740556,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+133,2,3:18,1398,1398,Foul on Abi Scheid.,31,22,9,13,0.7798616224053041,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+134,2,3:05,1385,1385,Chante Stonewall made Layup. Assisted by Lauren Prochaska.,31,24,7,19,0.7289664856297393,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,DePaul
+135,2,2:46,1366,1366,Bry Hopkins missed Layup.,31,24,7,0,0.730571147680611,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+136,2,2:46,1366,1366,Dee Bekelja Defensive Rebound.,31,24,7,9,0.730571147680611,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+137,2,2:37,1357,1357,Foul on Bry Hopkins.,31,24,7,5,0.7313293232460509,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+138,2,2:32,1352,1352,Dee Bekelja missed Three Point Jumper.,31,24,7,0,0.7317510360717726,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+139,2,2:32,1352,1352,Jordan Hamilton Defensive Rebound.,31,24,7,19,0.7317510360717726,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+140,2,2:13,1333,1333,Lindsey Pulliam missed Layup.,31,24,7,0,0.7333635310097814,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+141,2,2:13,1333,1333,Lindsey Pulliam Offensive Rebound.,31,24,7,0,0.7333635310097814,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+142,2,2:13,1333,1333,Foul on Dee Bekelja.,31,24,7,0,0.7333635310097814,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+143,2,2:13,1333,1333,Lindsey Pulliam made Free Throw.,32,24,8,0,0.7606582652881876,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,Northwestern
+144,2,2:13,1333,1333,Lindsey Pulliam made Free Throw.,33,24,9,15,0.7859743500004238,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,Northwestern
+145,2,1:58,1318,1318,Mart'e Grays made Three Point Jumper. Assisted by Kelly Campbell.,33,27,6,18,0.705347781832303,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,DePaul
+146,2,1:40,1300,1300,Bry Hopkins missed Jumper.,33,27,6,0,0.7067998749163121,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+147,2,1:40,1300,1300,Chante Stonewall Defensive Rebound.,33,27,6,15,0.7067998749163121,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+148,2,1:25,1285,1285,Foul on Lindsey Pulliam.,33,27,6,0,0.7080483264794263,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+149,2,1:25,1285,1285,Mart'e Grays made Free Throw.,33,28,5,0,0.6766174484289271,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,DePaul
+150,2,1:25,1285,1285,Mart'e Grays made Free Throw.,33,29,4,23,0.6435064817216651,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,DePaul
+151,2,1:02,1262,1262,Abi Scheid made Jumper. Assisted by Jordan Hamilton.,35,29,6,12,0.7100494879059287,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,Northwestern
+152,2,0:50,1250,1250,Dee Bekelja made Layup. Assisted by Deja Cage.,35,31,4,27,0.6458002321337134,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,DePaul
+153,2,0:23,1223,1223,Lydia Rohde made Layup. Assisted by Byrdy Galernik.,37,31,6,20,0.7137542788753677,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,Northwestern
+154,2,0:03,1203,1203,Kelly Campbell made Layup.,37,33,4,3,0.6492863483699299,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,DePaul
+155,2,0:00,1200,1200,End of 2nd Quarter,37,33,4,3,0.6495177425372646,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+156,3,9:57,1197,1197,Lindsey Pulliam Turnover.,37,33,4,1,0.6497476904526394,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+157,3,9:56,1196,1196,Amarah Coleman Steal.,37,33,4,8,0.6498240301724326,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+158,3,9:48,1188,1188,Kelly Campbell made Layup.,37,35,2,0,0.5769984931950138,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,DePaul
+159,3,9:48,1188,1188,Foul on Lydia Rohde.,37,35,2,0,0.5769984931950138,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+160,3,9:48,1188,1188,Kelly Campbell made Free Throw.,37,36,1,17,0.5387302470101494,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,DePaul
+161,3,9:31,1171,1171,Pallas Kunaiyi-Akpanah missed Layup.,37,36,1,0,0.5390749521306997,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+162,3,9:31,1171,1171,Mart'e Grays Defensive Rebound.,37,36,1,7,0.5390749521306997,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+163,3,9:24,1164,1164,Lauren Prochaska missed Three Point Jumper.,37,36,1,0,0.5392148367937986,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+164,3,9:24,1164,1164,Jordan Hamilton Defensive Rebound.,37,36,1,29,0.5392148367937986,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+165,3,8:55,1135,1135,Foul on Lauren Prochaska.,37,36,1,0,0.5397878641816826,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+166,3,8:55,1135,1135,Pallas Kunaiyi-Akpanah made Free Throw.,38,36,2,0,0.5790750020014303,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,Northwestern
+167,3,8:55,1135,1135,Pallas Kunaiyi-Akpanah made Free Throw.,39,36,3,6,0.6173855801884942,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,Northwestern
+168,3,8:49,1129,1129,Amarah Coleman missed Layup.,39,36,3,0,0.6177228594243718,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+169,3,8:49,1129,1129,Lindsey Pulliam Defensive Rebound.,39,36,3,6,0.6177228594243718,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+170,3,8:43,1123,1123,Lindsey Pulliam Turnover.,39,36,3,1,0.6180606880965851,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+171,3,8:42,1122,1122,Amarah Coleman Steal.,39,36,3,10,0.6181170755635645,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+172,3,8:32,1112,1112,Mart'e Grays made Three Point Jumper. Assisted by Lauren Prochaska.,39,39,0,16,0.5,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,DePaul
+173,3,8:16,1096,1096,Lindsey Pulliam missed Layup.,39,39,0,0,0.5,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+174,3,8:16,1096,1096,Lauren Prochaska Defensive Rebound.,39,39,0,5,0.5,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+175,3,8:11,1091,1091,Ashton Millender missed Three Point Jumper.,39,39,0,0,0.5,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+176,3,8:11,1091,1091,Pallas Kunaiyi-Akpanah Defensive Rebound.,39,39,0,5,0.5,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+177,3,8:06,1086,1086,Pallas Kunaiyi-Akpanah Turnover.,39,39,0,6,0.5,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+178,3,8:00,1080,1080,Kelly Campbell made Three Point Jumper. Assisted by Amarah Coleman.,39,42,-3,12,0.37946494376219425,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,DePaul
+179,3,7:48,1068,1068,Northwestern  Timeout,39,42,-3,0,0.37874487263453277,Northwestern,DePaul,5,3,0,1,NA,400993758,2017-12-13,
+180,3,7:48,1068,1068,Lindsey Pulliam Turnover.,39,42,-3,1,0.37874487263453277,Northwestern,DePaul,5,3,0,1,NA,400993758,2017-12-13,
+181,3,7:47,1067,1067,Kelly Campbell Steal.,39,42,-3,0,0.3786840529510994,Northwestern,DePaul,5,3,0,1,NA,400993758,2017-12-13,
+182,3,7:47,1067,1067,Kelly Campbell made Layup.,39,44,-5,22,0.3046547817824308,Northwestern,DePaul,5,3,0,1,NA,400993758,2017-12-13,DePaul
+183,3,7:25,1045,1045,Lindsey Pulliam missed Jumper.,39,44,-5,0,0.3025934457265746,Northwestern,DePaul,5,3,0,1,NA,400993758,2017-12-13,
+184,3,7:25,1045,1045,Amarah Coleman Defensive Rebound.,39,44,-5,5,0.3025934457265746,Northwestern,DePaul,5,3,0,1,NA,400993758,2017-12-13,
+185,3,7:20,1040,1040,Amarah Coleman Turnover.,39,44,-5,0,0.302108986319569,Northwestern,DePaul,5,3,0,1,NA,400993758,2017-12-13,
+186,3,7:20,1040,1040,Foul on Amarah Coleman.,39,44,-5,2,0.302108986319569,Northwestern,DePaul,5,3,0,1,NA,400993758,2017-12-13,
+187,3,7:18,1038,1038,Jordan Hamilton Turnover.,39,44,-5,0,0.3019133607631257,Northwestern,DePaul,5,3,0,1,NA,400993758,2017-12-13,
+188,3,7:18,1038,1038,Dee Bekelja Steal.,39,44,-5,0,0.3019133607631257,Northwestern,DePaul,5,3,0,1,NA,400993758,2017-12-13,
+189,3,7:18,1038,1038,Foul on Lindsey Pulliam.,39,44,-5,25,0.3019133607631257,Northwestern,DePaul,5,3,0,1,NA,400993758,2017-12-13,
+190,3,6:53,1013,1013,Kelly Campbell made Three Point Jumper. Assisted by Lauren Prochaska.,39,47,-8,28,0.20416178611740868,Northwestern,DePaul,5,3,0,1,NA,400993758,2017-12-13,DePaul
+191,3,6:25,985,985,Foul on Mart'e Grays.,39,47,-8,0,0.2003327807880537,Northwestern,DePaul,5,3,0,0,NA,400993758,2017-12-13,
+192,3,6:25,985,985,Byrdy Galernik missed Free Throw.,39,47,-8,0,0.2003327807880537,Northwestern,DePaul,5,3,0,0,NA,400993758,2017-12-13,
+193,3,6:25,985,985,Northwestern Deadball Team Rebound.,39,47,-8,0,0.2003327807880537,Northwestern,DePaul,5,3,0,0,NA,400993758,2017-12-13,
+194,3,6:25,985,985,Byrdy Galernik missed Free Throw.,39,47,-8,0,0.2003327807880537,Northwestern,DePaul,5,3,0,0,NA,400993758,2017-12-13,
+195,3,6:25,985,985,Kelly Campbell Defensive Rebound.,39,47,-8,17,0.2003327807880537,Northwestern,DePaul,5,3,0,0,NA,400993758,2017-12-13,
+196,3,6:08,968,968,Kelly Campbell made Layup. Assisted by Chante Stonewall.,39,49,-10,26,0.14806945452219114,Northwestern,DePaul,5,3,0,0,NA,400993758,2017-12-13,DePaul
+197,3,5:42,942,942,Jordan Hamilton missed Jumper.,39,49,-10,0,0.1445423297268362,Northwestern,DePaul,5,3,0,0,NA,400993758,2017-12-13,
+198,3,5:42,942,942,Kelly Campbell Defensive Rebound.,39,49,-10,10,0.1445423297268362,Northwestern,DePaul,5,3,0,0,NA,400993758,2017-12-13,
+199,3,5:32,932,932,Dee Bekelja made Layup. Assisted by Chante Stonewall.,39,51,-12,14,0.10474478593973924,Northwestern,DePaul,5,3,0,0,NA,400993758,2017-12-13,DePaul
+200,3,5:18,918,918,Jordan Hamilton Turnover.,39,51,-12,11,0.10326469928493491,Northwestern,DePaul,5,3,0,0,NA,400993758,2017-12-13,
+201,3,5:07,907,907,Dee Bekelja missed Layup.,39,51,-12,0,0.10215944050791652,Northwestern,DePaul,5,3,0,0,NA,400993758,2017-12-13,
+202,3,5:07,907,907,Abi Scheid Block.,39,51,-12,1,0.10215944050791652,Northwestern,DePaul,5,3,0,0,NA,400993758,2017-12-13,
+203,3,5:06,906,906,Dee Bekelja Offensive Rebound.,39,51,-12,3,0.10206097180872446,Northwestern,DePaul,5,3,0,0,NA,400993758,2017-12-13,
+204,3,5:03,903,903,Chante Stonewall missed Three Point Jumper.,39,51,-12,0,0.10176728993111632,Northwestern,DePaul,5,3,0,0,NA,400993758,2017-12-13,
+205,3,5:03,903,903,Byrdy Galernik Defensive Rebound.,39,51,-12,16,0.10176728993111632,Northwestern,DePaul,5,3,0,0,NA,400993758,2017-12-13,
+206,3,4:47,887,887,Lindsey Pulliam made Layup. Assisted by Byrdy Galernik.,41,51,-10,9,0.13837601905121474,Northwestern,DePaul,5,3,0,0,NA,400993758,2017-12-13,Northwestern
+207,3,4:38,878,878,Kelly Campbell made Layup. Assisted by Chante Stonewall.,41,53,-12,0,0.09938942277885653,Northwestern,DePaul,5,3,1,0,NA,400993758,2017-12-13,DePaul
+208,3,4:38,878,878,Foul on Pallas Kunaiyi-Akpanah.,41,53,-12,0,0.09938942277885653,Northwestern,DePaul,5,3,1,0,NA,400993758,2017-12-13,
+209,3,4:38,878,878,DePaul  Timeout,41,53,-12,0,0.09938942277885653,Northwestern,DePaul,4,3,1,0,NA,400993758,2017-12-13,
+210,3,4:38,878,878,Kelly Campbell made Free Throw.,41,54,-13,13,0.08411574788348154,Northwestern,DePaul,4,3,1,0,NA,400993758,2017-12-13,DePaul
+211,3,4:25,865,865,Abi Scheid missed Jumper.,41,54,-13,0,0.08298139311287182,Northwestern,DePaul,4,3,1,0,NA,400993758,2017-12-13,
+212,3,4:25,865,865,Pallas Kunaiyi-Akpanah Offensive Rebound.,41,54,-13,8,0.08298139311287182,Northwestern,DePaul,4,3,1,0,NA,400993758,2017-12-13,
+213,3,4:17,857,857,Lindsey Pulliam missed Jumper.,41,54,-13,0,0.08227992444429812,Northwestern,DePaul,4,3,1,0,NA,400993758,2017-12-13,
+214,3,4:17,857,857,Deja Cage Defensive Rebound.,41,54,-13,6,0.08227992444429812,Northwestern,DePaul,4,3,1,0,NA,400993758,2017-12-13,
+215,3,4:11,851,851,Foul on Lydia Rohde.,41,54,-13,0,0.08174926820452802,Northwestern,DePaul,4,3,1,0,NA,400993758,2017-12-13,
+216,3,4:11,851,851,Chante Stonewall made Free Throw.,41,55,-14,0,0.06882525433726581,Northwestern,DePaul,4,3,1,0,NA,400993758,2017-12-13,DePaul
+217,3,4:11,851,851,Chante Stonewall made Free Throw.,41,56,-15,17,0.05781579486597607,Northwestern,DePaul,4,3,1,0,NA,400993758,2017-12-13,DePaul
+218,3,3:54,834,834,Pallas Kunaiyi-Akpanah missed Jumper.,41,56,-15,0,0.05652938682093682,Northwestern,DePaul,4,3,1,0,NA,400993758,2017-12-13,
+219,3,3:54,834,834,Chante Stonewall Defensive Rebound.,41,56,-15,7,0.05652938682093682,Northwestern,DePaul,4,3,1,0,NA,400993758,2017-12-13,
+220,3,3:47,827,827,Foul on Jordan Hamilton.,41,56,-15,0,0.055983503214091825,Northwestern,DePaul,4,3,1,0,NA,400993758,2017-12-13,
+221,3,3:47,827,827,Deja Cage missed Free Throw.,41,56,-15,0,0.055983503214091825,Northwestern,DePaul,4,3,1,0,NA,400993758,2017-12-13,
+222,3,3:47,827,827,DePaul Deadball Team Rebound.,41,56,-15,0,0.055983503214091825,Northwestern,DePaul,4,3,1,0,NA,400993758,2017-12-13,
+223,3,3:47,827,827,Deja Cage made Free Throw.,41,57,-16,4,0.04682301765869423,Northwestern,DePaul,4,3,1,0,NA,400993758,2017-12-13,DePaul
+224,3,3:43,823,823,Foul on Mart'e Grays.,41,57,-16,0,0.046537295000029504,Northwestern,DePaul,4,3,1,0,NA,400993758,2017-12-13,
+225,3,3:43,823,823,Lindsey Pulliam made Free Throw.,42,57,-15,0,0.055666235787184826,Northwestern,DePaul,4,3,1,0,NA,400993758,2017-12-13,Northwestern
+226,3,3:43,823,823,Lindsey Pulliam made Free Throw.,43,57,-14,15,0.06646112030974664,Northwestern,DePaul,4,3,1,0,NA,400993758,2017-12-13,Northwestern
+227,3,3:28,808,808,Ashton Millender made Layup. Assisted by Lauren Prochaska.,43,59,-16,13,0.045430517560150235,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,DePaul
+228,3,3:15,795,795,Lydia Rohde missed Three Point Jumper.,43,59,-16,0,0.044418481968451426,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+229,3,3:15,795,795,Deja Cage Defensive Rebound.,43,59,-16,8,0.044418481968451426,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+230,3,3:07,787,787,Deja Cage made Layup.,43,61,-18,9,0.03018917607983111,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,DePaul
+231,3,2:58,778,778,Jordan Hamilton Turnover.,43,61,-18,0,0.02959188373135464,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+232,3,2:58,778,778,Dee Bekelja Steal.,43,61,-18,0,0.02959188373135464,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+233,3,2:58,778,778,Foul on Bry Hopkins.,43,61,-18,12,0.02959188373135464,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+234,3,2:46,766,766,Dee Bekelja Turnover.,43,61,-18,0,0.028759662522362967,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+235,3,2:46,766,766,Foul on Dee Bekelja.,43,61,-18,28,0.028759662522362967,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+236,3,2:18,738,738,Jordan Hamilton missed Jumper.,43,61,-18,0,0.026648565556689357,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+237,3,2:18,738,738,Deja Cage Defensive Rebound.,43,61,-18,9,0.026648565556689357,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+238,3,2:09,729,729,Deja Cage made Layup.,43,63,-20,0,0.017473257107400116,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,DePaul
+239,3,2:09,729,729,Foul on Jordan Hamilton.,43,63,-20,0,0.017473257107400116,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+240,3,2:09,729,729,Deja Cage missed Free Throw.,43,63,-20,0,0.017473257107400116,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+241,3,2:09,729,729,Northwestern Deadball Team Rebound.,43,63,-20,0,0.017473257107400116,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+242,3,2:09,729,729,Foul on Kelly Campbell.,43,63,-20,0,0.017473257107400116,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+243,3,2:09,729,729,Bry Hopkins made Free Throw.,44,63,-19,0,0.021290305970869578,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,Northwestern
+244,3,2:09,729,729,Bry Hopkins made Free Throw.,45,63,-18,7,0.025919195860710592,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,Northwestern
+245,3,2:02,722,722,Deja Cage made Three Point Jumper. Assisted by Lauren Prochaska.,45,66,-21,13,0.013973546516185383,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,DePaul
+246,3,1:49,709,709,Foul on Mart'e Grays.,45,66,-21,0,0.013377559456583272,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+247,3,1:49,709,709,Bry Hopkins missed Free Throw.,45,66,-21,0,0.013377559456583272,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+248,3,1:49,709,709,Northwestern Deadball Team Rebound.,45,66,-21,0,0.013377559456583272,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+249,3,1:49,709,709,Bry Hopkins made Free Throw.,46,66,-20,18,0.016368168939920477,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,Northwestern
+250,3,1:31,691,691,Chante Stonewall made Layup. Assisted by Kelly Campbell.,46,68,-22,16,0.010314527293038299,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,DePaul
+251,3,1:15,675,675,Byrdy Galernik Turnover.,46,68,-22,1,0.0098330887508722,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+252,3,1:14,674,674,Kelly Campbell Steal.,46,68,-22,12,0.009804362402385292,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+253,3,1:02,662,662,Chante Stonewall made Three Point Jumper. Assisted by Kelly Campbell.,46,71,-25,15,0.005044242539807912,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,DePaul
+254,3,0:47,647,647,Bry Hopkins missed Layup.,46,71,-25,0,0.00479718178406936,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+255,3,0:47,647,647,Abi Scheid Offensive Rebound.,46,71,-25,15,0.00479718178406936,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+256,3,0:32,632,632,Foul on Kelly Campbell.,46,71,-25,0,0.004552236130250679,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+257,3,0:32,632,632,Bry Hopkins missed Free Throw.,46,71,-25,0,0.004552236130250679,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+258,3,0:32,632,632,Northwestern Deadball Team Rebound.,46,71,-25,0,0.004552236130250679,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+259,3,0:32,632,632,Bry Hopkins missed Free Throw.,46,71,-25,0,0.004552236130250679,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+260,3,0:32,632,632,Kelly Campbell Defensive Rebound.,46,71,-25,28,0.004552236130250679,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+261,3,0:04,604,604,Chante Stonewall made Three Point Jumper. Assisted by Kelly Campbell.,46,74,-28,4,0.0021121999112433286,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,DePaul
+262,3,0:00,600,600,End of 3rd Quarter,46,74,-28,4,0.002070938885743691,Northwestern,DePaul,4,3,0,0,NA,400993758,2017-12-13,
+263,4,9:56,596,596,Kelly Campbell Turnover.,46,74,-28,11,0.0020291890688975485,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+264,4,9:45,585,585,Abi Scheid missed Jumper.,46,74,-28,0,0.0019117494661018727,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+265,4,9:45,585,585,Lauren Prochaska Defensive Rebound.,46,74,-28,7,0.0019117494661018727,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+266,4,9:38,578,578,Chante Stonewall missed Layup.,46,74,-28,0,0.0018349871964854422,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+267,4,9:38,578,578,Deja Cage Offensive Rebound.,46,74,-28,6,0.0018349871964854422,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+268,4,9:32,572,572,Lauren Prochaska Turnover.,46,74,-28,1,0.0017679743346852611,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+269,4,9:31,571,571,Pallas Kunaiyi-Akpanah Steal.,46,74,-28,11,0.0017567008348440749,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+270,4,9:20,560,560,Foul on Kelly Campbell.,46,74,-28,9,0.0016308853665076655,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+271,4,9:11,551,551,Abi Scheid made Layup. Assisted by Lindsey Pulliam.,48,74,-26,9,0.0024224242627278922,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,Northwestern
+272,4,9:02,542,542,Ashton Millender missed Three Point Jumper.,48,74,-26,0,0.0022764749223400074,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+273,4,9:02,542,542,Pallas Kunaiyi-Akpanah Defensive Rebound.,48,74,-26,0,0.0022764749223400074,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+274,4,9:02,542,542,Byrdy Galernik Turnover.,48,74,-26,5,0.0022764749223400074,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+275,4,8:57,537,537,Deja Cage missed Three Point Jumper.,48,74,-26,0,0.002205116967428436,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+276,4,8:57,537,537,Byrdy Galernik Defensive Rebound.,48,74,-26,6,0.002205116967428436,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+277,4,8:51,531,531,Foul on Deja Cage.,48,74,-26,0,0.002126932410904035,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+278,4,8:51,531,531,Pallas Kunaiyi-Akpanah made Free Throw.,49,74,-25,0,0.002693086832019459,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,Northwestern
+279,4,8:51,531,531,Pallas Kunaiyi-Akpanah missed Free Throw.,49,74,-25,0,0.002693086832019459,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+280,4,8:51,531,531,Ashton Millender Defensive Rebound.,49,74,-25,28,0.002693086832019459,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+281,4,8:23,503,503,Lauren Prochaska missed Layup.,49,74,-25,0,0.002330474832397887,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+282,4,8:23,503,503,Pallas Kunaiyi-Akpanah Defensive Rebound.,49,74,-25,8,0.002330474832397887,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+283,4,8:15,495,495,Byrdy Galernik Turnover.,49,74,-25,1,0.002239038138615152,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+284,4,8:14,494,494,Chante Stonewall Steal.,49,74,-25,1,0.002227712389287088,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+285,4,8:13,493,493,Chante Stonewall missed Jumper.,49,74,-25,0,0.002216396036895658,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+286,4,8:13,493,493,Northwestern Defensive Rebound.,49,74,-25,10,0.002216396036895658,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+287,4,8:03,483,483,Bry Hopkins made Jumper. Assisted by Lydia Rohde.,51,74,-23,17,0.0034383189915497877,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,Northwestern
+288,4,7:46,466,466,Dee Bekelja made Layup. Assisted by Lauren Prochaska.,51,76,-25,17,0.0019023131459773373,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,DePaul
+289,4,7:29,449,449,Bry Hopkins Turnover.,51,76,-25,30,0.0016832775213239776,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+290,4,6:59,419,419,Lauren Prochaska missed Layup.,51,76,-25,0,0.0012654766123182649,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+291,4,6:59,419,419,Northwestern Deadball Team Rebound.,51,76,-25,0,0.0012654766123182649,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+292,4,6:59,419,419,Foul on Ashton Millender.,51,76,-25,11,0.0012654766123182649,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+293,4,6:48,408,408,Lydia Rohde missed Three Point Jumper.,51,76,-25,0,0.001140654058583549,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+294,4,6:48,408,408,Chante Stonewall Defensive Rebound.,51,76,-25,7,0.001140654058583549,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+295,4,6:41,401,401,Dee Bekelja made Layup. Assisted by Deja Cage.,51,78,-27,24,6.193056133610988e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,DePaul
+296,4,6:17,377,377,Lindsey Pulliam missed Jumper.,51,78,-27,0,4.877920978526025e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+297,4,6:17,377,377,DePaul Defensive Rebound.,51,78,-27,14,4.877920978526025e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+298,4,6:03,363,363,Chante Stonewall made Three Point Jumper. Assisted by Deja Cage.,51,81,-30,23,1.7680553338105792e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,DePaul
+299,4,5:40,340,340,Abi Scheid made Layup. Assisted by Bry Hopkins.,53,81,-28,22,2.3265539357654913e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,Northwestern
+300,4,5:18,318,318,Deja Cage missed Three Point Jumper.,53,81,-28,0,1.6119789092763356e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+301,4,5:18,318,318,Oceana Hamilton Defensive Rebound.,53,81,-28,9,1.6119789092763356e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+302,4,5:09,309,309,Abi Scheid Turnover.,53,81,-28,1,1.348287796070587e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+303,4,5:08,308,308,Foul on Deja Cage.,53,81,-28,1,1.322986138756666e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+304,4,5:07,307,307,Kelly Campbell Steal.,53,81,-28,0,1.2996891811154146e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+305,4,5:07,307,307,Deja Cage Turnover.,53,81,-28,1,1.2996891811154146e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+306,4,5:06,306,306,Abi Scheid made Layup. Assisted by Lindsey Pulliam.,55,81,-26,15,2.424759044291004e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,Northwestern
+307,4,4:51,291,291,Foul on Oceana Hamilton.,55,81,-26,0,2.1521897683271914e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+308,4,4:51,291,291,Official TV Timeout,55,81,-26,0,2.1521897683271914e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+309,4,4:51,291,291,Amarah Coleman made Free Throw.,55,82,-27,0,1.5554892770957397e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,DePaul
+310,4,4:51,291,291,Amarah Coleman made Free Throw.,55,83,-28,11,1.1242070242099535e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,DePaul
+311,4,4:40,280,280,Foul on Kelly Campbell.,55,83,-28,0,1.1430986827053351e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+312,4,4:40,280,280,Abi Scheid made Free Throw.,56,83,-27,0,1.5806862246649163e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,Northwestern
+313,4,4:40,280,280,Abi Scheid made Free Throw.,57,83,-26,7,2.1857492450227164e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,Northwestern
+314,4,4:33,273,273,Mart'e Grays made Three Point Jumper. Assisted by Deja Cage.,57,86,-29,20,8.630603840907781e-5,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,DePaul
+315,4,4:13,253,253,Abi Scheid missed Three Point Jumper.,57,86,-29,0,1.0228222038694985e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+316,4,4:13,253,253,Oceana Hamilton Offensive Rebound.,57,86,-29,1,1.0228222038694985e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+317,4,4:12,252,252,Foul on Rachel McLimore.,57,86,-29,0,1.0307251022084424e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+318,4,4:12,252,252,Oceana Hamilton missed Free Throw.,57,86,-29,0,1.0307251022084424e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+319,4,4:12,252,252,Northwestern Deadball Team Rebound.,57,86,-29,0,1.0307251022084424e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+320,4,4:12,252,252,Oceana Hamilton missed Free Throw.,57,86,-29,0,1.0307251022084424e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+321,4,4:12,252,252,Dee Bekelja Defensive Rebound.,57,86,-29,10,1.0307251022084424e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+322,4,4:02,242,242,Amarah Coleman missed Layup.,57,86,-29,0,1.0919187131074664e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+323,4,4:02,242,242,Oceana Hamilton Defensive Rebound.,57,86,-29,16,1.0919187131074664e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+324,4,3:46,226,226,Oceana Hamilton Turnover.,57,86,-29,1,1.0590877033216987e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+325,4,3:45,225,225,Dee Bekelja Steal.,57,86,-29,7,1.0496372346123659e-4,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+326,4,3:38,218,218,Mart'e Grays made Three Point Jumper. Assisted by Amarah Coleman.,57,89,-32,13,3.676115984522801e-5,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,DePaul
+327,4,3:25,205,205,Lindsey Pulliam missed Layup.,57,89,-32,0,2.5524506696251995e-5,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+328,4,3:25,205,205,Rachel McLimore Defensive Rebound.,57,89,-32,11,2.5524506696251995e-5,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+329,4,3:14,194,194,Amarah Coleman missed Layup.,57,89,-32,0,1.5056383647907786e-5,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+330,4,3:14,194,194,Lindsey Pulliam Defensive Rebound.,57,89,-32,6,1.5056383647907786e-5,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+331,4,3:08,188,188,Lindsey Pulliam missed Layup.,57,89,-32,0,1.0261927072640595e-5,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+332,4,3:08,188,188,DePaul Defensive Rebound.,57,89,-32,19,1.0261927072640595e-5,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+333,4,2:49,169,169,Foul on Bry Hopkins.,57,89,-32,0,2.806182637379559e-6,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+334,4,2:49,169,169,Deja Cage made Free Throw.,57,90,-33,0,1.882001631443138e-6,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,DePaul
+335,4,2:49,169,169,Deja Cage made Free Throw.,57,91,-34,12,1.2621876479185049e-6,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,DePaul
+336,4,2:37,157,157,Foul on Rachel McLimore.,57,91,-34,0,4.959496743505197e-7,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+337,4,2:37,157,157,Brooke Pikiell missed Free Throw.,57,91,-34,0,4.959496743505197e-7,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+338,4,2:37,157,157,Northwestern Deadball Team Rebound.,57,91,-34,0,4.959496743505197e-7,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+339,4,2:37,157,157,Brooke Pikiell missed Free Throw.,57,91,-34,0,4.959496743505197e-7,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+340,4,2:37,157,157,Abbie Wolf Offensive Rebound.,57,91,-34,4,4.959496743505197e-7,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+341,4,2:33,153,153,Abbie Wolf made Layup.,59,91,-32,8,8.54905496743202e-7,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,Northwestern
+342,4,2:25,145,145,Vinisha Sherrod missed Three Point Jumper.,59,91,-32,0,4.4651938418399244e-7,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+343,4,2:25,145,145,Rachel McLimore Offensive Rebound.,59,91,-32,19,4.4651938418399244e-7,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+344,4,2:06,126,126,Dee Bekelja missed Jumper.,59,91,-32,0,7.766768838215085e-8,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+345,4,2:06,126,126,Brooke Pikiell Defensive Rebound.,59,91,-32,15,7.766768838215085e-8,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+346,4,1:51,111,111,Bry Hopkins Turnover.,59,91,-32,22,1.5016199749197453e-8,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+347,4,1:29,89,89,Deja Cage missed Layup.,59,91,-32,0,8.035305233851473e-10,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+348,4,1:29,89,89,Abbie Wolf Block.,59,91,-32,1,8.035305233851473e-10,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+349,4,1:28,88,88,Deja Cage Offensive Rebound.,59,91,-32,3,6.959366558466483e-10,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+350,4,1:25,85,85,Rachel McLimore missed Three Point Jumper.,59,91,-32,0,4.5045153179842794e-10,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+351,4,1:25,85,85,Vinisha Sherrod Offensive Rebound.,59,91,-32,13,4.5045153179842794e-10,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+352,4,1:12,72,72,Vinisha Sherrod missed Layup.,59,91,-32,0,6.197083898267082e-11,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+353,4,1:12,72,72,Bry Hopkins Defensive Rebound.,59,91,-32,16,6.197083898267082e-11,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+354,4,0:56,56,56,Bry Hopkins missed Jumper.,59,91,-32,0,4.239269502105651e-12,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+355,4,0:56,56,56,Abbie Wolf Offensive Rebound.,59,91,-32,1,4.239269502105651e-12,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+356,4,0:55,55,55,Abbie Wolf made Two Point Tip Shot.,61,91,-30,9,1.8485256198220632e-11,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,Northwestern
+357,4,0:46,46,46,Amarah Coleman missed Layup.,61,91,-30,0,4.0428378904834435e-12,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+358,4,0:46,46,46,Amarah Coleman Offensive Rebound.,61,91,-30,1,4.0428378904834435e-12,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+359,4,0:45,45,45,Foul on Oceana Hamilton.,61,91,-30,0,3.396741247399217e-12,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+360,4,0:45,45,45,Amarah Coleman made Free Throw.,61,92,-31,0,1.4085249593253797e-12,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,DePaul
+361,4,0:45,45,45,Amarah Coleman missed Free Throw.,61,92,-31,0,1.4085249593253797e-12,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+362,4,0:45,45,45,Abbie Wolf Defensive Rebound.,61,92,-31,28,1.4085249593253797e-12,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+363,4,0:17,17,17,Byrdy Galernik missed Layup.,61,92,-31,0,6.139473221800012e-15,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+364,4,0:17,17,17,Oceana Hamilton Offensive Rebound.,61,92,-31,3,6.139473221800012e-15,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,
+365,4,0:14,14,14,Oceana Hamilton made Layup.,63,92,-29,14,2.7999028695414066e-14,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,Northwestern
+366,4,0:00,0,0,End of Game,63,92,-29,0,1.285880161551771e-252,Northwestern,DePaul,5,4,0,0,NA,400993758,2017-12-13,

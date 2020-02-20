@@ -1,0 +1,337 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:42,2382,2382,Sydney Lowery missed Layup.,0,0,0,0,0.5,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,NA
+2,1,9:42,2382,2382,JaQuan Jackson Block.,0,0,0,3,0.5,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+3,1,9:39,2379,2379,Sydney Lowery Offensive Rebound.,0,0,0,2,0.5,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+4,1,9:37,2377,2377,Taylor Ortlepp missed Three Point Jumper.,0,0,0,0,0.5,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+5,1,9:37,2377,2377,Shadeen Samuels Defensive Rebound.,0,0,0,13,0.5,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+6,1,9:24,2364,2364,Donnaizha Fountain made Jumper.,0,2,-2,32,0.45521082091538556,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Seton Hall
+7,1,8:52,2332,2332,Georgia Pineau missed Layup.,0,2,-2,0,0.45451780479293763,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+8,1,8:52,2332,2332,Boston College Offensive Rebound.,0,2,-2,16,0.45451780479293763,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+9,1,8:36,2316,2316,Taylor Ortlepp made Jumper.,2,2,0,30,0.5,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Boston College
+10,1,8:06,2286,2286,Foul on Shadeen Samuels.,2,2,0,0,0.5,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+11,1,8:06,2286,2286,Shadeen Samuels Turnover.,2,2,0,7,0.5,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+12,1,7:59,2279,2279,Taylor Ortlepp Turnover.,2,2,0,2,0.5,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+13,1,7:57,2277,2277,Taylor Brown Steal.,2,2,0,2,0.5,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+14,1,7:55,2275,2275,Taylor Brown made Layup. Assisted by Kaela Hilaire.,2,4,-2,5,0.4532542448184906,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Seton Hall
+15,1,7:50,2270,2270,Sydney Lowery missed Jumper.,2,4,-2,0,0.45314188206327277,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+16,1,7:50,2270,2270,Georgia Pineau Offensive Rebound.,2,4,-2,16,0.45314188206327277,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+17,1,7:34,2254,2254,Emma Guy Turnover.,2,4,-2,3,0.45278089897456814,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+18,1,7:31,2251,2251,JaQuan Jackson Steal.,2,4,-2,3,0.4527129853514023,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+19,1,7:28,2248,2248,Donnaizha Fountain made Layup.,2,6,-4,27,0.40613199994493576,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Seton Hall
+20,1,7:01,2221,2221,Milan Bolden-Morris Turnover.,2,6,-4,15,0.4049355910500379,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+21,1,6:46,2206,2206,Donnaizha Fountain missed Three Point Jumper.,2,6,-4,0,0.40426742729131543,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+22,1,6:46,2206,2206,Emma Guy Defensive Rebound.,2,6,-4,11,0.40426742729131543,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+23,1,6:35,2195,2195,Sydney Lowery missed Layup.,2,6,-4,0,0.40377611680144293,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+24,1,6:35,2195,2195,Shadeen Samuels Block.,2,6,-4,1,0.40377611680144293,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+25,1,6:34,2194,2194,Boston College Offensive Rebound.,2,6,-4,5,0.4037314022521331,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+26,1,6:29,2189,2189,Foul on Emma Guy.,2,6,-4,0,0.40350771338457503,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+27,1,6:29,2189,2189,Emma Guy Turnover.,2,6,-4,16,0.40350771338457503,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+28,1,6:13,2173,2173,Taylor Brown Turnover.,2,6,-4,2,0.40279073553399275,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+29,1,6:11,2171,2171,Milan Bolden-Morris Steal.,2,6,-4,8,0.4027010017965887,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+30,1,6:03,2163,2163,Katie Quandt made Layup. Assisted by Georgia Pineau.,4,6,-2,0,0.45069604065537827,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Boston College
+31,1,6:03,2163,2163,Foul on Donnaizha Fountain.,4,6,-2,0,0.45069604065537827,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+32,1,6:03,2163,2163,Katie Quandt made Free Throw.,5,6,-1,4,0.47528780118465236,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Boston College
+33,1,5:59,2159,2159,Donnaizha Fountain Turnover.,5,6,-1,12,0.4752411320070056,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+34,1,5:47,2147,2147,Foul on Kaela Hilaire.,5,6,-1,11,0.4751007457581863,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+35,1,5:36,2136,2136,Sydney Lowery missed Layup.,5,6,-1,0,0.47497153990593205,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+36,1,5:36,2136,2136,Katie Quandt Offensive Rebound.,5,6,-1,3,0.47497153990593205,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+37,1,5:33,2133,2133,Katie Quandt made Layup.,7,6,1,28,0.5250637872260886,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Boston College
+38,1,5:05,2105,2105,JaQuan Jackson made Three Point Jumper. Assisted by Shadeen Samuels.,7,9,-2,18,0.4493397817132827,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Seton Hall
+39,1,4:47,2087,2087,Georgia Pineau missed Jumper.,7,9,-2,0,0.44891275375982187,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+40,1,4:47,2087,2087,Donnaizha Fountain Defensive Rebound.,7,9,-2,9,0.44891275375982187,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+41,1,4:38,2078,2078,Shadeen Samuels made Layup. Assisted by Nicole Jimenez.,7,11,-4,21,0.39846499081311315,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Seton Hall
+42,1,4:17,2057,2057,Sydney Lowery missed Three Point Jumper.,7,11,-4,0,0.39748801289790797,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+43,1,4:17,2057,2057,Nicole Jimenez Defensive Rebound.,7,11,-4,7,0.39748801289790797,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+44,1,4:10,2050,2050,Donnaizha Fountain missed Jumper.,7,11,-4,0,0.39716043060201,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+45,1,4:10,2050,2050,Katie Quandt Defensive Rebound.,7,11,-4,26,0.39716043060201,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+46,1,3:44,2024,2024,Official TV Timeout,7,11,-4,7,0.3959347978624396,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+47,1,3:37,2017,2017,Rachel Gartner missed Jumper.,7,11,-4,0,0.3956023285706299,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+48,1,3:37,2017,2017,Shadeen Samuels Block.,7,11,-4,2,0.3956023285706299,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+49,1,3:35,2015,2015,Taylor Brown Defensive Rebound.,7,11,-4,23,0.39550713672599785,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+50,1,3:12,1992,1992,Taylor Brown missed Jumper.,7,11,-4,0,0.39440583282157055,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+51,1,3:12,1992,1992,Georgia Pineau Defensive Rebound.,7,11,-4,11,0.39440583282157055,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+52,1,3:01,1981,1981,Rachel Gartner Turnover.,7,11,-4,3,0.3938746929222732,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+53,1,2:58,1978,1978,Shadeen Samuels Steal.,7,11,-4,9,0.39372932328872645,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+54,1,2:49,1969,1969,Nicole Jimenez missed Layup.,7,11,-4,0,0.39329186916331943,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+55,1,2:49,1969,1969,Kimi Evans Offensive Rebound.,7,11,-4,6,0.39329186916331943,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+56,1,2:43,1963,1963,Kimi Evans Turnover.,7,11,-4,1,0.39299909557915164,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+57,1,2:42,1962,1962,Taylor Ortlepp Steal.,7,11,-4,1,0.3929502103716063,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+58,1,2:41,1961,1961,Taylor Ortlepp Turnover.,7,11,-4,1,0.3929012993987763,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+59,1,2:40,1960,1960,Nicole Jimenez Steal.,7,11,-4,2,0.39285236259980805,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+60,1,2:38,1958,1958,Foul on Shadeen Samuels.,7,11,-4,0,0.39275441128012434,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+61,1,2:38,1958,1958,Shadeen Samuels Turnover.,7,11,-4,10,0.39275441128012434,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+62,1,2:28,1948,1948,Foul on Nicole Jimenez.,7,11,-4,0,0.39226308444526226,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+63,1,2:28,1948,1948,Andie Anastos missed Free Throw.,7,11,-4,0,0.39226308444526226,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+64,1,2:28,1948,1948,Boston College Deadball Team Rebound.,7,11,-4,0,0.39226308444526226,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+65,1,2:28,1948,1948,Andie Anastos made Free Throw.,8,11,-3,16,0.4186404436498843,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Boston College
+66,1,2:12,1932,1932,Taylor Brown missed Jumper.,8,11,-3,0,0.4180341629761097,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+67,1,2:12,1932,1932,Georgia Pineau Defensive Rebound.,8,11,-3,19,0.4180341629761097,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+68,1,1:53,1913,1913,Emma Guy missed Layup.,8,11,-3,0,0.41731118974639103,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+69,1,1:53,1913,1913,Taylor Brown Defensive Rebound.,8,11,-3,12,0.41731118974639103,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+70,1,1:41,1901,1901,Taylor Brown Turnover.,8,11,-3,11,0.4168555205592237,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+71,1,1:30,1890,1890,Foul on Taylor Brown.,8,11,-3,0,0.41643809097700407,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+72,1,1:30,1890,1890,Andie Anastos made Free Throw.,9,11,-2,0,0.44400047095675027,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Boston College
+73,1,1:30,1890,1890,Andie Anastos missed Free Throw.,9,11,-2,0,0.44400047095675027,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+74,1,1:30,1890,1890,Donnaizha Fountain Defensive Rebound.,9,11,-2,15,0.44400047095675027,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+75,1,1:15,1875,1875,Donnaizha Fountain missed Jumper.,9,11,-2,0,0.4436148405043947,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+76,1,1:15,1875,1875,Emma Guy Defensive Rebound.,9,11,-2,11,0.4436148405043947,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+77,1,1:04,1864,1864,Sydney Lowery missed Layup.,9,11,-2,0,0.44333164706524275,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+78,1,1:04,1864,1864,Emma Guy Offensive Rebound.,9,11,-2,3,0.44333164706524275,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+79,1,1:01,1861,1861,Emma Guy missed Layup.,9,11,-2,0,0.4432543228993711,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+80,1,1:01,1861,1861,Georgia Pineau Offensive Rebound.,9,11,-2,5,0.4432543228993711,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+81,1,0:56,1856,1856,Georgia Pineau made Layup.,11,11,0,13,0.5,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Boston College
+82,1,0:43,1843,1843,Foul on Tyeisha Smith.,11,11,0,0,0.5,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+83,1,0:43,1843,1843,Tyeisha Smith Turnover.,11,11,0,27,0.5,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+84,1,0:16,1816,1816,Georgia Pineau missed Layup.,11,11,0,0,0.5,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+85,1,0:16,1816,1816,Donnaizha Fountain Defensive Rebound.,11,11,0,5,0.5,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+86,1,0:11,1811,1811,JaQuan Jackson made Three Point Jumper. Assisted by Donnaizha Fountain.,11,14,-3,10,0.4134203298928002,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Seton Hall
+87,1,0:01,1801,1801,Sydney Lowery missed Three Point Jumper.,11,14,-3,0,0.4130325009831776,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+88,1,0:01,1801,1801,Kaela Hilaire Defensive Rebound.,11,14,-3,1,0.4130325009831776,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+89,1,0:00,1800,1800,Kaela Hilaire Turnover.,11,14,-3,0,0.4129936088523014,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+90,1,0:00,1800,1800,Milan Bolden-Morris Steal.,11,14,-3,0,0.4129936088523014,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+91,1,0:00,1800,1800,End of 1st Quarter,11,14,-3,20,0.4129936088523014,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+92,2,9:40,1780,1780,Sydney Lowery Turnover.,11,14,-3,2,0.41221110846196957,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+93,2,9:38,1778,1778,Kaela Hilaire Steal.,11,14,-3,4,0.41213233266820765,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+94,2,9:34,1774,1774,JaQuan Jackson made Three Point Jumper. Assisted by Kaela Hilaire.,11,17,-6,29,0.3292414289236008,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Seton Hall
+95,2,9:05,1745,1745,Emma Guy Turnover.,11,17,-6,15,0.3271324854558518,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+96,2,8:50,1730,1730,Donnaizha Fountain made Layup.,11,19,-8,0,0.275220465486219,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Seton Hall
+97,2,8:50,1730,1730,Foul on Emma Guy.,11,19,-8,0,0.275220465486219,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+98,2,8:50,1730,1730,Donnaizha Fountain made Free Throw.,11,20,-9,30,0.2517441011540337,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Seton Hall
+99,2,8:20,1700,1700,Georgia Pineau Turnover.,11,20,-9,6,0.24884708705016714,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+100,2,8:14,1694,1694,Kaela Hilaire made Layup.,11,22,-11,20,0.20519779985797756,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Seton Hall
+101,2,7:54,1674,1674,Milan Bolden-Morris missed Jumper.,11,22,-11,0,0.20312179382016277,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+102,2,7:54,1674,1674,Boston College Offensive Rebound.,11,22,-11,8,0.20312179382016277,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+103,2,7:46,1666,1666,Taylor Ortlepp missed Three Point Jumper.,11,22,-11,0,0.20231128975264273,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+104,2,7:46,1666,1666,Katie Quandt Offensive Rebound.,11,22,-11,5,0.20231128975264273,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+105,2,7:41,1661,1661,Katie Quandt missed Layup.,11,22,-11,0,0.20181000928780599,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+106,2,7:41,1661,1661,Jayla Jones-Pack Block.,11,22,-11,0,0.20181000928780599,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+107,2,7:41,1661,1661,Boston College Offensive Rebound.,11,22,-11,0,0.20181000928780599,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+108,2,7:41,1661,1661,Foul on Taylor Brown.,11,22,-11,5,0.20181000928780599,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+109,2,7:36,1656,1656,Taylor Ortlepp missed Jumper.,11,22,-11,0,0.2013124802604535,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+110,2,7:36,1656,1656,Jayla Jones-Pack Block.,11,22,-11,2,0.2013124802604535,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+111,2,7:34,1654,1654,Shadeen Samuels Defensive Rebound.,11,22,-11,15,0.20111446093461963,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+112,2,7:19,1639,1639,JaQuan Jackson made Three Point Jumper. Assisted by Kaela Hilaire.,11,25,-14,4,0.14589129810419213,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Seton Hall
+113,2,7:15,1635,1635,Boston College  Timeout,11,25,-14,0,0.14550688015580984,Boston College,Seton Hall,3,4,1,0,NA,400994983,2017-12-10,
+114,2,7:15,1635,1635,Official TV Timeout,11,25,-14,15,0.14550688015580984,Boston College,Seton Hall,3,4,1,0,NA,400994983,2017-12-10,
+115,2,7:00,1620,1620,Foul on Deja Winters.,11,25,-14,20,0.14408045109267228,Boston College,Seton Hall,3,4,1,0,NA,400994983,2017-12-10,
+116,2,6:40,1600,1600,Georgia Pineau made Jumper. Assisted by Andie Anastos.,13,25,-12,25,0.1764835792065555,Boston College,Seton Hall,3,4,1,0,NA,400994983,2017-12-10,Boston College
+117,2,6:15,1575,1575,Jayla Jones-Pack Turnover.,13,25,-12,22,0.17411213320294006,Boston College,Seton Hall,3,4,1,0,NA,400994983,2017-12-10,
+118,2,5:53,1553,1553,Katie Quandt Turnover.,13,25,-12,3,0.17201970407899714,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+119,2,5:50,1550,1550,Jayla Jones-Pack Steal.,13,25,-12,3,0.1717328313908927,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+120,2,5:47,1547,1547,Nicole Jimenez missed Jumper.,13,25,-12,0,0.1714454394564881,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+121,2,5:47,1547,1547,Jayla Jones-Pack Offensive Rebound.,13,25,-12,5,0.1714454394564881,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+122,2,5:42,1542,1542,Jayla Jones-Pack missed Layup.,13,25,-12,0,0.1709651707279659,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+123,2,5:42,1542,1542,Katie Quandt Block.,13,25,-12,1,0.1709651707279659,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+124,2,5:41,1541,1541,Boston College Defensive Rebound.,13,25,-12,12,0.17086890900463775,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+125,2,5:29,1529,1529,Foul on JaQuan Jackson.,13,25,-12,8,0.16970755554603617,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+126,2,5:21,1521,1521,Taylor Ortlepp missed Jumper.,13,25,-12,0,0.16892599698885807,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+127,2,5:21,1521,1521,Deja Winters Defensive Rebound.,13,25,-12,26,0.16892599698885807,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+128,2,4:55,1495,1495,Foul on Katie Quandt.,13,25,-12,0,0.16633425460826012,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+129,2,4:55,1495,1495,JaQuan Jackson made Free Throw.,13,26,-13,0,0.14853312198127622,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,Seton Hall
+130,2,4:55,1495,1495,JaQuan Jackson missed Free Throw.,13,26,-13,0,0.14853312198127622,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+131,2,4:55,1495,1495,Emma Guy Defensive Rebound.,13,26,-13,17,0.14853312198127622,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+132,2,4:38,1478,1478,Foul on Donnaizha Fountain.,13,26,-13,7,0.14680777911521553,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+133,2,4:31,1471,1471,Katie Quandt made Layup. Assisted by Georgia Pineau.,15,26,-11,20,0.18332013417245194,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,Boston College
+134,2,4:11,1451,1451,JaQuan Jackson missed Three Point Jumper.,15,26,-11,0,0.18116702059365575,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+135,2,4:11,1451,1451,Georgia Pineau Defensive Rebound.,15,26,-11,6,0.18116702059365575,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+136,2,4:05,1445,1445,Georgia Pineau Turnover.,15,26,-11,1,0.18051091446532863,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+137,2,4:04,1444,1444,JaQuan Jackson Steal.,15,26,-11,2,0.18040256016399697,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+138,2,4:02,1442,1442,Donnaizha Fountain made Layup. Assisted by JaQuan Jackson.,15,28,-13,7,0.14300497993843753,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,Seton Hall
+139,2,3:55,1435,1435,Taylor Ortlepp made Layup. Assisted by Andie Anastos.,17,28,-11,17,0.17943990870682686,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,Boston College
+140,2,3:38,1418,1418,Jayla Jones-Pack missed Layup.,17,28,-11,0,0.17767620907378542,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+141,2,3:38,1418,1418,Katie Quandt Block.,17,28,-11,1,0.17767620907378542,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+142,2,3:37,1417,1417,Jayla Jones-Pack Offensive Rebound.,17,28,-11,0,0.1775744086944901,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+143,2,3:37,1417,1417,Jayla Jones-Pack Turnover.,17,28,-11,17,0.1775744086944901,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+144,2,3:20,1400,1400,Foul on Tyeisha Smith.,17,28,-11,0,0.17587087720892922,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+145,2,3:20,1400,1400,Taylor Ortlepp made Free Throw.,18,28,-10,0,0.1971566470386891,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,Boston College
+146,2,3:20,1400,1400,Taylor Ortlepp made Free Throw.,19,28,-9,16,0.22032989567978756,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,Boston College
+147,2,3:04,1384,1384,Shadeen Samuels missed Layup.,19,28,-9,0,0.21880929288159565,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+148,2,3:04,1384,1384,Katie Quandt Block.,19,28,-9,2,0.21880929288159565,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+149,2,3:02,1382,1382,Shadeen Samuels Offensive Rebound.,19,28,-9,3,0.2186207755532148,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+150,2,2:59,1379,1379,Kimi Evans made Layup. Assisted by Kaela Hilaire.,19,30,-11,30,0.17382006019029617,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,Seton Hall
+151,2,2:29,1349,1349,Andie Anastos made Three Point Jumper.,22,30,-8,18,0.2407885419930938,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,Boston College
+152,2,2:11,1331,1331,Tyeisha Smith missed Three Point Jumper.,22,30,-8,0,0.23915964501127665,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+153,2,2:11,1331,1331,Donnaizha Fountain Offensive Rebound.,22,30,-8,7,0.23915964501127665,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+154,2,2:04,1324,1324,Donnaizha Fountain missed Three Point Jumper.,22,30,-8,0,0.2385194320529021,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+155,2,2:04,1324,1324,Taylor Ortlepp Defensive Rebound.,22,30,-8,18,0.2385194320529021,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+156,2,1:46,1306,1306,Sydney Lowery missed Layup.,22,30,-8,0,0.23684689114870616,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+157,2,1:46,1306,1306,Shadeen Samuels Defensive Rebound.,22,30,-8,9,0.23684689114870616,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+158,2,1:37,1297,1297,Donnaizha Fountain made Jumper. Assisted by Kaela Hilaire.,22,32,-10,21,0.18717516864900177,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,Seton Hall
+159,2,1:16,1276,1276,Sydney Lowery missed Three Point Jumper.,22,32,-10,0,0.18501270450205023,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+160,2,1:16,1276,1276,Tyeisha Smith Defensive Rebound.,22,32,-10,20,0.18501270450205023,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+161,2,0:56,1256,1256,Kaela Hilaire Turnover.,22,32,-10,21,0.18285847834089733,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+162,2,0:35,1235,1235,Milan Bolden-Morris missed Layup.,22,32,-10,0,0.18047446589521934,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+163,2,0:35,1235,1235,Kimi Evans Block.,22,32,-10,0,0.18047446589521934,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+164,2,0:35,1235,1235,Boston College Offensive Rebound.,22,32,-10,8,0.18047446589521934,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+165,2,0:27,1227,1227,Milan Bolden-Morris missed Three Point Jumper.,22,32,-10,0,0.17952878722261328,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+166,2,0:27,1227,1227,Donnaizha Fountain Defensive Rebound.,22,32,-10,25,0.17952878722261328,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+167,2,0:02,1202,1202,Kimi Evans made Layup. Assisted by Kaela Hilaire.,22,34,-12,2,0.13602212079268064,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,Seton Hall
+168,2,0:00,1200,1200,End of 2nd Quarter,22,34,-12,16,0.13578366491085198,Boston College,Seton Hall,3,4,0,0,NA,400994983,2017-12-10,
+169,3,9:44,1184,1184,Donnaizha Fountain missed Layup.,22,34,-12,0,0.13391978373833907,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,
+170,3,9:44,1184,1184,Taylor Brown Offensive Rebound.,22,34,-12,3,0.13391978373833907,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,
+171,3,9:41,1181,1181,Taylor Brown made Layup.,22,36,-14,14,0.10144238497824454,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,Seton Hall
+172,3,9:27,1167,1167,Georgia Pineau missed Layup.,22,36,-14,0,0.10000410386974523,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,
+173,3,9:27,1167,1167,Donnaizha Fountain Defensive Rebound.,22,36,-14,23,0.10000410386974523,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,
+174,3,9:04,1144,1144,Donnaizha Fountain missed Layup.,22,36,-14,0,0.0977171030052356,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,
+175,3,9:04,1144,1144,Milan Bolden-Morris Defensive Rebound.,22,36,-14,13,0.0977171030052356,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,
+176,3,8:51,1131,1131,Taylor Ortlepp missed Three Point Jumper.,22,36,-14,0,0.09645205136448898,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,
+177,3,8:51,1131,1131,Shadeen Samuels Defensive Rebound.,22,36,-14,6,0.09645205136448898,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,
+178,3,8:45,1125,1125,JaQuan Jackson made Layup.,22,38,-16,9,0.07145703620141326,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,Seton Hall
+179,3,8:36,1116,1116,Georgia Pineau made Layup. Assisted by Taylor Ortlepp.,24,38,-14,16,0.095004920531637,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,Boston College
+180,3,8:20,1100,1100,Kaela Hilaire made Jumper.,24,40,-16,16,0.06935573701779035,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,Seton Hall
+181,3,8:04,1084,1084,Andie Anastos Turnover.,24,40,-16,2,0.06800878567390195,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,
+182,3,8:02,1082,1082,Kaela Hilaire Steal.,24,40,-16,3,0.06783965169580713,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,
+183,3,7:59,1079,1079,Tyeisha Smith missed Jumper.,24,40,-16,0,0.06758550753496981,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,
+184,3,7:59,1079,1079,Emma Guy Defensive Rebound.,24,40,-16,12,0.06758550753496981,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,
+185,3,7:47,1067,1067,Emma Guy made Layup. Assisted by Taylor Ortlepp.,26,40,-14,28,0.09024544926953171,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,Boston College
+186,3,7:19,1039,1039,Taylor Brown missed Layup.,26,40,-14,0,0.08741074816284282,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,
+187,3,7:19,1039,1039,Georgia Pineau Defensive Rebound.,26,40,-14,11,0.08741074816284282,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,
+188,3,7:08,1028,1028,Emma Guy missed Layup.,26,40,-14,0,0.08625861036504671,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,
+189,3,7:08,1028,1028,Emma Guy Offensive Rebound.,26,40,-14,5,0.08625861036504671,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,
+190,3,7:03,1023,1023,Emma Guy made Layup.,28,40,-12,13,0.1162090368186982,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,Boston College
+191,3,6:50,1010,1010,Kaela Hilaire made Layup.,28,42,-14,1,0.08431593035014794,Boston College,Seton Hall,4,5,0,0,NA,400994983,2017-12-10,Seton Hall
+192,3,6:49,1009,1009,Seton Hall  Timeout,28,42,-14,0,0.08420573484665342,Boston College,Seton Hall,4,4,0,1,NA,400994983,2017-12-10,
+193,3,6:49,1009,1009,Official TV Timeout,28,42,-14,13,0.08420573484665342,Boston College,Seton Hall,4,4,0,1,NA,400994983,2017-12-10,
+194,3,6:36,996,996,Emma Guy made Layup. Assisted by Georgia Pineau.,30,42,-12,25,0.11285469196921125,Boston College,Seton Hall,4,4,0,1,NA,400994983,2017-12-10,Boston College
+195,3,6:11,971,971,Jayla Jones-Pack missed Layup.,30,42,-12,0,0.10952934715669609,Boston College,Seton Hall,4,4,0,1,NA,400994983,2017-12-10,
+196,3,6:11,971,971,Georgia Pineau Block.,30,42,-12,1,0.10952934715669609,Boston College,Seton Hall,4,4,0,1,NA,400994983,2017-12-10,
+197,3,6:10,970,970,Boston College Defensive Rebound.,30,42,-12,9,0.10939151479843966,Boston College,Seton Hall,4,4,0,1,NA,400994983,2017-12-10,
+198,3,6:01,961,961,Milan Bolden-Morris missed Three Point Jumper.,30,42,-12,0,0.10818738167907142,Boston College,Seton Hall,4,4,0,1,NA,400994983,2017-12-10,
+199,3,6:01,961,961,Donnaizha Fountain Defensive Rebound.,30,42,-12,7,0.10818738167907142,Boston College,Seton Hall,4,4,0,1,NA,400994983,2017-12-10,
+200,3,5:54,954,954,Foul on Taylor Ortlepp.,30,42,-12,0,0.10729995509517067,Boston College,Seton Hall,4,4,0,1,NA,400994983,2017-12-10,
+201,3,5:54,954,954,Donnaizha Fountain made Free Throw.,30,43,-13,0,0.09152341577103715,Boston College,Seton Hall,4,4,0,1,NA,400994983,2017-12-10,Seton Hall
+202,3,5:54,954,954,Donnaizha Fountain made Free Throw.,30,44,-14,17,0.07786420626621343,Boston College,Seton Hall,4,4,0,1,NA,400994983,2017-12-10,Seton Hall
+203,3,5:37,937,937,Sydney Lowery Turnover.,30,44,-14,3,0.07611716742548301,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+204,3,5:34,934,934,Donnaizha Fountain made Layup. Assisted by Nicole Jimenez.,30,46,-16,21,0.05428688159040658,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Seton Hall
+205,3,5:13,913,913,Katie Quandt missed Layup.,30,46,-16,0,0.05268602269100186,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+206,3,5:13,913,913,Kaela Hilaire Defensive Rebound.,30,46,-16,8,0.05268602269100186,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+207,3,5:05,905,905,Kaela Hilaire missed Layup.,30,46,-16,0,0.05211380068877054,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+208,3,5:05,905,905,Boston College Defensive Rebound.,30,46,-16,21,0.05211380068877054,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+209,3,4:44,884,884,Taylor Ortlepp missed Layup.,30,46,-16,0,0.05067417488787661,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+210,3,4:44,884,884,Deja Winters Block.,30,46,-16,1,0.05067417488787661,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+211,3,4:43,883,883,Boston College Offensive Rebound.,30,46,-16,0,0.05060713922460824,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+212,3,4:43,883,883,Official TV Timeout,30,46,-16,4,0.05060713922460824,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+213,3,4:39,879,879,Milan Bolden-Morris missed Three Point Jumper.,30,46,-16,0,0.0503398187280478,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+214,3,4:39,879,879,Deja Winters Defensive Rebound.,30,46,-16,22,0.0503398187280478,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+215,3,4:17,857,857,Nicole Jimenez missed Three Point Jumper.,30,46,-16,0,0.04887746342208996,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+216,3,4:17,857,857,Boston College Defensive Rebound.,30,46,-16,15,0.04887746342208996,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+217,3,4:02,842,842,Katie Quandt made Layup. Assisted by Andie Anastos.,32,46,-14,24,0.06808358336743367,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Boston College
+218,3,3:38,818,818,Jayla Jones-Pack made Layup.,32,48,-16,11,0.04617488038045242,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Seton Hall
+219,3,3:27,807,807,Taylor Ortlepp missed Layup.,32,48,-16,0,0.045354531191280564,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+220,3,3:27,807,807,Donnaizha Fountain Defensive Rebound.,32,48,-16,10,0.045354531191280564,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+221,3,3:17,797,797,Deja Winters missed Three Point Jumper.,32,48,-16,0,0.04457772307035268,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+222,3,3:17,797,797,Katie Quandt Defensive Rebound.,32,48,-16,7,0.04457772307035268,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+223,3,3:10,790,790,Georgia Pineau made Layup. Assisted by Taylor Ortlepp.,34,48,-14,19,0.06336108969951083,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Boston College
+224,3,2:51,771,771,Nicole Jimenez made Three Point Jumper.,34,51,-17,8,0.03515368178331284,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Seton Hall
+225,3,2:43,763,763,Andie Anastos Turnover.,34,51,-17,27,0.034511130193062754,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+226,3,2:16,736,736,JaQuan Jackson missed Layup.,34,51,-17,0,0.032171758941363135,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+227,3,2:16,736,736,JaQuan Jackson Offensive Rebound.,34,51,-17,3,0.032171758941363135,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+228,3,2:13,733,733,JaQuan Jackson missed Layup.,34,51,-17,0,0.03189523885119883,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+229,3,2:13,733,733,Katie Quandt Defensive Rebound.,34,51,-17,6,0.03189523885119883,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+230,3,2:07,727,727,Milan Bolden-Morris missed Three Point Jumper.,34,51,-17,0,0.03133840679866346,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+231,3,2:07,727,727,Georgia Pineau Offensive Rebound.,34,51,-17,5,0.03133840679866346,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+232,3,2:02,722,722,Georgia Pineau made Layup.,36,51,-15,24,0.045635079294870214,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Boston College
+233,3,1:38,698,698,Kaela Hilaire missed Layup.,36,51,-15,0,0.043244405711367034,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+234,3,1:38,698,698,Milan Bolden-Morris Defensive Rebound.,36,51,-15,10,0.043244405711367034,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+235,3,1:28,688,688,Georgia Pineau made Layup. Assisted by Andie Anastos.,38,51,-13,17,0.06283938611589902,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Boston College
+236,3,1:11,671,671,Foul on Georgia Pineau.,38,51,-13,18,0.06109336530936805,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+237,3,0:53,653,653,Kaela Hilaire missed Jumper.,38,51,-13,0,0.05932439664839213,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+238,3,0:53,653,653,JaQuan Jackson Offensive Rebound.,38,51,-13,5,0.05932439664839213,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+239,3,0:48,648,648,JaQuan Jackson missed Layup.,38,51,-13,0,0.058834915388409605,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+240,3,0:48,648,648,Boston College Defensive Rebound.,38,51,-13,17,0.058834915388409605,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+241,3,0:31,631,631,Foul on Kimi Evans.,38,51,-13,0,0.05713920923519872,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+242,3,0:31,631,631,Georgia Pineau made Free Throw.,39,51,-12,0,0.06992904618063381,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Boston College
+243,3,0:31,631,631,Georgia Pineau made Free Throw.,40,51,-11,24,0.08532264738108153,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Boston College
+244,3,0:07,607,607,Donnaizha Fountain made Jumper.,40,53,-13,7,0.05456102448834132,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,Seton Hall
+245,3,0:00,600,600,End of 3rd Quarter,40,53,-13,21,0.05374768640643379,Boston College,Seton Hall,4,4,0,0,NA,400994983,2017-12-10,
+246,4,9:39,579,579,Sydney Lowery missed Three Point Jumper.,40,53,-13,0,0.05109194400808137,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+247,4,9:39,579,579,Kimi Evans Defensive Rebound.,40,53,-13,9,0.05109194400808137,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+248,4,9:30,570,570,Kaela Hilaire missed Three Point Jumper.,40,53,-13,0,0.049842399521736025,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+249,4,9:30,570,570,Boston College Defensive Rebound.,40,53,-13,23,0.049842399521736025,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+250,4,9:07,547,547,Georgia Pineau made Layup.,42,53,-11,0,0.07181001141397939,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,Boston College
+251,4,9:07,547,547,Foul on Kimi Evans.,42,53,-11,0,0.07181001141397939,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+252,4,9:07,547,547,Georgia Pineau missed Free Throw.,42,53,-11,0,0.07181001141397939,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+253,4,9:07,547,547,Shadeen Samuels Defensive Rebound.,42,53,-11,13,0.07181001141397939,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+254,4,8:54,534,534,Donnaizha Fountain missed Three Point Jumper.,42,53,-11,0,0.06947498487867505,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+255,4,8:54,534,534,Seton Hall Offensive Rebound.,42,53,-11,1,0.06947498487867505,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+256,4,8:53,533,533,Foul on Georgia Pineau.,42,53,-11,5,0.06931112541459868,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+257,4,8:48,528,528,Shadeen Samuels Turnover.,42,53,-11,2,0.0685191353725261,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+258,4,8:46,526,526,Taylor Ortlepp Steal.,42,53,-11,16,0.06821387504040534,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+259,4,8:30,510,510,Milan Bolden-Morris missed Jumper.,42,53,-11,0,0.06594120131424595,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+260,4,8:30,510,510,Seton Hall Defensive Rebound.,42,53,-11,13,0.06594120131424595,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+261,4,8:17,497,497,Shadeen Samuels made Layup. Assisted by Kaela Hilaire.,42,55,-13,12,0.040447319201789934,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,Seton Hall
+262,4,8:05,485,485,Sydney Lowery missed Layup.,42,55,-13,0,0.03921167631978691,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+263,4,8:05,485,485,Donnaizha Fountain Block.,42,55,-13,1,0.03921167631978691,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+264,4,8:04,484,484,Boston College Offensive Rebound.,42,55,-13,5,0.039106286812846724,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+265,4,7:59,479,479,Milan Bolden-Morris missed Three Point Jumper.,42,55,-13,0,0.03857073743637129,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+266,4,7:59,479,479,JaQuan Jackson Defensive Rebound.,42,55,-13,24,0.03857073743637129,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+267,4,7:35,455,455,Donnaizha Fountain made Layup.,42,57,-15,1,0.021809238487522066,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,Seton Hall
+268,4,7:34,454,454,Foul on Georgia Pineau.,42,57,-15,0,0.02171378650792395,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+269,4,7:34,454,454,Donnaizha Fountain made Free Throw.,42,58,-16,15,0.01692802357280281,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,Seton Hall
+270,4,7:19,439,439,Taylor Ortlepp missed Three Point Jumper.,42,58,-16,0,0.015645133615049763,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+271,4,7:19,439,439,Boston College Offensive Rebound.,42,58,-16,2,0.015645133615049763,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+272,4,7:17,437,437,Foul on Kimi Evans.,42,58,-16,1,0.015461461912555288,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+273,4,7:16,436,436,Taylor Ortlepp missed Three Point Jumper.,42,58,-16,0,0.015368498514465713,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+274,4,7:16,436,436,Donnaizha Fountain Defensive Rebound.,42,58,-16,16,0.015368498514465713,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+275,4,7:00,420,420,Foul on Andie Anastos.,42,58,-16,2,0.013881325863933765,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+276,4,6:58,418,418,Foul on Taylor Ortlepp.,42,58,-16,0,0.013712188213329837,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+277,4,6:58,418,418,Donnaizha Fountain missed Free Throw.,42,58,-16,0,0.013712188213329837,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+278,4,6:58,418,418,Seton Hall Deadball Team Rebound.,42,58,-16,0,0.013712188213329837,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+279,4,6:58,418,418,Donnaizha Fountain made Free Throw.,42,59,-17,14,0.010530511096189441,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,Seton Hall
+280,4,6:44,404,404,Georgia Pineau missed Layup.,42,59,-17,0,0.009641280784260749,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+281,4,6:44,404,404,Jayla Jones-Pack Block.,42,59,-17,2,0.009641280784260749,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+282,4,6:42,402,402,Kaela Hilaire Defensive Rebound.,42,59,-17,4,0.009523411111330243,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+283,4,6:38,398,398,Shadeen Samuels made Layup. Assisted by Kaela Hilaire.,42,61,-19,0,0.00538632519414383,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,Seton Hall
+284,4,6:38,398,398,Foul on Andie Anastos.,42,61,-19,0,0.00538632519414383,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+285,4,6:38,398,398,Shadeen Samuels missed Free Throw.,42,61,-19,0,0.00538632519414383,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+286,4,6:38,398,398,Katie Quandt Defensive Rebound.,42,61,-19,17,0.00538632519414383,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+287,4,6:21,381,381,Rachel Gartner missed Three Point Jumper.,42,61,-19,0,0.004787092012876107,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+288,4,6:21,381,381,Donnaizha Fountain Defensive Rebound.,42,61,-19,6,0.004787092012876107,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+289,4,6:15,375,375,JaQuan Jackson missed Three Point Jumper.,42,61,-19,0,0.004584619489858488,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+290,4,6:15,375,375,Rachel Gartner Defensive Rebound.,42,61,-19,10,0.004584619489858488,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+291,4,6:05,365,365,Rachel Gartner made Layup.,44,61,-17,32,0.007524890080512264,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,Boston College
+292,4,5:33,333,333,Shadeen Samuels missed Three Point Jumper.,44,61,-17,0,0.005799772644887703,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+293,4,5:33,333,333,Katie Quandt Defensive Rebound.,44,61,-17,13,0.005799772644887703,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+294,4,5:20,320,320,Foul on Jayla Jones-Pack.,44,61,-17,0,0.005070009775776753,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+295,4,5:20,320,320,Andie Anastos made Free Throw.,45,61,-16,0,0.006903626727838895,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,Boston College
+296,4,5:20,320,320,Andie Anastos made Free Throw.,46,61,-15,16,0.009394127167176722,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,Boston College
+297,4,5:04,304,304,JaQuan Jackson missed Layup.,46,61,-15,0,0.008013952134602752,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+298,4,5:04,304,304,Seton Hall Offensive Rebound.,46,61,-15,29,0.008013952134602752,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+299,4,4:35,275,275,Kaity Healy made Three Point Jumper. Assisted by Taylor Brown.,46,64,-18,16,0.002967961080738649,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,Seton Hall
+300,4,4:19,259,259,Milan Bolden-Morris made Three Point Jumper. Assisted by Andie Anastos.,49,64,-15,20,0.008340094543988132,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,Boston College
+301,4,3:59,239,239,Deja Winters made Jumper.,49,66,-17,14,0.004759512044533634,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,Seton Hall
+302,4,3:45,225,225,Taylor Ortlepp missed Three Point Jumper.,49,66,-17,0,0.0046293212721946735,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+303,4,3:45,225,225,Deja Winters Defensive Rebound.,49,66,-17,22,0.0046293212721946735,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+304,4,3:23,203,203,Foul on Jayla Jones-Pack.,49,66,-17,0,0.0034677940079637973,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+305,4,3:23,203,203,Jayla Jones-Pack Turnover.,49,66,-17,0,0.0034677940079637973,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+306,4,3:23,203,203,Official TV Timeout,49,66,-17,10,0.0034677940079637973,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+307,4,3:13,193,193,Milan Bolden-Morris missed Three Point Jumper.,49,66,-17,0,0.0026503693815621283,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+308,4,3:13,193,193,Kaela Hilaire Defensive Rebound.,49,66,-17,29,0.0026503693815621283,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+309,4,2:44,164,164,Deja Winters missed Jumper.,49,66,-17,0,9.27826879853313e-4,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+310,4,2:44,164,164,Taylor Brown Offensive Rebound.,49,66,-17,3,9.27826879853313e-4,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+311,4,2:41,161,161,Foul on Milan Bolden-Morris.,49,66,-17,0,8.254737805411143e-4,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+312,4,2:41,161,161,Taylor Brown missed Free Throw.,49,66,-17,0,8.254737805411143e-4,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+313,4,2:41,161,161,Seton Hall Deadball Team Rebound.,49,66,-17,0,8.254737805411143e-4,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+314,4,2:41,161,161,Taylor Brown missed Free Throw.,49,66,-17,0,8.254737805411143e-4,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+315,4,2:41,161,161,Georgia Pineau Defensive Rebound.,49,66,-17,9,8.254737805411143e-4,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+316,4,2:32,152,152,Georgia Pineau missed Layup.,49,66,-17,0,5.726496124484203e-4,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+317,4,2:32,152,152,Jayla Jones-Pack Defensive Rebound.,49,66,-17,29,5.726496124484203e-4,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+318,4,2:03,123,123,Jayla Jones-Pack missed Layup.,49,66,-17,0,1.4184471529820036e-4,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+319,4,2:03,123,123,Georgia Pineau Block.,49,66,-17,1,1.4184471529820036e-4,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+320,4,2:02,122,122,Taylor Brown Offensive Rebound.,49,66,-17,2,1.3416088220972541e-4,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+321,4,2:00,120,120,Taylor Brown made Layup.,49,68,-19,14,4.1415218785164474e-5,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,Seton Hall
+322,4,1:46,106,106,Milan Bolden-Morris made Jumper. Assisted by Taylor Ortlepp.,51,68,-17,13,5.047960280702216e-5,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,Boston College
+323,4,1:33,93,93,Selena Philoxy Turnover.,51,68,-17,2,1.994610043598106e-5,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+324,4,1:31,91,91,Georgia Pineau Steal.,51,68,-17,5,1.7149749042557724e-5,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+325,4,1:26,86,86,Milan Bolden-Morris missed Three Point Jumper.,51,68,-17,0,1.1704619501618197e-5,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+326,4,1:26,86,86,Boston College Offensive Rebound.,51,68,-17,17,1.1704619501618197e-5,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+327,4,1:09,69,69,Taylor Ortlepp missed Three Point Jumper.,51,68,-17,0,2.9150650091268147e-6,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+328,4,1:09,69,69,Kaity Healy Defensive Rebound.,51,68,-17,21,2.9150650091268147e-6,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+329,4,0:48,48,48,Foul on Georgia Pineau.,51,68,-17,0,4.252670877068698e-7,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+330,4,0:48,48,48,Jayla Jones-Pack made Free Throw.,51,69,-18,0,1.7942265924641465e-7,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,Seton Hall
+331,4,0:48,48,48,Jayla Jones-Pack made Free Throw.,51,70,-19,17,7.56994533703656e-8,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,Seton Hall
+332,4,0:31,31,31,Georgia Pineau made Jumper. Assisted by Rachel Gartner.,53,70,-17,20,7.495380259484259e-8,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,Boston College
+333,4,0:11,11,11,Tyeisha Smith made Three Point Jumper. Assisted by Selena Philoxy.,53,73,-20,11,2.965007978447939e-10,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,Seton Hall
+334,4,0:00,0,0,Milan Bolden-Morris missed Three Point Jumper.,53,73,-20,0,1.9151695967140057e-174,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+335,4,0:00,0,0,Boston College Deadball Team Rebound.,53,73,-20,0,1.9151695967140057e-174,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,
+336,4,0:00,0,0,End of Game,53,73,-20,0,1.9151695967140057e-174,Boston College,Seton Hall,5,5,0,0,NA,400994983,2017-12-10,

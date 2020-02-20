@@ -1,0 +1,318 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:40,2380,2380,Kaleigh Clemons-Green missed Jumper.,0,0,0,0,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,NA
+2,1,9:40,2380,2380,Autumn Newby Offensive Rebound.,0,0,0,4,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+3,1,9:36,2376,2376,Autumn Newby made Layup.,0,2,-2,26,0.4554672025448677,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+4,1,9:10,2350,2350,Kelli Prange missed Jumper.,0,2,-2,0,0.4549092390044173,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+5,1,9:10,2350,2350,Kaleigh Clemons-Green Defensive Rebound.,0,2,-2,9,0.4549092390044173,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+6,1,9:01,2341,2341,Rachel Bell missed Jumper.,0,2,-2,0,0.45471402389215027,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+7,1,9:01,2341,2341,Mei-Lyn Bautista Defensive Rebound.,0,2,-2,12,0.45471402389215027,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+8,1,8:49,2329,2329,Camila Tapias made Three Point Jumper. Assisted by Mei-Lyn Bautista.,3,2,1,9,0.5228213529190979,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,George Washington
+9,1,8:40,2320,2320,Vanderbilt  Turnover.,3,2,1,7,0.5229207235163268,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+10,1,8:33,2313,2313,Brianna Cummings missed Jumper.,3,2,1,0,0.5229983346065157,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+11,1,8:33,2313,2313,Vanderbilt Defensive Rebound.,3,2,1,23,0.5229983346065157,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+12,1,8:10,2290,2290,Chelsie Hall Turnover.,3,2,1,16,0.5232552132690224,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+13,1,7:54,2274,2274,Foul on Neila Luma.,3,2,1,0,0.523435477271786,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+14,1,7:54,2274,2274,Neila Luma Turnover.,3,2,1,10,0.523435477271786,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+15,1,7:44,2264,2264,Rachel Bell made Jumper.,3,4,-1,32,0.47645126124796555,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+16,1,7:12,2232,2232,Camila Tapias Turnover.,3,4,-1,9,0.4760860834024592,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+17,1,7:03,2223,2223,Autumn Newby Turnover.,3,4,-1,0,0.4759827071616885,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+18,1,7:03,2223,2223,Camila Tapias Steal.,3,4,-1,17,0.4759827071616885,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+19,1,6:46,2206,2206,Kelli Prange missed Three Point Jumper.,3,4,-1,0,0.4757867509350248,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+20,1,6:46,2206,2206,Cierra Walker Defensive Rebound.,3,4,-1,13,0.4757867509350248,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+21,1,6:33,2193,2193,Foul on Kelli Prange.,3,4,-1,2,0.47563635998670234,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+22,1,6:31,2191,2191,Chelsie Hall Turnover.,3,4,-1,1,0.4756131854327252,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+23,1,6:30,2190,2190,Camila Tapias Steal.,3,4,-1,3,0.47560159461785295,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+24,1,6:27,2187,2187,Camila Tapias made Layup.,5,4,1,11,0.5244331916623864,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,George Washington
+25,1,6:16,2176,2176,Christa Reed made Three Point Jumper. Assisted by Chelsie Hall.,5,7,-2,20,0.45099642576234333,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+26,1,5:56,2156,2156,Mei-Lyn Bautista missed Three Point Jumper.,5,7,-2,0,0.4505338134586218,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+27,1,5:56,2156,2156,Christa Reed Defensive Rebound.,5,7,-2,21,0.4505338134586218,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+28,1,5:35,2135,2135,Rachel Bell missed Jumper.,5,7,-2,0,0.4500448272291208,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+29,1,5:35,2135,2135,Camila Tapias Defensive Rebound.,5,7,-2,23,0.4500448272291208,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+30,1,5:12,2112,2112,Mei-Lyn Bautista missed Layup.,5,7,-2,0,0.4495050153143047,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+31,1,5:12,2112,2112,Neila Luma Offensive Rebound.,5,7,-2,3,0.4495050153143047,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+32,1,5:09,2109,2109,Neila Luma made Layup.,7,7,0,14,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,George Washington
+33,1,4:55,2095,2095,Official TV Timeout,7,7,0,10,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+34,1,4:45,2085,2085,Chelsie Hall missed Three Point Jumper.,7,7,0,0,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+35,1,4:45,2085,2085,Kelli Prange Defensive Rebound.,7,7,0,22,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+36,1,4:23,2063,2063,Brianna Cummings Turnover.,7,7,0,1,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+37,1,4:22,2062,2062,Kayla Overbeck Steal.,7,7,0,3,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+38,1,4:19,2059,2059,Chelsie Hall missed Layup.,7,7,0,0,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+39,1,4:19,2059,2059,Mei-Lyn Bautista Defensive Rebound.,7,7,0,16,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+40,1,4:03,2043,2043,Kelli Prange made Layup. Assisted by Kelsi Mahoney.,9,7,2,13,0.5521451263571212,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,George Washington
+41,1,3:50,2030,2030,Erin Whalen Turnover.,9,7,2,14,0.552461803971112,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+42,1,3:36,2016,2016,Lexus Levy made Three Point Jumper. Assisted by Kelsi Mahoney.,12,7,5,16,0.6294894998938065,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,George Washington
+43,1,3:20,2000,2000,Cierra Walker made Jumper.,12,9,3,11,0.5794254425950851,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+44,1,3:09,1989,1989,Lexus Levy missed Three Point Jumper.,12,9,3,0,0.5798301585044262,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+45,1,3:09,1989,1989,Cierra Walker Defensive Rebound.,12,9,3,17,0.5798301585044262,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+46,1,2:52,1972,1972,Kayla Overbeck missed Jumper.,12,9,3,0,0.5804602055426412,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+47,1,2:52,1972,1972,Kendall Bresee Defensive Rebound.,12,9,3,18,0.5804602055426412,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+48,1,2:34,1954,1954,Kelsi Mahoney missed Jumper.,12,9,3,0,0.5811336047593371,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+49,1,2:34,1954,1954,Kaleigh Clemons-Green Defensive Rebound.,12,9,3,13,0.5811336047593371,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+50,1,2:21,1941,1941,Foul on LeaLea Carter.,12,9,3,0,0.5816241276708837,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+51,1,2:21,1941,1941,LeaLea Carter Turnover.,12,9,3,27,0.5816241276708837,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+52,1,1:54,1914,1914,Kelsi Mahoney Turnover.,12,9,3,2,0.5826508122878031,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+53,1,1:52,1912,1912,Kayla Overbeck Steal.,12,9,3,2,0.582726803458281,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+54,1,1:50,1910,1910,Chelsie Hall made Layup. Assisted by Kaleigh Clemons-Green.,12,11,1,11,0.5278286919419152,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+55,1,1:39,1899,1899,Foul on Chelsie Hall.,12,11,1,9,0.527971394843824,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+56,1,1:30,1890,1890,Neila Luma made Layup. Assisted by Kelsi Mahoney.,14,11,3,36,0.583561909022996,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,George Washington
+57,1,0:54,1854,1854,Bree Horrocks made Jumper. Assisted by LeaLea Carter.,14,13,1,13,0.5285559839660083,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+58,1,0:41,1841,1841,Kelsi Mahoney missed Jumper.,14,13,1,0,0.5287257791662856,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+59,1,0:41,1841,1841,Neila Luma Offensive Rebound.,14,13,1,2,0.5287257791662856,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+60,1,0:39,1839,1839,Foul on LeaLea Carter.,14,13,1,3,0.5287519611525135,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+61,1,0:36,1836,1836,Lexus Levy made Three Point Jumper. Assisted by Kendall Bresee.,17,13,4,17,0.6132918000500726,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,George Washington
+62,1,0:19,1819,1819,LeaLea Carter Turnover.,17,13,4,1,0.6141427319416867,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+63,1,0:18,1818,1818,Kendall Bresee Steal.,17,13,4,15,0.6141929566409032,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+64,1,0:03,1803,1803,Camila Tapias missed Three Point Jumper.,17,13,4,0,0.614948976545666,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+65,1,0:03,1803,1803,Neila Luma Offensive Rebound.,17,13,4,3,0.614948976545666,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+66,1,0:00,1800,1800,Neila Luma missed Jumper.,17,13,4,0,0.6151008263378087,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+67,1,0:00,1800,1800,George Washington Deadball Team Rebound.,17,13,4,0,0.6151008263378087,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+68,1,0:00,1800,1800,End of 1st Quarter,17,13,4,9,0.6151008263378087,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+69,2,9:51,1791,1791,Kayla Overbeck made Jumper. Assisted by Autumn Newby.,17,15,2,27,0.5585717818052074,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+70,2,9:24,1764,1764,Lexus Levy missed Three Point Jumper.,17,15,2,0,0.5592940335899296,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+71,2,9:24,1764,1764,Rachel Bell Defensive Rebound.,17,15,2,21,0.5592940335899296,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+72,2,9:03,1743,1743,Rachel Bell made Jumper.,17,17,0,15,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+73,2,8:48,1728,1728,Camila Tapias missed Three Point Jumper.,17,17,0,0,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+74,2,8:48,1728,1728,Cierra Walker Defensive Rebound.,17,17,0,10,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+75,2,8:38,1718,1718,Erin Whalen made Three Point Jumper. Assisted by Cierra Walker.,17,20,-3,14,0.4097132468265133,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+76,2,8:24,1704,1704,Camila Tapias made Three Point Jumper. Assisted by Lexus Levy.,20,20,0,26,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,George Washington
+77,2,7:58,1678,1678,Autumn Newby missed Layup.,20,20,0,0,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+78,2,7:58,1678,1678,Kelli Prange Defensive Rebound.,20,20,0,16,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+79,2,7:42,1662,1662,Kelli Prange missed Jumper.,20,20,0,0,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+80,2,7:42,1662,1662,Kayla Overbeck Defensive Rebound.,20,20,0,14,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+81,2,7:28,1648,1648,Rachel Bell missed Jumper.,20,20,0,0,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+82,2,7:28,1648,1648,Neila Luma Defensive Rebound.,20,20,0,9,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+83,2,7:19,1639,1639,Camila Tapias missed Three Point Jumper.,20,20,0,0,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+84,2,7:19,1639,1639,Erin Whalen Defensive Rebound.,20,20,0,8,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+85,2,7:11,1631,1631,Rachel Bell missed Layup.,20,20,0,0,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+86,2,7:11,1631,1631,Vanderbilt Offensive Rebound.,20,20,0,4,0.5,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+87,2,7:07,1627,1627,Chelsie Hall made Jumper.,20,22,-2,19,0.43689406052208424,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+88,2,6:48,1608,1608,Kelsi Mahoney Turnover.,20,22,-2,13,0.43638325023745567,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+89,2,6:35,1595,1595,Chelsie Hall missed Jumper.,20,22,-2,0,0.4360346033793481,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+90,2,6:35,1595,1595,Kelsi Mahoney Defensive Rebound.,20,22,-2,14,0.4360346033793481,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+91,2,6:21,1581,1581,Kelli Prange missed Three Point Jumper.,20,22,-2,0,0.43565834280018434,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+92,2,6:21,1581,1581,Brianna Cummings Offensive Rebound.,20,22,-2,4,0.43565834280018434,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+93,2,6:17,1577,1577,Brianna Cummings missed Jumper.,20,22,-2,0,0.4355504868097514,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+94,2,6:17,1577,1577,Erin Whalen Defensive Rebound.,20,22,-2,14,0.4355504868097514,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+95,2,6:03,1563,1563,Erin Whalen made Three Point Jumper. Assisted by Kaleigh Clemons-Green.,20,25,-5,15,0.3425480701470659,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+96,2,5:48,1548,1548,Kelli Prange made Layup. Assisted by Kelsi Mahoney.,22,25,-3,18,0.40283035013651963,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,George Washington
+97,2,5:30,1530,1530,Erin Whalen Turnover.,22,25,-3,1,0.4020927617918122,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+98,2,5:29,1529,1529,Brianna Cummings Steal.,22,25,-3,5,0.40205128800129647,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+99,2,5:24,1524,1524,Brianna Cummings Turnover.,22,25,-3,17,0.40184304013233096,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+100,2,5:07,1507,1507,Kaleigh Clemons-Green missed Three Point Jumper.,22,25,-3,0,0.40112291041231135,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+101,2,5:07,1507,1507,Taylor Campbell Defensive Rebound.,22,25,-3,23,0.40112291041231135,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+102,2,4:44,1484,1484,Brianna Cummings missed Jumper.,22,25,-3,0,0.4001134572440938,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+103,2,4:44,1484,1484,Erin Whalen Defensive Rebound.,22,25,-3,14,0.4001134572440938,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+104,2,4:30,1470,1470,Chelsie Hall missed Three Point Jumper.,22,25,-3,0,0.3994755532212195,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+105,2,4:30,1470,1470,Kelli Prange Defensive Rebound.,22,25,-3,11,0.3994755532212195,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+106,2,4:19,1459,1459,Brianna Cummings made Jumper. Assisted by Mei-Lyn Bautista.,24,25,-1,1,0.4659030349704489,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,George Washington
+107,2,4:18,1458,1458,Vanderbilt  Timeout,24,25,-1,0,0.46588659986663794,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+108,2,4:18,1458,1458,Official TV Timeout,24,25,-1,13,0.46588659986663794,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+109,2,4:05,1445,1445,Christa Reed missed Three Point Jumper.,24,25,-1,0,0.4656702381832101,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+110,2,4:05,1445,1445,Neila Luma Defensive Rebound.,24,25,-1,22,0.4656702381832101,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+111,2,3:43,1423,1423,Kelsi Mahoney missed Three Point Jumper.,24,25,-1,0,0.46531328895126245,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+112,2,3:43,1423,1423,Bree Horrocks Defensive Rebound.,24,25,-1,13,0.46531328895126245,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+113,2,3:30,1410,1410,Foul on Brianna Cummings.,24,25,-1,4,0.4651086370861724,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+114,2,3:26,1406,1406,Erin Whalen Turnover.,24,25,-1,0,0.4650463882099137,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+115,2,3:26,1406,1406,Lexus Levy Steal.,24,25,-1,14,0.4650463882099137,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+116,2,3:12,1392,1392,Mei-Lyn Bautista missed Three Point Jumper.,24,25,-1,0,0.4648305511455828,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+117,2,3:12,1392,1392,Kelsi Mahoney Offensive Rebound.,24,25,-1,2,0.4648305511455828,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+118,2,3:10,1390,1390,Foul on Autumn Newby.,24,25,-1,9,0.46479992333131426,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+119,2,3:01,1381,1381,Foul on Autumn Newby.,24,25,-1,14,0.4646625336674999,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+120,2,2:47,1367,1367,Brianna Cummings missed Jumper.,24,25,-1,0,0.46444957607639553,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+121,2,2:47,1367,1367,Cierra Walker Defensive Rebound.,24,25,-1,11,0.46444957607639553,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+122,2,2:36,1356,1356,Erin Whalen made Three Point Jumper. Assisted by Cierra Walker.,24,28,-4,24,0.36066918278775106,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+123,2,2:12,1332,1332,Lexus Levy missed Three Point Jumper.,24,28,-4,0,0.35930178791994327,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+124,2,2:12,1332,1332,Erin Whalen Defensive Rebound.,24,28,-4,15,0.35930178791994327,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+125,2,1:57,1317,1317,Foul on Neila Luma.,24,28,-4,6,0.35842988374164764,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+126,2,1:51,1311,1311,Cierra Walker missed Three Point Jumper.,24,28,-4,0,0.3580757039456849,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+127,2,1:51,1311,1311,Erin Whalen Offensive Rebound.,24,28,-4,24,0.3580757039456849,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+128,2,1:27,1287,1287,Cierra Walker Turnover.,24,28,-4,1,0.3566183864971937,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+129,2,1:26,1286,1286,Mei-Lyn Bautista Steal.,24,28,-4,8,0.35655602564147026,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+130,2,1:18,1278,1278,Kelli Prange Turnover.,24,28,-4,1,0.3560517160768157,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+131,2,1:17,1277,1277,Chelsie Hall Steal.,24,28,-4,6,0.35598797305274665,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+132,2,1:11,1271,1271,Erin Whalen made Jumper.,24,30,-6,18,0.2907475117495099,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+133,2,0:53,1253,1253,Kelli Prange missed Jumper.,24,30,-6,0,0.2891336107262596,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+134,2,0:53,1253,1253,Blessing Ejiofor Defensive Rebound.,24,30,-6,13,0.2891336107262596,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+135,2,0:40,1240,1240,Foul on Lexus Levy.,24,30,-6,7,0.28791515251824995,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+136,2,0:33,1233,1233,Chelsie Hall missed Jumper.,24,30,-6,0,0.287238698058346,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+137,2,0:33,1233,1233,Blessing Ejiofor Offensive Rebound.,24,30,-6,4,0.287238698058346,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+138,2,0:29,1229,1229,Blessing Ejiofor made Jumper.,24,32,-8,18,0.22893403409034466,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+139,2,0:11,1211,1211,Lexus Levy missed Three Point Jumper.,24,32,-8,0,0.2268251825186989,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+140,2,0:11,1211,1211,Kayla Overbeck Defensive Rebound.,24,32,-8,8,0.2268251825186989,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+141,2,0:03,1203,1203,Chelsie Hall made Jumper.,24,34,-10,3,0.17657025694990672,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+142,2,0:00,1200,1200,End of 2nd Quarter,24,34,-10,18,0.17620114634698963,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+143,3,9:42,1182,1182,Brianna Cummings made Jumper.,26,34,-8,12,0.22342756368111835,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,George Washington
+144,3,9:30,1170,1170,Autumn Newby missed Jumper.,26,34,-8,0,0.2220777957904388,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+145,3,9:30,1170,1170,Vanderbilt Offensive Rebound.,26,34,-8,7,0.2220777957904388,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+146,3,9:23,1163,1163,Chelsie Hall made Three Point Jumper. Assisted by Rachel Bell.,26,37,-11,25,0.15060226391120707,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,Vanderbilt
+147,3,8:58,1138,1138,Neila Luma missed Jumper.,26,37,-11,0,0.14782546066048588,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+148,3,8:58,1138,1138,Neila Luma Offensive Rebound.,26,37,-11,1,0.14782546066048588,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+149,3,8:57,1137,1137,Foul on Rachel Bell.,26,37,-11,0,0.14771564166526896,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+150,3,8:57,1137,1137,Neila Luma made Free Throw.,27,37,-10,0,0.16891997104794723,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,George Washington
+151,3,8:57,1137,1137,Neila Luma missed Free Throw.,27,37,-10,0,0.16891997104794723,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+152,3,8:57,1137,1137,Chelsie Hall Defensive Rebound.,27,37,-10,8,0.16891997104794723,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+153,3,8:49,1129,1129,Chelsie Hall made Layup.,27,39,-12,17,0.1279088263312603,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,Vanderbilt
+154,3,8:32,1112,1112,Brianna Cummings missed Jumper.,27,39,-12,0,0.12610499730967287,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+155,3,8:32,1112,1112,Autumn Newby Defensive Rebound.,27,39,-12,8,0.12610499730967287,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+156,3,8:24,1104,1104,Chelsie Hall missed Layup.,27,39,-12,0,0.1252552471896725,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+157,3,8:24,1104,1104,Vanderbilt Offensive Rebound.,27,39,-12,4,0.1252552471896725,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+158,3,8:20,1100,1100,Rachel Bell made Jumper. Assisted by Cierra Walker.,27,41,-14,19,0.09346439848225217,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,Vanderbilt
+159,3,8:01,1081,1081,Mei-Lyn Bautista made Three Point Jumper. Assisted by Neila Luma.,30,41,-11,13,0.14155710228416296,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,George Washington
+160,3,7:48,1068,1068,Autumn Newby missed Jumper.,30,41,-11,0,0.14008834767987252,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+161,3,7:48,1068,1068,Brianna Cummings Defensive Rebound.,30,41,-11,7,0.14008834767987252,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+162,3,7:41,1061,1061,Kelli Prange made Layup. Assisted by Mei-Lyn Bautista.,32,41,-9,20,0.1839062571024822,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,George Washington
+163,3,7:21,1041,1041,Foul on Kelli Prange.,32,41,-9,7,0.1814931815300022,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+164,3,7:14,1034,1034,Rachel Bell Turnover.,32,41,-9,1,0.18062240496599816,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+165,3,7:13,1033,1033,Neila Luma Steal.,32,41,-9,22,0.18049678331992847,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+166,3,6:51,1011,1011,Kelli Prange missed Jumper.,32,41,-9,0,0.17764806389762416,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+167,3,6:51,1011,1011,Vanderbilt Defensive Rebound.,32,41,-9,11,0.17764806389762416,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+168,3,6:40,1000,1000,Christa Reed made Layup. Assisted by Kaleigh Clemons-Green.,32,43,-11,18,0.1317690111519684,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,Vanderbilt
+169,3,6:22,982,982,Foul on Kayla Overbeck.,32,43,-11,8,0.12931872676227252,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+170,3,6:14,974,974,Brianna Cummings missed Jumper.,32,43,-11,0,0.1281887141036622,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+171,3,6:14,974,974,Kayla Overbeck Block.,32,43,-11,2,0.1281887141036622,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+172,3,6:12,972,972,Kayla Overbeck Defensive Rebound.,32,43,-11,7,0.1279020830187432,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+173,3,6:05,965,965,Foul on Brianna Cummings.,32,43,-11,0,0.12690315755637258,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+174,3,6:05,965,965,Cierra Walker made Free Throw.,32,44,-12,0,0.10871334752905265,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,Vanderbilt
+175,3,6:05,965,965,Cierra Walker made Free Throw.,32,45,-13,12,0.09285351402326242,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,Vanderbilt
+176,3,5:53,953,953,Neila Luma missed Jumper.,32,45,-13,0,0.09140725791674596,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+177,3,5:53,953,953,Erin Whalen Defensive Rebound.,32,45,-13,11,0.09140725791674596,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,
+178,3,5:42,942,942,Cierra Walker made Three Point Jumper. Assisted by Erin Whalen.,32,48,-16,4,0.05494540025347616,George Washington,Vanderbilt,4,5,0,0,NA,400987901,2017-11-23,Vanderbilt
+179,3,5:38,938,938,George Washington  Timeout,32,48,-16,0,0.05461224657578843,George Washington,Vanderbilt,4,4,0,1,NA,400987901,2017-11-23,
+180,3,5:38,938,938,Official TV Timeout,32,48,-16,15,0.05461224657578843,George Washington,Vanderbilt,4,4,0,1,NA,400987901,2017-11-23,
+181,3,5:23,923,923,Mei-Lyn Bautista missed Three Point Jumper.,32,48,-16,0,0.05342801394130527,George Washington,Vanderbilt,4,4,0,1,NA,400987901,2017-11-23,
+182,3,5:23,923,923,Erin Whalen Defensive Rebound.,32,48,-16,3,0.05342801394130527,George Washington,Vanderbilt,4,4,0,1,NA,400987901,2017-11-23,
+183,3,5:20,920,920,Foul on Kendall Bresee.,32,48,-16,11,0.053201912504855266,George Washington,Vanderbilt,4,4,0,1,NA,400987901,2017-11-23,
+184,3,5:09,909,909,Erin Whalen made Three Point Jumper. Assisted by Chelsie Hall.,32,51,-19,23,0.031131894800897744,George Washington,Vanderbilt,4,4,0,1,NA,400987901,2017-11-23,Vanderbilt
+185,3,4:46,886,886,Camila Tapias missed Three Point Jumper.,32,51,-19,0,0.02998945730679161,George Washington,Vanderbilt,4,4,0,1,NA,400987901,2017-11-23,
+186,3,4:46,886,886,Cierra Walker Defensive Rebound.,32,51,-19,12,0.02998945730679161,George Washington,Vanderbilt,4,4,0,1,NA,400987901,2017-11-23,
+187,3,4:34,874,874,Foul on Kayla Overbeck.,32,51,-19,0,0.02941640671535049,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+188,3,4:34,874,874,Kayla Overbeck Turnover.,32,51,-19,0,0.02941640671535049,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+189,3,4:34,874,874,Official TV Timeout,32,51,-19,12,0.02941640671535049,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+190,3,4:22,862,862,Kelsi Mahoney missed Jumper.,32,51,-19,0,0.02884888775447171,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+191,3,4:22,862,862,Chelsie Hall Defensive Rebound.,32,51,-19,3,0.02884888775447171,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+192,3,4:19,859,859,Foul on Kelsi Mahoney.,32,51,-19,19,0.02870702242093457,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+193,3,4:00,840,840,Bree Horrocks Turnover.,32,51,-19,0,0.027799468126805504,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+194,3,4:00,840,840,Kendall Bresee Steal.,32,51,-19,16,0.027799468126805504,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+195,3,3:44,824,824,Kelsi Mahoney missed Jumper.,32,51,-19,0,0.027010485835779165,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+196,3,3:44,824,824,Kelli Prange Offensive Rebound.,32,51,-19,9,0.027010485835779165,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+197,3,3:35,815,815,Kendall Bresee made Layup.,34,51,-17,16,0.03832302445677247,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,George Washington
+198,3,3:19,799,799,Erin Whalen missed Jumper.,34,51,-17,0,0.037235585010019744,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+199,3,3:19,799,799,Vanderbilt Offensive Rebound.,34,51,-17,5,0.037235585010019744,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+200,3,3:14,794,794,Chelsie Hall made Layup.,34,53,-19,10,0.02542464980709167,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+201,3,3:04,784,784,Foul on Blessing Ejiofor.,34,53,-19,14,0.024856010989411155,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+202,3,2:50,770,770,Kelsi Mahoney missed Layup.,34,53,-19,0,0.02402073597851317,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+203,3,2:50,770,770,Blessing Ejiofor Defensive Rebound.,34,53,-19,22,0.02402073597851317,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+204,3,2:28,748,748,Blessing Ejiofor made Layup. Assisted by Erin Whalen.,34,55,-21,15,0.015322239464395553,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+205,3,2:13,733,733,Kelsi Mahoney Turnover.,34,55,-21,1,0.01454415702195727,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+206,3,2:12,732,732,George Washington  Timeout,34,55,-21,18,0.014490903871102028,George Washington,Vanderbilt,4,3,0,1,NA,400987901,2017-11-23,
+207,3,1:54,714,714,Chelsie Hall Turnover.,34,55,-21,10,0.0135975073152537,George Washington,Vanderbilt,4,3,0,1,NA,400987901,2017-11-23,
+208,3,1:44,704,704,Camila Tapias made Three Point Jumper. Assisted by Lexus Levy.,37,55,-18,26,0.02412581256234156,George Washington,Vanderbilt,4,3,0,1,NA,400987901,2017-11-23,George Washington
+209,3,1:18,678,678,Erin Whalen missed Three Point Jumper.,37,55,-18,0,0.022614840106981785,George Washington,Vanderbilt,4,3,0,1,NA,400987901,2017-11-23,
+210,3,1:18,678,678,Kayla Overbeck Offensive Rebound.,37,55,-18,4,0.022614840106981785,George Washington,Vanderbilt,4,3,0,1,NA,400987901,2017-11-23,
+211,3,1:14,674,674,Kayla Overbeck missed Layup.,37,55,-18,0,0.02240151293288421,George Washington,Vanderbilt,4,3,0,1,NA,400987901,2017-11-23,
+212,3,1:14,674,674,Kelsi Mahoney Defensive Rebound.,37,55,-18,16,0.02240151293288421,George Washington,Vanderbilt,4,3,0,1,NA,400987901,2017-11-23,
+213,3,0:58,658,658,Kelsi Mahoney Turnover.,37,55,-18,4,0.02157485471627551,George Washington,Vanderbilt,4,3,0,0,NA,400987901,2017-11-23,
+214,3,0:54,654,654,Blessing Ejiofor Steal.,37,55,-18,1,0.021372014001372834,George Washington,Vanderbilt,4,3,0,0,NA,400987901,2017-11-23,
+215,3,0:53,653,653,Chelsie Hall made Layup. Assisted by Erin Whalen.,37,57,-20,0,0.01404065573352557,George Washington,Vanderbilt,4,3,0,0,NA,400987901,2017-11-23,Vanderbilt
+216,3,0:53,653,653,Foul on Kelsi Mahoney.,37,57,-20,0,0.01404065573352557,George Washington,Vanderbilt,4,3,0,0,NA,400987901,2017-11-23,
+217,3,0:53,653,653,Chelsie Hall made Free Throw.,37,58,-21,8,0.011382381785985312,George Washington,Vanderbilt,4,3,0,0,NA,400987901,2017-11-23,Vanderbilt
+218,3,0:45,645,645,Neila Luma Turnover.,37,58,-21,2,0.011128134489099745,George Washington,Vanderbilt,4,3,0,0,NA,400987901,2017-11-23,
+219,3,0:43,643,643,Chelsie Hall Steal.,37,58,-21,3,0.01106456079431041,George Washington,Vanderbilt,4,3,0,0,NA,400987901,2017-11-23,
+220,3,0:40,640,640,Chelsie Hall made Jumper.,37,60,-23,12,0.007171971760712737,George Washington,Vanderbilt,4,3,0,0,NA,400987901,2017-11-23,Vanderbilt
+221,3,0:28,628,628,Camila Tapias missed Three Point Jumper.,37,60,-23,0,0.006894965843116853,George Washington,Vanderbilt,4,3,0,0,NA,400987901,2017-11-23,
+222,3,0:28,628,628,Kayla Overbeck Defensive Rebound.,37,60,-23,4,0.006894965843116853,George Washington,Vanderbilt,4,3,0,0,NA,400987901,2017-11-23,
+223,3,0:24,624,624,Kayla Overbeck Turnover.,37,60,-23,0,0.006801287016771421,George Washington,Vanderbilt,4,3,0,0,NA,400987901,2017-11-23,
+224,3,0:24,624,624,Kelli Prange Steal.,37,60,-23,5,0.006801287016771421,George Washington,Vanderbilt,4,3,0,0,NA,400987901,2017-11-23,
+225,3,0:19,619,619,Mei-Lyn Bautista made Jumper.,39,60,-21,18,0.010286424825616989,George Washington,Vanderbilt,4,3,0,0,NA,400987901,2017-11-23,George Washington
+226,3,0:01,601,601,Chelsie Hall Turnover.,39,60,-21,1,0.009665215725318387,George Washington,Vanderbilt,4,3,0,0,NA,400987901,2017-11-23,
+227,3,0:00,600,600,End of 3rd Quarter,39,60,-21,8,0.009629382907594113,George Washington,Vanderbilt,4,3,0,0,NA,400987901,2017-11-23,
+228,4,9:52,592,592,LeaLea Carter Turnover.,39,60,-21,1,0.009337087132441541,George Washington,Vanderbilt,5,4,0,0,NA,400987901,2017-11-23,
+229,4,9:51,591,591,Mei-Lyn Bautista Steal.,39,60,-21,18,0.009299824227199839,George Washington,Vanderbilt,5,4,0,0,NA,400987901,2017-11-23,
+230,4,9:33,573,573,Mei-Lyn Bautista missed Three Point Jumper.,39,60,-21,0,0.008600048539921273,George Washington,Vanderbilt,5,4,0,0,NA,400987901,2017-11-23,
+231,4,9:33,573,573,Kelli Prange Offensive Rebound.,39,60,-21,3,0.008600048539921273,George Washington,Vanderbilt,5,4,0,0,NA,400987901,2017-11-23,
+232,4,9:30,570,570,Kelli Prange made Layup.,41,60,-19,19,0.013278163656573685,George Washington,Vanderbilt,5,4,0,0,NA,400987901,2017-11-23,George Washington
+233,4,9:11,551,551,Autumn Newby Turnover.,41,60,-19,18,0.012132739250814822,George Washington,Vanderbilt,5,4,0,0,NA,400987901,2017-11-23,
+234,4,8:53,533,533,Kelli Prange missed Three Point Jumper.,41,60,-19,0,0.011137039466999545,George Washington,Vanderbilt,5,4,0,0,NA,400987901,2017-11-23,
+235,4,8:53,533,533,Bree Horrocks Defensive Rebound.,41,60,-19,13,0.011137039466999545,George Washington,Vanderbilt,5,4,0,0,NA,400987901,2017-11-23,
+236,4,8:40,520,520,LeaLea Carter Turnover.,41,60,-19,1,0.010560567435356048,George Washington,Vanderbilt,5,4,0,0,NA,400987901,2017-11-23,
+237,4,8:39,519,519,Kendall Bresee Steal.,41,60,-19,6,0.010519521502725426,George Washington,Vanderbilt,5,4,0,0,NA,400987901,2017-11-23,
+238,4,8:33,513,513,Kendall Bresee Turnover.,41,60,-19,1,0.01028044806860203,George Washington,Vanderbilt,5,4,0,0,NA,400987901,2017-11-23,
+239,4,8:32,512,512,Kaleigh Clemons-Green Steal.,41,60,-19,1,0.01024163690494133,George Washington,Vanderbilt,5,4,0,0,NA,400987901,2017-11-23,
+240,4,8:31,511,511,Kaleigh Clemons-Green Turnover.,41,60,-19,1,0.010203075382790505,George Washington,Vanderbilt,5,4,0,0,NA,400987901,2017-11-23,
+241,4,8:30,510,510,Kelli Prange Steal.,41,60,-19,1,0.010164746835400865,George Washington,Vanderbilt,5,4,0,0,NA,400987901,2017-11-23,
+242,4,8:29,509,509,Kelli Prange missed Jumper.,41,60,-19,0,0.01012663483161457,George Washington,Vanderbilt,5,4,0,0,NA,400987901,2017-11-23,
+243,4,8:29,509,509,Kaleigh Clemons-Green Defensive Rebound.,41,60,-19,6,0.01012663483161457,George Washington,Vanderbilt,5,4,0,0,NA,400987901,2017-11-23,
+244,4,8:23,503,503,Vanderbilt  Timeout,41,60,-19,0,0.009901618982643934,George Washington,Vanderbilt,4,4,1,0,NA,400987901,2017-11-23,
+245,4,8:23,503,503,Official TV Timeout,41,60,-19,11,0.009901618982643934,George Washington,Vanderbilt,4,4,1,0,NA,400987901,2017-11-23,
+246,4,8:12,492,492,Bree Horrocks made Jumper. Assisted by Kaleigh Clemons-Green.,41,62,-21,21,0.005844360767311566,George Washington,Vanderbilt,4,4,1,0,NA,400987901,2017-11-23,Vanderbilt
+247,4,7:51,471,471,Neila Luma made Jumper. Assisted by Kelli Prange.,43,62,-19,26,0.008698732526526063,George Washington,Vanderbilt,4,4,1,0,NA,400987901,2017-11-23,George Washington
+248,4,7:25,445,445,Foul on Neila Luma.,43,62,-19,2,0.007554763488681987,George Washington,Vanderbilt,4,4,1,0,NA,400987901,2017-11-23,
+249,4,7:23,443,443,Foul on Bree Horrocks.,43,62,-19,0,0.007457159292854877,George Washington,Vanderbilt,4,4,1,0,NA,400987901,2017-11-23,
+250,4,7:23,443,443,Bree Horrocks Turnover.,43,62,-19,19,0.007457159292854877,George Washington,Vanderbilt,4,4,1,0,NA,400987901,2017-11-23,
+251,4,7:04,424,424,Kelli Prange made Three Point Jumper. Assisted by Mei-Lyn Bautista.,46,62,-16,18,0.014232319944627144,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,George Washington
+252,4,6:46,406,406,Foul on Neila Luma.,46,62,-16,14,0.012769991415977261,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+253,4,6:32,392,392,Cierra Walker missed Jumper.,46,62,-16,0,0.011781002033021917,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+254,4,6:32,392,392,Kelli Prange Defensive Rebound.,46,62,-16,2,0.011781002033021917,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+255,4,6:30,390,390,Foul on Kayla Overbeck.,46,62,-16,25,0.01164585134038943,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+256,4,6:05,365,365,Camila Tapias missed Jumper.,46,62,-16,0,0.01000306699607014,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+257,4,6:05,365,365,Kelli Prange Offensive Rebound.,46,62,-16,2,0.01000306699607014,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+258,4,6:03,363,363,Foul on Erin Whalen.,46,62,-16,6,0.009871811086325304,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+259,4,5:57,357,357,Kelli Prange missed Jumper.,46,62,-16,0,0.00947547877997603,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+260,4,5:57,357,357,Blessing Ejiofor Block.,46,62,-16,1,0.00947547877997603,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+261,4,5:56,356,356,Chelsie Hall Defensive Rebound.,46,62,-16,1,0.009408975620192378,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+262,4,5:55,355,355,Chelsie Hall Turnover.,46,62,-16,19,0.00934232834189742,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+263,4,5:36,336,336,Kelli Prange missed Jumper.,46,62,-16,0,0.008044020803971017,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+264,4,5:36,336,336,Blessing Ejiofor Defensive Rebound.,46,62,-16,6,0.008044020803971017,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+265,4,5:30,330,330,Cierra Walker Turnover.,46,62,-16,6,0.007620806131300818,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+266,4,5:24,324,324,Foul on Blessing Ejiofor.,46,62,-16,2,0.007192021051929641,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+267,4,5:22,322,322,Brianna Cummings Turnover.,46,62,-16,1,0.007048043515602576,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+268,4,5:21,321,321,Chelsie Hall Steal.,46,62,-16,18,0.00697588646487362,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+269,4,5:03,303,303,Kayla Overbeck Turnover.,46,62,-16,0,0.005781075004953648,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+270,4,5:03,303,303,Brianna Cummings Steal.,46,62,-16,9,0.005781075004953648,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+271,4,4:54,294,294,Kelli Prange missed Jumper.,46,62,-16,0,0.005537749286678158,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+272,4,4:54,294,294,Blessing Ejiofor Defensive Rebound.,46,62,-16,19,0.005537749286678158,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+273,4,4:35,275,275,Cierra Walker made Three Point Jumper. Assisted by Chelsie Hall.,46,65,-19,11,0.0021501413663312695,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+274,4,4:24,264,264,Kelli Prange made Layup. Assisted by Lexus Levy.,48,65,-17,34,0.004314142629056447,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,George Washington
+275,4,3:50,230,230,Chelsie Hall missed Jumper.,48,65,-17,0,0.004726083933758495,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+276,4,3:50,230,230,Brianna Cummings Defensive Rebound.,48,65,-17,8,0.004726083933758495,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,
+277,4,3:42,222,222,Kelsi Mahoney made Three Point Jumper. Assisted by Brianna Cummings.,51,65,-14,16,0.011671850641092909,George Washington,Vanderbilt,4,4,0,0,NA,400987901,2017-11-23,George Washington
+278,4,3:26,206,206,Vanderbilt  Timeout,51,65,-14,19,0.009847850072012736,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+279,4,3:07,187,187,Autumn Newby missed Layup.,51,65,-14,0,0.006338209212760453,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+280,4,3:07,187,187,Brianna Cummings Block.,51,65,-14,1,0.006338209212760453,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+281,4,3:06,186,186,Neila Luma Defensive Rebound.,51,65,-14,22,0.006156663970142349,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+282,4,2:44,164,164,Kelsi Mahoney missed Three Point Jumper.,51,65,-14,0,0.003173739719597052,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+283,4,2:44,164,164,Chelsie Hall Defensive Rebound.,51,65,-14,13,0.003173739719597052,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+284,4,2:31,151,151,Erin Whalen missed Three Point Jumper.,51,65,-14,0,0.0020617265285910995,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+285,4,2:31,151,151,Neila Luma Defensive Rebound.,51,65,-14,5,0.0020617265285910995,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+286,4,2:26,146,146,Foul on Autumn Newby.,51,65,-14,0,0.001725621304546447,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+287,4,2:26,146,146,Mei-Lyn Bautista made Free Throw.,52,65,-13,0,0.0027153272177565563,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,George Washington
+288,4,2:26,146,146,Mei-Lyn Bautista missed Free Throw.,52,65,-13,0,0.0027153272177565563,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+289,4,2:26,146,146,Erin Whalen Defensive Rebound.,52,65,-13,25,0.0027153272177565563,George Washington,Vanderbilt,3,4,1,0,NA,400987901,2017-11-23,
+290,4,2:01,121,121,Chelsie Hall Turnover.,52,65,-13,13,0.0010463266182469504,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+291,4,1:48,108,108,Lexus Levy missed Jumper.,52,65,-13,0,5.723306122813463e-4,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+292,4,1:48,108,108,Cierra Walker Defensive Rebound.,52,65,-13,23,5.723306122813463e-4,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+293,4,1:25,85,85,Foul on Lexus Levy.,52,65,-13,11,1.5957880848070337e-4,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+294,4,1:14,74,74,Foul on Brianna Cummings.,52,65,-13,10,8.11409154006474e-5,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+295,4,1:04,64,64,Foul on Mei-Lyn Bautista.,52,65,-13,0,4.1787542569093195e-5,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+296,4,1:04,64,64,Kaleigh Clemons-Green made Free Throw.,52,66,-14,0,1.924046080302389e-5,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+297,4,1:04,64,64,Kaleigh Clemons-Green made Free Throw.,52,67,-15,20,8.858880072107802e-6,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,Vanderbilt
+298,4,0:44,44,44,Brianna Cummings missed Jumper.,52,67,-15,0,1.688401252396759e-6,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+299,4,0:44,44,44,Brianna Cummings Offensive Rebound.,52,67,-15,3,1.688401252396759e-6,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,
+300,4,0:41,41,41,Brianna Cummings made Layup.,54,67,-13,12,7.888287363509957e-6,George Washington,Vanderbilt,3,4,0,0,NA,400987901,2017-11-23,George Washington
+301,4,0:29,29,29,Foul on Brianna Cummings.,54,67,-13,0,3.021835269777304e-6,George Washington,Vanderbilt,3,4,0,1,NA,400987901,2017-11-23,
+302,4,0:29,29,29,Cierra Walker made Free Throw.,54,68,-14,0,1.1367819011226459e-6,George Washington,Vanderbilt,3,4,0,1,NA,400987901,2017-11-23,Vanderbilt
+303,4,0:29,29,29,Cierra Walker made Free Throw.,54,69,-15,0,4.276446118808762e-7,George Washington,Vanderbilt,3,4,0,1,NA,400987901,2017-11-23,Vanderbilt
+304,4,0:29,29,29,George Washington  Timeout,54,69,-15,7,4.276446118808762e-7,George Washington,Vanderbilt,3,3,0,1,NA,400987901,2017-11-23,
+305,4,0:22,22,22,Brianna Cummings made Layup. Assisted by Kelsi Mahoney.,56,69,-13,0,1.6882344688643834e-6,George Washington,Vanderbilt,3,3,0,1,NA,400987901,2017-11-23,George Washington
+306,4,0:22,22,22,Foul on Myka Dancy.,56,69,-13,0,1.6882344688643834e-6,George Washington,Vanderbilt,3,3,0,1,NA,400987901,2017-11-23,
+307,4,0:22,22,22,Brianna Cummings made Free Throw.,57,69,-12,4,4.693264549791257e-6,George Washington,Vanderbilt,3,3,0,1,NA,400987901,2017-11-23,George Washington
+308,4,0:18,18,18,Kaleigh Clemons-Green Turnover.,57,69,-12,0,3.4175921944678163e-6,George Washington,Vanderbilt,3,3,1,1,NA,400987901,2017-11-23,
+309,4,0:18,18,18,Brianna Cummings Steal.,57,69,-12,0,3.4175921944678163e-6,George Washington,Vanderbilt,3,3,1,1,NA,400987901,2017-11-23,
+310,4,0:18,18,18,Foul on Kaleigh Clemons-Green.,57,69,-12,0,3.4175921944678163e-6,George Washington,Vanderbilt,3,3,1,1,NA,400987901,2017-11-23,
+311,4,0:18,18,18,Brianna Cummings made Free Throw.,58,69,-11,0,9.755301051315891e-6,George Washington,Vanderbilt,3,3,1,1,NA,400987901,2017-11-23,George Washington
+312,4,0:18,18,18,Brianna Cummings made Free Throw.,59,69,-10,0,2.7845563403297623e-5,George Washington,Vanderbilt,3,3,1,1,NA,400987901,2017-11-23,George Washington
+313,4,0:18,18,18,Vanderbilt  Timeout,59,69,-10,3,2.7845563403297623e-5,George Washington,Vanderbilt,2,3,1,1,NA,400987901,2017-11-23,
+314,4,0:15,15,15,Kendall Bresee Turnover.,59,69,-10,10,2.272093913954379e-5,George Washington,Vanderbilt,2,3,1,1,NA,400987901,2017-11-23,
+315,4,0:05,5,5,Mei-Lyn Bautista missed Three Point Jumper.,59,69,-10,0,1.1234213572354967e-5,George Washington,Vanderbilt,2,3,1,1,NA,400987901,2017-11-23,
+316,4,0:05,5,5,Kaleigh Clemons-Green Defensive Rebound.,59,69,-10,5,1.1234213572354967e-5,George Washington,Vanderbilt,2,3,1,1,NA,400987901,2017-11-23,
+317,4,0:00,0,0,End of Game,59,69,-10,0,1.3838965267367376e-87,George Washington,Vanderbilt,2,3,1,1,NA,400987901,2017-11-23,

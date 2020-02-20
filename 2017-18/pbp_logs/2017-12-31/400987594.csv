@@ -1,0 +1,319 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:41,2381,2381,Amber Smith made Jumper.,0,0,0,14,0.5,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,NA
+2,1,9:27,2367,2367,Hannah Cook made Three Point Jumper.,3,2,1,21,0.5224073600426636,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Alabama
+3,1,9:06,2346,2346,Sophie Cunningham missed Three Point Jumper.,3,2,1,0,0.5226349910602054,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+4,1,9:06,2346,2346,Alabama Defensive Rebound.,3,2,1,15,0.5226349910602054,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+5,1,8:51,2331,2331,Shaquera Wade made Jumper.,5,2,3,21,0.5680211159857175,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Alabama
+6,1,8:30,2310,2310,Cierra Porter missed Jumper.,5,2,3,0,0.5687065592332494,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+7,1,8:30,2310,2310,Shaquera Wade Defensive Rebound.,5,2,3,15,0.5687065592332494,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+8,1,8:15,2295,2295,Foul on Lauren Aldridge.,5,2,3,20,0.5692004269661427,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+9,1,7:55,2275,2275,Jordan Lewis missed Three Point Jumper.,5,2,3,0,0.5698639321648388,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+10,1,7:55,2275,2275,Shaquera Wade Offensive Rebound.,5,2,3,11,0.5698639321648388,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+11,1,7:44,2264,2264,Foul on Amber Smith.,5,2,3,0,0.5702310973753852,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+12,1,7:44,2264,2264,Shaquera Wade made Free Throw.,6,2,4,0,0.5931635207693176,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Alabama
+13,1,7:44,2264,2264,Shaquera Wade made Free Throw.,7,2,5,12,0.6156969569824661,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Alabama
+14,1,7:32,2252,2252,Amber Smith Turnover.,7,2,5,14,0.6163440362323678,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+15,1,7:18,2238,2238,Hannah Cook missed Three Point Jumper.,7,2,5,0,0.6171018578559682,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+16,1,7:18,2238,2238,Cierra Porter Defensive Rebound.,7,2,5,4,0.6171018578559682,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+17,1,7:14,2234,2234,Foul on Shaquera Wade.,7,2,5,21,0.6173189047761812,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+18,1,6:53,2213,2213,Foul on Quanetria Bolton.,7,2,5,0,0.6184618015703488,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+19,1,6:53,2213,2213,Sophie Cunningham made Free Throw.,7,3,4,0,0.5954204863854143,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Missouri
+20,1,6:53,2213,2213,Sophie Cunningham made Free Throw.,7,4,3,14,0.5719507615723202,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Missouri
+21,1,6:39,2199,2199,Shaquera Wade missed Jumper.,7,4,3,0,0.572426916502672,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+22,1,6:39,2199,2199,Lauren Aldridge Defensive Rebound.,7,4,3,11,0.572426916502672,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+23,1,6:28,2188,2188,Foul on Ashley Williams.,7,4,3,2,0.5728020015994195,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+24,1,6:26,2186,2186,Lauren Aldridge Turnover.,7,4,3,0,0.572870280824908,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+25,1,6:26,2186,2186,Foul on Lauren Aldridge.,7,4,3,16,0.572870280824908,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+26,1,6:10,2170,2170,Ashley Williams Turnover.,7,4,3,2,0.5734173134835795,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+27,1,6:08,2168,2168,Sophie Cunningham Steal.,7,4,3,5,0.5734857944927388,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+28,1,6:03,2163,2163,Sophie Cunningham missed Jumper.,7,4,3,0,0.5736571798044234,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+29,1,6:03,2163,2163,Ashley Knight Block.,7,4,3,2,0.5736571798044234,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+30,1,6:01,2161,2161,Ashley Williams Defensive Rebound.,7,4,3,5,0.5737258080799493,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+31,1,5:56,2156,2156,Shaquera Wade missed Three Point Jumper.,7,4,3,0,0.5738975675957979,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+32,1,5:56,2156,2156,Sophie Cunningham Defensive Rebound.,7,4,3,17,0.5738975675957979,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+33,1,5:39,2139,2139,Cierra Porter missed Jumper.,7,4,3,0,0.5744836413761442,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+34,1,5:39,2139,2139,Ashley Williams Defensive Rebound.,7,4,3,19,0.5744836413761442,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+35,1,5:20,2120,2120,Ashley Williams Turnover.,7,4,3,2,0.5751427199016728,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+36,1,5:18,2118,2118,Cierra Porter Steal.,7,4,3,20,0.5752123586433557,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+37,1,4:58,2098,2098,Sophie Cunningham Turnover.,7,4,3,1,0.5759116389021492,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+38,1,4:57,2097,2097,Official TV Timeout,7,4,3,10,0.5759467449272596,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+39,1,4:47,2087,2087,Foul on Amber Smith.,7,4,3,11,0.5762985768755345,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+40,1,4:36,2076,2076,Foul on Cierra Porter.,7,4,3,0,0.5766872539992671,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+41,1,4:36,2076,2076,Jasmine Walker made Free Throw.,8,4,4,0,0.6016276921538536,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Alabama
+42,1,4:36,2076,2076,Jasmine Walker made Free Throw.,9,4,5,27,0.626051543483149,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Alabama
+43,1,4:09,2049,2049,Jordan Chavis missed Three Point Jumper.,9,4,5,0,0.6275880279695882,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+44,1,4:09,2049,2049,Jordan Lewis Defensive Rebound.,9,4,5,8,0.6275880279695882,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+45,1,4:01,2041,2041,Jordan Lewis missed Layup.,9,4,5,0,0.6280465266195325,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+46,1,4:01,2041,2041,Jordan Roundtree Defensive Rebound.,9,4,5,32,0.6280465266195325,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+47,1,3:29,2009,2009,Sophie Cunningham missed Three Point Jumper.,9,4,5,0,0.629896401537177,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+48,1,3:29,2009,2009,Alabama Defensive Rebound.,9,4,5,17,0.629896401537177,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+49,1,3:12,1992,1992,Jasmine Walker missed Jumper.,9,4,5,0,0.6308900594558358,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+50,1,3:12,1992,1992,Jordan Roundtree Defensive Rebound.,9,4,5,14,0.6308900594558358,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+51,1,2:58,1978,1978,Sophie Cunningham made Three Point Jumper. Assisted by Jordan Chavis.,9,7,2,30,0.5537493691968808,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Missouri
+52,1,2:28,1948,1948,Meoshonti Knight missed Jumper.,9,7,2,0,0.5545086726314674,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+53,1,2:28,1948,1948,Meoshonti Knight Offensive Rebound.,9,7,2,1,0.5545086726314674,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+54,1,2:27,1947,1947,Foul on Jordan Frericks.,9,7,2,0,0.5545342046676778,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+55,1,2:27,1947,1947,Meoshonti Knight made Free Throw.,10,7,3,0,0.5813972885459624,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Alabama
+56,1,2:27,1947,1947,Meoshonti Knight made Free Throw.,11,7,4,8,0.6077861936236443,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Alabama
+57,1,2:19,1939,1939,Jordan Roundtree Turnover.,11,7,4,1,0.6081813836118145,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+58,1,2:18,1938,1938,Shaquera Wade Steal.,11,7,4,3,0.608230903948103,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+59,1,2:15,1935,1935,Shaquera Wade made Layup. Assisted by Meoshonti Knight.,13,7,6,26,0.6594309157421306,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Alabama
+60,1,1:49,1909,1909,Jordan Chavis made Three Point Jumper.,13,10,3,20,0.5828407567774964,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Missouri
+61,1,1:29,1889,1889,Meoshonti Knight missed Jumper.,13,10,3,0,0.5835998553847677,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+62,1,1:29,1889,1889,Jordan Chavis Defensive Rebound.,13,10,3,25,0.5835998553847677,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+63,1,1:04,1864,1864,Jordan Chavis missed Three Point Jumper.,13,10,3,0,0.5845493261382854,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+64,1,1:04,1864,1864,Jordan Chavis Offensive Rebound.,13,10,3,9,0.5845493261382854,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+65,1,0:55,1855,1855,Jordan Roundtree missed Three Point Jumper.,13,10,3,0,0.58489192170143,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+66,1,0:55,1855,1855,Jordan Lewis Defensive Rebound.,13,10,3,13,0.58489192170143,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+67,1,0:42,1842,1842,Hannah Cook missed Three Point Jumper.,13,10,3,0,0.585388023025359,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+68,1,0:42,1842,1842,Cierra Porter Defensive Rebound.,13,10,3,28,0.585388023025359,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+69,1,0:14,1814,1814,Kayla Michael made Jumper. Assisted by Sophie Cunningham.,13,12,1,11,0.5290809272471098,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Missouri
+70,1,0:03,1803,1803,Foul on Jordan Chavis.,13,12,1,0,0.5292268591232502,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+71,1,0:03,1803,1803,Jordan Lewis made Free Throw.,14,12,2,0,0.5582546715191289,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Alabama
+72,1,0:03,1803,1803,Jordan Lewis made Free Throw.,15,12,3,3,0.5868897761363941,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Alabama
+73,1,0:00,1800,1800,Jordan Chavis Turnover.,15,12,3,0,0.5870063911476985,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+74,1,0:00,1800,1800,Ashley Williams Steal.,15,12,3,0,0.5870063911476985,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+75,1,0:00,1800,1800,End of 1st Quarter,15,12,3,17,0.5870063911476985,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+76,2,9:43,1783,1783,Kayla Michael made Three Point Jumper. Assisted by Jordan Chavis.,15,15,0,13,0.5,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Missouri
+77,2,9:30,1770,1770,Jasmine Walker missed Three Point Jumper.,15,15,0,0,0.5,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+78,2,9:30,1770,1770,Sophie Cunningham Defensive Rebound.,15,15,0,18,0.5,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+79,2,9:12,1752,1752,Sophie Cunningham Turnover.,15,15,0,10,0.5,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+80,2,9:02,1742,1742,Jasmine Walker made Jumper. Assisted by Shaquera Wade.,17,15,2,20,0.5598931710684891,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Alabama
+81,2,8:42,1722,1722,Sophie Cunningham missed Three Point Jumper.,17,15,2,0,0.5604476034778109,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+82,2,8:42,1722,1722,Alabama Defensive Rebound.,17,15,2,31,0.5604476034778109,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+83,2,8:11,1691,1691,Jasmine Walker Turnover.,17,15,2,1,0.5613282778222024,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+84,2,8:10,1690,1690,Emmanuelle Tahane Steal.,17,15,2,17,0.5613571600748621,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+85,2,7:53,1673,1673,Jordan Chavis made Three Point Jumper. Assisted by Cierra Porter.,17,18,-1,29,0.4689598362096253,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Missouri
+86,2,7:24,1644,1644,Hannah Cook missed Jumper.,17,18,-1,0,0.4685536400444692,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+87,2,7:24,1644,1644,Jordan Frericks Defensive Rebound.,17,18,-1,27,0.4685536400444692,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+88,2,6:57,1617,1617,Jordan Frericks Turnover.,17,18,-1,2,0.4681841214915542,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+89,2,6:55,1615,1615,Jordan Lewis Steal.,17,18,-1,3,0.4681569280907135,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+90,2,6:52,1612,1612,Jordan Lewis missed Layup.,17,18,-1,0,0.4681161621424265,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+91,2,6:52,1612,1612,Emmanuelle Tahane Defensive Rebound.,17,18,-1,9,0.4681161621424265,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+92,2,6:43,1603,1603,Lauren Aldridge made Three Point Jumper.,17,21,-4,30,0.3745379165134954,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Missouri
+93,2,6:13,1573,1573,Ashley Knight missed Jumper.,17,21,-4,0,0.3730019705807674,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+94,2,6:13,1573,1573,Cierra Porter Defensive Rebound.,17,21,-4,19,0.3730019705807674,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+95,2,5:54,1554,1554,Jordan Frericks made Jumper. Assisted by Lauren Aldridge.,17,23,-6,2,0.313166926708624,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Missouri
+96,2,5:52,1552,1552,Alabama  Timeout,17,23,-6,0,0.3130226571873452,Alabama,Missouri,3,4,1,0,NA,400987594,2017-12-31,
+97,2,5:52,1552,1552,Official TV Timeout,17,23,-6,9,0.3130226571873452,Alabama,Missouri,3,4,1,0,NA,400987594,2017-12-31,
+98,2,5:43,1543,1543,Hannah Cook missed Three Point Jumper.,17,23,-6,0,0.3123701323872681,Alabama,Missouri,3,4,1,0,NA,400987594,2017-12-31,
+99,2,5:43,1543,1543,Jordan Frericks Defensive Rebound.,17,23,-6,25,0.3123701323872681,Alabama,Missouri,3,4,1,0,NA,400987594,2017-12-31,
+100,2,5:18,1518,1518,Jordan Chavis missed Three Point Jumper.,17,23,-6,0,0.3105220628034571,Alabama,Missouri,3,4,1,0,NA,400987594,2017-12-31,
+101,2,5:18,1518,1518,Hannah Cook Defensive Rebound.,17,23,-6,13,0.3105220628034571,Alabama,Missouri,3,4,1,0,NA,400987594,2017-12-31,
+102,2,5:05,1505,1505,Quanetria Bolton missed Three Point Jumper.,17,23,-6,0,0.30953511205836187,Alabama,Missouri,3,4,1,0,NA,400987594,2017-12-31,
+103,2,5:05,1505,1505,Jordan Frericks Defensive Rebound.,17,23,-6,8,0.30953511205836187,Alabama,Missouri,3,4,1,0,NA,400987594,2017-12-31,
+104,2,4:57,1497,1497,Lauren Aldridge Turnover.,17,23,-6,1,0.3089171744188481,Alabama,Missouri,3,4,1,0,NA,400987594,2017-12-31,
+105,2,4:56,1496,1496,Hannah Cook Steal.,17,23,-6,18,0.3088393205820427,Alabama,Missouri,3,4,1,0,NA,400987594,2017-12-31,
+106,2,4:38,1478,1478,Shaquera Wade missed Three Point Jumper.,17,23,-6,0,0.30741264071341873,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+107,2,4:38,1478,1478,Ashley Williams Offensive Rebound.,17,23,-6,22,0.30741264071341873,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+108,2,4:16,1456,1456,Quanetria Bolton missed Jumper.,17,23,-6,0,0.3055957831170316,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+109,2,4:16,1456,1456,Cierra Porter Block.,17,23,-6,6,0.3055957831170316,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+110,2,4:10,1450,1450,Quanetria Bolton Offensive Rebound.,17,23,-6,2,0.3050846138788344,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+111,2,4:08,1448,1448,Quanetria Bolton made Jumper.,19,23,-4,20,0.3660177996432793,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,Alabama
+112,2,3:48,1428,1428,Foul on Hannah Cook.,19,23,-4,17,0.3647985593416411,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+113,2,3:31,1411,1411,Sophie Cunningham made Three Point Jumper. Assisted by Cierra Porter.,19,26,-7,19,0.27326708267269895,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,Missouri
+114,2,3:12,1392,1392,Ashley Williams missed Jumper.,19,26,-7,0,0.2716289872033483,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+115,2,3:12,1392,1392,Sophie Cunningham Defensive Rebound.,19,26,-7,10,0.2716289872033483,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+116,2,3:02,1382,1382,Kayla Michael Turnover.,19,26,-7,2,0.2707792362749105,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+117,2,3:00,1380,1380,Ashley Williams Steal.,19,26,-7,4,0.27060997087834854,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+118,2,2:56,1376,1376,Ashley Williams made Jumper. Assisted by Shaquera Wade.,21,26,-5,19,0.3297182885817541,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,Alabama
+119,2,2:37,1357,1357,Cierra Porter missed Jumper.,21,26,-5,0,0.32843549076778067,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+120,2,2:37,1357,1357,Hannah Cook Defensive Rebound.,21,26,-5,17,0.32843549076778067,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+121,2,2:20,1340,1340,Hannah Cook missed Three Point Jumper.,21,26,-5,0,0.32728182758253294,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+122,2,2:20,1340,1340,Jordan Chavis Defensive Rebound.,21,26,-5,10,0.32728182758253294,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+123,2,2:10,1330,1330,Kayla Michael missed Jumper.,21,26,-5,0,0.326596143001973,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+124,2,2:10,1330,1330,Shaquera Wade Block.,21,26,-5,0,0.326596143001973,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+125,2,2:10,1330,1330,Missouri Offensive Rebound.,21,26,-5,9,0.326596143001973,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+126,2,2:01,1321,1321,Jordan Frericks Turnover.,21,26,-5,15,0.325972359977133,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+127,2,1:46,1306,1306,Meoshonti Knight missed Three Point Jumper.,21,26,-5,0,0.32491434527302265,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+128,2,1:46,1306,1306,Jordan Chavis Defensive Rebound.,21,26,-5,16,0.32491434527302265,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+129,2,1:30,1290,1290,Hannah Schuchts missed Three Point Jumper.,21,26,-5,0,0.32375348498497414,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+130,2,1:30,1290,1290,Ashley Knight Defensive Rebound.,21,26,-5,12,0.32375348498497414,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+131,2,1:18,1278,1278,Meoshonti Knight missed Jumper.,21,26,-5,0,0.32285589390888364,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+132,2,1:18,1278,1278,Shaquera Wade Offensive Rebound.,21,26,-5,1,0.32285589390888364,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+133,2,1:17,1277,1277,Foul on Meoshonti Knight.,21,26,-5,11,0.3227799209452959,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+134,2,1:06,1266,1266,Sophie Cunningham made Jumper.,21,28,-7,27,0.26059559815190114,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,Missouri
+135,2,0:39,1239,1239,Jasmine Walker made Jumper.,23,28,-5,32,0.3197331235835741,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,Alabama
+136,2,0:07,1207,1207,Foul on Ashley Knight.,23,28,-5,0,0.31687436185619705,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+137,2,0:07,1207,1207,Jordan Frericks made Free Throw.,23,29,-6,0,0.28458962085674955,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,Missouri
+138,2,0:07,1207,1207,Jordan Frericks made Free Throw.,23,30,-7,1,0.2543693917381213,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,Missouri
+139,2,0:06,1206,1206,Meoshonti Knight Turnover.,23,30,-7,4,0.25425577865187754,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+140,2,0:02,1202,1202,Jordan Chavis Steal.,23,30,-7,1,0.25380406840070185,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+141,2,0:01,1201,1201,Jordan Chavis made Three Point Jumper.,23,33,-10,1,0.17632386656793889,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,Missouri
+142,2,0:00,1200,1200,End of 2nd Quarter,23,33,-10,16,0.17620114634698963,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+143,3,9:44,1184,1184,Ashley Williams missed Jumper.,23,33,-10,0,0.17427694167699626,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+144,3,9:44,1184,1184,Cierra Porter Defensive Rebound.,23,33,-10,19,0.17427694167699626,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+145,3,9:25,1165,1165,Lauren Aldridge made Three Point Jumper. Assisted by Sophie Cunningham.,23,36,-13,25,0.11483013789824642,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,Missouri
+146,3,9:00,1140,1140,Ashley Williams missed Jumper.,23,36,-13,0,0.1122262888067125,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+147,3,9:00,1140,1140,Shaquera Wade Offensive Rebound.,23,36,-13,13,0.1122262888067125,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+148,3,8:47,1127,1127,Shaquera Wade missed Three Point Jumper.,23,36,-13,0,0.1108975155745774,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+149,3,8:47,1127,1127,Hannah Cook Offensive Rebound.,23,36,-13,5,0.1108975155745774,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+150,3,8:42,1122,1122,Foul on Jordan Frericks.,23,36,-13,11,0.11038873740469964,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+151,3,8:31,1111,1111,Ashley Williams missed Jumper.,23,36,-13,0,0.10927098610250696,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+152,3,8:31,1111,1111,Sophie Cunningham Block.,23,36,-13,2,0.10927098610250696,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+153,3,8:29,1109,1109,Ashley Williams Offensive Rebound.,23,36,-13,0,0.10906772866032508,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+154,3,8:29,1109,1109,Foul on Cierra Porter.,23,36,-13,2,0.10906772866032508,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+155,3,8:27,1107,1107,Hannah Cook missed Jumper.,23,36,-13,0,0.1088643963360058,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+156,3,8:27,1107,1107,Sophie Cunningham Offensive Rebound.,23,36,-13,2,0.1088643963360058,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+157,3,8:25,1105,1105,Foul on Ashley Williams.,23,36,-13,0,0.1086609632424659,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+158,3,8:25,1105,1105,Foul on Sophie Cunningham.,23,36,-13,26,0.1086609632424659,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+159,3,7:59,1079,1079,Amber Smith missed Jumper.,23,36,-13,0,0.10599571504013856,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+160,3,7:59,1079,1079,Quanetria Bolton Defensive Rebound.,23,36,-13,5,0.10599571504013856,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+161,3,7:54,1074,1074,Foul on Sophie Cunningham.,23,36,-13,15,0.10547618220334032,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+162,3,7:39,1059,1059,Hannah Cook missed Jumper.,23,36,-13,0,0.1038973876477416,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+163,3,7:39,1059,1059,Amber Smith Block.,23,36,-13,3,0.1038973876477416,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+164,3,7:36,1056,1056,Amber Smith Defensive Rebound.,23,36,-13,3,0.1035774233629898,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+165,3,7:33,1053,1053,Lauren Aldridge missed Three Point Jumper.,23,36,-13,0,0.10325588893124965,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+166,3,7:33,1053,1053,Jordan Frericks Offensive Rebound.,23,36,-13,5,0.10325588893124965,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+167,3,7:28,1048,1048,Jordan Frericks made Jumper.,23,38,-15,0,0.07579879696611783,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,Missouri
+168,3,7:28,1048,1048,Foul on Quanetria Bolton.,23,38,-15,0,0.07579879696611783,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+169,3,7:28,1048,1048,Jordan Frericks made Free Throw.,23,39,-16,20,0.06491428221841918,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,Missouri
+170,3,7:08,1028,1028,Ashley Williams missed Jumper.,23,39,-16,0,0.06312879535087582,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+171,3,7:08,1028,1028,Cierra Porter Block.,23,39,-16,1,0.06312879535087582,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+172,3,7:07,1027,1027,Quanetria Bolton Offensive Rebound.,23,39,-16,5,0.06303790991321631,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+173,3,7:02,1022,1022,Quanetria Bolton made Jumper. Assisted by Coco Knight.,25,39,-14,19,0.08561936123935328,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,Alabama
+174,3,6:43,1003,1003,Jordan Frericks Turnover.,25,39,-14,29,0.08353923796539856,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+175,3,6:14,974,974,Jasmine Walker Turnover.,25,39,-14,1,0.08017979961682312,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+176,3,6:13,973,973,Lauren Aldridge Steal.,25,39,-14,14,0.08005962868893912,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+177,3,5:59,959,959,Foul on Kayla Michael.,25,39,-14,0,0.07841526273050124,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+178,3,5:59,959,959,Kayla Michael Turnover.,25,39,-14,13,0.07841526273050124,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+179,3,5:46,946,946,Jordan Lewis made Three Point Jumper. Assisted by Jasmine Walker.,28,39,-11,11,0.12440485638771928,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,Alabama
+180,3,5:35,935,935,Cierra Porter Turnover.,28,39,-11,0,0.12308230708354359,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+181,3,5:35,935,935,Amber Richardson Steal.,28,39,-11,1,0.12308230708354359,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+182,3,5:34,934,934,Missouri  Timeout,28,39,-11,0,0.1229658827276992,Alabama,Missouri,4,4,0,1,NA,400987594,2017-12-31,
+183,3,5:34,934,934,Official TV Timeout,28,39,-11,19,0.1229658827276992,Alabama,Missouri,4,4,0,1,NA,400987594,2017-12-31,
+184,3,5:15,915,915,Foul on Cierra Porter.,28,39,-11,0,0.12085332334469082,Alabama,Missouri,4,4,0,1,NA,400987594,2017-12-31,
+185,3,5:15,915,915,Jasmine Walker made Free Throw.,29,39,-10,0,0.14136769778259548,Alabama,Missouri,4,4,0,1,NA,400987594,2017-12-31,Alabama
+186,3,5:15,915,915,Jasmine Walker made Free Throw.,30,39,-9,13,0.16471189481510898,Alabama,Missouri,4,4,0,1,NA,400987594,2017-12-31,Alabama
+187,3,5:02,902,902,Lauren Aldridge missed Jumper.,30,39,-9,0,0.1632688744714739,Alabama,Missouri,4,4,0,1,NA,400987594,2017-12-31,
+188,3,5:02,902,902,Sophie Cunningham Offensive Rebound.,30,39,-9,30,0.1632688744714739,Alabama,Missouri,4,4,0,1,NA,400987594,2017-12-31,
+189,3,4:32,872,872,Sophie Cunningham missed Jumper.,30,39,-9,0,0.16006585271023677,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+190,3,4:32,872,872,Jordan Frericks Offensive Rebound.,30,39,-9,3,0.16006585271023677,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+191,3,4:29,869,869,Jordan Frericks missed Jumper.,30,39,-9,0,0.15974775464824137,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+192,3,4:29,869,869,Jordan Frericks Offensive Rebound.,30,39,-9,1,0.15974775464824137,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+193,3,4:28,868,868,Foul on Jordan Lewis.,30,39,-9,0,0.1596415912969087,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+194,3,4:28,868,868,Official TV Timeout,30,39,-9,0,0.1596415912969087,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+195,3,4:28,868,868,Jordan Frericks made Free Throw.,30,40,-10,0,0.13640902180800193,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Missouri
+196,3,4:28,868,868,Jordan Frericks made Free Throw.,30,41,-11,22,0.11609040965104403,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Missouri
+197,3,4:06,846,846,Ashley Knight missed Jumper.,30,41,-11,0,0.11387732488710003,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+198,3,4:06,846,846,Coco Knight Offensive Rebound.,30,41,-11,19,0.11387732488710003,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+199,3,3:47,827,827,Coco Knight made Jumper.,32,41,-9,23,0.15511261461623915,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Alabama
+200,3,3:24,804,804,Sophie Cunningham made Three Point Jumper. Assisted by Jordan Frericks.,32,44,-12,21,0.09202872790461149,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Missouri
+201,3,3:03,783,783,Coco Knight missed Three Point Jumper.,32,44,-12,0,0.08955457287058828,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+202,3,3:03,783,783,Amber Richardson Offensive Rebound.,32,44,-12,12,0.08955457287058828,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+203,3,2:51,771,771,Foul on Ashley Knight.,32,44,-12,0,0.08802020905649262,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+204,3,2:51,771,771,Ashley Knight Turnover.,32,44,-12,24,0.08802020905649262,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+205,3,2:27,747,747,Sophie Cunningham missed Jumper.,32,44,-12,0,0.08464982976962901,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+206,3,2:27,747,747,Ashley Knight Block.,32,44,-12,0,0.08464982976962901,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+207,3,2:27,747,747,Missouri Offensive Rebound.,32,44,-12,7,0.08464982976962901,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+208,3,2:20,740,740,Amber Smith missed Jumper.,32,44,-12,0,0.08358518059127026,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+209,3,2:20,740,740,Alabama Defensive Rebound.,32,44,-12,27,0.08358518059127026,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+210,3,1:53,713,713,Meoshonti Knight missed Jumper.,32,44,-12,0,0.07943738037446597,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+211,3,1:53,713,713,Missouri Defensive Rebound.,32,44,-12,19,0.07943738037446597,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+212,3,1:34,694,694,Lauren Aldridge missed Jumper.,32,44,-12,0,0.07696903027226691,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+213,3,1:34,694,694,Jasmine Walker Defensive Rebound.,32,44,-12,17,0.07696903027226691,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+214,3,1:17,677,677,Foul on Jordan Frericks.,32,44,-12,0,0.0749885771204126,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+215,3,1:17,677,677,Ashley Knight made Free Throw.,33,44,-11,0,0.09086673016699842,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Alabama
+216,3,1:17,677,677,Ashley Knight made Free Throw.,34,44,-10,5,0.10970819208903893,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Alabama
+217,3,1:12,672,672,Jordan Chavis Turnover.,34,44,-10,3,0.10905391402910872,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+218,3,1:09,669,669,Shaquera Wade Steal.,34,44,-10,0,0.10866504425194914,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+219,3,1:09,669,669,Shaquera Wade made Layup.,36,44,-8,0,0.15662462806189523,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Alabama
+220,3,1:09,669,669,Foul on Jordan Chavis.,36,44,-8,0,0.15662462806189523,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+221,3,1:09,669,669,Shaquera Wade missed Free Throw.,36,44,-8,0,0.15662462806189523,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+222,3,1:09,669,669,Amber Smith Defensive Rebound.,36,44,-8,0,0.15662462806189523,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+223,3,1:09,669,669,Foul on Shaquera Wade.,36,44,-8,0,0.15662462806189523,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+224,3,1:09,669,669,Amber Smith made Free Throw.,36,45,-9,0,0.13078848295343062,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Missouri
+225,3,1:09,669,669,Amber Smith made Free Throw.,36,46,-10,20,0.10866504425194914,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Missouri
+226,3,0:49,649,649,Jordan Lewis missed Three Point Jumper.,36,46,-10,0,0.10609721439733182,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+227,3,0:49,649,649,Amber Smith Defensive Rebound.,36,46,-10,26,0.10609721439733182,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+228,3,0:23,623,623,Amber Smith missed Three Point Jumper.,36,46,-10,0,0.10262458190929467,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+229,3,0:23,623,623,Ashley Knight Defensive Rebound.,36,46,-10,6,0.10262458190929467,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+230,3,0:17,617,617,Foul on Ashley Williams.,36,46,-10,0,0.10176993823219797,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+231,3,0:17,617,617,Ashley Williams Turnover.,36,46,-10,13,0.10176993823219797,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+232,3,0:04,604,604,Amber Smith missed Jumper.,36,46,-10,0,0.09981751207878926,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+233,3,0:04,604,604,Quanetria Bolton Block.,36,46,-10,2,0.09981751207878926,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+234,3,0:02,602,602,Shaquera Wade Defensive Rebound.,36,46,-10,1,0.09950322920490783,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+235,3,0:01,601,601,Foul on Sophie Cunningham.,36,46,-10,0,0.09934457460600679,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+236,3,0:01,601,601,Shaquera Wade made Free Throw.,37,46,-9,0,0.12088505186868018,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,Alabama
+237,3,0:01,601,601,Shaquera Wade missed Free Throw.,37,46,-9,0,0.12088505186868018,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+238,3,0:01,601,601,Emmanuelle Tahane Defensive Rebound.,37,46,-9,1,0.12088505186868018,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+239,3,0:00,600,600,End of 3rd Quarter,37,46,-9,4,0.12071434042548354,Alabama,Missouri,4,4,0,0,NA,400987594,2017-12-31,
+240,4,9:56,596,596,Missouri  Turnover.,37,46,-9,5,0.12001981843967074,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+241,4,9:51,591,591,Foul on Lauren Aldridge.,37,46,-9,0,0.11912420943588443,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+242,4,9:51,591,591,Meoshonti Knight made Free Throw.,38,46,-8,0,0.14449533057739822,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,Alabama
+243,4,9:51,591,591,Meoshonti Knight made Free Throw.,39,46,-7,28,0.17420140044478433,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,Alabama
+244,4,9:23,563,563,Jordan Chavis missed Jumper.,39,46,-7,0,0.1681229059503248,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+245,4,9:23,563,563,Quanetria Bolton Block.,39,46,-7,2,0.1681229059503248,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+246,4,9:21,561,561,Alabama Defensive Rebound.,39,46,-7,18,0.16763521135221676,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+247,4,9:03,543,543,Meoshonti Knight missed Three Point Jumper.,39,46,-7,0,0.16302200947577625,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+248,4,9:03,543,543,Shaquera Wade Offensive Rebound.,39,46,-7,24,0.16302200947577625,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+249,4,8:39,519,519,Meoshonti Knight Turnover.,39,46,-7,0,0.15788018858393119,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+250,4,8:39,519,519,Jordan Chavis Steal.,39,46,-7,24,0.15788018858393119,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+251,4,8:15,495,495,Jordan Frericks missed Jumper.,39,46,-7,0,0.15344267684695312,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+252,4,8:15,495,495,Quanetria Bolton Defensive Rebound.,39,46,-7,4,0.15344267684695312,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+253,4,8:11,491,491,Foul on Jordan Frericks.,39,46,-7,9,0.15269972512322988,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+254,4,8:02,482,482,Quanetria Bolton missed Jumper.,39,46,-7,0,0.1509743300882151,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+255,4,8:02,482,482,Amber Smith Defensive Rebound.,39,46,-7,12,0.1509743300882151,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+256,4,7:50,470,470,Foul on Shaquera Wade.,39,46,-7,12,0.14848880439945306,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+257,4,7:38,458,458,Jordan Chavis missed Jumper.,39,46,-7,0,0.14569269234401971,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+258,4,7:38,458,458,Quanetria Bolton Defensive Rebound.,39,46,-7,10,0.14569269234401971,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+259,4,7:28,448,448,Quanetria Bolton missed Three Point Jumper.,39,46,-7,0,0.14305307378337873,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+260,4,7:28,448,448,Amber Smith Defensive Rebound.,39,46,-7,21,0.14305307378337873,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+261,4,7:07,427,427,Jordan Chavis made Three Point Jumper. Assisted by Kayla Michael.,39,49,-10,20,0.06682393015845067,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,Missouri
+262,4,6:47,407,407,Foul on Cierra Porter.,39,49,-10,6,0.06216996469224226,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+263,4,6:41,401,401,Ashley Williams missed Jumper.,39,49,-10,0,0.06090143102822894,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+264,4,6:41,401,401,Shaquera Wade Offensive Rebound.,39,49,-10,10,0.06090143102822894,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+265,4,6:31,391,391,Jasmine Walker missed Three Point Jumper.,39,49,-10,0,0.05885443359131294,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+266,4,6:31,391,391,Lauren Aldridge Defensive Rebound.,39,49,-10,9,0.05885443359131294,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,
+267,4,6:22,382,382,Amber Smith made Jumper.,39,51,-12,2,0.0333667005602811,Alabama,Missouri,5,5,0,0,NA,400987594,2017-12-31,Missouri
+268,4,6:20,380,380,Alabama  Timeout,39,51,-12,0,0.0330772079287012,Alabama,Missouri,4,5,1,0,NA,400987594,2017-12-31,
+269,4,6:20,380,380,Official TV Timeout,39,51,-12,14,0.0330772079287012,Alabama,Missouri,4,5,1,0,NA,400987594,2017-12-31,
+270,4,6:06,366,366,Jordan Lewis made Jumper.,41,51,-10,28,0.05377683837773273,Alabama,Missouri,4,5,1,0,NA,400987594,2017-12-31,Alabama
+271,4,5:38,338,338,Jordan Chavis missed Three Point Jumper.,41,51,-10,0,0.04749958523943332,Alabama,Missouri,4,5,1,0,NA,400987594,2017-12-31,
+272,4,5:38,338,338,Kayla Michael Offensive Rebound.,41,51,-10,2,0.04749958523943332,Alabama,Missouri,4,5,1,0,NA,400987594,2017-12-31,
+273,4,5:36,336,336,Kayla Michael made Jumper.,41,53,-12,19,0.026312091223231804,Alabama,Missouri,4,5,1,0,NA,400987594,2017-12-31,Missouri
+274,4,5:17,317,317,Jasmine Walker missed Jumper.,41,53,-12,0,0.022960797080386862,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+275,4,5:17,317,317,Amber Smith Block.,41,53,-12,1,0.022960797080386862,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+276,4,5:16,316,316,Missouri Defensive Rebound.,41,53,-12,28,0.022776625003848,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+277,4,4:48,288,288,Lauren Aldridge Turnover.,41,53,-12,1,0.0198731968147295,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+278,4,4:47,287,287,Jordan Lewis Steal.,41,53,-12,6,0.019876478585639876,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+279,4,4:41,281,281,Foul on Amber Smith.,41,53,-12,0,0.02000092735647399,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+280,4,4:41,281,281,Shaquera Wade made Free Throw.,42,53,-11,0,0.02745258301600148,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,Alabama
+281,4,4:41,281,281,Shaquera Wade made Free Throw.,43,53,-10,24,0.03757402545861005,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,Alabama
+282,4,4:17,257,257,Lauren Aldridge made Layup.,43,55,-12,20,0.021553301222996202,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,Missouri
+283,4,3:57,237,237,Quanetria Bolton missed Jumper.,43,55,-12,0,0.022522586230288275,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+284,4,3:57,237,237,Jordan Chavis Defensive Rebound.,43,55,-12,14,0.022522586230288275,Alabama,Missouri,4,5,0,0,NA,400987594,2017-12-31,
+285,4,3:43,223,223,Amber Smith made Jumper.,43,57,-14,0,0.011738943804947572,Alabama,Missouri,4,5,1,0,NA,400987594,2017-12-31,Missouri
+286,4,3:43,223,223,Alabama  Timeout,43,57,-14,12,0.011738943804947572,Alabama,Missouri,3,5,1,0,NA,400987594,2017-12-31,
+287,4,3:31,211,211,Foul on Jordan Chavis.,43,57,-14,0,0.010565454668562594,Alabama,Missouri,3,5,1,0,NA,400987594,2017-12-31,
+288,4,3:31,211,211,Hannah Cook made Free Throw.,44,57,-13,0,0.014553106082489893,Alabama,Missouri,3,5,1,0,NA,400987594,2017-12-31,Alabama
+289,4,3:31,211,211,Hannah Cook made Free Throw.,45,57,-12,5,0.020015345614676678,Alabama,Missouri,3,5,1,0,NA,400987594,2017-12-31,Alabama
+290,4,3:26,206,206,Emmanuelle Tahane Turnover.,45,57,-12,18,0.018854900004445535,Alabama,Missouri,3,5,1,0,NA,400987594,2017-12-31,
+291,4,3:08,188,188,Hannah Cook made Three Point Jumper.,48,57,-9,36,0.038025332801135014,Alabama,Missouri,3,5,1,0,NA,400987594,2017-12-31,Alabama
+292,4,2:32,152,152,Jordan Chavis missed Three Point Jumper.,48,57,-9,0,0.018856134754813503,Alabama,Missouri,3,5,0,0,NA,400987594,2017-12-31,
+293,4,2:32,152,152,Jordan Lewis Defensive Rebound.,48,57,-9,15,0.018856134754813503,Alabama,Missouri,3,5,0,0,NA,400987594,2017-12-31,
+294,4,2:17,137,137,Foul on Lauren Aldridge.,48,57,-9,0,0.013275363610994535,Alabama,Missouri,3,5,0,1,NA,400987594,2017-12-31,
+295,4,2:17,137,137,Jordan Lewis missed Free Throw.,48,57,-9,0,0.013275363610994535,Alabama,Missouri,3,5,0,1,NA,400987594,2017-12-31,
+296,4,2:17,137,137,Alabama Deadball Team Rebound.,48,57,-9,0,0.013275363610994535,Alabama,Missouri,3,5,0,1,NA,400987594,2017-12-31,
+297,4,2:17,137,137,Jordan Lewis made Free Throw.,49,57,-8,0,0.021253295061031092,Alabama,Missouri,3,5,0,1,NA,400987594,2017-12-31,Alabama
+298,4,2:17,137,137,Missouri  Timeout,49,57,-8,14,0.021253295061031092,Alabama,Missouri,3,4,0,1,NA,400987594,2017-12-31,
+299,4,2:03,123,123,Jordan Frericks Turnover.,49,57,-8,10,0.015221453184241559,Alabama,Missouri,3,4,0,1,NA,400987594,2017-12-31,
+300,4,1:53,113,113,Coco Knight made Jumper.,51,57,-6,24,0.03443493370241985,Alabama,Missouri,3,4,0,1,NA,400987594,2017-12-31,Alabama
+301,4,1:29,89,89,Amber Smith missed Jumper.,51,57,-6,0,0.019329082611127032,Alabama,Missouri,3,4,0,1,NA,400987594,2017-12-31,
+302,4,1:29,89,89,Ashley Knight Block.,51,57,-6,1,0.019329082611127032,Alabama,Missouri,3,4,0,1,NA,400987594,2017-12-31,
+303,4,1:28,88,88,Ashley Williams Defensive Rebound.,51,57,-6,8,0.018824715482571905,Alabama,Missouri,3,4,0,1,NA,400987594,2017-12-31,
+304,4,1:20,80,80,Hannah Cook made Three Point Jumper. Assisted by Ashley Williams.,54,57,-3,33,0.11036357723870809,Alabama,Missouri,3,4,0,1,NA,400987594,2017-12-31,Alabama
+305,4,0:47,47,47,Foul on Hannah Cook.,54,57,-3,31,0.0687463101114981,Alabama,Missouri,3,4,0,0,NA,400987594,2017-12-31,
+306,4,0:16,16,16,Foul on Hannah Cook.,54,57,-3,0,0.039650907899848264,Alabama,Missouri,3,4,1,0,NA,400987594,2017-12-31,
+307,4,0:16,16,16,Jordan Chavis made Free Throw.,54,58,-4,0,0.014069488685686617,Alabama,Missouri,3,4,1,0,NA,400987594,2017-12-31,Missouri
+308,4,0:16,16,16,Jordan Chavis made Free Throw.,54,59,-5,0,0.004907985272695086,Alabama,Missouri,3,4,1,0,NA,400987594,2017-12-31,Missouri
+309,4,0:16,16,16,Jordan Chavis made Free Throw.,54,60,-6,0,0.0017017991407835059,Alabama,Missouri,3,4,1,0,NA,400987594,2017-12-31,Missouri
+310,4,0:16,16,16,Alabama  Timeout,54,60,-6,2,0.0017017991407835059,Alabama,Missouri,2,4,1,0,NA,400987594,2017-12-31,
+311,4,0:14,14,14,Hannah Cook missed Three Point Jumper.,54,60,-6,0,0.001567758667046619,Alabama,Missouri,2,4,1,0,NA,400987594,2017-12-31,
+312,4,0:14,14,14,Amber Smith Defensive Rebound.,54,60,-6,3,0.001567758667046619,Alabama,Missouri,2,4,1,0,NA,400987594,2017-12-31,
+313,4,0:11,11,11,Foul on Shaquera Wade.,54,60,-6,4,0.0013835869582565457,Alabama,Missouri,2,4,1,0,NA,400987594,2017-12-31,
+314,4,0:07,7,7,Foul on Ashley Williams.,54,60,-6,0,0.0011675063603289724,Alabama,Missouri,2,4,1,0,NA,400987594,2017-12-31,
+315,4,0:07,7,7,Jordan Chavis made Free Throw.,54,61,-7,0,3.7922442266265113e-4,Alabama,Missouri,2,4,1,0,NA,400987594,2017-12-31,Missouri
+316,4,0:07,7,7,Jordan Chavis made Free Throw.,54,62,-8,5,1.2311245365010233e-4,Alabama,Missouri,2,4,1,0,NA,400987594,2017-12-31,Missouri
+317,4,0:02,2,2,Jordan Lewis made Jumper.,56,62,-6,2,9.40163859600707e-4,Alabama,Missouri,2,4,1,0,NA,400987594,2017-12-31,Alabama
+318,4,0:00,0,0,End of Game,56,62,-6,0,7.667648073722e-53,Alabama,Missouri,2,4,1,0,NA,400987594,2017-12-31,

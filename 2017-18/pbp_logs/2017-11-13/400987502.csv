@@ -1,0 +1,327 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:45,2385,2385,Erika Bean Turnover.,0,0,0,30,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,NA
+2,1,9:15,2355,2355,Shaquera Wade missed Jumper.,0,0,0,0,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+3,1,9:15,2355,2355,Megan Huff Defensive Rebound.,0,0,0,8,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+4,1,9:07,2347,2347,Megan Huff Turnover.,0,0,0,2,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+5,1,9:05,2345,2345,Shaquera Wade Steal.,0,0,0,3,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+6,1,9:02,2342,2342,Shaquera Wade missed Layup.,0,0,0,0,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+7,1,9:02,2342,2342,Meoshonti Knight Offensive Rebound.,0,0,0,4,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+8,1,8:58,2338,2338,Meoshonti Knight made Jumper.,2,0,2,5,0.5453512728162102,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Alabama
+9,1,8:53,2333,2333,Tilar Clark made Layup.,2,2,0,31,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Utah
+10,1,8:22,2302,2302,Meoshonti Knight missed Jumper.,2,2,0,0,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+11,1,8:22,2302,2302,Megan Huff Defensive Rebound.,2,2,0,17,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+12,1,8:05,2285,2285,Emily Potter Turnover.,2,2,0,14,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+13,1,7:51,2271,2271,Hannah Cook missed Jumper.,2,2,0,0,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+14,1,7:51,2271,2271,Tanaeya BoClair Defensive Rebound.,2,2,0,10,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+15,1,7:41,2261,2261,Tilar Clark made Three Point Jumper. Assisted by Erika Bean.,2,5,-3,16,0.4296685097944087,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Utah
+16,1,7:25,2245,2245,Foul on Tilar Clark.,2,5,-3,26,0.42913134152548055,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+17,1,6:59,2219,2219,Ashley Williams missed Jumper.,2,5,-3,0,0.4282528359497078,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+18,1,6:59,2219,2219,Erika Bean Defensive Rebound.,2,5,-3,9,0.4282528359497078,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+19,1,6:50,2210,2210,Tilar Clark Turnover.,2,5,-3,10,0.427947330295773,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+20,1,6:40,2200,2200,Shaquera Wade made Three Point Jumper. Assisted by Hannah Cook.,5,5,0,12,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Alabama
+21,1,6:28,2188,2188,Tanaeya BoClair Turnover.,5,5,0,10,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+22,1,6:18,2178,2178,Shaquera Wade Turnover.,5,5,0,20,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+23,1,5:58,2158,2158,Foul on Coco Knight.,5,5,0,1,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+24,1,5:57,2157,2157,Foul on Megan Huff.,5,5,0,0,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+25,1,5:57,2157,2157,Megan Huff Turnover.,5,5,0,8,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+26,1,5:49,2149,2149,Meoshonti Knight missed Jumper.,5,5,0,0,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+27,1,5:49,2149,2149,Tilar Clark Defensive Rebound.,5,5,0,14,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+28,1,5:35,2135,2135,Emily Potter missed Jumper.,5,5,0,0,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+29,1,5:35,2135,2135,Utah Offensive Rebound.,5,5,0,15,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+30,1,5:20,2120,2120,Emily Potter missed Three Point Jumper.,5,5,0,0,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+31,1,5:20,2120,2120,Alabama Defensive Rebound.,5,5,0,15,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+32,1,5:05,2105,2105,Shaquera Wade missed Jumper.,5,5,0,0,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+33,1,5:05,2105,2105,Shaquera Wade Offensive Rebound.,5,5,0,11,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+34,1,4:54,2094,2094,Coco Knight missed Jumper.,5,5,0,0,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+35,1,4:54,2094,2094,Megan Jacobs Defensive Rebound.,5,5,0,9,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+36,1,4:45,2085,2085,Official TV Timeout,5,5,0,6,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+37,1,4:39,2079,2079,Foul on Ariyah Copeland.,5,5,0,13,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+38,1,4:26,2066,2066,Emily Potter missed Jumper.,5,5,0,0,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+39,1,4:26,2066,2066,Emily Potter Offensive Rebound.,5,5,0,3,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+40,1,4:23,2063,2063,Emily Potter missed Jumper.,5,5,0,0,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+41,1,4:23,2063,2063,Hannah Cook Defensive Rebound.,5,5,0,21,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+42,1,4:02,2042,2042,Coco Knight made Layup.,7,5,2,7,0.552169416407975,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Alabama
+43,1,3:55,2035,2035,Megan Jacobs made Jumper. Assisted by Tori Williams.,7,7,0,17,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Utah
+44,1,3:38,2018,2018,Meoshonti Knight missed Jumper.,7,7,0,0,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+45,1,3:38,2018,2018,Daneesha Provo Defensive Rebound.,7,7,0,3,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+46,1,3:35,2015,2015,Tanaeya BoClair Turnover.,7,7,0,2,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+47,1,3:33,2013,2013,Hannah Cook missed Jumper.,7,7,0,0,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+48,1,3:33,2013,2013,Ashley Williams Offensive Rebound.,7,7,0,10,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+49,1,3:23,2003,2003,Quanetria Bolton made Layup.,9,7,2,16,0.5531260324636815,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Alabama
+50,1,3:07,1987,1987,Foul on Quanetria Bolton.,9,7,2,0,0.5535240130236178,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+51,1,3:07,1987,1987,Daneesha Provo made Free Throw.,9,8,1,0,0.5268391172960498,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Utah
+52,1,3:07,1987,1987,Daneesha Provo made Free Throw.,9,9,0,28,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Utah
+53,1,2:39,1959,1959,Shaquera Wade missed Jumper.,9,9,0,0,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+54,1,2:39,1959,1959,Megan Huff Block.,9,9,0,2,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+55,1,2:37,1957,1957,Tori Williams Defensive Rebound.,9,9,0,9,0.5,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+56,1,2:28,1948,1948,Tori Williams made Three Point Jumper. Assisted by Maurane Corbin.,9,12,-3,18,0.4186404436498843,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Utah
+57,1,2:10,1930,1930,Shaquera Wade missed Three Point Jumper.,9,12,-3,0,0.4179579881739418,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+58,1,2:10,1930,1930,Ashley Williams Offensive Rebound.,9,12,-3,20,0.4179579881739418,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+59,1,1:50,1910,1910,Quanetria Bolton missed Jumper.,9,12,-3,0,0.41719722350695226,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+60,1,1:50,1910,1910,Tori Williams Defensive Rebound.,9,12,-3,15,0.41719722350695226,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+61,1,1:35,1895,1895,Megan Huff made Jumper. Assisted by Daneesha Provo.,9,14,-5,19,0.3633037493791009,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Utah
+62,1,1:16,1876,1876,Foul on Maurane Corbin.,9,14,-5,0,0.3621603976452531,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+63,1,1:16,1876,1876,Ashley Williams made Free Throw.,10,14,-4,0,0.3886953153050376,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Alabama
+64,1,1:16,1876,1876,Ashley Williams made Free Throw.,11,14,-3,10,0.41590669705694366,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Alabama
+65,1,1:06,1866,1866,Foul on Shaquera Wade.,11,14,-3,8,0.41552673061945583,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+66,1,0:58,1858,1858,Kiana Moore Turnover.,11,14,-3,19,0.4152223440890623,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+67,1,0:39,1839,1839,Ashley Williams Turnover.,11,14,-3,1,0.4144972386217471,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+68,1,0:38,1838,1838,Erika Bean Steal.,11,14,-3,6,0.4144589688286455,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+69,1,0:32,1832,1832,Tori Williams missed Jumper.,11,14,-3,0,0.41422908569997857,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+70,1,0:32,1832,1832,Hannah Cook Defensive Rebound.,11,14,-3,23,0.41422908569997857,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+71,1,0:09,1809,1809,Foul on Kiana Moore.,11,14,-3,7,0.4133429176165556,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+72,1,0:02,1802,1802,Hannah Cook missed Three Point Jumper.,11,14,-3,0,0.4130713725788033,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+73,1,0:02,1802,1802,Ashley Williams Offensive Rebound.,11,14,-3,2,0.4130713725788033,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+74,1,0:00,1800,1800,Foul on Ashley Knight.,11,14,-3,0,0.4129936088523014,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+75,1,0:00,1800,1800,Ashley Knight Turnover.,11,14,-3,0,0.4129936088523014,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+76,1,0:00,1800,1800,Maurane Corbin made Free Throw.,11,15,-4,0,0.38489917366219123,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Utah
+77,1,0:00,1800,1800,Maurane Corbin missed Free Throw.,11,15,-4,0,0.38489917366219123,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+78,1,0:00,1800,1800,Ashley Williams Defensive Rebound.,11,15,-4,0,0.38489917366219123,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+79,1,0:00,1800,1800,End of 1st Quarter,11,14,-3,6,0.4129936088523014,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+80,2,9:54,1794,1794,Meoshonti Knight missed Three Point Jumper.,11,15,-4,0,0.3845947655818536,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Utah
+81,2,9:54,1794,1794,Tori Williams Defensive Rebound.,11,15,-4,27,0.3845947655818536,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+82,2,9:27,1767,1767,Emily Potter missed Jumper.,11,15,-4,0,0.3832116919560057,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+83,2,9:27,1767,1767,Emily Potter Offensive Rebound.,11,15,-4,2,0.3832116919560057,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+84,2,9:25,1765,1765,Emily Potter missed Jumper.,11,15,-4,0,0.38310828267373354,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+85,2,9:25,1765,1765,Ashley Knight Block.,11,15,-4,2,0.38310828267373354,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+86,2,9:23,1763,1763,Meoshonti Knight Defensive Rebound.,11,15,-4,8,0.3830047291525958,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+87,2,9:15,1755,1755,Hannah Cook missed Three Point Jumper.,11,15,-4,0,0.3825890266829534,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+88,2,9:15,1755,1755,Ashley Williams Offensive Rebound.,11,15,-4,14,0.3825890266829534,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+89,2,9:01,1741,1741,Foul on Erika Bean.,11,15,-4,7,0.38185546346997784,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+90,2,8:54,1734,1734,Hannah Cook made Jumper. Assisted by Meoshonti Knight.,13,15,-2,20,0.43988624480643973,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Alabama
+91,2,8:34,1714,1714,Emily Potter missed Jumper.,13,15,-2,0,0.4393277358530611,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+92,2,8:34,1714,1714,Megan Huff Offensive Rebound.,13,15,-2,3,0.4393277358530611,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+93,2,8:31,1711,1711,Foul on Ashley Williams.,13,15,-2,0,0.439243036717164,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+94,2,8:31,1711,1711,Megan Huff missed Free Throw.,13,15,-2,0,0.439243036717164,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+95,2,8:31,1711,1711,Utah Deadball Team Rebound.,13,15,-2,0,0.439243036717164,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+96,2,8:31,1711,1711,Megan Huff made Free Throw.,13,16,-3,10,0.4094227819985265,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Utah
+97,2,8:21,1701,1701,Alana da Silva Turnover.,13,16,-3,21,0.40900436149034386,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+98,2,8:00,1680,1680,Megan Huff missed Jumper.,13,16,-3,0,0.408117182154001,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+99,2,8:00,1680,1680,Ashley Williams Defensive Rebound.,13,16,-3,10,0.408117182154001,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+100,2,7:50,1670,1670,Ashley Williams missed Jumper.,13,16,-3,0,0.4077014985477022,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+101,2,7:50,1670,1670,Megan Huff Block.,13,16,-3,2,0.4077014985477022,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+102,2,7:48,1668,1668,Megan Huff Defensive Rebound.,13,16,-3,8,0.4076190444633542,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+103,2,7:40,1660,1660,Tilar Clark missed Jumper.,13,16,-3,0,0.4072912893407058,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+104,2,7:40,1660,1660,Ashley Knight Defensive Rebound.,13,16,-3,13,0.4072912893407058,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+105,2,7:27,1647,1647,Ashley Knight made Jumper. Assisted by Hannah Cook.,15,16,-1,6,0.4685951062403677,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Alabama
+106,2,7:21,1641,1641,Emily Potter made Layup. Assisted by Tilar Clark.,15,18,-3,25,0.406524098883698,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Utah
+107,2,6:56,1616,1616,Hannah Cook missed Three Point Jumper.,15,18,-3,0,0.4055310765221919,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+108,2,6:56,1616,1616,Meoshonti Knight Offensive Rebound.,15,18,-3,9,0.4055310765221919,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+109,2,6:47,1607,1607,Meoshonti Knight missed Jumper.,15,18,-3,0,0.4051760002462054,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+110,2,6:47,1607,1607,Emily Potter Defensive Rebound.,15,18,-3,16,0.4051760002462054,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+111,2,6:31,1591,1591,Emily Potter made Jumper. Assisted by Daneesha Provo.,15,20,-5,0,0.3442820079807453,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Utah
+112,2,6:31,1591,1591,Foul on Meoshonti Knight.,15,20,-5,0,0.3442820079807453,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+113,2,6:31,1591,1591,Emily Potter made Free Throw.,15,21,-6,17,0.31580378940365633,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Utah
+114,2,6:14,1574,1574,Foul on Emily Potter.,15,21,-6,0,0.3145980755786882,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+115,2,6:14,1574,1574,Alana da Silva missed Free Throw.,15,21,-6,0,0.3145980755786882,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+116,2,6:14,1574,1574,Alabama Deadball Team Rebound.,15,21,-6,0,0.3145980755786882,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+117,2,6:14,1574,1574,Alana da Silva made Free Throw.,16,21,-5,20,0.34323191272631565,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Alabama
+118,2,5:54,1554,1554,Daneesha Provo made Jumper.,16,23,-7,22,0.2857231269723871,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Utah
+119,2,5:32,1532,1532,Quanetria Bolton missed Three Point Jumper.,16,23,-7,0,0.283949725431317,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+120,2,5:32,1532,1532,Shaquera Wade Offensive Rebound.,16,23,-7,6,0.283949725431317,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+121,2,5:26,1526,1526,Shaquera Wade Turnover.,16,23,-7,12,0.28345856124406194,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+122,2,5:14,1514,1514,Tanaeya BoClair Turnover.,16,23,-7,1,0.28246440663407907,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+123,2,5:13,1513,1513,Alana da Silva Steal.,16,23,-7,4,0.2823807870826336,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+124,2,5:09,1509,1509,Foul on Megan Jacobs.,16,23,-7,0,0.2820450347877813,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+125,2,5:09,1509,1509,Meoshonti Knight made Free Throw.,17,23,-6,0,0.30984095940007844,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Alabama
+126,2,5:09,1509,1509,Meoshonti Knight made Free Throw.,18,23,-5,32,0.3390824558628325,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Alabama
+127,2,4:37,1477,1477,Tanaeya BoClair missed Three Point Jumper.,18,23,-5,0,0.33688973505720976,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+128,2,4:37,1477,1477,Emily Potter Offensive Rebound.,18,23,-5,2,0.33688973505720976,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+129,2,4:35,1475,1475,Official TV Timeout,18,23,-5,3,0.33674805963210314,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+130,2,4:32,1472,1472,Daneesha Provo missed Jumper.,18,23,-5,0,0.33653441545588614,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+131,2,4:32,1472,1472,Daneesha Provo Offensive Rebound.,18,23,-5,3,0.33653441545588614,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+132,2,4:29,1469,1469,Daneesha Provo missed Jumper.,18,23,-5,0,0.33631938574043047,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+133,2,4:29,1469,1469,Hannah Cook Defensive Rebound.,18,23,-5,6,0.33631938574043047,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+134,2,4:23,1463,1463,Alana da Silva Turnover.,18,23,-5,25,0.3358850426247731,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+135,2,3:58,1438,1438,Daneesha Provo made Three Point Jumper. Assisted by Tilar Clark.,18,26,-8,29,0.24899313972080464,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Utah
+136,2,3:29,1409,1409,Ariyah Copeland missed Jumper.,18,26,-8,0,0.24622602868739796,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+137,2,3:29,1409,1409,Daneesha Provo Defensive Rebound.,18,26,-8,6,0.24622602868739796,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+138,2,3:23,1403,1403,Foul on Ariyah Copeland.,18,26,-8,9,0.2456704624210821,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+139,2,3:14,1394,1394,Emily Potter missed Jumper.,18,26,-8,0,0.24484502000264807,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+140,2,3:14,1394,1394,Tori Williams Offensive Rebound.,18,26,-8,2,0.24484502000264807,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+141,2,3:12,1392,1392,Tori Williams missed Jumper.,18,26,-8,0,0.24466269128269788,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+142,2,3:12,1392,1392,Tori Williams Offensive Rebound.,18,26,-8,4,0.24466269128269788,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+143,2,3:08,1388,1388,Megan Jacobs missed Three Point Jumper.,18,26,-8,0,0.24429905930584675,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+144,2,3:08,1388,1388,Hannah Cook Defensive Rebound.,18,26,-8,23,0.24429905930584675,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+145,2,2:45,1365,1365,Ashley Knight made Jumper.,20,26,-6,15,0.29830426171318464,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Alabama
+146,2,2:30,1350,1350,Tanaeya BoClair made Jumper. Assisted by Megan Jacobs.,20,28,-8,19,0.2408785334703646,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Utah
+147,2,2:11,1331,1331,Hannah Cook Turnover.,20,28,-8,6,0.23915964501127665,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+148,2,2:05,1325,1325,Daneesha Provo missed Three Point Jumper.,20,28,-8,0,0.2386111892760354,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+149,2,2:05,1325,1325,DaiJia Ruffin Defensive Rebound.,20,28,-8,1,0.2386111892760354,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+150,2,2:04,1324,1324,Foul on Emily Potter.,20,28,-8,17,0.2385194320529021,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+151,2,1:47,1307,1307,DaiJia Ruffin missed Jumper.,20,28,-8,0,0.23694098852592566,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+152,2,1:47,1307,1307,Tori Williams Defensive Rebound.,20,28,-8,31,0.23694098852592566,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+153,2,1:16,1276,1276,Maurane Corbin made Jumper. Assisted by Tanaeya BoClair.,20,30,-10,15,0.18501270450205023,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Utah
+154,2,1:01,1261,1261,Hannah Cook made Three Point Jumper. Assisted by Ashley Williams.,23,30,-7,9,0.26010867340194765,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Alabama
+155,2,0:52,1252,1252,Tanaeya BoClair missed Three Point Jumper.,23,30,-7,0,0.25921533930316915,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+156,2,0:52,1252,1252,Ashley Williams Defensive Rebound.,23,30,-7,19,0.25921533930316915,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+157,2,0:33,1233,1233,Hannah Cook made Jumper.,25,30,-5,24,0.31921952939795234,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Alabama
+158,2,0:09,1209,1209,Maurane Corbin missed Jumper.,25,30,-5,0,0.3170602664233907,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+159,2,0:09,1209,1209,Ashley Knight Block.,25,30,-5,3,0.3170602664233907,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+160,2,0:06,1206,1206,Alana da Silva Defensive Rebound.,25,30,-5,6,0.3167817366240917,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+161,2,0:00,1200,1200,End of 2nd Quarter,25,30,-5,23,0.3162303721963287,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+162,3,9:37,1177,1177,Meoshonti Knight made Jumper.,27,30,-3,29,0.38499511528977637,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Alabama
+163,3,9:08,1148,1148,Erika Bean Turnover.,27,30,-3,1,0.38334529576962534,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+164,3,9:07,1147,1147,Meoshonti Knight Steal.,27,30,-3,3,0.383288999802295,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+165,3,9:04,1144,1144,Meoshonti Knight made Layup.,29,30,-1,20,0.4603894019325894,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Alabama
+166,3,8:44,1124,1124,Megan Huff made Three Point Jumper. Assisted by Tanaeya BoClair.,29,33,-4,32,0.34491923625887044,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Utah
+167,3,8:12,1092,1092,Meoshonti Knight missed Jumper.,29,33,-4,0,0.3425900900830488,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+168,3,8:12,1092,1092,Shaquera Wade Offensive Rebound.,29,33,-4,29,0.3425900900830488,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+169,3,7:43,1063,1063,Meoshonti Knight missed Jumper.,29,33,-4,0,0.34038705214932596,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+170,3,7:43,1063,1063,Hannah Cook Offensive Rebound.,29,33,-4,18,0.34038705214932596,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+171,3,7:25,1045,1045,Shaquera Wade made Jumper.,31,33,-2,22,0.4172697827570298,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Alabama
+172,3,7:03,1023,1023,Tilar Clark missed Three Point Jumper.,31,33,-2,0,0.4162617706657545,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+173,3,7:03,1023,1023,Alabama Defensive Rebound.,31,33,-2,18,0.4162617706657545,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+174,3,6:45,1005,1005,Shaquera Wade made Layup.,33,33,0,7,0.5,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Alabama
+175,3,6:38,998,998,Emily Potter made Layup. Assisted by Erika Bean.,33,35,-2,14,0.4150263545300282,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Utah
+176,3,6:24,984,984,Ashley Williams made Jumper. Assisted by Meoshonti Knight.,35,35,0,8,0.5,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Alabama
+177,3,6:16,976,976,Foul on Ashley Knight.,35,35,0,0,0.5,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+178,3,6:16,976,976,Tilar Clark made Free Throw.,35,36,-1,0,0.4565976445861564,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Utah
+179,3,6:16,976,976,Tilar Clark missed Free Throw.,35,36,-1,0,0.4565976445861564,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+180,3,6:16,976,976,Hannah Cook Defensive Rebound.,35,36,-1,8,0.4565976445861564,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+181,3,6:08,968,968,Shaquera Wade made Jumper.,37,36,1,6,0.5436343096630764,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Alabama
+182,3,6:02,962,962,Tanaeya BoClair Turnover.,37,36,1,20,0.5438049681311442,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+183,3,5:42,942,942,Shaquera Wade missed Jumper.,37,36,1,0,0.544334862371342,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+184,3,5:42,942,942,Emily Potter Defensive Rebound.,37,36,1,5,0.544334862371342,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+185,3,5:37,937,937,Daneesha Provo Turnover.,37,36,1,13,0.5444592583807571,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+186,3,5:24,924,924,Foul on Tori Williams.,37,36,1,0,0.5447705246564118,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+187,3,5:24,924,924,Meoshonti Knight made Free Throw.,38,36,2,0,0.5888288551272999,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Alabama
+188,3,5:24,924,924,Meoshonti Knight missed Free Throw.,38,36,2,0,0.5888288551272999,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+189,3,5:24,924,924,Erika Bean Defensive Rebound.,38,36,2,23,0.5888288551272999,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+190,3,5:01,901,901,Tori Williams missed Three Point Jumper.,38,36,2,0,0.5898418339765396,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+191,3,5:01,901,901,Shaquera Wade Defensive Rebound.,38,36,2,28,0.5898418339765396,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+192,3,4:33,873,873,Meoshonti Knight made Layup.,40,36,4,0,0.6762130444022983,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Alabama
+193,3,4:33,873,873,Foul on Daneesha Provo.,40,36,4,0,0.6762130444022983,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+194,3,4:33,873,873,Official TV Timeout,40,36,4,0,0.6762130444022983,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+195,3,4:33,873,873,Meoshonti Knight made Free Throw.,41,36,5,11,0.7151496836859742,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Alabama
+196,3,4:22,862,862,Utah  Timeout,41,36,5,12,0.7161352638552284,Alabama,Utah,4,5,1,0,NA,400987502,2017-11-13,
+197,3,4:10,850,850,Tori Williams made Layup.,41,38,3,14,0.6360964509920127,Alabama,Utah,4,5,1,0,NA,400987502,2017-11-13,Utah
+198,3,3:56,836,836,Foul on Erika Bean.,41,38,3,0,0.6370040205906233,Alabama,Utah,4,5,1,0,NA,400987502,2017-11-13,
+199,3,3:56,836,836,Meoshonti Knight made Free Throw.,42,38,4,0,0.6791450579060069,Alabama,Utah,4,5,1,0,NA,400987502,2017-11-13,Alabama
+200,3,3:56,836,836,Meoshonti Knight made Free Throw.,43,38,5,18,0.7185553662138346,Alabama,Utah,4,5,1,0,NA,400987502,2017-11-13,Alabama
+201,3,3:38,818,818,Emily Potter Turnover.,43,38,5,0,0.7203631931546027,Alabama,Utah,4,5,1,0,NA,400987502,2017-11-13,
+202,3,3:38,818,818,Quanetria Bolton missed Jumper.,43,38,5,0,0.7203631931546027,Alabama,Utah,4,5,1,0,NA,400987502,2017-11-13,
+203,3,3:38,818,818,Emily Potter Block.,43,38,5,0,0.7203631931546027,Alabama,Utah,4,5,1,0,NA,400987502,2017-11-13,
+204,3,3:38,818,818,Meoshonti Knight Offensive Rebound.,43,38,5,9,0.7203631931546027,Alabama,Utah,4,5,1,0,NA,400987502,2017-11-13,
+205,3,3:29,809,809,Hannah Cook Turnover.,43,38,5,21,0.7213245540635038,Alabama,Utah,4,5,1,0,NA,400987502,2017-11-13,
+206,3,3:08,788,788,Emily Potter missed Jumper.,43,38,5,0,0.7237553546691309,Alabama,Utah,4,5,0,0,NA,400987502,2017-11-13,
+207,3,3:08,788,788,Utah Offensive Rebound.,43,38,5,6,0.7237553546691309,Alabama,Utah,4,5,0,0,NA,400987502,2017-11-13,
+208,3,3:02,782,782,Foul on Shaquera Wade.,43,38,5,2,0.7245054374349844,Alabama,Utah,4,5,0,0,NA,400987502,2017-11-13,
+209,3,3:00,780,780,Tori Williams missed Three Point Jumper.,43,38,5,0,0.7247615269704947,Alabama,Utah,4,5,0,0,NA,400987502,2017-11-13,
+210,3,3:00,780,780,Utah Offensive Rebound.,43,38,5,9,0.7247615269704947,Alabama,Utah,4,5,0,0,NA,400987502,2017-11-13,
+211,3,2:51,771,771,Emily Potter made Jumper. Assisted by Daneesha Provo.,43,40,3,21,0.6421051503268148,Alabama,Utah,4,5,0,0,NA,400987502,2017-11-13,Utah
+212,3,2:30,750,750,Shaquera Wade made Jumper.,45,40,5,12,0.7290104381155845,Alabama,Utah,4,5,0,0,NA,400987502,2017-11-13,Alabama
+213,3,2:18,738,738,Emily Potter missed Jumper.,45,40,5,0,0.730949875462283,Alabama,Utah,4,5,0,0,NA,400987502,2017-11-13,
+214,3,2:18,738,738,Ariyah Copeland Defensive Rebound.,45,40,5,5,0.730949875462283,Alabama,Utah,4,5,0,0,NA,400987502,2017-11-13,
+215,3,2:13,733,733,Foul on Meoshonti Knight.,45,40,5,0,0.7318029441078894,Alabama,Utah,4,5,0,0,NA,400987502,2017-11-13,
+216,3,2:13,733,733,Meoshonti Knight Turnover.,45,40,5,20,0.7318029441078894,Alabama,Utah,4,5,0,0,NA,400987502,2017-11-13,
+217,3,1:53,713,713,Emily Potter Turnover.,45,40,5,0,0.7351361876187371,Alabama,Utah,4,5,0,1,NA,400987502,2017-11-13,
+218,3,1:53,713,713,Hannah Cook Steal.,45,40,5,0,0.7351361876187371,Alabama,Utah,4,5,0,1,NA,400987502,2017-11-13,
+219,3,1:53,713,713,Alabama  Timeout,45,40,5,40,0.7351361876187371,Alabama,Utah,4,4,0,1,NA,400987502,2017-11-13,
+220,3,1:13,673,673,Meoshonti Knight made Jumper.,47,40,7,0,0.8129618647961668,Alabama,Utah,4,4,0,1,NA,400987502,2017-11-13,Alabama
+221,3,1:13,673,673,Foul on Megan Huff.,47,40,7,0,0.8129618647961668,Alabama,Utah,4,4,0,1,NA,400987502,2017-11-13,
+222,3,1:13,673,673,Meoshonti Knight made Free Throw.,48,40,8,15,0.8428094211699719,Alabama,Utah,4,4,0,1,NA,400987502,2017-11-13,Alabama
+223,3,0:58,658,658,Foul on Ashley Williams.,48,40,8,0,0.8449193536699937,Alabama,Utah,4,4,0,1,NA,400987502,2017-11-13,
+224,3,0:58,658,658,Emily Potter made Free Throw.,48,41,7,0,0.8150831570830995,Alabama,Utah,4,4,0,1,NA,400987502,2017-11-13,Utah
+225,3,0:58,658,658,Emily Potter made Free Throw.,48,42,6,24,0.7809946134399872,Alabama,Utah,4,4,0,1,NA,400987502,2017-11-13,Utah
+226,3,0:34,634,634,Hannah Cook Turnover.,48,42,6,1,0.7843648436071801,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+227,3,0:33,633,633,Emily Potter Steal.,48,42,6,15,0.7845108748217471,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+228,3,0:18,618,618,Foul on Hannah Cook.,48,42,6,0,0.7867894383186673,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+229,3,0:18,618,618,Tilar Clark made Free Throw.,48,43,5,0,0.7480175555418114,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Utah
+230,3,0:18,618,618,Tilar Clark missed Free Throw.,48,43,5,0,0.7480175555418114,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+231,3,0:18,618,618,Megan Huff Offensive Rebound.,48,43,5,11,0.7480175555418114,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+232,3,0:07,607,607,Megan Huff made Three Point Jumper. Assisted by Tori Williams.,48,46,2,7,0.6079778080994711,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,Utah
+233,3,0:00,600,600,End of 3rd Quarter,48,46,2,10,0.6085599051970726,Alabama,Utah,4,4,0,0,NA,400987502,2017-11-13,
+234,4,9:50,590,590,Hannah Cook made Jumper.,50,46,4,22,0.7088896607022367,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Alabama
+235,4,9:28,568,568,Emily Potter missed Jumper.,50,46,4,0,0.7127701431528346,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+236,4,9:28,568,568,Meoshonti Knight Defensive Rebound.,50,46,4,11,0.7127701431528346,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+237,4,9:17,557,557,Foul on Kiana Moore.,50,46,4,0,0.7150020406612837,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+238,4,9:17,557,557,Hannah Cook made Free Throw.,51,46,5,0,0.7594660215325508,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Alabama
+239,4,9:17,557,557,Hannah Cook made Free Throw.,52,46,6,8,0.7989436282352188,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Alabama
+240,4,9:09,549,549,Erika Bean Turnover.,52,46,6,13,0.8010196481088951,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+241,4,8:56,536,536,Foul on Emily Potter.,52,46,6,3,0.8041641146661168,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+242,4,8:53,533,533,Shaquera Wade missed Jumper.,52,46,6,0,0.8048236669352501,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+243,4,8:53,533,533,Emily Potter Defensive Rebound.,52,46,6,11,0.8048236669352501,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+244,4,8:42,522,522,Foul on Daneesha Provo.,52,46,6,0,0.8070851917577124,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+245,4,8:42,522,522,Daneesha Provo Turnover.,52,46,6,13,0.8070851917577124,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+246,4,8:29,509,509,Ashley Williams Turnover.,52,46,6,18,0.8095480499198049,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+247,4,8:11,491,491,Megan Huff missed Jumper.,52,46,6,0,0.8128725420955305,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+248,4,8:11,491,491,Shaquera Wade Defensive Rebound.,52,46,6,25,0.8128725420955305,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+249,4,7:46,466,466,Ashley Williams missed Jumper.,52,46,6,0,0.818031512790299,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+250,4,7:46,466,466,Daneesha Provo Defensive Rebound.,52,46,6,9,0.818031512790299,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+251,4,7:37,457,457,Tori Williams missed Three Point Jumper.,52,46,6,0,0.8202189169260476,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+252,4,7:37,457,457,Shaquera Wade Defensive Rebound.,52,46,6,1,0.8202189169260476,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+253,4,7:36,456,456,Foul on Daneesha Provo.,52,46,6,24,0.8204763860005609,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+254,4,7:12,432,432,Meoshonti Knight missed Three Point Jumper.,52,46,6,0,0.8277118992184253,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+255,4,7:12,432,432,Daneesha Provo Defensive Rebound.,52,46,6,19,0.8277118992184253,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+256,4,6:53,413,413,Emily Potter missed Jumper.,52,46,6,0,0.8340784039567143,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+257,4,6:53,413,413,Ashley Williams Defensive Rebound.,52,46,6,9,0.8340784039567143,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+258,4,6:44,404,404,Foul on Emily Potter.,52,46,6,0,0.8368299819213708,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+259,4,6:44,404,404,Ashley Williams made Free Throw.,53,46,7,0,0.8707154653382136,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Alabama
+260,4,6:44,404,404,Ashley Williams made Free Throw.,54,46,8,26,0.8984181698057577,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Alabama
+261,4,6:18,378,378,Tanaeya BoClair made Layup. Assisted by Tori Williams.,54,48,6,7,0.8445111637420918,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Utah
+262,4,6:11,371,371,Alana da Silva Turnover.,54,48,6,28,0.8466396686204448,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+263,4,5:43,343,343,Tori Williams missed Three Point Jumper.,54,48,6,0,0.8561110404662139,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+264,4,5:43,343,343,Hannah Cook Defensive Rebound.,54,48,6,23,0.8561110404662139,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+265,4,5:20,320,320,Meoshonti Knight missed Jumper.,54,48,6,0,0.8656802903641829,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+266,4,5:20,320,320,Megan Huff Defensive Rebound.,54,48,6,14,0.8656802903641829,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+267,4,5:06,306,306,Erika Bean missed Three Point Jumper.,54,48,6,0,0.8722507377364406,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+268,4,5:06,306,306,Shaquera Wade Defensive Rebound.,54,48,6,20,0.8722507377364406,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+269,4,4:46,286,286,Hannah Cook missed Jumper.,54,48,6,0,0.8753211695045554,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+270,4,4:46,286,286,Tori Williams Defensive Rebound.,54,48,6,15,0.8753211695045554,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+271,4,4:31,271,271,Megan Huff missed Jumper.,54,48,6,0,0.8735669060725605,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+272,4,4:31,271,271,Tanaeya BoClair Offensive Rebound.,54,48,6,17,0.8735669060725605,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+273,4,4:14,254,254,Megan Huff made Jumper. Assisted by Erika Bean.,54,50,4,17,0.7804619818730785,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Utah
+274,4,3:57,237,237,Quanetria Bolton made Jumper.,56,50,6,17,0.8682105033878983,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Alabama
+275,4,3:40,220,220,Daneesha Provo missed Three Point Jumper.,56,50,6,0,0.8707941151763672,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+276,4,3:40,220,220,Quanetria Bolton Defensive Rebound.,56,50,6,16,0.8707941151763672,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+277,4,3:24,204,204,Quanetria Bolton missed Three Point Jumper.,56,50,6,0,0.8797731229928649,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+278,4,3:24,204,204,Daneesha Provo Defensive Rebound.,56,50,6,14,0.8797731229928649,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+279,4,3:10,190,190,Daneesha Provo missed Jumper.,56,50,6,0,0.8936723397757369,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+280,4,3:10,190,190,Tanaeya BoClair Offensive Rebound.,56,50,6,4,0.8936723397757369,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+281,4,3:06,186,186,Foul on Tanaeya BoClair.,56,50,6,0,0.8983364855510159,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+282,4,3:06,186,186,Tanaeya BoClair Turnover.,56,50,6,0,0.8983364855510159,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+283,4,3:06,186,186,Official TV Timeout,56,50,6,23,0.8983364855510159,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+284,4,2:43,163,163,Foul on Tanaeya BoClair.,56,50,6,0,0.9225721653614386,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+285,4,2:43,163,163,Ashley Knight made Free Throw.,57,50,7,0,0.9473892285463469,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Alabama
+286,4,2:43,163,163,Ashley Knight missed Free Throw.,57,50,7,0,0.9473892285463469,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+287,4,2:43,163,163,Megan Huff Defensive Rebound.,57,50,7,19,0.9473892285463469,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+288,4,2:24,144,144,Emily Potter missed Layup.,57,50,7,0,0.9614680138538338,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+289,4,2:24,144,144,Ashley Williams Defensive Rebound.,57,50,7,1,0.9614680138538338,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+290,4,2:23,143,143,Foul on Emily Potter.,57,50,7,0,0.9621520970637294,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+291,4,2:23,143,143,Ashley Williams missed Free Throw.,57,50,7,0,0.9621520970637294,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+292,4,2:23,143,143,Alabama Deadball Team Rebound.,57,50,7,0,0.9621520970637294,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+293,4,2:23,143,143,Ashley Williams missed Free Throw.,57,50,7,0,0.9621520970637294,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+294,4,2:23,143,143,Tilar Clark Defensive Rebound.,57,50,7,26,0.9621520970637294,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+295,4,1:57,117,117,Foul on Alana da Silva.,57,50,7,3,0.9779002058587034,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+296,4,1:54,114,114,Tori Williams missed Three Point Jumper.,57,50,7,0,0.9794472198392569,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+297,4,1:54,114,114,Megan Huff Offensive Rebound.,57,50,7,2,0.9794472198392569,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+298,4,1:52,112,112,Foul on Ashley Williams.,57,50,7,1,0.9804451072303482,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+299,4,1:51,111,111,Tanaeya BoClair made Jumper. Assisted by Erika Bean.,57,52,5,9,0.9434655030685779,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Utah
+300,4,1:42,102,102,Foul on Erika Bean.,57,52,5,0,0.9521210868072854,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+301,4,1:42,102,102,Alana da Silva missed Free Throw.,57,52,5,0,0.9521210868072854,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+302,4,1:42,102,102,Alabama Deadball Team Rebound.,57,52,5,0,0.9521210868072854,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,
+303,4,1:42,102,102,Alana da Silva made Free Throw.,58,52,6,29,0.9730910954276167,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Alabama
+304,4,1:13,73,73,Erika Bean made Three Point Jumper.,58,55,3,2,0.8992151864772174,Alabama,Utah,5,5,0,0,NA,400987502,2017-11-13,Utah
+305,4,1:11,71,71,Utah  Timeout,58,55,3,27,0.901913867077444,Alabama,Utah,4,5,1,0,NA,400987502,2017-11-13,
+306,4,0:44,44,44,Shaquera Wade made Jumper.,60,55,5,17,0.9882324895102231,Alabama,Utah,4,5,1,0,NA,400987502,2017-11-13,Alabama
+307,4,0:27,27,27,Tori Williams made Three Point Jumper. Assisted by Tanaeya BoClair.,60,58,2,3,0.8787547382590568,Alabama,Utah,4,5,1,0,NA,400987502,2017-11-13,Utah
+308,4,0:24,24,24,Utah  Timeout,60,58,2,0,0.8827846648962041,Alabama,Utah,3,5,1,0,NA,400987502,2017-11-13,
+309,4,0:24,24,24,Shaquera Wade Turnover.,60,58,2,0,0.8827846648962041,Alabama,Utah,3,5,1,0,NA,400987502,2017-11-13,
+310,4,0:24,24,24,Utah  Timeout,60,58,2,6,0.8827846648962041,Alabama,Utah,3,5,1,0,NA,400987502,2017-11-13,
+311,4,0:18,18,18,Tori Williams missed Three Point Jumper.,60,58,2,0,0.8906854484093576,Alabama,Utah,3,5,1,0,NA,400987502,2017-11-13,
+312,4,0:18,18,18,Quanetria Bolton Defensive Rebound.,60,58,2,4,0.8906854484093576,Alabama,Utah,3,5,1,0,NA,400987502,2017-11-13,
+313,4,0:14,14,14,Foul on Tilar Clark.,60,58,2,0,0.8958722919593005,Alabama,Utah,3,5,1,1,NA,400987502,2017-11-13,
+314,4,0:14,14,14,Quanetria Bolton made Free Throw.,61,58,3,0,0.9618843639125265,Alabama,Utah,3,5,1,1,NA,400987502,2017-11-13,Alabama
+315,4,0:14,14,14,Quanetria Bolton made Free Throw.,62,58,4,0,0.9866705395591697,Alabama,Utah,3,5,1,1,NA,400987502,2017-11-13,Alabama
+316,4,0:14,14,14,Foul on Tanaeya BoClair.,62,58,4,0,0.9866705395591697,Alabama,Utah,3,5,1,1,NA,400987502,2017-11-13,
+317,4,0:14,14,14,Hannah Cook made Free Throw.,63,58,5,0,0.9954153640975865,Alabama,Utah,3,5,1,1,NA,400987502,2017-11-13,Alabama
+318,4,0:14,14,14,Alabama  Timeout,63,58,5,0,0.9954153640975865,Alabama,Utah,3,4,1,1,NA,400987502,2017-11-13,
+319,4,0:14,14,14,Hannah Cook missed Free Throw.,63,58,5,0,0.9954153640975865,Alabama,Utah,3,4,1,1,NA,400987502,2017-11-13,
+320,4,0:14,14,14,Erika Bean Defensive Rebound.,63,58,5,3,0.9954153640975865,Alabama,Utah,3,4,1,1,NA,400987502,2017-11-13,
+321,4,0:11,11,11,Foul on Hannah Cook.,63,58,5,6,0.9958675458278029,Alabama,Utah,3,4,1,1,NA,400987502,2017-11-13,
+322,4,0:05,5,5,Megan Huff made Layup.,63,60,3,4,0.968291875526715,Alabama,Utah,3,4,1,1,NA,400987502,2017-11-13,Utah
+323,4,0:01,1,1,Foul on Megan Huff.,63,60,3,0,0.9708630270713,Alabama,Utah,3,4,1,1,NA,400987502,2017-11-13,
+324,4,0:01,1,1,Hannah Cook made Free Throw.,64,60,4,0,0.9907597515972705,Alabama,Utah,3,4,1,1,NA,400987502,2017-11-13,Alabama
+325,4,0:01,1,1,Hannah Cook made Free Throw.,65,60,5,1,0.9971100707139258,Alabama,Utah,3,4,1,1,NA,400987502,2017-11-13,Alabama
+326,4,0:00,0,0,End of Game,65,60,5,0,1,Alabama,Utah,3,4,1,1,NA,400987502,2017-11-13,

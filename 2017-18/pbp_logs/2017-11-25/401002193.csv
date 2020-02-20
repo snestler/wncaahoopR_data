@@ -1,0 +1,354 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:47,2387,2387,Tyler Scaife missed Jumper.,0,0,0,0,0.5,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,NA
+2,1,9:47,2387,2387,Victoria Harris Offensive Rebound.,0,0,0,3,0.5,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+3,1,9:44,2384,2384,Victoria Harris Turnover.,0,0,0,1,0.5,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+4,1,9:43,2383,2383,Jordan Walker Steal.,0,0,0,3,0.5,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+5,1,9:40,2380,2380,Jordan Walker Turnover.,0,0,0,1,0.5,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+6,1,9:39,2379,2379,Tyler Scaife Steal.,0,0,0,4,0.5,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+7,1,9:35,2375,2375,Tyler Scaife Turnover.,0,0,0,1,0.5,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+8,1,9:34,2374,2374,Deja Wimby Steal.,0,0,0,5,0.5,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+9,1,9:29,2369,2369,Deja Wimby made Layup.,2,0,2,23,0.5446821100641465,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,Western Michigan
+10,1,9:06,2346,2346,Khadaizha Sanders missed Three Point Jumper.,2,0,2,0,0.5451773968607259,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+11,1,9:06,2346,2346,Marley Hill Defensive Rebound.,2,0,2,13,0.5451773968607259,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+12,1,8:53,2333,2333,Breanna Mobley missed Jumper.,2,0,2,0,0.5454603446991073,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+13,1,8:53,2333,2333,Breanna Mobley Offensive Rebound.,2,0,2,3,0.5454603446991073,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+14,1,8:50,2330,2330,Breanna Mobley made Layup.,4,0,4,16,0.5903032103461621,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,Western Michigan
+15,1,8:34,2314,2314,Kathleen Fitzpatrick missed Three Point Jumper.,4,0,4,0,0.5909889497370904,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+16,1,8:34,2314,2314,Deja Wimby Defensive Rebound.,4,0,4,13,0.5909889497370904,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+17,1,8:21,2301,2301,Jordan Walker missed Three Point Jumper.,4,0,4,0,0.5915499701662879,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+18,1,8:21,2301,2301,Tyler Scaife Defensive Rebound.,4,0,4,6,0.5915499701662879,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+19,1,8:15,2295,2295,Tyler Scaife made Jumper.,4,2,2,17,0.5462986002811664,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,Rutgers
+20,1,7:58,2278,2278,Foul on Victoria Harris.,4,2,2,7,0.5466784441662067,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+21,1,7:51,2271,2271,Marley Hill made Layup. Assisted by Breanna Mobley.,6,2,4,18,0.5928565045035783,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,Western Michigan
+22,1,7:33,2253,2253,Ciani Cryor missed Three Point Jumper.,6,2,4,0,0.5936474597581194,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+23,1,7:33,2253,2253,Deja Wimby Defensive Rebound.,6,2,4,7,0.5936474597581194,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+24,1,7:26,2246,2246,Deja Wimby made Layup.,8,2,6,3,0.6388825786720808,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,Western Michigan
+25,1,7:23,2243,2243,Rutgers  Timeout,8,2,6,13,0.6390727907955372,Western Michigan,Rutgers,3,4,1,0,NA,401002193,2017-11-25,
+26,1,7:10,2230,2230,Kate Hill made Jumper. Assisted by Ciani Cryor.,8,4,4,22,0.5946646408323303,Western Michigan,Rutgers,3,4,1,0,NA,401002193,2017-11-25,Rutgers
+27,1,6:48,2208,2208,Marley Hill made Jumper. Assisted by Deja Wimby.,10,4,6,16,0.6413014407038973,Western Michigan,Rutgers,3,4,1,0,NA,401002193,2017-11-25,Western Michigan
+28,1,6:32,2192,2192,Caitlin Jenkins made Layup. Assisted by Ciani Cryor.,10,6,4,10,0.5963580503803333,Western Michigan,Rutgers,3,4,1,0,NA,401002193,2017-11-25,Rutgers
+29,1,6:22,2182,2182,Jordan Walker Turnover.,10,6,4,17,0.5968057573899013,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+30,1,6:05,2165,2165,Ciani Cryor missed Three Point Jumper.,10,6,4,0,0.5975684241257823,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+31,1,6:05,2165,2165,Jasmyn Walker Defensive Rebound.,10,6,4,7,0.5975684241257823,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+32,1,5:58,2158,2158,Jordan Walker Turnover.,10,6,4,5,0.5978833475821144,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+33,1,5:53,2153,2153,Kate Hill Turnover.,10,6,4,1,0.5981086983071855,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+34,1,5:52,2152,2152,Jordan Walker Steal.,10,6,4,4,0.5981538098183158,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+35,1,5:48,2148,2148,Jordan Walker Turnover.,10,6,4,1,0.5983343958667185,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+36,1,5:47,2147,2147,Ciani Cryor Steal.,10,6,4,4,0.5983795776971534,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+37,1,5:43,2143,2143,Ciani Cryor Turnover.,10,6,4,3,0.5985604481955343,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+38,1,5:40,2140,2140,Jordan Walker Turnover.,10,6,4,0,0.59869625318022,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+39,1,5:40,2140,2140,Nigia Greene Steal.,10,6,4,2,0.59869625318022,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+40,1,5:38,2138,2138,Nigia Greene Turnover.,10,6,4,14,0.598786863221117,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+41,1,5:24,2124,2124,Breanna Mobley made Layup. Assisted by Jordan Walker.,12,6,6,0,0.646705989004505,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,Western Michigan
+42,1,5:24,2124,2124,Foul on Caitlin Jenkins.,12,6,6,0,0.646705989004505,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+43,1,5:24,2124,2124,Breanna Mobley made Free Throw.,13,6,7,20,0.669374274654817,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,Western Michigan
+44,1,5:04,2104,2104,Tekia Mack missed Layup.,13,6,7,0,0.6708472483659227,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+45,1,5:04,2104,2104,Deja Wimby Defensive Rebound.,13,6,7,7,0.6708472483659227,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+46,1,4:57,2097,2097,Foul on Kate Hill.,13,6,7,11,0.6713648038315527,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+47,1,4:46,2086,2086,Deja Wimby Turnover.,13,6,7,14,0.6721803323511845,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+48,1,4:32,2072,2072,Kate Hill missed Jumper.,13,6,7,0,0.6732223864442471,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+49,1,4:32,2072,2072,Deja Wimby Defensive Rebound.,13,6,7,10,0.6732223864442471,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+50,1,4:22,2062,2062,Breanna Mobley made Layup.,15,6,9,17,0.7178210408522372,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,Western Michigan
+51,1,4:05,2045,2045,Kate Hill Turnover.,15,6,9,1,0.7193327330384741,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+52,1,4:04,2044,2044,Jordan Walker Steal.,15,6,9,3,0.7194218814139034,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+53,1,4:01,2041,2041,Jordan Walker made Layup.,17,6,11,19,0.7599599676339687,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,Western Michigan
+54,1,3:42,2022,2022,Ciani Cryor missed Three Point Jumper.,17,6,11,0,0.7618376025081725,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+55,1,3:42,2022,2022,Breanna Mobley Defensive Rebound.,17,6,11,7,0.7618376025081725,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+56,1,3:35,2015,2015,Breanna Mobley Turnover.,17,6,11,1,0.762531319345221,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+57,1,3:34,2014,2014,Mael Gilles Steal.,17,6,11,13,0.7626305110457586,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+58,1,3:21,2001,2001,Tekia Mack made Layup. Assisted by Mael Gilles.,17,8,9,10,0.7232807754400279,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,Rutgers
+59,1,3:11,1991,1991,Jordan Walker Turnover.,17,8,9,1,0.7241857841219761,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+60,1,3:10,1990,1990,Kate Hill Steal.,17,8,9,1,0.7242764516087636,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+61,1,3:09,1989,1989,Foul on Jordan Walker.,17,8,9,0,0.7243671497492317,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+62,1,3:09,1989,1989,Tekia Mack missed Free Throw.,17,8,9,0,0.7243671497492317,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+63,1,3:09,1989,1989,Rutgers Deadball Team Rebound.,17,8,9,0,0.7243671497492317,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+64,1,3:09,1989,1989,Tekia Mack missed Free Throw.,17,8,9,0,0.7243671497492317,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+65,1,3:09,1989,1989,Marley Hill Defensive Rebound.,17,8,9,7,0.7243671497492317,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+66,1,3:02,1982,1982,Foul on Jazlynd Rollins.,17,8,9,8,0.7250029025335769,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+67,1,2:54,1974,1974,Marley Hill missed Jumper.,17,8,9,0,0.7257313608271743,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+68,1,2:54,1974,1974,Breanna Mobley Offensive Rebound.,17,8,9,5,0.7257313608271743,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+69,1,2:49,1969,1969,Breanna Mobley missed Layup.,17,8,9,0,0.7261876866724375,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+70,1,2:49,1969,1969,Mael Gilles Block.,17,8,9,2,0.7261876866724375,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+71,1,2:47,1967,1967,Western Michigan Offensive Rebound.,17,8,9,12,0.7263704439423453,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+72,1,2:35,1955,1955,Marley Hill missed Layup.,17,8,9,0,0.72746975677635,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+73,1,2:35,1955,1955,Mael Gilles Block.,17,8,9,1,0.72746975677635,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+74,1,2:34,1954,1954,Western Michigan Offensive Rebound.,17,8,9,0,0.7275615832549933,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+75,1,2:34,1954,1954,Breanna Mobley missed Jumper.,17,8,9,0,0.7275615832549933,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+76,1,2:34,1954,1954,Marley Hill Offensive Rebound.,17,8,9,0,0.7275615832549933,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+77,1,2:34,1954,1954,Marley Hill missed Layup.,17,8,9,0,0.7275615832549933,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+78,1,2:34,1954,1954,Breanna Mobley Offensive Rebound.,17,8,9,17,0.7275615832549933,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+79,1,2:17,1937,1937,Marley Hill missed Jumper.,17,8,9,0,0.7291278728463954,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+80,1,2:17,1937,1937,Mael Gilles Defensive Rebound.,17,8,9,6,0.7291278728463954,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+81,1,2:11,1931,1931,Nigia Greene missed Three Point Jumper.,17,8,9,0,0.7296830900170573,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+82,1,2:11,1931,1931,Jasmyn Walker Defensive Rebound.,17,8,9,28,0.7296830900170573,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+83,1,1:43,1903,1903,Marley Hill missed Layup.,17,8,9,0,0.7322658293160249,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+84,1,1:43,1903,1903,Jordan Wallace Defensive Rebound.,17,8,9,31,0.7322658293160249,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+85,1,1:12,1872,1872,Jordan Wallace made Layup. Assisted by Mael Gilles.,17,10,7,3,0.68865930432021,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,Rutgers
+86,1,1:09,1869,1869,Foul on Mael Gilles.,17,10,7,0,0.6888940493056356,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+87,1,1:09,1869,1869,Kamrin Reed missed Free Throw.,17,10,7,0,0.6888940493056356,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+88,1,1:09,1869,1869,Western Michigan Deadball Team Rebound.,17,10,7,0,0.6888940493056356,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+89,1,1:09,1869,1869,Kamrin Reed made Free Throw.,18,10,8,15,0.7126969685093207,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,Western Michigan
+90,1,0:54,1854,1854,Victoria Harris Turnover.,18,10,8,6,0.7139787239838639,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+91,1,0:48,1848,1848,Jasmyn Walker missed Jumper.,18,10,8,0,0.714491727145014,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+92,1,0:48,1848,1848,LaTondra Brooks Offensive Rebound.,18,10,8,13,0.714491727145014,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+93,1,0:35,1835,1835,Leighah-Amori Wool Turnover.,18,10,8,2,0.7156045144069828,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+94,1,0:33,1833,1833,Tyler Scaife Steal.,18,10,8,2,0.7157759194050062,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+95,1,0:31,1831,1831,Tyler Scaife made Layup.,18,12,6,5,0.6667084956145828,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,Rutgers
+96,1,0:26,1826,1826,Foul on Victoria Harris.,18,12,6,0,0.6670601172654264,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+97,1,0:26,1826,1826,Jasmyn Walker made Free Throw.,19,12,7,0,0.6922667318121257,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,Western Michigan
+98,1,0:26,1826,1826,Jasmyn Walker made Free Throw.,20,12,8,15,0.7163763840738621,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,Western Michigan
+99,1,0:11,1811,1811,Victoria Harris Turnover.,20,12,8,1,0.7176665988181532,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+100,1,0:10,1810,1810,Emma VanZanten Steal.,20,12,8,8,0.7177528125851423,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+101,1,0:02,1802,1802,Deja Wimby missed Layup.,20,12,8,0,0.7184435580155359,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+102,1,0:02,1802,1802,Rutgers Defensive Rebound.,20,12,8,2,0.7184435580155359,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+103,1,0:00,1800,1800,End of 1st Quarter,20,12,8,16,0.7186165494009514,Western Michigan,Rutgers,3,4,0,0,NA,401002193,2017-11-25,
+104,2,9:44,1784,1784,Jazlynd Rollins missed Three Point Jumper.,20,12,8,0,0.7200054633240565,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+105,2,9:44,1784,1784,Jazlynd Rollins Offensive Rebound.,20,12,8,16,0.7200054633240565,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+106,2,9:28,1768,1768,Tyler Scaife missed Three Point Jumper.,20,12,8,0,0.7214045959293893,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+107,2,9:28,1768,1768,Marley Hill Defensive Rebound.,20,12,8,13,0.7214045959293893,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+108,2,9:15,1755,1755,Jasmyn Walker Turnover.,20,12,8,0,0.7225502274042097,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+109,2,9:15,1755,1755,Foul on Jasmyn Walker.,20,12,8,13,0.7225502274042097,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+110,2,9:02,1742,1742,Stasha Carey missed Layup.,20,12,8,0,0.7237048642611503,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+111,2,9:02,1742,1742,Breanna Mobley Defensive Rebound.,20,12,8,1,0.7237048642611503,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+112,2,9:01,1741,1741,Foul on Jordan Wallace.,20,12,8,11,0.723794084033927,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+113,2,8:50,1730,1730,Jasmyn Walker made Three Point Jumper. Assisted by Deja Wimby.,23,12,11,19,0.7910730577556377,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,Western Michigan
+114,2,8:31,1711,1711,Tyler Scaife Turnover.,23,12,11,11,0.793030614835453,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+115,2,8:20,1700,1700,Foul on Jordan Wallace.,23,12,11,3,0.7941746215268141,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+116,2,8:17,1697,1697,Foul on Stasha Carey.,23,12,11,0,0.7944880862057102,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+117,2,8:17,1697,1697,Breanna Mobley made Free Throw.,24,12,12,0,0.8138344612207647,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,Western Michigan
+118,2,8:17,1697,1697,Breanna Mobley made Free Throw.,25,12,13,4,0.8317453103249605,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,Western Michigan
+119,2,8:13,1693,1693,Foul on Marley Hill.,25,12,13,0,0.8321695903826081,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+120,2,8:13,1693,1693,Ciani Cryor made Free Throw.,25,13,12,0,0.8142585177584964,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,Rutgers
+121,2,8:13,1693,1693,Ciani Cryor missed Free Throw.,25,13,12,0,0.8142585177584964,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+122,2,8:13,1693,1693,Breanna Mobley Defensive Rebound.,25,13,12,10,0.8142585177584964,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+123,2,8:03,1683,1683,Deja Wimby Turnover.,25,13,12,1,0.8153164844281892,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+124,2,8:02,1682,1682,Khadaizha Sanders Steal.,25,13,12,3,0.8154212470632345,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+125,2,7:59,1679,1679,Khadaizha Sanders missed Layup.,25,13,12,0,0.815734325489631,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+126,2,7:59,1679,1679,Deja Wimby Block.,25,13,12,1,0.815734325489631,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+127,2,7:58,1678,1678,Deja Wimby Defensive Rebound.,25,13,12,6,0.8158382891315556,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+128,2,7:52,1672,1672,Deja Wimby Turnover.,25,13,12,1,0.8164580678484883,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+129,2,7:51,1671,1671,Khadaizha Sanders Steal.,25,13,12,0,0.8165607174314619,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+130,2,7:51,1671,1671,Foul on Deja Wimby.,25,13,12,17,0.8165607174314619,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+131,2,7:34,1654,1654,Tyler Scaife missed Jumper.,25,13,12,0,0.8182801194055445,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+132,2,7:34,1654,1654,Deja Wimby Defensive Rebound.,25,13,12,10,0.8182801194055445,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+133,2,7:24,1644,1644,Jasmyn Walker missed Three Point Jumper.,25,13,12,0,0.8192715833957122,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+134,2,7:24,1644,1644,Stasha Carey Defensive Rebound.,25,13,12,21,0.8192715833957122,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+135,2,7:03,1623,1623,Jazlynd Rollins missed Jumper.,25,13,12,0,0.8213163937675184,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+136,2,7:03,1623,1623,Deja Wimby Defensive Rebound.,25,13,12,10,0.8213163937675184,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+137,2,6:53,1613,1613,Jordan Walker missed Jumper.,25,13,12,0,0.8222766707486586,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+138,2,6:53,1613,1613,Western Michigan Offensive Rebound.,25,13,12,6,0.8222766707486586,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+139,2,6:47,1607,1607,Jasmyn Walker missed Jumper.,25,13,12,0,0.8228498534477379,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+140,2,6:47,1607,1607,Marley Hill Offensive Rebound.,25,13,12,6,0.8228498534477379,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+141,2,6:41,1601,1601,Deja Wimby Turnover.,25,13,12,1,0.8234213151119852,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+142,2,6:40,1600,1600,Tyler Scaife Steal.,25,13,12,4,0.8235164207934446,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+143,2,6:36,1596,1596,Tyler Scaife missed Jumper.,25,13,12,0,0.8238965199913184,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+144,2,6:36,1596,1596,Breanna Mobley Defensive Rebound.,25,13,12,25,0.8238965199913184,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+145,2,6:11,1571,1571,Breanna Mobley made Layup.,27,13,14,24,0.8604821519884367,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,Western Michigan
+146,2,5:47,1547,1547,Tyler Scaife made Jumper. Assisted by Ciani Cryor.,27,15,12,16,0.828554560543512,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,Rutgers
+147,2,5:31,1531,1531,Breanna Mobley missed Layup.,27,15,12,0,0.8300980264507456,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+148,2,5:31,1531,1531,Marley Hill Offensive Rebound.,27,15,12,2,0.8300980264507456,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+149,2,5:29,1529,1529,Marley Hill made Layup.,29,15,14,26,0.8643990528394989,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,Western Michigan
+150,2,5:03,1503,1503,Jazlynd Rollins made Layup.,29,17,12,12,0.8328588574294192,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,Rutgers
+151,2,4:51,1491,1491,Deja Wimby made Jumper.,31,17,14,21,0.8680583782469753,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,Western Michigan
+152,2,4:30,1470,1470,Tyler Scaife made Jumper.,31,19,12,25,0.8362522442417427,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,Rutgers
+153,2,4:05,1445,1445,Jordan Walker missed Three Point Jumper.,31,19,12,0,0.8389485193205386,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+154,2,4:05,1445,1445,Jasmyn Walker Offensive Rebound.,31,19,12,4,0.8389485193205386,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+155,2,4:01,1441,1441,Jasmyn Walker Turnover.,31,19,12,0,0.8393786134976391,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+156,2,4:01,1441,1441,Official TV Timeout,31,19,12,13,0.8393786134976391,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+157,2,3:48,1428,1428,Ciani Cryor missed Jumper.,31,19,12,0,0.8407461908999108,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+158,2,3:48,1428,1428,Deja Wimby Defensive Rebound.,31,19,12,11,0.8407461908999108,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+159,2,3:37,1417,1417,Deja Wimby Turnover.,31,19,12,18,0.8418715736677927,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+160,2,3:19,1399,1399,Tyler Scaife made Jumper.,31,21,10,7,0.8029414487363195,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,Rutgers
+161,2,3:12,1392,1392,Najee Smith Turnover.,31,21,10,26,0.8036247253345608,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+162,2,2:46,1366,1366,Stasha Carey made Layup. Assisted by Tyler Scaife.,31,23,8,12,0.757684310969961,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,Rutgers
+163,2,2:34,1354,1354,Leighah-Amori Wool missed Three Point Jumper.,31,23,8,0,0.7587618136170539,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+164,2,2:34,1354,1354,Tyler Scaife Defensive Rebound.,31,23,8,10,0.7587618136170539,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,
+165,2,2:24,1344,1344,Jazlynd Rollins made Three Point Jumper. Assisted by Ciani Cryor.,31,26,5,3,0.672445623089993,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,Rutgers
+166,2,2:21,1341,1341,Western Michigan  Timeout,31,26,5,15,0.672649954483367,Western Michigan,Rutgers,4,3,0,1,NA,401002193,2017-11-25,
+167,2,2:06,1326,1326,Breanna Mobley Turnover.,31,26,5,18,0.6736802146089116,Western Michigan,Rutgers,4,3,0,1,NA,401002193,2017-11-25,
+168,2,1:48,1308,1308,Stasha Carey missed Layup.,31,26,5,0,0.6749430568527084,Western Michigan,Rutgers,4,3,0,1,NA,401002193,2017-11-25,
+169,2,1:48,1308,1308,Breanna Mobley Block.,31,26,5,2,0.6749430568527084,Western Michigan,Rutgers,4,3,0,1,NA,401002193,2017-11-25,
+170,2,1:46,1306,1306,Caitlin Jenkins Offensive Rebound.,31,26,5,3,0.6750856547269773,Western Michigan,Rutgers,4,3,0,1,NA,401002193,2017-11-25,
+171,2,1:43,1303,1303,Caitlin Jenkins made Layup.,31,28,3,25,0.6081052487900445,Western Michigan,Rutgers,4,3,0,1,NA,401002193,2017-11-25,Rutgers
+172,2,1:18,1278,1278,Deja Wimby missed Layup.,31,28,3,0,0.6093085855995282,Western Michigan,Rutgers,4,3,0,0,NA,401002193,2017-11-25,
+173,2,1:18,1278,1278,Caitlin Jenkins Defensive Rebound.,31,28,3,13,0.6093085855995282,Western Michigan,Rutgers,4,3,0,0,NA,401002193,2017-11-25,
+174,2,1:05,1265,1265,Tyler Scaife made Three Point Jumper. Assisted by Ciani Cryor.,31,31,0,29,0.5,Western Michigan,Rutgers,4,3,0,0,NA,401002193,2017-11-25,Rutgers
+175,2,0:36,1236,1236,Najee Smith missed Jumper.,31,31,0,0,0.5,Western Michigan,Rutgers,4,3,0,0,NA,401002193,2017-11-25,
+176,2,0:36,1236,1236,Marley Hill Offensive Rebound.,31,31,0,7,0.5,Western Michigan,Rutgers,4,3,0,0,NA,401002193,2017-11-25,
+177,2,0:29,1229,1229,Breanna Mobley made Jumper.,33,31,2,26,0.5753186667761835,Western Michigan,Rutgers,4,3,0,0,NA,401002193,2017-11-25,Western Michigan
+178,2,0:03,1203,1203,Jazlynd Rollins missed Three Point Jumper.,33,31,2,0,0.5763852586073499,Western Michigan,Rutgers,4,3,0,0,NA,401002193,2017-11-25,
+179,2,0:03,1203,1203,Najee Smith Defensive Rebound.,33,31,2,3,0.5763852586073499,Western Michigan,Rutgers,4,3,0,0,NA,401002193,2017-11-25,
+180,2,0:00,1200,1200,End of 2nd Quarter,33,31,2,20,0.5765093285143758,Western Michigan,Rutgers,4,3,0,0,NA,401002193,2017-11-25,
+181,3,9:40,1180,1180,Caitlin Jenkins missed Layup.,33,31,2,0,0.5773190995999056,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+182,3,9:40,1180,1180,Breanna Mobley Defensive Rebound.,33,31,2,9,0.5773190995999056,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+183,3,9:31,1171,1171,Jasmyn Walker made Layup. Assisted by Deja Wimby.,35,31,4,0,0.6516901361600497,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Western Michigan
+184,3,9:31,1171,1171,Foul on Tekia Mack.,35,31,4,0,0.6516901361600497,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+185,3,9:31,1171,1171,Jasmyn Walker missed Free Throw.,35,31,4,0,0.6516901361600497,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+186,3,9:31,1171,1171,Caitlin Jenkins Defensive Rebound.,35,31,4,27,0.6516901361600497,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+187,3,9:04,1144,1144,Caitlin Jenkins made Jumper.,35,33,2,21,0.5787271049879031,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Rutgers
+188,3,8:43,1123,1123,Deja Wimby missed Layup.,35,33,2,0,0.5795395002653893,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+189,3,8:43,1123,1123,Ciani Cryor Block.,35,33,2,0,0.5795395002653893,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+190,3,8:43,1123,1123,Western Michigan Offensive Rebound.,35,33,2,4,0.5795395002653893,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+191,3,8:39,1119,1119,Jasmyn Walker Turnover.,35,33,2,1,0.5796948491585648,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+192,3,8:38,1118,1118,Caitlin Jenkins Steal.,35,33,2,3,0.5797337455372664,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+193,3,8:35,1115,1115,Tyler Scaife made Layup. Assisted by Jazlynd Rollins.,35,35,0,22,0.5,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Rutgers
+194,3,8:13,1093,1093,Jordan Walker missed Three Point Jumper.,35,35,0,0,0.5,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+195,3,8:13,1093,1093,Caitlin Jenkins Defensive Rebound.,35,35,0,17,0.5,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+196,3,7:56,1076,1076,Tyler Scaife Turnover.,35,35,0,0,0.5,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+197,3,7:56,1076,1076,Breanna Mobley Steal.,35,35,0,13,0.5,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+198,3,7:43,1063,1063,Jordan Walker missed Layup.,35,35,0,0,0.5,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+199,3,7:43,1063,1063,Caitlin Jenkins Defensive Rebound.,35,35,0,14,0.5,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+200,3,7:29,1049,1049,Jazlynd Rollins made Layup.,35,37,-2,22,0.4174462569638532,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Rutgers
+201,3,7:07,1027,1027,Breanna Mobley made Jumper.,37,37,0,20,0.5,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Western Michigan
+202,3,6:47,1007,1007,Tekia Mack missed Three Point Jumper.,37,37,0,0,0.5,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+203,3,6:47,1007,1007,Deja Wimby Defensive Rebound.,37,37,0,9,0.5,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+204,3,6:38,998,998,Marley Hill missed Layup.,37,37,0,0,0.5,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+205,3,6:38,998,998,Caitlin Jenkins Defensive Rebound.,37,37,0,21,0.5,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+206,3,6:17,977,977,Caitlin Jenkins made Layup. Assisted by Tekia Mack.,37,39,-2,22,0.4139003312316972,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Rutgers
+207,3,5:55,955,955,Marley Hill made Layup. Assisted by Deja Wimby.,39,39,0,17,0.5,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Western Michigan
+208,3,5:38,938,938,Ciani Cryor made Three Point Jumper.,39,42,-3,8,0.369438667121747,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Rutgers
+209,3,5:30,930,930,Marley Hill missed Layup.,39,42,-3,0,0.368891413082529,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+210,3,5:30,930,930,Caitlin Jenkins Block.,39,42,-3,1,0.368891413082529,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+211,3,5:29,929,929,Western Michigan Offensive Rebound.,39,42,-3,12,0.3688242941205859,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+212,3,5:17,917,917,Deja Wimby missed Layup.,39,42,-3,0,0.368038093949518,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+213,3,5:17,917,917,Victoria Harris Defensive Rebound.,39,42,-3,28,0.368038093949518,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+214,3,4:49,889,889,Official TV Timeout,39,42,-3,4,0.3662984617561544,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+215,3,4:45,885,885,Caitlin Jenkins made Jumper.,39,44,-5,0,0.2859177260186569,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Rutgers
+216,3,4:45,885,885,Foul on Jasmyn Walker.,39,44,-5,0,0.2859177260186569,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+217,3,4:45,885,885,Caitlin Jenkins missed Free Throw.,39,44,-5,0,0.2859177260186569,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+218,3,4:45,885,885,Breanna Mobley Defensive Rebound.,39,44,-5,12,0.2859177260186569,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+219,3,4:33,873,873,Jasmyn Walker missed Jumper.,39,44,-5,0,0.28485031631402585,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+220,3,4:33,873,873,Jazlynd Rollins Defensive Rebound.,39,44,-5,21,0.28485031631402585,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+221,3,4:12,852,852,Jazlynd Rollins missed Jumper.,39,44,-5,0,0.2829534817970992,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+222,3,4:12,852,852,Marley Hill Defensive Rebound.,39,44,-5,12,0.2829534817970992,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+223,3,4:00,840,840,Marley Hill made Jumper. Assisted by Jasmyn Walker.,41,44,-3,21,0.36325967575938556,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Western Michigan
+224,3,3:39,819,819,Foul on Deja Wimby.,41,44,-3,17,0.3618259181562054,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+225,3,3:22,802,802,Foul on Breanna Mobley.,41,44,-3,0,0.3605558775588056,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+226,3,3:22,802,802,Khadaizha Sanders missed Free Throw.,41,44,-3,0,0.3605558775588056,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+227,3,3:22,802,802,Rutgers Deadball Team Rebound.,41,44,-3,0,0.3605558775588056,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+228,3,3:22,802,802,Khadaizha Sanders made Free Throw.,41,45,-4,20,0.317792243277471,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Rutgers
+229,3,3:02,782,782,Marley Hill made Jumper.,43,45,-2,16,0.40449544793161923,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Western Michigan
+230,3,2:46,766,766,Ciani Cryor missed Three Point Jumper.,43,45,-2,0,0.4034605446780468,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+231,3,2:46,766,766,Stasha Carey Offensive Rebound.,43,45,-2,7,0.4034605446780468,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+232,3,2:39,759,759,Tyler Scaife made Jumper. Assisted by Khadaizha Sanders.,43,47,-4,13,0.31298792270483006,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Rutgers
+233,3,2:26,746,746,LaTondra Brooks Turnover.,43,47,-4,2,0.31125913636217284,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+234,3,2:24,744,744,Ciani Cryor Steal.,43,47,-4,2,0.310979937232499,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+235,3,2:22,742,742,Tyler Scaife made Layup. Assisted by Khadaizha Sanders.,43,49,-6,21,0.23231350083478244,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Rutgers
+236,3,2:01,721,721,Deja Wimby missed Layup.,43,49,-6,0,0.2284364828951295,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+237,3,2:01,721,721,Khadaizha Sanders Defensive Rebound.,43,49,-6,10,0.2284364828951295,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+238,3,1:51,711,711,Victoria Harris Turnover.,43,49,-6,1,0.2267238937767914,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+239,3,1:50,710,710,Foul on Khadaizha Sanders.,43,49,-6,3,0.22655942293524703,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+240,3,1:47,707,707,Jasmyn Walker Turnover.,43,49,-6,1,0.22607271813737917,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+241,3,1:46,706,706,Ciani Cryor Steal.,43,49,-6,3,0.22591263681205737,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+242,3,1:43,703,703,Khadaizha Sanders missed Three Point Jumper.,43,49,-6,0,0.22543850954577557,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+243,3,1:43,703,703,Breanna Mobley Defensive Rebound.,43,49,-6,18,0.22543850954577557,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+244,3,1:25,685,685,Marley Hill made Jumper. Assisted by Breanna Mobley.,45,49,-4,16,0.3029835471547564,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Western Michigan
+245,3,1:09,669,669,Nigia Greene missed Three Point Jumper.,45,49,-4,0,0.3011600172367284,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+246,3,1:09,669,669,Breanna Mobley Defensive Rebound.,45,49,-4,9,0.3011600172367284,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+247,3,1:00,660,660,Jasmyn Walker missed Three Point Jumper.,45,49,-4,0,0.3001509370005284,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+248,3,1:00,660,660,Khadaizha Sanders Defensive Rebound.,45,49,-4,33,0.3001509370005284,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+249,3,0:27,627,627,Ciani Cryor made Three Point Jumper. Assisted by Nigia Greene.,45,52,-7,13,0.18039679160177932,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Rutgers
+250,3,0:14,614,614,Jasmyn Walker Turnover.,45,52,-7,2,0.17832234485938142,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+251,3,0:12,612,612,Ciani Cryor Steal.,45,52,-7,3,0.17798895240054752,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+252,3,0:09,609,609,Nigia Greene made Free Throw.,45,53,-8,0,0.14772183658386476,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Rutgers
+253,3,0:09,609,609,Nigia Greene made Free Throw.,45,54,-9,4,0.12221126941608966,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Rutgers
+254,3,0:05,605,605,Deja Wimby Turnover.,45,54,-9,1,0.12155670986753242,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+255,3,0:04,604,604,Stasha Carey Steal.,45,54,-9,1,0.12139044043950523,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+256,3,0:03,603,603,Stasha Carey missed Layup.,45,54,-9,0,0.12122308539380611,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+257,3,0:03,603,603,Stasha Carey Offensive Rebound.,45,54,-9,1,0.12122308539380611,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+258,3,0:02,602,602,Foul on Deja Wimby.,45,54,-9,0,0.12105462805276171,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+259,3,0:02,602,602,Stasha Carey missed Free Throw.,45,54,-9,0,0.12105462805276171,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+260,3,0:02,602,602,Rutgers Deadball Team Rebound.,45,54,-9,0,0.12105462805276171,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+261,3,0:02,602,602,Stasha Carey made Free Throw.,45,55,-10,2,0.09950322920490783,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Rutgers
+262,3,0:00,600,600,Jordan Walker Turnover.,45,55,-10,0,0.09918489164439363,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+263,3,0:00,600,600,Foul on Jordan Walker.,45,55,-10,0,0.09918489164439363,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+264,3,0:00,600,600,Ciani Cryor Turnover.,45,55,-10,0,0.09918489164439363,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+265,3,0:00,600,600,Jordan Walker Steal.,45,55,-10,0,0.09918489164439363,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+266,3,0:00,600,600,End of 3rd Quarter,45,55,-10,11,0.09918489164439363,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+267,4,9:49,589,589,Ciani Cryor missed Three Point Jumper.,45,55,-10,0,0.0973564629504159,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+268,4,9:49,589,589,Caitlin Jenkins Offensive Rebound.,45,55,-10,3,0.0973564629504159,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+269,4,9:46,586,586,Caitlin Jenkins missed Layup.,45,55,-10,0,0.09683349778243508,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+270,4,9:46,586,586,Caitlin Jenkins Offensive Rebound.,45,55,-10,1,0.09683349778243508,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+271,4,9:45,585,585,Foul on Breanna Mobley.,45,55,-10,0,0.0966567326099105,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+272,4,9:45,585,585,Caitlin Jenkins made Free Throw.,45,56,-11,0,0.07882422947584623,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,Rutgers
+273,4,9:45,585,585,Caitlin Jenkins missed Free Throw.,45,56,-11,0,0.07882422947584623,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+274,4,9:45,585,585,Stasha Carey Offensive Rebound.,45,56,-11,25,0.07882422947584623,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+275,4,9:20,560,560,Caitlin Jenkins made Layup. Assisted by Tyler Scaife.,45,58,-13,21,0.048368852782033275,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,Rutgers
+276,4,8:59,539,539,Breanna Mobley made Layup.,47,58,-11,0,0.070325255807554235,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,Western Michigan
+277,4,8:59,539,539,Foul on Caitlin Jenkins.,47,58,-11,0,0.070325255807554235,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+278,4,8:59,539,539,Breanna Mobley missed Free Throw.,47,58,-11,0,0.070325255807554235,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+279,4,8:59,539,539,Caitlin Jenkins Defensive Rebound.,47,58,-11,21,0.070325255807554235,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+280,4,8:38,518,518,Tyler Scaife missed Jumper.,47,58,-11,0,0.06704625187659341,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+281,4,8:38,518,518,Breanna Mobley Defensive Rebound.,47,58,-11,20,0.06704625187659341,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+282,4,8:18,498,498,LaTondra Brooks made Jumper.,49,58,-9,33,0.10061962299140917,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,Western Michigan
+283,4,7:45,465,465,Tyler Scaife Turnover.,49,58,-9,1,0.09475231953095566,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+284,4,7:44,464,464,Najee Smith Steal.,49,58,-9,14,0.094549275042426,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+285,4,7:30,450,450,Foul on Kate Hill.,49,58,-9,9,0.09146800695611035,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+286,4,7:21,441,441,Jordan Walker missed Three Point Jumper.,49,58,-9,0,0.08921839779470526,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+287,4,7:21,441,441,Ciani Cryor Defensive Rebound.,49,58,-9,26,0.08921839779470526,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+288,4,6:55,415,415,Tyler Scaife missed Jumper.,49,58,-9,0,0.08200543515309508,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+289,4,6:55,415,415,Najee Smith Defensive Rebound.,49,58,-9,15,0.08200543515309508,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+290,4,6:40,400,400,Breanna Mobley Turnover.,49,58,-9,21,0.07832157422212169,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+291,4,6:19,379,379,Kate Hill missed Jumper.,49,58,-9,0,0.07345035869997606,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+292,4,6:19,379,379,Jordan Walker Defensive Rebound.,49,58,-9,15,0.07345035869997606,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,
+293,4,6:04,364,364,Najee Smith made Jumper.,51,58,-7,3,0.11783058472148839,Western Michigan,Rutgers,6,5,0,0,NA,401002193,2017-11-25,Western Michigan
+294,4,6:01,361,361,Western Michigan  Timeout,51,58,-7,8,0.1169125826339382,Western Michigan,Rutgers,6,4,0,1,NA,401002193,2017-11-25,
+295,4,5:53,353,353,Victoria Harris made Jumper. Assisted by Ciani Cryor.,51,60,-9,41,0.06713329816120067,Western Michigan,Rutgers,6,4,0,1,NA,401002193,2017-11-25,Rutgers
+296,4,5:12,312,312,Foul on Ciani Cryor.,51,60,-9,0,0.05495583454035931,Western Michigan,Rutgers,6,4,0,1,NA,401002193,2017-11-25,
+297,4,5:12,312,312,Najee Smith made Free Throw.,52,60,-8,0,0.07387574641332366,Western Michigan,Rutgers,6,4,0,1,NA,401002193,2017-11-25,Western Michigan
+298,4,5:12,312,312,Najee Smith made Free Throw.,53,60,-7,0,0.09862951125917532,Western Michigan,Rutgers,6,4,0,1,NA,401002193,2017-11-25,Western Michigan
+299,4,5:12,312,312,Jazlynd Rollins Turnover.,53,60,-7,3,0.09862951125917532,Western Michigan,Rutgers,6,4,0,1,NA,401002193,2017-11-25,
+300,4,5:09,309,309,Jordan Walker Steal.,53,60,-7,2,0.09727793616579289,Western Michigan,Rutgers,6,4,0,1,NA,401002193,2017-11-25,
+301,4,5:07,307,307,Jordan Walker made Jumper.,55,60,-5,5,0.16827919114694026,Western Michigan,Rutgers,6,4,0,1,NA,401002193,2017-11-25,Western Michigan
+302,4,5:02,302,302,Rutgers  Timeout,55,60,-5,26,0.16648555932479758,Western Michigan,Rutgers,5,4,1,1,NA,401002193,2017-11-25,
+303,4,4:36,276,276,Khadaizha Sanders missed Jumper.,55,60,-5,0,0.16562698643848353,Western Michigan,Rutgers,5,4,1,0,NA,401002193,2017-11-25,
+304,4,4:36,276,276,Najee Smith Defensive Rebound.,55,60,-5,18,0.16562698643848353,Western Michigan,Rutgers,5,4,1,0,NA,401002193,2017-11-25,
+305,4,4:18,258,258,Breanna Mobley missed Jumper.,55,60,-5,0,0.16920705409589887,Western Michigan,Rutgers,5,4,1,0,NA,401002193,2017-11-25,
+306,4,4:18,258,258,Caitlin Jenkins Defensive Rebound.,55,60,-5,22,0.16920705409589887,Western Michigan,Rutgers,5,4,1,0,NA,401002193,2017-11-25,
+307,4,3:56,236,236,Foul on Marley Hill.,55,60,-5,0,0.17207462701587334,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+308,4,3:56,236,236,Tyler Scaife made Free Throw.,55,61,-6,0,0.1317934511926742,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Rutgers
+309,4,3:56,236,236,Tyler Scaife made Free Throw.,55,62,-7,26,0.09980504130595884,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Rutgers
+310,4,3:30,210,210,Breanna Mobley Turnover.,55,62,-7,0,0.09311379895468987,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+311,4,3:30,210,210,Foul on Breanna Mobley.,55,62,-7,28,0.09311379895468987,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+312,4,3:02,182,182,Caitlin Jenkins made Layup. Assisted by Victoria Harris.,55,64,-9,13,0.034098519305332295,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Rutgers
+313,4,2:49,169,169,Breanna Mobley made Layup. Assisted by Jordan Walker.,57,64,-7,0,0.05751736529282755,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Western Michigan
+314,4,2:49,169,169,Foul on Victoria Harris.,57,64,-7,0,0.05751736529282755,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+315,4,2:49,169,169,Breanna Mobley made Free Throw.,58,64,-6,26,0.0834062961380627,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Western Michigan
+316,4,2:23,143,143,Foul on LaTondra Brooks.,58,64,-6,17,0.05878035486244934,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+317,4,2:06,126,126,Jazlynd Rollins missed Jumper.,58,64,-6,0,0.04438175877672833,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+318,4,2:06,126,126,Jordan Walker Defensive Rebound.,58,64,-6,12,0.04438175877672833,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+319,4,1:54,114,114,Breanna Mobley made Layup. Assisted by Jordan Walker.,60,64,-4,0,0.09903478445266108,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,Western Michigan
+320,4,1:54,114,114,Foul on Victoria Harris.,60,64,-4,0,0.09903478445266108,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+321,4,1:54,114,114,Breanna Mobley missed Free Throw.,60,64,-4,0,0.09903478445266108,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+322,4,1:54,114,114,Caitlin Jenkins Defensive Rebound.,60,64,-4,7,0.09903478445266108,Western Michigan,Rutgers,5,4,0,0,NA,401002193,2017-11-25,
+323,4,1:47,107,107,Rutgers  Timeout,60,64,-4,20,0.0901013548462596,Western Michigan,Rutgers,4,4,1,0,NA,401002193,2017-11-25,
+324,4,1:27,87,87,Foul on Jordan Walker.,60,64,-4,0,0.06575745809400894,Western Michigan,Rutgers,4,4,1,0,NA,401002193,2017-11-25,
+325,4,1:27,87,87,Tyler Scaife made Free Throw.,60,65,-5,0,0.034985692445858155,Western Michigan,Rutgers,4,4,1,0,NA,401002193,2017-11-25,Rutgers
+326,4,1:27,87,87,Tyler Scaife made Free Throw.,60,66,-6,14,0.01833128943553091,Western Michigan,Rutgers,4,4,1,0,NA,401002193,2017-11-25,Rutgers
+327,4,1:13,73,73,Breanna Mobley made Layup. Assisted by Jordan Walker.,62,66,-4,28,0.05126864867223338,Western Michigan,Rutgers,4,4,1,0,NA,401002193,2017-11-25,Western Michigan
+328,4,0:45,45,45,Tyler Scaife made Jumper.,62,68,-6,2,0.005058364237431297,Western Michigan,Rutgers,4,4,0,0,NA,401002193,2017-11-25,Rutgers
+329,4,0:43,43,43,Western Michigan  Timeout,62,68,-6,15,0.0047165057842965,Western Michigan,Rutgers,4,3,0,1,NA,401002193,2017-11-25,
+330,4,0:28,28,28,Najee Smith missed Three Point Jumper.,62,68,-6,0,0.002721194368269959,Western Michigan,Rutgers,4,3,0,1,NA,401002193,2017-11-25,
+331,4,0:28,28,28,Khadaizha Sanders Defensive Rebound.,62,68,-6,3,0.002721194368269959,Western Michigan,Rutgers,4,3,0,1,NA,401002193,2017-11-25,
+332,4,0:25,25,25,Foul on Najee Smith.,62,68,-6,0,0.0024269280025252284,Western Michigan,Rutgers,4,3,0,1,NA,401002193,2017-11-25,
+333,4,0:25,25,25,Tyler Scaife made Free Throw.,62,69,-7,0,8.914087604280627e-4,Western Michigan,Rutgers,4,3,0,1,NA,401002193,2017-11-25,Rutgers
+334,4,0:25,25,25,Tyler Scaife made Free Throw.,62,70,-8,0,3.2709518770429504e-4,Western Michigan,Rutgers,4,3,0,1,NA,401002193,2017-11-25,Rutgers
+335,4,0:25,25,25,Western Michigan  Timeout,62,70,-8,5,3.2709518770429504e-4,Western Michigan,Rutgers,4,2,0,1,NA,401002193,2017-11-25,
+336,4,0:20,20,20,Najee Smith missed Three Point Jumper.,62,70,-8,0,2.523371278409819e-4,Western Michigan,Rutgers,4,2,0,1,NA,401002193,2017-11-25,
+337,4,0:20,20,20,Western Michigan Offensive Rebound.,62,70,-8,3,2.523371278409819e-4,Western Michigan,Rutgers,4,2,0,1,NA,401002193,2017-11-25,
+338,4,0:17,17,17,Foul on Caitlin Jenkins.,62,70,-8,0,2.149451112854144e-4,Western Michigan,Rutgers,4,2,0,1,NA,401002193,2017-11-25,
+339,4,0:17,17,17,Breanna Mobley made Free Throw.,63,70,-7,0,6.174475591634666e-4,Western Michigan,Rutgers,4,2,0,1,NA,401002193,2017-11-25,Western Michigan
+340,4,0:17,17,17,Breanna Mobley made Free Throw.,64,70,-6,1,0.0017723329077230273,Western Michigan,Rutgers,4,2,0,1,NA,401002193,2017-11-25,Western Michigan
+341,4,0:16,16,16,Foul on Jordan Walker.,64,70,-6,0,0.0017017991407835059,Western Michigan,Rutgers,4,2,0,1,NA,401002193,2017-11-25,
+342,4,0:16,16,16,Tyler Scaife made Free Throw.,64,71,-7,0,5.888439354354627e-4,Western Michigan,Rutgers,4,2,0,1,NA,401002193,2017-11-25,Rutgers
+343,4,0:16,16,16,Tyler Scaife made Free Throw.,64,72,-8,6,2.035989737496987e-4,Western Michigan,Rutgers,4,2,0,1,NA,401002193,2017-11-25,Rutgers
+344,4,0:10,10,10,Jordan Walker missed Three Point Jumper.,64,72,-8,0,1.459885066778675e-4,Western Michigan,Rutgers,4,2,0,1,NA,401002193,2017-11-25,
+345,4,0:10,10,10,Jazlynd Rollins Defensive Rebound.,64,72,-8,4,1.459885066778675e-4,Western Michigan,Rutgers,4,2,0,1,NA,401002193,2017-11-25,
+346,4,0:06,6,6,Foul on Breanna Mobley.,64,72,-8,0,1.1625173381262733e-4,Western Michigan,Rutgers,4,2,0,1,NA,401002193,2017-11-25,
+347,4,0:06,6,6,Jazlynd Rollins made Free Throw.,64,73,-9,0,3.746406511780772e-5,Western Michigan,Rutgers,4,2,0,1,NA,401002193,2017-11-25,Rutgers
+348,4,0:06,6,6,Jazlynd Rollins missed Free Throw.,64,73,-9,0,3.746406511780772e-5,Western Michigan,Rutgers,4,2,0,1,NA,401002193,2017-11-25,
+349,4,0:06,6,6,Caitlin Jenkins Offensive Rebound.,64,73,-9,1,3.746406511780772e-5,Western Michigan,Rutgers,4,2,0,1,NA,401002193,2017-11-25,
+350,4,0:05,5,5,Caitlin Jenkins made Layup.,64,75,-11,5,3.594187665779123e-6,Western Michigan,Rutgers,4,2,0,1,NA,401002193,2017-11-25,Rutgers
+351,4,0:00,0,0,Marley Hill missed Three Point Jumper.,64,75,-11,0,2.852423339163565e-96,Western Michigan,Rutgers,4,2,0,1,NA,401002193,2017-11-25,
+352,4,0:00,0,0,Rutgers Defensive Rebound.,64,75,-11,0,2.852423339163565e-96,Western Michigan,Rutgers,4,2,0,1,NA,401002193,2017-11-25,
+353,4,0:00,0,0,End of Game,64,75,-11,0,2.852423339163565e-96,Western Michigan,Rutgers,4,2,0,1,NA,401002193,2017-11-25,

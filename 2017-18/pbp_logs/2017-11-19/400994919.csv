@@ -1,0 +1,403 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:48,2388,2388,Nukiya Mayo missed Layup.,0,0,0,0,0.5,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,NA
+2,1,9:48,2388,2388,Jasmine Whitney Block.,0,0,0,0,0.5,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+3,1,9:48,2388,2388,Towson Offensive Rebound.,0,0,0,17,0.5,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+4,1,9:31,2371,2371,Danielle Durjan missed Three Point Jumper.,0,0,0,0,0.5,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+5,1,9:31,2371,2371,Alayna Gribble Defensive Rebound.,0,0,0,9,0.5,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+6,1,9:22,2362,2362,Jasmine Whitney made Jumper. Assisted by Danielle Garven.,2,0,2,8,0.5448321023078697,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+7,1,9:14,2354,2354,Raine Bankston missed Three Point Jumper.,2,0,2,0,0.5450043310338967,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+8,1,9:14,2354,2354,Pittsburgh Defensive Rebound.,2,0,2,25,0.5450043310338967,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+9,1,8:49,2329,2329,Foul on Mary Cuevas.,2,0,2,0,0.5455478180458078,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+10,1,8:49,2329,2329,Jasmine Whitney missed Free Throw.,2,0,2,0,0.5455478180458078,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+11,1,8:49,2329,2329,Pittsburgh Deadball Team Rebound.,2,0,2,2,0.5455478180458078,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+12,1,8:47,2327,2327,Yacine Diop Turnover.,2,0,2,10,0.5455916255074778,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+13,1,8:37,2317,2317,Danielle Durjan missed Three Point Jumper.,2,0,2,0,0.5458113538505914,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+14,1,8:37,2317,2317,Danielle Garven Defensive Rebound.,2,0,2,10,0.5458113538505914,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+15,1,8:27,2307,2307,Kalista Walters made Layup. Assisted by Yacine Diop.,4,0,4,22,0.5912906248001008,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+16,1,8:05,2285,2285,Danielle Durjan Turnover.,4,0,4,12,0.5922448401023548,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+17,1,7:53,2273,2273,Danielle Garven missed Jumper.,4,0,4,0,0.5927689268057672,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+18,1,7:53,2273,2273,Alayna Gribble Offensive Rebound.,4,0,4,5,0.5927689268057672,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+19,1,7:48,2268,2268,Danielle Garven missed Jumper.,4,0,4,0,0.5929879897881598,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+20,1,7:48,2268,2268,Nukiya Mayo Defensive Rebound.,4,0,4,11,0.5929879897881598,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+21,1,7:37,2257,2257,Mary Cuevas missed Layup.,4,0,4,0,0.593471278764827,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+22,1,7:37,2257,2257,Danielle Garven Block.,4,0,4,0,0.593471278764827,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+23,1,7:37,2257,2257,Towson Offensive Rebound.,4,0,4,11,0.593471278764827,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+24,1,7:26,2246,2246,Raine Bankston missed Jumper.,4,0,4,0,0.5939563112114385,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+25,1,7:26,2246,2246,Danielle Garven Defensive Rebound.,4,0,4,12,0.5939563112114385,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+26,1,7:14,2234,2234,Yacine Diop made Jumper.,6,0,6,14,0.6396442704728749,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+27,1,7:00,2220,2220,Raine Bankston Turnover.,6,0,6,0,0.6405355407379745,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+28,1,7:00,2220,2220,Jasmine Whitney Steal.,6,0,6,15,0.6405355407379745,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+29,1,6:45,2205,2205,Yacine Diop Turnover.,6,0,6,1,0.6414931645846473,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+30,1,6:44,2204,2204,Danielle Durjan Steal.,6,0,6,4,0.6415570930562644,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+31,1,6:40,2200,2200,Danielle Durjan missed Layup.,6,0,6,0,0.6418129054749615,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+32,1,6:40,2200,2200,Kalista Walters Block.,6,0,6,2,0.6418129054749615,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+33,1,6:38,2198,2198,Nukiya Mayo Offensive Rebound.,6,0,6,12,0.6419408686922365,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+34,1,6:26,2186,2186,Kayla Davis missed Layup.,6,0,6,0,0.6427093701999151,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+35,1,6:26,2186,2186,Yacine Diop Defensive Rebound.,6,0,6,7,0.6427093701999151,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+36,1,6:19,2179,2179,Alayna Gribble missed Three Point Jumper.,6,0,6,0,0.6431581645096554,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+37,1,6:19,2179,2179,Danielle Garven Offensive Rebound.,6,0,6,5,0.6431581645096554,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+38,1,6:14,2174,2174,Alayna Gribble made Layup. Assisted by Danielle Garven.,8,0,8,14,0.6872572866239602,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+39,1,6:00,2160,2160,Foul on Alayna Gribble.,8,0,8,2,0.6883802832631631,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+40,1,5:58,2158,2158,Foul on Alayna Gribble.,8,0,8,23,0.6885409392832702,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+41,1,5:35,2135,2135,Nukiya Mayo missed Three Point Jumper.,8,0,8,0,0.6903932262651092,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+42,1,5:35,2135,2135,Kyla Nelson Defensive Rebound.,8,0,8,5,0.6903932262651092,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+43,1,5:30,2130,2130,Danielle Garven made Jumper. Assisted by Jasmine Whitney.,10,0,10,15,0.7320033682647233,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+44,1,5:15,2115,2115,Raine Bankston missed Jumper.,10,0,10,0,0.7333969209460071,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+45,1,5:15,2115,2115,Danielle Garven Defensive Rebound.,10,0,10,7,0.7333969209460071,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+46,1,5:08,2108,2108,Kyla Nelson missed Three Point Jumper.,10,0,10,0,0.7340484576813773,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+47,1,5:08,2108,2108,Daijha Thomas Defensive Rebound.,10,0,10,18,0.7340484576813773,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+48,1,4:50,2090,2090,Danielle Durjan missed Three Point Jumper.,10,0,10,0,0.7357276961092648,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+49,1,4:50,2090,2090,Yacine Diop Defensive Rebound.,10,0,10,8,0.7357276961092648,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+50,1,4:42,2082,2082,Danielle Garven missed Layup.,10,0,10,0,0.7364759264456204,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+51,1,4:42,2082,2082,Daijha Thomas Block.,10,0,10,2,0.7364759264456204,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+52,1,4:40,2080,2080,Etalyia Vogt Defensive Rebound.,10,0,10,5,0.7366631765091682,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+53,1,4:35,2075,2075,Etalyia Vogt missed Jumper.,10,0,10,0,0.7371316473912409,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+54,1,4:35,2075,2075,Kalista Walters Block.,10,0,10,1,0.7371316473912409,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+55,1,4:34,2074,2074,Towson Offensive Rebound.,10,0,10,0,0.7372254016423823,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+56,1,4:34,2074,2074,Official TV Timeout,10,0,10,9,0.7372254016423823,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+57,1,4:25,2065,2065,Raine Bankston made Three Point Jumper. Assisted by Daijha Thomas.,10,3,7,11,0.673745210914745,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Towson
+58,1,4:14,2054,2054,Kyla Nelson made Layup.,12,3,9,10,0.7185315357979488,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+59,1,4:04,2044,2044,Etalyia Vogt missed Jumper.,12,3,9,0,0.7194218814139034,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+60,1,4:04,2044,2044,Mary Cuevas Offensive Rebound.,12,3,9,1,0.7194218814139034,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+61,1,4:03,2043,2043,Mary Cuevas Turnover.,12,3,9,11,0.7195110554340707,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+62,1,3:52,2032,2032,Foul on Danielle Durjan.,12,3,9,21,0.7204936895450158,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+63,1,3:31,2011,2011,Kalista Walters made Layup. Assisted by Kyla Nelson.,14,3,11,25,0.7629282220716398,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+64,1,3:06,1986,1986,Mary Cuevas Turnover.,14,3,11,0,0.7654173754752835,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+65,1,3:06,1986,1986,Kyla Nelson Steal.,14,3,11,3,0.7654173754752835,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+66,1,3:03,1983,1983,Kyla Nelson Turnover.,14,3,11,21,0.7657170990295498,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+67,1,2:42,1962,1962,Raine Bankston Turnover.,14,3,11,23,0.7678216631597413,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+68,1,2:19,1939,1939,Kyla Nelson missed Jumper.,14,3,11,0,0.7701403565209002,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+69,1,2:19,1939,1939,Mary Cuevas Defensive Rebound.,14,3,11,0,0.7701403565209002,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+70,1,2:19,1939,1939,Daijha Thomas Block.,20,5,15,9,0.8387258318448615,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+71,1,2:10,1930,1930,Mary Cuevas Turnover.,14,3,11,13,0.7710517686621788,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+72,1,1:57,1917,1917,Foul on Daijha Thomas.,14,3,11,0,0.7723658043688485,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+73,1,1:57,1917,1917,Kalista Walters made Free Throw.,15,3,12,0,0.791300709718754,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+74,1,1:57,1917,1917,Kalista Walters made Free Throw.,16,3,13,7,0.8090499758646669,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+75,1,1:50,1910,1910,Kayla Davis Turnover.,16,3,13,2,0.8097811854567144,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+76,1,1:48,1908,1908,Yacine Diop Steal.,16,3,13,2,0.8099896227827612,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+77,1,1:46,1906,1906,Jasmine Whitney Turnover.,16,3,13,2,0.8101978562759419,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+78,1,1:44,1904,1904,Kayla Davis Steal.,16,3,13,3,0.8104058910188247,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+79,1,1:41,1901,1901,Kayla Davis made Jumper.,16,5,11,16,0.7739730340487763,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Towson
+80,1,1:25,1885,1885,Yacine Diop missed Jumper.,16,5,11,0,0.7755715069695707,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+81,1,1:25,1885,1885,Kayla Davis Defensive Rebound.,16,5,11,18,0.7755715069695707,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+82,1,1:07,1867,1867,Foul on Jaala Henry.,16,5,11,3,0.7773623534822454,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+83,1,1:04,1864,1864,Jalynn Holmes missed Jumper.,16,5,11,0,0.7776602895860657,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+84,1,1:04,1864,1864,Yacine Diop Defensive Rebound.,16,5,11,1,0.7776602895860657,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+85,1,1:03,1863,1863,Foul on Maia Lee.,16,5,11,18,0.7777595759117788,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+86,1,0:45,1845,1845,Kalista Walters made Layup. Assisted by Yacine Diop.,18,5,13,21,0.8164768798477768,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+87,1,0:24,1824,1824,Jalynn Holmes missed Jumper.,18,5,13,0,0.8186206222091009,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+88,1,0:24,1824,1824,Jaala Henry Block.,18,5,13,3,0.8186206222091009,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+89,1,0:21,1821,1821,Jaala Henry Defensive Rebound.,18,5,13,13,0.8189267102815658,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+90,1,0:08,1808,1808,Jaala Henry made Jumper. Assisted by Kalista Walters.,20,5,15,8,0.8521561592427991,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+91,1,0:00,1800,1800,End of 1st Quarter,20,5,15,16,0.8529612484083722,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+92,2,9:44,1784,1784,Kyla Nelson missed Three Point Jumper.,20,5,15,0,0.854571588514312,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+93,2,9:44,1784,1784,Nukiya Mayo Defensive Rebound.,20,5,15,3,0.854571588514312,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+94,2,9:41,1781,1781,Foul on Danielle Garven.,20,5,15,17,0.8548736788993105,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+95,2,9:24,1764,1764,Nukiya Mayo Turnover.,20,5,15,8,0.8565874139853311,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+96,2,9:16,1756,1756,Kauai Bradley missed Three Point Jumper.,20,5,15,0,0.8573954261403552,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+97,2,9:16,1756,1756,Nukiya Mayo Defensive Rebound.,20,5,15,19,0.8573954261403552,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+98,2,8:57,1737,1737,Maia Lee missed Layup.,20,5,15,0,0.8593201293204685,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+99,2,8:57,1737,1737,Jaala Henry Block.,20,5,15,2,0.8593201293204685,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+100,2,8:55,1735,1735,Maia Lee Offensive Rebound.,20,5,15,1,0.8595232828964329,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+101,2,8:54,1734,1734,Maia Lee missed Layup.,20,5,15,0,0.8596249038935875,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+102,2,8:54,1734,1734,Danielle Garven Defensive Rebound.,20,5,15,5,0.8596249038935875,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+103,2,8:49,1729,1729,Foul on Raine Bankston.,20,5,15,0,0.8601334676592,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+104,2,8:49,1729,1729,Cassidy Walsh made Free Throw.,21,5,16,0,0.8740763774899905,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+105,2,8:49,1729,1729,Cassidy Walsh made Free Throw.,22,5,17,18,0.8868122624120841,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+106,2,8:31,1711,1711,Danielle Durjan missed Three Point Jumper.,22,5,17,0,0.8885480424227594,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+107,2,8:31,1711,1711,Maia Lee Offensive Rebound.,22,5,17,5,0.8885480424227594,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+108,2,8:26,1706,1706,Jalynn Holmes missed Jumper.,22,5,17,0,0.8890314964866823,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+109,2,8:26,1706,1706,Pittsburgh Defensive Rebound.,22,5,17,2,0.8890314964866823,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+110,2,8:24,1704,1704,Foul on Nukiya Mayo.,22,5,17,14,0.8892250555301978,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+111,2,8:10,1690,1690,Kauai Bradley Turnover.,22,5,17,2,0.8905830644533299,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+112,2,8:08,1688,1688,Nukiya Mayo Steal.,22,5,17,8,0.8907770105326686,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+113,2,8:00,1680,1680,Foul on Kauai Bradley.,22,5,17,3,0.8915437707496596,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+114,2,7:57,1677,1677,Danielle Durjan missed Three Point Jumper.,22,5,17,0,0.8918277404837779,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+115,2,7:57,1677,1677,Kauai Bradley Defensive Rebound.,22,5,17,12,0.8918277404837779,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+116,2,7:45,1665,1665,Danielle Garven missed Jumper.,22,5,17,0,0.8929456605759207,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+117,2,7:45,1665,1665,Nukiya Mayo Defensive Rebound.,22,5,17,9,0.8929456605759207,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+118,2,7:36,1656,1656,Nukiya Mayo Turnover.,22,5,17,0,0.8937668372939678,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+119,2,7:36,1656,1656,Foul on Nukiya Mayo.,22,5,17,11,0.8937668372939678,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+120,2,7:25,1645,1645,Danielle Garven missed Jumper.,22,5,17,0,0.8947528145303824,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+121,2,7:25,1645,1645,Maia Lee Defensive Rebound.,22,5,17,22,0.8947528145303824,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+122,2,7:03,1623,1623,Daijha Thomas made Layup. Assisted by Mary Cuevas.,22,7,15,12,0.8706383452188391,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Towson
+123,2,6:51,1611,1611,Yacine Diop missed Three Point Jumper.,22,7,15,0,0.871741808905659,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+124,2,6:51,1611,1611,Towson Defensive Rebound.,22,7,15,9,0.871741808905659,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+125,2,6:42,1602,1602,Mary Cuevas Turnover.,22,7,15,1,0.8725625847058096,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+126,2,6:41,1601,1601,Cassidy Walsh Steal.,22,7,15,5,0.8726534903126062,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+127,2,6:36,1596,1596,Yacine Diop made Layup. Assisted by Kauai Bradley.,24,7,17,17,0.8989742219168485,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+128,2,6:19,1579,1579,Foul on Kauai Bradley.,24,7,17,19,0.9003999630805355,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+129,2,6:00,1560,1560,Raine Bankston missed Jumper.,24,7,17,0,0.9019862819680895,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+130,2,6:00,1560,1560,Danielle Garven Defensive Rebound.,24,7,17,7,0.9019862819680895,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+131,2,5:53,1553,1553,Jasmine Whitney Turnover.,24,7,17,0,0.9025708840593193,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+132,2,5:53,1553,1553,Danielle Durjan Steal.,24,7,17,9,0.9025708840593193,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+133,2,5:44,1544,1544,Raine Bankston Turnover.,24,7,17,30,0.9033239295832947,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+134,2,5:14,1514,1514,Cassidy Walsh made Three Point Jumper. Assisted by Yacine Diop.,27,7,20,21,0.934846028969475,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+135,2,4:53,1493,1493,Raine Bankston made Three Point Jumper. Assisted by Etalyia Vogt.,27,10,17,20,0.9076696106401168,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Towson
+136,2,4:33,1473,1473,Cassidy Walsh missed Three Point Jumper.,27,10,17,0,0.9094348290115284,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+137,2,4:33,1473,1473,Yacine Diop Offensive Rebound.,27,10,17,3,0.9094348290115284,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+138,2,4:30,1470,1470,Foul on Danielle Durjan.,27,10,17,1,0.9097035881325846,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+139,2,4:29,1469,1469,Official TV Timeout,27,10,17,0,0.9097934223139652,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+140,2,4:29,1469,1469,Yacine Diop made Free Throw.,28,10,18,0,0.9203464207953792,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+141,2,4:29,1469,1469,Yacine Diop made Free Throw.,29,10,19,20,0.9297601689134634,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+142,2,4:09,1449,1449,Etalyia Vogt made Three Point Jumper. Assisted by Jalynn Holmes.,29,13,16,1,0.899914984290967,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Towson
+143,2,4:08,1448,1448,Foul on Cassidy Walsh.,29,13,16,0,0.9000117963791548,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+144,2,4:08,1448,1448,Etalyia Vogt made Free Throw.,29,14,15,19,0.8869562681517702,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Towson
+145,2,3:49,1429,1429,Jasmine Whitney missed Three Point Jumper.,29,14,15,0,0.888822612351061,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+146,2,3:49,1429,1429,Yacine Diop Offensive Rebound.,29,14,15,6,0.888822612351061,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+147,2,3:43,1423,1423,Jasmine Whitney made Jumper. Assisted by Yacine Diop.,31,14,17,10,0.9139219862883796,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+148,2,3:33,1413,1413,Jalynn Holmes missed Jumper.,31,14,17,0,0.9147662408489325,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+149,2,3:33,1413,1413,Yacine Diop Defensive Rebound.,31,14,17,1,0.9147662408489325,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+150,2,3:32,1412,1412,Foul on Daijha Thomas.,31,14,17,0,0.9148495903190521,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+151,2,3:32,1412,1412,Yacine Diop made Free Throw.,32,14,18,0,0.9251179848185825,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+152,2,3:32,1412,1412,Yacine Diop made Free Throw.,33,14,19,20,0.9342371129681393,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+153,2,3:12,1392,1392,Jalynn Holmes missed Three Point Jumper.,33,14,19,0,0.935673765217535,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+154,2,3:12,1392,1392,Pittsburgh Defensive Rebound.,33,14,19,13,0.935673765217535,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+155,2,2:59,1379,1379,Pika Rodriguez made Three Point Jumper. Assisted by Yacine Diop.,36,14,22,11,0.9576122659712231,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+156,2,2:48,1368,1368,Kayla Davis Turnover.,36,14,22,2,0.9582088183305052,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+157,2,2:46,1366,1366,Jasmine Whitney Steal.,36,14,22,1,0.958316389971226,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+158,2,2:45,1365,1365,Yacine Diop missed Layup.,36,14,22,0,0.9583700854813267,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+159,2,2:45,1365,1365,Mary Cuevas Defensive Rebound.,36,14,22,15,0.9583700854813267,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+160,2,2:30,1350,1350,Raine Bankston missed Three Point Jumper.,36,14,22,0,0.9591695511158237,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+161,2,2:30,1350,1350,Raine Bankston Offensive Rebound.,36,14,22,4,0.9591695511158237,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+162,2,2:26,1346,1346,Raine Bankston made Layup.,36,16,20,11,0.9465764283511984,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Towson
+163,2,2:15,1335,1335,Pika Rodriguez made Three Point Jumper. Assisted by Jasmine Whitney.,39,16,23,31,0.9651580372358436,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+164,2,1:44,1304,1304,Mary Cuevas Turnover.,39,16,23,14,0.9666532792001363,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+165,2,1:30,1290,1290,Danielle Garven missed Layup.,39,16,23,1,0.9673351794013623,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+166,2,1:29,1289,1289,Maia Lee Block.,39,16,23,1,0.9673841762722114,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+167,2,1:28,1288,1288,Jaala Henry Offensive Rebound.,39,16,23,3,0.9674332173809664,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+168,2,1:25,1285,1285,Jaala Henry missed Layup.,39,16,23,0,0.9675806162628776,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+169,2,1:25,1285,1285,Maia Lee Block.,39,16,23,2,0.9675806162628776,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+170,2,1:23,1283,1283,Jaala Henry Offensive Rebound.,39,16,23,1,0.9676791217974726,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+171,2,1:22,1282,1282,Pika Rodriguez missed Three Point Jumper.,39,16,23,0,0.9677284494003368,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+172,2,1:22,1282,1282,Jasmine Whitney Offensive Rebound.,39,16,23,3,0.9677284494003368,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+173,2,1:19,1279,1279,Yacine Diop made Jumper. Assisted by Kyla Nelson.,41,16,25,15,0.9759119624345347,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+174,2,1:04,1264,1264,Tess Borgosz Turnover.,41,16,25,10,0.9765269859360719,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+175,2,0:54,1254,1254,Jasmine Whitney missed Three Point Jumper.,41,16,25,0,0.9769428923118675,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+176,2,0:54,1254,1254,Maia Lee Defensive Rebound.,41,16,25,12,0.9769428923118675,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+177,2,0:42,1242,1242,Jalynn Holmes made Jumper. Assisted by Kayla Davis.,41,18,23,13,0.9697528841453016,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Towson
+178,2,0:29,1229,1229,Foul on Jalynn Holmes.,41,18,23,0,0.9704371340617218,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+179,2,0:29,1229,1229,Pika Rodriguez made Free Throw.,42,18,24,0,0.9744943837437005,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+180,2,0:29,1229,1229,Pika Rodriguez made Free Throw.,43,18,25,27,0.9780074297373572,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,Pittsburgh
+181,2,0:02,1202,1202,Jalynn Holmes missed Three Point Jumper.,43,18,25,0,0.9791946459469464,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+182,2,0:02,1202,1202,Towson Deadball Team Rebound.,43,18,25,2,0.9791946459469464,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+183,2,0:00,1200,1200,End of 2nd Quarter,43,18,25,4,0.9792806541052682,Pittsburgh,Towson,4,4,0,0,NA,400994919,2017-11-19,
+184,3,9:56,1196,1196,Jasmine Whitney Turnover.,43,18,25,0,0.9794506245234306,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+185,3,9:56,1196,1196,Kayla Davis Steal.,43,18,25,16,0.9794506245234306,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+186,3,9:40,1180,1180,Nukiya Mayo missed Layup.,43,18,25,0,0.9801055661749195,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+187,3,9:40,1180,1180,Danielle Garven Block.,43,18,25,1,0.9801055661749195,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+188,3,9:39,1179,1179,Alayna Gribble Defensive Rebound.,43,18,25,6,0.9801452890525916,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+189,3,9:33,1173,1173,Yacine Diop made Layup. Assisted by Jasmine Whitney.,45,18,27,0,0.9855763050449684,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,Pittsburgh
+190,3,9:33,1173,1173,Foul on Mary Cuevas.,45,18,27,0,0.9855763050449684,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+191,3,9:33,1173,1173,Yacine Diop made Free Throw.,46,18,28,4,0.9876394991362567,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,Pittsburgh
+192,3,9:29,1169,1169,Danielle Durjan missed Jumper.,46,18,28,0,0.987749375661902,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+193,3,9:29,1169,1169,Raine Bankston Offensive Rebound.,46,18,28,4,0.987749375661902,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+194,3,9:25,1165,1165,Raine Bankston made Layup.,46,20,26,6,0.9834495194757019,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,Towson
+195,3,9:19,1159,1159,Yacine Diop made Layup. Assisted by Jasmine Whitney.,48,20,28,32,0.9880180592197718,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,Pittsburgh
+196,3,8:47,1127,1127,Foul on Jasmine Whitney.,48,20,28,7,0.9888318587830415,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+197,3,8:40,1120,1120,Nukiya Mayo Turnover.,48,20,28,13,0.9890028202472831,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+198,3,8:27,1107,1107,Danielle Garven missed Layup.,48,20,28,0,0.9893156385796246,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+199,3,8:27,1107,1107,Nukiya Mayo Defensive Rebound.,48,20,28,11,0.9893156385796246,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+200,3,8:16,1096,1096,Raine Bankston made Layup.,48,22,26,0,0.9856280233131139,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,Towson
+201,3,8:16,1096,1096,Foul on Alayna Gribble.,48,22,26,1,0.9856280233131139,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+202,3,8:15,1095,1095,Raine Bankston made Free Throw.,48,23,25,20,0.9831668466932422,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,Towson
+203,3,7:55,1075,1075,Yacine Diop missed Layup.,48,23,25,0,0.9838419087027623,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+204,3,7:55,1075,1075,Mary Cuevas Block.,48,23,25,2,0.9838419087027623,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+205,3,7:53,1073,1073,Mary Cuevas Defensive Rebound.,48,23,25,6,0.9839093004833327,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+206,3,7:47,1067,1067,Danielle Durjan made Three Point Jumper. Assisted by Raine Bankston.,48,26,22,29,0.974194123019193,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,Towson
+207,3,7:18,1038,1038,Foul on Raine Bankston.,48,26,22,0,0.9755910533865195,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+208,3,7:18,1038,1038,Jasmine Whitney made Free Throw.,49,26,23,0,0.9792803287412929,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,Pittsburgh
+209,3,7:18,1038,1038,Jasmine Whitney made Free Throw.,50,26,24,17,0.9824220377620756,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,Pittsburgh
+210,3,7:01,1021,1021,Foul on Kalista Walters.,50,26,24,16,0.9830826778478279,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+211,3,6:45,1005,1005,Danielle Durjan made Three Point Jumper.,50,29,21,19,0.97310199253527,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,Towson
+212,3,6:26,986,986,Foul on Etalyia Vogt.,50,29,21,7,0.9741996972274588,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+213,3,6:19,979,979,Jasmine Whitney missed Three Point Jumper.,50,29,21,0,0.9746122110579788,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+214,3,6:19,979,979,Yacine Diop Offensive Rebound.,50,29,21,9,0.9746122110579788,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+215,3,6:10,970,970,Yacine Diop missed Three Point Jumper.,50,29,21,0,0.9751491939624366,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+216,3,6:10,970,970,Kalista Walters Offensive Rebound.,50,29,21,5,0.9751491939624366,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+217,3,6:05,965,965,Yacine Diop made Three Point Jumper. Assisted by Kalista Walters.,53,29,24,23,0.9853405629235764,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,Pittsburgh
+218,3,5:42,942,942,Danielle Durjan missed Layup.,53,29,24,0,0.9861749839737769,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+219,3,5:42,942,942,Mary Cuevas Offensive Rebound.,53,29,24,6,0.9861749839737769,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+220,3,5:36,936,936,Etalyia Vogt made Three Point Jumper. Assisted by Danielle Durjan.,53,32,21,15,0.976944944525038,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,Towson
+221,3,5:21,921,921,Foul on Raine Bankston.,53,32,21,10,0.9776149614978349,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+222,3,5:11,911,911,Yacine Diop Turnover.,53,32,21,1,0.9780327327824225,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+223,3,5:10,910,910,Daijha Thomas Steal.,53,32,21,4,0.9780734568543413,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+224,3,5:06,906,906,Foul on Kyla Nelson.,53,32,21,2,0.978234656079639,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+225,3,5:04,904,904,Nukiya Mayo Turnover.,53,32,21,0,0.9783142966064451,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+226,3,5:04,904,904,Foul on Nukiya Mayo.,53,32,21,21,0.9783142966064451,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+227,3,4:43,883,883,Yacine Diop Turnover.,53,32,21,0,0.9791206790685211,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+228,3,4:43,883,883,Official TV Timeout,53,32,21,1,0.9791206790685211,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+229,3,4:42,882,882,Jalynn Holmes Turnover.,53,32,21,44,0.9791580572263343,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+230,3,3:58,838,838,Yacine Diop Turnover.,53,32,21,19,0.9807854084691018,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+231,3,3:39,819,819,Foul on Jasmine Whitney.,53,32,21,0,0.9815149556975084,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+232,3,3:39,819,819,Danielle Durjan made Free Throw.,53,33,20,0,0.9777516089147207,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,Towson
+233,3,3:39,819,819,Danielle Durjan made Free Throw.,53,34,19,4,0.9732429737772991,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,Towson
+234,3,3:35,815,815,Foul on Etalyia Vogt.,53,34,19,0,0.9734485447148042,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+235,3,3:35,815,815,Cassidy Walsh made Free Throw.,54,34,20,0,0.9779323280932071,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,Pittsburgh
+236,3,3:35,815,815,Cassidy Walsh made Free Throw.,55,34,21,5,0.9816731836189829,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,Pittsburgh
+237,3,3:30,810,810,Jalynn Holmes missed Three Point Jumper.,55,34,21,0,0.9818736684715792,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+238,3,3:30,810,810,Daijha Thomas Offensive Rebound.,55,34,21,6,0.9818736684715792,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+239,3,3:24,804,804,Daijha Thomas made Layup.,55,36,19,25,0.9740281578609514,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,Towson
+240,3,2:59,779,779,Yacine Diop Turnover.,55,36,19,8,0.9754368950804378,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,
+241,3,2:51,771,771,Maia Lee made Layup. Assisted by Etalyia Vogt.,55,38,17,15,0.9648463182166872,Pittsburgh,Towson,5,5,0,0,NA,400994919,2017-11-19,Towson
+242,3,2:36,756,756,Pittsburgh  Timeout,55,38,17,8,0.9660697664905851,Pittsburgh,Towson,4,5,1,0,NA,400994919,2017-11-19,
+243,3,2:28,748,748,Foul on Daijha Thomas.,55,38,17,0,0.9667554586243255,Pittsburgh,Towson,4,5,1,0,NA,400994919,2017-11-19,
+244,3,2:28,748,748,Yacine Diop missed Free Throw.,55,38,17,0,0.9667554586243255,Pittsburgh,Towson,4,5,1,0,NA,400994919,2017-11-19,
+245,3,2:28,748,748,Pittsburgh Deadball Team Rebound.,55,38,17,0,0.9667554586243255,Pittsburgh,Towson,4,5,1,0,NA,400994919,2017-11-19,
+246,3,2:28,748,748,Yacine Diop missed Free Throw.,55,38,17,0,0.9667554586243255,Pittsburgh,Towson,4,5,1,0,NA,400994919,2017-11-19,
+247,3,2:28,748,748,Mary Cuevas Defensive Rebound.,55,38,17,7,0.9667554586243255,Pittsburgh,Towson,4,5,1,0,NA,400994919,2017-11-19,
+248,3,2:21,741,741,Foul on Kauai Bradley.,55,38,17,0,0.9673747717960117,Pittsburgh,Towson,4,5,1,0,NA,400994919,2017-11-19,
+249,3,2:21,741,741,Etalyia Vogt made Free Throw.,55,39,16,0,0.9604606927864252,Pittsburgh,Towson,4,5,1,0,NA,400994919,2017-11-19,Towson
+250,3,2:21,741,741,Etalyia Vogt made Free Throw.,55,40,15,7,0.9521538239038071,Pittsburgh,Towson,4,5,1,0,NA,400994919,2017-11-19,Towson
+251,3,2:14,734,734,Danielle Garven Turnover.,55,40,15,0,0.9529668342377214,Pittsburgh,Towson,4,5,1,0,NA,400994919,2017-11-19,
+252,3,2:14,734,734,Foul on Danielle Garven.,55,40,15,14,0.9529668342377214,Pittsburgh,Towson,4,5,1,0,NA,400994919,2017-11-19,
+253,3,2:00,720,720,Danielle Durjan missed Three Point Jumper.,55,40,15,0,0.954584207551363,Pittsburgh,Towson,4,5,1,0,NA,400994919,2017-11-19,
+254,3,2:00,720,720,Maia Lee Offensive Rebound.,55,40,15,6,0.954584207551363,Pittsburgh,Towson,4,5,1,0,NA,400994919,2017-11-19,
+255,3,1:54,714,714,Maia Lee missed Layup.,55,40,15,0,0.955217735682868,Pittsburgh,Towson,4,5,1,0,NA,400994919,2017-11-19,
+256,3,1:54,714,714,Maia Lee Offensive Rebound.,55,40,15,3,0.955217735682868,Pittsburgh,Towson,4,5,1,0,NA,400994919,2017-11-19,
+257,3,1:51,711,711,Maia Lee made Jumper.,55,42,13,22,0.9345201247976459,Pittsburgh,Towson,4,5,1,0,NA,400994919,2017-11-19,Towson
+258,3,1:29,689,689,Danielle Garven made Jumper. Assisted by Cassidy Walsh.,57,42,15,12,0.9575444455000337,Pittsburgh,Towson,4,5,0,0,NA,400994919,2017-11-19,Pittsburgh
+259,3,1:17,677,677,Jalynn Holmes Turnover.,57,42,15,14,0.9585362512832277,Pittsburgh,Towson,4,5,0,0,NA,400994919,2017-11-19,
+260,3,1:03,663,663,Danielle Garven made Jumper. Assisted by Kauai Bradley.,59,42,17,13,0.9731731986229022,Pittsburgh,Towson,4,5,0,0,NA,400994919,2017-11-19,Pittsburgh
+261,3,0:50,650,650,Jalynn Holmes made Layup. Assisted by Danielle Durjan.,59,44,15,13,0.9606390802859026,Pittsburgh,Towson,4,5,0,0,NA,400994919,2017-11-19,Towson
+262,3,0:37,637,637,Pika Rodriguez missed Three Point Jumper.,59,44,15,0,0.9616463999391393,Pittsburgh,Towson,4,5,0,0,NA,400994919,2017-11-19,
+263,3,0:37,637,637,Jalynn Holmes Defensive Rebound.,59,44,15,27,0.9616463999391393,Pittsburgh,Towson,4,5,0,0,NA,400994919,2017-11-19,
+264,3,0:10,610,610,Mary Cuevas missed Jumper.,59,44,15,0,0.9638615305449335,Pittsburgh,Towson,4,5,0,0,NA,400994919,2017-11-19,
+265,3,0:10,610,610,Pittsburgh Defensive Rebound.,59,44,15,9,0.9638615305449335,Pittsburgh,Towson,4,5,0,0,NA,400994919,2017-11-19,
+266,3,0:01,601,601,Jasmine Whitney made Layup.,61,44,17,1,0.9769709006805242,Pittsburgh,Towson,4,5,0,0,NA,400994919,2017-11-19,Pittsburgh
+267,3,0:00,600,600,End of 3rd Quarter,61,44,17,15,0.9770391102371526,Pittsburgh,Towson,4,5,0,0,NA,400994919,2017-11-19,
+268,4,9:45,585,585,Yacine Diop missed Jumper.,61,44,17,0,0.9781057230837318,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+269,4,9:45,585,585,Raine Bankston Defensive Rebound.,61,44,17,27,0.9781057230837318,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+270,4,9:18,558,558,Kayla Davis Turnover.,61,44,17,1,0.9802518228414648,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+271,4,9:17,557,557,Jasmine Whitney Steal.,61,44,17,3,0.9803371283453428,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+272,4,9:14,554,554,Jasmine Whitney made Layup.,63,44,19,11,0.9876801231102998,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Pittsburgh
+273,4,9:03,543,543,Maia Lee Turnover.,63,44,19,1,0.9883454322387432,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+274,4,9:02,542,542,Jasmine Whitney Steal.,63,44,19,17,0.9884008692055576,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+275,4,8:45,525,525,Danielle Garven missed Layup.,63,44,19,0,0.9892279398093824,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+276,4,8:45,525,525,Maia Lee Block.,63,44,19,2,0.9892279398093824,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+277,4,8:43,523,523,Jaala Henry Offensive Rebound.,63,44,19,0,0.9893138668932542,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+278,4,8:43,523,523,Foul on Kayla Davis.,63,44,19,0,0.9893138668932542,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+279,4,8:43,523,523,Jaala Henry made Free Throw.,64,44,20,0,0.9915607259830251,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Pittsburgh
+280,4,8:43,523,523,Jaala Henry made Free Throw.,65,44,21,20,0.9933383431206652,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Pittsburgh
+281,4,8:23,503,503,Foul on Jaala Henry.,65,44,21,0,0.9938787813073028,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+282,4,8:23,503,503,Raine Bankston missed Free Throw.,65,44,21,0,0.9938787813073028,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+283,4,8:23,503,503,Towson Deadball Team Rebound.,65,44,21,0,0.9938787813073028,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+284,4,8:23,503,503,Raine Bankston made Free Throw.,65,45,20,8,0.9922129838679181,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Towson
+285,4,8:15,495,495,Jaala Henry Turnover.,65,45,20,3,0.9924570762197571,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+286,4,8:12,492,492,Foul on Cassidy Walsh.,65,45,20,16,0.9925482393651657,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+287,4,7:56,476,476,Danielle Durjan missed Three Point Jumper.,65,45,20,0,0.9930448938050295,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+288,4,7:56,476,476,Daijha Thomas Offensive Rebound.,65,45,20,15,0.9930448938050295,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+289,4,7:41,461,461,Nukiya Mayo missed Three Point Jumper.,65,45,20,0,0.9935479279376511,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+290,4,7:41,461,461,Daijha Thomas Offensive Rebound.,65,45,20,4,0.9935479279376511,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+291,4,7:37,457,457,Nukiya Mayo Turnover.,65,45,20,15,0.9936909297552793,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+292,4,7:22,442,442,Jasmine Whitney Turnover.,65,45,20,8,0.994265834979452,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+293,4,7:14,434,434,Rayna Barbour Turnover.,65,45,20,1,0.9945980207243478,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+294,4,7:13,433,433,Kauai Bradley Steal.,65,45,20,1,0.9946407558028398,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+295,4,7:12,432,432,Foul on Danielle Durjan.,65,45,20,0,0.9946837510924107,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+296,4,7:12,432,432,Yacine Diop made Free Throw.,66,45,21,0,0.9959023669714616,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Pittsburgh
+297,4,7:12,432,432,Yacine Diop made Free Throw.,67,45,22,16,0.9968425326295356,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Pittsburgh
+298,4,6:56,416,416,Etalyia Vogt missed Jumper.,67,45,22,0,0.9972569546363489,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+299,4,6:56,416,416,Nukiya Mayo Offensive Rebound.,67,45,22,5,0.9972569546363489,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+300,4,6:51,411,411,Danielle Durjan made Three Point Jumper. Assisted by Nukiya Mayo.,67,48,19,8,0.9941055210584496,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Towson
+301,4,6:43,403,403,Yacine Diop missed Layup.,67,48,19,0,0.9944251677053034,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+302,4,6:43,403,403,Danielle Durjan Defensive Rebound.,67,48,19,1,0.9944251677053034,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+303,4,6:42,402,402,Foul on Jaala Henry.,67,48,19,8,0.9944634789140417,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+304,4,6:34,394,394,Daijha Thomas missed Layup.,67,48,19,0,0.9947595988160683,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+305,4,6:34,394,394,Daijha Thomas Offensive Rebound.,67,48,19,2,0.9947595988160683,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+306,4,6:32,392,392,Daijha Thomas missed Jumper.,67,48,19,0,0.994831195323872,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+307,4,6:32,392,392,Nukiya Mayo Offensive Rebound.,67,48,19,1,0.994831195323872,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+308,4,6:31,391,391,Foul on Jaala Henry.,67,48,19,0,0.9948666908556466,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+309,4,6:31,391,391,Nukiya Mayo missed Free Throw.,67,48,19,0,0.9948666908556466,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+310,4,6:31,391,391,Towson Deadball Team Rebound.,67,48,19,0,0.9948666908556466,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+311,4,6:31,391,391,Nukiya Mayo missed Free Throw.,67,48,19,0,0.9948666908556466,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+312,4,6:31,391,391,Yacine Diop Defensive Rebound.,67,48,19,9,0.9948666908556466,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+313,4,6:22,382,382,Cassidy Walsh made Three Point Jumper. Assisted by Jasmine Whitney.,70,48,22,12,0.9979162040967929,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Pittsburgh
+314,4,6:10,370,370,Foul on Cara Judkins.,70,48,22,0,0.9981173545013168,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+315,4,6:10,370,370,Daijha Thomas made Free Throw.,70,49,21,0,0.9974977205317132,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Towson
+316,4,6:10,370,370,Daijha Thomas missed Free Throw.,70,49,21,0,0.9974977205317132,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+317,4,6:10,370,370,Mary Cuevas Offensive Rebound.,70,49,21,15,0.9974977205317132,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+318,4,5:55,355,355,Daijha Thomas Turnover.,70,49,21,9,0.9978091124601975,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+319,4,5:46,346,346,Yacine Diop missed Jumper.,70,49,21,0,0.9979952705961946,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+320,4,5:46,346,346,Cara Judkins Offensive Rebound.,70,49,21,7,0.9979952705961946,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+321,4,5:39,339,339,Cassidy Walsh missed Three Point Jumper.,70,49,21,0,0.9981401017475784,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+322,4,5:39,339,339,Mary Cuevas Defensive Rebound.,70,49,21,8,0.9981401017475784,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+323,4,5:31,331,331,Foul on Jasmine Whitney.,70,49,21,0,0.9983053772068979,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+324,4,5:31,331,331,Etalyia Vogt missed Free Throw.,70,49,21,0,0.9983053772068979,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+325,4,5:31,331,331,Towson Deadball Team Rebound.,70,49,21,1,0.9983053772068979,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+326,4,5:30,330,330,Etalyia Vogt made Free Throw.,70,50,20,7,0.9977318700989228,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Towson
+327,4,5:23,323,323,Yacine Diop Turnover.,70,50,20,0,0.9979175209087088,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+328,4,5:23,323,323,Etalyia Vogt Steal.,70,50,20,4,0.9979175209087088,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+329,4,5:19,319,319,Daijha Thomas missed Jumper.,70,50,20,0,0.9980230815801261,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+330,4,5:19,319,319,Kalista Walters Block.,70,50,20,2,0.9980230815801261,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+331,4,5:17,317,317,Kalista Walters Defensive Rebound.,70,50,20,5,0.998075630774745,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+332,4,5:12,312,312,Yacine Diop made Layup. Assisted by Cassidy Walsh.,72,50,22,10,0.999045831383144,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Pittsburgh
+333,4,5:02,302,302,Danielle Durjan made Three Point Jumper. Assisted by Etalyia Vogt.,72,53,19,24,0.9978081636301904,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Towson
+334,4,4:38,278,278,Yacine Diop missed Jumper.,72,53,19,0,0.9978758638811476,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+335,4,4:38,278,278,Etalyia Vogt Defensive Rebound.,72,53,19,12,0.9978758638811476,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+336,4,4:26,266,266,Raine Bankston missed Jumper.,72,53,19,0,0.9977471195858983,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+337,4,4:26,266,266,Raine Bankston Offensive Rebound.,72,53,19,4,0.9977471195858983,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+338,4,4:22,262,262,Raine Bankston made Jumper.,72,55,17,1,0.9956406405621288,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Towson
+339,4,4:21,261,261,Official TV Timeout,72,55,17,21,0.9956178395388077,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+340,4,4:00,240,240,Kalista Walters made Layup. Assisted by Kyla Nelson.,74,55,19,14,0.9974593293342289,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Pittsburgh
+341,4,3:46,226,226,Nukiya Mayo made Layup.,74,57,17,0,0.9953464016623647,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Towson
+342,4,3:46,226,226,Foul on Cara Judkins.,74,57,17,0,0.9953464016623647,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+343,4,3:46,226,226,Nukiya Mayo made Free Throw.,74,58,16,4,0.9936304425292185,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Towson
+344,4,3:42,222,222,Kyla Nelson missed Three Point Jumper.,74,58,16,0,0.9937751029017098,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+345,4,3:42,222,222,Kalista Walters Offensive Rebound.,74,58,16,6,0.9937751029017098,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+346,4,3:36,216,216,Kalista Walters missed Layup.,74,58,16,0,0.9940926436626026,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+347,4,3:36,216,216,Yacine Diop Offensive Rebound.,74,58,16,22,0.9940926436626026,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+348,4,3:14,194,194,Jasmine Whitney Turnover.,74,58,16,1,0.9961347135842857,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+349,4,3:13,193,193,Raine Bankston Steal.,74,58,16,5,0.9962474317250339,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+350,4,3:08,188,188,Raine Bankston Turnover.,74,58,16,2,0.996806788553794,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+351,4,3:06,186,186,Yacine Diop Steal.,74,58,16,10,0.9970125303833172,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+352,4,2:56,176,176,Foul on Etalyia Vogt.,74,58,16,0,0.9978674849046567,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+353,4,2:56,176,176,Yacine Diop missed Free Throw.,74,58,16,0,0.9978674849046567,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+354,4,2:56,176,176,Pittsburgh Deadball Team Rebound.,74,58,16,0,0.9978674849046567,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+355,4,2:56,176,176,Yacine Diop made Free Throw.,75,58,17,5,0.9985468802539361,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Pittsburgh
+356,4,2:51,171,171,Foul on Jasmine Whitney.,75,58,17,0,0.9987907834362831,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+357,4,2:51,171,171,Etalyia Vogt missed Free Throw.,75,58,17,0,0.9987907834362831,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+358,4,2:51,171,171,Towson Deadball Team Rebound.,75,58,17,0,0.9987907834362831,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+359,4,2:51,171,171,Etalyia Vogt missed Free Throw.,75,58,17,0,0.9987907834362831,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+360,4,2:51,171,171,Raine Bankston Offensive Rebound.,75,58,17,16,0.9987907834362831,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+361,4,2:35,155,155,Danielle Durjan made Three Point Jumper. Assisted by Maia Lee.,75,61,14,17,0.9976351509090025,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Towson
+362,4,2:18,138,138,Kalista Walters made Layup. Assisted by Jasmine Whitney.,77,61,16,21,0.9995069944690554,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Pittsburgh
+363,4,1:57,117,117,Etalyia Vogt made Jumper. Assisted by Maia Lee.,77,63,14,29,0.9994895353963427,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,Towson
+364,4,1:28,88,88,Yacine Diop missed Layup.,77,63,14,0,0.9999014670569756,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+365,4,1:28,88,88,Etalyia Vogt Defensive Rebound.,77,63,14,9,0.9999014670569756,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+366,4,1:19,79,79,Etalyia Vogt Turnover.,77,63,14,1,0.9999448602470956,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+367,4,1:18,78,78,Danielle Garven Steal.,77,63,14,3,0.9999484117187672,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+368,4,1:15,75,75,Yacine Diop missed Layup.,77,63,14,0,0.9999578841008567,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+369,4,1:15,75,75,Maia Lee Block.,77,63,14,2,0.9999578841008567,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+370,4,1:13,73,73,Danielle Garven Offensive Rebound.,77,63,14,1,0.9999633170518155,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+371,4,1:12,72,72,Danielle Garven missed Layup.,77,63,14,0,0.9999657967698753,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+372,4,1:12,72,72,Maia Lee Defensive Rebound.,77,63,14,8,0.9999657967698753,Pittsburgh,Towson,5,6,0,0,NA,400994919,2017-11-19,
+373,4,1:04,64,64,Towson  Timeout,77,63,14,2,0.999980759539197,Pittsburgh,Towson,5,5,0,1,NA,400994919,2017-11-19,
+374,4,1:02,62,62,Nukiya Mayo Turnover.,77,63,14,7,0.9999833940537273,Pittsburgh,Towson,5,5,0,1,NA,400994919,2017-11-19,
+375,4,0:55,55,55,Foul on Nukiya Mayo.,77,63,14,5,0.9999902010178717,Pittsburgh,Towson,5,5,0,1,NA,400994919,2017-11-19,
+376,4,0:50,50,50,Foul on Raine Bankston.,77,63,14,0,0.9999933616771143,Pittsburgh,Towson,5,5,0,1,NA,400994919,2017-11-19,
+377,4,0:50,50,50,Yacine Diop made Free Throw.,78,63,15,0,0.9999971672564602,Pittsburgh,Towson,5,5,0,1,NA,400994919,2017-11-19,Pittsburgh
+378,4,0:50,50,50,Yacine Diop missed Free Throw.,78,63,15,0,0.9999971672564602,Pittsburgh,Towson,5,5,0,1,NA,400994919,2017-11-19,
+379,4,0:50,50,50,Nukiya Mayo Defensive Rebound.,78,63,15,8,0.9999971672564602,Pittsburgh,Towson,5,5,0,1,NA,400994919,2017-11-19,
+380,4,0:42,42,42,Etalyia Vogt missed Jumper.,78,63,15,0,0.9999985853192154,Pittsburgh,Towson,5,5,0,1,NA,400994919,2017-11-19,
+381,4,0:42,42,42,Nukiya Mayo Offensive Rebound.,78,63,15,7,0.9999985853192154,Pittsburgh,Towson,5,5,0,1,NA,400994919,2017-11-19,
+382,4,0:35,35,35,Nukiya Mayo Turnover.,78,63,15,1,0.9999992502438231,Pittsburgh,Towson,5,5,0,1,NA,400994919,2017-11-19,
+383,4,0:34,34,34,Danielle Garven Steal.,78,63,15,3,0.9999993165203522,Pittsburgh,Towson,5,5,0,1,NA,400994919,2017-11-19,
+384,4,0:31,31,31,Foul on Danielle Durjan.,78,63,15,0,0.9999994835205537,Pittsburgh,Towson,5,5,0,1,NA,400994919,2017-11-19,
+385,4,0:31,31,31,Danielle Garven missed Free Throw.,78,63,15,0,0.9999994835205537,Pittsburgh,Towson,5,5,0,1,NA,400994919,2017-11-19,
+386,4,0:31,31,31,Pittsburgh Deadball Team Rebound.,78,63,15,0,0.9999994835205537,Pittsburgh,Towson,5,5,0,1,NA,400994919,2017-11-19,
+387,4,0:31,31,31,Danielle Garven made Free Throw.,79,63,16,0,0.9999998032460772,Pittsburgh,Towson,5,5,0,1,NA,400994919,2017-11-19,Pittsburgh
+388,4,0:31,31,31,Towson  Timeout,79,63,16,4,0.9999998032460772,Pittsburgh,Towson,5,4,0,1,NA,400994919,2017-11-19,
+389,4,0:27,27,27,Raine Bankston missed Layup.,79,63,16,0,0.9999998686661402,Pittsburgh,Towson,5,4,0,1,NA,400994919,2017-11-19,
+390,4,0:27,27,27,Yacine Diop Block.,79,63,16,2,0.9999998686661402,Pittsburgh,Towson,5,4,0,1,NA,400994919,2017-11-19,
+391,4,0:25,25,25,Cassidy Walsh Defensive Rebound.,79,63,16,7,0.9999998929387226,Pittsburgh,Towson,5,4,0,1,NA,400994919,2017-11-19,
+392,4,0:18,18,18,Danielle Garven Turnover.,79,63,16,11,0.9999999485211375,Pittsburgh,Towson,5,4,0,1,NA,400994919,2017-11-19,
+393,4,0:07,7,7,Nukiya Mayo missed Layup.,79,63,16,0,0.9999999848395913,Pittsburgh,Towson,5,4,0,1,NA,400994919,2017-11-19,
+394,4,0:07,7,7,Danielle Garven Block.,79,63,16,1,0.9999999848395913,Pittsburgh,Towson,5,4,0,1,NA,400994919,2017-11-19,
+395,4,0:06,6,6,Towson Offensive Rebound.,79,63,16,3,0.9999999864823919,Pittsburgh,Towson,5,4,0,1,NA,400994919,2017-11-19,
+396,4,0:03,3,3,Nukiya Mayo missed Layup.,79,63,16,0,0.9999999904449743,Pittsburgh,Towson,5,4,0,1,NA,400994919,2017-11-19,
+397,4,0:03,3,3,Danielle Garven Block.,79,63,16,0,0.9999999904449743,Pittsburgh,Towson,5,4,0,1,NA,400994919,2017-11-19,
+398,4,0:03,3,3,Danielle Garven Defensive Rebound.,79,63,16,0,0.9999999904449743,Pittsburgh,Towson,5,4,0,1,NA,400994919,2017-11-19,
+399,4,0:03,3,3,Foul on Raine Bankston.,79,63,16,0,0.9999999904449743,Pittsburgh,Towson,5,4,0,1,NA,400994919,2017-11-19,
+400,4,0:03,3,3,Danielle Garven made Free Throw.,80,63,17,0,0.9999999969870192,Pittsburgh,Towson,5,4,0,1,NA,400994919,2017-11-19,Pittsburgh
+401,4,0:03,3,3,Danielle Garven made Free Throw.,81,63,18,3,0.9999999990499185,Pittsburgh,Towson,5,4,0,1,NA,400994919,2017-11-19,Pittsburgh
+402,4,0:00,0,0,End of Game,79,63,16,0,1,Pittsburgh,Towson,5,4,0,1,NA,400994919,2017-11-19,

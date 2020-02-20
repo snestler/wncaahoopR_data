@@ -1,0 +1,305 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:33,2373,2373,Jessica Shepard Turnover.,0,0,0,13,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,NA
+2,1,9:20,2360,2360,Georgia Pineau missed Layup.,0,0,0,0,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+3,1,9:20,2360,2360,Jackie Young Defensive Rebound.,0,0,0,7,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+4,1,9:13,2353,2353,Marina Mabrey made Layup.,0,2,-2,18,0.45497408096351394,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+5,1,8:55,2335,2335,Katie Quandt made Layup. Assisted by Rachel Gartner.,2,2,0,12,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Boston College
+6,1,8:43,2323,2323,Jessica Shepard missed Layup.,2,2,0,0,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+7,1,8:43,2323,2323,Katie Quandt Block.,2,2,0,2,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+8,1,8:41,2321,2321,Katie Quandt Defensive Rebound.,2,2,0,13,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+9,1,8:28,2308,2308,Martina Mosetti missed Three Point Jumper.,2,2,0,0,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+10,1,8:28,2308,2308,Jessica Shepard Defensive Rebound.,2,2,0,12,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+11,1,8:16,2296,2296,Jackie Young missed Jumper.,2,2,0,0,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+12,1,8:16,2296,2296,Katie Quandt Defensive Rebound.,2,2,0,19,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+13,1,7:57,2277,2277,Andie Anastos Turnover.,2,2,0,1,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+14,1,7:56,2276,2276,Marina Mabrey Steal.,2,2,0,2,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+15,1,7:54,2274,2274,Marina Mabrey made Layup.,2,4,-2,22,0.4532317899002051,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+16,1,7:32,2252,2252,Georgia Pineau made Jumper. Assisted by Andie Anastos.,4,4,0,14,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Boston College
+17,1,7:18,2238,2238,Marina Mabrey Turnover.,4,4,0,1,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+18,1,7:17,2237,2237,Rachel Gartner Steal.,4,4,0,5,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+19,1,7:12,2232,2232,Martina Mosetti missed Layup.,4,4,0,0,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+20,1,7:12,2232,2232,Katie Quandt Offensive Rebound.,4,4,0,3,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+21,1,7:09,2229,2229,Katie Quandt made Layup.,6,4,2,18,0.547787062890142,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Boston College
+22,1,6:51,2211,2211,Arike Ogunbowale missed Three Point Jumper.,6,4,2,0,0.5481985600824828,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+23,1,6:51,2211,2211,Rachel Gartner Defensive Rebound.,6,4,2,24,0.5481985600824828,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+24,1,6:27,2187,2187,Georgia Pineau missed Jumper.,6,4,2,0,0.5487499721246489,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+25,1,6:27,2187,2187,Arike Ogunbowale Defensive Rebound.,6,4,2,10,0.5487499721246489,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+26,1,6:17,2177,2177,Arike Ogunbowale missed Jumper.,6,4,2,0,0.5489804998329268,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+27,1,6:17,2177,2177,Georgia Pineau Defensive Rebound.,6,4,2,15,0.5489804998329268,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+28,1,6:02,2162,2162,Georgia Pineau missed Layup.,6,4,2,0,0.5493271120496106,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+29,1,6:02,2162,2162,Katie Quandt Offensive Rebound.,6,4,2,3,0.5493271120496106,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+30,1,5:59,2159,2159,Katie Quandt missed Layup.,6,4,2,0,0.5493966151804348,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+31,1,5:59,2159,2159,Jackie Young Defensive Rebound.,6,4,2,5,0.5493966151804348,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+32,1,5:54,2154,2154,Jackie Young Turnover.,6,4,2,15,0.549512605802715,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+33,1,5:39,2139,2139,Andie Anastos missed Three Point Jumper.,6,4,2,0,0.5498617568700167,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+34,1,5:39,2139,2139,Danielle Patterson Defensive Rebound.,6,4,2,12,0.5498617568700167,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+35,1,5:27,2127,2127,Kristina Nelson missed Jumper.,6,4,2,0,0.5501424093407381,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+36,1,5:27,2127,2127,Danielle Patterson Offensive Rebound.,6,4,2,2,0.5501424093407381,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+37,1,5:25,2125,2125,Danielle Patterson made Layup.,6,6,0,24,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+38,1,5:01,2101,2101,Taylor Ortlepp missed Three Point Jumper.,6,6,0,0,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+39,1,5:01,2101,2101,Kristina Nelson Defensive Rebound.,6,6,0,14,0.5,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+40,1,4:47,2087,2087,Kristina Nelson made Layup. Assisted by Jackie Young.,6,8,-2,13,0.44891275375982187,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+41,1,4:34,2074,2074,Milan Bolden-Morris missed Three Point Jumper.,6,8,-2,0,0.448602341227073,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+42,1,4:34,2074,2074,Marina Mabrey Defensive Rebound.,6,8,-2,10,0.448602341227073,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+43,1,4:24,2064,2064,Marina Mabrey missed Jumper.,6,8,-2,0,0.4483623662805861,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+44,1,4:24,2064,2064,Andie Anastos Defensive Rebound.,6,8,-2,15,0.4483623662805861,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+45,1,4:09,2049,2049,Georgia Pineau missed Jumper.,6,8,-2,0,0.4480003742149476,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+46,1,4:09,2049,2049,Arike Ogunbowale Defensive Rebound.,6,8,-2,15,0.4480003742149476,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+47,1,3:54,2034,2034,Foul on Georgia Pineau.,6,8,-2,0,0.44763584619598756,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+48,1,3:54,2034,2034,Official TV Timeout,6,8,-2,0,0.44763584619598756,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+49,1,3:54,2034,2034,Arike Ogunbowale made Free Throw.,6,9,-3,0,0.42181154990047837,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+50,1,3:54,2034,2034,Arike Ogunbowale made Free Throw.,6,10,-4,15,0.39640789253425024,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+51,1,3:39,2019,2019,Taylor Ortlepp missed Three Point Jumper.,6,10,-4,0,0.39569743083988324,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+52,1,3:39,2019,2019,Danielle Patterson Block.,6,10,-4,3,0.39569743083988324,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+53,1,3:36,2016,2016,Kathryn Westbeld Defensive Rebound.,6,10,-4,5,0.3955547438760948,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+54,1,3:31,2011,2011,Kathryn Westbeld made Layup.,6,12,-6,24,0.3458055933381254,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+55,1,3:07,1987,1987,Milan Bolden-Morris missed Three Point Jumper.,6,12,-6,0,0.34417165610176115,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+56,1,3:07,1987,1987,Jackie Young Defensive Rebound.,6,12,-6,12,0.34417165610176115,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+57,1,2:55,1975,1975,Kristina Nelson made Layup. Assisted by Jackie Young.,6,14,-8,25,0.29639050098981645,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+58,1,2:30,1950,1950,Taylor Ortlepp made Three Point Jumper. Assisted by Katie Quandt.,9,14,-5,20,0.36661984496981154,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Boston College
+59,1,2:10,1930,1930,Danielle Patterson missed Jumper.,9,14,-5,0,0.3654153165548391,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+60,1,2:10,1930,1930,Sydney Lowery Defensive Rebound.,9,14,-5,14,0.3654153165548391,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+61,1,1:56,1916,1916,Andie Anastos missed Layup.,9,14,-5,0,0.3645691457452942,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+62,1,1:56,1916,1916,Jackie Young Defensive Rebound.,9,14,-5,14,0.3645691457452942,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+63,1,1:42,1902,1902,Danielle Patterson made Layup. Assisted by Kristina Nelson.,9,16,-7,26,0.31368989284421717,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+64,1,1:16,1876,1876,Taylor Ortlepp made Three Point Jumper. Assisted by Sydney Lowery.,12,16,-4,17,0.3886953153050376,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Boston College
+65,1,0:59,1859,1859,Kristina Nelson missed Jumper.,12,16,-4,0,0.3878526135607772,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+66,1,0:59,1859,1859,Kathryn Westbeld Offensive Rebound.,12,16,-4,2,0.3878526135607772,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+67,1,0:57,1857,1857,Kathryn Westbeld missed Layup.,12,16,-4,0,0.38775333409892104,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+68,1,0:57,1857,1857,Kathryn Westbeld Offensive Rebound.,12,16,-4,4,0.38775333409892104,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+69,1,0:53,1853,1853,Marina Mabrey made Three Point Jumper. Assisted by Kristina Nelson.,12,19,-7,22,0.3098533705257865,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+70,1,0:31,1831,1831,Katie Quandt missed Layup.,12,19,-7,0,0.30812679909367435,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+71,1,0:31,1831,1831,Kristina Nelson Defensive Rebound.,12,19,-7,5,0.30812679909367435,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+72,1,0:26,1826,1826,Marina Mabrey Turnover.,12,19,-7,15,0.3077332681878743,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+73,1,0:11,1811,1811,Taylor Ortlepp missed Three Point Jumper.,12,19,-7,0,0.3065492252670448,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+74,1,0:11,1811,1811,Marina Mabrey Defensive Rebound.,12,19,-7,9,0.3065492252670448,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+75,1,0:02,1802,1802,Marina Mabrey Turnover.,12,19,-7,1,0.30583585030781196,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+76,1,0:01,1801,1801,Milan Bolden-Morris Steal.,12,19,-7,1,0.30575643141301745,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+77,1,0:00,1800,1800,End of 1st Quarter,12,19,-7,11,0.30567697989727144,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+78,2,9:49,1789,1789,Georgia Pineau Turnover.,12,19,-7,9,0.3048007344227069,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+79,2,9:40,1780,1780,Kristina Nelson made Layup. Assisted by Jackie Young.,12,21,-9,22,0.25645106494599257,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+80,2,9:18,1758,1758,Milan Bolden-Morris Turnover.,12,21,-9,13,0.25439592182251775,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+81,2,9:05,1745,1745,Jessica Shepard made Layup. Assisted by Kristina Nelson.,12,23,-11,28,0.2104576187451819,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+82,2,8:37,1717,1717,Georgia Pineau made Layup. Assisted by Taylor Ortlepp.,14,23,-9,24,0.25049650205655766,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Boston College
+83,2,8:13,1693,1693,Kristina Nelson missed Jumper.,14,23,-9,0,0.24816154431384155,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+84,2,8:13,1693,1693,Taylor Ortlepp Defensive Rebound.,14,23,-9,11,0.24816154431384155,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+85,2,8:02,1682,1682,Taylor Ortlepp missed Three Point Jumper.,14,23,-9,0,0.24708471357826534,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+86,2,8:02,1682,1682,Jessica Shepard Defensive Rebound.,14,23,-9,11,0.24708471357826534,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+87,2,7:51,1671,1671,Jessica Shepard made Layup. Assisted by Arike Ogunbowale.,14,25,-11,27,0.2028165827190309,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+88,2,7:24,1644,1644,Georgia Pineau Turnover.,14,25,-11,11,0.2001321694869075,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+89,2,7:13,1633,1633,Jessica Shepard missed Layup.,14,25,-11,0,0.19906486871323475,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+90,2,7:13,1633,1633,Taylor Ortlepp Defensive Rebound.,14,25,-11,15,0.19906486871323475,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+91,2,6:58,1618,1618,Foul on Kristina Nelson.,14,25,-11,0,0.19762707176281372,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+92,2,6:58,1618,1618,Georgia Pineau made Free Throw.,15,25,-10,0,0.21860562895773375,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Boston College
+93,2,6:58,1618,1618,Georgia Pineau made Free Throw.,16,25,-9,13,0.24114183748567314,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Boston College
+94,2,6:45,1605,1605,Jackie Young made Jumper.,16,27,-11,24,0.19639274419586641,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+95,2,6:21,1581,1581,Georgia Pineau missed Jumper.,16,27,-11,0,0.19412781237807106,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+96,2,6:21,1581,1581,Arike Ogunbowale Defensive Rebound.,16,27,-11,10,0.19412781237807106,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+97,2,6:11,1571,1571,Arike Ogunbowale missed Jumper.,16,27,-11,0,0.1931843536537531,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+98,2,6:11,1571,1571,Kathryn Westbeld Offensive Rebound.,16,27,-11,12,0.1931843536537531,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+99,2,5:59,1559,1559,Kathryn Westbeld missed Jumper.,16,27,-11,0,0.1920486672967822,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+100,2,5:59,1559,1559,Jessica Shepard Offensive Rebound.,16,27,-11,4,0.1920486672967822,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+101,2,5:55,1555,1555,Jessica Shepard missed Layup.,16,27,-11,0,0.1916687453310777,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+102,2,5:55,1555,1555,Boston College Defensive Rebound.,16,27,-11,17,0.1916687453310777,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+103,2,5:38,1538,1538,Milan Bolden-Morris missed Layup.,16,27,-11,0,0.19004299368704694,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+104,2,5:38,1538,1538,Kathryn Westbeld Defensive Rebound.,16,27,-11,10,0.19004299368704694,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+105,2,5:28,1528,1528,Jackie Young made Jumper.,16,29,-13,18,0.151773509784386,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+106,2,5:10,1510,1510,Taylor Ortlepp made Three Point Jumper. Assisted by Sydney Lowery.,19,29,-10,12,0.20846910304812466,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Boston College
+107,2,4:58,1498,1498,Kathryn Westbeld missed Three Point Jumper.,19,29,-10,0,0.20728472054346275,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+108,2,4:58,1498,1498,Sydney Lowery Defensive Rebound.,19,29,-10,29,0.20728472054346275,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+109,2,4:29,1469,1469,Georgia Pineau missed Three Point Jumper.,19,29,-10,0,0.20432490373601497,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+110,2,4:29,1469,1469,Milan Bolden-Morris Offensive Rebound.,19,29,-10,1,0.20432490373601497,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+111,2,4:28,1468,1468,Boston College  Turnover.,19,29,-10,1,0.20422004899415414,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+112,2,4:27,1467,1467,Official TV Timeout,19,29,-10,2,0.20411499219669366,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+113,2,4:25,1465,1465,Kristina Nelson made Layup. Assisted by Jackie Young.,19,31,-12,22,0.16321721292095606,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+114,2,4:03,1443,1443,Taylor Ortlepp made Three Point Jumper.,22,31,-9,24,0.22460721800022856,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Boston College
+115,2,3:39,1419,1419,Jackie Young missed Layup.,22,31,-9,0,0.22217715805920063,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+116,2,3:39,1419,1419,Rachel Gartner Block.,22,31,-9,2,0.22217715805920063,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+117,2,3:37,1417,1417,Rachel Gartner Defensive Rebound.,22,31,-9,5,0.2219799967052829,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+118,2,3:32,1412,1412,Taylor Ortlepp made Three Point Jumper. Assisted by Andie Anastos.,25,31,-6,25,0.3019556447191385,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Boston College
+119,2,3:07,1387,1387,Jessica Shepard made Layup. Assisted by Kristina Nelson.,25,33,-8,16,0.24420834773913244,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+120,2,2:51,1371,1371,Rachel Gartner Turnover.,25,33,-8,17,0.24276485557209895,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+121,2,2:34,1354,1354,Kristina Nelson made Layup.,25,35,-10,25,0.19272829048280116,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+122,2,2:09,1329,1329,Andie Anastos made Three Point Jumper. Assisted by Georgia Pineau.,28,35,-7,28,0.26629384309249765,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Boston College
+123,2,1:41,1301,1301,Arike Ogunbowale made Jumper.,28,37,-9,22,0.2109438307979738,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+124,2,1:19,1279,1279,Rachel Gartner missed Layup.,28,37,-9,0,0.20873019296162967,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+125,2,1:19,1279,1279,Jessica Shepard Defensive Rebound.,28,37,-9,14,0.20873019296162967,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+126,2,1:05,1265,1265,Foul on Andie Anastos.,28,37,-9,0,0.20726578715397845,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+127,2,1:05,1265,1265,Arike Ogunbowale missed Free Throw.,28,37,-9,0,0.20726578715397845,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+128,2,1:05,1265,1265,Notre Dame Deadball Team Rebound.,28,37,-9,0,0.20726578715397845,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+129,2,1:05,1265,1265,Arike Ogunbowale missed Free Throw.,28,37,-9,0,0.20726578715397845,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+130,2,1:05,1265,1265,Martina Mosetti Defensive Rebound.,28,37,-9,27,0.20726578715397845,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+131,2,0:38,1238,1238,Sydney Lowery missed Jumper.,28,37,-9,0,0.20428904027897743,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+132,2,0:38,1238,1238,Jackie Young Defensive Rebound.,28,37,-9,24,0.20428904027897743,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+133,2,0:14,1214,1214,Jessica Shepard made Layup. Assisted by Jackie Young.,28,39,-11,10,0.15664881137667097,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Notre Dame
+134,2,0:04,1204,1204,Foul on Jessica Shepard.,28,39,-11,2,0.15540798662923513,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+135,2,0:02,1202,1202,Foul on Jackie Young.,28,39,-11,0,0.15516282894741212,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+136,2,0:02,1202,1202,Taylor Ortlepp missed Free Throw.,28,39,-11,0,0.15516282894741212,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+137,2,0:02,1202,1202,Boston College Deadball Team Rebound.,28,39,-11,0,0.15516282894741212,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+138,2,0:02,1202,1202,Taylor Ortlepp made Free Throw.,29,39,-10,0,0.17644690197202445,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Boston College
+139,2,0:02,1202,1202,Taylor Ortlepp made Free Throw.,30,39,-9,2,0.19995954401120347,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,Boston College
+140,2,0:00,1200,1200,End of 2nd Quarter,30,39,-9,13,0.19971602450818063,Boston College,Notre Dame,4,4,0,0,NA,400995123,2018-02-18,
+141,3,9:47,1187,1187,Jessica Shepard missed Layup.,30,39,-9,0,0.19816059229647515,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+142,3,9:47,1187,1187,Katie Quandt Defensive Rebound.,30,39,-9,1,0.19816059229647515,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+143,3,9:46,1186,1186,Foul on Jessica Shepard.,30,39,-9,22,0.1980427566881001,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+144,3,9:24,1164,1164,Andie Anastos Turnover.,30,39,-9,11,0.1955033195506667,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+145,3,9:13,1153,1153,Jackie Young made Layup.,30,41,-11,20,0.14948275578665143,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Notre Dame
+146,3,8:53,1133,1133,Andie Anastos missed Jumper.,30,41,-11,0,0.14727694500545843,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+147,3,8:53,1133,1133,Katie Quandt Offensive Rebound.,30,41,-11,2,0.14727694500545843,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+148,3,8:51,1131,1131,Katie Quandt made Layup.,32,41,-9,23,0.1918159549340193,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Boston College
+149,3,8:28,1108,1108,Foul on Martina Mosetti.,32,41,-9,7,0.1892673243738638,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+150,3,8:21,1101,1101,Jackie Young made Jumper.,32,43,-11,28,0.1437744382023626,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Notre Dame
+151,3,7:53,1073,1073,Foul on Marina Mabrey.,32,43,-11,0,0.14065642423211433,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+152,3,7:53,1073,1073,Taylor Ortlepp Turnover.,32,43,-11,3,0.14065642423211433,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+153,3,7:50,1070,1070,Arike Ogunbowale made Layup. Assisted by Kathryn Westbeld.,32,45,-13,19,0.1050583170437586,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Notre Dame
+154,3,7:31,1051,1051,Georgia Pineau Turnover.,32,45,-13,0,0.10304062569281873,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+155,3,7:31,1051,1051,Foul on Georgia Pineau.,32,45,-13,12,0.10304062569281873,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+156,3,7:19,1039,1039,Jessica Shepard made Jumper.,32,47,-15,26,0.0749369137045867,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Notre Dame
+157,3,6:53,1013,1013,Taylor Ortlepp Turnover.,32,47,-15,2,0.07236564713185953,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+158,3,6:51,1011,1011,Arike Ogunbowale Steal.,32,47,-15,1,0.07216223530977224,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+159,3,6:50,1010,1010,Arike Ogunbowale missed Layup.,32,47,-15,0,0.072060204548747,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+160,3,6:50,1010,1010,Marina Mabrey Offensive Rebound.,32,47,-15,3,0.072060204548747,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+161,3,6:47,1007,1007,Marina Mabrey missed Layup.,32,47,-15,0,0.07175279479924487,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+162,3,6:47,1007,1007,Katie Quandt Defensive Rebound.,32,47,-15,18,0.07175279479924487,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+163,3,6:29,989,989,Milan Bolden-Morris missed Three Point Jumper.,32,47,-15,0,0.0698648862193252,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+164,3,6:29,989,989,Sydney Lowery Offensive Rebound.,32,47,-15,3,0.0698648862193252,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+165,3,6:26,986,986,Foul on Marina Mabrey.,32,47,-15,16,0.06954266502603469,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+166,3,6:10,970,970,Georgia Pineau missed Layup.,32,47,-15,0,0.06778550868008718,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+167,3,6:10,970,970,Kathryn Westbeld Defensive Rebound.,32,47,-15,9,0.06778550868008718,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+168,3,6:01,961,961,Arike Ogunbowale missed Layup.,32,47,-15,0,0.06681105532801845,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+169,3,6:01,961,961,Georgia Pineau Defensive Rebound.,32,47,-15,12,0.06681105532801845,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+170,3,5:49,949,949,Foul on Jessica Shepard.,32,47,-15,0,0.06560432905611038,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+171,3,5:49,949,949,Andie Anastos missed Free Throw.,32,47,-15,0,0.06560432905611038,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+172,3,5:49,949,949,Boston College Deadball Team Rebound.,32,47,-15,0,0.06560432905611038,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+173,3,5:49,949,949,Andie Anastos missed Free Throw.,32,47,-15,0,0.06560432905611038,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+174,3,5:49,949,949,Kristina Nelson Defensive Rebound.,32,47,-15,22,0.06560432905611038,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+175,3,5:27,927,927,Arike Ogunbowale made Layup. Assisted by Kathryn Westbeld.,32,49,-17,0,0.04531497028728019,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Notre Dame
+176,3,5:27,927,927,Foul on Georgia Pineau.,32,49,-17,0,0.04531497028728019,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+177,3,5:27,927,927,Arike Ogunbowale made Free Throw.,32,50,-18,28,0.038161364790884486,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Notre Dame
+178,3,4:59,899,899,Georgia Pineau missed Layup.,32,50,-18,1,0.03650962038116543,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+179,3,4:58,898,898,Georgia Pineau Offensive Rebound.,32,50,-18,0,0.03645381498417427,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+180,3,4:58,898,898,Foul on Kristina Nelson.,32,50,-18,0,0.03645381498417427,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+181,3,4:58,898,898,Official TV Timeout,32,50,-18,0,0.03645381498417427,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+182,3,4:58,898,898,Georgia Pineau missed Free Throw.,32,50,-18,0,0.03645381498417427,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+183,3,4:58,898,898,Boston College Deadball Team Rebound.,32,50,-18,0,0.03645381498417427,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+184,3,4:58,898,898,Georgia Pineau made Free Throw.,33,50,-17,14,0.043411309653850635,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Boston College
+185,3,4:44,884,884,Jackie Young missed Layup.,33,50,-17,0,0.04255456310497912,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+186,3,4:44,884,884,Kristina Nelson Offensive Rebound.,33,50,-17,1,0.04255456310497912,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+187,3,4:43,883,883,Foul on Milan Bolden-Morris.,33,50,-17,0,0.0424942417882373,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+188,3,4:43,883,883,Kristina Nelson made Free Throw.,33,51,-18,0,0.035633119260183636,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Notre Dame
+189,3,4:43,883,883,Kristina Nelson made Free Throw.,33,52,-19,25,0.029845264119937952,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Notre Dame
+190,3,4:18,858,858,Georgia Pineau missed Jumper.,33,52,-19,0,0.02865969249604572,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+191,3,4:18,858,858,Sydney Lowery Offensive Rebound.,33,52,-19,6,0.02865969249604572,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+192,3,4:12,852,852,Sydney Lowery Turnover.,33,52,-19,0,0.028375007144348957,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+193,3,4:12,852,852,Foul on Sydney Lowery.,33,52,-19,9,0.028375007144348957,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+194,3,4:03,843,843,Jackie Young made Layup.,33,54,-21,18,0.019401796674458415,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Notre Dame
+195,3,3:45,825,825,Taylor Ortlepp made Jumper.,35,54,-19,27,0.027060738504685156,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Boston College
+196,3,3:18,798,798,Foul on Sydney Lowery.,35,54,-19,0,0.025645992847018222,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+197,3,3:18,798,798,Kathryn Westbeld missed Free Throw.,35,54,-19,0,0.025645992847018222,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+198,3,3:18,798,798,Notre Dame Deadball Team Rebound.,35,54,-19,0,0.025645992847018222,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+199,3,3:18,798,798,Kathryn Westbeld made Free Throw.,35,55,-20,15,0.02127269363291896,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Notre Dame
+200,3,3:03,783,783,Milan Bolden-Morris made Three Point Jumper. Assisted by Taylor Ortlepp.,38,55,-17,17,0.036076456400238766,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Boston College
+201,3,2:46,766,766,Arike Ogunbowale missed Layup.,38,55,-17,0,0.0347547214232806,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+202,3,2:46,766,766,Katie Quandt Defensive Rebound.,38,55,-17,10,0.0347547214232806,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+203,3,2:36,756,756,Taylor Ortlepp made Three Point Jumper. Assisted by Andie Anastos.,41,55,-14,0,0.059639678823747766,Boston College,Notre Dame,5,5,1,0,NA,400995123,2018-02-18,Boston College
+204,3,2:36,756,756,Notre Dame  Timeout,41,55,-14,0,0.059639678823747766,Boston College,Notre Dame,4,5,1,0,NA,400995123,2018-02-18,
+205,3,2:36,756,756,Official TV Timeout,41,55,-14,21,0.059639678823747766,Boston College,Notre Dame,4,5,1,0,NA,400995123,2018-02-18,
+206,3,2:15,735,735,Jackie Young made Layup.,41,57,-16,12,0.03892143028301338,Boston College,Notre Dame,4,5,1,0,NA,400995123,2018-02-18,Notre Dame
+207,3,2:03,723,723,Foul on Jackie Young.,41,57,-16,0,0.03767559568043326,Boston College,Notre Dame,4,5,1,0,NA,400995123,2018-02-18,
+208,3,2:03,723,723,Katie Quandt missed Free Throw.,41,57,-16,0,0.03767559568043326,Boston College,Notre Dame,4,5,1,0,NA,400995123,2018-02-18,
+209,3,2:03,723,723,Boston College Deadball Team Rebound.,41,57,-16,0,0.03767559568043326,Boston College,Notre Dame,4,5,1,0,NA,400995123,2018-02-18,
+210,3,2:03,723,723,Katie Quandt made Free Throw.,42,57,-15,19,0.04574633443856196,Boston College,Notre Dame,4,5,1,0,NA,400995123,2018-02-18,Boston College
+211,3,1:44,704,704,Jackie Young made Layup. Assisted by Jessica Shepard.,42,59,-17,17,0.029469330202120662,Boston College,Notre Dame,4,5,1,0,NA,400995123,2018-02-18,Notre Dame
+212,3,1:27,687,687,Taylor Ortlepp missed Jumper.,42,59,-17,0,0.02830223888988213,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,
+213,3,1:27,687,687,Marina Mabrey Defensive Rebound.,42,59,-17,13,0.02830223888988213,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,
+214,3,1:14,674,674,Jessica Shepard missed Layup.,42,59,-17,0,0.027486355138782573,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,
+215,3,1:14,674,674,Kathryn Westbeld Offensive Rebound.,42,59,-17,22,0.027486355138782573,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,
+216,3,0:52,652,652,Jackie Young Turnover.,42,59,-17,15,0.026180731615569316,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,
+217,3,0:37,637,637,Sydney Lowery Turnover.,42,59,-17,30,0.025298860612271136,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,
+218,3,0:07,607,607,Arike Ogunbowale missed Jumper.,42,59,-17,0,0.023431367498796197,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,
+219,3,0:07,607,607,Jessica Shepard Offensive Rebound.,42,59,-17,0,0.023431367498796197,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,
+220,3,0:07,607,607,Jessica Shepard made Layup.,42,61,-19,0,0.01523527417114523,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,Notre Dame
+221,3,0:07,607,607,Foul on Sydney Lowery.,42,61,-19,0,0.01523527417114523,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,
+222,3,0:07,607,607,Jessica Shepard missed Free Throw.,42,61,-19,0,0.01523527417114523,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,
+223,3,0:07,607,607,Milan Bolden-Morris Defensive Rebound.,42,61,-19,6,0.01523527417114523,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,
+224,3,0:01,601,601,Andie Anastos missed Three Point Jumper.,42,61,-19,1,0.014940830522660702,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,
+225,3,0:00,600,600,Notre Dame Defensive Rebound.,42,61,-19,0,0.014890971642175607,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,
+226,3,0:00,600,600,End of 3rd Quarter,42,61,-19,12,0.014890971642175607,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,
+227,4,9:48,588,588,Kristina Nelson made Layup. Assisted by Jessica Shepard.,42,63,-21,23,0.009187038301685699,Boston College,Notre Dame,5,6,0,0,NA,400995123,2018-02-18,Notre Dame
+228,4,9:25,565,565,Georgia Pineau missed Layup.,42,63,-21,0,0.008271093589900035,Boston College,Notre Dame,5,6,0,0,NA,400995123,2018-02-18,
+229,4,9:25,565,565,Kristina Nelson Defensive Rebound.,42,63,-21,9,0.008271093589900035,Boston College,Notre Dame,5,6,0,0,NA,400995123,2018-02-18,
+230,4,9:16,556,556,Arike Ogunbowale made Jumper.,42,65,-23,21,0.004992077068661884,Boston College,Notre Dame,5,6,0,0,NA,400995123,2018-02-18,Notre Dame
+231,4,8:55,535,535,Taylor Ortlepp Turnover.,42,65,-23,3,0.004407211905121204,Boston College,Notre Dame,5,6,0,0,NA,400995123,2018-02-18,
+232,4,8:52,532,532,Arike Ogunbowale missed Layup.,42,65,-23,0,0.004337914201595609,Boston College,Notre Dame,5,6,0,0,NA,400995123,2018-02-18,
+233,4,8:52,532,532,Georgia Pineau Block.,42,65,-23,1,0.004337914201595609,Boston College,Notre Dame,5,6,0,0,NA,400995123,2018-02-18,
+234,4,8:51,531,531,Jackie Young Offensive Rebound.,42,65,-23,2,0.004315484468922732,Boston College,Notre Dame,5,6,0,0,NA,400995123,2018-02-18,
+235,4,8:49,529,529,Jackie Young made Layup.,42,67,-25,14,0.002663257095441276,Boston College,Notre Dame,5,6,0,0,NA,400995123,2018-02-18,Notre Dame
+236,4,8:35,515,515,Andie Anastos Turnover.,42,67,-25,3,0.0024742543530268,Boston College,Notre Dame,5,6,0,0,NA,400995123,2018-02-18,
+237,4,8:32,512,512,Arike Ogunbowale Steal.,42,67,-25,1,0.0024371815302180384,Boston College,Notre Dame,5,6,0,0,NA,400995123,2018-02-18,
+238,4,8:31,511,511,Arike Ogunbowale made Layup.,42,69,-27,27,0.0014996142065512557,Boston College,Notre Dame,5,6,0,0,NA,400995123,2018-02-18,Notre Dame
+239,4,8:04,484,484,Georgia Pineau made Layup.,44,69,-25,15,0.0021143617323031174,Boston College,Notre Dame,5,6,0,0,NA,400995123,2018-02-18,Boston College
+240,4,7:49,469,469,Jessica Shepard made Layup. Assisted by Marina Mabrey.,44,71,-27,25,0.001177459115491659,Boston College,Notre Dame,5,6,0,0,NA,400995123,2018-02-18,Notre Dame
+241,4,7:24,444,444,Andie Anastos Turnover.,44,71,-27,1,9.662411321966093e-4,Boston College,Notre Dame,5,6,0,0,NA,400995123,2018-02-18,
+242,4,7:23,443,443,Kristina Nelson Steal.,44,71,-27,4,9.572346492566171e-4,Boston College,Notre Dame,5,6,0,0,NA,400995123,2018-02-18,
+243,4,7:19,439,439,Arike Ogunbowale made Layup. Assisted by Kristina Nelson.,44,73,-29,3,5.488915559524049e-4,Boston College,Notre Dame,5,6,0,0,NA,400995123,2018-02-18,Notre Dame
+244,4,7:16,436,436,Boston College  Timeout,44,73,-29,0,5.311658089434127e-4,Boston College,Notre Dame,5,5,0,1,NA,400995123,2018-02-18,
+245,4,7:16,436,436,Official TV Timeout,44,73,-29,29,5.311658089434127e-4,Boston College,Notre Dame,5,5,0,1,NA,400995123,2018-02-18,
+246,4,6:47,407,407,Sydney Lowery missed Jumper.,44,73,-29,0,3.819951696167317e-4,Boston College,Notre Dame,5,5,0,1,NA,400995123,2018-02-18,
+247,4,6:47,407,407,Katie Quandt Offensive Rebound.,44,73,-29,3,3.819951696167317e-4,Boston College,Notre Dame,5,5,0,1,NA,400995123,2018-02-18,
+248,4,6:44,404,404,Taylor Ortlepp missed Three Point Jumper.,44,73,-29,0,3.699880931527033e-4,Boston College,Notre Dame,5,5,0,1,NA,400995123,2018-02-18,
+249,4,6:44,404,404,Boston College Offensive Rebound.,44,73,-29,4,3.699880931527033e-4,Boston College,Notre Dame,5,5,0,1,NA,400995123,2018-02-18,
+250,4,6:40,400,400,Andie Anastos missed Jumper.,44,73,-29,0,3.546655532120197e-4,Boston College,Notre Dame,5,5,0,1,NA,400995123,2018-02-18,
+251,4,6:40,400,400,Georgia Pineau Offensive Rebound.,44,73,-29,5,3.546655532120197e-4,Boston College,Notre Dame,5,5,0,1,NA,400995123,2018-02-18,
+252,4,6:35,395,395,Andie Anastos made Three Point Jumper. Assisted by Georgia Pineau.,47,73,-26,18,7.691709515476434e-4,Boston College,Notre Dame,5,5,0,1,NA,400995123,2018-02-18,Boston College
+253,4,6:17,377,377,Jessica Shepard missed Layup.,47,73,-26,0,6.468681366854769e-4,Boston College,Notre Dame,5,5,0,1,NA,400995123,2018-02-18,
+254,4,6:17,377,377,Kristina Nelson Offensive Rebound.,47,73,-26,2,6.468681366854769e-4,Boston College,Notre Dame,5,5,0,1,NA,400995123,2018-02-18,
+255,4,6:15,375,375,Martina Mosetti missed Layup.,47,73,-26,0,6.340647801992194e-4,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+256,4,6:15,375,375,Milan Bolden-Morris Offensive Rebound.,47,73,-26,0,6.340647801992194e-4,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+257,4,6:15,375,375,Foul on Georgia Pineau.,47,73,-26,0,6.340647801992194e-4,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+258,4,6:15,375,375,Jessica Shepard made Free Throw.,47,74,-27,0,4.777682453290564e-4,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Notre Dame
+259,4,6:15,375,375,Jessica Shepard missed Free Throw.,47,74,-27,0,4.777682453290564e-4,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+260,4,6:15,375,375,Georgia Pineau Defensive Rebound.,47,74,-27,20,4.777682453290564e-4,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+261,4,5:55,355,355,Taylor Ortlepp made Jumper.,49,74,-25,16,6.837674794142939e-4,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Boston College
+262,4,5:39,339,339,Foul on Martina Mosetti.,49,74,-25,6,5.624838156241524e-4,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+263,4,5:33,333,333,Technical Foul on Boston College.,49,74,-25,0,5.180698822718286e-4,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+264,4,5:33,333,333,Marina Mabrey made Free Throw.,49,75,-26,0,3.8285262756278406e-4,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Notre Dame
+265,4,5:33,333,333,Marina Mabrey made Free Throw.,49,76,-27,1,2.829173514778936e-4,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Notre Dame
+266,4,5:32,332,332,Jessica Shepard made Jumper. Assisted by Marina Mabrey.,49,78,-29,0,1.5194986104787576e-4,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Notre Dame
+267,4,5:32,332,332,Foul on Georgia Pineau.,49,78,-29,0,1.5194986104787576e-4,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+268,4,5:32,332,332,Jessica Shepard made Free Throw.,49,79,-30,19,1.1221588395702046e-4,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Notre Dame
+269,4,5:13,313,313,Sydney Lowery missed Layup.,49,79,-30,0,7.784282329192524e-5,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+270,4,5:13,313,313,Kathryn Westbeld Block.,49,79,-30,2,7.784282329192524e-5,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+271,4,5:11,311,311,Kristina Nelson Defensive Rebound.,49,79,-30,7,7.453303084161548e-5,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+272,4,5:04,304,304,Marina Mabrey made Jumper.,49,81,-32,17,3.4327824080876934e-5,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Notre Dame
+273,4,4:47,287,287,Foul on Kaitlin Cole.,49,81,-32,0,3.058274101910807e-5,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+274,4,4:47,287,287,Rachel Gartner made Free Throw.,50,81,-31,0,4.232039927911007e-5,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Boston College
+275,4,4:47,287,287,Rachel Gartner missed Free Throw.,50,81,-31,0,4.232039927911007e-5,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+276,4,4:47,287,287,Milan Bolden-Morris Offensive Rebound.,50,81,-31,14,4.232039927911007e-5,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+277,4,4:33,273,273,Martina Mosetti missed Jumper.,50,81,-31,0,4.5267714618125544e-5,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+278,4,4:33,273,273,Kathryn Westbeld Defensive Rebound.,50,81,-31,12,4.5267714618125544e-5,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+279,4,4:21,261,261,Kaitlin Cole missed Three Point Jumper.,50,81,-31,0,5.046675308537666e-5,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+280,4,4:21,261,261,Sydney Lowery Defensive Rebound.,50,81,-31,19,5.046675308537666e-5,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+281,4,4:02,242,242,Sydney Lowery made Three Point Jumper. Assisted by Milan Bolden-Morris.,53,81,-28,32,1.4954960541044832e-4,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Boston College
+282,4,3:30,210,210,Jackie Young made Jumper. Assisted by Kathryn Westbeld.,53,83,-30,22,5.7993614666146864e-5,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,Notre Dame
+283,4,3:08,188,188,Foul on Kathryn Westbeld.,53,83,-30,10,2.1038857750646817e-5,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+284,4,2:58,178,178,Sydney Lowery missed Jumper.,53,83,-30,0,1.1195739562167024e-5,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+285,4,2:58,178,178,Jackie Young Defensive Rebound.,53,83,-30,14,1.1195739562167024e-5,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+286,4,2:44,164,164,Kaitlin Cole missed Layup.,53,83,-30,0,4.458415817367141e-6,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+287,4,2:44,164,164,Katie Quandt Block.,53,83,-30,3,4.458415817367141e-6,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+288,4,2:41,161,161,Sydney Lowery Defensive Rebound.,53,83,-30,3,3.626765518758757e-6,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+289,4,2:38,158,158,Martina Mosetti missed Layup.,53,83,-30,0,2.938083477523424e-6,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+290,4,2:38,158,158,Jackie Young Defensive Rebound.,53,83,-30,12,2.938083477523424e-6,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+291,4,2:26,146,146,Maureen Butler missed Jumper.,53,83,-30,0,1.2044137264631215e-6,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+292,4,2:26,146,146,Milan Bolden-Morris Defensive Rebound.,53,83,-30,15,1.2044137264631215e-6,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+293,4,2:11,131,131,Milan Bolden-Morris missed Three Point Jumper.,53,83,-30,0,3.4288397006582093e-7,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+294,4,2:11,131,131,Kristina Nelson Defensive Rebound.,53,83,-30,5,3.4288397006582093e-7,Boston College,Notre Dame,5,5,0,0,NA,400995123,2018-02-18,
+295,4,2:06,126,126,Notre Dame  Timeout,53,83,-30,20,2.160728963819164e-7,Boston College,Notre Dame,4,5,1,0,NA,400995123,2018-02-18,
+296,4,1:46,106,106,Danielle Patterson made Jumper. Assisted by Kristina Nelson.,53,85,-32,30,8.161855385010484e-9,Boston College,Notre Dame,4,5,1,0,NA,400995123,2018-02-18,Notre Dame
+297,4,1:16,76,76,Sydney Lowery made Jumper.,55,85,-30,23,4.867404709970618e-10,Boston College,Notre Dame,4,5,1,0,NA,400995123,2018-02-18,Boston College
+298,4,0:53,53,53,Kristina Nelson made Jumper. Assisted by Danielle Patterson.,55,87,-32,25,2.500231551028418e-12,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,Notre Dame
+299,4,0:28,28,28,Sydney Lowery missed Three Point Jumper.,55,87,-32,0,2.1136311215933965e-14,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,
+300,4,0:28,28,28,Kaitlin Cole Defensive Rebound.,55,87,-32,26,2.1136311215933965e-14,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,
+301,4,0:02,2,2,Danielle Patterson made Layup. Assisted by Kristina Nelson.,55,89,-34,2,7.087095722122979e-18,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,Notre Dame
+302,4,0:00,0,0,Sydney Lowery missed Three Point Jumper.,55,89,-34,0,4.783571897030535e-296,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,
+303,4,0:00,0,0,Nicole Benz Defensive Rebound.,55,89,-34,0,4.783571897030535e-296,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,
+304,4,0:00,0,0,End of Game,55,89,-34,0,4.783571897030535e-296,Boston College,Notre Dame,4,5,0,0,NA,400995123,2018-02-18,

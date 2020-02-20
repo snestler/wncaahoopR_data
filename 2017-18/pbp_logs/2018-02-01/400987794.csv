@@ -1,0 +1,317 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Jump Ball won by Mississippi State,0,0,0,21,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,NA
+2,1,9:39,2379,2379,Victoria Vivians missed Three Point Jumper.,0,0,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+3,1,9:39,2379,2379,Amber Smith Defensive Rebound.,0,0,0,15,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+4,1,9:24,2364,2364,Cierra Porter missed Jumper.,0,0,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+5,1,9:24,2364,2364,Victoria Vivians Defensive Rebound.,0,0,0,7,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+6,1,9:17,2357,2357,Blair Schaefer missed Three Point Jumper.,0,0,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+7,1,9:17,2357,2357,Sophie Cunningham Defensive Rebound.,0,0,0,25,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+8,1,8:52,2332,2332,Sophie Cunningham missed Jumper.,0,0,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+9,1,8:52,2332,2332,Roshunda Johnson Defensive Rebound.,0,0,0,26,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+10,1,8:26,2306,2306,Victoria Vivians missed Jumper.,0,0,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+11,1,8:26,2306,2306,Teaira McCowan Offensive Rebound.,0,0,0,4,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+12,1,8:22,2302,2302,Teaira McCowan made Jumper.,0,2,-2,0,0.4538569829834506,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Mississippi State
+13,1,8:22,2302,2302,Foul on Cierra Porter.,0,2,-2,0,0.4538569829834506,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+14,1,8:22,2302,2302,Teaira McCowan missed Free Throw.,0,2,-2,0,0.4538569829834506,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+15,1,8:22,2302,2302,Cierra Porter Defensive Rebound.,0,2,-2,10,0.4538569829834506,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+16,1,8:12,2292,2292,Foul on Blair Schaefer.,0,2,-2,0,0.45363457052289796,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+17,1,8:12,2292,2292,Amber Smith made Free Throw.,1,2,-1,0,0.47676723271618027,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Missouri
+18,1,8:12,2292,2292,Amber Smith made Free Throw.,2,2,0,13,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Missouri
+19,1,7:59,2279,2279,Roshunda Johnson missed Three Point Jumper.,2,2,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+20,1,7:59,2279,2279,Lauren Aldridge Defensive Rebound.,2,2,0,16,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+21,1,7:43,2263,2263,Cierra Porter made Jumper. Assisted by Amber Smith.,4,2,2,27,0.5470157879854802,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Missouri
+22,1,7:16,2236,2236,Blair Schaefer made Three Point Jumper. Assisted by Morgan William.,4,5,-1,31,0.47613194037592443,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Mississippi State
+23,1,6:45,2205,2205,Cierra Porter made Layup.,6,5,1,23,0.5242248018682784,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Missouri
+24,1,6:22,2182,2182,Blair Schaefer made Three Point Jumper.,6,8,-2,18,0.4511348144998577,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Mississippi State
+25,1,6:04,2164,2164,Sophie Cunningham made Layup. Assisted by Lauren Aldridge.,8,8,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Missouri
+26,1,6:04,2164,2164,Foul on Victoria Vivians.,8,8,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+27,1,6:04,2164,2164,Sophie Cunningham made Free Throw.,9,8,1,20,0.5247005411416555,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Missouri
+28,1,5:44,2144,2144,Blair Schaefer missed Three Point Jumper.,9,8,1,0,0.5249344419963612,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+29,1,5:44,2144,2144,Teaira McCowan Offensive Rebound.,9,8,1,0,0.5249344419963612,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+30,1,5:44,2144,2144,Foul on Cierra Porter.,9,8,1,0,0.5249344419963612,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+31,1,5:44,2144,2144,Teaira McCowan made Free Throw.,9,9,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Mississippi State
+32,1,5:44,2144,2144,Teaira McCowan made Free Throw.,9,10,-1,23,0.4750655580036388,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Mississippi State
+33,1,5:21,2121,2121,Jordan Frericks Turnover.,9,10,-1,11,0.4747945087762299,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+34,1,5:10,2110,2110,Roshunda Johnson missed Layup.,9,10,-1,0,0.4746640388951447,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+35,1,5:10,2110,2110,Jordan Frericks Block.,9,10,-1,0,0.4746640388951447,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+36,1,5:10,2110,2110,Jordan Frericks Defensive Rebound.,9,10,-1,7,0.4746640388951447,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+37,1,5:03,2103,2103,Sophie Cunningham made Layup. Assisted by Amber Smith.,11,10,1,21,0.5254192842743747,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Missouri
+38,1,4:42,2082,2082,Morgan William missed Three Point Jumper.,11,10,1,0,0.5256707043885878,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+39,1,4:42,2082,2082,Jordan Frericks Defensive Rebound.,11,10,1,9,0.5256707043885878,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+40,1,4:33,2073,2073,Amber Smith Turnover.,11,10,1,0,0.5257791503415546,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+41,1,4:33,2073,2073,Morgan William Steal.,11,10,1,6,0.5257791503415546,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+42,1,4:27,2067,2067,Morgan William missed Layup.,11,10,1,0,0.5258516883387218,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+43,1,4:27,2067,2067,Lauren Aldridge Block.,11,10,1,0,0.5258516883387218,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+44,1,4:27,2067,2067,Missouri Defensive Rebound.,11,10,1,10,0.5258516883387218,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+45,1,4:17,2057,2057,Official TV Timeout,11,10,1,16,0.5259730242636912,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+46,1,4:01,2041,2041,Sophie Cunningham made Layup. Assisted by Kayla Michael.,13,10,3,15,0.5779362709747449,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Missouri
+47,1,3:46,2026,2026,Teaira McCowan missed Layup.,13,10,3,0,0.5784776731286738,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+48,1,3:46,2026,2026,Jordan Frericks Defensive Rebound.,13,10,3,13,0.5784776731286738,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+49,1,3:33,2013,2013,Sophie Cunningham Turnover.,13,10,3,15,0.5789500390465162,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+50,1,3:18,1998,1998,Blair Schaefer missed Layup.,13,10,3,0,0.5794988579916217,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+51,1,3:18,1998,1998,Jordan Frericks Defensive Rebound.,13,10,3,15,0.5794988579916217,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+52,1,3:03,1983,1983,Jordan Chavis missed Three Point Jumper.,13,10,3,0,0.5800518843991641,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+53,1,3:03,1983,1983,Teaira McCowan Defensive Rebound.,13,10,3,13,0.5800518843991641,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+54,1,2:50,1970,1970,Teaira McCowan missed Layup.,13,10,3,0,0.580534703277135,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+55,1,2:50,1970,1970,Teaira McCowan Offensive Rebound.,13,10,3,4,0.580534703277135,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+56,1,2:46,1966,1966,Foul on Jordan Frericks.,13,10,3,0,0.5806839397376166,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+57,1,2:46,1966,1966,Teaira McCowan missed Free Throw.,13,10,3,0,0.5806839397376166,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+58,1,2:46,1966,1966,Mississippi State Deadball Team Rebound.,13,10,3,0,0.5806839397376166,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+59,1,2:46,1966,1966,Teaira McCowan missed Free Throw.,13,10,3,0,0.5806839397376166,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+60,1,2:46,1966,1966,Kayla Michael Defensive Rebound.,13,10,3,10,0.5806839397376166,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+61,1,2:36,1956,1956,Jordan Roundtree Turnover.,13,10,3,0,0.581058454632982,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+62,1,2:36,1956,1956,Jordan Danberry Steal.,13,10,3,17,0.581058454632982,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+63,1,2:19,1939,1939,Chloe Bibby missed Three Point Jumper.,13,10,3,0,0.5816999117488562,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+64,1,2:19,1939,1939,Jordan Frericks Defensive Rebound.,13,10,3,12,0.5816999117488562,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+65,1,2:07,1927,1927,Amber Smith missed Three Point Jumper.,13,10,3,0,0.5821563020455851,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+66,1,2:07,1927,1927,Victoria Vivians Defensive Rebound.,13,10,3,7,0.5821563020455851,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+67,1,2:00,1920,1920,Victoria Vivians made Jumper.,13,12,1,23,0.5276988496941237,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Mississippi State
+68,1,1:37,1897,1897,Jordan Roundtree made Three Point Jumper. Assisted by Jordan Chavis.,16,12,4,24,0.6102650344383029,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Missouri
+69,1,1:13,1873,1873,Jordan Danberry missed Layup.,16,12,4,0,0.6114532770714997,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+70,1,1:13,1873,1873,Teaira McCowan Offensive Rebound.,16,12,4,6,0.6114532770714997,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+71,1,1:07,1867,1867,Teaira McCowan made Layup.,16,14,2,27,0.5565910708502205,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Mississippi State
+72,1,0:40,1840,1840,Jordan Chavis missed Jumper.,16,14,2,0,0.5572884726183811,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+73,1,0:40,1840,1840,Teaira McCowan Defensive Rebound.,16,14,2,27,0.5572884726183811,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+74,1,0:13,1813,1813,Jordan Danberry missed Layup.,16,14,2,0,0.5579919670187715,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+75,1,0:13,1813,1813,Jordan Frericks Defensive Rebound.,16,14,2,11,0.5579919670187715,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+76,1,0:02,1802,1802,Amber Smith missed Jumper.,16,14,2,0,0.5582810165866057,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+77,1,0:02,1802,1802,Jordan Frericks Offensive Rebound.,16,14,2,2,0.5582810165866057,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+78,1,0:00,1800,1800,End of 1st Quarter,16,14,2,0,0.558333749411633,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+79,2,10:00,1800,1800,Jump Ball won by Mississippi State,16,14,2,8,0.558333749411633,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+80,2,9:52,1792,1792,Foul on Jordan Roundtree.,16,14,2,3,0.5585452723535816,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+81,2,9:49,1789,1789,Victoria Vivians missed Three Point Jumper.,16,14,2,0,0.558624848446857,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+82,2,9:49,1789,1789,Hannah Schuchts Defensive Rebound.,16,14,2,25,0.558624848446857,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+83,2,9:24,1764,1764,Sophie Cunningham missed Layup.,16,14,2,0,0.5592940335899296,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+84,2,9:24,1764,1764,Missouri Offensive Rebound.,16,14,2,5,0.5592940335899296,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+85,2,9:19,1759,1759,Amber Smith missed Jumper.,16,14,2,0,0.559429293330432,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+86,2,9:19,1759,1759,Teaira McCowan Defensive Rebound.,16,14,2,20,0.559429293330432,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+87,2,8:59,1739,1739,Victoria Vivians made Layup.,16,16,0,15,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Mississippi State
+88,2,8:44,1724,1724,Hannah Schuchts missed Three Point Jumper.,16,16,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+89,2,8:44,1724,1724,Kayla Michael Offensive Rebound.,16,16,0,7,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+90,2,8:37,1717,1717,Kayla Michael missed Layup.,16,16,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+91,2,8:37,1717,1717,Teaira McCowan Defensive Rebound.,16,16,0,20,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+92,2,8:17,1697,1697,Victoria Vivians missed Layup.,16,16,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+93,2,8:17,1697,1697,Sophie Cunningham Block.,16,16,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+94,2,8:17,1697,1697,Amber Smith Defensive Rebound.,16,16,0,11,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+95,2,8:06,1686,1686,Amber Smith missed Three Point Jumper.,16,16,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+96,2,8:06,1686,1686,Mississippi State Defensive Rebound.,16,16,0,8,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+97,2,7:58,1678,1678,Teaira McCowan made Jumper. Assisted by Blair Schaefer.,16,18,-2,31,0.4382993364067255,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Mississippi State
+98,2,7:27,1647,1647,Amber Smith made Layup.,18,18,0,24,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Missouri
+99,2,7:03,1623,1623,Foul on Teaira McCowan.,18,18,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+100,2,7:03,1623,1623,Teaira McCowan Turnover.,18,18,0,16,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+101,2,6:47,1607,1607,Amber Smith missed Three Point Jumper.,18,18,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+102,2,6:47,1607,1607,Teaira McCowan Defensive Rebound.,18,18,0,18,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+103,2,6:29,1589,1589,Foul on Jordan Frericks.,18,18,0,4,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+104,2,6:25,1585,1585,Teaira McCowan missed Jumper.,18,18,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+105,2,6:25,1585,1585,Kayla Michael Block.,18,18,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+106,2,6:25,1585,1585,Amber Smith Defensive Rebound.,18,18,0,12,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+107,2,6:13,1573,1573,Kayla Michael missed Three Point Jumper.,18,18,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+108,2,6:13,1573,1573,Chloe Bibby Defensive Rebound.,18,18,0,18,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+109,2,5:55,1555,1555,Chloe Bibby Turnover.,18,18,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+110,2,5:55,1555,1555,Jordan Roundtree Steal.,18,18,0,14,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+111,2,5:41,1541,1541,Sophie Cunningham missed Three Point Jumper.,18,18,0,0,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+112,2,5:41,1541,1541,Amber Smith Offensive Rebound.,18,18,0,5,0.5,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+113,2,5:36,1536,1536,Sophie Cunningham made Three Point Jumper. Assisted by Amber Smith.,21,18,3,22,0.5976595596767214,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Missouri
+114,2,5:14,1514,1514,Blair Schaefer missed Three Point Jumper.,21,18,3,0,0.5985781654969858,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+115,2,5:14,1514,1514,Amber Smith Defensive Rebound.,21,18,3,12,0.5985781654969858,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+116,2,5:02,1502,1502,Foul on Roshunda Johnson.,21,18,3,5,0.5990928370854987,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+117,2,4:57,1497,1497,Amber Smith made Layup.,23,18,5,17,0.661724518318221,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Missouri
+118,2,4:40,1480,1480,Blair Schaefer made Layup. Assisted by Roshunda Johnson.,23,20,3,8,0.6000668489689114,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Mississippi State
+119,2,4:32,1472,1472,Sophie Cunningham made Layup. Assisted by Lauren Aldridge.,25,20,5,23,0.6634655845441139,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Missouri
+120,2,4:09,1449,1449,Victoria Vivians missed Jumper.,25,20,5,0,0.6651517126862868,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+121,2,4:09,1449,1449,Kayla Michael Defensive Rebound.,25,20,5,2,0.6651517126862868,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+122,2,4:07,1447,1447,Foul on Zion Campbell.,25,20,5,0,0.6653012154337248,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+123,2,4:07,1447,1447,Official TV Timeout,25,20,5,20,0.6653012154337248,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+124,2,3:47,1427,1427,Foul on Lauren Aldridge.,25,20,5,14,0.6667601854104888,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+125,2,3:33,1413,1413,Foul on Jordan Chavis.,25,20,5,0,0.6677488282967808,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+126,2,3:33,1413,1413,Roshunda Johnson made Free Throw.,25,21,4,0,0.6360861157779933,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Mississippi State
+127,2,3:33,1413,1413,Roshunda Johnson missed Free Throw.,25,21,4,0,0.6360861157779933,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+128,2,3:33,1413,1413,Jordan Roundtree Defensive Rebound.,25,21,4,18,0.6360861157779933,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+129,2,3:15,1395,1395,Lauren Aldridge made Three Point Jumper. Assisted by Kayla Michael.,28,21,7,22,0.7281147068254232,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Missouri
+130,2,2:53,1373,1373,Roshunda Johnson missed Layup.,28,21,7,0,0.7299812062760958,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+131,2,2:53,1373,1373,Jordan Chavis Block.,28,21,7,0,0.7299812062760958,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+132,2,2:53,1373,1373,Jordan Roundtree Defensive Rebound.,28,21,7,7,0.7299812062760958,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,
+133,2,2:46,1366,1366,Lauren Aldridge made Three Point Jumper. Assisted by Jordan Roundtree.,31,21,10,8,0.8061260334044086,Missouri,Mississippi State,4,4,0,0,NA,400987794,2018-02-01,Missouri
+134,2,2:38,1358,1358,Mississippi State  Timeout,31,21,10,6,0.806889876249865,Missouri,Mississippi State,3,4,1,0,NA,400987794,2018-02-01,
+135,2,2:32,1352,1352,Victoria Vivians missed Layup.,31,21,10,0,0.807462688820757,Missouri,Mississippi State,3,4,1,0,NA,400987794,2018-02-01,
+136,2,2:32,1352,1352,Mississippi State Offensive Rebound.,31,21,10,4,0.807462688820757,Missouri,Mississippi State,3,4,1,0,NA,400987794,2018-02-01,
+137,2,2:28,1348,1348,Foul on Kayla Michael.,31,21,10,0,0.8078448929484238,Missouri,Mississippi State,3,4,1,0,NA,400987794,2018-02-01,
+138,2,2:28,1348,1348,Teaira McCowan missed Free Throw.,31,21,10,0,0.8078448929484238,Missouri,Mississippi State,3,4,1,0,NA,400987794,2018-02-01,
+139,2,2:28,1348,1348,Mississippi State Deadball Team Rebound.,31,21,10,0,0.8078448929484238,Missouri,Mississippi State,3,4,1,0,NA,400987794,2018-02-01,
+140,2,2:28,1348,1348,Teaira McCowan missed Free Throw.,31,21,10,0,0.8078448929484238,Missouri,Mississippi State,3,4,1,0,NA,400987794,2018-02-01,
+141,2,2:28,1348,1348,Amber Smith Defensive Rebound.,31,21,10,8,0.8078448929484238,Missouri,Mississippi State,3,4,1,0,NA,400987794,2018-02-01,
+142,2,2:20,1340,1340,Sophie Cunningham Turnover.,31,21,10,0,0.8086109516123601,Missouri,Mississippi State,3,4,1,0,NA,400987794,2018-02-01,
+143,2,2:20,1340,1340,Morgan William Steal.,31,21,10,6,0.8086109516123601,Missouri,Mississippi State,3,4,1,0,NA,400987794,2018-02-01,
+144,2,2:14,1334,1334,Foul on Jordan Chavis.,31,21,10,0,0.8091876856834505,Missouri,Mississippi State,3,4,1,0,NA,400987794,2018-02-01,
+145,2,2:14,1334,1334,Victoria Vivians made Free Throw.,31,22,9,0,0.785879836342891,Missouri,Mississippi State,3,4,1,0,NA,400987794,2018-02-01,Mississippi State
+146,2,2:14,1334,1334,Victoria Vivians made Free Throw.,31,23,8,22,0.7605673446174327,Missouri,Mississippi State,3,4,1,0,NA,400987794,2018-02-01,Mississippi State
+147,2,1:52,1312,1312,Amber Smith made Jumper.,33,23,10,13,0.8113292024079726,Missouri,Mississippi State,3,4,1,0,NA,400987794,2018-02-01,Missouri
+148,2,1:39,1299,1299,Victoria Vivians missed Layup.,33,23,10,0,0.8126233265844021,Missouri,Mississippi State,3,4,1,0,NA,400987794,2018-02-01,
+149,2,1:39,1299,1299,Kayla Michael Defensive Rebound.,33,23,10,12,0.8126233265844021,Missouri,Mississippi State,3,4,1,0,NA,400987794,2018-02-01,
+150,2,1:27,1287,1287,Foul on Blair Schaefer.,33,23,10,0,0.8138433579402603,Missouri,Mississippi State,3,4,0,0,NA,400987794,2018-02-01,
+151,2,1:27,1287,1287,Emmanuelle Tahane missed Free Throw.,33,23,10,0,0.8138433579402603,Missouri,Mississippi State,3,4,0,0,NA,400987794,2018-02-01,
+152,2,1:27,1287,1287,Missouri Deadball Team Rebound.,33,23,10,0,0.8138433579402603,Missouri,Mississippi State,3,4,0,0,NA,400987794,2018-02-01,
+153,2,1:27,1287,1287,Emmanuelle Tahane made Free Throw.,34,23,11,16,0.8351667948918389,Missouri,Mississippi State,3,4,0,0,NA,400987794,2018-02-01,Missouri
+154,2,1:11,1271,1271,Roshunda Johnson made Layup.,34,25,9,25,0.7921006704614008,Missouri,Mississippi State,3,4,0,0,NA,400987794,2018-02-01,Mississippi State
+155,2,0:46,1246,1246,Foul on Sophie Cunningham.,34,25,9,13,0.7948059105625571,Missouri,Mississippi State,3,4,0,0,NA,400987794,2018-02-01,
+156,2,0:33,1233,1233,Blair Schaefer missed Three Point Jumper.,34,25,9,0,0.796287322427743,Missouri,Mississippi State,3,4,0,0,NA,400987794,2018-02-01,
+157,2,0:33,1233,1233,Roshunda Johnson Offensive Rebound.,34,25,9,28,0.796287322427743,Missouri,Mississippi State,3,4,0,0,NA,400987794,2018-02-01,
+158,2,0:05,1205,1205,Foul on Morgan William.,34,25,9,0,0.7996728742995112,Missouri,Mississippi State,3,4,0,0,NA,400987794,2018-02-01,
+159,2,0:05,1205,1205,Morgan William Turnover.,34,25,9,4,0.7996728742995112,Missouri,Mississippi State,3,4,0,0,NA,400987794,2018-02-01,
+160,2,0:01,1201,1201,Jordan Roundtree Turnover.,34,25,9,0,0.8001623663834582,Missouri,Mississippi State,3,4,0,0,NA,400987794,2018-02-01,
+161,2,0:01,1201,1201,Jordan Danberry Steal.,34,25,9,1,0.8001623663834582,Missouri,Mississippi State,3,4,0,0,NA,400987794,2018-02-01,
+162,2,0:00,1200,1200,End of 2nd Quarter,34,25,9,0,0.8002839754918194,Missouri,Mississippi State,3,4,0,0,NA,400987794,2018-02-01,
+163,3,10:00,1200,1200,Jump Ball won by Missouri,34,25,9,11,0.8002839754918194,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+164,3,9:49,1189,1189,Lauren Aldridge missed Three Point Jumper.,34,25,9,0,0.8016030055689454,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+165,3,9:49,1189,1189,Victoria Vivians Defensive Rebound.,34,25,9,9,0.8016030055689454,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+166,3,9:40,1180,1180,Victoria Vivians made Layup.,34,27,7,16,0.7486117029144629,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,Mississippi State
+167,3,9:24,1164,1164,Foul on Victoria Vivians.,34,27,7,0,0.750311657238087,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+168,3,9:24,1164,1164,Jordan Frericks made Free Throw.,35,27,8,0,0.778588088455361,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,Missouri
+169,3,9:24,1164,1164,Jordan Frericks made Free Throw.,36,27,9,11,0.8044966804493333,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,Missouri
+170,3,9:13,1153,1153,Victoria Vivians made Layup. Assisted by Morgan William.,36,29,7,13,0.751461519939288,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,Mississippi State
+171,3,9:00,1140,1140,Cierra Porter missed Jumper.,36,29,7,0,0.7528082032716245,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+172,3,9:00,1140,1140,Victoria Vivians Defensive Rebound.,36,29,7,23,0.7528082032716245,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+173,3,8:37,1117,1117,Blair Schaefer made Three Point Jumper. Assisted by Teaira McCowan.,36,32,4,14,0.6555849656082006,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,Mississippi State
+174,3,8:23,1103,1103,Amber Smith Turnover.,36,32,4,0,0.6566009559980501,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+175,3,8:23,1103,1103,Chloe Bibby Steal.,36,32,4,8,0.6566009559980501,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+176,3,8:15,1095,1095,Foul on Sophie Cunningham.,36,32,4,0,0.657188140317836,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+177,3,8:15,1095,1095,Morgan William made Free Throw.,36,33,3,0,0.6196567162910869,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,Mississippi State
+178,3,8:15,1095,1095,Morgan William made Free Throw.,36,34,2,30,0.5806383137587134,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,Mississippi State
+179,3,7:45,1065,1065,Lauren Aldridge missed Three Point Jumper.,36,34,2,0,0.5818658224037415,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+180,3,7:45,1065,1065,Teaira McCowan Defensive Rebound.,36,34,2,9,0.5818658224037415,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+181,3,7:36,1056,1056,Victoria Vivians missed Jumper.,36,34,2,0,0.5822493909492018,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+182,3,7:36,1056,1056,Cierra Porter Defensive Rebound.,36,34,2,18,0.5822493909492018,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+183,3,7:18,1038,1038,Lauren Aldridge missed Three Point Jumper.,36,34,2,0,0.583043829080965,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+184,3,7:18,1038,1038,Teaira McCowan Defensive Rebound.,36,34,2,30,0.583043829080965,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+185,3,6:48,1008,1008,Chloe Bibby missed Jumper.,36,34,2,0,0.5844667840936933,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+186,3,6:48,1008,1008,Jordan Frericks Defensive Rebound.,36,34,2,9,0.5844667840936933,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+187,3,6:39,999,999,Sophie Cunningham made Layup. Assisted by Lauren Aldridge.,38,34,4,20,0.6650821617086339,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,Missouri
+188,3,6:19,979,979,Blair Schaefer made Three Point Jumper.,38,37,1,36,0.5433169876677847,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,Mississippi State
+189,3,5:43,943,943,Sophie Cunningham missed Three Point Jumper.,38,37,1,0,0.5443096333753813,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+190,3,5:43,943,943,Teaira McCowan Defensive Rebound.,38,37,1,28,0.5443096333753813,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+191,3,5:15,915,915,Foul on Teaira McCowan.,38,37,1,0,0.5449775020843145,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+192,3,5:15,915,915,Teaira McCowan Turnover.,38,37,1,8,0.5449775020843145,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+193,3,5:07,907,907,Lauren Aldridge Turnover.,38,37,1,26,0.5451569896979659,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+194,3,4:41,881,881,Foul on Sophie Cunningham.,38,37,1,0,0.5457237525968424,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+195,3,4:41,881,881,Official TV Timeout,38,37,1,23,0.5457237525968424,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+196,3,4:18,858,858,Chloe Bibby missed Jumper.,38,37,1,0,0.5462253224510797,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+197,3,4:18,858,858,Kayla Michael Defensive Rebound.,38,37,1,1,0.5462253224510797,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+198,3,4:17,857,857,Foul on Teaira McCowan.,38,37,1,34,0.5462475324140237,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+199,3,3:43,823,823,Cierra Porter missed Jumper.,38,37,1,0,0.5470455226127717,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+200,3,3:43,823,823,Cierra Porter Offensive Rebound.,38,37,1,7,0.5470455226127717,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+201,3,3:36,816,816,Cierra Porter missed Jumper.,38,37,1,0,0.5472241446625227,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+202,3,3:36,816,816,Chloe Bibby Defensive Rebound.,38,37,1,4,0.5472241446625227,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+203,3,3:32,812,812,Victoria Vivians made Jumper.,38,39,-1,29,0.4526709327432417,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,Mississippi State
+204,3,3:03,783,783,Lauren Aldridge missed Three Point Jumper.,38,39,-1,0,0.4518355251445259,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+205,3,3:03,783,783,Mississippi State Defensive Rebound.,38,39,-1,25,0.4518355251445259,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+206,3,2:38,758,758,Foul on Jordan Chavis.,38,39,-1,0,0.45098405608518105,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+207,3,2:38,758,758,Victoria Vivians made Free Throw.,38,40,-2,0,0.4029012554800368,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,Mississippi State
+208,3,2:38,758,758,Victoria Vivians missed Free Throw.,38,40,-2,0,0.4029012554800368,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+209,3,2:38,758,758,Amber Smith Defensive Rebound.,38,40,-2,8,0.4029012554800368,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+210,3,2:30,750,750,Jordan Frericks made Layup. Assisted by Amber Smith.,40,40,0,18,0.5,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,Missouri
+211,3,2:12,732,732,Victoria Vivians missed Jumper.,40,40,0,0,0.5,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+212,3,2:12,732,732,Teaira McCowan Offensive Rebound.,40,40,0,4,0.5,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+213,3,2:08,728,728,Teaira McCowan missed Jumper.,40,40,0,0,0.5,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+214,3,2:08,728,728,Jordan Roundtree Defensive Rebound.,40,40,0,16,0.5,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+215,3,1:52,712,712,Foul on Victoria Vivians.,40,40,0,21,0.5,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+216,3,1:31,691,691,Jordan Frericks Turnover.,40,40,0,0,0.5,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+217,3,1:31,691,691,Morgan William Steal.,40,40,0,4,0.5,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+218,3,1:27,687,687,Morgan William missed Jumper.,40,40,0,0,0.5,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+219,3,1:27,687,687,Chloe Bibby Offensive Rebound.,40,40,0,8,0.5,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+220,3,1:19,679,679,Teaira McCowan missed Jumper.,40,40,0,0,0.5,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+221,3,1:19,679,679,Teaira McCowan Offensive Rebound.,40,40,0,2,0.5,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+222,3,1:17,677,677,Foul on Jordan Roundtree.,40,40,0,0,0.5,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+223,3,1:17,677,677,Teaira McCowan missed Free Throw.,40,40,0,0,0.5,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+224,3,1:17,677,677,Mississippi State Deadball Team Rebound.,40,40,0,0,0.5,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+225,3,1:17,677,677,Teaira McCowan made Free Throw.,40,41,-1,16,0.44784724763176875,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,Mississippi State
+226,3,1:01,661,661,Foul on Kayla Michael.,40,41,-1,15,0.4473184110719872,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+227,3,0:46,646,646,Victoria Vivians missed Jumper.,40,41,-1,0,0.44681852435185065,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+228,3,0:46,646,646,Teaira McCowan Offensive Rebound.,40,41,-1,4,0.44681852435185065,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+229,3,0:42,642,642,Teaira McCowan missed Jumper.,40,41,-1,0,0.4466821363939633,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+230,3,0:42,642,642,Mississippi State Offensive Rebound.,40,41,-1,5,0.4466821363939633,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+231,3,0:37,637,637,Blair Schaefer made Jumper.,40,43,-3,32,0.34426169296006204,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,Mississippi State
+232,3,0:05,605,605,Lauren Aldridge missed Jumper.,40,43,-3,0,0.3409065770766379,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+233,3,0:05,605,605,Morgan William Block.,40,43,-3,0,0.3409065770766379,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+234,3,0:05,605,605,Morgan William Defensive Rebound.,40,43,-3,0,0.3409065770766379,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+235,3,0:05,605,605,Morgan William Turnover.,40,43,-3,5,0.3409065770766379,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+236,3,0:00,600,600,End of 3rd Quarter,40,43,-3,0,0.3403142121083677,Missouri,Mississippi State,4,5,0,0,NA,400987794,2018-02-01,
+237,4,10:00,600,600,Jump Ball won by Missouri,40,43,-3,31,0.3403142121083677,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+238,4,9:29,569,569,Jordan Frericks missed Jumper.,40,43,-3,0,0.33604890843066265,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+239,4,9:29,569,569,Teaira McCowan Defensive Rebound.,40,43,-3,21,0.33604890843066265,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+240,4,9:08,548,548,Victoria Vivians missed Jumper.,40,43,-3,0,0.3324425431957663,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+241,4,9:08,548,548,Mississippi State Offensive Rebound.,40,43,-3,3,0.3324425431957663,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+242,4,9:05,545,545,Jump Ball won by Mississippi State,40,43,-3,19,0.33191089925147405,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+243,4,8:46,526,526,Victoria Vivians Turnover.,40,43,-3,17,0.3289289454764358,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+244,4,8:29,509,509,Jordan Frericks missed Jumper.,40,43,-3,0,0.32661434588214644,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+245,4,8:29,509,509,Chloe Bibby Defensive Rebound.,40,43,-3,23,0.32661434588214644,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+246,4,8:06,486,486,Morgan William missed Jumper.,40,43,-3,0,0.32354270278090314,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+247,4,8:06,486,486,Cierra Porter Defensive Rebound.,40,43,-3,26,0.32354270278090314,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+248,4,7:40,460,460,Sophie Cunningham made Three Point Jumper. Assisted by Lauren Aldridge.,43,43,0,17,0.5,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,Missouri
+249,4,7:23,443,443,Foul on Amber Smith.,43,43,0,5,0.5,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+250,4,7:18,438,438,Blair Schaefer missed Three Point Jumper.,43,43,0,0,0.5,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+251,4,7:18,438,438,Sophie Cunningham Defensive Rebound.,43,43,0,19,0.5,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+252,4,6:59,419,419,Amber Smith made Jumper.,45,43,2,28,0.6303417528028668,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,Missouri
+253,4,6:31,391,391,Teaira McCowan made Layup.,45,45,0,18,0.5,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,Mississippi State
+254,4,6:13,373,373,Sophie Cunningham missed Three Point Jumper.,45,45,0,0,0.5,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+255,4,6:13,373,373,Jordan Frericks Offensive Rebound.,45,45,0,6,0.5,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+256,4,6:07,367,367,Jordan Frericks made Layup.,47,45,2,20,0.6393880608167828,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,Missouri
+257,4,5:47,347,347,Victoria Vivians missed Layup.,47,45,2,0,0.6434733465690289,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+258,4,5:47,347,347,Sophie Cunningham Defensive Rebound.,47,45,2,9,0.6434733465690289,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+259,4,5:38,338,338,Foul on Sophie Cunningham.,47,45,2,11,0.6455816990358894,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+260,4,5:27,327,327,Chloe Bibby missed Jumper.,47,45,2,0,0.6484507166613896,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+261,4,5:27,327,327,Amber Smith Defensive Rebound.,47,45,2,15,0.6484507166613896,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+262,4,5:12,312,312,Foul on Jazzmun Holmes.,47,45,2,9,0.6529781581214066,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+263,4,5:03,303,303,Jordan Chavis missed Jumper.,47,45,2,0,0.6555263660792452,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+264,4,5:03,303,303,Chloe Bibby Defensive Rebound.,47,45,2,28,0.6555263660792452,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+265,4,4:35,275,275,Teaira McCowan made Jumper.,47,47,0,34,0.5,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,Mississippi State
+266,4,4:01,241,241,Cierra Porter missed Jumper.,47,47,0,0,0.5,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+267,4,4:01,241,241,Mississippi State Defensive Rebound.,47,47,0,3,0.5,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+268,4,3:58,238,238,Official TV Timeout,47,47,0,22,0.5,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+269,4,3:36,216,216,Foul on Cierra Porter.,47,47,0,0,0.5,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+270,4,3:36,216,216,Teaira McCowan missed Free Throw.,47,47,0,0,0.5,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+271,4,3:36,216,216,Mississippi State Deadball Team Rebound.,47,47,0,0,0.5,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+272,4,3:36,216,216,Teaira McCowan made Free Throw.,47,48,-1,20,0.42058996524000064,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,Mississippi State
+273,4,3:16,196,196,Jordan Frericks Turnover.,47,48,-1,0,0.41496834121314574,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+274,4,3:16,196,196,Victoria Vivians Steal.,47,48,-1,16,0.41496834121314574,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+275,4,3:00,180,180,Foul on Cierra Porter.,47,48,-1,0,0.4071511523738202,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+276,4,3:00,180,180,Teaira McCowan missed Free Throw.,47,48,-1,0,0.4071511523738202,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+277,4,3:00,180,180,Mississippi State Deadball Team Rebound.,47,48,-1,0,0.4071511523738202,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+278,4,3:00,180,180,Teaira McCowan made Free Throw.,47,49,-2,15,0.32049237982589135,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,Mississippi State
+279,4,2:45,165,165,Sophie Cunningham missed Jumper.,47,49,-2,0,0.30643282813851236,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+280,4,2:45,165,165,Teaira McCowan Defensive Rebound.,47,49,-2,6,0.30643282813851236,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+281,4,2:39,159,159,Technical Foul on Missouri.,47,49,-2,0,0.3005938885497191,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,
+282,4,2:39,159,159,Blair Schaefer made Free Throw.,47,50,-3,0,0.21982145911387957,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,Mississippi State
+283,4,2:39,159,159,Blair Schaefer made Free Throw.,47,51,-4,1,0.15591491847893774,Missouri,Mississippi State,5,6,0,0,NA,400987794,2018-02-01,Mississippi State
+284,4,2:38,158,158,Missouri  Timeout,47,51,-4,0,0.15467870596035563,Missouri,Mississippi State,5,5,0,1,NA,400987794,2018-02-01,
+285,4,2:38,158,158,Official TV Timeout,47,51,-4,26,0.15467870596035563,Missouri,Mississippi State,5,5,0,1,NA,400987794,2018-02-01,
+286,4,2:12,132,132,Jazzmun Holmes missed Jumper.,47,51,-4,0,0.1220840560908627,Missouri,Mississippi State,5,5,0,1,NA,400987794,2018-02-01,
+287,4,2:12,132,132,Cierra Porter Defensive Rebound.,47,51,-4,13,0.1220840560908627,Missouri,Mississippi State,5,5,0,1,NA,400987794,2018-02-01,
+288,4,1:59,119,119,Sophie Cunningham Turnover.,47,51,-4,13,0.10544621539680572,Missouri,Mississippi State,5,5,0,1,NA,400987794,2018-02-01,
+289,4,1:46,106,106,Foul on Amber Smith.,47,51,-4,0,0.08883249040514767,Missouri,Mississippi State,5,5,0,1,NA,400987794,2018-02-01,
+290,4,1:46,106,106,Blair Schaefer made Free Throw.,47,52,-5,0,0.05166301006249745,Missouri,Mississippi State,5,5,0,1,NA,400987794,2018-02-01,Mississippi State
+291,4,1:46,106,106,Blair Schaefer made Free Throw.,47,53,-6,16,0.02954181973561888,Missouri,Mississippi State,5,5,0,1,NA,400987794,2018-02-01,Mississippi State
+292,4,1:30,90,90,Lauren Aldridge made Three Point Jumper. Assisted by Sophie Cunningham.,50,53,-3,5,0.12456586014669642,Missouri,Mississippi State,5,5,0,0,NA,400987794,2018-02-01,Missouri
+293,4,1:25,85,85,Missouri  Timeout,50,53,-3,22,0.11737025918258351,Missouri,Mississippi State,5,4,0,1,NA,400987794,2018-02-01,
+294,4,1:03,63,63,Morgan William missed Jumper.,50,53,-3,0,0.08765936165520034,Missouri,Mississippi State,5,4,0,1,NA,400987794,2018-02-01,
+295,4,1:03,63,63,Blair Schaefer Offensive Rebound.,50,53,-3,8,0.08765936165520034,Missouri,Mississippi State,5,4,0,1,NA,400987794,2018-02-01,
+296,4,0:55,55,55,Blair Schaefer missed Jumper.,50,53,-3,0,0.07788728376247109,Missouri,Mississippi State,5,4,0,1,NA,400987794,2018-02-01,
+297,4,0:55,55,55,Cierra Porter Block.,50,53,-3,0,0.07788728376247109,Missouri,Mississippi State,5,4,0,1,NA,400987794,2018-02-01,
+298,4,0:55,55,55,Cierra Porter Defensive Rebound.,50,53,-3,1,0.07788728376247109,Missouri,Mississippi State,5,4,0,1,NA,400987794,2018-02-01,
+299,4,0:54,54,54,Foul on Blair Schaefer.,50,53,-3,6,0.07671048675913522,Missouri,Mississippi State,5,4,0,1,NA,400987794,2018-02-01,
+300,4,0:48,48,48,Sophie Cunningham Turnover.,50,53,-3,0,0.0698549082448537,Missouri,Mississippi State,5,4,0,1,NA,400987794,2018-02-01,
+301,4,0:48,48,48,Teaira McCowan Steal.,50,53,-3,28,0.0698549082448537,Missouri,Mississippi State,5,4,0,1,NA,400987794,2018-02-01,
+302,4,0:20,20,20,Morgan William missed Jumper.,50,53,-3,0,0.04283236356086821,Missouri,Mississippi State,5,4,0,0,NA,400987794,2018-02-01,
+303,4,0:20,20,20,Amber Smith Defensive Rebound.,50,53,-3,6,0.04283236356086821,Missouri,Mississippi State,5,4,0,0,NA,400987794,2018-02-01,
+304,4,0:14,14,14,Missouri  Timeout,50,53,-3,0,0.03811563608747347,Missouri,Mississippi State,5,3,1,1,NA,400987794,2018-02-01,
+305,4,0:14,14,14,Mississippi State  Timeout,50,53,-3,0,0.03811563608747347,Missouri,Mississippi State,4,3,1,1,NA,400987794,2018-02-01,
+306,4,0:14,14,14,Mississippi State  Timeout,50,53,-3,4,0.03811563608747347,Missouri,Mississippi State,4,3,1,1,NA,400987794,2018-02-01,
+307,4,0:10,10,10,Sophie Cunningham made Three Point Jumper. Assisted by Jordan Frericks.,53,53,0,0,0.5,Missouri,Mississippi State,4,3,1,1,NA,400987794,2018-02-01,Missouri
+308,4,0:10,10,10,Mississippi State  Timeout,53,53,0,6,0.5,Missouri,Mississippi State,3,3,1,1,NA,400987794,2018-02-01,
+309,4,0:04,4,4,Victoria Vivians made Jumper.,53,55,-2,1,0.09164079872259245,Missouri,Mississippi State,3,3,1,1,NA,400987794,2018-02-01,Mississippi State
+310,4,0:03,3,3,Missouri  Timeout,53,55,-2,1,0.09043995876547842,Missouri,Mississippi State,3,2,1,1,NA,400987794,2018-02-01,
+311,4,0:02,2,2,Foul on Jordan Frericks.,53,55,-2,0,0.08924905907234798,Missouri,Mississippi State,3,2,1,1,NA,400987794,2018-02-01,
+312,4,0:02,2,2,Foul on Cierra Porter.,53,55,-2,0,0.08924905907234798,Missouri,Mississippi State,3,2,1,1,NA,400987794,2018-02-01,
+313,4,0:02,2,2,Missouri  Timeout,53,55,-2,0,0.08924905907234798,Missouri,Mississippi State,3,1,1,1,NA,400987794,2018-02-01,
+314,4,0:02,2,2,Teaira McCowan made Free Throw.,53,56,-3,0,0.029763475716734225,Missouri,Mississippi State,3,1,1,1,NA,400987794,2018-02-01,Mississippi State
+315,4,0:02,2,2,Teaira McCowan made Free Throw.,53,57,-4,2,0.00951168353188601,Missouri,Mississippi State,3,1,1,1,NA,400987794,2018-02-01,Mississippi State
+316,4,0:00,0,0,End of Game,53,57,-4,0,1.8048513878454153e-35,Missouri,Mississippi State,3,1,1,1,NA,400987794,2018-02-01,

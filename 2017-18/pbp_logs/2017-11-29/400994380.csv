@@ -1,0 +1,396 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:55,2395,2395,Taylor Thunstedt missed Three Point Jumper.,0,0,0,1,0.5,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,NA
+2,1,9:54,2394,2394,Macey Kvilvang Offensive Rebound.,0,0,0,9,0.5,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+3,1,9:45,2385,2385,Macey Kvilvang Turnover.,0,0,0,0,0.5,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+4,1,9:45,2385,2385,Aubrey Knight Steal.,0,0,0,20,0.5,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+5,1,9:25,2365,2365,Annika Jank made Jumper.,2,0,2,20,0.5447677378565356,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+6,1,9:05,2345,2345,Macey Kvilvang missed Jumper.,2,0,2,0,0.5451990876043378,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+7,1,9:05,2345,2345,Reilly Jacobson Offensive Rebound.,2,0,2,4,0.5451990876043378,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+8,1,9:01,2341,2341,Foul on Janea Bunn.,2,0,2,0,0.5452859761078498,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+9,1,9:01,2341,2341,Reilly Jacobson made Free Throw.,2,1,1,0,0.5226896161870556,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,North Dakota State
+10,1,9:01,2341,2341,Reilly Jacobson missed Free Throw.,2,1,1,0,0.5226896161870556,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+11,1,9:01,2341,2341,Annika Jank Defensive Rebound.,2,1,1,0,0.5226896161870556,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+12,1,9:01,2341,2341,Kennedy Leonard Turnover.,2,1,1,0,0.5226896161870556,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+13,1,9:01,2341,2341,Marina Fernandez Steal.,2,1,1,0,0.5226896161870556,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+14,1,9:01,2341,2341,Macey Kvilvang missed Layup.,2,1,1,0,0.5226896161870556,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+15,1,9:01,2341,2341,Janea Bunn Block.,2,1,1,2,0.5226896161870556,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+16,1,8:59,2339,2339,North Dakota State Offensive Rebound.,2,1,1,33,0.5227115105291243,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+17,1,8:26,2306,2306,Macey Kvilvang missed Jumper.,2,1,1,0,0.52307621828962,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+18,1,8:26,2306,2306,Aubrey Knight Defensive Rebound.,2,1,1,8,0.52307621828962,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+19,1,8:18,2298,2298,Janea Bunn made Layup. Assisted by Kennedy Leonard.,4,1,3,28,0.5691013846518673,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+20,1,7:50,2270,2270,Sarah Jacobson missed Jumper.,4,1,3,0,0.5700306384331116,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+21,1,7:50,2270,2270,Kennedy Leonard Defensive Rebound.,4,1,3,8,0.5700306384331116,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+22,1,7:42,2262,2262,Alexis Robinson made Jumper. Assisted by Kennedy Leonard.,6,1,5,16,0.6158046341003603,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+23,1,7:26,2246,2246,Danneka Voegeli missed Layup.,6,1,5,0,0.6166684536086381,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+24,1,7:26,2246,2246,Janea Bunn Block.,6,1,5,0,0.6166684536086381,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+25,1,7:26,2246,2246,North Dakota State Offensive Rebound.,6,1,5,5,0.6166684536086381,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+26,1,7:21,2241,2241,Taylor Thunstedt missed Three Point Jumper.,6,1,5,0,0.6169392212643802,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+27,1,7:21,2241,2241,Kennedy Leonard Defensive Rebound.,6,1,5,8,0.6169392212643802,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+28,1,7:13,2233,2233,Foul on Sarah Jacobson.,6,1,5,0,0.6173732010302534,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+29,1,7:13,2233,2233,Kennedy Leonard made Free Throw.,7,1,6,0,0.6397078429973727,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+30,1,7:13,2233,2233,Kennedy Leonard made Free Throw.,8,1,7,15,0.6614536826931355,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+31,1,6:58,2218,2218,Tyrah Spencer missed Jumper.,8,1,7,0,0.6625362334214253,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+32,1,6:58,2218,2218,Reilly Jacobson Offensive Rebound.,8,1,7,11,0.6625362334214253,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+33,1,6:47,2207,2207,Rylee Nudell made Three Point Jumper. Assisted by Tyrah Spencer.,8,4,4,11,0.5956879607644102,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,North Dakota State
+34,1,6:36,2196,2196,Annika Jank Turnover.,8,4,4,2,0.5961791766315144,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+35,1,6:34,2194,2194,Danneka Voegeli Steal.,8,4,4,5,0.5962685977478669,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+36,1,6:29,2189,2189,Danneka Voegeli missed Layup.,8,4,4,0,0.596492286615425,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+37,1,6:29,2189,2189,Janea Bunn Block.,8,4,4,0,0.596492286615425,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+38,1,6:29,2189,2189,Colorado Defensive Rebound.,8,4,4,15,0.596492286615425,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+39,1,6:14,2174,2174,Alexis Robinson missed Three Point Jumper.,8,4,4,0,0.5971644061169916,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+40,1,6:14,2174,2174,Danneka Voegeli Defensive Rebound.,8,4,4,10,0.5971644061169916,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+41,1,6:04,2164,2164,Reilly Jacobson missed Layup.,8,4,4,0,0.5976133733505369,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+42,1,6:04,2164,2164,Zoe Correal Block.,8,4,4,2,0.5976133733505369,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+43,1,6:02,2162,2162,Brecca Thomas Defensive Rebound.,8,4,4,3,0.5977033113860234,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+44,1,5:59,2159,2159,Foul on Tyrah Spencer.,8,4,4,0,0.5978383183584584,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+45,1,5:59,2159,2159,Kennedy Leonard made Free Throw.,9,4,5,0,0.6214206849910571,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+46,1,5:59,2159,2159,Kennedy Leonard made Free Throw.,10,4,6,12,0.6444426367988169,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+47,1,5:47,2147,2147,Foul on Annika Jank.,10,4,6,0,0.6452161892721886,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+48,1,5:47,2147,2147,Macey Kvilvang made Free Throw.,10,5,5,0,0.6220826282008025,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,North Dakota State
+49,1,5:47,2147,2147,Macey Kvilvang missed Free Throw.,10,5,5,0,0.6220826282008025,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+50,1,5:47,2147,2147,Annika Jank Defensive Rebound.,10,5,5,5,0.6220826282008025,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+51,1,5:42,2142,2142,Mathilde Diop made Layup. Assisted by Kennedy Leonard.,12,5,7,15,0.6680554089170966,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+52,1,5:27,2127,2127,Emily Dietz Turnover.,12,5,7,11,0.66915403186519,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+53,1,5:16,2116,2116,Mathilde Diop Turnover.,12,5,7,18,0.6699624691829895,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+54,1,4:58,2098,2098,Rylee Nudell missed Three Point Jumper.,12,5,7,0,0.6712908009594161,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+55,1,4:58,2098,2098,Kennedy Leonard Defensive Rebound.,12,5,7,8,0.6712908009594161,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+56,1,4:50,2090,2090,Brecca Thomas made Jumper.,14,5,9,14,0.7153460219370127,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+57,1,4:36,2076,2076,Rylee Nudell made Jumper. Assisted by Tyrah Spencer.,14,7,7,11,0.6729241742983367,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,North Dakota State
+58,1,4:25,2065,2065,Mya Hollingshed missed Three Point Jumper.,14,7,7,0,0.673745210914745,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+59,1,4:25,2065,2065,Michelle Gaislerova Defensive Rebound.,14,7,7,20,0.673745210914745,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+60,1,4:05,2045,2045,Foul on Brecca Thomas.,14,7,7,0,0.6752459327801337,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+61,1,4:05,2045,2045,Official TV Timeout,14,7,7,0,0.6752459327801337,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+62,1,4:05,2045,2045,Danneka Voegeli made Free Throw.,14,8,6,0,0.6519078798373444,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,North Dakota State
+63,1,4:05,2045,2045,Danneka Voegeli made Free Throw.,14,9,5,7,0.6278170858277525,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,North Dakota State
+64,1,3:58,2038,2038,Mathilde Diop Turnover.,14,9,5,8,0.6282188613431704,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+65,1,3:50,2030,2030,Tyrah Spencer missed Jumper.,14,9,5,0,0.6286795016727604,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+66,1,3:50,2030,2030,Janea Bunn Defensive Rebound.,14,9,5,6,0.6286795016727604,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+67,1,3:44,2024,2024,Brecca Thomas made Layup. Assisted by Kennedy Leonard.,16,9,7,14,0.6768333709576275,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+68,1,3:30,2010,2010,Macey Kvilvang Turnover.,16,9,7,2,0.6778987092595555,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+69,1,3:28,2008,2008,Kennedy Leonard Steal.,16,9,7,3,0.6780513779474517,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+70,1,3:25,2005,2005,Kennedy Leonard missed Layup.,16,9,7,0,0.6782806089515586,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+71,1,3:25,2005,2005,Janea Bunn Offensive Rebound.,16,9,7,3,0.6782806089515586,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+72,1,3:22,2002,2002,Janea Bunn made Layup.,18,9,9,24,0.7231904392050105,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+73,1,2:58,1978,1978,Michelle Gaislerova missed Jumper.,18,9,9,0,0.7253668779307595,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+74,1,2:58,1978,1978,Mya Hollingshed Defensive Rebound.,18,9,9,9,0.7253668779307595,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+75,1,2:49,1969,1969,Mya Hollingshed made Layup. Assisted by Kennedy Leonard.,20,9,11,7,0.7671188550760054,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+76,1,2:42,1962,1962,North Dakota State  Timeout,20,9,11,18,0.7678216631597413,Colorado,North Dakota State,3,4,1,0,NA,400994380,2017-11-29,
+77,1,2:24,1944,1944,Autumn Ogden Turnover.,20,9,11,6,0.7696350284509601,Colorado,North Dakota State,3,4,1,0,NA,400994380,2017-11-29,
+78,1,2:18,1938,1938,Janea Bunn missed Layup.,20,9,11,0,0.7702415082734364,Colorado,North Dakota State,3,4,1,0,NA,400994380,2017-11-29,
+79,1,2:18,1938,1938,Emily Dietz Defensive Rebound.,20,9,11,4,0.7702415082734364,Colorado,North Dakota State,3,4,1,0,NA,400994380,2017-11-29,
+80,1,2:14,1934,1934,Emily Dietz Turnover.,20,9,11,2,0.7706464049395537,Colorado,North Dakota State,3,4,1,0,NA,400994380,2017-11-29,
+81,1,2:12,1932,1932,Foul on Reilly Jacobson.,20,9,11,20,0.770849028119586,Colorado,North Dakota State,3,4,1,0,NA,400994380,2017-11-29,
+82,1,1:52,1912,1912,Mya Hollingshed missed Layup.,20,9,11,0,0.7728691534952951,Colorado,North Dakota State,3,4,1,0,NA,400994380,2017-11-29,
+83,1,1:52,1912,1912,Janea Bunn Offensive Rebound.,20,9,11,11,0.7728691534952951,Colorado,North Dakota State,3,4,1,0,NA,400994380,2017-11-29,
+84,1,1:41,1901,1901,Brecca Thomas made Jumper.,22,9,13,17,0.8107175815538603,Colorado,North Dakota State,3,4,0,0,NA,400994380,2017-11-29,Colorado
+85,1,1:24,1884,1884,Reilly Jacobson missed Layup.,22,9,13,0,0.8124764135621778,Colorado,North Dakota State,3,4,0,0,NA,400994380,2017-11-29,
+86,1,1:24,1884,1884,Reilly Jacobson Offensive Rebound.,22,9,13,2,0.8124764135621778,Colorado,North Dakota State,3,4,0,0,NA,400994380,2017-11-29,
+87,1,1:22,1882,1882,Reilly Jacobson missed Layup.,22,9,13,0,0.8126825927892384,Colorado,North Dakota State,3,4,0,0,NA,400994380,2017-11-29,
+88,1,1:22,1882,1882,Aubrey Knight Defensive Rebound.,22,9,13,7,0.8126825927892384,Colorado,North Dakota State,3,4,0,0,NA,400994380,2017-11-29,
+89,1,1:15,1875,1875,Brecca Thomas made Layup. Assisted by Peyton Carter.,24,9,15,16,0.8453754049135331,Colorado,North Dakota State,3,4,0,0,NA,400994380,2017-11-29,Colorado
+90,1,0:59,1859,1859,Reilly Jacobson Turnover.,24,9,15,2,0.8470053144495919,Colorado,North Dakota State,3,4,0,0,NA,400994380,2017-11-29,
+91,1,0:57,1857,1857,Mya Hollingshed Steal.,24,9,15,3,0.8472084165733503,Colorado,North Dakota State,3,4,0,0,NA,400994380,2017-11-29,
+92,1,0:54,1854,1854,Brecca Thomas made Layup. Assisted by Peyton Carter.,26,9,17,15,0.8747824166828322,Colorado,North Dakota State,3,4,0,0,NA,400994380,2017-11-29,Colorado
+93,1,0:39,1839,1839,Michelle Gaislerova missed Layup.,26,9,17,0,0.8762396571230295,Colorado,North Dakota State,3,4,0,0,NA,400994380,2017-11-29,
+94,1,0:39,1839,1839,Aubrey Knight Defensive Rebound.,26,9,17,10,0.8762396571230295,Colorado,North Dakota State,3,4,0,0,NA,400994380,2017-11-29,
+95,1,0:29,1829,1829,Janea Bunn made Layup.,28,9,19,29,0.9000307102215139,Colorado,North Dakota State,3,4,0,0,NA,400994380,2017-11-29,Colorado
+96,1,0:00,1800,1800,Sarah Jacobson made Jumper.,28,11,17,0,0.8799989626675139,Colorado,North Dakota State,3,4,0,0,NA,400994380,2017-11-29,North Dakota State
+97,1,0:00,1800,1800,End of 1st Quarter,28,11,17,3,0.8799989626675139,Colorado,North Dakota State,3,4,0,0,NA,400994380,2017-11-29,
+98,2,9:57,1797,1797,Sarah Jacobson missed Three Point Jumper.,28,11,17,0,0.8802869848747972,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+99,2,9:57,1797,1797,Kennedy Leonard made Layup.,30,11,19,0,0.9029003340107165,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+100,2,9:57,1797,1797,Danneka Voegeli made Layup.,30,13,17,0,0.8802869848747972,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,North Dakota State
+101,2,9:57,1797,1797,Kennedy Leonard Turnover.,30,13,17,0,0.8802869848747972,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+102,2,9:57,1797,1797,Taylor Thunstedt Steal.,30,13,17,1,0.8802869848747972,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+103,2,9:56,1796,1796,Jamie Curtis Defensive Rebound.,30,13,17,68,0.8803829696172026,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+104,2,8:48,1728,1728,Foul on Peyton Carter.,30,13,17,0,0.8869085254779994,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+105,2,8:48,1728,1728,Sarah Jacobson missed Free Throw.,30,13,17,0,0.8869085254779994,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+106,2,8:48,1728,1728,North Dakota State Deadball Team Rebound.,30,13,17,0,0.8869085254779994,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+107,2,8:48,1728,1728,Sarah Jacobson made Free Throw.,30,14,16,11,0.8741757281478704,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,North Dakota State
+108,2,8:37,1717,1717,Annika Jank missed Jumper.,30,14,16,0,0.8752703319605846,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+109,2,8:37,1717,1717,Sarah Jacobson Defensive Rebound.,30,14,16,10,0.8752703319605846,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+110,2,8:27,1707,1707,Reilly Jacobson made Layup.,30,16,14,8,0.847207361671634,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,North Dakota State
+111,2,8:19,1699,1699,Sara Castro made Three Point Jumper. Assisted by Peyton Carter.,33,16,17,13,0.8897094198742569,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+112,2,8:06,1686,1686,Taylor Thunstedt made Three Point Jumper. Assisted by Reilly Jacobson.,33,19,14,28,0.8494096575491351,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,North Dakota State
+113,2,7:38,1658,1658,Kennedy Leonard missed Three Point Jumper.,33,19,14,0,0.8522538373187745,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+114,2,7:38,1658,1658,Sarah Jacobson Defensive Rebound.,33,19,14,4,0.8522538373187745,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+115,2,7:34,1654,1654,Foul on Alexis Robinson.,33,19,14,4,0.8526486963674313,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+116,2,7:30,1650,1650,Reilly Jacobson missed Layup.,33,19,14,0,0.8530411061335571,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+117,2,7:30,1650,1650,Kennedy Leonard Defensive Rebound.,33,19,14,5,0.8530411061335571,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+118,2,7:25,1645,1645,Kennedy Leonard made Layup.,35,19,16,13,0.8822944360933944,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+119,2,7:12,1632,1632,Taylor Thunstedt missed Jumper.,35,19,16,0,0.8834819014738553,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+120,2,7:12,1632,1632,Annika Jank Defensive Rebound.,35,19,16,13,0.8834819014738553,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+121,2,6:59,1619,1619,Sara Castro missed Layup.,35,19,16,0,0.8846501625055826,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+122,2,6:59,1619,1619,North Dakota State Defensive Rebound.,35,19,16,33,0.8846501625055826,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+123,2,6:26,1586,1586,Foul on Alexis Robinson.,35,19,16,0,0.8875577501554736,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+124,2,6:26,1586,1586,Emily Dietz missed Free Throw.,35,19,16,0,0.8875577501554736,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+125,2,6:26,1586,1586,North Dakota State Deadball Team Rebound.,35,19,16,0,0.8875577501554736,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+126,2,6:26,1586,1586,Emily Dietz made Free Throw.,35,20,15,11,0.874011920586786,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,North Dakota State
+127,2,6:15,1575,1575,Kennedy Leonard made Layup.,37,20,17,9,0.9007342132174,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+128,2,6:06,1566,1566,Kennedy Childers made Three Point Jumper. Assisted by Marina Fernandez.,37,23,14,8,0.8609452051086502,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,North Dakota State
+129,2,5:58,1558,1558,Zoe Correal missed Layup.,37,23,14,0,0.8616870558717754,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+130,2,5:58,1558,1558,Marina Fernandez Defensive Rebound.,37,23,14,8,0.8616870558717754,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+131,2,5:50,1550,1550,Rylee Nudell made Layup. Assisted by Sarah Jacobson.,37,25,12,18,0.8282671686091073,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,North Dakota State
+132,2,5:32,1532,1532,Aubrey Knight made Layup.,39,25,14,16,0.8641161084452549,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+133,2,5:16,1516,1516,Macey Kvilvang Turnover.,39,25,14,1,0.8656338740170162,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+134,2,5:15,1515,1515,Brecca Thomas Steal.,39,25,14,12,0.8657295098516701,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+135,2,5:03,1503,1503,Brecca Thomas made Jumper.,41,25,16,11,0.894859335608539,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+136,2,4:52,1492,1492,Macey Kvilvang missed Jumper.,41,25,16,0,0.8958597873946198,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+137,2,4:52,1492,1492,Aubrey Knight Defensive Rebound.,41,25,16,7,0.8958597873946198,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+138,2,4:45,1485,1485,Brecca Thomas made Jumper.,43,25,18,20,0.9189997359434825,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+139,2,4:25,1465,1465,Foul on Mya Hollingshed.,43,25,18,0,0.9206874265544308,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+140,2,4:25,1465,1465,Official TV Timeout,43,25,18,8,0.9206874265544308,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+141,2,4:17,1457,1457,Reilly Jacobson missed Layup.,43,25,18,0,0.9213750643476701,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+142,2,4:17,1457,1457,North Dakota State Offensive Rebound.,43,25,18,10,0.9213750643476701,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+143,2,4:07,1447,1447,Rylee Nudell made Three Point Jumper. Assisted by Reilly Jacobson.,43,28,15,17,0.8870570776847502,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,North Dakota State
+144,2,3:50,1430,1430,Janea Bunn made Layup.,45,28,17,4,0.9133182876248916,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+145,2,3:46,1426,1426,Reilly Jacobson Turnover.,45,28,17,1,0.9136646206555417,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+146,2,3:45,1425,1425,Alexis Robinson Steal.,45,28,17,18,0.9137506311031587,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+147,2,3:27,1407,1407,Mya Hollingshed missed Jumper.,45,28,17,0,0.9152636405040521,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+148,2,3:27,1407,1407,Mya Hollingshed Offensive Rebound.,45,28,17,3,0.9152636405040521,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+149,2,3:24,1404,1404,Mya Hollingshed missed Layup.,45,28,17,0,0.915510017971211,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+150,2,3:24,1404,1404,Reilly Jacobson Defensive Rebound.,45,28,17,18,0.915510017971211,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+151,2,3:06,1386,1386,Reilly Jacobson missed Jumper.,45,28,17,0,0.9169606278693629,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+152,2,3:06,1386,1386,Brecca Thomas Defensive Rebound.,45,28,17,6,0.9169606278693629,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+153,2,3:00,1380,1380,Janea Bunn made Layup. Assisted by Alexis Robinson.,47,28,19,22,0.9365110733646047,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+154,2,2:38,1358,1358,Kennedy Childers Turnover.,47,28,19,11,0.9380142433913746,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+155,2,2:27,1347,1347,Annika Jank missed Layup.,47,28,19,0,0.9387564898354981,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+156,2,2:27,1347,1347,Janea Bunn Offensive Rebound.,47,28,19,2,0.9387564898354981,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+157,2,2:25,1345,1345,Janea Bunn missed Layup.,47,28,19,0,0.9388911010528475,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+158,2,2:25,1345,1345,Danneka Voegeli Defensive Rebound.,47,28,19,8,0.9388911010528475,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+159,2,2:17,1337,1337,Sarah Jacobson missed Three Point Jumper.,47,28,19,0,0.9394290673643606,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+160,2,2:17,1337,1337,Colorado Defensive Rebound.,47,28,19,12,0.9394290673643606,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+161,2,2:05,1325,1325,Mathilde Diop missed Layup.,47,28,19,0,0.9402363277452395,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+162,2,2:05,1325,1325,Danneka Voegeli Defensive Rebound.,47,28,19,6,0.9402363277452395,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+163,2,1:59,1319,1319,Sarah Jacobson missed Three Point Jumper.,47,28,19,0,0.9406409981413941,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+164,2,1:59,1319,1319,Brecca Thomas Defensive Rebound.,47,28,19,9,0.9406409981413941,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+165,2,1:50,1310,1310,Mathilde Diop missed Jumper.,47,28,19,0,0.9412504260277739,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+166,2,1:50,1310,1310,Taylor Thunstedt Defensive Rebound.,47,28,19,10,0.9412504260277739,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+167,2,1:40,1300,1300,Danneka Voegeli missed Layup.,47,28,19,0,0.9419323745291687,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+168,2,1:40,1300,1300,Mathilde Diop Defensive Rebound.,47,28,19,15,0.9419323745291687,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+169,2,1:25,1285,1285,Mathilde Diop Turnover.,47,28,19,16,0.9429683421913762,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+170,2,1:09,1269,1269,Marina Fernandez Turnover.,47,28,19,1,0.9440959116054306,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+171,2,1:08,1268,1268,Janea Bunn Steal.,47,28,19,10,0.9441672894002462,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+172,2,0:58,1258,1258,Janea Bunn made Layup.,49,28,21,8,0.9585453364072324,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+173,2,0:50,1250,1250,Marina Fernandez missed Three Point Jumper.,49,28,21,0,0.9590386731246937,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+174,2,0:50,1250,1250,Peyton Carter Defensive Rebound.,49,28,21,25,0.9590386731246937,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+175,2,0:25,1225,1225,Peyton Carter made Layup.,51,28,23,18,0.9706506794229922,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,Colorado
+176,2,0:07,1207,1207,Danneka Voegeli made Jumper. Assisted by Marina Fernandez.,51,30,21,2,0.9618131291171169,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,North Dakota State
+177,2,0:05,1205,1205,Annika Jank Turnover.,51,30,21,0,0.9619447945386531,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+178,2,0:05,1205,1205,Taylor Thunstedt Steal.,51,30,21,2,0.9619447945386531,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+179,2,0:03,1203,1203,Taylor Thunstedt missed Jumper.,51,30,21,2,0.9620754673013783,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+180,2,0:01,1201,1201,Peyton Carter Defensive Rebound.,51,30,21,1,0.9622051709243387,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+181,2,0:00,1200,1200,End of 2nd Quarter,51,30,21,10,0.9622696665818932,Colorado,North Dakota State,4,4,0,0,NA,400994380,2017-11-29,
+182,3,9:50,1190,1190,Janea Bunn missed Layup.,51,30,21,0,0.9629022424239126,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+183,3,9:50,1190,1190,Aubrey Knight Offensive Rebound.,51,30,21,2,0.9629022424239126,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+184,3,9:48,1188,1188,Aubrey Knight missed Layup.,51,30,21,0,0.9630262010988166,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+185,3,9:48,1188,1188,Reilly Jacobson Block.,51,30,21,2,0.9630262010988166,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+186,3,9:46,1186,1186,Macey Kvilvang Defensive Rebound.,51,30,21,6,0.9631493584456127,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+187,3,9:40,1180,1180,Reilly Jacobson made Layup. Assisted by Marina Fernandez.,51,32,19,14,0.9508223237737127,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,North Dakota State
+188,3,9:26,1166,1166,Aubrey Knight made Jumper.,53,32,21,15,0.9643414226841809,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+189,3,9:11,1151,1151,Macey Kvilvang made Layup. Assisted by Reilly Jacobson.,53,34,19,8,0.9528520075851497,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,North Dakota State
+190,3,9:03,1143,1143,Kennedy Leonard missed Three Point Jumper.,53,34,19,0,0.9533911088807172,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+191,3,9:03,1143,1143,Janea Bunn Offensive Rebound.,53,34,19,5,0.9533911088807172,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+192,3,8:58,1138,1138,Foul on Macey Kvilvang.,53,34,19,0,0.9537246565305049,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+193,3,8:58,1138,1138,Janea Bunn made Free Throw.,54,34,20,0,0.9602665140156681,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+194,3,8:58,1138,1138,Janea Bunn made Free Throw.,55,34,21,12,0.9659166115838406,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+195,3,8:46,1126,1126,Reilly Jacobson missed Layup.,55,34,21,0,0.9665688114587552,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+196,3,8:46,1126,1126,Aubrey Knight Defensive Rebound.,55,34,21,5,0.9665688114587552,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+197,3,8:41,1121,1121,Kennedy Leonard Turnover.,55,34,21,2,0.9668377872327816,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+198,3,8:39,1119,1119,Taylor Thunstedt Steal.,55,34,21,3,0.9669450033690206,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+199,3,8:36,1116,1116,Foul on Kennedy Leonard.,55,34,21,0,0.9671054717724278,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+200,3,8:36,1116,1116,Taylor Thunstedt made Free Throw.,55,35,20,0,0.9615800578443887,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,North Dakota State
+201,3,8:36,1116,1116,Taylor Thunstedt made Free Throw.,55,36,19,5,0.9551695434345641,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,North Dakota State
+202,3,8:31,1111,1111,Alexis Robinson made Layup. Assisted by Kennedy Leonard.,57,36,21,12,0.9673720877631328,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+203,3,8:19,1099,1099,Taylor Thunstedt missed Three Point Jumper.,57,36,21,0,0.9680088826457722,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+204,3,8:19,1099,1099,Alexis Robinson Defensive Rebound.,57,36,21,4,0.9680088826457722,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+205,3,8:15,1095,1095,Foul on Alexis Robinson.,57,36,21,1,0.9682205462960476,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+206,3,8:14,1094,1094,Taylor Thunstedt missed Three Point Jumper.,57,36,21,0,0.968273437524879,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+207,3,8:14,1094,1094,Janea Bunn Defensive Rebound.,57,36,21,22,0.968273437524879,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+208,3,7:52,1072,1072,Annika Jank made Jumper. Assisted by Kennedy Leonard.,59,36,23,10,0.9778211819423444,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+209,3,7:42,1062,1062,Sarah Jacobson missed Layup.,59,36,23,0,0.9782474474514268,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+210,3,7:42,1062,1062,Janea Bunn Defensive Rebound.,59,36,23,9,0.9782474474514268,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+211,3,7:33,1053,1053,Kennedy Leonard Turnover.,59,36,23,1,0.9786327896197216,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+212,3,7:32,1052,1052,Marina Fernandez Steal.,59,36,23,5,0.9786757342120455,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+213,3,7:27,1047,1047,Sarah Jacobson missed Three Point Jumper.,59,36,23,0,0.9788909046484351,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+214,3,7:27,1047,1047,Aubrey Knight Defensive Rebound.,59,36,23,7,0.9788909046484351,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+215,3,7:20,1040,1040,Brecca Thomas Turnover.,59,36,23,8,0.9791935345520206,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+216,3,7:12,1032,1032,Foul on Janea Bunn.,59,36,23,0,0.9795416681057466,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+217,3,7:12,1032,1032,Marina Fernandez missed Free Throw.,59,36,23,0,0.9795416681057466,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+218,3,7:12,1032,1032,North Dakota State Deadball Team Rebound.,59,36,23,0,0.9795416681057466,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+219,3,7:12,1032,1032,Marina Fernandez missed Free Throw.,59,36,23,0,0.9795416681057466,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+220,3,7:12,1032,1032,Janea Bunn Defensive Rebound.,59,36,23,10,0.9795416681057466,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+221,3,7:02,1022,1022,Mya Hollingshed made Jumper.,61,36,25,15,0.9856446122715771,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+222,3,6:47,1007,1007,Sarah Jacobson Turnover.,61,36,25,1,0.986167229057332,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+223,3,6:46,1006,1006,Aubrey Knight Steal.,61,36,25,3,0.9862023385075676,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+224,3,6:43,1003,1003,Kennedy Leonard made Layup. Assisted by Aubrey Knight.,63,36,27,14,0.9902367596483928,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+225,3,6:29,989,989,Taylor Thunstedt Turnover.,63,36,27,1,0.9906202673831153,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+226,3,6:28,988,988,Janea Bunn Steal.,63,36,27,4,0.9906478267822659,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+227,3,6:24,984,984,Kennedy Leonard made Layup. Assisted by Mya Hollingshed.,65,36,29,5,0.9934454567029511,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+228,3,6:19,979,979,Official TV Timeout,65,36,29,14,0.993551244878513,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+229,3,6:05,965,965,Rylee Nudell missed Three Point Jumper.,65,36,29,0,0.993846425121087,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+230,3,6:05,965,965,Mya Hollingshed Block.,65,36,29,3,0.993846425121087,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+231,3,6:02,962,962,Kennedy Leonard Defensive Rebound.,65,36,29,3,0.9939066011397061,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+232,3,5:59,959,959,Mya Hollingshed made Layup. Assisted by Kennedy Leonard.,67,36,31,17,0.9957482703204966,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+233,3,5:42,942,942,Taylor Thunstedt missed Three Point Jumper.,67,36,31,0,0.9959782129807383,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+234,3,5:42,942,942,Brecca Thomas Defensive Rebound.,67,36,31,7,0.9959782129807383,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+235,3,5:35,935,935,Foul on Tyrah Spencer.,67,36,31,0,0.9960640866946325,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+236,3,5:35,935,935,Kennedy Leonard made Free Throw.,68,36,32,0,0.9967054118596299,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+237,3,5:35,935,935,Kennedy Leonard made Free Throw.,69,36,33,16,0.9972425275791673,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+238,3,5:19,919,919,Rylee Nudell missed Jumper.,69,36,33,0,0.9973774428665138,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+239,3,5:19,919,919,Mya Hollingshed Defensive Rebound.,69,36,33,11,0.9973774428665138,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+240,3,5:08,908,908,Zoe Correal made Layup. Assisted by Mathilde Diop.,71,36,35,12,0.9982319569409822,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+241,3,4:56,896,896,Tyrah Spencer missed Layup.,71,36,35,0,0.9982965398890773,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+242,3,4:56,896,896,Danneka Voegeli Offensive Rebound.,71,36,35,6,0.9982965398890773,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+243,3,4:50,890,890,Foul on Mathilde Diop.,71,36,35,0,0.9983275439358507,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+244,3,4:50,890,890,Official TV Timeout,71,36,35,0,0.9983275439358507,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+245,3,4:50,890,890,Kennedy Childers missed Free Throw.,71,36,35,0,0.9983275439358507,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+246,3,4:50,890,890,North Dakota State Deadball Team Rebound.,71,36,35,0,0.9983275439358507,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+247,3,4:50,890,890,Kennedy Childers made Free Throw.,71,37,34,0,0.997993121111719,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,North Dakota State
+248,3,4:50,890,890,Kennedy Childers made Free Throw.,71,38,33,16,0.997591988693323,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,North Dakota State
+249,3,4:34,874,874,Mathilde Diop Turnover.,71,38,33,1,0.9977001276721165,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+250,3,4:33,873,873,Rylee Nudell Steal.,71,38,33,6,0.997706740030176,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+251,3,4:27,867,867,Danneka Voegeli missed Jumper.,71,38,33,0,0.9977461546699351,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+252,3,4:27,867,867,Peyton Carter Defensive Rebound.,71,38,33,7,0.9977461546699351,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+253,3,4:20,860,860,Foul on Kennedy Childers.,71,38,33,0,0.9977916996952167,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+254,3,4:20,860,860,Peyton Carter made Free Throw.,72,38,34,0,0.9981644494426148,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+255,3,4:20,860,860,Peyton Carter missed Free Throw.,72,38,34,0,0.9981644494426148,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+256,3,4:20,860,860,Danneka Voegeli Defensive Rebound.,72,38,34,5,0.9981644494426148,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+257,3,4:15,855,855,Autumn Ogden Turnover.,72,38,34,1,0.9981921508605297,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+258,3,4:14,854,854,Sara Castro Steal.,72,38,34,4,0.9981976791026553,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+259,3,4:10,850,850,Peyton Carter missed Three Point Jumper.,72,38,34,0,0.9982197659254001,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+260,3,4:10,850,850,Rylee Nudell Defensive Rebound.,72,38,34,7,0.9982197659254001,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+261,3,4:03,843,843,Kennedy Childers made Layup. Assisted by Autumn Ogden.,72,40,32,31,0.9974714956640102,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,North Dakota State
+262,3,3:32,812,812,Zoe Correal made Layup. Assisted by Peyton Carter.,74,40,34,25,0.9984315252960065,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+263,3,3:07,787,787,Danneka Voegeli missed Layup.,74,40,34,0,0.9985772246905243,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+264,3,3:07,787,787,Sara Castro Defensive Rebound.,74,40,34,7,0.9985772246905243,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+265,3,3:00,780,780,Peyton Carter made Layup.,76,40,36,14,0.9990622363284839,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+266,3,2:46,766,766,Foul on Kennedy Childers.,76,40,36,0,0.9991239406800102,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+267,3,2:46,766,766,Kennedy Childers Turnover.,76,40,36,0,0.9991239406800102,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+268,3,2:46,766,766,Jamie Curtis made Layup. Assisted by Alexis Robinson.,78,40,38,0,0.9994073223190071,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+269,3,2:46,766,766,Michelle Gaislerova made Jumper.,78,42,36,0,0.9991239406800102,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,North Dakota State
+270,3,2:46,766,766,Jamie Curtis missed Layup.,78,42,36,0,0.9991239406800102,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+271,3,2:46,766,766,Michelle Gaislerova Defensive Rebound.,78,42,36,51,0.9991239406800102,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+272,3,1:55,715,715,Michelle Gaislerova missed Three Point Jumper.,78,42,36,0,0.9993504124591363,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+273,3,1:55,715,715,Alexis Robinson Defensive Rebound.,78,42,36,9,0.9993504124591363,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+274,3,1:46,706,706,Sara Castro Turnover.,78,42,36,13,0.9993825027573113,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+275,3,1:33,693,693,Tyrah Spencer missed Layup.,78,42,36,0,0.9994234694044756,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+276,3,1:33,693,693,Jamie Curtis Block.,78,42,36,2,0.9994234694044756,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+277,3,1:31,691,691,Jamie Curtis Defensive Rebound.,78,42,36,4,0.9994293089945792,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+278,3,1:27,687,687,Annika Jank made Layup. Assisted by Peyton Carter.,80,42,38,17,0.999630958461172,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+279,3,1:10,670,670,Autumn Ogden missed Jumper.,80,42,38,0,0.9996619023625775,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+280,3,1:10,670,670,Peyton Carter Defensive Rebound.,80,42,38,9,0.9996619023625775,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+281,3,1:01,661,661,Jamie Curtis Turnover.,80,42,38,0,0.9996769667874297,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+282,3,1:01,661,661,Reilly Jacobson Steal.,80,42,38,9,0.9996769667874297,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+283,3,0:52,652,652,Sarah Jacobson missed Three Point Jumper.,80,42,38,0,0.9996914367541673,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+284,3,0:52,652,652,Alexis Robinson Defensive Rebound.,80,42,38,14,0.9996914367541673,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+285,3,0:38,638,638,Foul on Jamie Curtis.,80,42,38,0,0.9997132226210107,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+286,3,0:38,638,638,Jamie Curtis Turnover.,80,42,38,10,0.9997132226210107,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+287,3,0:28,628,628,Reilly Jacobson missed Layup.,80,42,38,0,0.9997285275778158,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+288,3,0:28,628,628,Annika Jank Defensive Rebound.,80,42,38,25,0.9997285275778158,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+289,3,0:03,603,603,Sara Castro missed Jumper.,80,42,38,0,0.9997668962616423,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+290,3,0:03,603,603,Sarah Jacobson Defensive Rebound.,80,42,38,2,0.9997668962616423,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+291,3,0:01,601,601,Foul on Sara Castro.,80,42,38,0,0.9997700015314015,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+292,3,0:01,601,601,Sarah Jacobson made Free Throw.,80,43,37,0,0.9997132907132692,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,North Dakota State
+293,3,0:01,601,601,Sarah Jacobson made Free Throw.,80,44,36,1,0.9996426016838311,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,North Dakota State
+294,3,0:00,600,600,End of 3rd Quarter,80,42,38,24,0.9997715567913354,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+295,4,9:36,576,576,Jamie Curtis missed Layup.,80,44,36,0,0.9997008454063677,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,North Dakota State
+296,4,9:36,576,576,Marina Fernandez Block.,80,44,36,0,0.9997008454063677,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,
+297,4,9:36,576,576,Colorado Offensive Rebound.,80,44,36,3,0.9997008454063677,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,
+298,4,9:33,573,573,Aubrey Knight made Layup. Assisted by Peyton Carter.,82,44,38,11,0.9998141608523401,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,Colorado
+299,4,9:22,562,562,Sarah Jacobson Turnover.,82,44,38,12,0.9998317112758852,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,
+300,4,9:10,550,550,Peyton Carter Turnover.,82,44,38,1,0.9998507593912294,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,
+301,4,9:09,549,549,Macey Kvilvang Steal.,82,44,38,8,0.9998523181853991,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,
+302,4,9:01,541,541,Foul on Aubrey Knight.,82,44,38,8,0.9998636098499254,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,
+303,4,8:53,533,533,Michelle Gaislerova missed Jumper.,82,44,38,0,0.9998731728557554,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,
+304,4,8:53,533,533,Colorado Defensive Rebound.,82,44,38,18,0.9998731728557554,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,
+305,4,8:35,515,515,Foul on Reilly Jacobson.,82,44,38,0,0.9998904472791393,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,
+306,4,8:35,515,515,Janea Bunn made Free Throw.,83,44,39,0,0.9999138184842045,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,Colorado
+307,4,8:35,515,515,Janea Bunn missed Free Throw.,83,44,39,0,0.9999138184842045,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,
+308,4,8:35,515,515,Macey Kvilvang Defensive Rebound.,83,44,39,7,0.9999138184842045,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,
+309,4,8:28,508,508,Macey Kvilvang missed Jumper.,83,44,39,0,0.9999184141285605,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,
+310,4,8:28,508,508,Janea Bunn Defensive Rebound.,83,44,39,25,0.9999184141285605,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,
+311,4,8:03,483,483,Aubrey Knight missed Layup.,83,44,39,0,0.9999331644729568,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,
+312,4,8:03,483,483,Janea Bunn Offensive Rebound.,83,44,39,2,0.9999331644729568,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,
+313,4,8:01,481,481,Janea Bunn made Layup.,85,44,41,9,0.9999599047410573,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,Colorado
+314,4,7:52,472,472,Reilly Jacobson made Jumper. Assisted by Marina Fernandez.,85,46,39,13,0.9999394185350218,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,North Dakota State
+315,4,7:39,459,459,Aubrey Knight Turnover.,85,46,39,5,0.9999469185412838,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,
+316,4,7:34,454,454,Sarah Jacobson missed Three Point Jumper.,85,46,39,0,0.9999498490391983,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,
+317,4,7:34,454,454,Marina Fernandez Offensive Rebound.,85,46,39,12,0.9999498490391983,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,
+318,4,7:22,442,442,Sarah Jacobson made Jumper.,85,48,37,3,0.9999279292751881,Colorado,North Dakota State,6,6,0,0,NA,400994380,2017-11-29,North Dakota State
+319,4,7:19,439,439,Colorado  Timeout,85,48,37,12,0.9999307677064287,Colorado,North Dakota State,6,5,0,1,NA,400994380,2017-11-29,
+320,4,7:07,427,427,Mya Hollingshed Turnover.,85,48,37,12,0.9999420093505401,Colorado,North Dakota State,6,5,0,1,NA,400994380,2017-11-29,
+321,4,6:55,415,415,Danneka Voegeli missed Layup.,85,48,37,0,0.9999513106821875,Colorado,North Dakota State,6,5,0,1,NA,400994380,2017-11-29,
+322,4,6:55,415,415,Janea Bunn Block.,85,48,37,2,0.9999513106821875,Colorado,North Dakota State,6,5,0,1,NA,400994380,2017-11-29,
+323,4,6:53,413,413,Sarah Jacobson Offensive Rebound.,85,48,37,3,0.9999526552655142,Colorado,North Dakota State,6,5,0,1,NA,400994380,2017-11-29,
+324,4,6:50,410,410,Marina Fernandez missed Three Point Jumper.,85,48,37,0,0.9999545824769305,Colorado,North Dakota State,6,5,0,1,NA,400994380,2017-11-29,
+325,4,6:50,410,410,Kennedy Leonard Defensive Rebound.,85,48,37,27,0.9999545824769305,Colorado,North Dakota State,6,5,0,1,NA,400994380,2017-11-29,
+326,4,6:23,383,383,Mya Hollingshed made Three Point Jumper. Assisted by Kennedy Leonard.,88,48,40,10,0.9999864069386286,Colorado,North Dakota State,6,5,0,1,NA,400994380,2017-11-29,Colorado
+327,4,6:13,373,373,Michelle Gaislerova missed Three Point Jumper.,88,48,40,0,0.9999883290255369,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,
+328,4,6:13,373,373,Mathilde Diop Defensive Rebound.,88,48,40,12,0.9999883290255369,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,
+329,4,6:01,361,361,Janea Bunn made Layup. Assisted by Kennedy Leonard.,90,48,42,12,0.9999946155294405,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,Colorado
+330,4,5:49,349,349,Marina Fernandez made Three Point Jumper.,90,51,39,11,0.9999896298284936,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,North Dakota State
+331,4,5:38,338,338,Mya Hollingshed missed Three Point Jumper.,90,51,39,0,0.9999916533445424,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,
+332,4,5:38,338,338,Janea Bunn Offensive Rebound.,90,51,39,5,0.9999916533445424,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,
+333,4,5:33,333,333,Janea Bunn made Layup.,92,51,41,13,0.9999959077307843,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,Colorado
+334,4,5:20,320,320,Marina Fernandez missed Jumper.,92,51,41,0,0.9999970464532436,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,
+335,4,5:20,320,320,Kennedy Leonard Defensive Rebound.,92,51,41,9,0.9999970464532436,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,
+336,4,5:11,311,311,Mathilde Diop missed Layup.,92,51,41,0,0.9999977148226235,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,
+337,4,5:11,311,311,North Dakota State Defensive Rebound.,92,51,41,17,0.9999977148226235,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,
+338,4,4:54,294,294,Rylee Nudell missed Three Point Jumper.,92,51,41,0,0.9999983270968292,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,
+339,4,4:54,294,294,Zoe Correal Defensive Rebound.,92,51,41,7,0.9999983270968292,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,
+340,4,4:47,287,287,Peyton Carter made Layup.,94,51,43,11,0.9999991417251293,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,Colorado
+341,4,4:36,276,276,Sarah Jacobson Turnover.,94,51,43,1,0.9999990862467789,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,
+342,4,4:35,275,275,Sara Castro Steal.,94,51,43,4,0.9999990772865236,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,
+343,4,4:31,271,271,Sara Castro missed Layup.,94,51,43,0,0.9999990360692638,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,
+344,4,4:31,271,271,Marina Fernandez Defensive Rebound.,94,51,43,18,0.9999990360692638,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,
+345,4,4:13,253,253,Reilly Jacobson missed Jumper.,94,51,43,0,0.9999987878339616,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,
+346,4,4:13,253,253,Zoe Correal Defensive Rebound.,94,51,43,8,0.9999987878339616,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,
+347,4,4:05,245,245,Sara Castro made Three Point Jumper. Assisted by Peyton Carter.,97,51,46,9,0.9999994907206278,Colorado,North Dakota State,6,5,0,0,NA,400994380,2017-11-29,Colorado
+348,4,3:56,236,236,North Dakota State  Timeout,97,51,46,4,0.9999994714626296,Colorado,North Dakota State,5,5,1,0,NA,400994380,2017-11-29,
+349,4,3:52,232,232,Kennedy Childers missed Layup.,97,51,46,5,0.999999476940387,Colorado,North Dakota State,5,5,1,0,NA,400994380,2017-11-29,
+350,4,3:47,227,227,Sara Castro Defensive Rebound.,97,51,46,2,0.9999994984617452,Colorado,North Dakota State,5,5,1,0,NA,400994380,2017-11-29,
+351,4,3:45,225,225,Foul on Kennedy Childers.,97,51,46,14,0.9999995117782959,Colorado,North Dakota State,5,5,1,0,NA,400994380,2017-11-29,
+352,4,3:31,211,211,Peyton Carter made Layup.,99,51,48,12,0.9999998259896027,Colorado,North Dakota State,5,5,1,0,NA,400994380,2017-11-29,Colorado
+353,4,3:19,199,199,Foul on Zoe Correal.,99,51,48,0,0.9999999127162004,Colorado,North Dakota State,5,5,1,0,NA,400994380,2017-11-29,
+354,4,3:19,199,199,Tyrah Spencer Turnover.,99,51,48,1,0.9999999127162004,Colorado,North Dakota State,5,5,1,0,NA,400994380,2017-11-29,
+355,4,3:18,198,198,Mathilde Diop Steal.,99,51,48,3,0.999999918986015,Colorado,North Dakota State,5,5,1,0,NA,400994380,2017-11-29,
+356,4,3:15,195,195,Mathilde Diop made Layup.,101,51,50,17,0.9999999680729396,Colorado,North Dakota State,5,5,1,0,NA,400994380,2017-11-29,Colorado
+357,4,2:58,178,178,Kennedy Childers missed Layup.,101,51,50,0,0.9999999943968866,Colorado,North Dakota State,5,5,1,0,NA,400994380,2017-11-29,
+358,4,2:58,178,178,Mathilde Diop Defensive Rebound.,101,51,50,7,0.9999999943968866,Colorado,North Dakota State,5,5,1,0,NA,400994380,2017-11-29,
+359,4,2:51,171,171,Peyton Carter missed Layup.,101,51,50,0,0.9999999973656397,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+360,4,2:51,171,171,Macey Kvilvang Block.,101,51,50,0,0.9999999973656397,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+361,4,2:51,171,171,Colorado Offensive Rebound.,101,51,50,2,0.9999999973656397,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+362,4,2:49,169,169,Mya Hollingshed missed Layup.,101,51,50,0,0.99999999788562,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+363,4,2:49,169,169,Macey Kvilvang Block.,101,51,50,3,0.99999999788562,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+364,4,2:46,166,166,Mya Hollingshed Offensive Rebound.,101,51,50,3,0.9999999984861654,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+365,4,2:43,163,163,Peyton Carter missed Three Point Jumper.,101,51,50,0,0.9999999989223616,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+366,4,2:43,163,163,Kennedy Childers Defensive Rebound.,101,51,50,8,0.9999999989223616,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+367,4,2:35,155,155,Rylee Nudell missed Three Point Jumper.,101,51,50,0,0.9999999995788867,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+368,4,2:35,155,155,Mathilde Diop Defensive Rebound.,101,51,50,9,0.9999999995788867,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+369,4,2:26,146,146,Foul on Tyrah Spencer.,101,51,50,0,0.9999999998636588,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+370,4,2:26,146,146,Mya Hollingshed made Free Throw.,102,51,51,0,0.9999999999134396,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+371,4,2:26,146,146,Mya Hollingshed made Free Throw.,103,51,52,5,0.9999999999450444,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+372,4,2:21,141,141,Taylor Thunstedt made Three Point Jumper.,103,54,49,10,0.9999999998881116,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,North Dakota State
+373,4,2:11,131,131,Jamie Curtis Turnover.,103,54,49,8,0.9999999999724107,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+374,4,2:03,123,123,Kennedy Childers Turnover.,103,54,49,1,0.9999999999919026,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+375,4,2:02,122,122,Sara Castro Steal.,103,54,49,4,0.9999999999931036,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+376,4,1:58,118,118,Mathilde Diop made Layup. Assisted by Peyton Carter.,105,54,51,24,0.999999999998784,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+377,4,1:34,94,94,Taylor Thunstedt made Three Point Jumper. Assisted by Autumn Ogden.,105,57,48,10,0.9999999999999337,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,North Dakota State
+378,4,1:24,84,84,Peyton Carter made Layup.,107,57,50,0,0.999999999999998,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+379,4,1:24,84,84,Foul on Tyrah Spencer.,107,57,50,0,0.999999999999998,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+380,4,1:24,84,84,Peyton Carter made Free Throw.,108,57,51,20,0.999999999999999,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,Colorado
+381,4,1:04,64,64,Autumn Ogden missed Jumper.,108,57,51,0,1,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+382,4,1:04,64,64,North Dakota State Offensive Rebound.,108,57,51,5,1,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+383,4,0:59,59,59,Foul on Mathilde Diop.,108,57,51,0,1,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+384,4,0:59,59,59,Taylor Thunstedt made Free Throw.,108,58,50,0,1,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,North Dakota State
+385,4,0:59,59,59,Taylor Thunstedt made Free Throw.,108,59,49,10,1,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,North Dakota State
+386,4,0:49,49,49,Sara Castro missed Jumper.,108,59,49,0,1,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+387,4,0:49,49,49,Taylor Thunstedt Defensive Rebound.,108,59,49,6,1,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+388,4,0:43,43,43,Taylor Thunstedt Turnover.,108,59,49,1,1,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+389,4,0:42,42,42,Mathilde Diop Steal.,108,59,49,5,1,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+390,4,0:37,37,37,Mathilde Diop missed Layup.,108,59,49,0,1,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+391,4,0:37,37,37,Taylor Thunstedt Defensive Rebound.,108,59,49,10,1,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+392,4,0:27,27,27,Autumn Ogden missed Layup.,108,59,49,0,1,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+393,4,0:27,27,27,Peyton Carter Block.,108,59,49,3,1,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+394,4,0:24,24,24,Mya Hollingshed Defensive Rebound.,108,59,49,24,1,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,
+395,4,0:00,0,0,End of Game,108,59,49,0,1,Colorado,North Dakota State,5,5,0,0,NA,400994380,2017-11-29,

@@ -1,0 +1,431 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:55,2395,2395,Shay Colley Turnover.,0,0,0,0,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,NA
+2,1,9:55,2395,2395,Foul on Shay Colley.,0,0,0,26,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+3,1,9:29,2369,2369,Leah Somerfield Turnover.,0,0,0,1,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+4,1,9:28,2368,2368,Jenna Allen Steal.,0,0,0,0,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+5,1,9:28,2368,2368,Foul on Nikita Telesford.,0,0,0,10,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+6,1,9:18,2358,2358,Taryn McCutcheon made Jumper. Assisted by Shay Colley.,2,0,2,16,0.5449181103473372,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Michigan State
+7,1,9:02,2342,2342,Taylor Gleason Turnover.,2,0,2,12,0.5452642352579568,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+8,1,8:50,2330,2330,Taya Reimer missed Jumper.,2,0,2,0,0.5455259319330696,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+9,1,8:50,2330,2330,Taylor Jones Defensive Rebound.,2,0,2,14,0.5455259319330696,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+10,1,8:36,2316,2316,Taylor Jones missed Layup.,2,0,2,0,0.5458333887750282,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+11,1,8:36,2316,2316,Taya Reimer Block.,2,0,2,1,0.5458333887750282,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+12,1,8:35,2315,2315,Leah Somerfield Offensive Rebound.,2,0,2,1,0.5458554347780128,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+13,1,8:34,2314,2314,Leah Somerfield made Layup.,2,2,0,10,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Oakland
+14,1,8:24,2304,2304,Nikita Telesford Block.,2,2,0,0,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+15,1,8:24,2304,2304,Taya Reimer missed Jumper.,2,2,0,0,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+16,1,8:24,2304,2304,Nikita Telesford Defensive Rebound.,2,2,0,19,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+17,1,8:05,2285,2285,Taylor Gleason missed Three Point Jumper.,2,2,0,0,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+18,1,8:05,2285,2285,Jenna Allen Defensive Rebound.,2,2,0,7,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+19,1,7:58,2278,2278,Shay Colley missed Layup.,2,2,0,0,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+20,1,7:58,2278,2278,Leah Somerfield Defensive Rebound.,2,2,0,8,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+21,1,7:50,2270,2270,Taylor Gleason made Jumper.,2,4,-2,12,0.45314188206327277,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Oakland
+22,1,7:38,2258,2258,Jenna Allen missed Jumper.,2,4,-2,0,0.4528713407795984,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+23,1,7:38,2258,2258,Nikita Telesford Defensive Rebound.,2,4,-2,14,0.4528713407795984,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+24,1,7:24,2244,2244,Cierra Bond missed Jumper.,2,4,-2,0,0.4525542545819073,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+25,1,7:24,2244,2244,Shay Colley Defensive Rebound.,2,4,-2,7,0.4525542545819073,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+26,1,7:17,2237,2237,Shay Colley made Layup.,4,4,0,31,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Michigan State
+27,1,6:46,2206,2206,Cierra Bond Turnover.,4,4,0,0,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+28,1,6:46,2206,2206,Jenna Allen Steal.,4,4,0,11,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+29,1,6:35,2195,2195,Taryn McCutcheon missed Three Point Jumper.,4,4,0,0,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+30,1,6:35,2195,2195,Sidney Cooks Offensive Rebound.,4,4,0,7,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+31,1,6:28,2188,2188,Sidney Cooks Turnover.,4,4,0,1,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+32,1,6:27,2187,2187,Chloe Guingrich Steal.,4,4,0,6,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+33,1,6:21,2181,2181,Foul on Taryn McCutcheon.,4,4,0,12,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+34,1,6:09,2169,2169,Taylor Jones missed Jumper.,4,4,0,0,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+35,1,6:09,2169,2169,Shay Colley Defensive Rebound.,4,4,0,7,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+36,1,6:02,2162,2162,Shay Colley Turnover.,4,4,0,1,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+37,1,6:01,2161,2161,Leah Somerfield Steal.,4,4,0,5,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+38,1,5:56,2156,2156,Sha'Keya Graves missed Three Point Jumper.,4,4,0,0,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+39,1,5:56,2156,2156,Mardrekia Cook Defensive Rebound.,4,4,0,8,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+40,1,5:48,2148,2148,Taryn McCutcheon missed Three Point Jumper.,4,4,0,0,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+41,1,5:48,2148,2148,Michigan State Offensive Rebound.,4,4,0,6,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+42,1,5:42,2142,2142,Shay Colley missed Three Point Jumper.,4,4,0,0,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+43,1,5:42,2142,2142,Branndais Agee Offensive Rebound.,4,4,0,4,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+44,1,5:38,2138,2138,Foul on Leah Somerfield.,4,4,0,0,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+45,1,5:38,2138,2138,Branndais Agee made Free Throw.,5,4,1,0,0.5250049301600552,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Michigan State
+46,1,5:38,2138,2138,Branndais Agee made Free Throw.,6,4,2,19,0.549885098381004,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Michigan State
+47,1,5:19,2119,2119,Taylor Gleason made Layup. Assisted by Leah Somerfield.,6,6,0,8,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Oakland
+48,1,5:11,2111,2111,Shay Colley missed Layup.,6,6,0,0,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+49,1,5:11,2111,2111,Chloe Guingrich Defensive Rebound.,6,6,0,10,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+50,1,5:01,2101,2101,Taylor Gleason missed Three Point Jumper.,6,6,0,0,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+51,1,5:01,2101,2101,Shay Colley Defensive Rebound.,6,6,0,23,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+52,1,4:38,2078,2078,Sidney Cooks Turnover.,6,6,0,0,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+53,1,4:38,2078,2078,Official TV Timeout,6,6,0,10,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+54,1,4:28,2068,2068,Taylor Gleason Turnover.,6,6,0,1,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+55,1,4:27,2067,2067,Branndais Agee Steal.,6,6,0,0,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+56,1,4:27,2067,2067,Foul on Cierra Bond.,6,6,0,10,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+57,1,4:17,2057,2057,Kennedy Johnson made Jumper. Assisted by Victoria Gaines.,8,6,2,23,0.5518062549456831,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Michigan State
+58,1,3:54,2034,2034,Cierra Bond made Layup.,8,8,0,15,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Oakland
+59,1,3:39,2019,2019,Victoria Gaines Turnover.,8,8,0,2,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+60,1,3:37,2017,2017,Sha'Keya Graves Steal.,8,8,0,11,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+61,1,3:26,2006,2006,Cierra Bond missed Three Point Jumper.,8,8,0,0,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+62,1,3:26,2006,2006,Leah Somerfield Offensive Rebound.,8,8,0,4,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+63,1,3:22,2002,2002,Foul on Branndais Agee.,8,8,0,0,0.5,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+64,1,3:22,2002,2002,Leah Somerfield made Free Throw.,8,9,-1,0,0.47334909267103764,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Oakland
+65,1,3:22,2002,2002,Leah Somerfield missed Free Throw.,8,9,-1,0,0.47334909267103764,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+66,1,3:22,2002,2002,Branndais Agee Defensive Rebound.,8,9,-1,2,0.47334909267103764,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+67,1,3:20,2000,2000,Victoria Gaines missed Layup.,8,9,-1,0,0.4733240847400063,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+68,1,3:20,2000,2000,Leah Somerfield Defensive Rebound.,8,9,-1,18,0.4733240847400063,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+69,1,3:02,1982,1982,Leah Somerfield made Three Point Jumper. Assisted by Taylor Gleason.,8,12,-4,23,0.39392310017329546,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Oakland
+70,1,2:39,1959,1959,Taya Reimer made Jumper. Assisted by Taryn McCutcheon.,10,12,-2,12,0.4457712209062565,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Michigan State
+71,1,2:27,1947,1947,Cierra Bond missed Three Point Jumper.,10,12,-2,0,0.4454657953323223,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+72,1,2:27,1947,1947,Branndais Agee Defensive Rebound.,10,12,-2,8,0.4454657953323223,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+73,1,2:19,1939,1939,Taya Reimer made Three Point Jumper. Assisted by Branndais Agee.,13,12,1,20,0.5274519999302029,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Michigan State
+74,1,1:59,1919,1919,Chloe Guingrich made Jumper. Assisted by Leah Somerfield.,13,14,-1,11,0.47228815893659803,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Oakland
+75,1,1:48,1908,1908,Taryn McCutcheon made Jumper.,15,14,1,23,0.5278546447569822,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Michigan State
+76,1,1:25,1885,1885,Sha'Keya Graves made Jumper.,15,16,-1,19,0.4718470119514636,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Oakland
+77,1,1:06,1866,1866,Foul on Cierra Bond.,15,16,-1,0,0.47160025836290864,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+78,1,1:06,1866,1866,Nia Hollie made Layup.,17,16,1,0,0.5283997416370915,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Michigan State
+79,1,1:06,1866,1866,Nia Hollie made Free Throw.,18,16,2,4,0.5566168271252337,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Michigan State
+80,1,1:02,1862,1862,Foul on Taryn McCutcheon.,18,16,2,12,0.5567198974471086,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+81,1,0:50,1850,1850,Nikita Telesford missed Layup.,18,16,2,0,0.5570296260454703,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+82,1,0:50,1850,1850,Sidney Cooks Block.,18,16,2,1,0.5570296260454703,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+83,1,0:49,1849,1849,Oakland Offensive Rebound.,18,16,2,11,0.5570554774626687,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+84,1,0:38,1838,1838,Taylor Gleason missed Jumper.,18,16,2,0,0.5573403373214619,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+85,1,0:38,1838,1838,Shay Colley Defensive Rebound.,18,16,2,5,0.5573403373214619,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+86,1,0:33,1833,1833,Lexi Gussert made Layup. Assisted by Shay Colley.,20,16,4,12,0.6134415987289824,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Michigan State
+87,1,0:21,1821,1821,Taylor Jones missed Jumper.,20,16,4,0,0.6140423435420265,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+88,1,0:21,1821,1821,Oakland Offensive Rebound.,20,16,4,15,0.6140423435420265,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+89,1,0:06,1806,1806,Foul on Nia Hollie.,20,16,4,0,0.6147973524782013,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+90,1,0:06,1806,1806,Sha'Keya Graves missed Free Throw.,20,16,4,0,0.6147973524782013,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+91,1,0:06,1806,1806,Oakland Deadball Team Rebound.,20,16,4,0,0.6147973524782013,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+92,1,0:06,1806,1806,Sha'Keya Graves made Free Throw.,20,17,3,5,0.5867733419022352,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Oakland
+93,1,0:01,1801,1801,Taya Reimer missed Three Point Jumper.,20,17,3,0,0.5869674990168224,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+94,1,0:01,1801,1801,Michigan State Deadball Team Rebound.,20,17,3,1,0.5869674990168224,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+95,1,0:00,1800,1800,End of 1st Quarter,20,17,3,18,0.5870063911476985,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+96,2,9:42,1782,1782,Sha'Keya Graves missed Jumper.,20,17,3,0,0.5877102167110865,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+97,2,9:42,1782,1782,Shay Colley Defensive Rebound.,20,17,3,10,0.5877102167110865,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+98,2,9:32,1772,1772,Nia Hollie made Jumper.,22,17,5,24,0.644181353321751,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Michigan State
+99,2,9:08,1748,1748,Taylor Jones missed Layup.,22,17,5,0,0.6456912786474477,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+100,2,9:08,1748,1748,Taya Reimer Defensive Rebound.,22,17,5,5,0.6456912786474477,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+101,2,9:03,1743,1743,Lexi Gussert missed Three Point Jumper.,22,17,5,0,0.6460091523158173,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+102,2,9:03,1743,1743,Shay Colley Offensive Rebound.,22,17,5,10,0.6460091523158173,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,
+103,2,8:53,1733,1733,Taya Reimer made Layup. Assisted by Lexi Gussert.,24,17,7,3,0.6997434135521371,Michigan State,Oakland,4,4,0,0,NA,400993667,2017-11-13,Michigan State
+104,2,8:50,1730,1730,Oakland  Timeout,24,17,7,0,0.6999916645290911,Michigan State,Oakland,4,3,0,1,NA,400993667,2017-11-13,
+105,2,8:50,1730,1730,Official TV Timeout,24,17,7,24,0.6999916645290911,Michigan State,Oakland,4,3,0,1,NA,400993667,2017-11-13,
+106,2,8:26,1706,1706,Leah Somerfield made Layup.,24,19,5,2,0.6484026776117341,Michigan State,Oakland,4,3,0,1,NA,400993667,2017-11-13,Oakland
+107,2,8:24,1704,1704,Foul on Jenna Allen.,24,19,5,0,0.648534322061711,Michigan State,Oakland,4,3,0,1,NA,400993667,2017-11-13,
+108,2,8:24,1704,1704,Leah Somerfield missed Free Throw.,24,19,5,0,0.648534322061711,Michigan State,Oakland,4,3,0,1,NA,400993667,2017-11-13,
+109,2,8:24,1704,1704,Taya Reimer Defensive Rebound.,24,19,5,5,0.648534322061711,Michigan State,Oakland,4,3,0,1,NA,400993667,2017-11-13,
+110,2,8:19,1699,1699,Nia Hollie Turnover.,24,19,5,7,0.6488645358743546,Michigan State,Oakland,4,3,0,1,NA,400993667,2017-11-13,
+111,2,8:12,1692,1692,Taylor Jones Turnover.,24,19,5,16,0.6493295473226849,Michigan State,Oakland,4,3,0,1,NA,400993667,2017-11-13,
+112,2,7:56,1676,1676,Shay Colley missed Jumper.,24,19,5,0,0.6503874541020207,Michigan State,Oakland,4,3,0,1,NA,400993667,2017-11-13,
+113,2,7:56,1676,1676,Sha'Keya Graves Defensive Rebound.,24,19,5,9,0.6503874541020207,Michigan State,Oakland,4,3,0,1,NA,400993667,2017-11-13,
+114,2,7:47,1667,1667,Taylor Jones Turnover.,24,19,5,11,0.6509714805902108,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,
+115,2,7:36,1656,1656,Taya Reimer Turnover.,24,19,5,10,0.6516759707504919,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,
+116,2,7:26,1646,1646,Taylor Jones missed Jumper.,24,19,5,0,0.6523088524925122,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,
+117,2,7:26,1646,1646,Branndais Agee Defensive Rebound.,24,19,5,11,0.6523088524925122,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,
+118,2,7:15,1635,1635,Taya Reimer made Layup.,26,19,7,2,0.7078867470638993,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,Michigan State
+119,2,7:13,1633,1633,Foul on Leah Somerfield.,26,19,7,0,0.7080460679096371,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,
+120,2,7:13,1633,1633,Taya Reimer made Free Throw.,27,19,8,14,0.7335036753024412,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,Michigan State
+121,2,6:59,1619,1619,Foul on Jenna Allen.,27,19,8,16,0.7347020184930225,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,
+122,2,6:43,1603,1603,Foul on Kennedy Johnson.,27,19,8,0,0.7360610686449504,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,
+123,2,6:43,1603,1603,Nikita Telesford missed Free Throw.,27,19,8,0,0.7360610686449504,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,
+124,2,6:43,1603,1603,Oakland Deadball Team Rebound.,27,19,8,0,0.7360610686449504,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,
+125,2,6:43,1603,1603,Nikita Telesford missed Free Throw.,27,19,8,0,0.7360610686449504,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,
+126,2,6:43,1603,1603,Kennedy Johnson Defensive Rebound.,27,19,8,11,0.7360610686449504,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,
+127,2,6:32,1592,1592,Mardrekia Cook made Layup.,29,19,10,1,0.7838073714502127,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,Michigan State
+128,2,6:31,1591,1591,Foul on Nikita Telesford.,29,19,10,0,0.7838998628832572,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,
+129,2,6:31,1591,1591,Mardrekia Cook missed Free Throw.,29,19,10,0,0.7838998628832572,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,
+130,2,6:31,1591,1591,Chloe Guingrich Defensive Rebound.,29,19,10,8,0.7838998628832572,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,
+131,2,6:23,1583,1583,Sha'Keya Graves made Three Point Jumper.,29,22,7,10,0.7119838481441289,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,Oakland
+132,2,6:13,1573,1573,Sidney Cooks made Three Point Jumper. Assisted by Shay Colley.,32,22,10,25,0.7855654540971436,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,Michigan State
+133,2,5:48,1548,1548,Sha'Keya Graves missed Three Point Jumper.,32,22,10,0,0.787895400291899,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,
+134,2,5:48,1548,1548,Kennedy Johnson Defensive Rebound.,32,22,10,11,0.787895400291899,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,
+135,2,5:37,1537,1537,Sidney Cooks made Jumper. Assisted by Shay Colley.,34,22,12,3,0.829516888742498,Michigan State,Oakland,4,3,0,0,NA,400993667,2017-11-13,Michigan State
+136,2,5:34,1534,1534,Oakland  Timeout,34,22,12,11,0.8298070735116938,Michigan State,Oakland,4,2,0,1,NA,400993667,2017-11-13,
+137,2,5:23,1523,1523,Taylor Jones missed Three Point Jumper.,34,22,12,0,0.8308780036388828,Michigan State,Oakland,4,2,0,1,NA,400993667,2017-11-13,
+138,2,5:23,1523,1523,Mardrekia Cook Defensive Rebound.,34,22,12,9,0.8308780036388828,Michigan State,Oakland,4,2,0,1,NA,400993667,2017-11-13,
+139,2,5:14,1514,1514,Foul on Cierra Bond.,34,22,12,0,0.8317634627998138,Michigan State,Oakland,4,2,0,1,NA,400993667,2017-11-13,
+140,2,5:14,1514,1514,Mardrekia Cook missed Free Throw.,34,22,12,0,0.8317634627998138,Michigan State,Oakland,4,2,0,1,NA,400993667,2017-11-13,
+141,2,5:14,1514,1514,Michigan State Deadball Team Rebound.,34,22,12,0,0.8317634627998138,Michigan State,Oakland,4,2,0,1,NA,400993667,2017-11-13,
+142,2,5:14,1514,1514,Mardrekia Cook made Free Throw.,35,22,13,3,0.8495861152443737,Michigan State,Oakland,4,2,0,1,NA,400993667,2017-11-13,Michigan State
+143,2,5:11,1511,1511,Taylor Gleason Turnover.,35,22,13,0,0.8498801415380074,Michigan State,Oakland,4,2,0,1,NA,400993667,2017-11-13,
+144,2,5:11,1511,1511,Foul on Taylor Gleason.,35,22,13,9,0.8498801415380074,Michigan State,Oakland,4,2,0,1,NA,400993667,2017-11-13,
+145,2,5:02,1502,1502,Branndais Agee missed Jumper.,35,22,13,0,0.8507686320666734,Michigan State,Oakland,4,2,0,1,NA,400993667,2017-11-13,
+146,2,5:02,1502,1502,Branndais Agee Offensive Rebound.,35,22,13,9,0.8507686320666734,Michigan State,Oakland,4,2,0,1,NA,400993667,2017-11-13,
+147,2,4:53,1493,1493,Foul on Mercy Agwaniru.,35,22,13,0,0.8516676159430304,Michigan State,Oakland,4,2,0,1,NA,400993667,2017-11-13,
+148,2,4:53,1493,1493,Branndais Agee missed Free Throw.,35,22,13,0,0.8516676159430304,Michigan State,Oakland,4,2,0,1,NA,400993667,2017-11-13,
+149,2,4:53,1493,1493,Michigan State Deadball Team Rebound.,35,22,13,0,0.8516676159430304,Michigan State,Oakland,4,2,0,1,NA,400993667,2017-11-13,
+150,2,4:53,1493,1493,Branndais Agee made Free Throw.,36,22,14,10,0.8678615923064523,Michigan State,Oakland,4,2,0,1,NA,400993667,2017-11-13,Michigan State
+151,2,4:43,1483,1483,Chloe Guingrich missed Layup.,36,22,14,0,0.8688510686393774,Michigan State,Oakland,4,2,0,1,NA,400993667,2017-11-13,
+152,2,4:43,1483,1483,Taya Reimer Block.,36,22,14,1,0.8688510686393774,Michigan State,Oakland,4,2,0,1,NA,400993667,2017-11-13,
+153,2,4:42,1482,1482,Sidney Cooks Defensive Rebound.,36,22,14,6,0.868950801965528,Michigan State,Oakland,4,2,0,1,NA,400993667,2017-11-13,
+154,2,4:36,1476,1476,Taya Reimer made Jumper. Assisted by Mardrekia Cook.,38,22,16,8,0.8973395726019887,Michigan State,Oakland,4,2,0,1,NA,400993667,2017-11-13,Michigan State
+155,2,4:28,1468,1468,Foul on Branndais Agee.,38,22,16,6,0.8980917551539006,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,
+156,2,4:22,1462,1462,Taylor Jones made Jumper.,38,24,14,5,0.8709784164083796,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,Oakland
+157,2,4:17,1457,1457,Sidney Cooks Turnover.,38,24,14,4,0.871495836531094,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,
+158,2,4:13,1453,1453,Foul on Sidney Cooks.,38,24,14,0,0.8719130226266979,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,
+159,2,4:13,1453,1453,Taylor Jones missed Free Throw.,38,24,14,0,0.8719130226266979,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,
+160,2,4:13,1453,1453,Oakland Deadball Team Rebound.,38,24,14,0,0.8719130226266979,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,
+161,2,4:13,1453,1453,Taylor Jones made Free Throw.,38,25,13,11,0.8558180250897651,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,Oakland
+162,2,4:02,1442,1442,Foul on Taylor Jones.,38,25,13,0,0.8569950200615625,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,
+163,2,4:02,1442,1442,Shay Colley missed Free Throw.,38,25,13,0,0.8569950200615625,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,
+164,2,4:02,1442,1442,Michigan State Deadball Team Rebound.,38,25,13,0,0.8569950200615625,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,
+165,2,4:02,1442,1442,Shay Colley made Free Throw.,39,25,14,12,0.8730597478310903,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,Michigan State
+166,2,3:50,1430,1430,Taylor Gleason Turnover.,39,25,14,8,0.8742731589090453,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,
+167,2,3:42,1422,1422,Sidney Cooks missed Three Point Jumper.,39,25,14,0,0.8750617527742082,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,
+168,2,3:42,1422,1422,Nia Hollie Offensive Rebound.,39,25,14,5,0.8750617527742082,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,
+169,2,3:37,1417,1417,Nia Hollie Turnover.,39,25,14,9,0.875547280598309,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,
+170,2,3:28,1408,1408,Myka Cromwell Turnover.,39,25,14,2,0.8764085346811687,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,
+171,2,3:26,1406,1406,Sidney Cooks Steal.,39,25,14,1,0.876597900084817,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,
+172,2,3:25,1405,1405,Shay Colley missed Layup.,39,25,14,0,0.8766923261922771,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,
+173,2,3:25,1405,1405,Nia Hollie Offensive Rebound.,39,25,14,4,0.8766923261922771,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,
+174,2,3:21,1401,1401,Nia Hollie made Layup.,41,25,16,13,0.9042759461627666,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,Michigan State
+175,2,3:08,1388,1388,Leah Somerfield Turnover.,41,25,16,1,0.9053816536528849,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,
+176,2,3:07,1387,1387,Shay Colley Steal.,41,25,16,3,0.905465814382977,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,
+177,2,3:04,1384,1384,Shay Colley made Layup. Assisted by Taya Reimer.,43,25,18,3,0.9272529149764003,Michigan State,Oakland,4,2,0,0,NA,400993667,2017-11-13,Michigan State
+178,2,3:01,1381,1381,Oakland  Timeout,43,25,18,7,0.9274758083222715,Michigan State,Oakland,4,1,0,1,NA,400993667,2017-11-13,
+179,2,2:54,1374,1374,Taylor Jones made Jumper.,43,27,16,8,0.9065506198272134,Michigan State,Oakland,4,1,0,1,NA,400993667,2017-11-13,Oakland
+180,2,2:46,1366,1366,Shay Colley made Layup. Assisted by Taya Reimer.,45,27,18,0,0.9285785846759743,Michigan State,Oakland,4,1,0,1,NA,400993667,2017-11-13,Michigan State
+181,2,2:46,1366,1366,Foul on Taylor Gleason.,45,27,18,0,0.9285785846759743,Michigan State,Oakland,4,1,0,1,NA,400993667,2017-11-13,
+182,2,2:46,1366,1366,Shay Colley missed Free Throw.,45,27,18,0,0.9285785846759743,Michigan State,Oakland,4,1,0,1,NA,400993667,2017-11-13,
+183,2,2:46,1366,1366,Taylor Jones Defensive Rebound.,45,27,18,10,0.9285785846759743,Michigan State,Oakland,4,1,0,1,NA,400993667,2017-11-13,
+184,2,2:36,1356,1356,Taylor Jones missed Three Point Jumper.,45,27,18,0,0.9293057773938614,Michigan State,Oakland,4,1,0,1,NA,400993667,2017-11-13,
+185,2,2:36,1356,1356,Lexi Gussert Defensive Rebound.,45,27,18,11,0.9293057773938614,Michigan State,Oakland,4,1,0,1,NA,400993667,2017-11-13,
+186,2,2:25,1345,1345,Sidney Cooks missed Three Point Jumper.,45,27,18,0,0.9301015509488665,Michigan State,Oakland,4,1,0,1,NA,400993667,2017-11-13,
+187,2,2:25,1345,1345,Taylor Jones Defensive Rebound.,45,27,18,9,0.9301015509488665,Michigan State,Oakland,4,1,0,1,NA,400993667,2017-11-13,
+188,2,2:16,1336,1336,Taylor Jones Turnover.,45,27,18,0,0.9307514326153824,Michigan State,Oakland,4,1,0,1,NA,400993667,2017-11-13,
+189,2,2:16,1336,1336,Sidney Cooks Steal.,45,27,18,10,0.9307514326153824,Michigan State,Oakland,4,1,0,1,NA,400993667,2017-11-13,
+190,2,2:06,1326,1326,Lexi Gussert missed Three Point Jumper.,45,27,18,0,0.9314742990178833,Michigan State,Oakland,4,1,0,1,NA,400993667,2017-11-13,
+191,2,2:06,1326,1326,Oakland Defensive Rebound.,45,27,18,26,0.9314742990178833,Michigan State,Oakland,4,1,0,1,NA,400993667,2017-11-13,
+192,2,1:40,1300,1300,Chloe Guingrich missed Layup.,45,27,18,0,0.9333718491887086,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+193,2,1:40,1300,1300,Sidney Cooks Defensive Rebound.,45,27,18,6,0.9333718491887086,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+194,2,1:34,1294,1294,Shay Colley missed Three Point Jumper.,45,27,18,0,0.9338160386091431,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+195,2,1:34,1294,1294,Nia Hollie Offensive Rebound.,45,27,18,5,0.9338160386091431,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+196,2,1:29,1289,1289,Nia Hollie Turnover.,45,27,18,1,0.9341886143373409,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+197,2,1:28,1288,1288,Myka Cromwell Steal.,45,27,18,5,0.93426341395681,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+198,2,1:23,1283,1283,Sha'Keya Graves missed Three Point Jumper.,45,27,18,0,0.9346389271010077,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+199,2,1:23,1283,1283,Leah Somerfield Offensive Rebound.,45,27,18,3,0.9346389271010077,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+200,2,1:20,1280,1280,Leah Somerfield made Layup.,45,29,16,10,0.9143507783345922,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,Oakland
+201,2,1:10,1270,1270,Foul on Myka Cromwell.,45,29,16,0,0.915223518564678,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+202,2,1:10,1270,1270,Nia Hollie made Free Throw.,46,29,17,0,0.926071089520118,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,Michigan State
+203,2,1:10,1270,1270,Nia Hollie made Free Throw.,47,29,18,17,0.9356282842190983,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,Michigan State
+204,2,0:53,1253,1253,Leah Somerfield missed Layup.,47,29,18,0,0.9369550161478176,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+205,2,0:53,1253,1253,Sidney Cooks Block.,47,29,18,1,0.9369550161478176,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+206,2,0:52,1252,1252,Mardrekia Cook Defensive Rebound.,47,29,18,14,0.937034356842128,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+207,2,0:38,1238,1238,Foul on Myka Cromwell.,47,29,18,0,0.9381617515769112,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+208,2,0:38,1238,1238,Lexi Gussert missed Free Throw.,47,29,18,0,0.9381617515769112,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+209,2,0:38,1238,1238,Michigan State Deadball Team Rebound.,47,29,18,0,0.9381617515769112,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+210,2,0:38,1238,1238,Lexi Gussert missed Free Throw.,47,29,18,0,0.9381617515769112,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+211,2,0:38,1238,1238,Chloe Guingrich Defensive Rebound.,47,29,18,22,0.9381617515769112,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+212,2,0:16,1216,1216,Sha'Keya Graves missed Jumper.,47,29,18,0,0.9400018191845927,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+213,2,0:16,1216,1216,Mardrekia Cook Defensive Rebound.,47,29,18,8,0.9400018191845927,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+214,2,0:08,1208,1208,Mardrekia Cook made Layup.,49,29,20,8,0.955679626039076,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,Michigan State
+215,2,0:00,1200,1200,End of 2nd Quarter,49,29,20,13,0.9562530359229152,Michigan State,Oakland,4,1,0,0,NA,400993667,2017-11-13,
+216,3,9:47,1187,1187,Leah Somerfield missed Three Point Jumper.,49,29,20,0,0.9571514637718543,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+217,3,9:47,1187,1187,Taryn McCutcheon Defensive Rebound.,49,29,20,9,0.9571514637718543,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+218,3,9:38,1178,1178,Shay Colley missed Jumper.,49,29,20,0,0.9577521984574154,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+219,3,9:38,1178,1178,Michigan State Offensive Rebound.,49,29,20,15,0.9577521984574154,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+220,3,9:23,1163,1163,Taya Reimer made Layup. Assisted by Shay Colley.,51,29,22,16,0.9695211830972017,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Michigan State
+221,3,9:07,1147,1147,Taylor Jones made Jumper.,51,31,20,17,0.9597182654298647,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Oakland
+222,3,8:50,1130,1130,Jenna Allen made Layup. Assisted by Taryn McCutcheon.,53,31,22,14,0.9711809635841488,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Michigan State
+223,3,8:36,1116,1116,Taylor Gleason missed Jumper.,53,31,22,0,0.971859496274128,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+224,3,8:36,1116,1116,Oakland Offensive Rebound.,53,31,22,7,0.971859496274128,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+225,3,8:29,1109,1109,Cierra Bond made Three Point Jumper. Assisted by Taylor Gleason.,53,34,19,10,0.9556241078774643,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Oakland
+226,3,8:19,1099,1099,Jenna Allen made Jumper. Assisted by Shay Colley.,55,34,21,10,0.9680088826457722,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Michigan State
+227,3,8:09,1089,1089,Taylor Jones made Three Point Jumper. Assisted by Taylor Gleason.,55,37,18,21,0.9496660098567034,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Oakland
+228,3,7:48,1068,1068,Branndais Agee missed Layup.,55,37,18,0,0.951166569485264,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+229,3,7:48,1068,1068,Taylor Gleason Defensive Rebound.,55,37,18,12,0.951166569485264,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+230,3,7:36,1056,1056,Cierra Bond missed Three Point Jumper.,55,37,18,0,0.9520349048081982,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+231,3,7:36,1056,1056,Jenna Allen Defensive Rebound.,55,37,18,7,0.9520349048081982,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+232,3,7:29,1049,1049,Shay Colley made Layup.,57,37,20,8,0.9655322812138261,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Michigan State
+233,3,7:21,1041,1041,Cierra Bond Turnover.,57,37,20,1,0.9660147513293303,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+234,3,7:20,1040,1040,Shay Colley Steal.,57,37,20,1,0.9660753669734544,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+235,3,7:19,1039,1039,Branndais Agee made Layup. Assisted by Shay Colley.,59,37,22,1,0.9755423171894552,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Michigan State
+236,3,7:18,1038,1038,Branndais Agee made Free Throw.,60,37,23,4,0.9792803287412929,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Michigan State
+237,3,7:14,1034,1034,Leah Somerfield missed Jumper.,60,37,23,0,0.979454390392242,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+238,3,7:14,1034,1034,Taryn McCutcheon Defensive Rebound.,60,37,23,7,0.979454390392242,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+239,3,7:07,1027,1027,Branndais Agee missed Three Point Jumper.,60,37,23,0,0.9797606214977725,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+240,3,7:07,1027,1027,Shay Colley Offensive Rebound.,60,37,23,5,0.9797606214977725,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+241,3,7:02,1022,1022,Branndais Agee missed Layup.,60,37,23,0,0.979980716100272,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+242,3,7:02,1022,1022,Oakland Defensive Rebound.,60,37,23,17,0.979980716100272,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+243,3,6:45,1005,1005,Taylor Gleason made Three Point Jumper.,60,40,20,7,0.9682488058680846,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Oakland
+244,3,6:38,998,998,Shay Colley made Layup.,62,40,22,1,0.9775875774735567,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Michigan State
+245,3,6:37,997,997,Foul on Leah Somerfield.,62,40,22,0,0.9776388240758694,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+246,3,6:37,997,997,Shay Colley made Free Throw.,63,40,23,21,0.9811003785629685,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Michigan State
+247,3,6:16,976,976,Cierra Bond missed Layup.,63,40,23,0,0.9820683128245541,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+248,3,6:16,976,976,Taryn McCutcheon Defensive Rebound.,63,40,23,2,0.9820683128245541,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+249,3,6:14,974,974,Mardrekia Cook missed Three Point Jumper.,63,40,23,0,0.982161872959545,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+250,3,6:14,974,974,Oakland Defensive Rebound.,63,40,23,6,0.982161872959545,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+251,3,6:08,968,968,Sha'Keya Graves missed Three Point Jumper.,63,40,23,0,0.9824430789329955,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+252,3,6:08,968,968,Mardrekia Cook Defensive Rebound.,63,40,23,5,0.9824430789329955,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+253,3,6:03,963,963,Foul on Chloe Guingrich.,63,40,23,15,0.9826697011565969,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+254,3,5:48,948,948,Foul on Kennedy Johnson.,63,40,23,0,0.9832972640082546,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+255,3,5:48,948,948,Kennedy Johnson Turnover.,63,40,23,11,0.9832972640082546,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+256,3,5:37,937,937,Foul on Kennedy Johnson.,63,40,23,7,0.9837148603086993,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+257,3,5:30,930,930,Leah Somerfield made Layup.,63,42,21,0,0.9772200090128969,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Oakland
+258,3,5:30,930,930,Foul on Victoria Gaines.,63,42,21,0,0.9772200090128969,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+259,3,5:30,930,930,Leah Somerfield made Free Throw.,63,43,20,5,0.972875991955629,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Oakland
+260,3,5:25,925,925,Mardrekia Cook missed Layup.,63,43,20,0,0.9731265210240522,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+261,3,5:25,925,925,Leah Somerfield Block.,63,43,20,2,0.9731265210240522,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+262,3,5:23,923,923,Leah Somerfield Defensive Rebound.,63,43,20,5,0.9732248196301507,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+263,3,5:18,918,918,Cierra Bond made Three Point Jumper. Assisted by Sha'Keya Graves.,63,46,17,16,0.9553010113807497,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Oakland
+264,3,5:02,902,902,Lexi Gussert missed Three Point Jumper.,63,46,17,0,0.9563383509336347,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+265,3,5:02,902,902,Chloe Guingrich Defensive Rebound.,63,46,17,8,0.9563383509336347,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+266,3,4:54,894,894,Chloe Guingrich Turnover.,63,46,17,1,0.9568362393523812,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+267,3,4:53,893,893,Shay Colley Steal.,63,46,17,3,0.9568977363734195,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+268,3,4:50,890,890,Shay Colley missed Layup.,63,46,17,0,0.9570813869883584,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+269,3,4:50,890,890,Oakland Defensive Rebound.,63,46,17,3,0.9570813869883584,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+270,3,4:47,887,887,Official TV Timeout,63,46,17,12,0.9572639012489821,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+271,3,4:35,875,875,Cierra Bond Turnover.,63,46,17,1,0.9579857123757556,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+272,3,4:34,874,874,Mardrekia Cook Steal.,63,46,17,4,0.958045462905511,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+273,3,4:30,870,870,Mardrekia Cook Turnover.,63,46,17,7,0.9582841595135196,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+274,3,4:23,863,863,Sha'Keya Graves made Three Point Jumper. Assisted by Cierra Bond.,63,49,14,13,0.9302020680620744,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Oakland
+275,3,4:10,850,850,Victoria Gaines made Jumper.,65,49,16,17,0.9515915041365695,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Michigan State
+276,3,3:53,833,833,Taylor Jones missed Layup.,65,49,16,0,0.9527547483683438,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+277,3,3:53,833,833,Cierra Bond Offensive Rebound.,65,49,16,4,0.9527547483683438,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+278,3,3:49,829,829,Cierra Bond missed Layup.,65,49,16,0,0.9530354272771332,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+279,3,3:49,829,829,Shay Colley Defensive Rebound.,65,49,16,16,0.9530354272771332,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+280,3,3:33,813,813,Taryn McCutcheon missed Three Point Jumper.,65,49,16,0,0.9541938759056409,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+281,3,3:33,813,813,Chloe Guingrich Defensive Rebound.,65,49,16,10,0.9541938759056409,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+282,3,3:23,803,803,Cierra Bond Turnover.,65,49,16,1,0.9549524231904207,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+283,3,3:22,802,802,Shay Colley Steal.,65,49,16,5,0.9550299322507811,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+284,3,3:17,797,797,Foul on Leah Somerfield.,65,49,16,0,0.9554222769296473,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+285,3,3:17,797,797,Taryn McCutcheon made Free Throw.,66,49,17,0,0.9629051445425295,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Michigan State
+286,3,3:17,797,797,Taryn McCutcheon made Free Throw.,67,49,18,9,0.9691724580501436,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Michigan State
+287,3,3:08,788,788,Sha'Keya Graves made Three Point Jumper. Assisted by Nikita Telesford.,67,52,15,13,0.9473249206974195,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Oakland
+288,3,2:55,775,775,Foul on Victoria Gaines.,67,52,15,2,0.9485565191351762,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+289,3,2:53,773,773,Foul on Sha'Keya Graves.,67,52,15,0,0.9487526687960129,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+290,3,2:53,773,773,Shay Colley made Free Throw.,68,52,16,0,0.9574278563948051,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Michigan State
+291,3,2:53,773,773,Shay Colley made Free Throw.,69,52,17,20,0.9646891580393099,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Michigan State
+292,3,2:33,753,753,Sha'Keya Graves missed Three Point Jumper.,69,52,17,0,0.9663241545836028,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+293,3,2:33,753,753,Chloe Guingrich Offensive Rebound.,69,52,17,3,0.9663241545836028,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+294,3,2:30,750,750,Chloe Guingrich missed Layup.,69,52,17,0,0.966581834623643,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+295,3,2:30,750,750,Shay Colley Defensive Rebound.,69,52,17,8,0.966581834623643,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+296,3,2:22,742,742,Shay Colley Turnover.,69,52,17,1,0.9672851887179352,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+297,3,2:21,741,741,Taylor Jones Steal.,69,52,17,4,0.9673747717960117,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+298,3,2:17,737,737,Taylor Jones Turnover.,69,52,17,1,0.9677368069240543,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+299,3,2:16,736,736,Nia Hollie Steal.,69,52,17,2,0.9678282410586369,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+300,3,2:14,734,734,Taya Reimer made Layup. Assisted by Nia Hollie.,71,52,19,30,0.978354072670804,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Michigan State
+301,3,1:44,704,704,Chloe Guingrich made Layup. Assisted by Nikita Telesford.,71,54,17,0,0.9705306697978794,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Oakland
+302,3,1:44,704,704,Foul on Nia Hollie.,71,54,17,0,0.9705306697978794,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+303,3,1:44,704,704,Chloe Guingrich made Free Throw.,71,55,16,12,0.9640472429382084,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Oakland
+304,3,1:32,692,692,Jenna Allen missed Layup.,71,55,16,0,0.9650038182660661,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+305,3,1:32,692,692,Nikita Telesford Block.,71,55,16,2,0.9650038182660661,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+306,3,1:30,690,690,Shay Colley Offensive Rebound.,71,55,16,3,0.9651557523546572,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+307,3,1:27,687,687,Taya Reimer made Jumper. Assisted by Shay Colley.,73,55,18,11,0.9768900310692382,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,Michigan State
+308,3,1:16,676,676,Taylor Jones missed Three Point Jumper.,73,55,18,0,0.9774922683722741,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+309,3,1:16,676,676,Shay Colley Defensive Rebound.,73,55,18,8,0.9774922683722741,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+310,3,1:08,668,668,Shay Colley Turnover.,73,55,18,27,0.9779125659072804,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+311,3,0:41,641,641,Taylor Gleason missed Jumper.,73,55,18,0,0.9792865648790573,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+312,3,0:41,641,641,Taya Reimer Defensive Rebound.,73,55,18,10,0.9792865648790573,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+313,3,0:31,631,631,Jenna Allen missed Three Point Jumper.,73,55,18,0,0.9798000751838605,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+314,3,0:31,631,631,Nia Hollie Offensive Rebound.,73,55,18,3,0.9798000751838605,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+315,3,0:28,628,628,Nia Hollie missed Layup.,73,55,18,0,0.9799564423752106,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+316,3,0:28,628,628,Nikita Telesford Defensive Rebound.,73,55,18,12,0.9799564423752106,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+317,3,0:16,616,616,Taylor Gleason Turnover.,73,55,18,2,0.9805970956011691,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+318,3,0:14,614,614,Nia Hollie Steal.,73,55,18,2,0.9807066652425253,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+319,3,0:12,612,612,Nia Hollie Turnover.,73,55,18,0,0.9808171406722015,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+320,3,0:12,612,612,Foul on Nia Hollie.,73,55,18,12,0.9808171406722015,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+321,3,0:00,600,600,Sha'Keya Graves missed Three Point Jumper.,73,55,18,0,0.9815009897527635,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+322,3,0:00,600,600,Oakland Deadball Team Rebound.,73,55,18,0,0.9815009897527635,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+323,3,0:00,600,600,End of 3rd Quarter,73,55,18,18,0.9815009897527635,Michigan State,Oakland,5,2,0,0,NA,400993667,2017-11-13,
+324,4,9:42,582,582,Nia Hollie missed Layup.,73,55,18,0,0.9826045929128641,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+325,4,9:42,582,582,Cierra Bond Block.,73,55,18,4,0.9826045929128641,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+326,4,9:38,578,578,Cierra Bond Defensive Rebound.,73,55,18,3,0.9828638562258089,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+327,4,9:35,575,575,Nikita Telesford missed Layup.,73,55,18,0,0.9830617967284686,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+328,4,9:35,575,575,Taya Reimer Block.,73,55,18,2,0.9830617967284686,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+329,4,9:33,573,573,Jenna Allen Defensive Rebound.,73,55,18,5,0.9831954344297061,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+330,4,9:28,568,568,Branndais Agee missed Three Point Jumper.,73,55,18,0,0.9835354304983672,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+331,4,9:28,568,568,Taya Reimer Offensive Rebound.,73,55,18,3,0.9835354304983672,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+332,4,9:25,565,565,Taya Reimer made Layup.,75,55,20,31,0.9896334030147184,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,Michigan State
+333,4,8:54,534,534,Chloe Guingrich missed Layup.,75,55,20,0,0.9911441859452397,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+334,4,8:54,534,534,Taya Reimer Block.,75,55,20,1,0.9911441859452397,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+335,4,8:53,533,533,Jenna Allen Defensive Rebound.,75,55,20,17,0.9911845884551762,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+336,4,8:36,516,516,Foul on Nikita Telesford.,75,55,20,0,0.9918001540038579,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+337,4,8:36,516,516,Branndais Agee made Free Throw.,76,55,21,0,0.993536992756305,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,Michigan State
+338,4,8:36,516,516,Branndais Agee made Free Throw.,77,55,22,7,0.9949078342959422,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,Michigan State
+339,4,8:29,509,509,Leah Somerfield made Layup.,77,57,20,16,0.9920261918618327,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,Oakland
+340,4,8:13,493,493,Taryn McCutcheon missed Three Point Jumper.,77,57,20,0,0.992517837740096,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+341,4,8:13,493,493,Sidney Cooks Offensive Rebound.,77,57,20,7,0.992517837740096,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+342,4,8:06,486,486,Foul on Chloe Guingrich.,77,57,20,0,0.9927315803865494,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+343,4,8:06,486,486,Sidney Cooks missed Free Throw.,77,57,20,0,0.9927315803865494,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+344,4,8:06,486,486,Michigan State Deadball Team Rebound.,77,57,20,0,0.9927315803865494,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+345,4,8:06,486,486,Sidney Cooks made Free Throw.,78,57,21,23,0.9943067670165165,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,Michigan State
+346,4,7:43,463,463,Foul on Sidney Cooks.,78,57,21,5,0.9949198611442812,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+347,4,7:38,458,458,Cierra Bond missed Three Point Jumper.,78,57,21,0,0.9950646015546291,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+348,4,7:38,458,458,Branndais Agee Defensive Rebound.,78,57,21,8,0.9950646015546291,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+349,4,7:30,450,450,Branndais Agee made Layup.,80,57,23,20,0.9971770582172946,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,Michigan State
+350,4,7:10,430,430,Leah Somerfield Turnover.,80,57,23,1,0.9976132371379867,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+351,4,7:09,429,429,Taryn McCutcheon Steal.,80,57,23,13,0.9976360024250376,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+352,4,6:56,416,416,Sidney Cooks made Three Point Jumper. Assisted by Branndais Agee.,83,57,26,12,0.999059284603437,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,Michigan State
+353,4,6:44,404,404,Foul on Sidney Cooks.,83,57,26,1,0.9991625034551994,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+354,4,6:43,403,403,Taylor Jones missed Jumper.,83,57,26,0,0.9991704203206653,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+355,4,6:43,403,403,Sidney Cooks Defensive Rebound.,83,57,26,17,0.9991704203206653,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+356,4,6:26,386,386,Branndais Agee made Jumper.,85,57,28,13,0.9995957282646373,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,Michigan State
+357,4,6:13,373,373,Leah Somerfield made Layup.,85,59,26,11,0.9993786261409093,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,Oakland
+358,4,6:02,362,362,Shay Colley Turnover.,85,59,26,19,0.9994467880337224,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+359,4,5:43,343,343,Foul on Taya Reimer.,85,59,26,5,0.9995598195543041,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+360,4,5:38,338,338,Foul on Taryn McCutcheon.,85,59,26,2,0.9995886936546866,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+361,4,5:36,336,336,Leah Somerfield missed Jumper.,85,59,26,0,0.9996001288423556,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+362,4,5:36,336,336,Victoria Gaines Defensive Rebound.,85,59,26,22,0.9996001288423556,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+363,4,5:14,314,314,Foul on Taylor Jones.,85,59,26,6,0.9997201031460541,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+364,4,5:08,308,308,Branndais Agee Turnover.,85,59,26,11,0.9997496591747712,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+365,4,4:57,297,297,Sha'Keya Graves missed Three Point Jumper.,85,59,26,0,0.999779417706483,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+366,4,4:57,297,297,Mardrekia Cook Defensive Rebound.,85,59,26,5,0.999779417706483,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+367,4,4:52,292,292,Foul on Myka Cromwell.,85,59,26,0,0.9997842976391403,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+368,4,4:52,292,292,Official TV Timeout,85,59,26,9,0.9997842976391403,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+369,4,4:43,283,283,Victoria Gaines missed Layup.,85,59,26,0,0.9997837429028166,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+370,4,4:43,283,283,Autumn Kissman Block.,85,59,26,0,0.9997837429028166,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+371,4,4:43,283,283,Michigan State Offensive Rebound.,85,59,26,8,0.9997837429028166,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+372,4,4:35,275,275,Lexi Gussert made Three Point Jumper. Assisted by Shay Colley.,88,59,29,25,0.9999149073344199,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,Michigan State
+373,4,4:10,250,250,Leah Somerfield missed Layup.,88,59,29,0,0.9998954163749117,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+374,4,4:10,250,250,Taya Reimer Defensive Rebound.,88,59,29,11,0.9998954163749117,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+375,4,3:59,239,239,Victoria Gaines made Three Point Jumper. Assisted by Taya Reimer.,91,59,32,13,0.9999571220161669,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,Michigan State
+376,4,3:46,226,226,Leah Somerfield Turnover.,91,59,32,1,0.9999589086038676,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+377,4,3:45,225,225,Mardrekia Cook Steal.,91,59,32,7,0.9999593130411341,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+378,4,3:38,218,218,Foul on Autumn Kissman.,91,59,32,0,0.9999632388401548,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+379,4,3:38,218,218,Lexi Gussert made Free Throw.,92,59,33,0,0.9999732814750436,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,Michigan State
+380,4,3:38,218,218,Lexi Gussert made Free Throw.,93,59,34,19,0.9999805806557722,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,Michigan State
+381,4,3:19,199,199,Autumn Kissman missed Jumper.,93,59,34,0,0.9999900040590227,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+382,4,3:19,199,199,Lexi Gussert Defensive Rebound.,93,59,34,6,0.9999900040590227,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+383,4,3:13,193,193,Lexi Gussert missed Jumper.,93,59,34,0,0.9999929382086405,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+384,4,3:13,193,193,Nathy Dambo Offensive Rebound.,93,59,34,6,0.9999929382086405,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+385,4,3:07,187,187,Victoria Gaines missed Three Point Jumper.,93,59,34,0,0.9999953374546428,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+386,4,3:07,187,187,Myka Cromwell Defensive Rebound.,93,59,34,2,0.9999953374546428,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+387,4,3:05,185,185,Foul on Mardrekia Cook.,93,59,34,0,0.999995955224769,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+388,4,3:05,185,185,Myka Cromwell made Free Throw.,93,60,33,0,0.9999941720700928,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,Oakland
+389,4,3:05,185,185,Myka Cromwell missed Free Throw.,93,60,33,0,0.9999941720700928,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+390,4,3:05,185,185,Nathy Dambo Defensive Rebound.,93,60,33,19,0.9999941720700928,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+391,4,2:46,166,166,Lexi Gussert missed Three Point Jumper.,93,60,33,0,0.9999984904374388,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+392,4,2:46,166,166,Victoria Gaines Offensive Rebound.,93,60,33,3,0.9999984904374388,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+393,4,2:43,163,163,Foul on Taylor Jones.,93,60,33,0,0.9999987937656516,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+394,4,2:43,163,163,Victoria Gaines made Free Throw.,94,60,34,0,0.9999992018558599,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,Michigan State
+395,4,2:43,163,163,Victoria Gaines made Free Throw.,95,60,35,10,0.9999994718820756,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,Michigan State
+396,4,2:33,153,153,Taylor Jones missed Layup.,95,60,35,0,0.9999997693062981,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+397,4,2:33,153,153,Lexi Gussert Block.,95,60,35,1,0.9999997693062981,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+398,4,2:32,152,152,Taylor Jones Offensive Rebound.,95,60,35,0,0.9999997883698157,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+399,4,2:32,152,152,Sha'Keya Graves Turnover.,95,60,35,9,0.9999997883698157,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+400,4,2:23,143,143,Foul on Victoria Gaines.,95,60,35,0,0.9999999058131198,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+401,4,2:23,143,143,Victoria Gaines Turnover.,95,60,35,25,0.9999999058131198,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+402,4,1:58,118,118,Myka Cromwell missed Jumper.,95,60,35,0,0.9999999933473206,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+403,4,1:58,118,118,Nathy Dambo Defensive Rebound.,95,60,35,16,0.9999999933473206,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+404,4,1:42,102,102,Victoria Gaines missed Layup.,95,60,35,0,0.9999999991868612,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+405,4,1:42,102,102,Mercy Agwaniru Defensive Rebound.,95,60,35,12,0.9999999991868612,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+406,4,1:30,90,90,Sha'Keya Graves Turnover.,95,60,35,0,0.9999999998680585,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+407,4,1:30,90,90,Foul on Sha'Keya Graves.,95,60,35,10,0.9999999998680585,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+408,4,1:20,80,80,Lexi Gussert missed Three Point Jumper.,95,60,35,0,0.9999999999733629,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+409,4,1:20,80,80,Mardrekia Cook Offensive Rebound.,95,60,35,4,0.9999999999733629,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+410,4,1:16,76,76,Mardrekia Cook missed Layup.,95,60,35,0,0.9999999999863485,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+411,4,1:16,76,76,Mercy Agwaniru Block.,95,60,35,2,0.9999999999863485,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+412,4,1:14,74,74,Taylor Jones Defensive Rebound.,95,60,35,7,0.9999999999903059,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+413,4,1:07,67,67,Sha'Keya Graves missed Jumper.,95,60,35,0,0.9999999999971977,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+414,4,1:07,67,67,Victoria Gaines Defensive Rebound.,95,60,35,10,0.9999999999971977,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+415,4,0:57,57,57,Shay Colley Turnover.,95,60,35,1,0.9999999999995597,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+416,4,0:56,56,56,Myka Cromwell Steal.,95,60,35,4,0.999999999999636,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+417,4,0:52,52,52,Taylor Jones made Layup.,95,62,33,17,0.999999999999097,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,Oakland
+418,4,0:35,35,35,Nathy Dambo Turnover.,95,62,33,1,0.9999999999999665,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+419,4,0:34,34,34,Myka Cromwell Steal.,95,62,33,4,0.9999999999999727,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+420,4,0:30,30,30,Foul on Shay Colley.,95,62,33,0,0.999999999999988,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+421,4,0:30,30,30,Myka Cromwell missed Free Throw.,95,62,33,0,0.999999999999988,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+422,4,0:30,30,30,Oakland Deadball Team Rebound.,95,62,33,0,0.999999999999988,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+423,4,0:30,30,30,Myka Cromwell made Free Throw.,95,63,32,14,0.9999999999999684,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,Oakland
+424,4,0:16,16,16,Taya Reimer Turnover.,95,63,32,1,0.9999999999999983,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+425,4,0:15,15,15,Autumn Kissman Steal.,95,63,32,5,0.9999999999999987,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+426,4,0:10,10,10,Taylor Jones missed Three Point Jumper.,95,63,32,0,0.9999999999999996,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+427,4,0:10,10,10,Myka Cromwell Offensive Rebound.,95,63,32,4,0.9999999999999996,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+428,4,0:06,6,6,Myka Cromwell missed Jumper.,95,63,32,0,0.9999999999999998,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+429,4,0:06,6,6,Shay Colley Defensive Rebound.,95,63,32,6,0.9999999999999998,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,
+430,4,0:00,0,0,End of Game,95,63,32,0,1,Michigan State,Oakland,6,3,0,0,NA,400993667,2017-11-13,

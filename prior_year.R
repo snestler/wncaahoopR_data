@@ -13,7 +13,7 @@ library(dplyr)
 #}
 
 ### Pull Games
-date <- as.Date("2017-11-01")
+date <- as.Date("2018-02-09")
 while(date <= as.Date("2018-05-01")) {
   schedule <- w_get_master_schedule(date)
   if(!is.null(schedule)) {
@@ -36,7 +36,7 @@ while(date <= as.Date("2018-05-01")) {
 }
 
 ### Update Master Schedule
-date <- as.Date("2017-11-01")
+date <- as.Date("2018-02-09")
 master_schedule <- NULL
 while(date <= as.Date("2018-05-01")) {
   schedule <- try(read_csv(paste("2017-18/pbp_logs", date, "schedule.csv", sep = "/")) %>%

@@ -1,0 +1,306 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Jump Ball won by Baylor,0,0,0,5,0.5,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,NA
+2,1,9:55,2395,2395,Dekeiya Cohen missed Jumper.,0,0,0,0,0.5,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+3,1,9:55,2395,2395,Natalie Chou Offensive Rebound.,0,0,0,17,0.5,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+4,1,9:38,2378,2378,Lauren Cox missed Layup.,0,0,0,0,0.5,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+5,1,9:38,2378,2378,Naomi Davenport Block.,0,0,0,0,0.5,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+6,1,9:38,2378,2378,Kristina King Defensive Rebound.,0,0,0,29,0.5,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+7,1,9:09,2349,2349,Teana Muldrow Turnover.,0,0,0,7,0.5,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+8,1,9:02,2342,2342,Natalie Chou missed Three Point Jumper.,0,0,0,0,0.5,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+9,1,9:02,2342,2342,Dekeiya Cohen Offensive Rebound.,0,0,0,9,0.5,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+10,1,8:53,2333,2333,Kalani Brown missed Jumper.,0,0,0,0,0.5,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+11,1,8:53,2333,2333,Natalie Chou Offensive Rebound.,0,0,0,8,0.5,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+12,1,8:45,2325,2325,Kristy Wallace made Jumper.,0,2,-2,7,0.4543645204002807,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+13,1,8:38,2318,2318,Naomi Davenport made Three Point Jumper.,3,2,1,19,0.5229428697709193,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+14,1,8:19,2299,2299,Dekeiya Cohen made Jumper. Assisted by Natalie Chou.,3,4,-1,16,0.4768456344721503,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+15,1,8:03,2283,2283,Katrina Pardee made Layup.,5,4,1,16,0.5233339289833301,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+16,1,7:47,2267,2267,Foul on Kristina King.,5,4,1,4,0.5235147142514571,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+17,1,7:43,2263,2263,Lauren Cox missed Jumper.,5,4,1,0,0.5235600888317214,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+18,1,7:43,2263,2263,Lauren Cox Offensive Rebound.,5,4,1,12,0.5235600888317214,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+19,1,7:31,2251,2251,Kalani Brown missed Jumper.,5,4,1,0,0.5236966134305555,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+20,1,7:31,2251,2251,Teana Muldrow Block.,5,4,1,0,0.5236966134305555,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+21,1,7:31,2251,2251,Teana Muldrow Defensive Rebound.,5,4,1,10,0.5236966134305555,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+22,1,7:21,2241,2241,Kristina King made Layup. Assisted by Chania Ray.,7,4,3,12,0.5710033843260475,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+23,1,7:09,2229,2229,Foul on Naomi Davenport.,7,4,3,0,0.5714085226413206,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+24,1,7:09,2229,2229,Dekeiya Cohen made Free Throw.,7,5,2,0,0.547787062890142,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+25,1,7:09,2229,2229,Dekeiya Cohen missed Free Throw.,7,5,2,0,0.547787062890142,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+26,1,7:09,2229,2229,Kristina King Defensive Rebound.,7,5,2,0,0.547787062890142,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+27,1,7:09,2229,2229,Kristina King made Layup.,9,5,4,24,0.5947090144780959,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+28,1,6:45,2205,2205,Natalie Chou made Layup.,9,7,2,18,0.5483361412138311,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+29,1,6:27,2187,2187,Foul on Dekeiya Cohen.,9,7,2,0,0.5487499721246489,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+30,1,6:27,2187,2187,Naomi Davenport missed Free Throw.,9,7,2,0,0.5487499721246489,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+31,1,6:27,2187,2187,West Virginia Deadball Team Rebound.,9,7,2,0,0.5487499721246489,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+32,1,6:27,2187,2187,Naomi Davenport made Free Throw.,10,7,3,11,0.5728361382170892,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+33,1,6:16,2176,2176,Kristy Wallace Turnover.,10,7,3,0,0.5732120191781188,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+34,1,6:16,2176,2176,Naomi Davenport Steal.,10,7,3,4,0.5732120191781188,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+35,1,6:12,2172,2172,Naomi Davenport made Layup.,12,7,5,16,0.6207060587552871,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+36,1,5:56,2156,2156,Kalani Brown made Jumper. Assisted by Natalie Chou.,12,9,3,17,0.5738975675957979,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+37,1,5:39,2139,2139,Teana Muldrow missed Three Point Jumper.,12,9,3,0,0.5744836413761442,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+38,1,5:39,2139,2139,Dekeiya Cohen Defensive Rebound.,12,9,3,13,0.5744836413761442,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+39,1,5:26,2126,2126,Lauren Cox missed Layup.,12,9,3,0,0.5749341082739277,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+40,1,5:26,2126,2126,Naomi Davenport Defensive Rebound.,12,9,3,13,0.5749341082739277,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+41,1,5:13,2113,2113,Naomi Davenport missed Layup.,12,9,3,0,0.5753866813203414,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+42,1,5:13,2113,2113,Kalani Brown Defensive Rebound.,12,9,3,1,0.5753866813203414,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+43,1,5:12,2112,2112,Foul on Kristina King.,12,9,3,6,0.575421584960564,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+44,1,5:06,2106,2106,Kristy Wallace missed Three Point Jumper.,12,9,3,0,0.5756312846537486,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+45,1,5:06,2106,2106,Teana Muldrow Defensive Rebound.,12,9,3,9,0.5756312846537486,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+46,1,4:57,2097,2097,Chania Ray missed Layup.,12,9,3,0,0.5759467449272596,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+47,1,4:57,2097,2097,Alexis Morris Defensive Rebound.,12,9,3,8,0.5759467449272596,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+48,1,4:49,2089,2089,Alexis Morris missed Layup.,12,9,3,0,0.5762280970650242,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+49,1,4:49,2089,2089,Teana Muldrow Block.,12,9,3,0,0.5762280970650242,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+50,1,4:49,2089,2089,Teana Muldrow Defensive Rebound.,12,9,3,0,0.5762280970650242,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+51,1,4:49,2089,2089,Official TV Timeout,12,9,3,0,0.5762280970650242,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+52,1,4:49,2089,2089,Foul on Alexis Morris.,12,9,3,0,0.5762280970650242,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+53,1,4:49,2089,2089,Official TV Timeout,12,9,3,2,0.5762280970650242,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+54,1,4:47,2087,2087,Teana Muldrow missed Three Point Jumper.,12,9,3,0,0.5762985768755345,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+55,1,4:47,2087,2087,Lauren Cox Defensive Rebound.,12,9,3,20,0.5762985768755345,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+56,1,4:27,2067,2067,Kristy Wallace made Three Point Jumper. Assisted by Alexis Morris.,12,12,0,23,0.5,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+57,1,4:04,2044,2044,Foul on Lauren Cox.,12,12,0,14,0.5,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+58,1,3:50,2030,2030,Theresa Ekhelar missed Layup.,12,12,0,0,0.5,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+59,1,3:50,2030,2030,Lauren Cox Defensive Rebound.,12,12,0,11,0.5,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+60,1,3:39,2019,2019,Didi Richards missed Jumper.,12,12,0,0,0.5,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+61,1,3:39,2019,2019,Chania Ray Defensive Rebound.,12,12,0,7,0.5,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+62,1,3:32,2012,2012,Naomi Davenport made Three Point Jumper. Assisted by Chania Ray.,15,12,3,21,0.5789864993493538,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+63,1,3:11,1991,1991,Natalie Chou missed Jumper.,15,12,3,0,0.5797564034649262,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+64,1,3:11,1991,1991,Katrina Pardee Defensive Rebound.,15,12,3,8,0.5797564034649262,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+65,1,3:03,1983,1983,Teana Muldrow made Three Point Jumper. Assisted by Chania Ray.,18,12,6,25,0.6561023630849656,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+66,1,2:38,1958,1958,Foul on Theresa Ekhelar.,18,12,6,11,0.6578264755996845,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+67,1,2:27,1947,1947,Lauren Cox missed Jumper.,18,12,6,0,0.6585915714764586,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+68,1,2:27,1947,1947,Lauren Cox Offensive Rebound.,18,12,6,14,0.6585915714764586,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+69,1,2:13,1933,1933,Dekeiya Cohen made Jumper.,18,14,4,5,0.6084789151556512,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+70,1,2:08,1928,1928,Teana Muldrow missed Jumper.,18,14,4,0,0.6087275348662343,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+71,1,2:08,1928,1928,Kalani Brown Defensive Rebound.,18,14,4,10,0.6087275348662343,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+72,1,1:58,1918,1918,Natalie Chou missed Three Point Jumper.,18,14,4,0,0.6092242995081416,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+73,1,1:58,1918,1918,West Virginia Defensive Rebound.,18,14,4,20,0.6092242995081416,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+74,1,1:38,1898,1898,Naomi Davenport made Layup. Assisted by Teana Muldrow.,20,14,6,0,0.6620240990970603,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+75,1,1:38,1898,1898,Natalie Chou missed Jumper.,20,14,6,0,0.6620240990970603,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+76,1,1:38,1898,1898,Baylor Offensive Rebound.,20,14,6,26,0.6620240990970603,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+77,1,1:12,1872,1872,Alexis Morris Turnover.,20,14,6,9,0.663839228595748,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+78,1,1:03,1863,1863,Chania Ray missed Jumper.,20,14,6,0,0.6644676491606306,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+79,1,1:03,1863,1863,West Virginia Offensive Rebound.,20,14,6,5,0.6644676491606306,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+80,1,0:58,1858,1858,Chania Ray missed Three Point Jumper.,20,14,6,0,0.6648169876238107,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+81,1,0:58,1858,1858,Lauren Cox Block.,20,14,6,0,0.6648169876238107,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+82,1,0:58,1858,1858,Chania Ray Offensive Rebound.,20,14,6,9,0.6648169876238107,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+83,1,0:49,1849,1849,Ashley Jones missed Three Point Jumper.,20,14,6,0,0.6654463834889561,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+84,1,0:49,1849,1849,West Virginia Offensive Rebound.,20,14,6,3,0.6654463834889561,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+85,1,0:46,1846,1846,Chania Ray made Three Point Jumper. Assisted by Naomi Davenport.,23,14,9,10,0.7374790057869907,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+86,1,0:36,1836,1836,Lauren Cox missed Three Point Jumper.,23,14,9,0,0.738393127918031,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+87,1,0:36,1836,1836,Naomi Davenport Defensive Rebound.,23,14,9,29,0.738393127918031,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+88,1,0:07,1807,1807,Ashley Jones Turnover.,23,14,9,0,0.7410527397002515,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+89,1,0:07,1807,1807,Didi Richards Steal.,23,14,9,5,0.7410527397002515,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+90,1,0:02,1802,1802,Kristy Wallace made Layup. Assisted by Alexis Morris.,23,16,7,2,0.6941641496921881,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+91,1,0:00,1800,1800,End of 1st Quarter,23,16,7,0,0.6943230201027285,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+92,2,10:00,1800,1800,Jump Ball won by West Virginia,23,16,7,13,0.6943230201027285,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+93,2,9:47,1787,1787,Foul on Alexis Morris.,23,16,7,2,0.6953590584137902,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+94,2,9:45,1785,1785,Katrina Pardee made Jumper. Assisted by Chania Ray.,25,16,9,18,0.7430847546568426,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+95,2,9:27,1767,1767,Foul on Theresa Ekhelar.,25,16,9,6,0.744760656952388,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+96,2,9:21,1761,1761,Natalie Chou made Layup.,25,18,7,21,0.6974517412425733,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+97,2,9:00,1740,1740,Teana Muldrow missed Jumper.,25,18,7,0,0.6991663080448723,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+98,2,9:00,1740,1740,Chania Ray Offensive Rebound.,25,18,7,8,0.6991663080448723,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+99,2,8:52,1732,1732,Teana Muldrow made Jumper. Assisted by Chania Ray.,27,18,9,12,0.7480649433776665,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+100,2,8:40,1720,1720,Didi Richards made Jumper.,27,20,7,7,0.7008233362015384,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+101,2,8:33,1713,1713,Chania Ray made Jumper.,29,20,9,21,0.7498897002592977,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+102,2,8:12,1692,1692,Kalani Brown made Layup. Assisted by Natalie Chou.,29,22,7,13,0.7031891499287186,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+103,2,7:59,1679,1679,Naomi Davenport Turnover.,29,22,7,0,0.7042941538653226,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+104,2,7:59,1679,1679,Didi Richards Steal.,29,22,7,8,0.7042941538653226,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+105,2,7:51,1671,1671,Didi Richards made Layup.,29,24,5,20,0.6507128241229709,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+106,2,7:31,1651,1651,Teana Muldrow made Three Point Jumper. Assisted by Chania Ray.,32,24,8,20,0.731942328516557,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+107,2,7:11,1631,1631,Natalie Chou made Jumper.,32,26,6,11,0.681356737972413,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+108,2,7:00,1620,1620,Naomi Davenport made Three Point Jumper. Assisted by Ashley Jones.,35,26,9,17,0.7586780882015505,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+109,2,6:43,1603,1603,Natalie Chou made Jumper.,35,28,7,19,0.7104140688531113,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+110,2,6:24,1584,1584,Foul on Kalani Brown.,35,28,7,0,0.7119052824090382,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+111,2,6:24,1584,1584,Naomi Davenport made Free Throw.,36,28,8,0,0.7376697596739291,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+112,2,6:24,1584,1584,Naomi Davenport made Free Throw.,37,28,9,9,0.7619007300623807,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+113,2,6:15,1575,1575,Foul on Chania Ray.,37,28,9,0,0.762705429641988,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+114,2,6:15,1575,1575,Kristy Wallace made Free Throw.,37,29,8,0,0.7384329499885797,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+115,2,6:15,1575,1575,Kristy Wallace made Free Throw.,37,30,7,15,0.7126131918697144,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+116,2,6:00,1560,1560,Naomi Davenport missed Three Point Jumper.,37,30,7,0,0.7137992788811724,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+117,2,6:00,1560,1560,Lauren Cox Defensive Rebound.,37,30,7,16,0.7137992788811724,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+118,2,5:44,1544,1544,Kalani Brown made Layup. Assisted by Kristy Wallace.,37,32,5,14,0.6586466872639439,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+119,2,5:30,1530,1530,Teana Muldrow made Jumper. Assisted by Naomi Davenport.,39,32,7,18,0.716213589973791,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+120,2,5:12,1512,1512,Kalani Brown Turnover.,39,32,7,0,0.7177029583937335,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+121,2,5:12,1512,1512,Naomi Davenport Steal.,39,32,7,1,0.7177029583937335,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+122,2,5:11,1511,1511,Naomi Davenport Turnover.,39,32,7,9,0.717786831279651,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+123,2,5:02,1502,1502,Didi Richards made Layup. Assisted by Lauren Cox.,39,34,5,17,0.6613862223858333,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+124,2,4:45,1485,1485,Teana Muldrow made Layup. Assisted by Destiny Harden.,41,34,7,15,0.7200170794987923,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+125,2,4:30,1470,1470,Didi Richards made Jumper. Assisted by Dekeiya Cohen.,41,36,5,25,0.6636087817760821,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+126,2,4:05,1445,1445,Teana Muldrow missed Jumper.,41,36,5,0,0.6654500088529988,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+127,2,4:05,1445,1445,Lauren Cox Block.,41,36,5,0,0.6654500088529988,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+128,2,4:05,1445,1445,Lauren Cox Defensive Rebound.,41,36,5,11,0.6654500088529988,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+129,2,3:54,1434,1434,Kristy Wallace Turnover.,41,36,5,0,0.6662564945244798,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+130,2,3:54,1434,1434,Official TV Timeout,41,36,5,27,0.6662564945244798,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+131,2,3:27,1407,1407,Katrina Pardee missed Three Point Jumper.,41,36,5,0,0.6681660812539016,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+132,2,3:27,1407,1407,Didi Richards Defensive Rebound.,41,36,5,16,0.6681660812539016,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+133,2,3:11,1391,1391,Didi Richards missed Jumper.,41,36,5,0,0.6692644940835866,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+134,2,3:11,1391,1391,Naomi Davenport Defensive Rebound.,41,36,5,14,0.6692644940835866,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+135,2,2:57,1377,1377,Teana Muldrow made Three Point Jumper. Assisted by Katrina Pardee.,44,36,8,17,0.7566952544573149,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+136,2,2:40,1360,1360,Natalie Chou made Jumper.,44,38,6,19,0.7020797423226975,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+137,2,2:21,1341,1341,Foul on Didi Richards.,44,38,6,14,0.7035444969022213,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+138,2,2:07,1327,1327,Teana Muldrow missed Jumper.,44,38,6,0,0.7046365370999681,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+139,2,2:07,1327,1327,West Virginia Offensive Rebound.,44,38,6,26,0.7046365370999681,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+140,2,1:41,1301,1301,Foul on Kristy Wallace.,44,38,6,0,0.7067179922378034,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+141,2,1:41,1301,1301,Teana Muldrow made Free Throw.,45,38,7,0,0.7361552016528506,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+142,2,1:41,1301,1301,Teana Muldrow missed Free Throw.,45,38,7,0,0.7361552016528506,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+143,2,1:41,1301,1301,Dekeiya Cohen Defensive Rebound.,45,38,7,17,0.7361552016528506,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+144,2,1:24,1284,1284,Foul on Chania Ray.,45,38,7,0,0.73770149043309,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+145,2,1:24,1284,1284,Kristy Wallace made Free Throw.,45,39,6,0,0.7081330103559508,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+146,2,1:24,1284,1284,Kristy Wallace made Free Throw.,45,40,5,10,0.6766921476756094,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+147,2,1:14,1274,1274,Teana Muldrow missed Three Point Jumper.,45,40,5,0,0.6774491478478336,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+148,2,1:14,1274,1274,Didi Richards Defensive Rebound.,45,40,5,14,0.6774491478478336,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+149,2,1:00,1260,1260,Foul on Kalani Brown.,45,40,5,0,0.6785424182794305,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+150,2,1:00,1260,1260,Kalani Brown Turnover.,45,40,5,9,0.6785424182794305,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+151,2,0:51,1251,1251,Naomi Davenport made Jumper.,47,40,7,11,0.740885319489667,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,West Virginia
+152,2,0:40,1240,1240,Dekeiya Cohen missed Jumper.,47,40,7,0,0.7420121484524033,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+153,2,0:40,1240,1240,Kalani Brown Offensive Rebound.,47,40,7,6,0.7420121484524033,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+154,2,0:34,1234,1234,Foul on Naomi Davenport.,47,40,7,0,0.7426426416735316,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+155,2,0:34,1234,1234,Kalani Brown made Free Throw.,47,41,6,0,0.7126637505944637,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,Baylor
+156,2,0:34,1234,1234,Kalani Brown missed Free Throw.,47,41,6,0,0.7126637505944637,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+157,2,0:34,1234,1234,Theresa Ekhelar Defensive Rebound.,47,41,6,29,0.7126637505944637,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+158,2,0:05,1205,1205,Teana Muldrow Turnover.,47,41,6,5,0.7156192112395022,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+159,2,0:00,1200,1200,End of 2nd Quarter,47,41,6,0,0.7161370692370593,West Virginia,Baylor,4,4,0,0,NA,400994018,2018-01-28,
+160,3,10:00,1200,1200,Jump Ball won by Baylor,47,41,6,15,0.7161370692370593,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+161,3,9:45,1185,1185,Natalie Chou missed Three Point Jumper.,47,41,6,0,0.7176582567211895,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+162,3,9:45,1185,1185,Kalani Brown Offensive Rebound.,47,41,6,6,0.7176582567211895,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+163,3,9:39,1179,1179,Kalani Brown made Layup.,47,43,4,13,0.6511008244658697,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,Baylor
+164,3,9:26,1166,1166,Teana Muldrow missed Three Point Jumper.,47,43,4,0,0.6520555229587459,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+165,3,9:26,1166,1166,Kalani Brown Defensive Rebound.,47,43,4,13,0.6520555229587459,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+166,3,9:13,1153,1153,Dekeiya Cohen made Jumper.,47,45,2,8,0.5783785381709479,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,Baylor
+167,3,9:05,1145,1145,Kristina King made Layup. Assisted by Chania Ray.,49,45,4,19,0.653573231395452,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,West Virginia
+168,3,8:46,1126,1126,Kristy Wallace made Three Point Jumper. Assisted by Natalie Chou.,49,48,1,28,0.5399653135632282,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,Baylor
+169,3,8:18,1098,1098,Katrina Pardee missed Three Point Jumper.,49,48,1,0,0.5405239379262521,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+170,3,8:18,1098,1098,Kristy Wallace Defensive Rebound.,49,48,1,9,0.5405239379262521,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+171,3,8:09,1089,1089,Foul on Katrina Pardee.,49,48,1,0,0.5407073353124694,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+172,3,8:09,1089,1089,Natalie Chou made Free Throw.,49,49,0,0,0.5,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,Baylor
+173,3,8:09,1089,1089,Natalie Chou missed Free Throw.,49,49,0,0,0.5,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+174,3,8:09,1089,1089,Lauren Cox Offensive Rebound.,49,49,0,9,0.5,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+175,3,8:00,1080,1080,Kalani Brown made Layup. Assisted by Kristy Wallace.,49,51,-2,13,0.4187565601869328,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,Baylor
+176,3,7:47,1067,1067,Naomi Davenport made Three Point Jumper.,52,51,1,9,0.5411680488201968,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,West Virginia
+177,3,7:38,1058,1058,Kristy Wallace made Layup.,52,53,-1,15,0.4586371411832364,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,Baylor
+178,3,7:23,1043,1043,Foul on Kristy Wallace.,52,53,-1,0,0.45830241321201487,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+179,3,7:23,1043,1043,Chania Ray missed Free Throw.,52,53,-1,0,0.45830241321201487,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+180,3,7:23,1043,1043,West Virginia Deadball Team Rebound.,52,53,-1,0,0.45830241321201487,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+181,3,7:23,1043,1043,Chania Ray made Free Throw.,53,53,0,13,0.5,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,West Virginia
+182,3,7:10,1030,1030,Kalani Brown missed Jumper.,53,53,0,0,0.5,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+183,3,7:10,1030,1030,Kristina King Defensive Rebound.,53,53,0,8,0.5,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+184,3,7:02,1022,1022,Chania Ray made Jumper.,55,53,2,21,0.5837856881015432,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,West Virginia
+185,3,6:41,1001,1001,Kristy Wallace missed Jumper.,55,53,2,0,0.5848197090733765,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+186,3,6:41,1001,1001,Kalani Brown Offensive Rebound.,55,53,2,3,0.5848197090733765,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+187,3,6:38,998,998,Foul on Naomi Davenport.,55,53,2,0,0.5849736454699718,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+188,3,6:38,998,998,Kalani Brown missed Free Throw.,55,53,2,0,0.5849736454699718,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+189,3,6:38,998,998,Baylor Deadball Team Rebound.,55,53,2,0,0.5849736454699718,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+190,3,6:38,998,998,Kalani Brown made Free Throw.,55,54,1,13,0.5427981115082156,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,Baylor
+191,3,6:25,985,985,Teana Muldrow made Three Point Jumper. Assisted by Chania Ray.,58,54,4,12,0.6664356729299381,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,West Virginia
+192,3,6:13,973,973,Lauren Cox Turnover.,58,54,4,0,0.6676514613734916,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+193,3,6:13,973,973,Kristina King Steal.,58,54,4,12,0.6676514613734916,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+194,3,6:01,961,961,Chania Ray missed Layup.,58,54,4,0,0.6688814638962944,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+195,3,6:01,961,961,Kalani Brown Defensive Rebound.,58,54,4,7,0.6688814638962944,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+196,3,5:54,954,954,Kristy Wallace made Layup.,58,56,2,3,0.5873700231688495,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,Baylor
+197,3,5:51,951,951,Foul on Kalani Brown.,58,56,2,0,0.5875255538817862,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+198,3,5:51,951,951,Chania Ray missed Free Throw.,58,56,2,0,0.5875255538817862,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+199,3,5:51,951,951,West Virginia Deadball Team Rebound.,58,56,2,0,0.5875255538817862,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+200,3,5:51,951,951,Chania Ray made Free Throw.,59,56,3,16,0.6296272925166525,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,West Virginia
+201,3,5:35,935,935,Dekeiya Cohen missed Jumper.,59,56,3,0,0.6307687846021681,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+202,3,5:35,935,935,Chania Ray Defensive Rebound.,59,56,3,18,0.6307687846021681,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+203,3,5:17,917,917,Foul on Didi Richards.,59,56,3,11,0.631961906050482,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+204,3,5:06,906,906,Teana Muldrow missed Layup.,59,56,3,0,0.6326571273860454,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+205,3,5:06,906,906,Kristy Wallace Defensive Rebound.,59,56,3,12,0.6326571273860454,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+206,3,4:54,894,894,Dekeiya Cohen made Layup. Assisted by Lauren Cox.,59,58,1,20,0.5454423605453416,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,Baylor
+207,3,4:34,874,874,Kristina King Turnover.,59,58,1,0,0.5458751573338769,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+208,3,4:34,874,874,Natalie Chou Steal.,59,58,1,11,0.5458751573338769,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,
+209,3,4:23,863,863,Natalie Chou made Layup.,59,60,-1,7,0.45388504498782395,West Virginia,Baylor,5,5,0,0,NA,400994018,2018-01-28,Baylor
+210,3,4:16,856,856,West Virginia  Timeout,59,60,-1,23,0.45373020748758297,West Virginia,Baylor,4,5,1,0,NA,400994018,2018-01-28,
+211,3,3:53,833,833,Teana Muldrow missed Jumper.,59,60,-1,0,0.45319981169339285,West Virginia,Baylor,4,5,1,0,NA,400994018,2018-01-28,
+212,3,3:53,833,833,Kristina King Offensive Rebound.,59,60,-1,26,0.45319981169339285,West Virginia,Baylor,4,5,1,0,NA,400994018,2018-01-28,
+213,3,3:27,807,807,Kristina King Turnover.,59,60,-1,0,0.45253662343665685,West Virginia,Baylor,4,5,1,0,NA,400994018,2018-01-28,
+214,3,3:27,807,807,Lauren Cox Steal.,59,60,-1,7,0.45253662343665685,West Virginia,Baylor,4,5,1,0,NA,400994018,2018-01-28,
+215,3,3:20,800,800,Lauren Cox made Jumper. Assisted by Kristy Wallace.,59,62,-3,33,0.360398643075929,West Virginia,Baylor,4,5,1,0,NA,400994018,2018-01-28,Baylor
+216,3,2:47,767,767,Kristina King missed Jumper.,59,62,-3,0,0.35751248917900835,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,
+217,3,2:47,767,767,Lauren Cox Defensive Rebound.,59,62,-3,20,0.35751248917900835,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,
+218,3,2:27,747,747,Lauren Cox Turnover.,59,62,-3,0,0.35544356399271887,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,
+219,3,2:27,747,747,Kristina King Steal.,59,62,-3,22,0.35544356399271887,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,
+220,3,2:05,725,725,Official TV Timeout,59,62,-3,9,0.35285085681468914,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,
+221,3,1:56,716,716,Katrina Pardee Turnover.,59,62,-3,8,0.35181779208068426,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,
+222,3,1:48,708,708,Kristy Wallace made Layup. Assisted by Lauren Cox.,59,64,-5,19,0.26410311993061497,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,Baylor
+223,3,1:29,689,689,Katrina Pardee made Jumper.,61,64,-3,16,0.34905790225850303,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,West Virginia
+224,3,1:13,673,673,Alexis Morris missed Jumper.,61,64,-3,0,0.34757159931555,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,
+225,3,1:13,673,673,Lauren Cox Offensive Rebound.,61,64,-3,6,0.34757159931555,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,
+226,3,1:07,667,667,Dekeiya Cohen Turnover.,61,64,-3,0,0.347026542860621,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,
+227,3,1:07,667,667,Ashley Jones Steal.,61,64,-3,2,0.347026542860621,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,
+228,3,1:05,665,665,Foul on Lauren Cox.,61,64,-3,16,0.34684538677856,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,
+229,3,0:49,649,649,Chania Ray made Three Point Jumper. Assisted by Katrina Pardee.,64,64,0,19,0.5,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,West Virginia
+230,3,0:30,630,630,Lauren Cox made Layup.,64,66,-2,24,0.3937470009501744,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,Baylor
+231,3,0:06,606,606,Teana Muldrow Turnover.,64,66,-2,3,0.39194091736114245,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,
+232,3,0:03,603,603,Foul on Ashley Jones.,64,66,-2,2,0.39169339149378174,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,
+233,3,0:01,601,601,Alexis Morris missed Layup.,64,66,-2,0,0.39152518548246845,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,
+234,3,0:01,601,601,Kristina King Defensive Rebound.,64,66,-2,1,0.39152518548246845,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,
+235,3,0:00,600,600,End of 3rd Quarter,64,66,-2,0,0.39144009480292735,West Virginia,Baylor,4,5,0,0,NA,400994018,2018-01-28,
+236,4,10:00,600,600,Jump Ball won by West Virginia,64,66,-2,18,0.39144009480292735,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+237,4,9:42,582,582,Chania Ray missed Three Point Jumper.,64,66,-2,0,0.38978351627922236,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+238,4,9:42,582,582,Kalani Brown Defensive Rebound.,64,66,-2,18,0.38978351627922236,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+239,4,9:24,564,564,Kalani Brown made Layup. Assisted by Dekeiya Cohen.,64,68,-4,29,0.28644269354072116,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,Baylor
+240,4,8:55,535,535,Kristina King missed Jumper.,64,68,-4,0,0.2803703289099463,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+241,4,8:55,535,535,Kalani Brown Block.,64,68,-4,0,0.2803703289099463,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+242,4,8:55,535,535,Lauren Cox Defensive Rebound.,64,68,-4,14,0.2803703289099463,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+243,4,8:41,521,521,Natalie Chou missed Three Point Jumper.,64,68,-4,0,0.27788869497818486,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+244,4,8:41,521,521,Naomi Davenport Defensive Rebound.,64,68,-4,27,0.27788869497818486,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+245,4,8:14,494,494,Naomi Davenport made Jumper.,66,68,-2,15,0.38027904580236527,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,West Virginia
+246,4,7:59,479,479,Kalani Brown missed Layup.,66,68,-2,0,0.37877334307447874,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+247,4,7:59,479,479,Naomi Davenport Defensive Rebound.,66,68,-2,6,0.37877334307447874,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+248,4,7:53,473,473,Foul on Dekeiya Cohen.,66,68,-2,15,0.37811827998510006,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+249,4,7:38,458,458,Kristina King missed Jumper.,66,68,-2,0,0.3762797714422773,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+250,4,7:38,458,458,Lauren Cox Defensive Rebound.,66,68,-2,18,0.3762797714422773,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+251,4,7:20,440,440,Dekeiya Cohen made Layup.,66,70,-4,25,0.2623116146627101,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,Baylor
+252,4,6:55,415,415,Foul on Dekeiya Cohen.,66,70,-4,0,0.25473544015207844,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+253,4,6:55,415,415,Naomi Davenport made Free Throw.,67,70,-3,0,0.3089280984066925,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,West Virginia
+254,4,6:55,415,415,Naomi Davenport made Free Throw.,68,70,-2,11,0.36894233751891353,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,West Virginia
+255,4,6:44,404,404,Kalani Brown Turnover.,68,70,-2,0,0.367038526782698,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+256,4,6:44,404,404,Naomi Davenport Steal.,68,70,-2,5,0.367038526782698,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+257,4,6:39,399,399,Foul on Lauren Cox.,68,70,-2,0,0.36619205967335566,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+258,4,6:39,399,399,Teana Muldrow made Free Throw.,69,70,-1,0,0.4318532262990568,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,West Virginia
+259,4,6:39,399,399,Teana Muldrow made Free Throw.,70,70,0,9,0.5,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,West Virginia
+260,4,6:30,390,390,Foul on Theresa Ekhelar.,70,70,0,13,0.5,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+261,4,6:17,377,377,Kristy Wallace made Three Point Jumper.,70,73,-3,11,0.30001277241869007,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,Baylor
+262,4,6:06,366,366,Teana Muldrow missed Three Point Jumper.,70,73,-3,0,0.2972786190774884,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+263,4,6:06,366,366,Alexis Morris Defensive Rebound.,70,73,-3,20,0.2972786190774884,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+264,4,5:46,346,346,Lauren Cox Turnover.,70,73,-3,0,0.2916927257111588,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+265,4,5:46,346,346,Naomi Davenport Steal.,70,73,-3,9,0.2916927257111588,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+266,4,5:37,337,337,Teana Muldrow missed Jumper.,70,73,-3,0,0.28881850160850586,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+267,4,5:37,337,337,Kalani Brown Defensive Rebound.,70,73,-3,13,0.28881850160850586,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+268,4,5:24,324,324,Foul on Katrina Pardee.,70,73,-3,1,0.2841601570965086,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+269,4,5:23,323,323,Kristy Wallace missed Jumper.,70,73,-3,0,0.2837741782149294,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+270,4,5:23,323,323,Teana Muldrow Defensive Rebound.,70,73,-3,1,0.2837741782149294,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+271,4,5:22,322,322,Kalani Brown Defensive Rebound.,70,73,-3,0,0.28338399453044827,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+272,4,5:22,322,322,Naomi Davenport missed Layup.,70,73,-3,40,0.28338399453044827,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+273,4,4:42,282,282,Foul on Naomi Davenport.,70,73,-3,0,0.27421242656238853,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+274,4,4:42,282,282,Official TV Timeout,70,73,-3,0,0.27421242656238853,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+275,4,4:42,282,282,Kalani Brown made Free Throw.,70,74,-4,0,0.21453454275642977,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,Baylor
+276,4,4:42,282,282,Kalani Brown made Free Throw.,70,75,-5,12,0.16489381726969676,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,Baylor
+277,4,4:30,270,270,Naomi Davenport made Jumper.,72,75,-3,21,0.27575721276738224,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,West Virginia
+278,4,4:09,249,249,Lauren Cox made Jumper. Assisted by Kristy Wallace.,72,77,-5,29,0.17092703501024287,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,Baylor
+279,4,3:40,220,220,Naomi Davenport missed Layup.,72,77,-5,0,0.16938408066684454,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+280,4,3:40,220,220,Dekeiya Cohen Defensive Rebound.,72,77,-5,29,0.16938408066684454,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+281,4,3:11,191,191,Kristy Wallace missed Three Point Jumper.,72,77,-5,0,0.14631991722030271,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+282,4,3:11,191,191,Lauren Cox Offensive Rebound.,72,77,-5,19,0.14631991722030271,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,
+283,4,2:52,172,172,Kalani Brown made Layup. Assisted by Alexis Morris.,72,79,-7,3,0.06006599111220156,West Virginia,Baylor,5,6,0,0,NA,400994018,2018-01-28,Baylor
+284,4,2:49,169,169,West Virginia  Timeout,72,79,-7,5,0.05751736529282755,West Virginia,Baylor,4,6,1,0,NA,400994018,2018-01-28,
+285,4,2:44,164,164,Katrina Pardee missed Three Point Jumper.,72,79,-7,0,0.053411775614016103,West Virginia,Baylor,4,6,1,0,NA,400994018,2018-01-28,
+286,4,2:44,164,164,Lauren Cox Defensive Rebound.,72,79,-7,20,0.053411775614016103,West Virginia,Baylor,4,6,1,0,NA,400994018,2018-01-28,
+287,4,2:24,144,144,Alexis Morris missed Jumper.,72,79,-7,0,0.0385319861461662,West Virginia,Baylor,4,6,1,0,NA,400994018,2018-01-28,
+288,4,2:24,144,144,Katrina Pardee Block.,72,79,-7,0,0.0385319861461662,West Virginia,Baylor,4,6,1,0,NA,400994018,2018-01-28,
+289,4,2:24,144,144,Baylor Offensive Rebound.,72,79,-7,2,0.0385319861461662,West Virginia,Baylor,4,6,1,0,NA,400994018,2018-01-28,
+290,4,2:22,142,142,Kristy Wallace made Jumper. Assisted by Alexis Morris.,72,81,-9,30,0.015005522382936847,West Virginia,Baylor,4,6,1,0,NA,400994018,2018-01-28,Baylor
+291,4,1:52,112,112,Chania Ray missed Layup.,72,81,-9,0,0.0064751324391828435,West Virginia,Baylor,4,6,1,0,NA,400994018,2018-01-28,
+292,4,1:52,112,112,Lauren Cox Defensive Rebound.,72,81,-9,25,0.0064751324391828435,West Virginia,Baylor,4,6,1,0,NA,400994018,2018-01-28,
+293,4,1:27,87,87,Kristy Wallace missed Jumper.,72,81,-9,0,0.0025452783851913153,West Virginia,Baylor,4,6,0,0,NA,400994018,2018-01-28,
+294,4,1:27,87,87,Chania Ray Defensive Rebound.,72,81,-9,18,0.0025452783851913153,West Virginia,Baylor,4,6,0,0,NA,400994018,2018-01-28,
+295,4,1:09,69,69,Naomi Davenport missed Three Point Jumper.,72,81,-9,0,0.0011722248928709592,West Virginia,Baylor,4,6,0,0,NA,400994018,2018-01-28,
+296,4,1:09,69,69,Kalani Brown Defensive Rebound.,72,81,-9,29,0.0011722248928709592,West Virginia,Baylor,4,6,0,0,NA,400994018,2018-01-28,
+297,4,0:40,40,40,Alexis Morris missed Layup.,72,81,-9,0,2.777405684468464e-4,West Virginia,Baylor,4,6,0,0,NA,400994018,2018-01-28,
+298,4,0:40,40,40,Chania Ray Block.,72,81,-9,0,2.777405684468464e-4,West Virginia,Baylor,4,6,0,0,NA,400994018,2018-01-28,
+299,4,0:40,40,40,Baylor Offensive Rebound.,72,81,-9,0,2.777405684468464e-4,West Virginia,Baylor,4,6,0,0,NA,400994018,2018-01-28,
+300,4,0:40,40,40,Dekeiya Cohen made Jumper. Assisted by Kalani Brown.,72,83,-11,16,4.50261525103466e-5,West Virginia,Baylor,4,6,0,0,NA,400994018,2018-01-28,Baylor
+301,4,0:24,24,24,Foul on Alexis Morris.,72,83,-11,2,1.50385706794806e-5,West Virginia,Baylor,4,6,0,0,NA,400994018,2018-01-28,
+302,4,0:22,22,22,Katrina Pardee missed Layup.,72,83,-11,8,1.3047129840132678e-5,West Virginia,Baylor,4,6,0,0,NA,400994018,2018-01-28,
+303,4,0:14,14,14,Kalani Brown Defensive Rebound.,72,83,-11,0,7.231992783005108e-6,West Virginia,Baylor,4,6,0,0,NA,400994018,2018-01-28,
+304,4,0:14,14,14,Foul on Naomi Davenport.,72,83,-11,14,7.231992783005108e-6,West Virginia,Baylor,4,6,0,0,NA,400994018,2018-01-28,
+305,4,0:00,0,0,End of Game,72,83,-11,0,2.852423339163565e-96,West Virginia,Baylor,4,6,0,0,NA,400994018,2018-01-28,

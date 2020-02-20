@@ -1,0 +1,425 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Jump Ball won by Tennessee,0,0,0,13,0.5,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,NA
+2,1,9:47,2387,2387,Evina Westbrook Turnover.,0,0,0,0,0.5,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+3,1,9:47,2387,2387,Ariel Atkins Steal.,0,0,0,9,0.5,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+4,1,9:38,2378,2378,Lashann Higgs missed Jumper.,0,0,0,0,0.5,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+5,1,9:38,2378,2378,Jatarie White Offensive Rebound.,0,0,0,7,0.5,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+6,1,9:31,2371,2371,Jatarie White missed Layup.,0,0,0,0,0.5,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+7,1,9:31,2371,2371,Mercedes Russell Defensive Rebound.,0,0,0,16,0.5,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+8,1,9:15,2355,2355,Mercedes Russell missed Jumper.,0,0,0,0,0.5,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+9,1,9:15,2355,2355,Jaime Nared Offensive Rebound.,0,0,0,8,0.5,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+10,1,9:07,2347,2347,Jaime Nared missed Three Point Jumper.,0,0,0,0,0.5,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+11,1,9:07,2347,2347,Jatarie White Defensive Rebound.,0,0,0,22,0.5,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+12,1,8:45,2325,2325,Jatarie White missed Jumper.,0,0,0,0,0.5,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+13,1,8:45,2325,2325,Meme Jackson Defensive Rebound.,0,0,0,8,0.5,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+14,1,8:37,2317,2317,Rennia Davis missed Three Point Jumper.,0,0,0,0,0.5,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+15,1,8:37,2317,2317,Brooke McCarty Defensive Rebound.,0,0,0,13,0.5,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+16,1,8:24,2304,2304,Foul on Brooke McCarty.,0,0,0,0,0.5,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+17,1,8:24,2304,2304,Brooke McCarty Turnover.,0,0,0,23,0.5,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+18,1,8:01,2281,2281,Foul on Audrey-Ann Caron-Goudreau.,0,0,0,0,0.5,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+19,1,8:01,2281,2281,Rennia Davis made Free Throw.,1,0,1,0,0.5233564625369095,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Tennessee
+20,1,8:01,2281,2281,Rennia Davis made Free Throw.,2,0,2,12,0.5466112148644995,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Tennessee
+21,1,7:49,2269,2269,Lashann Higgs missed Jumper.,2,0,2,0,0.5468806166740243,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+22,1,7:49,2269,2269,Mercedes Russell Defensive Rebound.,2,0,2,15,0.5468806166740243,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+23,1,7:34,2254,2254,Jaime Nared missed Jumper.,2,0,2,0,0.5472191010254319,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+24,1,7:34,2254,2254,Mercedes Russell Offensive Rebound.,2,0,2,5,0.5472191010254319,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+25,1,7:29,2249,2249,Mercedes Russell made Layup.,4,0,4,23,0.5938238646341892,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Tennessee
+26,1,7:06,2226,2226,Ariel Atkins missed Three Point Jumper.,4,0,4,0,0.5948422040029784,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+27,1,7:06,2226,2226,Evina Westbrook Defensive Rebound.,4,0,4,11,0.5948422040029784,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+28,1,6:55,2215,2215,Mercedes Russell missed Jumper.,4,0,4,0,0.5953314058987561,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+29,1,6:55,2215,2215,Jaime Nared Offensive Rebound.,4,0,4,7,0.5953314058987561,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+30,1,6:48,2208,2208,Jaime Nared made Layup.,6,0,6,16,0.6413014407038973,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Tennessee
+31,1,6:32,2192,2192,Jatarie White made Jumper. Assisted by Lashann Higgs.,6,2,4,28,0.5963580503803333,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Texas
+32,1,6:04,2164,2164,Mercedes Russell Turnover.,6,2,4,0,0.5976133733505369,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+33,1,6:04,2164,2164,Ariel Atkins Steal.,6,2,4,7,0.5976133733505369,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+34,1,5:57,2157,2157,Brooke McCarty missed Three Point Jumper.,6,2,4,0,0.597928390361488,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+35,1,5:57,2157,2157,Ariel Atkins Offensive Rebound.,6,2,4,8,0.597928390361488,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+36,1,5:49,2149,2149,Ariel Atkins missed Three Point Jumper.,6,2,4,0,0.5982892282270783,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+37,1,5:49,2149,2149,Meme Jackson Defensive Rebound.,6,2,4,5,0.5982892282270783,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+38,1,5:44,2144,2144,Jaime Nared missed Jumper.,6,2,4,0,0.5985152089676032,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+39,1,5:44,2144,2144,Jatarie White Defensive Rebound.,6,2,4,9,0.5985152089676032,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+40,1,5:35,2135,2135,Lashann Higgs Turnover.,6,2,4,0,0.5989228896259795,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+41,1,5:35,2135,2135,Evina Westbrook Steal.,6,2,4,7,0.5989228896259795,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+42,1,5:28,2128,2128,Evina Westbrook made Jumper.,8,2,6,21,0.6464461837384224,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Tennessee
+43,1,5:07,2107,2107,Lashann Higgs missed Three Point Jumper.,8,2,6,0,0.6478136993847357,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+44,1,5:07,2107,2107,Rennia Davis Defensive Rebound.,8,2,6,1,0.6478136993847357,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+45,1,5:06,2106,2106,Foul on Audrey-Ann Caron-Goudreau.,8,2,6,10,0.6478790428499457,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+46,1,4:56,2096,2096,Jaime Nared missed Layup.,8,2,6,0,0.6485336458816783,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+47,1,4:56,2096,2096,Jatarie White Defensive Rebound.,8,2,6,13,0.6485336458816783,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+48,1,4:43,2083,2083,Jatarie White missed Jumper.,8,2,6,0,0.6493879071369723,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+49,1,4:43,2083,2083,Cheridene Green Defensive Rebound.,8,2,6,24,0.6493879071369723,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+50,1,4:19,2059,2059,Mercedes Russell made Layup. Assisted by Meme Jackson.,10,2,8,0,0.6965886286581311,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Tennessee
+51,1,4:19,2059,2059,Foul on Jatarie White.,10,2,8,0,0.6965886286581311,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+52,1,4:19,2059,2059,Official TV Timeout,10,2,8,0,0.6965886286581311,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+53,1,4:19,2059,2059,Mercedes Russell missed Free Throw.,10,2,8,0,0.6965886286581311,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+54,1,4:19,2059,2059,Jordan Hosey Defensive Rebound.,10,2,8,17,0.6965886286581311,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+55,1,4:02,2042,2042,Brooke McCarty missed Three Point Jumper.,10,2,8,0,0.6979931637199664,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+56,1,4:02,2042,2042,Meme Jackson Defensive Rebound.,10,2,8,8,0.6979931637199664,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+57,1,3:54,2034,2034,Jaime Nared missed Jumper.,10,2,8,0,0.698656811898885,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+58,1,3:54,2034,2034,Alecia Sutton Defensive Rebound.,10,2,8,14,0.698656811898885,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+59,1,3:40,2020,2020,Jatarie White Turnover.,10,2,8,11,0.6998225262504985,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+60,1,3:29,2009,2009,Mercedes Russell missed Jumper.,10,2,8,0,0.7007424501156324,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+61,1,3:29,2009,2009,Jordan Hosey Defensive Rebound.,10,2,8,10,0.7007424501156324,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+62,1,3:19,1999,1999,Alecia Sutton missed Jumper.,10,2,8,0,0.7015819149026303,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+63,1,3:19,1999,1999,Rennia Davis Defensive Rebound.,10,2,8,24,0.7015819149026303,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+64,1,2:55,1975,1975,Jaime Nared made Jumper.,12,2,10,20,0.7466230399803894,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Tennessee
+65,1,2:35,1955,1955,Foul on Evina Westbrook.,12,2,10,0,0.7485538437300617,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+66,1,2:35,1955,1955,Jatarie White made Free Throw.,12,3,9,0,0.72746975677635,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Texas
+67,1,2:35,1955,1955,Jatarie White missed Free Throw.,12,3,9,0,0.72746975677635,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+68,1,2:35,1955,1955,Meme Jackson Defensive Rebound.,12,3,9,14,0.72746975677635,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+69,1,2:21,1941,1941,Evina Westbrook missed Three Point Jumper.,12,3,9,0,0.728758433561697,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+70,1,2:21,1941,1941,Brooke McCarty Defensive Rebound.,12,3,9,18,0.728758433561697,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+71,1,2:03,1923,1923,Foul on Jaime Nared.,12,3,9,0,0.7304235869144904,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+72,1,2:03,1923,1923,Ariel Atkins made Free Throw.,12,4,8,0,0.7080682011820075,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Texas
+73,1,2:03,1923,1923,Ariel Atkins made Free Throw.,12,5,7,10,0.6846592961865399,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Texas
+74,1,1:53,1913,1913,Evina Westbrook missed Jumper.,12,5,7,0,0.6854464028630912,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+75,1,1:53,1913,1913,Olamide Aborowa Defensive Rebound.,12,5,7,10,0.6854464028630912,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+76,1,1:43,1903,1903,Jordan Hosey missed Layup.,12,5,7,0,0.6862316643978315,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+77,1,1:43,1903,1903,Mercedes Russell Defensive Rebound.,12,5,7,13,0.6862316643978315,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+78,1,1:30,1890,1890,Foul on Ariel Atkins.,12,5,7,0,0.6872505172497027,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+79,1,1:30,1890,1890,Evina Westbrook made Free Throw.,13,5,8,0,0.7109016795839772,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Tennessee
+80,1,1:30,1890,1890,Evina Westbrook made Free Throw.,14,5,9,12,0.7334579416891129,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Tennessee
+81,1,1:18,1878,1878,Jordan Hosey made Layup. Assisted by Alecia Sutton.,14,7,7,21,0.6881898188746299,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Texas
+82,1,0:57,1857,1857,Meme Jackson missed Jumper.,14,7,7,0,0.6898333336842516,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+83,1,0:57,1857,1857,Alecia Sutton Defensive Rebound.,14,7,7,8,0.6898333336842516,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+84,1,0:49,1849,1849,Alecia Sutton made Jumper.,14,9,5,19,0.6394668239788597,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Texas
+85,1,0:30,1830,1830,Evina Westbrook missed Three Point Jumper.,14,9,5,0,0.6406170009471788,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+86,1,0:30,1830,1830,Olamide Aborowa Defensive Rebound.,14,9,5,9,0.6406170009471788,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+87,1,0:21,1821,1821,Brooke McCarty missed Jumper.,14,9,5,0,0.641164107034392,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+88,1,0:21,1821,1821,Evina Westbrook Block.,14,9,5,0,0.641164107034392,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+89,1,0:21,1821,1821,Jaime Nared Defensive Rebound.,14,9,5,6,0.641164107034392,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+90,1,0:15,1815,1815,Mercedes Russell made Layup. Assisted by Jaime Nared.,16,9,7,11,0.6931344715503758,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Tennessee
+91,1,0:04,1804,1804,Alecia Sutton made Jumper.,16,11,5,4,0.642202703114832,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Texas
+92,1,0:00,1800,1800,End of 1st Quarter,16,11,5,0,0.6424482088636343,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+93,2,10:00,1800,1800,Jump Ball won by Tennessee,16,11,5,11,0.6424482088636343,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+94,2,9:49,1789,1789,Evina Westbrook made Jumper. Assisted by Mercedes Russell.,18,11,7,8,0.6951992655772931,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Tennessee
+95,2,9:41,1781,1781,Lashann Higgs Turnover.,18,11,7,11,0.6958393812081037,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+96,2,9:30,1770,1770,Rennia Davis missed Three Point Jumper.,18,11,7,0,0.6967239094516093,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+97,2,9:30,1770,1770,Olamide Aborowa Defensive Rebound.,18,11,7,3,0.6967239094516093,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+98,2,9:27,1767,1767,Olamide Aborowa Turnover.,18,11,7,0,0.6969660892388202,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+99,2,9:27,1767,1767,Jaime Nared Steal.,18,11,7,6,0.6969660892388202,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+100,2,9:21,1761,1761,Rennia Davis missed Layup.,18,11,7,0,0.6974517412425733,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+101,2,9:21,1761,1761,Rennia Davis Offensive Rebound.,18,11,7,0,0.6974517412425733,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+102,2,9:21,1761,1761,Foul on Olamide Aborowa.,18,11,7,12,0.6974517412425733,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+103,2,9:09,1749,1749,Evina Westbrook Turnover.,18,11,7,0,0.6984285393129795,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+104,2,9:09,1749,1749,Lashann Higgs Steal.,18,11,7,5,0.6984285393129795,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+105,2,9:04,1744,1744,Lashann Higgs made Layup.,18,13,5,8,0.6459454799944517,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Texas
+106,2,8:56,1736,1736,Anastasia Hayes missed Layup.,18,13,5,0,0.6464562630018184,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+107,2,8:56,1736,1736,Ariel Atkins Defensive Rebound.,18,13,5,8,0.6464562630018184,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+108,2,8:48,1728,1728,Ariel Atkins missed Jumper.,18,13,5,0,0.6469703650977525,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+109,2,8:48,1728,1728,Jaime Nared Defensive Rebound.,18,13,5,11,0.6469703650977525,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+110,2,8:37,1717,1717,Foul on Ariel Atkins.,18,13,5,0,0.6476829942802886,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+111,2,8:37,1717,1717,Jaime Nared made Free Throw.,19,13,6,0,0.6749465821305198,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Tennessee
+112,2,8:37,1717,1717,Jaime Nared made Free Throw.,20,13,7,11,0.7010741315977451,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Tennessee
+113,2,8:26,1706,1706,Alecia Sutton missed Three Point Jumper.,20,13,7,0,0.7019990793864772,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+114,2,8:26,1706,1706,Mercedes Russell Defensive Rebound.,20,13,7,11,0.7019990793864772,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+115,2,8:15,1695,1695,Jaime Nared missed Three Point Jumper.,20,13,7,0,0.7029328723975745,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+116,2,8:15,1695,1695,Jatarie White Defensive Rebound.,20,13,7,7,0.7029328723975745,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+117,2,8:08,1688,1688,Lashann Higgs missed Jumper.,20,13,7,0,0.7035314924923114,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+118,2,8:08,1688,1688,Jaime Nared Defensive Rebound.,20,13,7,7,0.7035314924923114,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+119,2,8:01,1681,1681,Rennia Davis missed Three Point Jumper.,20,13,7,0,0.704125667584163,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+120,2,8:01,1681,1681,Lashann Higgs Defensive Rebound.,20,13,7,6,0.704125667584163,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+121,2,7:55,1675,1675,Lashann Higgs Turnover.,20,13,7,0,0.7046295090549294,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+122,2,7:55,1675,1675,Jaime Nared Steal.,20,13,7,6,0.7046295090549294,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+123,2,7:49,1669,1669,Anastasia Hayes Turnover.,20,13,7,12,0.7051286977765121,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+124,2,7:37,1657,1657,Jatarie White made Layup. Assisted by Lashann Higgs.,20,15,5,29,0.651612309602167,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Texas
+125,2,7:08,1628,1628,Jaime Nared Turnover.,20,15,5,0,0.6534340268295901,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+126,2,7:08,1628,1628,Brooke McCarty Steal.,20,15,5,9,0.6534340268295901,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+127,2,6:59,1619,1619,Lashann Higgs missed Layup.,20,15,5,0,0.6539917441205468,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+128,2,6:59,1619,1619,Jaime Nared Defensive Rebound.,20,15,5,32,0.6539917441205468,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+129,2,6:27,1587,1587,Anastasia Hayes missed Jumper.,20,15,5,0,0.6559645922904116,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+130,2,6:27,1587,1587,Brooke McCarty Defensive Rebound.,20,15,5,6,0.6559645922904116,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+131,2,6:21,1581,1581,Audrey-Ann Caron-Goudreau missed Three Point Jumper.,20,15,5,0,0.6563349611345193,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+132,2,6:21,1581,1581,Jaime Nared Defensive Rebound.,20,15,5,14,0.6563349611345193,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+133,2,6:07,1567,1567,Jaime Nared made Layup.,22,15,7,16,0.7132445548906124,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Tennessee
+134,2,5:51,1551,1551,Brooke McCarty missed Layup.,22,15,7,0,0.7145165134701384,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+135,2,5:51,1551,1551,Anastasia Hayes Block.,22,15,7,0,0.7145165134701384,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+136,2,5:51,1551,1551,Brooke McCarty Offensive Rebound.,22,15,7,10,0.7145165134701384,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+137,2,5:41,1541,1541,Brooke McCarty missed Layup.,22,15,7,0,0.715320005909675,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+138,2,5:41,1541,1541,Mercedes Russell Defensive Rebound.,22,15,7,3,0.715320005909675,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+139,2,5:38,1538,1538,Evina Westbrook Turnover.,22,15,7,7,0.7155626195211595,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+140,2,5:31,1531,1531,Alecia Sutton Turnover.,22,15,7,0,0.7161318827774067,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+141,2,5:31,1531,1531,Anastasia Hayes Steal.,22,15,7,8,0.7161318827774067,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,
+142,2,5:23,1523,1523,Evina Westbrook made Layup. Assisted by Anastasia Hayes.,24,15,9,6,0.7674373128455941,Tennessee,Texas,4,4,0,0,NA,400987876,2017-12-10,Tennessee
+143,2,5:17,1517,1517,Texas  Timeout,24,15,9,0,0.7679989798443327,Tennessee,Texas,3,4,1,0,NA,400987876,2017-12-10,
+144,2,5:17,1517,1517,Official TV Timeout,24,15,9,23,0.7679989798443327,Tennessee,Texas,3,4,1,0,NA,400987876,2017-12-10,
+145,2,4:54,1494,1494,Jatarie White made Jumper.,24,17,7,27,0.7192335962910029,Tennessee,Texas,3,4,1,0,NA,400987876,2017-12-10,Texas
+146,2,4:27,1467,1467,Foul on Jatarie White.,24,17,7,2,0.7216256720718808,Tennessee,Texas,3,4,1,0,NA,400987876,2017-12-10,
+147,2,4:25,1465,1465,Jaime Nared missed Jumper.,24,17,7,0,0.7218081082803176,Tennessee,Texas,3,4,1,0,NA,400987876,2017-12-10,
+148,2,4:25,1465,1465,Mercedes Russell Offensive Rebound.,24,17,7,0,0.7218081082803176,Tennessee,Texas,3,4,1,0,NA,400987876,2017-12-10,
+149,2,4:25,1465,1465,Mercedes Russell missed Layup.,24,17,7,0,0.7218081082803176,Tennessee,Texas,3,4,1,0,NA,400987876,2017-12-10,
+150,2,4:25,1465,1465,Tennessee Offensive Rebound.,24,17,7,5,0.7218081082803176,Tennessee,Texas,3,4,1,0,NA,400987876,2017-12-10,
+151,2,4:20,1460,1460,Rennia Davis made Layup.,26,17,9,13,0.77360950143892,Tennessee,Texas,3,4,1,0,NA,400987876,2017-12-10,Tennessee
+152,2,4:07,1447,1447,Alecia Sutton missed Jumper.,26,17,9,0,0.774974439634931,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+153,2,4:07,1447,1447,Mercedes Russell Block.,26,17,9,0,0.774974439634931,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+154,2,4:07,1447,1447,Jaime Nared Defensive Rebound.,26,17,9,7,0.774974439634931,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+155,2,4:00,1440,1440,Jaime Nared missed Layup.,26,17,9,0,0.7757037978599396,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+156,2,4:00,1440,1440,Audrey-Ann Caron-Goudreau Defensive Rebound.,26,17,9,0,0.7757037978599396,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+157,2,4:00,1440,1440,Foul on Rennia Davis.,26,17,9,8,0.7757037978599396,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+158,2,3:52,1432,1432,Jada Underwood missed Layup.,26,17,9,0,0.7765224125211911,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+159,2,3:52,1432,1432,Rennia Davis Defensive Rebound.,26,17,9,14,0.7765224125211911,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+160,2,3:38,1418,1418,Jaime Nared missed Three Point Jumper.,26,17,9,0,0.7779215119442776,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+161,2,3:38,1418,1418,Audrey-Ann Caron-Goudreau Defensive Rebound.,26,17,9,13,0.7779215119442776,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+162,2,3:25,1405,1405,Audrey-Ann Caron-Goudreau Turnover.,26,17,9,7,0.7791891241101659,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+163,2,3:18,1398,1398,Jaime Nared Turnover.,26,17,9,6,0.7798616224053041,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+164,2,3:12,1392,1392,Foul on Anastasia Hayes.,26,17,9,4,0.7804335048423022,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+165,2,3:08,1388,1388,Brooke McCarty made Jumper.,26,19,7,23,0.7287116857666043,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,Texas
+166,2,2:45,1365,1365,Jaime Nared missed Jumper.,26,19,7,0,0.7306553784084776,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+167,2,2:45,1365,1365,Texas Defensive Rebound.,26,19,7,13,0.7306553784084776,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+168,2,2:32,1352,1352,Alecia Sutton Turnover.,26,19,7,0,0.7317510360717726,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+169,2,2:32,1352,1352,Mercedes Russell Steal.,26,19,7,10,0.7317510360717726,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+170,2,2:22,1342,1342,Rennia Davis missed Jumper.,26,19,7,0,0.7325971483692415,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+171,2,2:22,1342,1342,Texas Defensive Rebound.,26,19,7,24,0.7325971483692415,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+172,2,1:58,1318,1318,Olamide Aborowa missed Jumper.,26,19,7,0,0.7346564923756794,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+173,2,1:58,1318,1318,Jada Underwood Offensive Rebound.,26,19,7,6,0.7346564923756794,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+174,2,1:52,1312,1312,Jada Underwood made Layup.,26,21,5,0,0.6746593488514977,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,Texas
+175,2,1:52,1312,1312,Foul on Rennia Davis.,26,21,5,0,0.6746593488514977,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+176,2,1:52,1312,1312,Jada Underwood missed Free Throw.,26,21,5,0,0.6746593488514977,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+177,2,1:52,1312,1312,Tennessee Defensive Rebound.,26,21,5,11,0.6746593488514977,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+178,2,1:41,1301,1301,Evina Westbrook missed Layup.,26,21,5,0,0.6754444543999164,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+179,2,1:41,1301,1301,Jordan Hosey Defensive Rebound.,26,21,5,11,0.6754444543999164,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+180,2,1:30,1290,1290,Brooke McCarty missed Three Point Jumper.,26,21,5,0,0.6762465150150259,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+181,2,1:30,1290,1290,Meme Jackson Defensive Rebound.,26,21,5,9,0.6762465150150259,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+182,2,1:21,1281,1281,Meme Jackson Turnover.,26,21,5,9,0.67691730805775,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+183,2,1:12,1272,1272,Lashann Higgs made Layup.,26,23,3,14,0.6096083600351868,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,Texas
+184,2,0:58,1258,1258,Meme Jackson made Jumper.,28,23,5,0,0.678702073510611,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,Tennessee
+185,2,0:58,1258,1258,Technical Foul on Meme Jackson.,28,23,5,6,0.678702073510611,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+186,2,0:52,1252,1252,Foul on Meme Jackson.,28,23,5,0,0.679186610981001,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+187,2,0:52,1252,1252,Technical Foul on Jordan Hosey.,28,23,5,0,0.679186610981001,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+188,2,0:52,1252,1252,Foul on Jordan Hosey.,28,23,5,10,0.679186610981001,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+189,2,0:42,1242,1242,Brooke McCarty missed Three Point Jumper.,28,23,5,0,0.6800137253525989,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+190,2,0:42,1242,1242,Olamide Aborowa Offensive Rebound.,28,23,5,7,0.6800137253525989,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+191,2,0:35,1235,1235,Olamide Aborowa made Layup.,28,25,3,14,0.6115758028102006,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,Texas
+192,2,0:21,1221,1221,Foul on Lashann Higgs.,28,25,3,0,0.6123829135101257,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+193,2,0:21,1221,1221,Evina Westbrook made Free Throw.,29,25,4,0,0.6478920757041349,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,Tennessee
+194,2,0:21,1221,1221,Evina Westbrook missed Free Throw.,29,25,4,0,0.6478920757041349,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+195,2,0:21,1221,1221,Olamide Aborowa Defensive Rebound.,29,25,4,20,0.6478920757041349,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+196,2,0:01,1201,1201,Foul on Anastasia Hayes.,29,25,4,0,0.649440775217143,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+197,2,0:01,1201,1201,Jada Underwood made Free Throw.,29,26,3,0,0.6135920191128087,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,Texas
+198,2,0:01,1201,1201,Jada Underwood made Free Throw.,29,27,2,1,0.5764680567375442,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,Texas
+199,2,0:00,1200,1200,End of 2nd Quarter,29,27,2,0,0.5765093285143758,Tennessee,Texas,3,4,0,0,NA,400987876,2017-12-10,
+200,3,10:00,1200,1200,Jump Ball won by Texas,29,27,2,8,0.5765093285143758,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+201,3,9:52,1192,1192,Audrey-Ann Caron-Goudreau missed Jumper.,29,27,2,0,0.5768366246243292,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+202,3,9:52,1192,1192,Mercedes Russell Defensive Rebound.,29,27,2,14,0.5768366246243292,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+203,3,9:38,1178,1178,Foul on Brooke McCarty.,29,27,2,2,0.5773986613792542,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+204,3,9:36,1176,1176,Rennia Davis Turnover.,29,27,2,13,0.577478008620467,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+205,3,9:23,1163,1163,Ariel Atkins made Jumper.,29,29,0,14,0.5,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,Texas
+206,3,9:09,1149,1149,Evina Westbrook made Three Point Jumper.,32,29,3,19,0.6165983867646192,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,Tennessee
+207,3,8:50,1130,1130,Lashann Higgs missed Three Point Jumper.,32,29,3,0,0.6176666193262281,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+208,3,8:50,1130,1130,Texas Offensive Rebound.,32,29,3,5,0.6176666193262281,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+209,3,8:45,1125,1125,Ariel Atkins Turnover.,32,29,3,0,0.6179479917536849,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+210,3,8:45,1125,1125,Meme Jackson Steal.,32,29,3,3,0.6179479917536849,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+211,3,8:42,1122,1122,Jaime Nared made Layup. Assisted by Meme Jackson.,34,29,5,12,0.6905317252559572,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,Tennessee
+212,3,8:30,1110,1110,Ariel Atkins missed Jumper.,34,29,5,0,0.6915563189761302,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+213,3,8:30,1110,1110,Texas Offensive Rebound.,34,29,5,11,0.6915563189761302,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+214,3,8:19,1099,1099,Brooke McCarty missed Jumper.,34,29,5,0,0.6925042461080666,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+215,3,8:19,1099,1099,Jaime Nared Defensive Rebound.,34,29,5,3,0.6925042461080666,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+216,3,8:16,1096,1096,Foul on Audrey-Ann Caron-Goudreau.,34,29,5,12,0.6927647400795898,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+217,3,8:04,1084,1084,Jaime Nared made Jumper.,36,29,7,37,0.7586400142210163,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,Tennessee
+218,3,7:27,1047,1047,Ariel Atkins missed Jumper.,36,29,7,0,0.7627283465883494,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+219,3,7:27,1047,1047,Meme Jackson Defensive Rebound.,36,29,7,34,0.7627283465883494,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+220,3,6:53,1013,1013,Rennia Davis missed Jumper.,36,29,7,0,0.7668166680688299,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+221,3,6:53,1013,1013,Jatarie White Defensive Rebound.,36,29,7,0,0.7668166680688299,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+222,3,6:53,1013,1013,Alecia Sutton missed Jumper.,36,29,7,0,0.7668166680688299,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+223,3,6:53,1013,1013,Rennia Davis Defensive Rebound.,36,29,7,1,0.7668166680688299,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+224,3,6:52,1012,1012,Foul on Alecia Sutton.,36,29,7,7,0.7669430170216602,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+225,3,6:45,1005,1005,Mercedes Russell missed Jumper.,36,29,7,0,0.7678383909224236,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+226,3,6:45,1005,1005,Mercedes Russell Offensive Rebound.,36,29,7,8,0.7678383909224236,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+227,3,6:37,997,997,Meme Jackson missed Three Point Jumper.,36,29,7,0,0.7688860228932132,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+228,3,6:37,997,997,Audrey-Ann Caron-Goudreau Defensive Rebound.,36,29,7,1,0.7688860228932132,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+229,3,6:36,996,996,Foul on Rennia Davis.,36,29,7,11,0.7690188714714489,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+230,3,6:25,985,985,Audrey-Ann Caron-Goudreau made Jumper.,36,31,5,21,0.7037323563387516,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,Texas
+231,3,6:04,964,964,Rennia Davis missed Jumper.,36,31,5,0,0.7062453896541875,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+232,3,6:04,964,964,Audrey-Ann Caron-Goudreau Defensive Rebound.,36,31,5,22,0.7062453896541875,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+233,3,5:42,942,942,Audrey-Ann Caron-Goudreau missed Jumper.,36,31,5,0,0.7086903924993686,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+234,3,5:42,942,942,Mercedes Russell Defensive Rebound.,36,31,5,20,0.7086903924993686,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+235,3,5:22,922,922,Evina Westbrook made Three Point Jumper.,39,31,8,15,0.8081455325064437,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,Tennessee
+236,3,5:07,907,907,Ariel Atkins made Three Point Jumper.,39,34,5,13,0.7121004611684372,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,Texas
+237,3,4:54,894,894,Jaime Nared missed Layup.,39,34,5,0,0.713278800559285,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+238,3,4:54,894,894,Jatarie White Defensive Rebound.,39,34,5,15,0.713278800559285,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+239,3,4:39,879,879,Foul on Evina Westbrook.,39,34,5,0,0.7146157965789712,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+240,3,4:39,879,879,Official TV Timeout,39,34,5,0,0.7146157965789712,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+241,3,4:39,879,879,Ariel Atkins made Free Throw.,39,35,4,0,0.6757540743781406,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,Texas
+242,3,4:39,879,879,Ariel Atkins made Free Throw.,39,36,3,16,0.6343084699326449,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,Texas
+243,3,4:23,863,863,Mercedes Russell made Jumper. Assisted by Evina Westbrook.,41,36,5,19,0.7160450863557124,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,Tennessee
+244,3,4:04,844,844,Jatarie White made Jumper. Assisted by Alecia Sutton.,41,38,3,24,0.6364803172322837,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,Texas
+245,3,3:40,820,820,Mercedes Russell missed Layup.,41,38,3,0,0.6381027498099305,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+246,3,3:40,820,820,Alecia Sutton Defensive Rebound.,41,38,3,12,0.6381027498099305,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+247,3,3:28,808,808,Brooke McCarty missed Three Point Jumper.,41,38,3,0,0.6389827731758565,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+248,3,3:28,808,808,Anastasia Hayes Defensive Rebound.,41,38,3,5,0.6389827731758565,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+249,3,3:23,803,803,Mercedes Russell made Layup. Assisted by Anastasia Hayes.,43,38,5,11,0.7219905566053946,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,Tennessee
+250,3,3:12,792,792,Foul on Meme Jackson.,43,38,5,0,0.7232698651748727,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+251,3,3:12,792,792,Ariel Atkins made Free Throw.,43,39,4,0,0.683216170805568,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,Texas
+252,3,3:12,792,792,Ariel Atkins made Free Throw.,43,40,3,15,0.6402487086361022,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,Texas
+253,3,2:57,777,777,Foul on Audrey-Ann Caron-Goudreau.,43,40,3,9,0.6415496621649602,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+254,3,2:48,768,768,Evina Westbrook missed Jumper.,43,40,3,0,0.6423909941460847,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+255,3,2:48,768,768,Tennessee Offensive Rebound.,43,40,3,2,0.6423909941460847,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+256,3,2:46,766,766,Foul on Jatarie White.,43,40,3,0,0.6425846540372974,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+257,3,2:46,766,766,Mercedes Russell made Free Throw.,44,40,4,0,0.6861397212823569,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,Tennessee
+258,3,2:46,766,766,Mercedes Russell missed Free Throw.,44,40,4,0,0.6861397212823569,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+259,3,2:46,766,766,Lashann Higgs Defensive Rebound.,44,40,4,13,0.6861397212823569,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+260,3,2:33,753,753,Ariel Atkins made Jumper. Assisted by Alecia Sutton.,44,42,2,18,0.5974636545064567,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,Texas
+261,3,2:15,735,735,Anastasia Hayes made Layup.,46,42,4,14,0.6903225733635496,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,Tennessee
+262,3,2:01,721,721,Ariel Atkins missed Jumper.,46,42,4,0,0.692416388283771,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+263,3,2:01,721,721,Mercedes Russell Defensive Rebound.,46,42,4,12,0.692416388283771,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+264,3,1:49,709,709,Evina Westbrook missed Three Point Jumper.,46,42,4,0,0.6940628072250521,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+265,3,1:49,709,709,Brooke McCarty Defensive Rebound.,46,42,4,7,0.6940628072250521,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+266,3,1:42,702,702,Brooke McCarty missed Jumper.,46,42,4,0,0.6949637660413973,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+267,3,1:42,702,702,Texas Offensive Rebound.,46,42,4,11,0.6949637660413973,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+268,3,1:31,691,691,Brooke McCarty missed Three Point Jumper.,46,42,4,0,0.6963100966738169,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+269,3,1:31,691,691,Jaime Nared Defensive Rebound.,46,42,4,9,0.6963100966738169,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+270,3,1:22,682,682,Foul on Jatarie White.,46,42,4,0,0.6973639221936789,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+271,3,1:22,682,682,Cheridene Green made Free Throw.,47,42,5,0,0.7395190814676108,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,Tennessee
+272,3,1:22,682,682,Cheridene Green made Free Throw.,48,42,6,3,0.7776743338735042,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,Tennessee
+273,3,1:19,679,679,Alecia Sutton missed Jumper.,48,42,6,0,0.7780973265428734,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+274,3,1:19,679,679,Evina Westbrook Defensive Rebound.,48,42,6,8,0.7780973265428734,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+275,3,1:11,671,671,Evina Westbrook Turnover.,48,42,6,0,0.7792098056418348,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+276,3,1:11,671,671,Alecia Sutton Steal.,48,42,6,11,0.7792098056418348,Tennessee,Texas,4,5,0,0,NA,400987876,2017-12-10,
+277,3,1:00,660,660,Alecia Sutton missed Layup.,48,42,6,0,0.7807202919272793,Tennessee,Texas,4,5,1,0,NA,400987876,2017-12-10,
+278,3,1:00,660,660,Ariel Atkins Offensive Rebound.,48,42,6,0,0.7807202919272793,Tennessee,Texas,4,5,1,0,NA,400987876,2017-12-10,
+279,3,1:00,660,660,Ariel Atkins missed Layup.,48,42,6,0,0.7807202919272793,Tennessee,Texas,4,5,1,0,NA,400987876,2017-12-10,
+280,3,1:00,660,660,Olamide Aborowa Offensive Rebound.,48,42,6,0,0.7807202919272793,Tennessee,Texas,4,5,1,0,NA,400987876,2017-12-10,
+281,3,1:00,660,660,Olamide Aborowa made Layup.,48,44,4,0,0.6998490629994716,Tennessee,Texas,4,5,1,0,NA,400987876,2017-12-10,Texas
+282,3,1:00,660,660,Texas  Timeout,48,44,4,26,0.6998490629994716,Tennessee,Texas,3,5,1,0,NA,400987876,2017-12-10,
+283,3,0:34,634,634,Jaime Nared missed Jumper.,48,44,4,0,0.7028397983356255,Tennessee,Texas,3,5,1,0,NA,400987876,2017-12-10,
+284,3,0:34,634,634,Cheridene Green Offensive Rebound.,48,44,4,4,0.7028397983356255,Tennessee,Texas,3,5,1,0,NA,400987876,2017-12-10,
+285,3,0:30,630,630,Cheridene Green missed Layup.,48,44,4,0,0.7033241247708487,Tennessee,Texas,3,5,1,0,NA,400987876,2017-12-10,
+286,3,0:30,630,630,Texas Defensive Rebound.,48,44,4,0,0.7033241247708487,Tennessee,Texas,3,5,1,0,NA,400987876,2017-12-10,
+287,3,0:30,630,630,Foul on Meme Jackson.,48,44,4,18,0.7033241247708487,Tennessee,Texas,3,5,1,0,NA,400987876,2017-12-10,
+288,3,0:12,612,612,Lashann Higgs missed Jumper.,48,44,4,0,0.7056405227246925,Tennessee,Texas,3,5,1,0,NA,400987876,2017-12-10,
+289,3,0:12,612,612,Jaime Nared Defensive Rebound.,48,44,4,8,0.7056405227246925,Tennessee,Texas,3,5,1,0,NA,400987876,2017-12-10,
+290,3,0:04,604,604,Jaime Nared Turnover.,48,44,4,0,0.7067603704796107,Tennessee,Texas,3,5,1,0,NA,400987876,2017-12-10,
+291,3,0:04,604,604,Audrey-Ann Caron-Goudreau Steal.,48,44,4,4,0.7067603704796107,Tennessee,Texas,3,5,1,0,NA,400987876,2017-12-10,
+292,3,0:00,600,600,End of 3rd Quarter,48,44,4,0,0.7073453411645628,Tennessee,Texas,3,5,1,0,NA,400987876,2017-12-10,
+293,4,10:00,600,600,Jump Ball won by Texas,48,44,4,10,0.7073453411645628,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+294,4,9:50,590,590,Audrey-Ann Caron-Goudreau missed Jumper.,48,44,4,0,0.7088896607022367,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+295,4,9:50,590,590,Cheridene Green Defensive Rebound.,48,44,4,19,0.7088896607022367,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+296,4,9:31,571,571,Anastasia Hayes Turnover.,48,44,4,0,0.7121973258315173,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+297,4,9:31,571,571,Alecia Sutton Steal.,48,44,4,12,0.7121973258315173,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+298,4,9:19,559,559,Foul on Jaime Nared.,48,44,4,0,0.7145802985582046,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+299,4,9:19,559,559,Alecia Sutton missed Free Throw.,48,44,4,0,0.7145802985582046,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+300,4,9:19,559,559,Texas Deadball Team Rebound.,48,44,4,0,0.7145802985582046,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+301,4,9:19,559,559,Alecia Sutton made Free Throw.,48,45,3,9,0.6655888650582261,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Texas
+302,4,9:10,550,550,Jaime Nared missed Three Point Jumper.,48,45,3,0,0.6671916735050802,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+303,4,9:10,550,550,Cheridene Green Offensive Rebound.,48,45,3,5,0.6671916735050802,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+304,4,9:05,545,545,Cheridene Green made Layup.,50,45,5,18,0.7624076481921732,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Tennessee
+305,4,8:47,527,527,Lashann Higgs missed Three Point Jumper.,50,45,5,0,0.7662585085945398,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+306,4,8:47,527,527,Texas Offensive Rebound.,50,45,5,42,0.7662585085945398,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+307,4,8:05,485,485,Ariel Atkins made Jumper. Assisted by Brooke McCarty.,50,47,3,30,0.6765977215032065,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Texas
+308,4,7:35,455,455,Foul on Lashann Higgs.,50,47,3,0,0.6815000937345844,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+309,4,7:35,455,455,Meme Jackson made Free Throw.,51,47,4,0,0.7338475954508777,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Tennessee
+310,4,7:35,455,455,Meme Jackson made Free Throw.,52,47,5,10,0.7803642570494889,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Tennessee
+311,4,7:25,445,445,Lashann Higgs made Jumper.,52,49,3,24,0.6835662125453067,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Texas
+312,4,7:01,421,421,Jaime Nared missed Jumper.,52,49,3,0,0.6895850734751547,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+313,4,7:01,421,421,Ariel Atkins Defensive Rebound.,52,49,3,5,0.6895850734751547,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+314,4,6:56,416,416,Brooke McCarty missed Layup.,52,49,3,0,0.6908277132541502,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+315,4,6:56,416,416,Lashann Higgs Offensive Rebound.,52,49,3,7,0.6908277132541502,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+316,4,6:49,409,409,Lashann Higgs made Layup.,52,51,1,17,0.5672475997866933,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Texas
+317,4,6:32,392,392,Cheridene Green made Jumper. Assisted by Evina Westbrook.,54,51,3,13,0.6964639222882133,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Tennessee
+318,4,6:19,379,379,Jatarie White missed Jumper.,54,51,3,0,0.6995072670514573,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+319,4,6:19,379,379,Cheridene Green Defensive Rebound.,54,51,3,0,0.6995072670514573,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+320,4,6:19,379,379,Foul on Alecia Sutton.,54,51,3,0,0.6995072670514573,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+321,4,6:19,379,379,Jaime Nared made Free Throw.,55,51,4,0,0.7552115394251725,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Tennessee
+322,4,6:19,379,379,Jaime Nared made Free Throw.,56,51,5,7,0.8034904634498314,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Tennessee
+323,4,6:12,372,372,Brooke McCarty made Layup.,56,53,3,0,0.7012080831793902,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Texas
+324,4,6:12,372,372,Foul on Evina Westbrook.,56,53,3,0,0.7012080831793902,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+325,4,6:12,372,372,Evina Westbrook Turnover.,56,53,3,0,0.7012080831793902,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+326,4,6:12,372,372,Brooke McCarty missed Jumper.,56,53,3,0,0.7012080831793902,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+327,4,6:12,372,372,Evina Westbrook Block.,56,53,3,0,0.7012080831793902,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+328,4,6:12,372,372,Texas Offensive Rebound.,56,53,3,3,0.7012080831793902,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+329,4,6:09,369,369,Foul on Evina Westbrook.,56,53,3,11,0.7019574188591464,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+330,4,5:58,358,358,Technical Foul on Evina Westbrook.,56,53,3,0,0.7048424816599355,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+331,4,5:58,358,358,Ariel Atkins made Free Throw.,56,54,2,0,0.6411387607882293,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Texas
+332,4,5:58,358,358,Ariel Atkins made Free Throw.,56,55,1,0,0.5720340932137669,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Texas
+333,4,5:58,358,358,Evina Westbrook Turnover.,56,55,1,0,0.5720340932137669,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+334,4,5:58,358,358,Ariel Atkins Turnover.,56,55,1,0,0.5720340932137669,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+335,4,5:58,358,358,Jaime Nared Steal.,56,55,1,6,0.5720340932137669,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+336,4,5:52,352,352,Foul on Brooke McCarty.,56,55,1,0,0.5726960165573972,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+337,4,5:52,352,352,Jaime Nared made Free Throw.,57,55,2,0,0.6423822373125025,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Tennessee
+338,4,5:52,352,352,Jaime Nared made Free Throw.,58,55,3,8,0.7065275018802603,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Tennessee
+339,4,5:44,344,344,Jatarie White made Layup. Assisted by Brooke McCarty.,58,57,1,15,0.5736407110025379,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Texas
+340,4,5:29,329,329,Anastasia Hayes missed Layup.,58,57,1,0,0.5756440262136455,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+341,4,5:29,329,329,Tennessee Offensive Rebound.,58,57,1,9,0.5756440262136455,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+342,4,5:20,320,320,Anastasia Hayes made Layup.,60,57,3,12,0.7174091859290803,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Tennessee
+343,4,5:08,308,308,Brooke McCarty Turnover.,60,57,3,13,0.7224845927913807,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+344,4,4:55,295,295,Jaime Nared made Layup. Assisted by Anastasia Hayes.,62,57,5,8,0.8349620514553094,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Tennessee
+345,4,4:47,287,287,Lashann Higgs Turnover.,62,57,5,0,0.8353770740815923,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+346,4,4:47,287,287,Rennia Davis Steal.,62,57,5,31,0.8353770740815923,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,
+347,4,4:16,256,256,Mercedes Russell made Layup.,64,57,7,16,0.9023503124910548,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Tennessee
+348,4,4:00,240,240,Lashann Higgs made Three Point Jumper. Assisted by Audrey-Ann Caron-Goudreau.,64,60,4,5,0.7785830450081012,Tennessee,Texas,4,6,0,0,NA,400987876,2017-12-10,Texas
+349,4,3:55,235,235,Texas  Timeout,64,60,4,0,0.7784866360347834,Tennessee,Texas,3,6,1,0,NA,400987876,2017-12-10,
+350,4,3:55,235,235,Official TV Timeout,64,60,4,22,0.7784866360347834,Tennessee,Texas,3,6,1,0,NA,400987876,2017-12-10,
+351,4,3:33,213,213,Rennia Davis made Layup. Assisted by Anastasia Hayes.,66,60,6,11,0.8738402793074843,Tennessee,Texas,3,6,1,0,NA,400987876,2017-12-10,Tennessee
+352,4,3:22,202,202,Alecia Sutton made Three Point Jumper. Assisted by Olamide Aborowa.,66,63,3,26,0.7316357437674482,Tennessee,Texas,3,6,1,0,NA,400987876,2017-12-10,Texas
+353,4,2:56,176,176,Cheridene Green missed Layup.,66,63,3,0,0.7600237461292314,Tennessee,Texas,3,6,1,0,NA,400987876,2017-12-10,
+354,4,2:56,176,176,Cheridene Green Offensive Rebound.,66,63,3,6,0.7600237461292314,Tennessee,Texas,3,6,1,0,NA,400987876,2017-12-10,
+355,4,2:50,170,170,Cheridene Green made Layup. Assisted by Evina Westbrook.,68,63,5,0,0.8793648835975553,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,Tennessee
+356,4,2:50,170,170,Foul on Jatarie White.,68,63,5,0,0.8793648835975553,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,
+357,4,2:50,170,170,Cheridene Green missed Free Throw.,68,63,5,0,0.8793648835975553,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,
+358,4,2:50,170,170,Mercedes Russell Offensive Rebound.,68,63,5,0,0.8793648835975553,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,
+359,4,2:50,170,170,Mercedes Russell made Layup. Assisted by Evina Westbrook.,70,63,7,13,0.9416404939897423,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,Tennessee
+360,4,2:37,157,157,Foul on Anastasia Hayes.,70,63,7,0,0.9520633424642349,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,
+361,4,2:37,157,157,Brooke McCarty made Free Throw.,70,64,6,0,0.9283613710381875,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,Texas
+362,4,2:37,157,157,Brooke McCarty made Free Throw.,70,65,5,13,0.894241926395498,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,Texas
+363,4,2:24,144,144,Anastasia Hayes made Layup.,72,65,7,0,0.9614680138538338,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,Tennessee
+364,4,2:24,144,144,Foul on Brooke McCarty.,72,65,7,0,0.9614680138538338,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,
+365,4,2:24,144,144,Anastasia Hayes missed Free Throw.,72,65,7,0,0.9614680138538338,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,
+366,4,2:24,144,144,Jaime Nared Offensive Rebound.,72,65,7,2,0.9614680138538338,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,
+367,4,2:22,142,142,Foul on Audrey-Ann Caron-Goudreau.,72,65,7,0,0.962830597562721,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,
+368,4,2:22,142,142,Jaime Nared missed Free Throw.,72,65,7,0,0.962830597562721,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,
+369,4,2:22,142,142,Tennessee Deadball Team Rebound.,72,65,7,0,0.962830597562721,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,
+370,4,2:22,142,142,Jaime Nared made Free Throw.,73,65,8,1,0.976323353643282,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,Tennessee
+371,4,2:21,141,141,Foul on Anastasia Hayes.,73,65,8,0,0.9768193254543137,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,
+372,4,2:21,141,141,Brooke McCarty made Free Throw.,73,66,7,0,0.9635035059154666,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,Texas
+373,4,2:21,141,141,Brooke McCarty made Free Throw.,73,67,6,7,0.9429850587218213,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,Texas
+374,4,2:14,134,134,Rennia Davis Turnover.,73,67,6,0,0.949018687531729,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,
+375,4,2:14,134,134,Brooke McCarty Steal.,73,67,6,5,0.949018687531729,Tennessee,Texas,3,6,0,0,NA,400987876,2017-12-10,
+376,4,2:09,129,129,Tennessee  Timeout,73,67,6,2,0.9531825213669907,Tennessee,Texas,3,5,0,1,NA,400987876,2017-12-10,
+377,4,2:07,127,127,Ariel Atkins made Layup.,73,69,4,13,0.8842988605409358,Tennessee,Texas,3,5,0,1,NA,400987876,2017-12-10,Texas
+378,4,1:54,114,114,Foul on Jada Underwood.,73,69,4,0,0.9009652155473389,Tennessee,Texas,3,5,0,1,NA,400987876,2017-12-10,
+379,4,1:54,114,114,Anastasia Hayes made Free Throw.,74,69,5,0,0.9404753193968718,Tennessee,Texas,3,5,0,1,NA,400987876,2017-12-10,Tennessee
+380,4,1:54,114,114,Anastasia Hayes missed Free Throw.,74,69,5,0,0.9404753193968718,Tennessee,Texas,3,5,0,1,NA,400987876,2017-12-10,
+381,4,1:54,114,114,Ariel Atkins Defensive Rebound.,74,69,5,4,0.9404753193968718,Tennessee,Texas,3,5,0,1,NA,400987876,2017-12-10,
+382,4,1:50,110,110,Ariel Atkins Turnover.,74,69,5,5,0.9444514610252935,Tennessee,Texas,3,5,0,1,NA,400987876,2017-12-10,
+383,4,1:45,105,105,Evina Westbrook Turnover.,74,69,5,0,0.9492929495434268,Tennessee,Texas,3,5,0,1,NA,400987876,2017-12-10,
+384,4,1:45,105,105,Lashann Higgs Steal.,74,69,5,3,0.9492929495434268,Tennessee,Texas,3,5,0,1,NA,400987876,2017-12-10,
+385,4,1:42,102,102,Lashann Higgs Turnover.,74,69,5,0,0.9521210868072854,Tennessee,Texas,3,5,0,1,NA,400987876,2017-12-10,
+386,4,1:42,102,102,Jaime Nared Steal.,74,69,5,1,0.9521210868072854,Tennessee,Texas,3,5,0,1,NA,400987876,2017-12-10,
+387,4,1:41,101,101,Ariel Atkins made Jumper.,74,71,3,19,0.858920194103822,Tennessee,Texas,3,5,0,1,NA,400987876,2017-12-10,Texas
+388,4,1:22,82,82,Foul on Brooke McCarty.,74,71,3,0,0.8868531364565443,Tennessee,Texas,3,5,0,1,NA,400987876,2017-12-10,
+389,4,1:22,82,82,Jaime Nared missed Free Throw.,74,71,3,0,0.8868531364565443,Tennessee,Texas,3,5,0,1,NA,400987876,2017-12-10,
+390,4,1:22,82,82,Tennessee Deadball Team Rebound.,74,71,3,0,0.8868531364565443,Tennessee,Texas,3,5,0,1,NA,400987876,2017-12-10,
+391,4,1:22,82,82,Jaime Nared missed Free Throw.,74,71,3,0,0.8868531364565443,Tennessee,Texas,3,5,0,1,NA,400987876,2017-12-10,
+392,4,1:22,82,82,Lashann Higgs Defensive Rebound.,74,71,3,21,0.8868531364565443,Tennessee,Texas,3,5,0,1,NA,400987876,2017-12-10,
+393,4,1:01,61,61,Lashann Higgs made Layup.,74,73,1,19,0.6881366586759479,Tennessee,Texas,3,5,0,0,NA,400987876,2017-12-10,Texas
+394,4,0:42,42,42,Foul on Ariel Atkins.,74,73,1,0,0.7105192038279043,Tennessee,Texas,3,5,0,0,NA,400987876,2017-12-10,
+395,4,0:42,42,42,Anastasia Hayes made Free Throw.,75,73,2,0,0.8576386155128851,Tennessee,Texas,3,5,0,0,NA,400987876,2017-12-10,Tennessee
+396,4,0:42,42,42,Anastasia Hayes missed Free Throw.,75,73,2,0,0.8576386155128851,Tennessee,Texas,3,5,0,0,NA,400987876,2017-12-10,
+397,4,0:42,42,42,Jaime Nared Offensive Rebound.,75,73,2,9,0.8576386155128851,Tennessee,Texas,3,5,0,0,NA,400987876,2017-12-10,
+398,4,0:33,33,33,Foul on Olamide Aborowa.,75,73,2,0,0.8704796167741736,Tennessee,Texas,3,5,1,0,NA,400987876,2017-12-10,
+399,4,0:33,33,33,Jaime Nared made Free Throw.,76,73,3,0,0.9457209448213074,Tennessee,Texas,3,5,1,0,NA,400987876,2017-12-10,Tennessee
+400,4,0:33,33,33,Jaime Nared made Free Throw.,77,73,4,0,0.9783404690357789,Tennessee,Texas,3,5,1,0,NA,400987876,2017-12-10,Tennessee
+401,4,0:33,33,33,Texas  Timeout,77,73,4,3,0.9783404690357789,Tennessee,Texas,2,5,1,0,NA,400987876,2017-12-10,
+402,4,0:30,30,30,Jada Underwood Turnover.,77,73,4,0,0.979874628532239,Tennessee,Texas,2,5,1,0,NA,400987876,2017-12-10,
+403,4,0:30,30,30,Rennia Davis Steal.,77,73,4,0,0.979874628532239,Tennessee,Texas,2,5,1,0,NA,400987876,2017-12-10,
+404,4,0:30,30,30,Foul on Lashann Higgs.,77,73,4,0,0.979874628532239,Tennessee,Texas,2,5,1,0,NA,400987876,2017-12-10,
+405,4,0:30,30,30,Rennia Davis missed Free Throw.,77,73,4,0,0.979874628532239,Tennessee,Texas,2,5,1,0,NA,400987876,2017-12-10,
+406,4,0:30,30,30,Tennessee Deadball Team Rebound.,77,73,4,0,0.979874628532239,Tennessee,Texas,2,5,1,0,NA,400987876,2017-12-10,
+407,4,0:30,30,30,Rennia Davis made Free Throw.,78,73,5,8,0.9922846961612823,Tennessee,Texas,2,5,1,0,NA,400987876,2017-12-10,Tennessee
+408,4,0:22,22,22,Ariel Atkins missed Three Point Jumper.,78,73,5,0,0.9940134806826582,Tennessee,Texas,2,5,1,1,NA,400987876,2017-12-10,
+409,4,0:22,22,22,Tennessee Defensive Rebound.,78,73,5,0,0.9940134806826582,Tennessee,Texas,2,5,1,1,NA,400987876,2017-12-10,
+410,4,0:22,22,22,Tennessee  Timeout,78,73,5,8,0.9940134806826582,Tennessee,Texas,2,4,1,1,NA,400987876,2017-12-10,
+411,4,0:14,14,14,Foul on Alecia Sutton.,78,73,5,0,0.9954153640975865,Tennessee,Texas,2,4,1,1,NA,400987876,2017-12-10,
+412,4,0:14,14,14,Jaime Nared made Free Throw.,79,73,6,0,0.9984322413329534,Tennessee,Texas,2,4,1,1,NA,400987876,2017-12-10,Tennessee
+413,4,0:14,14,14,Jaime Nared made Free Throw.,80,73,7,4,0.9994649574914116,Tennessee,Texas,2,4,1,1,NA,400987876,2017-12-10,Tennessee
+414,4,0:10,10,10,Alecia Sutton missed Three Point Jumper.,80,73,7,0,0.9995598070342894,Tennessee,Texas,2,4,1,1,NA,400987876,2017-12-10,
+415,4,0:10,10,10,Olamide Aborowa Offensive Rebound.,80,73,7,2,0.9995598070342894,Tennessee,Texas,2,4,1,1,NA,400987876,2017-12-10,
+416,4,0:08,8,8,Olamide Aborowa missed Layup.,80,73,7,0,0.9996013584134967,Tennessee,Texas,2,4,1,1,NA,400987876,2017-12-10,
+417,4,0:08,8,8,Jaime Nared Block.,80,73,7,0,0.9996013584134967,Tennessee,Texas,2,4,1,1,NA,400987876,2017-12-10,
+418,4,0:08,8,8,Lashann Higgs Offensive Rebound.,80,73,7,0,0.9996013584134967,Tennessee,Texas,2,4,1,1,NA,400987876,2017-12-10,
+419,4,0:08,8,8,Lashann Higgs made Layup.,80,75,5,4,0.9962816477111814,Tennessee,Texas,2,4,1,1,NA,400987876,2017-12-10,Texas
+420,4,0:04,4,4,Tennessee  Timeout,80,75,5,2,0.9967776226618401,Tennessee,Texas,2,3,1,1,NA,400987876,2017-12-10,
+421,4,0:02,2,2,Foul on Jada Underwood.,80,75,5,0,0.9970028640030048,Tennessee,Texas,2,3,1,1,NA,400987876,2017-12-10,
+422,4,0:02,2,2,Rennia Davis made Free Throw.,81,75,6,0,0.9990598361403993,Tennessee,Texas,2,3,1,1,NA,400987876,2017-12-10,Tennessee
+423,4,0:02,2,2,Rennia Davis made Free Throw.,82,75,7,2,0.9997054994279811,Tennessee,Texas,2,3,1,1,NA,400987876,2017-12-10,Tennessee
+424,4,0:00,0,0,End of Game,82,75,7,0,1,Tennessee,Texas,2,3,1,1,NA,400987876,2017-12-10,

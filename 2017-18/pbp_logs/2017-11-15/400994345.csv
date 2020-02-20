@@ -1,0 +1,382 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:21,2361,2361,Anna Seilund missed Three Point Jumper.,0,0,0,0,0.5,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,NA
+2,1,9:21,2361,2361,San Francisco  Turnover.,0,0,0,0,0.5,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+3,1,9:21,2361,2361,San Francisco Deadball Team Rebound.,0,0,0,9,0.5,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+4,1,9:12,2352,2352,Chanelle Molina missed Three Point Jumper.,0,0,0,0,0.5,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+5,1,9:12,2352,2352,Maria Kostourkova Offensive Rebound.,0,0,0,6,0.5,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+6,1,9:06,2346,2346,Borislava Hristova made Jumper. Assisted by Chanelle Molina.,0,2,-2,6,0.4548226031392742,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,Washington State
+7,1,9:00,2340,2340,Shannon Powell missed Jumper.,0,2,-2,0,0.4546922706473648,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+8,1,9:00,2340,2340,Shannon Powell Offensive Rebound.,0,2,-2,7,0.4546922706473648,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+9,1,8:53,2333,2333,Michaela Rakova missed Three Point Jumper.,0,2,-2,0,0.45453965530089274,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+10,1,8:53,2333,2333,Louise Brown Defensive Rebound.,0,2,-2,10,0.45453965530089274,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+11,1,8:43,2323,2323,Caila Hailey made Three Point Jumper. Assisted by Borislava Hristova.,0,5,-5,25,0.3874435201938929,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,Washington State
+12,1,8:18,2298,2298,Anna Seilund Turnover.,0,5,-5,6,0.38612197248034197,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+13,1,8:12,2292,2292,San Francisco  Timeout,0,5,-5,9,0.38580268330094714,San Francisco,Washington State,3,4,1,0,NA,400994345,2017-11-15,
+14,1,8:03,2283,2283,Borislava Hristova missed Jumper.,0,5,-5,0,0.38532232937316635,San Francisco,Washington State,3,4,1,0,NA,400994345,2017-11-15,
+15,1,8:03,2283,2283,Moa Lundqvist Defensive Rebound.,0,5,-5,3,0.38532232937316635,San Francisco,Washington State,3,4,1,0,NA,400994345,2017-11-15,
+16,1,8:00,2280,2280,Foul on Maria Kostourkova.,0,5,-5,11,0.38516184669208303,San Francisco,Washington State,3,4,1,0,NA,400994345,2017-11-15,
+17,1,7:49,2269,2269,Moa Lundqvist missed Layup.,0,5,-5,0,0.3845719265202992,San Francisco,Washington State,3,4,1,0,NA,400994345,2017-11-15,
+18,1,7:49,2269,2269,Veronica Preciado Offensive Rebound.,0,5,-5,9,0.3845719265202992,San Francisco,Washington State,3,4,1,0,NA,400994345,2017-11-15,
+19,1,7:40,2260,2260,Shannon Powell made Jumper.,2,5,-3,19,0.4296350218399352,San Francisco,Washington State,3,4,1,0,NA,400994345,2017-11-15,San Francisco
+20,1,7:21,2241,2241,Maria Kostourkova made Layup. Assisted by Caila Hailey.,2,7,-5,15,0.3830607787356199,San Francisco,Washington State,3,4,1,0,NA,400994345,2017-11-15,Washington State
+21,1,7:06,2226,2226,Shannon Powell missed Jumper.,2,7,-5,0,0.3822463529028725,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+22,1,7:06,2226,2226,Chanelle Molina Defensive Rebound.,2,7,-5,5,0.3822463529028725,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+23,1,7:01,2221,2221,Chanelle Molina Turnover.,2,7,-5,0,0.3819742235102472,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+24,1,7:01,2221,2221,Shannon Powell Steal.,2,7,-5,5,0.3819742235102472,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+25,1,6:56,2216,2216,Shannon Powell made Layup.,4,7,-3,11,0.42815107435017075,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,San Francisco
+26,1,6:45,2205,2205,Foul on Michaela Rakova.,4,7,-3,1,0.42777732868292595,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+27,1,6:44,2204,2204,Louise Brown made Jumper.,4,9,-5,9,0.38104683276437473,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,Washington State
+28,1,6:35,2195,2195,Foul on Caila Hailey.,4,9,-5,7,0.38055467009761923,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+29,1,6:28,2188,2188,Ninni Salmi missed Three Point Jumper.,4,9,-5,0,0.380171385437081,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+30,1,6:28,2188,2188,Maria Kostourkova Defensive Rebound.,4,9,-5,3,0.380171385437081,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+31,1,6:25,2185,2185,Foul on Anna Seilund.,4,9,-5,3,0.38000700104049984,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+32,1,6:22,2182,2182,Johanna Muzet missed Jumper.,4,9,-5,0,0.379842549881732,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+33,1,6:22,2182,2182,Bec Black Defensive Rebound.,4,9,-5,18,0.379842549881732,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+34,1,6:04,2164,2164,Shannon Powell missed Three Point Jumper.,4,9,-5,0,0.3788544630481164,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+35,1,6:04,2164,2164,Bec Black Offensive Rebound.,4,9,-5,18,0.3788544630481164,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+36,1,5:46,2146,2146,Veronica Preciado missed Jumper.,4,9,-5,0,0.3778621057047116,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+37,1,5:46,2146,2146,Nike McClure Defensive Rebound.,4,9,-5,9,0.3778621057047116,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+38,1,5:37,2137,2137,Borislava Hristova made Layup.,4,11,-7,1,0.3315788530041534,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,Washington State
+39,1,5:36,2136,2136,Foul on Ninni Salmi.,4,11,-7,0,0.33150564989247777,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+40,1,5:36,2136,2136,Borislava Hristova made Free Throw.,4,12,-8,18,0.3096874983975717,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,Washington State
+41,1,5:18,2118,2118,Bec Black made Jumper. Assisted by Veronica Preciado.,6,12,-6,13,0.352903717894733,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,San Francisco
+42,1,5:05,2105,2105,Foul on Veronica Preciado.,6,12,-6,0,0.35205559269668435,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+43,1,5:05,2105,2105,Borislava Hristova missed Free Throw.,6,12,-6,0,0.35205559269668435,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+44,1,5:05,2105,2105,Washington State Deadball Team Rebound.,6,12,-6,0,0.35205559269668435,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+45,1,5:05,2105,2105,Borislava Hristova made Free Throw.,6,13,-7,18,0.32922660049237945,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,Washington State
+46,1,4:47,2087,2087,Shannon Powell Turnover.,6,13,-7,1,0.32789392169996245,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+47,1,4:46,2086,2086,Kayla Washington Steal.,6,13,-7,11,0.32781966764881554,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+48,1,4:35,2075,2075,Nike McClure missed Jumper.,6,13,-7,0,0.3270013093481375,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+49,1,4:35,2075,2075,Bec Black Defensive Rebound.,6,13,-7,19,0.3270013093481375,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+50,1,4:16,2056,2056,Foul on Alexys Swedlund.,6,13,-7,0,0.32558075998851393,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+51,1,4:16,2056,2056,Anna Seilund made Free Throw.,7,13,-6,0,0.3488252613165009,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,San Francisco
+52,1,4:16,2056,2056,Anna Seilund made Free Throw.,8,13,-5,11,0.37281191601892333,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,San Francisco
+53,1,4:05,2045,2045,Kayla Washington Turnover.,8,13,-5,10,0.37218291417224747,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+54,1,3:55,2035,2035,Nia Alexander Turnover.,8,13,-5,6,0.3716085839055157,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+55,1,3:49,2029,2029,Johanna Muzet Turnover.,8,13,-5,11,0.3712628064036471,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,
+56,1,3:38,2018,2018,Nia Alexander made Layup. Assisted by Anna Seilund.,10,13,-3,3,0.4212319938228851,San Francisco,Washington State,3,4,0,0,NA,400994345,2017-11-15,San Francisco
+57,1,3:35,2015,2015,Washington State  Timeout,10,13,-3,8,0.42112282768487913,San Francisco,Washington State,3,3,0,1,NA,400994345,2017-11-15,
+58,1,3:27,2007,2007,Kayla Washington made Layup.,10,15,-5,13,0.3699871028675368,San Francisco,Washington State,3,3,0,1,NA,400994345,2017-11-15,Washington State
+59,1,3:14,1994,1994,Bec Black missed Three Point Jumper.,10,15,-5,0,0.3692272515135156,San Francisco,Washington State,3,3,0,1,NA,400994345,2017-11-15,
+60,1,3:14,1994,1994,Nike McClure Defensive Rebound.,10,15,-5,27,0.3692272515135156,San Francisco,Washington State,3,3,0,1,NA,400994345,2017-11-15,
+61,1,2:47,1967,1967,Pinelopi Pavlopoulou missed Jumper.,10,15,-5,0,0.3676339871770814,San Francisco,Washington State,3,3,0,1,NA,400994345,2017-11-15,
+62,1,2:47,1967,1967,Alexys Swedlund Offensive Rebound.,10,15,-5,4,0.3676339871770814,San Francisco,Washington State,3,3,0,1,NA,400994345,2017-11-15,
+63,1,2:43,1963,1963,Alexys Swedlund missed Layup.,10,15,-5,0,0.36739614768411627,San Francisco,Washington State,3,3,0,1,NA,400994345,2017-11-15,
+64,1,2:43,1963,1963,Kayla Washington Offensive Rebound.,10,15,-5,6,0.36739614768411627,San Francisco,Washington State,3,3,0,1,NA,400994345,2017-11-15,
+65,1,2:37,1957,1957,Alexys Swedlund missed Jumper.,10,15,-5,0,0.3670384908809329,San Francisco,Washington State,3,3,0,1,NA,400994345,2017-11-15,
+66,1,2:37,1957,1957,Shannon Powell Defensive Rebound.,10,15,-5,19,0.3670384908809329,San Francisco,Washington State,3,3,0,1,NA,400994345,2017-11-15,
+67,1,2:18,1938,1938,Shannon Powell Turnover.,10,15,-5,0,0.3658986422360943,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,
+68,1,2:18,1938,1938,Nike McClure Steal.,10,15,-5,0,0.3658986422360943,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,
+69,1,2:18,1938,1938,Foul on Michaela Rakova.,10,15,-5,0,0.3658986422360943,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,
+70,1,2:18,1938,1938,Nike McClure missed Free Throw.,10,15,-5,0,0.3658986422360943,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,
+71,1,2:18,1938,1938,Washington State Deadball Team Rebound.,10,15,-5,1,0.3658986422360943,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,
+72,1,2:17,1937,1937,Nike McClure missed Free Throw.,10,15,-5,0,0.36583833801363824,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,
+73,1,2:17,1937,1937,Louise Brown Offensive Rebound.,10,15,-5,7,0.36583833801363824,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,
+74,1,2:10,1930,1930,Johanna Muzet made Layup.,10,17,-7,13,0.3158930288632477,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,Washington State
+75,1,1:57,1917,1917,Veronica Preciado missed Three Point Jumper.,10,17,-7,0,0.3148681920290627,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,
+76,1,1:57,1917,1917,Washington State Defensive Rebound.,10,17,-7,11,0.3148681920290627,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,
+77,1,1:46,1906,1906,Louise Brown missed Three Point Jumper.,10,17,-7,0,0.3140037482907089,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,
+78,1,1:46,1906,1906,San Francisco Defensive Rebound.,10,17,-7,29,0.3140037482907089,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,
+79,1,1:17,1877,1877,Moa Lundqvist made Layup.,12,17,-5,21,0.3622205797276978,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,San Francisco
+80,1,0:56,1856,1856,Pinelopi Pavlopoulou missed Three Point Jumper.,12,17,-5,0,0.3609556494671146,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,
+81,1,0:56,1856,1856,Shannon Powell Defensive Rebound.,12,17,-5,19,0.3609556494671146,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,
+82,1,0:37,1837,1837,Foul on Nike McClure.,12,17,-5,10,0.3598074313454117,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,
+83,1,0:27,1827,1827,Veronica Preciado Turnover.,12,17,-5,1,0.35920081683692023,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,
+84,1,0:26,1826,1826,Caila Hailey Steal.,12,17,-5,22,0.3591400491630368,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,
+85,1,0:04,1804,1804,Borislava Hristova made Layup.,12,19,-7,3,0.3059945919985766,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,Washington State
+86,1,0:01,1801,1801,Shannon Powell made Three Point Jumper.,15,19,-4,1,0.3849498158236416,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,San Francisco
+87,1,0:00,1800,1800,End of 1st Quarter,15,19,-4,8,0.38489917366219123,San Francisco,Washington State,3,3,0,0,NA,400994345,2017-11-15,
+88,2,9:52,1792,1792,Chanelle Molina missed Three Point Jumper.,15,19,-4,0,0.384493077796313,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+89,2,9:52,1792,1792,Shannon Powell Defensive Rebound.,15,19,-4,14,0.384493077796313,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+90,2,9:38,1778,1778,Nia Alexander missed Jumper.,15,19,-4,0,0.38377796765406974,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+91,2,9:38,1778,1778,Moa Lundqvist Offensive Rebound.,15,19,-4,2,0.38377796765406974,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+92,2,9:36,1776,1776,Shannon Powell missed Jumper.,15,19,-4,0,0.3836753105121125,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+93,2,9:36,1776,1776,Moa Lundqvist Offensive Rebound.,15,19,-4,11,0.3836753105121125,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+94,2,9:25,1765,1765,Ninni Salmi missed Three Point Jumper.,15,19,-4,0,0.38310828267373354,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+95,2,9:25,1765,1765,Moa Lundqvist Offensive Rebound.,15,19,-4,7,0.38310828267373354,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+96,2,9:18,1758,1758,Shannon Powell made Layup.,17,19,-2,18,0.44054359307850405,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,San Francisco
+97,2,9:00,1740,1740,Caila Hailey missed Three Point Jumper.,17,19,-2,0,0.4400518260183823,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+98,2,9:00,1740,1740,Maria Kostourkova Offensive Rebound.,17,19,-2,6,0.4400518260183823,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+99,2,8:54,1734,1734,Maria Kostourkova Turnover.,17,19,-2,9,0.43988624480643973,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+100,2,8:45,1725,1725,Anna Seilund Turnover.,17,19,-2,12,0.4396362046104376,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+101,2,8:33,1713,1713,Caila Hailey missed Jumper.,17,19,-2,0,0.4392995306210445,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+102,2,8:33,1713,1713,Maria Kostourkova Offensive Rebound.,17,19,-2,4,0.4392995306210445,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+103,2,8:29,1709,1709,Maria Kostourkova missed Jumper.,17,19,-2,0,0.4391864305456816,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+104,2,8:29,1709,1709,Anna Seilund Defensive Rebound.,17,19,-2,7,0.4391864305456816,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+105,2,8:22,1702,1702,Ninni Salmi made Three Point Jumper. Assisted by Shannon Powell.,20,19,1,5,0.5306207105873769,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,San Francisco
+106,2,8:17,1697,1697,Washington State  Timeout,20,19,1,14,0.5306930410155717,San Francisco,Washington State,4,3,0,1,NA,400994345,2017-11-15,
+107,2,8:03,1683,1683,Johanna Muzet Turnover.,20,19,1,1,0.5308966826705475,San Francisco,Washington State,4,3,0,1,NA,400994345,2017-11-15,
+108,2,8:02,1682,1682,Shannon Powell Steal.,20,19,1,2,0.5309111252196457,San Francisco,Washington State,4,3,0,1,NA,400994345,2017-11-15,
+109,2,8:00,1680,1680,Shannon Powell made Layup.,22,19,3,13,0.5918828178459989,San Francisco,Washington State,4,3,0,1,NA,400994345,2017-11-15,San Francisco
+110,2,7:47,1667,1667,Alexys Swedlund made Layup. Assisted by Chanelle Molina.,22,21,1,10,0.5311253110946292,San Francisco,Washington State,4,3,0,1,NA,400994345,2017-11-15,Washington State
+111,2,7:37,1657,1657,Moa Lundqvist made Layup. Assisted by Anna Seilund.,24,21,3,15,0.5928308259805862,San Francisco,Washington State,4,3,0,1,NA,400994345,2017-11-15,San Francisco
+112,2,7:22,1642,1642,Alexys Swedlund made Three Point Jumper. Assisted by Chanelle Molina.,24,24,0,11,0.5,San Francisco,Washington State,4,3,0,1,NA,400994345,2017-11-15,Washington State
+113,2,7:11,1631,1631,Ninni Salmi missed Three Point Jumper.,24,24,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+114,2,7:11,1631,1631,Alexys Swedlund Defensive Rebound.,24,24,0,9,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+115,2,7:02,1622,1622,Foul on Moa Lundqvist.,24,24,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+116,2,7:02,1622,1622,Borislava Hristova missed Jumper.,24,24,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+117,2,7:02,1622,1622,Nia Alexander Defensive Rebound.,24,24,0,21,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+118,2,6:41,1601,1601,Veronica Preciado missed Jumper.,24,24,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+119,2,6:41,1601,1601,Bec Black Offensive Rebound.,24,24,0,6,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+120,2,6:35,1595,1595,Kalyn Simon missed Three Point Jumper.,24,24,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+121,2,6:35,1595,1595,Washington State Defensive Rebound.,24,24,0,2,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+122,2,6:33,1593,1593,Foul on Nia Alexander.,24,24,0,11,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+123,2,6:22,1582,1582,Chanelle Molina made Jumper.,24,26,-2,22,0.43568527641762095,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,Washington State
+124,2,6:00,1560,1560,Veronica Preciado Turnover.,24,26,-2,1,0.43508922096786784,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+125,2,5:59,1559,1559,Kayla Washington Steal.,24,26,-2,4,0.4350619068571308,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+126,2,5:55,1555,1555,Kayla Washington made Layup.,24,28,-4,17,0.37207000360825826,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,Washington State
+127,2,5:38,1538,1538,Anna Seilund made Three Point Jumper. Assisted by Bec Black.,27,28,-1,14,0.4670991808628866,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,San Francisco
+128,2,5:24,1524,1524,Chanelle Molina missed Jumper.,27,28,-1,0,0.4668991816267446,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+129,2,5:24,1524,1524,Veronica Preciado Defensive Rebound.,27,28,-1,12,0.4668991816267446,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+130,2,5:12,1512,1512,Nia Alexander made Jumper.,29,28,1,15,0.53327559679856,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,San Francisco
+131,2,4:57,1497,1497,Chanelle Molina Turnover.,29,28,1,1,0.5334991778821079,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+132,2,4:56,1496,1496,Veronica Preciado Steal.,29,28,1,3,0.5335143055565098,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+133,2,4:53,1493,1493,Veronica Preciado made Layup.,31,28,3,27,0.5994862126674424,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,San Francisco
+134,2,4:26,1466,1466,Chanelle Molina missed Jumper.,31,28,3,0,0.6007103500951145,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+135,2,4:26,1466,1466,Kayla Washington Offensive Rebound.,31,28,3,0,0.6007103500951145,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+136,2,4:26,1466,1466,Foul on Nia Alexander.,31,28,3,0,0.6007103500951145,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+137,2,4:26,1466,1466,Foul on Caila Hailey.,31,28,3,0,0.6007103500951145,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+138,2,4:26,1466,1466,Caila Hailey Turnover.,31,28,3,12,0.6007103500951145,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+139,2,4:14,1454,1454,Anna Seilund missed Jumper.,31,28,3,0,0.6012785292849163,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+140,2,4:14,1454,1454,Borislava Hristova Defensive Rebound.,31,28,3,8,0.6012785292849163,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+141,2,4:06,1446,1446,Borislava Hristova made Jumper.,31,30,1,27,0.5343131521551399,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,Washington State
+142,2,3:39,1419,1419,Foul on Anna Seilund.,31,30,1,0,0.5347501007275346,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+143,2,3:39,1419,1419,Anna Seilund Turnover.,31,30,1,17,0.5347501007275346,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+144,2,3:22,1402,1402,Foul on Kalyn Simon.,31,30,1,0,0.5350155762619505,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+145,2,3:22,1402,1402,Borislava Hristova missed Free Throw.,31,30,1,0,0.5350155762619505,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+146,2,3:22,1402,1402,Washington State Deadball Team Rebound.,31,30,1,0,0.5350155762619505,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+147,2,3:22,1402,1402,Borislava Hristova made Free Throw.,31,31,0,10,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,Washington State
+148,2,3:12,1392,1392,Veronica Preciado missed Three Point Jumper.,31,31,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+149,2,3:12,1392,1392,Louise Brown Defensive Rebound.,31,31,0,8,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+150,2,3:04,1384,1384,Pinelopi Pavlopoulou missed Jumper.,31,31,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+151,2,3:04,1384,1384,Shannon Powell Defensive Rebound.,31,31,0,13,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+152,2,2:51,1371,1371,Anna Seilund missed Jumper.,31,31,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+153,2,2:51,1371,1371,Moa Lundqvist Offensive Rebound.,31,31,0,3,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+154,2,2:48,1368,1368,Foul on Louise Brown.,31,31,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+155,2,2:48,1368,1368,Moa Lundqvist missed Free Throw.,31,31,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+156,2,2:48,1368,1368,San Francisco Deadball Team Rebound.,31,31,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+157,2,2:48,1368,1368,Moa Lundqvist missed Free Throw.,31,31,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+158,2,2:48,1368,1368,Maria Kostourkova Defensive Rebound.,31,31,0,2,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+159,2,2:46,1366,1366,Pinelopi Pavlopoulou missed Jumper.,31,31,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+160,2,2:46,1366,1366,Maria Kostourkova Offensive Rebound.,31,31,0,12,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+161,2,2:34,1354,1354,Louise Brown Turnover.,31,31,0,12,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+162,2,2:22,1342,1342,Ninni Salmi missed Three Point Jumper.,31,31,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+163,2,2:22,1342,1342,Nia Alexander Offensive Rebound.,31,31,0,10,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+164,2,2:12,1332,1332,Shannon Powell made Jumper.,33,31,2,13,0.5717997625465888,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,San Francisco
+165,2,1:59,1319,1319,Foul on Nia Alexander.,33,31,2,0,0.5722011936442043,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+166,2,1:59,1319,1319,Borislava Hristova missed Free Throw.,33,31,2,0,0.5722011936442043,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+167,2,1:59,1319,1319,Washington State Deadball Team Rebound.,33,31,2,0,0.5722011936442043,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+168,2,1:59,1319,1319,Borislava Hristova made Free Throw.,33,32,1,19,0.5362907777334128,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,Washington State
+169,2,1:40,1300,1300,Shannon Powell missed Three Point Jumper.,33,32,1,0,0.5365966103788059,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+170,2,1:40,1300,1300,Veronica Preciado Offensive Rebound.,33,32,1,12,0.5365966103788059,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+171,2,1:28,1288,1288,Veronica Preciado Turnover.,33,32,1,1,0.5367958962565669,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+172,2,1:27,1287,1287,Borislava Hristova Steal.,33,32,1,4,0.5368127514661409,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+173,2,1:23,1283,1283,Pinelopi Pavlopoulou missed Jumper.,33,32,1,0,0.5368805816157569,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+174,2,1:23,1283,1283,Veronica Preciado Defensive Rebound.,33,32,1,9,0.5368805816157569,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+175,2,1:14,1274,1274,Foul on Johanna Muzet.,33,32,1,0,0.5370357273089071,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+176,2,1:14,1274,1274,Veronica Preciado missed Free Throw.,33,32,1,0,0.5370357273089071,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+177,2,1:14,1274,1274,San Francisco Deadball Team Rebound.,33,32,1,0,0.5370357273089071,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+178,2,1:14,1274,1274,Veronica Preciado made Free Throw.,34,32,2,12,0.5736672732013419,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,San Francisco
+179,2,1:02,1262,1262,Maria Kostourkova made Jumper.,34,34,0,9,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,Washington State
+180,2,0:53,1253,1253,Shannon Powell missed Layup.,34,34,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+181,2,0:53,1253,1253,Maria Kostourkova Defensive Rebound.,34,34,0,7,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+182,2,0:46,1246,1246,Alexys Swedlund missed Layup.,34,34,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+183,2,0:46,1246,1246,Louise Brown Offensive Rebound.,34,34,0,3,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+184,2,0:43,1243,1243,Louise Brown missed Two Point Tip Shot.,34,34,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+185,2,0:43,1243,1243,Washington State Offensive Rebound.,34,34,0,4,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+186,2,0:39,1239,1239,Borislava Hristova missed Layup.,34,34,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+187,2,0:39,1239,1239,Maria Kostourkova Offensive Rebound.,34,34,0,3,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+188,2,0:36,1236,1236,Maria Kostourkova Turnover.,34,34,0,1,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+189,2,0:35,1235,1235,Veronica Preciado Steal.,34,34,0,4,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+190,2,0:31,1231,1231,Veronica Preciado missed Three Point Jumper.,34,34,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+191,2,0:31,1231,1231,Pinelopi Pavlopoulou Defensive Rebound.,34,34,0,7,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+192,2,0:24,1224,1224,Foul on Veronica Preciado.,34,34,0,0,0.5,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+193,2,0:24,1224,1224,Borislava Hristova made Free Throw.,34,35,-1,0,0.4620234880118155,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,Washington State
+194,2,0:24,1224,1224,Borislava Hristova made Free Throw.,34,36,-2,23,0.42448262532549014,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,Washington State
+195,2,0:01,1201,1201,Foul on Johanna Muzet.,34,36,-2,0,0.4235319432624558,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+196,2,0:01,1201,1201,Kalyn Simon missed Free Throw.,34,36,-2,0,0.4235319432624558,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+197,2,0:01,1201,1201,San Francisco Deadball Team Rebound.,34,36,-2,0,0.4235319432624558,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+198,2,0:01,1201,1201,Kalyn Simon made Free Throw.,35,36,-1,1,0.4615397499338115,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,San Francisco
+199,2,0:00,1200,1200,End of 2nd Quarter,34,36,-2,12,0.4234906714856242,San Francisco,Washington State,4,3,0,0,NA,400994345,2017-11-15,
+200,3,9:48,1188,1188,Michaela Rakova made Jumper.,37,36,1,18,0.5387302470101494,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,San Francisco
+201,3,9:30,1170,1170,Caila Hailey missed Jumper.,37,36,1,0,0.5390949967418553,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+202,3,9:30,1170,1170,Shannon Powell Defensive Rebound.,37,36,1,11,0.5390949967418553,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+203,3,9:19,1159,1159,Kalyn Simon made Three Point Jumper. Assisted by Anna Seilund.,40,36,4,17,0.6525639738233776,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,San Francisco
+204,3,9:02,1142,1142,Borislava Hristova missed Jumper.,40,36,4,0,0.6537886815230896,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+205,3,9:02,1142,1142,Anna Seilund Defensive Rebound.,40,36,4,15,0.6537886815230896,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+206,3,8:47,1127,1127,Kalyn Simon made Three Point Jumper. Assisted by Moa Lundqvist.,43,36,7,25,0.7541490887973739,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,San Francisco
+207,3,8:22,1102,1102,Louise Brown Turnover.,43,36,7,6,0.7567398506626685,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+208,3,8:16,1096,1096,Shannon Powell Turnover.,43,36,7,3,0.7573687333394101,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+209,3,8:13,1093,1093,Chanelle Molina Steal.,43,36,7,1,0.7576847277011884,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+210,3,8:12,1092,1092,Chanelle Molina made Layup.,43,38,5,17,0.6931136171031165,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,Washington State
+211,3,7:55,1075,1075,Moa Lundqvist Turnover.,43,38,5,1,0.6946201754462424,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+212,3,7:54,1074,1074,Chanelle Molina Steal.,43,38,5,11,0.6947101842743997,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+213,3,7:43,1063,1063,Kayla Washington missed Jumper.,43,38,5,0,0.6957122469821764,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+214,3,7:43,1063,1063,Shannon Powell Defensive Rebound.,43,38,5,12,0.6957122469821764,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+215,3,7:31,1051,1051,Shannon Powell Turnover.,43,38,5,20,0.6968334957050613,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+216,3,7:11,1031,1031,Chanelle Molina missed Three Point Jumper.,43,38,5,0,0.698780015749153,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+217,3,7:11,1031,1031,Veronica Preciado Defensive Rebound.,43,38,5,12,0.698780015749153,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+218,3,6:59,1019,1019,Moa Lundqvist missed Layup.,43,38,5,0,0.7000022517914333,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+219,3,6:59,1019,1019,Borislava Hristova Block.,43,38,5,1,0.7000022517914333,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+220,3,6:58,1018,1018,San Francisco Offensive Rebound.,43,38,5,15,0.7001061362099024,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+221,3,6:43,1003,1003,Kalyn Simon missed Jumper.,43,38,5,0,0.701704878428278,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+222,3,6:43,1003,1003,Veronica Preciado Offensive Rebound.,43,38,5,2,0.701704878428278,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+223,3,6:41,1001,1001,Veronica Preciado made Layup.,45,38,7,16,0.7683588765577744,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,San Francisco
+224,3,6:25,985,985,Kayla Washington made Layup. Assisted by Chanelle Molina.,45,40,5,11,0.7037323563387516,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,Washington State
+225,3,6:14,974,974,Moa Lundqvist missed Layup.,45,40,5,0,0.7050359307470478,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+226,3,6:14,974,974,Washington State Defensive Rebound.,45,40,5,26,0.7050359307470478,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+227,3,5:48,948,948,Borislava Hristova missed Three Point Jumper.,45,40,5,0,0.7080522925092498,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+228,3,5:48,948,948,Veronica Preciado Defensive Rebound.,45,40,5,13,0.7080522925092498,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+229,3,5:35,935,935,Foul on Alexys Swedlund.,45,40,5,0,0.7094114227049872,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+230,3,5:35,935,935,Kalyn Simon missed Free Throw.,45,40,5,0,0.7094114227049872,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+231,3,5:35,935,935,San Francisco Deadball Team Rebound.,45,40,5,0,0.7094114227049872,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+232,3,5:35,935,935,Kalyn Simon made Free Throw.,46,40,6,11,0.7447932460421086,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,San Francisco
+233,3,5:24,924,924,Nike McClure missed Layup.,46,40,6,0,0.7459974929963286,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+234,3,5:24,924,924,Nike McClure Offensive Rebound.,46,40,6,14,0.7459974929963286,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+235,3,5:10,910,910,Nike McClure missed Jumper.,46,40,6,0,0.7474598849812638,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+236,3,5:10,910,910,Kayla Washington Offensive Rebound.,46,40,6,2,0.7474598849812638,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+237,3,5:08,908,908,Kayla Washington made Layup.,46,42,4,25,0.6735151901057438,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,Washington State
+238,3,4:43,883,883,Kalyn Simon missed Jumper.,46,42,4,0,0.6754484609219679,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+239,3,4:43,883,883,Nike McClure Block.,46,42,4,2,0.6754484609219679,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+240,3,4:41,881,881,Nike McClure Defensive Rebound.,46,42,4,5,0.6756012684887301,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+241,3,4:36,876,876,Alexys Swedlund missed Layup.,46,42,4,0,0.6759834031420556,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+242,3,4:36,876,876,Borislava Hristova Offensive Rebound.,46,42,4,10,0.6759834031420556,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+243,3,4:26,866,866,Borislava Hristova Turnover.,46,42,4,1,0.6767511526246751,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+244,3,4:25,865,865,Kalyn Simon Steal.,46,42,4,7,0.6768283882899653,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+245,3,4:18,858,858,Michaela Rakova missed Three Point Jumper.,46,42,4,0,0.6773725569607463,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+246,3,4:18,858,858,Borislava Hristova Defensive Rebound.,46,42,4,8,0.6773725569607463,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+247,3,4:10,850,850,Alexys Swedlund missed Layup.,46,42,4,0,0.678004232485372,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+248,3,4:10,850,850,Veronica Preciado Defensive Rebound.,46,42,4,7,0.678004232485372,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+249,3,4:03,843,843,Veronica Preciado made Layup.,48,42,6,22,0.7541369256770558,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,San Francisco
+250,3,3:41,821,821,Pinelopi Pavlopoulou Turnover.,48,42,6,1,0.7565142893846937,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+251,3,3:40,820,820,Kalyn Simon Steal.,48,42,6,0,0.7566275200682231,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+252,3,3:40,820,820,Kalyn Simon Turnover.,48,42,6,1,0.7566275200682231,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+253,3,3:39,819,819,Foul on Ninni Salmi.,48,42,6,4,0.7567412675969354,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+254,3,3:35,815,815,Maria Kostourkova Turnover.,48,42,6,23,0.757201592767019,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+255,3,3:12,792,792,Shannon Powell Turnover.,48,42,6,1,0.7600379436279872,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+256,3,3:11,791,791,Alexys Swedlund Steal.,48,42,6,5,0.7601694941441172,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+257,3,3:06,786,786,Pinelopi Pavlopoulou made Layup.,48,44,4,7,0.6838500560384602,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,Washington State
+258,3,2:59,779,779,Ninni Salmi made Layup. Assisted by Anna Seilund.,50,44,6,14,0.7618090267051782,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,San Francisco
+259,3,2:45,765,765,Louise Brown missed Three Point Jumper.,50,44,6,0,0.7638765704340262,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+260,3,2:45,765,765,Louise Brown Offensive Rebound.,50,44,6,5,0.7638765704340262,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+261,3,2:40,760,760,Foul on Ninni Salmi.,50,44,6,5,0.7646590559195625,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+262,3,2:35,755,755,Maria Kostourkova Turnover.,50,44,6,15,0.7654661994468447,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+263,3,2:20,740,740,Foul on Louise Brown.,50,44,6,0,0.7680443771240208,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+264,3,2:20,740,740,Nia Alexander made Free Throw.,51,44,7,0,0.8016838226700204,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,San Francisco
+265,3,2:20,740,740,Nia Alexander made Free Throw.,52,44,8,8,0.8315149031839145,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,San Francisco
+266,3,2:12,732,732,Chanelle Molina made Jumper.,52,46,6,20,0.769521380226401,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,Washington State
+267,3,1:52,712,712,Michaela Rakova missed Layup.,52,46,6,0,0.7731104761343943,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+268,3,1:52,712,712,Louise Brown Defensive Rebound.,52,46,6,18,0.7731104761343943,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+269,3,1:34,694,694,Caila Hailey Turnover.,52,46,6,1,0.775934523595054,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+270,3,1:33,693,693,Shannon Powell Steal.,52,46,6,5,0.7760830375691893,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+271,3,1:28,688,688,Shannon Powell missed Layup.,52,46,6,0,0.77681526912649,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+272,3,1:28,688,688,San Francisco Offensive Rebound.,52,46,6,19,0.77681526912649,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+273,3,1:09,669,669,Anna Seilund made Jumper.,54,46,8,13,0.8433753719381047,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,San Francisco
+274,3,0:56,656,656,Chanelle Molina made Jumper.,54,48,6,24,0.7812692897086712,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,Washington State
+275,3,0:32,632,632,Shannon Powell missed Jumper.,54,48,6,0,0.7846575416227137,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+276,3,0:32,632,632,Shannon Powell Offensive Rebound.,54,48,6,0,0.7846575416227137,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+277,3,0:32,632,632,Foul on Louise Brown.,54,48,6,27,0.7846575416227137,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+278,3,0:05,605,605,Veronica Preciado missed Jumper.,54,48,6,0,0.788934307627574,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+279,3,0:05,605,605,Nike McClure Defensive Rebound.,54,48,6,5,0.788934307627574,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+280,3,0:00,600,600,End of 3rd Quarter,54,48,6,7,0.7898113397940275,San Francisco,Washington State,5,4,0,0,NA,400994345,2017-11-15,
+281,4,9:53,593,593,Foul on Shannon Powell.,54,48,6,5,0.7910946491197652,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,
+282,4,9:48,588,588,Borislava Hristova made Layup.,54,50,4,25,0.7092136533516877,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,Washington State
+283,4,9:23,563,563,Shannon Powell made Layup.,56,50,6,10,0.7974709949086223,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,San Francisco
+284,4,9:13,553,553,Chanelle Molina made Jumper.,56,52,4,20,0.7158677077092422,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,Washington State
+285,4,8:53,533,533,Anna Seilund missed Three Point Jumper.,56,52,4,0,0.7200036786200243,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,
+286,4,8:53,533,533,Nike McClure Defensive Rebound.,56,52,4,12,0.7200036786200243,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,
+287,4,8:41,521,521,Kayla Washington made Layup. Assisted by Chanelle Molina.,56,54,2,29,0.6171524757059778,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,Washington State
+288,4,8:12,492,492,Michaela Rakova made Three Point Jumper. Assisted by Anna Seilund.,59,54,5,18,0.7725833885195548,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,San Francisco
+289,4,7:54,474,474,Johanna Muzet made Layup.,59,56,3,1,0.678219344933511,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,Washington State
+290,4,7:53,473,473,Foul on Moa Lundqvist.,59,56,3,0,0.6783750707021609,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,
+291,4,7:53,473,473,Johanna Muzet missed Free Throw.,59,56,3,0,0.6783750707021609,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,
+292,4,7:53,473,473,Nike McClure Offensive Rebound.,59,56,3,1,0.6783750707021609,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,
+293,4,7:52,472,472,Nike McClure made Layup.,59,58,1,11,0.5619332612257174,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,Washington State
+294,4,7:41,461,461,Michaela Rakova made Layup. Assisted by Anna Seilund.,61,58,3,18,0.6803829293316482,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,San Francisco
+295,4,7:23,443,443,Pinelopi Pavlopoulou made Jumper.,61,60,1,16,0.5640034616960135,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,Washington State
+296,4,7:07,427,427,Anna Seilund missed Three Point Jumper.,61,60,1,0,0.5655341321127553,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,
+297,4,7:07,427,427,Borislava Hristova Defensive Rebound.,61,60,1,8,0.5655341321127553,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,
+298,4,6:59,419,419,Borislava Hristova missed Layup.,61,60,1,0,0.5663173604510946,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,
+299,4,6:59,419,419,Borislava Hristova Offensive Rebound.,61,60,1,2,0.5663173604510946,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,
+300,4,6:57,417,417,Borislava Hristova made Layup.,61,62,-1,6,0.43349291636957243,San Francisco,Washington State,6,5,0,0,NA,400994345,2017-11-15,Washington State
+301,4,6:51,411,411,San Francisco  Timeout,61,62,-1,4,0.43293516970287016,San Francisco,Washington State,5,5,1,0,NA,400994345,2017-11-15,
+302,4,6:47,407,407,Shannon Powell missed Jumper.,61,62,-1,0,0.43257087318119014,San Francisco,Washington State,5,5,1,0,NA,400994345,2017-11-15,
+303,4,6:47,407,407,Nike McClure Defensive Rebound.,61,62,-1,9,0.43257087318119014,San Francisco,Washington State,5,5,1,0,NA,400994345,2017-11-15,
+304,4,6:38,398,398,Alexys Swedlund made Three Point Jumper. Assisted by Pinelopi Pavlopoulou.,61,65,-4,11,0.2499967373632408,San Francisco,Washington State,5,5,1,0,NA,400994345,2017-11-15,Washington State
+305,4,6:27,387,387,Veronica Preciado Turnover.,61,65,-4,1,0.24700092023260342,San Francisco,Washington State,5,5,1,0,NA,400994345,2017-11-15,
+306,4,6:26,386,386,Borislava Hristova Steal.,61,65,-4,4,0.24672694178579305,San Francisco,Washington State,5,5,1,0,NA,400994345,2017-11-15,
+307,4,6:22,382,382,Borislava Hristova Turnover.,61,65,-4,29,0.24562438434729228,San Francisco,Washington State,5,5,1,0,NA,400994345,2017-11-15,
+308,4,5:53,353,353,Nia Alexander missed Jumper.,61,65,-4,0,0.23692872785848748,San Francisco,Washington State,5,5,1,0,NA,400994345,2017-11-15,
+309,4,5:53,353,353,Pinelopi Pavlopoulou Defensive Rebound.,61,65,-4,9,0.23692872785848748,San Francisco,Washington State,5,5,1,0,NA,400994345,2017-11-15,
+310,4,5:44,344,344,Louise Brown made Three Point Jumper. Assisted by Pinelopi Pavlopoulou.,61,68,-7,3,0.111347920037317,San Francisco,Washington State,5,5,0,0,NA,400994345,2017-11-15,Washington State
+311,4,5:41,341,341,San Francisco  Timeout,61,68,-7,6,0.11029064252793762,San Francisco,Washington State,4,5,1,0,NA,400994345,2017-11-15,
+312,4,5:35,335,335,Foul on Pinelopi Pavlopoulou.,61,68,-7,0,0.10809839499060894,San Francisco,Washington State,4,5,1,0,NA,400994345,2017-11-15,
+313,4,5:35,335,335,Bec Black missed Free Throw.,61,68,-7,0,0.10809839499060894,San Francisco,Washington State,4,5,1,0,NA,400994345,2017-11-15,
+314,4,5:35,335,335,San Francisco Deadball Team Rebound.,61,68,-7,0,0.10809839499060894,San Francisco,Washington State,4,5,1,0,NA,400994345,2017-11-15,
+315,4,5:35,335,335,Bec Black missed Free Throw.,61,68,-7,0,0.10809839499060894,San Francisco,Washington State,4,5,1,0,NA,400994345,2017-11-15,
+316,4,5:35,335,335,Nike McClure Defensive Rebound.,61,68,-7,28,0.10809839499060894,San Francisco,Washington State,4,5,1,0,NA,400994345,2017-11-15,
+317,4,5:07,307,307,Chanelle Molina missed Three Point Jumper.,61,68,-7,0,0.0964748744658844,San Francisco,Washington State,4,5,1,0,NA,400994345,2017-11-15,
+318,4,5:07,307,307,Nike McClure Offensive Rebound.,61,68,-7,5,0.0964748744658844,San Francisco,Washington State,4,5,1,0,NA,400994345,2017-11-15,
+319,4,5:02,302,302,Alexys Swedlund missed Three Point Jumper.,61,68,-7,0,0.09491565926182094,San Francisco,Washington State,4,5,1,0,NA,400994345,2017-11-15,
+320,4,5:02,302,302,Kayla Washington Offensive Rebound.,61,68,-7,4,0.09491565926182094,San Francisco,Washington State,4,5,1,0,NA,400994345,2017-11-15,
+321,4,4:58,298,298,Kayla Washington Turnover.,61,68,-7,12,0.09407975405970911,San Francisco,Washington State,4,5,1,0,NA,400994345,2017-11-15,
+322,4,4:46,286,286,Bec Black made Layup. Assisted by Shannon Powell.,63,68,-5,27,0.16464825241828615,San Francisco,Washington State,4,5,1,0,NA,400994345,2017-11-15,San Francisco
+323,4,4:19,259,259,Kayla Washington missed Jumper.,63,68,-5,0,0.16899473739707724,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+324,4,4:19,259,259,Alexys Swedlund Offensive Rebound.,63,68,-5,6,0.16899473739707724,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+325,4,4:13,253,253,Borislava Hristova missed Jumper.,63,68,-5,0,0.17021822556168015,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+326,4,4:13,253,253,Washington State Deadball Team Rebound.,63,68,-5,5,0.17021822556168015,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+327,4,4:08,248,248,Nia Alexander made Jumper.,65,68,-3,2,0.27953382145089267,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,San Francisco
+328,4,4:06,246,246,Foul on Nike McClure.,65,68,-3,9,0.2797786651295479,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+329,4,3:57,237,237,Nia Alexander missed Free Throw.,65,68,-3,0,0.28037260169358347,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+330,4,3:57,237,237,Chanelle Molina Defensive Rebound.,65,68,-3,19,0.28037260169358347,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+331,4,3:38,218,218,Foul on Shannon Powell.,65,68,-3,0,0.27742226360008954,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+332,4,3:38,218,218,Chanelle Molina made Free Throw.,65,69,-4,0,0.21816722937834518,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,Washington State
+333,4,3:38,218,218,Chanelle Molina missed Free Throw.,65,69,-4,0,0.21816722937834518,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+334,4,3:38,218,218,Nike McClure Offensive Rebound.,65,69,-4,3,0.21816722937834518,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+335,4,3:35,215,215,Chanelle Molina missed Three Point Jumper.,65,69,-4,0,0.21684037664854036,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+336,4,3:35,215,215,Borislava Hristova Offensive Rebound.,65,69,-4,5,0.21684037664854036,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+337,4,3:30,210,210,Borislava Hristova made Layup.,65,71,-6,11,0.12444175195688525,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,Washington State
+338,4,3:19,199,199,Michaela Rakova missed Three Point Jumper.,65,71,-6,0,0.11590817903820622,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+339,4,3:19,199,199,Shannon Powell Offensive Rebound.,65,71,-6,9,0.11590817903820622,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+340,4,3:10,190,190,Moa Lundqvist missed Layup.,65,71,-6,0,0.1063276602242631,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+341,4,3:10,190,190,Borislava Hristova Defensive Rebound.,65,71,-6,4,0.1063276602242631,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+342,4,3:06,186,186,Borislava Hristova Turnover.,65,71,-6,1,0.1016635144489842,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+343,4,3:05,185,185,Nia Alexander Steal.,65,71,-6,22,0.10052308591030382,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+344,4,2:43,163,163,Shannon Powell missed Three Point Jumper.,65,71,-6,0,0.07742783463856141,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+345,4,2:43,163,163,Veronica Preciado Offensive Rebound.,65,71,-6,5,0.07742783463856141,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+346,4,2:38,158,158,Kalyn Simon missed Three Point Jumper.,65,71,-6,0,0.07259124931629668,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+347,4,2:38,158,158,Kayla Washington Defensive Rebound.,65,71,-6,19,0.07259124931629668,San Francisco,Washington State,4,5,0,0,NA,400994345,2017-11-15,
+348,4,2:19,139,139,Washington State  Timeout,65,71,-6,10,0.055267696746331516,San Francisco,Washington State,4,4,0,1,NA,400994345,2017-11-15,
+349,4,2:09,129,129,Chanelle Molina missed Three Point Jumper.,65,71,-6,0,0.04681747863300933,San Francisco,Washington State,4,4,0,1,NA,400994345,2017-11-15,
+350,4,2:09,129,129,San Francisco Defensive Rebound.,65,71,-6,25,0.04681747863300933,San Francisco,Washington State,4,4,0,1,NA,400994345,2017-11-15,
+351,4,1:44,104,104,Foul on Louise Brown.,65,71,-6,0,0.028209960270568272,San Francisco,Washington State,4,4,0,1,NA,400994345,2017-11-15,
+352,4,1:44,104,104,Moa Lundqvist made Free Throw.,66,71,-5,0,0.04975760067264295,San Francisco,Washington State,4,4,0,1,NA,400994345,2017-11-15,San Francisco
+353,4,1:44,104,104,Moa Lundqvist missed Free Throw.,66,71,-5,0,0.04975760067264295,San Francisco,Washington State,4,4,0,1,NA,400994345,2017-11-15,
+354,4,1:44,104,104,Nike McClure Defensive Rebound.,66,71,-5,27,0.04975760067264295,San Francisco,Washington State,4,4,0,1,NA,400994345,2017-11-15,
+355,4,1:17,77,77,Alexys Swedlund missed Three Point Jumper.,66,71,-5,0,0.027929837266000096,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+356,4,1:17,77,77,Shannon Powell Defensive Rebound.,66,71,-5,6,0.027929837266000096,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+357,4,1:11,71,71,Anna Seilund missed Three Point Jumper.,66,71,-5,0,0.024179148788219133,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+358,4,1:11,71,71,Alicia Roufosse Defensive Rebound.,66,71,-5,6,0.024179148788219133,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+359,4,1:05,65,65,Borislava Hristova Turnover.,66,71,-5,5,0.02079716034540695,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+360,4,1:00,60,60,Kalyn Simon made Three Point Jumper. Assisted by Shannon Powell.,69,71,-2,3,0.16889261165891484,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,San Francisco
+361,4,0:57,57,57,Foul on Veronica Preciado.,69,71,-2,23,0.16440853506850214,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+362,4,0:34,34,34,Chanelle Molina missed Jumper.,69,71,-2,0,0.1309245089386119,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+363,4,0:34,34,34,Anna Seilund Defensive Rebound.,69,71,-2,4,0.1309245089386119,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+364,4,0:30,30,30,Foul on Louise Brown.,69,71,-2,22,0.1253491564092463,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+365,4,0:08,8,8,Foul on Nike McClure.,69,71,-2,0,0.09653779011040589,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+366,4,0:08,8,8,Shannon Powell made Free Throw.,70,71,-1,0,0.24635462456246857,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,San Francisco
+367,4,0:08,8,8,Shannon Powell missed Free Throw.,70,71,-1,0,0.24635462456246857,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+368,4,0:08,8,8,Kayla Washington Defensive Rebound.,70,71,-1,1,0.24635462456246857,San Francisco,Washington State,4,4,0,0,NA,400994345,2017-11-15,
+369,4,0:07,7,7,Foul on Veronica Preciado.,70,71,-1,0,0.24503207300114177,San Francisco,Washington State,4,4,1,0,NA,400994345,2017-11-15,
+370,4,0:07,7,7,Kayla Washington missed Free Throw.,70,71,-1,0,0.24503207300114177,San Francisco,Washington State,4,4,1,0,NA,400994345,2017-11-15,
+371,4,0:07,7,7,Washington State Deadball Team Rebound.,70,71,-1,0,0.24503207300114177,San Francisco,Washington State,4,4,1,0,NA,400994345,2017-11-15,
+372,4,0:07,7,7,Kayla Washington made Free Throw.,70,72,-2,0,0.09530010998320411,San Francisco,Washington State,4,4,1,0,NA,400994345,2017-11-15,Washington State
+373,4,0:07,7,7,San Francisco  Timeout,70,72,-2,5,0.09530010998320411,San Francisco,Washington State,3,4,1,0,NA,400994345,2017-11-15,
+374,4,0:02,2,2,Shannon Powell missed Layup.,70,72,-2,0,0.08924905907234798,San Francisco,Washington State,3,4,1,0,NA,400994345,2017-11-15,
+375,4,0:02,2,2,Veronica Preciado Offensive Rebound.,70,72,-2,0,0.08924905907234798,San Francisco,Washington State,3,4,1,0,NA,400994345,2017-11-15,
+376,4,0:02,2,2,Foul on Caila Hailey.,70,72,-2,0,0.08924905907234798,San Francisco,Washington State,3,4,1,0,NA,400994345,2017-11-15,
+377,4,0:02,2,2,Veronica Preciado missed Free Throw.,70,72,-2,0,0.08924905907234798,San Francisco,Washington State,3,4,1,0,NA,400994345,2017-11-15,
+378,4,0:02,2,2,San Francisco Deadball Team Rebound.,70,72,-2,0,0.08924905907234798,San Francisco,Washington State,3,4,1,0,NA,400994345,2017-11-15,
+379,4,0:02,2,2,Anna Seilund Turnover.,70,72,-2,2,0.08924905907234798,San Francisco,Washington State,3,4,1,0,NA,400994345,2017-11-15,
+380,4,0:00,0,0,Kayla Washington made Layup. Assisted by Chanelle Molina.,70,74,-4,0,1.8048513878454153e-35,San Francisco,Washington State,3,4,1,0,NA,400994345,2017-11-15,Washington State
+381,4,0:00,0,0,End of Game,70,74,-4,0,1.8048513878454153e-35,San Francisco,Washington State,3,4,1,0,NA,400994345,2017-11-15,
