@@ -1,0 +1,368 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:46,2386,2386,Lizzy Wendell missed Layup.,0,0,0,0,0.5,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,NA
+2,1,9:46,2386,2386,Jessica Shepard Defensive Rebound.,0,0,0,4,0.5,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+3,1,9:42,2382,2382,Jessica Shepard Turnover.,0,0,0,1,0.5,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+4,1,9:41,2381,2381,Caitlin Ingle Steal.,0,0,0,2,0.5,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+5,1,9:39,2379,2379,Becca Hittner made Three Point Jumper. Assisted by Caitlin Ingle.,0,3,-3,14,0.4335157945607277,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Drake
+6,1,9:25,2365,2365,Foul on Becca Jonas.,0,3,-3,3,0.4330721585825475,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+7,1,9:22,2362,2362,Allie Havers made Jumper. Assisted by Esther Ramacieri.,2,3,-1,13,0.47753871240838197,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Nebraska
+8,1,9:09,2349,2349,Lizzy Wendell missed Three Point Jumper.,2,3,-1,0,0.47739770703372547,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+9,1,9:09,2349,2349,Jessica Shepard Defensive Rebound.,2,3,-1,24,0.47739770703372547,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+10,1,8:45,2325,2325,Allie Havers missed Jumper.,2,3,-1,0,0.4771345410764835,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+11,1,8:45,2325,2325,Becca Jonas Defensive Rebound.,2,3,-1,17,0.4771345410764835,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+12,1,8:28,2308,2308,Becca Hittner missed Three Point Jumper.,2,3,-1,0,0.47694606147987817,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+13,1,8:28,2308,2308,Esther Ramacieri Defensive Rebound.,2,3,-1,24,0.47694606147987817,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+14,1,8:04,2284,2284,Esther Ramacieri missed Three Point Jumper.,2,3,-1,0,0.476677330647579,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+15,1,8:04,2284,2284,Lizzy Wendell Defensive Rebound.,2,3,-1,8,0.476677330647579,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+16,1,7:56,2276,2276,Sara Rhine missed Jumper.,2,3,-1,0,0.476587121439937,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+17,1,7:56,2276,2276,Jessica Shepard Defensive Rebound.,2,3,-1,9,0.476587121439937,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+18,1,7:47,2267,2267,Jasmine Cincore missed Layup.,2,3,-1,0,0.47648528574854293,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+19,1,7:47,2267,2267,Allie Havers Offensive Rebound.,2,3,-1,13,0.47648528574854293,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+20,1,7:34,2254,2254,Jessica Shepard missed Jumper.,2,3,-1,0,0.47633757254891607,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+21,1,7:34,2254,2254,Lizzy Wendell Defensive Rebound.,2,3,-1,0,0.47633757254891607,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+22,1,7:34,2254,2254,Foul on Allie Havers.,2,3,-1,17,0.47633757254891607,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+23,1,7:17,2237,2237,Caitlin Ingle made Jumper. Assisted by Lizzy Wendell.,2,5,-3,26,0.4288617263502592,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Drake
+24,1,6:51,2211,2211,Allie Havers made Jumper. Assisted by Esther Ramacieri.,4,5,-1,6,0.47584447325397483,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Nebraska
+25,1,6:45,2205,2205,Nicole Miller made Three Point Jumper. Assisted by Caitlin Ingle.,4,8,-4,20,0.4042228062282235,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Drake
+26,1,6:25,2185,2185,Jessica Shepard missed Jumper.,4,8,-4,0,0.4033286291367885,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+27,1,6:25,2185,2185,Caitlin Ingle Defensive Rebound.,4,8,-4,7,0.4033286291367885,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+28,1,6:18,2178,2178,Lizzy Wendell Turnover.,4,8,-4,0,0.4030149680787612,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+29,1,6:18,2178,2178,Jasmine Cincore Steal.,4,8,-4,11,0.4030149680787612,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+30,1,6:07,2167,2167,Grace Mitchell missed Jumper.,4,8,-4,0,0.40252143505595217,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+31,1,6:07,2167,2167,Jessica Shepard Offensive Rebound.,4,8,-4,3,0.40252143505595217,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+32,1,6:04,2164,2164,Jessica Shepard missed Jumper.,4,8,-4,0,0.402386626649463,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+33,1,6:04,2164,2164,Nicole Miller Defensive Rebound.,4,8,-4,15,0.402386626649463,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+34,1,5:49,2149,2149,Caitlin Ingle missed Three Point Jumper.,4,8,-4,0,0.4017107717729217,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+35,1,5:49,2149,2149,Nicea Eliely Block.,4,8,-4,3,0.4017107717729217,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+36,1,5:46,2146,2146,Nicea Eliely Defensive Rebound.,4,8,-4,3,0.4015752262181732,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+37,1,5:43,2143,2143,Hannah Whitish made Layup. Assisted by Nicea Eliely.,6,8,-2,18,0.45023152697512836,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Nebraska
+38,1,5:25,2125,2125,Becca Jonas missed Jumper.,6,8,-2,0,0.4498106956225497,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+39,1,5:25,2125,2125,Sammie Bachrodt Offensive Rebound.,6,8,-2,3,0.4498106956225497,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+40,1,5:22,2122,2122,Sammie Bachrodt made Jumper.,6,10,-4,10,0.4004860791695032,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Drake
+41,1,5:12,2112,2112,Jessica Shepard missed Three Point Jumper.,6,10,-4,0,0.40002962586653285,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+42,1,5:12,2112,2112,Jessica Shepard Offensive Rebound.,6,10,-4,4,0.40002962586653285,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+43,1,5:08,2108,2108,Maddie Simon missed Jumper.,6,10,-4,0,0.3998465869944874,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+44,1,5:08,2108,2108,Becca Jonas Defensive Rebound.,6,10,-4,8,0.3998465869944874,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+45,1,5:00,2100,2100,Caitlin Ingle Turnover.,6,10,-4,2,0.39947970270338606,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+46,1,4:58,2098,2098,Hannah Whitish Steal.,6,10,-4,9,0.3993878106637542,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+47,1,4:49,2089,2089,Nicea Eliely Turnover.,6,10,-4,2,0.3989734304972276,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+48,1,4:47,2087,2087,Caitlin Ingle Steal.,6,10,-4,11,0.3988811505815072,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+49,1,4:36,2076,2076,Becca Jonas missed Three Point Jumper.,6,10,-4,0,0.3983723078461464,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+50,1,4:36,2076,2076,Jessica Shepard Defensive Rebound.,6,10,-4,11,0.3983723078461464,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+51,1,4:25,2065,2065,Maddie Simon Turnover.,6,10,-4,1,0.3978611991077841,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+52,1,4:24,2064,2064,Caitlin Ingle Steal.,6,10,-4,4,0.3978146194378104,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+53,1,4:20,2060,2060,Sammie Bachrodt missed Three Point Jumper.,6,10,-4,0,0.3976281053635682,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+54,1,4:20,2060,2060,Grace Mitchell Defensive Rebound.,6,10,-4,23,0.3976281053635682,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+55,1,3:57,2037,2037,Grace Mitchell missed Jumper.,6,10,-4,0,0.3965494019397939,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+56,1,3:57,2037,2037,Becca Jonas Defensive Rebound.,6,10,-4,20,0.3965494019397939,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+57,1,3:37,2017,2017,Sammie Bachrodt missed Jumper.,6,10,-4,0,0.3956023285706299,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+58,1,3:37,2017,2017,Maddie Simon Block.,6,10,-4,1,0.3956023285706299,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+59,1,3:36,2016,2016,Maddie Simon Defensive Rebound.,6,10,-4,4,0.3955547438760948,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+60,1,3:32,2012,2012,Hannah Whitish missed Three Point Jumper.,6,10,-4,0,0.3953641799254241,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+61,1,3:32,2012,2012,Jessica Shepard Offensive Rebound.,6,10,-4,3,0.3953641799254241,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+62,1,3:29,2009,2009,Foul on Caitlin Ingle.,6,10,-4,0,0.39522101880453764,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+63,1,3:29,2009,2009,Official TV Timeout,6,10,-4,22,0.39522101880453764,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+64,1,3:07,1987,1987,Maddie Simon made Three Point Jumper. Assisted by Esther Ramacieri.,9,10,-1,15,0.4731608827039501,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Nebraska
+65,1,2:52,1972,1972,Foul on Esther Ramacieri.,9,10,-1,8,0.4729711358747815,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+66,1,2:44,1964,1964,Lizzy Wendell missed Jumper.,9,10,-1,0,0.4728692893276093,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+67,1,2:44,1964,1964,Maddie Simon Defensive Rebound.,9,10,-1,10,0.4728692893276093,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+68,1,2:34,1954,1954,Maddie Simon missed Jumper.,9,10,-1,0,0.4727413301522449,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+69,1,2:34,1954,1954,Becca Jonas Defensive Rebound.,9,10,-1,15,0.4727413301522449,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+70,1,2:19,1939,1939,Becca Jonas Turnover.,9,10,-1,12,0.47254800006979714,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+71,1,2:07,1927,1927,Hannah Whitish missed Three Point Jumper.,9,10,-1,0,0.4723921466698888,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+72,1,2:07,1927,1927,Mya Mertz Defensive Rebound.,9,10,-1,6,0.4723921466698888,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+73,1,2:01,1921,1921,Lizzy Wendell made Layup. Assisted by Caitlin Ingle.,9,12,-3,11,0.41761532587524786,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Drake
+74,1,1:50,1910,1910,Foul on Mya Mertz.,9,12,-3,0,0.41719722350695226,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+75,1,1:50,1910,1910,Esther Ramacieri Turnover.,9,12,-3,1,0.41719722350695226,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+76,1,1:49,1909,1909,Lizzy Wendell Steal.,9,12,-3,4,0.41715924322250364,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+77,1,1:45,1905,1905,Paige Greiner Turnover.,9,12,-3,22,0.41700735833789904,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+78,1,1:23,1883,1883,Jasmine Cincore Turnover.,9,12,-3,18,0.41617244411751314,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+79,1,1:05,1865,1865,Paige Greiner Turnover.,9,12,-3,13,0.4154887052997811,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+80,1,0:52,1852,1852,Allie Havers Turnover.,9,12,-3,4,0.4149937371066775,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+81,1,0:48,1848,1848,Brenni Rose Steal.,9,12,-3,10,0.4148411543563198,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+82,1,0:38,1838,1838,Lizzy Wendell missed Jumper.,9,12,-3,0,0.4144589688286455,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+83,1,0:38,1838,1838,Brenni Rose Offensive Rebound.,9,12,-3,31,0.4144589688286455,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+84,1,0:07,1807,1807,Lizzy Wendell missed Jumper.,9,12,-3,0,0.41326543038410246,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+85,1,0:07,1807,1807,Jessica Shepard Block.,9,12,-3,2,0.41326543038410246,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+86,1,0:05,1805,1805,Jessica Shepard Defensive Rebound.,9,12,-3,3,0.4131878663985901,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+87,1,0:02,1802,1802,Jessica Shepard Turnover.,9,12,-3,0,0.4130713725788033,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+88,1,0:02,1802,1802,Lizzy Wendell Steal.,9,12,-3,2,0.4130713725788033,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+89,1,0:00,1800,1800,Foul on Jessica Shepard.,9,12,-3,0,0.4129936088523014,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+90,1,0:00,1800,1800,Lizzy Wendell missed Free Throw.,9,12,-3,0,0.4129936088523014,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+91,1,0:00,1800,1800,Drake Deadball Team Rebound.,9,12,-3,0,0.4129936088523014,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+92,1,0:00,1800,1800,Lizzy Wendell made Free Throw.,9,13,-4,0,0.38489917366219123,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Drake
+93,1,0:00,1800,1800,Hannah Whitish Turnover.,9,13,-4,0,0.38489917366219123,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+94,1,0:00,1800,1800,Lizzy Wendell Steal.,9,13,-4,0,0.38489917366219123,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+95,1,0:00,1800,1800,End of 1st Quarter,9,12,-3,12,0.4129936088523014,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+96,2,9:48,1788,1788,Brenni Rose made Three Point Jumper. Assisted by Caitlin Ingle.,9,16,-7,18,0.304720857167825,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Drake
+97,2,9:30,1770,1770,Foul on Becca Hittner.,9,16,-7,0,0.30327609054839066,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+98,2,9:30,1770,1770,Allie Havers missed Free Throw.,9,16,-7,0,0.30327609054839066,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+99,2,9:30,1770,1770,Nebraska Deadball Team Rebound.,9,16,-7,0,0.30327609054839066,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+100,2,9:30,1770,1770,Allie Havers made Free Throw.,10,16,-6,10,0.328952881317894,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Nebraska
+101,2,9:20,1760,1760,Becca Hittner made Layup. Assisted by Caitlin Ingle.,10,18,-8,7,0.277891411182057,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Drake
+102,2,9:13,1753,1753,Foul on Nicole Miller.,10,18,-8,3,0.2772727473019275,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+103,2,9:10,1750,1750,Nicea Eliely missed Three Point Jumper.,10,18,-8,0,0.27700680172101433,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+104,2,9:10,1750,1750,Brenni Rose Defensive Rebound.,10,18,-8,10,0.27700680172101433,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+105,2,9:00,1740,1740,Becca Jonas Turnover.,10,18,-8,19,0.2761166365783167,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+106,2,8:41,1721,1721,Jasmine Cincore made Jumper.,12,18,-6,16,0.3253533321801258,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Nebraska
+107,2,8:25,1705,1705,Brenni Rose Turnover.,12,18,-6,1,0.3241473764115669,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+108,2,8:24,1704,1704,Nicea Eliely Steal.,12,18,-6,2,0.324071432505575,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+109,2,8:22,1702,1702,Nicea Eliely made Layup.,14,18,-4,17,0.37976512929794753,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Nebraska
+110,2,8:05,1685,1685,Foul on Rylie Cascio Jensen.,14,18,-4,0,0.37883109660999226,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+111,2,8:05,1685,1685,Nicole Miller made Free Throw.,14,19,-5,0,0.350204432307875,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Drake
+112,2,8:05,1685,1685,Nicole Miller made Free Throw.,14,20,-6,15,0.3226174615228109,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Drake
+113,2,7:50,1670,1670,Nicea Eliely made Jumper.,16,20,-4,7,0.3780184881448731,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Nebraska
+114,2,7:43,1663,1663,Sammie Bachrodt made Three Point Jumper. Assisted by Caitlin Ingle.,16,23,-7,13,0.2943764083368726,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Drake
+115,2,7:30,1650,1650,Rylie Cascio Jensen made Three Point Jumper. Assisted by Jessica Shepard.,19,23,-4,11,0.37695972633777897,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Nebraska
+116,2,7:19,1639,1639,Lizzy Wendell missed Jumper.,19,23,-4,0,0.3763867142823613,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+117,2,7:19,1639,1639,Jasmine Cincore Block.,19,23,-4,0,0.3763867142823613,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+118,2,7:19,1639,1639,Drake Offensive Rebound.,19,23,-4,12,0.3763867142823613,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+119,2,7:07,1627,1627,Foul on Jessica Shepard.,19,23,-4,5,0.37576708166277667,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+120,2,7:02,1622,1622,Lizzy Wendell missed Three Point Jumper.,19,23,-4,0,0.37551017412741217,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+121,2,7:02,1622,1622,Cortni Rush Offensive Rebound.,19,23,-4,21,0.37551017412741217,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+122,2,6:41,1601,1601,Foul on Maddie Simon.,19,23,-4,18,0.3744357528859165,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+123,2,6:23,1583,1583,Foul on Darrien Washington.,19,23,-4,0,0.3735154015282717,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+124,2,6:23,1583,1583,Cortni Rush made Free Throw.,19,24,-5,0,0.3437885707998907,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Drake
+125,2,6:23,1583,1583,Cortni Rush made Free Throw.,19,25,-6,18,0.3152371358511004,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Drake
+126,2,6:05,1565,1565,Grace Mitchell made Jumper. Assisted by Maddie Simon.,21,25,-4,7,0.3725892456288732,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Nebraska
+127,2,5:58,1558,1558,Paige Greiner missed Three Point Jumper.,21,25,-4,0,0.37222621910240133,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+128,2,5:58,1558,1558,Darrien Washington Defensive Rebound.,21,25,-4,20,0.37222621910240133,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+129,2,5:38,1538,1538,Darrien Washington missed Jumper.,21,25,-4,0,0.3711760500209782,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+130,2,5:38,1538,1538,Darrien Washington Offensive Rebound.,21,25,-4,3,0.3711760500209782,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+131,2,5:35,1535,1535,Foul on Caitlin Ingle.,21,25,-4,0,0.37101651812761693,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+132,2,5:35,1535,1535,Foul on Becca Hittner.,21,25,-4,4,0.37101651812761693,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+133,2,5:31,1531,1531,Grace Mitchell missed Jumper.,21,25,-4,0,0.37080286650116684,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+134,2,5:31,1531,1531,Paige Greiner Defensive Rebound.,21,25,-4,17,0.37080286650116684,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+135,2,5:14,1514,1514,Foul on Darrien Washington.,21,25,-4,0,0.3698813824086787,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+136,2,5:14,1514,1514,Sara Rhine missed Free Throw.,21,25,-4,0,0.3698813824086787,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+137,2,5:14,1514,1514,Drake Deadball Team Rebound.,21,25,-4,0,0.3698813824086787,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+138,2,5:14,1514,1514,Sara Rhine made Free Throw.,21,26,-5,14,0.33941390401814975,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Drake
+139,2,5:00,1500,1500,Allie Havers Turnover.,21,26,-5,2,0.33847882258479245,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+140,2,4:58,1498,1498,Mya Mertz Steal.,21,26,-5,9,0.3383433846904897,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+141,2,4:49,1489,1489,Sara Rhine Turnover.,21,26,-5,0,0.3377276826598202,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+142,2,4:49,1489,1489,Official TV Timeout,21,26,-5,1,0.3377276826598202,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+143,2,4:48,1488,1488,Esther Ramacieri missed Three Point Jumper.,21,26,-5,0,0.3376586180447468,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+144,2,4:48,1488,1488,Lizzy Wendell Defensive Rebound.,21,26,-5,6,0.3376586180447468,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+145,2,4:42,1482,1482,Lizzy Wendell missed Three Point Jumper.,21,26,-5,0,0.33724135342119876,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+146,2,4:42,1482,1482,Maddie Simon Defensive Rebound.,21,26,-5,22,0.33724135342119876,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+147,2,4:20,1460,1460,Allie Havers made Jumper. Assisted by Maddie Simon.,23,26,-3,27,0.3990075700570089,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Nebraska
+148,2,3:53,1433,1433,Nicole Miller Turnover.,23,26,-3,1,0.3977194503948605,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+149,2,3:52,1432,1432,Grace Mitchell Steal.,23,26,-3,3,0.39767275301284,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+150,2,3:49,1429,1429,Foul on Nicole Miller.,23,26,-3,42,0.39753319380561847,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+151,2,3:07,1387,1387,Allie Havers made Jumper. Assisted by Hannah Whitish.,25,26,-1,10,0.46475405493869587,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Nebraska
+152,2,2:57,1377,1377,Becca Jonas Turnover.,25,26,-1,2,0.46460163669818993,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+153,2,2:55,1375,1375,Grace Mitchell Steal.,25,26,-1,16,0.4645712116282983,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+154,2,2:39,1359,1359,Grace Mitchell missed Jumper.,25,26,-1,0,0.4643278561439732,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+155,2,2:39,1359,1359,Lizzy Wendell Defensive Rebound.,25,26,-1,10,0.4643278561439732,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+156,2,2:29,1349,1349,Becca Jonas made Jumper. Assisted by Sammie Bachrodt.,25,28,-3,14,0.393974601277751,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Drake
+157,2,2:15,1335,1335,Grace Mitchell made Three Point Jumper.,28,28,0,14,0.5,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Nebraska
+158,2,2:01,1321,1321,Lizzy Wendell missed Three Point Jumper.,28,28,0,0,0.5,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+159,2,2:01,1321,1321,Nebraska Defensive Rebound.,28,28,0,13,0.5,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+160,2,1:48,1308,1308,Hannah Whitish Turnover.,28,28,0,1,0.5,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+161,2,1:47,1307,1307,Sammie Bachrodt Steal.,28,28,0,4,0.5,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+162,2,1:43,1303,1303,Sammie Bachrodt missed Layup.,28,28,0,0,0.5,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+163,2,1:43,1303,1303,Jasmine Cincore Block.,28,28,0,1,0.5,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+164,2,1:42,1302,1302,Drake Offensive Rebound.,28,28,0,2,0.5,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+165,2,1:40,1300,1300,Sara Rhine missed Jumper.,28,28,0,0,0.5,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+166,2,1:40,1300,1300,Jessica Shepard Defensive Rebound.,28,28,0,1,0.5,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+167,2,1:39,1299,1299,Foul on Lizzy Wendell.,28,28,0,0,0.5,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+168,2,1:39,1299,1299,Jessica Shepard made Free Throw.,29,28,1,0,0.5366130183959077,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Nebraska
+169,2,1:39,1299,1299,Jessica Shepard missed Free Throw.,29,28,1,0,0.5366130183959077,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+170,2,1:39,1299,1299,Sara Rhine Defensive Rebound.,29,28,1,12,0.5366130183959077,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+171,2,1:27,1287,1287,Brenni Rose missed Three Point Jumper.,29,28,1,0,0.5368127514661409,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+172,2,1:27,1287,1287,Nicea Eliely Defensive Rebound.,29,28,1,5,0.5368127514661409,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+173,2,1:22,1282,1282,Hannah Whitish made Layup. Assisted by Nicea Eliely.,31,28,3,12,0.6091112902843044,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Nebraska
+174,2,1:10,1270,1270,Lizzy Wendell made Jumper. Assisted by Sara Rhine.,31,30,1,0,0.5371058764196568,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Drake
+175,2,1:10,1270,1270,Foul on Nicea Eliely.,31,30,1,0,0.5371058764196568,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+176,2,1:10,1270,1270,Lizzy Wendell missed Free Throw.,31,30,1,0,0.5371058764196568,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+177,2,1:10,1270,1270,Jessica Shepard Defensive Rebound.,31,30,1,17,0.5371058764196568,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+178,2,0:53,1253,1253,Jasmine Cincore missed Three Point Jumper.,31,30,1,0,0.5374130893377504,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+179,2,0:53,1253,1253,Sara Rhine Defensive Rebound.,31,30,1,10,0.5374130893377504,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+180,2,0:43,1243,1243,Foul on Hannah Whitish.,31,30,1,0,0.5376013506025611,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+181,2,0:43,1243,1243,Cortni Rush made Free Throw.,31,31,0,0,0.5,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Drake
+182,2,0:43,1243,1243,Cortni Rush made Free Throw.,31,32,-1,0,0.46239864939743885,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Drake
+183,2,0:43,1243,1243,Foul on Allie Havers.,31,32,-1,0,0.46239864939743885,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+184,2,0:43,1243,1243,Foul on Lizzy Wendell.,31,32,-1,15,0.46239864939743885,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,
+185,2,0:28,1228,1228,Allie Havers made Jumper. Assisted by Jasmine Cincore.,33,32,1,25,0.5378955068465396,Nebraska,Drake,4,4,0,0,NA,400912368,2016-12-06,Nebraska
+186,2,0:03,1203,1203,Lizzy Wendell missed Layup.,33,32,1,0,0.5384181111416124,Nebraska,Drake,4,4,0,1,NA,400912368,2016-12-06,
+187,2,0:03,1203,1203,Jasmine Cincore Block.,33,32,1,0,0.5384181111416124,Nebraska,Drake,4,4,0,1,NA,400912368,2016-12-06,
+188,2,0:03,1203,1203,Drake Offensive Rebound.,33,32,1,0,0.5384181111416124,Nebraska,Drake,4,4,0,1,NA,400912368,2016-12-06,
+189,2,0:03,1203,1203,Drake  Timeout,33,32,1,3,0.5384181111416124,Nebraska,Drake,4,3,0,1,NA,400912368,2016-12-06,
+190,2,0:00,1200,1200,Caitlin Ingle missed Jumper.,33,32,1,0,0.5384812553577752,Nebraska,Drake,4,3,0,1,NA,400912368,2016-12-06,
+191,2,0:00,1200,1200,Nicea Eliely Defensive Rebound.,33,32,1,0,0.5384812553577752,Nebraska,Drake,4,3,0,1,NA,400912368,2016-12-06,
+192,2,0:00,1200,1200,End of 2nd Quarter,33,32,1,24,0.5384812553577752,Nebraska,Drake,4,3,0,1,NA,400912368,2016-12-06,
+193,3,9:36,1176,1176,Lizzy Wendell missed Three Point Jumper.,33,32,1,0,0.5389743828911827,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+194,3,9:36,1176,1176,Esther Ramacieri Defensive Rebound.,33,32,1,1,0.5389743828911827,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+195,3,9:35,1175,1175,Foul on Sammie Bachrodt.,33,32,1,19,0.5389945451606561,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+196,3,9:16,1156,1156,Jessica Shepard missed Jumper.,33,32,1,0,0.539373673339962,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+197,3,9:16,1156,1156,Lizzy Wendell Defensive Rebound.,33,32,1,6,0.539373673339962,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+198,3,9:10,1150,1150,Becca Hittner Turnover.,33,32,1,15,0.5394922781991501,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+199,3,8:55,1135,1135,Jessica Shepard missed Jumper.,33,32,1,0,0.5397878641816826,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+200,3,8:55,1135,1135,Lizzy Wendell Defensive Rebound.,33,32,1,4,0.5397878641816826,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+201,3,8:51,1131,1131,Foul on Esther Ramacieri.,33,32,1,15,0.5398666785480776,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+202,3,8:36,1116,1116,Lizzy Wendell made Layup.,33,34,-1,15,0.45983670400635435,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Drake
+203,3,8:21,1101,1101,Nicea Eliely Turnover.,33,34,-1,1,0.4595366777620818,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+204,3,8:20,1100,1100,Sammie Bachrodt Steal.,33,34,-1,5,0.45951649875706374,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+205,3,8:15,1095,1095,Caitlin Ingle made Layup.,33,36,-3,27,0.3803432837089131,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Drake
+206,3,7:48,1068,1068,Jessica Shepard Turnover.,33,36,-3,9,0.37874487263453277,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+207,3,7:39,1059,1059,Lizzy Wendell missed Layup.,33,36,-3,0,0.37819250940431476,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+208,3,7:39,1059,1059,Drake Offensive Rebound.,33,36,-3,9,0.37819250940431476,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+209,3,7:30,1050,1050,Caitlin Ingle made Jumper.,33,38,-5,18,0.3030715999771012,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Drake
+210,3,7:12,1032,1032,Jessica Shepard made Jumper.,35,38,-3,12,0.3764573673210853,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Nebraska
+211,3,7:00,1020,1020,Lizzy Wendell Turnover.,35,38,-3,17,0.3756415481784224,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+212,3,6:43,1003,1003,Jasmine Cincore made Three Point Jumper. Assisted by Hannah Whitish.,38,38,0,16,0.5,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Nebraska
+213,3,6:27,987,987,Sara Rhine made Layup. Assisted by Caitlin Ingle.,38,40,-2,12,0.4144474456717601,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Drake
+214,3,6:15,975,975,Foul on Sara Rhine.,38,40,-2,0,0.4137884076695332,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+215,3,6:15,975,975,Allie Havers missed Free Throw.,38,40,-2,0,0.4137884076695332,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+216,3,6:15,975,975,Nebraska Deadball Team Rebound.,38,40,-2,0,0.4137884076695332,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+217,3,6:15,975,975,Allie Havers missed Free Throw.,38,40,-2,0,0.4137884076695332,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+218,3,6:15,975,975,Becca Jonas Defensive Rebound.,38,40,-2,8,0.4137884076695332,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+219,3,6:07,967,967,Becca Hittner made Three Point Jumper. Assisted by Caitlin Ingle.,38,43,-5,18,0.29411252752591643,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Drake
+220,3,5:49,949,949,Jessica Shepard made Jumper.,40,43,-3,10,0.37022500585082563,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Nebraska
+221,3,5:39,939,939,Sara Rhine made Jumper. Assisted by Caitlin Ingle.,40,45,-5,7,0.2909976609163312,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Drake
+222,3,5:32,932,932,Jessica Shepard missed Three Point Jumper.,40,45,-5,0,0.29028659880961627,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+223,3,5:32,932,932,Sara Rhine Defensive Rebound.,40,45,-5,13,0.29028659880961627,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+224,3,5:19,919,919,Lizzy Wendell made Jumper.,40,47,-7,15,0.2209381299321592,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Drake
+225,3,5:04,904,904,Maddie Simon made Three Point Jumper. Assisted by Hannah Whitish.,43,47,-4,15,0.326170321979489,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Nebraska
+226,3,4:49,889,889,Lizzy Wendell made Jumper. Assisted by Sammie Bachrodt.,43,49,-6,12,0.2504414586059869,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Drake
+227,3,4:37,877,877,Foul on Sammie Bachrodt.,43,49,-6,0,0.24926483413792822,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+228,3,4:37,877,877,Official TV Timeout,43,49,-6,21,0.24926483413792822,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+229,3,4:16,856,856,Maddie Simon Turnover.,43,49,-6,1,0.2471889418566717,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+230,3,4:15,855,855,Lizzy Wendell Steal.,43,49,-6,7,0.24708844632353327,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+231,3,4:08,848,848,Brenni Rose made Three Point Jumper. Assisted by Lizzy Wendell.,43,52,-9,15,0.1574887961562446,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Drake
+232,3,3:53,833,833,Foul on Caitlin Ingle.,43,52,-9,0,0.15580832312914358,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+233,3,3:53,833,833,Jessica Shepard made Free Throw.,44,52,-8,0,0.18212702044639134,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Nebraska
+234,3,3:53,833,833,Jessica Shepard made Free Throw.,45,52,-7,17,0.21177614223259433,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Nebraska
+235,3,3:36,816,816,Becca Hittner missed Jumper.,45,52,-7,0,0.20978381558252318,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+236,3,3:36,816,816,Jessica Shepard Defensive Rebound.,45,52,-7,12,0.20978381558252318,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+237,3,3:24,804,804,Nicea Eliely missed Three Point Jumper.,45,52,-7,0,0.20828151060371858,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+238,3,3:24,804,804,Becca Hittner Defensive Rebound.,45,52,-7,9,0.20828151060371858,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+239,3,3:15,795,795,Foul on Grace Mitchell.,45,52,-7,2,0.207092553724388,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+240,3,3:13,793,793,Becca Jonas made Jumper. Assisted by Caitlin Ingle.,45,54,-9,14,0.1508108314236703,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Drake
+241,3,2:59,779,779,Jessica Shepard made Three Point Jumper. Assisted by Jasmine Cincore.,48,54,-6,14,0.23819097329482172,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Nebraska
+242,3,2:45,765,765,Lizzy Wendell missed Layup.,48,54,-6,0,0.23612342956597387,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+243,3,2:45,765,765,Jessica Shepard Defensive Rebound.,48,54,-6,10,0.23612342956597387,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+244,3,2:35,755,755,Nicea Eliely made Jumper.,50,54,-4,22,0.31247145479630695,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Nebraska
+245,3,2:13,733,733,Becca Jonas made Three Point Jumper. Assisted by Becca Hittner.,50,57,-7,8,0.1969756381659148,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Drake
+246,3,2:05,725,725,Rylie Cascio Jensen missed Three Point Jumper.,50,57,-7,0,0.1954089270070518,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+247,3,2:05,725,725,Becca Hittner Defensive Rebound.,50,57,-7,18,0.1954089270070518,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+248,3,1:47,707,707,Lizzy Wendell made Jumper. Assisted by Caitlin Ingle.,50,59,-9,11,0.13635125666522974,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Drake
+249,3,1:36,696,696,Grace Mitchell missed Jumper.,50,59,-9,0,0.13463152108571327,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+250,3,1:36,696,696,Caitlin Ingle Defensive Rebound.,50,59,-9,5,0.13463152108571327,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+251,3,1:31,691,691,Lizzy Wendell Turnover.,50,59,-9,24,0.1338865683489727,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+252,3,1:07,667,667,Emily Wood missed Three Point Jumper.,50,59,-9,0,0.13051582673942588,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+253,3,1:07,667,667,Sammie Bachrodt Block.,50,59,-9,3,0.13051582673942588,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+254,3,1:04,664,664,Sammie Bachrodt Defensive Rebound.,50,59,-9,4,0.13010808651866035,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+255,3,1:00,660,660,Foul on Emily Wood.,50,59,-9,0,0.12956580804289292,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+256,3,1:00,660,660,Foul on Grace Mitchell.,50,59,-9,5,0.12956580804289292,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+257,3,0:55,655,655,Foul on Jasmine Cincore.,50,59,-9,0,0.1288881654291475,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+258,3,0:55,655,655,Caitlin Ingle made Free Throw.,50,60,-10,0,0.10686807313680194,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Drake
+259,3,0:55,655,655,Caitlin Ingle made Free Throw.,50,61,-11,8,0.08822900351404174,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,Drake
+260,3,0:47,647,647,Foul on Sammie Bachrodt.,50,61,-11,0,0.0872755325395686,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+261,3,0:47,647,647,Jessica Shepard missed Free Throw.,50,61,-11,0,0.0872755325395686,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+262,3,0:47,647,647,Nebraska Deadball Team Rebound.,50,61,-11,0,0.0872755325395686,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+263,3,0:47,647,647,Jessica Shepard missed Free Throw.,50,61,-11,0,0.0872755325395686,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+264,3,0:47,647,647,Becca Hittner Defensive Rebound.,50,61,-11,31,0.0872755325395686,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+265,3,0:16,616,616,Caitlin Ingle missed Three Point Jumper.,50,61,-11,0,0.08338421819450778,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+266,3,0:16,616,616,Jessica Shepard Defensive Rebound.,50,61,-11,16,0.08338421819450778,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+267,3,0:00,600,600,End of 3rd Quarter,50,61,-11,12,0.08114089109593305,Nebraska,Drake,5,4,0,0,NA,400912368,2016-12-06,
+268,4,9:48,588,588,Foul on Allie Havers.,50,61,-11,12,0.07930613559550806,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+269,4,9:36,576,576,Nicole Miller missed Three Point Jumper.,50,61,-11,0,0.07731824415364259,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+270,4,9:36,576,576,Becca Hittner Offensive Rebound.,50,61,-11,3,0.07731824415364259,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+271,4,9:33,573,573,Foul on Jessica Shepard.,50,61,-11,6,0.07679532158128036,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+272,4,9:27,567,567,Becca Jonas made Jumper.,50,63,-13,15,0.04940990950756811,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,Drake
+273,4,9:12,552,552,Jessica Shepard made Jumper. Assisted by Esther Ramacieri.,52,63,-11,15,0.07282096366893953,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,Nebraska
+274,4,8:57,537,537,Lizzy Wendell made Layup. Assisted by Becca Jonas.,52,65,-13,28,0.04489977124374683,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,Drake
+275,4,8:29,509,509,Nicea Eliely missed Jumper.,52,65,-13,0,0.041673154125885174,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+276,4,8:29,509,509,Caitlin Ingle Defensive Rebound.,52,65,-13,9,0.041673154125885174,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+277,4,8:20,500,500,Becca Hittner Turnover.,52,65,-13,14,0.04075213088885437,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+278,4,8:06,486,486,Foul on Nicea Eliely.,52,65,-13,0,0.03931656802879981,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+279,4,8:06,486,486,Nicea Eliely Turnover.,52,65,-13,29,0.03931656802879981,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+280,4,7:37,457,457,Caitlin Ingle Turnover.,52,65,-13,0,0.03596315277110392,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+281,4,7:37,457,457,Allie Havers Steal.,52,65,-13,13,0.03596315277110392,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+282,4,7:24,444,444,Jessica Shepard missed Jumper.,52,65,-13,0,0.03415726361756789,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+283,4,7:24,444,444,Sammie Bachrodt Defensive Rebound.,52,65,-13,22,0.03415726361756789,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+284,4,7:02,422,422,Sara Rhine made Layup. Assisted by Lizzy Wendell.,52,67,-15,6,0.01825334521393799,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,Drake
+285,4,6:56,416,416,Rylie Cascio Jensen missed Three Point Jumper.,52,67,-15,0,0.01763705248524452,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+286,4,6:56,416,416,Nicea Eliely Offensive Rebound.,52,67,-15,14,0.01763705248524452,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+287,4,6:42,402,402,Jessica Shepard made Jumper. Assisted by Rylie Cascio Jensen.,54,67,-13,15,0.027878491198774846,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,Nebraska
+288,4,6:27,387,387,Lizzy Wendell missed Three Point Jumper.,54,67,-13,0,0.026015982942180008,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+289,4,6:27,387,387,Nebraska Defensive Rebound.,54,67,-13,26,0.026015982942180008,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+290,4,6:01,361,361,Jessica Shepard Turnover.,54,67,-13,1,0.022862294121655566,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+291,4,6:00,360,360,Nicole Miller Steal.,54,67,-13,7,0.02273803068779123,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+292,4,5:53,353,353,Brenni Rose missed Three Point Jumper.,54,67,-13,0,0.02185615381448465,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+293,4,5:53,353,353,Jessica Shepard Defensive Rebound.,54,67,-13,8,0.02185615381448465,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+294,4,5:45,345,345,Allie Havers missed Jumper.,54,67,-13,0,0.020818626596324292,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+295,4,5:45,345,345,Sara Rhine Defensive Rebound.,54,67,-13,11,0.020818626596324292,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+296,4,5:34,334,334,Nicole Miller Turnover.,54,67,-13,24,0.01933326352445497,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+297,4,5:10,310,310,Foul on Mya Mertz.,54,67,-13,0,0.015858465032594166,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+298,4,5:10,310,310,Jessica Shepard made Free Throw.,55,67,-12,0,0.021657187804468507,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,Nebraska
+299,4,5:10,310,310,Jessica Shepard made Free Throw.,56,67,-11,10,0.02951265605203362,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,Nebraska
+300,4,5:00,300,300,Foul on Grace Mitchell.,56,67,-11,0,0.027866361375977984,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+301,4,5:00,300,300,Mya Mertz missed Free Throw.,56,67,-11,0,0.027866361375977984,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+302,4,5:00,300,300,Drake Deadball Team Rebound.,56,67,-11,0,0.027866361375977984,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+303,4,5:00,300,300,Mya Mertz missed Free Throw.,56,67,-11,0,0.027866361375977984,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+304,4,5:00,300,300,Brenni Rose Offensive Rebound.,56,67,-11,3,0.027866361375977984,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+305,4,4:57,297,297,Brenni Rose made Jumper.,56,69,-13,19,0.014636249678905163,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,Drake
+306,4,4:38,278,278,Grace Mitchell missed Layup.,56,69,-13,0,0.01463720119941548,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+307,4,4:38,278,278,Jessica Shepard Offensive Rebound.,56,69,-13,0,0.01463720119941548,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+308,4,4:38,278,278,Official TV Timeout,56,69,-13,10,0.01463720119941548,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+309,4,4:28,268,268,Jessica Shepard made Jumper.,58,69,-11,30,0.028353482159829985,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,Nebraska
+310,4,3:58,238,238,Brenni Rose made Layup. Assisted by Becca Hittner.,58,71,-13,15,0.016544207491324094,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,Drake
+311,4,3:43,223,223,Grace Mitchell made Jumper. Assisted by Jessica Shepard.,60,71,-11,9,0.02979696087974803,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,Nebraska
+312,4,3:34,214,214,Becca Jonas missed Jumper.,60,71,-11,0,0.028207148827152265,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+313,4,3:34,214,214,Jessica Shepard Block.,60,71,-11,0,0.028207148827152265,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+314,4,3:34,214,214,Drake Offensive Rebound.,60,71,-11,13,0.028207148827152265,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+315,4,3:21,201,201,Caitlin Ingle made Jumper. Assisted by Lizzy Wendell.,60,73,-13,10,0.01256711464287572,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,Drake
+316,4,3:11,191,191,Foul on Brenni Rose.,60,73,-13,4,0.01009290099062875,Nebraska,Drake,6,5,0,0,NA,400912368,2016-12-06,
+317,4,3:07,187,187,Foul on Sammie Bachrodt.,60,73,-13,0,0.009069354628397145,Nebraska,Drake,6,5,0,1,NA,400912368,2016-12-06,
+318,4,3:07,187,187,Jasmine Cincore made Free Throw.,61,73,-12,0,0.012962003666533582,Nebraska,Drake,6,5,0,1,NA,400912368,2016-12-06,Nebraska
+319,4,3:07,187,187,Jasmine Cincore made Free Throw.,62,73,-11,0,0.018494230653822673,Nebraska,Drake,6,5,0,1,NA,400912368,2016-12-06,Nebraska
+320,4,3:07,187,187,Drake  Timeout,62,73,-11,0,0.018494230653822673,Nebraska,Drake,6,4,0,1,NA,400912368,2016-12-06,
+321,4,3:07,187,187,Official TV Timeout,62,73,-11,15,0.018494230653822673,Nebraska,Drake,6,4,0,1,NA,400912368,2016-12-06,
+322,4,2:52,172,172,Sammie Bachrodt made Three Point Jumper. Assisted by Becca Jonas.,62,76,-14,12,0.00406717271418963,Nebraska,Drake,6,4,0,1,NA,400912368,2016-12-06,Drake
+323,4,2:40,160,160,Jessica Shepard made Layup. Assisted by Allie Havers.,64,76,-12,13,0.006440085299329203,Nebraska,Drake,6,4,0,1,NA,400912368,2016-12-06,Nebraska
+324,4,2:27,147,147,Caitlin Ingle made Three Point Jumper. Assisted by Sammie Bachrodt.,64,79,-15,17,0.0011396450930488426,Nebraska,Drake,6,4,0,1,NA,400912368,2016-12-06,Drake
+325,4,2:10,130,130,Jessica Shepard missed Jumper.,64,79,-15,0,5.593507244267798e-4,Nebraska,Drake,6,4,0,1,NA,400912368,2016-12-06,
+326,4,2:10,130,130,Sara Rhine Defensive Rebound.,64,79,-15,10,5.593507244267798e-4,Nebraska,Drake,6,4,0,1,NA,400912368,2016-12-06,
+327,4,2:00,120,120,Drake  Timeout,64,79,-15,7,3.4651880584156484e-4,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+328,4,1:53,113,113,Caitlin Ingle Turnover.,64,79,-15,0,2.401264320177177e-4,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+329,4,1:53,113,113,Foul on Lizzy Wendell.,64,79,-15,1,2.401264320177177e-4,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+330,4,1:52,112,112,Jessica Shepard missed Jumper.,64,79,-15,0,2.273444958392398e-4,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+331,4,1:52,112,112,Sara Rhine Block.,64,79,-15,3,2.273444958392398e-4,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+332,4,1:49,109,109,Nebraska Offensive Rebound.,64,79,-15,2,1.9224092592475065e-4,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+333,4,1:47,107,107,Esther Ramacieri Turnover.,64,79,-15,1,1.7137371195060866e-4,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+334,4,1:46,106,106,Lizzy Wendell Steal.,64,79,-15,4,1.6165190844887888e-4,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+335,4,1:42,102,102,Sara Rhine missed Jumper.,64,79,-15,0,1.2714552464122568e-4,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+336,4,1:42,102,102,Jasmine Cincore Block.,64,79,-15,0,1.2714552464122568e-4,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+337,4,1:42,102,102,Drake Offensive Rebound.,64,79,-15,6,1.2714552464122568e-4,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+338,4,1:36,96,96,Lizzy Wendell missed Jumper.,64,79,-15,0,8.690490446793626e-5,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+339,4,1:36,96,96,Esther Ramacieri Defensive Rebound.,64,79,-15,7,8.690490446793626e-5,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+340,4,1:29,89,89,Foul on Sammie Bachrodt.,64,79,-15,0,5.4537619698893014e-5,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+341,4,1:29,89,89,Jessica Shepard made Free Throw.,65,79,-14,0,1.0492838020872016e-4,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,Nebraska
+342,4,1:29,89,89,Jessica Shepard missed Free Throw.,65,79,-14,0,1.0492838020872016e-4,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+343,4,1:29,89,89,Jessica Shepard Offensive Rebound.,65,79,-14,6,1.0492838020872016e-4,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+344,4,1:23,83,83,Jasmine Cincore missed Jumper.,65,79,-14,0,7.163693709013856e-5,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+345,4,1:23,83,83,Becca Hittner Block.,65,79,-14,0,7.163693709013856e-5,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+346,4,1:23,83,83,Nicole Miller Defensive Rebound.,65,79,-14,0,7.163693709013856e-5,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+347,4,1:23,83,83,Foul on Jasmine Cincore.,65,79,-14,0,7.163693709013856e-5,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+348,4,1:23,83,83,Nicole Miller made Free Throw.,65,80,-15,0,3.6232054918598316e-5,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,Drake
+349,4,1:23,83,83,Nicole Miller made Free Throw.,65,81,-16,16,1.8324887759731866e-5,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,Drake
+350,4,1:07,67,67,Rylie Cascio Jensen missed Three Point Jumper.,65,81,-16,0,5.234372297964619e-6,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+351,4,1:07,67,67,Drake Defensive Rebound.,65,81,-16,1,5.234372297964619e-6,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+352,4,1:06,66,66,Caitlin Ingle Turnover.,65,81,-16,1,4.818650521195793e-6,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+353,4,1:05,65,65,Jessica Shepard Steal.,65,81,-16,3,4.4342326700577464e-6,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+354,4,1:02,62,62,Allie Havers made Jumper. Assisted by Jessica Shepard.,67,81,-14,0,1.6605946272677028e-5,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,Nebraska
+355,4,1:02,62,62,Foul on Sara Rhine.,67,81,-14,0,1.6605946272677028e-5,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,
+356,4,1:02,62,62,Allie Havers made Free Throw.,68,81,-13,5,3.6447205626089335e-5,Nebraska,Drake,6,3,0,1,NA,400912368,2016-12-06,Nebraska
+357,4,0:57,57,57,Foul on Jessica Shepard.,68,81,-13,7,2.5735712214067277e-5,Nebraska,Drake,6,3,0,0,NA,400912368,2016-12-06,
+358,4,0:50,50,50,Lizzy Wendell missed Free Throw.,68,81,-13,0,1.55563342816597e-5,Nebraska,Drake,6,3,0,0,NA,400912368,2016-12-06,
+359,4,0:50,50,50,Drake Deadball Team Rebound.,68,81,-13,13,1.55563342816597e-5,Nebraska,Drake,6,3,0,0,NA,400912368,2016-12-06,
+360,4,0:37,37,37,Lizzy Wendell made Free Throw.,68,82,-14,14,2.279029923739472e-6,Nebraska,Drake,6,3,0,0,NA,400912368,2016-12-06,Drake
+361,4,0:23,23,23,Jasmine Cincore missed Three Point Jumper.,68,82,-14,0,6.649099879008245e-7,Nebraska,Drake,6,3,0,0,NA,400912368,2016-12-06,
+362,4,0:23,23,23,Nebraska Offensive Rebound.,68,82,-14,3,6.649099879008245e-7,Nebraska,Drake,6,3,0,0,NA,400912368,2016-12-06,
+363,4,0:20,20,20,Jessica Shepard made Jumper. Assisted by Esther Ramacieri.,70,82,-12,0,4.0099078782919175e-6,Nebraska,Drake,6,3,0,0,NA,400912368,2016-12-06,Nebraska
+364,4,0:20,20,20,Lizzy Wendell made Layup.,70,84,-14,2,5.054271962612227e-7,Nebraska,Drake,6,3,0,0,NA,400912368,2016-12-06,Drake
+365,4,0:18,18,18,Allie Havers missed Jumper.,70,84,-14,0,4.19445135220716e-7,Nebraska,Drake,6,3,0,0,NA,400912368,2016-12-06,
+366,4,0:18,18,18,Nicole Miller Defensive Rebound.,70,84,-14,18,4.19445135220716e-7,Nebraska,Drake,6,3,0,0,NA,400912368,2016-12-06,
+367,4,0:00,0,0,End of Game,70,84,-14,0,2.4977275669152505e-122,Nebraska,Drake,6,3,0,0,NA,400912368,2016-12-06,

@@ -1,0 +1,372 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:46,2386,2386,Shatori Walker-Kimbrough missed Jumper.,0,0,0,0,0.5,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,NA
+2,1,9:46,2386,2386,Brionna Jones Offensive Rebound.,0,0,0,5,0.5,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+3,1,9:41,2381,2381,Brionna Jones Turnover.,0,0,0,19,0.5,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+4,1,9:22,2362,2362,Jasmine Brunson Turnover.,0,0,0,24,0.5,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+5,1,8:58,2338,2338,Shatori Walker-Kimbrough Turnover.,0,0,0,0,0.5,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+6,1,8:58,2338,2338,Taiye Bello Steal.,0,0,0,9,0.5,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+7,1,8:49,2329,2329,Kenisha Bell made Layup.,0,2,-2,11,0.4544521819541921,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Minnesota
+8,1,8:38,2318,2318,Kaila Charles missed Jumper.,0,2,-2,0,0.4542106699426587,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+9,1,8:38,2318,2318,Brionna Jones Offensive Rebound.,0,2,-2,2,0.4542106699426587,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+10,1,8:36,2316,2316,Foul on Taiye Bello.,0,2,-2,0,0.4541666112249718,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+11,1,8:36,2316,2316,Brionna Jones made Free Throw.,1,2,-1,0,0.47703496119500294,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+12,1,8:36,2316,2316,Brionna Jones made Free Throw.,2,2,0,14,0.5,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+13,1,8:22,2302,2302,Whitney Tinjum Turnover.,2,2,0,13,0.5,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+14,1,8:09,2289,2289,Shatori Walker-Kimbrough Turnover.,2,2,0,1,0.5,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+15,1,8:08,2288,2288,Carlie Wagner Steal.,2,2,0,8,0.5,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+16,1,8:00,2280,2280,Jasmine Brunson missed Three Point Jumper.,2,2,0,0,0.5,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+17,1,8:00,2280,2280,Shatori Walker-Kimbrough Defensive Rebound.,2,2,0,16,0.5,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+18,1,7:44,2264,2264,Shatori Walker-Kimbrough made Three Point Jumper. Assisted by Kristen Confroy.,5,2,3,24,0.5702310973753852,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+19,1,7:20,2240,2240,Kenisha Bell made Layup.,5,4,1,7,0.5238222592059711,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Minnesota
+20,1,7:13,2233,2233,Shatori Walker-Kimbrough made Jumper. Assisted by Destiny Slocum.,7,4,3,11,0.571273321427182,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+21,1,7:02,2222,2222,Whitney Tinjum missed Three Point Jumper.,7,4,3,0,0.5716454788876979,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+22,1,7:02,2222,2222,Maryland Defensive Rebound.,7,4,3,16,0.5716454788876979,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+23,1,6:46,2206,2206,Brionna Jones Turnover.,7,4,3,15,0.5721886558870166,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+24,1,6:31,2191,2191,Jasmine Brunson missed Jumper.,7,4,3,0,0.5726996284685788,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+25,1,6:31,2191,2191,Bryanna Fernstrom Offensive Rebound.,7,4,3,3,0.5726996284685788,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+26,1,6:28,2188,2188,Bryanna Fernstrom made Layup.,7,6,1,19,0.5244215939560287,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Minnesota
+27,1,6:09,2169,2169,Brionna Jones Turnover.,7,6,1,0,0.5246423096444954,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+28,1,6:09,2169,2169,Carlie Wagner Steal.,7,6,1,8,0.5246423096444954,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+29,1,6:01,2161,2161,Kenisha Bell missed Layup.,7,6,1,0,0.5247355256734755,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+30,1,6:01,2161,2161,Minnesota Offensive Rebound.,7,6,1,10,0.5247355256734755,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+31,1,5:51,2151,2151,Carlie Wagner missed Three Point Jumper.,7,6,1,0,0.524852394614474,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+32,1,5:51,2151,2151,Kaila Charles Defensive Rebound.,7,6,1,9,0.524852394614474,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+33,1,5:42,2142,2142,Kaila Charles made Jumper.,9,6,3,17,0.5743799751788942,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+34,1,5:25,2125,2125,Carlie Wagner missed Jumper.,9,6,3,0,0.5749688454359582,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+35,1,5:25,2125,2125,Joanna Hedstrom Offensive Rebound.,9,6,3,6,0.5749688454359582,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+36,1,5:19,2119,2119,Joanna Hedstrom Turnover.,9,6,3,0,0.5751775328694879,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+37,1,5:19,2119,2119,Kaila Charles Steal.,9,6,3,18,0.5751775328694879,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+38,1,5:01,2101,2101,Kristen Confroy made Three Point Jumper. Assisted by Brionna Jones.,12,6,6,29,0.6482060767000728,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+39,1,4:32,2072,2072,Bryanna Fernstrom missed Jumper.,12,6,6,0,0.6501137636418993,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+40,1,4:32,2072,2072,Kaila Charles Defensive Rebound.,12,6,6,9,0.6501137636418993,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+41,1,4:23,2063,2063,Brionna Jones made Layup. Assisted by Destiny Slocum.,14,6,8,20,0.6962592415938134,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+42,1,4:03,2043,2043,Foul on Ieshia Small.,14,6,8,0,0.6979103310201229,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+43,1,4:03,2043,2043,Official TV Timeout,14,6,8,0,0.6979103310201229,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+44,1,4:03,2043,2043,Jasmine Brunson made Free Throw.,14,7,7,0,0.6753965894173771,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Minnesota
+45,1,4:03,2043,2043,Jasmine Brunson made Free Throw.,14,8,6,22,0.65204151439172775,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Minnesota
+46,1,3:41,2021,2021,Shatori Walker-Kimbrough Turnover.,14,8,6,1,0.6535185752672347,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+47,1,3:40,2020,2020,Taiye Bello Steal.,14,8,6,13,0.6535860307094367,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+48,1,3:27,2007,2007,Kenisha Bell missed Jumper.,14,8,6,0,0.6544655436488609,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+49,1,3:27,2007,2007,Brianna Fraser Block.,14,8,6,7,0.6544655436488609,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+50,1,3:20,2000,2000,Brianna Fraser Defensive Rebound.,14,8,6,3,0.6549411613245076,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+51,1,3:17,1997,1997,Shatori Walker-Kimbrough made Layup.,16,8,8,19,0.7017501784950209,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+52,1,2:58,1978,1978,Carlie Wagner missed Jumper.,16,8,8,0,0.7033550285601399,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+53,1,2:58,1978,1978,Destiny Slocum Defensive Rebound.,16,8,8,6,0.7033550285601399,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+54,1,2:52,1972,1972,Brianna Fraser missed Layup.,16,8,8,0,0.7038642687059695,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+55,1,2:52,1972,1972,Kenisha Bell Defensive Rebound.,16,8,8,7,0.7038642687059695,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+56,1,2:45,1965,1965,Kenisha Bell missed Layup.,16,8,8,0,0.7044599082716213,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+57,1,2:45,1965,1965,Maryland Defensive Rebound.,16,8,8,19,0.7044599082716213,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+58,1,2:26,1946,1946,Destiny Slocum missed Three Point Jumper.,16,8,8,0,0.7060851561468031,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+59,1,2:26,1946,1946,Whitney Tinjum Defensive Rebound.,16,8,8,8,0.7060851561468031,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+60,1,2:18,1938,1938,Jasmine Brunson made Layup.,16,10,6,25,0.6592206134409122,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Minnesota
+61,1,1:53,1913,1913,Brionna Jones made Jumper. Assisted by Shatori Walker-Kimbrough.,18,10,8,16,0.7089292806445184,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+62,1,1:37,1897,1897,Jasmine Brunson made Jumper.,18,12,6,15,0.662093961918089,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Minnesota
+63,1,1:22,1882,1882,Brionna Jones made Layup. Assisted by Brianna Fraser.,20,12,8,17,0.7115859568767073,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+64,1,1:05,1865,1865,Jasmine Brunson missed Jumper.,20,12,8,0,0.7130387267073933,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+65,1,1:05,1865,1865,Brionna Jones Block.,20,12,8,2,0.7130387267073933,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+66,1,1:03,1863,1863,Brionna Jones Defensive Rebound.,20,12,8,14,0.713209608651688,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+67,1,0:49,1849,1849,Shatori Walker-Kimbrough made Three Point Jumper.,23,12,11,25,0.77914859432399,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+68,1,0:24,1824,1824,Joanna Hedstrom missed Jumper.,23,12,11,0,0.7816280443049733,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+69,1,0:24,1824,1824,Brianna Fraser Defensive Rebound.,23,12,11,8,0.7816280443049733,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+70,1,0:16,1816,1816,Destiny Slocum Turnover.,23,12,11,3,0.7824223583867437,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+71,1,0:13,1813,1813,Whitney Tinjum Steal.,23,12,11,5,0.7827204451186134,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+72,1,0:08,1808,1808,Carlie Wagner Turnover.,23,12,11,2,0.78321757889951,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+73,1,0:06,1806,1806,Destiny Slocum Steal.,23,12,11,2,0.7834165577309141,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+74,1,0:04,1804,1804,Destiny Slocum made Three Point Jumper.,26,12,14,4,0.8372387196363044,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+75,1,0:00,1800,1800,End of 1st Quarter,26,12,14,9,0.8376460423399844,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+76,2,9:51,1791,1791,Kenisha Bell Turnover.,26,12,14,10,0.8385629012897765,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+77,2,9:41,1781,1781,Foul on Bryanna Fernstrom.,26,12,14,0,0.8395826266124243,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+78,2,9:41,1781,1781,Brionna Jones missed Free Throw.,26,12,14,0,0.8395826266124243,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+79,2,9:41,1781,1781,Maryland Deadball Team Rebound.,26,12,14,0,0.8395826266124243,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+80,2,9:41,1781,1781,Brionna Jones made Free Throw.,27,12,15,14,0.8548736788993105,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+81,2,9:27,1767,1767,Carlie Wagner Turnover.,27,12,15,1,0.8562847005640258,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+82,2,9:26,1766,1766,Brionna Jones Steal.,27,12,15,7,0.8563855889183491,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+83,2,9:19,1759,1759,Foul on Bryanna Fernstrom.,27,12,15,0,0.8570922801432416,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+84,2,9:19,1759,1759,Kaila Charles made Free Throw.,28,12,16,0,0.8711055818820468,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+85,2,9:19,1759,1759,Kaila Charles made Free Throw.,29,12,17,20,0.8839308480702308,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+86,2,8:59,1739,1739,Jasmine Brunson missed Jumper.,29,12,17,0,0.8858505387196908,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+87,2,8:59,1739,1739,Brionna Jones Defensive Rebound.,29,12,17,20,0.8858505387196908,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+88,2,8:39,1719,1719,Foul on Whitney Tinjum.,29,12,17,0,0.8877757456927446,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+89,2,8:39,1719,1719,Brionna Jones made Free Throw.,30,12,18,0,0.899337046475019,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+90,2,8:39,1719,1719,Brionna Jones made Free Throw.,31,12,19,12,0.9098282808417768,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+91,2,8:27,1707,1707,Kenisha Bell missed Layup.,31,12,19,0,0.9108940804066511,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+92,2,8:27,1707,1707,Kaila Charles Defensive Rebound.,31,12,19,8,0.9108940804066511,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+93,2,8:19,1699,1699,Kristen Confroy made Layup. Assisted by Shatori Walker-Kimbrough.,33,12,21,2,0.9294989385318606,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+94,2,8:17,1697,1697,Minnesota  Timeout,33,12,21,19,0.929658884436611,Maryland,Minnesota,3,4,1,0,NA,400914439,2017-02-26,
+95,2,7:58,1678,1678,Kenisha Bell missed Jumper.,33,12,21,0,0.9311636677525627,Maryland,Minnesota,3,4,1,0,NA,400914439,2017-02-26,
+96,2,7:58,1678,1678,Kenisha Bell Offensive Rebound.,33,12,21,3,0.9311636677525627,Maryland,Minnesota,3,4,1,0,NA,400914439,2017-02-26,
+97,2,7:55,1675,1675,Foul on Shatori Walker-Kimbrough.,33,12,21,1,0.9313954462221685,Maryland,Minnesota,3,4,1,0,NA,400914439,2017-02-26,
+98,2,7:54,1674,1674,Joanna Hedstrom Turnover.,33,12,21,12,0.9314723304077949,Maryland,Minnesota,3,4,1,0,NA,400914439,2017-02-26,
+99,2,7:42,1662,1662,Shatori Walker-Kimbrough missed Jumper.,33,12,21,0,0.932381077903604,Maryland,Minnesota,3,4,1,0,NA,400914439,2017-02-26,
+100,2,7:42,1662,1662,Carlie Wagner Defensive Rebound.,33,12,21,22,0.932381077903604,Maryland,Minnesota,3,4,1,0,NA,400914439,2017-02-26,
+101,2,7:20,1640,1640,Carlie Wagner missed Jumper.,33,12,21,0,0.9339884788729405,Maryland,Minnesota,3,4,1,0,NA,400914439,2017-02-26,
+102,2,7:20,1640,1640,Brionna Jones Defensive Rebound.,33,12,21,28,0.9339884788729405,Maryland,Minnesota,3,4,1,0,NA,400914439,2017-02-26,
+103,2,6:52,1612,1612,Kaila Charles Turnover.,33,12,21,2,0.9359490065738955,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+104,2,6:50,1610,1610,Jasmine Brunson Steal.,33,12,21,4,0.9360862194301789,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+105,2,6:46,1606,1606,Whitney Tinjum made Layup. Assisted by Jasmine Brunson.,33,14,19,21,0.9192857153099612,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,Minnesota
+106,2,6:25,1585,1585,Destiny Slocum missed Three Point Jumper.,33,14,19,0,0.9208865710990525,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+107,2,6:25,1585,1585,Shatori Walker-Kimbrough Offensive Rebound.,33,14,19,4,0.9208865710990525,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+108,2,6:21,1581,1581,Brionna Jones made Layup. Assisted by Shatori Walker-Kimbrough.,35,14,21,15,0.938046534285777,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,Maryland
+109,2,6:06,1566,1566,Kenisha Bell missed Jumper.,35,14,21,0,0.9390459549080019,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+110,2,6:06,1566,1566,Kristen Confroy Defensive Rebound.,35,14,21,6,0.9390459549080019,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+111,2,6:00,1560,1560,Kaila Charles Block.,35,14,21,18,0.9394443178946574,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+112,2,5:42,1542,1542,Shatori Walker-Kimbrough made Three Point Jumper. Assisted by Destiny Slocum.,38,14,24,35,0.9592073216668017,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,Maryland
+113,2,5:07,1507,1507,Taiye Bello made Layup. Assisted by Jasmine Brunson.,38,16,22,15,0.94974653408484,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,Minnesota
+114,2,4:52,1492,1492,Shatori Walker-Kimbrough made Jumper. Assisted by Destiny Slocum.,40,16,24,10,0.9618769918205281,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,Maryland
+115,2,4:42,1482,1482,Jasmine Brunson made Three Point Jumper. Assisted by Carlie Wagner.,40,19,21,8,0.9446726209563026,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,Minnesota
+116,2,4:34,1474,1474,Shatori Walker-Kimbrough missed Jumper.,40,19,21,0,0.9452245188091877,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+117,2,4:34,1474,1474,Kenisha Bell Defensive Rebound.,40,19,21,7,0.9452245188091877,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+118,2,4:27,1467,1467,Kenisha Bell Turnover.,40,19,21,1,0.9457112106451732,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+119,2,4:26,1466,1466,Shatori Walker-Kimbrough Steal.,40,19,21,4,0.9457810415227748,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+120,2,4:22,1462,1462,Kaila Charles made Layup. Assisted by Destiny Slocum.,42,19,23,21,0.9584038485348301,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,Maryland
+121,2,4:01,1441,1441,Taiye Bello missed Layup.,42,19,23,0,0.9596672507015163,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+122,2,4:01,1441,1441,Brionna Jones Defensive Rebound.,42,19,23,7,0.9596672507015163,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+123,2,3:54,1434,1434,Foul on Whitney Tinjum.,42,19,23,0,0.9600742473126133,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+124,2,3:54,1434,1434,Kaila Charles made Free Throw.,43,19,24,0,0.9650495961254405,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,Maryland
+125,2,3:54,1434,1434,Kaila Charles made Free Throw.,44,19,25,13,0.9694246868360159,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,Maryland
+126,2,3:41,1421,1421,Palma Kaposi Turnover.,44,19,25,2,0.9700390548395439,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+127,2,3:39,1419,1419,Brianna Fraser Steal.,44,19,25,9,0.9701313324200712,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+128,2,3:30,1410,1410,Kaila Charles missed Layup.,44,19,25,0,0.9705399225122803,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+129,2,3:30,1410,1410,Bryanna Fernstrom Defensive Rebound.,44,19,25,7,0.9705399225122803,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+130,2,3:23,1403,1403,Jasmine Brunson missed Jumper.,44,19,25,0,0.9708507791690804,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+131,2,3:23,1403,1403,Kaila Charles Defensive Rebound.,44,19,25,13,0.9708507791690804,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+132,2,3:10,1390,1390,Destiny Slocum missed Three Point Jumper.,44,19,25,0,0.9714141286376131,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+133,2,3:10,1390,1390,Kaila Charles Offensive Rebound.,44,19,25,5,0.9714141286376131,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+134,2,3:05,1385,1385,Foul on Jasmine Brunson.,44,19,25,0,0.9716265821611674,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+135,2,3:05,1385,1385,Kaila Charles made Free Throw.,45,19,26,0,0.9752739146028377,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,Maryland
+136,2,3:05,1385,1385,Kaila Charles made Free Throw.,46,19,27,9,0.9784627842313977,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,Maryland
+137,2,2:56,1376,1376,Bryanna Fernstrom missed Layup.,46,19,27,0,0.9787741498893364,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+138,2,2:56,1376,1376,Bryanna Fernstrom Offensive Rebound.,46,19,27,3,0.9787741498893364,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+139,2,2:53,1373,1373,Bryanna Fernstrom made Layup.,46,21,25,10,0.9721284895434072,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,Minnesota
+140,2,2:43,1363,1363,Shatori Walker-Kimbrough missed Jumper.,46,21,25,0,0.9725395940786775,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+141,2,2:43,1363,1363,Blair Watson Offensive Rebound.,46,21,25,4,0.9725395940786775,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+142,2,2:39,1359,1359,Stephanie Jones missed Layup.,46,21,25,0,0.9727025574186248,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+143,2,2:39,1359,1359,Kenisha Bell Defensive Rebound.,46,21,25,11,0.9727025574186248,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+144,2,2:28,1348,1348,Joanna Hedstrom missed Jumper.,46,21,25,0,0.9731472704286601,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+145,2,2:28,1348,1348,Maryland Defensive Rebound.,46,21,25,18,0.9731472704286601,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+146,2,2:10,1330,1330,Shatori Walker-Kimbrough Turnover.,46,21,25,1,0.9738677242148184,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+147,2,2:09,1329,1329,Kenisha Bell Steal.,46,21,25,3,0.973907598852229,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+148,2,2:06,1326,1326,Kenisha Bell made Layup.,46,23,23,0,0.9655915062751345,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,Minnesota
+149,2,2:06,1326,1326,Foul on Shatori Walker-Kimbrough.,46,23,23,0,0.9655915062751345,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+150,2,2:06,1326,1326,Kenisha Bell made Free Throw.,46,24,22,27,0.9604357778735648,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,Minnesota
+151,2,1:39,1299,1299,Destiny Slocum missed Three Point Jumper.,46,24,22,0,0.9618643159685766,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+152,2,1:39,1299,1299,Brionna Jones Offensive Rebound.,46,24,22,2,0.9618643159685766,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+153,2,1:37,1297,1297,Foul on Jasmine Brunson.,46,24,22,0,0.9619710109969565,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+154,2,1:37,1297,1297,Brionna Jones made Free Throw.,47,24,23,0,0.966993352818531,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,Maryland
+155,2,1:37,1297,1297,Brionna Jones missed Free Throw.,47,24,23,0,0.966993352818531,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+156,2,1:37,1297,1297,Blair Watson Offensive Rebound.,47,24,23,5,0.966993352818531,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+157,2,1:32,1292,1292,Blair Watson Turnover.,47,24,23,1,0.967237314264456,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+158,2,1:31,1291,1291,Bryanna Fernstrom Steal.,47,24,23,9,0.9672862257432415,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,
+159,2,1:22,1282,1282,Kenisha Bell made Three Point Jumper.,47,27,20,3,0.9506020859356016,Maryland,Minnesota,3,4,0,0,NA,400914439,2017-02-26,Minnesota
+160,2,1:19,1279,1279,Maryland  Timeout,47,27,20,7,0.9507960475267719,Maryland,Minnesota,3,3,0,1,NA,400914439,2017-02-26,
+161,2,1:12,1272,1272,Foul on Joanna Hedstrom.,47,27,20,0,0.9512517068857487,Maryland,Minnesota,3,3,0,1,NA,400914439,2017-02-26,
+162,2,1:12,1272,1272,Brionna Jones made Free Throw.,48,27,21,0,0.9576966154137314,Maryland,Minnesota,3,3,0,1,NA,400914439,2017-02-26,Maryland
+163,2,1:12,1272,1272,Brionna Jones made Free Throw.,49,27,22,10,0.963322309666438,Maryland,Minnesota,3,3,0,1,NA,400914439,2017-02-26,Maryland
+164,2,1:02,1262,1262,Joanna Hedstrom made Three Point Jumper. Assisted by Kenisha Bell.,49,30,19,17,0.9445980111994353,Maryland,Minnesota,3,3,0,1,NA,400914439,2017-02-26,Minnesota
+165,2,0:45,1245,1245,Blair Watson missed Three Point Jumper.,49,30,19,0,0.9458432219668154,Maryland,Minnesota,3,3,0,1,NA,400914439,2017-02-26,
+166,2,0:45,1245,1245,Kenisha Bell Defensive Rebound.,49,30,19,19,0.9458432219668154,Maryland,Minnesota,3,3,0,1,NA,400914439,2017-02-26,
+167,2,0:26,1226,1226,Bryanna Fernstrom Turnover.,49,30,19,21,0.9472838780941016,Maryland,Minnesota,3,3,0,1,NA,400914439,2017-02-26,
+168,2,0:05,1205,1205,Stephanie Jones made Jumper. Assisted by Blair Watson.,51,30,21,5,0.9619447945386531,Maryland,Minnesota,3,3,0,0,NA,400914439,2017-02-26,Maryland
+169,2,0:00,1200,1200,End of 2nd Quarter,51,30,21,7,0.9622696665818932,Maryland,Minnesota,3,3,0,0,NA,400914439,2017-02-26,
+170,3,9:53,1193,1193,Foul on Destiny Slocum.,51,30,21,0,0.9627147547498034,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+171,3,9:53,1193,1193,Kenisha Bell made Free Throw.,51,31,20,0,0.9567416188611031,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Minnesota
+172,3,9:53,1193,1193,Kenisha Bell made Free Throw.,51,32,19,1,0.949861416149451,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Minnesota
+173,3,9:52,1192,1192,Destiny Slocum Turnover.,51,32,19,25,0.949936696965759,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+174,3,9:27,1167,1167,Whitney Tinjum missed Three Point Jumper.,51,32,19,0,0.9517490443817433,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+175,3,9:27,1167,1167,Kaila Charles Defensive Rebound.,51,32,19,11,0.9517490443817433,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+176,3,9:16,1156,1156,Shatori Walker-Kimbrough made Jumper.,53,32,21,0,0.9649144690324137,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+177,3,9:16,1156,1156,Foul on Taiye Bello.,53,32,21,0,0.9649144690324137,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+178,3,9:16,1156,1156,Shatori Walker-Kimbrough made Free Throw.,54,32,22,12,0.9698826042549277,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+179,3,9:04,1144,1144,Kenisha Bell missed Jumper.,54,32,22,0,0.9704894402009896,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+180,3,9:04,1144,1144,Brionna Jones Block.,54,32,22,3,0.9704894402009896,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+181,3,9:01,1141,1141,Kristen Confroy Defensive Rebound.,54,32,22,6,0.9706389602383602,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+182,3,8:55,1135,1135,Destiny Slocum Turnover.,54,32,22,4,0.9709357315223287,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+183,3,8:51,1131,1131,Kenisha Bell made Layup.,54,34,20,24,0.9606879598394169,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Minnesota
+184,3,8:27,1107,1107,Kaila Charles Turnover.,54,34,20,12,0.9621103675925745,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+185,3,8:15,1095,1095,Kenisha Bell missed Layup.,54,34,20,0,0.9628145330205383,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+186,3,8:15,1095,1095,Kristen Confroy Defensive Rebound.,54,34,20,7,0.9628145330205383,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+187,3,8:08,1088,1088,Kaila Charles missed Jumper.,54,34,20,0,0.9632248548878618,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+188,3,8:08,1088,1088,Carlie Wagner Defensive Rebound.,54,34,20,12,0.9632248548878618,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+189,3,7:56,1076,1076,Jasmine Brunson missed Jumper.,54,34,20,0,0.9639294535317978,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+190,3,7:56,1076,1076,Taiye Bello Offensive Rebound.,54,34,20,5,0.9639294535317978,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+191,3,7:51,1071,1071,Taiye Bello missed Jumper.,54,34,20,0,0.9642240063562586,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+192,3,7:51,1071,1071,Brionna Jones Block.,54,34,20,1,0.9642240063562586,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+193,3,7:50,1070,1070,Brionna Jones Defensive Rebound.,54,34,20,11,0.96428301196965,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+194,3,7:39,1059,1059,Brionna Jones Turnover.,54,34,20,0,0.9649346853587307,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+195,3,7:39,1059,1059,Foul on Brionna Jones.,54,34,20,17,0.9649346853587307,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+196,3,7:22,1042,1042,Jasmine Brunson Turnover.,54,34,20,5,0.9659542064037315,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+197,3,7:17,1037,1037,Kristen Confroy Turnover.,54,34,20,6,0.9662576486619104,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+198,3,7:11,1031,1031,Joanna Hedstrom Turnover.,54,34,20,7,0.9666242593860095,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+199,3,7:04,1024,1024,Kristen Confroy Turnover.,54,34,20,1,0.9670556544237864,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+200,3,7:03,1023,1023,Kenisha Bell Steal.,54,34,20,10,0.9671176229034372,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+201,3,6:53,1013,1013,Whitney Tinjum missed Jumper.,54,34,20,0,0.9677422644283833,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+202,3,6:53,1013,1013,Brionna Jones Defensive Rebound.,54,34,20,5,0.9677422644283833,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+203,3,6:48,1008,1008,Shatori Walker-Kimbrough missed Layup.,54,34,20,0,0.9680581155932202,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+204,3,6:48,1008,1008,Bryanna Fernstrom Defensive Rebound.,54,34,20,20,0.9680581155932202,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+205,3,6:28,988,988,Kenisha Bell Turnover.,54,34,20,3,0.9693469120118315,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+206,3,6:25,985,985,Brionna Jones Steal.,54,34,20,1,0.9695438997427324,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+207,3,6:24,984,984,Brionna Jones made Layup. Assisted by Shatori Walker-Kimbrough.,56,34,22,0,0.9783115899548421,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+208,3,6:24,984,984,Foul on Whitney Tinjum.,56,34,22,0,0.9783115899548421,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+209,3,6:24,984,984,Brionna Jones made Free Throw.,57,34,23,22,0.9816964810658217,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+210,3,6:02,962,962,Taiye Bello missed Jumper.,57,34,23,0,0.9827139067507396,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+211,3,6:02,962,962,Minnesota Offensive Rebound.,57,34,23,4,0.9827139067507396,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+212,3,5:58,958,958,Palma Kaposi missed Jumper.,57,34,23,0,0.9828871770700097,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+213,3,5:58,958,958,Kaila Charles Block.,57,34,23,4,0.9828871770700097,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+214,3,5:54,954,954,Kaila Charles Defensive Rebound.,57,34,23,4,0.9830550110534796,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+215,3,5:50,950,950,Foul on Carlie Wagner.,57,34,23,0,0.9832177279406692,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+216,3,5:50,950,950,Shatori Walker-Kimbrough missed Free Throw.,57,34,23,0,0.9832177279406692,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+217,3,5:50,950,950,Maryland Deadball Team Rebound.,57,34,23,0,0.9832177279406692,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+218,3,5:50,950,950,Shatori Walker-Kimbrough made Free Throw.,58,34,24,11,0.9859014727380888,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+219,3,5:39,939,939,Palma Kaposi made Layup. Assisted by Carlie Wagner.,58,36,22,17,0.980514213227172,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Minnesota
+220,3,5:22,922,922,Brionna Jones missed Layup.,58,36,22,0,0.9811925176463347,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+221,3,5:22,922,922,Brionna Jones Offensive Rebound.,58,36,22,2,0.9811925176463347,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+222,3,5:20,920,920,Foul on Palma Kaposi.,58,36,22,11,0.9812680185338492,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+223,3,5:09,909,909,Shatori Walker-Kimbrough made Three Point Jumper. Assisted by Destiny Slocum.,61,36,25,17,0.9892659990684927,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+224,3,4:52,892,892,Kenisha Bell missed Jumper.,61,36,25,0,0.9896584542817397,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+225,3,4:52,892,892,Kristen Confroy Defensive Rebound.,61,36,25,12,0.9896584542817397,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+226,3,4:40,880,880,Kaila Charles missed Layup.,61,36,25,0,0.9899229262574659,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+227,3,4:40,880,880,Whitney Tinjum Defensive Rebound.,61,36,25,16,0.9899229262574659,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+228,3,4:24,864,864,Jasmine Brunson missed Three Point Jumper.,61,36,25,0,0.990266729851416,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+229,3,4:24,864,864,Whitney Tinjum Offensive Rebound.,61,36,25,0,0.990266729851416,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+230,3,4:24,864,864,Whitney Tinjum missed Layup.,61,36,25,0,0.990266729851416,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+231,3,4:24,864,864,Minnesota Offensive Rebound.,61,36,25,0,0.990266729851416,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+232,3,4:24,864,864,Official TV Timeout,61,36,25,0,0.990266729851416,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+233,3,4:24,864,864,Kaila Charles Block.,61,36,25,2,0.990266729851416,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+234,3,4:22,862,862,Bryanna Fernstrom made Layup. Assisted by Kenisha Bell.,61,38,23,0,0.9860290772279123,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Minnesota
+235,3,4:22,862,862,Foul on Kiah Gillespie.,61,38,23,0,0.9860290772279123,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+236,3,4:22,862,862,Bryanna Fernstrom made Free Throw.,61,39,22,14,0.9832362955759908,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Minnesota
+237,3,4:08,848,848,Foul on Bryanna Fernstrom.,61,39,22,0,0.9836880863312895,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+238,3,4:08,848,848,Kaila Charles missed Free Throw.,61,39,22,0,0.9836880863312895,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+239,3,4:08,848,848,Maryland Deadball Team Rebound.,61,39,22,0,0.9836880863312895,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+240,3,4:08,848,848,Kaila Charles made Free Throw.,62,39,23,11,0.9864235624344336,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+241,3,3:57,837,837,Foul on Kristen Confroy.,62,39,23,0,0.9867368577472452,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+242,3,3:57,837,837,Jasmine Brunson made Free Throw.,62,40,22,0,0.9840473431583895,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Minnesota
+243,3,3:57,837,837,Jasmine Brunson missed Free Throw.,62,40,22,0,0.9840473431583895,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+244,3,3:57,837,837,Kaila Charles Defensive Rebound.,62,40,22,23,0.9840473431583895,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+245,3,3:34,814,814,Kristen Confroy missed Three Point Jumper.,62,40,22,0,0.9848245186970349,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+246,3,3:34,814,814,Kenisha Bell Defensive Rebound.,62,40,22,7,0.9848245186970349,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+247,3,3:27,807,807,Foul on Destiny Slocum.,62,40,22,0,0.9850707512816511,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+248,3,3:27,807,807,Kenisha Bell made Free Throw.,62,41,21,0,0.9819954877367064,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Minnesota
+249,3,3:27,807,807,Kenisha Bell made Free Throw.,62,42,20,19,0.9783007074060207,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Minnesota
+250,3,3:08,788,788,Destiny Slocum made Jumper.,64,42,22,22,0.9857680669677477,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+251,3,2:46,766,766,Kenisha Bell Turnover.,64,42,22,1,0.9866359587252571,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+252,3,2:45,765,765,Kiah Gillespie Steal.,64,42,22,3,0.9866770630363918,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+253,3,2:42,762,762,Kiah Gillespie made Layup. Assisted by Shatori Walker-Kimbrough.,66,42,24,24,0.9910451120568191,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+254,3,2:18,738,738,Carlie Wagner missed Three Point Jumper.,66,42,24,0,0.9918159182490993,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+255,3,2:18,738,738,Whitney Tinjum Offensive Rebound.,66,42,24,1,0.9918159182490993,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+256,3,2:17,737,737,Foul on Kiah Gillespie.,66,42,24,0,0.9918492283741238,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+257,3,2:17,737,737,Whitney Tinjum missed Free Throw.,66,42,24,0,0.9918492283741238,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+258,3,2:17,737,737,Minnesota Deadball Team Rebound.,66,42,24,0,0.9918492283741238,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+259,3,2:17,737,737,Whitney Tinjum made Free Throw.,66,43,23,19,0.9900619602693055,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Minnesota
+260,3,1:58,718,718,Stephanie Jones made Layup. Assisted by Brionna Jones.,68,43,25,16,0.9938429549244744,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+261,3,1:42,702,702,Carlie Wagner missed Jumper.,68,43,25,0,0.9942135446919519,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+262,3,1:42,702,702,Taiye Bello Offensive Rebound.,68,43,25,4,0.9942135446919519,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+263,3,1:38,698,698,Taiye Bello missed Layup.,68,43,25,0,0.9942975096832363,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+264,3,1:38,698,698,Brionna Jones Defensive Rebound.,68,43,25,7,0.9942975096832363,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+265,3,1:31,691,691,Destiny Slocum Turnover.,68,43,25,13,0.9944377502923161,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+266,3,1:18,678,678,Joanna Hedstrom Turnover.,68,43,25,14,0.9946799417283905,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+267,3,1:04,664,664,Shatori Walker-Kimbrough missed Three Point Jumper.,68,43,25,0,0.9949222042962851,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+268,3,1:04,664,664,Kenisha Bell Defensive Rebound.,68,43,25,9,0.9949222042962851,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+269,3,0:55,655,655,Carlie Wagner missed Three Point Jumper.,68,43,25,0,0.9950718338098914,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+270,3,0:55,655,655,Taiye Bello Offensive Rebound.,68,43,25,3,0.9950718338098914,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+271,3,0:52,652,652,Taiye Bello made Layup.,68,45,23,11,0.9925532917880233,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Minnesota
+272,3,0:41,641,641,Shatori Walker-Kimbrough made Layup.,70,45,25,20,0.9953006169561752,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+273,3,0:21,621,621,Carlie Wagner missed Three Point Jumper.,70,45,25,0,0.9956301908264599,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+274,3,0:21,621,621,Shatori Walker-Kimbrough Defensive Rebound.,70,45,25,10,0.9956301908264599,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+275,3,0:11,611,611,Stephanie Jones made Layup.,72,45,27,11,0.9972843143955528,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Maryland
+276,3,0:00,600,600,Whitney Tinjum missed Three Point Jumper.,72,45,27,0,0.9974191407242069,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+277,3,0:00,600,600,Maryland Deadball Team Rebound.,72,45,27,0,0.9974191407242069,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+278,3,0:00,600,600,End of 3rd Quarter,72,45,27,23,0.9974191407242069,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+279,4,9:37,577,577,Foul on Stephanie Jones.,72,45,27,0,0.9977165426461994,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+280,4,9:37,577,577,Bryanna Fernstrom made Free Throw.,72,46,26,0,0.9971415167492056,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,Minnesota
+281,4,9:37,577,577,Bryanna Fernstrom made Free Throw.,72,47,25,28,0.9964222056702208,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,Minnesota
+282,4,9:09,549,549,Ieshia Small Turnover.,72,47,25,24,0.996990090426379,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+283,4,8:45,525,525,Kenisha Bell Turnover.,72,47,25,2,0.9973939954665179,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+284,4,8:43,523,523,Stephanie Jones Steal.,72,47,25,6,0.9974215366909538,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+285,4,8:37,517,517,Brionna Jones missed Layup.,72,47,25,0,0.9975004834485011,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+286,4,8:37,517,517,Brionna Jones Offensive Rebound.,72,47,25,2,0.9975004834485011,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+287,4,8:35,515,515,Foul on Taiye Bello.,72,47,25,0,0.9975257456469732,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+288,4,8:35,515,515,Brionna Jones missed Free Throw.,72,47,25,0,0.9975257456469732,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+289,4,8:35,515,515,Maryland Deadball Team Rebound.,72,47,25,0,0.9975257456469732,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+290,4,8:35,515,515,Brionna Jones missed Free Throw.,72,47,25,0,0.9975257456469732,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+291,4,8:35,515,515,Maryland Offensive Rebound.,72,47,25,1,0.9975257456469732,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+292,4,8:34,514,514,Brionna Jones Turnover.,72,47,25,1,0.9975382068282553,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+293,4,8:33,513,513,Kenisha Bell Steal.,72,47,25,11,0.9975505625306783,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+294,4,8:22,502,502,Foul on Shatori Walker-Kimbrough.,72,47,25,0,0.9976810756342882,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+295,4,8:22,502,502,Carlie Wagner missed Free Throw.,72,47,25,0,0.9976810756342882,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+296,4,8:22,502,502,Minnesota Deadball Team Rebound.,72,47,25,0,0.9976810756342882,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+297,4,8:22,502,502,Carlie Wagner made Free Throw.,72,48,24,16,0.9970463542572289,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,Minnesota
+298,4,8:06,486,486,Brionna Jones made Layup. Assisted by Shatori Walker-Kimbrough.,74,48,26,0,0.9983278939975512,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,Maryland
+299,4,8:06,486,486,Foul on Carlie Wagner.,74,48,26,0,0.9983278939975512,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+300,4,8:06,486,486,Brionna Jones made Free Throw.,75,48,27,13,0.9986918651370678,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,Maryland
+301,4,7:53,473,473,Foul on Brionna Jones.,75,48,27,6,0.9987910924897628,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+302,4,7:47,467,467,Bryanna Fernstrom missed Jumper.,75,48,27,0,0.9988384778562535,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+303,4,7:47,467,467,Kaila Charles Defensive Rebound.,75,48,27,14,0.9988384778562535,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+304,4,7:33,453,453,Destiny Slocum missed Three Point Jumper.,75,48,27,0,0.9989546082432889,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+305,4,7:33,453,453,Maryland Offensive Rebound.,75,48,27,8,0.9989546082432889,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+306,4,7:25,445,445,Shatori Walker-Kimbrough missed Three Point Jumper.,75,48,27,0,0.9990247934317856,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+307,4,7:25,445,445,Stephanie Jones Offensive Rebound.,75,48,27,5,0.9990247934317856,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+308,4,7:20,440,440,Foul on Bryanna Fernstrom.,75,48,27,9,0.999070023851239,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+309,4,7:11,431,431,Stephanie Jones missed Jumper.,75,48,27,0,0.999153728568886,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+310,4,7:11,431,431,Palma Kaposi Defensive Rebound.,75,48,27,14,0.999153728568886,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+311,4,6:57,417,417,Kenisha Bell Turnover.,75,48,27,11,0.9992727999520696,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+312,4,6:46,406,406,Kiah Gillespie made Jumper. Assisted by Destiny Slocum.,77,48,29,12,0.9996220598352917,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,Maryland
+313,4,6:34,394,394,Kenisha Bell missed Jumper.,77,48,29,0,0.999667058214869,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+314,4,6:34,394,394,Kiah Gillespie Block.,77,48,29,3,0.999667058214869,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+315,4,6:31,391,391,Kaila Charles Defensive Rebound.,77,48,29,7,0.9996774368118527,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,
+316,4,6:24,384,384,Kiah Gillespie made Jumper. Assisted by Destiny Slocum.,79,48,31,3,0.9998288967024197,Maryland,Minnesota,5,5,0,0,NA,400914439,2017-02-26,Maryland
+317,4,6:21,381,381,Minnesota  Timeout,79,48,31,13,0.9998347344325058,Maryland,Minnesota,4,5,1,0,NA,400914439,2017-02-26,
+318,4,6:08,368,368,Taiye Bello missed Jumper.,79,48,31,0,0.9998586889525872,Maryland,Minnesota,4,5,1,0,NA,400914439,2017-02-26,
+319,4,6:08,368,368,Brionna Jones Defensive Rebound.,79,48,31,9,0.9998586889525872,Maryland,Minnesota,4,5,1,0,NA,400914439,2017-02-26,
+320,4,5:59,359,359,Brionna Jones made Layup. Assisted by Kiah Gillespie.,81,48,33,22,0.9999295623477369,Maryland,Minnesota,4,5,1,0,NA,400914439,2017-02-26,Maryland
+321,4,5:37,337,337,Carlie Wagner missed Layup.,81,48,33,0,0.9999504471489393,Maryland,Minnesota,4,5,1,0,NA,400914439,2017-02-26,
+322,4,5:37,337,337,Taiye Bello Offensive Rebound.,81,48,33,2,0.9999504471489393,Maryland,Minnesota,4,5,1,0,NA,400914439,2017-02-26,
+323,4,5:35,335,335,Foul on Brionna Jones.,81,48,33,0,0.9999522088775047,Maryland,Minnesota,4,5,1,0,NA,400914439,2017-02-26,
+324,4,5:35,335,335,Taiye Bello made Free Throw.,81,49,32,0,0.9999353946964686,Maryland,Minnesota,4,5,1,0,NA,400914439,2017-02-26,Minnesota
+325,4,5:35,335,335,Taiye Bello made Free Throw.,81,50,31,18,0.9999126653584532,Maryland,Minnesota,4,5,1,0,NA,400914439,2017-02-26,Minnesota
+326,4,5:17,317,317,Shatori Walker-Kimbrough made Three Point Jumper. Assisted by Blair Watson.,84,50,34,23,0.9999757505504189,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,Maryland
+327,4,4:54,294,294,Whitney Tinjum Turnover.,84,50,34,0,0.9999837930586642,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,
+328,4,4:54,294,294,Official TV Timeout,84,50,34,23,0.9999837930586642,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,
+329,4,4:31,271,271,Blair Watson Turnover.,84,50,34,22,0.9999824938052578,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,
+330,4,4:09,249,249,Foul on Blair Watson.,84,50,34,0,0.9999782893408462,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,
+331,4,4:09,249,249,Whitney Tinjum made Free Throw.,84,51,33,0,0.9999702267731486,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,Minnesota
+332,4,4:09,249,249,Whitney Tinjum missed Free Throw.,84,51,33,0,0.9999702267731486,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,
+333,4,4:09,249,249,Brionna Jones Defensive Rebound.,84,51,33,8,0.9999702267731486,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,
+334,4,4:01,241,241,Blair Watson missed Jumper.,84,51,33,0,0.9999688554791931,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,
+335,4,4:01,241,241,Bryanna Fernstrom Block.,84,51,33,2,0.9999688554791931,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,
+336,4,3:59,239,239,Bryanna Fernstrom Defensive Rebound.,84,51,33,8,0.9999686853700566,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,
+337,4,3:51,231,231,Whitney Tinjum missed Jumper.,84,51,33,0,0.9999689573595197,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,
+338,4,3:51,231,231,Shatori Walker-Kimbrough Block.,84,51,33,2,0.9999689573595197,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,
+339,4,3:49,229,229,Whitney Tinjum Offensive Rebound.,84,51,33,3,0.9999692975958121,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,
+340,4,3:46,226,226,Foul on Brionna Jones.,84,51,33,0,0.9999700300512279,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,
+341,4,3:46,226,226,Kenisha Bell made Free Throw.,84,52,32,0,0.9999589086038676,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,Minnesota
+342,4,3:46,226,226,Kenisha Bell made Free Throw.,84,53,31,23,0.999943660368582,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,Minnesota
+343,4,3:23,203,203,Foul on Bryanna Fernstrom.,84,53,31,2,0.9999671184990365,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,
+344,4,3:21,201,201,Kiah Gillespie made Jumper. Assisted by Ieshia Small.,86,53,33,17,0.9999845503662588,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,Maryland
+345,4,3:04,184,184,Carlie Wagner made Layup.,86,55,31,14,0.9999886616625893,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,Minnesota
+346,4,2:50,170,170,Kiah Gillespie missed Jumper.,86,55,31,0,0.9999955199098388,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,
+347,4,2:50,170,170,Carlie Wagner Block.,86,55,31,0,0.9999955199098388,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,
+348,4,2:50,170,170,Maryland Offensive Rebound.,86,55,31,3,0.9999955199098388,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,
+349,4,2:47,167,167,Kiah Gillespie made Jumper.,88,55,33,22,0.9999983746462517,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,Maryland
+350,4,2:25,145,145,Taiye Bello Turnover.,88,55,33,2,0.999999717253066,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,
+351,4,2:23,143,143,Stephanie Jones Steal.,88,55,33,9,0.9999997626022441,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,
+352,4,2:14,134,134,Blair Watson made Three Point Jumper. Assisted by Ieshia Small.,91,55,36,23,0.9999999759664749,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,Maryland
+353,4,1:51,111,111,Carlie Wagner made Jumper.,91,57,34,7,0.999999995129259,Maryland,Minnesota,4,5,0,0,NA,400914439,2017-02-26,Minnesota
+354,4,1:44,104,104,Maryland  Timeout,91,57,34,8,0.9999999980529811,Maryland,Minnesota,4,4,0,1,NA,400914439,2017-02-26,
+355,4,1:36,96,96,Brianna Fraser missed Jumper.,91,57,34,0,0.9999999993759022,Maryland,Minnesota,4,4,0,1,NA,400914439,2017-02-26,
+356,4,1:36,96,96,Joanna Hedstrom Defensive Rebound.,91,57,34,16,0.9999999993759022,Maryland,Minnesota,4,4,0,1,NA,400914439,2017-02-26,
+357,4,1:20,80,80,Carlie Wagner missed Jumper.,91,57,34,0,0.9999999999465907,Maryland,Minnesota,4,4,0,1,NA,400914439,2017-02-26,
+358,4,1:20,80,80,Blair Watson Block.,91,57,34,3,0.9999999999465907,Maryland,Minnesota,4,4,0,1,NA,400914439,2017-02-26,
+359,4,1:17,77,77,Ieshia Small Defensive Rebound.,91,57,34,3,0.9999999999671207,Maryland,Minnesota,4,4,0,1,NA,400914439,2017-02-26,
+360,4,1:14,74,74,Jenna Staiti made Layup. Assisted by Ieshia Small.,93,57,36,18,0.9999999999953028,Maryland,Minnesota,4,4,0,1,NA,400914439,2017-02-26,Maryland
+361,4,0:56,56,56,Carlie Wagner missed Jumper.,93,57,36,0,0.9999999999998395,Maryland,Minnesota,4,4,0,1,NA,400914439,2017-02-26,
+362,4,0:56,56,56,Jessie Edwards Offensive Rebound.,93,57,36,3,0.9999999999998395,Maryland,Minnesota,4,4,0,1,NA,400914439,2017-02-26,
+363,4,0:53,53,53,Foul on Brianna Fraser.,93,57,36,0,0.9999999999999113,Maryland,Minnesota,4,4,0,1,NA,400914439,2017-02-26,
+364,4,0:53,53,53,Jessie Edwards made Free Throw.,93,58,35,0,0.9999999999997957,Maryland,Minnesota,4,4,0,1,NA,400914439,2017-02-26,Minnesota
+365,4,0:53,53,53,Jessie Edwards missed Free Throw.,93,58,35,0,0.9999999999997957,Maryland,Minnesota,4,4,0,1,NA,400914439,2017-02-26,
+366,4,0:53,53,53,Brianna Fraser Defensive Rebound.,93,58,35,17,0.9999999999997957,Maryland,Minnesota,4,4,0,1,NA,400914439,2017-02-26,
+367,4,0:36,36,36,Jenna Staiti missed Jumper.,93,58,35,0,0.9999999999999937,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+368,4,0:36,36,36,Ieshia Small Offensive Rebound.,93,58,35,9,0.9999999999999937,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+369,4,0:27,27,27,Blair Watson Turnover.,93,58,35,10,0.9999999999999991,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,
+370,4,0:17,17,17,Palma Kaposi made Layup.,93,60,33,17,0.9999999999999992,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,Minnesota
+371,4,0:00,0,0,End of Game,93,60,33,0,1,Maryland,Minnesota,4,4,0,0,NA,400914439,2017-02-26,

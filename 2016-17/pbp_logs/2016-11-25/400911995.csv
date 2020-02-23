@@ -1,0 +1,337 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:50,2390,2390,Adrienne Motley made Jumper.,0,0,0,27,0.5,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,NA
+2,1,9:23,2363,2363,Jazmin Boyd missed Jumper.,2,0,2,0,0.5448106339192909,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+3,1,9:23,2363,2363,Miami Defensive Rebound.,2,0,2,21,0.5448106339192909,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+4,1,9:02,2342,2342,Jessica Thomas missed Jumper.,2,0,2,0,0.5452642352579568,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+5,1,9:02,2342,2342,Adrienne Motley Offensive Rebound.,2,0,2,6,0.5452642352579568,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+6,1,8:56,2336,2336,Jessica Thomas missed Jumper.,2,0,2,0,0.5453948652273468,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+7,1,8:56,2336,2336,Shakyla Hill Defensive Rebound.,2,0,2,6,0.5453948652273468,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+8,1,8:50,2330,2330,Shakyla Hill made Layup.,2,2,0,13,0.5,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Grambling
+9,1,8:37,2317,2317,Erykah Davenport made Layup. Assisted by Adrienne Motley.,4,2,2,27,0.5458113538505914,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+10,1,8:10,2290,2290,Jazmine Torian missed Jumper.,4,2,2,0,0.5464100314401936,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+11,1,8:10,2290,2290,Keyona Hayes Defensive Rebound.,4,2,2,8,0.5464100314401936,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+12,1,8:02,2282,2282,Keyona Hayes missed Layup.,4,2,2,0,0.546588823501246,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+13,1,8:02,2282,2282,Miami Offensive Rebound.,4,2,2,14,0.546588823501246,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+14,1,7:48,2268,2268,Adrienne Motley Turnover.,4,2,2,0,0.5469031240173988,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+15,1,7:48,2268,2268,Shakyla Hill Steal.,4,2,2,0,0.5469031240173988,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+16,1,7:48,2268,2268,Foul on Adrienne Motley.,4,2,2,17,0.5469031240173988,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+17,1,7:31,2251,2251,Jazmin Boyd missed Three Point Jumper.,4,2,2,0,0.5472870146485976,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+18,1,7:31,2251,2251,Shakyla Hill Offensive Rebound.,4,2,2,5,0.5472870146485976,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+19,1,7:26,2246,2246,Foul on Erykah Davenport.,4,2,2,0,0.5474003565203939,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+20,1,7:26,2246,2246,Jazmine Torian made Free Throw.,4,3,1,0,0.5237536683071837,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Grambling
+21,1,7:26,2246,2246,Jazmine Torian made Free Throw.,4,4,0,10,0.5,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Grambling
+22,1,7:16,2236,2236,Foul on Monisha Neal.,4,4,0,0,0.5,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+23,1,7:16,2236,2236,Erykah Davenport made Free Throw.,5,4,1,0,0.5238680596240756,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+24,1,7:16,2236,2236,Erykah Davenport made Free Throw.,6,4,2,17,0.5476275884961723,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+25,1,6:59,2219,2219,Bre'nae Andrews Turnover.,6,4,2,10,0.5480154318654642,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+26,1,6:49,2209,2209,Adrienne Motley made Three Point Jumper. Assisted by Keyanna Harris.,9,4,5,25,0.6186800819551501,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+27,1,6:24,2184,2184,Jazmin Boyd missed Three Point Jumper.,9,4,5,0,0.6200478087639829,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+28,1,6:24,2184,2184,Keyona Hayes Defensive Rebound.,9,4,5,27,0.6200478087639829,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+29,1,5:57,2157,2157,Foul on Erykah Davenport.,9,4,5,0,0.621530851403237,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+30,1,5:57,2157,2157,Erykah Davenport Turnover.,9,4,5,12,0.621530851403237,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+31,1,5:45,2145,2145,Bre'nae Andrews missed Three Point Jumper.,9,4,5,0,0.6221931767692984,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+32,1,5:45,2145,2145,Shakyla Hill Offensive Rebound.,9,4,5,3,0.6221931767692984,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+33,1,5:42,2142,2142,Shakyla Hill Turnover.,9,4,5,2,0.6223591232279481,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+34,1,5:40,2140,2140,Khaila Prather Steal.,9,4,5,11,0.6224698374899826,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+35,1,5:29,2129,2129,Adrienne Motley missed Jumper.,9,4,5,0,0.6230799858828722,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+36,1,5:29,2129,2129,Khaila Prather Offensive Rebound.,9,4,5,5,0.6230799858828722,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+37,1,5:24,2124,2124,Keyanna Harris missed Jumper.,9,4,5,0,0.6233580267190334,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+38,1,5:24,2124,2124,Keyanna Harris Offensive Rebound.,9,4,5,3,0.6233580267190334,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+39,1,5:21,2121,2121,Keyanna Harris made Layup.,11,4,7,20,0.669594696121205,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+40,1,5:01,2101,2101,Jazmine Torian missed Layup.,11,4,7,0,0.6710689256534279,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+41,1,5:01,2101,2101,Keyona Hayes Defensive Rebound.,11,4,7,5,0.6710689256534279,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+42,1,4:56,2096,2096,Adrienne Motley missed Layup.,11,4,7,0,0.6714388290764349,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+43,1,4:56,2096,2096,Jazmin Boyd Defensive Rebound.,11,4,7,10,0.6714388290764349,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+44,1,4:46,2086,2086,Jazmine Torian Turnover.,11,4,7,1,0.6721803323511845,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+45,1,4:45,2085,2085,Keyanna Harris Steal.,11,4,7,5,0.6722546097895448,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+46,1,4:40,2080,2080,Jessica Thomas missed Layup.,11,4,7,0,0.6726263510029253,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+47,1,4:40,2080,2080,Keyona Hayes Offensive Rebound.,11,4,7,2,0.6726263510029253,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+48,1,4:38,2078,2078,Keyona Hayes missed Layup.,11,4,7,0,0.6727752144096473,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+49,1,4:38,2078,2078,Bre'nae Andrews Defensive Rebound.,11,4,7,6,0.6727752144096473,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+50,1,4:32,2072,2072,Shakyla Hill missed Jumper.,11,4,7,0,0.6732223864442471,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+51,1,4:32,2072,2072,Keyanna Harris Defensive Rebound.,11,4,7,28,0.6732223864442471,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+52,1,4:04,2044,2044,Khaila Prather Turnover.,11,4,7,0,0.6753212475019915,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+53,1,4:04,2044,2044,Official TV Timeout,11,4,7,25,0.6753212475019915,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+54,1,3:39,2019,2019,Jazmine Torian made Jumper.,11,6,5,25,0.6293155057529783,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Grambling
+55,1,3:14,1994,1994,Adrienne Motley missed Three Point Jumper.,11,6,5,0,0.6307727484864845,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+56,1,3:14,1994,1994,Bre'nae Andrews Defensive Rebound.,11,6,5,11,0.6307727484864845,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+57,1,3:03,1983,1983,Shakyla Hill made Layup.,11,8,3,16,0.5800518843991641,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Grambling
+58,1,2:47,1967,1967,Khaila Prather made Layup. Assisted by Adrienne Motley.,13,8,5,7,0.6323660128229186,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+59,1,2:40,1960,1960,Monisha Neal Turnover.,13,8,5,1,0.6327825453354079,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+60,1,2:39,1959,1959,Jessica Thomas Steal.,13,8,5,4,0.6328421697502168,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+61,1,2:35,1955,1955,Adrienne Motley made Jumper.,15,8,7,25,0.6821434911499636,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+62,1,2:10,1930,1930,Shakyla Hill made Jumper.,15,10,5,9,0.6345846834451611,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Grambling
+63,1,2:01,1921,1921,Keyona Hayes Turnover.,15,10,5,0,0.6351289570773369,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+64,1,2:01,1921,1921,Foul on Keyona Hayes.,15,10,5,18,0.6351289570773369,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+65,1,1:43,1903,1903,Jazmine Torian made Jumper. Assisted by Monisha Neal.,15,12,3,12,0.5830685655315789,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Grambling
+66,1,1:31,1891,1891,Jessica Thomas missed Three Point Jumper.,15,12,3,0,0.5835239631200413,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+67,1,1:31,1891,1891,Monisha Neal Defensive Rebound.,15,12,3,6,0.5835239631200413,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+68,1,1:25,1885,1885,Shakyla Hill Turnover.,15,12,3,12,0.5837516499530961,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+69,1,1:13,1873,1873,Shaneese Bailey made Jumper.,17,12,5,6,0.6380201681050249,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+70,1,1:07,1867,1867,Grambling  Timeout,17,12,5,9,0.6383814194564776,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+71,1,0:58,1858,1858,Monisha Neal missed Jumper.,17,12,5,0,0.6389237403033098,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+72,1,0:58,1858,1858,Grambling Offensive Rebound.,17,12,5,11,0.6389237403033098,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+73,1,0:47,1847,1847,Aliah Kennedy missed Jumper.,17,12,5,0,0.6395876388398287,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+74,1,0:47,1847,1847,Shaneese Bailey Defensive Rebound.,17,12,5,5,0.6395876388398287,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+75,1,0:42,1842,1842,Keyanna Harris missed Jumper.,17,12,5,0,0.6398899152090476,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+76,1,0:42,1842,1842,Keyanna Harris Offensive Rebound.,17,12,5,9,0.6398899152090476,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+77,1,0:33,1833,1833,Nigia Greene missed Three Point Jumper.,17,12,5,0,0.6404349925531321,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+78,1,0:33,1833,1833,Khaila Prather Offensive Rebound.,17,12,5,3,0.6404349925531321,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+79,1,0:30,1830,1830,Foul on Aliah Kennedy.,17,12,5,0,0.6406170009471788,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+80,1,0:30,1830,1830,Khaila Prather made Free Throw.,18,12,6,0,0.6667787788147785,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,Miami
+81,1,0:30,1830,1830,Khaila Prather made Free Throw.,19,12,7,17,0.6919518667519139,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,Miami
+82,1,0:13,1813,1813,Shakyla Hill missed Jumper.,19,12,7,0,0.6932925685200251,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+83,1,0:13,1813,1813,Monisha Neal Offensive Rebound.,19,12,7,7,0.6932925685200251,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+84,1,0:06,1806,1806,Monisha Neal missed Jumper.,19,12,7,0,0.6938467914995062,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+85,1,0:06,1806,1806,Chantiara Lewis Offensive Rebound.,19,12,7,5,0.6938467914995062,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+86,1,0:01,1801,1801,Chantiara Lewis made Layup.,19,14,5,0,0.6423867885703662,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,Grambling
+87,1,0:01,1801,1801,Jessica Thomas made Three Point Jumper.,22,14,8,1,0.7185300377446387,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,Miami
+88,1,0:00,1800,1800,End of 1st Quarter,19,14,5,19,0.6424482088636343,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+89,2,9:41,1781,1781,Jazmine Torian Turnover.,22,14,8,2,0.7202669646735935,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+90,2,9:39,1779,1779,Shaneese Bailey Steal.,22,14,8,5,0.7204415047527449,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+91,2,9:34,1774,1774,Shaneese Bailey Turnover.,22,14,8,3,0.7208786025463384,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+92,2,9:31,1771,1771,Jazmin Boyd Steal.,22,14,8,2,0.721141392411683,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+93,2,9:29,1769,1769,Monisha Neal missed Jumper.,22,14,8,0,0.721316814693141,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+94,2,9:29,1769,1769,Shaneese Bailey Defensive Rebound.,22,14,8,21,0.721316814693141,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+95,2,9:08,1748,1748,Sarah Mortensen made Layup. Assisted by Jessica Thomas.,24,14,10,12,0.7685791668528735,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+96,2,8:56,1736,1736,Bre'nae Andrews missed Three Point Jumper.,24,14,10,0,0.7697671150754282,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+97,2,8:56,1736,1736,Khaila Prather Defensive Rebound.,24,14,10,19,0.7697671150754282,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+98,2,8:37,1717,1717,Foul on Monisha Neal.,24,14,10,4,0.7716655923618526,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+99,2,8:33,1713,1713,Sarah Mortensen missed Jumper.,24,14,10,0,0.772068263713593,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+100,2,8:33,1713,1713,Grambling Defensive Rebound.,24,14,10,6,0.772068263713593,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+101,2,8:27,1707,1707,Jazmine Torian Turnover.,24,14,10,16,0.7726743544115835,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+102,2,8:11,1691,1691,Nigia Greene made Layup.,26,14,12,29,0.8144709536274173,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+103,2,7:42,1662,1662,Jazmine Torian missed Jumper.,26,14,12,0,0.8174767654948838,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+104,2,7:42,1662,1662,Keyona Hayes Defensive Rebound.,26,14,12,15,0.8174767654948838,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+105,2,7:27,1647,1647,Keyona Hayes made Layup. Assisted by Adrienne Motley.,28,14,14,15,0.8533338873669566,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+106,2,7:12,1632,1632,Grambling  Timeout,28,14,14,0,0.8547802330326097,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+107,2,7:12,1632,1632,Official TV Timeout,28,14,14,23,0.8547802330326097,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+108,2,6:49,1609,1609,Shakyla Hill missed Jumper.,28,14,14,0,0.856953258741769,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+109,2,6:49,1609,1609,Sarah Mortensen Defensive Rebound.,28,14,14,9,0.856953258741769,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+110,2,6:40,1600,1600,Nigia Greene made Three Point Jumper. Assisted by Sarah Mortensen.,31,14,17,18,0.8986369518058981,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,Miami
+111,2,6:22,1582,1582,Shakyla Hill made Layup.,31,16,15,13,0.8743729963625001,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,Grambling
+112,2,6:09,1569,1569,Adrienne Motley missed Three Point Jumper.,31,16,15,0,0.8755451795882135,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+113,2,6:09,1569,1569,Miami Offensive Rebound.,31,16,15,9,0.8755451795882135,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+114,2,6:00,1560,1560,Shaneese Bailey made Layup.,33,16,17,0,0.9019862819680895,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,Miami
+115,2,6:00,1560,1560,Foul on Chantiara Lewis.,33,16,17,0,0.9019862819680895,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+116,2,6:00,1560,1560,Shaneese Bailey missed Free Throw.,33,16,17,0,0.9019862819680895,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+117,2,6:00,1560,1560,Sarah Mortensen Offensive Rebound.,33,16,17,3,0.9019862819680895,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+118,2,5:57,1557,1557,Sarah Mortensen missed Jumper.,33,16,17,0,0.9022367467921834,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+119,2,5:57,1557,1557,Shakyla Hill Defensive Rebound.,33,16,17,25,0.9022367467921834,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+120,2,5:32,1532,1532,Jazmin Boyd missed Three Point Jumper.,33,16,17,0,0.9043321888497643,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+121,2,5:32,1532,1532,Jazmine Torian Offensive Rebound.,33,16,17,5,0.9043321888497643,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+122,2,5:27,1527,1527,Jazmine Torian made Layup.,33,18,15,11,0.8793570257773553,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,Grambling
+123,2,5:16,1516,1516,Nigia Greene missed Three Point Jumper.,33,18,15,0,0.8803719895025963,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+124,2,5:16,1516,1516,Bre'nae Andrews Defensive Rebound.,33,18,15,4,0.8803719895025963,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+125,2,5:12,1512,1512,Foul on Sarah Mortensen.,33,18,15,22,0.8807436530906089,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+126,2,4:50,1490,1490,Jazmine Torian missed Jumper.,33,18,15,0,0.8828175343150388,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+127,2,4:50,1490,1490,Keyona Hayes Block.,33,18,15,2,0.8828175343150388,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+128,2,4:48,1488,1488,Jazmine Torian Offensive Rebound.,33,18,15,2,0.8830088755163462,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+129,2,4:46,1486,1486,Jazmine Torian Turnover.,33,18,15,1,0.8832007313594694,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+130,2,4:45,1485,1485,Keyanna Harris Steal.,33,18,15,4,0.8832968555642521,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+131,2,4:41,1481,1481,Keyanna Harris made Jumper.,35,18,17,18,0.9087234026773174,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,Miami
+132,2,4:23,1463,1463,Shakyla Hill made Jumper.,35,20,15,23,0.8854473941413994,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,Grambling
+133,2,4:00,1440,1440,Keyona Hayes missed Jumper.,35,20,15,0,0.8877543591256535,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+134,2,4:00,1440,1440,Sarah Mortensen Offensive Rebound.,35,20,15,3,0.8877543591256535,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+135,2,3:57,1437,1437,Sarah Mortensen made Jumper.,37,20,17,15,0.9127029010930625,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,Miami
+136,2,3:42,1422,1422,Foul on Keyanna Harris.,37,20,17,0,0.9140073371721711,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+137,2,3:42,1422,1422,Shakyla Hill missed Free Throw.,37,20,17,0,0.9140073371721711,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+138,2,3:42,1422,1422,Grambling Deadball Team Rebound.,37,20,17,0,0.9140073371721711,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+139,2,3:42,1422,1422,Shakyla Hill missed Free Throw.,37,20,17,0,0.9140073371721711,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+140,2,3:42,1422,1422,Keyanna Harris Defensive Rebound.,37,20,17,19,0.9140073371721711,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+141,2,3:23,1403,1403,Sarah Mortensen made Jumper.,39,20,19,19,0.9348909231013864,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,Miami
+142,2,3:04,1384,1384,Jazmine Torian missed Three Point Jumper.,39,20,19,0,0.9362336594428111,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+143,2,3:04,1384,1384,Adrienne Motley Defensive Rebound.,39,20,19,3,0.9362336594428111,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+144,2,3:01,1381,1381,Foul on Shakyla Hill.,39,20,19,17,0.9364418650551913,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+145,2,2:44,1364,1364,Zada Williams made Layup. Assisted by Jessica Thomas.,41,20,21,11,0.9523538477435194,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,Miami
+146,2,2:33,1353,1353,Kiana Jones missed Three Point Jumper.,41,20,21,0,0.9529918230360059,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+147,2,2:33,1353,1353,Keyanna Harris Defensive Rebound.,41,20,21,12,0.9529918230360059,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+148,2,2:21,1341,1341,Jessica Thomas missed Three Point Jumper.,41,20,21,0,0.9536828544629374,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+149,2,2:21,1341,1341,Zada Williams Offensive Rebound.,41,20,21,5,0.9536828544629374,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+150,2,2:16,1336,1336,Zada Williams made Layup.,43,20,23,24,0.9651098360338675,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,Miami
+151,2,1:52,1312,1312,Monisha Neal missed Jumper.,43,20,23,0,0.966266278765704,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+152,2,1:52,1312,1312,Keyanna Harris Defensive Rebound.,43,20,23,9,0.966266278765704,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+153,2,1:43,1303,1303,Zada Williams made Layup. Assisted by Keyanna Harris.,45,20,25,3,0.9749445406680112,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,Miami
+154,2,1:40,1300,1300,Miami  Timeout,45,20,25,17,0.9750646514772857,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,
+155,2,1:23,1283,1283,Kiana Jones missed Three Point Jumper.,45,20,25,0,0.9757494993804277,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,
+156,2,1:23,1283,1283,Serena-Lynn Geldof Block.,45,20,25,3,0.9757494993804277,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,
+157,2,1:20,1280,1280,Zada Williams Defensive Rebound.,45,20,25,2,0.9758712915402575,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,
+158,2,1:18,1278,1278,Zada Williams Turnover.,45,20,25,15,0.9759526713317904,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,
+159,2,1:03,1263,1263,Takerra Parsons missed Jumper.,45,20,25,0,0.9765683492483256,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,
+160,2,1:03,1263,1263,Serena-Lynn Geldof Defensive Rebound.,45,20,25,10,0.9765683492483256,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,
+161,2,0:53,1253,1253,Adrienne Motley Turnover.,45,20,25,15,0.976984771529654,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,
+162,2,0:38,1238,1238,Jazmine Torian made Layup.,45,22,23,17,0.9699618724004831,Miami,Grambling,3,3,0,0,NA,400911995,2016-11-25,Grambling
+163,2,0:21,1221,1221,Adrienne Motley missed Jumper.,45,22,23,0,0.9708656952431388,Miami,Grambling,3,3,0,0,NA,400911995,2016-11-25,
+164,2,0:21,1221,1221,Jazmine Torian Defensive Rebound.,45,22,23,20,0.9708656952431388,Miami,Grambling,3,3,0,0,NA,400911995,2016-11-25,
+165,2,0:01,1201,1201,Monisha Neal made Jumper.,45,24,21,1,0.9622051709243387,Miami,Grambling,3,3,0,0,NA,400911995,2016-11-25,Grambling
+166,2,0:00,1200,1200,End of 2nd Quarter,45,24,21,5,0.9622696665818932,Miami,Grambling,3,3,0,0,NA,400911995,2016-11-25,
+167,3,9:55,1195,1195,Adrienne Motley missed Three Point Jumper.,45,24,21,0,0.9625886979967033,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+168,3,9:55,1195,1195,Keyanna Harris Offensive Rebound.,45,24,21,27,0.9625886979967033,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+169,3,9:28,1168,1168,Adrienne Motley made Jumper.,47,24,23,21,0.973604239453997,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+170,3,9:07,1147,1147,Shakyla Hill missed Jumper.,47,24,23,0,0.9745770899209643,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+171,3,9:07,1147,1147,Miami Defensive Rebound.,47,24,23,19,0.9745770899209643,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+172,3,8:48,1128,1128,Adrienne Motley made Three Point Jumper. Assisted by Jessica Thomas.,50,24,26,17,0.9846496345007621,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+173,3,8:31,1111,1111,Jazmine Torian missed Jumper.,50,24,26,0,0.9851737486730114,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+174,3,8:31,1111,1111,Erykah Davenport Block.,50,24,26,2,0.9851737486730114,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+175,3,8:29,1109,1109,Jazmine Torian Offensive Rebound.,50,24,26,2,0.9852346805199533,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+176,3,8:27,1107,1107,Jazmine Torian missed Jumper.,50,24,26,0,0.9852954871847955,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+177,3,8:27,1107,1107,Erykah Davenport Defensive Rebound.,50,24,26,7,0.9852954871847955,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+178,3,8:20,1100,1100,Keyona Hayes made Layup. Assisted by Jessica Thomas.,52,24,28,20,0.9894820615028342,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+179,3,8:00,1080,1080,Shakyla Hill missed Three Point Jumper.,52,24,28,0,0.9899523586009191,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+180,3,8:00,1080,1080,Grambling Offensive Rebound.,52,24,28,2,0.9899523586009191,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+181,3,7:58,1078,1078,Foul on Adrienne Motley.,52,24,28,6,0.9899991027046018,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+182,3,7:52,1072,1072,Darae Taylor missed Jumper.,52,24,28,0,0.9901391558133692,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+183,3,7:52,1072,1072,Keyanna Harris Defensive Rebound.,52,24,28,14,0.9901391558133692,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+184,3,7:38,1058,1058,Adrienne Motley missed Three Point Jumper.,52,24,28,0,0.990465438157126,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+185,3,7:38,1058,1058,Grambling Defensive Rebound.,52,24,28,24,0.990465438157126,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+186,3,7:14,1034,1034,Darae Taylor missed Jumper.,52,24,28,0,0.9910261322860449,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+187,3,7:14,1034,1034,Adrienne Motley Defensive Rebound.,52,24,28,9,0.9910261322860449,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+188,3,7:05,1025,1025,Keyona Hayes Turnover.,52,24,28,2,0.9912376843423013,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+189,3,7:03,1023,1023,Bre'nae Andrews Steal.,52,24,28,3,0.9912848286296975,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+190,3,7:00,1020,1020,Foul on Erykah Davenport.,52,24,28,6,0.9913556435613831,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+191,3,6:54,1014,1014,Darae Taylor missed Layup.,52,24,28,0,0.9914976475832961,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+192,3,6:54,1014,1014,Keyona Hayes Defensive Rebound.,52,24,28,11,0.9914976475832961,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+193,3,6:43,1003,1003,Jessica Thomas made Three Point Jumper. Assisted by Adrienne Motley.,55,24,31,25,0.9950512704602577,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+194,3,6:18,978,978,Darae Taylor missed Jumper.,55,24,31,0,0.9954512649224921,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+195,3,6:18,978,978,Khaila Prather Defensive Rebound.,55,24,31,27,0.9954512649224921,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+196,3,5:51,951,951,Jessica Thomas made Three Point Jumper.,58,24,34,3,0.9975608736758419,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+197,3,5:48,948,948,Grambling  Timeout,58,24,34,0,0.9975868688318495,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+198,3,5:48,948,948,Official TV Timeout,58,24,34,24,0.9975868688318495,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+199,3,5:24,924,924,Takerra Parsons missed Jumper.,58,24,34,0,0.9977736046992863,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+200,3,5:24,924,924,Khaila Prather Block.,58,24,34,3,0.9977736046992863,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+201,3,5:21,921,921,Keyona Hayes Defensive Rebound.,58,24,34,19,0.9977947231535605,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+202,3,5:02,902,902,Keyanna Harris Turnover.,58,24,34,2,0.9979199545149363,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+203,3,5:00,900,900,Shakyla Hill Steal.,58,24,34,2,0.9979324161479758,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+204,3,4:58,898,898,Foul on Adrienne Motley.,58,24,34,0,0.9979447635393928,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+205,3,4:58,898,898,Official TV Timeout,58,24,34,0,0.9979447635393928,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,
+206,3,4:58,898,898,Shakyla Hill made Free Throw.,58,25,33,0,0.9975357149447517,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,Grambling
+207,3,4:58,898,898,Shakyla Hill made Free Throw.,58,26,32,30,0.9970454954542296,Miami,Grambling,3,4,1,0,NA,400911995,2016-11-25,Grambling
+208,3,4:28,868,868,Keyona Hayes made Three Point Jumper. Assisted by Jessica Thomas.,61,26,35,14,0.9984361582861443,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,Miami
+209,3,4:14,854,854,Shakyla Hill Turnover.,61,26,35,0,0.9985028094540861,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+210,3,4:14,854,854,Foul on Shakyla Hill.,61,26,35,20,0.9985028094540861,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+211,3,3:54,834,834,Jessica Thomas missed Jumper.,61,26,35,0,0.9985971945805666,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+212,3,3:54,834,834,Grambling Defensive Rebound.,61,26,35,14,0.9985971945805666,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+213,3,3:40,820,820,Jazmin Boyd missed Three Point Jumper.,61,26,35,0,0.9986638441752997,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+214,3,3:40,820,820,Grambling Offensive Rebound.,61,26,35,2,0.9986638441752997,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+215,3,3:38,818,818,Foul on Shaneese Bailey.,61,26,35,14,0.9986734511627001,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+216,3,3:24,804,804,Monisha Neal made Jumper. Assisted by Jazmine Torian.,61,28,33,9,0.9981579967337034,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,Grambling
+217,3,3:15,795,795,Foul on Shakyla Hill.,61,28,33,11,0.9982195736173709,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+218,3,3:04,784,784,Khaila Prather missed Jumper.,61,28,33,0,0.9982964176882949,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+219,3,3:04,784,784,Grambling Defensive Rebound.,61,28,33,10,0.9982964176882949,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+220,3,2:54,774,774,Shakyla Hill Turnover.,61,28,33,1,0.9983678475020507,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+221,3,2:53,773,773,Sarah Mortensen Steal.,61,28,33,8,0.9983750729664151,Miami,Grambling,3,4,0,0,NA,400911995,2016-11-25,
+222,3,2:45,765,765,Miami  Timeout,61,28,33,10,0.9984334058001504,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,
+223,3,2:35,755,755,Jessica Thomas made Jumper.,63,28,35,19,0.9989933946138495,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,Miami
+224,3,2:16,736,736,Monisha Neal missed Three Point Jumper.,63,28,35,0,0.9990963501140598,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,
+225,3,2:16,736,736,Khaila Prather Defensive Rebound.,63,28,35,5,0.9990963501140598,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,
+226,3,2:11,731,731,Khaila Prather Turnover.,63,28,35,0,0.9991237431762102,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,
+227,3,2:11,731,731,Jazmin Boyd Steal.,63,28,35,0,0.9991237431762102,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,
+228,3,2:11,731,731,Jazmin Boyd made Layup.,63,30,33,0,0.9986904320327844,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,Grambling
+229,3,2:11,731,731,Foul on Khaila Prather.,63,30,33,0,0.9986904320327844,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,
+230,3,2:11,731,731,Jazmin Boyd made Free Throw.,63,31,32,12,0.9983991749255854,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,Grambling
+231,3,1:59,719,719,Adrienne Motley missed Three Point Jumper.,63,31,32,0,0.99850212895378,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,
+232,3,1:59,719,719,Jazmin Boyd Defensive Rebound.,63,31,32,11,0.99850212895378,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,
+233,3,1:48,708,708,Bre'nae Andrews made Three Point Jumper. Assisted by Jazmin Boyd.,63,34,29,17,0.9973841636270955,Miami,Grambling,3,3,0,1,NA,400911995,2016-11-25,Grambling
+234,3,1:31,691,691,Foul on Monisha Neal.,63,34,29,0,0.9975664382554572,Miami,Grambling,3,3,0,0,NA,400911995,2016-11-25,
+235,3,1:31,691,691,Khaila Prather made Free Throw.,64,34,30,0,0.998021448631242,Miami,Grambling,3,3,0,0,NA,400911995,2016-11-25,Miami
+236,3,1:31,691,691,Khaila Prather missed Free Throw.,64,34,30,0,0.998021448631242,Miami,Grambling,3,3,0,0,NA,400911995,2016-11-25,
+237,3,1:31,691,691,Monisha Neal Defensive Rebound.,64,34,30,6,0.998021448631242,Miami,Grambling,3,3,0,0,NA,400911995,2016-11-25,
+238,3,1:25,685,685,Monisha Neal Turnover.,64,34,30,12,0.9980703378872952,Miami,Grambling,3,3,0,0,NA,400911995,2016-11-25,
+239,3,1:13,673,673,Shaneese Bailey Turnover.,64,34,30,1,0.9981621277047236,Miami,Grambling,3,3,0,0,NA,400911995,2016-11-25,
+240,3,1:12,672,672,Monisha Neal Steal.,64,34,30,3,0.9981694829124594,Miami,Grambling,3,3,0,0,NA,400911995,2016-11-25,
+241,3,1:09,669,669,Shakyla Hill made Layup.,64,36,28,19,0.9972474202884648,Miami,Grambling,3,3,0,0,NA,400911995,2016-11-25,Grambling
+242,3,0:50,650,650,Shaneese Bailey made Jumper. Assisted by Adrienne Motley.,66,36,30,31,0.9983239712126516,Miami,Grambling,3,3,0,0,NA,400911995,2016-11-25,Miami
+243,3,0:19,619,619,Monisha Neal made Layup. Assisted by Bre'nae Andrews.,66,38,28,18,0.9977369752369908,Miami,Grambling,3,3,0,0,NA,400911995,2016-11-25,Grambling
+244,3,0:01,601,601,Nigia Greene missed Three Point Jumper.,66,38,28,0,0.9979187007907341,Miami,Grambling,3,3,0,0,NA,400911995,2016-11-25,
+245,3,0:01,601,601,Grambling Defensive Rebound.,66,38,28,1,0.9979187007907341,Miami,Grambling,3,3,0,0,NA,400911995,2016-11-25,
+246,3,0:00,600,600,End of 3rd Quarter,66,38,28,14,0.9979290611142563,Miami,Grambling,3,3,0,0,NA,400911995,2016-11-25,
+247,4,9:46,586,586,Takerra Parsons Turnover.,66,38,28,2,0.9980774127331471,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+248,4,9:44,584,584,Keyanna Harris Steal.,66,38,28,2,0.9980991206189902,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+249,4,9:42,582,582,Keyanna Harris missed Layup.,66,38,28,0,0.9981209572897167,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+250,4,9:42,582,582,Takerra Parsons Block.,66,38,28,1,0.9981209572897167,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+251,4,9:41,581,581,Jazmin Boyd Defensive Rebound.,66,38,28,2,0.9981319236382167,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+252,4,9:39,579,579,Monisha Neal made Jumper.,66,40,26,31,0.997109324342638,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Grambling
+253,4,9:08,548,548,Keyanna Harris missed Three Point Jumper.,66,40,26,0,0.9976289290276598,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+254,4,9:08,548,548,Shakyla Hill Defensive Rebound.,66,40,26,5,0.9976289290276598,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+255,4,9:03,543,543,Jazmin Boyd missed Three Point Jumper.,66,40,26,0,0.997708481960391,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+256,4,9:03,543,543,Miami Defensive Rebound.,66,40,26,12,0.997708481960391,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+257,4,8:51,531,531,Foul on Shakyla Hill.,66,40,26,0,0.997873067589096,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+258,4,8:51,531,531,Keyona Hayes missed Free Throw.,66,40,26,0,0.997873067589096,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+259,4,8:51,531,531,Miami Deadball Team Rebound.,66,40,26,0,0.997873067589096,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+260,4,8:51,531,531,Keyona Hayes made Free Throw.,67,40,27,12,0.9983204025914603,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+261,4,8:39,519,519,Foul on Keyona Hayes.,67,40,27,4,0.9984332568809032,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+262,4,8:35,515,515,Shakyla Hill missed Layup.,67,40,27,0,0.9984674460997168,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+263,4,8:35,515,515,Monisha Neal Offensive Rebound.,67,40,27,5,0.9984674460997168,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+264,4,8:30,510,510,Bre'nae Andrews made Three Point Jumper. Assisted by Takerra Parsons.,67,43,24,14,0.9969315547886696,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Grambling
+265,4,8:16,496,496,Foul on Takerra Parsons.,67,43,24,3,0.9971301694101019,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+266,4,8:13,493,493,Sarah Mortensen missed Jumper.,67,43,24,0,0.9971717582321536,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+267,4,8:13,493,493,Monisha Neal Defensive Rebound.,67,43,24,7,0.9971717582321536,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+268,4,8:06,486,486,Monisha Neal missed Jumper.,67,43,24,0,0.9972688720408042,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+269,4,8:06,486,486,Shakyla Hill Offensive Rebound.,67,43,24,4,0.9972688720408042,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+270,4,8:02,482,482,Foul on Erykah Davenport.,67,43,24,0,0.9973248548500854,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+271,4,8:02,482,482,Monisha Neal missed Free Throw.,67,43,24,0,0.9973248548500854,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+272,4,8:02,482,482,Grambling Deadball Team Rebound.,67,43,24,0,0.9973248548500854,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+273,4,8:02,482,482,Monisha Neal missed Free Throw.,67,43,24,0,0.9973248548500854,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+274,4,8:02,482,482,Erykah Davenport Defensive Rebound.,67,43,24,29,0.9973248548500854,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+275,4,7:33,453,453,Jessica Thomas missed Three Point Jumper.,67,43,24,0,0.9977617895079559,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+276,4,7:33,453,453,Monisha Neal Defensive Rebound.,67,43,24,8,0.9977617895079559,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+277,4,7:25,445,445,Shakyla Hill Turnover.,67,43,24,4,0.9978957213423633,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+278,4,7:21,441,441,Jessica Thomas Steal.,67,43,24,15,0.9979650404422071,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+279,4,7:06,426,426,Erykah Davenport made Jumper.,69,43,26,35,0.9989580283602867,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+280,4,6:31,391,391,Shakyla Hill Turnover.,69,43,26,0,0.9992593783032061,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+281,4,6:31,391,391,Keyanna Harris Steal.,69,43,26,2,0.9992593783032061,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+282,4,6:29,389,389,Erykah Davenport made Layup.,71,43,28,0,0.9995830601844355,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+283,4,6:29,389,389,Foul on Jazmin Boyd.,71,43,28,0,0.9995830601844355,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+284,4,6:29,389,389,Erykah Davenport made Free Throw.,72,43,29,23,0.9996842000088811,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+285,4,6:06,366,366,Jazmin Boyd Turnover.,72,43,29,0,0.9997555226008927,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+286,4,6:06,366,366,Foul on Jazmin Boyd.,72,43,29,22,0.9997555226008927,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+287,4,5:44,344,344,Nigia Greene missed Three Point Jumper.,72,43,29,0,0.9998168286294664,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+288,4,5:44,344,344,Miami Offensive Rebound.,72,43,29,5,0.9998168286294664,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+289,4,5:39,339,339,Keyanna Harris made Jumper. Assisted by Nigia Greene.,74,43,31,0,0.9999065888184484,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+290,4,5:39,339,339,Foul on Jazmine Torian.,74,43,31,0,0.9999065888184484,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+291,4,5:39,339,339,Keyanna Harris made Free Throw.,75,43,32,31,0.9999307494009712,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+292,4,5:08,308,308,Jazmin Boyd missed Jumper.,75,43,32,0,0.9999630562149454,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+293,4,5:08,308,308,Zada Williams Defensive Rebound.,75,43,32,9,0.9999630562149454,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+294,4,4:59,299,299,Keyanna Harris missed Three Point Jumper.,75,43,32,0,0.999967812413689,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+295,4,4:59,299,299,Grambling Defensive Rebound.,75,43,32,2,0.999967812413689,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+296,4,4:57,297,297,Foul on Zada Williams.,75,43,32,0,0.9999683857089803,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+297,4,4:57,297,297,Official TV Timeout,75,43,32,14,0.9999683857089803,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+298,4,4:43,283,283,Jazmin Boyd made Three Point Jumper. Assisted by Shakyla Hill.,75,46,29,28,0.9999183132486442,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Grambling
+299,4,4:15,255,255,Jessica Thomas made Three Point Jumper. Assisted by Nigia Greene.,78,46,32,32,0.9999611548578483,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+300,4,3:43,223,223,Foul on Serena-Lynn Geldof.,78,46,32,0,0.9999602416744247,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+301,4,3:43,223,223,Jazmin Boyd missed Free Throw.,78,46,32,0,0.9999602416744247,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+302,4,3:43,223,223,Grambling Deadball Team Rebound.,78,46,32,0,0.9999602416744247,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+303,4,3:43,223,223,Jazmin Boyd made Free Throw.,78,47,31,0,0.9999454318806534,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Grambling
+304,4,3:43,223,223,Jazmin Boyd made Free Throw.,78,48,30,10,0.9999251059198607,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Grambling
+305,4,3:33,213,213,Nigia Greene made Three Point Jumper. Assisted by Keyanna Harris.,81,48,33,12,0.9999761670788638,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+306,4,3:21,201,201,Bre'nae Andrews made Three Point Jumper.,81,51,30,13,0.9999577061721313,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Grambling
+307,4,3:08,188,188,Serena-Lynn Geldof made Layup. Assisted by Sarah Mortensen.,83,51,32,0,0.9999897380729273,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+308,4,3:08,188,188,Foul on Bre'nae Andrews.,83,51,32,0,0.9999897380729273,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+309,4,3:08,188,188,Serena-Lynn Geldof made Free Throw.,84,51,33,16,0.9999928331005528,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+310,4,2:52,172,172,Jazmin Boyd made Three Point Jumper.,84,54,30,25,0.9999923994493308,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Grambling
+311,4,2:27,147,147,Sarah Mortensen missed Three Point Jumper.,84,54,30,0,0.9999986982453667,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+312,4,2:27,147,147,Jazmine Torian Defensive Rebound.,84,54,30,13,0.9999986982453667,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+313,4,2:14,134,134,Shakyla Hill made Layup. Assisted by Bre'nae Andrews.,84,56,28,15,0.999998814316873,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Grambling
+314,4,1:59,119,119,Nigia Greene missed Three Point Jumper.,84,56,28,0,0.9999996837928838,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+315,4,1:59,119,119,Grambling Defensive Rebound.,84,56,28,3,0.9999996837928838,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+316,4,1:56,116,116,Foul on Sarah Mortensen.,84,56,28,0,0.9999997634635753,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+317,4,1:56,116,116,Bre'nae Andrews made Free Throw.,84,57,27,0,0.9999995921086936,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Grambling
+318,4,1:56,116,116,Bre'nae Andrews missed Free Throw.,84,57,27,0,0.9999995921086936,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+319,4,1:56,116,116,Zada Williams Defensive Rebound.,84,57,27,13,0.9999995921086936,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+320,4,1:43,103,103,Zada Williams made Layup. Assisted by Nigia Greene.,86,57,29,10,0.9999999669125739,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+321,4,1:33,93,93,Darae Taylor missed Jumper.,86,57,29,0,0.9999999904032213,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+322,4,1:33,93,93,Sarah Mortensen Defensive Rebound.,86,57,29,19,0.9999999904032213,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+323,4,1:14,74,74,Foul on Khadijah Pearson.,86,57,29,0,0.9999999992509051,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+324,4,1:14,74,74,Shaneese Bailey made Free Throw.,87,57,30,0,0.9999999996370342,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+325,4,1:14,74,74,Shaneese Bailey missed Free Throw.,87,57,30,0,0.9999999996370342,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+326,4,1:14,74,74,Serena-Lynn Geldof Offensive Rebound.,87,57,30,2,0.9999999996370342,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+327,4,1:12,72,72,Serena-Lynn Geldof missed Jumper.,87,57,30,0,0.9999999997307376,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+328,4,1:12,72,72,Aliah Kennedy Defensive Rebound.,87,57,30,16,0.9999999997307376,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+329,4,0:56,56,56,Kiana Jones Turnover.,87,57,30,1,0.9999999999782186,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+330,4,0:55,55,55,Shaneese Bailey Steal.,87,57,30,4,0.9999999999815148,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+331,4,0:51,51,51,Shaneese Bailey made Layup.,89,57,32,23,0.9999999999982505,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Miami
+332,4,0:28,28,28,Takerra Parsons made Jumper. Assisted by Kiana Jones.,89,59,30,14,0.9999999999998488,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Grambling
+333,4,0:14,14,14,Shaneese Bailey missed Jumper.,89,59,30,0,0.9999999999999905,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+334,4,0:14,14,14,Darae Taylor Defensive Rebound.,89,59,30,8,0.9999999999999905,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,
+335,4,0:06,6,6,Aliah Kennedy made Layup. Assisted by Takerra Parsons.,89,61,28,6,0.999999999999983,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,Grambling
+336,4,0:00,0,0,End of Game,89,61,28,0,1,Miami,Grambling,4,4,0,0,NA,400911995,2016-11-25,

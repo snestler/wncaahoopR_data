@@ -1,0 +1,305 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:52,2392,2392,Foul on Taylor Murray.,0,0,0,12,0.5,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,NA
+2,1,9:40,2380,2380,Shaquera Wade Turnover.,0,0,0,12,0.5,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+3,1,9:28,2368,2368,Evelyn Akhator Turnover.,0,0,0,8,0.5,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+4,1,9:20,2360,2360,Quanetria Bolton missed Layup.,0,0,0,0,0.5,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+5,1,9:20,2360,2360,Alyssa Rice Defensive Rebound.,0,0,0,10,0.5,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+6,1,9:10,2350,2350,Maci Morris missed Jumper.,0,0,0,0,0.5,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+7,1,9:10,2350,2350,Quanetria Bolton Defensive Rebound.,0,0,0,13,0.5,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+8,1,8:57,2337,2337,Quanetria Bolton made Three Point Jumper. Assisted by Jordan Lewis.,0,3,-3,12,0.43217335596304424,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Alabama
+9,1,8:45,2325,2325,Makayla Epps Turnover.,0,3,-3,1,0.4317837894411538,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+10,1,8:44,2324,2324,Hannah Cook Steal.,0,3,-3,1,0.43175121434183966,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+11,1,8:43,2323,2323,Hannah Cook missed Layup.,0,3,-3,0,0.43171862249927173,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+12,1,8:43,2323,2323,Evelyn Akhator Defensive Rebound.,0,3,-3,8,0.43171862249927173,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+13,1,8:35,2315,2315,Taylor Murray missed Jumper.,0,3,-3,0,0.4314572944590229,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+14,1,8:35,2315,2315,Quanetria Bolton Defensive Rebound.,0,3,-3,11,0.4314572944590229,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+15,1,8:24,2304,2304,Quanetria Bolton missed Three Point Jumper.,0,3,-3,0,0.4310963010761886,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+16,1,8:24,2304,2304,Evelyn Akhator Defensive Rebound.,0,3,-3,7,0.4310963010761886,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+17,1,8:17,2297,2297,Taylor Murray missed Layup.,0,3,-3,0,0.43086561583381394,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+18,1,8:17,2297,2297,Jordan Lewis Defensive Rebound.,0,3,-3,8,0.43086561583381394,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+19,1,8:09,2289,2289,Hannah Cook made Jumper. Assisted by Jordan Lewis.,0,5,-5,22,0.3856427511772553,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Alabama
+20,1,7:47,2267,2267,Makayla Epps made Three Point Jumper. Assisted by Evelyn Akhator.,3,5,-2,18,0.453074360085721,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+21,1,7:29,2249,2249,Hannah Cook missed Three Point Jumper.,3,5,-2,0,0.4526676712149446,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+22,1,7:29,2249,2249,Makayla Epps Defensive Rebound.,3,5,-2,27,0.4526676712149446,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+23,1,7:02,2222,2222,Evelyn Akhator made Layup.,5,5,0,0,0.5,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+24,1,7:02,2222,2222,Foul on Shaquera Wade.,5,5,0,0,0.5,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+25,1,7:02,2222,2222,Evelyn Akhator missed Free Throw.,5,5,0,0,0.5,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+26,1,7:02,2222,2222,Shaquera Wade Defensive Rebound.,5,5,0,16,0.5,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+27,1,6:46,2206,2206,Ashley Williams missed Jumper.,5,5,0,0,0.5,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+28,1,6:46,2206,2206,Ashley Williams Offensive Rebound.,5,5,0,4,0.5,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+29,1,6:42,2202,2202,Quanetria Bolton missed Three Point Jumper.,5,5,0,0,0.5,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+30,1,6:42,2202,2202,Kentucky Defensive Rebound.,5,5,0,12,0.5,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+31,1,6:30,2190,2190,Jaida Roper missed Jumper.,5,5,0,0,0.5,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+32,1,6:30,2190,2190,Kentucky Offensive Rebound.,5,5,0,7,0.5,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+33,1,6:23,2183,2183,Maci Morris Turnover.,5,5,0,1,0.5,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+34,1,6:22,2182,2182,Shaquera Wade Steal.,5,5,0,10,0.5,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+35,1,6:12,2172,2172,Hannah Cook made Three Point Jumper. Assisted by Quanetria Bolton.,5,8,-3,9,0.4266511374356508,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Alabama
+36,1,6:03,2163,2163,Alyssa Rice made Layup. Assisted by Taylor Murray.,7,8,-1,22,0.47528780118465236,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+37,1,5:41,2141,2141,Foul on Jordan Lewis.,7,8,-1,0,0.47503033285106394,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+38,1,5:41,2141,2141,Jordan Lewis Turnover.,7,8,-1,28,0.47503033285106394,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+39,1,5:13,2113,2113,Evelyn Akhator made Jumper. Assisted by Makayla Epps.,9,8,1,26,0.525300322543142,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+40,1,4:47,2087,2087,Jordan Lewis Turnover.,9,8,1,0,0.5256106398677499,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+41,1,4:47,2087,2087,Alyssa Rice Steal.,9,8,1,0,0.5256106398677499,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+42,1,4:47,2087,2087,Official TV Timeout,9,8,1,17,0.5256106398677499,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+43,1,4:30,2070,2070,Evelyn Akhator missed Jumper.,9,8,1,0,0.5258153949638733,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+44,1,4:30,2070,2070,Ashley Williams Defensive Rebound.,9,8,1,28,0.5258153949638733,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+45,1,4:02,2042,2042,Ashley Williams missed Jumper.,9,8,1,0,0.5261560906857521,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+46,1,4:02,2042,2042,Kentucky Defensive Rebound.,9,8,1,18,0.5261560906857521,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+47,1,3:44,2024,2024,Taylor Murray missed Jumper.,9,8,1,0,0.5263775259672235,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+48,1,3:44,2024,2024,Ashley Knight Block.,9,8,1,1,0.5263775259672235,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+49,1,3:43,2023,2023,Kentucky Offensive Rebound.,9,8,1,9,0.5263898859159339,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+50,1,3:34,2014,2014,Makenzie Cann missed Three Point Jumper.,9,8,1,0,0.5265014072900054,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+51,1,3:34,2014,2014,Taylor Murray Offensive Rebound.,9,8,1,8,0.5265014072900054,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+52,1,3:26,2006,2006,Jessica Hardin missed Three Point Jumper.,9,8,1,0,0.5266009702327366,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+53,1,3:26,2006,2006,Meoshonti Knight Defensive Rebound.,9,8,1,7,0.5266009702327366,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+54,1,3:19,1999,1999,Ashley Williams missed Layup.,9,8,1,0,0.5266884291308235,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+55,1,3:19,1999,1999,Alabama Deadball Team Rebound.,9,8,1,1,0.5266884291308235,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+56,1,3:18,1998,1998,Foul on Makenzie Cann.,9,8,1,9,0.5267009496278943,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+57,1,3:09,1989,1989,Ashley Knight made Layup. Assisted by Jordan Lewis.,9,10,-1,18,0.47318606490886933,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Alabama
+58,1,2:51,1971,1971,Jessica Hardin missed Three Point Jumper.,9,10,-1,0,0.47295843003526694,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+59,1,2:51,1971,1971,Makenzie Cann Offensive Rebound.,9,10,-1,10,0.47295843003526694,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+60,1,2:41,1961,1961,Evelyn Akhator made Jumper. Assisted by Makenzie Cann.,11,10,1,19,0.5271690218209801,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+61,1,2:22,1942,1942,Meoshonti Knight missed Three Point Jumper.,11,10,1,0,0.5274131981017458,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+62,1,2:22,1942,1942,Kentucky Deadball Team Rebound.,11,10,1,29,0.5274131981017458,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+63,1,1:53,1913,1913,Foul on Ashley Knight.,11,10,1,0,0.5277897543069698,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+64,1,1:53,1913,1913,Maci Morris made Free Throw.,12,10,2,0,0.5554083476967336,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+65,1,1:53,1913,1913,Maci Morris made Free Throw.,13,10,3,20,0.582688810253609,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+66,1,1:33,1893,1893,Hannah Cook made Jumper.,13,12,1,12,0.5280492138738667,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Alabama
+67,1,1:21,1881,1881,Taylor Murray missed Three Point Jumper.,13,12,1,0,0.5282048929463481,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+68,1,1:21,1881,1881,Shaquera Wade Defensive Rebound.,13,12,1,9,0.5282048929463481,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+69,1,1:12,1872,1872,Shaquera Wade Turnover.,13,12,1,10,0.5283217541739113,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+70,1,1:02,1862,1862,Foul on Quanetria Bolton.,13,12,1,0,0.5284517786582487,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+71,1,1:02,1862,1862,Evelyn Akhator made Free Throw.,14,12,2,0,0.5567198974471086,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+72,1,1:02,1862,1862,Evelyn Akhator made Free Throw.,15,12,3,29,0.5846254082738366,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+73,1,0:33,1833,1833,Quanetria Bolton made Layup. Assisted by Hannah Cook.,15,14,1,17,0.5288306155848858,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Alabama
+74,1,0:16,1816,1816,Alyssa Rice made Layup. Assisted by Evelyn Akhator.,17,14,3,13,0.586386455554236,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+75,1,0:03,1803,1803,Alana da Silva Turnover.,17,14,3,3,0.5868897761363941,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+76,1,0:00,1800,1800,End of 1st Quarter,17,14,3,16,0.5870063911476985,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+77,2,9:44,1784,1784,Maci Morris missed Jumper.,17,14,3,0,0.5876316410602007,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+78,2,9:44,1784,1784,Maci Morris Offensive Rebound.,17,14,3,22,0.5876316410602007,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+79,2,9:22,1762,1762,Evelyn Akhator missed Layup.,17,14,3,0,0.5885017232232406,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+80,2,9:22,1762,1762,Evelyn Akhator Offensive Rebound.,17,14,3,4,0.5885017232232406,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+81,2,9:18,1758,1758,Foul on Quanetria Bolton.,17,14,3,0,0.5886613720744431,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+82,2,9:18,1758,1758,Evelyn Akhator made Free Throw.,18,14,4,0,0.6172548007906146,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+83,2,9:18,1758,1758,Evelyn Akhator made Free Throw.,19,14,5,8,0.6450590711866201,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+84,2,9:10,1750,1750,Shaquera Wade Turnover.,19,14,5,1,0.6455644659542759,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+85,2,9:09,1749,1749,Makayla Epps Steal.,19,14,5,8,0.6456278485873567,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+86,2,9:01,1741,1741,Makayla Epps missed Jumper.,19,14,5,0,0.6461366457293268,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+87,2,9:01,1741,1741,Alyssa Rice Offensive Rebound.,19,14,5,5,0.6461366457293268,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+88,2,8:56,1736,1736,Alyssa Rice made Two Point Tip Shot.,21,14,7,22,0.699495719646109,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+89,2,8:34,1714,1714,Coco Knight made Jumper. Assisted by Hannah Cook.,21,16,5,23,0.6478785530729694,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Alabama
+90,2,8:11,1691,1691,Alyssa Rice missed Jumper.,21,16,5,0,0.649396241622471,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+91,2,8:11,1691,1691,Ashley Knight Defensive Rebound.,21,16,5,25,0.649396241622471,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+92,2,7:46,1666,1666,Shaquera Wade missed Jumper.,21,16,5,0,0.6510359275991273,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+93,2,7:46,1666,1666,Ashley Knight Offensive Rebound.,21,16,5,16,0.6510359275991273,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+94,2,7:30,1650,1650,Coco Knight missed Jumper.,21,16,5,0,0.6520564781332344,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+95,2,7:30,1650,1650,Alyssa Rice Defensive Rebound.,21,16,5,13,0.6520564781332344,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+96,2,7:17,1637,1637,Taylor Murray made Layup.,23,16,7,21,0.7077271714763544,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+97,2,6:56,1616,1616,Ashley Williams Turnover.,23,16,7,15,0.7093918335099042,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+98,2,6:41,1601,1601,Alyssa Rice made Jumper. Assisted by Evelyn Akhator.,25,16,9,17,0.7603822020615987,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+99,2,6:24,1584,1584,Coco Knight missed Jumper.,25,16,9,0,0.7619007300623807,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+100,2,6:24,1584,1584,Makayla Epps Defensive Rebound.,25,16,9,9,0.7619007300623807,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+101,2,6:15,1575,1575,Maci Morris missed Three Point Jumper.,25,16,9,0,0.762705429641988,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+102,2,6:15,1575,1575,Alabama Deadball Team Rebound.,25,16,9,28,0.762705429641988,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+103,2,5:47,1547,1547,Foul on Jaida Roper.,25,16,9,4,0.7652287562940832,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+104,2,5:43,1543,1543,Jordan Lewis missed Three Point Jumper.,25,16,9,0,0.7655931936750435,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+105,2,5:43,1543,1543,Kentucky Defensive Rebound.,25,16,9,26,0.7655931936750435,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+106,2,5:17,1517,1517,Alyssa Rice missed Jumper.,25,16,9,0,0.7679989798443327,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+107,2,5:17,1517,1517,Ashley Knight Defensive Rebound.,25,16,9,23,0.7679989798443327,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+108,2,4:54,1494,1494,Coco Knight made Layup.,25,18,7,26,0.7192335962910029,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Alabama
+109,2,4:28,1468,1468,Makayla Epps missed Jumper.,25,18,7,0,0.7215347438694626,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+110,2,4:28,1468,1468,Coco Knight Defensive Rebound.,25,18,7,6,0.7215347438694626,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+111,2,4:22,1462,1462,Coco Knight Turnover.,25,18,7,1,0.7220832333623407,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+112,2,4:21,1461,1461,Official TV Timeout,25,18,7,28,0.7221753395863517,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+113,2,3:53,1433,1433,Evelyn Akhator made Layup.,27,18,9,0,0.7764209034206229,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+114,2,3:53,1433,1433,Foul on Ashley Knight.,27,18,9,0,0.7764209034206229,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+115,2,3:53,1433,1433,Evelyn Akhator made Free Throw.,28,18,10,8,0.79951326293453,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+116,2,3:45,1425,1425,Quanetria Bolton Turnover.,28,18,10,0,0.8003399758696225,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+117,2,3:45,1425,1425,Taylor Murray Steal.,28,18,10,9,0.8003399758696225,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+118,2,3:36,1416,1416,Evelyn Akhator missed Jumper.,28,18,10,0,0.8012538208961323,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+119,2,3:36,1416,1416,Makenzie Cann Offensive Rebound.,28,18,10,25,0.8012538208961323,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+120,2,3:11,1391,1391,Maci Morris missed Three Point Jumper.,28,18,10,0,0.8037218898588688,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+121,2,3:11,1391,1391,Meoshonti Knight Defensive Rebound.,28,18,10,14,0.8037218898588688,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+122,2,2:57,1377,1377,Foul on Meoshonti Knight.,28,18,10,0,0.8050729188244733,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+123,2,2:57,1377,1377,Meoshonti Knight Turnover.,28,18,10,16,0.8050729188244733,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+124,2,2:41,1361,1361,Evelyn Akhator made Jumper. Assisted by Taylor Murray.,30,18,12,14,0.8473165853711268,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+125,2,2:27,1347,1347,Hannah Cook made Three Point Jumper. Assisted by Ashley Williams.,30,21,9,21,0.784657063653463,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Alabama
+126,2,2:06,1326,1326,Evelyn Akhator made Jumper. Assisted by Maci Morris.,32,21,11,23,0.8312806730605153,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+127,2,1:43,1303,1303,Hannah Cook made Three Point Jumper. Assisted by Coco Knight.,32,24,8,10,0.7634363465309542,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Alabama
+128,2,1:33,1293,1293,Maci Morris missed Jumper.,32,24,8,0,0.7643915287639687,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+129,2,1:33,1293,1293,Ashley Williams Defensive Rebound.,32,24,8,16,0.7643915287639687,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+130,2,1:17,1277,1277,Hannah Cook missed Three Point Jumper.,32,24,8,0,0.7659605379833786,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+131,2,1:17,1277,1277,Maci Morris Defensive Rebound.,32,24,8,10,0.7659605379833786,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+132,2,1:07,1267,1267,Kentucky  Timeout,32,24,8,3,0.7669707009069544,Kentucky,Alabama,3,4,1,0,NA,400945240,2017-03-03,
+133,2,1:04,1264,1264,Evelyn Akhator Turnover.,32,24,8,7,0.7672786658779528,Kentucky,Alabama,3,4,1,0,NA,400945240,2017-03-03,
+134,2,0:57,1257,1257,Ashley Williams Turnover.,32,24,8,18,0.7680066678655059,Kentucky,Alabama,3,4,1,0,NA,400945240,2017-03-03,
+135,2,0:39,1239,1239,Evelyn Akhator missed Jumper.,32,24,8,0,0.7699444634715304,Kentucky,Alabama,3,4,1,0,NA,400945240,2017-03-03,
+136,2,0:39,1239,1239,Meoshonti Knight Defensive Rebound.,32,24,8,5,0.7699444634715304,Kentucky,Alabama,3,4,1,0,NA,400945240,2017-03-03,
+137,2,0:34,1234,1234,Meoshonti Knight Turnover.,32,24,8,0,0.7705009693794418,Kentucky,Alabama,3,4,1,0,NA,400945240,2017-03-03,
+138,2,0:34,1234,1234,Taylor Murray Steal.,32,24,8,25,0.7705009693794418,Kentucky,Alabama,3,4,1,0,NA,400945240,2017-03-03,
+139,2,0:09,1209,1209,Maci Morris missed Layup.,32,24,8,0,0.7734163970537112,Kentucky,Alabama,3,4,1,0,NA,400945240,2017-03-03,
+140,2,0:09,1209,1209,Jordan Lewis Defensive Rebound.,32,24,8,4,0.7734163970537112,Kentucky,Alabama,3,4,1,0,NA,400945240,2017-03-03,
+141,2,0:05,1205,1205,Alabama  Timeout,32,24,8,3,0.7738965206535576,Kentucky,Alabama,3,3,0,1,NA,400945240,2017-03-03,
+142,2,0:02,1202,1202,Ashley Williams made Layup. Assisted by Jordan Lewis.,32,26,6,2,0.71593063249353,Kentucky,Alabama,3,3,0,1,NA,400945240,2017-03-03,Alabama
+143,2,0:00,1200,1200,End of 2nd Quarter,32,26,6,13,0.7161370692370593,Kentucky,Alabama,3,3,0,1,NA,400945240,2017-03-03,
+144,3,9:47,1187,1187,Quanetria Bolton made Jumper. Assisted by Hannah Cook.,32,28,4,21,0.6505046144037451,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Alabama
+145,3,9:26,1166,1166,Foul on Quanetria Bolton.,32,28,4,0,0.6520555229587459,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+146,3,9:26,1166,1166,Evelyn Akhator made Free Throw.,33,28,5,0,0.6867800663351068,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+147,3,9:26,1166,1166,Evelyn Akhator missed Free Throw.,33,28,5,0,0.6867800663351068,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+148,3,9:26,1166,1166,Quanetria Bolton Defensive Rebound.,33,28,5,29,0.6867800663351068,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+149,3,8:57,1137,1137,Shaquera Wade missed Layup.,33,28,5,0,0.6892575389117509,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+150,3,8:57,1137,1137,Shaquera Wade Offensive Rebound.,33,28,5,3,0.6892575389117509,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+151,3,8:54,1134,1134,Shaquera Wade made Jumper.,33,30,3,15,0.6174417729423894,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Alabama
+152,3,8:39,1119,1119,Maci Morris made Layup.,35,30,5,20,0.690787202306434,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+153,3,8:19,1099,1099,Shaquera Wade missed Layup.,35,30,5,0,0.6925042461080666,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+154,3,8:19,1099,1099,Taylor Murray Defensive Rebound.,35,30,5,3,0.6925042461080666,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+155,3,8:16,1096,1096,Foul on Jordan Lewis.,35,30,5,0,0.6927647400795898,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+156,3,8:16,1096,1096,Taylor Murray made Free Throw.,36,30,6,0,0.7262525842671096,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+157,3,8:16,1096,1096,Taylor Murray made Free Throw.,37,30,7,23,0.7573687333394101,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+158,3,7:53,1073,1073,Jordan Lewis Turnover.,37,30,7,7,0.7598252773830132,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+159,3,7:46,1066,1066,Makayla Epps missed Jumper.,37,30,7,0,0.7605915397144188,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+160,3,7:46,1066,1066,Alyssa Rice Offensive Rebound.,37,30,7,3,0.7605915397144188,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+161,3,7:43,1063,1063,Alyssa Rice missed Two Point Tip Shot.,37,30,7,0,0.7609231388719989,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+162,3,7:43,1063,1063,Shaquera Wade Defensive Rebound.,37,30,7,21,0.7609231388719989,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+163,3,7:22,1042,1042,Quanetria Bolton missed Three Point Jumper.,37,30,7,0,0.7633064782092525,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+164,3,7:22,1042,1042,Evelyn Akhator Defensive Rebound.,37,30,7,9,0.7633064782092525,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,
+165,3,7:13,1033,1033,Maci Morris made Three Point Jumper. Assisted by Taylor Murray.,40,30,10,4,0.8430494531248773,Kentucky,Alabama,4,4,0,0,NA,400945240,2017-03-03,Kentucky
+166,3,7:09,1029,1029,Alabama  Timeout,40,30,10,22,0.8435519451024294,Kentucky,Alabama,4,3,0,1,NA,400945240,2017-03-03,
+167,3,6:47,1007,1007,Foul on Evelyn Akhator.,40,30,10,4,0.8464096129816766,Kentucky,Alabama,4,3,0,1,NA,400945240,2017-03-03,
+168,3,6:43,1003,1003,Hannah Cook made Three Point Jumper. Assisted by Meoshonti Knight.,40,33,7,9,0.7680978125434558,Kentucky,Alabama,4,3,0,1,NA,400945240,2017-03-03,Alabama
+169,3,6:34,994,994,Alyssa Rice Turnover.,40,33,7,17,0.7692858627185332,Kentucky,Alabama,4,3,0,1,NA,400945240,2017-03-03,
+170,3,6:17,977,977,Hannah Cook made Three Point Jumper. Assisted by Jordan Lewis.,40,36,4,16,0.667240227971197,Kentucky,Alabama,4,3,0,1,NA,400945240,2017-03-03,Alabama
+171,3,6:01,961,961,Makayla Epps missed Jumper.,40,36,4,0,0.6688814638962944,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+172,3,6:01,961,961,Evelyn Akhator Offensive Rebound.,40,36,4,15,0.6688814638962944,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+173,3,5:46,946,946,Makayla Epps made Three Point Jumper. Assisted by Alyssa Rice.,43,36,7,30,0.7758730363919829,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,Kentucky
+174,3,5:16,916,916,Hannah Cook missed Three Point Jumper.,43,36,7,0,0.779394706965717,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+175,3,5:16,916,916,Alyssa Rice Defensive Rebound.,43,36,7,13,0.779394706965717,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+176,3,5:03,903,903,Makayla Epps made Jumper.,45,36,9,7,0.836621933057476,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,Kentucky
+177,3,4:56,896,896,Foul on Taylor Murray.,45,36,9,0,0.8373813117571723,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+178,3,4:56,896,896,Official TV Timeout,45,36,9,11,0.8373813117571723,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+179,3,4:45,885,885,Shaquera Wade missed Jumper.,45,36,9,0,0.8385568563158706,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+180,3,4:45,885,885,Makenzie Cann Defensive Rebound.,45,36,9,15,0.8385568563158706,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+181,3,4:30,870,870,Makayla Epps missed Layup.,45,36,9,0,0.840146153683583,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+182,3,4:30,870,870,Ashley Knight Defensive Rebound.,45,36,9,22,0.840146153683583,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+183,3,4:08,848,848,Meoshonti Knight made Layup.,45,38,7,1,0.7865676345617331,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,Alabama
+184,3,4:07,847,847,Foul on Makenzie Cann.,45,38,7,0,0.7866757261026902,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+185,3,4:07,847,847,Meoshonti Knight made Free Throw.,45,39,6,12,0.7537240653378059,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,Alabama
+186,3,3:55,835,835,Foul on Meoshonti Knight.,45,39,6,15,0.7549786254914237,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+187,3,3:40,820,820,Makenzie Cann missed Three Point Jumper.,45,39,6,0,0.7566275200682231,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+188,3,3:40,820,820,Makayla Epps Offensive Rebound.,45,39,6,10,0.7566275200682231,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+189,3,3:30,810,810,Makenzie Cann Turnover.,45,39,6,17,0.7577896249093372,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+190,3,3:13,793,793,Shaquera Wade Turnover.,45,39,6,10,0.7599071376691465,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+191,3,3:03,783,783,Makenzie Cann missed Three Point Jumper.,45,39,6,0,0.7612496445533792,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+192,3,3:03,783,783,Evelyn Akhator Offensive Rebound.,45,39,6,25,0.7612496445533792,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+193,3,2:38,758,758,Foul on Hannah Cook.,45,39,6,0,0.7649789042182152,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+194,3,2:38,758,758,Alyssa Rice made Free Throw.,46,39,7,0,0.7984875925516004,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,Kentucky
+195,3,2:38,758,758,Alyssa Rice made Free Throw.,47,39,8,14,0.8282910870561309,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,Kentucky
+196,3,2:24,744,744,Ashley Knight Turnover.,47,39,8,20,0.8307685567125609,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+197,3,2:04,724,724,Foul on Ashley Knight.,47,39,8,0,0.8346293503451502,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+198,3,2:04,724,724,Evelyn Akhator made Free Throw.,48,39,9,0,0.8607038473756132,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,Kentucky
+199,3,2:04,724,724,Evelyn Akhator missed Free Throw.,48,39,9,0,0.8607038473756132,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+200,3,2:04,724,724,Makenzie Cann Offensive Rebound.,48,39,9,17,0.8607038473756132,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+201,3,1:47,707,707,Taylor Murray missed Jumper.,48,39,9,0,0.8636487433347703,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+202,3,1:47,707,707,Ashley Knight Defensive Rebound.,48,39,9,15,0.8636487433347703,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+203,3,1:32,692,692,Hannah Cook missed Three Point Jumper.,48,39,9,0,0.8659660253854436,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+204,3,1:32,692,692,Maci Morris Defensive Rebound.,48,39,9,5,0.8659660253854436,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+205,3,1:27,687,687,Foul on Alana da Silva.,48,39,9,0,0.8666958795382279,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+206,3,1:27,687,687,Taylor Murray made Free Throw.,49,39,10,0,0.888950066631815,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,Kentucky
+207,3,1:27,687,687,Taylor Murray made Free Throw.,50,39,11,11,0.9078839383142975,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,Kentucky
+208,3,1:16,676,676,Foul on Maci Morris.,50,39,11,0,0.9092556729494128,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+209,3,1:16,676,676,Meoshonti Knight made Free Throw.,50,40,10,0,0.8904233830220972,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,Alabama
+210,3,1:16,676,676,Meoshonti Knight made Free Throw.,50,41,9,20,0.8682491132166685,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,Alabama
+211,3,0:56,656,656,Makenzie Cann missed Three Point Jumper.,50,41,9,0,0.8709762066893584,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+212,3,0:56,656,656,Meoshonti Knight Defensive Rebound.,50,41,9,6,0.8709762066893584,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+213,3,0:50,650,650,Foul on Alyssa Rice.,50,41,9,0,0.871791807919224,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+214,3,0:50,650,650,Meoshonti Knight made Free Throw.,50,42,8,0,0.8460443026891834,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,Alabama
+215,3,0:50,650,650,Meoshonti Knight missed Free Throw.,50,42,8,0,0.8460443026891834,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+216,3,0:50,650,650,Makayla Epps Defensive Rebound.,50,42,8,24,0.8460443026891834,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+217,3,0:26,626,626,Maci Morris made Jumper.,52,42,10,21,0.8969574476245324,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,Kentucky
+218,3,0:05,605,605,Hannah Cook missed Jumper.,52,42,10,0,0.9000268299108503,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+219,3,0:05,605,605,Makenzie Cann Defensive Rebound.,52,42,10,4,0.9000268299108503,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+220,3,0:01,601,601,Makayla Epps made Layup.,54,42,12,1,0.9337290134689358,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,Kentucky
+221,3,0:00,600,600,End of 3rd Quarter,54,42,12,8,0.9338615050800714,Kentucky,Alabama,4,3,0,0,NA,400945240,2017-03-03,
+222,4,9:52,592,592,Quanetria Bolton missed Three Point Jumper.,54,42,12,0,0.9349514079305326,Kentucky,Alabama,5,4,0,0,NA,400945240,2017-03-03,
+223,4,9:52,592,592,Makayla Epps Defensive Rebound.,54,42,12,10,0.9349514079305326,Kentucky,Alabama,5,4,0,0,NA,400945240,2017-03-03,
+224,4,9:42,582,582,Makayla Epps missed Jumper.,54,42,12,0,0.9363943096834492,Kentucky,Alabama,5,4,0,0,NA,400945240,2017-03-03,
+225,4,9:42,582,582,Meoshonti Knight Defensive Rebound.,54,42,12,29,0.9363943096834492,Kentucky,Alabama,5,4,0,0,NA,400945240,2017-03-03,
+226,4,9:13,553,553,Meoshonti Knight made Three Point Jumper. Assisted by Jordan Lewis.,54,45,9,28,0.8888575951995671,Kentucky,Alabama,5,4,0,0,NA,400945240,2017-03-03,Alabama
+227,4,8:45,525,525,Maci Morris Turnover.,54,45,9,30,0.8948283331324242,Kentucky,Alabama,5,4,0,0,NA,400945240,2017-03-03,
+228,4,8:15,495,495,Hannah Cook missed Three Point Jumper.,54,45,9,0,0.8998724582429591,Kentucky,Alabama,5,4,0,0,NA,400945240,2017-03-03,
+229,4,8:15,495,495,Evelyn Akhator Defensive Rebound.,54,45,9,6,0.8998724582429591,Kentucky,Alabama,5,4,0,0,NA,400945240,2017-03-03,
+230,4,8:09,489,489,Makayla Epps missed Jumper.,54,45,9,0,0.9008689573803969,Kentucky,Alabama,5,4,0,0,NA,400945240,2017-03-03,
+231,4,8:09,489,489,Ashley Williams Defensive Rebound.,54,45,9,6,0.9008689573803969,Kentucky,Alabama,5,4,0,0,NA,400945240,2017-03-03,
+232,4,8:03,483,483,Ashley Williams Turnover.,54,45,9,0,0.9018926163528364,Kentucky,Alabama,5,4,0,0,NA,400945240,2017-03-03,
+233,4,8:03,483,483,Evelyn Akhator Steal.,54,45,9,20,0.9018926163528364,Kentucky,Alabama,5,4,0,0,NA,400945240,2017-03-03,
+234,4,7:43,463,463,Evelyn Akhator missed Jumper.,54,45,9,0,0.9056558502125573,Kentucky,Alabama,5,4,0,0,NA,400945240,2017-03-03,
+235,4,7:43,463,463,Alabama Defensive Rebound.,54,45,9,23,0.9056558502125573,Kentucky,Alabama,5,4,0,0,NA,400945240,2017-03-03,
+236,4,7:20,440,440,Ashley Williams missed Jumper.,54,45,9,0,0.91104597802445,Kentucky,Alabama,5,4,0,0,NA,400945240,2017-03-03,
+237,4,7:20,440,440,Taylor Murray Defensive Rebound.,54,45,9,6,0.91104597802445,Kentucky,Alabama,5,4,0,0,NA,400945240,2017-03-03,
+238,4,7:14,434,434,Taylor Murray made Jumper.,56,45,11,4,0.9462704496886708,Kentucky,Alabama,5,4,0,0,NA,400945240,2017-03-03,Kentucky
+239,4,7:10,430,430,Alabama  Timeout,56,45,11,24,0.9471754791915058,Kentucky,Alabama,5,3,0,1,NA,400945240,2017-03-03,
+240,4,6:46,406,406,Coco Knight Turnover.,56,45,11,1,0.9520799937286367,Kentucky,Alabama,5,3,0,1,NA,400945240,2017-03-03,
+241,4,6:45,405,405,Taylor Murray Steal.,56,45,11,1,0.9522639397580512,Kentucky,Alabama,5,3,0,1,NA,400945240,2017-03-03,
+242,4,6:44,404,404,Taylor Murray missed Layup.,56,45,11,0,0.9524467946449551,Kentucky,Alabama,5,3,0,1,NA,400945240,2017-03-03,
+243,4,6:44,404,404,Coco Knight Defensive Rebound.,56,45,11,23,0.9524467946449551,Kentucky,Alabama,5,3,0,1,NA,400945240,2017-03-03,
+244,4,6:21,381,381,Foul on Alyssa Rice.,56,45,11,0,0.9564726007296893,Kentucky,Alabama,5,3,0,1,NA,400945240,2017-03-03,
+245,4,6:21,381,381,Ashley Williams missed Free Throw.,56,45,11,0,0.9564726007296893,Kentucky,Alabama,5,3,0,1,NA,400945240,2017-03-03,
+246,4,6:21,381,381,Alabama Deadball Team Rebound.,56,45,11,0,0.9564726007296893,Kentucky,Alabama,5,3,0,1,NA,400945240,2017-03-03,
+247,4,6:21,381,381,Ashley Williams made Free Throw.,56,46,10,20,0.9431583592985464,Kentucky,Alabama,5,3,0,1,NA,400945240,2017-03-03,Alabama
+248,4,6:01,361,361,Maci Morris missed Layup.,56,46,10,0,0.9472784173368156,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+249,4,6:01,361,361,Hannah Cook Defensive Rebound.,56,46,10,2,0.9472784173368156,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+250,4,5:59,359,359,Foul on Alyssa Rice.,56,46,10,13,0.9477071308588539,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+251,4,5:46,346,346,Coco Knight missed Jumper.,56,46,10,0,0.9506053502729892,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+252,4,5:46,346,346,Kentucky Defensive Rebound.,56,46,10,29,0.9506053502729892,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+253,4,5:17,317,317,Alyssa Rice missed Jumper.,56,46,10,0,0.9579370761174603,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+254,4,5:17,317,317,Ashley Williams Defensive Rebound.,56,46,10,21,0.9579370761174603,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+255,4,4:56,296,296,Foul on Evelyn Akhator.,56,46,10,5,0.9623269127943288,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+256,4,4:51,291,291,Meoshonti Knight missed Jumper.,56,46,10,0,0.9625851044440888,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+257,4,4:51,291,291,Taylor Murray Defensive Rebound.,56,46,10,10,0.9625851044440888,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+258,4,4:41,281,281,Evelyn Akhator made Jumper. Assisted by Taylor Murray.,58,46,12,22,0.979999072643526,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,Kentucky
+259,4,4:19,259,259,Ashley Williams made Layup.,58,48,10,0,0.9602863706664551,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,Alabama
+260,4,4:19,259,259,Foul on Maci Morris.,58,48,10,0,0.9602863706664551,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+261,4,4:19,259,259,Ashley Williams missed Free Throw.,58,48,10,0,0.9602863706664551,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+262,4,4:19,259,259,Makenzie Cann Defensive Rebound.,58,48,10,15,0.9602863706664551,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+263,4,4:04,244,244,Foul on Meoshonti Knight.,58,48,10,0,0.9588459705264302,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+264,4,4:04,244,244,Evelyn Akhator made Free Throw.,59,48,11,0,0.9696238208989828,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,Kentucky
+265,4,4:04,244,244,Evelyn Akhator made Free Throw.,60,48,12,15,0.9776448626457497,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,Kentucky
+266,4,3:49,229,229,Hannah Cook missed Jumper.,60,48,12,0,0.9776559108553322,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+267,4,3:49,229,229,Ashley Williams Offensive Rebound.,60,48,12,7,0.9776559108553322,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+268,4,3:42,222,222,Shaquera Wade missed Jumper.,60,48,12,0,0.9782194254830611,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+269,4,3:42,222,222,Evelyn Akhator Defensive Rebound.,60,48,12,14,0.9782194254830611,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+270,4,3:28,208,208,Foul on Ashley Knight.,60,48,12,16,0.9806553256212037,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+271,4,3:12,192,192,Makenzie Cann Turnover.,60,48,12,12,0.9853594278604777,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+272,4,3:00,180,180,Foul on Makenzie Cann.,60,48,12,0,0.9891110671192956,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,
+273,4,3:00,180,180,Ashley Williams made Free Throw.,60,49,11,0,0.9842230838264591,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,Alabama
+274,4,3:00,180,180,Ashley Williams made Free Throw.,60,50,10,14,0.9771915082716773,Kentucky,Alabama,5,3,0,0,NA,400945240,2017-03-03,Alabama
+275,4,2:46,166,166,Kentucky  Timeout,60,50,10,4,0.9830721776145863,Kentucky,Alabama,4,3,1,0,NA,400945240,2017-03-03,
+276,4,2:42,162,162,Quanetria Bolton Block.,60,50,10,1,0.9845204723781308,Kentucky,Alabama,4,3,1,0,NA,400945240,2017-03-03,
+277,4,2:41,161,161,Quanetria Bolton Defensive Rebound.,60,50,10,13,0.984868387354415,Kentucky,Alabama,4,3,1,0,NA,400945240,2017-03-03,
+278,4,2:28,148,148,Quanetria Bolton Turnover.,60,50,10,23,0.9889212055951195,Kentucky,Alabama,4,3,1,0,NA,400945240,2017-03-03,
+279,4,2:05,125,125,Maci Morris Turnover.,60,50,10,0,0.9942204513729853,Kentucky,Alabama,4,3,1,0,NA,400945240,2017-03-03,
+280,4,2:05,125,125,Shaquera Wade Steal.,60,50,10,14,0.9942204513729853,Kentucky,Alabama,4,3,1,0,NA,400945240,2017-03-03,
+281,4,1:51,111,111,Quanetria Bolton missed Jumper.,60,50,10,0,0.9964221807199807,Kentucky,Alabama,4,3,1,0,NA,400945240,2017-03-03,
+282,4,1:51,111,111,Evelyn Akhator Defensive Rebound.,60,50,10,24,0.9964221807199807,Kentucky,Alabama,4,3,1,0,NA,400945240,2017-03-03,
+283,4,1:27,87,87,Foul on Hannah Cook.,60,50,10,0,0.9986873679623053,Kentucky,Alabama,4,3,0,1,NA,400945240,2017-03-03,
+284,4,1:27,87,87,Alabama  Timeout,60,50,10,11,0.9986873679623053,Kentucky,Alabama,4,2,0,1,NA,400945240,2017-03-03,
+285,4,1:16,76,76,Foul on Quanetria Bolton.,60,50,10,0,0.9992139967743623,Kentucky,Alabama,4,2,0,1,NA,400945240,2017-03-03,
+286,4,1:16,76,76,Alyssa Rice made Free Throw.,61,50,11,0,0.9996152529703156,Kentucky,Alabama,4,2,0,1,NA,400945240,2017-03-03,Kentucky
+287,4,1:16,76,76,Alyssa Rice missed Free Throw.,61,50,11,0,0.9996152529703156,Kentucky,Alabama,4,2,0,1,NA,400945240,2017-03-03,
+288,4,1:16,76,76,Ashley Williams Defensive Rebound.,61,50,11,10,0.9996152529703156,Kentucky,Alabama,4,2,0,1,NA,400945240,2017-03-03,
+289,4,1:06,66,66,Hannah Cook made Three Point Jumper. Assisted by Jordan Lewis.,61,53,8,34,0.9978096603472577,Kentucky,Alabama,4,2,0,1,NA,400945240,2017-03-03,Alabama
+290,4,0:32,32,32,Maci Morris missed Three Point Jumper.,61,53,8,0,0.999533894785256,Kentucky,Alabama,4,2,0,1,NA,400945240,2017-03-03,
+291,4,0:32,32,32,Meoshonti Knight Defensive Rebound.,61,53,8,5,0.999533894785256,Kentucky,Alabama,4,2,0,1,NA,400945240,2017-03-03,
+292,4,0:27,27,27,Ashley Williams made Layup. Assisted by Meoshonti Knight.,61,55,6,8,0.9973802969153209,Kentucky,Alabama,4,2,0,1,NA,400945240,2017-03-03,Alabama
+293,4,0:19,19,19,Foul on Ashley Williams.,61,55,6,0,0.998079365653707,Kentucky,Alabama,4,2,0,0,NA,400945240,2017-03-03,
+294,4,0:19,19,19,Makayla Epps made Free Throw.,62,55,7,0,0.9993217888798495,Kentucky,Alabama,4,2,0,0,NA,400945240,2017-03-03,Kentucky
+295,4,0:19,19,19,Makayla Epps made Free Throw.,63,55,8,6,0.9997607039400961,Kentucky,Alabama,4,2,0,0,NA,400945240,2017-03-03,Kentucky
+296,4,0:13,13,13,Jordan Lewis missed Three Point Jumper.,63,55,8,0,0.9998273407260461,Kentucky,Alabama,4,2,0,0,NA,400945240,2017-03-03,
+297,4,0:13,13,13,Kentucky Defensive Rebound.,63,55,8,1,0.9998273407260461,Kentucky,Alabama,4,2,0,0,NA,400945240,2017-03-03,
+298,4,0:12,12,12,Kentucky  Timeout,63,55,8,1,0.9998366814872842,Kentucky,Alabama,3,2,1,0,NA,400945240,2017-03-03,
+299,4,0:11,11,11,Foul on Meoshonti Knight.,63,55,8,0,0.9998455658750965,Kentucky,Alabama,3,2,1,0,NA,400945240,2017-03-03,
+300,4,0:11,11,11,Maci Morris made Free Throw.,64,55,9,0,0.9999484309366747,Kentucky,Alabama,3,2,1,0,NA,400945240,2017-03-03,Kentucky
+301,4,0:11,11,11,Maci Morris made Free Throw.,65,55,10,7,0.9999827810979681,Kentucky,Alabama,3,2,1,0,NA,400945240,2017-03-03,Kentucky
+302,4,0:04,4,4,Hannah Cook missed Three Point Jumper.,65,55,10,0,0.9999895491481515,Kentucky,Alabama,3,2,1,0,NA,400945240,2017-03-03,
+303,4,0:04,4,4,Shaquera Wade Offensive Rebound.,65,55,10,4,0.9999895491481515,Kentucky,Alabama,3,2,1,0,NA,400945240,2017-03-03,
+304,4,0:00,0,0,End of Game,65,55,10,0,1,Kentucky,Alabama,3,2,1,0,NA,400945240,2017-03-03,

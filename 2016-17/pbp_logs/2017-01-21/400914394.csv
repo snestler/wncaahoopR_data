@@ -1,0 +1,309 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:40,2380,2380,Jessie Edwards Turnover.,0,0,0,1,0.5,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,NA
+2,1,9:39,2379,2379,Kathleen Doyle Steal.,0,0,0,4,0.5,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+3,1,9:35,2375,2375,Foul on Carlie Wagner.,0,0,0,17,0.5,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+4,1,9:18,2358,2358,Kathleen Doyle Turnover.,0,0,0,0,0.5,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+5,1,9:18,2358,2358,Foul on Kathleen Doyle.,0,0,0,15,0.5,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+6,1,9:03,2343,2343,Kenisha Bell made Jumper. Assisted by Carlie Wagner.,0,2,-2,0,0.45475749314437386,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Minnesota
+7,1,9:03,2343,2343,Foul on Makenzie Meyer.,0,2,-2,0,0.45475749314437386,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+8,1,9:03,2343,2343,Kenisha Bell made Free Throw.,0,3,-3,3,0.4323671882528801,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Minnesota
+9,1,9:00,2340,2340,Ally Disterhoft made Three Point Jumper. Assisted by Makenzie Meyer.,3,3,0,0,0.5,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Iowa
+10,1,9:00,2340,2340,Kenisha Bell missed Jumper.,3,3,0,0,0.5,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+11,1,9:00,2340,2340,Jessie Edwards Offensive Rebound.,3,3,0,0,0.5,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+12,1,9:00,2340,2340,Jessie Edwards made Layup.,3,5,-2,0,0.4546922706473648,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Minnesota
+13,1,9:00,2340,2340,Makenzie Meyer missed Three Point Jumper.,3,5,-2,0,0.4546922706473648,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+14,1,9:00,2340,2340,Jessie Edwards Defensive Rebound.,3,5,-2,0,0.4546922706473648,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+15,1,9:00,2340,2340,Gadiva Hubbard missed Jumper.,3,5,-2,0,0.4546922706473648,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+16,1,9:00,2340,2340,Tania Davis Defensive Rebound.,3,5,-2,0,0.4546922706473648,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+17,1,9:00,2340,2340,Makenzie Meyer missed Three Point Jumper.,3,5,-2,0,0.4546922706473648,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+18,1,9:00,2340,2340,Jessie Edwards Defensive Rebound.,3,5,-2,0,0.4546922706473648,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+19,1,9:00,2340,2340,Carlie Wagner missed Jumper.,3,5,-2,0,0.4546922706473648,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+20,1,9:00,2340,2340,Megan Gustafson Defensive Rebound.,3,5,-2,0,0.4546922706473648,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+21,1,9:00,2340,2340,Kathleen Doyle made Layup. Assisted by Makenzie Meyer.,5,5,0,122,0.5,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Iowa
+22,1,6:58,2218,2218,Gadiva Hubbard missed Three Point Jumper.,5,5,0,0,0.5,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+23,1,6:58,2218,2218,Tania Davis Defensive Rebound.,5,5,0,5,0.5,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+24,1,6:53,2213,2213,Kathleen Doyle made Layup.,7,5,2,19,0.5481527436215755,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Iowa
+25,1,6:34,2194,2194,Jessie Edwards Turnover.,7,5,2,2,0.5485888554868421,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+26,1,6:32,2192,2192,Ally Disterhoft Steal.,7,5,2,5,0.5486348662607666,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+27,1,6:27,2187,2187,Tania Davis missed Three Point Jumper.,7,5,2,0,0.5487499721246489,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+28,1,6:27,2187,2187,Megan Gustafson Offensive Rebound.,7,5,2,17,0.5487499721246489,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+29,1,6:10,2170,2170,Megan Gustafson made Layup. Assisted by Makenzie Meyer.,9,5,4,20,0.597343873385936,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Iowa
+30,1,5:50,2150,2150,Gadiva Hubbard made Three Point Jumper. Assisted by Jessie Edwards.,9,8,1,24,0.5248641034247604,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Minnesota
+31,1,5:26,2126,2126,Makenzie Meyer Turnover.,9,8,1,0,0.5251463699997507,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+32,1,5:26,2126,2126,Foul on Makenzie Meyer.,9,8,1,11,0.5251463699997507,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+33,1,5:15,2115,2115,Carlie Wagner missed Three Point Jumper.,9,8,1,0,0.5252765869503683,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+34,1,5:15,2115,2115,Megan Gustafson Defensive Rebound.,9,8,1,11,0.5252765869503683,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+35,1,5:04,2104,2104,Ally Disterhoft missed Three Point Jumper.,9,8,1,0,0.5254073665373863,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+36,1,5:04,2104,2104,Minnesota Defensive Rebound.,9,8,1,4,0.5254073665373863,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+37,1,5:00,2100,2100,Iowa  Timeout,9,8,1,16,0.5254550666804201,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,
+38,1,4:44,2084,2084,Whitney Tinjum made Three Point Jumper. Assisted by Carlie Wagner.,9,11,-2,22,0.4488412727583027,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,Minnesota
+39,1,4:22,2062,2062,Bre Cera made Three Point Jumper. Assisted by Megan Gustafson.,12,11,1,13,0.5259122868853792,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,Iowa
+40,1,4:09,2049,2049,Joanna Hedstrom made Three Point Jumper. Assisted by Carlie Wagner.,12,14,-2,15,0.4480003742149476,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,Minnesota
+41,1,3:54,2034,2034,Chase Coley missed Jumper.,12,14,-2,0,0.44763584619598756,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+42,1,3:54,2034,2034,Joanna Hedstrom Defensive Rebound.,12,14,-2,28,0.44763584619598756,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+43,1,3:26,2006,2006,Joanna Hedstrom missed Three Point Jumper.,12,14,-2,0,0.44694821975860094,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+44,1,3:26,2006,2006,Bryanna Fernstrom Offensive Rebound.,12,14,-2,6,0.44694821975860094,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+45,1,3:20,2000,2000,Joanna Hedstrom missed Jumper.,12,14,-2,0,0.44679960004646263,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+46,1,3:20,2000,2000,Chase Coley Block.,12,14,-2,4,0.44679960004646263,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+47,1,3:16,1996,1996,Whitney Tinjum Offensive Rebound.,12,14,-2,24,0.4467002625316585,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+48,1,2:52,1972,1972,Megan Gustafson made Layup. Assisted by Chase Coley.,14,14,0,23,0.5,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Iowa
+49,1,2:29,1949,1949,Carlie Wagner made Jumper.,14,16,-2,14,0.44551684476573233,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Minnesota
+50,1,2:15,1935,1935,Chase Coley missed Jumper.,14,16,-2,0,0.44515825695845757,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+51,1,2:15,1935,1935,Bryanna Fernstrom Defensive Rebound.,14,16,-2,11,0.44515825695845757,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+52,1,2:04,1924,1924,Bryanna Fernstrom missed Jumper.,14,16,-2,0,0.44487481013225266,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+53,1,2:04,1924,1924,Chase Coley Defensive Rebound.,14,16,-2,7,0.44487481013225266,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+54,1,1:57,1917,1917,Ally Disterhoft made Layup.,16,16,0,18,0.5,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Iowa
+55,1,1:39,1899,1899,Kenisha Bell made Jumper.,16,18,-2,16,0.4442317424125001,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Minnesota
+56,1,1:23,1883,1883,Bre Cera Turnover.,16,18,-2,4,0.44382056072241355,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+57,1,1:19,1879,1879,Whitney Tinjum Steal.,16,18,-2,4,0.4437177195900225,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+58,1,1:15,1875,1875,Kenisha Bell missed Jumper.,16,18,-2,0,0.4436148405043947,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+59,1,1:15,1875,1875,Megan Gustafson Defensive Rebound.,16,18,-2,0,0.4436148405043947,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+60,1,1:15,1875,1875,Foul on Bryanna Fernstrom.,16,18,-2,3,0.4436148405043947,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+61,1,1:12,1872,1872,Alexa Kastanek made Three Point Jumper. Assisted by Chase Coley.,19,18,1,40,0.5283217541739113,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Iowa
+62,1,0:32,1832,1832,Whitney Tinjum made Three Point Jumper. Assisted by Gadiva Hubbard.,19,21,-2,13,0.44250385571185863,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Minnesota
+63,1,0:19,1819,1819,Chase Coley missed Jumper.,19,21,-2,0,0.4421650461150637,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+64,1,0:19,1819,1819,Jessie Edwards Block.,19,21,-2,2,0.4421650461150637,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+65,1,0:17,1817,1817,Jessie Edwards Defensive Rebound.,19,21,-2,6,0.4421127563427323,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+66,1,0:11,1811,1811,Joanna Hedstrom Turnover.,19,21,-2,2,0.44195559694186315,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+67,1,0:09,1809,1809,Alexa Kastanek Steal.,19,21,-2,7,0.4419031096968457,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+68,1,0:02,1802,1802,Chase Coley missed Jumper.,19,21,-2,0,0.4417189834133943,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+69,1,0:02,1802,1802,Kenisha Bell Defensive Rebound.,19,21,-2,2,0.4417189834133943,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+70,1,0:00,1800,1800,End of 1st Quarter,19,21,-2,16,0.44166625058836706,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+71,2,9:44,1784,1784,Megan Gustafson made Layup. Assisted by Alexa Kastanek.,21,21,0,18,0.5,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Iowa
+72,2,9:26,1766,1766,Carlie Wagner made Jumper.,21,23,-2,6,0.44075992932257757,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Minnesota
+73,2,9:20,1760,1760,Foul on Gadiva Hubbard.,21,23,-2,3,0.44059779950943273,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+74,2,9:17,1757,1757,Megan Gustafson missed Jumper.,21,23,-2,0,0.4405164585835989,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+75,2,9:17,1757,1757,Gadiva Hubbard Defensive Rebound.,21,23,-2,7,0.4405164585835989,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+76,2,9:10,1750,1750,Whitney Tinjum made Layup. Assisted by Kenisha Bell.,21,25,-4,15,0.3823279566598228,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Minnesota
+77,2,8:55,1735,1735,Alexa Kastanek missed Three Point Jumper.,21,25,-4,0,0.3815385484584747,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+78,2,8:55,1735,1735,Whitney Tinjum Defensive Rebound.,21,25,-4,4,0.3815385484584747,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+79,2,8:51,1731,1731,Foul on Ally Disterhoft.,21,25,-4,10,0.38132638244792155,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+80,2,8:41,1721,1721,Jessie Edwards Turnover.,21,25,-4,24,0.3807927216218857,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+81,2,8:17,1697,1697,Kathleen Doyle made Three Point Jumper. Assisted by Tania Davis.,24,25,-1,18,0.4693069589844283,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Iowa
+82,2,7:59,1679,1679,Carlie Wagner made Jumper. Assisted by Gadiva Hubbard.,24,27,-3,15,0.408075344540222,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Minnesota
+83,2,7:44,1664,1664,Bre Cera Turnover.,24,27,-3,12,0.40745476750699916,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+84,2,7:32,1652,1652,Carlie Wagner missed Three Point Jumper.,24,27,-3,0,0.4069665239288286,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+85,2,7:32,1652,1652,Tania Davis Defensive Rebound.,24,27,-3,8,0.4069665239288286,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+86,2,7:24,1644,1644,Tania Davis missed Jumper.,24,27,-3,0,0.4066443375870552,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+87,2,7:24,1644,1644,Jessie Edwards Defensive Rebound.,24,27,-3,1,0.4066443375870552,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+88,2,7:23,1643,1643,Foul on Megan Gustafson.,24,27,-3,16,0.40660422519935224,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+89,2,7:07,1627,1627,Jessie Edwards missed Jumper.,24,27,-3,0,0.4059663825719121,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+90,2,7:07,1627,1627,Ally Disterhoft Defensive Rebound.,24,27,-3,18,0.4059663825719121,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+91,2,6:49,1609,1609,Kathleen Doyle missed Jumper.,24,27,-3,0,0.4052548553490867,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+92,2,6:49,1609,1609,Jessie Edwards Defensive Rebound.,24,27,-3,8,0.4052548553490867,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+93,2,6:41,1601,1601,Carlie Wagner made Jumper.,24,29,-5,12,0.34489799380516656,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Minnesota
+94,2,6:29,1589,1589,Foul on Kenisha Bell.,24,29,-5,9,0.34415873247353007,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+95,2,6:20,1580,1580,Tania Davis missed Three Point Jumper.,24,29,-5,0,0.3436032402030088,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+96,2,6:20,1580,1580,Bre Cera Offensive Rebound.,24,29,-5,5,0.3436032402030088,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+97,2,6:15,1575,1575,Tania Davis missed Three Point Jumper.,24,29,-5,0,0.343293870557043,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+98,2,6:15,1575,1575,Carlie Wagner Defensive Rebound.,24,29,-5,16,0.343293870557043,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+99,2,5:59,1559,1559,Foul on Bre Cera.,24,29,-5,0,0.3422981550567063,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+100,2,5:59,1559,1559,Carlie Wagner made Free Throw.,24,30,-6,0,0.31352655964640513,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Minnesota
+101,2,5:59,1559,1559,Carlie Wagner made Free Throw.,24,31,-7,22,0.2861212680333814,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Minnesota
+102,2,5:37,1537,1537,Kathleen Doyle made Jumper. Assisted by Christina Buttenham.,26,31,-5,18,0.34090743170215126,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Iowa
+103,2,5:19,1519,1519,Whitney Tinjum made Jumper.,26,33,-7,20,0.282880667568803,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Minnesota
+104,2,4:59,1499,1499,Iowa  Timeout,26,33,-7,4,0.28119621751109486,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,
+105,2,4:55,1495,1495,Chase Coley made Layup. Assisted by Tania Davis.,28,33,-5,9,0.33813930157188365,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,Iowa
+106,2,4:46,1486,1486,Bryanna Fernstrom Turnover.,28,33,-5,25,0.33752008257272376,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,
+107,2,4:21,1461,1461,Ally Disterhoft missed Jumper.,28,33,-5,0,0.3357389579036991,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,
+108,2,4:21,1461,1461,Jessie Edwards Block.,28,33,-5,2,0.3357389579036991,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,
+109,2,4:19,1459,1459,Iowa Offensive Rebound.,28,33,-5,8,0.33559220571545256,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,
+110,2,4:11,1451,1451,Ally Disterhoft missed Three Point Jumper.,28,33,-5,0,0.33499833528655604,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,
+111,2,4:11,1451,1451,Carlie Wagner Defensive Rebound.,28,33,-5,13,0.33499833528655604,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,
+112,2,3:58,1438,1438,Carlie Wagner missed Jumper.,28,33,-5,0,0.33403454119982545,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+113,2,3:58,1438,1438,Ally Disterhoft Defensive Rebound.,28,33,-5,9,0.33403454119982545,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+114,2,3:49,1429,1429,Christina Buttenham Turnover.,28,33,-5,0,0.3333830296221309,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+115,2,3:49,1429,1429,Foul on Christina Buttenham.,28,33,-5,12,0.3333830296221309,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+116,2,3:37,1417,1417,Kenisha Bell Turnover.,28,33,-5,1,0.33253134316659233,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+117,2,3:36,1416,1416,Kathleen Doyle Steal.,28,33,-5,7,0.33246114014073375,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+118,2,3:29,1409,1409,Ally Disterhoft missed Three Point Jumper.,28,33,-5,0,0.3319726260632339,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+119,2,3:29,1409,1409,Carlie Wagner Defensive Rebound.,28,33,-5,6,0.3319726260632339,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+120,2,3:23,1403,1403,Carlie Wagner missed Jumper.,28,33,-5,0,0.33155754688670597,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+121,2,3:23,1403,1403,Chase Coley Defensive Rebound.,28,33,-5,9,0.33155754688670597,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+122,2,3:14,1394,1394,Ally Disterhoft made Jumper.,30,33,-3,17,0.3959517818527793,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Iowa
+123,2,2:57,1377,1377,Gadiva Hubbard made Three Point Jumper. Assisted by Kenisha Bell.,30,36,-6,24,0.29922640090538843,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Minnesota
+124,2,2:33,1353,1353,Hannah Stewart made Layup. Assisted by Kathleen Doyle.,32,36,-4,18,0.3604994391824127,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Iowa
+125,2,2:15,1335,1335,Carlie Wagner Turnover.,32,36,-4,29,0.3594742336917911,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+126,2,1:46,1306,1306,Foul on Gadiva Hubbard.,32,36,-4,0,0.35777776303255127,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+127,2,1:46,1306,1306,Kathleen Doyle missed Free Throw.,32,36,-4,0,0.35777776303255127,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+128,2,1:46,1306,1306,Iowa Deadball Team Rebound.,32,36,-4,0,0.35777776303255127,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+129,2,1:46,1306,1306,Kathleen Doyle made Free Throw.,33,36,-3,25,0.39203485759567475,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Iowa
+130,2,1:21,1281,1281,Carlie Wagner missed Jumper.,33,36,-3,0,0.3908395712192175,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+131,2,1:21,1281,1281,Chase Coley Defensive Rebound.,33,36,-3,14,0.3908395712192175,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+132,2,1:07,1267,1267,Foul on Annalese Lamke.,33,36,-3,10,0.3901381252233893,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+133,2,0:57,1257,1257,Chase Coley made Jumper. Assisted by Tania Davis.,35,36,-1,18,0.4626605904634737,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Iowa
+134,2,0:39,1239,1239,Carlie Wagner missed Three Point Jumper.,35,36,-1,0,0.46232163818367367,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+135,2,0:39,1239,1239,Megan Gustafson Defensive Rebound.,35,36,-1,2,0.46232163818367367,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+136,2,0:37,1237,1237,Minnesota  Timeout,35,36,-1,24,0.4622827512365301,Iowa,Minnesota,3,3,0,1,NA,400914394,2017-01-21,
+137,2,0:13,1213,1213,Megan Gustafson missed Jumper.,35,36,-1,0,0.46179475602345627,Iowa,Minnesota,3,3,0,1,NA,400914394,2017-01-21,
+138,2,0:13,1213,1213,Whitney Tinjum Defensive Rebound.,35,36,-1,8,0.46179475602345627,Iowa,Minnesota,3,3,0,1,NA,400914394,2017-01-21,
+139,2,0:05,1205,1205,Kenisha Bell missed Jumper.,35,36,-1,0,0.46162420343577754,Iowa,Minnesota,3,3,0,1,NA,400914394,2017-01-21,
+140,2,0:05,1205,1205,Megan Gustafson Defensive Rebound.,35,36,-1,5,0.46162420343577754,Iowa,Minnesota,3,3,0,1,NA,400914394,2017-01-21,
+141,2,0:00,1200,1200,End of 2nd Quarter,35,36,-1,12,0.4615187446422248,Iowa,Minnesota,3,3,0,1,NA,400914394,2017-01-21,
+142,3,9:48,1188,1188,Foul on Kathleen Doyle.,35,36,-1,0,0.4612697529898506,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+143,3,9:48,1188,1188,Carlie Wagner made Free Throw.,35,37,-2,0,0.42300150680498616,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Minnesota
+144,3,9:48,1188,1188,Carlie Wagner missed Free Throw.,35,37,-2,0,0.42300150680498616,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+145,3,9:48,1188,1188,Ally Disterhoft Defensive Rebound.,35,37,-2,9,0.42300150680498616,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+146,3,9:39,1179,1179,Ally Disterhoft made Three Point Jumper. Assisted by Tania Davis.,38,37,1,16,0.5389137399514871,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Iowa
+147,3,9:23,1163,1163,Kenisha Bell missed Jumper.,38,37,1,0,0.5392347452041315,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+148,3,9:23,1163,1163,Ally Disterhoft Block.,38,37,1,3,0.5392347452041315,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+149,3,9:20,1160,1160,Jessie Edwards Offensive Rebound.,38,37,1,2,0.5392943727031536,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+150,3,9:18,1158,1158,Jessie Edwards missed Jumper.,38,37,1,0,0.5393340497150618,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+151,3,9:18,1158,1158,Megan Gustafson Defensive Rebound.,38,37,1,8,0.5393340497150618,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+152,3,9:10,1150,1150,Kathleen Doyle missed Jumper.,38,37,1,0,0.5394922781991501,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+153,3,9:10,1150,1150,Carlie Wagner Defensive Rebound.,38,37,1,26,0.5394922781991501,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+154,3,8:44,1124,1124,Kenisha Bell missed Jumper.,38,37,1,0,0.5400048213985904,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+155,3,8:44,1124,1124,Joanna Hedstrom Offensive Rebound.,38,37,1,4,0.5400048213985904,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+156,3,8:40,1120,1120,Joanna Hedstrom Turnover.,38,37,1,1,0.5400839591935629,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+157,3,8:39,1119,1119,Tania Davis Steal.,38,37,1,11,0.5401037730413328,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+158,3,8:28,1108,1108,Megan Gustafson made Layup. Assisted by Kathleen Doyle.,40,37,3,19,0.6189103970633331,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Iowa
+159,3,8:09,1089,1089,Gadiva Hubbard made Layup.,40,39,1,14,0.5407073353124694,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Minnesota
+160,3,7:55,1075,1075,Megan Gustafson missed Jumper.,40,39,1,0,0.5409981879589641,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+161,3,7:55,1075,1075,Jessie Edwards Defensive Rebound.,40,39,1,9,0.5409981879589641,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+162,3,7:46,1066,1066,Kenisha Bell missed Jumper.,40,39,1,0,0.5411894919213052,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+163,3,7:46,1066,1066,Tania Davis Defensive Rebound.,40,39,1,8,0.5411894919213052,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+164,3,7:38,1058,1058,Kathleen Doyle missed Three Point Jumper.,40,39,1,0,0.5413628588167636,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+165,3,7:38,1058,1058,Megan Gustafson Offensive Rebound.,40,39,1,5,0.5413628588167636,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+166,3,7:33,1053,1053,Megan Gustafson missed Jumper.,40,39,1,0,0.5414729607477611,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+167,3,7:33,1053,1053,Jessie Edwards Defensive Rebound.,40,39,1,13,0.5414729607477611,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+168,3,7:20,1040,1040,Gadiva Hubbard made Layup.,40,41,-1,11,0.45823379645767426,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Minnesota
+169,3,7:09,1029,1029,Megan Gustafson made Layup.,42,41,1,0,0.5420230677951058,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Iowa
+170,3,7:09,1029,1029,Foul on Annalese Lamke.,42,41,1,0,0.5420230677951058,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+171,3,7:09,1029,1029,Megan Gustafson made Free Throw.,43,41,2,19,0.5834566186575072,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Iowa
+172,3,6:50,1010,1010,Kenisha Bell Turnover.,43,41,2,1,0.5843675110386959,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+173,3,6:49,1009,1009,Tania Davis Steal.,43,41,2,2,0.5844170624955853,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+174,3,6:47,1007,1007,Tania Davis made Layup.,45,41,4,17,0.6643378481158143,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Iowa
+175,3,6:30,990,990,Foul on Makenzie Meyer.,45,41,4,0,0.6659445398028806,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+176,3,6:30,990,990,Gadiva Hubbard missed Free Throw.,45,41,4,0,0.6659445398028806,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+177,3,6:30,990,990,Minnesota Deadball Team Rebound.,45,41,4,0,0.6659445398028806,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+178,3,6:30,990,990,Gadiva Hubbard made Free Throw.,45,42,3,21,0.6265453370290126,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Minnesota
+179,3,6:09,969,969,Megan Gustafson made Layup. Assisted by Ally Disterhoft.,47,42,5,30,0.7056451986360136,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Iowa
+180,3,5:39,939,939,Kenisha Bell missed Jumper.,47,42,5,0,0.7090023390836687,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+181,3,5:39,939,939,Kathleen Doyle Defensive Rebound.,47,42,5,7,0.7090023390836687,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+182,3,5:32,932,932,Ally Disterhoft missed Jumper.,47,42,5,0,0.7097134011903837,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+183,3,5:32,932,932,Annalese Lamke Defensive Rebound.,47,42,5,13,0.7097134011903837,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+184,3,5:19,919,919,Carlie Wagner missed Three Point Jumper.,47,42,5,0,0.7109799976040713,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+185,3,5:19,919,919,Iowa Defensive Rebound.,47,42,5,19,0.7109799976040713,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+186,3,5:00,900,900,Iowa  Timeout,47,42,5,5,0.7127384302444656,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,
+187,3,4:55,895,895,Chase Coley made Jumper. Assisted by Tania Davis.,49,42,7,17,0.7816474209835094,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,Iowa
+188,3,4:38,878,878,Gadiva Hubbard made Three Point Jumper. Assisted by Kenisha Bell.,49,45,4,20,0.6758304942802795,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,Minnesota
+189,3,4:18,858,858,Hannah Stewart Turnover.,49,45,4,13,0.6773725569607463,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,
+190,3,4:05,845,845,Carlie Wagner missed Jumper.,49,45,4,0,0.6784058250016495,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,
+191,3,4:05,845,845,Jessie Edwards Offensive Rebound.,49,45,4,4,0.6784058250016495,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,
+192,3,4:01,841,841,Jessie Edwards missed Jumper.,49,45,4,0,0.6787315682447721,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,
+193,3,4:01,841,841,Hannah Stewart Defensive Rebound.,49,45,4,8,0.6787315682447721,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,
+194,3,3:53,833,833,Tania Davis made Layup.,51,45,6,6,0.7551927805068069,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Iowa
+195,3,3:47,827,827,Foul on Bre Cera.,51,45,6,19,0.7558452902162457,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+196,3,3:28,808,808,Carlie Wagner made Layup.,51,47,4,0,0.6816292036850854,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Minnesota
+197,3,3:28,808,808,Foul on Kathleen Doyle.,51,47,4,0,0.6816292036850854,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+198,3,3:28,808,808,Carlie Wagner made Free Throw.,51,48,3,13,0.6389827731758565,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Minnesota
+199,3,3:15,795,795,Megan Gustafson made Layup.,53,48,5,23,0.7229130577045942,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Iowa
+200,3,2:52,772,772,Carlie Wagner missed Jumper.,53,48,5,0,0.725817751291559,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+201,3,2:52,772,772,Jessie Edwards Offensive Rebound.,53,48,5,2,0.725817751291559,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+202,3,2:50,770,770,Jessie Edwards missed Jumper.,53,48,5,0,0.7260900631414965,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+203,3,2:50,770,770,Chase Coley Defensive Rebound.,53,48,5,7,0.7260900631414965,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+204,3,2:43,763,763,Christina Buttenham missed Three Point Jumper.,53,48,5,0,0.7270704379636768,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+205,3,2:43,763,763,Jessie Edwards Defensive Rebound.,53,48,5,10,0.7270704379636768,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+206,3,2:33,753,753,Joanna Hedstrom made Three Point Jumper. Assisted by Carlie Wagner.,53,51,2,17,0.5974636545064567,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Minnesota
+207,3,2:16,736,736,Chase Coley missed Jumper.,53,51,2,0,0.598799747000911,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+208,3,2:16,736,736,Megan Gustafson Offensive Rebound.,53,51,2,12,0.598799747000911,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+209,3,2:04,724,724,Foul on Gadiva Hubbard.,53,51,2,0,0.5998162650991825,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+210,3,2:04,724,724,Megan Gustafson made Free Throw.,54,51,3,0,0.6472674384576349,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Iowa
+211,3,2:04,724,724,Megan Gustafson made Free Throw.,55,51,4,15,0.6919814646448283,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Iowa
+212,3,1:49,709,709,Carlie Wagner missed Jumper.,55,51,4,0,0.6940628072250521,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+213,3,1:49,709,709,Megan Gustafson Block.,55,51,4,2,0.6940628072250521,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+214,3,1:47,707,707,Megan Gustafson Defensive Rebound.,55,51,4,18,0.6943242433081843,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+215,3,1:29,689,689,Chase Coley Turnover.,55,51,4,2,0.6965474164549059,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+216,3,1:27,687,687,Bryanna Fernstrom Steal.,55,51,4,11,0.696782818099313,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+217,3,1:16,676,676,Whitney Tinjum missed Three Point Jumper.,55,51,4,0,0.6980499853434914,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+218,3,1:16,676,676,Tania Davis Defensive Rebound.,55,51,4,36,0.6980499853434914,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+219,3,0:40,640,640,Tania Davis missed Three Point Jumper.,55,51,4,0,0.7021290422373617,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+220,3,0:40,640,640,Minnesota Defensive Rebound.,55,51,4,8,0.7021290422373617,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+221,3,0:32,632,632,Carlie Wagner missed Jumper.,55,51,4,0,0.7030808166155911,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+222,3,0:32,632,632,Megan Gustafson Defensive Rebound.,55,51,4,6,0.7030808166155911,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+223,3,0:26,626,626,Ally Disterhoft made Layup. Assisted by Tania Davis.,57,51,6,12,0.7855520780184362,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Iowa
+224,3,0:14,614,614,Bryanna Fernstrom Turnover.,57,51,6,0,0.7874302408070558,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+225,3,0:14,614,614,Foul on Bryanna Fernstrom.,57,51,6,6,0.7874302408070558,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+226,3,0:08,608,608,Christina Buttenham Turnover.,57,51,6,8,0.7884227709134339,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+227,3,0:00,600,600,End of 3rd Quarter,57,51,6,25,0.7898113397940275,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+228,4,9:35,575,575,Ally Disterhoft made Three Point Jumper. Assisted by Kathleen Doyle.,60,51,9,14,0.8839675214530335,Iowa,Minnesota,4,5,0,0,NA,400914394,2017-01-21,Iowa
+229,4,9:21,561,561,Jessie Edwards made Layup. Assisted by Joanna Hedstrom.,60,53,7,13,0.8323647886477832,Iowa,Minnesota,4,5,0,0,NA,400914394,2017-01-21,Minnesota
+230,4,9:08,548,548,Chase Coley missed Jumper.,60,53,7,0,0.8357174798071845,Iowa,Minnesota,4,5,0,0,NA,400914394,2017-01-21,
+231,4,9:08,548,548,Kenisha Bell Block.,60,53,7,2,0.8357174798071845,Iowa,Minnesota,4,5,0,0,NA,400914394,2017-01-21,
+232,4,9:06,546,546,Chase Coley Offensive Rebound.,60,53,7,9,0.8362317699552806,Iowa,Minnesota,4,5,0,0,NA,400914394,2017-01-21,
+233,4,8:57,537,537,Foul on Jessie Edwards.,60,53,7,5,0.8383881178768556,Iowa,Minnesota,4,5,0,0,NA,400914394,2017-01-21,
+234,4,8:52,532,532,Tania Davis made Three Point Jumper. Assisted by Ally Disterhoft.,63,53,10,17,0.9140000943894752,Iowa,Minnesota,4,5,0,0,NA,400914394,2017-01-21,Iowa
+235,4,8:35,515,515,Minnesota  Timeout,63,53,10,2,0.9168071357852234,Iowa,Minnesota,4,4,0,1,NA,400914394,2017-01-21,
+236,4,8:33,513,513,Kenisha Bell Turnover.,63,53,10,23,0.9171149246462592,Iowa,Minnesota,4,4,0,1,NA,400914394,2017-01-21,
+237,4,8:10,490,490,Megan Gustafson missed Jumper.,63,53,10,0,0.9205648264737829,Iowa,Minnesota,4,4,0,1,NA,400914394,2017-01-21,
+238,4,8:10,490,490,Jessie Edwards Defensive Rebound.,63,53,10,15,0.9205648264737829,Iowa,Minnesota,4,4,0,1,NA,400914394,2017-01-21,
+239,4,7:55,475,475,Gadiva Hubbard missed Jumper.,63,53,10,0,0.9229400729109368,Iowa,Minnesota,4,4,0,1,NA,400914394,2017-01-21,
+240,4,7:55,475,475,Megan Gustafson Defensive Rebound.,63,53,10,23,0.9229400729109368,Iowa,Minnesota,4,4,0,1,NA,400914394,2017-01-21,
+241,4,7:32,452,452,Megan Gustafson Turnover.,63,53,10,3,0.9272145598449757,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+242,4,7:29,449,449,Carlie Wagner Steal.,63,53,10,9,0.9278505567961186,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+243,4,7:20,440,440,Kenisha Bell missed Jumper.,63,53,10,0,0.9298880412736829,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+244,4,7:20,440,440,Chase Coley Defensive Rebound.,63,53,10,8,0.9298880412736829,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+245,4,7:12,432,432,Tania Davis Turnover.,63,53,10,1,0.9318733500761379,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+246,4,7:11,431,431,Kenisha Bell Steal.,63,53,10,4,0.9321335777219608,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+247,4,7:07,427,427,Foul on Chase Coley.,63,53,10,0,0.9331760698415493,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+248,4,7:07,427,427,Kenisha Bell made Free Throw.,63,54,9,0,0.9147357041262404,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Minnesota
+249,4,7:07,427,427,Kenisha Bell made Free Throw.,63,55,8,23,0.8917966796144349,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Minnesota
+250,4,6:44,404,404,Megan Gustafson made Layup. Assisted by Ally Disterhoft.,65,55,10,34,0.9384692870215198,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Iowa
+251,4,6:10,370,370,Kenisha Bell made Jumper.,65,57,8,8,0.9073047407975813,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Minnesota
+252,4,6:02,362,362,Ally Disterhoft missed Three Point Jumper.,65,57,8,0,0.9094922558427924,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+253,4,6:02,362,362,Minnesota Defensive Rebound.,65,57,8,11,0.9094922558427924,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+254,4,5:51,351,351,Kenisha Bell made Layup.,65,59,6,27,0.8532036078641606,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Minnesota
+255,4,5:24,324,324,Makenzie Meyer made Three Point Jumper. Assisted by Ally Disterhoft.,68,59,9,20,0.9411303147333986,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Iowa
+256,4,5:04,304,304,Gadiva Hubbard missed Jumper.,68,59,9,0,0.9474054679873075,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+257,4,5:04,304,304,Jessie Edwards Offensive Rebound.,68,59,9,0,0.9474054679873075,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+258,4,5:04,304,304,Carlie Wagner missed Jumper.,68,59,9,0,0.9474054679873075,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+259,4,5:04,304,304,Hannah Stewart Defensive Rebound.,68,59,9,11,0.9474054679873075,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+260,4,4:53,293,293,Makenzie Meyer missed Three Point Jumper.,68,59,9,0,0.9488747480638369,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+261,4,4:53,293,293,Hannah Stewart Offensive Rebound.,68,59,9,7,0.9488747480638369,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+262,4,4:46,286,286,Makenzie Meyer made Layup. Assisted by Kathleen Doyle.,70,59,11,14,0.9726920931059576,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,Iowa
+263,4,4:32,272,272,Gadiva Hubbard missed Three Point Jumper.,70,59,11,0,0.9719836685467307,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+264,4,4:32,272,272,Kathleen Doyle Defensive Rebound.,70,59,11,7,0.9719836685467307,Iowa,Minnesota,4,4,0,0,NA,400914394,2017-01-21,
+265,4,4:25,265,265,Tania Davis made Layup. Assisted by Kathleen Doyle.,72,59,13,0,0.9847100238103585,Iowa,Minnesota,4,4,1,0,NA,400914394,2017-01-21,Iowa
+266,4,4:25,265,265,Foul on Jessie Edwards.,72,59,13,0,0.9847100238103585,Iowa,Minnesota,4,4,1,0,NA,400914394,2017-01-21,
+267,4,4:25,265,265,Iowa  Timeout,72,59,13,0,0.9847100238103585,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,
+268,4,4:25,265,265,Tania Davis made Free Throw.,73,59,14,15,0.9888548802679307,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,Iowa
+269,4,4:10,250,250,Kenisha Bell missed Three Point Jumper.,73,59,14,0,0.9881637904336554,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,
+270,4,4:10,250,250,Makenzie Meyer Defensive Rebound.,73,59,14,15,0.9881637904336554,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,
+271,4,3:55,235,235,Bre Cera made Jumper.,75,59,16,18,0.993487354679426,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,Iowa
+272,4,3:37,217,217,Jessie Edwards missed Jumper.,75,59,16,0,0.9940313154760178,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,
+273,4,3:37,217,217,Hannah Stewart Defensive Rebound.,75,59,16,15,0.9940313154760178,Iowa,Minnesota,3,4,1,0,NA,400914394,2017-01-21,
+274,4,3:22,202,202,Bre Cera missed Jumper.,75,59,16,0,0.9952695829319546,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+275,4,3:22,202,202,Kenisha Bell Defensive Rebound.,75,59,16,7,0.9952695829319546,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+276,4,3:15,195,195,Kenisha Bell missed Jumper.,75,59,16,0,0.9960225928212382,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+277,4,3:15,195,195,Gadiva Hubbard Offensive Rebound.,75,59,16,5,0.9960225928212382,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+278,4,3:10,190,190,Gadiva Hubbard missed Jumper.,75,59,16,0,0.9965873124365756,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+279,4,3:10,190,190,Hannah Stewart Block.,75,59,16,2,0.9965873124365756,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+280,4,3:08,188,188,Makenzie Meyer Defensive Rebound.,75,59,16,14,0.996806788553794,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+281,4,2:54,174,174,Foul on Gadiva Hubbard.,75,59,16,0,0.9980090555913438,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+282,4,2:54,174,174,Ally Disterhoft made Free Throw.,76,59,17,0,0.9986492253176684,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Iowa
+283,4,2:54,174,174,Ally Disterhoft made Free Throw.,77,59,18,17,0.9990837433794659,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Iowa
+284,4,2:37,157,157,Annalese Lamke missed Jumper.,77,59,18,0,0.9995407056549357,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+285,4,2:37,157,157,Kathleen Doyle Defensive Rebound.,77,59,18,23,0.9995407056549357,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+286,4,2:14,134,134,Kathleen Doyle Turnover.,77,59,18,1,0.9998449965302825,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+287,4,2:13,133,133,Annalese Lamke Steal.,77,59,18,4,0.9998529487678748,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+288,4,2:09,129,129,Carlie Wagner made Layup.,77,61,16,7,0.9996765468592799,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Minnesota
+289,4,2:02,122,122,Foul on Kenisha Bell.,77,61,16,14,0.9997733430650889,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+290,4,1:48,108,108,Foul on Jasmine Brunson.,77,61,16,0,0.9998977476589085,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+291,4,1:48,108,108,Kathleen Doyle missed Free Throw.,77,61,16,0,0.9998977476589085,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+292,4,1:48,108,108,Iowa Deadball Team Rebound.,77,61,16,0,0.9998977476589085,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,
+293,4,1:48,108,108,Kathleen Doyle made Free Throw.,78,61,17,12,0.9999424162405214,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Iowa
+294,4,1:36,96,96,Gadiva Hubbard made Layup.,78,63,15,13,0.9999130950955321,Iowa,Minnesota,3,4,0,0,NA,400914394,2017-01-21,Minnesota
+295,4,1:23,83,83,Iowa  Timeout,78,63,15,12,0.9999637679450813,Iowa,Minnesota,2,4,1,0,NA,400914394,2017-01-21,
+296,4,1:11,71,71,Carly Mohns missed Jumper.,78,63,15,0,0.9999847873058157,Iowa,Minnesota,2,4,1,0,NA,400914394,2017-01-21,
+297,4,1:11,71,71,Gadiva Hubbard Defensive Rebound.,78,63,15,11,0.9999847873058157,Iowa,Minnesota,2,4,1,0,NA,400914394,2017-01-21,
+298,4,1:00,60,60,Foul on Hailey Schneden.,78,63,15,0,0.9999935486810949,Iowa,Minnesota,2,4,1,0,NA,400914394,2017-01-21,
+299,4,1:00,60,60,Gadiva Hubbard made Free Throw.,78,64,14,0,0.9999856890539959,Iowa,Minnesota,2,4,1,0,NA,400914394,2017-01-21,Minnesota
+300,4,1:00,60,60,Gadiva Hubbard made Free Throw.,78,65,13,18,0.9999682543651169,Iowa,Minnesota,2,4,1,0,NA,400914394,2017-01-21,Minnesota
+301,4,0:42,42,42,Hailey Schneden missed Jumper.,78,65,13,0,0.9999914774905424,Iowa,Minnesota,2,4,1,0,NA,400914394,2017-01-21,
+302,4,0:42,42,42,Christina Buttenham Offensive Rebound.,78,65,13,0,0.9999914774905424,Iowa,Minnesota,2,4,1,0,NA,400914394,2017-01-21,
+303,4,0:42,42,42,Foul on Jasmine Brunson.,78,65,13,0,0.9999914774905424,Iowa,Minnesota,2,4,1,0,NA,400914394,2017-01-21,
+304,4,0:42,42,42,Christina Buttenham made Free Throw.,79,65,14,0,0.9999965277289207,Iowa,Minnesota,2,4,1,0,NA,400914394,2017-01-21,Iowa
+305,4,0:42,42,42,Christina Buttenham made Free Throw.,80,65,15,18,0.9999985853192154,Iowa,Minnesota,2,4,1,0,NA,400914394,2017-01-21,Iowa
+306,4,0:24,24,24,Carlie Wagner missed Three Point Jumper.,80,65,15,0,0.9999997348618122,Iowa,Minnesota,2,4,1,0,NA,400914394,2017-01-21,
+307,4,0:24,24,24,Amanda Ollinger Defensive Rebound.,80,65,15,24,0.9999997348618122,Iowa,Minnesota,2,4,1,0,NA,400914394,2017-01-21,
+308,4,0:00,0,0,End of Game,80,65,15,0,1,Iowa,Minnesota,2,4,0,0,NA,400914394,2017-01-21,

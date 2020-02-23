@@ -1,0 +1,348 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:37,2377,2377,Kiara Lewis made Jumper.,0,0,0,12,0.5,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,NA
+2,1,9:25,2365,2365,Kendra Van Leeuwen Turnover.,2,0,2,1,0.5447677378565356,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Ohio State
+3,1,9:24,2364,2364,Kiara Lewis Steal.,2,0,2,1,0.5447891790846144,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+4,1,9:23,2363,2363,Kiara Lewis made Layup.,4,0,4,0,0.5889071679859265,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Ohio State
+5,1,9:23,2363,2363,Foul on Cayla McMorris.,4,0,4,0,0.5889071679859265,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+6,1,9:23,2363,2363,Kiara Lewis made Free Throw.,5,0,5,26,0.6104756148209627,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Ohio State
+7,1,8:57,2337,2337,Courtney Fredrickson missed Jumper.,5,0,5,0,0.6118231626763937,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+8,1,8:57,2337,2337,Ohio State Defensive Rebound.,5,0,5,13,0.6118231626763937,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+9,1,8:44,2324,2324,Sierra Calhoun missed Three Point Jumper.,5,0,5,0,0.6125039319648776,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+10,1,8:44,2324,2324,Cayla McMorris Defensive Rebound.,5,0,5,12,0.6125039319648776,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+11,1,8:32,2312,2312,Courtney Fredrickson missed Three Point Jumper.,5,0,5,0,0.6131361406577814,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+12,1,8:32,2312,2312,Wisconsin Offensive Rebound.,5,0,5,4,0.6131361406577814,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+13,1,8:28,2308,2308,Cayla McMorris made Layup.,5,2,3,25,0.5687722107427648,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Wisconsin
+14,1,8:03,2283,2283,Kelsey Mitchell made Three Point Jumper. Assisted by Sierra Calhoun.,8,2,6,20,0.6365500332582396,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Ohio State
+15,1,7:43,2263,2263,Marsha Howard missed Jumper.,8,2,6,0,0.6378076157204124,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+16,1,7:43,2263,2263,Stephanie Mavunga Defensive Rebound.,8,2,6,14,0.6378076157204124,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+17,1,7:29,2249,2249,Sierra Calhoun made Three Point Jumper.,11,2,9,32,0.7015187839861826,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Ohio State
+18,1,6:57,2217,2217,Courtney Fredrickson missed Jumper.,11,2,9,0,0.7042836485575243,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+19,1,6:57,2217,2217,Stephanie Mavunga Defensive Rebound.,11,2,9,15,0.7042836485575243,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+20,1,6:42,2202,2202,Sierra Calhoun Turnover.,11,2,9,20,0.7055830309227793,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+21,1,6:22,2182,2182,Kendall Shaw missed Layup.,11,2,9,0,0.7073172080426157,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+22,1,6:22,2182,2182,Stephanie Mavunga Defensive Rebound.,11,2,9,7,0.7073172080426157,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+23,1,6:15,2175,2175,Kelsey Mitchell missed Jumper.,11,2,9,0,0.7079243422788033,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+24,1,6:15,2175,2175,Kendall Shaw Defensive Rebound.,11,2,9,23,0.7079243422788033,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+25,1,5:52,2152,2152,Cayla McMorris missed Jumper.,11,2,9,0,0.70992126410378,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+26,1,5:52,2152,2152,Wisconsin Offensive Rebound.,11,2,9,11,0.70992126410378,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+27,1,5:41,2141,2141,Wisconsin  Turnover.,11,2,9,17,0.7108788898427587,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+28,1,5:24,2124,2124,Kelsey Mitchell made Three Point Jumper. Assisted by Asia Doss.,14,2,12,28,0.7701542403775141,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Ohio State
+29,1,4:56,2096,2096,Foul on Kiara Lewis.,14,2,12,0,0.7729773226161346,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+30,1,4:56,2096,2096,Official TV Timeout,14,2,12,0,0.7729773226161346,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+31,1,4:56,2096,2096,Cayla McMorris made Free Throw.,14,3,11,0,0.7545632475486799,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Wisconsin
+32,1,4:56,2096,2096,Cayla McMorris made Free Throw.,14,4,10,29,0.7351673088674519,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Wisconsin
+33,1,4:27,2067,2067,Linnae Harper missed Jumper.,14,4,10,0,0.7378822542883224,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+34,1,4:27,2067,2067,Cayla McMorris Block.,14,4,10,1,0.7378822542883224,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+35,1,4:26,2066,2066,Ohio State Offensive Rebound.,14,4,10,1,0.7379761734215945,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+36,1,4:25,2065,2065,Ohio State  Turnover.,14,4,10,27,0.7380701136140415,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+37,1,3:58,2038,2038,Cayla McMorris missed Layup.,14,4,10,0,0.7406148186744372,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+38,1,3:58,2038,2038,Shayla Cooper Defensive Rebound.,14,4,10,7,0.7406148186744372,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+39,1,3:51,2031,2031,Asia Doss missed Three Point Jumper.,14,4,10,0,0.7412773110651912,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+40,1,3:51,2031,2031,Shayla Cooper Offensive Rebound.,14,4,10,13,0.7412773110651912,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+41,1,3:38,2018,2018,Tori McCoy Turnover.,14,4,10,20,0.7425108569856204,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+42,1,3:18,1998,1998,Suzanne Gilreath missed Three Point Jumper.,14,4,10,0,0.7444171594277255,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+43,1,3:18,1998,1998,Shayla Cooper Defensive Rebound.,14,4,10,8,0.7444171594277255,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+44,1,3:10,1990,1990,Linnae Harper missed Jumper.,14,4,10,0,0.7451827182234069,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+45,1,3:10,1990,1990,Courtney Fredrickson Defensive Rebound.,14,4,10,24,0.7451827182234069,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+46,1,2:46,1966,1966,Avyanna Young missed Three Point Jumper.,14,4,10,0,0.7474904005615577,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+47,1,2:46,1966,1966,Linnae Harper Defensive Rebound.,14,4,10,17,0.7474904005615577,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+48,1,2:29,1949,1949,Asia Doss made Three Point Jumper. Assisted by Kelsey Mitchell.,17,4,13,12,0.8056844704138171,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Ohio State
+49,1,2:17,1937,1937,Foul on Kelsey Mitchell.,17,4,13,0,0.8069468350777564,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+50,1,2:17,1937,1937,Malayna Johnson missed Free Throw.,17,4,13,0,0.8069468350777564,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+51,1,2:17,1937,1937,Wisconsin Deadball Team Rebound.,17,4,13,0,0.8069468350777564,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+52,1,2:17,1937,1937,Malayna Johnson made Free Throw.,17,5,12,22,0.7892265732306609,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Wisconsin
+53,1,1:55,1915,1915,Kelsey Mitchell Turnover.,17,5,12,19,0.7915071393258595,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+54,1,1:36,1896,1896,Foul on Linnae Harper.,17,5,12,11,0.7934591337537362,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+55,1,1:25,1885,1885,Suzanne Gilreath made Three Point Jumper. Assisted by Ashley Kelsick.,17,8,9,19,0.7339156371249538,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Wisconsin
+56,1,1:06,1866,1866,Shayla Cooper Turnover.,17,8,9,6,0.7356522996357571,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+57,1,1:00,1860,1860,Ashley Kelsick Turnover.,17,8,9,17,0.73620027231306,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+58,1,0:43,1843,1843,Kiara Lewis Turnover.,17,8,9,22,0.7377531465533197,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+59,1,0:21,1821,1821,Suzanne Gilreath missed Three Point Jumper.,17,8,9,0,0.7397667335431951,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+60,1,0:21,1821,1821,Tori McCoy Defensive Rebound.,17,8,9,17,0.7397667335431951,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+61,1,0:04,1804,1804,Asia Doss missed Three Point Jumper.,17,8,9,0,0.7413289495315527,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+62,1,0:04,1804,1804,Linnae Harper Offensive Rebound.,17,8,9,2,0.7413289495315527,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+63,1,0:02,1802,1802,Linnae Harper missed Jumper.,17,8,9,0,0.7415132302486159,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+64,1,0:02,1802,1802,Abby Laszewski Block.,17,8,9,1,0.7415132302486159,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+65,1,0:01,1801,1801,Wisconsin Defensive Rebound.,17,8,9,1,0.741605414355601,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+66,1,0:00,1800,1800,End of 1st Quarter,17,8,9,21,0.7416976282934893,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+67,2,9:39,1779,1779,Makayla Waterman missed Layup.,17,8,9,0,0.7436418897324124,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+68,2,9:39,1779,1779,Courtney Fredrickson Defensive Rebound.,17,8,9,28,0.7436418897324124,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+69,2,9:11,1751,1751,Foul on Kiara Lewis.,17,8,9,0,0.746262897785954,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+70,2,9:11,1751,1751,Cayla McMorris missed Free Throw.,17,8,9,0,0.746262897785954,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+71,2,9:11,1751,1751,Wisconsin Deadball Team Rebound.,17,8,9,0,0.746262897785954,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+72,2,9:11,1751,1751,Cayla McMorris made Free Throw.,17,9,8,12,0.72290449479533,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Wisconsin
+73,2,8:59,1739,1739,Kelsey Mitchell made Jumper.,19,9,10,19,0.7694693695513053,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Ohio State
+74,2,8:40,1720,1720,Marsha Howard made Layup. Assisted by Cayla McMorris.,19,11,8,8,0.7256821572894452,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Wisconsin
+75,2,8:32,1712,1712,Sierra Calhoun missed Jumper.,19,11,8,0,0.7264091972942311,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+76,2,8:32,1712,1712,Cayla McMorris Defensive Rebound.,19,11,8,13,0.7264091972942311,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+77,2,8:19,1699,1699,Courtney Fredrickson missed Layup.,19,11,8,0,0.7276006217172444,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+78,2,8:19,1699,1699,Stephanie Mavunga Defensive Rebound.,19,11,8,6,0.7276006217172444,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+79,2,8:13,1693,1693,Kelsey Mitchell missed Three Point Jumper.,19,11,8,0,0.7281549008177122,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+80,2,8:13,1693,1693,Marsha Howard Defensive Rebound.,19,11,8,19,0.7281549008177122,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+81,2,7:54,1674,1674,Cayla McMorris missed Three Point Jumper.,19,11,8,0,0.7298982187011925,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+82,2,7:54,1674,1674,Sierra Calhoun Defensive Rebound.,19,11,8,14,0.7298982187011925,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+83,2,7:40,1660,1660,Stephanie Mavunga made Layup. Assisted by Kiara Lewis.,21,11,10,31,0.7774004979824316,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Ohio State
+84,2,7:09,1629,1629,Kendra Van Leeuwen made Three Point Jumper. Assisted by Cayla McMorris.,21,14,7,11,0.7083639971011566,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Wisconsin
+85,2,6:58,1618,1618,Kiara Lewis missed Three Point Jumper.,21,14,7,0,0.7092341573492061,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+86,2,6:58,1618,1618,Stephanie Mavunga Offensive Rebound.,21,14,7,5,0.7092341573492061,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+87,2,6:53,1613,1613,Stephanie Mavunga made Jumper.,23,14,9,18,0.7593075061889571,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Ohio State
+88,2,6:35,1595,1595,Courtney Fredrickson made Layup.,23,16,7,19,0.7110418695926274,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Wisconsin
+89,2,6:16,1576,1576,Kelsey Mitchell missed Three Point Jumper.,23,16,7,0,0.7125344298198673,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+90,2,6:16,1576,1576,Stephanie Mavunga Offensive Rebound.,23,16,7,9,0.7125344298198673,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+91,2,6:07,1567,1567,Makayla Waterman missed Layup.,23,16,7,0,0.7132445548906124,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+92,2,6:07,1567,1567,Stephanie Mavunga Offensive Rebound.,23,16,7,1,0.7132445548906124,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+93,2,6:06,1566,1566,Foul on Courtney Fredrickson.,23,16,7,4,0.7133236568801647,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+94,2,6:02,1562,1562,Alexa Hart missed Jumper.,23,16,7,0,0.7136405355242537,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+95,2,6:02,1562,1562,Malayna Johnson Defensive Rebound.,23,16,7,31,0.7136405355242537,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+96,2,5:31,1531,1531,Wisconsin  Turnover.,23,16,7,14,0.7161318827774067,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+97,2,5:17,1517,1517,Stephanie Mavunga missed Jumper.,23,16,7,0,0.717285475395656,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+98,2,5:17,1517,1517,Alexa Hart Offensive Rebound.,23,16,7,2,0.717285475395656,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+99,2,5:15,1515,1515,Foul on Cayla McMorris.,23,16,7,4,0.7174520982534881,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+100,2,5:11,1511,1511,Kelsey Mitchell missed Layup.,23,16,7,0,0.717786831279651,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+101,2,5:11,1511,1511,Stephanie Mavunga Offensive Rebound.,23,16,7,3,0.717786831279651,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+102,2,5:08,1508,1508,Stephanie Mavunga missed Jumper.,23,16,7,0,0.7180392292216764,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+103,2,5:08,1508,1508,Malayna Johnson Defensive Rebound.,23,16,7,23,0.7180392292216764,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+104,2,4:45,1485,1485,Avyanna Young Turnover.,23,16,7,0,0.7200170794987923,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+105,2,4:45,1485,1485,Official TV Timeout,23,16,7,19,0.7200170794987923,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+106,2,4:26,1466,1466,Stephanie Mavunga missed Jumper.,23,16,7,0,0.7217167930691798,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+107,2,4:26,1466,1466,Courtney Fredrickson Defensive Rebound.,23,16,7,15,0.7217167930691798,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+108,2,4:11,1451,1451,Avyanna Young made Layup. Assisted by Courtney Fredrickson.,23,18,5,4,0.6650016647134439,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Wisconsin
+109,2,4:07,1447,1447,Foul on Ashley Kelsick.,23,18,5,24,0.6653012154337248,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+110,2,3:43,1423,1423,Foul on Malayna Johnson.,23,18,5,0,0.6670450414240979,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+111,2,3:43,1423,1423,Kelsey Mitchell missed Free Throw.,23,18,5,0,0.6670450414240979,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+112,2,3:43,1423,1423,Ohio State Deadball Team Rebound.,23,18,5,0,0.6670450414240979,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+113,2,3:43,1423,1423,Kelsey Mitchell made Free Throw.,24,18,6,22,0.6971621312120259,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Ohio State
+114,2,3:21,1401,1401,Suzanne Gilreath missed Jumper.,24,18,6,0,0.6989124413264148,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+115,2,3:21,1401,1401,Malayna Johnson Offensive Rebound.,24,18,6,4,0.6989124413264148,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+116,2,3:17,1397,1397,Malayna Johnson missed Jumper.,24,18,6,0,0.6992252607102077,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+117,2,3:17,1397,1397,Alexa Hart Block.,24,18,6,1,0.6992252607102077,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+118,2,3:16,1396,1396,Kelsey Mitchell Defensive Rebound.,24,18,6,5,0.6993032617588322,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+119,2,3:11,1391,1391,Kelsey Mitchell missed Three Point Jumper.,24,18,6,0,0.6996921696727316,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+120,2,3:11,1391,1391,Wisconsin Defensive Rebound.,24,18,6,10,0.6996921696727316,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+121,2,3:01,1381,1381,Suzanne Gilreath made Three Point Jumper. Assisted by Ashley Kelsick.,24,21,3,20,0.6046211763251478,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Wisconsin
+122,2,2:41,1361,1361,Kelsey Mitchell made Three Point Jumper. Assisted by Alexa Hart.,27,21,6,21,0.7020029256095539,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Ohio State
+123,2,2:20,1340,1340,Suzanne Gilreath made Three Point Jumper. Assisted by Ashley Kelsick.,27,24,3,18,0.6064234436413591,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Wisconsin
+124,2,2:02,1322,1322,Asia Doss Turnover.,27,24,3,2,0.6072303412804684,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+125,2,2:00,1320,1320,Suzanne Gilreath Steal.,27,24,3,14,0.607321157085543,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+126,2,1:46,1306,1306,Courtney Fredrickson made Jumper.,27,26,1,2,0.5364988610419374,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Wisconsin
+127,2,1:44,1304,1304,Ohio State  Timeout,27,26,1,12,0.5365313143147273,Ohio State,Wisconsin,3,4,1,0,NA,400917345,2017-01-19,
+128,2,1:32,1292,1292,Alexa Hart Turnover.,27,26,1,24,0.5367288700702502,Ohio State,Wisconsin,3,4,1,0,NA,400917345,2017-01-19,
+129,2,1:08,1268,1268,Marsha Howard missed Jumper.,27,26,1,0,0.5371412415068411,Ohio State,Wisconsin,3,4,1,0,NA,400917345,2017-01-19,
+130,2,1:08,1268,1268,Tori McCoy Block.,27,26,1,1,0.5371412415068411,Ohio State,Wisconsin,3,4,1,0,NA,400917345,2017-01-19,
+131,2,1:07,1267,1267,Alexa Hart Defensive Rebound.,27,26,1,11,0.5371589983928688,Ohio State,Wisconsin,3,4,1,0,NA,400917345,2017-01-19,
+132,2,0:56,1256,1256,Kelsey Mitchell made Jumper.,29,26,3,0,0.6104323487533412,Ohio State,Wisconsin,3,4,1,0,NA,400917345,2017-01-19,Ohio State
+133,2,0:56,1256,1256,Foul on Suzanne Gilreath.,29,26,3,0,0.6104323487533412,Ohio State,Wisconsin,3,4,1,0,NA,400917345,2017-01-19,
+134,2,0:56,1256,1256,Kelsey Mitchell missed Free Throw.,29,26,3,0,0.6104323487533412,Ohio State,Wisconsin,3,4,1,0,NA,400917345,2017-01-19,
+135,2,0:56,1256,1256,Marsha Howard Defensive Rebound.,29,26,3,20,0.6104323487533412,Ohio State,Wisconsin,3,4,1,0,NA,400917345,2017-01-19,
+136,2,0:36,1236,1236,Ashley Kelsick made Jumper.,29,28,1,1,0.537736789279994,Ohio State,Wisconsin,3,4,0,0,NA,400917345,2017-01-19,Wisconsin
+137,2,0:35,1235,1235,Foul on Avyanna Young.,29,28,1,0,0.5377563951423993,Ohio State,Wisconsin,3,4,0,0,NA,400917345,2017-01-19,
+138,2,0:35,1235,1235,Alexa Hart missed Free Throw.,29,28,1,0,0.5377563951423993,Ohio State,Wisconsin,3,4,0,0,NA,400917345,2017-01-19,
+139,2,0:35,1235,1235,Ohio State Deadball Team Rebound.,29,28,1,0,0.5377563951423993,Ohio State,Wisconsin,3,4,0,0,NA,400917345,2017-01-19,
+140,2,0:35,1235,1235,Alexa Hart missed Free Throw.,29,28,1,0,0.5377563951423993,Ohio State,Wisconsin,3,4,0,0,NA,400917345,2017-01-19,
+141,2,0:35,1235,1235,Marsha Howard Defensive Rebound.,29,28,1,7,0.5377563951423993,Ohio State,Wisconsin,3,4,0,0,NA,400917345,2017-01-19,
+142,2,0:28,1228,1228,Wisconsin  Timeout,29,28,1,23,0.5378955068465396,Ohio State,Wisconsin,3,3,0,1,NA,400917345,2017-01-19,
+143,2,0:05,1205,1205,Suzanne Gilreath missed Jumper.,29,28,1,0,0.5383757965642224,Ohio State,Wisconsin,3,3,0,1,NA,400917345,2017-01-19,
+144,2,0:05,1205,1205,Wisconsin Offensive Rebound.,29,28,1,2,0.5383757965642224,Ohio State,Wisconsin,3,3,0,1,NA,400917345,2017-01-19,
+145,2,0:03,1203,1203,Wisconsin  Turnover.,29,28,1,3,0.5384181111416124,Ohio State,Wisconsin,3,3,0,1,NA,400917345,2017-01-19,
+146,2,0:00,1200,1200,End of 2nd Quarter,29,28,1,20,0.5384812553577752,Ohio State,Wisconsin,3,3,0,1,NA,400917345,2017-01-19,
+147,3,9:40,1180,1180,Foul on Stephanie Mavunga.,29,28,1,0,0.5388934713304994,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+148,3,9:40,1180,1180,Kendall Shaw made Free Throw.,29,29,0,0,0.5,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Wisconsin
+149,3,9:40,1180,1180,Kendall Shaw made Free Throw.,29,30,-1,11,0.46110652866950064,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Wisconsin
+150,3,9:29,1169,1169,Alexa Hart made Jumper. Assisted by Sierra Calhoun.,31,30,1,19,0.539115019858652,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Ohio State
+151,3,9:10,1150,1150,Kendra Van Leeuwen missed Layup.,31,30,1,0,0.5394922781991501,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+152,3,9:10,1150,1150,Stephanie Mavunga Defensive Rebound.,31,30,1,8,0.5394922781991501,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+153,3,9:02,1142,1142,Sierra Calhoun missed Three Point Jumper.,31,30,1,0,0.5396500000301686,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+154,3,9:02,1142,1142,Stephanie Mavunga Offensive Rebound.,31,30,1,6,0.5396500000301686,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+155,3,8:56,1136,1136,Foul on Kendall Shaw.,31,30,1,0,0.5397681679429107,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+156,3,8:56,1136,1136,Stephanie Mavunga made Free Throw.,32,30,2,0,0.579036349667416,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Ohio State
+157,3,8:56,1136,1136,Stephanie Mavunga missed Free Throw.,32,30,2,0,0.579036349667416,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+158,3,8:56,1136,1136,Cayla McMorris Defensive Rebound.,32,30,2,10,0.579036349667416,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+159,3,8:46,1126,1126,Cayla McMorris missed Layup.,32,30,2,0,0.5794231998357713,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+160,3,8:46,1126,1126,Stephanie Mavunga Block.,32,30,2,0,0.5794231998357713,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+161,3,8:46,1126,1126,Wisconsin Offensive Rebound.,32,30,2,8,0.5794231998357713,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+162,3,8:38,1118,1118,Kendall Shaw missed Jumper.,32,30,2,0,0.5797337455372664,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+163,3,8:38,1118,1118,Kelsey Mitchell Defensive Rebound.,32,30,2,12,0.5797337455372664,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+164,3,8:26,1106,1106,Alexa Hart made Jumper. Assisted by Sierra Calhoun.,34,30,4,15,0.6563821502419633,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Ohio State
+165,3,8:11,1091,1091,Kendra Van Leeuwen Turnover.,34,30,4,0,0.657484043492174,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+166,3,8:11,1091,1091,Foul on Kendra Van Leeuwen.,34,30,4,11,0.657484043492174,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+167,3,8:00,1080,1080,Sierra Calhoun made Three Point Jumper.,37,30,7,33,0.7590685661730411,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Ohio State
+168,3,7:27,1047,1047,Kendall Shaw Turnover.,37,30,7,0,0.7627283465883494,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+169,3,7:27,1047,1047,Foul on Kendall Shaw.,37,30,7,13,0.7627283465883494,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+170,3,7:14,1034,1034,Alexa Hart missed Layup.,37,30,7,0,0.7642469361694111,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+171,3,7:14,1034,1034,Marsha Howard Block.,37,30,7,2,0.7642469361694111,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+172,3,7:12,1032,1032,Marsha Howard Defensive Rebound.,37,30,7,18,0.7644851759312952,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+173,3,6:54,1014,1014,Cayla McMorris missed Three Point Jumper.,37,30,7,0,0.7666907007694582,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+174,3,6:54,1014,1014,Alexa Hart Defensive Rebound.,37,30,7,9,0.7666907007694582,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+175,3,6:45,1005,1005,Kelsey Mitchell missed Three Point Jumper.,37,30,7,0,0.7678383909224236,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+176,3,6:45,1005,1005,Cayla McMorris Defensive Rebound.,37,30,7,19,0.7678383909224236,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+177,3,6:26,986,986,Ashley Kelsick made Three Point Jumper. Assisted by Cayla McMorris.,37,33,4,23,0.666336738988141,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Wisconsin
+178,3,6:03,963,963,Stephanie Mavunga made Layup. Assisted by Kelsey Mitchell.,39,33,6,0,0.741416423646788,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Ohio State
+179,3,6:03,963,963,Foul on Marsha Howard.,39,33,6,0,0.741416423646788,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+180,3,6:03,963,963,Stephanie Mavunga made Free Throw.,40,33,7,11,0.77362611949231,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,Ohio State
+181,3,5:52,952,952,Foul on Kelsey Mitchell.,40,33,7,8,0.7751049219164547,Ohio State,Wisconsin,4,4,0,0,NA,400917345,2017-01-19,
+182,3,5:44,944,944,Cayla McMorris Turnover.,40,33,7,0,0.7761235730743894,Ohio State,Wisconsin,4,4,0,1,NA,400917345,2017-01-19,
+183,3,5:44,944,944,Wisconsin  Timeout,40,33,7,7,0.7761235730743894,Ohio State,Wisconsin,4,3,0,1,NA,400917345,2017-01-19,
+184,3,5:37,937,937,Sierra Calhoun missed Three Point Jumper.,40,33,7,0,0.7769804432818861,Ohio State,Wisconsin,4,3,0,1,NA,400917345,2017-01-19,
+185,3,5:37,937,937,Ashley Kelsick Defensive Rebound.,40,33,7,24,0.7769804432818861,Ohio State,Wisconsin,4,3,0,1,NA,400917345,2017-01-19,
+186,3,5:13,913,913,Ashley Kelsick Turnover.,40,33,7,19,0.7797242517640359,Ohio State,Wisconsin,4,3,0,1,NA,400917345,2017-01-19,
+187,3,4:54,894,894,Shayla Cooper made Jumper. Assisted by Kelsey Mitchell.,42,33,9,20,0.8375963909331753,Ohio State,Wisconsin,4,3,0,1,NA,400917345,2017-01-19,Ohio State
+188,3,4:34,874,874,Suzanne Gilreath missed Jumper.,42,33,9,0,0.8397223130982441,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+189,3,4:34,874,874,Malayna Johnson Offensive Rebound.,42,33,9,3,0.8397223130982441,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+190,3,4:31,871,871,Foul on Stephanie Mavunga.,42,33,9,0,0.8400401241770736,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+191,3,4:31,871,871,Official TV Timeout,42,33,9,0,0.8400401241770736,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+192,3,4:31,871,871,Malayna Johnson missed Free Throw.,42,33,9,0,0.8400401241770736,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+193,3,4:31,871,871,Wisconsin Deadball Team Rebound.,42,33,9,0,0.8400401241770736,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+194,3,4:31,871,871,Malayna Johnson made Free Throw.,42,34,8,11,0.8137018859410533,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,Wisconsin
+195,3,4:20,860,860,Linnae Harper made Three Point Jumper. Assisted by Kelsey Mitchell.,45,34,11,27,0.8847063880809946,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,Ohio State
+196,3,3:53,833,833,Ashley Kelsick missed Three Point Jumper.,45,34,11,0,0.8874798690958495,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+197,3,3:53,833,833,Malayna Johnson Offensive Rebound.,45,34,11,5,0.8874798690958495,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+198,3,3:48,828,828,Malayna Johnson made Layup.,45,36,9,9,0.8447703554968411,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,Wisconsin
+199,3,3:39,819,819,Kelsey Mitchell missed Layup.,45,36,9,0,0.8458405856608685,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+200,3,3:39,819,819,Malayna Johnson Block.,45,36,9,0,0.8458405856608685,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+201,3,3:39,819,819,Ohio State Offensive Rebound.,45,36,9,10,0.8458405856608685,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+202,3,3:29,809,809,Linnae Harper made Jumper.,47,36,11,28,0.8901516412825612,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,Ohio State
+203,3,3:01,781,781,Courtney Fredrickson missed Jumper.,47,36,11,0,0.8936552872327412,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+204,3,3:01,781,781,Tori McCoy Defensive Rebound.,47,36,11,6,0.8936552872327412,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+205,3,2:55,775,775,Foul on Courtney Fredrickson.,47,36,11,0,0.8944730995407754,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+206,3,2:55,775,775,Kelsey Mitchell made Free Throw.,48,36,12,0,0.911457806644138,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,Ohio State
+207,3,2:55,775,775,Kelsey Mitchell made Free Throw.,49,36,13,21,0.9259351595890538,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,Ohio State
+208,3,2:34,754,754,Marsha Howard missed Jumper.,49,36,13,0,0.9285683948805757,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+209,3,2:34,754,754,Avyanna Young Offensive Rebound.,49,36,13,2,0.9285683948805757,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+210,3,2:32,752,752,Avyanna Young missed Jumper.,49,36,13,0,0.9288339873842466,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+211,3,2:32,752,752,Ashley Kelsick Offensive Rebound.,49,36,13,14,0.9288339873842466,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+212,3,2:18,738,738,Ashley Kelsick missed Jumper.,49,36,13,0,0.9307690195756405,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+213,3,2:18,738,738,Makayla Waterman Block.,49,36,13,0,0.9307690195756405,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+214,3,2:18,738,738,Wisconsin Offensive Rebound.,49,36,13,4,0.9307690195756405,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+215,3,2:14,734,734,Foul on Tori McCoy.,49,36,13,1,0.93134676901890745,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+216,3,2:13,733,733,Foul on Asia Doss.,49,36,13,0,0.9314929609614158,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+217,3,2:13,733,733,Marsha Howard made Free Throw.,49,37,12,0,0.917518163971648,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,Wisconsin
+218,3,2:13,733,733,Marsha Howard missed Free Throw.,49,37,12,0,0.917518163971648,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+219,3,2:13,733,733,Makayla Waterman Defensive Rebound.,49,37,12,6,0.917518163971648,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+220,3,2:07,727,727,Kelsey Mitchell made Jumper.,51,37,14,1,0.9440429808628263,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,Ohio State
+221,3,2:06,726,726,Foul on Tori McCoy.,51,37,14,0,0.9441725425769989,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+222,3,2:06,726,726,Cayla McMorris made Free Throw.,51,38,13,0,0.9325187848835468,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,Wisconsin
+223,3,2:06,726,726,Cayla McMorris made Free Throw.,51,39,12,15,0.9186419722558469,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,Wisconsin
+224,3,1:51,711,711,Linnae Harper missed Jumper.,51,39,12,0,0.92083936354701,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+225,3,1:51,711,711,Courtney Fredrickson Defensive Rebound.,51,39,12,20,0.92083936354701,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+226,3,1:31,691,691,Avyanna Young Turnover.,51,39,12,13,0.9233928200484824,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+227,3,1:18,678,678,Kelsey Mitchell made Jumper.,53,39,14,8,0.9492771637712081,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,Ohio State
+228,3,1:10,670,670,Courtney Fredrickson Turnover.,53,39,14,0,0.9499963077827841,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+229,3,1:10,670,670,Linnae Harper Steal.,53,39,14,0,0.9499963077827841,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+230,3,1:10,670,670,Foul on Kendra Van Leeuwen.,53,39,14,15,0.9499963077827841,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+231,3,0:55,655,655,Tori McCoy made Layup. Assisted by Makayla Waterman.,55,39,16,6,0.9676113578751265,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,Ohio State
+232,3,0:49,649,649,Cayla McMorris Turnover.,55,39,16,1,0.9680151684313734,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+233,3,0:48,648,648,Linnae Harper Steal.,55,39,16,4,0.9680825287558987,Ohio State,Wisconsin,4,3,0,0,NA,400917345,2017-01-19,
+234,3,0:44,644,644,Foul on Avyanna Young.,55,39,16,0,0.9683525089124401,Ohio State,Wisconsin,4,3,0,1,NA,400917345,2017-01-19,
+235,3,0:44,644,644,Wisconsin  Timeout,55,39,16,0,0.9683525089124401,Ohio State,Wisconsin,4,2,0,1,NA,400917345,2017-01-19,
+236,3,0:44,644,644,Makayla Waterman made Free Throw.,56,39,17,0,0.9742879186122244,Ohio State,Wisconsin,4,2,0,1,NA,400917345,2017-01-19,Ohio State
+237,3,0:44,644,644,Makayla Waterman made Free Throw.,57,39,18,27,0.979134143099886,Ohio State,Wisconsin,4,2,0,1,NA,400917345,2017-01-19,Ohio State
+238,3,0:17,617,617,Marsha Howard Turnover.,57,39,18,1,0.9805426384595493,Ohio State,Wisconsin,4,2,0,1,NA,400917345,2017-01-19,
+239,3,0:16,616,616,Tori McCoy Steal.,57,39,18,1,0.9805970956011691,Ohio State,Wisconsin,4,2,0,1,NA,400917345,2017-01-19,
+240,3,0:15,615,615,Foul on Marsha Howard.,57,39,18,0,0.980651769574284,Ohio State,Wisconsin,4,2,0,1,NA,400917345,2017-01-19,
+241,3,0:15,615,615,Linnae Harper missed Free Throw.,57,39,18,0,0.980651769574284,Ohio State,Wisconsin,4,2,0,1,NA,400917345,2017-01-19,
+242,3,0:15,615,615,Ohio State Deadball Team Rebound.,57,39,18,0,0.980651769574284,Ohio State,Wisconsin,4,2,0,1,NA,400917345,2017-01-19,
+243,3,0:15,615,615,Linnae Harper made Free Throw.,58,39,19,3,0.9843837882502426,Ohio State,Wisconsin,4,2,0,1,NA,400917345,2017-01-19,Ohio State
+244,3,0:12,612,612,Marsha Howard Turnover.,58,39,19,10,0.9845251749293384,Ohio State,Wisconsin,4,2,0,1,NA,400917345,2017-01-19,
+245,3,0:02,602,602,Kelsey Mitchell missed Three Point Jumper.,58,39,19,0,0.9850095397870157,Ohio State,Wisconsin,4,2,0,1,NA,400917345,2017-01-19,
+246,3,0:02,602,602,Makayla Waterman Offensive Rebound.,58,39,19,2,0.9850095397870157,Ohio State,Wisconsin,4,2,0,1,NA,400917345,2017-01-19,
+247,3,0:00,600,600,End of 3rd Quarter,58,39,19,22,0.9851090283578244,Ohio State,Wisconsin,4,2,0,1,NA,400917345,2017-01-19,
+248,4,9:38,578,578,Makayla Waterman Turnover.,58,39,19,18,0.986268562047418,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+249,4,9:20,560,560,Cayla McMorris missed Jumper.,58,39,19,0,0.9873127946928405,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+250,4,9:20,560,560,Linnae Harper Defensive Rebound.,58,39,19,11,0.9873127946928405,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+251,4,9:09,549,549,Asia Doss missed Jumper.,58,39,19,0,0.9879925919584258,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+252,4,9:09,549,549,Ashley Kelsick Defensive Rebound.,58,39,19,17,0.9879925919584258,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+253,4,8:52,532,532,Marsha Howard missed Layup.,58,39,19,0,0.98891066874117906,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+254,4,8:52,532,532,Marsha Howard Offensive Rebound.,58,39,19,2,0.98891066874117906,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+255,4,8:50,530,530,Marsha Howard made Layup.,58,41,17,21,0.9824601735750472,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,Wisconsin
+256,4,8:29,509,509,Tori McCoy Turnover.,58,41,17,15,0.983698290000667,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+257,4,8:14,494,494,Ashley Kelsick missed Jumper.,58,41,17,0,0.9844969481909243,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+258,4,8:14,494,494,Linnae Harper Defensive Rebound.,58,41,17,8,0.9844969481909243,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+259,4,8:06,486,486,Linnae Harper made Layup.,60,41,19,14,0.9907246413565705,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,Ohio State
+260,4,7:52,472,472,Ashley Kelsick Turnover.,60,41,19,17,0.9912613679806644,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+261,4,7:35,455,455,Kelsey Mitchell made Jumper.,62,41,21,32,0.9951538822284133,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,Ohio State
+262,4,7:03,423,423,Foul on Stephanie Mavunga.,62,41,21,0,0.9962064138501779,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+263,4,7:03,423,423,Marsha Howard made Free Throw.,62,42,20,0,0.995059686808645,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,Wisconsin
+264,4,7:03,423,423,Marsha Howard missed Free Throw.,62,42,20,0,0.995059686808645,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+265,4,7:03,423,423,Ohio State Defensive Rebound.,62,42,20,11,0.995059686808645,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+266,4,6:52,412,412,Foul on Marsha Howard.,62,42,20,3,0.9954597622717811,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+267,4,6:49,409,409,Shayla Cooper Turnover.,62,42,20,14,0.9955597879142084,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+268,4,6:35,395,395,Suzanne Gilreath missed Three Point Jumper.,62,42,20,0,0.9959899940818496,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+269,4,6:35,395,395,Avyanna Young Offensive Rebound.,62,42,20,3,0.9959899940818496,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+270,4,6:32,392,392,Foul on Shayla Cooper.,62,42,20,0,0.9960762270815923,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+271,4,6:32,392,392,Avyanna Young made Free Throw.,62,43,19,0,0.994831195323872,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,Wisconsin
+272,4,6:32,392,392,Avyanna Young made Free Throw.,62,44,18,14,0.9931938084924864,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,Wisconsin
+273,4,6:18,378,378,Alexa Hart missed Jumper.,62,44,18,0,0.9937973214260507,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+274,4,6:18,378,378,Courtney Fredrickson Defensive Rebound.,62,44,18,1,0.9937973214260507,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+275,4,6:17,377,377,Foul on Stephanie Mavunga.,62,44,18,22,0.9938395272990979,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+276,4,5:55,355,355,Suzanne Gilreath made Three Point Jumper. Assisted by Ashley Kelsick.,62,47,15,14,0.9875354672804826,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,Wisconsin
+277,4,5:41,341,341,Alexa Hart missed Jumper.,62,47,15,0,0.9887247419035164,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+278,4,5:41,341,341,Ohio State Offensive Rebound.,62,47,15,10,0.9887247419035164,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+279,4,5:31,331,331,Sierra Calhoun made Layup.,64,47,17,0,0.9943116349105314,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,Ohio State
+280,4,5:31,331,331,Foul on Courtney Fredrickson.,64,47,17,0,0.9943116349105314,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+281,4,5:31,331,331,Sierra Calhoun made Free Throw.,65,47,18,13,0.9957954333194949,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,Ohio State
+282,4,5:18,318,318,Suzanne Gilreath made Three Point Jumper. Assisted by Courtney Fredrickson.,65,50,15,16,0.9907902580712609,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,Wisconsin
+283,4,5:02,302,302,Kiara Lewis missed Layup.,65,50,15,0,0.9920942467646218,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+284,4,5:02,302,302,Kendra Van Leeuwen Defensive Rebound.,65,50,15,10,0.9920942467646218,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+285,4,4:52,292,292,Official TV Timeout,65,50,15,6,0.9923853371794363,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+286,4,4:46,286,286,Cayla McMorris Turnover.,65,50,15,13,0.992401104731339,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+287,4,4:33,273,273,Stephanie Mavunga Turnover.,65,50,15,16,0.9921557472920849,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+288,4,4:17,257,257,Foul on Kiara Lewis.,65,50,15,2,0.9915850651145004,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+289,4,4:15,255,255,Avyanna Young made Layup.,65,52,13,28,0.9841065919004732,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,Wisconsin
+290,4,3:47,227,227,Kelsey Mitchell missed Three Point Jumper.,65,52,13,0,0.9836879493498145,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+291,4,3:47,227,227,Wisconsin Defensive Rebound.,65,52,13,11,0.9836879493498145,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+292,4,3:36,216,216,Foul on Linnae Harper.,65,52,13,0,0.9847013829489725,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+293,4,3:36,216,216,Kendra Van Leeuwen made Free Throw.,65,53,12,0,0.9790454856096623,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,Wisconsin
+294,4,3:36,216,216,Kendra Van Leeuwen missed Free Throw.,65,53,12,0,0.9790454856096623,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+295,4,3:36,216,216,Malayna Johnson Offensive Rebound.,65,53,12,20,0.9790454856096623,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+296,4,3:16,196,196,Cayla McMorris missed Jumper.,65,53,12,0,0.9840397460839245,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+297,4,3:16,196,196,Tori McCoy Block.,65,53,12,2,0.9840397460839245,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+298,4,3:14,194,194,Ashley Kelsick Offensive Rebound.,65,53,12,9,0.9846909705058405,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+299,4,3:05,185,185,Wisconsin  Turnover.,65,53,12,16,0.9876643802528915,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+300,4,2:49,169,169,Linnae Harper Turnover.,65,53,12,19,0.9917877404361098,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+301,4,2:30,150,150,Foul on Makayla Waterman.,65,53,12,0,0.9951746586653291,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+302,4,2:30,150,150,Malayna Johnson made Free Throw.,65,54,11,0,0.9924972184457792,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,Wisconsin
+303,4,2:30,150,150,Malayna Johnson made Free Throw.,65,55,10,25,0.9883515345197219,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,Wisconsin
+304,4,2:05,125,125,Makayla Waterman missed Jumper.,65,55,10,0,0.9942204513729853,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+305,4,2:05,125,125,Ashley Kelsick Defensive Rebound.,65,55,10,23,0.9942204513729853,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+306,4,1:42,102,102,Cayla McMorris missed Layup.,65,55,10,0,0.9974776382701449,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+307,4,1:42,102,102,Marsha Howard Offensive Rebound.,65,55,10,3,0.9974776382701449,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+308,4,1:39,99,99,Marsha Howard made Layup.,65,57,8,21,0.9924889483374048,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,Wisconsin
+309,4,1:18,78,78,Linnae Harper missed Jumper.,65,57,8,0,0.9964640702899028,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+310,4,1:18,78,78,Malayna Johnson Defensive Rebound.,65,57,8,8,0.9964640702899028,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,
+311,4,1:10,70,70,Ashley Kelsick made Layup. Assisted by Suzanne Gilreath.,65,59,6,2,0.9886579772580023,Ohio State,Wisconsin,5,3,0,0,NA,400917345,2017-01-19,Wisconsin
+312,4,1:08,68,68,Wisconsin  Timeout,65,59,6,1,0.9893259231909135,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+313,4,1:07,67,67,Foul on Ashley Kelsick.,65,59,6,0,0.9896472552779599,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+314,4,1:07,67,67,Foul on Ashley Kelsick.,65,59,6,4,0.9896472552779599,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+315,4,1:03,63,63,Foul on Ashley Kelsick.,65,59,6,0,0.9908527262572968,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+316,4,1:03,63,63,Kelsey Mitchell made Free Throw.,66,59,7,0,0.9957895302543087,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,Ohio State
+317,4,1:03,63,63,Kelsey Mitchell made Free Throw.,67,59,8,8,0.9980671276427953,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,Ohio State
+318,4,0:55,55,55,Cayla McMorris missed Three Point Jumper.,67,59,8,0,0.9986284108405723,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+319,4,0:55,55,55,Cayla McMorris Offensive Rebound.,67,59,8,3,0.9986284108405723,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+320,4,0:52,52,52,Foul on Tori McCoy.,67,59,8,0,0.9987987135349736,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+321,4,0:52,52,52,Cayla McMorris made Free Throw.,67,60,7,0,0.9972206783603497,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,Wisconsin
+322,4,0:52,52,52,Cayla McMorris missed Free Throw.,67,60,7,0,0.9972206783603497,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+323,4,0:52,52,52,Alexa Hart Defensive Rebound.,67,60,7,2,0.9972206783603497,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+324,4,0:50,50,50,Foul on Avyanna Young.,67,60,7,0,0.9974301184537856,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+325,4,0:50,50,50,Alexa Hart made Free Throw.,68,60,8,0,0.9989017514591966,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,Ohio State
+326,4,0:50,50,50,Alexa Hart missed Free Throw.,68,60,8,0,0.9989017514591966,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+327,4,0:50,50,50,Avyanna Young Defensive Rebound.,68,60,8,14,0.9989017514591966,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+328,4,0:36,36,36,Foul on Tori McCoy.,68,60,8,0,0.9994319590091987,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+329,4,0:36,36,36,Avyanna Young made Free Throw.,68,61,7,0,0.9985556567562053,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,Wisconsin
+330,4,0:36,36,36,Avyanna Young missed Free Throw.,68,61,7,0,0.9985556567562053,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+331,4,0:36,36,36,Roichelle Marble Offensive Rebound.,68,61,7,3,0.9985556567562053,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+332,4,0:33,33,33,Roichelle Marble missed Jumper.,68,61,7,0,0.9987309556138022,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+333,4,0:33,33,33,Alexa Hart Block.,68,61,7,1,0.9987309556138022,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+334,4,0:32,32,32,Sierra Calhoun Defensive Rebound.,68,61,7,2,0.9987850101573519,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+335,4,0:30,30,30,Foul on Roichelle Marble.,68,61,7,0,0.9988869369386704,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+336,4,0:30,30,30,Sierra Calhoun missed Free Throw.,68,61,7,0,0.9988869369386704,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+337,4,0:30,30,30,Ohio State Deadball Team Rebound.,68,61,7,0,0.9988869369386704,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+338,4,0:30,30,30,Sierra Calhoun made Free Throw.,69,61,8,9,0.9995783388188177,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,Ohio State
+339,4,0:21,21,21,Marsha Howard Turnover.,69,61,8,0,0.9997340208528189,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+340,4,0:21,21,21,Foul on Marsha Howard.,69,61,8,11,0.9997340208528189,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+341,4,0:10,10,10,Foul on Roichelle Marble.,69,61,8,0,0.9998540114933221,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+342,4,0:10,10,10,Asia Doss missed Free Throw.,69,61,8,0,0.9998540114933221,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+343,4,0:10,10,10,Ohio State Deadball Team Rebound.,69,61,8,0,0.9998540114933221,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,
+344,4,0:10,10,10,Asia Doss made Free Throw.,70,61,9,6,0.9999515929286439,Ohio State,Wisconsin,5,2,0,1,NA,400917345,2017-01-19,Ohio State
+345,4,0:04,4,4,Suzanne Gilreath missed Three Point Jumper.,70,61,9,0,0.9999670976954876,Ohio State,Wisconsin,5,2,0,0,NA,400917345,2017-01-19,
+346,4,0:04,4,4,Ohio State Defensive Rebound.,70,61,9,4,0.9999670976954876,Ohio State,Wisconsin,5,2,0,0,NA,400917345,2017-01-19,
+347,4,0:00,0,0,End of Game,70,61,9,0,1,Ohio State,Wisconsin,5,2,0,0,NA,400917345,2017-01-19,

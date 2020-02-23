@@ -1,0 +1,326 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:42,2382,2382,Rosanna Reynolds missed Jumper.,0,0,0,0,0.5,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,NA
+2,1,9:42,2382,2382,Rosanna Reynolds Offensive Rebound.,0,0,0,9,0.5,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+3,1,9:33,2373,2373,Rosanna Reynolds missed Three Point Jumper.,0,0,0,0,0.5,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+4,1,9:33,2373,2373,Ashanti Abshaw Defensive Rebound.,0,0,0,16,0.5,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+5,1,9:17,2357,2357,Ashanti Abshaw missed Three Point Jumper.,0,0,0,0,0.5,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+6,1,9:17,2357,2357,Detroit Mercy Defensive Rebound.,0,0,0,16,0.5,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+7,1,9:01,2341,2341,Gracie Roberts Turnover.,0,0,0,0,0.5,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+8,1,9:01,2341,2341,Shadae Bosley Steal.,0,0,0,7,0.5,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+9,1,8:54,2334,2334,Khayla Livingston missed Layup.,0,0,0,0,0.5,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+10,1,8:54,2334,2334,Shadae Bosley Offensive Rebound.,0,0,0,1,0.5,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+11,1,8:53,2333,2333,Shadae Bosley made Jumper.,0,2,-2,0,0.45453965530089274,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Cleveland State
+12,1,8:53,2333,2333,Foul on Gracie Roberts.,0,2,-2,0,0.45453965530089274,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+13,1,8:53,2333,2333,Shadae Bosley missed Free Throw.,0,2,-2,0,0.45453965530089274,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+14,1,8:53,2333,2333,Rosanna Reynolds Defensive Rebound.,0,2,-2,9,0.45453965530089274,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+15,1,8:44,2324,2324,Nicole Urbanick missed Three Point Jumper.,0,2,-2,0,0.4543425759993232,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+16,1,8:44,2324,2324,Khayla Livingston Defensive Rebound.,0,2,-2,25,0.4543425759993232,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+17,1,8:19,2299,2299,Olivia Voskuhl Turnover.,0,2,-2,25,0.4537903654396274,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+18,1,7:54,2274,2274,Brianne Cohen made Three Point Jumper. Assisted by Gracie Roberts.,3,2,1,18,0.523435477271786,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+19,1,7:36,2256,2256,Khayla Livingston Turnover.,3,2,1,9,0.523639656798127,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+20,1,7:27,2247,2247,Haleigh Ristovski missed Three Point Jumper.,3,2,1,0,0.5237422496303528,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+21,1,7:27,2247,2247,Gracie Roberts Offensive Rebound.,3,2,1,3,0.5237422496303528,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+22,1,7:24,2244,2244,Brianne Cohen Turnover.,3,2,1,15,0.523776517028738,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+23,1,7:09,2229,2229,Ashanti Abshaw missed Three Point Jumper.,3,2,1,0,0.5239483454281848,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+24,1,7:09,2229,2229,Gracie Roberts Defensive Rebound.,3,2,1,7,0.5239483454281848,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+25,1,7:02,2222,2222,Gracie Roberts missed Layup.,3,2,1,0,0.5240287954002141,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+26,1,7:02,2222,2222,Nicole Urbanick Offensive Rebound.,3,2,1,4,0.5240287954002141,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+27,1,6:58,2218,2218,Nicole Urbanick missed Three Point Jumper.,3,2,1,0,0.5240748370447984,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+28,1,6:58,2218,2218,Ashanti Abshaw Defensive Rebound.,3,2,1,14,0.5240748370447984,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+29,1,6:44,2204,2204,Ashanti Abshaw Turnover.,3,2,1,18,0.5242363573899839,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+30,1,6:26,2186,2186,Kelsey Mitchell Turnover.,3,2,1,1,0.5244447916132549,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+31,1,6:25,2185,2185,Olivia Voskuhl Steal.,3,2,1,7,0.5244563937823086,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+32,1,6:18,2178,2178,Khayla Livingston made Layup.,3,4,-1,18,0.47546233113639524,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Cleveland State
+33,1,6:00,2160,2160,Nicole Urbanick Turnover.,3,4,-1,10,0.4752528051079688,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+34,1,5:50,2150,2150,Ashanti Abshaw missed Three Point Jumper.,3,4,-1,0,0.47513589657523964,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+35,1,5:50,2150,2150,Kelsey Mitchell Defensive Rebound.,3,4,-1,20,0.47513589657523964,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+36,1,5:30,2130,2130,Rosanna Reynolds made Jumper.,5,4,1,13,0.52509915344462,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+37,1,5:17,2117,2117,Chrishna Butler missed Three Point Jumper.,5,4,1,0,0.5252528699571531,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+38,1,5:17,2117,2117,Haleigh Ristovski Defensive Rebound.,5,4,1,9,0.5252528699571531,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+39,1,5:08,2108,2108,Anja Marinkovic missed Jumper.,5,4,1,0,0.5253597437932811,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+40,1,5:08,2108,2108,Chrishna Butler Defensive Rebound.,5,4,1,5,0.5253597437932811,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+41,1,5:03,2103,2103,Chrishna Butler Turnover.,5,4,1,12,0.5254192842743747,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+42,1,4:51,2091,2091,Anja Marinkovic missed Jumper.,5,4,1,0,0.5255626806433447,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+43,1,4:51,2091,2091,Khayla Livingston Defensive Rebound.,5,4,1,8,0.5255626806433447,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+44,1,4:43,2083,2083,Olivia Voskuhl made Layup. Assisted by Khayla Livingston.,5,6,-1,24,0.47434131887229,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Cleveland State
+45,1,4:19,2059,2059,Brittney Jackson made Jumper.,7,6,1,22,0.5259487125162579,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+46,1,3:57,2037,2037,Olivia Voskuhl made Jumper. Assisted by Jade Ely.,7,8,-1,17,0.4737825953128545,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Cleveland State
+47,1,3:40,2020,2020,Kelsey Mitchell missed Jumper.,7,8,-1,1,0.4735729968641911,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+48,1,3:39,2019,2019,Rosanna Reynolds Offensive Rebound.,7,8,-1,3,0.47356061194288745,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+49,1,3:36,2016,2016,Brittney Jackson missed Three Point Jumper.,7,8,-1,0,0.47352341939653925,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+50,1,3:36,2016,2016,Chrishna Butler Defensive Rebound.,7,8,-1,27,0.47352341939653925,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+51,1,3:09,1989,1989,Khayla Livingston missed Three Point Jumper.,7,8,-1,0,0.47318606490886933,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+52,1,3:09,1989,1989,Haleigh Ristovski Defensive Rebound.,7,8,-1,2,0.47318606490886933,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+53,1,3:07,1987,1987,Official TV Timeout,7,8,-1,10,0.4731608827039501,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+54,1,2:57,1977,1977,Foul on Olivia Voskuhl.,7,8,-1,15,0.47303455912603665,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+55,1,2:42,1962,1962,Brianne Cohen missed Jumper.,7,8,-1,0,0.4728437558121363,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+56,1,2:42,1962,1962,Jade Ely Defensive Rebound.,7,8,-1,4,0.4728437558121363,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+57,1,2:38,1958,1958,Jade Ely Turnover.,7,8,-1,12,0.4727926015739934,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+58,1,2:26,1946,1946,Anja Marinkovic missed Three Point Jumper.,7,8,-1,0,0.47263843140301287,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+59,1,2:26,1946,1946,Olivia Voskuhl Defensive Rebound.,7,8,-1,27,0.47263843140301287,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+60,1,1:59,1919,1919,Khayla Livingston missed Three Point Jumper.,7,8,-1,0,0.47228815893659803,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+61,1,1:59,1919,1919,Olivia Voskuhl Offensive Rebound.,7,8,-1,7,0.47228815893659803,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+62,1,1:52,1912,1912,Jade Ely Turnover.,7,8,-1,1,0.472197265256179,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+63,1,1:51,1911,1911,Nicole Urbanick Steal.,7,8,-1,7,0.47218428607041996,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+64,1,1:44,1904,1904,Anja Marinkovic made Three Point Jumper. Assisted by Brittney Jackson.,10,8,2,17,0.5556397560516335,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+65,1,1:27,1887,1887,Olivia Voskuhl missed Layup.,10,8,2,0,0.5560766262651798,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+66,1,1:27,1887,1887,Ashley Miller Block.,10,8,2,2,0.5560766262651798,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+67,1,1:25,1885,1885,Anja Marinkovic Defensive Rebound.,10,8,2,7,0.5561280298710363,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+68,1,1:18,1878,1878,Nicole Urbanick made Three Point Jumper. Assisted by Brittney Jackson.,13,8,5,19,0.6377192408456538,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+69,1,0:59,1859,1859,Khayla Livingston missed Jumper.,13,8,5,0,0.6388634494934801,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+70,1,0:59,1859,1859,Nicole Urbanick Defensive Rebound.,13,8,5,19,0.6388634494934801,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+71,1,0:40,1840,1840,Brianne Cohen Turnover.,13,8,5,17,0.6400109288661632,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+72,1,0:23,1823,1823,Ashanti Abshaw missed Three Point Jumper.,13,8,5,0,0.6410423795849501,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+73,1,0:23,1823,1823,Haleigh Ristovski Defensive Rebound.,13,8,5,5,0.6410423795849501,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+74,1,0:18,1818,1818,Haleigh Ristovski Turnover.,13,8,5,18,0.6413468676539791,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+75,1,0:00,1800,1800,End of 1st Quarter,13,8,5,8,0.6424482088636343,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+76,2,9:52,1792,1792,Foul on Gracie Roberts.,13,8,5,20,0.6429406739139885,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+77,2,9:32,1772,1772,Khayla Livingston made Jumper.,13,10,3,25,0.5881046184145621,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Cleveland State
+78,2,9:07,1747,1747,Rosanna Reynolds missed Three Point Jumper.,13,10,3,0,0.5891029374258591,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+79,2,9:07,1747,1747,Chrishna Butler Defensive Rebound.,13,10,3,6,0.5891029374258591,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+80,2,9:01,1741,1741,Foul on Brittney Jackson.,13,10,3,11,0.5893454354779577,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+81,2,8:50,1730,1730,Ashanti Abshaw Turnover.,13,10,3,0,0.5897932240047887,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+82,2,8:50,1730,1730,Brittney Jackson Steal.,13,10,3,10,0.5897932240047887,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+83,2,8:40,1720,1720,Brianne Cohen made Layup. Assisted by Rosanna Reynolds.,15,10,5,12,0.647487960188666,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+84,2,8:28,1708,1708,Foul on Haleigh Ristovski.,15,10,5,5,0.6482712811773058,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+85,2,8:23,1703,1703,Khayla Livingston missed Three Point Jumper.,15,10,5,0,0.6486002381319425,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+86,2,8:23,1703,1703,Kelsey Mitchell Defensive Rebound.,15,10,5,14,0.6486002381319425,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+87,2,8:09,1689,1689,Kelsey Mitchell missed Layup.,15,10,5,0,0.6495297406413132,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+88,2,8:09,1689,1689,Shadae Bosley Block.,15,10,5,0,0.6495297406413132,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+89,2,8:09,1689,1689,Detroit Mercy Offensive Rebound.,15,10,5,6,0.6495297406413132,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+90,2,8:03,1683,1683,Lola Ristovski missed Three Point Jumper.,15,10,5,0,0.6499278249081752,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+91,2,8:03,1683,1683,Olivia Voskuhl Defensive Rebound.,15,10,5,16,0.6499278249081752,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+92,2,7:47,1667,1667,Olivia Voskuhl missed Jumper.,15,10,5,0,0.6509714805902108,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+93,2,7:47,1667,1667,Haleigh Ristovski Defensive Rebound.,15,10,5,14,0.6509714805902108,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+94,2,7:33,1653,1653,Lola Ristovski missed Three Point Jumper.,15,10,5,0,0.6518665295980064,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+95,2,7:33,1653,1653,Olivia Voskuhl Defensive Rebound.,15,10,5,8,0.6518665295980064,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+96,2,7:25,1645,1645,Khayla Livingston missed Layup.,15,10,5,0,0.6523717955141202,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+97,2,7:25,1645,1645,Kelsey Mitchell Defensive Rebound.,15,10,5,21,0.6523717955141202,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+98,2,7:04,1624,1624,Rosanna Reynolds Turnover.,15,10,5,0,0.6536822099297468,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+99,2,7:04,1624,1624,Khayla Livingston Steal.,15,10,5,5,0.6536822099297468,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+100,2,6:59,1619,1619,Chrishna Butler made Layup. Assisted by Khayla Livingston.,15,12,3,0,0.5943503863889814,Detroit Mercy,Cleveland State,4,4,1,0,NA,400944535,2017-03-05,Cleveland State
+101,2,6:59,1619,1619,Detroit Mercy  Timeout,15,12,3,0,0.5943503863889814,Detroit Mercy,Cleveland State,3,4,1,0,NA,400944535,2017-03-05,
+102,2,6:59,1619,1619,Official TV Timeout,15,12,3,18,0.5943503863889814,Detroit Mercy,Cleveland State,3,4,1,0,NA,400944535,2017-03-05,
+103,2,6:41,1601,1601,Kelsey Mitchell Turnover.,15,12,3,18,0.59506048678765,Detroit Mercy,Cleveland State,3,4,1,0,NA,400944535,2017-03-05,
+104,2,6:23,1583,1583,Shadae Bosley made Jumper.,15,14,1,16,0.5322778583112955,Detroit Mercy,Cleveland State,3,4,1,0,NA,400944535,2017-03-05,Cleveland State
+105,2,6:07,1567,1567,Rosanna Reynolds made Layup.,17,14,3,15,0.5964059410488348,Detroit Mercy,Cleveland State,3,4,1,0,NA,400944535,2017-03-05,Detroit Mercy
+106,2,5:52,1552,1552,Ashanti Abshaw missed Three Point Jumper.,17,14,3,0,0.597007775129961,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+107,2,5:52,1552,1552,Kelsey Mitchell Defensive Rebound.,17,14,3,20,0.597007775129961,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+108,2,5:32,1532,1532,Foul on Kelsey Mitchell.,17,14,3,0,0.5978244600998407,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+109,2,5:32,1532,1532,Kelsey Mitchell Turnover.,17,14,3,13,0.5978244600998407,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+110,2,5:19,1519,1519,Khayla Livingston missed Three Point Jumper.,17,14,3,0,0.5983667448698702,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+111,2,5:19,1519,1519,Haleigh Ristovski Block.,17,14,3,2,0.5983667448698702,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+112,2,5:17,1517,1517,Haleigh Ristovski Defensive Rebound.,17,14,3,6,0.5984511113328203,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+113,2,5:11,1511,1511,Foul on Shadae Bosley.,17,14,3,0,0.5987058439163156,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+114,2,5:11,1511,1511,Brianne Cohen made Free Throw.,18,14,4,0,0.6302837384202129,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+115,2,5:11,1511,1511,Brianne Cohen missed Free Throw.,18,14,4,0,0.6302837384202129,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+116,2,5:11,1511,1511,Olivia Voskuhl Defensive Rebound.,18,14,4,18,0.6302837384202129,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+117,2,4:53,1493,1493,Khayla Livingston made Jumper.,18,16,2,30,0.5668187092109842,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,Cleveland State
+118,2,4:23,1463,1463,Nicole Urbanick missed Three Point Jumper.,18,16,2,0,0.5677493772119581,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+119,2,4:23,1463,1463,Brianne Cohen Offensive Rebound.,18,16,2,4,0.5677493772119581,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+120,2,4:19,1459,1459,Brianne Cohen made Jumper.,20,16,4,19,0.6332998419022561,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+121,2,4:00,1440,1440,Ashanti Abshaw made Jumper.,20,18,2,16,0.5685000611741511,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,Cleveland State
+122,2,3:44,1424,1424,Brianne Cohen made Layup. Assisted by Brittney Jackson.,22,18,4,33,0.6354395231136698,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+123,2,3:11,1391,1391,Khayla Livingston missed Jumper.,22,18,4,0,0.6373517367336093,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+124,2,3:11,1391,1391,Ashanti Abshaw Offensive Rebound.,22,18,4,1,0.6373517367336093,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+125,2,3:10,1390,1390,Ashanti Abshaw made Two Point Tip Shot.,22,20,2,4,0.5700529581558398,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,Cleveland State
+126,2,3:06,1386,1386,Foul on Chrishna Butler.,22,20,2,21,0.5701734323509083,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+127,2,2:45,1365,1365,Kelsey Mitchell made Layup. Assisted by Brittney Jackson.,24,20,4,19,0.6388225376222332,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+128,2,2:26,1346,1346,Olivia Voskuhl made Jumper. Assisted by Chrishna Butler.,24,22,2,31,0.5713741769180065,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,Cleveland State
+129,2,1:55,1315,1315,Anja Marinkovic made Three Point Jumper. Assisted by Brittney Jackson.,27,22,5,25,0.6744478030621215,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+130,2,1:30,1290,1290,Jade Ely missed Jumper.,27,22,5,0,0.6762465150150259,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+131,2,1:30,1290,1290,Nicole Urbanick Block.,27,22,5,2,0.6762465150150259,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+132,2,1:28,1288,1288,Kelsey Mitchell Defensive Rebound.,27,22,5,4,0.6763943841618215,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+133,2,1:24,1284,1284,Anja Marinkovic missed Jumper.,27,22,5,0,0.6766921476756094,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+134,2,1:24,1284,1284,Kelsey Mitchell Offensive Rebound.,27,22,5,6,0.6766921476756094,Detroit Mercy,Cleveland State,3,4,0,0,NA,400944535,2017-03-05,
+135,2,1:18,1278,1278,Nicole Urbanick made Layup.,29,22,7,0,0.7382609329151942,Detroit Mercy,Cleveland State,3,4,0,1,NA,400944535,2017-03-05,Detroit Mercy
+136,2,1:18,1278,1278,Cleveland State  Timeout,29,22,7,21,0.7382609329151942,Detroit Mercy,Cleveland State,3,3,0,1,NA,400944535,2017-03-05,
+137,2,0:57,1257,1257,Olivia Voskuhl missed Jumper.,29,22,7,0,0.7402856134038083,Detroit Mercy,Cleveland State,3,3,0,1,NA,400944535,2017-03-05,
+138,2,0:57,1257,1257,Kelsey Mitchell Defensive Rebound.,29,22,7,14,0.7402856134038083,Detroit Mercy,Cleveland State,3,3,0,1,NA,400944535,2017-03-05,
+139,2,0:43,1243,1243,Anja Marinkovic made Three Point Jumper. Assisted by Brittney Jackson.,32,22,10,19,0.8186011914373915,Detroit Mercy,Cleveland State,3,3,0,1,NA,400944535,2017-03-05,Detroit Mercy
+140,2,0:24,1224,1224,Sierra Davidson missed Layup.,32,22,10,0,0.8208315836061971,Detroit Mercy,Cleveland State,3,3,0,1,NA,400944535,2017-03-05,
+141,2,0:24,1224,1224,Olivia Voskuhl Offensive Rebound.,32,22,10,14,0.8208315836061971,Detroit Mercy,Cleveland State,3,3,0,1,NA,400944535,2017-03-05,
+142,2,0:10,1210,1210,Cleveland State  Turnover.,32,22,10,10,0.822556939281736,Detroit Mercy,Cleveland State,3,3,0,0,NA,400944535,2017-03-05,
+143,2,0:00,1200,1200,Rosanna Reynolds missed Three Point Jumper.,32,22,10,0,0.8237988536530104,Detroit Mercy,Cleveland State,3,3,0,0,NA,400944535,2017-03-05,
+144,2,0:00,1200,1200,Olivia Voskuhl Defensive Rebound.,32,22,10,0,0.8237988536530104,Detroit Mercy,Cleveland State,3,3,0,0,NA,400944535,2017-03-05,
+145,2,0:00,1200,1200,End of 2nd Quarter,32,22,10,18,0.8237988536530104,Detroit Mercy,Cleveland State,3,3,0,0,NA,400944535,2017-03-05,
+146,3,9:42,1182,1182,Rosanna Reynolds made Layup.,34,22,12,31,0.8663082474688749,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+147,3,9:11,1151,1151,Olivia Voskuhl missed Jumper.,34,22,12,0,0.8697366766206924,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+148,3,9:11,1151,1151,Khayla Livingston Offensive Rebound.,34,22,12,2,0.8697366766206924,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+149,3,9:09,1149,1149,Olivia Voskuhl missed Jumper.,34,22,12,0,0.8699525677754907,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+150,3,9:09,1149,1149,Rosanna Reynolds Defensive Rebound.,34,22,12,9,0.8699525677754907,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+151,3,9:00,1140,1140,Brianne Cohen missed Jumper.,34,22,12,0,0.8709188282810222,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+152,3,9:00,1140,1140,Nicole Urbanick Offensive Rebound.,34,22,12,20,0.8709188282810222,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+153,3,8:40,1120,1120,Foul on Shadae Bosley.,34,22,12,1,0.873046490481577,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+154,3,8:39,1119,1119,Rosanna Reynolds made Free Throw.,38,22,16,0,0.929048656077496,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+155,3,8:39,1119,1119,Rosanna Reynolds made Three Point Jumper.,37,22,15,0,0.9176929690810474,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+156,3,8:39,1119,1119,Chrishna Butler made Three Point Jumper. Assisted by Shadae Bosley.,38,25,13,30,0.889916208917817,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+157,3,8:09,1089,1089,Foul on Shadae Bosley.,38,25,13,0,0.8929731759007491,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+158,3,8:09,1089,1089,Brianne Cohen made Free Throw.,39,25,14,0,0.9075992296783645,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+159,3,8:09,1089,1089,Brianne Cohen missed Free Throw.,39,25,14,0,0.9075992296783645,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+160,3,8:09,1089,1089,Shadae Bosley Defensive Rebound.,39,25,14,25,0.9075992296783645,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+161,3,7:44,1064,1064,Jade Ely missed Layup.,39,25,14,0,0.9100525772204977,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+162,3,7:44,1064,1064,Haleigh Ristovski Defensive Rebound.,39,25,14,7,0.9100525772204977,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+163,3,7:37,1057,1057,Foul on Shadae Bosley.,39,25,14,0,0.9107527781308032,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+164,3,7:37,1057,1057,Brianne Cohen made Free Throw.,40,25,15,1,0.9233514929603194,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+165,3,7:36,1056,1056,Brianne Cohen made Free Throw.,41,25,16,16,0.9343868189188294,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+166,3,7:20,1040,1040,Khayla Livingston missed Jumper.,41,25,16,0,0.9357928985006735,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+167,3,7:20,1040,1040,Nicole Urbanick Defensive Rebound.,41,25,16,7,0.9357928985006735,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+168,3,7:13,1033,1033,Gracie Roberts missed Three Point Jumper.,41,25,16,0,0.9364192036613377,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+169,3,7:13,1033,1033,Ashanti Abshaw Defensive Rebound.,41,25,16,13,0.9364192036613377,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+170,3,7:00,1020,1020,Ashanti Abshaw made Three Point Jumper.,41,28,13,29,0.9004038826476578,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Cleveland State
+171,3,6:31,991,991,Rosanna Reynolds missed Jumper.,41,28,13,0,0.9038499493979928,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+172,3,6:31,991,991,Olivia Voskuhl Defensive Rebound.,41,28,13,11,0.9038499493979928,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+173,3,6:20,980,980,Olivia Voskuhl missed Three Point Jumper.,41,28,13,0,0.9052238638194074,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+174,3,6:20,980,980,Nicole Urbanick Defensive Rebound.,41,28,13,18,0.9052238638194074,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+175,3,6:02,962,962,Brittney Jackson missed Three Point Jumper.,41,28,13,0,0.907519163393073,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+176,3,6:02,962,962,Haleigh Ristovski Offensive Rebound.,41,28,13,9,0.907519163393073,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+177,3,5:53,953,953,Anja Marinkovic missed Three Point Jumper.,41,28,13,0,0.908592742083254,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+178,3,5:53,953,953,Kelsey Mitchell Offensive Rebound.,41,28,13,1,0.908592742083254,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+179,3,5:52,952,952,Foul on Sierra Davidson.,41,28,13,18,0.9087081544679949,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+180,3,5:34,934,934,Kelsey Mitchell Turnover.,41,28,13,2,0.9106702294832194,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+181,3,5:32,932,932,Khayla Livingston Steal.,41,28,13,6,0.9108761981310873,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+182,3,5:26,926,926,Chrishna Butler missed Three Point Jumper.,41,28,13,0,0.91148174760072,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+183,3,5:26,926,926,Rosanna Reynolds Defensive Rebound.,41,28,13,14,0.91148174760072,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+184,3,5:12,912,912,Foul on Ashanti Abshaw.,41,28,13,0,0.9128325032202518,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+185,3,5:12,912,912,Kelsey Mitchell missed Free Throw.,41,28,13,0,0.9128325032202518,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+186,3,5:12,912,912,Detroit Mercy Deadball Team Rebound.,41,28,13,0,0.9128325032202518,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+187,3,5:12,912,912,Kelsey Mitchell made Free Throw.,42,28,14,22,0.926176774417707,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+188,3,4:50,890,890,Haleigh Ristovski Turnover.,42,28,14,1,0.928023359260064,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+189,3,4:49,889,889,Official TV Timeout,42,28,14,12,0.9281050029378171,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+190,3,4:37,877,877,Anja Marinkovic missed Three Point Jumper.,42,28,14,0,0.9290763116737684,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+191,3,4:37,877,877,Kelsey Mitchell Offensive Rebound.,42,28,14,3,0.9290763116737684,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+192,3,4:34,874,874,Kelsey Mitchell Turnover.,42,28,14,12,0.929317615275972,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+193,3,4:22,862,862,Ashanti Abshaw Turnover.,42,28,14,12,0.9302826607993844,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+194,3,4:10,850,850,Anja Marinkovic made Jumper. Assisted by Brittney Jackson.,44,28,16,10,0.9515915041365695,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+195,3,4:00,840,840,Foul on Sierra Davidson.,44,28,16,0,0.9522705793636699,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+196,3,4:00,840,840,Sierra Davidson Turnover.,44,28,16,11,0.9522705793636699,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+197,3,3:49,829,829,Brittney Jackson made Three Point Jumper. Assisted by Nicole Urbanick.,47,28,19,10,0.9727396181838162,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+198,3,3:39,819,819,Foul on Brittney Jackson.,47,28,19,1,0.9732429737772991,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+199,3,3:38,818,818,Foul on Nicole Urbanick.,47,28,19,10,0.9732941246871427,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+200,3,3:28,808,808,Olivia Voskuhl Turnover.,47,28,19,16,0.9738148358221038,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+201,3,3:12,792,792,Anja Marinkovic missed Three Point Jumper.,47,28,19,0,0.9746873025932281,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+202,3,3:12,792,792,Olivia Voskuhl Defensive Rebound.,47,28,19,7,0.9746873025932281,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,
+203,3,3:05,785,785,Khayla Livingston made Layup.,47,30,17,20,0.9637743480235076,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Cleveland State
+204,3,2:45,765,765,Brittney Jackson made Three Point Jumper. Assisted by Anja Marinkovic.,50,30,20,14,0.9804206283529665,Detroit Mercy,Cleveland State,4,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+205,3,2:31,751,751,Khayla Livingston made Jumper.,50,32,18,0,0.9723412271336225,Detroit Mercy,Cleveland State,4,4,0,1,NA,400944535,2017-03-05,Cleveland State
+206,3,2:31,751,751,Cleveland State  Timeout,50,32,18,14,0.9723412271336225,Detroit Mercy,Cleveland State,4,3,0,1,NA,400944535,2017-03-05,
+207,3,2:17,737,737,Brittney Jackson Turnover.,50,32,18,1,0.9734313118855062,Detroit Mercy,Cleveland State,4,3,0,1,NA,400944535,2017-03-05,
+208,3,2:16,736,736,Olivia Voskuhl Steal.,50,32,18,6,0.9735114981646593,Detroit Mercy,Cleveland State,4,3,0,1,NA,400944535,2017-03-05,
+209,3,2:10,730,730,Khayla Livingston missed Jumper.,50,32,18,0,0.9739990746151749,Detroit Mercy,Cleveland State,4,3,0,1,NA,400944535,2017-03-05,
+210,3,2:10,730,730,Ashley Miller Defensive Rebound.,50,32,18,11,0.9739990746151749,Detroit Mercy,Cleveland State,4,3,0,1,NA,400944535,2017-03-05,
+211,3,1:59,719,719,Brittney Jackson missed Three Point Jumper.,50,32,18,0,0.9748516731484291,Detroit Mercy,Cleveland State,4,3,0,1,NA,400944535,2017-03-05,
+212,3,1:59,719,719,Olivia Voskuhl Defensive Rebound.,50,32,18,11,0.9748516731484291,Detroit Mercy,Cleveland State,4,3,0,1,NA,400944535,2017-03-05,
+213,3,1:48,708,708,Khayla Livingston missed Layup.,50,32,18,0,0.9756150350019543,Detroit Mercy,Cleveland State,4,3,0,1,NA,400944535,2017-03-05,
+214,3,1:48,708,708,Anja Marinkovic Defensive Rebound.,50,32,18,5,0.9756150350019543,Detroit Mercy,Cleveland State,4,3,0,1,NA,400944535,2017-03-05,
+215,3,1:43,703,703,Foul on Sierra Davidson.,50,32,18,0,0.9759376151972686,Detroit Mercy,Cleveland State,4,3,0,1,NA,400944535,2017-03-05,
+216,3,1:43,703,703,Brianne Cohen made Free Throw.,51,32,19,0,0.9803234907581226,Detroit Mercy,Cleveland State,4,3,0,1,NA,400944535,2017-03-05,Detroit Mercy
+217,3,1:43,703,703,Brianne Cohen missed Free Throw.,51,32,19,0,0.9803234907581226,Detroit Mercy,Cleveland State,4,3,0,1,NA,400944535,2017-03-05,
+218,3,1:43,703,703,Olivia Voskuhl Defensive Rebound.,51,32,19,15,0.9803234907581226,Detroit Mercy,Cleveland State,4,3,0,1,NA,400944535,2017-03-05,
+219,3,1:28,688,688,Olivia Voskuhl missed Three Point Jumper.,51,32,19,0,0.9810993124605984,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+220,3,1:28,688,688,Lola Ristovski Defensive Rebound.,51,32,19,7,0.9810993124605984,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+221,3,1:21,681,681,Nicole Urbanick missed Three Point Jumper.,51,32,19,0,0.981435746799202,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+222,3,1:21,681,681,Brianne Cohen Offensive Rebound.,51,32,19,14,0.981435746799202,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+223,3,1:07,667,667,Haleigh Ristovski Turnover.,51,32,19,20,0.9820759103043561,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+224,3,0:47,647,647,Khayla Livingston made Jumper.,51,34,17,19,0.9741119357200785,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,Cleveland State
+225,3,0:28,628,628,Brianne Cohen made Layup. Assisted by Lola Ristovski.,53,34,19,28,0.9837884868761978,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,Detroit Mercy
+226,3,0:00,600,600,Jade Ely missed Jumper.,53,34,19,0,0.9851090283578244,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+227,3,0:00,600,600,Haleigh Ristovski Block.,53,34,19,0,0.9851090283578244,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+228,3,0:00,600,600,Jade Ely Offensive Rebound.,53,34,19,0,0.9851090283578244,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+229,3,0:00,600,600,Jade Ely missed Jumper.,53,34,19,0,0.9851090283578244,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+230,3,0:00,600,600,Haleigh Ristovski Block.,53,34,19,0,0.9851090283578244,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+231,3,0:00,600,600,Haleigh Ristovski Defensive Rebound.,53,34,19,0,0.9851090283578244,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+232,3,0:00,600,600,End of 3rd Quarter,53,34,19,11,0.9851090283578244,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+233,4,9:49,589,589,Detroit Mercy Defensive Rebound.,53,34,19,0,0.9856733326752607,Detroit Mercy,Cleveland State,5,4,0,0,NA,400944535,2017-03-05,
+234,4,9:49,589,589,Khayla Livingston missed Three Point Jumper.,53,34,19,18,0.9856733326752607,Detroit Mercy,Cleveland State,5,4,0,0,NA,400944535,2017-03-05,
+235,4,9:31,571,571,Nicole Urbanick made Three Point Jumper. Assisted by Rosanna Reynolds.,56,34,22,13,0.993196150442183,Detroit Mercy,Cleveland State,5,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+236,4,9:18,558,558,Olivia Voskuhl missed Jumper.,56,34,22,0,0.993651725309126,Detroit Mercy,Cleveland State,5,4,0,0,NA,400944535,2017-03-05,
+237,4,9:18,558,558,Rosanna Reynolds Defensive Rebound.,56,34,22,20,0.993651725309126,Detroit Mercy,Cleveland State,5,4,0,0,NA,400944535,2017-03-05,
+238,4,8:58,538,538,Brianne Cohen made Layup. Assisted by Rosanna Reynolds.,58,34,24,22,0.996454892344145,Detroit Mercy,Cleveland State,5,4,0,0,NA,400944535,2017-03-05,Detroit Mercy
+239,4,8:36,516,516,Olivia Voskuhl missed Jumper.,58,34,24,0,0.9968414778292756,Detroit Mercy,Cleveland State,5,4,0,0,NA,400944535,2017-03-05,
+240,4,8:36,516,516,Gracie Roberts Defensive Rebound.,58,34,24,6,0.9968414778292756,Detroit Mercy,Cleveland State,5,4,0,0,NA,400944535,2017-03-05,
+241,4,8:30,510,510,Rosanna Reynolds missed Three Point Jumper.,58,34,24,0,0.9969315547886696,Detroit Mercy,Cleveland State,5,4,0,0,NA,400944535,2017-03-05,
+242,4,8:30,510,510,Khayla Livingston Defensive Rebound.,58,34,24,9,0.9969315547886696,Detroit Mercy,Cleveland State,5,4,0,0,NA,400944535,2017-03-05,
+243,4,8:21,501,501,Foul on Rosanna Reynolds.,58,34,24,0,0.99706041713463,Detroit Mercy,Cleveland State,5,4,0,1,NA,400944535,2017-03-05,
+244,4,8:21,501,501,Khayla Livingston made Free Throw.,58,35,23,0,0.9962557065544865,Detroit Mercy,Cleveland State,5,4,0,1,NA,400944535,2017-03-05,Cleveland State
+245,4,8:21,501,501,Khayla Livingston made Free Throw.,58,36,22,0,0.9952317600056133,Detroit Mercy,Cleveland State,5,4,0,1,NA,400944535,2017-03-05,Cleveland State
+246,4,8:21,501,501,Cleveland State  Timeout,58,36,22,0,0.9952317600056133,Detroit Mercy,Cleveland State,5,3,0,1,NA,400944535,2017-03-05,
+247,4,8:21,501,501,Official TV Timeout,58,36,22,23,0.9952317600056133,Detroit Mercy,Cleveland State,5,3,0,1,NA,400944535,2017-03-05,
+248,4,7:58,478,478,Nicole Urbanick made Three Point Jumper. Assisted by Anja Marinkovic.,61,36,25,10,0.9979546484216812,Detroit Mercy,Cleveland State,5,3,0,1,NA,400944535,2017-03-05,Detroit Mercy
+249,4,7:48,468,468,Chrishna Butler made Layup.,61,38,23,24,0.9968273195270475,Detroit Mercy,Cleveland State,5,3,0,1,NA,400944535,2017-03-05,Cleveland State
+250,4,7:24,444,444,Haleigh Ristovski missed Layup.,61,38,23,0,0.9973027315981731,Detroit Mercy,Cleveland State,5,3,0,1,NA,400944535,2017-03-05,
+251,4,7:24,444,444,Kelsey Mitchell Offensive Rebound.,61,38,23,2,0.9973027315981731,Detroit Mercy,Cleveland State,5,3,0,1,NA,400944535,2017-03-05,
+252,4,7:22,442,442,Kelsey Mitchell made Jumper.,63,38,25,10,0.9984132083510158,Detroit Mercy,Cleveland State,5,3,0,1,NA,400944535,2017-03-05,Detroit Mercy
+253,4,7:12,432,432,Foul on Haleigh Ristovski.,63,38,25,4,0.9985569771626929,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+254,4,7:08,428,428,Foul on Nicole Urbanick.,63,38,25,4,0.9986155267686327,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+255,4,7:04,424,424,Khayla Livingston missed Three Point Jumper.,63,38,25,0,0.9986706394488674,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+256,4,7:04,424,424,Rosanna Reynolds Defensive Rebound.,63,38,25,11,0.9986706394488674,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+257,4,6:53,413,413,Nicole Urbanick missed Three Point Jumper.,63,38,25,0,0.9988049643550689,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+258,4,6:53,413,413,Khayla Livingston Defensive Rebound.,63,38,25,5,0.9988049643550689,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+259,4,6:48,408,408,Ashanti Abshaw missed Layup.,63,38,25,0,0.9988593459414165,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+260,4,6:48,408,408,Rosanna Reynolds Block.,63,38,25,1,0.9988593459414165,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+261,4,6:47,407,407,Jade Ely Offensive Rebound.,63,38,25,5,0.9988698135485508,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+262,4,6:42,402,402,Alexis Eckles made Jumper.,63,40,23,9,0.9981368928520725,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,Cleveland State
+263,4,6:33,393,393,Foul on Alexis Eckles.,63,40,23,0,0.9982717419004623,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+264,4,6:33,393,393,Kelsey Mitchell made Free Throw.,64,40,24,0,0.9986886499856482,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,Detroit Mercy
+265,4,6:33,393,393,Kelsey Mitchell missed Free Throw.,64,40,24,0,0.9986886499856482,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+266,4,6:33,393,393,Shadae Bosley Defensive Rebound.,64,40,24,16,0.9986886499856482,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+267,4,6:17,377,377,Chrishna Butler missed Three Point Jumper.,64,40,24,0,0.9988626273172622,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+268,4,6:17,377,377,Kelsey Mitchell Defensive Rebound.,64,40,24,24,0.9988626273172622,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+269,4,5:53,353,353,Kelsey Mitchell made Layup. Assisted by Rosanna Reynolds.,66,40,26,23,0.9995009716216358,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,Detroit Mercy
+270,4,5:30,330,330,Jade Ely Turnover.,66,40,26,14,0.9996339913762605,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+271,4,5:16,316,316,Foul on Chrishna Butler.,66,40,26,0,0.9997097442072442,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+272,4,5:16,316,316,Cortney Williams missed Jumper.,66,40,26,0,0.9997097442072442,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+273,4,5:16,316,316,Ashanti Abshaw Defensive Rebound.,66,40,26,20,0.9997097442072442,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+274,4,4:56,296,296,Khayla Livingston missed Three Point Jumper.,66,40,26,0,0.999780746227297,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+275,4,4:56,296,296,Ashanti Abshaw Offensive Rebound.,66,40,26,0,0.999780746227297,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+276,4,4:56,296,296,Foul on Cortney Williams.,66,40,26,10,0.999780746227297,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+277,4,4:46,286,286,Khayla Livingston made Layup.,66,42,24,23,0.9995885449260095,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,Cleveland State
+278,4,4:23,263,263,Brittney Jackson Turnover.,66,42,24,10,0.9995358236023412,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+279,4,4:13,253,253,Ashanti Abshaw made Layup. Assisted by Khayla Livingston.,66,44,22,27,0.9990611901780999,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,Cleveland State
+280,4,3:46,226,226,Brittney Jackson Turnover.,66,44,22,1,0.999036066268502,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+281,4,3:45,225,225,Khayla Livingston Steal.,66,44,22,3,0.9990425929454397,Detroit Mercy,Cleveland State,5,3,0,0,NA,400944535,2017-03-05,
+282,4,3:42,222,222,Chrishna Butler made Layup. Assisted by Khayla Livingston.,66,46,20,0,0.9982409003563619,Detroit Mercy,Cleveland State,5,3,1,0,NA,400944535,2017-03-05,Cleveland State
+283,4,3:42,222,222,Detroit Mercy  Timeout,66,46,20,9,0.9982409003563619,Detroit Mercy,Cleveland State,4,3,1,0,NA,400944535,2017-03-05,
+284,4,3:33,213,213,Gracie Roberts Turnover.,66,46,20,1,0.998423803141498,Detroit Mercy,Cleveland State,4,3,1,0,NA,400944535,2017-03-05,
+285,4,3:32,212,212,Ashanti Abshaw Steal.,66,46,20,2,0.9984495403131053,Detroit Mercy,Cleveland State,4,3,1,0,NA,400944535,2017-03-05,
+286,4,3:30,210,210,Khayla Livingston made Layup.,66,48,18,13,0.9971371531373951,Detroit Mercy,Cleveland State,4,3,1,0,NA,400944535,2017-03-05,Cleveland State
+287,4,3:17,197,197,Ashley Miller missed Jumper.,66,48,18,0,0.9978758470617426,Detroit Mercy,Cleveland State,4,3,1,0,NA,400944535,2017-03-05,
+288,4,3:17,197,197,Lola Ristovski Offensive Rebound.,66,48,18,3,0.9978758470617426,Detroit Mercy,Cleveland State,4,3,1,0,NA,400944535,2017-03-05,
+289,4,3:14,194,194,Foul on Mariana Bautista.,66,48,18,2,0.9980652249408851,Detroit Mercy,Cleveland State,4,3,1,0,NA,400944535,2017-03-05,
+290,4,3:12,192,192,Haleigh Ristovski missed Jumper.,66,48,18,0,0.9981921632321548,Detroit Mercy,Cleveland State,4,3,1,0,NA,400944535,2017-03-05,
+291,4,3:12,192,192,Chrishna Butler Defensive Rebound.,66,48,18,8,0.9981921632321548,Detroit Mercy,Cleveland State,4,3,1,0,NA,400944535,2017-03-05,
+292,4,3:04,184,184,Foul on Rosanna Reynolds.,66,48,18,0,0.9986576445967873,Detroit Mercy,Cleveland State,4,3,1,0,NA,400944535,2017-03-05,
+293,4,3:04,184,184,Ashanti Abshaw made Free Throw.,66,49,17,0,0.9980629567048298,Detroit Mercy,Cleveland State,4,3,1,0,NA,400944535,2017-03-05,Cleveland State
+294,4,3:04,184,184,Ashanti Abshaw missed Free Throw.,66,49,17,0,0.9980629567048298,Detroit Mercy,Cleveland State,4,3,1,0,NA,400944535,2017-03-05,
+295,4,3:04,184,184,Mariana Bautista Offensive Rebound.,66,49,17,10,0.9980629567048298,Detroit Mercy,Cleveland State,4,3,1,0,NA,400944535,2017-03-05,
+296,4,2:54,174,174,Ashanti Abshaw missed Three Point Jumper.,66,49,17,0,0.9986492253176684,Detroit Mercy,Cleveland State,4,3,1,0,NA,400944535,2017-03-05,
+297,4,2:54,174,174,Khayla Livingston Offensive Rebound.,66,49,17,6,0.9986492253176684,Detroit Mercy,Cleveland State,4,3,1,0,NA,400944535,2017-03-05,
+298,4,2:48,168,168,Khayla Livingston missed Jumper.,66,49,17,0,0.9989192239091148,Detroit Mercy,Cleveland State,4,3,1,0,NA,400944535,2017-03-05,
+299,4,2:48,168,168,Khayla Livingston Offensive Rebound.,66,49,17,7,0.9989192239091148,Detroit Mercy,Cleveland State,4,3,1,0,NA,400944535,2017-03-05,
+300,4,2:41,161,161,Khayla Livingston missed Jumper.,66,49,17,0,0.9991745262194589,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+301,4,2:41,161,161,Haleigh Ristovski Block.,66,49,17,1,0.9991745262194589,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+302,4,2:40,160,160,Haleigh Ristovski Defensive Rebound.,66,49,17,13,0.9992064759129672,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+303,4,2:27,147,147,Foul on Mariana Bautista.,66,49,17,8,0.999537938860381,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+304,4,2:19,139,139,Gracie Roberts Turnover.,66,49,17,1,0.9996787662489768,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+305,4,2:18,138,138,Ashanti Abshaw Steal.,66,49,17,3,0.999693627697905,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+306,4,2:15,135,135,Ashanti Abshaw missed Layup.,66,49,17,0,0.9997349486334522,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+307,4,2:15,135,135,Chrishna Butler Offensive Rebound.,66,49,17,1,0.9997349486334522,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+308,4,2:14,134,134,Chrishna Butler made Layup.,66,51,15,5,0.9993315787783549,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,Cleveland State
+309,4,2:09,129,129,Rosanna Reynolds Turnover.,66,51,15,10,0.9994656230236256,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+310,4,1:59,119,119,Foul on Nicole Urbanick.,66,51,15,0,0.9996706186909822,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+311,4,1:59,119,119,Khayla Livingston made Free Throw.,66,52,14,0,0.9994379929763378,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,Cleveland State
+312,4,1:59,119,119,Khayla Livingston made Free Throw.,66,53,13,0,0.9990412328037955,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,Cleveland State
+313,4,1:59,119,119,Khayla Livingston made Free Throw.,66,54,12,20,0.9983648300699757,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,Cleveland State
+314,4,1:39,99,99,Brianne Cohen made Layup. Assisted by Nicole Urbanick.,68,54,14,10,0.9998058568604359,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,Detroit Mercy
+315,4,1:29,89,89,Chrishna Butler missed Three Point Jumper.,68,54,14,0,0.9998950716197913,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+316,4,1:29,89,89,Lola Ristovski Defensive Rebound.,68,54,14,17,0.9998950716197913,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+317,4,1:12,72,72,Brianne Cohen made Layup. Assisted by Lola Ristovski.,70,54,16,14,0.9999921279060403,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,Detroit Mercy
+318,4,0:58,58,58,Mariah Miller missed Three Point Jumper.,70,54,16,0,0.9999975507370994,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+319,4,0:58,58,58,Lola Ristovski Defensive Rebound.,70,54,16,24,0.9999975507370994,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+320,4,0:34,34,34,Lola Ristovski missed Three Point Jumper.,70,54,16,0,0.9999997347181765,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+321,4,0:34,34,34,Mariah Miller Defensive Rebound.,70,54,16,14,0.9999997347181765,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+322,4,0:20,20,20,Foul on Haleigh Ristovski.,70,54,16,0,0.9999999362938312,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,
+323,4,0:20,20,20,Chrishna Butler made Free Throw.,70,55,15,0,0.999999820559656,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,Cleveland State
+324,4,0:20,20,20,Chrishna Butler made Free Throw.,70,56,14,20,0.9999994945728038,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,Cleveland State
+325,4,0:00,0,0,End of Game,70,56,14,0,1,Detroit Mercy,Cleveland State,4,3,0,0,NA,400944535,2017-03-05,

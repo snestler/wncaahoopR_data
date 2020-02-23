@@ -1,0 +1,319 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:58,2398,2398,Alexis Jones Turnover.,0,0,0,16,0.5,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,NA
+2,1,9:42,2382,2382,McKenna Stephens missed Three Point Jumper.,0,0,0,0,0.5,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+3,1,9:42,2382,2382,Kristy Wallace Defensive Rebound.,0,0,0,8,0.5,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+4,1,9:34,2374,2374,Nina Davis missed Layup.,0,0,0,0,0.5,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+5,1,9:34,2374,2374,Beatrice Mompremier Offensive Rebound.,0,0,0,2,0.5,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+6,1,9:32,2372,2372,Foul on Naddiyah Cross.,0,0,0,0,0.5,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+7,1,9:32,2372,2372,Beatrice Mompremier missed Free Throw.,0,0,0,0,0.5,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+8,1,9:32,2372,2372,Baylor Deadball Team Rebound.,0,0,0,0,0.5,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+9,1,9:32,2372,2372,Beatrice Mompremier made Free Throw.,1,0,1,12,0.5223536071496834,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+10,1,9:20,2360,2360,Naddiyah Cross missed Jumper.,1,0,1,0,0.5224829067768547,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+11,1,9:20,2360,2360,Jordan Korinek Offensive Rebound.,1,0,1,6,0.5224829067768547,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+12,1,9:14,2354,2354,Jordan Korinek made Jumper.,1,2,-1,7,0.4774520732691912,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Kent State
+13,1,9:07,2347,2347,Alexis Jones Turnover.,1,2,-1,38,0.47737591477232977,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+14,1,8:29,2309,2309,Naddiyah Cross missed Three Point Jumper.,1,2,-1,0,0.4769571932307422,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+15,1,8:29,2309,2309,Calveion Landrum Defensive Rebound.,1,2,-1,6,0.4769571932307422,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+16,1,8:23,2303,2303,Foul on Jordan Korinek.,1,2,-1,0,0.4768903217819385,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+17,1,8:23,2303,2303,Nina Davis made Free Throw.,2,2,0,0,0.5,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+18,1,8:23,2303,2303,Nina Davis missed Free Throw.,2,2,0,0,0.5,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+19,1,8:23,2303,2303,Naddiyah Cross Defensive Rebound.,2,2,0,13,0.5,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+20,1,8:10,2290,2290,Larissa Lurken made Three Point Jumper. Assisted by Alexa Golden.,2,5,-3,22,0.4306342143735679,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Kent State
+21,1,7:48,2268,2268,Beatrice Mompremier made Layup.,4,5,-1,15,0.476496618581436,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+22,1,7:33,2253,2253,Jordan Korinek missed Three Point Jumper.,4,5,-1,0,0.4763261811960912,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+23,1,7:33,2253,2253,Alexis Prince Defensive Rebound.,4,5,-1,9,0.4763261811960912,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+24,1,7:24,2244,2244,Nina Davis missed Layup.,4,5,-1,0,0.4762234829712621,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+25,1,7:24,2244,2244,Alexa Golden Defensive Rebound.,4,5,-1,17,0.4762234829712621,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+26,1,7:07,2227,2227,Larissa Lurken Turnover.,4,5,-1,10,0.47602868522233716,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+27,1,6:57,2217,2217,Calveion Landrum missed Three Point Jumper.,4,5,-1,0,0.47591364482647425,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+28,1,6:57,2217,2217,Alexa Golden Defensive Rebound.,4,5,-1,8,0.47591364482647425,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+29,1,6:49,2209,2209,Alexa Golden Turnover.,4,5,-1,15,0.4758213927712275,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+30,1,6:34,2194,2194,Alexis Prince made Three Point Jumper. Assisted by Nina Davis.,7,5,2,31,0.5485888554868421,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+31,1,6:03,2163,2163,Alexa Golden missed Layup.,7,5,2,0,0.5493039593446217,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+32,1,6:03,2163,2163,Kristy Wallace Block.,7,5,2,0,0.5493039593446217,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+33,1,6:03,2163,2163,Baylor Defensive Rebound.,7,5,2,16,0.5493039593446217,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+34,1,5:47,2147,2147,Alexis Prince missed Three Point Jumper.,7,5,2,0,0.5496753190846927,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+35,1,5:47,2147,2147,Calveion Landrum Offensive Rebound.,7,5,2,16,0.5496753190846927,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+36,1,5:31,2131,2131,Kristy Wallace made Three Point Jumper. Assisted by Alexis Prince.,10,5,5,33,0.6229688937518054,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+37,1,4:58,2098,2098,Naddiyah Cross missed Three Point Jumper.,10,5,5,0,0.6248113238578489,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+38,1,4:58,2098,2098,Alexis Prince Defensive Rebound.,10,5,5,3,0.6248113238578489,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+39,1,4:55,2095,2095,Official TV Timeout,10,5,5,15,0.6249798569674797,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+40,1,4:40,2080,2080,Khadijiah Cave missed Jumper.,10,5,5,0,0.625825293157319,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+41,1,4:40,2080,2080,Larissa Lurken Defensive Rebound.,10,5,5,14,0.625825293157319,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+42,1,4:26,2066,2066,Jordan Korinek Turnover.,10,5,5,19,0.6266186945781196,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+43,1,4:07,2047,2047,Alexis Jones missed Three Point Jumper.,10,5,5,0,0.6277025093261908,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+44,1,4:07,2047,2047,Beatrice Mompremier Offensive Rebound.,10,5,5,4,0.6277025093261908,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+45,1,4:03,2043,2043,Beatrice Mompremier made Layup.,12,5,7,13,0.6753965894173771,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+46,1,3:50,2030,2030,Ali Poole Turnover.,12,5,7,2,0.6763785494697607,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+47,1,3:48,2028,2028,Alexis Jones Steal.,12,5,7,3,0.6765300419389993,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+48,1,3:45,2025,2025,Beatrice Mompremier Turnover.,12,5,7,12,0.6767574954724114,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+49,1,3:33,2013,2013,Megan Carter Turnover.,12,5,7,2,0.6776699324591207,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+50,1,3:31,2011,2011,Alexis Jones Steal.,12,5,7,4,0.6778224202490325,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+51,1,3:27,2007,2007,Alexis Jones made Layup.,14,5,9,23,0.7227391997683368,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+52,1,3:04,1984,1984,Ali Poole missed Three Point Jumper.,14,5,9,0,0.7248211033831201,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+53,1,3:04,1984,1984,Beatrice Mompremier Defensive Rebound.,14,5,9,15,0.7248211033831201,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+54,1,2:49,1969,1969,Kristy Wallace missed Three Point Jumper.,14,5,9,0,0.7261876866724375,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+55,1,2:49,1969,1969,Beatrice Mompremier Offensive Rebound.,14,5,9,5,0.7261876866724375,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+56,1,2:44,1964,1964,Beatrice Mompremier missed Layup.,14,5,9,0,0.726644825158809,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+57,1,2:44,1964,1964,Merissa Barber-Smith Defensive Rebound.,14,5,9,22,0.726644825158809,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+58,1,2:22,1942,1942,Foul on Larissa Lurken.,14,5,9,0,0.7286661611683417,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+59,1,2:22,1942,1942,Larissa Lurken Turnover.,14,5,9,16,0.7286661611683417,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+60,1,2:06,1926,1926,Kristy Wallace missed Three Point Jumper.,14,5,9,0,0.7301461621936179,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+61,1,2:06,1926,1926,Kent State Defensive Rebound.,14,5,9,16,0.7301461621936179,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+62,1,1:50,1910,1910,McKenna Stephens missed Jumper.,14,5,9,0,0.7316223452575451,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+63,1,1:50,1910,1910,Kristy Wallace Defensive Rebound.,14,5,9,19,0.7316223452575451,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+64,1,1:31,1891,1891,Khadijiah Cave Turnover.,14,5,9,1,0.7333663551710436,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+65,1,1:30,1890,1890,Larissa Lurken Steal.,14,5,9,12,0.7334579416891129,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+66,1,1:18,1878,1878,Larissa Lurken missed Three Point Jumper.,14,5,9,0,0.7345558451091525,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+67,1,1:18,1878,1878,Alexis Jones Defensive Rebound.,14,5,9,7,0.7345558451091525,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+68,1,1:11,1871,1871,Alexis Jones Turnover.,14,5,9,0,0.7351955602526445,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+69,1,1:11,1871,1871,Foul on Alexis Jones.,14,5,9,16,0.7351955602526445,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+70,1,0:55,1855,1855,Ali Poole missed Jumper.,14,5,9,0,0.7366568984095874,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+71,1,0:55,1855,1855,Lauren Cox Defensive Rebound.,14,5,9,8,0.7366568984095874,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+72,1,0:47,1847,1847,Kalani Brown made Layup. Assisted by Lauren Cox.,16,5,11,0,0.7793469260523828,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+73,1,0:47,1847,1847,Foul on McKenna Stephens.,16,5,11,0,0.7793469260523828,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+74,1,0:47,1847,1847,Kalani Brown made Free Throw.,17,5,12,30,0.7984411062168324,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+75,1,0:17,1817,1817,Naddiyah Cross made Three Point Jumper.,17,8,9,13,0.7401337079148835,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Kent State
+76,1,0:04,1804,1804,Natalie Chou missed Three Point Jumper.,17,8,9,0,0.7413289495315527,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+77,1,0:04,1804,1804,Kent State Defensive Rebound.,17,8,9,4,0.7413289495315527,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+78,1,0:00,1800,1800,End of 1st Quarter,17,8,9,23,0.7416976282934893,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+79,2,9:37,1777,1777,Alexis Jones made Three Point Jumper. Assisted by Natalie Chou.,20,8,12,19,0.8055390684246214,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+80,2,9:18,1758,1758,Naddiyah Cross Turnover.,20,8,12,1,0.8074829537170116,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+81,2,9:17,1757,1757,Alexis Jones Steal.,20,8,12,3,0.8075856216996337,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+82,2,9:14,1754,1754,Alexis Jones made Layup.,22,8,14,19,0.8423448966677725,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+83,2,8:55,1735,1735,Foul on Natalie Chou.,22,8,14,5,0.8443004741015363,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+84,2,8:50,1730,1730,Chelsi Watson made Layup. Assisted by Naddiyah Cross.,22,10,12,12,0.8103740638351405,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Kent State
+85,2,8:38,1718,1718,Alexis Jones made Three Point Jumper. Assisted by Natalie Chou.,25,10,15,17,0.8612552041918713,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+86,2,8:21,1701,1701,Larissa Lurken made Layup. Assisted by Naddiyah Cross.,25,12,13,15,0.831321987502848,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Kent State
+87,2,8:06,1686,1686,Natalie Chou missed Three Point Jumper.,25,12,13,0,0.83291215880519,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+88,2,8:06,1686,1686,Chelsi Watson Defensive Rebound.,25,12,13,10,0.83291215880519,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+89,2,7:56,1676,1676,Naddiyah Cross Turnover.,25,12,13,3,0.8339564557993758,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+90,2,7:53,1673,1673,Natalie Chou Steal.,25,12,13,10,0.8342658161479499,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+91,2,7:43,1663,1663,Kalani Brown made Layup. Assisted by Alexis Jones.,27,12,15,17,0.8668436167135014,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+92,2,7:26,1646,1646,Jordan Korinek missed Jumper.,27,12,15,0,0.868482865609292,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+93,2,7:26,1646,1646,Kalani Brown Defensive Rebound.,27,12,15,16,0.868482865609292,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+94,2,7:10,1630,1630,Lauren Cox made Jumper. Assisted by Dekeiya Cohen.,29,12,17,20,0.8960705037658067,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+95,2,6:50,1610,1610,Alexa Golden missed Jumper.,29,12,17,0,0.8977895368964555,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+96,2,6:50,1610,1610,Dekeiya Cohen Block.,29,12,17,2,0.8977895368964555,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+97,2,6:48,1608,1608,Dekeiya Cohen Defensive Rebound.,29,12,17,6,0.8979595602964733,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+98,2,6:42,1602,1602,Alexis Jones missed Three Point Jumper.,29,12,17,0,0.8984679811765237,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+99,2,6:42,1602,1602,Chelsi Watson Defensive Rebound.,29,12,17,6,0.8984679811765237,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+100,2,6:36,1596,1596,Chelsi Watson Turnover.,29,12,17,1,0.8989742219168485,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+101,2,6:35,1595,1595,Alexis Jones Steal.,29,12,17,3,0.8990584096558315,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+102,2,6:32,1592,1592,Alexis Jones Turnover.,29,12,17,18,0.8993106887001792,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+103,2,6:14,1574,1574,Alexa Golden missed Three Point Jumper.,29,12,17,0,0.9008177331868971,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+104,2,6:14,1574,1574,Lauren Cox Defensive Rebound.,29,12,17,13,0.9008177331868971,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+105,2,6:01,1561,1561,Kalani Brown missed Jumper.,29,12,17,0,0.901902811904773,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+106,2,6:01,1561,1561,Zenobia Bess Defensive Rebound.,29,12,17,5,0.901902811904773,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+107,2,5:56,1556,1556,Larissa Lurken Turnover.,29,12,17,19,0.902320258352249,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+108,2,5:37,1537,1537,Nina Davis made Jumper. Assisted by Beatrice Mompremier.,31,12,19,16,0.9245028656509565,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+109,2,5:21,1521,1521,Ali Poole made Jumper. Assisted by Naddiyah Cross.,31,14,17,11,0.9052625524504662,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Kent State
+110,2,5:10,1510,1510,Alexis Prince missed Three Point Jumper.,31,14,17,0,0.9062006413002711,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+111,2,5:10,1510,1510,Khadijiah Cave Offensive Rebound.,31,14,17,8,0.9062006413002711,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+112,2,5:02,1502,1502,Alexis Prince made Layup. Assisted by Khadijiah Cave.,33,14,19,17,0.9271704525719748,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+113,2,4:45,1485,1485,Ali Poole missed Three Point Jumper.,33,14,19,0,0.928493074075897,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+114,2,4:45,1485,1485,Alexis Prince Defensive Rebound.,33,14,19,10,0.928493074075897,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+115,2,4:35,1475,1475,Beatrice Mompremier made Layup. Assisted by Alexis Prince.,35,14,21,0,0.9451552863486826,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+116,2,4:35,1475,1475,Foul on Merissa Barber-Smith.,35,14,21,17,0.9451552863486826,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+117,2,4:18,1458,1458,Official TV Timeout,35,14,21,0,0.9463425513989288,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+118,2,4:18,1458,1458,Beatrice Mompremier made Free Throw.,36,14,22,22,0.9528736594694166,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+119,2,3:56,1436,1436,Foul on Calveion Landrum.,36,14,22,0,0.9542989429757617,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+120,2,3:56,1436,1436,Larissa Lurken made Free Throw.,36,15,21,0,0.9478823019065241,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Kent State
+121,2,3:56,1436,1436,Larissa Lurken made Free Throw.,36,16,20,16,0.9406207927789665,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Kent State
+122,2,3:40,1420,1420,Khadijiah Cave made Layup. Assisted by Alexis Prince.,38,16,22,4,0.9552785120447421,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+123,2,3:36,1416,1416,Larissa Lurken missed Jumper.,38,16,22,0,0.9555162725103977,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+124,2,3:36,1416,1416,Alexis Prince Defensive Rebound.,38,16,22,14,0.9555162725103977,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+125,2,3:22,1402,1402,Beatrice Mompremier made Layup.,40,16,24,12,0.9666573547682283,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+126,2,3:10,1390,1390,Foul on Naddiyah Cross.,40,16,24,0,0.9672263174076727,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+127,2,3:10,1390,1390,Naddiyah Cross Turnover.,40,16,24,13,0.9672263174076727,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+128,2,2:57,1377,1377,Dekeiya Cohen missed Three Point Jumper.,40,16,24,0,0.9678273668843724,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+129,2,2:57,1377,1377,Zenobia Bess Defensive Rebound.,40,16,24,11,0.9678273668843724,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+130,2,2:46,1366,1366,Zenobia Bess missed Layup.,40,16,24,0,0.9683261130812955,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+131,2,2:46,1366,1366,Khadijiah Cave Defensive Rebound.,40,16,24,8,0.9683261130812955,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+132,2,2:38,1358,1358,Beatrice Mompremier made Layup. Assisted by Alexis Jones.,42,16,26,7,0.9762887578965881,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+133,2,2:31,1351,1351,Larissa Lurken made Layup. Assisted by Naddiyah Cross.,42,18,24,6,0.9689956116071892,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Kent State
+134,2,2:25,1345,1345,Kent State  Timeout,42,18,24,23,0.9692609612587938,Baylor,Kent State,3,4,1,0,NA,400905155,2016-11-25,
+135,2,2:02,1322,1322,Alexis Jones missed Three Point Jumper.,42,18,24,0,0.9702717643650172,Baylor,Kent State,3,4,1,0,NA,400905155,2016-11-25,
+136,2,2:02,1322,1322,McKenna Stephens Defensive Rebound.,42,18,24,16,0.9702717643650172,Baylor,Kent State,3,4,1,0,NA,400905155,2016-11-25,
+137,2,1:46,1306,1306,Jordan Korinek Turnover.,42,18,24,7,0.9709747500220877,Baylor,Kent State,3,4,1,0,NA,400905155,2016-11-25,
+138,2,1:39,1299,1299,Lauren Cox made Three Point Jumper. Assisted by Alexis Jones.,45,18,27,21,0.9813172720360556,Baylor,Kent State,3,4,1,0,NA,400905155,2016-11-25,Baylor
+139,2,1:18,1278,1278,McKenna Stephens missed Three Point Jumper.,45,18,27,0,0.9820078083027771,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,
+140,2,1:18,1278,1278,Dekeiya Cohen Defensive Rebound.,45,18,27,13,0.9820078083027771,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,
+141,2,1:05,1265,1265,Kalani Brown made Layup. Assisted by Alexis Jones.,47,18,29,19,0.986907879068043,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,Baylor
+142,2,0:46,1246,1246,Larissa Lurken missed Three Point Jumper.,47,18,29,0,0.9874244468185799,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,
+143,2,0:46,1246,1246,Naddiyah Cross Offensive Rebound.,47,18,29,4,0.9874244468185799,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,
+144,2,0:42,1242,1242,Naddiyah Cross made Jumper.,47,20,27,3,0.9832210418231269,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,Kent State
+145,2,0:39,1239,1239,Baylor  Timeout,47,20,27,28,0.9833243925487811,Baylor,Kent State,3,3,0,1,NA,400905155,2016-11-25,
+146,2,0:11,1211,1211,Lauren Cox Turnover.,47,20,27,1,0.9843089421239344,Baylor,Kent State,3,3,0,1,NA,400905155,2016-11-25,
+147,2,0:10,1210,1210,Larissa Lurken Steal.,47,20,27,2,0.9843448047974617,Baylor,Kent State,3,3,0,1,NA,400905155,2016-11-25,
+148,2,0:08,1208,1208,Foul on Lauren Cox.,47,20,27,5,0.9844162580761413,Baylor,Kent State,3,3,0,1,NA,400905155,2016-11-25,
+149,2,0:03,1203,1203,Foul on Natalie Chou.,47,20,27,3,0.9845921491536859,Baylor,Kent State,3,3,0,1,NA,400905155,2016-11-25,
+150,2,0:00,1200,1200,Megan Carter made Three Point Jumper.,47,23,24,0,0.9759087506193534,Baylor,Kent State,3,3,0,1,NA,400905155,2016-11-25,Kent State
+151,2,0:00,1200,1200,End of 2nd Quarter,47,23,24,10,0.9759087506193534,Baylor,Kent State,3,3,0,1,NA,400905155,2016-11-25,
+152,3,9:50,1190,1190,Jordan Korinek missed Layup.,47,23,24,0,0.9763762327931605,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+153,3,9:50,1190,1190,Beatrice Mompremier Block.,47,23,24,0,0.9763762327931605,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+154,3,9:50,1190,1190,Kent State Offensive Rebound.,47,23,24,12,0.9763762327931605,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+155,3,9:38,1178,1178,Jordan Korinek missed Three Point Jumper.,47,23,24,0,0.9769156206702935,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+156,3,9:38,1178,1178,Alexis Prince Defensive Rebound.,47,23,24,18,0.9769156206702935,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+157,3,9:20,1160,1160,Alexis Jones Turnover.,47,23,24,2,0.9776877557018162,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+158,3,9:18,1158,1158,Alexa Golden Steal.,47,23,24,29,0.9777712106381917,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+159,3,8:49,1129,1129,Larissa Lurken Turnover.,47,23,24,12,0.9789411889652397,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+160,3,8:37,1117,1117,Alexis Jones missed Three Point Jumper.,47,23,24,0,0.9794087517800324,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+161,3,8:37,1117,1117,Naddiyah Cross Defensive Rebound.,47,23,24,8,0.9794087517800324,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+162,3,8:29,1109,1109,Larissa Lurken made Three Point Jumper. Assisted by McKenna Stephens.,47,26,21,27,0.967478483514579,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Kent State
+163,3,8:02,1082,1082,Alexis Jones missed Jumper.,47,26,21,0,0.9689080225729471,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+164,3,8:02,1082,1082,Kalani Brown Offensive Rebound.,47,26,21,2,0.9689080225729471,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+165,3,8:00,1080,1080,Kalani Brown made Layup.,49,26,23,29,0.977480992045417,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+166,3,7:31,1051,1051,Foul on Alexis Prince.,49,26,23,0,0.9787187075861177,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+167,3,7:31,1051,1051,Larissa Lurken made Free Throw.,49,27,22,0,0.9749610037463076,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Kent State
+168,3,7:31,1051,1051,Larissa Lurken missed Free Throw.,49,27,22,0,0.9749610037463076,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+169,3,7:31,1051,1051,Kalani Brown Defensive Rebound.,49,27,22,26,0.9749610037463076,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+170,3,7:05,1025,1025,Kalani Brown made Layup. Assisted by Kristy Wallace.,51,27,24,20,0.98292630162937,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+171,3,6:45,1005,1005,Naddiyah Cross missed Jumper.,51,27,24,0,0.9837146590598984,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+172,3,6:45,1005,1005,Kalani Brown Defensive Rebound.,51,27,24,7,0.9837146590598984,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+173,3,6:38,998,998,Alexis Jones made Layup.,53,27,26,14,0.9885914947330795,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+174,3,6:24,984,984,Alexa Golden missed Three Point Jumper.,53,27,26,0,0.989030481617993,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+175,3,6:24,984,984,Kalani Brown Defensive Rebound.,53,27,26,9,0.989030481617993,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+176,3,6:15,975,975,Foul on McKenna Stephens.,53,27,26,0,0.9893157060211318,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+177,3,6:15,975,975,Alexis Prince missed Three Point Jumper.,53,27,26,0,0.9893157060211318,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+178,3,6:15,975,975,Kent State Defensive Rebound.,53,27,26,6,0.9893157060211318,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+179,3,6:09,969,969,Larissa Lurken missed Jumper.,53,27,26,0,0.9895070045088179,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+180,3,6:09,969,969,Baylor Defensive Rebound.,53,27,26,17,0.9895070045088179,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+181,3,5:52,952,952,Beatrice Mompremier missed Layup.,53,27,26,0,0.9900079680754785,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+182,3,5:52,952,952,Kalani Brown Offensive Rebound.,53,27,26,4,0.9900079680754785,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+183,3,5:48,948,948,Kalani Brown made Layup.,55,27,28,11,0.9930447723176691,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+184,3,5:37,937,937,Larissa Lurken missed Three Point Jumper.,55,27,28,3,0.9932579265136628,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+185,3,5:34,934,934,Beatrice Mompremier Defensive Rebound.,55,27,28,8,0.9933131240485646,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+186,3,5:26,926,926,Alexis Prince missed Jumper.,55,27,28,0,0.9934549112382726,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+187,3,5:26,926,926,Beatrice Mompremier Offensive Rebound.,55,27,28,1,0.9934549112382726,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+188,3,5:25,925,925,Foul on Naddiyah Cross.,55,27,28,0,0.9934721209064368,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+189,3,5:25,925,925,Beatrice Mompremier missed Free Throw.,55,27,28,0,0.9934721209064368,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+190,3,5:25,925,925,Baylor Deadball Team Rebound.,55,27,28,0,0.9934721209064368,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+191,3,5:25,925,925,Beatrice Mompremier made Free Throw.,56,27,29,10,0.9945387024971883,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+192,3,5:15,915,915,Ali Poole made Jumper. Assisted by Jordan Korinek.,56,29,27,21,0.9923906308311448,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Kent State
+193,3,4:54,894,894,Dekeiya Cohen Turnover.,56,29,27,11,0.992763502122015,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+194,3,4:43,883,883,Megan Carter made Layup.,56,31,25,0,0.9898575169916415,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Kent State
+195,3,4:43,883,883,Foul on Nina Davis.,56,31,25,2,0.9898575169916415,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+196,3,4:41,881,881,Official TV Timeout,56,31,25,10,0.9899011678159089,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+197,3,4:31,871,871,Megan Carter made Free Throw.,56,32,24,21,0.9881409930383988,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Kent State
+198,3,4:10,850,850,Dekeiya Cohen missed Jumper.,56,32,24,0,0.9886563734789711,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+199,3,4:10,850,850,Khadijiah Cave Offensive Rebound.,56,32,24,10,0.9886563734789711,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,
+200,3,4:00,840,840,Khadijiah Cave made Jumper. Assisted by Dekeiya Cohen.,58,32,26,11,0.9923404612497365,Baylor,Kent State,4,4,0,0,NA,400905155,2016-11-25,Baylor
+201,3,3:49,829,829,Kent State  Timeout,58,32,26,0,0.9925470916057436,Baylor,Kent State,3,4,1,0,NA,400905155,2016-11-25,
+202,3,3:49,829,829,Official TV Timeout,58,32,26,8,0.9925470916057436,Baylor,Kent State,3,4,1,0,NA,400905155,2016-11-25,
+203,3,3:41,821,821,Ali Poole Turnover.,58,32,26,17,0.992699900164797,Baylor,Kent State,3,4,1,0,NA,400905155,2016-11-25,
+204,3,3:24,804,804,Khadijiah Cave Turnover.,58,32,26,6,0.9930341302545524,Baylor,Kent State,3,4,1,0,NA,400905155,2016-11-25,
+205,3,3:18,798,798,Kent State  Turnover.,58,32,26,16,0.9931557420019601,Baylor,Kent State,3,4,1,0,NA,400905155,2016-11-25,
+206,3,3:02,782,782,Natalie Chou missed Three Point Jumper.,58,32,26,0,0.993490689475671,Baylor,Kent State,3,4,1,0,NA,400905155,2016-11-25,
+207,3,3:02,782,782,Dekeiya Cohen Offensive Rebound.,58,32,26,11,0.993490689475671,Baylor,Kent State,3,4,1,0,NA,400905155,2016-11-25,
+208,3,2:51,771,771,Calveion Landrum Turnover.,58,32,26,4,0.9937305534827616,Baylor,Kent State,3,4,1,0,NA,400905155,2016-11-25,
+209,3,2:47,767,767,Paige Salisbury Steal.,58,32,26,19,0.9938197760903349,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,
+210,3,2:28,748,748,Ali Poole missed Three Point Jumper.,58,32,26,0,0.9942580719584821,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,
+211,3,2:28,748,748,Natalie Chou Defensive Rebound.,58,32,26,10,0.9942580719584821,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,
+212,3,2:18,738,738,Foul on Paige Salisbury.,58,32,26,1,0.9944979942921582,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,
+213,3,2:17,737,737,Lauren Cox made Layup. Assisted by Alyssa Dry.,60,32,28,32,0.996322000804926,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,Baylor
+214,3,1:45,705,705,Foul on Alyssa Dry.,60,32,28,0,0.9968317892431225,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,
+215,3,1:45,705,705,McKenna Stephens made Free Throw.,60,33,27,0,0.9961121647715034,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,Kent State
+216,3,1:45,705,705,McKenna Stephens made Free Throw.,60,34,26,22,0.9952298676399054,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,Kent State
+217,3,1:23,683,683,Lauren Cox missed Jumper.,60,34,26,0,0.9956032846792662,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,
+218,3,1:23,683,683,McKenna Stephens Defensive Rebound.,60,34,26,26,0.9956032846792662,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,
+219,3,0:57,657,657,Naddiyah Cross missed Three Point Jumper.,60,34,26,0,0.9959829827020609,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,
+220,3,0:57,657,657,Baylor Defensive Rebound.,60,34,26,24,0.9959829827020609,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,
+221,3,0:33,633,633,Nina Davis missed Layup.,60,34,26,0,0.9963132507879215,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,
+222,3,0:33,633,633,Merissa Barber-Smith Defensive Rebound.,60,34,26,28,0.9963132507879215,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,
+223,3,0:05,605,605,Larissa Lurken made Jumper.,60,36,24,5,0.9949033114608081,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,Kent State
+224,3,0:00,600,600,End of 3rd Quarter,60,36,24,12,0.995009193162137,Baylor,Kent State,3,4,0,0,NA,400905155,2016-11-25,
+225,4,9:48,588,588,Larissa Lurken missed Jumper.,60,36,24,0,0.9952715030898983,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+226,4,9:48,588,588,Lauren Cox Defensive Rebound.,60,36,24,10,0.9952715030898983,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+227,4,9:38,578,578,Alexis Prince missed Three Point Jumper.,60,36,24,0,0.9954994320121232,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+228,4,9:38,578,578,Kalani Brown Offensive Rebound.,60,36,24,4,0.9954994320121232,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+229,4,9:34,574,574,Kalani Brown made Layup.,62,36,26,14,0.9971901959940079,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,Baylor
+230,4,9:20,560,560,Keziah Lewis missed Three Point Jumper.,62,36,26,0,0.9974232412413219,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+231,4,9:20,560,560,Kalani Brown Defensive Rebound.,62,36,26,20,0.9974232412413219,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+232,4,9:00,540,540,Kristy Wallace made Jumper.,64,36,28,26,0.9985927884660049,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,Baylor
+233,4,8:34,514,514,McKenna Stephens missed Three Point Jumper.,64,36,28,0,0.9988008332915729,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+234,4,8:34,514,514,Alexis Prince Defensive Rebound.,64,36,28,28,0.9988008332915729,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+235,4,8:06,486,486,Foul on Naddiyah Cross.,64,36,28,2,0.9989766910547446,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+236,4,8:04,484,484,Foul on Megan Carter.,64,36,28,4,0.9989889072282214,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+237,4,8:00,480,480,Foul on Lauren Cox.,64,36,28,0,0.9990134670315379,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+238,4,8:00,480,480,Lauren Cox Turnover.,64,36,28,14,0.9990134670315379,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+239,4,7:46,466,466,Merissa Barber-Smith missed Jumper.,64,36,28,0,0.999101885281605,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+240,4,7:46,466,466,Kalani Brown Block.,64,36,28,1,0.999101885281605,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+241,4,7:45,465,465,Merissa Barber-Smith Offensive Rebound.,64,36,28,2,0.999108397496936,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+242,4,7:43,463,463,Merissa Barber-Smith missed Layup.,64,36,28,0,0.9991215137792415,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+243,4,7:43,463,463,Alexis Prince Defensive Rebound.,64,36,28,5,0.9991215137792415,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+244,4,7:38,458,458,Alexis Prince made Layup.,66,36,30,9,0.999489971935445,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,Baylor
+245,4,7:29,449,449,Foul on Alexis Jones.,66,36,30,17,0.9995300402061615,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+246,4,7:12,432,432,McKenna Stephens Turnover.,66,36,30,10,0.9996094193135674,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+247,4,7:02,422,422,Lauren Cox made Layup. Assisted by Kristy Wallace.,68,36,32,0,0.9997968374891504,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,Baylor
+248,4,7:02,422,422,Foul on Ali Poole.,68,36,32,0,0.9997968374891504,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+249,4,7:02,422,422,Lauren Cox missed Free Throw.,68,36,32,0,0.9997968374891504,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+250,4,7:02,422,422,Zenobia Bess Defensive Rebound.,68,36,32,20,0.9997968374891504,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+251,4,6:42,402,402,Larissa Lurken Turnover.,68,36,32,4,0.9998403652269383,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+252,4,6:38,398,398,Nina Davis Steal.,68,36,32,13,0.9998476286460747,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+253,4,6:25,385,385,Foul on Zenobia Bess.,68,36,32,0,0.9998691054668373,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+254,4,6:25,385,385,Nina Davis missed Free Throw.,68,36,32,0,0.9998691054668373,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+255,4,6:25,385,385,Baylor Deadball Team Rebound.,68,36,32,0,0.9998691054668373,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+256,4,6:25,385,385,Nina Davis missed Free Throw.,68,36,32,0,0.9998691054668373,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+257,4,6:25,385,385,Baylor Deadball Team Rebound.,68,36,32,12,0.9998691054668373,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+258,4,6:13,373,373,Chelsi Watson Turnover.,68,36,32,1,0.9998868536344249,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+259,4,6:12,372,372,Kristy Wallace Steal.,68,36,32,1,0.9998882659866698,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+260,4,6:11,371,371,Kristy Wallace missed Jumper.,68,36,32,0,0.9998896694756316,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+261,4,6:11,371,371,Kent State Defensive Rebound.,68,36,32,0,0.9998896694756316,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+262,4,6:11,371,371,Foul on Khadijiah Cave.,68,36,32,2,0.9998896694756316,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+263,4,6:09,369,369,Foul on Kristy Wallace.,68,36,32,18,0.999892450813592,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+264,4,5:51,351,351,Foul on Kalani Brown.,68,36,32,0,0.9999161509828727,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+265,4,5:51,351,351,Chelsi Watson made Free Throw.,68,37,31,0,0.999887571837312,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,Kent State
+266,4,5:51,351,351,Chelsi Watson missed Free Throw.,68,37,31,0,0.999887571837312,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+267,4,5:51,351,351,Natalie Chou Defensive Rebound.,68,37,31,7,0.999887571837312,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+268,4,5:44,344,344,Calveion Landrum missed Layup.,68,37,31,0,0.9998988036778163,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+269,4,5:44,344,344,Kalani Brown Offensive Rebound.,68,37,31,3,0.9998988036778163,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+270,4,5:41,341,341,Kalani Brown made Layup.,70,37,33,12,0.9999468517076905,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,Baylor
+271,4,5:29,329,329,Chelsi Watson missed Jumper.,70,37,33,0,0.9999573420508283,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+272,4,5:29,329,329,Natalie Chou Block.,70,37,33,1,0.9999573420508283,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+273,4,5:28,328,328,Calveion Landrum Defensive Rebound.,70,37,33,3,0.9999581744264652,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+274,4,5:25,325,325,Lauren Cox made Layup. Assisted by Calveion Landrum.,72,37,35,8,0.9999787080043271,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,Baylor
+275,4,5:17,317,317,Megan Carter Turnover.,72,37,35,10,0.9999822596999963,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+276,4,5:07,307,307,Dekeiya Cohen made Layup. Assisted by Natalie Chou.,74,37,37,9,0.999992675332773,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,Baylor
+277,4,4:58,298,298,Official TV Timeout,74,37,37,24,0.9999936758597189,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+278,4,4:34,274,274,Zenobia Bess missed Three Point Jumper.,74,37,37,0,0.9999935288139926,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+279,4,4:34,274,274,Calveion Landrum Defensive Rebound.,74,37,37,13,0.9999935288139926,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+280,4,4:21,261,261,Lauren Cox made Jumper. Assisted by Calveion Landrum.,76,37,39,28,0.9999960723806489,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,Baylor
+281,4,3:53,233,233,Megan Carter missed Jumper.,76,37,39,0,0.9999952570777383,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+282,4,3:53,233,233,Lauren Cox Defensive Rebound.,76,37,39,7,0.9999952570777383,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+283,4,3:46,226,226,Foul on Zenobia Bess.,76,37,39,0,0.9999954889390309,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+284,4,3:46,226,226,Dekeiya Cohen missed Free Throw.,76,37,39,0,0.9999954889390309,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+285,4,3:46,226,226,Baylor Deadball Team Rebound.,76,37,39,0,0.9999954889390309,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+286,4,3:46,226,226,Dekeiya Cohen made Free Throw.,77,37,40,19,0.9999967098969536,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,Baylor
+287,4,3:27,207,207,Foul on Dekeiya Cohen.,77,37,40,0,0.9999980123837362,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+288,4,3:27,207,207,Kent State Deadball Team Rebound.,77,37,40,0,0.9999980123837362,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+289,4,3:27,207,207,Naddiyah Cross made Free Throw.,77,38,39,16,0.9999972402237604,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,Kent State
+290,4,3:11,191,191,Calveion Landrum missed Three Point Jumper.,77,38,39,0,0.9999989401015373,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+291,4,3:11,191,191,Calveion Landrum Offensive Rebound.,77,38,39,5,0.9999989401015373,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+292,4,3:06,186,186,Calveion Landrum Turnover.,77,38,39,16,0.9999992933258349,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+293,4,2:50,170,170,Taylor Parker missed Jumper.,77,38,39,0,0.9999998133723338,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+294,4,2:50,170,170,Baylor Defensive Rebound.,77,38,39,13,0.9999998133723338,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+295,4,2:37,157,157,Khadijiah Cave made Layup. Assisted by Calveion Landrum.,79,38,41,19,0.9999999750287824,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,Baylor
+296,4,2:18,138,138,Foul on Calveion Landrum.,79,38,41,0,0.9999999966427668,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+297,4,2:18,138,138,Taylor Parker made Free Throw.,79,39,40,0,0.9999999945966278,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,Kent State
+298,4,2:18,138,138,Taylor Parker missed Free Throw.,79,39,40,0,0.9999999945966278,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+299,4,2:18,138,138,Khadijiah Cave Defensive Rebound.,79,39,40,16,0.9999999945966278,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+300,4,2:02,122,122,Foul on Paige Salisbury.,79,39,40,0,0.9999999992261289,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+301,4,2:02,122,122,Lauren Cox made Free Throw.,80,39,41,0,0.999999999541979,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,Baylor
+302,4,2:02,122,122,Lauren Cox made Free Throw.,81,39,42,16,0.9999999997289172,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,Baylor
+303,4,1:46,106,106,Lacey Miller made Layup. Assisted by Paige Salisbury.,81,41,40,23,0.9999999999224224,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,Kent State
+304,4,1:23,83,83,Lauren Cox missed Layup.,81,41,40,0,0.9999999999985625,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+305,4,1:23,83,83,Keziah Lewis Defensive Rebound.,81,41,40,20,0.9999999999985625,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+306,4,1:03,63,63,Taylor Parker Turnover.,81,41,40,0,0.9999999999999728,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+307,4,1:03,63,63,Alyssa Dry Steal.,81,41,40,0,0.9999999999999728,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+308,4,1:03,63,63,Alyssa Dry missed Layup.,81,41,40,0,0.9999999999999728,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+309,4,1:03,63,63,Lacey Miller Block.,81,41,40,2,0.9999999999999728,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+310,4,1:01,61,61,Baylor Offensive Rebound.,81,41,40,32,0.9999999999999821,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+311,4,0:29,29,29,Calveion Landrum made Three Point Jumper. Assisted by Alyssa Dry.,84,41,43,2,1,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,Baylor
+312,4,0:27,27,27,Foul on Natalie Chou.,84,41,43,0,1,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+313,4,0:27,27,27,Paige Salisbury missed Free Throw.,84,41,43,0,1,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+314,4,0:27,27,27,Kent State Deadball Team Rebound.,84,41,43,0,1,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+315,4,0:27,27,27,Paige Salisbury made Free Throw.,84,42,42,16,1,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,Kent State
+316,4,0:11,11,11,Lauren Cox missed Layup.,84,42,42,0,1,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+317,4,0:11,11,11,Khadijiah Cave Offensive Rebound.,84,42,42,11,1,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,
+318,4,0:00,0,0,End of Game,84,42,42,0,1,Baylor,Kent State,4,5,0,0,NA,400905155,2016-11-25,

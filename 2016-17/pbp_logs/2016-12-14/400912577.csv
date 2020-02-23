@@ -1,0 +1,333 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:44,2384,2384,Jordan Reynolds Turnover.,0,0,0,2,0.5,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,NA
+2,1,9:42,2382,2382,Madi Story Steal.,0,0,0,16,0.5,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+3,1,9:26,2366,2366,Q Murray made Three Point Jumper. Assisted by Bria Carter.,0,3,-3,18,0.4331039792936883,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Appalachian State
+4,1,9:08,2348,2348,Jordan Reynolds missed Jumper.,0,3,-3,0,0.43252821423945154,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+5,1,9:08,2348,2348,Bria Carter Defensive Rebound.,0,3,-3,9,0.43252821423945154,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+6,1,8:59,2339,2339,Madi Story missed Jumper.,0,3,-3,0,0.4322380386409041,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+7,1,8:59,2339,2339,Jaime Nared Defensive Rebound.,0,3,-3,9,0.4322380386409041,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+8,1,8:50,2330,2330,Meme Jackson missed Three Point Jumper.,0,3,-3,0,0.43194641102993836,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+9,1,8:50,2330,2330,Appalachian St Defensive Rebound.,0,3,-3,9,0.43194641102993836,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+10,1,8:41,2321,2321,Ashley Bassett-Smith made Jumper. Assisted by Joi Jones.,0,5,-5,14,0.38733834903865877,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Appalachian State
+11,1,8:27,2307,2307,Mercedes Russell made Layup. Assisted by Jordan Reynolds.,2,5,-3,29,0.43119494023910326,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Tennessee
+12,1,7:58,2278,2278,Joi Jones made Jumper. Assisted by Q Murray.,2,7,-5,30,0.38505475995404803,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Appalachian State
+13,1,7:28,2248,2248,Ashley Bassett-Smith missed Jumper.,2,7,-5,0,0.38343974778624323,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+14,1,7:28,2248,2248,Mercedes Russell Defensive Rebound.,2,7,-5,10,0.38343974778624323,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+15,1,7:18,2238,2238,Foul on Q Murray.,2,7,-5,3,0.38289814214403184,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+16,1,7:15,2235,2235,Jordan Reynolds missed Three Point Jumper.,2,7,-5,0,0.3827353777967364,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+17,1,7:15,2235,2235,Mercedes Russell Offensive Rebound.,2,7,-5,4,0.3827353777967364,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+18,1,7:11,2231,2231,Mercedes Russell made Layup.,4,7,-3,13,0.428659096831824,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Tennessee
+19,1,6:58,2218,2218,Joi Jones Turnover.,4,7,-3,1,0.4282189238051186,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+20,1,6:57,2217,2217,Alexa Middleton Steal.,4,7,-3,1,0.42818500324584097,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+21,1,6:56,2216,2216,Alexa Middleton made Layup.,6,7,-1,24,0.4759021236633784,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Tennessee
+22,1,6:32,2192,2192,Q Murray made Three Point Jumper. Assisted by Bria Carter.,6,10,-4,15,0.4036419496196667,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Appalachian State
+23,1,6:17,2177,2177,Mercedes Russell made Layup. Assisted by Alexa Middleton.,8,10,-2,20,0.45101950016707304,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Tennessee
+24,1,5:57,2157,2157,Joi Jones made Layup.,8,12,-4,11,0.402071609638512,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Appalachian State
+25,1,5:46,2146,2146,Alexa Middleton made Layup.,10,12,-2,14,0.4503014044912188,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Tennessee
+26,1,5:32,2132,2132,Joi Jones Turnover.,10,12,-2,14,0.44997467734832597,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+27,1,5:18,2118,2118,Kortney Dunbar missed Three Point Jumper.,10,12,-2,0,0.4496462864327961,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+28,1,5:18,2118,2118,Jaime Nared Offensive Rebound.,10,12,-2,5,0.4496462864327961,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+29,1,5:13,2113,2113,Jaime Nared made Jumper.,12,12,0,23,0.5,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Tennessee
+30,1,4:50,2090,2090,Madi Story made Layup.,12,14,-2,17,0.4489841447739192,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Appalachian State
+31,1,4:33,2073,2073,Jaime Nared missed Three Point Jumper.,12,14,-2,0,0.4485783912387449,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+32,1,4:33,2073,2073,Q Murray Defensive Rebound.,12,14,-2,23,0.4485783912387449,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+33,1,4:10,2050,2050,Madi Story made Jumper.,12,16,-4,13,0.39716043060201,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Appalachian State
+34,1,3:57,2037,2037,Mercedes Russell missed Jumper.,12,16,-4,0,0.3965494019397939,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+35,1,3:57,2037,2037,Madi Story Defensive Rebound.,12,16,-4,9,0.3965494019397939,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+36,1,3:48,2028,2028,Ashley Bassett-Smith made Jumper. Assisted by Q Murray.,12,18,-6,27,0.34695283120950465,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Appalachian State
+37,1,3:21,2001,2001,Alexa Middleton made Layup.,14,18,-4,8,0.3948382442666197,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Tennessee
+38,1,3:13,1993,1993,Cydni Cole made Jumper.,14,20,-6,5,0.3445817616774314,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Appalachian State
+39,1,3:08,1988,1988,Appalachian St  Timeout,14,20,-6,0,0.3442400836310272,Tennessee,Appalachian State,4,3,0,1,NA,400912577,2016-12-14,
+40,1,3:08,1988,1988,Official TV Timeout,14,20,-6,27,0.3442400836310272,Tennessee,Appalachian State,4,3,0,1,NA,400912577,2016-12-14,
+41,1,2:41,1961,1961,Alexa Middleton made Jumper.,16,20,-4,16,0.3929012993987763,Tennessee,Appalachian State,4,3,0,1,NA,400912577,2016-12-14,Tennessee
+42,1,2:25,1945,1945,Madi Story made Jumper.,16,22,-6,19,0.34126888135613076,Tennessee,Appalachian State,4,3,0,1,NA,400912577,2016-12-14,Appalachian State
+43,1,2:06,1926,1926,Diamond DeShields missed Layup.,16,22,-6,0,0.3399367311494892,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+44,1,2:06,1926,1926,Madi Story Defensive Rebound.,16,22,-6,8,0.3399367311494892,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+45,1,1:58,1918,1918,Bria Carter missed Layup.,16,22,-6,0,0.3393753392741558,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+46,1,1:58,1918,1918,Jaime Nared Defensive Rebound.,16,22,-6,12,0.3393753392741558,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+47,1,1:46,1906,1906,Mercedes Russell missed Jumper.,16,22,-6,0,0.3385351174126266,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+48,1,1:46,1906,1906,Appalachian St Defensive Rebound.,16,22,-6,17,0.3385351174126266,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+49,1,1:29,1889,1889,Joi Jones missed Jumper.,16,22,-6,0,0.3373473645511194,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+50,1,1:29,1889,1889,Jaime Nared Defensive Rebound.,16,22,-6,7,0.3373473645511194,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+51,1,1:22,1882,1882,Diamond DeShields made Layup. Assisted by Jaime Nared.,18,22,-4,15,0.3889924070770922,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,Tennessee
+52,1,1:07,1867,1867,Madi Story Turnover.,18,22,-4,23,0.3882494054529132,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+53,1,0:44,1844,1844,Alexa Middleton missed Jumper.,18,22,-4,0,0.3871070037788293,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+54,1,0:44,1844,1844,Q Murray Defensive Rebound.,18,22,-4,23,0.3871070037788293,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+55,1,0:21,1821,1821,Joi Jones made Layup.,18,24,-6,11,0.3325877166696874,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,Appalachian State
+56,1,0:10,1810,1810,Alexa Middleton made Layup.,20,24,-4,10,0.38540447536381456,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,Tennessee
+57,1,0:00,1800,1800,End of 1st Quarter,20,24,-4,16,0.38489917366219123,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+58,2,9:44,1784,1784,Joi Jones made Jumper.,20,26,-6,18,0.3299598774042557,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Appalachian State
+59,2,9:26,1766,1766,Diamond DeShields missed Jumper.,20,26,-6,0,0.32866362838743096,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+60,2,9:26,1766,1766,Ashley Bassett-Smith Defensive Rebound.,20,26,-6,26,0.32866362838743096,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+61,2,9:00,1740,1740,Q Murray missed Jumper.,20,26,-6,0,0.32676456299959594,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+62,2,9:00,1740,1740,Kortney Dunbar Defensive Rebound.,20,26,-6,11,0.32676456299959594,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+63,2,8:49,1729,1729,Foul on Ashley Bassett-Smith.,20,26,-6,3,0.32595015794499527,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+64,2,8:46,1726,1726,Kortney Dunbar missed Layup.,20,26,-6,0,0.32572680887316247,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+65,2,8:46,1726,1726,Joi Jones Defensive Rebound.,20,26,-6,9,0.32572680887316247,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+66,2,8:37,1717,1717,Ashley Bassett-Smith missed Jumper.,20,26,-6,0,0.3250534178694801,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+67,2,8:37,1717,1717,Diamond DeShields Defensive Rebound.,20,26,-6,8,0.3250534178694801,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+68,2,8:29,1709,1709,Diamond DeShields made Jumper.,22,26,-4,14,0.38014588234071384,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Tennessee
+69,2,8:15,1695,1695,Ashley Bassett-Smith missed Jumper.,22,26,-4,0,0.3793817284928576,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+70,2,8:15,1695,1695,Kortney Dunbar Defensive Rebound.,22,26,-4,5,0.3793817284928576,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+71,2,8:10,1690,1690,Jaime Nared made Layup. Assisted by Alexa Middleton.,24,26,-2,18,0.4386428399251379,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Tennessee
+72,2,7:52,1672,1672,Q Murray missed Three Point Jumper.,24,26,-2,0,0.43812986123546277,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+73,2,7:52,1672,1672,Jaime Nared Defensive Rebound.,24,26,-2,8,0.43812986123546277,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,
+74,2,7:44,1664,1664,Jaime Nared made Jumper.,26,26,0,1,0.5,Tennessee,Appalachian State,4,4,0,0,NA,400912577,2016-12-14,Tennessee
+75,2,7:43,1663,1663,Appalachian St  Timeout,26,26,0,0,0.5,Tennessee,Appalachian State,4,3,0,1,NA,400912577,2016-12-14,
+76,2,7:43,1663,1663,Official TV Timeout,26,26,0,12,0.5,Tennessee,Appalachian State,4,3,0,1,NA,400912577,2016-12-14,
+77,2,7:31,1651,1651,Ashley Bassett-Smith missed Jumper.,26,26,0,0,0.5,Tennessee,Appalachian State,4,3,0,1,NA,400912577,2016-12-14,
+78,2,7:31,1651,1651,Joi Jones Offensive Rebound.,26,26,0,4,0.5,Tennessee,Appalachian State,4,3,0,1,NA,400912577,2016-12-14,
+79,2,7:27,1647,1647,Joi Jones missed Jumper.,26,26,0,0,0.5,Tennessee,Appalachian State,4,3,0,1,NA,400912577,2016-12-14,
+80,2,7:27,1647,1647,Jaime Nared Defensive Rebound.,26,26,0,8,0.5,Tennessee,Appalachian State,4,3,0,1,NA,400912577,2016-12-14,
+81,2,7:19,1639,1639,Mercedes Russell made Layup. Assisted by Jaime Nared.,28,26,2,14,0.5627810774110841,Tennessee,Appalachian State,4,3,0,1,NA,400912577,2016-12-14,Tennessee
+82,2,7:05,1625,1625,Q Murray Turnover.,28,26,2,1,0.5631598710998956,Tennessee,Appalachian State,4,3,0,1,NA,400912577,2016-12-14,
+83,2,7:04,1624,1624,Jordan Reynolds Steal.,28,26,2,23,0.5631868182636308,Tennessee,Appalachian State,4,3,0,1,NA,400912577,2016-12-14,
+84,2,6:41,1601,1601,Jaime Nared missed Jumper.,28,26,2,0,0.563804470275599,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+85,2,6:41,1601,1601,Schaquilla Nunn Offensive Rebound.,28,26,2,3,0.563804470275599,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+86,2,6:38,1598,1598,Schaquilla Nunn made Layup.,30,26,4,15,0.6257174905111542,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,Tennessee
+87,2,6:23,1583,1583,Joi Jones missed Jumper.,30,26,4,0,0.6264845984717283,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+88,2,6:23,1583,1583,Madi Story Offensive Rebound.,30,26,4,4,0.6264845984717283,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+89,2,6:19,1579,1579,Foul on Jordan Reynolds.,30,26,4,0,0.6266896982710872,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+90,2,6:19,1579,1579,Madi Story made Free Throw.,30,27,3,0,0.5959290542956258,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,Appalachian State
+91,2,6:19,1579,1579,Madi Story missed Free Throw.,30,27,3,0,0.5959290542956258,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+92,2,6:19,1579,1579,Diamond DeShields Defensive Rebound.,30,27,3,5,0.5959290542956258,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+93,2,6:14,1574,1574,Diamond DeShields Turnover.,30,27,3,1,0.5961273640994997,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+94,2,6:13,1573,1573,Q Murray Steal.,30,27,3,12,0.596167088670689,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+95,2,6:01,1561,1561,Madi Story made Layup.,30,29,1,16,0.5325794815527023,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,Appalachian State
+96,2,5:45,1545,1545,Mercedes Russell missed Jumper.,30,29,1,0,0.5328021763907467,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+97,2,5:45,1545,1545,Bayley Plummer Defensive Rebound.,30,29,1,25,0.5328021763907467,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+98,2,5:20,1520,1520,Bayley Plummer Turnover.,30,29,1,1,0.5331587078810258,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+99,2,5:19,1519,1519,Schaquilla Nunn Steal.,30,29,1,4,0.5331732364658628,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+100,2,5:15,1515,1515,Schaquilla Nunn made Layup. Assisted by Jordan Reynolds.,32,29,3,25,0.5985357457966013,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,Tennessee
+101,2,4:50,1490,1490,Joi Jones missed Jumper.,32,29,3,0,0.5996188550823627,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+102,2,4:50,1490,1490,Alexa Middleton Defensive Rebound.,32,29,3,6,0.5996188550823627,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+103,2,4:44,1484,1484,Alexa Middleton made Jumper.,34,29,5,18,0.6626190024714683,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,Tennessee
+104,2,4:26,1466,1466,Q Murray missed Jumper.,34,29,5,0,0.6638970612946437,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+105,2,4:26,1466,1466,Jordan Reynolds Defensive Rebound.,34,29,5,22,0.6638970612946437,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+106,2,4:04,1444,1444,Diamond DeShields missed Jumper.,34,29,5,0,0.6655241451732428,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+107,2,4:04,1444,1444,Cydni Cole Defensive Rebound.,34,29,5,27,0.6655241451732428,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+108,2,3:37,1417,1417,Madi Story missed Jumper.,34,29,5,0,0.6674686568334077,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+109,2,3:37,1417,1417,Mercedes Russell Defensive Rebound.,34,29,5,8,0.6674686568334077,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+110,2,3:29,1409,1409,Jordan Reynolds Turnover.,34,29,5,2,0.668027373936766,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+111,2,3:27,1407,1407,Cydni Cole Steal.,34,29,5,10,0.6681660812539016,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+112,2,3:17,1397,1397,Madi Story missed Three Point Jumper.,34,29,5,0,0.6688546682123504,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+113,2,3:17,1397,1397,Mercedes Russell Defensive Rebound.,34,29,5,13,0.6688546682123504,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+114,2,3:04,1384,1384,Diamond DeShields made Three Point Jumper. Assisted by Jordan Reynolds.,37,29,8,12,0.7560633626239566,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,Tennessee
+115,2,2:52,1372,1372,Ashley Bassett-Smith missed Jumper.,37,29,8,0,0.7571452446781346,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+116,2,2:52,1372,1372,Diamond DeShields Defensive Rebound.,37,29,8,10,0.7571452446781346,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+117,2,2:42,1362,1362,Diamond DeShields missed Jumper.,37,29,8,0,0.7580434186454148,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+118,2,2:42,1362,1362,Ashley Bassett-Smith Defensive Rebound.,37,29,8,13,0.7580434186454148,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+119,2,2:29,1349,1349,Bria Carter made Layup.,37,31,6,0,0.702926114963647,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,Appalachian State
+120,2,2:29,1349,1349,Foul on Schaquilla Nunn.,37,31,6,0,0.702926114963647,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+121,2,2:29,1349,1349,Bria Carter made Free Throw.,37,32,5,4,0.6721060166612177,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,Appalachian State
+122,2,2:25,1345,1345,Foul on Q Murray.,37,32,5,0,0.6723776129426199,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+123,2,2:25,1345,1345,Diamond DeShields made Free Throw.,38,32,6,0,0.7032349096001385,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,Tennessee
+124,2,2:25,1345,1345,Diamond DeShields made Free Throw.,39,32,7,11,0.7323428265910867,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,Tennessee
+125,2,2:14,1334,1334,Cydni Cole Turnover.,39,32,7,4,0.7332780854940639,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+126,2,2:10,1330,1330,Diamond DeShields missed Jumper.,39,32,7,0,0.7336203686047995,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+127,2,2:10,1330,1330,Brooklyn Allen Defensive Rebound.,39,32,7,17,0.7336203686047995,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+128,2,1:53,1313,1313,Amber Driver missed Layup.,39,32,7,0,0.7350930924935878,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+129,2,1:53,1313,1313,Diamond DeShields Block.,39,32,7,1,0.7350930924935878,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+130,2,1:52,1312,1312,Ashley Bassett-Smith Offensive Rebound.,39,32,7,1,0.7351808038364842,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+131,2,1:51,1311,1311,Bria Carter missed Jumper.,39,32,7,0,0.7352686516480454,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+132,2,1:51,1311,1311,Jordan Reynolds Defensive Rebound.,39,32,7,8,0.7352686516480454,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+133,2,1:43,1303,1303,Meme Jackson missed Layup.,39,32,7,0,0.7359766559524851,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+134,2,1:43,1303,1303,Amber Driver Block.,39,32,7,0,0.7359766559524851,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+135,2,1:43,1303,1303,Tennessee Offensive Rebound.,39,32,7,3,0.7359766559524851,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+136,2,1:40,1300,1300,Jordan Reynolds made Jumper. Assisted by Meme Jackson.,41,32,9,9,0.7891547943232805,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,Tennessee
+137,2,1:31,1291,1291,Cydni Cole Turnover.,41,32,9,1,0.7900504831326787,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+138,2,1:30,1290,1290,Jordan Reynolds Steal.,41,32,9,5,0.7901509497379915,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+139,2,1:25,1285,1285,Foul on Bria Carter.,41,32,9,0,0.7906563218589109,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+140,2,1:25,1285,1285,Kamera Harris missed Free Throw.,41,32,9,0,0.7906563218589109,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+141,2,1:25,1285,1285,Tennessee Deadball Team Rebound.,41,32,9,0,0.7906563218589109,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+142,2,1:25,1285,1285,Kamera Harris made Free Throw.,42,32,10,11,0.8140494149164991,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,Tennessee
+143,2,1:14,1274,1274,Foul on Diamond DeShields.,42,32,10,20,0.8151981997868722,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+144,2,0:54,1254,1254,Joi Jones made Jumper.,42,34,8,26,0.7683228682664459,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,Appalachian State
+145,2,0:28,1228,1228,Jordan Reynolds missed Three Point Jumper.,42,34,8,0,0.7711800103137308,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+146,2,0:28,1228,1228,Jaime Nared Offensive Rebound.,42,34,8,1,0.7711800103137308,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+147,2,0:27,1227,1227,Foul on Madi Story.,42,34,8,21,0.7712944086095475,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+148,2,0:06,1206,1206,Diamond DeShields made Three Point Jumper. Assisted by Meme Jackson.,45,34,11,6,0.8443455053291312,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,Tennessee
+149,2,0:00,1200,1200,End of 2nd Quarter,45,34,11,30,0.8450810140183869,Tennessee,Appalachian State,4,3,0,0,NA,400912577,2016-12-14,
+150,3,9:30,1170,1170,Diamond DeShields missed Layup.,45,34,11,0,0.8486045892531222,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+151,3,9:30,1170,1170,Tennessee Offensive Rebound.,45,34,11,16,0.8486045892531222,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+152,3,9:14,1154,1154,Foul on Ashley Bassett-Smith.,45,34,11,0,0.8504059150009468,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+153,3,9:14,1154,1154,Mercedes Russell made Free Throw.,46,34,12,0,0.8694119108859553,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Tennessee
+154,3,9:14,1154,1154,Mercedes Russell made Free Throw.,47,34,13,15,0.8863259628906871,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Tennessee
+155,3,8:59,1139,1139,Joi Jones missed Jumper.,47,34,13,0,0.8878763487992621,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+156,3,8:59,1139,1139,Mercedes Russell Defensive Rebound.,47,34,13,8,0.8878763487992621,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+157,3,8:51,1131,1131,Jordan Reynolds missed Jumper.,47,34,13,0,0.888694734538288,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+158,3,8:51,1131,1131,Ashley Bassett-Smith Defensive Rebound.,47,34,13,33,0.888694734538288,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+159,3,8:18,1098,1098,Joi Jones missed Jumper.,47,34,13,0,0.8920522156509293,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+160,3,8:18,1098,1098,Ashley Bassett-Smith Offensive Rebound.,47,34,13,2,0.8920522156509293,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+161,3,8:16,1096,1096,Appalachian St  Turnover.,47,34,13,12,0.8922564177119927,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+162,3,8:04,1084,1084,Diamond DeShields made Layup.,49,34,15,14,0.9208593808615407,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Tennessee
+163,3,7:50,1070,1070,Bria Carter missed Jumper.,49,34,15,0,0.9221424473761041,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+164,3,7:50,1070,1070,Mercedes Russell Defensive Rebound.,49,34,15,12,0.9221424473761041,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+165,3,7:38,1058,1058,Mercedes Russell Turnover.,49,34,15,18,0.9232577653714981,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+166,3,7:20,1040,1040,Bria Carter Turnover.,49,34,15,12,0.9249666739663183,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+167,3,7:08,1028,1028,Foul on Jaime Nared.,49,34,15,0,0.9261351605936964,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+168,3,7:08,1028,1028,Jaime Nared Turnover.,49,34,15,7,0.9261351605936964,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+169,3,7:01,1021,1021,Madi Story Turnover.,49,34,15,1,0.9268291391940491,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+170,3,7:00,1020,1020,Meme Jackson Steal.,49,34,15,2,0.9269290697772217,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+171,3,6:58,1018,1018,Diamond DeShields made Layup.,51,34,17,20,0.9469761097852745,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Tennessee
+172,3,6:38,998,998,Madi Story made Jumper.,51,36,15,29,0.9291816296090104,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Appalachian State
+173,3,6:09,969,969,Foul on Ashley Bassett-Smith.,51,36,15,3,0.9323259784009615,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+174,3,6:06,966,966,Meme Jackson made Three Point Jumper. Assisted by Jaime Nared.,54,36,18,16,0.9590604612718865,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Tennessee
+175,3,5:50,950,950,Q Murray missed Three Point Jumper.,54,36,18,0,0.9602893244162762,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+176,3,5:50,950,950,Jaime Nared Defensive Rebound.,54,36,18,12,0.9602893244162762,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+177,3,5:38,938,938,Mercedes Russell missed Layup.,54,36,18,0,0.9611250386350438,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+178,3,5:38,938,938,Bria Carter Defensive Rebound.,54,36,18,11,0.9611250386350438,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+179,3,5:27,927,927,Bayley Plummer Turnover.,54,36,18,5,0.9618386352091155,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+180,3,5:22,922,922,Jaime Nared missed Layup.,54,36,18,0,0.9621489798513205,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+181,3,5:22,922,922,Bayley Plummer Defensive Rebound.,54,36,18,14,0.9621489798513205,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+182,3,5:08,908,908,Bria Carter missed Layup.,54,36,18,0,0.9629799191113994,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+183,3,5:08,908,908,Jaime Nared Defensive Rebound.,54,36,18,10,0.9629799191113994,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+184,3,4:58,898,898,Jordan Reynolds missed Layup.,54,36,18,0,0.9635461850158257,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+185,3,4:58,898,898,Bayley Plummer Defensive Rebound.,54,36,18,8,0.9635461850158257,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+186,3,4:50,890,890,Foul on Kortney Dunbar.,54,36,18,0,0.9639872612338801,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+187,3,4:50,890,890,Official TV Timeout,54,36,18,0,0.9639872612338801,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+188,3,4:50,890,890,Madi Story made Free Throw.,54,37,17,0,0.9570813869883584,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Appalachian State
+189,3,4:50,890,890,Madi Story made Free Throw.,54,38,16,7,0.9489213981757925,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Appalachian State
+190,3,4:43,883,883,Kortney Dunbar made Three Point Jumper. Assisted by Jordan Reynolds.,57,38,19,17,0.9701547358800621,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Tennessee
+191,3,4:26,866,866,Madi Story missed Jumper.,57,38,19,0,0.9709621011716362,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+192,3,4:26,866,866,Kortney Dunbar Defensive Rebound.,57,38,19,9,0.9709621011716362,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+193,3,4:17,857,857,Foul on Bayley Plummer.,57,38,19,0,0.9713876646600228,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+194,3,4:17,857,857,Mercedes Russell made Free Throw.,58,38,20,0,0.9761168265229903,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Tennessee
+195,3,4:17,857,857,Mercedes Russell made Free Throw.,59,38,21,26,0.9800803623993506,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Tennessee
+196,3,3:51,831,831,Armani Hampton missed Jumper.,59,38,21,0,0.9810504441265365,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+197,3,3:51,831,831,Bayley Plummer Offensive Rebound.,59,38,21,2,0.9810504441265365,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+198,3,3:49,829,829,Bayley Plummer missed Layup.,59,38,21,0,0.981126902626148,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+199,3,3:49,829,829,Kortney Dunbar Defensive Rebound.,59,38,21,12,0.981126902626148,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+200,3,3:37,817,817,Mercedes Russell made Layup. Assisted by Alexa Middleton.,61,38,23,18,0.9873229721352097,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Tennessee
+201,3,3:19,799,799,Joi Jones missed Layup.,61,38,23,0,0.9878775603262,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+202,3,3:19,799,799,Alexa Middleton Defensive Rebound.,61,38,23,7,0.9878775603262,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+203,3,3:12,792,792,Alexa Middleton missed Jumper.,61,38,23,0,0.9881018429929832,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+204,3,3:12,792,792,Joi Jones Defensive Rebound.,61,38,23,8,0.9881018429929832,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+205,3,3:04,784,784,Joi Jones missed Jumper.,61,38,23,0,0.9883647070982535,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+206,3,3:04,784,784,Q Murray Offensive Rebound.,61,38,23,6,0.9883647070982535,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+207,3,2:58,778,778,Armani Hampton made Layup. Assisted by Q Murray.,61,40,21,0,0.9832410087566887,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Appalachian State
+208,3,2:58,778,778,Foul on Meme Jackson.,61,40,21,0,0.9832410087566887,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+209,3,2:58,778,778,Armani Hampton made Free Throw.,61,41,20,22,0.9797276838379899,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Appalachian State
+210,3,2:36,756,756,Foul on Bria Carter.,61,41,20,0,0.9809212525659582,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+211,3,2:36,756,756,Jaime Nared made Free Throw.,62,41,21,0,0.9842790159556187,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Tennessee
+212,3,2:36,756,756,Jaime Nared made Free Throw.,63,41,22,12,0.9870536293663549,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Tennessee
+213,3,2:24,744,744,Foul on Schaquilla Nunn.,63,41,22,0,0.9875742523526114,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+214,3,2:24,744,744,Madi Story missed Free Throw.,63,41,22,0,0.9875742523526114,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+215,3,2:24,744,744,Appalachian St Deadball Team Rebound.,63,41,22,0,0.9875742523526114,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+216,3,2:24,744,744,Madi Story made Free Throw.,63,42,21,13,0.984881399878289,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Appalachian State
+217,3,2:11,731,731,Foul on Q Murray.,63,42,21,0,0.985562517911981,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+218,3,2:11,731,731,Schaquilla Nunn missed Free Throw.,63,42,21,0,0.985562517911981,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+219,3,2:11,731,731,Tennessee Deadball Team Rebound.,63,42,21,0,0.985562517911981,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+220,3,2:11,731,731,Schaquilla Nunn missed Free Throw.,63,42,21,0,0.985562517911981,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+221,3,2:11,731,731,Schaquilla Nunn Offensive Rebound.,63,42,21,3,0.985562517911981,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+222,3,2:08,728,728,Schaquilla Nunn made Layup.,65,42,23,15,0.9904154476295731,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Tennessee
+223,3,1:53,713,713,Foul on Meme Jackson.,65,42,23,0,0.9909496829404966,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+224,3,1:53,713,713,Madi Story made Free Throw.,65,43,22,0,0.9889224564726214,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Appalachian State
+225,3,1:53,713,713,Madi Story made Free Throw.,65,44,21,15,0.9864473515661489,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Appalachian State
+226,3,1:38,698,698,Schaquilla Nunn missed Layup.,65,44,21,0,0.9870720593189568,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+227,3,1:38,698,698,Armani Hampton Defensive Rebound.,65,44,21,28,0.9870720593189568,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+228,3,1:10,670,670,Joi Jones missed Jumper.,65,44,21,0,0.9880681676692289,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+229,3,1:10,670,670,Schaquilla Nunn Defensive Rebound.,65,44,21,5,0.9880681676692289,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+230,3,1:05,665,665,Foul on Armani Hampton.,65,44,21,0,0.9882321145972932,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+231,3,1:05,665,665,Schaquilla Nunn made Free Throw.,66,44,22,0,0.9904490860771173,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Tennessee
+232,3,1:05,665,665,Schaquilla Nunn made Free Throw.,67,44,23,7,0.9922516733111612,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Tennessee
+233,3,0:58,658,658,Q Murray Turnover.,67,44,23,2,0.9924150524429562,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+234,3,0:56,656,656,Kortney Dunbar Steal.,67,44,23,5,0.9924612714369739,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+235,3,0:51,651,651,Alexa Middleton made Layup.,69,44,25,27,0.9951374736233588,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Tennessee
+236,3,0:24,624,624,Madi Story missed Layup.,69,44,25,0,0.9955800381375595,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+237,3,0:24,624,624,Schaquilla Nunn Defensive Rebound.,69,44,25,9,0.9955800381375595,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+238,3,0:15,615,615,Alexa Middleton missed Layup.,69,44,25,0,0.9957316271407464,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+239,3,0:15,615,615,Alexa Middleton Offensive Rebound.,69,44,25,4,0.9957316271407464,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+240,3,0:11,611,611,Alexa Middleton missed Jumper.,69,44,25,0,0.9958002036582648,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+241,3,0:11,611,611,Bria Carter Defensive Rebound.,69,44,25,3,0.9958002036582648,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+242,3,0:08,608,608,Foul on Diamond DeShields.,69,44,25,0,0.9958521894835792,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+243,3,0:08,608,608,Bria Carter made Free Throw.,69,45,24,0,0.994840678401672,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Appalachian State
+244,3,0:08,608,608,Bria Carter made Free Throw.,69,46,23,8,0.9935840831125979,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,Appalachian State
+245,3,0:00,600,600,End of 3rd Quarter,69,46,23,22,0.9937848010894879,Tennessee,Appalachian State,5,4,0,0,NA,400912577,2016-12-14,
+246,4,9:38,578,578,Bria Carter missed Jumper.,69,46,23,0,0.9943704533134418,Tennessee,Appalachian State,6,5,0,0,NA,400912577,2016-12-14,
+247,4,9:38,578,578,Diamond DeShields Defensive Rebound.,69,46,23,2,0.9943704533134418,Tennessee,Appalachian State,6,5,0,0,NA,400912577,2016-12-14,
+248,4,9:36,576,576,Diamond DeShields missed Layup.,69,46,23,0,0.9944262880795967,Tennessee,Appalachian State,6,5,0,0,NA,400912577,2016-12-14,
+249,4,9:36,576,576,Tennessee Offensive Rebound.,69,46,23,4,0.9944262880795967,Tennessee,Appalachian State,6,5,0,0,NA,400912577,2016-12-14,
+250,4,9:32,572,572,Schaquilla Nunn made Jumper. Assisted by Kortney Dunbar.,71,46,25,28,0.9965201422628971,Tennessee,Appalachian State,6,5,0,0,NA,400912577,2016-12-14,Tennessee
+251,4,9:04,544,544,Madi Story Turnover.,71,46,25,10,0.9970883603570456,Tennessee,Appalachian State,6,5,0,0,NA,400912577,2016-12-14,
+252,4,8:54,534,534,Jaime Nared made Three Point Jumper. Assisted by Kortney Dunbar.,74,46,28,22,0.9986481117384705,Tennessee,Appalachian State,6,5,0,0,NA,400912577,2016-12-14,Tennessee
+253,4,8:32,512,512,Madi Story Turnover.,74,46,28,13,0.9988142692636136,Tennessee,Appalachian State,6,5,0,0,NA,400912577,2016-12-14,
+254,4,8:19,499,499,Foul on Bria Carter.,74,46,28,0,0.9988972357358789,Tennessee,Appalachian State,6,5,0,0,NA,400912577,2016-12-14,
+255,4,8:19,499,499,Jaime Nared made Free Throw.,75,46,29,0,0.9991350767445905,Tennessee,Appalachian State,6,5,0,0,NA,400912577,2016-12-14,Tennessee
+256,4,8:19,499,499,Jaime Nared made Free Throw.,76,46,30,26,0.9993216557274202,Tennessee,Appalachian State,6,5,0,0,NA,400912577,2016-12-14,Tennessee
+257,4,7:53,473,473,Cydni Cole missed Three Point Jumper.,76,46,30,0,0.9994264793089778,Tennessee,Appalachian State,6,5,0,0,NA,400912577,2016-12-14,
+258,4,7:53,473,473,Mercedes Russell Defensive Rebound.,76,46,30,6,0.9994264793089778,Tennessee,Appalachian State,6,5,0,0,NA,400912577,2016-12-14,
+259,4,7:47,467,467,Diamond DeShields missed Jumper.,76,46,30,0,0.9994514175074488,Tennessee,Appalachian State,6,5,0,0,NA,400912577,2016-12-14,
+260,4,7:47,467,467,Kortney Dunbar Offensive Rebound.,76,46,30,5,0.9994514175074488,Tennessee,Appalachian State,6,5,0,0,NA,400912577,2016-12-14,
+261,4,7:42,462,462,Kortney Dunbar made Three Point Jumper.,79,46,33,9,0.9997520014802613,Tennessee,Appalachian State,6,5,0,0,NA,400912577,2016-12-14,Tennessee
+262,4,7:33,453,453,Appalachian St  Timeout,79,46,33,0,0.9997723052938275,Tennessee,Appalachian State,6,4,0,1,NA,400912577,2016-12-14,
+263,4,7:33,453,453,Official TV Timeout,79,46,33,9,0.9997723052938275,Tennessee,Appalachian State,6,4,0,1,NA,400912577,2016-12-14,
+264,4,7:24,444,444,Foul on Diamond DeShields.,79,46,33,11,0.9997932108052178,Tennessee,Appalachian State,6,4,0,1,NA,400912577,2016-12-14,
+265,4,7:13,433,433,Bria Carter missed Layup.,79,46,33,0,0.9998193686683352,Tennessee,Appalachian State,6,4,0,1,NA,400912577,2016-12-14,
+266,4,7:13,433,433,Mercedes Russell Defensive Rebound.,79,46,33,9,0.9998193686683352,Tennessee,Appalachian State,6,4,0,1,NA,400912577,2016-12-14,
+267,4,7:04,424,424,Alexa Middleton made Jumper.,81,46,35,18,0.9999058397047316,Tennessee,Appalachian State,6,4,0,1,NA,400912577,2016-12-14,Tennessee
+268,4,6:46,406,406,Ashley Bassett-Smith made Jumper. Assisted by Bria Carter.,81,48,33,9,0.9998725103557964,Tennessee,Appalachian State,6,4,0,1,NA,400912577,2016-12-14,Appalachian State
+269,4,6:37,397,397,Alexa Middleton made Layup.,83,48,35,6,0.9999339956744113,Tennessee,Appalachian State,6,4,0,1,NA,400912577,2016-12-14,Tennessee
+270,4,6:31,391,391,Q Murray Turnover.,83,48,35,1,0.9999388492504185,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+271,4,6:30,390,390,Diamond DeShields Steal.,83,48,35,0,0.9999396257037833,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+272,4,6:30,390,390,Foul on Bria Carter.,83,48,35,0,0.9999396257037833,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+273,4,6:30,390,390,Alexa Middleton made Free Throw.,84,48,36,0,0.9999542583209615,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,Tennessee
+274,4,6:30,390,390,Alexa Middleton made Free Throw.,85,48,37,11,0.9999653446265756,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,Tennessee
+275,4,6:19,379,379,Joi Jones made Jumper.,85,50,35,8,0.9999476643521631,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,Appalachian State
+276,4,6:11,371,371,Foul on Ashley Bassett-Smith.,85,50,35,0,0.9999530397480448,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+277,4,6:11,371,371,Mercedes Russell missed Free Throw.,85,50,35,0,0.9999530397480448,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+278,4,6:11,371,371,Tennessee Deadball Team Rebound.,85,50,35,0,0.9999530397480448,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+279,4,6:11,371,371,Mercedes Russell made Free Throw.,86,50,36,21,0.9999646758915365,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,Tennessee
+280,4,5:50,350,350,Madi Story made Three Point Jumper. Assisted by Amber Driver.,86,53,33,19,0.9999384291261,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,Appalachian State
+281,4,5:31,331,331,Alexa Middleton missed Jumper.,86,53,33,0,0.9999556570633928,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+282,4,5:31,331,331,Joi Jones Defensive Rebound.,86,53,33,9,0.9999556570633928,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+283,4,5:22,322,322,Joi Jones missed Jumper.,86,53,33,0,0.9999630205120795,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+284,4,5:22,322,322,Alexa Middleton Defensive Rebound.,86,53,33,6,0.9999630205120795,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+285,4,5:16,316,316,Foul on Bria Carter.,86,53,33,0,0.9999675960002277,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+286,4,5:16,316,316,Foul on Kortney Dunbar.,86,53,33,19,0.9999675960002277,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+287,4,4:57,297,297,Foul on Jaime Nared.,86,53,33,0,0.9999771303756304,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+288,4,4:57,297,297,Jaime Nared Turnover.,86,53,33,0,0.9999771303756304,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+289,4,4:57,297,297,Official TV Timeout,86,53,33,17,0.9999771303756304,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+290,4,4:40,280,280,Q Murray missed Three Point Jumper.,86,53,33,0,0.9999773942563455,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+291,4,4:40,280,280,Madi Story Offensive Rebound.,86,53,33,7,0.9999773942563455,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+292,4,4:33,273,273,Madi Story made Layup.,86,55,31,14,0.9999547322853819,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,Appalachian State
+293,4,4:19,259,259,Jaime Nared missed Three Point Jumper.,86,55,31,0,0.9999485662745301,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+294,4,4:19,259,259,Joi Jones Defensive Rebound.,86,55,31,7,0.9999485662745301,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+295,4,4:12,252,252,Appalachian St Offensive Rebound.,86,55,31,0,0.9999452717864203,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+296,4,4:12,252,252,Q Murray missed Jumper.,86,55,31,3,0.9999452717864203,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+297,4,4:09,249,249,Madi Story missed Layup.,86,55,31,0,0.9999440078276924,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+298,4,4:09,249,249,Jaime Nared Defensive Rebound.,86,55,31,24,0.9999440078276924,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+299,4,3:45,225,225,Jordan Reynolds missed Jumper.,86,55,31,0,0.9999441976309659,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+300,4,3:45,225,225,Joi Jones Defensive Rebound.,86,55,31,17,0.9999441976309659,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+301,4,3:28,208,208,Joi Jones missed Layup.,86,55,31,0,0.9999605982157506,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+302,4,3:28,208,208,Alexa Middleton Defensive Rebound.,86,55,31,5,0.9999605982157506,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+303,4,3:23,203,203,Jaime Nared made Layup. Assisted by Alexa Middleton.,88,55,33,16,0.9999831060746113,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,Tennessee
+304,4,3:07,187,187,Q Murray made Jumper.,88,57,31,16,0.9999862268097729,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,Appalachian State
+305,4,2:51,171,171,Jordan Reynolds missed Layup.,88,57,31,0,0.9999952046917534,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+306,4,2:51,171,171,Bayley Plummer Defensive Rebound.,88,57,31,11,0.9999952046917534,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+307,4,2:40,160,160,Foul on Kamera Harris.,88,57,31,0,0.9999977772818635,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+308,4,2:40,160,160,Joi Jones missed Free Throw.,88,57,31,0,0.9999977772818635,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+309,4,2:40,160,160,Appalachian St Deadball Team Rebound.,88,57,31,0,0.9999977772818635,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+310,4,2:40,160,160,Joi Jones made Free Throw.,88,58,30,22,0.9999966174640088,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,Appalachian State
+311,4,2:18,138,138,Jordan Reynolds missed Jumper.,88,58,30,0,0.9999993697709905,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+312,4,2:18,138,138,Madi Story Defensive Rebound.,88,58,30,9,0.9999993697709905,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+313,4,2:09,129,129,Bayley Plummer made Layup. Assisted by Madi Story.,88,60,28,24,0.9999992194235725,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,Appalachian State
+314,4,1:45,105,105,Kortney Dunbar missed Jumper.,88,60,28,0,0.9999999250207154,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+315,4,1:45,105,105,Kamera Harris Offensive Rebound.,88,60,28,2,0.9999999250207154,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+316,4,1:43,103,103,Kamera Harris made Layup.,90,60,30,19,0.9999999817307661,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,Tennessee
+317,4,1:24,84,84,Bayley Plummer missed Jumper.,90,60,30,0,0.9999999984927963,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+318,4,1:24,84,84,Joi Jones Offensive Rebound.,90,60,30,4,0.9999999984927963,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+319,4,1:20,80,80,Foul on Schaquilla Nunn.,90,60,30,0,0.9999999991367589,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+320,4,1:20,80,80,Joi Jones made Free Throw.,90,61,29,0,0.9999999982691435,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,Appalachian State
+321,4,1:20,80,80,Joi Jones made Free Throw.,90,62,28,21,0.9999999965295164,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,Appalachian State
+322,4,0:59,59,59,Schaquilla Nunn made Layup. Assisted by Meme Jackson.,92,62,30,23,0.9999999999645549,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,Tennessee
+323,4,0:36,36,36,Foul on Kamera Harris.,92,62,30,0,0.9999999999993242,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+324,4,0:36,36,36,Bayley Plummer made Free Throw.,92,63,29,0,0.99999999999828,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,Appalachian State
+325,4,0:36,36,36,Bayley Plummer missed Free Throw.,92,63,29,0,0.99999999999828,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+326,4,0:36,36,36,Jordan Reynolds Defensive Rebound.,92,63,29,26,0.99999999999828,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+327,4,0:10,10,10,Meme Jackson missed Layup.,92,63,29,0,0.9999999999999876,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+328,4,0:10,10,10,Schaquilla Nunn Offensive Rebound.,92,63,29,2,0.9999999999999876,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+329,4,0:08,8,8,Schaquilla Nunn missed Layup.,92,63,29,0,0.9999999999999918,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+330,4,0:08,8,8,Elizabeth Norregaard Defensive Rebound.,92,63,29,7,0.9999999999999918,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,
+331,4,0:01,1,1,Cydni Cole made Three Point Jumper. Assisted by Elizabeth Norregaard.,92,66,26,1,0.9999999999999365,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,Appalachian State
+332,4,0:00,0,0,End of Game,92,65,27,0,1,Tennessee,Appalachian State,6,4,0,0,NA,400912577,2016-12-14,

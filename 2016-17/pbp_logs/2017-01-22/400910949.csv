@@ -1,0 +1,393 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:49,2389,2389,Haley Lorenzen Turnover.,0,0,0,0,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,NA
+2,1,9:49,2389,2389,Foul on Haley Lorenzen.,0,0,0,11,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+3,1,9:38,2378,2378,Caliya Robinson missed Three Point Jumper.,0,0,0,0,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+4,1,9:38,2378,2378,Haley Lorenzen Defensive Rebound.,0,0,0,12,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+5,1,9:26,2366,2366,Delicia Washington made Jumper.,0,2,-2,22,0.4552536897122488,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Florida
+6,1,9:04,2344,2344,Haley Clark Turnover.,0,2,-2,7,0.4547792090464709,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+7,1,8:57,2337,2337,Foul on Haley Clark.,0,2,-2,0,0.4546269370703341,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+8,1,8:57,2337,2337,Delicia Washington made Free Throw.,0,3,-3,0,0.43217335596304424,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Florida
+9,1,8:57,2337,2337,Delicia Washington missed Free Throw.,0,3,-3,0,0.43217335596304424,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+10,1,8:57,2337,2337,Caliya Robinson Defensive Rebound.,0,3,-3,31,0.43217335596304424,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+11,1,8:26,2306,2306,Pachis Roberts made Layup.,2,3,-1,12,0.47692378171037997,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Georgia
+12,1,8:14,2294,2294,Delicia Washington missed Jumper.,2,3,-1,0,0.47678965866213896,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+13,1,8:14,2294,2294,Haley Lorenzen Offensive Rebound.,2,3,-1,7,0.47678965866213896,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+14,1,8:07,2287,2287,Delicia Washington missed Jumper.,2,3,-1,0,0.4767110806406472,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+15,1,8:07,2287,2287,Caliya Robinson Block.,2,3,-1,1,0.4767110806406472,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+16,1,8:06,2286,2286,Shanea Armbrister Defensive Rebound.,2,3,-1,8,0.4766998354859127,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+17,1,7:58,2278,2278,Pachis Roberts Turnover.,2,3,-1,6,0.47660970179848494,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+18,1,7:52,2272,2272,Haley Lorenzen Steal.,2,3,-1,6,0.4765419058740616,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+19,1,7:46,2266,2266,Haley Lorenzen made Layup. Assisted by Dyandria Anderson.,2,5,-3,31,0.4298357711983823,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Florida
+20,1,7:15,2235,2235,Pachis Roberts missed Three Point Jumper.,2,5,-3,0,0.4287942219546592,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+21,1,7:15,2235,2235,Dyandria Anderson Defensive Rebound.,2,5,-3,12,0.4287942219546592,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+22,1,7:03,2223,2223,Dyandria Anderson missed Layup.,2,5,-3,0,0.4283883988150674,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+23,1,7:03,2223,2223,Caliya Robinson Block.,2,5,-3,2,0.4283883988150674,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+24,1,7:01,2221,2221,Caliya Robinson Defensive Rebound.,2,5,-3,11,0.42832063468160925,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+25,1,6:50,2210,2210,Foul on Dyandria Anderson.,2,5,-3,7,0.427947330295773,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+26,1,6:43,2203,2203,Mackenzie Engram missed Free Throw.,2,5,-3,0,0.427709275709198,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+27,1,6:43,2203,2203,Georgia Deadball Team Rebound.,2,5,-3,18,0.427709275709198,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+28,1,6:25,2185,2185,Mackenzie Engram made Free Throw.,3,5,-2,14,0.4512039550594804,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Georgia
+29,1,6:11,2171,2171,Brooke Copeland missed Three Point Jumper.,3,5,-2,0,0.4508809989309483,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+30,1,6:11,2171,2171,Pachis Roberts Defensive Rebound.,3,5,-2,10,0.4508809989309483,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+31,1,6:01,2161,2161,Haley Clark missed Jumper.,3,5,-2,0,0.45064972776518214,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+32,1,6:01,2161,2161,Tyshara Fleming Defensive Rebound.,3,5,-2,4,0.45064972776518214,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+33,1,5:57,2157,2157,Tyshara Fleming Turnover.,3,5,-2,1,0.4505570115494483,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+34,1,5:56,2156,2156,Mackenzie Engram Steal.,3,5,-2,11,0.4505338134586218,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+35,1,5:45,2145,2145,Caliya Robinson missed Jumper.,3,5,-2,0,0.4502781200489009,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+36,1,5:45,2145,2145,Delicia Washington Defensive Rebound.,3,5,-2,8,0.4502781200489009,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+37,1,5:37,2137,2137,Delicia Washington missed Jumper.,3,5,-2,0,0.450091551820923,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+38,1,5:37,2137,2137,Caliya Robinson Block.,3,5,-2,0,0.450091551820923,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+39,1,5:37,2137,2137,Caliya Robinson Defensive Rebound.,3,5,-2,0,0.450091551820923,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+40,1,5:37,2137,2137,Foul on Tyshara Fleming.,3,5,-2,2,0.450091551820923,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+41,1,5:35,2135,2135,Haley Clark made Layup.,5,5,0,8,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Georgia
+42,1,5:27,2127,2127,Tyshara Fleming missed Jumper.,5,5,0,0,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+43,1,5:27,2127,2127,Haley Clark Defensive Rebound.,5,5,0,9,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+44,1,5:18,2118,2118,Mackenzie Engram made Layup. Assisted by Shanea Armbrister.,7,5,2,0,0.550353713567204,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Georgia
+45,1,5:18,2118,2118,Foul on Sydney Morang.,7,5,2,0,0.550353713567204,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+46,1,5:18,2118,2118,Mackenzie Engram made Free Throw.,8,5,3,15,0.5752123586433557,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Georgia
+47,1,5:03,2103,2103,Sydney Morang missed Three Point Jumper.,8,5,3,0,0.5757363153245717,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+48,1,5:03,2103,2103,Ronni Williams Offensive Rebound.,8,5,3,6,0.5757363153245717,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+49,1,4:57,2097,2097,Foul on Mackenzie Engram.,8,5,3,0,0.5759467449272596,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+50,1,4:57,2097,2097,Official TV Timeout,8,5,3,8,0.5759467449272596,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+51,1,4:49,2089,2089,Ronni Williams made Layup. Assisted by Dyandria Anderson.,8,7,1,0,0.5255866500692816,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Florida
+52,1,4:49,2089,2089,Foul on Pachis Roberts.,8,7,1,0,0.5255866500692816,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+53,1,4:49,2089,2089,Ronni Williams made Free Throw.,8,8,0,4,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Florida
+54,1,4:45,2085,2085,Haley Clark Turnover.,8,8,0,9,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+55,1,4:36,2076,2076,Haley Lorenzen Turnover.,8,8,0,19,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+56,1,4:17,2057,2057,Shanea Armbrister missed Jumper.,8,8,0,0,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+57,1,4:17,2057,2057,Florida Defensive Rebound.,8,8,0,14,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+58,1,4:03,2043,2043,Ronni Williams missed Layup.,8,8,0,0,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+59,1,4:03,2043,2043,Caliya Robinson Block.,8,8,0,0,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+60,1,4:03,2043,2043,Florida Offensive Rebound.,8,8,0,5,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+61,1,3:58,2038,2038,Ronni Williams missed Layup.,8,8,0,0,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+62,1,3:58,2038,2038,Haley Clark Defensive Rebound.,8,8,0,7,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+63,1,3:51,2031,2031,Mackenzie Engram missed Three Point Jumper.,8,8,0,0,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+64,1,3:51,2031,2031,Delicia Washington Defensive Rebound.,8,8,0,7,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+65,1,3:44,2024,2024,Delicia Washington made Jumper.,8,10,-2,33,0.4473913629268944,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Florida
+66,1,3:11,1991,1991,Georgia  Turnover.,8,10,-2,12,0.4465757969664018,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+67,1,2:59,1979,1979,Delicia Washington missed Jumper.,8,10,-2,0,0.4462757244970491,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+68,1,2:59,1979,1979,Haley Clark Defensive Rebound.,8,10,-2,7,0.4462757244970491,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+69,1,2:52,1972,1972,Foul on Delicia Washington.,8,10,-2,0,0.44609978101680003,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+70,1,2:52,1972,1972,Pachis Roberts made Free Throw.,9,10,-1,0,0.4729711358747815,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Georgia
+71,1,2:52,1972,1972,Pachis Roberts made Free Throw.,10,10,0,20,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Georgia
+72,1,2:32,1952,1952,Haley Lorenzen missed Jumper.,10,10,0,0,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+73,1,2:32,1952,1952,Pachis Roberts Defensive Rebound.,10,10,0,26,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+74,1,2:06,1926,1926,Stephanie Paul missed Three Point Jumper.,10,10,0,0,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+75,1,2:06,1926,1926,Mackenzie Engram Offensive Rebound.,10,10,0,5,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+76,1,2:01,1921,1921,Mackenzie Engram made Two Point Tip Shot.,12,10,2,12,0.5552024606924355,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Georgia
+77,1,1:49,1909,1909,Haley Lorenzen Turnover.,12,10,2,1,0.5555112177423619,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+78,1,1:48,1908,1908,Haley Clark Steal.,12,10,2,2,0.5555369292689899,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+79,1,1:46,1906,1906,Haley Clark Turnover.,12,10,2,1,0.5555883462174267,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+80,1,1:45,1905,1905,Tyshara Fleming Steal.,12,10,2,3,0.5556140519468978,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+81,1,1:42,1902,1902,Ronni Williams missed Jumper.,12,10,2,0,0.555691160002145,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+82,1,1:42,1902,1902,Dyandria Anderson Offensive Rebound.,12,10,2,5,0.555691160002145,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+83,1,1:37,1897,1897,Foul on Halle Washington.,12,10,2,0,0.555819652211619,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+84,1,1:37,1897,1897,Dyandria Anderson made Free Throw.,12,11,1,0,0.527997334658083,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Florida
+85,1,1:37,1897,1897,Dyandria Anderson missed Free Throw.,12,11,1,0,0.527997334658083,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+86,1,1:37,1897,1897,Caliya Robinson Defensive Rebound.,12,11,1,9,0.527997334658083,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+87,1,1:28,1888,1888,Pachis Roberts Turnover.,12,11,1,10,0.5281140685260627,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+88,1,1:18,1878,1878,Ronni Williams Turnover.,12,11,1,0,0.5282438334880746,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+89,1,1:18,1878,1878,Foul on Ronni Williams.,12,11,1,8,0.5282438334880746,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+90,1,1:10,1870,1870,Foul on Ronni Williams.,12,11,1,0,0.5283477417471951,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+91,1,1:10,1870,1870,Pachis Roberts made Free Throw.,13,11,2,0,0.556513826701697,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Georgia
+92,1,1:10,1870,1870,Pachis Roberts made Free Throw.,14,11,3,17,0.5843212247635606,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Georgia
+93,1,0:53,1853,1853,Delicia Washington missed Three Point Jumper.,14,11,3,0,0.5849681404083931,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+94,1,0:53,1853,1853,Ronni Williams Offensive Rebound.,14,11,3,4,0.5849681404083931,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+95,1,0:49,1849,1849,Ronni Williams made Two Point Tip Shot.,14,13,1,12,0.5286212154557764,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Florida
+96,1,0:37,1837,1837,Halle Washington made Layup. Assisted by Caliya Robinson.,16,13,3,32,0.5855793131779022,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Georgia
+97,1,0:05,1805,1805,Tyshara Fleming made Layup. Assisted by Brooke Copeland.,16,15,1,5,0.529200264196867,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Florida
+98,1,0:00,1800,1800,End of 1st Quarter,16,15,1,8,0.5292668057759684,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+99,2,9:52,1792,1792,Stephanie Paul missed Jumper.,16,15,1,0,0.529373663315156,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+100,2,9:52,1792,1792,Pachis Roberts Offensive Rebound.,16,15,1,16,0.529373663315156,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+101,2,9:36,1776,1776,Haley Clark Turnover.,16,15,1,1,0.5295889660707179,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+102,2,9:35,1775,1775,Brooke Copeland Steal.,16,15,1,14,0.52960249827348,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+103,2,9:21,1761,1761,Delicia Washington missed Layup.,16,15,1,0,0.529792969348734,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+104,2,9:21,1761,1761,Tyshara Fleming Offensive Rebound.,16,15,1,3,0.529792969348734,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+105,2,9:18,1758,1758,Tyshara Fleming made Two Point Tip Shot.,16,17,-1,16,0.4701659557879603,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Florida
+106,2,9:02,1742,1742,Caliya Robinson Turnover.,16,17,-1,1,0.46994521263156713,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+107,2,9:01,1741,1741,Tyshara Fleming Steal.,16,17,-1,6,0.46993131800058685,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+108,2,8:55,1735,1735,Dyandria Anderson missed Three Point Jumper.,16,17,-1,0,0.4698476951664201,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+109,2,8:55,1735,1735,Haley Lorenzen Offensive Rebound.,16,17,-1,3,0.4698476951664201,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+110,2,8:52,1732,1732,Foul on Halle Washington.,16,17,-1,3,0.469805716302795,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+111,2,8:49,1729,1729,Foul on Pachis Roberts.,16,17,-1,5,0.46976362301874747,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+112,2,8:44,1724,1724,Haley Lorenzen made Jumper.,16,19,-3,21,0.4099606905000397,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Florida
+113,2,8:23,1703,1703,Halle Washington made Jumper. Assisted by Pachis Roberts.,18,19,-1,13,0.4693937100769411,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Georgia
+114,2,8:10,1690,1690,Foul on Halle Washington.,18,19,-1,8,0.4692050463934854,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+115,2,8:02,1682,1682,Haley Lorenzen Turnover.,18,19,-1,9,0.4690888747803543,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+116,2,7:53,1673,1673,Pachis Roberts made Jumper.,20,19,1,15,0.5310401637903747,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Georgia
+117,2,7:38,1658,1658,Delicia Washington missed Jumper.,20,19,1,0,0.5312518628367782,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+118,2,7:38,1658,1658,Stephanie Paul Defensive Rebound.,20,19,1,11,0.5312518628367782,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+119,2,7:27,1647,1647,Haley Clark missed Jumper.,20,19,1,0,0.5314048937596322,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+120,2,7:27,1647,1647,Florida Defensive Rebound.,20,19,1,15,0.5314048937596322,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+121,2,7:12,1632,1632,Haley Lorenzen missed Jumper.,20,19,1,0,0.5316112839754575,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+122,2,7:12,1632,1632,Haley Clark Defensive Rebound.,20,19,1,17,0.5316112839754575,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+123,2,6:55,1615,1615,Foul on Brooke Copeland.,20,19,1,27,0.5318430719092864,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+124,2,6:28,1588,1588,Mackenzie Engram made Layup.,22,19,3,15,0.5955731612533735,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Georgia
+125,2,6:13,1573,1573,Dyandria Anderson made Layup.,22,21,1,0,0.5324144557275214,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Florida
+126,2,6:13,1573,1573,Foul on Mackenzie Engram.,22,21,1,0,0.5324144557275214,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+127,2,6:13,1573,1573,Dyandria Anderson made Free Throw.,22,22,0,32,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Florida
+128,2,5:41,1541,1541,Mackenzie Engram Turnover.,22,22,0,1,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+129,2,5:40,1540,1540,Brooke Copeland Steal.,22,22,0,5,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+130,2,5:35,1535,1535,Ronni Williams Turnover.,22,22,0,2,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+131,2,5:33,1533,1533,Mackenzie Engram Steal.,22,22,0,2,0.5,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,
+132,2,5:31,1531,1531,Mackenzie Engram made Layup. Assisted by Caliya Robinson.,24,22,2,18,0.5657144124175519,Georgia,Florida,4,4,0,0,NA,400910949,2017-01-22,Georgia
+133,2,5:13,1513,1513,Florida  Timeout,24,22,2,9,0.5662287303896352,Georgia,Florida,3,4,1,0,NA,400910949,2017-01-22,
+134,2,5:04,1504,1504,Foul on Simone Costa.,24,22,2,0,0.566491568923502,Georgia,Florida,3,4,1,0,NA,400910949,2017-01-22,
+135,2,5:04,1504,1504,Elif Portakal made Free Throw.,24,23,1,0,0.53339408256951,Georgia,Florida,3,4,1,0,NA,400910949,2017-01-22,Florida
+136,2,5:04,1504,1504,Elif Portakal missed Free Throw.,24,23,1,0,0.53339408256951,Georgia,Florida,3,4,1,0,NA,400910949,2017-01-22,
+137,2,5:04,1504,1504,Florida Offensive Rebound.,24,23,1,23,0.53339408256951,Georgia,Florida,3,4,1,0,NA,400910949,2017-01-22,
+138,2,4:41,1481,1481,Brooke Copeland made Three Point Jumper. Assisted by Dyandria Anderson.,24,26,-2,20,0.43281622433503275,Georgia,Florida,3,4,1,0,NA,400910949,2017-01-22,Florida
+139,2,4:21,1461,1461,Shanea Armbrister missed Three Point Jumper.,24,26,-2,0,0.4321863300177815,Georgia,Florida,3,4,1,0,NA,400910949,2017-01-22,
+140,2,4:21,1461,1461,Florida Defensive Rebound.,24,26,-2,18,0.4321863300177815,Georgia,Florida,3,4,1,0,NA,400910949,2017-01-22,
+141,2,4:03,1443,1443,Foul on Haley Clark.,24,26,-2,0,0.43159733936816913,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+142,2,4:03,1443,1443,Tyshara Fleming missed Free Throw.,24,26,-2,0,0.43159733936816913,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+143,2,4:03,1443,1443,Florida Deadball Team Rebound.,24,26,-2,0,0.43159733936816913,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+144,2,4:03,1443,1443,Tyshara Fleming made Free Throw.,24,27,-3,18,0.3981916750619686,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,Florida
+145,2,3:45,1425,1425,Mackenzie Engram made Jumper. Assisted by Haley Clark.,26,27,-1,22,0.4653451384446518,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,Georgia
+146,2,3:23,1403,1403,Dyandria Anderson made Layup. Assisted by Tyshara Fleming.,26,29,-3,0,0.3963518061381954,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,Florida
+147,2,3:23,1403,1403,Foul on Shanea Armbrister.,26,29,-3,0,0.3963518061381954,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+148,2,3:23,1403,1403,Dyandria Anderson missed Free Throw.,26,29,-3,0,0.3963518061381954,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+149,2,3:23,1403,1403,Haley Clark Defensive Rebound.,26,29,-3,8,0.3963518061381954,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+150,2,3:15,1395,1395,Foul on Elif Portakal.,26,29,-3,0,0.3959960667858427,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+151,2,3:15,1395,1395,Mackenzie Engram missed Layup.,26,29,-3,0,0.3959960667858427,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+152,2,3:15,1395,1395,Georgia Offensive Rebound.,26,29,-3,10,0.3959960667858427,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+153,2,3:05,1385,1385,Foul on Brooke Copeland.,26,29,-3,0,0.3955546601888169,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+154,2,3:05,1385,1385,Pachis Roberts made Free Throw.,27,29,-2,0,0.4297964918028296,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,Georgia
+155,2,3:05,1385,1385,Pachis Roberts made Free Throw.,28,29,-1,10,0.4647235191841378,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,Georgia
+156,2,2:55,1375,1375,Foul on Pachis Roberts.,28,29,-1,0,0.4645712116282983,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+157,2,2:55,1375,1375,Ronni Williams made Free Throw.,28,30,-2,0,0.42949640742501055,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,Florida
+158,2,2:55,1375,1375,Ronni Williams made Free Throw.,28,31,-3,27,0.3951155642826925,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,Florida
+159,2,2:28,1348,1348,Shanea Armbrister missed Three Point Jumper.,28,31,-3,0,0.3939305033239894,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+160,2,2:28,1348,1348,Elif Portakal Defensive Rebound.,28,31,-3,8,0.3939305033239894,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+161,2,2:20,1340,1340,Elif Portakal made Layup.,28,33,-5,20,0.32728182758253294,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,Florida
+162,2,2:00,1320,1320,Stephanie Paul missed Three Point Jumper.,28,33,-5,0,0.3259025898288846,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+163,2,2:00,1320,1320,Ronni Williams Defensive Rebound.,28,33,-5,8,0.3259025898288846,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+164,2,1:52,1312,1312,Brooke Copeland missed Three Point Jumper.,28,33,-5,0,0.32534065114850225,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+165,2,1:52,1312,1312,Haley Clark Defensive Rebound.,28,33,-5,2,0.32534065114850225,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+166,2,1:50,1310,1310,Foul on Haley Lorenzen.,28,33,-5,16,0.32519903947404744,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+167,2,1:34,1294,1294,Mackenzie Engram made Jumper. Assisted by Haley Clark.,30,33,-3,13,0.39146931202874896,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,Georgia
+168,2,1:21,1281,1281,Delicia Washington Turnover.,30,33,-3,1,0.3908395712192175,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+169,2,1:20,1280,1280,Simone Costa Steal.,30,33,-3,2,0.3907903100928388,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+170,2,1:18,1278,1278,Foul on Delicia Washington.,30,33,-3,0,0.3906914144004719,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+171,2,1:18,1278,1278,Simone Costa made Free Throw.,31,33,-2,0,0.4264692679270804,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,Georgia
+172,2,1:18,1278,1278,Simone Costa missed Free Throw.,31,33,-2,0,0.4264692679270804,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+173,2,1:18,1278,1278,Brooke Copeland Defensive Rebound.,31,33,-2,17,0.4264692679270804,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+174,2,1:01,1261,1261,Tyshara Fleming made Layup. Assisted by Brooke Copeland.,31,35,-4,18,0.3549448021619414,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,Florida
+175,2,0:43,1243,1243,Mackenzie Engram missed Three Point Jumper.,31,35,-4,0,0.35371259029708096,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+176,2,0:43,1243,1243,Shanea Armbrister Offensive Rebound.,31,35,-4,4,0.35371259029708096,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+177,2,0:39,1239,1239,Foul on Tyshara Fleming.,31,35,-4,0,0.35342936010221365,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+178,2,0:39,1239,1239,Shanea Armbrister missed Free Throw.,31,35,-4,0,0.35342936010221365,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+179,2,0:39,1239,1239,Georgia Deadball Team Rebound.,31,35,-4,0,0.35342936010221365,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+180,2,0:39,1239,1239,Shanea Armbrister missed Free Throw.,31,35,-4,0,0.35342936010221365,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+181,2,0:39,1239,1239,Haley Lorenzen Defensive Rebound.,31,35,-4,15,0.35342936010221365,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+182,2,0:24,1224,1224,Haley Lorenzen missed Jumper.,31,35,-4,0,0.3523337389031066,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+183,2,0:24,1224,1224,Mackenzie Engram Defensive Rebound.,31,35,-4,22,0.3523337389031066,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+184,2,0:02,1202,1202,Haley Clark made Jumper.,33,35,-2,2,0.4235732994515121,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,Georgia
+185,2,0:00,1200,1200,End of 2nd Quarter,33,35,-2,12,0.4234906714856242,Georgia,Florida,3,4,0,0,NA,400910949,2017-01-22,
+186,3,9:48,1188,1188,Dyandria Anderson missed Layup.,33,35,-2,0,0.42300150680498616,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+187,3,9:48,1188,1188,Haley Lorenzen Offensive Rebound.,33,35,-2,3,0.42300150680498616,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+188,3,9:45,1185,1185,Haley Lorenzen missed Two Point Tip Shot.,33,35,-2,0,0.4228808136353794,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+189,3,9:45,1185,1185,Haley Lorenzen Offensive Rebound.,33,35,-2,3,0.4228808136353794,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+190,3,9:42,1182,1182,Haley Lorenzen missed Jumper.,33,35,-2,0,0.4227606874112476,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+191,3,9:42,1182,1182,Caliya Robinson Defensive Rebound.,33,35,-2,21,0.4227606874112476,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+192,3,9:21,1161,1161,Mackenzie Engram missed Layup.,33,35,-2,0,0.4219326466541057,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+193,3,9:21,1161,1161,Brooke Copeland Defensive Rebound.,33,35,-2,5,0.4219326466541057,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+194,3,9:16,1156,1156,Haley Lorenzen missed Jumper.,33,35,-2,0,0.4217379675010065,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+195,3,9:16,1156,1156,Dyandria Anderson Offensive Rebound.,33,35,-2,3,0.4217379675010065,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+196,3,9:13,1153,1153,Foul on Haley Clark.,33,35,-2,3,0.4216214618290522,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+197,3,9:10,1150,1150,Dyandria Anderson made Layup. Assisted by Ronni Williams.,33,37,-4,15,0.34678634598821395,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,Florida
+198,3,8:55,1135,1135,Pachis Roberts missed Layup.,33,37,-4,0,0.34570903276201104,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+199,3,8:55,1135,1135,Brooke Copeland Defensive Rebound.,33,37,-4,12,0.34570903276201104,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+200,3,8:43,1123,1123,Delicia Washington missed Jumper.,33,37,-4,0,0.34484731328243257,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+201,3,8:43,1123,1123,Dyandria Anderson Offensive Rebound.,33,37,-4,2,0.34484731328243257,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+202,3,8:41,1121,1121,Dyandria Anderson made Two Point Tip Shot.,33,39,-6,0,0.27615687048528154,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,Florida
+203,3,8:41,1121,1121,Foul on Caliya Robinson.,33,39,-6,0,0.27615687048528154,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+204,3,8:41,1121,1121,Dyandria Anderson made Free Throw.,33,40,-7,9,0.24523184409880747,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,Florida
+205,3,8:32,1112,1112,Pachis Roberts missed Three Point Jumper.,33,40,-7,0,0.24430080599609305,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+206,3,8:32,1112,1112,Haley Lorenzen Defensive Rebound.,33,40,-7,18,0.24430080599609305,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+207,3,8:14,1094,1094,Ronni Williams Turnover.,33,40,-7,1,0.2424207278029496,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+208,3,8:13,1093,1093,Mackenzie Engram Steal.,33,40,-7,3,0.24231527229881153,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+209,3,8:10,1090,1090,Mackenzie Engram Turnover.,33,40,-7,1,0.24199812109065794,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+210,3,8:09,1089,1089,Dyandria Anderson Steal.,33,40,-7,5,0.2418921312610347,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+211,3,8:04,1084,1084,Delicia Washington made Layup. Assisted by Haley Lorenzen.,33,42,-9,18,0.18657071640506415,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,Florida
+212,3,7:46,1066,1066,Shanea Armbrister missed Jumper.,33,42,-9,0,0.18449431802135746,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+213,3,7:46,1066,1066,Ronni Williams Defensive Rebound.,33,42,-9,7,0.18449431802135746,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+214,3,7:39,1059,1059,Dyandria Anderson Turnover.,33,42,-9,0,0.18366946527643216,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+215,3,7:39,1059,1059,Foul on Dyandria Anderson.,33,42,-9,20,0.18366946527643216,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+216,3,7:19,1039,1039,Foul on Brooke Copeland.,33,42,-9,1,0.18124588890117244,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+217,3,7:18,1038,1038,Stephanie Paul made Three Point Jumper. Assisted by Haley Clark.,36,42,-6,21,0.2677940220492321,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,Georgia
+218,3,6:57,1017,1017,Delicia Washington made Jumper.,36,44,-8,12,0.20468280555196344,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,Florida
+219,3,6:45,1005,1005,Foul on Delicia Washington.,36,44,-8,5,0.2031011704736925,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+220,3,6:40,1000,1000,Pachis Roberts missed Jumper.,36,44,-8,0,0.2024251779166773,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+221,3,6:40,1000,1000,Sydney Morang Block.,36,44,-8,2,0.2024251779166773,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+222,3,6:38,998,998,Pachis Roberts Offensive Rebound.,36,44,-8,11,0.20215185853650766,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+223,3,6:27,987,987,Stephanie Paul Turnover.,36,44,-8,1,0.2006175636637601,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+224,3,6:26,986,986,Sydney Morang Steal.,36,44,-8,9,0.2004754014489527,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+225,3,6:17,977,977,Haley Lorenzen made Jumper. Assisted by Brooke Copeland.,36,46,-10,21,0.14939890884128465,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,Florida
+226,3,5:56,956,956,Mackenzie Engram missed Jumper.,36,46,-10,0,0.1463711715662233,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+227,3,5:56,956,956,Sydney Morang Defensive Rebound.,36,46,-10,17,0.1463711715662233,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+228,3,5:39,939,939,Sydney Morang made Three Point Jumper.,36,49,-13,18,0.08985445340262639,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,Florida
+229,3,5:21,921,921,Stephanie Paul missed Jumper.,36,49,-13,0,0.08802662812965405,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+230,3,5:21,921,921,Dyandria Anderson Defensive Rebound.,36,49,-13,12,0.08802662812965405,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+231,3,5:09,909,909,Foul on Haley Clark.,36,49,-13,3,0.08688754209812659,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+232,3,5:06,906,906,Brooke Copeland made Three Point Jumper. Assisted by Sydney Searcy.,36,52,-16,20,0.05218443334041382,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,Florida
+233,3,4:46,886,886,Official TV Timeout,36,52,-16,2,0.05080853686362972,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+234,3,4:44,884,884,Stephanie Paul missed Three Point Jumper.,36,52,-16,0,0.05067417488787661,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+235,3,4:44,884,884,Sydney Morang Defensive Rebound.,36,52,-16,22,0.05067417488787661,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+236,3,4:22,862,862,Sydney Searcy missed Jumper.,36,52,-16,0,0.049210395550071985,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+237,3,4:22,862,862,Caliya Robinson Defensive Rebound.,36,52,-16,22,0.049210395550071985,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+238,3,4:00,840,840,Caliya Robinson missed Three Point Jumper.,36,52,-16,0,0.047729420636330115,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+239,3,4:00,840,840,Tyshara Fleming Defensive Rebound.,36,52,-16,18,0.047729420636330115,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+240,3,3:42,822,822,Tyshara Fleming missed Jumper.,36,52,-16,0,0.046465294192265444,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+241,3,3:42,822,822,Pachis Roberts Defensive Rebound.,36,52,-16,6,0.046465294192265444,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+242,3,3:36,816,816,Foul on Tyshara Fleming.,36,52,-16,24,0.046028167887872055,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+243,3,3:12,792,792,Pachis Roberts Turnover.,36,52,-16,2,0.04417707051207105,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+244,3,3:10,790,790,Tyshara Fleming Steal.,36,52,-16,5,0.04401439294296379,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+245,3,3:05,785,785,Foul on Simone Costa.,36,52,-16,0,0.04360144528904404,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+246,3,3:05,785,785,Ronni Williams made Free Throw.,36,53,-17,0,0.036225651976492364,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,Florida
+247,3,3:05,785,785,Ronni Williams missed Free Throw.,36,53,-17,0,0.036225651976492364,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+248,3,3:05,785,785,Caliya Robinson Defensive Rebound.,36,53,-17,20,0.036225651976492364,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+249,3,2:45,765,765,Pachis Roberts Turnover.,36,53,-17,9,0.03467387837962548,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+250,3,2:36,756,756,Sydney Morang missed Three Point Jumper.,36,53,-17,0,0.03393023350941494,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+251,3,2:36,756,756,Brooke Copeland Offensive Rebound.,36,53,-17,1,0.03393023350941494,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+252,3,2:35,755,755,Brooke Copeland Turnover.,36,53,-17,13,0.03384580203741929,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+253,3,2:22,742,742,Stephanie Paul made Jumper.,38,53,-15,18,0.04796025099423581,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,Georgia
+254,3,2:04,724,724,Foul on Caliya Robinson.,38,53,-15,0,0.04585869165986238,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+255,3,2:04,724,724,Haley Lorenzen made Free Throw.,38,54,-16,0,0.03777514416348413,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,Florida
+256,3,2:04,724,724,Haley Lorenzen missed Free Throw.,38,54,-16,0,0.03777514416348413,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+257,3,2:04,724,724,Caliya Robinson Defensive Rebound.,38,54,-16,20,0.03777514416348413,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+258,3,1:44,704,704,Simone Costa made Three Point Jumper. Assisted by Mackenzie Engram.,41,54,-13,20,0.06463025207796166,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,Georgia
+259,3,1:24,684,684,Brooke Copeland missed Three Point Jumper.,41,54,-13,0,0.0624172914246288,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+260,3,1:24,684,684,Stephanie Paul Defensive Rebound.,41,54,-13,21,0.0624172914246288,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+261,3,1:03,663,663,Pachis Roberts missed Three Point Jumper.,41,54,-13,0,0.060302658269763304,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+262,3,1:03,663,663,Pachis Roberts Offensive Rebound.,41,54,-13,26,0.060302658269763304,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+263,3,0:37,637,637,Mackenzie Engram missed Three Point Jumper.,41,54,-13,0,0.05774575507045845,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+264,3,0:37,637,637,Caliya Robinson Offensive Rebound.,41,54,-13,3,0.05774575507045845,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+265,3,0:34,634,634,Foul on Sydney Morang.,41,54,-13,0,0.05744387038850069,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+266,3,0:34,634,634,Caliya Robinson made Free Throw.,42,54,-12,0,0.07026846380193778,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,Georgia
+267,3,0:34,634,634,Caliya Robinson made Free Throw.,43,54,-11,25,0.08569589010448328,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,Georgia
+268,3,0:09,609,609,Delicia Washington missed Jumper.,43,54,-11,0,0.08242843165552115,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+269,3,0:09,609,609,Dyandria Anderson Offensive Rebound.,43,54,-11,3,0.08242843165552115,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+270,3,0:06,606,606,Dyandria Anderson missed Two Point Tip Shot.,43,54,-11,0,0.08200699677119916,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+271,3,0:06,606,606,Haley Lorenzen Offensive Rebound.,43,54,-11,0,0.08200699677119916,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+272,3,0:06,606,606,Foul on Caliya Robinson.,43,54,-11,0,0.08200699677119916,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+273,3,0:06,606,606,Haley Lorenzen made Free Throw.,43,55,-12,0,0.06692171058702386,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,Florida
+274,3,0:06,606,606,Haley Lorenzen made Free Throw.,43,56,-13,6,0.05444679644483942,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,Florida
+275,3,0:00,600,600,Stephanie Paul missed Three Point Jumper.,43,56,-13,0,0.05374768640643379,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+276,3,0:00,600,600,Georgia Offensive Rebound.,43,56,-13,0,0.05374768640643379,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+277,3,0:00,600,600,End of 3rd Quarter,43,56,-13,10,0.05374768640643379,Georgia,Florida,4,5,0,0,NA,400910949,2017-01-22,
+278,4,9:50,590,590,Stephanie Paul Turnover.,43,56,-13,1,0.05252596377375193,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+279,4,9:49,589,589,Brooke Copeland Steal.,43,56,-13,10,0.0523996373816477,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+280,4,9:39,579,579,Delicia Washington made Layup.,43,58,-15,0,0.03320856108263321,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,Florida
+281,4,9:39,579,579,Foul on Simone Costa.,43,58,-15,0,0.03320856108263321,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+282,4,9:39,579,579,Delicia Washington missed Free Throw.,43,58,-15,0,0.03320856108263321,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+283,4,9:39,579,579,Halle Washington Defensive Rebound.,43,58,-15,16,0.03320856108263321,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+284,4,9:23,563,563,Stephanie Paul Turnover.,43,58,-15,1,0.03148033013374079,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+285,4,9:22,562,562,Dyandria Anderson Steal.,43,58,-15,2,0.031367000336975266,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+286,4,9:20,560,560,Foul on Stephanie Paul.,43,58,-15,0,0.031138442382204583,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+287,4,9:20,560,560,Dyandria Anderson made Free Throw.,43,59,-16,0,0.024919797534064557,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,Florida
+288,4,9:20,560,560,Dyandria Anderson missed Free Throw.,43,59,-16,0,0.024919797534064557,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+289,4,9:20,560,560,Stephanie Paul Defensive Rebound.,43,59,-16,10,0.024919797534064557,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+290,4,9:10,550,550,Halle Washington missed Jumper.,43,59,-16,0,0.023906917611176737,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+291,4,9:10,550,550,Brooke Copeland Defensive Rebound.,43,59,-16,2,0.023906917611176737,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+292,4,9:08,548,548,Foul on Pachis Roberts.,43,59,-16,8,0.02370269854982158,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+293,4,9:00,540,540,Delicia Washington Turnover.,43,59,-16,18,0.022948691082230663,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+294,4,8:42,522,522,Pachis Roberts missed Three Point Jumper.,43,59,-16,0,0.02153129271089879,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+295,4,8:42,522,522,Georgia Offensive Rebound.,43,59,-16,7,0.02153129271089879,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+296,4,8:35,515,515,Foul on Delicia Washington.,43,59,-16,4,0.02105006441125565,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+297,4,8:31,511,511,Stephanie Paul Turnover.,43,59,-16,2,0.020785968067925695,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+298,4,8:29,509,509,Haley Lorenzen Steal.,43,59,-16,18,0.020656147024064014,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+299,4,8:11,491,491,Foul on Stephanie Paul.,43,59,-16,0,0.019517022468815894,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+300,4,8:11,491,491,Delicia Washington made Free Throw.,43,60,-17,0,0.01534418402461,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,Florida
+301,4,8:11,491,491,Delicia Washington missed Free Throw.,43,60,-17,0,0.01534418402461,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+302,4,8:11,491,491,Georgia Defensive Rebound.,43,60,-17,12,0.01534418402461,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+303,4,7:59,479,479,Foul on Tyshara Fleming.,43,60,-17,0,0.014695011669994283,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+304,4,7:59,479,479,Pachis Roberts made Free Throw.,44,60,-16,0,0.018742079134503303,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,Georgia
+305,4,7:59,479,479,Pachis Roberts made Free Throw.,45,60,-15,9,0.023876716451339736,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,Georgia
+306,4,7:50,470,470,Haley Lorenzen missed Three Point Jumper.,45,60,-15,0,0.0231461948089665,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+307,4,7:50,470,470,Haley Clark Defensive Rebound.,45,60,-15,6,0.0231461948089665,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+308,4,7:44,464,464,Foul on Dyandria Anderson.,45,60,-15,0,0.022631532373994522,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+309,4,7:44,464,464,Pachis Roberts made Free Throw.,46,60,-14,0,0.028902889130224953,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,Georgia
+310,4,7:44,464,464,Pachis Roberts made Free Throw.,47,60,-13,10,0.03684656688308778,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,Georgia
+311,4,7:34,454,454,Tyshara Fleming Turnover.,47,60,-13,1,0.0355663555135942,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+312,4,7:33,453,453,Haley Clark Steal.,47,60,-13,4,0.03543152505573638,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+313,4,7:29,449,449,Foul on Dyandria Anderson.,47,60,-13,6,0.034878936213448626,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+314,4,7:23,443,443,Halle Washington missed Jumper.,47,60,-13,0,0.03400867835209016,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+315,4,7:23,443,443,Stephanie Paul Offensive Rebound.,47,60,-13,3,0.03400867835209016,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+316,4,7:20,440,440,Stephanie Paul made Two Point Tip Shot.,49,60,-11,26,0.05501995359465344,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,Georgia
+317,4,6:54,414,414,Brooke Copeland missed Three Point Jumper.,49,60,-11,0,0.04943793501595759,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+318,4,6:54,414,414,Stephanie Paul Block.,49,60,-11,1,0.04943793501595759,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+319,4,6:53,413,413,Pachis Roberts Defensive Rebound.,49,60,-11,0,0.049243118781744484,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+320,4,6:53,413,413,Foul on Brooke Copeland.,49,60,-11,0,0.049243118781744484,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+321,4,6:53,413,413,Pachis Roberts made Free Throw.,50,60,-10,0,0.06348550388999485,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,Georgia
+322,4,6:53,413,413,Pachis Roberts made Free Throw.,51,60,-9,15,0.08149407287529722,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,Georgia
+323,4,6:38,398,398,Delicia Washington missed Jumper.,51,60,-9,0,0.0778505169234343,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+324,4,6:38,398,398,Delicia Washington Offensive Rebound.,51,60,-9,4,0.0778505169234343,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+325,4,6:34,394,394,Delicia Washington missed Jumper.,51,60,-9,0,0.07691672016231227,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+326,4,6:34,394,394,Halle Washington Block.,51,60,-9,1,0.07691672016231227,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+327,4,6:33,393,393,Halle Washington Defensive Rebound.,51,60,-9,3,0.07668461864275135,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,
+328,4,6:30,390,390,Pachis Roberts made Layup. Assisted by Haley Clark.,53,60,-7,4,0.12532112835127454,Georgia,Florida,5,6,0,0,NA,400910949,2017-01-22,Georgia
+329,4,6:26,386,386,Florida  Timeout,53,60,-7,9,0.12419889592067357,Georgia,Florida,4,6,1,0,NA,400910949,2017-01-22,
+330,4,6:17,377,377,Sydney Morang missed Three Point Jumper.,53,60,-7,0,0.12165113811637088,Georgia,Florida,4,6,1,0,NA,400910949,2017-01-22,
+331,4,6:17,377,377,Pachis Roberts Defensive Rebound.,53,60,-7,8,0.12165113811637088,Georgia,Florida,4,6,1,0,NA,400910949,2017-01-22,
+332,4,6:09,369,369,Mackenzie Engram made Jumper. Assisted by Pachis Roberts.,55,60,-5,20,0.1934530444210444,Georgia,Florida,4,6,1,0,NA,400910949,2017-01-22,Georgia
+333,4,5:49,349,349,Delicia Washington missed Jumper.,55,60,-5,0,0.1867367942062028,Georgia,Florida,4,6,1,0,NA,400910949,2017-01-22,
+334,4,5:49,349,349,Haley Clark Defensive Rebound.,55,60,-5,17,0.1867367942062028,Georgia,Florida,4,6,1,0,NA,400910949,2017-01-22,
+335,4,5:32,332,332,Foul on Haley Lorenzen.,55,60,-5,0,0.18007654703234363,Georgia,Florida,4,6,1,0,NA,400910949,2017-01-22,
+336,4,5:32,332,332,Mackenzie Engram made Free Throw.,56,60,-4,0,0.22923017272426063,Georgia,Florida,4,6,1,0,NA,400910949,2017-01-22,Georgia
+337,4,5:32,332,332,Mackenzie Engram made Free Throw.,57,60,-3,14,0.28710270017405437,Georgia,Florida,4,6,1,0,NA,400910949,2017-01-22,Georgia
+338,4,5:18,318,318,Haley Lorenzen made Jumper.,57,62,-5,16,0.17373079640874606,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,Florida
+339,4,5:02,302,302,Pachis Roberts made Jumper. Assisted by Stephanie Paul.,59,62,-3,22,0.27558956177523725,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,Georgia
+340,4,4:40,280,280,Dyandria Anderson missed Layup.,59,62,-3,0,0.2743863904750564,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,
+341,4,4:40,280,280,Halle Washington Block.,59,62,-3,0,0.2743863904750564,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,
+342,4,4:40,280,280,Georgia Defensive Rebound.,59,62,-3,0,0.2743863904750564,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,
+343,4,4:40,280,280,Official TV Timeout,59,62,-3,21,0.2743863904750564,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,
+344,4,4:19,259,259,Foul on Tyshara Fleming.,59,62,-3,0,0.2777477490331853,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,
+345,4,4:19,259,259,Pachis Roberts made Free Throw.,60,62,-2,0,0.3459007031631388,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,Georgia
+346,4,4:19,259,259,Pachis Roberts made Free Throw.,61,62,-1,19,0.42102826004592814,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,Georgia
+347,4,4:00,240,240,Brooke Copeland made Three Point Jumper. Assisted by Sydney Morang.,61,65,-4,32,0.22141695499189876,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,Florida
+348,4,3:28,208,208,Haley Clark Turnover.,61,65,-4,0,0.212720991808339,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,
+349,4,3:28,208,208,Foul on Haley Clark.,61,65,-4,12,0.212720991808339,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,
+350,4,3:16,196,196,Brooke Copeland missed Three Point Jumper.,61,65,-4,0,0.20199773858922518,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,
+351,4,3:16,196,196,Pachis Roberts Defensive Rebound.,61,65,-4,3,0.20199773858922518,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,
+352,4,3:13,193,193,Foul on Haley Lorenzen.,61,65,-4,0,0.19854886003835184,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,
+353,4,3:13,193,193,Pachis Roberts missed Free Throw.,61,65,-4,0,0.19854886003835184,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,
+354,4,3:13,193,193,Georgia Deadball Team Rebound.,61,65,-4,0,0.19854886003835184,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,
+355,4,3:13,193,193,Pachis Roberts made Free Throw.,62,65,-3,9,0.25988976230535643,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,Georgia
+356,4,3:04,184,184,Ronni Williams made Jumper. Assisted by Dyandria Anderson.,62,67,-5,18,0.13744645206527548,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,Florida
+357,4,2:46,166,166,Pachis Roberts made Three Point Jumper. Assisted by Simone Costa.,65,67,-2,18,0.30739105908607134,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,Georgia
+358,4,2:28,148,148,Ronni Williams missed Jumper.,65,67,-2,0,0.2893966091477934,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,
+359,4,2:28,148,148,Stephanie Paul Defensive Rebound.,65,67,-2,15,0.2893966091477934,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,
+360,4,2:13,133,133,Mackenzie Engram missed Jumper.,65,67,-2,0,0.2727907666043234,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,
+361,4,2:13,133,133,Ronni Williams Defensive Rebound.,65,67,-2,23,0.2727907666043234,Georgia,Florida,4,6,0,0,NA,400910949,2017-01-22,
+362,4,1:50,110,110,Florida  Timeout,65,67,-2,3,0.24354545775906564,Georgia,Florida,3,6,1,0,NA,400910949,2017-01-22,
+363,4,1:47,107,107,Delicia Washington made Jumper.,65,69,-4,16,0.0901013548462596,Georgia,Florida,3,6,1,0,NA,400910949,2017-01-22,Florida
+364,4,1:31,91,91,Simone Costa made Three Point Jumper. Assisted by Halle Washington.,68,69,-1,33,0.3440041863322106,Georgia,Florida,3,6,1,0,NA,400910949,2017-01-22,Georgia
+365,4,0:58,58,58,Brooke Copeland missed Three Point Jumper.,68,69,-1,0,0.30842720583430067,Georgia,Florida,3,6,1,0,NA,400910949,2017-01-22,
+366,4,0:58,58,58,Ronni Williams Offensive Rebound.,68,69,-1,2,0.30842720583430067,Georgia,Florida,3,6,1,0,NA,400910949,2017-01-22,
+367,4,0:56,56,56,Ronni Williams made Layup.,68,71,-3,11,0.07907392617689209,Georgia,Florida,3,6,1,0,NA,400910949,2017-01-22,Florida
+368,4,0:45,45,45,Pachis Roberts missed Layup.,68,71,-3,0,0.06655704455478731,Georgia,Florida,3,6,0,0,NA,400910949,2017-01-22,
+369,4,0:45,45,45,Haley Lorenzen Defensive Rebound.,68,71,-3,5,0.06655704455478731,Georgia,Florida,3,6,0,0,NA,400910949,2017-01-22,
+370,4,0:40,40,40,Florida  Timeout,68,71,-3,3,0.06125403944911376,Georgia,Florida,2,6,1,0,NA,400910949,2017-01-22,
+371,4,0:37,37,37,Foul on Halle Washington.,68,71,-3,0,0.058197772165053605,Georgia,Florida,2,6,1,1,NA,400910949,2017-01-22,
+372,4,0:37,37,37,Dyandria Anderson made Free Throw.,68,72,-4,0,0.023847697012888667,Georgia,Florida,2,6,1,1,NA,400910949,2017-01-22,Florida
+373,4,0:37,37,37,Ronni Williams Turnover.,68,72,-4,0,0.023847697012888667,Georgia,Florida,2,6,1,1,NA,400910949,2017-01-22,
+374,4,0:37,37,37,Georgia  Timeout,68,72,-4,14,0.023847697012888667,Georgia,Florida,2,5,1,1,NA,400910949,2017-01-22,
+375,4,0:23,23,23,Simone Costa missed Jumper.,68,72,-4,0,0.01689182188116198,Georgia,Florida,2,5,1,1,NA,400910949,2017-01-22,
+376,4,0:23,23,23,Haley Lorenzen Block.,68,72,-4,2,0.01689182188116198,Georgia,Florida,2,5,1,1,NA,400910949,2017-01-22,
+377,4,0:21,21,21,Halle Washington Offensive Rebound.,68,72,-4,2,0.016049256467977793,Georgia,Florida,2,5,1,1,NA,400910949,2017-01-22,
+378,4,0:19,19,19,Georgia  Timeout,68,72,-4,5,0.015235341616680557,Georgia,Florida,2,4,1,1,NA,400910949,2017-01-22,
+379,4,0:14,14,14,Stephanie Paul Turnover.,68,72,-4,1,0.013329460440830233,Georgia,Florida,2,4,1,1,NA,400910949,2017-01-22,
+380,4,0:13,13,13,Ronni Williams Steal.,68,72,-4,0,0.012970672914026048,Georgia,Florida,2,4,1,1,NA,400910949,2017-01-22,
+381,4,0:13,13,13,Foul on Pachis Roberts.,68,72,-4,0,0.012970672914026048,Georgia,Florida,2,4,1,1,NA,400910949,2017-01-22,
+382,4,0:13,13,13,Ronni Williams made Free Throw.,68,73,-5,0,0.004429579985048784,Georgia,Florida,2,4,1,1,NA,400910949,2017-01-22,Florida
+383,4,0:13,13,13,Ronni Williams made Free Throw.,68,74,-6,0,0.0015041631152611743,Georgia,Florida,2,4,1,1,NA,400910949,2017-01-22,Florida
+384,4,0:13,13,13,Georgia  Timeout,68,74,-6,4,0.0015041631152611743,Georgia,Florida,2,3,1,1,NA,400910949,2017-01-22,
+385,4,0:09,9,9,Shanea Armbrister missed Three Point Jumper.,68,74,-6,0,0.0012715032527373625,Georgia,Florida,2,3,1,1,NA,400910949,2017-01-22,
+386,4,0:09,9,9,Ronni Williams Defensive Rebound.,68,74,-6,2,0.0012715032527373625,Georgia,Florida,2,3,1,1,NA,400910949,2017-01-22,
+387,4,0:07,7,7,Foul on Stephanie Paul.,68,74,-6,0,0.0011675063603289724,Georgia,Florida,2,3,1,1,NA,400910949,2017-01-22,
+388,4,0:07,7,7,Ronni Williams made Free Throw.,68,75,-7,0,3.7922442266265113e-4,Georgia,Florida,2,3,1,1,NA,400910949,2017-01-22,Florida
+389,4,0:07,7,7,Ronni Williams made Free Throw.,68,76,-8,7,1.2311245365010233e-4,Georgia,Florida,2,3,1,1,NA,400910949,2017-01-22,Florida
+390,4,0:00,0,0,Simone Costa missed Jumper.,68,76,-8,0,3.257488532207521e-70,Georgia,Florida,2,3,1,1,NA,400910949,2017-01-22,
+391,4,0:00,0,0,Haley Lorenzen Defensive Rebound.,68,76,-8,0,3.257488532207521e-70,Georgia,Florida,2,3,1,1,NA,400910949,2017-01-22,
+392,4,0:00,0,0,End of Game,68,76,-8,0,3.257488532207521e-70,Georgia,Florida,2,3,1,1,NA,400910949,2017-01-22,

@@ -1,0 +1,350 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:55,2395,2395,Foul on Danielle Williams.,0,0,0,0,0.5,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,NA
+2,1,9:55,2395,2395,Danielle Williams Turnover.,0,0,0,17,0.5,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+3,1,9:38,2378,2378,Tiffany Corselli missed Three Point Jumper.,0,0,0,4,0.5,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+4,1,9:34,2374,2374,Kaylee Stroemple Offensive Rebound.,0,0,0,1,0.5,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+5,1,9:33,2373,2373,Kaylee Stroemple made Layup.,0,2,-2,7,0.4554032958067534,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,Niagara
+6,1,9:26,2366,2366,Katelynn Flaherty Turnover.,0,2,-2,0,0.4552536897122488,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+7,1,9:26,2366,2366,Tiffany Corselli Steal.,0,2,-2,14,0.4552536897122488,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+8,1,9:12,2352,2352,Kaylee Stroemple Turnover.,0,2,-2,13,0.4549524799339148,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+9,1,8:59,2339,2339,Hallie Thome missed Layup.,0,2,-2,0,0.4546705050603555,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+10,1,8:59,2339,2339,Victoria Rampado Block.,0,2,-2,3,0.4546705050603555,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+11,1,8:56,2336,2336,Maggie McIntyre Defensive Rebound.,0,2,-2,0,0.4546051347726533,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+12,1,8:56,2336,2336,Maggie McIntyre Turnover.,0,2,-2,8,0.4546051347726533,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+13,1,8:48,2328,2328,Foul on Morgan Baughman.,0,2,-2,2,0.4544302840785048,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+14,1,8:46,2326,2326,Jillian Dunston made Layup. Assisted by Siera Thompson.,2,2,0,17,0.5,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,Michigan
+15,1,8:29,2309,2309,Kaylee Stroemple Turnover.,2,2,0,0,0.5,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+16,1,8:29,2309,2309,Hallie Thome Steal.,2,2,0,6,0.5,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+17,1,8:23,2303,2303,Siera Thompson missed Three Point Jumper.,2,2,0,3,0.5,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+18,1,8:20,2300,2300,Michigan Offensive Rebound.,2,2,0,0,0.5,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+19,1,8:20,2300,2300,Hallie Thome missed Jumper.,2,2,0,3,0.5,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+20,1,8:17,2297,2297,Hallie Thome Offensive Rebound.,2,2,0,6,0.5,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+21,1,8:11,2291,2291,Hallie Thome made Layup. Assisted by Siera Thompson.,4,2,2,25,0.546387725577138,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,Michigan
+22,1,7:46,2266,2266,Victoria Rampado missed Layup.,4,2,2,2,0.5469481643120951,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+23,1,7:44,2264,2264,Hallie Thome Defensive Rebound.,4,2,2,5,0.5469932384002621,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+24,1,7:39,2259,2259,Danielle Williams missed Jumper.,4,2,2,3,0.5471060687074408,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+25,1,7:36,2256,2256,Tiffany Corselli Defensive Rebound.,4,2,2,13,0.5471738642773869,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+26,1,7:23,2243,2243,Victoria Rampado missed Layup.,4,2,2,0,0.5474684508315749,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+27,1,7:23,2243,2243,Hallie Thome Block.,4,2,2,3,0.5474684508315749,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+28,1,7:20,2240,2240,Jillian Dunston Defensive Rebound.,4,2,2,9,0.5475366103001577,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,
+29,1,7:11,2231,2231,Hallie Thome made Layup. Assisted by Jillian Dunston.,6,2,4,1,0.5946202787906535,Michigan,Niagara,4,4,0,0,NA,400913694,2016-11-13,Michigan
+30,1,7:10,2230,2230,Niagara  Timeout,6,2,4,5,0.5946646408323303,Michigan,Niagara,4,3,0,1,NA,400913694,2016-11-13,
+31,1,7:05,2225,2225,Victoria Rampado Turnover.,6,2,4,9,0.5948866230282157,Michigan,Niagara,4,3,0,1,NA,400913694,2016-11-13,
+32,1,6:56,2216,2216,Katelynn Flaherty missed Three Point Jumper.,6,2,4,3,0.5952868806785487,Michigan,Niagara,4,3,0,1,NA,400913694,2016-11-13,
+33,1,6:53,2213,2213,Hallie Thome Offensive Rebound.,6,2,4,1,0.5954204863854143,Michigan,Niagara,4,3,0,1,NA,400913694,2016-11-13,
+34,1,6:52,2212,2212,Hallie Thome made Layup.,8,2,6,12,0.6410459580817187,Michigan,Niagara,4,3,0,1,NA,400913694,2016-11-13,Michigan
+35,1,6:40,2200,2200,Foul on Siera Thompson.,8,2,6,0,0.6418129054749615,Michigan,Niagara,4,3,0,1,NA,400913694,2016-11-13,
+36,1,6:40,2200,2200,Tiffany Corselli Turnover.,8,2,6,15,0.6418129054749615,Michigan,Niagara,4,3,0,1,NA,400913694,2016-11-13,
+37,1,6:25,2185,2185,Katelynn Flaherty made Three Point Jumper. Assisted by Siera Thompson.,11,2,9,23,0.7070570172304143,Michigan,Niagara,4,3,0,1,NA,400913694,2016-11-13,Michigan
+38,1,6:02,2162,2162,Tiffany Corselli missed Jumper.,11,2,9,4,0.7090522370383883,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+39,1,5:58,2158,2158,Hallie Thome Defensive Rebound.,11,2,9,23,0.70939967897369,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+40,1,5:35,2135,2135,Jillian Dunston missed Layup.,11,2,9,0,0.711402029127105,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+41,1,5:35,2135,2135,Victoria Rampado Block.,11,2,9,15,0.711402029127105,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+42,1,5:20,2120,2120,Siera Thompson Offensive Rebound.,11,2,9,2,0.7127125196173028,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+43,1,5:18,2118,2118,Siera Thompson made Jumper.,13,2,11,10,0.7524179085845818,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+44,1,5:08,2108,2108,Foul on Jillian Dunston.,13,2,11,0,0.7533922548732834,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+45,1,5:08,2108,2108,Kaylee Stroemple made Free Throw.,13,3,10,0,0.7340484576813773,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Niagara
+46,1,5:08,2108,2108,Kaylee Stroemple missed Free Throw.,13,3,10,2,0.7340484576813773,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+47,1,5:06,2106,2106,Jillian Dunston Defensive Rebound.,13,3,10,12,0.7342347603423329,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+48,1,4:54,2094,2094,Katelynn Flaherty made Layup.,15,3,12,26,0.773179260499241,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+49,1,4:28,2068,2068,Foul on Danielle Williams.,15,3,12,0,0.7758086591847869,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+50,1,4:28,2068,2068,Kaylee Stroemple made Free Throw.,15,4,11,0,0.757304073543417,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Niagara
+51,1,4:28,2068,2068,Kaylee Stroemple missed Free Throw.,15,4,11,2,0.757304073543417,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+52,1,4:26,2066,2066,Jillian Dunston Defensive Rebound.,15,4,11,8,0.7575003454854004,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+53,1,4:18,2058,2058,Boogie Brozoski made Jumper. Assisted by Kysre Gondrezick.,17,4,13,21,0.7943224906028262,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+54,1,3:57,2037,2037,Victoria Rampado made Layup.,17,6,11,9,0.7603546344741351,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Niagara
+55,1,3:48,2028,2028,Katelynn Flaherty missed Three Point Jumper.,17,6,11,3,0.7612438421765092,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+56,1,3:45,2025,2025,Victoria Rampado Defensive Rebound.,17,6,11,15,0.7615406251618538,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+57,1,3:30,2010,2010,Victoria Rampado missed Layup.,17,6,11,1,0.7630275046867906,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+58,1,3:29,2009,2009,Hallie Thome Defensive Rebound.,17,6,11,7,0.7631268102539747,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+59,1,3:22,2002,2002,Katelynn Flaherty missed Jumper.,17,6,11,1,0.7638225993342087,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+60,1,3:21,2001,2001,Niagara Defensive Rebound.,17,6,11,8,0.7639220917064271,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+61,1,3:13,1993,1993,Foul on Dagny Davidsdottir.,17,6,11,0,0.7647188928762518,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+62,1,3:13,1993,1993,Dagny Davidsdottir Turnover.,17,6,11,12,0.7647188928762518,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+63,1,3:01,1981,1981,Jillian Dunston made Layup. Assisted by Katelynn Flaherty.,19,6,13,22,0.8023306699512417,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+64,1,2:39,1959,1959,Dagny Davidsdottir Turnover.,19,6,13,5,0.804634509254273,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+65,1,2:34,1954,1954,Boogie Brozoski made Layup. Assisted by Kysre Gondrezick.,21,6,15,1,0.8371458670063082,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+66,1,2:33,1953,1953,Niagara  Timeout,21,6,15,12,0.8372511530959104,Michigan,Niagara,4,2,0,1,NA,400913694,2016-11-13,
+67,1,2:21,1941,1941,Victoria Rampado made Layup. Assisted by Morgan Baughman.,21,8,13,5,0.8065257482185975,Michigan,Niagara,4,2,0,1,NA,400913694,2016-11-13,Niagara
+68,1,2:16,1936,1936,Foul on Dagny Davidsdottir.,21,8,13,5,0.8070521541573058,Michigan,Niagara,4,2,0,1,NA,400913694,2016-11-13,
+69,1,2:11,1931,1931,Hallie Thome made Layup.,23,8,15,16,0.839569106057374,Michigan,Niagara,4,2,0,1,NA,400913694,2016-11-13,Michigan
+70,1,1:55,1915,1915,Kaylee Stroemple Turnover.,23,8,15,0,0.8412479142034561,Michigan,Niagara,4,2,0,1,NA,400913694,2016-11-13,
+71,1,1:55,1915,1915,Nicole Munger Steal.,23,8,15,3,0.8412479142034561,Michigan,Niagara,4,2,0,1,NA,400913694,2016-11-13,
+72,1,1:52,1912,1912,Kysre Gondrezick made Layup.,25,8,17,0,0.8690446556861924,Michigan,Niagara,4,2,0,1,NA,400913694,2016-11-13,Michigan
+73,1,1:52,1912,1912,Foul on Tiffany Corselli.,25,8,17,0,0.8690446556861924,Michigan,Niagara,4,2,0,1,NA,400913694,2016-11-13,
+74,1,1:52,1912,1912,Kysre Gondrezick missed Free Throw.,25,8,17,3,0.8690446556861924,Michigan,Niagara,4,2,0,1,NA,400913694,2016-11-13,
+75,1,1:49,1909,1909,Kaylee Stroemple Defensive Rebound.,25,8,17,15,0.8693465991516877,Michigan,Niagara,4,2,0,1,NA,400913694,2016-11-13,
+76,1,1:34,1894,1894,Tiffany Corselli missed Jumper.,25,8,17,2,0.8708467599001452,Michigan,Niagara,4,2,0,1,NA,400913694,2016-11-13,
+77,1,1:32,1892,1892,Boogie Brozoski Defensive Rebound.,25,8,17,0,0.8710456493663471,Michigan,Niagara,4,2,0,0,NA,400913694,2016-11-13,
+78,1,1:32,1892,1892,Foul on Kharysma Bryant.,25,8,17,0,0.8710456493663471,Michigan,Niagara,4,2,0,0,NA,400913694,2016-11-13,
+79,1,1:32,1892,1892,Boogie Brozoski made Free Throw.,26,8,18,0,0.883149869251985,Michigan,Niagara,4,2,0,0,NA,400913694,2016-11-13,Michigan
+80,1,1:32,1892,1892,Boogie Brozoski made Free Throw.,27,8,19,14,0.8942558622458892,Michigan,Niagara,4,2,0,0,NA,400913694,2016-11-13,Michigan
+81,1,1:18,1878,1878,Jai Moore missed Jumper.,27,8,19,3,0.8955583482241681,Michigan,Niagara,4,2,0,0,NA,400913694,2016-11-13,
+82,1,1:15,1875,1875,Boogie Brozoski Defensive Rebound.,27,8,19,6,0.8958358094472739,Michigan,Niagara,4,2,0,0,NA,400913694,2016-11-13,
+83,1,1:09,1869,1869,Nicole Munger Turnover.,27,8,19,15,0.896389110455924,Michigan,Niagara,4,2,0,0,NA,400913694,2016-11-13,
+84,1,0:54,1854,1854,Kaylee Stroemple made Jumper. Assisted by Carolyn Cosey.,27,10,17,18,0.8747824166828322,Michigan,Niagara,4,2,0,0,NA,400913694,2016-11-13,Niagara
+85,1,0:36,1836,1836,Maria Backman Turnover.,27,10,17,11,0.8765301781964463,Michigan,Niagara,4,2,0,0,NA,400913694,2016-11-13,
+86,1,0:25,1825,1825,Jai Moore missed Layup.,27,10,17,1,0.8775931761589749,Michigan,Niagara,4,2,0,0,NA,400913694,2016-11-13,
+87,1,0:24,1824,1824,Boogie Brozoski Defensive Rebound.,27,10,17,0,0.8776896530203865,Michigan,Niagara,4,2,0,0,NA,400913694,2016-11-13,
+88,1,0:24,1824,1824,Foul on Tiffany Corselli.,27,10,17,0,0.8776896530203865,Michigan,Niagara,4,2,0,0,NA,400913694,2016-11-13,
+89,1,0:24,1824,1824,Boogie Brozoski made Free Throw.,28,10,18,0,0.889599509558934,Michigan,Niagara,4,2,0,0,NA,400913694,2016-11-13,Michigan
+90,1,0:24,1824,1824,Boogie Brozoski made Free Throw.,29,10,19,7,0.9004811513788264,Michigan,Niagara,4,2,0,0,NA,400913694,2016-11-13,Michigan
+91,1,0:17,1817,1817,Foul on Maria Backman.,29,10,19,0,0.9011103546275747,Michigan,Niagara,4,2,0,0,NA,400913694,2016-11-13,
+92,1,0:17,1817,1817,Victoria Rampado made Free Throw.,29,11,18,0,0.8902529279130252,Michigan,Niagara,4,2,0,0,NA,400913694,2016-11-13,Niagara
+93,1,0:17,1817,1817,Victoria Rampado made Free Throw.,29,12,17,13,0.8783643388818231,Michigan,Niagara,4,2,0,0,NA,400913694,2016-11-13,Niagara
+94,1,0:04,1804,1804,Kysre Gondrezick Turnover.,29,12,17,4,0.8796147566790075,Michigan,Niagara,4,2,0,0,NA,400913694,2016-11-13,
+95,1,0:00,1800,1800,End of 1st Quarter,29,12,17,23,0.8799989626675139,Michigan,Niagara,4,2,0,0,NA,400913694,2016-11-13,
+96,2,9:37,1777,1777,Tiffany Corselli made Three Point Jumper. Assisted by Victoria Rampado.,29,15,14,18,0.8399909171825889,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Niagara
+97,2,9:19,1759,1759,Foul on Morgan Baughman.,29,15,14,8,0.8418320899499783,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+98,2,9:11,1751,1751,Danielle Williams made Jumper. Assisted by Katelynn Flaherty.,31,15,16,20,0.8718962297438637,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+99,2,8:51,1731,1731,Morgan Baughman missed Layup.,31,15,16,2,0.8738777501578485,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+100,2,8:49,1729,1729,Jillian Dunston Defensive Rebound.,31,15,16,14,0.8740763774899905,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+101,2,8:35,1715,1715,Foul on Maggie McIntyre.,31,15,16,0,0.8754697179230065,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+102,2,8:35,1715,1715,Katelynn Flaherty made Free Throw.,32,15,17,0,0.8881617131065844,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+103,2,8:35,1715,1715,Katelynn Flaherty made Free Throw.,33,15,18,9,0.8997083399670129,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+104,2,8:26,1706,1706,Tiffany Corselli Turnover.,33,15,18,14,0.9005446841863981,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+105,2,8:12,1692,1692,Danielle Williams Turnover.,33,15,18,29,0.9018486882667578,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+106,2,7:43,1663,1663,Kaylee Stroemple missed Jumper.,33,15,18,3,0.9044779834880615,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+107,2,7:40,1660,1660,Hallie Thome Defensive Rebound.,33,15,18,15,0.9047407764301246,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+108,2,7:25,1645,1645,Siera Thompson missed Three Point Jumper.,33,15,18,3,0.9060329926306702,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+109,2,7:22,1642,1642,Hallie Thome Offensive Rebound.,33,15,18,1,0.9062874543979104,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+110,2,7:21,1641,1641,Katelynn Flaherty missed Three Point Jumper.,33,15,18,2,0.9063720043275699,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+111,2,7:19,1639,1639,Niagara Deadball Team Rebound.,33,15,18,0,0.9065407095074639,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+112,2,7:19,1639,1639,Foul on Jillian Dunston.,33,15,18,20,0.9065407095074639,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+113,2,6:59,1619,1619,Carolyn Cosey Turnover.,33,15,18,22,0.908201935080673,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+114,2,6:37,1597,1597,Siera Thompson made Three Point Jumper. Assisted by Katelynn Flaherty.,36,15,21,13,0.9369710171948793,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+115,2,6:24,1584,1584,Maggie McIntyre Turnover.,36,15,21,0,0.9378457736458465,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+116,2,6:24,1584,1584,Kysre Gondrezick Steal.,36,15,21,2,0.9378457736458465,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+117,2,6:22,1582,1582,Kysre Gondrezick made Layup.,38,15,23,0,0.9514298924844661,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+118,2,6:22,1582,1582,Foul on Carolyn Cosey.,38,15,23,0,0.9514298924844661,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+119,2,6:22,1582,1582,Kysre Gondrezick made Free Throw.,39,15,24,11,0.9570699206857273,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+120,2,6:11,1571,1571,Jai Moore Turnover.,39,15,24,0,0.9576616233441418,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+121,2,6:11,1571,1571,Kysre Gondrezick Steal.,39,15,24,3,0.9576616233441418,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+122,2,6:08,1568,1568,Kysre Gondrezick made Layup.,41,15,26,23,0.9671690464826713,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+123,2,5:45,1545,1545,Dagny Davidsdottir missed Jumper.,41,15,26,3,0.9682111071930848,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+124,2,5:42,1542,1542,Siera Thompson Defensive Rebound.,41,15,26,5,0.9683464108648344,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+125,2,5:37,1537,1537,Foul on Victoria Rampado.,41,15,26,0,0.9685717583859029,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+126,2,5:37,1537,1537,Michigan Deadball Team Rebound.,41,15,26,0,0.9685717583859029,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+127,2,5:37,1537,1537,Kayla Robbins missed Free Throw.,41,15,26,0,0.9685717583859029,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+128,2,5:37,1537,1537,Kayla Robbins made Free Throw.,42,15,27,17,0.9723466707898468,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+129,2,5:20,1520,1520,Tiffany Corselli missed Three Point Jumper.,42,15,27,3,0.9730487446138676,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+130,2,5:17,1517,1517,Tiffany Corselli Offensive Rebound.,42,15,27,2,0.9731726575710984,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+131,2,5:15,1515,1515,Jai Moore missed Jumper.,42,15,27,2,0.9732552906621852,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+132,2,5:13,1513,1513,Kayla Robbins Defensive Rebound.,42,15,27,8,0.9733379485478737,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+133,2,5:05,1505,1505,Katelynn Flaherty made Three Point Jumper. Assisted by Kysre Gondrezick.,45,15,30,27,0.9822152291881134,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+134,2,4:38,1478,1478,Foul on Katelynn Flaherty.,45,15,30,0,0.9830637411745531,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+135,2,4:38,1478,1478,Official TV Timeout,45,15,30,19,0.9830637411745531,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+136,2,4:19,1459,1459,Maggie McIntyre Turnover.,45,15,30,0,0.9836653343852818,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+137,2,4:19,1459,1459,Kayla Robbins Steal.,45,15,30,13,0.9836653343852818,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+138,2,4:06,1446,1446,Kysre Gondrezick made Three Point Jumper. Assisted by Nicole Munger.,48,15,33,21,0.9894023275284369,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+139,2,3:45,1425,1425,Foul on Victoria Rampado.,48,15,33,0,0.9898671474760912,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+140,2,3:45,1425,1425,Victoria Rampado Turnover.,48,15,33,23,0.9898671474760912,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+141,2,3:22,1402,1402,Kayla Robbins made Layup. Assisted by Boogie Brozoski.,50,15,35,19,0.9926830537107478,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+142,2,3:03,1383,1383,Jai Moore Turnover.,50,15,35,6,0.9929749183728894,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+143,2,2:57,1377,1377,Kysre Gondrezick missed Three Point Jumper.,50,15,35,3,0.99306403933344,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+144,2,2:54,1374,1374,Tiffany Corselli Defensive Rebound.,50,15,35,16,0.993108125887298,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+145,2,2:38,1358,1358,Foul on Boogie Brozoski.,50,15,35,5,0.9933386074073401,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+146,2,2:33,1353,1353,Tiffany Corselli missed Three Point Jumper.,50,15,35,3,0.9934092436807499,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+147,2,2:30,1350,1350,Boogie Brozoski Defensive Rebound.,50,15,35,5,0.9934513546829371,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+148,2,2:25,1345,1345,Kayla Robbins missed Layup.,50,15,35,2,0.9935211282367412,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+149,2,2:23,1343,1343,Jai Moore Defensive Rebound.,50,15,35,3,0.9935489040450686,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+150,2,2:20,1340,1340,Tiffany Corselli Turnover.,50,15,35,6,0.9935904354379393,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+151,2,2:14,1334,1334,Boogie Brozoski missed Three Point Jumper.,50,15,35,3,0.9936730633482609,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+152,2,2:11,1331,1331,Kayla Robbins Offensive Rebound.,50,15,35,0,0.9937141818087943,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+153,2,2:11,1331,1331,Kayla Robbins missed Layup.,50,15,35,2,0.9937141818087943,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+154,2,2:09,1329,1329,Kayla Robbins Offensive Rebound.,50,15,35,1,0.9937415289314945,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+155,2,2:08,1328,1328,Kayla Robbins missed Layup.,50,15,35,2,0.9937551840873543,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+156,2,2:06,1326,1326,Maria Backman Offensive Rebound.,50,15,35,1,0.9937824594693169,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+157,2,2:05,1325,1325,Foul on Kharysma Bryant.,50,15,35,0,0.9937960804374163,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+158,2,2:05,1325,1325,Michigan Deadball Team Rebound.,50,15,35,0,0.9937960804374163,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+159,2,2:05,1325,1325,Maria Backman missed Free Throw.,50,15,35,0,0.9937960804374163,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+160,2,2:05,1325,1325,Maria Backman made Free Throw.,51,15,36,17,0.994629179792239,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+161,2,1:48,1308,1308,Foul on Kayla Robbins.,51,15,36,0,0.994834226375081,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+162,2,1:48,1308,1308,Niagara Deadball Team Rebound.,51,15,36,0,0.994834226375081,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+163,2,1:48,1308,1308,Victoria Rampado missed Free Throw.,51,15,36,0,0.994834226375081,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+164,2,1:48,1308,1308,Victoria Rampado made Free Throw.,51,16,35,19,0.9940262910268858,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Niagara
+165,2,1:29,1289,1289,Maria Backman made Layup. Assisted by Kayla Robbins.,53,16,37,15,0.9957354864708302,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+166,2,1:14,1274,1274,Jai Moore made Jumper. Assisted by Tiffany Corselli.,53,18,35,17,0.9944836969457991,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Niagara
+167,2,0:57,1257,1257,Foul on Jai Moore.,53,18,35,0,0.9947133393675756,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+168,2,0:57,1257,1257,Michigan Deadball Team Rebound.,53,18,35,0,0.9947133393675756,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+169,2,0:57,1257,1257,Kysre Gondrezick missed Free Throw.,53,18,35,0,0.9947133393675756,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+170,2,0:57,1257,1257,Kysre Gondrezick made Free Throw.,54,18,36,7,0.995444726525789,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+171,2,0:50,1250,1250,Dagny Davidsdottir Turnover.,54,18,36,0,0.995529000771347,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+172,2,0:50,1250,1250,Boogie Brozoski Steal.,54,18,36,4,0.995529000771347,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+173,2,0:46,1246,1246,Kysre Gondrezick missed Layup.,54,18,36,0,0.9955772742516295,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+174,2,0:46,1246,1246,Dagny Davidsdottir Block.,54,18,36,2,0.9955772742516295,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+175,2,0:44,1244,1244,Dagny Davidsdottir Defensive Rebound.,54,18,36,5,0.9956014453055463,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+176,2,0:39,1239,1239,Foul on Carolyn Cosey.,54,18,36,0,0.9956619782640247,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+177,2,0:39,1239,1239,Carolyn Cosey Turnover.,54,18,36,24,0.9956619782640247,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+178,2,0:15,1215,1215,Kysre Gondrezick missed Three Point Jumper.,54,18,36,3,0.9959548329140184,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+179,2,0:12,1212,1212,Nicole Munger Offensive Rebound.,54,18,36,2,0.995991720659695,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+180,2,0:10,1210,1210,Nicole Munger made Layup.,56,18,38,10,0.9970656134271279,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,Michigan
+181,2,0:00,1200,1200,End of 2nd Quarter,56,18,38,13,0.9971589618037958,Michigan,Niagara,4,3,0,0,NA,400913694,2016-11-13,
+182,3,9:47,1187,1187,Katelynn Flaherty missed Three Point Jumper.,56,18,38,3,0.9972733504256251,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+183,3,9:44,1184,1184,Maggie McIntyre Defensive Rebound.,56,18,38,4,0.9972987409327579,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+184,3,9:40,1180,1180,Morgan Baughman missed Three Point Jumper.,56,18,38,4,0.9973320539414893,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+185,3,9:36,1176,1176,Morgan Baughman Offensive Rebound.,56,18,38,7,0.9973647761371538,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+186,3,9:29,1169,1169,Tiffany Corselli Turnover.,56,18,38,11,0.9974207046623285,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+187,3,9:18,1158,1158,Katelynn Flaherty made Jumper. Assisted by Jillian Dunston.,58,18,40,0,0.9981788768446015,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,Michigan
+188,3,9:18,1158,1158,Tiffany Corselli made Three Point Jumper.,58,21,37,54,0.9970807153935491,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,Niagara
+189,3,8:24,1104,1104,Hallie Thome missed Layup.,58,21,37,2,0.9975093067035632,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+190,3,8:22,1102,1102,Hallie Thome Offensive Rebound.,58,21,37,1,0.9975241539833096,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+191,3,8:21,1101,1101,Hallie Thome made Layup.,60,21,39,12,0.998214220041721,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,Michigan
+192,3,8:09,1089,1089,Carolyn Cosey missed Jumper.,60,21,39,1,0.9982812386280729,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+193,3,8:08,1088,1088,Niagara Deadball Team Rebound.,60,21,39,0,0.9982867631540797,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+194,3,8:08,1088,1088,Foul on Hallie Thome.,60,21,39,5,0.9982867631540797,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+195,3,8:03,1083,1083,Victoria Rampado Turnover.,60,21,39,18,0.9983142604594538,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+196,3,7:45,1065,1065,Foul on Morgan Baughman.,60,21,39,6,0.9984117471063073,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+197,3,7:39,1059,1059,Siera Thompson made Jumper. Assisted by Katelynn Flaherty.,62,21,41,25,0.9988823830245002,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,Michigan
+198,3,7:14,1034,1034,Maggie McIntyre missed Three Point Jumper.,62,21,41,2,0.9989817194987659,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+199,3,7:12,1032,1032,Morgan Baughman Offensive Rebound.,62,21,41,1,0.9989895701913127,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+200,3,7:11,1031,1031,Morgan Baughman missed Layup.,62,21,41,2,0.9989934907702229,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+201,3,7:09,1029,1029,Katelynn Flaherty Defensive Rebound.,62,21,41,12,0.9990013225491261,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+202,3,6:57,1017,1017,Siera Thompson missed Three Point Jumper.,62,21,41,3,0.9990480613686564,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+203,3,6:54,1014,1014,Kaylee Stroemple Defensive Rebound.,62,21,41,21,0.9990596811417314,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+204,3,6:33,993,993,Kaylee Stroemple missed Layup.,62,21,41,3,0.9991403168217307,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+205,3,6:30,990,990,Hallie Thome Defensive Rebound.,62,21,41,11,0.9991517347064237,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+206,3,6:19,979,979,Katelynn Flaherty missed Three Point Jumper.,62,21,41,2,0.9991933706268824,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+207,3,6:17,977,977,Danielle Williams Offensive Rebound.,62,21,41,7,0.9992009003766946,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+208,3,6:10,970,970,Hallie Thome made Layup.,64,21,43,27,0.9994549828957098,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,Michigan
+209,3,5:43,943,943,Emily Granruth Turnover.,64,21,43,0,0.9995200278271577,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+210,3,5:43,943,943,Danielle Williams Steal.,64,21,43,4,0.9995200278271577,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,
+211,3,5:39,939,939,Katelynn Flaherty made Layup.,66,21,45,3,0.9996696053862513,Michigan,Niagara,5,4,0,0,NA,400913694,2016-11-13,Michigan
+212,3,5:36,936,936,Niagara  Timeout,66,21,45,0,0.9996740078465617,Michigan,Niagara,5,3,0,1,NA,400913694,2016-11-13,
+213,3,5:36,936,936,Official TV Timeout,66,21,45,19,0.9996740078465617,Michigan,Niagara,5,3,0,1,NA,400913694,2016-11-13,
+214,3,5:17,917,917,Victoria Rampado made Layup.,66,23,43,0,0.9995691034697501,Michigan,Niagara,5,3,0,1,NA,400913694,2016-11-13,Niagara
+215,3,5:17,917,917,Foul on Kysre Gondrezick.,66,23,43,0,0.9995691034697501,Michigan,Niagara,5,3,0,1,NA,400913694,2016-11-13,
+216,3,5:17,917,917,Victoria Rampado made Free Throw.,66,24,42,25,0.9994840565699529,Michigan,Niagara,5,3,0,1,NA,400913694,2016-11-13,Niagara
+217,3,4:52,892,892,Kysre Gondrezick missed Three Point Jumper.,66,24,42,2,0.9995302312415938,Michigan,Niagara,5,3,0,1,NA,400913694,2016-11-13,
+218,3,4:50,890,890,Maria Backman Offensive Rebound.,66,24,42,0,0.9995336677787088,Michigan,Niagara,5,3,0,1,NA,400913694,2016-11-13,
+219,3,4:50,890,890,Maria Backman made Layup.,68,24,44,0,0.9996763068633308,Michigan,Niagara,5,3,0,1,NA,400913694,2016-11-13,Michigan
+220,3,4:50,890,890,Official TV Timeout,68,24,44,0,0.9996763068633308,Michigan,Niagara,5,3,0,1,NA,400913694,2016-11-13,
+221,3,4:50,890,890,Foul on Victoria Rampado.,68,24,44,0,0.9996763068633308,Michigan,Niagara,5,3,0,1,NA,400913694,2016-11-13,
+222,3,4:50,890,890,Maria Backman made Free Throw.,69,24,45,23,0.9997303223194817,Michigan,Niagara,5,3,0,1,NA,400913694,2016-11-13,Michigan
+223,3,4:27,867,867,Kaylee Stroemple missed Layup.,69,24,45,3,0.9997536342521613,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+224,3,4:24,864,864,Kaylee Stroemple Offensive Rebound.,69,24,45,12,0.9997565520512349,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+225,3,4:12,852,852,Kaylee Stroemple missed Jumper.,69,24,45,2,0.9997680423768388,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+226,3,4:10,850,850,Emily Granruth Offensive Rebound.,69,24,45,8,0.9997699353719978,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+227,3,4:02,842,842,Dagny Davidsdottir made Jumper. Assisted by Kaylee Stroemple.,69,26,43,16,0.9996766378988806,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,Niagara
+228,3,3:46,826,826,Kysre Gondrezick missed Three Point Jumper.,69,26,43,2,0.9996974210984236,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+229,3,3:44,824,824,Kayla Robbins Offensive Rebound.,69,26,43,0,0.99970001953677,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+230,3,3:44,824,824,Kayla Robbins made Layup.,71,26,45,0,0.9997942765321033,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,Michigan
+231,3,3:44,824,824,Foul on Carolyn Cosey.,71,26,45,0,0.9997942765321033,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+232,3,3:44,824,824,Kayla Robbins made Free Throw.,72,26,46,17,0.9998296374404421,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,Michigan
+233,3,3:27,807,807,Dagny Davidsdottir missed Jumper.,72,26,46,3,0.9998430829172326,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+234,3,3:24,804,804,Nicole Munger Defensive Rebound.,72,26,46,5,0.9998454640333025,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+235,3,3:19,799,799,Maria Backman made Layup. Assisted by Kysre Gondrezick.,74,26,48,27,0.9998973059046605,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,Michigan
+236,3,2:52,772,772,Carolyn Cosey Turnover.,74,26,48,0,0.9999126636869661,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+237,3,2:52,772,772,Kayla Robbins Steal.,74,26,48,8,0.9999126636869661,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+238,3,2:44,764,764,Maria Backman made Layup.,76,26,50,0,0.9999440449408887,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,Michigan
+239,3,2:44,764,764,Foul on Dagny Davidsdottir.,76,26,50,0,0.9999440449408887,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+240,3,2:44,764,764,Maria Backman made Free Throw.,77,26,51,16,0.9999539954323314,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,Michigan
+241,3,2:28,748,748,Kharysma Bryant Turnover.,77,26,51,0,0.9999593375558785,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+242,3,2:28,748,748,Nicole Munger Steal.,77,26,51,0,0.9999593375558785,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+243,3,2:28,748,748,Foul on Kharysma Bryant.,77,26,51,0,0.9999593375558785,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+244,3,2:28,748,748,Nicole Munger made Free Throw.,78,26,52,0,0.9999666494687818,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,Michigan
+245,3,2:28,748,748,Nicole Munger made Free Throw.,79,26,53,21,0.9999726465908756,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,Michigan
+246,3,2:07,727,727,Victoria Rampado Turnover.,79,26,53,4,0.9999773848556555,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+247,3,2:03,723,723,Kysre Gondrezick missed Layup.,79,26,53,2,0.9999782009665367,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+248,3,2:01,721,721,Kayla Robbins Offensive Rebound.,79,26,53,0,0.9999785890584748,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+249,3,2:01,721,721,Kayla Robbins made Layup.,81,26,55,8,0.9999857295787437,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,Michigan
+250,3,1:53,713,713,Jai Moore missed Layup.,81,26,55,0,0.9999867200237572,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+251,3,1:53,713,713,Nicole Munger Block.,81,26,55,3,0.9999867200237572,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+252,3,1:50,710,710,Nicole Munger Defensive Rebound.,81,26,55,6,0.9999870605196045,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+253,3,1:44,704,704,Maria Backman made Layup. Assisted by Kysre Gondrezick.,83,26,57,26,0.9999918446582072,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,Michigan
+254,3,1:18,678,678,Jai Moore Turnover.,83,26,57,0,0.9999933874581401,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+255,3,1:18,678,678,Maria Backman Steal.,83,26,57,9,0.9999933874581401,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+256,3,1:09,669,669,Kysre Gondrezick missed Three Point Jumper.,83,26,57,3,0.9999938272856861,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+257,3,1:06,666,666,Emily Granruth Defensive Rebound.,83,26,57,22,0.9999939664298516,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+258,3,0:44,644,644,Emily Granruth Turnover.,83,26,57,0,0.9999949042018816,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+259,3,0:44,644,644,Kysre Gondrezick Steal.,83,26,57,1,0.9999949042018816,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+260,3,0:43,643,643,Foul on Emily Granruth.,83,26,57,0,0.9999949441767655,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+261,3,0:43,643,643,Kysre Gondrezick made Free Throw.,84,26,58,0,0.9999959179679435,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,Michigan
+262,3,0:43,643,643,Kysre Gondrezick missed Free Throw.,84,26,58,5,0.9999959179679435,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+263,3,0:38,638,638,Victoria Rampado Defensive Rebound.,84,26,58,9,0.9999960800253814,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+264,3,0:29,629,629,Maggie McIntyre missed Three Point Jumper.,84,26,58,3,0.9999963638931492,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+265,3,0:26,626,626,Akienreh Johnson Defensive Rebound.,84,26,58,24,0.9999964566168785,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+266,3,0:02,602,602,Akienreh Johnson made Layup. Assisted by Kysre Gondrezick.,86,26,60,2,0.9999981797572817,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,Michigan
+267,3,0:00,600,600,End of 3rd Quarter,86,26,60,15,0.99999821820229,Michigan,Niagara,5,3,0,0,NA,400913694,2016-11-13,
+268,4,9:45,585,585,Morgan Baughman missed Three Point Jumper.,86,26,60,2,0.9999984993647757,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+269,4,9:43,583,583,Kayla Robbins Defensive Rebound.,86,26,60,12,0.9999985358170552,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+270,4,9:31,571,571,Kayla Robbins missed Layup.,86,26,60,2,0.9999987485406397,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+271,4,9:29,569,569,Niagara Defensive Rebound.,86,26,60,17,0.9999987828966229,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+272,4,9:12,552,552,Kaylee Stroemple missed Three Point Jumper.,86,26,60,3,0.9999990597720751,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+273,4,9:09,549,549,KeAsja Peace Defensive Rebound.,86,26,60,16,0.9999991053155948,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+274,4,8:53,533,533,Akienreh Johnson missed Layup.,86,26,60,2,0.9999992965004106,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+275,4,8:51,531,531,Michigan Offensive Rebound.,86,26,60,6,0.9999993154402391,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+276,4,8:45,525,525,Boogie Brozoski made Layup.,88,26,62,14,0.9999996069672819,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,Michigan
+277,4,8:31,511,511,Tiffany Corselli missed Three Point Jumper.,88,26,62,3,0.9999996713688026,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+278,4,8:28,508,508,Akienreh Johnson Defensive Rebound.,88,26,62,16,0.99999968335526,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+279,4,8:12,492,492,Siera Thompson Turnover.,88,26,62,0,0.9999997405387938,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+280,4,8:12,492,492,Morgan Baughman Steal.,88,26,62,23,0.9999997405387938,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+281,4,7:49,469,469,Kaylee Stroemple Turnover.,88,26,62,0,0.9999998115489224,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+282,4,7:49,469,469,Akienreh Johnson Steal.,88,26,62,2,0.9999998115489224,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+283,4,7:47,467,467,Akienreh Johnson made Layup.,90,26,64,0,0.9999998892804031,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,Michigan
+284,4,7:47,467,467,Foul on Morgan Baughman.,90,26,64,0,0.9999998892804031,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+285,4,7:47,467,467,Akienreh Johnson missed Free Throw.,90,26,64,2,0.9999998892804031,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+286,4,7:45,465,465,KeAsja Peace Offensive Rebound.,90,26,64,11,0.9999998928854811,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+287,4,7:34,454,454,KeAsja Peace missed Layup.,90,26,64,5,0.9999999120808021,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+288,4,7:29,449,449,Kaylee Stroemple Defensive Rebound.,90,26,64,10,0.9999999204149208,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+289,4,7:19,439,439,Dagny Davidsdottir missed Jumper.,90,26,64,3,0.9999999361868317,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+290,4,7:16,436,436,Boogie Brozoski Defensive Rebound.,90,26,64,8,0.9999999406486192,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+291,4,7:08,428,428,Kayla Robbins missed Three Point Jumper.,90,26,64,0,0.9999999517798257,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+292,4,7:08,428,428,Morgan Baughman Defensive Rebound.,90,26,64,0,0.9999999517798257,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+293,4,7:08,428,428,Foul on Akienreh Johnson.,90,26,64,16,0.9999999517798257,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+294,4,6:52,412,412,Foul on Kaylee Stroemple.,90,26,64,0,0.9999999677168717,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+295,4,6:52,412,412,Kaylee Stroemple Turnover.,90,26,64,18,0.9999999677168717,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+296,4,6:34,394,394,Akienreh Johnson made Layup. Assisted by KeAsja Peace.,92,26,66,0,0.9999999878179869,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,Michigan
+297,4,6:34,394,394,Foul on Kharysma Bryant.,92,26,66,0,0.9999999878179869,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+298,4,6:34,394,394,Akienreh Johnson missed Free Throw.,92,26,66,0,0.9999999878179869,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+299,4,6:34,394,394,Niagara Deadball Team Rebound.,92,26,66,0,0.9999999878179869,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+300,4,6:34,394,394,Foul on KeAsja Peace.,92,26,66,18,0.9999999878179869,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+301,4,6:16,376,376,Dagny Davidsdottir missed Jumper.,92,26,66,0,0.9999999921639907,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+302,4,6:16,376,376,KeAsja Peace Block.,92,26,66,2,0.9999999921639907,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+303,4,6:14,374,374,Niagara Offensive Rebound.,92,26,66,8,0.999999992554061,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+304,4,6:06,366,366,Carolyn Cosey missed Jumper.,92,26,66,0,0.9999999939692523,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+305,4,6:06,366,366,Danielle Williams Block.,92,26,66,1,0.9999999939692523,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+306,4,6:05,365,365,Niagara Offensive Rebound.,92,26,66,1,0.9999999941310592,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+307,4,6:04,364,364,Niagara  Turnover.,92,26,66,21,0.9999999942897265,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+308,4,5:43,343,343,Boogie Brozoski missed Jumper.,92,26,66,2,0.9999999969767704,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+309,4,5:41,341,341,Kayla Robbins Offensive Rebound.,92,26,66,4,0.9999999971749588,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+310,4,5:37,337,337,KeAsja Peace made Layup. Assisted by Kayla Robbins.,94,26,68,27,0.9999999986532818,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,Michigan
+311,4,5:10,310,310,Dagny Davidsdottir Turnover.,94,26,68,0,0.9999999995809212,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+312,4,5:10,310,310,KeAsja Peace Steal.,94,26,68,26,0.9999999995809212,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+313,4,4:44,284,284,Akienreh Johnson missed Layup.,94,26,68,2,0.9999999997418695,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+314,4,4:42,282,282,Kayla Robbins Offensive Rebound.,94,26,68,1,0.9999999997380054,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+315,4,4:41,281,281,Kayla Robbins made Layup.,96,26,70,30,0.9999999998617571,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,Michigan
+316,4,4:11,251,251,Dagny Davidsdottir missed Jumper.,96,26,70,2,0.9999999997576489,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+317,4,4:09,249,249,Kharysma Bryant Offensive Rebound.,96,26,70,3,0.999999999749359,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+318,4,4:06,246,246,Morgan Baughman missed Three Point Jumper.,96,26,70,3,0.9999999997381007,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+319,4,4:03,243,243,Kayla Robbins Defensive Rebound.,96,26,70,12,0.9999999997288855,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,
+320,4,3:51,231,231,KeAsja Peace made Layup. Assisted by Danielle Williams.,98,26,72,6,0.9999999998540168,Michigan,Niagara,6,4,0,0,NA,400913694,2016-11-13,Michigan
+321,4,3:45,225,225,Niagara  Timeout,98,26,72,0,0.9999999998677749,Michigan,Niagara,6,3,0,1,NA,400913694,2016-11-13,
+322,4,3:45,225,225,Official TV Timeout,98,26,72,9,0.9999999998677749,Michigan,Niagara,6,3,0,1,NA,400913694,2016-11-13,
+323,4,3:36,216,216,Emily Granruth made Three Point Jumper. Assisted by Dagny Davidsdottir.,98,29,69,13,0.9999999997486785,Michigan,Niagara,6,3,0,1,NA,400913694,2016-11-13,Niagara
+324,4,3:23,203,203,KeAsja Peace missed Layup.,98,29,69,2,0.9999999998948925,Michigan,Niagara,6,3,0,1,NA,400913694,2016-11-13,
+325,4,3:21,201,201,KeAsja Peace Offensive Rebound.,98,29,69,3,0.9999999999128074,Michigan,Niagara,6,3,0,1,NA,400913694,2016-11-13,
+326,4,3:18,198,198,KeAsja Peace missed Layup.,98,29,69,2,0.9999999999360184,Michigan,Niagara,6,3,0,1,NA,400913694,2016-11-13,
+327,4,3:16,196,196,KeAsja Peace Offensive Rebound.,98,29,69,2,0.9999999999489899,Michigan,Niagara,6,3,0,1,NA,400913694,2016-11-13,
+328,4,3:14,194,194,Kayla Robbins missed Layup.,98,29,69,2,0.9999999999600079,Michigan,Niagara,6,3,0,1,NA,400913694,2016-11-13,
+329,4,3:12,192,192,Jai Moore Defensive Rebound.,98,29,69,22,0.9999999999691831,Michigan,Niagara,6,3,0,1,NA,400913694,2016-11-13,
+330,4,2:50,170,170,Dagny Davidsdottir missed Three Point Jumper.,98,29,69,3,0.999999999998756,Michigan,Niagara,6,3,0,1,NA,400913694,2016-11-13,
+331,4,2:47,167,167,Kayla Robbins Defensive Rebound.,98,29,69,17,0.9999999999992136,Michigan,Niagara,6,3,0,1,NA,400913694,2016-11-13,
+332,4,2:30,150,150,KeAsja Peace missed Layup.,98,29,69,2,0.9999999999999507,Michigan,Niagara,6,3,0,0,NA,400913694,2016-11-13,
+333,4,2:28,148,148,Kayla Robbins Offensive Rebound.,98,29,69,1,0.99999999999996525,Michigan,Niagara,6,3,0,0,NA,400913694,2016-11-13,
+334,4,2:27,147,147,Kayla Robbins made Layup.,100,29,71,14,0.9999999999999882,Michigan,Niagara,6,3,0,0,NA,400913694,2016-11-13,Michigan
+335,4,2:13,133,133,Emily Granruth made Three Point Jumper. Assisted by Maggie McIntyre.,100,32,68,16,0.9999999999999967,Michigan,Niagara,6,3,0,0,NA,400913694,2016-11-13,Niagara
+336,4,1:57,117,117,KeAsja Peace missed Layup.,100,32,68,2,0.9999999999999998,Michigan,Niagara,6,3,0,0,NA,400913694,2016-11-13,
+337,4,1:55,115,115,Akienreh Johnson Offensive Rebound.,100,32,68,1,0.9999999999999999,Michigan,Niagara,6,3,0,0,NA,400913694,2016-11-13,
+338,4,1:54,114,114,Akienreh Johnson made Layup.,102,32,70,16,1,Michigan,Niagara,6,3,0,0,NA,400913694,2016-11-13,Michigan
+339,4,1:38,98,98,Emily Granruth missed Three Point Jumper.,102,32,70,3,1,Michigan,Niagara,6,3,0,0,NA,400913694,2016-11-13,
+340,4,1:35,95,95,Danielle Williams Defensive Rebound.,102,32,70,0,1,Michigan,Niagara,6,3,0,0,NA,400913694,2016-11-13,
+341,4,1:35,95,95,Foul on Kharysma Bryant.,102,32,70,0,1,Michigan,Niagara,6,3,0,0,NA,400913694,2016-11-13,
+342,4,1:35,95,95,Danielle Williams made Free Throw.,103,32,71,0,1,Michigan,Niagara,6,3,0,0,NA,400913694,2016-11-13,Michigan
+343,4,1:35,95,95,Danielle Williams made Free Throw.,104,32,72,17,1,Michigan,Niagara,6,3,0,0,NA,400913694,2016-11-13,Michigan
+344,4,1:18,78,78,Maggie McIntyre made Three Point Jumper. Assisted by Jai Moore.,104,35,69,13,1,Michigan,Niagara,6,3,0,0,NA,400913694,2016-11-13,Niagara
+345,4,1:05,65,65,Kayla Robbins missed Three Point Jumper.,104,35,69,6,1,Michigan,Niagara,6,3,0,0,NA,400913694,2016-11-13,
+346,4,0:59,59,59,Danielle Williams Offensive Rebound.,104,35,69,22,1,Michigan,Niagara,6,3,0,0,NA,400913694,2016-11-13,
+347,4,0:37,37,37,Boogie Brozoski made Three Point Jumper. Assisted by Akienreh Johnson.,107,35,72,20,1,Michigan,Niagara,6,3,0,0,NA,400913694,2016-11-13,Michigan
+348,4,0:17,17,17,Dagny Davidsdottir Turnover.,107,35,72,17,1,Michigan,Niagara,6,3,0,0,NA,400913694,2016-11-13,
+349,4,0:00,0,0,End of Game,107,35,72,0,1,Michigan,Niagara,6,3,0,0,NA,400913694,2016-11-13,

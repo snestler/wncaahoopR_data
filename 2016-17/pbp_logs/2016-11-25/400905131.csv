@@ -1,0 +1,363 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:47,2387,2387,Kendall Noble missed Jumper.,0,0,0,0,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,NA
+2,1,9:47,2387,2387,Sarah Price Offensive Rebound.,0,0,0,4,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+3,1,9:43,2383,2383,Sarah Price Turnover.,0,0,0,6,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+4,1,9:37,2377,2377,Foul on Kayla Smith.,0,0,0,0,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+5,1,9:37,2377,2377,Jessica January made Free Throw.,1,0,1,0,0.5223000322074739,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+6,1,9:37,2377,2377,Jessica January made Free Throw.,2,0,2,10,0.5445115236168748,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+7,1,9:27,2367,2367,Tashia Brown missed Jumper.,2,0,2,0,0.5447248964309589,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+8,1,9:27,2367,2367,Brooke Schulte Defensive Rebound.,2,0,2,12,0.5447248964309589,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+9,1,9:15,2355,2355,Brooke Schulte missed Three Point Jumper.,2,0,2,0,0.5449827561110013,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+10,1,9:15,2355,2355,Ivy Brown Defensive Rebound.,2,0,2,10,0.5449827561110013,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+11,1,9:05,2345,2345,Kayla Smith missed Jumper.,2,0,2,0,0.5451990876043378,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+12,1,9:05,2345,2345,Jessica January Defensive Rebound.,2,0,2,8,0.5451990876043378,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+13,1,8:57,2337,2337,Amarah Coleman missed Three Point Jumper.,2,0,2,0,0.545373062929666,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+14,1,8:57,2337,2337,Western Kentucky Defensive Rebound.,2,0,2,21,0.545373062929666,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+15,1,8:36,2316,2316,Kendall Noble made Jumper.,2,2,0,7,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+16,1,8:29,2309,2309,Ashton Millender missed Jumper.,2,2,0,0,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+17,1,8:29,2309,2309,Ivy Brown Defensive Rebound.,2,2,0,15,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+18,1,8:14,2294,2294,Sarah Price made Layup. Assisted by Kendall Noble.,2,4,-2,13,0.4536791332234905,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+19,1,8:01,2281,2281,Ashton Millender made Layup. Assisted by Amarah Coleman.,4,4,0,18,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+20,1,7:43,2263,2263,Kendall Noble missed Jumper.,4,4,0,0,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+21,1,7:43,2263,2263,Sarah Price Offensive Rebound.,4,4,0,2,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+22,1,7:41,2261,2261,Foul on Jacqui Grant.,4,4,0,0,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+23,1,7:41,2261,2261,Sarah Price made Free Throw.,4,5,-1,0,0.476417198297709,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+24,1,7:41,2261,2261,Sarah Price made Free Throw.,4,6,-2,8,0.4529390880246341,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+25,1,7:33,2253,2253,Brooke Schulte missed Jumper.,4,6,-2,0,0.45275826884777715,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+26,1,7:33,2253,2253,Kendall Noble Defensive Rebound.,4,6,-2,12,0.45275826884777715,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+27,1,7:21,2241,2241,Kendall Noble made Jumper.,4,8,-4,16,0.4058226805779683,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+28,1,7:05,2225,2225,Foul on Kayla Smith.,4,8,-4,10,0.40511337697178423,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+29,1,6:55,2215,2215,Jacqui Grant missed Three Point Jumper.,4,8,-4,0,0.4046685941012439,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+30,1,6:55,2215,2215,Ivy Brown Defensive Rebound.,4,8,-4,17,0.4046685941012439,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+31,1,6:38,2198,2198,Ivy Brown made Jumper.,4,10,-6,8,0.3580591313077635,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+32,1,6:30,2190,2190,Amarah Coleman missed Layup.,4,10,-6,0,0.35754692650763825,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+33,1,6:30,2190,2190,DePaul Offensive Rebound.,4,10,-6,2,0.35754692650763825,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+34,1,6:28,2188,2188,Jessica January missed Jumper.,4,10,-6,0,0.35741879334398535,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+35,1,6:28,2188,2188,Brooke Schulte Offensive Rebound.,4,10,-6,18,0.35741879334398535,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+36,1,6:10,2170,2170,Jacqui Grant missed Layup.,4,10,-6,0,0.35626437177502157,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+37,1,6:10,2170,2170,Western Kentucky Defensive Rebound.,4,10,-6,21,0.35626437177502157,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+38,1,5:49,2149,2149,Foul on Ashton Millender.,4,10,-6,0,0.3549129067508746,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+39,1,5:49,2149,2149,Tashia Brown missed Free Throw.,4,10,-6,0,0.3549129067508746,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+40,1,5:49,2149,2149,Western Kentucky Deadball Team Rebound.,4,10,-6,0,0.3549129067508746,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+41,1,5:49,2149,2149,Tashia Brown made Free Throw.,4,11,-7,11,0.332455864745472,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+42,1,5:38,2138,2138,Jacqui Grant missed Jumper.,4,11,-7,0,0.33165203749068217,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+43,1,5:38,2138,2138,Kendall Noble Defensive Rebound.,4,11,-7,7,0.33165203749068217,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+44,1,5:31,2131,2131,Jaycee Coe missed Three Point Jumper.,4,11,-7,0,0.33113935164142466,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+45,1,5:31,2131,2131,Jacqui Grant Defensive Rebound.,4,11,-7,23,0.33113935164142466,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+46,1,5:08,2108,2108,Jessica January made Three Point Jumper. Assisted by Ashton Millender.,7,11,-4,8,0.3998465869944874,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+47,1,5:00,2100,2100,Ivy Brown missed Layup.,7,11,-4,0,0.39947970270338606,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+48,1,5:00,2100,2100,Jessica January Defensive Rebound.,7,11,-4,8,0.39947970270338606,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+49,1,4:52,2092,2092,Ashton Millender made Three Point Jumper. Assisted by Jessica January.,10,11,-1,31,0.4744492964725376,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+50,1,4:21,2061,2061,Official TV Timeout,10,11,-1,7,0.47407557681364615,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+51,1,4:14,2054,2054,Tashia Brown made Jumper.,10,13,-3,13,0.4225299142988811,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+52,1,4:01,2041,2041,Brooke Schulte made Layup. Assisted by Jessica January.,12,13,-1,15,0.4738316583701015,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+53,1,3:46,2026,2026,Tashia Brown missed Jumper.,12,13,-1,0,0.4736471753455028,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+54,1,3:46,2026,2026,Ima Akpan Offensive Rebound.,12,13,-1,2,0.4736471753455028,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+55,1,3:44,2024,2024,Jaycee Coe missed Three Point Jumper.,12,13,-1,0,0.4736224740327764,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+56,1,3:44,2024,2024,Ima Akpan Offensive Rebound.,12,13,-1,10,0.4736224740327764,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+57,1,3:34,2014,2014,Tashia Brown made Jumper.,12,15,-3,25,0.42108640328208347,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+58,1,3:09,1989,1989,Jessica January missed Jumper.,12,15,-3,0,0.42016984149557385,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+59,1,3:09,1989,1989,Ima Akpan Defensive Rebound.,12,15,-3,20,0.42016984149557385,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+60,1,2:49,1969,1969,Tashia Brown made Jumper.,12,17,-5,8,0.3677527291210438,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+61,1,2:41,1961,1961,Brooke Schulte missed Jumper.,12,17,-5,0,0.36727704899447666,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+62,1,2:41,1961,1961,Ivy Brown Defensive Rebound.,12,17,-5,20,0.36727704899447666,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+63,1,2:21,1941,1941,Tashia Brown Turnover.,12,17,-5,1,0.36607936533058044,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+64,1,2:20,1940,1940,Jessica January Steal.,12,17,-5,7,0.36601915582408157,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+65,1,2:13,1933,1933,Jessica January missed Layup.,12,17,-5,0,0.3655968032909283,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+66,1,2:13,1933,1933,Brooke Schulte Offensive Rebound.,12,17,-5,4,0.3655968032909283,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+67,1,2:09,1929,1929,Brooke Schulte missed Jumper.,12,17,-5,0,0.3653547809158354,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+68,1,2:09,1929,1929,Kelly Campbell Offensive Rebound.,12,17,-5,2,0.3653547809158354,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+69,1,2:07,1927,1927,Lauren Prochaska made Three Point Jumper. Assisted by Kelly Campbell.,15,17,-2,17,0.444952121893725,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+70,1,1:50,1910,1910,Tashia Brown made Jumper.,15,19,-4,17,0.3903789278241114,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+71,1,1:33,1893,1893,Foul on Jaycee Coe.,15,19,-4,14,0.3895369370583049,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+72,1,1:19,1879,1879,Jacqui Grant Turnover.,15,19,-4,9,0.38884387403696735,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+73,1,1:10,1870,1870,Kendall Noble missed Three Point Jumper.,15,19,-4,0,0.3883980889590534,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+74,1,1:10,1870,1870,Amarah Coleman Defensive Rebound.,15,19,-4,8,0.3883980889590534,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+75,1,1:02,1862,1862,Jacqui Grant missed Layup.,15,19,-4,0,0.3880014679664803,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+76,1,1:02,1862,1862,Kendall Noble Defensive Rebound.,15,19,-4,5,0.3880014679664803,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+77,1,0:57,1857,1857,Western Kentucky  Timeout,15,19,-4,22,0.38775333409892104,DePaul,Western Kentucky,4,3,0,1,NA,400905131,2016-11-25,
+78,1,0:35,1835,1835,Kayla Smith missed Layup.,15,19,-4,0,0.3866582829180913,DePaul,Western Kentucky,4,3,0,1,NA,400905131,2016-11-25,
+79,1,0:35,1835,1835,DePaul Defensive Rebound.,15,19,-4,20,0.3866582829180913,DePaul,Western Kentucky,4,3,0,1,NA,400905131,2016-11-25,
+80,1,0:15,1815,1815,Amarah Coleman missed Layup.,15,19,-4,0,0.3856562437705917,DePaul,Western Kentucky,4,3,0,1,NA,400905131,2016-11-25,
+81,1,0:15,1815,1815,Sarah Price Defensive Rebound.,15,19,-4,12,0.3856562437705917,DePaul,Western Kentucky,4,3,0,1,NA,400905131,2016-11-25,
+82,1,0:03,1803,1803,Ivy Brown missed Three Point Jumper.,15,19,-4,0,0.385051023454334,DePaul,Western Kentucky,4,3,0,1,NA,400905131,2016-11-25,
+83,1,0:03,1803,1803,DePaul Defensive Rebound.,15,19,-4,3,0.385051023454334,DePaul,Western Kentucky,4,3,0,1,NA,400905131,2016-11-25,
+84,1,0:00,1800,1800,End of 1st Quarter,15,19,-4,10,0.38489917366219123,DePaul,Western Kentucky,4,3,0,1,NA,400905131,2016-11-25,
+85,2,9:50,1790,1790,Tashia Brown Turnover.,15,19,-4,23,0.3843912769368979,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+86,2,9:27,1767,1767,Jacqui Grant made Jumper. Assisted by Ashton Millender.,17,19,-2,20,0.4407868811788135,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+87,2,9:07,1747,1747,Foul on Tashia Brown.,17,19,-2,0,0.44024393034878806,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+88,2,9:07,1747,1747,Tashia Brown Turnover.,17,19,-2,13,0.44024393034878806,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+89,2,8:54,1734,1734,Kelly Campbell made Layup. Assisted by Jessica January.,19,19,0,18,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+90,2,8:36,1716,1716,Ima Akpan missed Layup.,19,19,0,0,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+91,2,8:36,1716,1716,Jacqui Grant Block.,19,19,0,2,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+92,2,8:34,1714,1714,Ashton Millender Defensive Rebound.,19,19,0,17,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+93,2,8:17,1697,1697,Jessica January made Jumper.,21,19,2,10,0.5611556322546385,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+94,2,8:07,1687,1687,Kayla Smith Turnover.,21,19,2,8,0.5614436418683096,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+95,2,7:59,1679,1679,Jessica January missed Jumper.,21,19,2,4,0.5616722771641911,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+96,2,7:55,1675,1675,Micah Jones Defensive Rebound.,21,19,2,22,0.5617855786411077,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+97,2,7:33,1653,1653,Kendall Noble Turnover.,21,19,2,1,0.5623983920801975,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+98,2,7:32,1652,1652,Jacqui Grant Steal.,21,19,2,3,0.5624258875994105,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+99,2,7:29,1649,1649,Jacqui Grant missed Jumper.,21,19,2,0,0.5625082148045423,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+100,2,7:29,1649,1649,DePaul Offensive Rebound.,21,19,2,5,0.5625082148045423,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+101,2,7:24,1644,1644,Jessica January missed Three Point Jumper.,21,19,2,0,0.5626449282595558,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+102,2,7:24,1644,1644,Jacqui Grant Offensive Rebound.,21,19,2,2,0.5626449282595558,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+103,2,7:22,1642,1642,Jacqui Grant made Layup.,23,19,4,15,0.6234575479157157,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+104,2,7:07,1627,1627,Tashia Brown missed Three Point Jumper.,23,19,4,0,0.6242329183372235,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+105,2,7:07,1627,1627,Micah Jones Offensive Rebound.,23,19,4,3,0.6242329183372235,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+106,2,7:04,1624,1624,Micah Jones made Three Point Jumper.,23,22,1,19,0.5317205655619778,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+107,2,6:45,1605,1605,Jessica January made Layup. Assisted by Amarah Coleman.,25,22,3,10,0.5949028375599695,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+108,2,6:35,1595,1595,Ivy Brown made Three Point Jumper. Assisted by Kendall Noble.,25,25,0,22,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+109,2,6:13,1573,1573,Brooke Schulte missed Jumper.,25,25,0,0,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+110,2,6:13,1573,1573,Ivy Brown Defensive Rebound.,25,25,0,18,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+111,2,5:55,1555,1555,Ivy Brown missed Three Point Jumper.,25,25,0,0,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+112,2,5:55,1555,1555,Jessica January Defensive Rebound.,25,25,0,8,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+113,2,5:47,1547,1547,Jacqui Grant made Three Point Jumper. Assisted by Ashton Millender.,28,25,3,10,0.5972102229022763,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+114,2,5:37,1537,1537,Foul on Amarah Coleman.,28,25,3,14,0.5976184665896411,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+115,2,5:23,1523,1523,Micah Jones missed Jumper.,28,25,3,0,0.5981987907445966,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+116,2,5:23,1523,1523,Jessica January Defensive Rebound.,28,25,3,9,0.5981987907445966,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+117,2,5:14,1514,1514,Claire McMahon missed Three Point Jumper.,28,25,3,0,0.5985781654969858,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+118,2,5:14,1514,1514,Ivy Brown Block.,28,25,3,2,0.5985781654969858,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+119,2,5:12,1512,1512,Ivy Brown Defensive Rebound.,28,25,3,30,0.5986632137699877,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+120,2,4:42,1482,1482,Official TV Timeout,28,25,3,1,0.5999765069109699,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+121,2,4:41,1481,1481,Jaycee Coe made Three Point Jumper. Assisted by Sidnee Bopp.,28,28,0,34,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+122,2,4:07,1447,1447,Ashton Millender missed Three Point Jumper.,28,28,0,0,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+123,2,4:07,1447,1447,Tanita Allen Offensive Rebound.,28,28,0,4,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+124,2,4:03,1443,1443,Foul on Ima Akpan.,28,28,0,2,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+125,2,4:01,1441,1441,Foul on Ivy Brown.,28,28,0,9,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+126,2,3:52,1432,1432,Foul on Ima Akpan.,28,28,0,1,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+127,2,3:51,1431,1431,Lauren Prochaska Turnover.,28,28,0,2,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+128,2,3:49,1429,1429,Ima Akpan Steal.,28,28,0,2,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+129,2,3:47,1427,1427,Ima Akpan made Layup.,28,30,-2,10,0.4310846404310986,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+130,2,3:37,1417,1417,Foul on Micah Jones.,28,30,-2,0,0.43077170185741315,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+131,2,3:37,1417,1417,Jessica January made Free Throw.,29,30,-1,0,0.4652183512489759,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+132,2,3:37,1417,1417,Jessica January made Free Throw.,30,30,0,12,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+133,2,3:25,1405,1405,Ivy Brown missed Three Point Jumper.,30,30,0,0,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+134,2,3:25,1405,1405,Tanita Allen Defensive Rebound.,30,30,0,20,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+135,2,3:05,1385,1385,Jacqui Grant missed Three Point Jumper.,30,30,0,0,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+136,2,3:05,1385,1385,Western Kentucky Defensive Rebound.,30,30,0,6,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+137,2,2:59,1379,1379,Jaycee Coe missed Three Point Jumper.,30,30,0,0,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+138,2,2:59,1379,1379,Tanita Allen Defensive Rebound.,30,30,0,17,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+139,2,2:42,1362,1362,Foul on Jaycee Coe.,30,30,0,0,0.5,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+140,2,2:42,1362,1362,Kelly Campbell made Free Throw.,31,30,1,0,0.5356264730872795,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+141,2,2:42,1362,1362,Kelly Campbell made Free Throw.,32,30,2,2,0.5708930235460885,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+142,2,2:40,1360,1360,Kendall Noble Turnover.,32,30,2,3,0.5709529884150905,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+143,2,2:37,1357,1357,Jessica January made Jumper. Assisted by Amarah Coleman.,34,30,4,14,0.6392742808913301,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+144,2,2:23,1343,1343,Kendall Noble Turnover.,34,30,4,0,0.6400683794834597,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+145,2,2:23,1343,1343,Jessica January Steal.,34,30,4,4,0.6400683794834597,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+146,2,2:19,1339,1339,Ashton Millender made Three Point Jumper. Assisted by Jessica January.,37,30,7,25,0.7328519920846566,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+147,2,1:54,1314,1314,Foul on Ashton Millender.,37,30,7,13,0.7350055150380033,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+148,2,1:41,1301,1301,Foul on Jacqui Grant.,37,30,7,0,0.7361552016528506,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+149,2,1:41,1301,1301,Kendall Noble made Free Throw.,37,31,6,0,0.7067179922378034,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+150,2,1:41,1301,1301,Kendall Noble made Free Throw.,37,32,5,4,0.6754444543999164,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+151,2,1:37,1297,1297,Brooke Schulte Turnover.,37,32,5,1,0.6757340039310207,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+152,2,1:36,1296,1296,Kendall Noble Turnover.,37,32,5,2,0.6758067574119768,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+153,2,1:34,1294,1294,Brooke Schulte Steal.,37,32,5,1,0.6759527183809989,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+154,2,1:33,1293,1293,Brooke Schulte made Layup.,39,32,7,5,0.7368761760851413,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,DePaul
+155,2,1:28,1288,1288,Foul on Kelly Campbell.,39,32,7,14,0.7373327159880673,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+156,2,1:14,1274,1274,Kendall Noble missed Jumper.,39,32,7,0,0.7386383148442217,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+157,2,1:14,1274,1274,Tanita Allen Defensive Rebound.,39,32,7,8,0.7386383148442217,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+158,2,1:06,1266,1266,Foul on Amarah Coleman.,39,32,7,0,0.7394044018480989,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+159,2,1:06,1266,1266,Amarah Coleman Turnover.,39,32,7,21,0.7394044018480989,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+160,2,0:45,1245,1245,Foul on Brooke Schulte.,39,32,7,0,0.7414954193976074,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+161,2,0:45,1245,1245,Kendall Noble made Free Throw.,39,33,6,0,0.7116105710313356,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+162,2,0:45,1245,1245,Kendall Noble made Free Throw.,39,34,5,5,0.6797629322806221,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+163,2,0:40,1240,1240,Ashton Millender missed Three Point Jumper.,39,34,5,0,0.6801822273590818,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+164,2,0:40,1240,1240,Tanita Allen Offensive Rebound.,39,34,5,1,0.6801822273590818,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+165,2,0:39,1239,1239,Brooke Schulte missed Layup.,39,34,5,0,0.6802668764164259,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+166,2,0:39,1239,1239,Ivy Brown Defensive Rebound.,39,34,5,26,0.6802668764164259,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+167,2,0:13,1213,1213,Foul on Tanita Allen.,39,34,5,0,0.6825677115313032,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+168,2,0:13,1213,1213,Tashia Brown made Free Throw.,39,35,4,0,0.6485058056463205,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+169,2,0:13,1213,1213,Tashia Brown made Free Throw.,39,36,3,8,0.6128619410927587,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,Western Kentucky
+170,2,0:05,1205,1205,Ashton Millender missed Three Point Jumper.,39,36,3,0,0.6133502802168322,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+171,2,0:05,1205,1205,Kelly Campbell Offensive Rebound.,39,36,3,5,0.6133502802168322,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+172,2,0:00,1200,1200,Kelly Campbell missed Layup.,39,36,3,0,0.6136521367497382,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+173,2,0:00,1200,1200,Tashia Brown Defensive Rebound.,39,36,3,0,0.6136521367497382,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+174,2,0:00,1200,1200,End of 2nd Quarter,39,36,3,19,0.6136521367497382,DePaul,Western Kentucky,4,4,0,0,NA,400905131,2016-11-25,
+175,3,9:41,1181,1181,Tashia Brown missed Layup.,39,36,3,0,0.6147732529912852,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+176,3,9:41,1181,1181,Jacqui Grant Defensive Rebound.,39,36,3,1,0.6147732529912852,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+177,3,9:40,1180,1180,Foul on Sarah Price.,39,36,3,16,0.6148312846150986,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+178,3,9:24,1164,1164,Brooke Schulte missed Jumper.,39,36,3,0,0.6157497253342731,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+179,3,9:24,1164,1164,Amarah Coleman Offensive Rebound.,39,36,3,7,0.6157497253342731,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+180,3,9:17,1157,1157,Amarah Coleman Turnover.,39,36,3,1,0.6161468403088822,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+181,3,9:16,1156,1156,Kayla Smith Steal.,39,36,3,5,0.6162033996069546,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+182,3,9:11,1151,1151,Kayla Smith Turnover.,39,36,3,3,0.6164856795808575,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+183,3,9:08,1148,1148,Amarah Coleman Steal.,39,36,3,0,0.6166547042303746,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+184,3,9:08,1148,1148,Jessica January made Layup. Assisted by Amarah Coleman.,41,36,5,24,0.6883225017431585,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,DePaul
+185,3,8:44,1124,1124,Tashia Brown Turnover.,41,36,5,2,0.6903615885161296,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+186,3,8:42,1122,1122,Jacqui Grant Steal.,41,36,5,3,0.6905317252559572,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+187,3,8:39,1119,1119,Foul on Kendall Noble.,41,36,5,0,0.690787202306434,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+188,3,8:39,1119,1119,Jessica January made Free Throw.,42,36,6,0,0.7240343705832295,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,DePaul
+189,3,8:39,1119,1119,Jessica January made Free Throw.,43,36,7,16,0.7549747355678563,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,DePaul
+190,3,8:23,1103,1103,Micah Jones missed Three Point Jumper.,43,36,7,0,0.7566353999804355,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+191,3,8:23,1103,1103,Tashia Brown Offensive Rebound.,43,36,7,6,0.7566353999804355,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+192,3,8:17,1097,1097,Ivy Brown Turnover.,43,36,7,2,0.7572636432381752,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+193,3,8:15,1095,1095,Jessica January Steal.,43,36,7,3,0.7574739418670197,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+194,3,8:12,1092,1092,Ashton Millender missed Three Point Jumper.,43,36,7,0,0.7577903117467422,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+195,3,8:12,1092,1092,Micah Jones Defensive Rebound.,43,36,7,15,0.7577903117467422,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+196,3,7:57,1077,1077,Kayla Smith missed Three Point Jumper.,43,36,7,0,0.7593917735708693,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+197,3,7:57,1077,1077,Ivy Brown Offensive Rebound.,43,36,7,4,0.7593917735708693,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+198,3,7:53,1073,1073,Foul on Ashton Millender.,43,36,7,0,0.7598252773830132,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+199,3,7:53,1073,1073,Kayla Smith made Free Throw.,43,37,6,0,0.7285325668428716,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,Western Kentucky
+200,3,7:53,1073,1073,Kayla Smith made Free Throw.,43,38,5,3,0.6948003650877442,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,Western Kentucky
+201,3,7:50,1070,1070,Foul on Tashia Brown.,43,38,5,4,0.6950719674125875,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+202,3,7:46,1066,1066,Foul on Tashia Brown.,43,38,5,4,0.6954366811615256,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+203,3,7:42,1062,1062,Amarah Coleman missed Jumper.,43,38,5,0,0.6958045038468726,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+204,3,7:42,1062,1062,Ima Akpan Defensive Rebound.,43,38,5,26,0.6958045038468726,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+205,3,7:16,1036,1036,Ivy Brown made Jumper.,43,40,3,9,0.6232772598393972,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,Western Kentucky
+206,3,7:07,1027,1027,Jacqui Grant missed Layup.,43,40,3,0,0.6238788675779064,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+207,3,7:07,1027,1027,Western Kentucky Defensive Rebound.,43,40,3,12,0.6238788675779064,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+208,3,6:55,1015,1015,Foul on Amarah Coleman.,43,40,3,0,0.6247076555072557,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+209,3,6:55,1015,1015,Kayla Smith made Free Throw.,43,41,2,0,0.5841222600738807,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,Western Kentucky
+210,3,6:55,1015,1015,Kayla Smith made Free Throw.,43,42,1,7,0.5423630666011812,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,Western Kentucky
+211,3,6:48,1008,1008,Jessica January Turnover.,43,42,1,1,0.5425390898677398,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+212,3,6:47,1007,1007,Kayla Smith Steal.,43,42,1,4,0.5425645836996809,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+213,3,6:43,1003,1003,Tashia Brown missed Layup.,43,42,1,0,0.5426674551758812,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+214,3,6:43,1003,1003,Jacqui Grant Defensive Rebound.,43,42,1,11,0.5426674551758812,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+215,3,6:32,992,992,Brooke Schulte made Jumper. Assisted by Kelly Campbell.,45,42,3,29,0.6263923020379903,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,DePaul
+216,3,6:03,963,963,Ivy Brown missed Layup.,45,42,3,0,0.6287065151600189,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+217,3,6:03,963,963,Jacqui Grant Block.,45,42,3,0,0.6287065151600189,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+218,3,6:03,963,963,DePaul Defensive Rebound.,45,42,3,15,0.6287065151600189,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+219,3,5:48,948,948,Foul on Jacqui Grant.,45,42,3,0,0.6298482705685766,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+220,3,5:48,948,948,Jacqui Grant Turnover.,45,42,3,6,0.6298482705685766,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+221,3,5:42,942,942,Tashia Brown made Jumper.,45,44,1,21,0.544334862371342,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,Western Kentucky
+222,3,5:21,921,921,Brooke Schulte missed Jumper.,45,44,1,0,0.5448401954513757,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+223,3,5:21,921,921,Micah Jones Defensive Rebound.,45,44,1,12,0.5448401954513757,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+224,3,5:09,909,909,Micah Jones missed Three Point Jumper.,45,44,1,0,0.5451124543628754,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+225,3,5:09,909,909,Brooke Schulte Defensive Rebound.,45,44,1,12,0.5451124543628754,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+226,3,4:57,897,897,Jacqui Grant made Layup. Assisted by Jessica January.,47,44,3,23,0.6332132426138449,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,DePaul
+227,3,4:34,874,874,Ivy Brown missed Jumper.,47,44,3,0,0.6346121117637494,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+228,3,4:34,874,874,Claire McMahon Defensive Rebound.,47,44,3,10,0.6346121117637494,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+229,3,4:24,864,864,Brooke Schulte Turnover.,47,44,3,3,0.6352232358515866,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+230,3,4:21,861,861,Micah Jones Steal.,47,44,3,11,0.6354082233174867,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+231,3,4:10,850,850,Kendall Noble missed Layup.,47,44,3,0,0.6360964509920127,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+232,3,4:10,850,850,Jacqui Grant Block.,47,44,3,3,0.6360964509920127,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+233,3,4:07,847,847,Kendall Noble Offensive Rebound.,47,44,3,2,0.636287520519694,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+234,3,4:05,845,845,Ivy Brown missed Three Point Jumper.,47,44,3,0,0.6364158505340411,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+235,3,4:05,845,845,Kelly Campbell Defensive Rebound.,47,44,3,10,0.6364158505340411,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+236,3,3:55,835,835,Claire McMahon missed Three Point Jumper.,47,44,3,0,0.6370705625066904,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+237,3,3:55,835,835,Ivy Brown Defensive Rebound.,47,44,3,13,0.6370705625066904,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+238,3,3:42,822,822,Kayla Smith missed Three Point Jumper.,47,44,3,0,0.6379611018677241,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+239,3,3:42,822,822,Ivy Brown Offensive Rebound.,47,44,3,7,0.6379611018677241,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+240,3,3:35,815,815,Ivy Brown made Layup.,47,46,1,8,0.5472501728518164,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,Western Kentucky
+241,3,3:27,807,807,Official TV Timeout,47,46,1,0,0.5474633765633432,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+242,3,3:27,807,807,Ivy Brown made Free Throw.,47,47,0,13,0.5,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,Western Kentucky
+243,3,3:14,794,794,Ashton Millender made Layup.,49,47,2,30,0.5947939231247045,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,DePaul
+244,3,2:44,764,764,Ima Akpan made Layup. Assisted by Micah Jones.,49,49,0,23,0.5,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,Western Kentucky
+245,3,2:21,741,741,Amarah Coleman made Three Point Jumper. Assisted by Brooke Schulte.,52,49,3,36,0.6452322730632508,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,DePaul
+246,3,1:45,705,705,Ima Akpan missed Jumper.,52,49,3,0,0.6493590513653271,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+247,3,1:45,705,705,Jessica January Defensive Rebound.,52,49,3,7,0.6493590513653271,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+248,3,1:38,698,698,Amarah Coleman made Layup. Assisted by Jessica January.,54,49,5,6,0.7373473599039542,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,DePaul
+249,3,1:32,692,692,Kendall Noble Turnover.,54,49,5,7,0.7381797371346426,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+250,3,1:25,685,685,Kelly Campbell missed Three Point Jumper.,54,49,5,0,0.739122580232132,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+251,3,1:25,685,685,Western Kentucky Defensive Rebound.,54,49,5,9,0.739122580232132,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+252,3,1:16,676,676,Kendall Noble made Jumper.,54,51,3,0,0.6521542359451034,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,Western Kentucky
+253,3,1:16,676,676,Foul on Kelly Campbell.,54,51,3,0,0.6521542359451034,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+254,3,1:16,676,676,Kendall Noble made Free Throw.,54,52,2,22,0.6032474310410325,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,Western Kentucky
+255,3,0:54,654,654,Amarah Coleman made Jumper.,56,52,4,0,0.70052375346504,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,DePaul
+256,3,0:54,654,654,Foul on Ivy Brown.,56,52,4,0,0.70052375346504,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+257,3,0:54,654,654,Amarah Coleman made Free Throw.,57,52,5,0,0.7431186587512026,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,DePaul
+258,3,0:54,654,654,Sarah Price Turnover.,57,52,5,7,0.7431186587512026,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+259,3,0:47,647,647,Kelly Campbell missed Three Point Jumper.,57,52,5,0,0.7440228544338671,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+260,3,0:47,647,647,Jacqui Grant Offensive Rebound.,57,52,5,4,0.7440228544338671,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+261,3,0:43,643,643,Jacqui Grant missed Layup.,57,52,5,0,0.7445462801002132,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+262,3,0:43,643,643,Jacqui Grant Offensive Rebound.,57,52,5,4,0.7445462801002132,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+263,3,0:39,639,639,Jacqui Grant made Layup.,59,52,7,15,0.8178027009395128,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,DePaul
+264,3,0:24,624,624,Kendall Noble made Jumper.,59,54,5,7,0.7471442096257805,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,Western Kentucky
+265,3,0:17,617,617,Ashton Millender missed Layup.,59,54,5,0,0.7481661878807242,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+266,3,0:17,617,617,Ivy Brown Block.,59,54,5,2,0.7481661878807242,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+267,3,0:15,615,615,Brooke Schulte Offensive Rebound.,59,54,5,1,0.7484662647948557,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+268,3,0:14,614,614,Foul on Ashton Millender.,59,54,5,0,0.7486177484546087,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+269,3,0:14,614,614,Ashton Millender Turnover.,59,54,5,0,0.7486177484546087,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+270,3,0:14,614,614,Kendall Noble made Free Throw.,59,55,4,0,0.7053701851882305,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,Western Kentucky
+271,3,0:14,614,614,Kendall Noble made Free Throw.,59,56,3,10,0.6580805788177159,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,Western Kentucky
+272,3,0:04,604,604,Jessica January made Jumper.,61,56,5,4,0.7501901976881149,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,DePaul
+273,3,0:00,600,600,End of 3rd Quarter,61,56,5,12,0.7508511955786001,DePaul,Western Kentucky,5,5,0,0,NA,400905131,2016-11-25,
+274,4,9:48,588,588,Foul on Jacqui Grant.,61,56,5,0,0.7529596654734051,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+275,4,9:48,588,588,Jacqui Grant Turnover.,61,56,5,24,0.7529596654734051,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+276,4,9:24,564,564,Kendall Noble made Layup.,61,58,3,15,0.6647519355474727,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,Western Kentucky
+277,4,9:09,549,549,Jessica January missed Jumper.,61,58,3,0,0.6673757364992728,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+278,4,9:09,549,549,Amarah Coleman Offensive Rebound.,61,58,3,5,0.6673757364992728,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+279,4,9:04,544,544,Foul on Sarah Price.,61,58,3,0,0.6682619890846144,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+280,4,9:04,544,544,Amarah Coleman missed Free Throw.,61,58,3,0,0.6682619890846144,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+281,4,9:04,544,544,DePaul Deadball Team Rebound.,61,58,3,0,0.6682619890846144,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+282,4,9:04,544,544,Amarah Coleman missed Free Throw.,61,58,3,0,0.6682619890846144,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+283,4,9:04,544,544,Ivy Brown Defensive Rebound.,61,58,3,0,0.6682619890846144,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+284,4,9:04,544,544,Foul on Jessica January.,61,58,3,19,0.6682619890846144,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+285,4,8:45,525,525,Sidnee Bopp made Layup.,61,60,1,26,0.5591943732679755,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,Western Kentucky
+286,4,8:19,499,499,Tanita Allen made Three Point Jumper. Assisted by Jessica January.,64,60,4,31,0.7256554013873981,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,DePaul
+287,4,7:48,468,468,Foul on Amarah Coleman.,64,60,4,0,0.7310586042487764,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+288,4,7:48,468,468,Tashia Brown missed Free Throw.,64,60,4,0,0.7310586042487764,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+289,4,7:48,468,468,Western Kentucky Deadball Team Rebound.,64,60,4,0,0.7310586042487764,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+290,4,7:48,468,468,Tashia Brown made Free Throw.,64,61,3,8,0.6791787204693782,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,Western Kentucky
+291,4,7:40,460,460,Foul on Kendall Noble.,64,61,3,7,0.6805633487731411,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+292,4,7:33,453,453,Jessica January made Three Point Jumper. Assisted by Brooke Schulte.,67,61,6,14,0.8212676279020021,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,DePaul
+293,4,7:19,439,439,Ivy Brown missed Layup.,67,61,6,2,0.825373262596751,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+294,4,7:17,437,437,Malaka Frank Offensive Rebound.,67,61,6,5,0.8260206868956402,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+295,4,7:12,432,432,Jaycee Coe missed Three Point Jumper.,67,61,6,2,0.8277118992184253,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+296,4,7:10,430,430,Ivy Brown Offensive Rebound.,67,61,6,2,0.8284184008073894,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+297,4,7:08,428,428,Foul on Ivy Brown.,67,61,6,9,0.8291268978097306,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+298,4,6:59,419,419,Ivy Brown Turnover.,67,61,6,17,0.8321650361640544,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+299,4,6:42,402,402,Jessica January Turnover.,67,61,6,2,0.8374276440713204,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+300,4,6:40,400,400,Malaka Frank Steal.,67,61,6,4,0.8380217775177146,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+301,4,6:36,396,396,Malaka Frank missed Layup.,67,61,6,0,0.8392021406943295,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+302,4,6:36,396,396,Jessica January Defensive Rebound.,67,61,6,27,0.8392021406943295,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+303,4,6:09,369,369,Brooke Schulte missed Jumper.,67,61,6,0,0.8472602943656137,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+304,4,6:09,369,369,Malaka Frank Defensive Rebound.,67,61,6,29,0.8472602943656137,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+305,4,5:40,340,340,Ivy Brown made Layup.,67,63,4,36,0.7676524512718775,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,Western Kentucky
+306,4,5:04,304,304,Foul on Jessica January.,67,63,4,0,0.7832895004771492,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+307,4,5:04,304,304,Jessica January Turnover.,67,63,4,0,0.7832895004771492,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+308,4,5:04,304,304,Official TV Timeout,67,63,4,6,0.7832895004771492,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+309,4,4:58,298,298,Jaycee Coe missed Three Point Jumper.,67,63,4,0,0.7848532206733493,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+310,4,4:58,298,298,Jacqui Grant Defensive Rebound.,67,63,4,15,0.7848532206733493,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+311,4,4:43,283,283,Foul on Malaka Frank.,67,63,4,9,0.7855455311586931,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+312,4,4:34,274,274,Ashton Millender missed Three Point Jumper.,67,63,4,0,0.7844333246216024,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+313,4,4:34,274,274,Malaka Frank Defensive Rebound.,67,63,4,12,0.7844333246216024,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+314,4,4:22,262,262,Tashia Brown missed Jumper.,67,63,4,0,0.7820915470155663,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+315,4,4:22,262,262,Jacqui Grant Defensive Rebound.,67,63,4,15,0.7820915470155663,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+316,4,4:07,247,247,Foul on Tashia Brown.,67,63,4,0,0.7792891633400169,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+317,4,4:07,247,247,Jessica January made Free Throw.,68,63,5,0,0.8287665884848566,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,DePaul
+318,4,4:07,247,247,Jessica January made Free Throw.,69,63,6,29,0.8690167721899124,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,DePaul
+319,4,3:38,218,218,Tashia Brown missed Layup.,69,63,6,0,0.8715315245574938,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+320,4,3:38,218,218,Jacqui Grant Defensive Rebound.,69,63,6,23,0.8715315245574938,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+321,4,3:15,195,195,Foul on Malaka Frank.,69,63,6,3,0.8880700527699188,DePaul,Western Kentucky,6,6,0,0,NA,400905131,2016-11-25,
+322,4,3:12,192,192,Official TV Timeout,69,63,6,0,0.8913499499438214,DePaul,Western Kentucky,6,6,0,1,NA,400905131,2016-11-25,
+323,4,3:12,192,192,Western Kentucky  Timeout,69,63,6,0,0.8913499499438214,DePaul,Western Kentucky,6,5,0,1,NA,400905131,2016-11-25,
+324,4,3:12,192,192,Kelly Campbell made Free Throw.,70,63,7,0,0.920953439940375,DePaul,Western Kentucky,6,5,0,1,NA,400905131,2016-11-25,DePaul
+325,4,3:12,192,192,Kelly Campbell made Free Throw.,71,63,8,16,0.9430067136822597,DePaul,Western Kentucky,6,5,0,1,NA,400905131,2016-11-25,DePaul
+326,4,2:56,176,176,Sidnee Bopp missed Three Point Jumper.,71,63,8,0,0.955814163328126,DePaul,Western Kentucky,6,5,0,1,NA,400905131,2016-11-25,
+327,4,2:56,176,176,Ima Akpan Offensive Rebound.,71,63,8,7,0.955814163328126,DePaul,Western Kentucky,6,5,0,1,NA,400905131,2016-11-25,
+328,4,2:49,169,169,Sidnee Bopp made Three Point Jumper. Assisted by Micah Jones.,71,66,5,33,0.880529128367831,DePaul,Western Kentucky,6,5,0,1,NA,400905131,2016-11-25,Western Kentucky
+329,4,2:16,136,136,Brooke Schulte Turnover.,71,66,5,2,0.917420727736748,DePaul,Western Kentucky,6,5,0,1,NA,400905131,2016-11-25,
+330,4,2:14,134,134,Ivy Brown Steal.,71,66,5,14,0.9195790371148977,DePaul,Western Kentucky,6,5,0,1,NA,400905131,2016-11-25,
+331,4,2:00,120,120,Kendall Noble made Jumper.,71,68,3,29,0.8311002915403437,DePaul,Western Kentucky,6,5,0,0,NA,400905131,2016-11-25,Western Kentucky
+332,4,1:31,91,91,Jacqui Grant missed Three Point Jumper.,71,68,3,0,0.8739673195703631,DePaul,Western Kentucky,6,5,0,0,NA,400905131,2016-11-25,
+333,4,1:31,91,91,Ashton Millender Offensive Rebound.,71,68,3,2,0.8739673195703631,DePaul,Western Kentucky,6,5,0,0,NA,400905131,2016-11-25,
+334,4,1:29,89,89,Foul on Sidnee Bopp.,71,68,3,0,0.8768910541522095,DePaul,Western Kentucky,6,5,0,0,NA,400905131,2016-11-25,
+335,4,1:29,89,89,Ashton Millender missed Free Throw.,71,68,3,0,0.8768910541522095,DePaul,Western Kentucky,6,5,0,0,NA,400905131,2016-11-25,
+336,4,1:29,89,89,DePaul Deadball Team Rebound.,71,68,3,0,0.8768910541522095,DePaul,Western Kentucky,6,5,0,0,NA,400905131,2016-11-25,
+337,4,1:29,89,89,Ashton Millender made Free Throw.,72,68,4,20,0.9319952867858664,DePaul,Western Kentucky,6,5,0,0,NA,400905131,2016-11-25,DePaul
+338,4,1:09,69,69,Sidnee Bopp missed Three Point Jumper.,72,68,4,0,0.9525274989193613,DePaul,Western Kentucky,6,5,0,0,NA,400905131,2016-11-25,
+339,4,1:09,69,69,Jacqui Grant Defensive Rebound.,72,68,4,21,0.9525274989193613,DePaul,Western Kentucky,6,5,0,0,NA,400905131,2016-11-25,
+340,4,0:48,48,48,Foul on Kendall Noble.,72,68,4,0,0.9692875630820613,DePaul,Western Kentucky,6,5,0,1,NA,400905131,2016-11-25,
+341,4,0:48,48,48,Jacqui Grant made Free Throw.,73,68,5,0,0.9868080280146234,DePaul,Western Kentucky,6,5,0,1,NA,400905131,2016-11-25,DePaul
+342,4,0:48,48,48,Jacqui Grant made Free Throw.,74,68,6,0,0.9943914597439802,DePaul,Western Kentucky,6,5,0,1,NA,400905131,2016-11-25,DePaul
+343,4,0:48,48,48,Western Kentucky  Timeout,74,68,6,9,0.9943914597439802,DePaul,Western Kentucky,6,4,0,1,NA,400905131,2016-11-25,
+344,4,0:39,39,39,Jaycee Coe missed Three Point Jumper.,74,68,6,0,0.9959100570324442,DePaul,Western Kentucky,6,4,0,1,NA,400905131,2016-11-25,
+345,4,0:39,39,39,Tashia Brown Offensive Rebound.,74,68,6,4,0.9959100570324442,DePaul,Western Kentucky,6,4,0,1,NA,400905131,2016-11-25,
+346,4,0:35,35,35,Foul on Brooke Schulte.,74,68,6,4,0.9964646692060322,DePaul,Western Kentucky,6,4,0,1,NA,400905131,2016-11-25,
+347,4,0:31,31,31,Tashia Brown missed Free Throw.,74,68,6,0,0.9969528353613176,DePaul,Western Kentucky,6,4,0,1,NA,400905131,2016-11-25,
+348,4,0:31,31,31,Western Kentucky Deadball Team Rebound.,74,68,6,0,0.9969528353613176,DePaul,Western Kentucky,6,4,0,1,NA,400905131,2016-11-25,
+349,4,0:31,31,31,Tashia Brown made Free Throw.,74,69,5,11,0.9920405962771082,DePaul,Western Kentucky,6,4,0,1,NA,400905131,2016-11-25,Western Kentucky
+350,4,0:20,20,20,Foul on Sidnee Bopp.,74,69,5,0,0.9943912765148744,DePaul,Western Kentucky,6,4,0,1,NA,400905131,2016-11-25,
+351,4,0:20,20,20,Kelly Campbell made Free Throw.,75,69,6,0,0.9980015224577066,DePaul,Western Kentucky,6,4,0,1,NA,400905131,2016-11-25,DePaul
+352,4,0:20,20,20,Kelly Campbell made Free Throw.,76,69,7,0,0.99928957085784,DePaul,Western Kentucky,6,4,0,1,NA,400905131,2016-11-25,DePaul
+353,4,0:20,20,20,Western Kentucky  Timeout,76,69,7,10,0.99928957085784,DePaul,Western Kentucky,6,3,0,1,NA,400905131,2016-11-25,
+354,4,0:10,10,10,Tashia Brown missed Three Point Jumper.,76,69,7,0,0.9995598070342894,DePaul,Western Kentucky,6,3,0,1,NA,400905131,2016-11-25,
+355,4,0:10,10,10,DePaul Defensive Rebound.,76,69,7,3,0.9995598070342894,DePaul,Western Kentucky,6,3,0,1,NA,400905131,2016-11-25,
+356,4,0:07,7,7,Foul on Sidnee Bopp.,76,69,7,0,0.9996207755773373,DePaul,Western Kentucky,6,3,0,1,NA,400905131,2016-11-25,
+357,4,0:07,7,7,Jessica January made Free Throw.,77,69,8,0,0.9998768875463498,DePaul,Western Kentucky,6,3,0,1,NA,400905131,2016-11-25,DePaul
+358,4,0:07,7,7,Jessica January missed Free Throw.,77,69,8,0,0.9998768875463498,DePaul,Western Kentucky,6,3,0,1,NA,400905131,2016-11-25,
+359,4,0:07,7,7,Kendall Noble Defensive Rebound.,77,69,8,6,0.9998768875463498,DePaul,Western Kentucky,6,3,0,1,NA,400905131,2016-11-25,
+360,4,0:01,1,1,Ivy Brown missed Three Point Jumper.,77,69,8,0,0.9999130253264555,DePaul,Western Kentucky,6,3,0,1,NA,400905131,2016-11-25,
+361,4,0:01,1,1,Ashton Millender Defensive Rebound.,77,69,8,1,0.9999130253264555,DePaul,Western Kentucky,6,3,0,1,NA,400905131,2016-11-25,
+362,4,0:00,0,0,End of Game,77,69,8,0,1,DePaul,Western Kentucky,6,3,0,1,NA,400905131,2016-11-25,

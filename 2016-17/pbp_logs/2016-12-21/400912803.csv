@@ -1,0 +1,354 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:50,2390,2390,LaBrittney Jones missed Jumper.,0,0,0,0,0.5,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,NA
+2,1,9:50,2390,2390,Shannon Dufficy Defensive Rebound.,0,0,0,16,0.5,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+3,1,9:34,2374,2374,Jessie Geer Turnover.,0,0,0,8,0.5,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+4,1,9:26,2366,2366,Lucia Alonso Turnover.,0,0,0,0,0.5,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+5,1,9:26,2366,2366,Rachel Brewster Steal.,0,0,0,0,0.5,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+6,1,9:26,2366,2366,Foul on Breanna Workman.,0,0,0,21,0.5,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+7,1,9:05,2345,2345,Shannon Dufficy made Jumper. Assisted by Rachel Brewster.,0,2,-2,11,0.45480091239566217,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,Utah State
+8,1,8:54,2334,2334,Lucia Alonso Turnover.,0,2,-2,7,0.4545614938352706,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+9,1,8:47,2327,2327,Shannon Dufficy Steal.,0,2,-2,1,0.45440837449252225,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+10,1,8:46,2326,2326,Foul on Lucia Alonso.,0,2,-2,0,0.4543864532488971,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+11,1,8:46,2326,2326,Shannon Dufficy missed Free Throw.,0,2,-2,0,0.4543864532488971,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+12,1,8:46,2326,2326,Utah State Deadball Team Rebound.,0,2,-2,0,0.4543864532488971,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+13,1,8:46,2326,2326,Shannon Dufficy made Free Throw.,0,3,-3,11,0.4318163477183905,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,Utah State
+14,1,8:35,2315,2315,Foul on Deja Mason.,0,3,-3,0,0.4314572944590229,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+15,1,8:35,2315,2315,Breanna Workman missed Free Throw.,0,3,-3,0,0.4314572944590229,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+16,1,8:35,2315,2315,Arizona Deadball Team Rebound.,0,3,-3,0,0.4314572944590229,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+17,1,8:35,2315,2315,Breanna Workman missed Free Throw.,0,3,-3,0,0.4314572944590229,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+18,1,8:35,2315,2315,Destiny Graham Offensive Rebound.,0,3,-3,19,0.4314572944590229,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+19,1,8:16,2296,2296,Bria Rice Turnover.,0,3,-3,15,0.4308326017028225,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+20,1,8:01,2281,2281,Shannon Dufficy made Jumper.,0,5,-5,1,0.3852153607054046,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,Utah State
+21,1,8:00,2280,2280,Arizona  Timeout,0,5,-5,13,0.38516184669208303,Arizona,Utah State,3,4,1,0,NA,400912803,2016-12-21,
+22,1,7:47,2267,2267,Foul on Deja Mason.,0,5,-5,3,0.38446442678649795,Arizona,Utah State,3,4,1,0,NA,400912803,2016-12-21,
+23,1,7:44,2264,2264,LaBrittney Jones missed Jumper.,0,5,-5,0,0.384303043017534,Arizona,Utah State,3,4,1,0,NA,400912803,2016-12-21,
+24,1,7:44,2264,2264,Deja Mason Block.,0,5,-5,0,0.384303043017534,Arizona,Utah State,3,4,1,0,NA,400912803,2016-12-21,
+25,1,7:44,2264,2264,Destiny Graham Offensive Rebound.,0,5,-5,0,0.384303043017534,Arizona,Utah State,3,4,1,0,NA,400912803,2016-12-21,
+26,1,7:44,2264,2264,Foul on Deja Mason.,0,5,-5,0,0.384303043017534,Arizona,Utah State,3,4,1,0,NA,400912803,2016-12-21,
+27,1,7:44,2264,2264,Destiny Graham made Free Throw.,1,5,-4,0,0.4068364792306825,Arizona,Utah State,3,4,1,0,NA,400912803,2016-12-21,Arizona
+28,1,7:44,2264,2264,Destiny Graham missed Free Throw.,1,5,-4,0,0.4068364792306825,Arizona,Utah State,3,4,1,0,NA,400912803,2016-12-21,
+29,1,7:44,2264,2264,Shannon Dufficy Defensive Rebound.,1,5,-4,17,0.4068364792306825,Arizona,Utah State,3,4,1,0,NA,400912803,2016-12-21,
+30,1,7:27,2247,2247,Eliza West Turnover.,1,5,-4,2,0.406087851051211,Arizona,Utah State,3,4,1,0,NA,400912803,2016-12-21,
+31,1,7:25,2245,2245,Breanna Workman Steal.,1,5,-4,4,0.4059995132609002,Arizona,Utah State,3,4,1,0,NA,400912803,2016-12-21,
+32,1,7:21,2241,2241,Breanna Workman Turnover.,1,5,-4,1,0.4058226805779683,Arizona,Utah State,3,4,1,0,NA,400912803,2016-12-21,
+33,1,7:20,2240,2240,Jessie Geer Steal.,1,5,-4,13,0.40577844028351323,Arizona,Utah State,3,4,1,0,NA,400912803,2016-12-21,
+34,1,7:07,2227,2227,Shannon Dufficy made Jumper. Assisted by Eliza West.,1,7,-6,26,0.35991042481297236,Arizona,Utah State,3,4,1,0,NA,400912803,2016-12-21,Utah State
+35,1,6:41,2201,2201,Lauren Evans Turnover.,1,7,-6,1,0.3582510621078522,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+36,1,6:40,2200,2200,Shannon Dufficy Steal.,1,7,-6,4,0.35818709452503844,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+37,1,6:36,2196,2196,Eliza West Turnover.,1,7,-6,1,0.35793113169286045,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+38,1,6:35,2195,2195,Bria Rice Steal.,1,7,-6,14,0.3578671186128487,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+39,1,6:21,2181,2181,Breanna Workman missed Three Point Jumper.,1,7,-6,0,0.35697009590898654,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+40,1,6:21,2181,2181,Shannon Dufficy Defensive Rebound.,1,7,-6,9,0.35697009590898654,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+41,1,6:12,2172,2172,Rachel Brewster made Jumper. Assisted by Eliza West.,1,9,-8,14,0.3125823996159715,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,Utah State
+42,1,5:58,2158,2158,Foul on Eliza West.,1,9,-8,10,0.31145906071672974,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+43,1,5:48,2148,2148,Foul on Antoina Robinson.,1,9,-8,0,0.31065481742821033,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+44,1,5:48,2148,2148,LaBrittney Jones made Free Throw.,2,9,-7,0,0.33238287886425155,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,Arizona
+45,1,5:48,2148,2148,LaBrittney Jones made Free Throw.,3,9,-6,25,0.35484836742901443,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,Arizona
+46,1,5:23,2123,2123,Shannon Dufficy made Jumper.,3,11,-8,24,0.30863663508062167,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,Utah State
+47,1,4:59,2099,2099,LaBrittney Jones made Jumper.,5,11,-6,22,0.3516629604614944,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,Arizona
+48,1,4:37,2077,2077,Eliza West missed Jumper.,5,11,-6,0,0.35021652231930794,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+49,1,4:37,2077,2077,Dejza James Block.,5,11,-6,2,0.35021652231930794,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+50,1,4:35,2075,2075,Lauren Evans Defensive Rebound.,5,11,-6,2,0.3500844788438849,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+51,1,4:33,2073,2073,Foul on Rachel Brewster.,5,11,-6,0,0.34995234093488226,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+52,1,4:33,2073,2073,Lauren Evans made Free Throw.,6,11,-5,0,0.37377854180019254,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,Arizona
+53,1,4:33,2073,2073,Lauren Evans missed Free Throw.,6,11,-5,0,0.37377854180019254,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+54,1,4:33,2073,2073,Dejza James Offensive Rebound.,6,11,-5,17,0.37377854180019254,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+55,1,4:16,2056,2056,Bria Rice made Three Point Jumper. Assisted by LaBrittney Jones.,9,11,-2,16,0.448169612562251,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,Arizona
+56,1,4:00,2040,2040,Hailey Bassett made Jumper. Assisted by Rachel Brewster.,9,13,-4,32,0.3966907209369003,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,Utah State
+57,1,3:28,2008,2008,LaBrittney Jones missed Three Point Jumper.,9,13,-4,0,0.39517325273878157,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+58,1,3:28,2008,2008,Antoina Robinson Defensive Rebound.,9,13,-4,21,0.39517325273878157,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+59,1,3:07,1987,1987,Rachel Brewster missed Jumper.,9,13,-4,0,0.39416476948051615,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+60,1,3:07,1987,1987,Dejza James Defensive Rebound.,9,13,-4,23,0.39416476948051615,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+61,1,2:44,1964,1964,LaBrittney Jones missed Jumper.,9,13,-4,0,0.3930479550822824,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+62,1,2:44,1964,1964,Dejza James Offensive Rebound.,9,13,-4,4,0.3930479550822824,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+63,1,2:40,1960,1960,Dejza James made Layup.,11,13,-2,13,0.4457965794687324,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,Arizona
+64,1,2:27,1947,1947,Rachel Brewster missed Three Point Jumper.,11,13,-2,0,0.4454657953323223,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+65,1,2:27,1947,1947,Rachel Brewster Offensive Rebound.,11,13,-2,9,0.4454657953323223,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+66,1,2:18,1938,1938,Rachel Brewster missed Jumper.,11,13,-2,0,0.4452353427673604,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+67,1,2:18,1938,1938,Dejza James Defensive Rebound.,11,13,-2,18,0.4452353427673604,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+68,1,2:00,1920,1920,LaBrittney Jones Turnover.,11,13,-2,5,0.4447717907446627,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+69,1,1:55,1915,1915,Rachel Brewster Steal.,11,13,-2,18,0.4446431038436045,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+70,1,1:37,1897,1897,Dee Moore Block.,11,13,-2,0,0.444180347788381,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+71,1,1:37,1897,1897,Destiny Graham missed Jumper.,11,13,-2,6,0.444180347788381,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+72,1,1:31,1891,1891,Eliza West Defensive Rebound.,11,13,-2,3,0.44402616846235454,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+73,1,1:28,1888,1888,Shannon Dufficy made Jumper. Assisted by Jessie Geer.,11,15,-4,15,0.38928942791554094,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,Utah State
+74,1,1:13,1873,1873,Dejza James made Jumper.,13,15,-2,8,0.44356338365673664,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,Arizona
+75,1,1:05,1865,1865,Katie Toole missed Jumper.,13,15,-2,0,0.4433574122310975,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+76,1,1:05,1865,1865,LaBrittney Jones Block.,13,15,-2,2,0.4433574122310975,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+77,1,1:03,1863,1863,LaBrittney Jones Defensive Rebound.,13,15,-2,16,0.44330587722367926,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+78,1,0:47,1847,1847,Destiny Graham made Jumper.,15,15,0,14,0.5,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,Arizona
+79,1,0:33,1833,1833,Eliza West missed Jumper.,15,15,0,0,0.5,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+80,1,0:33,1833,1833,Eliza West Offensive Rebound.,15,15,0,8,0.5,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+81,1,0:25,1825,1825,Foul on LaBrittney Jones.,15,15,0,0,0.5,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+82,1,0:25,1825,1825,Shannon Dufficy missed Free Throw.,15,15,0,0,0.5,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+83,1,0:25,1825,1825,Utah State Deadball Team Rebound.,15,15,0,0,0.5,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+84,1,0:25,1825,1825,Shannon Dufficy made Free Throw.,15,16,-1,18,0.4710642355580107,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,Utah State
+85,1,0:07,1807,1807,Dejza James missed Jumper.,15,16,-1,0,0.47082630251310603,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+86,1,0:07,1807,1807,Lizzy Klinker Block.,15,16,-1,2,0.47082630251310603,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+87,1,0:05,1805,1805,Antoina Robinson Defensive Rebound.,15,16,-1,5,0.47079973580313295,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+88,1,0:00,1800,1800,Jessie Geer missed Three Point Jumper.,15,16,-1,0,0.47073319422403154,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+89,1,0:00,1800,1800,Utah State Deadball Team Rebound.,15,16,-1,0,0.47073319422403154,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+90,1,0:00,1800,1800,End of 1st Quarter,15,16,-1,14,0.47073319422403154,Arizona,Utah State,3,4,0,0,NA,400912803,2016-12-21,
+91,2,9:46,1786,1786,Foul on Antoina Robinson.,15,16,-1,14,0.4705458570827512,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+92,2,9:32,1772,1772,Bria Rice Turnover.,15,16,-1,20,0.47035684852461485,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+93,2,9:12,1752,1752,Eliza West Turnover.,15,16,-1,23,0.47008351510995294,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+94,2,8:49,1729,1729,Dejza James made Three Point Jumper. Assisted by Bria Rice.,18,16,2,13,0.5602524136590633,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,Arizona
+95,2,8:36,1716,1716,Antoina Robinson made Layup.,18,18,0,28,0.5,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,Utah State
+96,2,8:08,1688,1688,Bria Rice missed Jumper.,18,18,0,0,0.5,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+97,2,8:08,1688,1688,Dejza James Offensive Rebound.,18,18,0,3,0.5,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+98,2,8:05,1685,1685,Dejza James made Layup.,20,18,2,19,0.5615010656287555,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,Arizona
+99,2,7:46,1666,1666,Rachel Brewster missed Jumper.,20,18,2,0,0.5620382530342561,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+100,2,7:46,1666,1666,Breanna Workman Defensive Rebound.,20,18,2,12,0.5620382530342561,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+101,2,7:34,1654,1654,Breanna Workman missed Layup.,20,18,2,0,0.5623708690959547,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+102,2,7:34,1654,1654,Dejza James Offensive Rebound.,20,18,2,3,0.5623708690959547,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+103,2,7:31,1651,1651,Dejza James made Layup.,22,18,4,20,0.6229878937954086,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,Arizona
+104,2,7:11,1631,1631,Foul on Dejza James.,22,18,4,0,0.6240269031165463,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+105,2,7:11,1631,1631,Antoina Robinson made Free Throw.,22,19,3,0,0.5938747716069446,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,Utah State
+106,2,7:11,1631,1631,Antoina Robinson made Free Throw.,22,20,2,25,0.5629979118516784,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,Utah State
+107,2,6:46,1606,1606,Foul on Antoina Robinson.,22,20,2,10,0.5636703911818012,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+108,2,6:36,1596,1596,Foul on Breanna Workman.,22,20,2,0,0.5639385686636278,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+109,2,6:36,1596,1596,Breanna Workman Turnover.,22,20,2,6,0.5639385686636278,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+110,2,6:30,1590,1590,Rachel Brewster missed Jumper.,22,20,2,0,0.5640996076167397,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+111,2,6:30,1590,1590,Destiny Graham Defensive Rebound.,22,20,2,12,0.5640996076167397,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+112,2,6:18,1578,1578,Breanna Workman Turnover.,22,20,2,28,0.5644225298813833,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+113,2,5:50,1550,1550,Rachel Brewster missed Three Point Jumper.,22,20,2,0,0.5651850433741029,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+114,2,5:50,1550,1550,Dejza James Defensive Rebound.,22,20,2,29,0.5651850433741029,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+115,2,5:21,1521,1521,Lucia Alonso made Jumper.,24,20,4,10,0.6297363773297182,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,Arizona
+116,2,5:11,1511,1511,Foul on Lauren Evans.,24,20,4,0,0.6302837384202129,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+117,2,5:11,1511,1511,Shannon Dufficy made Free Throw.,24,21,3,0,0.5987058439163156,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,Utah State
+118,2,5:11,1511,1511,Shannon Dufficy missed Free Throw.,24,21,3,0,0.5987058439163156,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+119,2,5:11,1511,1511,Dejza James Defensive Rebound.,24,21,3,10,0.5987058439163156,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+120,2,5:01,1501,1501,LaBrittney Jones missed Jumper.,24,21,3,0,0.5991362198311965,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+121,2,5:01,1501,1501,Shannon Dufficy Block.,24,21,3,1,0.5991362198311965,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+122,2,5:00,1500,1500,Utah State Defensive Rebound.,24,21,3,0,0.5991796821583484,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+123,2,5:00,1500,1500,Official TV Timeout,24,21,3,20,0.5991796821583484,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+124,2,4:40,1480,1480,Shannon Dufficy missed Jumper.,24,21,3,0,0.6000668489689114,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+125,2,4:40,1480,1480,Utah State Offensive Rebound.,24,21,3,12,0.6000668489689114,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+126,2,4:28,1468,1468,Rachel Brewster missed Jumper.,24,21,3,0,0.6006171876053443,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+127,2,4:28,1468,1468,Dejza James Defensive Rebound.,24,21,3,19,0.6006171876053443,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+128,2,4:09,1449,1449,LaBrittney Jones Turnover.,24,21,3,3,0.6015200198393883,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+129,2,4:06,1446,1446,Katie Toole Steal.,24,21,3,21,0.6016646661684296,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+130,2,3:45,1425,1425,Katie Toole missed Jumper.,24,21,3,0,0.6026516947480413,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+131,2,3:45,1425,1425,LaBrittney Jones Defensive Rebound.,24,21,3,9,0.6026516947480413,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+132,2,3:36,1416,1416,Foul on Rachel Brewster.,24,21,3,0,0.6030631636124253,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+133,2,3:36,1416,1416,LaBrittney Jones made Free Throw.,25,21,4,0,0.6359108671200749,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,Arizona
+134,2,3:36,1416,1416,LaBrittney Jones missed Free Throw.,25,21,4,0,0.6359108671200749,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+135,2,3:36,1416,1416,Shannon Dufficy Defensive Rebound.,25,21,4,27,0.6359108671200749,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+136,2,3:09,1389,1389,Olivia West missed Three Point Jumper.,25,21,4,0,0.6374654838114278,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+137,2,3:09,1389,1389,Destiny Graham Block.,25,21,4,2,0.6374654838114278,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+138,2,3:07,1387,1387,Shannon Dufficy Offensive Rebound.,25,21,4,3,0.6375790760231219,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+139,2,3:04,1384,1384,Utah State  Turnover.,25,21,4,10,0.6377492058901116,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+140,2,2:54,1374,1374,Destiny Graham missed Jumper.,25,21,4,0,0.6383146577286957,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+141,2,2:54,1374,1374,Dejza James Offensive Rebound.,25,21,4,2,0.6383146577286957,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+142,2,2:52,1372,1372,Dejza James Turnover.,25,21,4,23,0.6384275531041915,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+143,2,2:29,1349,1349,Shannon Dufficy Turnover.,25,21,4,1,0.6397272672677069,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+144,2,2:28,1348,1348,Lauren Evans Steal.,25,21,4,2,0.6397840240726572,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+145,2,2:26,1346,1346,Lauren Evans made Layup. Assisted by Dejza James.,27,21,6,24,0.7031576427138829,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,Arizona
+146,2,2:02,1322,1322,Foul on Dee Moore.,27,21,6,0,0.7050306299893409,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+147,2,2:02,1322,1322,Dee Moore Turnover.,27,21,6,17,0.7050306299893409,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+148,2,1:45,1305,1305,LaBrittney Jones Turnover.,27,21,6,0,0.7063919887623981,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+149,2,1:45,1305,1305,Rachel Brewster Steal.,27,21,6,18,0.7063919887623981,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+150,2,1:27,1287,1287,Jessie Geer Turnover.,27,21,6,0,0.7078795343010927,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+151,2,1:27,1287,1287,Destiny Graham Steal.,27,21,6,27,0.7078795343010927,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+152,2,1:00,1260,1260,Destiny Graham missed Jumper.,27,21,6,0,0.7102292430765107,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+153,2,1:00,1260,1260,Shannon Dufficy Defensive Rebound.,27,21,6,8,0.7102292430765107,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+154,2,0:52,1252,1252,Foul on Lucia Alonso.,27,21,6,0,0.7109584567037899,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+155,2,0:52,1252,1252,Rachel Brewster missed Free Throw.,27,21,6,0,0.7109584567037899,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+156,2,0:52,1252,1252,Utah State Deadball Team Rebound.,27,21,6,0,0.7109584567037899,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+157,2,0:52,1252,1252,Rachel Brewster made Free Throw.,27,22,5,25,0.679186610981001,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,Utah State
+158,2,0:27,1227,1227,Bria Rice Turnover.,27,22,5,1,0.681304149634333,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+159,2,0:26,1226,1226,Hailey Bassett Steal.,27,22,5,10,0.6813924403495734,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+160,2,0:16,1216,1216,Hailey Bassett missed Jumper.,27,22,5,0,0.6822918542956352,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+161,2,0:16,1216,1216,LaBrittney Jones Defensive Rebound.,27,22,5,15,0.6822918542956352,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+162,2,0:01,1201,1201,LaBrittney Jones missed Jumper.,27,22,5,0,0.6836782407911076,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+163,2,0:01,1201,1201,Shannon Dufficy Defensive Rebound.,27,22,5,1,0.6836782407911076,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+164,2,0:00,1200,1200,End of 2nd Quarter,27,22,5,19,0.6837696278036713,Arizona,Utah State,4,4,0,0,NA,400912803,2016-12-21,
+165,3,9:41,1181,1181,LaBrittney Jones missed Jumper.,27,22,5,0,0.685472237697294,Arizona,Utah State,5,5,0,0,NA,400912803,2016-12-21,
+166,3,9:41,1181,1181,Deja Mason Block.,27,22,5,1,0.685472237697294,Arizona,Utah State,5,5,0,0,NA,400912803,2016-12-21,
+167,3,9:40,1180,1180,Breanna Workman Offensive Rebound.,27,22,5,4,0.6855602838218201,Arizona,Utah State,5,5,0,0,NA,400912803,2016-12-21,
+168,3,9:36,1176,1176,Breanna Workman made Layup.,29,22,7,14,0.7490404146541679,Arizona,Utah State,5,5,0,0,NA,400912803,2016-12-21,Arizona
+169,3,9:22,1162,1162,Jessie Geer missed Three Point Jumper.,29,22,7,0,0.7505216684219997,Arizona,Utah State,5,5,0,0,NA,400912803,2016-12-21,
+170,3,9:22,1162,1162,Breanna Workman Defensive Rebound.,29,22,7,9,0.7505216684219997,Arizona,Utah State,5,5,0,0,NA,400912803,2016-12-21,
+171,3,9:13,1153,1153,Foul on Destiny Graham.,29,22,7,0,0.751461519939288,Arizona,Utah State,5,5,0,0,NA,400912803,2016-12-21,
+172,3,9:13,1153,1153,Destiny Graham Turnover.,29,22,7,22,0.751461519939288,Arizona,Utah State,5,5,0,0,NA,400912803,2016-12-21,
+173,3,8:51,1131,1131,Jessie Geer missed Three Point Jumper.,29,22,7,0,0.7537366575520505,Arizona,Utah State,5,5,0,0,NA,400912803,2016-12-21,
+174,3,8:51,1131,1131,Jessie Geer Offensive Rebound.,29,22,7,20,0.7537366575520505,Arizona,Utah State,5,5,0,0,NA,400912803,2016-12-21,
+175,3,8:31,1111,1111,Rachel Brewster Turnover.,29,22,7,2,0.7558029157548064,Arizona,Utah State,5,5,0,0,NA,400912803,2016-12-21,
+176,3,8:29,1109,1109,Destiny Graham Steal.,29,22,7,2,0.7560105645134801,Arizona,Utah State,5,5,0,0,NA,400912803,2016-12-21,
+177,3,8:27,1107,1107,Destiny Graham Turnover.,29,22,7,14,0.7562185098587828,Arizona,Utah State,5,5,0,0,NA,400912803,2016-12-21,
+178,3,8:13,1093,1093,Deja Mason made Layup. Assisted by Rachel Brewster.,29,24,5,15,0.6930262230628348,Arizona,Utah State,5,5,0,0,NA,400912803,2016-12-21,Utah State
+179,3,7:58,1078,1078,LaBrittney Jones missed Jumper.,29,24,5,0,0.6943511528560034,Arizona,Utah State,5,5,0,0,NA,400912803,2016-12-21,
+180,3,7:58,1078,1078,Breanna Workman Offensive Rebound.,29,24,5,15,0.6943511528560034,Arizona,Utah State,5,5,0,0,NA,400912803,2016-12-21,
+181,3,7:43,1063,1063,Destiny Graham made Jumper. Assisted by Breanna Workman.,31,24,7,19,0.7609231388719989,Arizona,Utah State,5,5,0,0,NA,400912803,2016-12-21,Arizona
+182,3,7:24,1044,1044,Utah State  Timeout,31,24,7,9,0.76307436546515806,Arizona,Utah State,5,4,0,1,NA,400912803,2016-12-21,
+183,3,7:15,1035,1035,Shannon Dufficy made Jumper. Assisted by Rachel Brewster.,31,26,5,26,0.6983821188451897,Arizona,Utah State,5,4,0,1,NA,400912803,2016-12-21,Utah State
+184,3,6:49,1009,1009,Breanna Workman made Jumper. Assisted by Lucia Alonso.,33,26,7,10,0.7673243830294614,Arizona,Utah State,5,4,0,1,NA,400912803,2016-12-21,Arizona
+185,3,6:39,999,999,Shannon Dufficy Turnover.,33,26,7,2,0.7686216057768296,Arizona,Utah State,5,4,0,1,NA,400912803,2016-12-21,
+186,3,6:37,997,997,LaBrittney Jones Steal.,33,26,7,3,0.7688860228932132,Arizona,Utah State,5,4,0,1,NA,400912803,2016-12-21,
+187,3,6:34,994,994,LaBrittney Jones Turnover.,33,26,7,6,0.7692858627185332,Arizona,Utah State,5,4,0,1,NA,400912803,2016-12-21,
+188,3,6:28,988,988,Shannon Dufficy missed Layup.,33,26,7,0,0.7700973899797688,Arizona,Utah State,5,4,0,1,NA,400912803,2016-12-21,
+189,3,6:28,988,988,Rachel Brewster Offensive Rebound.,33,26,7,4,0.7700973899797688,Arizona,Utah State,5,4,0,1,NA,400912803,2016-12-21,
+190,3,6:24,984,984,Rachel Brewster made Layup.,33,28,5,10,0.7038487586430906,Arizona,Utah State,5,4,0,1,NA,400912803,2016-12-21,Utah State
+191,3,6:14,974,974,Breanna Workman missed Layup.,33,28,5,0,0.7050359307470478,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+192,3,6:14,974,974,Deja Mason Block.,33,28,5,0,0.7050359307470478,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+193,3,6:14,974,974,Arizona Offensive Rebound.,33,28,5,12,0.7050359307470478,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+194,3,6:02,962,962,Destiny Graham missed Three Point Jumper.,33,28,5,0,0.7064804416311167,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+195,3,6:02,962,962,Shannon Dufficy Defensive Rebound.,33,28,5,13,0.7064804416311167,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+196,3,5:49,949,949,Shannon Dufficy missed Jumper.,33,28,5,0,0.7079440002859485,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+197,3,5:49,949,949,LaBrittney Jones Block.,33,28,5,3,0.7079440002859485,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+198,3,5:46,946,946,Deja Mason Offensive Rebound.,33,28,5,9,0.7082671776404269,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+199,3,5:37,937,937,Eliza West missed Jumper.,33,28,5,0,0.7092078302039065,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+200,3,5:37,937,937,LaBrittney Jones Defensive Rebound.,33,28,5,13,0.7092078302039065,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+201,3,5:24,924,924,Dejza James made Layup. Assisted by Lauren Evans.,35,28,7,24,0.7784990891551427,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,Arizona
+202,3,5:00,900,900,Deja Mason made Jumper. Assisted by Katie Toole.,35,30,5,8,0.7127384302444656,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,Utah State
+203,3,4:52,892,892,Official TV Timeout,35,30,5,4,0.7134579304921927,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+204,3,4:48,888,888,Malena Washington missed Jumper.,35,30,5,0,0.7138150967104424,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+205,3,4:48,888,888,Eliza West Defensive Rebound.,35,30,5,8,0.7138150967104424,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+206,3,4:40,880,880,Katie Toole missed Layup.,35,30,5,0,0.7145268985223943,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+207,3,4:40,880,880,LaBrittney Jones Block.,35,30,5,2,0.7145268985223943,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+208,3,4:38,878,878,Lucia Alonso Defensive Rebound.,35,30,5,0,0.7147047047787176,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+209,3,4:38,878,878,Technical Foul on Utah State.,35,30,5,0,0.7147047047787176,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+210,3,4:38,878,878,LaBrittney Jones made Free Throw.,36,30,6,0,0.7506372085865335,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,Arizona
+211,3,4:38,878,878,LaBrittney Jones made Free Throw.,37,30,7,9,0.7834155221294044,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,Arizona
+212,3,4:29,869,869,LaBrittney Jones missed Jumper.,37,30,7,0,0.7843491556226626,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+213,3,4:29,869,869,Shannon Dufficy Defensive Rebound.,37,30,7,4,0.7843491556226626,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+214,3,4:25,865,865,Foul on Lauren Evans.,37,30,7,20,0.7847660316138014,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+215,3,4:05,845,845,Katie Toole Turnover.,37,30,7,1,0.7868927967726418,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+216,3,4:04,844,844,Malena Washington Steal.,37,30,7,4,0.7870017940083494,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+217,3,4:00,840,840,Malena Washington made Layup.,39,30,9,17,0.8433980691191019,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,Arizona
+218,3,3:43,823,823,Deja Mason Turnover.,39,30,9,1,0.8453601036936277,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+219,3,3:42,822,822,Dejza James Steal.,39,30,9,5,0.8454794753203585,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+220,3,3:37,817,817,Foul on Deja Mason.,39,30,9,0,0.8460839054810717,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+221,3,3:37,817,817,Dejza James missed Free Throw.,39,30,9,0,0.8460839054810717,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+222,3,3:37,817,817,Arizona Deadball Team Rebound.,39,30,9,0,0.8460839054810717,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+223,3,3:37,817,817,Dejza James made Free Throw.,40,30,10,10,0.8691617813395185,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,Arizona
+224,3,3:27,807,807,Antoina Robinson made Jumper. Assisted by Rachel Brewster.,40,32,8,33,0.8210408024609318,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,Utah State
+225,3,2:54,774,774,Malena Washington missed Jumper.,40,32,8,0,0.8256991685125571,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+226,3,2:54,774,774,Dejza James Offensive Rebound.,40,32,8,16,0.8256991685125571,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+227,3,2:38,758,758,Dejza James missed Three Point Jumper.,40,32,8,0,0.8282910870561309,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+228,3,2:38,758,758,LaBrittney Jones Offensive Rebound.,40,32,8,12,0.8282910870561309,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+229,3,2:26,746,746,LaBrittney Jones Turnover.,40,32,8,0,0.8304019434114958,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+230,3,2:26,746,746,Eliza West Steal.,40,32,8,17,0.8304019434114958,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+231,3,2:09,729,729,Rachel Brewster missed Jumper.,40,32,8,0,0.8336587030593133,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+232,3,2:09,729,729,Dejza James Defensive Rebound.,40,32,8,29,0.8336587030593133,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+233,3,1:40,700,700,Lucia Alonso missed Three Point Jumper.,40,32,8,0,0.83878600359693,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+234,3,1:40,700,700,Dejza James Offensive Rebound.,40,32,8,3,0.83878600359693,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+235,3,1:37,697,697,Dejza James missed Jumper.,40,32,8,1,0.8392588251531121,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+236,3,1:36,696,696,Antoina Robinson Block.,40,32,8,1,0.8394146140669093,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+237,3,1:35,695,695,LaBrittney Jones Offensive Rebound.,40,32,8,6,0.8395695365747424,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+238,3,1:29,689,689,LaBrittney Jones made Jumper.,42,32,10,18,0.8886748534989091,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,Arizona
+239,3,1:11,671,671,Eliza West missed Jumper.,42,32,10,0,0.8910759732654423,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+240,3,1:11,671,671,LaBrittney Jones Block.,42,32,10,5,0.8910759732654423,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+241,3,1:06,666,666,Malena Washington Defensive Rebound.,42,32,10,0,0.8917217758675473,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+242,3,1:06,666,666,Foul on Olivia West.,42,32,10,0,0.8917217758675473,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+243,3,1:06,666,666,Malena Washington made Free Throw.,43,32,11,0,0.910462495132165,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,Arizona
+244,3,1:06,666,666,Malena Washington made Free Throw.,44,32,12,13,0.9262279291173893,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,Arizona
+245,3,0:53,653,653,Foul on LaBrittney Jones.,44,32,12,0,0.9276403185156227,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+246,3,0:53,653,653,Antoina Robinson missed Free Throw.,44,32,12,0,0.9276403185156227,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+247,3,0:53,653,653,Utah State Deadball Team Rebound.,44,32,12,0,0.9276403185156227,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+248,3,0:53,653,653,Antoina Robinson missed Free Throw.,44,32,12,0,0.9276403185156227,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+249,3,0:53,653,653,Dejza James Defensive Rebound.,44,32,12,11,0.9276403185156227,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+250,3,0:42,642,642,LaBrittney Jones made Layup. Assisted by Malena Washington.,46,32,14,12,0.9524472709293548,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,Arizona
+251,3,0:30,630,630,Foul on Dejza James.,46,32,14,0,0.9535192652602237,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+252,3,0:30,630,630,Shannon Dufficy made Free Throw.,46,33,13,0,0.9429630234706607,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,Utah State
+253,3,0:30,630,630,Shannon Dufficy made Free Throw.,46,34,12,29,0.9301848888987622,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,Utah State
+254,3,0:01,601,601,Foul on Olivia West.,46,34,12,0,0.9337290134689358,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+255,3,0:01,601,601,LaBrittney Jones made Free Throw.,47,34,13,0,0.9461341111113284,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,Arizona
+256,3,0:01,601,601,LaBrittney Jones missed Free Throw.,47,34,13,0,0.9461341111113284,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+257,3,0:01,601,601,Arizona Deadball Team Rebound.,47,34,13,0,0.9461341111113284,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+258,3,0:01,601,601,LaBrittney Jones made Free Throw.,48,34,14,1,0.9563257429847684,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,Arizona
+259,3,0:00,600,600,End of 3rd Quarter,48,34,14,10,0.9564300540713527,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+260,4,9:50,590,590,Lucia Alonso missed Jumper.,48,34,14,0,0.9575069041167141,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,
+261,4,9:50,590,590,Shannon Dufficy Defensive Rebound.,48,34,14,11,0.9575069041167141,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,
+262,4,9:39,579,579,Foul on Lucia Alonso.,48,34,14,12,0.9587678263855348,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,
+263,4,9:27,567,567,Rachel Brewster made Jumper.,48,36,12,9,0.9387436910629967,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,Utah State
+264,4,9:18,558,558,Malena Washington made Three Point Jumper. Assisted by Lucia Alonso.,51,36,15,21,0.9690926486136048,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,Arizona
+265,4,8:57,537,537,Shannon Dufficy made Layup.,51,38,13,22,0.9551002287562532,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,Utah State
+266,4,8:35,515,515,Lucia Alonso missed Jumper.,51,38,13,0,0.9576963023055569,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,
+267,4,8:35,515,515,Lucia Alonso Offensive Rebound.,51,38,13,19,0.9576963023055569,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,
+268,4,8:16,496,496,Malena Washington made Jumper.,53,38,15,0,0.974830795308874,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,Arizona
+269,4,8:16,496,496,Foul on Shannon Dufficy.,53,38,15,0,0.974830795308874,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,
+270,4,8:16,496,496,Malena Washington made Free Throw.,54,38,16,3,0.9801678384793415,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,Arizona
+271,4,8:13,493,493,Foul on Destiny Graham.,54,38,16,14,0.9803566683841239,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,
+272,4,7:59,479,479,Shannon Dufficy missed Three Point Jumper.,54,38,16,0,0.9812579208654967,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,
+273,4,7:59,479,479,Breanna Workman Defensive Rebound.,54,38,16,23,0.9812579208654967,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,
+274,4,7:36,456,456,Breanna Workman missed Jumper.,54,38,16,0,0.9829131063601343,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,
+275,4,7:36,456,456,Rachel Brewster Defensive Rebound.,54,38,16,10,0.9829131063601343,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,
+276,4,7:26,446,446,Shannon Dufficy made Jumper. Assisted by Eliza West.,54,40,14,26,0.9731319856786607,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,Utah State
+277,4,7:00,420,420,Foul on Rachel Brewster.,54,40,14,8,0.9765768409984519,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,
+278,4,6:52,412,412,Breanna Workman missed Jumper.,54,40,14,0,0.9775368045455455,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,
+279,4,6:52,412,412,Rachel Brewster Defensive Rebound.,54,40,14,12,0.9775368045455455,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,
+280,4,6:40,400,400,Foul on Dejza James.,54,40,14,3,0.978855932647244,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,
+281,4,6:37,397,397,Eliza West made Jumper. Assisted by Jessie Geer.,54,42,12,8,0.9644373286479829,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,Utah State
+282,4,6:29,389,389,Malena Washington missed Three Point Jumper.,54,42,12,0,0.9656170939461275,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,
+283,4,6:29,389,389,Rachel Brewster Defensive Rebound.,54,42,12,10,0.9656170939461275,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,
+284,4,6:19,379,379,Eliza West missed Three Point Jumper.,54,42,12,0,0.9670675689683437,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,
+285,4,6:19,379,379,Hailey Bassett Offensive Rebound.,54,42,12,4,0.9670675689683437,Arizona,Utah State,6,5,0,0,NA,400912803,2016-12-21,
+286,4,6:15,375,375,Hailey Bassett made Jumper.,54,44,10,0,0.9443711535104995,Arizona,Utah State,6,5,0,1,NA,400912803,2016-12-21,Utah State
+287,4,6:15,375,375,Utah State  Timeout,54,44,10,19,0.9443711535104995,Arizona,Utah State,6,4,0,1,NA,400912803,2016-12-21,
+288,4,5:56,356,356,Bria Rice missed Three Point Jumper.,54,44,10,0,0.9483580867865797,Arizona,Utah State,6,4,0,1,NA,400912803,2016-12-21,
+289,4,5:56,356,356,Eliza West Defensive Rebound.,54,44,10,8,0.9483580867865797,Arizona,Utah State,6,4,0,1,NA,400912803,2016-12-21,
+290,4,5:48,348,348,Foul on Lauren Evans.,54,44,10,0,0.9501456342012863,Arizona,Utah State,6,4,0,1,NA,400912803,2016-12-21,
+291,4,5:48,348,348,Rachel Brewster made Free Throw.,54,45,9,0,0.9341807922660087,Arizona,Utah State,6,4,0,1,NA,400912803,2016-12-21,Utah State
+292,4,5:48,348,348,Rachel Brewster missed Free Throw.,54,45,9,0,0.9341807922660087,Arizona,Utah State,6,4,0,1,NA,400912803,2016-12-21,
+293,4,5:48,348,348,Bria Rice Defensive Rebound.,54,45,9,19,0.9341807922660087,Arizona,Utah State,6,4,0,1,NA,400912803,2016-12-21,
+294,4,5:29,329,329,Malena Washington missed Jumper.,54,45,9,0,0.9395878547726274,Arizona,Utah State,6,4,0,1,NA,400912803,2016-12-21,
+295,4,5:29,329,329,Antoina Robinson Block.,54,45,9,1,0.9395878547726274,Arizona,Utah State,6,4,0,1,NA,400912803,2016-12-21,
+296,4,5:28,328,328,Antoina Robinson Defensive Rebound.,54,45,9,13,0.9398922053145031,Arizona,Utah State,6,4,0,1,NA,400912803,2016-12-21,
+297,4,5:15,315,315,Rachel Brewster missed Three Point Jumper.,54,45,9,0,0.9440378124300821,Arizona,Utah State,6,4,0,1,NA,400912803,2016-12-21,
+298,4,5:15,315,315,Malena Washington Defensive Rebound.,54,45,9,13,0.9440378124300821,Arizona,Utah State,6,4,0,1,NA,400912803,2016-12-21,
+299,4,5:02,302,302,LaBrittney Jones Turnover.,54,45,9,1,0.9478136237724513,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+300,4,5:01,301,301,Rachel Brewster Steal.,54,45,9,1,0.9479920431567922,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+301,4,5:00,300,300,Foul on Bria Rice.,54,45,9,0,0.9481541180398673,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+302,4,5:00,300,300,Rachel Brewster made Free Throw.,54,46,8,0,0.9297807178668477,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,Utah State
+303,4,5:00,300,300,Rachel Brewster missed Free Throw.,54,46,8,0,0.9297807178668477,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+304,4,5:00,300,300,Destiny Graham Defensive Rebound.,54,46,8,9,0.9297807178668477,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+305,4,4:51,291,291,Lauren Evans Turnover.,54,46,8,1,0.9307355154705875,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+306,4,4:50,290,290,Rachel Brewster Steal.,54,46,8,2,0.9307663722819847,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+307,4,4:48,288,288,Foul on Lucia Alonso.,54,46,8,0,0.9307890351359783,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+308,4,4:48,288,288,Rachel Brewster made Free Throw.,54,47,7,0,0.9067019163975839,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,Utah State
+309,4,4:48,288,288,Rachel Brewster made Free Throw.,54,48,6,21,0.8753544752494261,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,Utah State
+310,4,4:27,267,267,Malena Washington Turnover.,54,48,6,2,0.8728055740810071,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+311,4,4:25,265,265,Shannon Dufficy Steal.,54,48,6,16,0.8724032438982157,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+312,4,4:09,249,249,Eliza West missed Jumper.,54,48,6,0,0.869311589384295,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+313,4,4:09,249,249,Eliza West Offensive Rebound.,54,48,6,9,0.869311589384295,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+314,4,4:00,240,240,Eliza West Turnover.,54,48,6,1,0.8683150281043988,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+315,4,3:59,239,239,Lucia Alonso Steal.,54,48,6,16,0.8682653812320977,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+316,4,3:43,223,223,Destiny Graham missed Three Point Jumper.,54,48,6,0,0.8698770562270444,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+317,4,3:43,223,223,Rachel Brewster Defensive Rebound.,54,48,6,7,0.8698770562270444,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+318,4,3:36,216,216,Antoina Robinson missed Layup.,54,48,6,0,0.8723737638140947,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+319,4,3:36,216,216,Lucia Alonso Defensive Rebound.,54,48,6,9,0.8723737638140947,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+320,4,3:27,207,207,LaBrittney Jones made Layup. Assisted by Lucia Alonso.,56,48,8,23,0.932498297210572,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,Arizona
+321,4,3:04,184,184,Foul on Destiny Graham.,56,48,8,0,0.9497248087402015,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+322,4,3:04,184,184,Rachel Brewster made Free Throw.,56,49,7,0,0.9289933444462953,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,Utah State
+323,4,3:04,184,184,Rachel Brewster made Free Throw.,56,50,6,5,0.9006077254181508,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,Utah State
+324,4,2:59,179,179,Dejza James Turnover.,56,50,6,2,0.9061275111082824,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+325,4,2:57,177,177,Rachel Brewster Steal.,56,50,6,1,0.9082776846521043,Arizona,Utah State,6,4,0,0,NA,400912803,2016-12-21,
+326,4,2:56,176,176,Rachel Brewster made Layup.,56,52,4,0,0.8230397841695035,Arizona,Utah State,6,4,1,0,NA,400912803,2016-12-21,Utah State
+327,4,2:56,176,176,Arizona  Timeout,56,52,4,5,0.8230397841695035,Arizona,Utah State,5,4,1,0,NA,400912803,2016-12-21,
+328,4,2:51,171,171,Foul on Malena Washington.,56,52,4,0,0.8292569175755539,Arizona,Utah State,5,4,1,0,NA,400912803,2016-12-21,
+329,4,2:51,171,171,Malena Washington Turnover.,56,52,4,18,0.8292569175755539,Arizona,Utah State,5,4,1,0,NA,400912803,2016-12-21,
+330,4,2:33,153,153,Rachel Brewster missed Jumper.,56,52,4,0,0.8515151369678144,Arizona,Utah State,5,4,1,0,NA,400912803,2016-12-21,
+331,4,2:33,153,153,Shannon Dufficy Offensive Rebound.,56,52,4,5,0.8515151369678144,Arizona,Utah State,5,4,1,0,NA,400912803,2016-12-21,
+332,4,2:28,148,148,Shannon Dufficy Turnover.,56,52,4,22,0.8577385433232526,Arizona,Utah State,5,4,1,0,NA,400912803,2016-12-21,
+333,4,2:06,126,126,LaBrittney Jones missed Layup.,56,52,4,0,0.8855786215436989,Arizona,Utah State,5,4,1,0,NA,400912803,2016-12-21,
+334,4,2:06,126,126,Destiny Graham Offensive Rebound.,56,52,4,18,0.8855786215436989,Arizona,Utah State,5,4,1,0,NA,400912803,2016-12-21,
+335,4,1:48,108,108,LaBrittney Jones made Layup. Assisted by Lucia Alonso.,58,52,6,0,0.9690962598333681,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,Arizona
+336,4,1:48,108,108,Foul on Hailey Bassett.,58,52,6,0,0.9690962598333681,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+337,4,1:48,108,108,LaBrittney Jones made Free Throw.,59,52,7,10,0.9823590594962671,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,Arizona
+338,4,1:38,98,98,Shannon Dufficy missed Jumper.,59,52,7,0,0.9866541867627782,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+339,4,1:38,98,98,Antoina Robinson Offensive Rebound.,59,52,7,4,0.9866541867627782,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+340,4,1:34,94,94,Antoina Robinson missed Jumper.,59,52,7,0,0.9881711086612761,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+341,4,1:34,94,94,Jessie Geer Offensive Rebound.,59,52,7,17,0.9881711086612761,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,
+342,4,1:17,77,77,Antoina Robinson made Jumper. Assisted by Eliza West.,59,54,5,2,0.9720701627339999,Arizona,Utah State,5,4,0,0,NA,400912803,2016-12-21,Utah State
+343,4,1:15,75,75,Utah State  Timeout,59,54,5,13,0.9733571352738245,Arizona,Utah State,5,3,0,1,NA,400912803,2016-12-21,
+344,4,1:02,62,62,Breanna Workman made Layup. Assisted by Destiny Graham.,61,54,7,20,0.9959414655699769,Arizona,Utah State,5,3,0,1,NA,400912803,2016-12-21,Arizona
+345,4,0:42,42,42,Jessie Geer made Three Point Jumper.,61,57,4,1,0.9731853991727926,Arizona,Utah State,5,3,0,1,NA,400912803,2016-12-21,Utah State
+346,4,0:41,41,41,Arizona  Timeout,61,57,4,5,0.9737993907320708,Arizona,Utah State,4,3,1,1,NA,400912803,2016-12-21,
+347,4,0:36,36,36,Foul on Eliza West.,61,57,4,25,0.9767147467015161,Arizona,Utah State,4,3,1,1,NA,400912803,2016-12-21,
+348,4,0:11,11,11,Foul on Malena Washington.,61,57,4,0,0.98772444949525,Arizona,Utah State,4,3,1,0,NA,400912803,2016-12-21,
+349,4,0:11,11,11,Malena Washington Turnover.,61,57,4,6,0.98772444949525,Arizona,Utah State,4,3,1,0,NA,400912803,2016-12-21,
+350,4,0:05,5,5,Jessie Geer missed Three Point Jumper.,61,57,4,0,0.989632052843119,Arizona,Utah State,4,3,1,0,NA,400912803,2016-12-21,
+351,4,0:05,5,5,Arizona Defensive Rebound.,61,57,4,0,0.989632052843119,Arizona,Utah State,4,3,1,0,NA,400912803,2016-12-21,
+352,4,0:05,5,5,Arizona  Timeout,61,57,4,5,0.989632052843119,Arizona,Utah State,3,3,1,0,NA,400912803,2016-12-21,
+353,4,0:00,0,0,End of Game,61,57,4,0,1,Arizona,Utah State,3,3,1,0,NA,400912803,2016-12-21,

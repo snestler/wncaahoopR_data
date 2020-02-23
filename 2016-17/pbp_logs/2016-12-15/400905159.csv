@@ -1,0 +1,419 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:47,2387,2387,Alexis Prince missed Jumper.,0,0,0,0,0.5,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,NA
+2,1,9:47,2387,2387,Alexis Prince Offensive Rebound.,0,0,0,2,0.5,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+3,1,9:45,2385,2385,Kristy Wallace missed Jumper.,0,0,0,0,0.5,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+4,1,9:45,2385,2385,Nina Davis Offensive Rebound.,0,0,0,12,0.5,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+5,1,9:33,2373,2373,Kalani Brown made Jumper. Assisted by Lauren Cox.,2,0,2,16,0.5445967041932466,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+6,1,9:17,2357,2357,Noell Kellers Turnover.,2,0,2,10,0.5449396457150346,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+7,1,9:07,2347,2347,Kalani Brown made Jumper. Assisted by Nina Davis.,4,0,4,24,0.5895808025725221,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+8,1,8:43,2323,2323,Erica Williams missed Jumper.,4,0,4,0,0.5906025525746488,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+9,1,8:43,2323,2323,Kalani Brown Defensive Rebound.,4,0,4,10,0.5906025525746488,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+10,1,8:33,2313,2313,Nina Davis missed Jumper.,4,0,4,0,0.5910319859391384,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+11,1,8:33,2313,2313,Lauren Cox Offensive Rebound.,4,0,4,12,0.5910319859391384,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+12,1,8:21,2301,2301,Alexis Prince made Jumper. Assisted by Lauren Cox.,6,0,6,13,0.635425716848619,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+13,1,8:08,2288,2288,Noell Kellers Turnover.,6,0,6,1,0.6362369679479465,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+14,1,8:07,2287,2287,Kristy Wallace Steal.,6,0,6,2,0.6362995359766949,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+15,1,8:05,2285,2285,Kristy Wallace made Layup.,8,0,8,1,0.6784170003038489,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+16,1,8:04,2284,2284,Winthrop  Timeout,8,0,8,8,0.6784957404701448,Baylor,Winthrop,3,4,1,0,NA,400905159,2016-12-15,
+17,1,7:56,2276,2276,Erica Williams Turnover.,8,0,8,15,0.679126494192841,Baylor,Winthrop,3,4,1,0,NA,400905159,2016-12-15,
+18,1,7:41,2261,2261,Kristy Wallace made Three Point Jumper. Assisted by Alexis Prince.,11,0,11,14,0.7385438218664838,Baylor,Winthrop,3,4,1,0,NA,400905159,2016-12-15,Baylor
+19,1,7:27,2247,2247,Erica Williams Turnover.,11,0,11,6,0.7398992948897196,Baylor,Winthrop,3,4,1,0,NA,400905159,2016-12-15,
+20,1,7:21,2241,2241,Nina Davis missed Jumper.,11,0,11,1,0.7404808078797023,Baylor,Winthrop,3,4,1,0,NA,400905159,2016-12-15,
+21,1,7:20,2240,2240,Amari Grevious Block.,11,0,11,1,0.7405777553338432,Baylor,Winthrop,3,4,1,0,NA,400905159,2016-12-15,
+22,1,7:19,2239,2239,Nina Davis Offensive Rebound.,11,0,11,5,0.7406747103002594,Baylor,Winthrop,3,4,1,0,NA,400905159,2016-12-15,
+23,1,7:14,2234,2234,Alexis Prince made Three Point Jumper. Assisted by Nina Davis.,14,0,14,17,0.7923113797918707,Baylor,Winthrop,3,4,1,0,NA,400905159,2016-12-15,Baylor
+24,1,6:57,2217,2217,Amari Grevious missed Jumper.,14,0,14,0,0.7941101265174889,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+25,1,6:57,2217,2217,Amari Grevious Offensive Rebound.,14,0,14,3,0.7941101265174889,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+26,1,6:54,2214,2214,Amari Grevious missed Jumper.,14,0,14,0,0.7944272269873734,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+27,1,6:54,2214,2214,Nina Davis Defensive Rebound.,14,0,14,13,0.7944272269873734,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+28,1,6:41,2201,2201,Nina Davis made Jumper. Assisted by Kalani Brown.,16,0,16,14,0.825572565229851,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,Baylor
+29,1,6:27,2187,2187,CiiCii Buford Turnover.,16,0,16,7,0.8270654647625884,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+30,1,6:20,2180,2180,Foul on Danyael Goodhope.,16,0,16,11,0.8278096841598449,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+31,1,6:09,2169,2169,Kalani Brown made Jumper. Assisted by Nina Davis.,18,0,18,20,0.8551632232291035,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,Baylor
+32,1,5:49,2149,2149,Teylahna Green Turnover.,18,0,18,1,0.8572382501631675,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+33,1,5:48,2148,2148,Alexis Prince Steal.,18,0,18,9,0.857341718021564,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+34,1,5:39,2139,2139,Lauren Cox made Jumper. Assisted by Kristy Wallace.,20,0,20,0,0.8809147810962006,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,Baylor
+35,1,5:39,2139,2139,Foul on Teylahna Green.,20,0,20,0,0.8809147810962006,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+36,1,5:39,2139,2139,Lauren Cox made Free Throw.,21,0,21,12,0.8910175831880388,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,Baylor
+37,1,5:27,2127,2127,Foul on Kristy Wallace.,21,0,21,0,0.8921683934282638,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+38,1,5:27,2127,2127,Danyael Goodhope made Free Throw.,21,1,20,0,0.8820992108860861,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,Winthrop
+39,1,5:27,2127,2127,Danyael Goodhope made Free Throw.,21,2,19,13,0.8712254947231519,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,Winthrop
+40,1,5:14,2114,2114,Kalani Brown made Jumper. Assisted by Alexis Prince.,23,2,21,19,0.8934088725879201,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,Baylor
+41,1,4:55,2095,2095,Naima Jackson Turnover.,23,2,21,2,0.8952106266818028,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+42,1,4:53,2093,2093,Kristy Wallace Steal.,23,2,21,1,0.8953995282141224,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+43,1,4:52,2092,2092,Kristy Wallace Turnover.,23,2,21,2,0.8954939258420532,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+44,1,4:50,2090,2090,Erica Williams Steal.,23,2,21,7,0.8956826152282733,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+45,1,4:43,2083,2083,Danyael Goodhope missed Jumper.,23,2,21,0,0.8963419248805177,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+46,1,4:43,2083,2083,Alexis Prince Defensive Rebound.,23,2,21,8,0.8963419248805177,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+47,1,4:35,2075,2075,Lauren Cox Turnover.,23,2,21,4,0.8970933470562676,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+48,1,4:31,2071,2071,Teylahna Green Steal.,23,2,21,4,0.897468239999988,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+49,1,4:27,2067,2067,Erica Williams missed Jumper.,23,2,21,0,0.8978425939014407,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+50,1,4:27,2067,2067,Kalani Brown Defensive Rebound.,23,2,21,5,0.8978425939014407,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+51,1,4:22,2062,2062,Kalani Brown Turnover.,23,2,21,3,0.8983097853690057,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+52,1,4:19,2059,2059,Danyael Goodhope Steal.,23,2,21,2,0.898589703202424,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+53,1,4:17,2057,2057,Danyael Goodhope made Jumper.,23,4,19,19,0.8782250508666224,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,Winthrop
+54,1,3:58,2038,2038,Alexis Prince made Three Point Jumper. Assisted by Kalani Brown.,26,4,22,20,0.9095511200369493,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,Baylor
+55,1,3:38,2018,2018,Naima Jackson missed Jumper.,26,4,22,0,0.9113258304774831,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+56,1,3:38,2018,2018,Kalani Brown Block.,26,4,22,2,0.9113258304774831,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+57,1,3:36,2016,2016,Lauren Cox Defensive Rebound.,26,4,22,12,0.9115025383877877,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+58,1,3:24,2004,2004,Nina Davis missed Jumper.,26,4,22,0,0.9125599241937689,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+59,1,3:24,2004,2004,Kalani Brown Offensive Rebound.,26,4,22,2,0.9125599241937689,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+60,1,3:22,2002,2002,Kalani Brown missed Jumper.,26,4,22,0,0.9127356820813339,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+61,1,3:22,2002,2002,Winthrop Defensive Rebound.,26,4,22,16,0.9127356820813339,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+62,1,3:06,1986,1986,Erica Williams missed Jumper.,26,4,22,0,0.9141369498718296,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+63,1,3:06,1986,1986,Beatrice Mompremier Defensive Rebound.,26,4,22,10,0.9141369498718296,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+64,1,2:56,1976,1976,Khadijiah Cave made Jumper. Assisted by Dekeiya Cohen.,28,4,24,0,0.9303719144676781,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,Baylor
+65,1,2:56,1976,1976,Foul on Teylahna Green.,28,4,24,0,0.9303719144676781,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+66,1,2:56,1976,1976,Khadijiah Cave made Free Throw.,29,4,25,1,0.9370522337194711,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,Baylor
+67,1,2:55,1975,1975,Naima Jackson Turnover.,29,4,25,3,0.9371271897502474,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+68,1,2:52,1972,1972,Beatrice Mompremier missed Jumper.,29,4,25,0,0.9373518087345591,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+69,1,2:52,1972,1972,Angela Coello Perez Defensive Rebound.,29,4,25,8,0.9373518087345591,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+70,1,2:44,1964,1964,Erica Williams missed Jumper.,29,4,25,0,0.9379489727685458,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+71,1,2:44,1964,1964,Beatrice Mompremier Defensive Rebound.,29,4,25,9,0.9379489727685458,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+72,1,2:35,1955,1955,Beatrice Mompremier Turnover.,29,4,25,13,0.938617637216201,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+73,1,2:22,1942,1942,Danyael Goodhope missed Jumper.,29,4,25,0,0.9395776568386855,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+74,1,2:22,1942,1942,Natalie Chou Defensive Rebound.,29,4,25,8,0.9395776568386855,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+75,1,2:14,1934,1934,Calveion Landrum missed Three Point Jumper.,29,4,25,0,0.9401650411533596,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+76,1,2:14,1934,1934,Angela Coello Perez Defensive Rebound.,29,4,25,7,0.9401650411533596,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+77,1,2:07,1927,1927,Angela Coello Perez Turnover.,29,4,25,1,0.9406766321014529,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+78,1,2:06,1926,1926,Calveion Landrum Steal.,29,4,25,1,0.9407493917429952,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+79,1,2:05,1925,1925,Natalie Chou made Layup. Assisted by Calveion Landrum.,31,4,27,10,0.9520062818986478,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,Baylor
+80,1,1:55,1915,1915,Erica Williams Turnover.,31,4,27,10,0.9526453071826155,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+81,1,1:45,1905,1905,Khadijiah Cave made Jumper. Assisted by Natalie Chou.,33,4,29,0,0.9622764328765852,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,Baylor
+82,1,1:45,1905,1905,Foul on Uchechi Ufochukwu.,33,4,29,0,0.9622764328765852,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+83,1,1:45,1905,1905,Khadijiah Cave made Free Throw.,34,4,30,18,0.9661279789272118,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,Baylor
+84,1,1:27,1887,1887,Uchechi Ufochukwu missed Jumper.,34,4,30,0,0.9670357568504873,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+85,1,1:27,1887,1887,Beatrice Mompremier Block.,34,4,30,2,0.9670357568504873,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+86,1,1:25,1885,1885,Beatrice Mompremier Defensive Rebound.,34,4,30,6,0.9671351827350301,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+87,1,1:19,1879,1879,Khadijiah Cave made Layup. Assisted by Natalie Chou.,36,4,32,21,0.9738497002568569,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,Baylor
+88,1,0:58,1858,1858,Erica Williams missed Jumper.,36,4,32,0,0.9747278156143429,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+89,1,0:58,1858,1858,Uchechi Ufochukwu Offensive Rebound.,36,4,32,1,0.9747278156143429,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+90,1,0:57,1857,1857,Foul on Beatrice Mompremier.,36,4,32,0,0.9747689919804489,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+91,1,0:57,1857,1857,Uchechi Ufochukwu missed Free Throw.,36,4,32,0,0.9747689919804489,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+92,1,0:57,1857,1857,Winthrop Deadball Team Rebound.,36,4,32,0,0.9747689919804489,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+93,1,0:57,1857,1857,Uchechi Ufochukwu missed Free Throw.,36,4,32,0,0.9747689919804489,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+94,1,0:57,1857,1857,Calveion Landrum Defensive Rebound.,36,4,32,8,0.9747689919804489,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+95,1,0:49,1849,1849,Natalie Chou missed Three Point Jumper.,36,4,32,0,0.9750964219980381,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+96,1,0:49,1849,1849,Dekeiya Cohen Offensive Rebound.,36,4,32,7,0.9750964219980381,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+97,1,0:42,1842,1842,Dekeiya Cohen missed Jumper.,36,4,32,0,0.9753801153406708,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+98,1,0:42,1842,1842,Winthrop Defensive Rebound.,36,4,32,14,0.9753801153406708,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+99,1,0:28,1828,1828,Foul on Calveion Landrum.,36,4,32,0,0.9759400343181912,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+100,1,0:28,1828,1828,Danyael Goodhope made Free Throw.,36,5,31,0,0.9730679723114525,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,Winthrop
+101,1,0:28,1828,1828,Danyael Goodhope made Free Throw.,36,6,30,21,0.96986365609604,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,Winthrop
+102,1,0:07,1807,1807,Khadijiah Cave made Jumper. Assisted by Dekeiya Cohen.,38,6,32,7,0.976762577353757,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,Baylor
+103,1,0:00,1800,1800,End of 1st Quarter,38,6,32,14,0.9770324673826368,Baylor,Winthrop,3,4,0,0,NA,400905159,2016-12-15,
+104,2,9:46,1786,1786,CiiCii Buford missed Jumper.,38,6,32,0,0.9775662690998561,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+105,2,9:46,1786,1786,Beatrice Mompremier Block.,38,6,32,2,0.9775662690998561,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+106,2,9:44,1784,1784,Natalie Chou Defensive Rebound.,38,6,32,3,0.9776419012949309,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+107,2,9:41,1781,1781,Khadijiah Cave made Layup. Assisted by Natalie Chou.,40,6,34,14,0.982356580083016,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+108,2,9:27,1767,1767,Angela Coello Perez missed Jumper.,40,6,34,0,0.9827996512927484,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+109,2,9:27,1767,1767,Khadijiah Cave Block.,40,6,34,2,0.9827996512927484,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+110,2,9:25,1765,1765,Beatrice Mompremier Defensive Rebound.,40,6,34,5,0.9828624063051798,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+111,2,9:20,1760,1760,Calveion Landrum made Three Point Jumper. Assisted by Dekeiya Cohen.,43,6,37,21,0.9880691013512081,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+112,2,8:59,1739,1739,Danyael Goodhope Turnover.,43,6,37,17,0.9885661171887976,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+113,2,8:42,1722,1722,Natalie Chou made Three Point Jumper.,46,6,40,15,0.9923058918498071,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+114,2,8:27,1707,1707,Uchechi Ufochukwu missed Jumper.,46,6,40,0,0.9925635431854005,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+115,2,8:27,1707,1707,Beatrice Mompremier Block.,46,6,40,2,0.9925635431854005,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+116,2,8:25,1705,1705,Beatrice Mompremier Defensive Rebound.,46,6,40,4,0.9925975314708148,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+117,2,8:21,1701,1701,Beatrice Mompremier Turnover.,46,6,40,2,0.9926652553427314,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+118,2,8:19,1699,1699,Danyael Goodhope Steal.,46,6,40,1,0.992698991845714,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+119,2,8:18,1698,1698,Danyael Goodhope missed Jumper.,46,6,40,0,0.9927158289347014,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+120,2,8:18,1698,1698,Erica Williams Offensive Rebound.,46,6,40,3,0.9927158289347014,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+121,2,8:15,1695,1695,Erica Williams Turnover.,46,6,40,15,0.992766216204868,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+122,2,8:00,1680,1680,Natalie Chou missed Three Point Jumper.,46,6,40,0,0.9930132213182326,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+123,2,8:00,1680,1680,Alyssa Dry Offensive Rebound.,46,6,40,12,0.9930132213182326,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+124,2,7:48,1668,1668,Beatrice Mompremier made Jumper. Assisted by Natalie Chou.,48,6,42,14,0.9946931546685847,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+125,2,7:34,1654,1654,Angela Coello Perez missed Jumper.,48,6,42,0,0.9948652910732031,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+126,2,7:34,1654,1654,Alyssa Dry Defensive Rebound.,48,6,42,7,0.9948652910732031,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+127,2,7:27,1647,1647,Khadijiah Cave made Layup. Assisted by Alyssa Dry.,50,6,44,19,0.996067528833902,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+128,2,7:08,1628,1628,Uchechi Ufochukwu missed Jumper.,50,6,44,0,0.9962441648448492,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+129,2,7:08,1628,1628,Natalie Chou Defensive Rebound.,50,6,44,9,0.9962441648448492,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+130,2,6:59,1619,1619,Calveion Landrum missed Three Point Jumper.,50,6,44,0,0.9963244215586117,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+131,2,6:59,1619,1619,Alyssa Dry Offensive Rebound.,50,6,44,10,0.9963244215586117,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+132,2,6:49,1609,1609,Khadijiah Cave made Jumper. Assisted by Calveion Landrum.,52,6,46,14,0.9972189032356603,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+133,2,6:35,1595,1595,Danyael Goodhope Turnover.,52,6,46,10,0.9973146083132323,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+134,2,6:25,1585,1585,Foul on Beatrice Mompremier.,52,6,46,0,0.997381059075058,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+135,2,6:25,1585,1585,Beatrice Mompremier Turnover.,52,6,46,11,0.997381059075058,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+136,2,6:14,1574,1574,CiiCii Buford Turnover.,52,6,46,2,0.9974525367389889,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+137,2,6:12,1572,1572,Calveion Landrum Steal.,52,6,46,3,0.9974653655794479,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+138,2,6:09,1569,1569,Calveion Landrum made Layup.,54,6,48,10,0.9980595494934844,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+139,2,5:59,1559,1559,Danyael Goodhope missed Jumper.,54,6,48,0,0.998110341443176,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+140,2,5:59,1559,1559,Alyssa Dry Block.,54,6,48,2,0.998110341443176,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+141,2,5:57,1557,1557,Danyael Goodhope Offensive Rebound.,54,6,48,2,0.9981203888605645,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+142,2,5:55,1555,1555,Danyael Goodhope missed Jumper.,54,6,48,0,0.9981304011754499,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+143,2,5:55,1555,1555,Khadijiah Cave Defensive Rebound.,54,6,48,7,0.9981304011754499,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+144,2,5:48,1548,1548,Alyssa Dry missed Jumper.,54,6,48,0,0.9981651789271605,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+145,2,5:48,1548,1548,Naima Jackson Defensive Rebound.,54,6,48,7,0.9981651789271605,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+146,2,5:41,1541,1541,Naima Jackson Turnover.,54,6,48,2,0.9981995678460068,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+147,2,5:39,1539,1539,Calveion Landrum Steal.,54,6,48,3,0.9982093260234428,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+148,2,5:36,1536,1536,Nina Davis made Layup. Assisted by Calveion Landrum.,56,6,50,28,0.9986351954112396,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+149,2,5:08,1508,1508,Naima Jackson Turnover.,56,6,50,1,0.998741820389345,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+150,2,5:07,1507,1507,Alyssa Dry Steal.,56,6,50,16,0.9987455567982533,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+151,2,4:51,1491,1491,Khadijiah Cave missed Jumper.,56,6,50,0,0.9988047597993917,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+152,2,4:51,1491,1491,Khadijiah Cave Offensive Rebound.,56,6,50,1,0.9988047597993917,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+153,2,4:50,1490,1490,Khadijiah Cave made Jumper.,58,6,52,0,0.9990894393793397,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+154,2,4:50,1490,1490,Foul on CiiCii Buford.,58,6,52,0,0.9990894393793397,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+155,2,4:50,1490,1490,Official TV Timeout,58,6,52,0,0.9990894393793397,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+156,2,4:50,1490,1490,Khadijiah Cave made Free Throw.,59,6,53,19,0.9992040396106058,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+157,2,4:31,1471,1471,Nuba Jackson missed Jumper.,59,6,53,0,0.9992527977409773,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+158,2,4:31,1471,1471,Erica Williams Offensive Rebound.,59,6,53,7,0.9992527977409773,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+159,2,4:24,1464,1464,Noell Kellers missed Three Point Jumper.,59,6,53,0,0.9992704958626064,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+160,2,4:24,1464,1464,Alexandria Gulley Defensive Rebound.,59,6,53,13,0.9992704958626064,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+161,2,4:11,1451,1451,Alyssa Dry Turnover.,59,6,53,20,0.9993030071735819,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+162,2,3:51,1431,1431,Angela Coello Perez made Three Point Jumper. Assisted by Danyael Goodhope.,59,9,50,10,0.9990158694482721,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Winthrop
+163,2,3:41,1421,1421,Foul on Nuba Jackson.,59,9,50,0,0.9990469438780345,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+164,2,3:41,1421,1421,Lauren Cox made Free Throw.,60,9,51,0,0.999170602200057,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+165,2,3:41,1421,1421,Lauren Cox made Free Throw.,61,9,52,14,0.9992782275384736,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+166,2,3:27,1407,1407,Nuba Jackson Turnover.,61,9,52,0,0.9993105884836394,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+167,2,3:27,1407,1407,Lauren Cox Steal.,61,9,52,15,0.9993105884836394,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+168,2,3:12,1392,1392,Nina Davis Turnover.,61,9,52,1,0.9993431156670907,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+169,2,3:11,1391,1391,Danyael Goodhope Steal.,61,9,52,3,0.9993452144207048,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+170,2,3:08,1388,1388,Danyael Goodhope made Layup.,61,11,50,10,0.9991400952724463,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Winthrop
+171,2,2:58,1378,1378,Alexis Prince made Three Point Jumper. Assisted by Kristy Wallace.,64,11,53,19,0.999454785747958,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+172,2,2:39,1359,1359,Erica Williams missed Jumper.,64,11,53,0,0.9994873297357928,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+173,2,2:39,1359,1359,Alexis Prince Defensive Rebound.,64,11,53,13,0.9994873297357928,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+174,2,2:26,1346,1346,Alexis Prince made Three Point Jumper. Assisted by Kristy Wallace.,67,11,56,13,0.9996806421925756,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+175,2,2:13,1333,1333,Erica Williams missed Jumper.,67,11,56,0,0.99969474040238,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+176,2,2:13,1333,1333,Lauren Cox Block.,67,11,56,2,0.99969474040238,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+177,2,2:11,1331,1331,Nina Davis Defensive Rebound.,67,11,56,6,0.999696870043979,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+178,2,2:05,1325,1325,Alexis Prince missed Three Point Jumper.,67,11,56,0,0.9997032017820183,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+179,2,2:05,1325,1325,Kalani Brown Offensive Rebound.,67,11,56,8,0.9997032017820183,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+180,2,1:57,1317,1317,Nina Davis missed Jumper.,67,11,56,0,0.9997115198853891,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+181,2,1:57,1317,1317,Lauren Cox Offensive Rebound.,67,11,56,7,0.9997115198853891,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+182,2,1:50,1310,1310,Alexis Prince missed Layup.,67,11,56,0,0.9997186922432323,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+183,2,1:50,1310,1310,Alexis Prince Offensive Rebound.,67,11,56,2,0.9997186922432323,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+184,2,1:48,1308,1308,Alexis Prince made Jumper.,69,11,58,11,0.999791483579232,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+185,2,1:37,1297,1297,Foul on Kristy Wallace.,69,11,58,0,0.9998000273907791,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+186,2,1:37,1297,1297,Danyael Goodhope made Free Throw.,69,12,57,0,0.9997684036826883,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Winthrop
+187,2,1:37,1297,1297,Danyael Goodhope made Free Throw.,69,13,56,9,0.9997317803367562,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Winthrop
+188,2,1:28,1288,1288,Kalani Brown made Jumper. Assisted by Alexandria Gulley.,71,13,58,11,0.999806899950178,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+189,2,1:17,1277,1277,Noell Kellers missed Three Point Jumper.,71,13,58,0,0.9998151713609057,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+190,2,1:17,1277,1277,Erica Williams Offensive Rebound.,71,13,58,8,0.9998151713609057,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+191,2,1:09,1269,1269,Foul on Alexandria Gulley.,71,13,58,0,0.9998211060809928,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+192,2,1:09,1269,1269,Erica Williams made Free Throw.,71,14,57,0,0.9997924168023501,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Winthrop
+193,2,1:09,1269,1269,Erica Williams made Free Throw.,71,15,56,13,0.9997591277227624,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Winthrop
+194,2,0:56,1256,1256,Alexis Prince missed Jumper.,71,15,56,0,0.9997715029700173,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+195,2,0:56,1256,1256,Kalani Brown Offensive Rebound.,71,15,56,3,0.9997715029700173,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+196,2,0:53,1253,1253,Kalani Brown missed Jumper.,71,15,56,0,0.9997743332499474,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+197,2,0:53,1253,1253,Erica Williams Block.,71,15,56,2,0.9997743332499474,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+198,2,0:51,1251,1251,Dekeiya Cohen Offensive Rebound.,71,15,56,0,0.999776214965816,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+199,2,0:51,1251,1251,Dekeiya Cohen made Jumper.,73,15,58,0,0.9998342335886257,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+200,2,0:51,1251,1251,Foul on Erica Williams.,73,15,58,0,0.9998342335886257,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+201,2,0:51,1251,1251,Dekeiya Cohen missed Free Throw.,73,15,58,0,0.9998342335886257,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+202,2,0:51,1251,1251,Angela Coello Perez Defensive Rebound.,73,15,58,10,0.9998342335886257,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+203,2,0:41,1241,1241,Foul on Lauren Cox.,73,15,58,0,0.9998414004218993,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+204,2,0:41,1241,1241,Erica Williams made Free Throw.,73,16,57,0,0.9998155826998875,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Winthrop
+205,2,0:41,1241,1241,Erica Williams made Free Throw.,73,17,56,0,0.9997855631267656,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Winthrop
+206,2,0:41,1241,1241,Erica Williams made Free Throw.,73,18,55,13,0.9997506581658421,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Winthrop
+207,2,0:28,1228,1228,Kalani Brown made Jumper. Assisted by Alyssa Dry.,75,18,57,10,0.9998260861681337,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+208,2,0:18,1218,1218,CiiCii Buford missed Three Point Jumper.,75,18,57,0,0.999834058599882,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+209,2,0:18,1218,1218,Lauren Cox Block.,75,18,57,2,0.999834058599882,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+210,2,0:16,1216,1216,Alexandria Gulley Defensive Rebound.,75,18,57,6,0.9998356416860402,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+211,2,0:10,1210,1210,Lauren Cox made Jumper.,77,18,59,7,0.9998825324330464,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,Baylor
+212,2,0:03,1203,1203,Danyael Goodhope missed Three Point Jumper.,77,18,59,0,0.9998866118558524,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+213,2,0:03,1203,1203,Alexandria Gulley Defensive Rebound.,77,18,59,3,0.9998866118558524,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+214,2,0:00,1200,1200,End of 2nd Quarter,77,18,59,12,0.999888298756185,Baylor,Winthrop,4,4,0,0,NA,400905159,2016-12-15,
+215,3,9:48,1188,1188,Danyael Goodhope missed Jumper.,77,18,59,0,0.9998947098571848,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+216,3,9:48,1188,1188,Beatrice Mompremier Block.,77,18,59,2,0.9998947098571848,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+217,3,9:46,1186,1186,Beatrice Mompremier Defensive Rebound.,77,18,59,7,0.9998957295937334,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+218,3,9:39,1179,1179,Natalie Chou missed Three Point Jumper.,77,18,59,0,0.9998991980892926,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+219,3,9:39,1179,1179,Baylor Offensive Rebound.,77,18,59,7,0.9998991980892926,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+220,3,9:32,1172,1172,Natalie Chou made Three Point Jumper. Assisted by Kristy Wallace.,80,18,62,18,0.9999390491457669,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Baylor
+221,3,9:14,1154,1154,CiiCii Buford missed Jumper.,80,18,62,0,0.999944262772434,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+222,3,9:14,1154,1154,Natalie Chou Block.,80,18,62,0,0.999944262772434,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+223,3,9:14,1154,1154,Winthrop Offensive Rebound.,80,18,62,4,0.999944262772434,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+224,3,9:10,1150,1150,CiiCii Buford missed Jumper.,80,18,62,0,0.9999453511954159,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+225,3,9:10,1150,1150,Beatrice Mompremier Defensive Rebound.,80,18,62,6,0.9999453511954159,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+226,3,9:04,1144,1144,Khadijiah Cave made Layup. Assisted by Natalie Chou.,82,18,64,17,0.999961376339352,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Baylor
+227,3,8:47,1127,1127,Teylahna Green made Jumper. Assisted by Angela Coello Perez.,82,20,62,20,0.9999511964876767,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Winthrop
+228,3,8:27,1107,1107,Beatrice Mompremier Turnover.,82,20,62,10,0.999955802587304,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+229,3,8:17,1097,1097,Erica Williams made Jumper. Assisted by Angela Coello Perez.,82,22,60,0,0.9999418263057219,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Winthrop
+230,3,8:17,1097,1097,Foul on Beatrice Mompremier.,82,22,60,0,0.9999418263057219,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+231,3,8:17,1097,1097,Erica Williams missed Free Throw.,82,22,60,0,0.9999418263057219,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+232,3,8:17,1097,1097,Beatrice Mompremier Defensive Rebound.,82,22,60,10,0.9999418263057219,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+233,3,8:07,1087,1087,Dekeiya Cohen missed Jumper.,82,22,60,0,0.9999446270377172,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+234,3,8:07,1087,1087,Beatrice Mompremier Offensive Rebound.,82,22,60,4,0.9999446270377172,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+235,3,8:03,1083,1083,Beatrice Mompremier made Jumper.,84,22,62,21,0.9999608748707276,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Baylor
+236,3,7:42,1062,1062,Danyael Goodhope missed Three Point Jumper.,84,22,62,0,0.9999649863375182,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+237,3,7:42,1062,1062,Beatrice Mompremier Defensive Rebound.,84,22,62,11,0.9999649863375182,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+238,3,7:31,1051,1051,Beatrice Mompremier Turnover.,84,22,62,5,0.9999670365290279,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+239,3,7:26,1046,1046,CiiCii Buford Turnover.,84,22,62,1,0.9999679468924026,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+240,3,7:25,1045,1045,Kristy Wallace Steal.,84,22,62,0,0.9999681274022697,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+241,3,7:25,1045,1045,Foul on Danyael Goodhope.,84,22,62,13,0.9999681274022697,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+242,3,7:12,1032,1032,Dekeiya Cohen missed Jumper.,84,22,62,0,0.9999704280548508,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+243,3,7:12,1032,1032,Angela Coello Perez Defensive Rebound.,84,22,62,7,0.9999704280548508,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+244,3,7:05,1025,1025,Danyael Goodhope Turnover.,84,22,62,10,0.9999716324700624,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+245,3,6:55,1015,1015,Khadijiah Cave made Jumper. Assisted by Alexis Prince.,86,22,64,18,0.999980999145526,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Baylor
+246,3,6:37,997,997,CiiCii Buford made Jumper. Assisted by Erica Williams.,86,24,62,14,0.9999762182169709,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Winthrop
+247,3,6:23,983,983,Khadijiah Cave made Jumper. Assisted by Beatrice Mompremier.,88,24,64,17,0.9999847061948757,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Baylor
+248,3,6:06,966,966,Erica Williams missed Jumper.,88,24,64,0,0.9999865122694115,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+249,3,6:06,966,966,Beatrice Mompremier Defensive Rebound.,88,24,64,7,0.9999865122694115,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+250,3,5:59,959,959,Foul on Teylahna Green.,88,24,64,0,0.9999871781639913,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+251,3,5:59,959,959,Beatrice Mompremier missed Free Throw.,88,24,64,0,0.9999871781639913,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+252,3,5:59,959,959,Baylor Deadball Team Rebound.,88,24,64,0,0.9999871781639913,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+253,3,5:59,959,959,Beatrice Mompremier missed Free Throw.,88,24,64,0,0.9999871781639913,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+254,3,5:59,959,959,Nina Davis Offensive Rebound.,88,24,64,1,0.9999871781639913,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+255,3,5:58,958,958,Foul on Uchechi Ufochukwu.,88,24,64,3,0.9999872685078881,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+256,3,5:55,955,955,Alexis Prince missed Three Point Jumper.,88,24,64,0,0.9999875328512172,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+257,3,5:55,955,955,Nina Davis Offensive Rebound.,88,24,64,6,0.9999875328512172,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+258,3,5:49,949,949,Alexis Prince made Jumper. Assisted by Alyssa Dry.,90,24,66,21,0.9999916022344181,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Baylor
+259,3,5:28,928,928,Angela Coello Perez missed Three Point Jumper.,90,24,66,0,0.9999926890074685,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+260,3,5:28,928,928,Natalie Chou Defensive Rebound.,90,24,66,13,0.9999926890074685,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+261,3,5:15,915,915,Alexis Prince missed Jumper.,90,24,66,0,0.9999932519137879,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+262,3,5:15,915,915,Beatrice Mompremier Offensive Rebound.,90,24,66,4,0.9999932519137879,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+263,3,5:11,911,911,Foul on Uchechi Ufochukwu.,90,24,66,0,0.9999934119935333,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+264,3,5:11,911,911,Foul on Danyael Goodhope.,90,24,66,0,0.9999934119935333,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+265,3,5:11,911,911,Beatrice Mompremier made Free Throw.,91,24,67,0,0.9999945014167312,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Baylor
+266,3,5:11,911,911,Beatrice Mompremier missed Free Throw.,91,24,67,0,0.9999945014167312,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+267,3,5:11,911,911,Alexis Prince Offensive Rebound.,91,24,67,2,0.9999945014167312,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+268,3,5:09,909,909,Alexis Prince missed Two Point Tip Shot.,91,24,67,0,0.9999945674998896,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+269,3,5:09,909,909,Uchechi Ufochukwu Defensive Rebound.,91,24,67,15,0.9999945674998896,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+270,3,4:54,894,894,Erica Williams missed Jumper.,91,24,67,0,0.9999950308239342,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+271,3,4:54,894,894,Naima Jackson Offensive Rebound.,91,24,67,5,0.9999950308239342,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+272,3,4:49,889,889,Erica Williams made Jumper. Assisted by Uchechi Ufochukwu.,91,26,65,20,0.9999930456874301,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Winthrop
+273,3,4:29,869,869,Foul on Naima Jackson.,91,26,65,0,0.9999937919354835,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+274,3,4:29,869,869,Official TV Timeout,91,26,65,0,0.9999937919354835,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+275,3,4:29,869,869,Nina Davis made Free Throw.,92,26,66,0,0.9999948376392345,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Baylor
+276,3,4:29,869,869,Nina Davis made Free Throw.,93,26,67,21,0.999995707202477,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Baylor
+277,3,4:08,848,848,Angela Coello Perez missed Jumper.,93,26,67,0,0.9999962154368975,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+278,3,4:08,848,848,Kalani Brown Defensive Rebound.,93,26,67,10,0.9999962154368975,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+279,3,3:58,838,838,Lauren Cox made Jumper. Assisted by Calveion Landrum.,95,26,69,26,0.9999975555185192,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Baylor
+280,3,3:32,812,812,Erica Williams made Jumper.,95,28,67,0,0.9999970161081646,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Winthrop
+281,3,3:32,812,812,Foul on Calveion Landrum.,95,28,67,0,0.9999970161081646,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+282,3,3:32,812,812,Erica Williams made Free Throw.,95,29,66,7,0.9999963921480309,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Winthrop
+283,3,3:25,805,805,Kalani Brown missed Jumper.,95,29,66,0,0.999996569361971,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+284,3,3:25,805,805,Alexis Prince Offensive Rebound.,95,29,66,1,0.999996569361971,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+285,3,3:24,804,804,Foul on Uchechi Ufochukwu.,95,29,66,0,0.9999965945011967,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+286,3,3:24,804,804,Alexis Prince missed Free Throw.,95,29,66,0,0.9999965945011967,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+287,3,3:24,804,804,Baylor Deadball Team Rebound.,95,29,66,0,0.9999965945011967,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+288,3,3:24,804,804,Alexis Prince made Free Throw.,96,29,67,20,0.9999971859276123,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Baylor
+289,3,3:04,784,784,Erica Williams missed Jumper.,96,29,67,0,0.9999975993407083,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+290,3,3:04,784,784,Kalani Brown Block.,96,29,67,2,0.9999975993407083,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+291,3,3:02,782,782,Lauren Cox Defensive Rebound.,96,29,67,4,0.9999976397636263,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+292,3,2:58,778,778,Lauren Cox made Layup.,98,29,69,11,0.9999984529569597,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Baylor
+293,3,2:47,767,767,Danyael Goodhope Turnover.,98,29,69,2,0.9999986042438953,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+294,3,2:45,765,765,Calveion Landrum Steal.,98,29,69,2,0.9999986312246548,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+295,3,2:43,763,763,Lauren Cox made Layup. Assisted by Calveion Landrum.,100,29,71,13,0.9999990931578394,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Baylor
+296,3,2:30,750,750,Danyael Goodhope missed Jumper.,100,29,71,0,0.9999992109457806,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+297,3,2:30,750,750,Kalani Brown Block.,100,29,71,0,0.9999992109457806,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+298,3,2:30,750,750,Winthrop Offensive Rebound.,100,29,71,3,0.9999992109457806,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+299,3,2:27,747,747,CiiCii Buford missed Three Point Jumper.,100,29,71,0,0.9999992372257301,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+300,3,2:27,747,747,Lauren Cox Block.,100,29,71,2,0.9999992372257301,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+301,3,2:25,745,745,Alyssa Dry Defensive Rebound.,100,29,71,4,0.9999992545445682,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+302,3,2:21,741,741,Lauren Cox made Layup. Assisted by Alyssa Dry.,102,29,73,21,0.999999522600783,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Baylor
+303,3,2:00,720,720,Danyael Goodhope missed Jumper.,102,29,73,0,0.9999996341435264,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+304,3,2:00,720,720,Kalani Brown Defensive Rebound.,102,29,73,5,0.9999996341435264,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+305,3,1:55,715,715,Kalani Brown Turnover.,102,29,73,7,0.999999655404479,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+306,3,1:48,708,708,Noell Kellers missed Jumper.,102,29,73,0,0.9999996820449084,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+307,3,1:48,708,708,Kalani Brown Block.,102,29,73,9,0.9999996820449084,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+308,3,1:39,699,699,Alexis Prince Defensive Rebound.,102,29,73,6,0.9999997118724473,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+309,3,1:33,693,693,Lauren Cox made Jumper. Assisted by Alyssa Dry.,104,29,75,7,0.9999998212545665,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Baylor
+310,3,1:26,686,686,CiiCii Buford missed Jumper.,104,29,75,0,0.9999998339281868,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+311,3,1:26,686,686,Kalani Brown Block.,104,29,75,0,0.9999998339281868,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+312,3,1:26,686,686,Winthrop Offensive Rebound.,104,29,75,2,0.9999998339281868,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+313,3,1:24,684,684,Teylahna Green missed Jumper.,104,29,75,0,0.9999998373256285,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+314,3,1:24,684,684,Natalie Chou Defensive Rebound.,104,29,75,6,0.9999998373256285,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+315,3,1:18,678,678,Kalani Brown made Jumper. Assisted by Lauren Cox.,106,29,77,0,0.9999998993166435,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Baylor
+316,3,1:18,678,678,Foul on CiiCii Buford.,106,29,77,0,0.9999998993166435,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+317,3,1:18,678,678,Kalani Brown made Free Throw.,107,29,78,10,0.99999991832540025,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Baylor
+318,3,1:08,668,668,Danyael Goodhope Turnover.,107,29,78,2,0.9999999264364509,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+319,3,1:06,666,666,Lauren Cox Steal.,107,29,78,2,0.9999999279503899,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+320,3,1:04,664,664,Lauren Cox made Layup.,109,29,80,32,0.9999999537368179,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Baylor
+321,3,0:32,632,632,Erica Williams made Three Point Jumper.,109,32,77,24,0.9999999378508211,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Winthrop
+322,3,0:08,608,608,Natalie Chou missed Three Point Jumper.,109,32,77,0,0.9999999533939841,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+323,3,0:08,608,608,Dekeiya Cohen Offensive Rebound.,109,32,77,7,0.9999999533939841,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+324,3,0:01,601,601,Lauren Cox made Jumper. Assisted by Dekeiya Cohen.,111,32,79,1,0.9999999726834833,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,Baylor
+325,3,0:00,600,600,End of 3rd Quarter,111,32,79,12,0.9999999730661836,Baylor,Winthrop,5,5,0,0,NA,400905159,2016-12-15,
+326,4,9:48,588,588,Teylahna Green Turnover.,111,32,79,8,0.9999999774711394,Baylor,Winthrop,6,6,0,0,NA,400905159,2016-12-15,
+327,4,9:40,580,580,Alexis Prince made Jumper.,113,32,81,20,0.9999999873686077,Baylor,Winthrop,6,6,0,0,NA,400905159,2016-12-15,Baylor
+328,4,9:20,560,560,Danyael Goodhope Turnover.,113,32,81,2,0.9999999913305837,Baylor,Winthrop,6,6,0,0,NA,400905159,2016-12-15,
+329,4,9:18,558,558,Alexis Prince Steal.,113,32,81,2,0.9999999916831083,Baylor,Winthrop,6,6,0,0,NA,400905159,2016-12-15,
+330,4,9:16,556,556,Alexis Prince made Layup.,115,32,83,2,0.9999999949691539,Baylor,Winthrop,6,6,0,0,NA,400905159,2016-12-15,Baylor
+331,4,9:14,554,554,Baylor  Timeout,115,32,83,26,0.9999999951862574,Baylor,Winthrop,6,5,0,1,NA,400905159,2016-12-15,
+332,4,8:48,528,528,Erica Williams missed Jumper.,115,32,83,0,0.9999999971928342,Baylor,Winthrop,6,5,0,1,NA,400905159,2016-12-15,
+333,4,8:48,528,528,Dekeiya Cohen Defensive Rebound.,115,32,83,9,0.9999999971928342,Baylor,Winthrop,6,5,0,1,NA,400905159,2016-12-15,
+334,4,8:39,519,519,Alexandria Gulley Turnover.,115,32,83,9,0.999999997604982,Baylor,Winthrop,6,5,0,1,NA,400905159,2016-12-15,
+335,4,8:30,510,510,Danyael Goodhope Turnover.,115,32,83,7,0.9999999979415434,Baylor,Winthrop,6,5,0,1,NA,400905159,2016-12-15,
+336,4,8:23,503,503,Lauren Cox missed Jumper.,115,32,83,0,0.9999999981665055,Baylor,Winthrop,6,5,0,1,NA,400905159,2016-12-15,
+337,4,8:23,503,503,Kalani Brown Offensive Rebound.,115,32,83,2,0.9999999981665055,Baylor,Winthrop,6,5,0,1,NA,400905159,2016-12-15,
+338,4,8:21,501,501,Kalani Brown missed Jumper.,115,32,83,0,0.9999999982261797,Baylor,Winthrop,6,5,0,1,NA,400905159,2016-12-15,
+339,4,8:21,501,501,Dekeiya Cohen Offensive Rebound.,115,32,83,2,0.9999999982261797,Baylor,Winthrop,6,5,0,1,NA,400905159,2016-12-15,
+340,4,8:19,499,499,Dekeiya Cohen made Jumper.,117,32,85,10,0.9999999989449401,Baylor,Winthrop,6,5,0,1,NA,400905159,2016-12-15,Baylor
+341,4,8:09,489,489,CiiCii Buford missed Jumper.,117,32,85,0,0.9999999991129384,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+342,4,8:09,489,489,Kalani Brown Block.,117,32,85,5,0.9999999991129384,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+343,4,8:04,484,484,Lauren Cox Defensive Rebound.,117,32,85,3,0.9999999991895338,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+344,4,8:01,481,481,Foul on CiiCii Buford.,117,32,85,6,0.9999999992335263,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+345,4,7:55,475,475,Lauren Cox missed Jumper.,117,32,85,0,0.999999999317554,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+346,4,7:55,475,475,Kalani Brown Offensive Rebound.,117,32,85,3,0.999999999317554,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+347,4,7:52,472,472,Kalani Brown made Jumper.,119,32,87,22,0.9999999996096699,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,Baylor
+348,4,7:30,450,450,Amari Grevious missed Jumper.,119,32,87,0,0.9999999997700428,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+349,4,7:30,450,450,Alexandria Gulley Defensive Rebound.,119,32,87,9,0.9999999997700428,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+350,4,7:21,441,441,Lauren Cox missed Jumper.,119,32,87,0,0.9999999998235094,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+351,4,7:21,441,441,Lauren Cox Offensive Rebound.,119,32,87,2,0.9999999998235094,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+352,4,7:19,439,439,Lauren Cox missed Jumper.,119,32,87,0,0.9999999998343563,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+353,4,7:19,439,439,Noell Kellers Defensive Rebound.,119,32,87,10,0.9999999998343563,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+354,4,7:09,429,429,Amari Grevious missed Jumper.,119,32,87,0,0.9999999998826664,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+355,4,7:09,429,429,Winthrop Offensive Rebound.,119,32,87,10,0.9999999998826664,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+356,4,6:59,419,419,CiiCii Buford missed Jumper.,119,32,87,0,0.9999999999172519,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+357,4,6:59,419,419,Dekeiya Cohen Defensive Rebound.,119,32,87,8,0.9999999999172519,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+358,4,6:51,411,411,Natalie Chou made Three Point Jumper. Assisted by Dekeiya Cohen.,122,32,90,25,0.9999999999717438,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,Baylor
+359,4,6:26,386,386,Angela Coello Perez missed Three Point Jumper.,122,32,90,0,0.9999999999875994,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+360,4,6:26,386,386,Lauren Cox Block.,122,32,90,2,0.9999999999875994,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+361,4,6:24,384,384,Angela Coello Perez Offensive Rebound.,122,32,90,8,0.9999999999883985,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+362,4,6:16,376,376,Erica Williams Turnover.,122,32,90,18,0.9999999999911592,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+363,4,5:58,358,358,Lauren Cox missed Jumper.,122,32,90,0,0.9999999999954412,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+364,4,5:58,358,358,Lauren Cox Offensive Rebound.,122,32,90,1,0.9999999999954412,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+365,4,5:57,357,357,Lauren Cox missed Jumper.,122,32,90,0,0.9999999999956183,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+366,4,5:57,357,357,Lauren Cox Offensive Rebound.,122,32,90,5,0.9999999999956183,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,
+367,4,5:52,352,352,Lauren Cox made Jumper.,124,32,92,2,0.9999999999980104,Baylor,Winthrop,6,5,0,0,NA,400905159,2016-12-15,Baylor
+368,4,5:50,350,350,Baylor  Timeout,124,32,92,26,0.9999999999981746,Baylor,Winthrop,6,4,0,1,NA,400905159,2016-12-15,
+369,4,5:24,324,324,Foul on Angela Coello Perez.,124,32,92,0,0.9999999999995046,Baylor,Winthrop,6,4,0,1,NA,400905159,2016-12-15,
+370,4,5:24,324,324,Angela Coello Perez Turnover.,124,32,92,9,0.9999999999995046,Baylor,Winthrop,6,4,0,1,NA,400905159,2016-12-15,
+371,4,5:15,315,315,Natalie Chou missed Three Point Jumper.,124,32,92,0,0.999999999999714,Baylor,Winthrop,6,4,0,1,NA,400905159,2016-12-15,
+372,4,5:15,315,315,Kalani Brown Offensive Rebound.,124,32,92,3,0.999999999999714,Baylor,Winthrop,6,4,0,1,NA,400905159,2016-12-15,
+373,4,5:12,312,312,Foul on Angela Coello Perez.,124,32,92,1,0.999999999999765,Baylor,Winthrop,6,4,0,1,NA,400905159,2016-12-15,
+374,4,5:11,311,311,Foul on Uchechi Ufochukwu.,124,32,92,0,0.9999999999997802,Baylor,Winthrop,6,4,0,1,NA,400905159,2016-12-15,
+375,4,5:11,311,311,Kalani Brown missed Free Throw.,124,32,92,0,0.9999999999997802,Baylor,Winthrop,6,4,0,1,NA,400905159,2016-12-15,
+376,4,5:11,311,311,Baylor Deadball Team Rebound.,124,32,92,0,0.9999999999997802,Baylor,Winthrop,6,4,0,1,NA,400905159,2016-12-15,
+377,4,5:11,311,311,Kalani Brown missed Free Throw.,124,32,92,0,0.9999999999997802,Baylor,Winthrop,6,4,0,1,NA,400905159,2016-12-15,
+378,4,5:11,311,311,Nuba Jackson Defensive Rebound.,124,32,92,25,0.9999999999997802,Baylor,Winthrop,6,4,0,1,NA,400905159,2016-12-15,
+379,4,4:46,286,286,CiiCii Buford missed Three Point Jumper.,124,32,92,0,0.9999999999998948,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,
+380,4,4:46,286,286,Kalani Brown Defensive Rebound.,124,32,92,12,0.9999999999998948,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,
+381,4,4:34,274,274,Beatrice Mompremier made Jumper.,126,32,94,17,0.9999999999999344,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,Baylor
+382,4,4:17,257,257,CiiCii Buford missed Jumper.,126,32,94,0,0.9999999999998953,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,
+383,4,4:17,257,257,Amari Grevious Offensive Rebound.,126,32,94,4,0.9999999999998953,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,
+384,4,4:13,253,253,Amari Grevious missed Jumper.,126,32,94,0,0.9999999999998834,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,
+385,4,4:13,253,253,Kalani Brown Defensive Rebound.,126,32,94,5,0.9999999999998834,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,
+386,4,4:08,248,248,Beatrice Mompremier Turnover.,126,32,94,7,0.9999999999998692,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,
+387,4,4:01,241,241,Nuba Jackson Turnover.,126,32,94,8,0.9999999999998544,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,
+388,4,3:53,233,233,Nina Davis missed Jumper.,126,32,94,0,0.9999999999998528,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,
+389,4,3:53,233,233,Nina Davis Offensive Rebound.,126,32,94,5,0.9999999999998528,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,
+390,4,3:48,228,228,Dekeiya Cohen made Three Point Jumper. Assisted by Alexandria Gulley.,129,32,97,16,0.9999999999999468,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,Baylor
+391,4,3:32,212,212,Danyael Goodhope missed Jumper.,129,32,97,0,0.9999999999999761,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,
+392,4,3:32,212,212,Beatrice Mompremier Defensive Rebound.,129,32,97,15,0.9999999999999761,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,
+393,4,3:17,197,197,Natalie Chou made Three Point Jumper. Assisted by Nina Davis.,132,32,100,28,0.9999999999999986,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,Baylor
+394,4,2:49,169,169,Angela Coello Perez missed Jumper.,132,32,100,0,1,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,
+395,4,2:49,169,169,Beatrice Mompremier Defensive Rebound.,132,32,100,9,1,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,
+396,4,2:40,160,160,Alexandria Gulley made Jumper. Assisted by Natalie Chou.,134,32,102,22,1,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,Baylor
+397,4,2:18,138,138,Danyael Goodhope missed Jumper.,134,32,102,0,1,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,
+398,4,2:18,138,138,Beatrice Mompremier Defensive Rebound.,134,32,102,10,1,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,
+399,4,2:08,128,128,Nina Davis made Layup. Assisted by Alexandria Gulley.,136,32,104,1,1,Baylor,Winthrop,6,4,0,0,NA,400905159,2016-12-15,Baylor
+400,4,2:07,127,127,Baylor  Timeout,136,32,104,7,1,Baylor,Winthrop,6,3,0,1,NA,400905159,2016-12-15,
+401,4,2:00,120,120,Angela Coello Perez missed Three Point Jumper.,136,32,104,0,1,Baylor,Winthrop,6,3,0,1,NA,400905159,2016-12-15,
+402,4,2:00,120,120,Dekeiya Cohen Defensive Rebound.,136,32,104,9,1,Baylor,Winthrop,6,3,0,1,NA,400905159,2016-12-15,
+403,4,1:51,111,111,Beatrice Mompremier made Jumper. Assisted by Dekeiya Cohen.,138,32,106,11,1,Baylor,Winthrop,6,3,0,1,NA,400905159,2016-12-15,Baylor
+404,4,1:40,100,100,Foul on Alyssa Dry.,138,32,106,15,1,Baylor,Winthrop,6,3,0,1,NA,400905159,2016-12-15,
+405,4,1:25,85,85,Naima Jackson missed Jumper.,138,32,106,0,1,Baylor,Winthrop,6,3,0,1,NA,400905159,2016-12-15,
+406,4,1:25,85,85,Beatrice Mompremier Defensive Rebound.,138,32,106,13,1,Baylor,Winthrop,6,3,0,1,NA,400905159,2016-12-15,
+407,4,1:12,72,72,Alexandria Gulley missed Jumper.,138,32,106,0,1,Baylor,Winthrop,6,3,0,1,NA,400905159,2016-12-15,
+408,4,1:12,72,72,Danyael Goodhope Defensive Rebound.,138,32,106,10,1,Baylor,Winthrop,6,3,0,1,NA,400905159,2016-12-15,
+409,4,1:02,62,62,Noell Kellers missed Three Point Jumper.,138,32,106,0,1,Baylor,Winthrop,6,3,0,0,NA,400905159,2016-12-15,
+410,4,1:02,62,62,Winthrop Offensive Rebound.,138,32,106,12,1,Baylor,Winthrop,6,3,0,0,NA,400905159,2016-12-15,
+411,4,0:50,50,50,Danyael Goodhope Turnover.,138,32,106,2,1,Baylor,Winthrop,6,3,0,0,NA,400905159,2016-12-15,
+412,4,0:48,48,48,Calveion Landrum Steal.,138,32,106,3,1,Baylor,Winthrop,6,3,0,0,NA,400905159,2016-12-15,
+413,4,0:45,45,45,Foul on Noell Kellers.,138,32,106,0,1,Baylor,Winthrop,6,3,0,0,NA,400905159,2016-12-15,
+414,4,0:45,45,45,Calveion Landrum made Free Throw.,139,32,107,0,1,Baylor,Winthrop,6,3,0,0,NA,400905159,2016-12-15,Baylor
+415,4,0:45,45,45,Calveion Landrum made Free Throw.,140,32,108,18,1,Baylor,Winthrop,6,3,0,0,NA,400905159,2016-12-15,Baylor
+416,4,0:27,27,27,Angela Coello Perez missed Three Point Jumper.,140,32,108,0,1,Baylor,Winthrop,6,3,0,0,NA,400905159,2016-12-15,
+417,4,0:27,27,27,Beatrice Mompremier Defensive Rebound.,140,32,108,27,1,Baylor,Winthrop,6,3,0,0,NA,400905159,2016-12-15,
+418,4,0:00,0,0,End of Game,140,32,108,0,1,Baylor,Winthrop,6,3,0,0,NA,400905159,2016-12-15,

@@ -1,0 +1,359 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:44,2384,2384,Caira Washington missed Jumper.,0,0,0,0,0.5,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,NA
+2,1,9:44,2384,2384,Caira Washington Offensive Rebound.,0,0,0,4,0.5,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+3,1,9:40,2380,2380,Caira Washington missed Jumper.,0,0,0,0,0.5,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+4,1,9:40,2380,2380,Marta Sniezek Defensive Rebound.,0,0,0,7,0.5,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+5,1,9:33,2373,2373,Marta Sniezek missed Layup.,0,0,0,0,0.5,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+6,1,9:33,2373,2373,Brianna Cummings Block.,0,0,0,2,0.5,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+7,1,9:31,2371,2371,Brianna Cummings Defensive Rebound.,0,0,0,9,0.5,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+8,1,9:22,2362,2362,Caira Washington made Jumper. Assisted by Kelli Prange.,2,0,2,19,0.5448321023078697,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,George Washington
+9,1,9:03,2343,2343,Karlie Samuelson missed Three Point Jumper.,2,0,2,0,0.5452425068556261,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+10,1,9:03,2343,2343,Hannah Schaible Defensive Rebound.,2,0,2,23,0.5452425068556261,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+11,1,8:40,2320,2320,Caira Washington missed Jumper.,2,0,2,0,0.545745316074961,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+12,1,8:40,2320,2320,Hannah Schaible Offensive Rebound.,2,0,2,24,0.545745316074961,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+13,1,8:16,2296,2296,Caira Washington Turnover.,2,0,2,1,0.5462763437592703,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+14,1,8:15,2295,2295,Brittany McPhee Steal.,2,0,2,4,0.5462986002811664,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+15,1,8:11,2291,2291,Brittany McPhee made Layup.,2,2,0,25,0.5,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,Stanford
+16,1,7:46,2266,2266,Hannah Schaible missed Jumper.,2,2,0,3,0.5,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+17,1,7:43,2263,2263,Stanford Defensive Rebound.,2,2,0,12,0.5,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+18,1,7:31,2251,2251,Erica McCall missed Layup.,2,2,0,0,0.5,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+19,1,7:31,2251,2251,Caira Washington Block.,2,2,0,1,0.5,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+20,1,7:30,2250,2250,Brianna Cummings Defensive Rebound.,2,2,0,5,0.5,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+21,1,7:25,2245,2245,Brianna Cummings missed Jumper.,2,2,0,0,0.5,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+22,1,7:25,2245,2245,Hannah Schaible Offensive Rebound.,2,2,0,10,0.5,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+23,1,7:15,2235,2235,Brianna Cummings made Jumper.,4,2,2,15,0.5476503503565374,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,George Washington
+24,1,7:00,2220,2220,Brittany McPhee made Three Point Jumper. Assisted by Marta Sniezek.,4,5,-1,14,0.47594819000422334,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,Stanford
+25,1,6:46,2206,2206,Caira Washington Turnover.,4,5,-1,20,0.4757867509350248,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+26,1,6:26,2186,2186,Marta Sniezek Turnover.,4,5,-1,1,0.47555520838674514,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+27,1,6:25,2185,2185,Caira Washington Steal.,4,5,-1,8,0.4755436062176915,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+28,1,6:17,2177,2177,Mei-Lyn Bautista made Three Point Jumper.,7,5,2,11,0.5489804998329268,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,George Washington
+29,1,6:06,2166,2166,Nadia Fingall Turnover.,7,5,2,2,0.5492345457745712,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+30,1,6:04,2164,2164,Kelli Prange Steal.,7,5,2,13,0.5492808140862127,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+31,1,5:51,2151,2151,Kelli Prange missed Three Point Jumper.,7,5,2,0,0.5495822928983269,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+32,1,5:51,2151,2151,Erica McCall Defensive Rebound.,7,5,2,15,0.5495822928983269,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+33,1,5:36,2136,2136,Karlie Samuelson missed Layup.,7,5,2,0,0.549931806297836,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+34,1,5:36,2136,2136,Brianna Cummings Defensive Rebound.,7,5,2,12,0.549931806297836,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+35,1,5:24,2124,2124,Kelli Prange missed Jumper.,7,5,2,0,0.5502127649646575,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+36,1,5:24,2124,2124,Karlie Samuelson Defensive Rebound.,7,5,2,8,0.5502127649646575,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+37,1,5:16,2116,2116,Marta Sniezek missed Jumper.,7,5,2,0,0.5504007677468735,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+38,1,5:16,2116,2116,Erica McCall Offensive Rebound.,7,5,2,2,0.5504007677468735,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+39,1,5:14,2114,2114,Foul on Hannah Schaible.,7,5,2,0,0.550447858030201,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+40,1,5:14,2114,2114,Erica McCall missed Free Throw.,7,5,2,0,0.550447858030201,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+41,1,5:14,2114,2114,Stanford Deadball Team Rebound.,7,5,2,0,0.550447858030201,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+42,1,5:14,2114,2114,Erica McCall made Free Throw.,7,6,1,15,0.5252884524132849,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,Stanford
+43,1,4:59,2099,2099,Shannon Cranshaw missed Three Point Jumper.,7,6,1,0,0.5254670039376211,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+44,1,4:59,2099,2099,Alanna Smith Defensive Rebound.,7,6,1,13,0.5254670039376211,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+45,1,4:46,2086,2086,Nadia Fingall missed Three Point Jumper.,7,6,1,2,0.5256226424492955,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+46,1,4:44,2084,2084,Lexi Martins Defensive Rebound.,7,6,1,2,0.5256466630622313,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+47,1,4:42,2082,2082,Lexi Martins Turnover.,7,6,1,0,0.5256707043885878,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+48,1,4:42,2082,2082,Official TV Timeout,7,6,1,24,0.5256707043885878,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+49,1,4:18,2058,2058,Briana Roberson made Jumper.,7,8,-1,23,0.47403913442073575,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,Stanford
+50,1,3:55,2035,2035,Mei-Lyn Bautista missed Three Point Jumper.,7,8,-1,0,0.47375802797736627,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+51,1,3:55,2035,2035,Nadia Fingall Defensive Rebound.,7,8,-1,9,0.47375802797736627,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+52,1,3:46,2026,2026,Briana Roberson made Layup.,7,10,-3,14,0.42152232687132624,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,Stanford
+53,1,3:32,2012,2012,Foul on Alanna Smith.,7,10,-3,0,0.42101350065064624,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+54,1,3:32,2012,2012,Lexi Martins missed Free Throw.,7,10,-3,0,0.42101350065064624,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+55,1,3:32,2012,2012,George Washington Deadball Team Rebound.,7,10,-3,0,0.42101350065064624,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+56,1,3:32,2012,2012,Lexi Martins missed Free Throw.,7,10,-3,0,0.42101350065064624,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+57,1,3:32,2012,2012,Hannah Schaible Offensive Rebound.,7,10,-3,3,0.42101350065064624,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+58,1,3:29,2009,2009,Hannah Schaible missed Jumper.,7,10,-3,0,0.4209040114124597,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+59,1,3:29,2009,2009,Lexi Martins Offensive Rebound.,7,10,-3,15,0.4209040114124597,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+60,1,3:14,1994,1994,Lexi Martins missed Jumper.,7,10,-3,0,0.4203540864292206,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+61,1,3:14,1994,1994,Shannon Coffee Defensive Rebound.,7,10,-3,23,0.4203540864292206,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+62,1,2:51,1971,1971,Briana Roberson missed Jumper.,7,10,-3,0,0.4195025555913115,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+63,1,2:51,1971,1971,Shannon Cranshaw Block.,7,10,-3,1,0.4195025555913115,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+64,1,2:50,1970,1970,Shannon Cranshaw Defensive Rebound.,7,10,-3,9,0.41946529672286503,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+65,1,2:41,1961,1961,Hannah Schaible missed Jumper.,7,10,-3,0,0.41912905885804974,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+66,1,2:41,1961,1961,Lexi Martins Offensive Rebound.,7,10,-3,5,0.41912905885804974,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+67,1,2:36,1956,1956,Lexi Martins missed Jumper.,7,10,-3,1,0.418941545367018,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+68,1,2:35,1955,1955,Hannah Schaible Offensive Rebound.,7,10,-3,0,0.41890398068973295,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+69,1,2:35,1955,1955,Foul on Erica McCall.,7,10,-3,0,0.41890398068973295,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+70,1,2:35,1955,1955,Hannah Schaible made Free Throw.,8,10,-2,0,0.44566964359135686,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,George Washington
+71,1,2:35,1955,1955,Hannah Schaible missed Free Throw.,8,10,-2,0,0.44566964359135686,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+72,1,2:35,1955,1955,Caira Washington Offensive Rebound.,8,10,-2,2,0.44566964359135686,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+73,1,2:33,1953,1953,Caira Washington Turnover.,8,10,-2,0,0.44561876862927785,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+74,1,2:33,1953,1953,Briana Roberson Steal.,8,10,-2,21,0.44561876862927785,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+75,1,2:12,1932,1932,Erica McCall missed Jumper.,8,10,-2,0,0.445081035511181,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+76,1,2:12,1932,1932,Lexi Martins Block.,8,10,-2,1,0.445081035511181,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+77,1,2:11,1931,1931,Caira Washington Defensive Rebound.,8,10,-2,14,0.4450552647319271,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+78,1,1:57,1917,1917,Shannon Cranshaw missed Three Point Jumper.,8,10,-2,0,0.4446945680369782,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+79,1,1:57,1917,1917,Hannah Schaible Offensive Rebound.,8,10,-2,8,0.4446945680369782,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+80,1,1:49,1909,1909,Foul on Briana Roberson.,8,10,-2,0,0.44448878225763816,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+81,1,1:49,1909,1909,Lexi Martins made Free Throw.,9,10,-1,0,0.4721583311415061,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,George Washington
+82,1,1:49,1909,1909,Lexi Martins made Free Throw.,10,10,0,13,0.5,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,George Washington
+83,1,1:36,1896,1896,Foul on Lexi Martins.,10,10,0,0,0.5,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+84,1,1:36,1896,1896,Nadia Fingall missed Free Throw.,10,10,0,0,0.5,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+85,1,1:36,1896,1896,Stanford Deadball Team Rebound.,10,10,0,0,0.5,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+86,1,1:36,1896,1896,Nadia Fingall made Free Throw.,10,11,-1,19,0.47198969560286097,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,Stanford
+87,1,1:17,1877,1877,Kelli Prange missed Jumper.,10,11,-1,0,0.47174318365662943,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+88,1,1:17,1877,1877,Nadia Fingall Defensive Rebound.,10,11,-1,11,0.47174318365662943,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+89,1,1:06,1866,1866,Marta Sniezek missed Layup.,10,11,-1,4,0.47160025836290864,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+90,1,1:02,1862,1862,Camila Tapias Defensive Rebound.,10,11,-1,14,0.4715482213417513,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+91,1,0:48,1848,1848,Hannah Schaible Turnover.,10,11,-1,0,0.4713657276360611,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+92,1,0:48,1848,1848,Dijonai Carrington Steal.,10,11,-1,21,0.4713657276360611,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+93,1,0:27,1827,1827,Nadia Fingall missed Jumper.,10,11,-1,2,0.47109055423599977,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+94,1,0:25,1825,1825,Erica McCall Offensive Rebound.,10,11,-1,0,0.4710642355580107,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+95,1,0:25,1825,1825,Foul on Camila Tapias.,10,11,-1,8,0.4710642355580107,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+96,1,0:17,1817,1817,Dijonai Carrington Turnover.,10,11,-1,0,0.4709587345360895,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+97,1,0:17,1817,1817,Hannah Schaible Steal.,10,11,-1,1,0.4709587345360895,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+98,1,0:16,1816,1816,Foul on Dijonai Carrington.,10,11,-1,12,0.4709455201683656,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+99,1,0:04,1804,1804,Brianna Cummings missed Three Point Jumper.,10,11,-1,0,0.4707864419057754,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+100,1,0:04,1804,1804,Marta Sniezek Defensive Rebound.,10,11,-1,4,0.4707864419057754,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+101,1,0:00,1800,1800,End of 1st Quarter,10,11,-1,12,0.47073319422403154,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+102,2,9:48,1788,1788,Kelli Prange missed Three Point Jumper.,10,11,-1,0,0.4705727169002372,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+103,2,9:48,1788,1788,Brittany McPhee Defensive Rebound.,10,11,-1,15,0.4705727169002372,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+104,2,9:33,1773,1773,Erica McCall missed Layup.,10,11,-1,0,0.4703704091017177,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+105,2,9:33,1773,1773,Brianna Cummings Defensive Rebound.,10,11,-1,9,0.4703704091017177,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+106,2,9:24,1764,1764,Mei-Lyn Bautista missed Three Point Jumper.,10,11,-1,0,0.4702480113212606,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+107,2,9:24,1764,1764,Brittany McPhee Defensive Rebound.,10,11,-1,12,0.4702480113212606,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+108,2,9:12,1752,1752,Brittany McPhee made Jumper.,10,13,-3,0,0.4110982454339451,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,Stanford
+109,2,9:12,1752,1752,Foul on Caira Washington.,10,13,-3,0,0.4110982454339451,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+110,2,9:12,1752,1752,Brittany McPhee made Free Throw.,10,14,-4,17,0.38243250376210586,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,Stanford
+111,2,8:55,1735,1735,Kelli Prange Turnover.,10,14,-4,1,0.3815385484584747,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+112,2,8:54,1734,1734,Nadia Fingall Steal.,10,14,-4,28,0.3814855746553345,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+113,2,8:26,1706,1706,Erica McCall made Jumper.,10,16,-6,22,0.3242232511666432,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,Stanford
+114,2,8:04,1684,1684,Hannah Schaible missed Jumper.,10,16,-6,0,0.3225411942554195,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+115,2,8:04,1684,1684,Marta Sniezek Defensive Rebound.,10,16,-6,6,0.3225411942554195,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+116,2,7:58,1678,1678,Brittany McPhee made Layup. Assisted by Marta Sniezek.,10,18,-8,2,0.27046434785024565,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,Stanford
+117,2,7:56,1676,1676,George Washington  Timeout,10,18,-8,0,0.270282772629607,George Washington,Stanford,3,4,1,0,NA,400913902,2016-12-21,
+118,2,7:56,1676,1676,Official TV Timeout,10,18,-8,17,0.270282772629607,George Washington,Stanford,3,4,1,0,NA,400913902,2016-12-21,
+119,2,7:39,1659,1659,Caira Washington missed Jumper.,10,18,-8,0,0.2687614959029696,George Washington,Stanford,3,4,1,0,NA,400913902,2016-12-21,
+120,2,7:39,1659,1659,Erica McCall Block.,10,18,-8,1,0.2687614959029696,George Washington,Stanford,3,4,1,0,NA,400913902,2016-12-21,
+121,2,7:38,1658,1658,Brittany McPhee Defensive Rebound.,10,18,-8,18,0.2686731330606761,George Washington,Stanford,3,4,1,0,NA,400913902,2016-12-21,
+122,2,7:20,1640,1640,Karlie Samuelson Turnover.,10,18,-8,17,0.26710028500943517,George Washington,Stanford,3,4,1,0,NA,400913902,2016-12-21,
+123,2,7:03,1623,1623,Foul on Alanna Smith.,10,18,-8,0,0.2656392602733592,George Washington,Stanford,3,4,1,0,NA,400913902,2016-12-21,
+124,2,7:03,1623,1623,Lexi Martins missed Free Throw.,10,18,-8,0,0.2656392602733592,George Washington,Stanford,3,4,1,0,NA,400913902,2016-12-21,
+125,2,7:03,1623,1623,George Washington Deadball Team Rebound.,10,18,-8,0,0.2656392602733592,George Washington,Stanford,3,4,1,0,NA,400913902,2016-12-21,
+126,2,7:03,1623,1623,Lexi Martins made Free Throw.,11,18,-7,11,0.2911606968202615,George Washington,Stanford,3,4,1,0,NA,400913902,2016-12-21,George Washington
+127,2,6:52,1612,1612,Karlie Samuelson made Three Point Jumper. Assisted by Nadia Fingall.,11,21,-10,17,0.2180465895534252,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,Stanford
+128,2,6:35,1595,1595,Brianna Cummings missed Jumper.,11,21,-10,0,0.2164701576173679,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+129,2,6:35,1595,1595,Hannah Schaible Offensive Rebound.,11,21,-10,10,0.2164701576173679,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+130,2,6:25,1585,1585,Hannah Schaible missed Jumper.,11,21,-10,0,0.21554525097876798,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+131,2,6:25,1585,1585,Karlie Samuelson Defensive Rebound.,11,21,-10,23,0.21554525097876798,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+132,2,6:02,1562,1562,Brittany McPhee made Jumper.,11,23,-12,20,0.17287768360619327,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,Stanford
+133,2,5:42,1542,1542,Brianna Cummings missed Jumper.,11,23,-12,0,0.1709651707279659,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+134,2,5:42,1542,1542,Erica McCall Defensive Rebound.,11,23,-12,6,0.1709651707279659,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+135,2,5:36,1536,1536,Foul on Lexi Martins.,11,23,-12,0,0.1703864655159318,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+136,2,5:36,1536,1536,Karlie Samuelson made Free Throw.,11,24,-13,0,0.15254238253970417,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,Stanford
+137,2,5:36,1536,1536,Karlie Samuelson made Free Throw.,11,25,-14,26,0.1362601239570715,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,Stanford
+138,2,5:10,1510,1510,Lexi Martins missed Three Point Jumper.,11,25,-14,0,0.1337907726898242,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+139,2,5:10,1510,1510,Kendall Bresee Offensive Rebound.,11,25,-14,9,0.1337907726898242,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+140,2,5:01,1501,1501,Mei-Lyn Bautista made Jumper.,13,25,-12,11,0.1669402700345555,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,George Washington
+141,2,4:50,1490,1490,Nadia Fingall made Jumper.,13,27,-14,29,0.13184302570452333,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,Stanford
+142,2,4:21,1461,1461,Jada Matthews Turnover.,13,27,-14,18,0.12891845404960503,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+143,2,4:03,1443,1443,Erica McCall missed Jumper.,13,27,-14,0,0.1270431806589515,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+144,2,4:03,1443,1443,Jada Matthews Defensive Rebound.,13,27,-14,15,0.1270431806589515,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+145,2,3:48,1428,1428,Kelsi Mahoney missed Jumper.,13,27,-14,0,0.12552826268901593,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+146,2,3:48,1428,1428,Kendall Bresee Offensive Rebound.,13,27,-14,5,0.12552826268901593,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+147,2,3:43,1423,1423,Shannon Cranshaw missed Three Point Jumper.,13,27,-14,0,0.1250360070930823,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+148,2,3:43,1423,1423,Dijonai Carrington Defensive Rebound.,13,27,-14,11,0.1250360070930823,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+149,2,3:32,1412,1412,Nadia Fingall made Layup. Assisted by Brittany McPhee.,13,29,-16,13,0.09667973304643873,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,Stanford
+150,2,3:19,1399,1399,Caira Washington Turnover.,13,29,-16,1,0.09555241279425154,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+151,2,3:18,1398,1398,Erica McCall Steal.,13,29,-16,4,0.09546681585805078,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+152,2,3:14,1394,1394,Briana Roberson made Layup. Assisted by Brittany McPhee.,13,31,-18,1,0.07349721674739432,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,Stanford
+153,2,3:13,1393,1393,Technical Foul on George Washington.,13,31,-18,0,0.07342166193161047,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+154,2,3:13,1393,1393,Foul on George Washington.,13,31,-18,0,0.07342166193161047,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+155,2,3:13,1393,1393,Brittany McPhee made Free Throw.,13,32,-19,0,0.06439674371711397,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,Stanford
+156,2,3:13,1393,1393,Brittany McPhee made Free Throw.,13,33,-20,12,0.056413619059240416,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,Stanford
+157,2,3:01,1381,1381,Shannon Cranshaw Turnover.,13,33,-20,1,0.05563404804340865,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+158,2,3:00,1380,1380,Brittany McPhee Steal.,13,33,-20,7,0.05556974258568887,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+159,2,2:53,1373,1373,Karlie Samuelson missed Three Point Jumper.,13,33,-20,1,0.055122028544270826,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+160,2,2:52,1372,1372,Caira Washington Defensive Rebound.,13,33,-20,1,0.05505838968668548,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+161,2,2:51,1371,1371,Foul on Dijonai Carrington.,13,33,-20,12,0.05499482446540469,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+162,2,2:39,1359,1359,Shannon Cranshaw made Jumper. Assisted by Caira Washington.,15,33,-18,18,0.07091189182204131,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,George Washington
+163,2,2:21,1341,1341,Erica McCall missed Layup.,15,33,-18,0,0.0696095882228715,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+164,2,2:21,1341,1341,Caira Washington Block.,15,33,-18,2,0.0696095882228715,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+165,2,2:19,1339,1339,Erica McCall Offensive Rebound.,15,33,-18,1,0.06946518543952085,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+166,2,2:18,1338,1338,Erica McCall made Layup.,15,35,-20,0,0.05292505029016932,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,Stanford
+167,2,2:18,1338,1338,Foul on Kelsi Mahoney.,15,35,-20,0,0.05292505029016932,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+168,2,2:18,1338,1338,Erica McCall made Free Throw.,15,36,-21,13,0.046144846606911316,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,Stanford
+169,2,2:05,1325,1325,Foul on Erica McCall.,15,36,-21,0,0.045398693192766536,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+170,2,2:05,1325,1325,Kelsi Mahoney missed Free Throw.,15,36,-21,0,0.045398693192766536,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+171,2,2:05,1325,1325,George Washington Deadball Team Rebound.,15,36,-21,0,0.045398693192766536,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+172,2,2:05,1325,1325,Kelsi Mahoney made Free Throw.,16,36,-20,13,0.05211542046150469,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,George Washington
+173,2,1:52,1312,1312,Nadia Fingall made Layup. Assisted by Karlie Samuelson.,16,38,-22,0,0.03882565926730498,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,Stanford
+174,2,1:52,1312,1312,Foul on Kendall Bresee.,16,38,-22,0,0.03882565926730498,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+175,2,1:52,1312,1312,Nadia Fingall made Free Throw.,16,39,-23,17,0.03373372123429594,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,Stanford
+176,2,1:35,1295,1295,Kendall Bresee missed Jumper.,16,39,-23,0,0.03290917755275047,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+177,2,1:35,1295,1295,Brittany McPhee Block.,16,39,-23,0,0.03290917755275047,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+178,2,1:35,1295,1295,George Washington Offensive Rebound.,16,39,-23,2,0.03290917755275047,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+179,2,1:33,1293,1293,Mei-Lyn Bautista made Three Point Jumper. Assisted by Kendall Bresee.,19,39,-20,15,0.0501030411070433,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,George Washington
+180,2,1:18,1278,1278,Foul on Nadia Fingall.,19,39,-20,0,0.04913912764640025,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+181,2,1:18,1278,1278,Nadia Fingall Turnover.,19,39,-20,20,0.04913912764640025,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+182,2,0:58,1258,1258,Mei-Lyn Bautista missed Three Point Jumper.,19,39,-20,0,0.047822565663775914,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+183,2,0:58,1258,1258,Briana Roberson Defensive Rebound.,19,39,-20,6,0.047822565663775914,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+184,2,0:52,1252,1252,Brittany McPhee made Layup. Assisted by Briana Roberson.,19,41,-22,0,0.03556570877247496,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,Stanford
+185,2,0:52,1252,1252,Foul on Shannon Cranshaw.,19,41,-22,0,0.03556570877247496,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+186,2,0:52,1252,1252,Brittany McPhee missed Free Throw.,19,41,-22,0,0.03556570877247496,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+187,2,0:52,1252,1252,Caira Washington Defensive Rebound.,19,41,-22,12,0.03556570877247496,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+188,2,0:40,1240,1240,Mei-Lyn Bautista missed Jumper.,19,41,-22,0,0.03488193961215851,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+189,2,0:40,1240,1240,Marta Sniezek Defensive Rebound.,19,41,-22,8,0.03488193961215851,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+190,2,0:32,1232,1232,Foul on Briana Roberson.,19,41,-22,0,0.03441835831154347,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+191,2,0:32,1232,1232,Briana Roberson Turnover.,19,41,-22,9,0.03441835831154347,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+192,2,0:23,1223,1223,Mei-Lyn Bautista Turnover.,19,41,-22,2,0.03388894683791878,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+193,2,0:21,1221,1221,Marta Sniezek Steal.,19,41,-22,20,0.03377012600368819,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+194,2,0:01,1201,1201,Nadia Fingall Turnover.,19,41,-22,1,0.032571592796543945,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+195,2,0:00,1200,1200,Kendall Bresee Steal.,19,41,-22,0,0.03251305040720236,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+196,2,0:00,1200,1200,End of 2nd Quarter,19,41,-22,9,0.03251305040720236,George Washington,Stanford,3,4,0,0,NA,400913902,2016-12-21,
+197,3,9:51,1191,1191,Marta Sniezek Turnover.,19,41,-22,1,0.031995651261578106,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,
+198,3,9:50,1190,1190,Hannah Schaible Steal.,19,41,-22,3,0.03193916863705884,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,
+199,3,9:47,1187,1187,Hannah Schaible made Layup.,21,41,-20,18,0.04284853622814572,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,George Washington
+200,3,9:29,1169,1169,Erica McCall missed Layup.,21,41,-20,0,0.04166209791400481,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,
+201,3,9:29,1169,1169,Kelli Prange Block.,21,41,-20,1,0.04166209791400481,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,
+202,3,9:28,1168,1168,Erica McCall Offensive Rebound.,21,41,-20,2,0.04159786218079289,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,
+203,3,9:26,1166,1166,Erica McCall Turnover.,21,41,-20,0,0.041469864735814106,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,
+204,3,9:26,1166,1166,Kelli Prange Steal.,21,41,-20,12,0.041469864735814106,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,
+205,3,9:14,1154,1154,Kelli Prange made Three Point Jumper. Assisted by Hannah Schaible.,24,41,-17,19,0.0638240859014669,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,George Washington
+206,3,8:55,1135,1135,Nadia Fingall missed Jumper.,24,41,-17,0,0.062309420572338736,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,
+207,3,8:55,1135,1135,Kelli Prange Defensive Rebound.,24,41,-17,16,0.062309420572338736,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,
+208,3,8:39,1119,1119,Caira Washington made Jumper.,26,41,-15,31,0.08230703091895264,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,George Washington
+209,3,8:08,1088,1088,Brittany McPhee missed Jumper.,26,41,-15,0,0.07950449915578393,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,
+210,3,8:08,1088,1088,Brianna Cummings Defensive Rebound.,26,41,-15,7,0.07950449915578393,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,
+211,3,8:01,1081,1081,Hannah Schaible missed Jumper.,26,41,-15,0,0.078867015260004,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,
+212,3,8:01,1081,1081,Marta Sniezek Defensive Rebound.,26,41,-15,22,0.078867015260004,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,
+213,3,7:39,1059,1059,Marta Sniezek missed Three Point Jumper.,26,41,-15,0,0.07683583327627416,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,
+214,3,7:39,1059,1059,Nadia Fingall Offensive Rebound.,26,41,-15,20,0.07683583327627416,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,
+215,3,7:19,1039,1039,Erica McCall Turnover.,26,41,-15,1,0.0749369137045867,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,
+216,3,7:18,1038,1038,Hannah Schaible Steal.,26,41,-15,8,0.07484033289993539,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,
+217,3,7:10,1030,1030,Caira Washington missed Jumper.,26,41,-15,0,0.07406139175498601,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,
+218,3,7:10,1030,1030,Brittany McPhee Defensive Rebound.,26,41,-15,5,0.07406139175498601,George Washington,Stanford,4,5,0,0,NA,400913902,2016-12-21,
+219,3,7:05,1025,1025,Stanford  Timeout,26,41,-15,0,0.07356858903524151,George Washington,Stanford,4,4,0,1,NA,400913902,2016-12-21,
+220,3,7:05,1025,1025,Official TV Timeout,26,41,-15,12,0.07356858903524151,George Washington,Stanford,4,4,0,1,NA,400913902,2016-12-21,
+221,3,6:53,1013,1013,Karlie Samuelson Turnover.,26,41,-15,1,0.07236564713185953,George Washington,Stanford,4,4,0,1,NA,400913902,2016-12-21,
+222,3,6:52,1012,1012,Hannah Schaible Steal.,26,41,-15,22,0.07226404899556195,George Washington,Stanford,4,4,0,1,NA,400913902,2016-12-21,
+223,3,6:30,990,990,Foul on Alanna Smith.,26,41,-15,0,0.06997179887523816,George Washington,Stanford,4,4,0,1,NA,400913902,2016-12-21,
+224,3,6:30,990,990,Brianna Cummings made Free Throw.,27,41,-14,0,0.08206252810429547,George Washington,Stanford,4,4,0,1,NA,400913902,2016-12-21,George Washington
+225,3,6:30,990,990,Brianna Cummings missed Free Throw.,27,41,-14,0,0.08206252810429547,George Washington,Stanford,4,4,0,1,NA,400913902,2016-12-21,
+226,3,6:30,990,990,Kelli Prange Offensive Rebound.,27,41,-14,16,0.08206252810429547,George Washington,Stanford,4,4,0,1,NA,400913902,2016-12-21,
+227,3,6:14,974,974,Brianna Cummings Turnover.,27,41,-14,1,0.08017979961682312,George Washington,Stanford,4,4,0,1,NA,400913902,2016-12-21,
+228,3,6:13,973,973,Briana Roberson Steal.,27,41,-14,3,0.08005962868893912,George Washington,Stanford,4,4,0,1,NA,400913902,2016-12-21,
+229,3,6:10,970,970,Alanna Smith made Layup. Assisted by Briana Roberson.,27,43,-16,23,0.05754276541301827,George Washington,Stanford,4,4,0,1,NA,400913902,2016-12-21,Stanford
+230,3,5:47,947,947,Mei-Lyn Bautista made Layup.,29,43,-14,17,0.07712257478913645,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,George Washington
+231,3,5:30,930,930,Erica McCall Turnover.,29,43,-14,17,0.07544656654741726,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+232,3,5:13,913,913,Hannah Schaible missed Jumper.,29,43,-14,0,0.07391020143371725,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+233,3,5:13,913,913,Alanna Smith Block.,29,43,-14,1,0.07391020143371725,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+234,3,5:12,912,912,Hannah Schaible Offensive Rebound.,29,43,-14,8,0.07382322558229303,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+235,3,5:04,904,904,Hannah Schaible missed Jumper.,29,43,-14,1,0.07313832348956122,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+236,3,5:03,903,903,Hannah Schaible Offensive Rebound.,29,43,-14,1,0.07305394823533273,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+237,3,5:02,902,902,Foul on Alanna Smith.,29,43,-14,4,0.07296982039765795,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+238,3,4:58,898,898,Caira Washington made Layup. Assisted by Mei-Lyn Bautista.,31,43,-12,27,0.1012830068549304,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,George Washington
+239,3,4:31,871,871,Erica McCall Turnover.,31,43,-12,0,0.09873419663132128,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+240,3,4:31,871,871,Official TV Timeout,31,43,-12,21,0.09873419663132128,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+241,3,4:10,850,850,Hannah Schaible missed Jumper.,31,43,-12,0,0.09675206676455095,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+242,3,4:10,850,850,Erica McCall Defensive Rebound.,31,43,-12,12,0.09675206676455095,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+243,3,3:58,838,838,Karlie Samuelson missed Three Point Jumper.,31,43,-12,0,0.09558712499137047,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+244,3,3:58,838,838,Caira Washington Defensive Rebound.,31,43,-12,2,0.09558712499137047,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+245,3,3:56,836,836,Foul on Erica McCall.,31,43,-12,17,0.09538942392232926,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+246,3,3:39,819,819,Hannah Schaible Turnover.,31,43,-12,1,0.09365590250058792,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+247,3,3:38,818,818,Briana Roberson Steal.,31,43,-12,6,0.09355055237673061,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+248,3,3:32,812,812,Foul on Hannah Schaible.,31,43,-12,0,0.09290942954746215,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+249,3,3:32,812,812,Marta Sniezek made Free Throw.,31,44,-13,0,0.07809602409877121,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,Stanford
+250,3,3:32,812,812,Marta Sniezek made Free Throw.,31,45,-14,10,0.06547397830992184,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,Stanford
+251,3,3:22,802,802,Mei-Lyn Bautista missed Jumper.,31,45,-14,0,0.06453854027091925,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+252,3,3:22,802,802,Hannah Schaible Offensive Rebound.,31,45,-14,14,0.06453854027091925,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+253,3,3:08,788,788,Kelli Prange missed Jumper.,31,45,-14,0,0.06315851824534026,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+254,3,3:08,788,788,Nadia Fingall Defensive Rebound.,31,45,-14,15,0.06315851824534026,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+255,3,2:53,773,773,Brittany McPhee made Layup.,31,47,-16,16,0.042572143605194894,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,Stanford
+256,3,2:37,757,757,Foul on Briana Roberson.,31,47,-16,5,0.04111008587744925,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+257,3,2:32,752,752,Lexi Martins made Three Point Jumper. Assisted by Caira Washington.,34,47,-13,15,0.07116601261575337,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,George Washington
+258,3,2:17,737,737,Brittany McPhee Turnover.,34,47,-13,17,0.0690875929915493,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+259,3,2:00,720,720,Mei-Lyn Bautista made Layup.,36,47,-11,16,0.09679929859794904,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,George Washington
+260,3,1:44,704,704,Marta Sniezek made Three Point Jumper. Assisted by Karlie Samuelson.,36,50,-14,13,0.05326106959332762,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,Stanford
+261,3,1:31,691,691,Foul on Brittany McPhee.,36,50,-14,0,0.05194347995541826,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+262,3,1:31,691,691,Lexi Martins missed Free Throw.,36,50,-14,0,0.05194347995541826,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+263,3,1:31,691,691,George Washington Deadball Team Rebound.,36,50,-14,0,0.05194347995541826,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+264,3,1:31,691,691,Lexi Martins made Free Throw.,37,50,-13,10,0.063161798660537255,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,George Washington
+265,3,1:21,681,681,Dijonai Carrington made Layup. Assisted by Nadia Fingall.,37,52,-15,25,0.04178811904405014,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,Stanford
+266,3,0:56,656,656,Foul on Nadia Fingall.,37,52,-15,0,0.03982210634181052,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+267,3,0:56,656,656,Kelli Prange made Free Throw.,38,52,-14,0,0.04877574792590122,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,George Washington
+268,3,0:56,656,656,Kelli Prange made Free Throw.,39,52,-13,8,0.05961753869121022,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,George Washington
+269,3,0:48,648,648,Foul on Hannah Schaible.,39,52,-13,15,0.058834915388409605,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+270,3,0:33,633,633,Nadia Fingall made Layup.,39,54,-15,11,0.03803852384113185,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,Stanford
+271,3,0:22,622,622,Kelli Prange made Jumper.,41,54,-13,20,0.056205039405964545,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,George Washington
+272,3,0:02,602,602,Marta Sniezek missed Layup.,41,54,-13,0,0.053983405093642564,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+273,3,0:02,602,602,Kendall Bresee Defensive Rebound.,41,54,-13,2,0.053983405093642564,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+274,3,0:00,600,600,End of 3rd Quarter,41,54,-13,18,0.05374768640643379,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+275,4,9:42,582,582,Erica McCall made Three Point Jumper. Assisted by Marta Sniezek.,41,57,-16,19,0.026967677125452182,George Washington,Stanford,5,5,0,0,NA,400913902,2016-12-21,Stanford
+276,4,9:23,563,563,Shannon Cranshaw made Three Point Jumper. Assisted by Lexi Martins.,44,57,-13,21,0.048820533559543224,George Washington,Stanford,5,5,0,0,NA,400913902,2016-12-21,George Washington
+277,4,9:02,542,542,Brittany McPhee missed Three Point Jumper.,44,57,-13,0,0.04558917023052976,George Washington,Stanford,5,5,0,0,NA,400913902,2016-12-21,
+278,4,9:02,542,542,Brianna Cummings Defensive Rebound.,44,57,-13,18,0.04558917023052976,George Washington,Stanford,5,5,0,0,NA,400913902,2016-12-21,
+279,4,8:44,524,524,Kendall Bresee Turnover.,44,57,-13,1,0.04329783009703958,George Washington,Stanford,5,5,0,0,NA,400913902,2016-12-21,
+280,4,8:43,523,523,Karlie Samuelson Steal.,44,57,-13,4,0.04318364924866372,George Washington,Stanford,5,5,0,0,NA,400913902,2016-12-21,
+281,4,8:39,519,519,Marta Sniezek missed Jumper.,44,57,-13,0,0.042736858109883015,George Washington,Stanford,5,5,0,0,NA,400913902,2016-12-21,
+282,4,8:39,519,519,Brianna Cummings Block.,44,57,-13,1,0.042736858109883015,George Washington,Stanford,5,5,0,0,NA,400913902,2016-12-21,
+283,4,8:38,518,518,Nadia Fingall Offensive Rebound.,44,57,-13,2,0.042627406160038454,George Washington,Stanford,5,5,0,0,NA,400913902,2016-12-21,
+284,4,8:36,516,516,Foul on Kelli Prange.,44,57,-13,0,0.042410871585940486,George Washington,Stanford,5,5,0,0,NA,400913902,2016-12-21,
+285,4,8:36,516,516,Nadia Fingall made Free Throw.,44,58,-14,0,0.03367370212394307,George Washington,Stanford,5,5,0,0,NA,400913902,2016-12-21,Stanford
+286,4,8:36,516,516,Nadia Fingall missed Free Throw.,44,58,-14,0,0.03367370212394307,George Washington,Stanford,5,5,0,0,NA,400913902,2016-12-21,
+287,4,8:36,516,516,Caira Washington Defensive Rebound.,44,58,-14,12,0.03367370212394307,George Washington,Stanford,5,5,0,0,NA,400913902,2016-12-21,
+288,4,8:24,504,504,Kelli Prange made Jumper.,46,58,-12,18,0.051852867731395136,George Washington,Stanford,5,5,0,0,NA,400913902,2016-12-21,George Washington
+289,4,8:06,486,486,Stanford  Timeout,46,58,-12,0,0.049729287490201,George Washington,Stanford,5,4,0,1,NA,400913902,2016-12-21,
+290,4,8:06,486,486,Official TV Timeout,46,58,-12,5,0.049729287490201,George Washington,Stanford,5,4,0,1,NA,400913902,2016-12-21,
+291,4,8:01,481,481,Erica McCall missed Jumper.,46,58,-12,1,0.049117079985007334,George Washington,Stanford,5,4,0,1,NA,400913902,2016-12-21,
+292,4,8:00,480,480,Caira Washington Defensive Rebound.,46,58,-12,0,0.04899251787736348,George Washington,Stanford,5,4,0,1,NA,400913902,2016-12-21,
+293,4,8:00,480,480,Foul on Nadia Fingall.,46,58,-12,14,0.04899251787736348,George Washington,Stanford,5,4,0,1,NA,400913902,2016-12-21,
+294,4,7:46,466,466,Caira Washington missed Jumper.,46,58,-12,0,0.04714949745758102,George Washington,Stanford,5,4,0,1,NA,400913902,2016-12-21,
+295,4,7:46,466,466,Hannah Schaible Offensive Rebound.,46,58,-12,6,0.04714949745758102,George Washington,Stanford,5,4,0,1,NA,400913902,2016-12-21,
+296,4,7:40,460,460,Kendall Bresee made Jumper. Assisted by Hannah Schaible.,48,58,-10,12,0.07438483751470615,George Washington,Stanford,5,4,0,1,NA,400913902,2016-12-21,George Washington
+297,4,7:28,448,448,Karlie Samuelson missed Three Point Jumper.,48,58,-10,3,0.0719327976794228,George Washington,Stanford,5,4,0,1,NA,400913902,2016-12-21,
+298,4,7:25,445,445,Kendall Bresee Defensive Rebound.,48,58,-10,20,0.07126851449473949,George Washington,Stanford,5,4,0,1,NA,400913902,2016-12-21,
+299,4,7:05,425,425,Kelli Prange missed Three Point Jumper.,48,58,-10,0,0.06631846709236795,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+300,4,7:05,425,425,Briana Roberson Defensive Rebound.,48,58,-10,29,0.06631846709236795,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+301,4,6:36,396,396,Foul on Shannon Cranshaw.,48,58,-10,5,0.05987018828576062,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+302,4,6:31,391,391,Karlie Samuelson Turnover.,48,58,-10,26,0.05885443359131294,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+303,4,6:05,365,365,Brianna Cummings missed Three Point Jumper.,48,58,-10,0,0.053567540538666164,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+304,4,6:05,365,365,Caira Washington Offensive Rebound.,48,58,-10,3,0.053567540538666164,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+305,4,6:02,362,362,Caira Washington made Layup.,50,58,-8,15,0.09050774415720768,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,George Washington
+306,4,5:47,347,347,Briana Roberson made Jumper.,50,60,-10,17,0.04962518285937989,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,Stanford
+307,4,5:30,330,330,Lexi Martins Turnover.,50,60,-10,14,0.04550915850238685,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+308,4,5:16,316,316,Brittany McPhee missed Three Point Jumper.,50,60,-10,0,0.041787043296240826,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+309,4,5:16,316,316,Caira Washington Defensive Rebound.,50,60,-10,11,0.041787043296240826,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+310,4,5:05,305,305,Brianna Cummings missed Layup.,50,60,-10,0,0.03889525448611726,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+311,4,5:05,305,305,Brittany McPhee Defensive Rebound.,50,60,-10,12,0.03889525448611726,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+312,4,4:53,293,293,Erica McCall made Layup. Assisted by Brittany McPhee.,50,62,-12,0,0.019944332559053098,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,Stanford
+313,4,4:53,293,293,Foul on Hannah Schaible.,50,62,-12,0,0.019944332559053098,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+314,4,4:53,293,293,Erica McCall made Free Throw.,50,63,-13,14,0.0144968674713854,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,Stanford
+315,4,4:39,279,279,Lexi Martins missed Three Point Jumper.,50,63,-13,0,0.014602347492832084,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+316,4,4:39,279,279,Alanna Smith Defensive Rebound.,50,63,-13,17,0.014602347492832084,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+317,4,4:22,262,262,Foul on Kendall Bresee.,50,63,-13,0,0.015471480666977632,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+318,4,4:22,262,262,Brittany McPhee made Free Throw.,50,64,-14,0,0.011288269930196389,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,Stanford
+319,4,4:22,262,262,Brittany McPhee missed Free Throw.,50,64,-14,0,0.011288269930196389,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+320,4,4:22,262,262,Caira Washington Defensive Rebound.,50,64,-14,2,0.011288269930196389,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+321,4,4:20,260,260,Foul on Alanna Smith.,50,64,-14,28,0.011384824898845736,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+322,4,3:52,232,232,Mei-Lyn Bautista missed Layup.,50,64,-14,0,0.012105021261203842,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+323,4,3:52,232,232,Caira Washington Offensive Rebound.,50,64,-14,2,0.012105021261203842,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+324,4,3:50,230,230,Caira Washington missed Layup.,50,64,-14,0,0.012058932954353669,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+325,4,3:50,230,230,Erica McCall Defensive Rebound.,50,64,-14,1,0.012058932954353669,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+326,4,3:49,229,229,Foul on Caira Washington.,50,64,-14,0,0.012028655243787108,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+327,4,3:49,229,229,Erica McCall made Free Throw.,50,65,-15,0,0.008808025399163278,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,Stanford
+328,4,3:49,229,229,Erica McCall missed Free Throw.,50,65,-15,2,0.008808025399163278,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+329,4,3:47,227,227,George Washington Defensive Rebound.,50,65,-15,17,0.0087485331014449,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+330,4,3:30,210,210,Mei-Lyn Bautista missed Three Point Jumper.,50,65,-15,0,0.007558016071146128,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+331,4,3:30,210,210,Hannah Schaible Offensive Rebound.,50,65,-15,3,0.007558016071146128,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+332,4,3:27,207,207,Hannah Schaible missed Jumper.,50,65,-15,0,0.007223150571960597,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+333,4,3:27,207,207,Erica McCall Defensive Rebound.,50,65,-15,15,0.007223150571960597,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+334,4,3:12,192,192,Briana Roberson missed Three Point Jumper.,50,65,-15,0,0.005160682686933169,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+335,4,3:12,192,192,Hannah Schaible Defensive Rebound.,50,65,-15,10,0.005160682686933169,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+336,4,3:02,182,182,Mei-Lyn Bautista Turnover.,50,65,-15,1,0.0037846383189476477,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+337,4,3:01,181,181,Erica McCall Steal.,50,65,-15,18,0.003667286410745872,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,
+338,4,2:43,163,163,Brittany McPhee made Jumper. Assisted by Dijonai Carrington.,50,67,-17,8,8.925920555676297e-4,George Washington,Stanford,5,4,0,0,NA,400913902,2016-12-21,Stanford
+339,4,2:35,155,155,George Washington  Timeout,50,67,-17,7,6.486550806700089e-4,George Washington,Stanford,4,4,1,0,NA,400913902,2016-12-21,
+340,4,2:28,148,148,Caira Washington made Jumper.,52,67,-15,13,0.0011843540698945746,George Washington,Stanford,4,4,1,0,NA,400913902,2016-12-21,George Washington
+341,4,2:15,135,135,Marta Sniezek made Layup.,52,69,-17,26,2.6505136654775133e-4,George Washington,Stanford,4,4,1,0,NA,400913902,2016-12-21,Stanford
+342,4,1:49,109,109,Hannah Schaible Turnover.,52,69,-17,26,6.143651571351818e-5,George Washington,Stanford,4,4,1,0,NA,400913902,2016-12-21,
+343,4,1:23,83,83,Erica McCall missed Jumper.,52,69,-17,0,9.267995980808367e-6,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+344,4,1:23,83,83,Hannah Schaible Defensive Rebound.,52,69,-17,8,9.267995980808367e-6,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+345,4,1:15,75,75,Lexi Martins missed Three Point Jumper.,52,69,-17,5,4.862364120840441e-6,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+346,4,1:10,70,70,Erica McCall Defensive Rebound.,52,69,-17,7,3.179248896882749e-6,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+347,4,1:03,63,63,Foul on Hannah Schaible.,52,69,-17,0,1.7177759904649635e-6,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+348,4,1:03,63,63,Marta Sniezek missed Free Throw.,52,69,-17,0,1.7177759904649635e-6,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+349,4,1:03,63,63,Stanford Deadball Team Rebound.,52,69,-17,0,1.7177759904649635e-6,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+350,4,1:03,63,63,Marta Sniezek missed Free Throw.,52,69,-17,0,1.7177759904649635e-6,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+351,4,1:03,63,63,Caira Washington Defensive Rebound.,52,69,-17,10,1.7177759904649635e-6,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+352,4,0:53,53,53,Brianna Cummings missed Jumper.,52,69,-17,0,6.861620584071904e-7,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+353,4,0:53,53,53,Nadia Fingall Defensive Rebound.,52,69,-17,16,6.861620584071904e-7,George Washington,Stanford,4,4,0,0,NA,400913902,2016-12-21,
+354,4,0:37,37,37,Briana Roberson made Layup.,52,71,-19,0,2.2012130826973368e-8,George Washington,Stanford,4,4,1,0,NA,400913902,2016-12-21,Stanford
+355,4,0:37,37,37,George Washington  Timeout,52,71,-19,12,2.2012130826973368e-8,George Washington,Stanford,3,4,1,0,NA,400913902,2016-12-21,
+356,4,0:25,25,25,Shannon Cranshaw missed Three Point Jumper.,52,71,-19,0,5.280664214111026e-9,George Washington,Stanford,3,4,1,0,NA,400913902,2016-12-21,
+357,4,0:25,25,25,Dijonai Carrington Defensive Rebound.,52,71,-19,25,5.280664214111026e-9,George Washington,Stanford,3,4,1,0,NA,400913902,2016-12-21,
+358,4,0:00,0,0,End of Game,52,71,-19,0,9.291736316326398e-166,George Washington,Stanford,3,4,1,0,NA,400913902,2016-12-21,

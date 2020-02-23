@@ -1,0 +1,351 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:29,2369,2369,McNeese  Turnover.,0,0,0,16,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,NA
+2,1,9:13,2353,2353,Cassidy Barrios missed Layup.,0,0,0,0,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+3,1,9:13,2353,2353,Frederica Haywood Defensive Rebound.,0,0,0,6,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+4,1,9:07,2347,2347,Amber Donnes missed Three Point Jumper.,0,0,0,0,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+5,1,9:07,2347,2347,Emani White Defensive Rebound.,0,0,0,16,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+6,1,8:51,2331,2331,Emani White made Three Point Jumper.,0,3,-3,15,0.43197888401428264,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,Nicholls
+7,1,8:36,2316,2316,Victoria Rachal Turnover.,0,3,-3,27,0.4314900174104827,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+8,1,8:09,2289,2289,Tia Charles made Jumper.,0,5,-5,16,0.3856427511772553,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,Nicholls
+9,1,7:53,2273,2273,Amber Donnes made Layup.,2,5,-3,18,0.4300694234368722,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+10,1,7:35,2255,2255,Tia Charles missed Three Point Jumper.,2,5,-3,0,0.42946740801801747,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+11,1,7:35,2255,2255,Mercedes Rogers Defensive Rebound.,2,5,-3,23,0.42946740801801747,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+12,1,7:12,2232,2232,Frederica Haywood made Jumper. Assisted by Mercedes Rogers.,4,5,-1,25,0.4760860834024592,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+13,1,6:47,2207,2207,Taylor Morrison made Jumper.,4,7,-3,22,0.4278453520675339,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,Nicholls
+14,1,6:25,2185,2185,Caitlin Davis made Three Point Jumper.,7,7,0,17,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+15,1,6:08,2168,2168,Emani White Turnover.,7,7,0,1,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+16,1,6:07,2167,2167,Amber Donnes Steal.,7,7,0,2,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+17,1,6:05,2165,2165,Amber Donnes made Layup.,9,7,2,19,0.549257676240743,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+18,1,5:46,2146,2146,Tia Charles missed Jumper.,9,7,2,0,0.5496985955087812,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+19,1,5:46,2146,2146,Frederica Haywood Defensive Rebound.,9,7,2,2,0.5496985955087812,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+20,1,5:44,2144,2144,Foul on Tia Charles.,9,7,2,11,0.549745172445259,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+21,1,5:33,2133,2133,Mercedes Rogers made Layup. Assisted by Amber Donnes.,11,7,4,21,0.599013648863551,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+22,1,5:12,2112,2112,Taylor Morrison made Layup. Assisted by Cassidy Barrios.,11,9,2,16,0.5504949846856952,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,Nicholls
+23,1,4:56,2096,2096,Victoria Rachal Turnover.,11,9,2,0,0.5508733395399744,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+24,1,4:56,2096,2096,Emani White Steal.,11,9,2,0,0.5508733395399744,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+25,1,4:56,2096,2096,Official TV Timeout,11,9,2,11,0.5508733395399744,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+26,1,4:45,2085,2085,Cassidy Barrios made Layup. Assisted by Hope Pawlowski.,11,11,0,27,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,Nicholls
+27,1,4:18,2058,2058,Victoria Rachal missed Three Point Jumper.,11,11,0,0,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+28,1,4:18,2058,2058,Cassidy Barrios Block.,11,11,0,3,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+29,1,4:15,2055,2055,McNeese Offensive Rebound.,11,11,0,6,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+30,1,4:09,2049,2049,Foul on Hope Pawlowski.,11,11,0,11,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+31,1,3:58,2038,2038,Victoria Rachal Turnover.,11,11,0,0,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+32,1,3:58,2038,2038,Emani White Steal.,11,11,0,0,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+33,1,3:58,2038,2038,Foul on Caitlin Davis.,11,11,0,9,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+34,1,3:49,2029,2029,Emani White missed Jumper.,11,11,0,0,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+35,1,3:49,2029,2029,Amber Donnes Defensive Rebound.,11,11,0,7,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+36,1,3:42,2022,2022,Caitlin Davis missed Three Point Jumper.,11,11,0,0,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+37,1,3:42,2022,2022,Tykeria Williams Defensive Rebound.,11,11,0,15,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+38,1,3:27,2007,2007,Tykeria Williams missed Three Point Jumper.,11,11,0,0,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+39,1,3:27,2007,2007,Taylor Morrison Offensive Rebound.,11,11,0,16,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+40,1,3:11,1991,1991,Foul on Dede Sheppard.,11,11,0,1,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+41,1,3:10,1990,1990,Emani White missed Jumper.,11,11,0,0,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+42,1,3:10,1990,1990,Frederica Haywood Defensive Rebound.,11,11,0,15,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+43,1,2:55,1975,1975,Hannah Cupit missed Three Point Jumper.,11,11,0,0,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+44,1,2:55,1975,1975,Hope Pawlowski Defensive Rebound.,11,11,0,22,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+45,1,2:33,1953,1953,Cassidy Barrios missed Jumper.,11,11,0,0,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+46,1,2:33,1953,1953,Frederica Haywood Defensive Rebound.,11,11,0,9,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+47,1,2:24,1944,1944,Amber Donnes made Layup. Assisted by Frederica Haywood.,13,11,2,13,0.5546108889427448,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+48,1,2:11,1931,1931,Tykeria Williams made Jumper.,13,13,0,19,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,Nicholls
+49,1,1:52,1912,1912,Caitlin Davis missed Jumper.,13,13,0,0,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+50,1,1:52,1912,1912,Cassidy Barrios Block.,13,13,0,2,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+51,1,1:50,1910,1910,Hannah Cupit Offensive Rebound.,13,13,0,3,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+52,1,1:47,1907,1907,Hannah Cupit missed Three Point Jumper.,13,13,0,0,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+53,1,1:47,1907,1907,Frederica Haywood Offensive Rebound.,13,13,0,3,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+54,1,1:44,1904,1904,Frederica Haywood missed Layup.,13,13,0,0,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+55,1,1:44,1904,1904,Taylor Morrison Defensive Rebound.,13,13,0,2,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+56,1,1:42,1902,1902,Taylor Morrison Turnover.,13,13,0,0,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+57,1,1:42,1902,1902,Caitlin Davis Steal.,13,13,0,1,0.5,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+58,1,1:41,1901,1901,Dede Sheppard made Layup. Assisted by Caitlin Davis.,15,13,2,21,0.5557168601555263,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+59,1,1:20,1880,1880,Tia Charles missed Jumper.,15,13,2,0,0.5562565669528433,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+60,1,1:20,1880,1880,Frederica Haywood Defensive Rebound.,15,13,2,7,0.5562565669528433,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+61,1,1:13,1873,1873,Frederica Haywood made Layup. Assisted by Victoria Rachal.,17,13,4,18,0.6114532770714997,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+62,1,0:55,1855,1855,Tykeria Williams missed Three Point Jumper.,17,13,4,0,0.6123459826550677,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+63,1,0:55,1855,1855,Dede Sheppard Defensive Rebound.,17,13,4,10,0.6123459826550677,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+64,1,0:45,1845,1845,Dede Sheppard Turnover.,17,13,4,8,0.6128432079096078,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+65,1,0:37,1837,1837,Taylor Morrison missed Layup.,17,13,4,0,0.6132418984898609,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+66,1,0:37,1837,1837,Caitlin Davis Defensive Rebound.,17,13,4,6,0.6132418984898609,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+67,1,0:31,1831,1831,Victoria Rachal missed Three Point Jumper.,17,13,4,4,0.6135415457675434,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+68,1,0:27,1827,1827,Frederica Haywood Offensive Rebound.,17,13,4,0,0.6137416453602129,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+69,1,0:27,1827,1827,Foul on Tykeria Williams.,17,13,4,0,0.6137416453602129,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+70,1,0:27,1827,1827,Frederica Haywood made Free Throw.,18,13,5,0,0.6407991831630797,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+71,1,0:27,1827,1827,Frederica Haywood made Free Throw.,19,13,6,8,0.6669897509970157,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+72,1,0:19,1819,1819,Cassidy Barrios made Layup. Assisted by Tykeria Williams.,19,15,4,19,0.6141427319416867,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,Nicholls
+73,1,0:00,1800,1800,End of 1st Quarter,19,15,4,11,0.6151008263378087,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+74,2,9:49,1789,1789,Emani White missed Jumper.,19,15,4,0,0.6156596666190358,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+75,2,9:49,1789,1789,Frederica Haywood Defensive Rebound.,19,15,4,20,0.6156596666190358,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+76,2,9:29,1769,1769,Amber Donnes missed Three Point Jumper.,19,15,4,0,0.6166850406988229,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+77,2,9:29,1769,1769,Frederica Haywood Offensive Rebound.,19,15,4,6,0.6166850406988229,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+78,2,9:23,1763,1763,Frederica Haywood Turnover.,19,15,4,1,0.6169952708474042,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+79,2,9:22,1762,1762,Tia Charles Steal.,19,15,4,25,0.6170471024165468,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+80,2,8:57,1737,1737,Taylor Morrison missed Three Point Jumper.,19,15,4,0,0.6183556376216363,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+81,2,8:57,1737,1737,McNeese Defensive Rebound.,19,15,4,29,0.6183556376216363,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+82,2,8:28,1708,1708,Amber Donnes made Layup. Assisted by Frederica Haywood.,21,15,6,22,0.6756252052626514,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+83,2,8:06,1686,1686,Emani White missed Three Point Jumper.,21,15,6,0,0.6773061433355481,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+84,2,8:06,1686,1686,McNeese Defensive Rebound.,21,15,6,26,0.6773061433355481,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+85,2,7:40,1660,1660,Foul on Taylor Morrison.,21,15,6,18,0.6792547124000431,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+86,2,7:22,1642,1642,Victoria Rachal missed Jumper.,21,15,6,8,0.6805661512562451,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+87,2,7:14,1634,1634,Frederica Haywood Offensive Rebound.,21,15,6,1,0.6811417881454437,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+88,2,7:13,1633,1633,Frederica Haywood made Layup.,23,15,8,22,0.7335036753024412,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+89,2,6:51,1611,1611,Cassidy Barrios missed Layup.,23,15,8,0,0.735382535534091,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+90,2,6:51,1611,1611,Bree Wilson Offensive Rebound.,23,15,8,8,0.735382535534091,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+91,2,6:43,1603,1603,Hope Pawlowski Turnover.,23,15,8,34,0.7360610686449504,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+92,2,6:09,1569,1569,Victoria Rachal missed Three Point Jumper.,23,15,8,0,0.7389430225958727,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+93,2,6:09,1569,1569,Mercedes Rogers Offensive Rebound.,23,15,8,8,0.7389430225958727,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+94,2,6:01,1561,1561,Mercedes Rogers made Layup.,25,15,10,17,0.7866800168754858,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+95,2,5:44,1544,1544,Taylor Morrison missed Three Point Jumper.,25,15,10,0,0.7882716059464451,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+96,2,5:44,1544,1544,Victoria Rachal Defensive Rebound.,25,15,10,11,0.7882716059464451,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+97,2,5:33,1533,1533,Frederica Haywood missed Jumper.,25,15,10,0,0.7893129507165407,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+98,2,5:33,1533,1533,Mercedes Rogers Offensive Rebound.,25,15,10,3,0.7893129507165407,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+99,2,5:30,1530,1530,Mercedes Rogers Turnover.,25,15,10,16,0.789598896307804,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+100,2,5:14,1514,1514,Tia Charles missed Three Point Jumper.,25,15,10,0,0.7911405818490728,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+101,2,5:14,1514,1514,Mercedes Rogers Defensive Rebound.,25,15,10,10,0.7911405818490728,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+102,2,5:04,1504,1504,Caitlin Davis missed Layup.,25,15,10,0,0.7921204706629559,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+103,2,5:04,1504,1504,McNeese Offensive Rebound.,25,15,10,18,0.7921204706629559,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+104,2,4:46,1486,1486,Caitlin Davis missed Three Point Jumper.,25,15,10,0,0.7939219969729603,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+105,2,4:46,1486,1486,Victoria Rachal Offensive Rebound.,25,15,10,5,0.7939219969729603,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+106,2,4:41,1481,1481,Victoria Rachal made Jumper.,27,15,12,28,0.8351011969914146,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+107,2,4:13,1453,1453,Hope Pawlowski Turnover.,27,15,12,0,0.8380761723084936,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+108,2,4:13,1453,1453,Foul on Hope Pawlowski.,27,15,12,0,0.8380761723084936,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+109,2,4:13,1453,1453,Official TV Timeout,27,15,12,9,0.8380761723084936,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+110,2,4:04,1444,1444,Frederica Haywood missed Layup.,27,15,12,0,0.8390564816172589,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+111,2,4:04,1444,1444,Frederica Haywood Offensive Rebound.,27,15,12,3,0.8390564816172589,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+112,2,4:01,1441,1441,Frederica Haywood made Layup.,29,15,14,23,0.8731623848465193,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+113,2,3:38,1418,1418,Tia Charles missed Three Point Jumper.,29,15,14,0,0.87545060011173,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+114,2,3:38,1418,1418,Tykeria Williams Offensive Rebound.,29,15,14,10,0.87545060011173,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+115,2,3:28,1408,1408,Foul on Frederica Haywood.,29,15,14,0,0.8764085346811687,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+116,2,3:28,1408,1408,Cassidy Barrios made Free Throw.,29,16,13,0,0.8604380385571012,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,Nicholls
+117,2,3:28,1408,1408,Cassidy Barrios made Free Throw.,29,17,12,29,0.842774059189831,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,Nicholls
+118,2,2:59,1379,1379,Victoria Rachal missed Three Point Jumper.,29,17,12,7,0.8456000693293808,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+119,2,2:52,1372,1372,Emani White Defensive Rebound.,29,17,12,5,0.8462695694005679,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+120,2,2:47,1367,1367,Cassidy Barrios missed Layup.,29,17,12,0,0.8467460669757899,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+121,2,2:47,1367,1367,Tykeria Williams Offensive Rebound.,29,17,12,7,0.8467460669757899,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+122,2,2:40,1360,1360,Tia Charles Turnover.,29,17,12,22,0.847411578850697,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+123,2,2:18,1338,1338,Victoria Rachal made Jumper.,31,17,14,17,0.882793194968694,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+124,2,2:01,1321,1321,Foul on Victoria Rachal.,31,17,14,20,0.884329477048311,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+125,2,1:41,1301,1301,Taylor Morrison missed Three Point Jumper.,31,17,14,0,0.8861656773015752,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+126,2,1:41,1301,1301,Frederica Haywood Defensive Rebound.,31,17,14,27,0.8861656773015752,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+127,2,1:14,1274,1274,Mercedes Rogers missed Jumper.,31,17,14,0,0.8887272830015643,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+128,2,1:14,1274,1274,Frederica Haywood Offensive Rebound.,31,17,14,5,0.8887272830015643,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+129,2,1:09,1269,1269,Frederica Haywood missed Jumper.,31,17,14,0,0.8892152998152496,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+130,2,1:09,1269,1269,Dede Sheppard Offensive Rebound.,31,17,14,2,0.8892152998152496,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+131,2,1:07,1267,1267,Dede Sheppard made Jumper.,33,17,16,0,0.915488394280833,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+132,2,1:07,1267,1267,Foul on Frederica Haywood.,33,17,16,15,0.915488394280833,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+133,2,0:52,1252,1252,Tykeria Williams missed Three Point Jumper.,33,17,16,0,0.9168361633984426,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+134,2,0:52,1252,1252,Hope Pawlowski Offensive Rebound.,33,17,16,4,0.9168361633984426,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+135,2,0:48,1248,1248,Hope Pawlowski made Layup.,33,19,14,0,0.8913219223219193,McNeese,Nicholls,4,4,1,0,NA,400945533,2017-03-09,Nicholls
+136,2,0:48,1248,1248,Foul on Caitlin Davis.,33,19,14,0,0.8913219223219193,McNeese,Nicholls,4,4,1,0,NA,400945533,2017-03-09,
+137,2,0:48,1248,1248,Hope Pawlowski made Free Throw.,33,20,13,0,0.8758829417279614,McNeese,Nicholls,4,4,1,0,NA,400945533,2017-03-09,Nicholls
+138,2,0:48,1248,1248,Nicholls  Timeout,33,20,13,13,0.8758829417279614,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,
+139,2,0:35,1235,1235,Mercedes Rogers made Jumper. Assisted by Mady Brasseaux.,35,20,15,25,0.9063366951869211,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,McNeese
+140,2,0:10,1210,1210,Keeona Brown missed Jumper.,35,20,15,0,0.9089310148250106,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,
+141,2,0:10,1210,1210,Nicholls Offensive Rebound.,35,20,15,2,0.9089310148250106,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,
+142,2,0:08,1208,1208,Foul on Amber Donnes.,35,20,15,0,0.9091444981883898,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,
+143,2,0:08,1208,1208,Cassidy Barrios made Free Throw.,35,21,14,0,0.8956393171151477,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,Nicholls
+144,2,0:08,1208,1208,Cassidy Barrios missed Free Throw.,35,21,14,0,0.8956393171151477,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,
+145,2,0:08,1208,1208,Mercedes Rogers Defensive Rebound.,35,21,14,7,0.8956393171151477,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,
+146,2,0:01,1201,1201,Victoria Rachal Turnover.,35,21,14,1,0.8964174136798246,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,
+147,2,0:00,1200,1200,Cassidy Barrios Steal.,35,21,14,0,0.8965272355199047,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,
+148,2,0:00,1200,1200,End of 2nd Quarter,35,21,14,8,0.8965272355199047,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,
+149,3,9:52,1192,1192,Caitlin Davis missed Layup.,35,21,14,0,0.8973946096960702,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+150,3,9:52,1192,1192,Caitlin Davis Offensive Rebound.,35,21,14,16,0.8973946096960702,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+151,3,9:36,1176,1176,Mercedes Rogers made Layup. Assisted by Frederica Haywood.,37,21,16,19,0.9241019159018021,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,McNeese
+152,3,9:17,1157,1157,Hope Pawlowski missed Layup.,37,21,16,0,0.9257982010042629,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+153,3,9:17,1157,1157,Caitlin Davis Defensive Rebound.,37,21,16,6,0.9257982010042629,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+154,3,9:11,1151,1151,Foul on Taylor Morrison.,37,21,16,0,0.9263214799050793,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+155,3,9:11,1151,1151,Caitlin Davis made Free Throw.,38,21,17,0,0.9364178731575841,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,McNeese
+156,3,9:11,1151,1151,Caitlin Davis made Free Throw.,39,21,18,8,0.9452125564153335,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,McNeese
+157,3,9:03,1143,1143,Cassidy Barrios made Layup.,39,23,16,26,0.9270119448006061,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,Nicholls
+158,3,8:37,1117,1117,Victoria Rachal missed Jumper.,39,23,16,0,0.9292169025470323,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+159,3,8:37,1117,1117,Hope Pawlowski Defensive Rebound.,39,23,16,15,0.9292169025470323,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+160,3,8:22,1102,1102,Hope Pawlowski missed Jumper.,39,23,16,0,0.9304763660211232,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+161,3,8:22,1102,1102,Frederica Haywood Defensive Rebound.,39,23,16,8,0.9304763660211232,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+162,3,8:14,1094,1094,Foul on Cassidy Barrios.,39,23,16,8,0.9311483847199896,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+163,3,8:06,1086,1086,Mercedes Rogers missed Jumper.,39,23,16,0,0.9318222950138297,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+164,3,8:06,1086,1086,Frederica Haywood Offensive Rebound.,39,23,16,5,0.9318222950138297,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+165,3,8:01,1081,1081,Foul on Cassidy Barrios.,39,23,16,0,0.9322450016225088,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+166,3,8:01,1081,1081,Frederica Haywood made Free Throw.,40,23,17,0,0.9418901523615758,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,McNeese
+167,3,8:01,1081,1081,Frederica Haywood made Free Throw.,41,23,18,0,0.9502355771433274,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,McNeese
+168,3,8:01,1081,1081,Foul on Amber Donnes.,41,23,18,18,0.9502355771433274,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+169,3,7:43,1063,1063,Cassidy Barrios missed Layup.,41,23,18,0,0.9515271501874493,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+170,3,7:43,1063,1063,Frederica Haywood Defensive Rebound.,41,23,18,8,0.9515271501874493,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+171,3,7:35,1055,1055,Amber Donnes missed Three Point Jumper.,41,23,18,0,0.9521077497102546,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+172,3,7:35,1055,1055,Mercedes Rogers Offensive Rebound.,41,23,18,24,0.9521077497102546,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+173,3,7:11,1031,1031,Mercedes Rogers missed Three Point Jumper.,41,23,18,0,0.9538840169462649,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+174,3,7:11,1031,1031,McNeese Offensive Rebound.,41,23,18,3,0.9538840169462649,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+175,3,7:08,1028,1028,Foul on Taylor Morrison.,41,23,18,5,0.9541103576355577,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+176,3,7:03,1023,1023,Amber Donnes missed Three Point Jumper.,41,23,18,0,0.954489993517107,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+177,3,7:03,1023,1023,Mercedes Rogers Offensive Rebound.,41,23,18,7,0.954489993517107,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+178,3,6:56,1016,1016,Victoria Rachal made Three Point Jumper. Assisted by Caitlin Davis.,44,23,21,28,0.9724803762560538,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,McNeese
+179,3,6:28,988,988,Emani White missed Three Point Jumper.,44,23,21,0,0.9740826520363743,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+180,3,6:28,988,988,Amber Donnes Defensive Rebound.,44,23,21,7,0.9740826520363743,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+181,3,6:21,981,981,Caitlin Davis missed Layup.,44,23,21,0,0.9744938940958513,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+182,3,6:21,981,981,Frederica Haywood Offensive Rebound.,44,23,21,2,0.9744938940958513,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+183,3,6:19,979,979,Frederica Haywood missed Jumper.,44,23,21,0,0.9746122110579788,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+184,3,6:19,979,979,Victoria Rachal Offensive Rebound.,44,23,21,3,0.9746122110579788,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+185,3,6:16,976,976,Amber Donnes missed Three Point Jumper.,44,23,21,0,0.9747903748975723,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+186,3,6:16,976,976,Emani White Defensive Rebound.,44,23,21,15,0.9747903748975723,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+187,3,6:01,961,961,Emani White missed Layup.,44,23,21,0,0.9756704871232329,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+188,3,6:01,961,961,Frederica Haywood Defensive Rebound.,44,23,21,8,0.9756704871232329,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+189,3,5:53,953,953,Amber Donnes Turnover.,44,23,21,12,0.976103746961728,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+190,3,5:41,941,941,Foul on Frederica Haywood.,44,23,21,0,0.9767076132802472,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+191,3,5:41,941,941,Cassidy Barrios missed Free Throw.,44,23,21,0,0.9767076132802472,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+192,3,5:41,941,941,Nicholls Deadball Team Rebound.,44,23,21,0,0.9767076132802472,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+193,3,5:41,941,941,Cassidy Barrios made Free Throw.,44,24,20,8,0.9722978759681105,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,Nicholls
+194,3,5:33,933,933,McNeese  Timeout,44,24,20,25,0.9727221783178664,McNeese,Nicholls,4,4,0,1,NA,400945533,2017-03-09,
+195,3,5:08,908,908,McNeese  Turnover.,44,24,20,21,0.9739320673421228,McNeese,Nicholls,4,4,0,1,NA,400945533,2017-03-09,
+196,3,4:47,887,887,Tykeria Williams made Three Point Jumper. Assisted by Taylor Morrison.,44,27,17,12,0.9572639012489821,McNeese,Nicholls,4,4,0,1,NA,400945533,2017-03-09,Nicholls
+197,3,4:35,875,875,Dede Sheppard Turnover.,44,27,17,0,0.9579857123757556,McNeese,Nicholls,4,4,0,1,NA,400945533,2017-03-09,
+198,3,4:35,875,875,Foul on Dede Sheppard.,44,27,17,0,0.9579857123757556,McNeese,Nicholls,4,4,0,1,NA,400945533,2017-03-09,
+199,3,4:35,875,875,Official TV Timeout,44,27,17,15,0.9579857123757556,McNeese,Nicholls,4,4,0,1,NA,400945533,2017-03-09,
+200,3,4:20,860,860,Emani White missed Three Point Jumper.,44,27,17,0,0.9588806100204007,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+201,3,4:20,860,860,Amber Donnes Defensive Rebound.,44,27,17,6,0.9588806100204007,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+202,3,4:14,854,854,Amber Donnes Turnover.,44,27,17,1,0.9592399202067979,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+203,3,4:13,853,853,Tykeria Williams Steal.,44,27,17,3,0.9593000087437933,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+204,3,4:10,850,850,Tykeria Williams missed Jumper.,44,27,17,0,0.9594807195667185,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+205,3,4:10,850,850,Dede Sheppard Defensive Rebound.,44,27,17,24,0.9594807195667185,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+206,3,3:46,826,826,Dede Sheppard missed Layup.,44,27,17,0,0.9609642230121679,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+207,3,3:46,826,826,Cassidy Barrios Block.,44,27,17,1,0.9609642230121679,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+208,3,3:45,825,825,McNeese Offensive Rebound.,44,27,17,1,0.9610279992557946,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+209,3,3:44,824,824,Dede Sheppard missed Three Point Jumper.,44,27,17,0,0.9610919680187089,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+210,3,3:44,824,824,Cassidy Barrios Defensive Rebound.,44,27,17,15,0.9610919680187089,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+211,3,3:29,809,809,Keeona Brown missed Layup.,44,27,17,0,0.9620771421245427,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+212,3,3:29,809,809,Mercedes Rogers Defensive Rebound.,44,27,17,31,0.9620771421245427,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+213,3,2:58,778,778,Amber Donnes made Three Point Jumper. Assisted by Victoria Rachal.,47,27,20,18,0.9797276838379899,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+214,3,2:40,760,760,Tykeria Williams missed Three Point Jumper.,47,27,20,0,0.9806966126567226,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+215,3,2:40,760,760,Victoria Rachal Defensive Rebound.,47,27,20,20,0.9806966126567226,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+216,3,2:20,740,740,Victoria Rachal missed Jumper.,47,27,20,9,0.9818542197628775,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+217,3,2:11,731,731,Taylor Morrison Defensive Rebound.,47,27,20,3,0.982402966703601,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+218,3,2:08,728,728,Cassidy Barrios Turnover.,47,27,20,2,0.9825878065773636,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+219,3,2:06,726,726,Caitlin Davis Steal.,47,27,20,3,0.9827078900105338,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+220,3,2:03,723,723,Mercedes Rogers made Layup. Assisted by Caitlin Davis.,49,27,22,20,0.9885184533542967,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+221,3,1:43,703,703,Keeona Brown made Jumper. Assisted by Emani White.,49,29,20,24,0.9839231173097628,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,Nicholls
+222,3,1:19,679,679,Dede Sheppard Turnover.,49,29,20,2,0.984962292166455,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+223,3,1:17,677,677,Tykeria Williams Steal.,49,29,20,10,0.9850421838325094,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+224,3,1:07,667,667,Cassidy Barrios missed Layup.,49,29,20,0,0.985431741046106,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+225,3,1:07,667,667,Mercedes Rogers Defensive Rebound.,49,29,20,6,0.985431741046106,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,
+226,3,1:01,661,661,Amber Donnes made Layup.,51,29,22,6,0.9905593999937996,McNeese,Nicholls,4,4,0,0,NA,400945533,2017-03-09,McNeese
+227,3,0:55,655,655,Nicholls  Timeout,51,29,22,10,0.9907230869594803,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,
+228,3,0:45,645,645,Tia Charles made Layup.,51,31,20,13,0.9862574064750107,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,Nicholls
+229,3,0:32,632,632,Frederica Haywood made Layup. Assisted by Mercedes Rogers.,53,31,22,9,0.991346199178135,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,McNeese
+230,3,0:23,623,623,Hope Pawlowski missed Three Point Jumper.,53,31,22,0,0.9915948748543212,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,
+231,3,0:23,623,623,Mercedes Rogers Defensive Rebound.,53,31,22,8,0.9915948748543212,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,
+232,3,0:15,615,615,Victoria Rachal Turnover.,53,31,22,14,0.9918210236562677,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,
+233,3,0:01,601,601,Bree Wilson Turnover.,53,31,22,1,0.9922321405734464,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,
+234,3,0:00,600,600,Victoria Rachal Steal.,53,31,22,0,0.9922623654244541,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,
+235,3,0:00,600,600,End of 3rd Quarter,53,31,22,17,0.9922623654244541,McNeese,Nicholls,3,4,1,0,NA,400945533,2017-03-09,
+236,4,9:43,583,583,Tia Charles made Three Point Jumper.,53,34,19,29,0.9859940357079846,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,Nicholls
+237,4,9:14,554,554,Foul on Hope Pawlowski.,53,34,19,11,0.9876801231102998,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+238,4,9:03,543,543,Foul on Hope Pawlowski.,53,34,19,1,0.9883454322387432,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+239,4,9:02,542,542,Mady Brasseaux missed Three Point Jumper.,53,34,19,0,0.9884008692055576,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+240,4,9:02,542,542,Victoria Rachal Offensive Rebound.,53,34,19,4,0.9884008692055576,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+241,4,8:58,538,538,Victoria Rachal missed Jumper.,53,34,19,0,0.9886140024332426,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+242,4,8:58,538,538,Victoria Rachal Offensive Rebound.,53,34,19,11,0.9886140024332426,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+243,4,8:47,527,527,Foul on Bree Wilson.,53,34,19,18,0.9891400533671748,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+244,4,8:29,509,509,Caitlin Davis Turnover.,53,34,19,0,0.9898733651683854,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+245,4,8:29,509,509,Tia Charles Steal.,53,34,19,19,0.9898733651683854,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+246,4,8:10,490,490,Tia Charles missed Jumper.,53,34,19,9,0.9905765670230936,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+247,4,8:01,481,481,Frederica Haywood Defensive Rebound.,53,34,19,16,0.9909123358967675,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,
+248,4,7:45,465,465,Mercedes Rogers made Layup.,55,34,21,10,0.994863321058496,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,McNeese
+249,4,7:35,455,455,Tia Charles made Three Point Jumper. Assisted by Bree Wilson.,55,37,18,4,0.9896876302574952,McNeese,Nicholls,4,5,0,0,NA,400945533,2017-03-09,Nicholls
+250,4,7:31,451,451,Nicholls  Timeout,55,37,18,11,0.9899093579843565,McNeese,Nicholls,3,5,1,0,NA,400945533,2017-03-09,
+251,4,7:20,440,440,Foul on Tia Charles.,55,37,18,1,0.990556567733834,McNeese,Nicholls,3,5,1,0,NA,400945533,2017-03-09,
+252,4,7:19,439,439,Foul on Bree Wilson.,55,37,18,0,0.9906181750884806,McNeese,Nicholls,3,5,1,0,NA,400945533,2017-03-09,
+253,4,7:19,439,439,Caitlin Davis made Free Throw.,56,37,19,0,0.992742378461661,McNeese,Nicholls,3,5,1,0,NA,400945533,2017-03-09,McNeese
+254,4,7:19,439,439,Caitlin Davis made Free Throw.,57,37,20,20,0.9943883508832446,McNeese,Nicholls,3,5,1,0,NA,400945533,2017-03-09,McNeese
+255,4,6:59,419,419,Foul on Frederica Haywood.,57,37,20,7,0.9952119483120353,McNeese,Nicholls,3,5,1,0,NA,400945533,2017-03-09,
+256,4,6:52,412,412,Foul on Amber Donnes.,57,37,20,0,0.9954597622717811,McNeese,Nicholls,3,5,1,0,NA,400945533,2017-03-09,
+257,4,6:52,412,412,Cassidy Barrios made Free Throw.,57,38,19,0,0.9940636930216307,McNeese,Nicholls,3,5,1,0,NA,400945533,2017-03-09,Nicholls
+258,4,6:52,412,412,Cassidy Barrios made Free Throw.,57,39,18,7,0.9922416946701342,McNeese,Nicholls,3,5,1,0,NA,400945533,2017-03-09,Nicholls
+259,4,6:45,405,405,Foul on Bree Wilson.,57,39,18,0,0.9925929635076188,McNeese,Nicholls,3,5,1,0,NA,400945533,2017-03-09,
+260,4,6:45,405,405,Dede Sheppard missed Free Throw.,57,39,18,0,0.9925929635076188,McNeese,Nicholls,3,5,1,0,NA,400945533,2017-03-09,
+261,4,6:45,405,405,McNeese Deadball Team Rebound.,57,39,18,0,0.9925929635076188,McNeese,Nicholls,3,5,1,0,NA,400945533,2017-03-09,
+262,4,6:45,405,405,Dede Sheppard made Free Throw.,58,39,19,9,0.9943475362200526,McNeese,Nicholls,3,5,1,0,NA,400945533,2017-03-09,McNeese
+263,4,6:36,396,396,Foul on Amber Donnes.,58,39,19,1,0.9946871223528478,McNeese,Nicholls,3,5,1,0,NA,400945533,2017-03-09,
+264,4,6:35,395,395,Tykeria Williams missed Three Point Jumper.,58,39,19,0,0.9947234761688795,McNeese,Nicholls,3,5,1,0,NA,400945533,2017-03-09,
+265,4,6:35,395,395,Mercedes Rogers Defensive Rebound.,58,39,19,22,0.9947234761688795,McNeese,Nicholls,3,5,1,0,NA,400945533,2017-03-09,
+266,4,6:13,373,373,Victoria Rachal made Jumper.,60,39,21,20,0.9974348165923832,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,McNeese
+267,4,5:53,353,353,Emani White missed Three Point Jumper.,60,39,21,0,0.9978504788668083,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+268,4,5:53,353,353,Taylor Morrison Offensive Rebound.,60,39,21,7,0.9978504788668083,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+269,4,5:46,346,346,Tia Charles missed Three Point Jumper.,60,39,21,0,0.9979952705961946,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+270,4,5:46,346,346,Dede Sheppard Defensive Rebound.,60,39,21,25,0.9979952705961946,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+271,4,5:21,321,321,Foul on Tia Charles.,60,39,21,0,0.998510408849868,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+272,4,5:21,321,321,Victoria Rachal missed Free Throw.,60,39,21,0,0.998510408849868,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+273,4,5:21,321,321,McNeese Deadball Team Rebound.,60,39,21,0,0.998510408849868,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+274,4,5:21,321,321,Victoria Rachal made Free Throw.,61,39,22,9,0.9989069136236892,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,McNeese
+275,4,5:12,312,312,Foul on Mercedes Rogers.,61,39,22,0,0.999045831383144,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+276,4,5:12,312,312,Cassidy Barrios made Free Throw.,61,40,21,0,0.9986915954873589,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,Nicholls
+277,4,5:12,312,312,Cassidy Barrios made Free Throw.,61,41,20,12,0.9982060853631616,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,Nicholls
+278,4,5:00,300,300,Dede Sheppard made Layup. Assisted by Hannah Cupit.,63,41,22,8,0.9991789835140681,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,McNeese
+279,4,4:52,292,292,Foul on Mady Brasseaux.,63,41,22,0,0.9992100251241653,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+280,4,4:52,292,292,Bree Wilson made Free Throw.,63,42,21,0,0.9989073434338948,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,Nicholls
+281,4,4:52,292,292,Bree Wilson made Free Throw.,63,43,20,3,0.9984888635652482,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,Nicholls
+282,4,4:49,289,289,Dede Sheppard Turnover.,63,43,20,1,0.9984942991489578,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+283,4,4:48,288,288,Cassidy Barrios Steal.,63,43,20,2,0.9984945898876628,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+284,4,4:46,286,286,Tykeria Williams missed Three Point Jumper.,63,43,20,0,0.9984930598281722,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+285,4,4:46,286,286,Dede Sheppard Defensive Rebound.,63,43,20,7,0.9984930598281722,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+286,4,4:39,279,279,Caitlin Davis made Layup. Assisted by Dede Sheppard.,65,43,22,0,0.9991981349900696,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,McNeese
+287,4,4:39,279,279,Foul on Bree Wilson.,65,43,22,0,0.9991981349900696,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+288,4,4:39,279,279,Caitlin Davis made Free Throw.,66,43,23,14,0.999419916097519,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,McNeese
+289,4,4:25,265,265,Tia Charles Turnover.,66,43,23,2,0.9993699688614844,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+290,4,4:23,263,263,Hannah Cupit Steal.,66,43,23,13,0.9993610205363611,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+291,4,4:10,250,250,Foul on Tykeria Williams.,66,43,23,0,0.9993037639998016,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+292,4,4:10,250,250,Hannah Cupit missed Free Throw.,66,43,23,0,0.9993037639998016,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+293,4,4:10,250,250,McNeese Deadball Team Rebound.,66,43,23,0,0.9993037639998016,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+294,4,4:10,250,250,Hannah Cupit missed Free Throw.,66,43,23,0,0.9993037639998016,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+295,4,4:10,250,250,Nicholls Defensive Rebound.,66,43,23,1,0.9993037639998016,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+296,4,4:09,249,249,Foul on Dede Sheppard.,66,43,23,0,0.9992999989157154,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+297,4,4:09,249,249,Cassidy Barrios made Free Throw.,66,44,22,0,0.9990402851261008,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,Nicholls
+298,4,4:09,249,249,Cassidy Barrios missed Free Throw.,66,44,22,6,0.9990402851261008,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+299,4,4:03,243,243,Gabby Guidry Defensive Rebound.,66,44,22,4,0.999016330610184,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+300,4,3:59,239,239,Regan Bolton missed Three Point Jumper.,66,44,22,0,0.9990074722473372,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+301,4,3:59,239,239,Taylor Morrison Defensive Rebound.,66,44,22,7,0.9990074722473372,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+302,4,3:52,232,232,Emani White made Three Point Jumper. Assisted by Tia Charles.,66,47,19,18,0.9974626214853934,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,Nicholls
+303,4,3:34,214,214,Regan Bolton made Three Point Jumper. Assisted by Hannah Cupit.,69,47,22,11,0.9991582071354305,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,McNeese
+304,4,3:23,203,203,Tykeria Williams missed Three Point Jumper.,69,47,22,0,0.999342030000131,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+305,4,3:23,203,203,Mady Brasseaux Defensive Rebound.,69,47,22,3,0.999342030000131,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+306,4,3:20,200,200,Mady Brasseaux made Free Throw.,70,47,23,0,0.9995711776403464,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,McNeese
+307,4,3:20,200,200,Mady Brasseaux made Free Throw.,71,47,24,4,0.9996938628029938,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,McNeese
+308,4,3:16,196,196,Emani White made Layup.,71,49,22,0,0.9994774160046581,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,Nicholls
+309,4,3:16,196,196,Foul on Gabby Guidry.,71,49,22,0,0.9994774160046581,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+310,4,3:16,196,196,Emani White made Free Throw.,71,50,21,13,0.9992634071360608,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,Nicholls
+311,4,3:03,183,183,Hannah Cupit missed Three Point Jumper.,71,50,21,0,0.9995728961635318,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+312,4,3:03,183,183,Cassidy Barrios Defensive Rebound.,71,50,21,15,0.9995728961635318,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+313,4,2:48,168,168,Taylor Morrison missed Three Point Jumper.,71,50,21,0,0.9997830912300891,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+314,4,2:48,168,168,Gabby Guidry Defensive Rebound.,71,50,21,10,0.9997830912300891,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+315,4,2:38,158,158,Gabby Guidry Turnover.,71,50,21,0,0.999865850974941,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+316,4,2:38,158,158,Emani White Steal.,71,50,21,6,0.999865850974941,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+317,4,2:32,152,152,Foul on Hannah Cupit.,71,50,21,0,0.9999010755471898,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+318,4,2:32,152,152,Cassidy Barrios made Free Throw.,71,51,20,0,0.9998465461630985,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,Nicholls
+319,4,2:32,152,152,Cassidy Barrios made Free Throw.,71,52,19,4,0.9997619661111277,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,Nicholls
+320,4,2:28,148,148,Cinthya Rivas Turnover.,71,52,19,2,0.9998033730045753,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+321,4,2:26,146,146,Hope Pawlowski Steal.,71,52,19,5,0.9998217289414333,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+322,4,2:21,141,141,Cassidy Barrios missed Three Point Jumper.,71,52,19,0,0.9998615460170344,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+323,4,2:21,141,141,Mady Brasseaux Defensive Rebound.,71,52,19,8,0.9998615460170344,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+324,4,2:13,133,133,Hannah Cupit made Layup. Assisted by Gabby Guidry.,73,52,21,16,0.9999662111598615,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,McNeese
+325,4,1:57,117,117,Emani White missed Three Point Jumper.,73,52,21,0,0.9999884581331584,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+326,4,1:57,117,117,Mady Brasseaux Defensive Rebound.,73,52,21,5,0.9999884581331584,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+327,4,1:52,112,112,Foul on Tia Charles.,73,52,21,0,0.999992065984949,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+328,4,1:52,112,112,Mady Brasseaux made Free Throw.,74,52,22,0,0.9999954646231878,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,McNeese
+329,4,1:52,112,112,Mady Brasseaux made Free Throw.,75,52,23,8,0.9999974074144363,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,McNeese
+330,4,1:44,104,104,Emani White made Three Point Jumper. Assisted by Taylor Morrison.,75,55,20,28,0.9999924820949138,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,Nicholls
+331,4,1:16,76,76,Regan Bolton missed Three Point Jumper.,75,55,20,0,0.9999993812269786,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+332,4,1:16,76,76,Emani White Defensive Rebound.,75,55,20,3,0.9999993812269786,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+333,4,1:13,73,73,Foul on Cinthya Rivas.,75,55,20,0,0.9999995391677216,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+334,4,1:13,73,73,Emani White made Free Throw.,75,56,19,0,0.9999990442033114,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,Nicholls
+335,4,1:13,73,73,Emani White missed Free Throw.,75,56,19,3,0.9999990442033114,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+336,4,1:10,70,70,Cinthya Rivas Defensive Rebound.,75,56,19,0,0.9999992829649067,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+337,4,1:10,70,70,Foul on Bree Wilson.,75,56,19,0,0.9999992829649067,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+338,4,1:10,70,70,Cinthya Rivas made Free Throw.,76,56,20,0,0.9999996594757998,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,McNeese
+339,4,1:10,70,70,Cinthya Rivas missed Free Throw.,76,56,20,0,0.9999996594757998,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+340,4,1:10,70,70,Emani White Defensive Rebound.,76,56,20,6,0.9999996594757998,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+341,4,1:04,64,64,Hope Pawlowski made Layup.,76,58,18,13,0.9999991353132021,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,Nicholls
+342,4,0:51,51,51,Hannah Cupit made Layup.,78,58,20,14,0.9999999551434869,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,McNeese
+343,4,0:37,37,37,Hope Pawlowski missed Jumper.,78,58,20,0,0.9999999912974945,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+344,4,0:37,37,37,Cassidy Barrios Offensive Rebound.,78,58,20,4,0.9999999912974945,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+345,4,0:33,33,33,Cassidy Barrios Turnover.,78,58,20,1,0.9999999946814268,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+346,4,0:32,32,32,Cinthya Rivas Steal.,78,58,20,1,0.9999999953041298,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+347,4,0:31,31,31,Foul on Emani White.,78,58,20,0,0.9999999958561469,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+348,4,0:31,31,31,Hannah Cupit missed Free Throw.,78,58,20,0,0.9999999958561469,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+349,4,0:31,31,31,McNeese Deadball Team Rebound.,78,58,20,0,0.9999999958561469,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,
+350,4,0:31,31,31,Hannah Cupit made Free Throw.,79,58,21,0,0.999999998421391,McNeese,Nicholls,3,5,0,0,NA,400945533,2017-03-09,McNeese

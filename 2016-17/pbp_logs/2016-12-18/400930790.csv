@@ -1,0 +1,348 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:43,2383,2383,Aliyah Mazyck Turnover.,0,0,0,1,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,NA
+2,1,9:42,2382,2382,Morgan William Steal.,0,0,0,20,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+3,1,9:22,2362,2362,Victoria Vivians missed Jumper.,0,0,0,0,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+4,1,9:22,2362,2362,Aliyah Mazyck Block.,0,0,0,2,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+5,1,9:20,2360,2360,Aliyah Mazyck Defensive Rebound.,0,0,0,13,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+6,1,9:07,2347,2347,Sadie Edwards missed Layup.,0,0,0,0,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+7,1,9:07,2347,2347,Chinwe Okorie Defensive Rebound.,0,0,0,18,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+8,1,8:49,2329,2329,Breanna Richardson made Jumper.,0,2,-2,7,0.4544521819541921,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,Mississippi State
+9,1,8:42,2322,2322,Kristen Simon made Layup. Assisted by Sadie Edwards.,2,2,0,16,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,USC
+10,1,8:26,2306,2306,Foul on Asiah Jones.,2,2,0,12,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+11,1,8:14,2294,2294,Roshunda Johnson missed Three Point Jumper.,2,2,0,0,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+12,1,8:14,2294,2294,Sadie Edwards Defensive Rebound.,2,2,0,9,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+13,1,8:05,2285,2285,Kristen Simon missed Jumper.,2,2,0,0,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+14,1,8:05,2285,2285,Roshunda Johnson Defensive Rebound.,2,2,0,9,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+15,1,7:56,2276,2276,Victoria Vivians missed Three Point Jumper.,2,2,0,0,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+16,1,7:56,2276,2276,Breanna Richardson Offensive Rebound.,2,2,0,12,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+17,1,7:44,2264,2264,Victoria Vivians missed Jumper.,2,2,0,0,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+18,1,7:44,2264,2264,Aliyah Mazyck Defensive Rebound.,2,2,0,10,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+19,1,7:34,2254,2254,Aliyah Mazyck missed Layup.,2,2,0,0,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+20,1,7:34,2254,2254,Breanna Richardson Defensive Rebound.,2,2,0,14,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+21,1,7:20,2240,2240,Morgan William Turnover.,2,2,0,1,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+22,1,7:19,2239,2239,Kristen Simon Steal.,2,2,0,17,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+23,1,7:02,2222,2222,Aliyah Mazyck missed Three Point Jumper.,2,2,0,0,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+24,1,7:02,2222,2222,Chinwe Okorie Defensive Rebound.,2,2,0,8,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+25,1,6:54,2214,2214,Foul on Breanna Richardson.,2,2,0,0,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+26,1,6:54,2214,2214,Breanna Richardson Turnover.,2,2,0,19,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+27,1,6:35,2195,2195,Foul on Victoria Vivians.,2,2,0,14,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+28,1,6:21,2181,2181,Foul on Jazzmun Holmes.,2,2,0,0,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+29,1,6:21,2181,2181,Minyon Moore made Free Throw.,3,2,1,0,0.5245028241138812,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,USC
+30,1,6:21,2181,2181,Minyon Moore made Free Throw.,4,2,2,14,0.5488882404998348,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,USC
+31,1,6:07,2167,2167,Roshunda Johnson missed Layup.,4,2,2,0,0.5492114226540541,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+32,1,6:07,2167,2167,Mississippi St Offensive Rebound.,4,2,2,3,0.5492114226540541,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+33,1,6:04,2164,2164,Victoria Vivians missed Jumper.,4,2,2,0,0.5492808140862127,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+34,1,6:04,2164,2164,USC Defensive Rebound.,4,2,2,27,0.5492808140862127,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+35,1,5:37,2137,2137,Kristen Simon made Jumper.,6,2,4,14,0.5988321904469439,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,USC
+36,1,5:23,2123,2123,Roshunda Johnson made Jumper.,6,4,2,8,0.5502362343092052,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,Mississippi State
+37,1,5:15,2115,2115,Minyon Moore Turnover.,6,4,2,1,0.5504243083587975,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+38,1,5:14,2114,2114,Victoria Vivians Steal.,6,4,2,5,0.550447858030201,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+39,1,5:09,2109,2109,Victoria Vivians missed Layup.,6,4,2,0,0.5505657434540481,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+40,1,5:09,2109,2109,Breanna Richardson Offensive Rebound.,6,4,2,4,0.5505657434540481,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+41,1,5:05,2105,2105,Roshunda Johnson missed Three Point Jumper.,6,4,2,0,0.5506602182867172,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+42,1,5:05,2105,2105,Breanna Richardson Offensive Rebound.,6,4,2,17,0.5506602182867172,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+43,1,4:48,2088,2088,Roshunda Johnson Turnover.,6,4,2,1,0.5510634392815655,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+44,1,4:47,2087,2087,Courtney Jaco Steal.,6,4,2,6,0.5510872462401781,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+45,1,4:41,2081,2081,Courtney Jaco missed Layup.,6,4,2,0,0.551230299135507,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+46,1,4:41,2081,2081,Breanna Richardson Block.,6,4,2,0,0.551230299135507,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+47,1,4:41,2081,2081,USC Offensive Rebound.,6,4,2,1,0.551230299135507,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+48,1,4:40,2080,2080,Official TV Timeout,6,4,2,21,0.5512541767881072,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+49,1,4:19,2059,2059,Sadie Edwards missed Jumper.,6,4,2,0,0.551758022937975,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+50,1,4:19,2059,2059,Victoria Vivians Defensive Rebound.,6,4,2,24,0.551758022937975,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+51,1,3:55,2035,2035,Teaira McCowan missed Jumper.,6,4,2,0,0.5523397707768947,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+52,1,3:55,2035,2035,Asiah Jones Block.,6,4,2,2,0.5523397707768947,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+53,1,3:53,2033,2033,Minyon Moore Defensive Rebound.,6,4,2,5,0.5523885486035754,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+54,1,3:48,2028,2028,Kristen Simon missed Layup.,6,4,2,0,0.5525107003576515,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+55,1,3:48,2028,2028,Morgan William Defensive Rebound.,6,4,2,5,0.5525107003576515,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+56,1,3:43,2023,2023,Morgan William Turnover.,6,4,2,2,0.5526331514348236,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+57,1,3:41,2021,2021,Courtney Jaco Steal.,6,4,2,15,0.5526822166114862,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+58,1,3:26,2006,2006,Sadie Edwards Turnover.,6,4,2,1,0.553051780241399,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+59,1,3:25,2005,2005,Roshunda Johnson Steal.,6,4,2,4,0.5530765182302504,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+60,1,3:21,2001,2001,Breanna Richardson made Layup. Assisted by Roshunda Johnson.,6,6,0,10,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,Mississippi State
+61,1,3:11,1991,1991,Foul on Teaira McCowan.,6,6,0,11,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+62,1,3:00,1980,1980,Minyon Moore missed Layup.,6,6,0,0,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+63,1,3:00,1980,1980,Morgan William Block.,6,6,0,2,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+64,1,2:58,1978,1978,Breanna Richardson Defensive Rebound.,6,6,0,4,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+65,1,2:54,1974,1974,Morgan William made Jumper.,6,8,-2,25,0.44615011928619763,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,Mississippi State
+66,1,2:29,1949,1949,Kristen Simon made Three Point Jumper. Assisted by Asiah Jones.,9,8,1,19,0.5273229255730185,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,USC
+67,1,2:10,1930,1930,Victoria Vivians missed Jumper.,9,8,1,0,0.5275688201986779,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+68,1,2:10,1930,1930,Sadie Edwards Defensive Rebound.,9,8,1,6,0.5275688201986779,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+69,1,2:04,1924,1924,Minyon Moore made Layup. Assisted by Sadie Edwards.,11,8,3,17,0.5822705207642053,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,USC
+70,1,1:47,1907,1907,Foul on Courtney Jaco.,11,8,3,2,0.5829167060162344,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+71,1,1:45,1905,1905,Blair Schaefer made Three Point Jumper. Assisted by Victoria Vivians.,11,11,0,12,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,Mississippi State
+72,1,1:33,1893,1893,Minyon Moore missed Layup.,11,11,0,0,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+73,1,1:33,1893,1893,Ja'Tavia Tapley Offensive Rebound.,11,11,0,4,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+74,1,1:29,1889,1889,Ja'Tavia Tapley made Layup.,13,11,2,15,0.5560252272305706,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,USC
+75,1,1:14,1874,1874,Foul on Ja'Tavia Tapley.,13,11,2,0,0.5564108863493619,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+76,1,1:14,1874,1874,Morgan William made Free Throw.,13,12,1,0,0.528295774020342,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,Mississippi State
+77,1,1:14,1874,1874,Morgan William made Free Throw.,13,13,0,11,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,Mississippi State
+78,1,1:03,1863,1863,Foul on Blair Schaefer.,13,13,0,0,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+79,1,1:03,1863,1863,Aliyah Mazyck missed Free Throw.,13,13,0,0,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+80,1,1:03,1863,1863,USC Deadball Team Rebound.,13,13,0,0,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+81,1,1:03,1863,1863,Aliyah Mazyck made Free Throw.,14,13,1,12,0.5284387656502132,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,USC
+82,1,0:51,1851,1851,Foul on Kristen Simon.,14,13,1,2,0.5285951124824954,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+83,1,0:49,1849,1849,Victoria Vivians Turnover.,14,13,1,19,0.5286212154557764,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+84,1,0:30,1830,1830,Ja'Tavia Tapley Turnover.,14,13,1,23,0.5288700076585847,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+85,1,0:07,1807,1807,Morgan William Turnover.,14,13,1,1,0.529173697486894,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+86,1,0:06,1806,1806,Kristen Simon Steal.,14,13,1,6,0.5291869773536122,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+87,1,0:00,1800,1800,End of 1st Quarter,14,13,1,11,0.5292668057759684,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+88,2,9:49,1789,1789,Ketara Chapel Turnover.,14,13,1,1,0.5294138657886375,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+89,2,9:48,1788,1788,Aliyah Mazyck Steal.,14,13,1,2,0.5294272830997627,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+90,2,9:46,1786,1786,Aliyah Mazyck made Layup.,16,13,3,18,0.5875531627941487,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,USC
+91,2,9:28,1768,1768,Morgan William missed Three Point Jumper.,16,13,3,0,0.5882631234466292,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+92,2,9:28,1768,1768,Kristen Simon Defensive Rebound.,16,13,3,5,0.5882631234466292,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+93,2,9:23,1763,1763,Aliyah Mazyck missed Jumper.,16,13,3,0,0.5884618847325426,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+94,2,9:23,1763,1763,Mississippi St Defensive Rebound.,16,13,3,12,0.5884618847325426,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+95,2,9:11,1751,1751,Foul on Aliyah Mazyck.,16,13,3,15,0.5889419272526419,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+96,2,8:56,1736,1736,Victoria Vivians made Jumper.,16,15,1,23,0.5301383369442181,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,Mississippi State
+97,2,8:33,1713,1713,Valerie Higgins missed Layup.,16,15,1,0,0.5304628932877434,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+98,2,8:33,1713,1713,Kristen Simon Offensive Rebound.,16,15,1,2,0.5304628932877434,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+99,2,8:31,1711,1711,Kristen Simon made Layup.,18,15,3,16,0.5905772180014734,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,USC
+100,2,8:15,1695,1695,Morgan William made Jumper.,18,17,1,18,0.530722080615399,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,Mississippi State
+101,2,7:57,1677,1677,Foul on Blair Schaefer.,18,17,1,0,0.5309830176777515,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+102,2,7:57,1677,1677,Valerie Higgins made Free Throw.,19,17,2,0,0.5617290089527549,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,USC
+103,2,7:57,1677,1677,Valerie Higgins made Free Throw.,20,17,3,22,0.5920081455563141,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,USC
+104,2,7:35,1655,1655,Roshunda Johnson missed Layup.,20,17,3,0,0.592912013323398,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+105,2,7:35,1655,1655,Asiah Jones Block.,20,17,3,1,0.592912013323398,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+106,2,7:34,1654,1654,Asiah Jones Defensive Rebound.,20,17,3,4,0.5929525425396345,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+107,2,7:30,1650,1650,Courtney Jaco missed Three Point Jumper.,20,17,3,0,0.5931142484128282,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+108,2,7:30,1650,1650,Chinwe Okorie Defensive Rebound.,20,17,3,8,0.5931142484128282,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+109,2,7:22,1642,1642,Victoria Vivians Turnover.,20,17,3,17,0.5934358541015387,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+110,2,7:05,1625,1625,Kristen Simon Turnover.,20,17,3,1,0.59411291541535,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+111,2,7:04,1624,1624,Roshunda Johnson Steal.,20,17,3,6,0.5941525359751224,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+112,2,6:58,1618,1618,Victoria Vivians made Three Point Jumper.,20,20,0,29,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,Mississippi State
+113,2,6:29,1589,1589,Courtney Jaco missed Three Point Jumper.,20,20,0,0,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+114,2,6:29,1589,1589,Roshunda Johnson Defensive Rebound.,20,20,0,13,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+115,2,6:16,1576,1576,Roshunda Johnson Turnover.,20,20,0,18,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+116,2,5:58,1558,1558,Asiah Jones Turnover.,20,20,0,15,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+117,2,5:43,1543,1543,Morgan William missed Jumper.,20,20,0,0,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+118,2,5:43,1543,1543,Ketara Chapel Offensive Rebound.,20,20,0,4,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+119,2,5:39,1539,1539,Foul on Minyon Moore.,20,20,0,19,0.5,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+120,2,5:20,1520,1520,Chinwe Okorie made Jumper.,20,22,-2,23,0.4339729710868998,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,Mississippi State
+121,2,4:57,1497,1497,Sadie Edwards made Three Point Jumper. Assisted by Kristen Simon.,23,22,1,23,0.5334991778821079,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,USC
+122,2,4:34,1474,1474,Chinwe Okorie missed Layup.,23,22,1,0,0.5338550219627176,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+123,2,4:34,1474,1474,Asiah Jones Block.,23,22,1,2,0.5338550219627176,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+124,2,4:32,1472,1472,Minyon Moore Defensive Rebound.,23,22,1,4,0.5338868011101874,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+125,2,4:28,1468,1468,Sadie Edwards made Three Point Jumper. Assisted by Minyon Moore.,26,22,4,25,0.6327540116807752,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,USC
+126,2,4:03,1443,1443,Ketara Chapel Turnover.,26,22,4,5,0.634291953889353,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+127,2,3:58,1438,1438,Minyon Moore missed Layup.,26,22,4,0,0.634598257561947,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+128,2,3:58,1438,1438,Roshunda Johnson Defensive Rebound.,26,22,4,5,0.634598257561947,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+129,2,3:53,1433,1433,Roshunda Johnson Turnover.,26,22,4,1,0.634901342793241,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+130,2,3:52,1432,1432,Minyon Moore Steal.,26,22,4,11,0.6349615939671319,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+131,2,3:41,1421,1421,Kristen Simon made Layup.,28,22,6,18,0.6973237393450701,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,USC
+132,2,3:23,1403,1403,Foul on Courtney Jaco.,28,22,6,0,0.698755507331506,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+133,2,3:23,1403,1403,Official TV Timeout,28,22,6,2,0.698755507331506,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+134,2,3:21,1401,1401,Victoria Vivians made Three Point Jumper. Assisted by Jazzmun Holmes.,28,25,3,23,0.6037373918406818,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,Mississippi State
+135,2,2:58,1378,1378,Sadie Edwards missed Jumper.,28,25,3,0,0.6047528655005592,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+136,2,2:58,1378,1378,Victoria Vivians Defensive Rebound.,28,25,3,29,0.6047528655005592,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+137,2,2:29,1349,1349,Jazzmun Holmes missed Layup.,28,25,3,0,0.6060253987222489,USC,Mississippi State,4,4,1,0,NA,400930790,2016-12-18,
+138,2,2:29,1349,1349,Marguerite Effa Defensive Rebound.,28,25,3,0,0.6060253987222489,USC,Mississippi State,4,4,1,0,NA,400930790,2016-12-18,
+139,2,2:29,1349,1349,Foul on Jazzmun Holmes.,28,25,3,0,0.6060253987222489,USC,Mississippi State,4,4,1,0,NA,400930790,2016-12-18,
+140,2,2:29,1349,1349,USC  Timeout,28,25,3,9,0.6060253987222489,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,
+141,2,2:20,1340,1340,Foul on Victoria Vivians.,28,25,3,23,0.6064234436413591,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,
+142,2,1:57,1317,1317,Minyon Moore made Layup.,30,25,5,18,0.6743073289888779,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,USC
+143,2,1:39,1299,1299,Chinwe Okorie made Layup. Assisted by Victoria Vivians.,30,27,3,6,0.6082933522050809,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,Mississippi State
+144,2,1:33,1293,1293,Foul on Breanna Richardson.,30,27,3,0,0.6085784632491817,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,
+145,2,1:33,1293,1293,Aliyah Mazyck missed Free Throw.,30,27,3,0,0.6085784632491817,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,
+146,2,1:33,1293,1293,USC Deadball Team Rebound.,30,27,3,0,0.6085784632491817,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,
+147,2,1:33,1293,1293,Aliyah Mazyck made Free Throw.,31,27,4,12,0.643010425914239,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,USC
+148,2,1:21,1281,1281,Foul on Sadie Edwards.,31,27,4,0,0.6437580116043304,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+149,2,1:21,1281,1281,Morgan William Turnover.,31,27,4,0,0.6437580116043304,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+150,2,1:21,1281,1281,Minyon Moore Steal.,31,27,4,27,0.6437580116043304,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+151,2,0:54,1254,1254,Sadie Edwards Turnover.,31,27,4,0,0.6455264967498696,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+152,2,0:54,1254,1254,Morgan William Steal.,31,27,4,15,0.6455264967498696,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+153,2,0:39,1239,1239,Breanna Richardson missed Layup.,31,27,4,0,0.6465706398977864,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+154,2,0:39,1239,1239,Asiah Jones Block.,31,27,4,2,0.6465706398977864,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+155,2,0:37,1237,1237,Victoria Vivians Offensive Rebound.,31,27,4,7,0.6467136209149663,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+156,2,0:30,1230,1230,Morgan William missed Layup.,31,27,4,0,0.6472214616941595,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+157,2,0:30,1230,1230,Asiah Jones Block.,31,27,4,1,0.6472214616941595,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+158,2,0:29,1229,1229,Mississippi St Offensive Rebound.,31,27,4,1,0.6472949739983539,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+159,2,0:28,1228,1228,Mississippi St  Timeout,31,27,4,0,0.6473687323799612,USC,Mississippi State,3,3,0,1,NA,400930790,2016-12-18,
+160,2,0:28,1228,1228,Foul on Chinwe Okorie.,31,27,4,0,0.6473687323799612,USC,Mississippi State,3,3,0,1,NA,400930790,2016-12-18,
+161,2,0:28,1228,1228,Chinwe Okorie Turnover.,31,27,4,19,0.6473687323799612,USC,Mississippi State,3,3,0,1,NA,400930790,2016-12-18,
+162,2,0:09,1209,1209,Foul on Chinwe Okorie.,31,27,4,0,0.6488189477288109,USC,Mississippi State,3,3,0,1,NA,400930790,2016-12-18,
+163,2,0:09,1209,1209,Minyon Moore made Free Throw.,32,27,5,0,0.6829397335766093,USC,Mississippi State,3,3,0,1,NA,400930790,2016-12-18,USC
+164,2,0:09,1209,1209,Minyon Moore made Free Throw.,33,27,6,8,0.7152005402381141,USC,Mississippi State,3,3,0,1,NA,400930790,2016-12-18,USC
+165,2,0:01,1201,1201,Foul on Ivana Jakubcova.,33,27,6,0,0.7160339662966757,USC,Mississippi State,3,3,0,1,NA,400930790,2016-12-18,
+166,2,0:01,1201,1201,Morgan William made Free Throw.,33,28,5,0,0.6836782407911076,USC,Mississippi State,3,3,0,1,NA,400930790,2016-12-18,Mississippi State
+167,2,0:01,1201,1201,Morgan William made Free Throw.,33,29,4,1,0.649440775217143,USC,Mississippi State,3,3,0,1,NA,400930790,2016-12-18,Mississippi State
+168,2,0:00,1200,1200,End of 2nd Quarter,33,29,4,14,0.6495177425372646,USC,Mississippi State,3,3,0,1,NA,400930790,2016-12-18,
+169,3,9:46,1186,1186,Aliyah Mazyck missed Layup.,33,29,4,0,0.6505795618541157,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+170,3,9:46,1186,1186,Asiah Jones Offensive Rebound.,33,29,4,3,0.6505795618541157,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+171,3,9:43,1183,1183,Asiah Jones made Jumper.,35,29,6,13,0.7178578400931109,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,USC
+172,3,9:30,1170,1170,Breanna Richardson missed Layup.,35,29,6,0,0.7191398687858451,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+173,3,9:30,1170,1170,Chinwe Okorie Offensive Rebound.,35,29,6,2,0.7191398687858451,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,
+174,3,9:28,1168,1168,Chinwe Okorie made Layup.,35,31,4,9,0.6519096114664052,USC,Mississippi State,4,4,0,0,NA,400930790,2016-12-18,Mississippi State
+175,3,9:19,1159,1159,USC  Timeout,35,31,4,10,0.6525639738233776,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,
+176,3,9:09,1149,1149,Kristen Simon missed Jumper.,35,31,4,0,0.6532856304337477,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,
+177,3,9:09,1149,1149,Chinwe Okorie Defensive Rebound.,35,31,4,8,0.6532856304337477,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,
+178,3,9:01,1141,1141,Morgan William missed Layup.,35,31,4,0,0.6538604637017569,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,
+179,3,9:01,1141,1141,Asiah Jones Block.,35,31,4,2,0.6538604637017569,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,
+180,3,8:59,1139,1139,Courtney Jaco Defensive Rebound.,35,31,4,5,0.6540039911006216,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,
+181,3,8:54,1134,1134,Minyon Moore made Layup. Assisted by Sadie Edwards.,37,31,6,19,0.7226025034143473,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,USC
+182,3,8:35,1115,1115,Victoria Vivians missed Layup.,37,31,6,0,0.7244173992588143,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,
+183,3,8:35,1115,1115,Kristen Simon Defensive Rebound.,37,31,6,7,0.7244173992588143,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,
+184,3,8:28,1108,1108,Minyon Moore Turnover.,37,31,6,0,0.725089990122813,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,
+185,3,8:28,1108,1108,Roshunda Johnson Steal.,37,31,6,17,0.725089990122813,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,
+186,3,8:11,1091,1091,Foul on Kristen Simon.,37,31,6,0,0.7267416520527876,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+187,3,8:11,1091,1091,Breanna Richardson made Free Throw.,37,32,5,0,0.6932011323974688,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,Mississippi State
+188,3,8:11,1091,1091,Breanna Richardson made Free Throw.,37,33,4,24,0.657484043492174,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,Mississippi State
+189,3,7:47,1067,1067,Minyon Moore missed Jumper.,37,33,4,0,0.6593015705169385,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+190,3,7:47,1067,1067,Breanna Richardson Defensive Rebound.,37,33,4,9,0.6593015705169385,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+191,3,7:38,1058,1058,Victoria Vivians missed Three Point Jumper.,37,33,4,0,0.6600061602285403,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+192,3,7:38,1058,1058,Chinwe Okorie Offensive Rebound.,37,33,4,2,0.6600061602285403,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+193,3,7:36,1056,1056,Chinwe Okorie missed Layup.,37,33,4,0,0.6601647479639656,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+194,3,7:36,1056,1056,Asiah Jones Block.,37,33,4,2,0.6601647479639656,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+195,3,7:34,1054,1054,Asiah Jones Defensive Rebound.,37,33,4,5,0.6603241087234224,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+196,3,7:29,1049,1049,Sadie Edwards made Layup. Assisted by Asiah Jones.,39,33,6,18,0.7310186451105881,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,USC
+197,3,7:11,1031,1031,Morgan William made Jumper.,39,35,4,7,0.6622184518530531,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,Mississippi State
+198,3,7:04,1024,1024,Kristen Simon made Layup. Assisted by Minyon Moore.,41,35,6,18,0.7337691973106512,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,USC
+199,3,6:46,1006,1006,Victoria Vivians made Layup.,41,37,4,14,0.6644297850878392,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,Mississippi State
+200,3,6:32,992,992,Foul on Chinwe Okorie.,41,37,4,7,0.6657505304713511,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+201,3,6:25,985,985,Sadie Edwards made Jumper. Assisted by Kristen Simon.,43,37,6,11,0.7384951748448623,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,USC
+202,3,6:14,974,974,Foul on Courtney Jaco.,43,37,6,7,0.7399433737615658,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+203,3,6:07,967,967,Victoria Vivians missed Three Point Jumper.,43,37,6,0,0.740888577792426,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+204,3,6:07,967,967,Kristen Simon Defensive Rebound.,43,37,6,7,0.740888577792426,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+205,3,6:00,960,960,Minyon Moore Turnover.,43,37,6,1,0.7418039893612662,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+206,3,5:59,959,959,Morgan William Steal.,43,37,6,7,0.7419316465215161,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+207,3,5:52,952,952,Foul on Sadie Edwards.,43,37,6,0,0.7428048230399745,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+208,3,5:52,952,952,Morgan William made Free Throw.,43,38,5,0,0.7076156210691928,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,Mississippi State
+209,3,5:52,952,952,Morgan William made Free Throw.,43,39,4,10,0.669752393937558,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,Mississippi State
+210,3,5:42,942,942,Ja'Tavia Tapley missed Jumper.,43,39,4,0,0.6706719344611,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+211,3,5:42,942,942,Teaira McCowan Defensive Rebound.,43,39,4,2,0.6706719344611,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+212,3,5:40,940,940,Foul on Alexis Lloyd.,43,39,4,13,0.6708503726406552,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+213,3,5:27,927,927,Foul on Marguerite Effa.,43,39,4,0,0.67197167798521,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+214,3,5:27,927,927,Teaira McCowan missed Free Throw.,43,39,4,0,0.67197167798521,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+215,3,5:27,927,927,Mississippi St Deadball Team Rebound.,43,39,4,0,0.67197167798521,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+216,3,5:27,927,927,Teaira McCowan made Free Throw.,43,40,3,28,0.6313091476667623,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,Mississippi State
+217,3,4:59,899,899,Minyon Moore made Jumper.,45,40,5,15,0.7128288507324333,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,USC
+218,3,4:44,884,884,Morgan William Turnover.,45,40,5,1,0.7141712440980016,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+219,3,4:43,883,883,Minyon Moore Steal.,45,40,5,3,0.7142601834121076,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+220,3,4:40,880,880,Foul on Victoria Vivians.,45,40,5,0,0.7145268985223943,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+221,3,4:40,880,880,Official TV Timeout,45,40,5,0,0.7145268985223943,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+222,3,4:40,880,880,Marguerite Effa missed Free Throw.,45,40,5,0,0.7145268985223943,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+223,3,4:40,880,880,USC Deadball Team Rebound.,45,40,5,0,0.7145268985223943,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+224,3,4:40,880,880,Marguerite Effa made Free Throw.,46,40,6,11,0.7504413235086497,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,USC
+225,3,4:29,869,869,Foul on Alexis Lloyd.,46,40,6,0,0.7515203618698145,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+226,3,4:29,869,869,Victoria Vivians made Free Throw.,46,41,5,0,0.7155066811593203,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,Mississippi State
+227,3,4:29,869,869,Victoria Vivians missed Free Throw.,46,41,5,0,0.7155066811593203,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+228,3,4:29,869,869,USC Defensive Rebound.,46,41,5,25,0.7155066811593203,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+229,3,4:04,844,844,Sadie Edwards made Jumper.,48,41,7,22,0.7870017940083494,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,USC
+230,3,3:42,822,822,Roshunda Johnson made Three Point Jumper. Assisted by Jazzmun Holmes.,48,44,4,18,0.6803471321945895,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,Mississippi State
+231,3,3:24,804,804,Sadie Edwards made Layup.,50,44,6,25,0.7585151393092039,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,USC
+232,3,2:59,779,779,Breanna Richardson made Layup.,50,46,4,15,0.6846192261860392,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,Mississippi State
+233,3,2:44,764,764,Asiah Jones made Layup. Assisted by Minyon Moore.,52,46,6,17,0.7640311381084738,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,USC
+234,3,2:27,747,747,Breanna Richardson Turnover.,52,46,6,1,0.7668111295034987,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+235,3,2:26,746,746,Minyon Moore Steal.,52,46,6,9,0.7669840216721993,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+236,3,2:17,737,737,Valerie Higgins missed Layup.,52,46,6,0,0.7685896422380765,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+237,3,2:17,737,737,Roshunda Johnson Defensive Rebound.,52,46,6,23,0.7685896422380765,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+238,3,1:54,714,714,Victoria Vivians missed Three Point Jumper.,52,46,6,0,0.772775638706336,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+239,3,1:54,714,714,Teaira McCowan Offensive Rebound.,52,46,6,3,0.772775638706336,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+240,3,1:51,711,711,Foul on Kristen Simon.,52,46,6,0,0.7732761062232085,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+241,3,1:51,711,711,Teaira McCowan made Free Throw.,52,47,5,0,0.7354435919434936,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,Mississippi State
+242,3,1:51,711,711,Teaira McCowan made Free Throw.,52,48,4,31,0.6937979245173258,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,Mississippi State
+243,3,1:20,680,680,USC  Turnover.,52,48,4,11,0.6975937995823726,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+244,3,1:09,669,669,Foul on Valerie Higgins.,52,48,4,0,0.6988399827632715,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+245,3,1:09,669,669,Breanna Richardson made Free Throw.,52,49,3,0,0.6527921163568442,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,Mississippi State
+246,3,1:09,669,669,Breanna Richardson missed Free Throw.,52,49,3,0,0.6527921163568442,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+247,3,1:09,669,669,Victoria Vivians Offensive Rebound.,52,49,3,13,0.6527921163568442,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+248,3,0:56,656,656,Jazzmun Holmes made Jumper.,52,51,1,6,0.5528468234954126,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,Mississippi State
+249,3,0:50,650,650,Minyon Moore Turnover.,52,51,1,2,0.5530467059312002,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+250,3,0:48,648,648,Jazzmun Holmes Steal.,52,51,1,3,0.5531139102801198,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+251,3,0:45,645,645,Foul on Valerie Higgins.,52,51,1,0,0.5532154073215618,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+252,3,0:45,645,645,Victoria Vivians made Free Throw.,52,52,0,0,0.5,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,Mississippi State
+253,3,0:45,645,645,Victoria Vivians made Free Throw.,52,53,-1,23,0.4467845926784382,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,Mississippi State
+254,3,0:22,622,622,Marguerite Effa made Layup.,54,53,1,18,0.5540362634009017,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,USC
+255,3,0:04,604,604,Foul on Marguerite Effa.,54,53,1,0,0.554760805615502,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+256,3,0:04,604,604,Jazzmun Holmes made Free Throw.,54,54,0,0,0.5,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,Mississippi State
+257,3,0:04,604,604,Jazzmun Holmes made Free Throw.,54,55,-1,4,0.4452391943844979,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,Mississippi State
+258,3,0:00,600,600,End of 3rd Quarter,54,55,-1,18,0.44506480685690686,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+259,4,9:42,582,582,Sadie Edwards made Jumper.,56,55,1,23,0.5557944543470811,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,USC
+260,4,9:19,559,559,Jazzmun Holmes missed Jumper.,56,55,1,0,0.5571081212512028,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+261,4,9:19,559,559,Valerie Higgins Block.,56,55,1,1,0.5571081212512028,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+262,4,9:18,558,558,Mississippi St Deadball Team Rebound.,56,55,1,0,0.5571716349458746,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+263,4,9:18,558,558,Foul on Asiah Jones.,56,55,1,7,0.5571716349458746,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+264,4,9:11,551,551,Foul on Courtney Jaco.,56,55,1,0,0.5576327181216795,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+265,4,9:11,551,551,Teaira McCowan made Free Throw.,56,56,0,0,0.5,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,Mississippi State
+266,4,9:11,551,551,Teaira McCowan missed Free Throw.,56,56,0,0,0.5,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+267,4,9:11,551,551,Kristen Simon Defensive Rebound.,56,56,0,18,0.5,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+268,4,8:53,533,533,Sadie Edwards missed Three Point Jumper.,56,56,0,0,0.5,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+269,4,8:53,533,533,Teaira McCowan Defensive Rebound.,56,56,0,21,0.5,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+270,4,8:32,512,512,Victoria Vivians missed Three Point Jumper.,56,56,0,0,0.5,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+271,4,8:32,512,512,Teaira McCowan Offensive Rebound.,56,56,0,4,0.5,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+272,4,8:28,508,508,Teaira McCowan missed Layup.,56,56,0,0,0.5,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+273,4,8:28,508,508,Asiah Jones Defensive Rebound.,56,56,0,5,0.5,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+274,4,8:23,503,503,Foul on Jazzmun Holmes.,56,56,0,0,0.5,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+275,4,8:23,503,503,Sadie Edwards made Free Throw.,57,56,1,0,0.5602986015119401,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,USC
+276,4,8:23,503,503,Sadie Edwards made Free Throw.,58,56,2,20,0.6188684181490371,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,USC
+277,4,8:03,483,483,Blair Schaefer missed Three Point Jumper.,58,56,2,0,0.6208093868963717,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+278,4,8:03,483,483,Breanna Richardson Offensive Rebound.,58,56,2,17,0.6208093868963717,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+279,4,7:46,466,466,Victoria Vivians made Jumper. Assisted by Jazzmun Holmes.,58,58,0,25,0.5,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,Mississippi State
+280,4,7:21,441,441,Minyon Moore missed Layup.,58,58,0,0,0.5,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+281,4,7:21,441,441,Teaira McCowan Defensive Rebound.,58,58,0,8,0.5,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+282,4,7:13,433,433,Victoria Vivians missed Layup.,58,58,0,0,0.5,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+283,4,7:13,433,433,Kristen Simon Defensive Rebound.,58,58,0,8,0.5,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+284,4,7:05,425,425,Foul on Teaira McCowan.,58,58,0,2,0.5,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+285,4,7:03,423,423,Sadie Edwards made Three Point Jumper. Assisted by Minyon Moore.,61,58,3,18,0.68907665103819,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,USC
+286,4,6:45,405,405,Foul on Minyon Moore.,61,58,3,2,0.6934535662900246,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,
+287,4,6:43,403,403,Victoria Vivians made Three Point Jumper. Assisted by Jazzmun Holmes.,61,61,0,30,0.5,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,Mississippi State
+288,4,6:13,373,373,Minyon Moore made Layup. Assisted by Courtney Jaco.,63,61,2,25,0.6382830176841381,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,USC
+289,4,5:48,348,348,Breanna Richardson made Layup. Assisted by Jazzmun Holmes.,63,63,0,2,0.5,USC,Mississippi State,4,5,0,0,NA,400930790,2016-12-18,Mississippi State
+290,4,5:46,346,346,Mississippi St  Timeout,63,63,0,0,0.5,USC,Mississippi State,4,4,0,1,NA,400930790,2016-12-18,
+291,4,5:46,346,346,Official TV Timeout,63,63,0,21,0.5,USC,Mississippi State,4,4,0,1,NA,400930790,2016-12-18,
+292,4,5:25,325,325,Kristen Simon missed Layup.,63,63,0,0,0.5,USC,Mississippi State,4,4,0,1,NA,400930790,2016-12-18,
+293,4,5:25,325,325,Teaira McCowan Defensive Rebound.,63,63,0,8,0.5,USC,Mississippi State,4,4,0,1,NA,400930790,2016-12-18,
+294,4,5:17,317,317,Breanna Richardson made Layup. Assisted by Victoria Vivians.,63,65,-2,11,0.34861718502317307,USC,Mississippi State,4,4,0,1,NA,400930790,2016-12-18,Mississippi State
+295,4,5:06,306,306,USC  Timeout,63,65,-2,5,0.34517062989321345,USC,Mississippi State,3,4,1,1,NA,400930790,2016-12-18,
+296,4,5:01,301,301,Kristen Simon missed Jumper.,63,65,-2,0,0.3440946198929922,USC,Mississippi State,3,4,1,1,NA,400930790,2016-12-18,
+297,4,5:01,301,301,USC Deadball Team Rebound.,63,65,-2,2,0.3440946198929922,USC,Mississippi State,3,4,1,1,NA,400930790,2016-12-18,
+298,4,4:59,299,299,Foul on Blair Schaefer.,63,65,-2,10,0.34378013226751863,USC,Mississippi State,3,4,1,1,NA,400930790,2016-12-18,
+299,4,4:49,289,289,Courtney Jaco missed Free Throw.,63,65,-2,0,0.34305737082797505,USC,Mississippi State,3,4,1,1,NA,400930790,2016-12-18,
+300,4,4:49,289,289,Technical Foul on Mississippi St.,63,65,-2,0,0.34305737082797505,USC,Mississippi State,3,4,1,1,NA,400930790,2016-12-18,
+301,4,4:49,289,289,Foul on Mississippi St.,63,65,-2,0,0.34305737082797505,USC,Mississippi State,3,4,1,1,NA,400930790,2016-12-18,
+302,4,4:49,289,289,USC Deadball Team Rebound.,63,65,-2,0,0.34305737082797505,USC,Mississippi State,3,4,1,1,NA,400930790,2016-12-18,
+303,4,4:49,289,289,Courtney Jaco made Free Throw.,64,65,-1,6,0.4194943446631382,USC,Mississippi State,3,4,1,1,NA,400930790,2016-12-18,USC
+304,4,4:43,283,283,Sadie Edwards made Three Point Jumper. Assisted by Minyon Moore.,67,65,2,20,0.6568167469383054,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,USC
+305,4,4:23,263,263,Foul on Minyon Moore.,67,65,2,0,0.6546551522861564,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,
+306,4,4:23,263,263,Morgan William made Free Throw.,67,66,1,0,0.5792712613340918,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,Mississippi State
+307,4,4:23,263,263,Morgan William missed Free Throw.,67,66,1,0,0.5792712613340918,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,
+308,4,4:23,263,263,Kristen Simon Defensive Rebound.,67,66,1,27,0.5792712613340918,USC,Mississippi State,3,4,1,0,NA,400930790,2016-12-18,
+309,4,3:56,236,236,Kristen Simon missed Jumper.,67,66,1,0,0.5779098454229813,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+310,4,3:56,236,236,Blair Schaefer Defensive Rebound.,67,66,1,14,0.5779098454229813,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+311,4,3:42,222,222,Breanna Richardson missed Layup.,67,66,1,0,0.5786074937892213,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+312,4,3:42,222,222,Sadie Edwards Block.,67,66,1,2,0.5786074937892213,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+313,4,3:40,220,220,Morgan William Offensive Rebound.,67,66,1,1,0.5788366959729294,USC,Mississippi State,3,4,0,0,NA,400930790,2016-12-18,
+314,4,3:39,219,219,Mississippi St  Timeout,67,66,1,11,0.5789653318512707,USC,Mississippi State,3,3,0,1,NA,400930790,2016-12-18,
+315,4,3:28,208,208,Victoria Vivians missed Jumper.,67,66,1,0,0.5810658457421368,USC,Mississippi State,3,3,0,1,NA,400930790,2016-12-18,
+316,4,3:28,208,208,Asiah Jones Block.,67,66,1,2,0.5810658457421368,USC,Mississippi State,3,3,0,1,NA,400930790,2016-12-18,
+317,4,3:26,206,206,Breanna Richardson Offensive Rebound.,67,66,1,2,0.5815960937563488,USC,Mississippi State,3,3,0,1,NA,400930790,2016-12-18,
+318,4,3:24,204,204,Breanna Richardson made Layup.,67,68,-1,21,0.4178236609855653,USC,Mississippi State,3,3,0,1,NA,400930790,2016-12-18,Mississippi State
+319,4,3:03,183,183,Courtney Jaco made Three Point Jumper. Assisted by Minyon Moore.,70,68,2,19,0.6767470652547874,USC,Mississippi State,3,3,0,1,NA,400930790,2016-12-18,USC
+320,4,2:44,164,164,Morgan William made Layup.,70,70,0,18,0.5,USC,Mississippi State,3,3,0,1,NA,400930790,2016-12-18,Mississippi State
+321,4,2:26,146,146,Minyon Moore missed Layup.,70,70,0,0,0.5,USC,Mississippi State,3,3,0,0,NA,400930790,2016-12-18,
+322,4,2:26,146,146,Breanna Richardson Defensive Rebound.,70,70,0,6,0.5,USC,Mississippi State,3,3,0,0,NA,400930790,2016-12-18,
+323,4,2:20,140,140,Foul on Kristen Simon.,70,70,0,0,0.5,USC,Mississippi State,3,3,0,0,NA,400930790,2016-12-18,
+324,4,2:20,140,140,Breanna Richardson made Free Throw.,70,71,-1,0,0.3845315297712354,USC,Mississippi State,3,3,0,0,NA,400930790,2016-12-18,Mississippi State
+325,4,2:20,140,140,Breanna Richardson made Free Throw.,70,72,-2,24,0.28075576470030444,USC,Mississippi State,3,3,0,0,NA,400930790,2016-12-18,Mississippi State
+326,4,1:56,116,116,Sadie Edwards missed Layup.,70,72,-2,0,0.2516564340572777,USC,Mississippi State,3,3,0,0,NA,400930790,2016-12-18,
+327,4,1:56,116,116,Teaira McCowan Block.,70,72,-2,0,0.2516564340572777,USC,Mississippi State,3,3,0,0,NA,400930790,2016-12-18,
+328,4,1:56,116,116,Victoria Vivians Defensive Rebound.,70,72,-2,30,0.2516564340572777,USC,Mississippi State,3,3,0,0,NA,400930790,2016-12-18,
+329,4,1:26,86,86,Morgan William made Layup.,70,74,-4,0,0.06465282656395233,USC,Mississippi State,3,3,0,0,NA,400930790,2016-12-18,Mississippi State
+330,4,1:26,86,86,Foul on Asiah Jones.,70,74,-4,0,0.06465282656395233,USC,Mississippi State,3,3,0,0,NA,400930790,2016-12-18,
+331,4,1:26,86,86,Morgan William made Free Throw.,70,75,-5,3,0.034228870369769675,USC,Mississippi State,3,3,0,0,NA,400930790,2016-12-18,Mississippi State
+332,4,1:23,83,83,USC  Timeout,70,75,-5,14,0.03203056108626805,USC,Mississippi State,2,3,1,0,NA,400930790,2016-12-18,
+333,4,1:09,69,69,Foul on Breanna Richardson.,70,75,-5,0,0.023006337416852925,USC,Mississippi State,2,3,1,0,NA,400930790,2016-12-18,
+334,4,1:09,69,69,Kristen Simon made Free Throw.,71,75,-4,0,0.04747250108063872,USC,Mississippi State,2,3,1,0,NA,400930790,2016-12-18,USC
+335,4,1:09,69,69,Kristen Simon made Free Throw.,72,75,-3,26,0.0954162262830313,USC,Mississippi State,2,3,1,0,NA,400930790,2016-12-18,USC
+336,4,0:43,43,43,Morgan William missed Jumper.,72,75,-3,0,0.0644057065615769,USC,Mississippi State,2,3,1,0,NA,400930790,2016-12-18,
+337,4,0:43,43,43,Mississippi St Offensive Rebound.,72,75,-3,29,0.0644057065615769,USC,Mississippi State,2,3,1,0,NA,400930790,2016-12-18,
+338,4,0:14,14,14,Teaira McCowan missed Jumper.,72,75,-3,0,0.03811563608747347,USC,Mississippi State,2,3,0,0,NA,400930790,2016-12-18,
+339,4,0:14,14,14,Asiah Jones Defensive Rebound.,72,75,-3,9,0.03811563608747347,USC,Mississippi State,2,3,0,0,NA,400930790,2016-12-18,
+340,4,0:05,5,5,Courtney Jaco missed Three Point Jumper.,72,75,-3,0,0.031708124473284936,USC,Mississippi State,2,3,0,0,NA,400930790,2016-12-18,
+341,4,0:05,5,5,Victoria Vivians Defensive Rebound.,72,75,-3,3,0.031708124473284936,USC,Mississippi State,2,3,0,0,NA,400930790,2016-12-18,
+342,4,0:02,2,2,Foul on Courtney Jaco.,72,75,-3,0,0.029763475716734225,USC,Mississippi State,2,3,0,1,NA,400930790,2016-12-18,
+343,4,0:02,2,2,Victoria Vivians made Free Throw.,72,76,-4,0,0.00951168353188601,USC,Mississippi State,2,3,0,1,NA,400930790,2016-12-18,Mississippi State
+344,4,0:02,2,2,Mississippi St  Timeout,72,76,-4,0,0.00951168353188601,USC,Mississippi State,2,2,0,1,NA,400930790,2016-12-18,
+345,4,0:02,2,2,Victoria Vivians missed Free Throw.,72,76,-4,0,0.00951168353188601,USC,Mississippi State,2,2,0,1,NA,400930790,2016-12-18,
+346,4,0:02,2,2,Teaira McCowan Offensive Rebound.,72,76,-4,2,0.00951168353188601,USC,Mississippi State,2,2,0,1,NA,400930790,2016-12-18,
+347,4,0:00,0,0,End of Game,72,76,-4,0,1.8048513878454153e-35,USC,Mississippi State,2,2,0,1,NA,400930790,2016-12-18,

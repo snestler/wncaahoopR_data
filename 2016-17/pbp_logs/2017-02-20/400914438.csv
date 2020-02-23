@@ -1,0 +1,364 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Jump Ball won by Ohio State,0,0,0,8,0.5,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,NA
+2,1,9:52,2392,2392,Shayla Cooper missed Jumper.,0,0,0,0,0.5,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+3,1,9:52,2392,2392,Maryland Defensive Rebound.,0,0,0,5,0.5,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+4,1,9:47,2387,2387,Kristen Confroy Turnover.,0,0,0,0,0.5,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+5,1,9:47,2387,2387,Tori McCoy Steal.,0,0,0,3,0.5,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+6,1,9:44,2384,2384,Foul on Kristen Confroy.,0,0,0,10,0.5,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+7,1,9:34,2374,2374,Kiara Lewis missed Layup.,0,0,0,0,0.5,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+8,1,9:34,2374,2374,Ohio State Offensive Rebound.,0,0,0,13,0.5,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+9,1,9:21,2361,2361,Sierra Calhoun made Jumper.,2,0,2,11,0.5448535841976563,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+10,1,9:10,2350,2350,Shatori Walker-Kimbrough missed Jumper.,2,0,2,0,0.5450907609955827,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+11,1,9:10,2350,2350,Brionna Jones Offensive Rebound.,2,0,2,5,0.5450907609955827,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+12,1,9:05,2345,2345,Brionna Jones made Jumper.,2,2,0,7,0.5,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Maryland
+13,1,8:58,2338,2338,Kelsey Mitchell made Three Point Jumper.,5,2,3,23,0.5677942937744409,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+14,1,8:35,2315,2315,Shatori Walker-Kimbrough made Jumper.,5,4,1,7,0.5229761317984666,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Maryland
+15,1,8:28,2308,2308,Kelsey Mitchell Turnover.,5,4,1,15,0.5230539385201218,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+16,1,8:13,2293,2293,Destiny Slocum missed Three Point Jumper.,5,4,1,0,0.5232215517927618,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+17,1,8:13,2293,2293,Shayla Cooper Defensive Rebound.,5,4,1,11,0.5232215517927618,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+18,1,8:02,2282,2282,Shayla Cooper Turnover.,5,4,1,5,0.5233451933869412,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+19,1,7:57,2277,2277,Shatori Walker-Kimbrough Turnover.,5,4,1,0,0.5234015860734704,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+20,1,7:57,2277,2277,Kiara Lewis Steal.,5,4,1,3,0.5234015860734704,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+21,1,7:54,2274,2274,Kiara Lewis missed Layup.,5,4,1,0,0.523435477271786,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+22,1,7:54,2274,2274,Shatori Walker-Kimbrough Block.,5,4,1,0,0.523435477271786,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+23,1,7:54,2274,2274,Destiny Slocum Defensive Rebound.,5,4,1,17,0.523435477271786,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+24,1,7:37,2257,2257,Brionna Jones made Layup.,5,6,-1,6,0.47637172244932635,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Maryland
+25,1,7:31,2251,2251,Kelsey Mitchell missed Three Point Jumper.,5,6,-1,0,0.4763033865694445,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+26,1,7:31,2251,2251,Kristen Confroy Defensive Rebound.,5,6,-1,9,0.4763033865694445,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+27,1,7:22,2242,2242,Kaila Charles missed Jumper.,5,6,-1,0,0.47620061926810064,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+28,1,7:22,2242,2242,Kaila Charles Offensive Rebound.,5,6,-1,5,0.47620061926810064,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+29,1,7:17,2237,2237,Brionna Jones made Layup. Assisted by Kaila Charles.,5,8,-3,13,0.4288617263502592,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Maryland
+30,1,7:04,2224,2224,Shayla Cooper made Three Point Jumper. Assisted by Kiara Lewis.,8,8,0,21,0.5,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+31,1,6:43,2203,2203,Shatori Walker-Kimbrough made Three Point Jumper. Assisted by Brionna Jones.,8,11,-3,20,0.427709275709198,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Maryland
+32,1,6:23,2183,2183,Foul on Kaila Charles.,8,11,-3,4,0.4270272561918981,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+33,1,6:19,2179,2179,Shayla Cooper made Jumper.,10,11,-1,9,0.4754739480956594,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+34,1,6:10,2170,2170,Shatori Walker-Kimbrough made Three Point Jumper.,10,14,-4,25,0.40265612661406397,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Maryland
+35,1,5:45,2145,2145,Foul on Kaila Charles.,10,14,-4,0,0.4015300158158299,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+36,1,5:45,2145,2145,Shayla Cooper made Free Throw.,11,14,-3,0,0.425723585932241,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+37,1,5:45,2145,2145,Shayla Cooper made Free Throw.,12,14,-2,19,0.4502781200489009,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+38,1,5:26,2126,2126,Brionna Jones made Jumper.,12,16,-4,9,0.40066821353652904,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Maryland
+39,1,5:17,2117,2117,Kelsey Mitchell made Layup.,14,16,-2,8,0.4496227638391357,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+40,1,5:09,2109,2109,Shatori Walker-Kimbrough missed Three Point Jumper.,14,16,-2,0,0.4494342565459519,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+41,1,5:09,2109,2109,Shayla Cooper Defensive Rebound.,14,16,-2,6,0.4494342565459519,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+42,1,5:03,2103,2103,Foul on Shatori Walker-Kimbrough.,14,16,-2,12,0.4492924880609492,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+43,1,4:51,2091,2091,Tori McCoy made Jumper. Assisted by Kiara Lewis.,16,16,0,9,0.5,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+44,1,4:42,2082,2082,Kristen Confroy missed Three Point Jumper.,16,16,0,0,0.5,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+45,1,4:42,2082,2082,Kelsey Mitchell Defensive Rebound.,16,16,0,7,0.5,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+46,1,4:35,2075,2075,Kelsey Mitchell made Layup.,18,16,2,19,0.5513737192187661,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+47,1,4:16,2056,2056,Destiny Slocum made Three Point Jumper. Assisted by Shatori Walker-Kimbrough.,18,19,-1,13,0.47401481141342355,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Maryland
+48,1,4:03,2043,2043,Shayla Cooper made Three Point Jumper. Assisted by Kelsey Mitchell.,21,19,2,12,0.5521451263571212,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+49,1,3:51,2031,2031,Foul on Sierra Calhoun.,21,19,2,0,0.5524373736537096,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+50,1,3:51,2031,2031,Official TV Timeout,21,19,2,9,0.5524373736537096,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+51,1,3:42,2022,2022,Brianna Fraser missed Jumper.,21,19,2,0,0.5526576779364848,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+52,1,3:42,2022,2022,Linnae Harper Defensive Rebound.,21,19,2,17,0.5526576779364848,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+53,1,3:25,2005,2005,Alexa Hart made Jumper. Assisted by Shayla Cooper.,23,19,4,15,0.6049701833971829,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+54,1,3:10,1990,1990,Foul on Alexa Hart.,23,19,4,0,0.6056905202891126,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+55,1,3:10,1990,1990,Brionna Jones missed Free Throw.,23,19,4,0,0.6056905202891126,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+56,1,3:10,1990,1990,Maryland Deadball Team Rebound.,23,19,4,0,0.6056905202891126,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+57,1,3:10,1990,1990,Brionna Jones missed Free Throw.,23,19,4,0,0.6056905202891126,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+58,1,3:10,1990,1990,Alexa Hart Defensive Rebound.,23,19,4,17,0.6056905202891126,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+59,1,2:53,1973,1973,Linnae Harper made Jumper.,25,19,6,14,0.6567896024885955,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+60,1,2:39,1959,1959,Destiny Slocum missed Three Point Jumper.,25,19,6,0,0.6577571217699562,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+61,1,2:39,1959,1959,Shayla Cooper Defensive Rebound.,25,19,6,6,0.6577571217699562,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+62,1,2:33,1953,1953,Kelsey Mitchell made Layup. Assisted by Shayla Cooper.,27,19,8,21,0.7054849104329104,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+63,1,2:12,1932,1932,Brionna Jones Turnover.,27,19,8,10,0.7072909302512995,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+64,1,2:02,1922,1922,Kelsey Mitchell made Three Point Jumper.,30,19,11,5,0.7718613577851602,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+65,1,1:57,1917,1917,Maryland  Timeout,30,19,11,13,0.7723658043688485,Ohio State,Maryland,3,4,1,0,NA,400914438,2017-02-20,
+66,1,1:44,1904,1904,Foul on Kelsey Mitchell.,30,19,11,3,0.7736724197608192,Ohio State,Maryland,3,4,1,0,NA,400914438,2017-02-20,
+67,1,1:41,1901,1901,Shatori Walker-Kimbrough missed Jumper.,30,19,11,0,0.7739730340487763,Ohio State,Maryland,3,4,1,0,NA,400914438,2017-02-20,
+68,1,1:41,1901,1901,Brionna Jones Offensive Rebound.,30,19,11,0,0.7739730340487763,Ohio State,Maryland,3,4,1,0,NA,400914438,2017-02-20,
+69,1,1:41,1901,1901,Brionna Jones missed Two Point Tip Shot.,30,19,11,0,0.7739730340487763,Ohio State,Maryland,3,4,1,0,NA,400914438,2017-02-20,
+70,1,1:41,1901,1901,Brionna Jones Offensive Rebound.,30,19,11,5,0.7739730340487763,Ohio State,Maryland,3,4,1,0,NA,400914438,2017-02-20,
+71,1,1:36,1896,1896,Brionna Jones made Jumper.,30,21,9,1,0.7329081555702956,Ohio State,Maryland,3,4,1,0,NA,400914438,2017-02-20,Maryland
+72,1,1:35,1895,1895,Foul on Makayla Waterman.,30,21,9,0,0.7329998329052337,Ohio State,Maryland,3,4,1,0,NA,400914438,2017-02-20,
+73,1,1:35,1895,1895,Brionna Jones made Free Throw.,30,22,8,11,0.7104736404425661,Ohio State,Maryland,3,4,1,0,NA,400914438,2017-02-20,Maryland
+74,1,1:24,1884,1884,Kelsey Mitchell made Three Point Jumper.,33,22,11,20,0.7756711766485872,Ohio State,Maryland,3,4,1,0,NA,400914438,2017-02-20,Ohio State
+75,1,1:04,1864,1864,Shatori Walker-Kimbrough missed Three Point Jumper.,33,22,11,0,0.7776602895860657,Ohio State,Maryland,3,4,1,0,NA,400914438,2017-02-20,
+76,1,1:04,1864,1864,Ieshia Small Offensive Rebound.,33,22,11,7,0.7776602895860657,Ohio State,Maryland,3,4,1,0,NA,400914438,2017-02-20,
+77,1,0:57,1857,1857,Jump Ball won by Maryland,33,22,11,4,0.7783550639800375,Ohio State,Maryland,3,4,1,0,NA,400914438,2017-02-20,
+78,1,0:53,1853,1853,Shatori Walker-Kimbrough missed Jumper.,33,22,11,1,0.7787518788584992,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,
+79,1,0:52,1852,1852,Makayla Waterman Defensive Rebound.,33,22,11,5,0.7788510656330365,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,
+80,1,0:47,1847,1847,Tori McCoy made Layup. Assisted by Kelsey Mitchell.,35,22,13,14,0.8162724994558044,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,Ohio State
+81,1,0:33,1833,1833,Blair Watson missed Three Point Jumper.,35,22,13,0,0.8177022369853492,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,
+82,1,0:33,1833,1833,Shatori Walker-Kimbrough Offensive Rebound.,35,22,13,17,0.8177022369853492,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,
+83,1,0:16,1816,1816,Shatori Walker-Kimbrough missed Jumper.,35,22,13,0,0.8194368744858854,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,
+84,1,0:16,1816,1816,Makayla Waterman Block.,35,22,13,0,0.8194368744858854,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,
+85,1,0:16,1816,1816,Asia Doss Defensive Rebound.,35,22,13,3,0.8194368744858854,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,
+86,1,0:13,1813,1813,Linnae Harper Turnover.,35,22,13,11,0.8197430073890104,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,
+87,1,0:02,1802,1802,Blair Watson missed Three Point Jumper.,35,22,13,0,0.8208659777070383,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,
+88,1,0:02,1802,1802,Tori McCoy Defensive Rebound.,35,22,13,2,0.8208659777070383,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,
+89,1,0:00,1800,1800,End of 1st Quarter,35,22,13,0,0.8210702725954647,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,
+90,2,10:00,1800,1800,Jump Ball won by Ohio State,35,22,13,11,0.8210702725954647,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+91,2,9:49,1789,1789,Linnae Harper made Jumper.,37,22,15,27,0.8540682469587231,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+92,2,9:22,1762,1762,Kaila Charles missed Jumper.,37,22,15,0,0.8567893065939967,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+93,2,9:22,1762,1762,Kristen Confroy Offensive Rebound.,37,22,15,6,0.8567893065939967,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+94,2,9:16,1756,1756,Foul on Tori McCoy.,37,22,15,0,0.8573954261403552,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+95,2,9:16,1756,1756,Foul on Shayla Cooper.,37,22,15,3,0.8573954261403552,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+96,2,9:13,1753,1753,Brionna Jones missed Jumper.,37,22,15,0,0.8576987567297572,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+97,2,9:13,1753,1753,Tori McCoy Block.,37,22,15,0,0.8576987567297572,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+98,2,9:13,1753,1753,Kaila Charles Offensive Rebound.,37,22,15,3,0.8576987567297572,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+99,2,9:10,1750,1750,Foul on Asia Doss.,37,22,15,17,0.8580022839459261,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+100,2,8:53,1733,1733,Foul on Brionna Jones.,37,22,15,0,0.8597265549216482,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+101,2,8:53,1733,1733,Brionna Jones Turnover.,37,22,15,6,0.8597265549216482,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+102,2,8:47,1727,1727,Kelsey Mitchell Turnover.,37,22,15,13,0.8603371149855101,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+103,2,8:34,1714,1714,Foul on Tori McCoy.,37,22,15,7,0.8616641763846818,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+104,2,8:27,1707,1707,Destiny Slocum missed Three Point Jumper.,37,22,15,0,0.8623813594680215,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+105,2,8:27,1707,1707,Linnae Harper Defensive Rebound.,37,22,15,6,0.8623813594680215,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+106,2,8:21,1701,1701,Linnae Harper Turnover.,37,22,15,0,0.8629976736128815,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+107,2,8:21,1701,1701,Shatori Walker-Kimbrough Steal.,37,22,15,5,0.8629976736128815,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+108,2,8:16,1696,1696,Shatori Walker-Kimbrough missed Jumper.,37,22,15,0,0.863512448924702,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+109,2,8:16,1696,1696,Asia Doss Defensive Rebound.,37,22,15,7,0.863512448924702,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+110,2,8:09,1689,1689,Asia Doss Turnover.,37,22,15,11,0.8642348885627757,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+111,2,7:58,1678,1678,Kristen Confroy made Three Point Jumper. Assisted by Brionna Jones.,37,25,12,13,0.8158382891315556,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Maryland
+112,2,7:45,1665,1665,Sierra Calhoun Turnover.,37,25,12,20,0.8171729306401742,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+113,2,7:25,1645,1645,Kaila Charles made Layup. Assisted by Brionna Jones.,37,27,10,13,0.778847407032025,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Maryland
+114,2,7:12,1632,1632,Alexa Hart made Jumper. Assisted by Shayla Cooper.,39,27,12,20,0.8204454178970804,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+115,2,6:52,1612,1612,Shatori Walker-Kimbrough made Three Point Jumper. Assisted by Destiny Slocum.,39,30,9,13,0.7593972452079366,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Maryland
+116,2,6:39,1599,1599,Sierra Calhoun made Three Point Jumper.,42,30,12,21,0.8236114922043499,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+117,2,6:18,1578,1578,Shatori Walker-Kimbrough missed Three Point Jumper.,42,30,12,0,0.8256034458395913,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+118,2,6:18,1578,1578,Shayla Cooper Defensive Rebound.,42,30,12,17,0.8256034458395913,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+119,2,6:01,1561,1561,Alexa Hart missed Jumper.,42,30,12,0,0.8272174780865967,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+120,2,6:01,1561,1561,Destiny Slocum Defensive Rebound.,42,30,12,17,0.8272174780865967,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+121,2,5:44,1544,1544,Kaila Charles made Jumper.,42,32,10,12,0.7882716059464451,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Maryland
+122,2,5:32,1532,1532,Shayla Cooper Turnover.,42,32,10,15,0.7894081665716611,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+123,2,5:17,1517,1517,Destiny Slocum Turnover.,42,32,10,9,0.790849205914705,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+124,2,5:08,1508,1508,Kiara Lewis made Three Point Jumper. Assisted by Shayla Cooper.,45,32,13,15,0.8501752083420268,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+125,2,4:53,1493,1493,Destiny Slocum missed Three Point Jumper.,45,32,13,0,0.8516676159430304,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+126,2,4:53,1493,1493,Maryland Offensive Rebound.,45,32,13,7,0.8516676159430304,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+127,2,4:46,1486,1486,Official TV Timeout,45,32,13,8,0.8523747868273934,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+128,2,4:38,1478,1478,Brionna Jones missed Jumper.,45,32,13,0,0.8531922208847844,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+129,2,4:38,1478,1478,Blair Watson Offensive Rebound.,45,32,13,4,0.8531922208847844,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+130,2,4:34,1474,1474,Foul on Makayla Waterman.,45,32,13,0,0.8536048529836019,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+131,2,4:34,1474,1474,Brionna Jones made Free Throw.,45,33,12,0,0.8358311740419331,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Maryland
+132,2,4:34,1474,1474,Brionna Jones made Free Throw.,45,34,11,9,0.8163638375068204,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Maryland
+133,2,4:25,1465,1465,Kiara Lewis Turnover.,45,34,11,0,0.8173171666498681,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+134,2,4:25,1465,1465,Shatori Walker-Kimbrough Steal.,45,34,11,10,0.8173171666498681,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+135,2,4:15,1455,1455,Destiny Slocum made Layup. Assisted by Shatori Walker-Kimbrough.,45,36,9,15,0.77413088138912,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Maryland
+136,2,4:00,1440,1440,Kelsey Mitchell missed Three Point Jumper.,45,36,9,0,0.7757037978599396,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+137,2,4:00,1440,1440,Brionna Jones Defensive Rebound.,45,36,9,9,0.7757037978599396,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+138,2,3:51,1431,1431,Foul on Brionna Jones.,45,36,9,0,0.7766236977814414,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+139,2,3:51,1431,1431,Brionna Jones Turnover.,45,36,9,17,0.7766236977814414,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+140,2,3:34,1414,1414,Shayla Cooper made Jumper.,47,36,11,27,0.8227298371601532,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+141,2,3:07,1387,1387,Destiny Slocum missed Three Point Jumper.,47,36,11,0,0.8254039670468024,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+142,2,3:07,1387,1387,Maryland Offensive Rebound.,47,36,11,5,0.8254039670468024,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+143,2,3:02,1382,1382,Foul on Shayla Cooper.,47,36,11,0,0.8258895693020673,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+144,2,3:02,1382,1382,Kaila Charles made Free Throw.,47,37,10,0,0.8045921592715138,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Maryland
+145,2,3:02,1382,1382,Kaila Charles made Free Throw.,47,38,9,13,0.7813792244467852,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Maryland
+146,2,2:49,1369,1369,Shayla Cooper missed Jumper.,47,38,9,0,0.7825992363485941,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+147,2,2:49,1369,1369,Kristen Confroy Defensive Rebound.,47,38,9,13,0.7825992363485941,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+148,2,2:36,1356,1356,Destiny Slocum Turnover.,47,38,9,0,0.7838147439533534,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+149,2,2:36,1356,1356,Asia Doss Steal.,47,38,9,6,0.7838147439533534,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+150,2,2:30,1350,1350,Asia Doss missed Jumper.,47,38,9,0,0.7843760476831267,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+151,2,2:30,1350,1350,Shatori Walker-Kimbrough Block.,47,38,9,0,0.7843760476831267,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+152,2,2:30,1350,1350,Shatori Walker-Kimbrough Defensive Rebound.,47,38,9,6,0.7843760476831267,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+153,2,2:24,1344,1344,Shatori Walker-Kimbrough missed Layup.,47,38,9,0,0.784938428055071,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+154,2,2:24,1344,1344,Kelsey Mitchell Defensive Rebound.,47,38,9,1,0.784938428055071,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+155,2,2:23,1343,1343,Foul on Kaila Charles.,47,38,9,9,0.7850323072613902,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+156,2,2:14,1334,1334,Foul on Destiny Slocum.,47,38,9,8,0.785879836342891,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+157,2,2:06,1326,1326,Kelsey Mitchell missed Jumper.,47,38,9,0,0.7866383271405406,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+158,2,2:06,1326,1326,Brionna Jones Defensive Rebound.,47,38,9,9,0.7866383271405406,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+159,2,1:57,1317,1317,Kristen Confroy Turnover.,47,38,9,0,0.7874992992608865,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+160,2,1:57,1317,1317,Asia Doss Steal.,47,38,9,7,0.7874992992608865,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+161,2,1:50,1310,1310,Asia Doss missed Layup.,47,38,9,0,0.7881758257246116,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+162,2,1:50,1310,1310,Brionna Jones Defensive Rebound.,47,38,9,5,0.7881758257246116,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+163,2,1:45,1305,1305,Destiny Slocum missed Jumper.,47,38,9,0,0.7886633329550687,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+164,2,1:45,1305,1305,Ohio State Defensive Rebound.,47,38,9,16,0.7886633329550687,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+165,2,1:29,1289,1289,Kelsey Mitchell missed Three Point Jumper.,47,38,9,0,0.7902516153717964,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+166,2,1:29,1289,1289,Kristen Confroy Defensive Rebound.,47,38,9,22,0.7902516153717964,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+167,2,1:07,1267,1267,Shatori Walker-Kimbrough made Jumper.,47,40,7,8,0.7393077836541485,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Maryland
+168,2,0:59,1259,1259,Kelsey Mitchell Turnover.,47,40,7,18,0.7400879311941497,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+169,2,0:41,1241,1241,Brianna Fraser missed Jumper.,47,40,7,0,0.7419081822480621,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+170,2,0:41,1241,1241,Alexa Hart Defensive Rebound.,47,40,7,22,0.7419081822480621,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+171,2,0:19,1219,1219,Alexa Hart made Layup. Assisted by Kelsey Mitchell.,49,40,9,18,0.7979478034962796,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,Ohio State
+172,2,0:01,1201,1201,Destiny Slocum missed Jumper.,49,40,9,0,0.8001623663834582,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+173,2,0:01,1201,1201,Maryland Deadball Team Rebound.,49,40,9,1,0.8001623663834582,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+174,2,0:00,1200,1200,End of 2nd Quarter,49,40,9,0,0.8002839754918194,Ohio State,Maryland,4,4,0,0,NA,400914438,2017-02-20,
+175,3,10:00,1200,1200,Jump Ball won by Maryland,49,40,9,6,0.8002839754918194,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+176,3,9:54,1194,1194,Kristen Confroy missed Three Point Jumper.,49,40,9,1,0.8010075415305711,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+177,3,9:53,1193,1193,Tori McCoy Defensive Rebound.,49,40,9,6,0.8011271606721978,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+178,3,9:47,1187,1187,Tori McCoy Turnover.,49,40,9,22,0.8018394077035248,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+179,3,9:25,1165,1165,Destiny Slocum missed Jumper.,49,40,9,0,0.8043831346457402,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+180,3,9:25,1165,1165,Brionna Jones Offensive Rebound.,49,40,9,0,0.8043831346457402,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+181,3,9:25,1165,1165,Brionna Jones made Two Point Tip Shot.,49,42,7,21,0.750206472248669,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,Maryland
+182,3,9:04,1144,1144,Foul on Kaila Charles.,49,42,7,0,0.7523948201093629,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+183,3,9:04,1144,1144,Kelsey Mitchell made Free Throw.,50,42,8,0,0.7807771297800035,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,Ohio State
+184,3,9:04,1144,1144,Kelsey Mitchell made Free Throw.,51,42,9,21,0.8067417093802091,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,Ohio State
+185,3,8:43,1123,1123,Destiny Slocum missed Three Point Jumper.,51,42,9,0,0.8090694144258989,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+186,3,8:43,1123,1123,Shatori Walker-Kimbrough Offensive Rebound.,51,42,9,0,0.8090694144258989,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+187,3,8:43,1123,1123,Shatori Walker-Kimbrough made Two Point Tip Shot.,51,44,7,19,0.7545617068245837,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,Maryland
+188,3,8:24,1104,1104,Sierra Calhoun made Three Point Jumper.,54,44,10,22,0.8347466824346803,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,Ohio State
+189,3,8:02,1082,1082,Ieshia Small made Jumper.,54,46,8,16,0.7875431066893874,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,Maryland
+190,3,7:46,1066,1066,Shayla Cooper made Three Point Jumper.,57,46,11,21,0.8601401036546443,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,Ohio State
+191,3,7:25,1045,1045,Kristen Confroy made Jumper.,57,48,9,13,0.818015699108734,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,Maryland
+192,3,7:12,1032,1032,Kelsey Mitchell made Layup.,59,48,11,15,0.8641558919805783,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,Ohio State
+193,3,6:57,1017,1017,Destiny Slocum Turnover.,59,48,11,13,0.8660248600647602,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+194,3,6:44,1004,1004,Kelsey Mitchell missed Three Point Jumper.,59,48,11,0,0.867702893833987,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+195,3,6:44,1004,1004,Kristen Confroy Defensive Rebound.,59,48,11,14,0.867702893833987,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+196,3,6:30,990,990,Shatori Walker-Kimbrough Turnover.,59,48,11,0,0.8695769301137978,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+197,3,6:30,990,990,Tori McCoy Steal.,59,48,11,5,0.8695769301137978,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+198,3,6:25,985,985,Foul on Ieshia Small.,59,48,11,0,0.8702641915377888,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+199,3,6:25,985,985,Tori McCoy made Free Throw.,60,48,12,0,0.8885805769804276,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,Ohio State
+200,3,6:25,985,985,Tori McCoy missed Free Throw.,60,48,12,0,0.8885805769804276,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+201,3,6:25,985,985,Ieshia Small Defensive Rebound.,60,48,12,9,0.8885805769804276,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+202,3,6:16,976,976,Destiny Slocum made Layup.,60,50,10,1,0.8507473334776804,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,Maryland
+203,3,6:15,975,975,Foul on Tori McCoy.,60,50,10,0,0.8508940209758931,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+204,3,6:15,975,975,Destiny Slocum missed Free Throw.,60,50,10,0,0.8508940209758931,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+205,3,6:15,975,975,Shayla Cooper Defensive Rebound.,60,50,10,12,0.8508940209758931,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+206,3,6:03,963,963,Kelsey Mitchell made Jumper.,62,50,12,7,0.891551420608932,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,Ohio State
+207,3,5:56,956,956,Foul on Kelsey Mitchell.,62,50,12,9,0.8924506078331362,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+208,3,5:47,947,947,Shatori Walker-Kimbrough missed Three Point Jumper.,62,50,12,0,0.8935488317033202,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+209,3,5:47,947,947,Shayla Cooper Defensive Rebound.,62,50,12,12,0.8935488317033202,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+210,3,5:35,935,935,Kelsey Mitchell Turnover.,62,50,12,0,0.8949249762666083,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+211,3,5:35,935,935,Shatori Walker-Kimbrough Steal.,62,50,12,8,0.8949249762666083,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+212,3,5:27,927,927,Shatori Walker-Kimbrough missed Jumper.,62,50,12,0,0.8957947428502062,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+213,3,5:27,927,927,Kelsey Mitchell Defensive Rebound.,62,50,12,20,0.8957947428502062,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+214,3,5:07,907,907,Alexa Hart made Jumper. Assisted by Shayla Cooper.,64,50,14,24,0.9266069839285882,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,Ohio State
+215,3,4:43,883,883,Shatori Walker-Kimbrough made Layup. Assisted by Kristen Confroy.,64,52,12,12,0.9001414759296016,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,Maryland
+216,3,4:31,871,871,Kiara Lewis missed Jumper.,64,52,12,0,0.9012658033686787,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+217,3,4:31,871,871,Kristen Confroy Defensive Rebound.,64,52,12,8,0.9012658033686787,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+218,3,4:23,863,863,Destiny Slocum Turnover.,64,52,12,0,0.9020158528671056,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+219,3,4:23,863,863,Kelsey Mitchell Steal.,64,52,12,3,0.9020158528671056,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,
+220,3,4:20,860,860,Kelsey Mitchell made Jumper.,66,52,14,4,0.930444037996266,Ohio State,Maryland,5,5,0,0,NA,400914438,2017-02-20,Ohio State
+221,3,4:16,856,856,Maryland  Timeout,66,52,14,7,0.9307677508500566,Ohio State,Maryland,4,5,1,0,NA,400914438,2017-02-20,
+222,3,4:09,849,849,Maryland  Timeout,66,52,14,10,0.9313384463800084,Ohio State,Maryland,3,5,1,0,NA,400914438,2017-02-20,
+223,3,3:59,839,839,Foul on Shatori Walker-Kimbrough.,66,52,14,0,0.9321668890267942,Ohio State,Maryland,3,5,1,0,NA,400914438,2017-02-20,
+224,3,3:59,839,839,Shatori Walker-Kimbrough Turnover.,66,52,14,14,0.9321668890267942,Ohio State,Maryland,3,5,1,0,NA,400914438,2017-02-20,
+225,3,3:45,825,825,Makayla Waterman missed Jumper.,66,52,14,0,0.9333635837677651,Ohio State,Maryland,3,5,1,0,NA,400914438,2017-02-20,
+226,3,3:45,825,825,Linnae Harper Offensive Rebound.,66,52,14,7,0.9333635837677651,Ohio State,Maryland,3,5,1,0,NA,400914438,2017-02-20,
+227,3,3:38,818,818,Linnae Harper made Jumper.,68,52,16,16,0.9538251196195475,Ohio State,Maryland,3,5,1,0,NA,400914438,2017-02-20,Ohio State
+228,3,3:22,802,802,Shatori Walker-Kimbrough missed Three Point Jumper.,68,52,16,0,0.9550299322507811,Ohio State,Maryland,3,5,1,0,NA,400914438,2017-02-20,
+229,3,3:22,802,802,Blair Watson Offensive Rebound.,68,52,16,4,0.9550299322507811,Ohio State,Maryland,3,5,1,0,NA,400914438,2017-02-20,
+230,3,3:18,798,798,Destiny Slocum missed Three Point Jumper.,68,52,16,0,0.9553431566251421,Ohio State,Maryland,3,5,1,0,NA,400914438,2017-02-20,
+231,3,3:18,798,798,Blair Watson Offensive Rebound.,68,52,16,9,0.9553431566251421,Ohio State,Maryland,3,5,1,0,NA,400914438,2017-02-20,
+232,3,3:09,789,789,Destiny Slocum made Three Point Jumper. Assisted by Shatori Walker-Kimbrough.,68,55,13,16,0.9243267590228822,Ohio State,Maryland,3,5,1,0,NA,400914438,2017-02-20,Maryland
+233,3,2:53,773,773,Asia Doss missed Three Point Jumper.,68,55,13,0,0.9261741483969947,Ohio State,Maryland,3,5,0,0,NA,400914438,2017-02-20,
+234,3,2:53,773,773,Blair Watson Defensive Rebound.,68,55,13,10,0.9261741483969947,Ohio State,Maryland,3,5,0,0,NA,400914438,2017-02-20,
+235,3,2:43,763,763,Shatori Walker-Kimbrough made Jumper. Assisted by Destiny Slocum.,68,57,11,1,0.8961891638061583,Ohio State,Maryland,3,5,0,0,NA,400914438,2017-02-20,Maryland
+236,3,2:42,762,762,Foul on Makayla Waterman.,68,57,11,0,0.8963372204336348,Ohio State,Maryland,3,5,0,0,NA,400914438,2017-02-20,
+237,3,2:42,762,762,Shatori Walker-Kimbrough made Free Throw.,68,58,10,20,0.8766483678890308,Ohio State,Maryland,3,5,0,0,NA,400914438,2017-02-20,Maryland
+238,3,2:22,742,742,Alexa Hart missed Jumper.,68,58,10,0,0.8799710609316534,Ohio State,Maryland,3,5,0,0,NA,400914438,2017-02-20,
+239,3,2:22,742,742,Kristen Confroy Defensive Rebound.,68,58,10,14,0.8799710609316534,Ohio State,Maryland,3,5,0,0,NA,400914438,2017-02-20,
+240,3,2:08,728,728,Destiny Slocum made Three Point Jumper. Assisted by Shatori Walker-Kimbrough.,68,61,7,14,0.8040113509031239,Ohio State,Maryland,3,5,0,0,NA,400914438,2017-02-20,Maryland
+241,3,1:54,714,714,Ohio State  Timeout,68,61,7,10,0.8065987567229811,Ohio State,Maryland,3,4,0,1,NA,400914438,2017-02-20,
+242,3,1:44,704,704,Kelsey Mitchell Turnover.,68,61,7,18,0.8082856246551913,Ohio State,Maryland,3,4,0,1,NA,400914438,2017-02-20,
+243,3,1:26,686,686,Kristen Confroy made Three Point Jumper. Assisted by Destiny Slocum.,68,64,4,16,0.6968998468928876,Ohio State,Maryland,3,4,0,1,NA,400914438,2017-02-20,Maryland
+244,3,1:10,670,670,Foul on Blair Watson.,68,64,4,2,0.6987275881884127,Ohio State,Maryland,3,4,0,1,NA,400914438,2017-02-20,
+245,3,1:08,668,668,Alexa Hart Turnover.,68,64,4,15,0.6989522729340473,Ohio State,Maryland,3,4,0,1,NA,400914438,2017-02-20,
+246,3,0:53,653,653,Foul on Tori McCoy.,68,64,4,7,0.7006366992943975,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,
+247,3,0:46,646,646,Kristen Confroy missed Three Point Jumper.,68,64,4,0,0.7014336965482986,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,
+248,3,0:46,646,646,Blair Watson Offensive Rebound.,68,64,4,18,0.7014336965482986,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,
+249,3,0:28,628,628,Shatori Walker-Kimbrough made Layup.,68,66,2,23,0.6063935905245157,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,Maryland
+250,3,0:05,605,605,Kelsey Mitchell missed Three Point Jumper.,68,66,2,0,0.6081409673129043,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,
+251,3,0:05,605,605,Brionna Jones Block.,68,66,2,0,0.6081409673129043,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,
+252,3,0:05,605,605,Destiny Slocum Defensive Rebound.,68,66,2,5,0.6081409673129043,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,
+253,3,0:00,600,600,End of 3rd Quarter,68,66,2,0,0.6085599051970726,Ohio State,Maryland,3,4,0,0,NA,400914438,2017-02-20,
+254,4,10:00,600,600,Jump Ball won by Ohio State,68,66,2,9,0.6085599051970726,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+255,4,9:51,591,591,Kiara Lewis made Jumper.,70,66,4,1,0.7087296316175736,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Ohio State
+256,4,9:50,590,590,Foul on Brionna Jones.,70,66,4,0,0.7088896607022367,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+257,4,9:50,590,590,Kiara Lewis missed Free Throw.,70,66,4,0,0.7088896607022367,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+258,4,9:50,590,590,Brionna Jones Defensive Rebound.,70,66,4,4,0.7088896607022367,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+259,4,9:46,586,586,Foul on Kiara Lewis.,70,66,4,15,0.7095430039577351,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+260,4,9:31,571,571,Brionna Jones missed Layup.,70,66,4,0,0.7121973258315173,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+261,4,9:31,571,571,Brionna Jones Offensive Rebound.,70,66,4,5,0.7121973258315173,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+262,4,9:26,566,566,Brionna Jones made Jumper.,70,68,2,18,0.6119203243667696,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Maryland
+263,4,9:08,548,548,Shayla Cooper made Jumper.,72,68,4,17,0.7169828778444426,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Ohio State
+264,4,8:51,531,531,Kristen Confroy Turnover.,72,68,4,0,0.7203703247597191,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+265,4,8:51,531,531,Kelsey Mitchell Steal.,72,68,4,1,0.7203703247597191,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+266,4,8:50,530,530,Kelsey Mitchell made Layup.,74,68,6,12,0.805463010595757,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Ohio State
+267,4,8:38,518,518,Blair Watson missed Jumper.,74,68,6,0,0.8078603947769062,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+268,4,8:38,518,518,Blair Watson Offensive Rebound.,74,68,6,0,0.8078603947769062,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+269,4,8:38,518,518,Blair Watson made Two Point Tip Shot.,74,70,4,26,0.7226098994449818,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Maryland
+270,4,8:12,492,492,Alexa Hart made Jumper.,76,70,6,18,0.8126843448502667,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Ohio State
+271,4,7:54,474,474,Destiny Slocum missed Jumper.,76,70,6,0,0.8162585082473333,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+272,4,7:54,474,474,Maryland Offensive Rebound.,76,70,6,8,0.8162585082473333,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+273,4,7:46,466,466,Brionna Jones made Jumper.,76,72,4,12,0.7314604384137452,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Maryland
+274,4,7:34,454,454,Sierra Calhoun missed Three Point Jumper.,76,72,4,0,0.7340810677350658,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+275,4,7:34,454,454,Blair Watson Defensive Rebound.,76,72,4,29,0.7340810677350658,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+276,4,7:05,425,425,Kaila Charles missed Jumper.,76,72,4,0,0.7422826779383683,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+277,4,7:05,425,425,Alexa Hart Defensive Rebound.,76,72,4,12,0.7422826779383683,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+278,4,6:53,413,413,Shayla Cooper missed Layup.,76,72,4,0,0.7458389104742891,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+279,4,6:53,413,413,Kaila Charles Defensive Rebound.,76,72,4,14,0.7458389104742891,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+280,4,6:39,399,399,Foul on Kiara Lewis.,76,72,4,4,0.7497306090684906,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+281,4,6:35,395,395,Destiny Slocum missed Jumper.,76,72,4,0,0.7508197162066859,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+282,4,6:35,395,395,Kiara Lewis Defensive Rebound.,76,72,4,11,0.7508197162066859,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+283,4,6:24,384,384,Sierra Calhoun made Three Point Jumper. Assisted by Kelsey Mitchell.,79,72,7,32,0.876363549789256,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Ohio State
+284,4,5:52,352,352,Blair Watson missed Jumper.,79,72,7,0,0.8859492144097023,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+285,4,5:52,352,352,Maryland Offensive Rebound.,79,72,7,8,0.8859492144097023,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+286,4,5:44,344,344,Blair Watson made Three Point Jumper. Assisted by Shatori Walker-Kimbrough.,79,75,4,15,0.7661832131752562,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Maryland
+287,4,5:29,329,329,Foul on Blair Watson.,79,75,4,0,0.7720049745406273,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+288,4,5:29,329,329,Kelsey Mitchell missed Free Throw.,79,75,4,0,0.7720049745406273,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+289,4,5:29,329,329,Ohio State Deadball Team Rebound.,79,75,4,0,0.7720049745406273,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+290,4,5:29,329,329,Kelsey Mitchell made Free Throw.,80,75,5,20,0.8212125032399834,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Ohio State
+291,4,5:09,309,309,Foul on Tori McCoy.,80,75,5,0,0.8308011856856912,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+292,4,5:09,309,309,Kaila Charles missed Free Throw.,80,75,5,0,0.8308011856856912,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+293,4,5:09,309,309,Maryland Deadball Team Rebound.,80,75,5,0,0.8308011856856912,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+294,4,5:09,309,309,Kaila Charles made Free Throw.,80,76,4,16,0.7812648999067139,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Maryland
+295,4,4:53,293,293,Foul on Destiny Slocum.,80,76,4,0,0.785535503981548,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+296,4,4:53,293,293,Official TV Timeout,80,76,4,20,0.785535503981548,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+297,4,4:33,273,273,Linnae Harper made Jumper. Assisted by Kelsey Mitchell.,82,76,6,13,0.8739164054646431,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Ohio State
+298,4,4:20,260,260,Kaila Charles missed Jumper.,82,76,6,0,0.8713729647103998,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+299,4,4:20,260,260,Kelsey Mitchell Defensive Rebound.,82,76,6,12,0.8713729647103998,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+300,4,4:08,248,248,Kelsey Mitchell made Layup.,84,76,8,13,0.9258576645117051,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Ohio State
+301,4,3:55,235,235,Foul on Alexa Hart.,84,76,8,6,0.9250992972031368,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+302,4,3:49,229,229,Brionna Jones missed Layup.,84,76,8,0,0.925467515883006,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+303,4,3:49,229,229,Linnae Harper Defensive Rebound.,84,76,8,31,0.925467515883006,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+304,4,3:18,198,198,Alexa Hart made Layup.,86,76,10,18,0.9677607681651539,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Ohio State
+305,4,3:00,180,180,Foul on Kelsey Mitchell.,86,76,10,0,0.9771915082716773,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+306,4,3:00,180,180,Destiny Slocum made Free Throw.,86,77,9,0,0.9671307066631035,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Maryland
+307,4,3:00,180,180,Destiny Slocum made Free Throw.,86,78,8,29,0.952846239766277,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Maryland
+308,4,2:31,151,151,Kelsey Mitchell missed Three Point Jumper.,86,78,8,0,0.9716027801953313,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+309,4,2:31,151,151,Shayla Cooper Offensive Rebound.,86,78,8,23,0.9716027801953313,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+310,4,2:08,128,128,Shayla Cooper missed Jumper.,86,78,8,0,0.9827525061739614,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+311,4,2:08,128,128,Shatori Walker-Kimbrough Defensive Rebound.,86,78,8,3,0.9827525061739614,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+312,4,2:05,125,125,Foul on Shayla Cooper.,86,78,8,0,0.9839853440268301,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+313,4,2:05,125,125,Shatori Walker-Kimbrough made Free Throw.,86,79,7,0,0.9734894278853864,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Maryland
+314,4,2:05,125,125,Shatori Walker-Kimbrough made Free Throw.,86,80,6,2,0.9564192167456673,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Maryland
+315,4,2:03,123,123,Foul on Destiny Slocum.,86,80,6,4,0.9580042271196532,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+316,4,1:59,119,119,Foul on Blair Watson.,86,80,6,0,0.9611038061070013,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+317,4,1:59,119,119,Kelsey Mitchell made Free Throw.,87,80,7,0,0.9768359455802805,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Ohio State
+318,4,1:59,119,119,Kelsey Mitchell made Free Throw.,88,80,8,10,0.9862957198690973,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Ohio State
+319,4,1:49,109,109,Shatori Walker-Kimbrough made Layup.,88,82,6,6,0.9684042671466597,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Maryland
+320,4,1:43,103,103,Linnae Harper made Jumper. Assisted by Kelsey Mitchell.,90,82,8,14,0.9914350852994744,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Ohio State
+321,4,1:29,89,89,Brionna Jones made Jumper. Assisted by Kristen Confroy.,90,84,6,4,0.980670917388873,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Maryland
+322,4,1:25,85,85,Foul on Blair Watson.,90,84,6,0,0.9826241347614197,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+323,4,1:25,85,85,Alexa Hart made Free Throw.,91,84,7,0,0.9910549402531539,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Ohio State
+324,4,1:25,85,85,Alexa Hart made Free Throw.,92,84,8,6,0.9954141922330266,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Ohio State
+325,4,1:19,79,79,Blair Watson missed Three Point Jumper.,92,84,8,1,0.996327455172252,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+326,4,1:18,78,78,Alexa Hart Block.,92,84,8,1,0.9964640702899028,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+327,4,1:17,77,77,Shayla Cooper Defensive Rebound.,92,84,8,2,0.9965966025417639,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+328,4,1:15,75,75,Foul on Blair Watson.,92,84,8,0,0.9968499046741218,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+329,4,1:15,75,75,Shayla Cooper made Free Throw.,93,84,9,0,0.998463657915368,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Ohio State
+330,4,1:15,75,75,Shayla Cooper missed Free Throw.,93,84,9,0,0.998463657915368,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+331,4,1:15,75,75,Ohio State Offensive Rebound.,93,84,9,14,0.998463657915368,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+332,4,1:01,61,61,Foul on Shatori Walker-Kimbrough.,93,84,9,0,0.9991941456023136,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+333,4,1:01,61,61,Shayla Cooper missed Free Throw.,93,84,9,0,0.9991941456023136,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+334,4,1:01,61,61,Ohio State Deadball Team Rebound.,93,84,9,0,0.9991941456023136,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+335,4,1:01,61,61,Shayla Cooper made Free Throw.,94,84,10,7,0.9996346260133591,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Ohio State
+336,4,0:54,54,54,Kristen Confroy missed Three Point Jumper.,94,84,10,0,0.9997498037593856,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+337,4,0:54,54,54,Alexa Hart Defensive Rebound.,94,84,10,3,0.9997498037593856,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+338,4,0:51,51,51,Foul on Kristen Confroy.,94,84,10,0,0.9997882512798644,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+339,4,0:51,51,51,Alexa Hart made Free Throw.,95,84,11,0,0.9999091207840766,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,Ohio State
+340,4,0:51,51,51,Alexa Hart missed Free Throw.,95,84,11,0,0.9999091207840766,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+341,4,0:51,51,51,Kaila Charles Defensive Rebound.,95,84,11,6,0.9999091207840766,Ohio State,Maryland,4,5,0,0,NA,400914438,2017-02-20,
+342,4,0:45,45,45,Shatori Walker-Kimbrough made Three Point Jumper. Assisted by Destiny Slocum.,95,87,8,0,0.9991265517926287,Ohio State,Maryland,4,5,0,1,NA,400914438,2017-02-20,Maryland
+343,4,0:45,45,45,Ohio State  Timeout,95,87,8,1,0.9991265517926287,Ohio State,Maryland,4,4,0,1,NA,400914438,2017-02-20,
+344,4,0:44,44,44,Foul on Shatori Walker-Kimbrough.,95,87,8,0,0.9991663983482393,Ohio State,Maryland,4,4,0,1,NA,400914438,2017-02-20,
+345,4,0:44,44,44,Kelsey Mitchell missed Free Throw.,95,87,8,0,0.9991663983482393,Ohio State,Maryland,4,4,0,1,NA,400914438,2017-02-20,
+346,4,0:44,44,44,Ohio State Deadball Team Rebound.,95,87,8,0,0.9991663983482393,Ohio State,Maryland,4,4,0,1,NA,400914438,2017-02-20,
+347,4,0:44,44,44,Kelsey Mitchell made Free Throw.,96,87,9,11,0.9996561757592062,Ohio State,Maryland,4,4,0,1,NA,400914438,2017-02-20,Ohio State
+348,4,0:33,33,33,Destiny Slocum missed Three Point Jumper.,96,87,9,0,0.9998109721849492,Ohio State,Maryland,4,4,0,1,NA,400914438,2017-02-20,
+349,4,0:33,33,33,Shayla Cooper Defensive Rebound.,96,87,9,2,0.9998109721849492,Ohio State,Maryland,4,4,0,1,NA,400914438,2017-02-20,
+350,4,0:31,31,31,Foul on Brionna Jones.,96,87,9,0,0.9998310498505916,Ohio State,Maryland,4,4,0,1,NA,400914438,2017-02-20,
+351,4,0:31,31,31,Shayla Cooper made Free Throw.,97,87,10,0,0.9999356313764277,Ohio State,Maryland,4,4,0,1,NA,400914438,2017-02-20,Ohio State
+352,4,0:31,31,31,Shayla Cooper missed Free Throw.,97,87,10,0,0.9999356313764277,Ohio State,Maryland,4,4,0,1,NA,400914438,2017-02-20,
+353,4,0:31,31,31,Shatori Walker-Kimbrough Defensive Rebound.,97,87,10,1,0.9999356313764277,Ohio State,Maryland,4,4,0,1,NA,400914438,2017-02-20,
+354,4,0:30,30,30,Maryland  Timeout,97,87,10,6,0.9999395484798492,Ohio State,Maryland,3,4,1,1,NA,400914438,2017-02-20,
+355,4,0:24,24,24,Destiny Slocum Turnover.,97,87,10,0,0.9999587303921296,Ohio State,Maryland,3,4,1,1,NA,400914438,2017-02-20,
+356,4,0:24,24,24,Linnae Harper Steal.,97,87,10,2,0.9999587303921296,Ohio State,Maryland,3,4,1,1,NA,400914438,2017-02-20,
+357,4,0:22,22,22,Foul on Destiny Slocum.,97,87,10,0,0.9999637299231557,Ohio State,Maryland,3,4,1,1,NA,400914438,2017-02-20,
+358,4,0:22,22,22,Linnae Harper missed Free Throw.,97,87,10,0,0.9999637299231557,Ohio State,Maryland,3,4,1,1,NA,400914438,2017-02-20,
+359,4,0:22,22,22,Ohio State Deadball Team Rebound.,97,87,10,0,0.9999637299231557,Ohio State,Maryland,3,4,1,1,NA,400914438,2017-02-20,
+360,4,0:22,22,22,Linnae Harper made Free Throw.,98,87,11,7,0.9999869528701598,Ohio State,Maryland,3,4,1,1,NA,400914438,2017-02-20,Ohio State
+361,4,0:15,15,15,Destiny Slocum missed Layup.,98,87,11,0,0.9999922003273956,Ohio State,Maryland,3,4,1,1,NA,400914438,2017-02-20,
+362,4,0:15,15,15,Ohio State Defensive Rebound.,98,87,11,15,0.9999922003273956,Ohio State,Maryland,3,4,1,1,NA,400914438,2017-02-20,
+363,4,0:00,0,0,End of Game,98,87,11,0,1,Ohio State,Maryland,3,4,1,1,NA,400914438,2017-02-20,

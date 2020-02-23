@@ -1,0 +1,408 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,3000,Jump Ball won by Georgia,0,0,0,14,0.5,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,NA
+2,1,9:46,2386,2986,Mackenzie Engram Turnover.,0,0,0,18,0.5,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+3,1,9:28,2368,2968,Diamond DeShields missed Jumper.,0,0,0,0,0.5,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+4,1,9:28,2368,2968,Haley Clark Defensive Rebound.,0,0,0,22,0.5,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+5,1,9:06,2346,2946,Shanea Armbrister made Jumper. Assisted by Stephanie Paul.,2,0,2,20,0.5451773968607259,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Georgia
+6,1,8:46,2326,2926,Meme Jackson Turnover.,2,0,2,0,0.5456135467511029,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+7,1,8:46,2326,2926,Mackenzie Engram Steal.,2,0,2,18,0.5456135467511029,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+8,1,8:28,2308,2908,Mackenzie Engram missed Three Point Jumper.,2,0,2,0,0.5460100625768887,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+9,1,8:28,2308,2908,Jordan Reynolds Defensive Rebound.,2,0,2,12,0.5460100625768887,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+10,1,8:16,2296,2896,Meme Jackson missed Three Point Jumper.,2,0,2,0,0.5462763437592703,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+11,1,8:16,2296,2896,Mackenzie Engram Defensive Rebound.,2,0,2,15,0.5462763437592703,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+12,1,8:01,2281,2881,Haley Clark missed Layup.,2,0,2,0,0.5466112148644995,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+13,1,8:01,2281,2881,Diamond DeShields Defensive Rebound.,2,0,2,11,0.5466112148644995,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+14,1,7:50,2270,2870,Diamond DeShields missed Jumper.,2,0,2,0,0.5468581179367272,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+15,1,7:50,2270,2870,Stephanie Paul Defensive Rebound.,2,0,2,6,0.5468581179367272,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+16,1,7:44,2264,2864,Shanea Armbrister Turnover.,2,0,2,0,0.5469932384002621,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+17,1,7:44,2264,2864,Mercedes Russell Steal.,2,0,2,13,0.5469932384002621,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+18,1,7:31,2251,2851,Mercedes Russell missed Jumper.,2,0,2,0,0.5472870146485976,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+19,1,7:31,2251,2851,Shanea Armbrister Defensive Rebound.,2,0,2,23,0.5472870146485976,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+20,1,7:08,2228,2828,Shanea Armbrister missed Jumper.,2,0,2,0,0.5478098713841724,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+21,1,7:08,2228,2828,Shanea Armbrister Offensive Rebound.,2,0,2,21,0.5478098713841724,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+22,1,6:47,2207,2807,Haley Clark Turnover.,2,0,2,0,0.548290259298426,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+23,1,6:47,2207,2807,Diamond DeShields Steal.,2,0,2,5,0.548290259298426,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+24,1,6:42,2202,2802,Diamond DeShields missed Layup.,2,0,2,0,0.5484050032906047,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+25,1,6:42,2202,2802,Mackenzie Engram Defensive Rebound.,2,0,2,16,0.5484050032906047,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+26,1,6:26,2186,2786,Mackenzie Engram missed Jumper.,2,0,2,0,0.548773006408573,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+27,1,6:26,2186,2786,Mercedes Russell Block.,2,0,2,0,0.548773006408573,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+28,1,6:26,2186,2786,Mercedes Russell Defensive Rebound.,2,0,2,9,0.548773006408573,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+29,1,6:17,2177,2777,Foul on Mackenzie Engram.,2,0,2,0,0.5489804998329268,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+30,1,6:17,2177,2777,Jaime Nared made Free Throw.,2,1,1,0,0.5245492878304605,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Tennessee
+31,1,6:17,2177,2777,Jaime Nared made Free Throw.,2,2,0,26,0.5,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Tennessee
+32,1,5:51,2151,2751,Mackenzie Engram missed Jumper.,2,2,0,0,0.5,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+33,1,5:51,2151,2751,Jaime Nared Defensive Rebound.,2,2,0,12,0.5,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+34,1,5:39,2139,2739,Mercedes Russell missed Layup.,2,2,0,0,0.5,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+35,1,5:39,2139,2739,Shanea Armbrister Defensive Rebound.,2,2,0,11,0.5,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+36,1,5:28,2128,2728,Caliya Robinson made Jumper. Assisted by Mackenzie Engram.,4,2,2,22,0.5501189748240702,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Georgia
+37,1,5:06,2106,2706,Mercedes Russell Turnover.,4,2,2,0,0.5506365855698726,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+38,1,5:06,2106,2706,Mackenzie Engram Steal.,4,2,2,21,0.5506365855698726,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+39,1,4:45,2085,2685,Caliya Robinson made Three Point Jumper. Assisted by Haley Clark.,7,2,5,26,0.6255429599237331,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Georgia
+40,1,4:19,2059,2659,Jordan Reynolds missed Three Point Jumper.,7,2,5,0,0.6270170277326002,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+41,1,4:19,2059,2659,Jaime Nared Offensive Rebound.,7,2,5,14,0.6270170277326002,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+42,1,4:05,2045,2645,Foul on Haley Clark.,7,2,5,0,0.6278170858277525,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+43,1,4:05,2045,2645,Official TV Timeout,7,2,5,3,0.6278170858277525,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+44,1,4:02,2042,2642,Diamond DeShields made Jumper. Assisted by Jaime Nared.,7,4,3,15,0.577900312236857,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Tennessee
+45,1,3:47,2027,2627,Pachis Roberts made Three Point Jumper. Assisted by Halle Washington.,10,4,6,13,0.6531144294002458,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Georgia
+46,1,3:34,2014,2614,Diamond DeShields made Jumper.,10,6,4,14,0.6045404929413596,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Tennessee
+47,1,3:20,2000,2600,Caliya Robinson missed Jumper.,10,6,4,0,0.6052097071123567,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+48,1,3:20,2000,2600,Jordan Reynolds Defensive Rebound.,10,6,4,11,0.6052097071123567,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+49,1,3:09,1989,2589,Foul on Caliya Robinson.,10,6,4,16,0.605738732896021,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+50,1,2:53,1973,2573,Alexa Middleton Turnover.,10,6,4,15,0.6065134560365255,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+51,1,2:38,1958,2558,Halle Washington missed Jumper.,10,6,4,0,0.6072455887198756,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+52,1,2:38,1958,2558,Diamond DeShields Defensive Rebound.,10,6,4,9,0.6072455887198756,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+53,1,2:29,1949,2549,Diamond DeShields made Layup.,10,8,2,10,0.5544831552342676,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Tennessee
+54,1,2:19,1939,2539,Shanea Armbrister made Jumper. Assisted by Caliya Robinson.,12,8,4,27,0.6081813836118145,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Georgia
+55,1,1:52,1912,2512,Diamond DeShields missed Jumper.,12,8,4,0,0.609521922768613,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+56,1,1:52,1912,2512,Pachis Roberts Defensive Rebound.,12,8,4,14,0.609521922768613,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+57,1,1:38,1898,2498,Shanea Armbrister missed Jumper.,12,8,4,0,0.6102155219073936,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+58,1,1:38,1898,2498,Tennessee Defensive Rebound.,12,8,4,15,0.6102155219073936,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+59,1,1:23,1883,2483,Jordan Reynolds missed Jumper.,12,8,4,0,0.6109580862436181,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+60,1,1:23,1883,2483,Shanea Armbrister Defensive Rebound.,12,8,4,10,0.6109580862436181,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+61,1,1:13,1873,2473,Caliya Robinson made Layup. Assisted by Shanea Armbrister.,14,8,6,16,0.6637694246626142,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Georgia
+62,1,0:57,1857,2457,Alexa Middleton Turnover.,14,8,6,0,0.6648868799776442,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+63,1,0:57,1857,2457,Pachis Roberts Steal.,14,8,6,8,0.6648868799776442,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+64,1,0:49,1849,2449,Foul on Jaime Nared.,14,8,6,12,0.6654463834889561,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+65,1,0:37,1837,2437,Shanea Armbrister made Jumper.,16,8,8,29,0.7154331717598716,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Georgia
+66,1,0:08,1808,2408,Jaime Nared missed Layup.,16,8,8,0,0.7179253235341124,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+67,1,0:08,1808,2408,Tennessee Offensive Rebound.,16,8,8,5,0.7179253235341124,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+68,1,0:03,1803,2403,Kortney Dunbar Turnover.,16,8,8,0,0.7183571097395295,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+69,1,0:03,1803,2403,Pachis Roberts Steal.,16,8,8,3,0.7183571097395295,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+70,1,0:00,1800,2400,End of 1st Quarter,16,8,8,0,0.7186165494009514,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+71,2,10:00,1800,2400,Jump Ball won by Georgia,16,8,8,9,0.7186165494009514,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+72,2,9:51,1791,2391,Shanea Armbrister Turnover.,16,8,8,10,0.7193966690628736,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+73,2,9:41,1781,2381,Foul on Caliya Robinson.,16,8,8,6,0.7202669646735935,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+74,2,9:35,1775,2375,Mercedes Russell missed Jumper.,16,8,8,0,0.7207910956912219,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+75,2,9:35,1775,2375,Halle Washington Block.,16,8,8,0,0.7207910956912219,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+76,2,9:35,1775,2375,Shanea Armbrister Defensive Rebound.,16,8,8,7,0.7207910956912219,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+77,2,9:28,1768,2368,Halle Washington missed Layup.,16,8,8,0,0.7214045959293893,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+78,2,9:28,1768,2368,Kortney Dunbar Defensive Rebound.,16,8,8,20,0.7214045959293893,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+79,2,9:08,1748,2348,Mercedes Russell made Jumper.,16,10,6,30,0.672647410199511,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Tennessee
+80,2,8:38,1718,2318,Haley Clark missed Layup.,16,10,6,0,0.6748715076123989,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+81,2,8:38,1718,2318,Mercedes Russell Block.,16,10,6,0,0.6748715076123989,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+82,2,8:38,1718,2318,Georgia Offensive Rebound.,16,10,6,5,0.6748715076123989,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+83,2,8:33,1713,2313,Halle Washington missed Jumper.,16,10,6,0,0.675247529968572,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+84,2,8:33,1713,2313,Mackenzie Engram Offensive Rebound.,16,10,6,5,0.675247529968572,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+85,2,8:28,1708,2308,Foul on Meme Jackson.,16,10,6,0,0.6756252052626514,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+86,2,8:28,1708,2308,Mackenzie Engram made Free Throw.,17,10,7,0,0.701830265162718,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Georgia
+87,2,8:28,1708,2308,Mackenzie Engram made Free Throw.,18,10,8,4,0.7267744415650238,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Georgia
+88,2,8:24,1704,2304,Jaime Nared missed Layup.,18,10,8,0,0.7271408724174201,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+89,2,8:24,1704,2304,Pachis Roberts Defensive Rebound.,18,10,8,23,0.7271408724174201,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+90,2,8:01,1681,2281,Shanea Armbrister missed Jumper.,18,10,8,0,0.7292621626952702,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+91,2,8:01,1681,2281,Mercedes Russell Defensive Rebound.,18,10,8,21,0.7292621626952702,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+92,2,7:40,1660,2260,Foul on Jaime Nared.,18,10,8,0,0.7311500259500788,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+93,2,7:40,1660,2260,Jaime Nared Turnover.,18,10,8,7,0.7311500259500788,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+94,2,7:33,1653,2253,Mackenzie Engram missed Three Point Jumper.,18,10,8,0,0.7317670141948943,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+95,2,7:33,1653,2253,Meme Jackson Defensive Rebound.,18,10,8,15,0.7317670141948943,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+96,2,7:18,1638,2238,Diamond DeShields Turnover.,18,10,8,26,0.7330726563486258,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+97,2,6:52,1612,2212,Pachis Roberts missed Jumper.,18,10,8,0,0.7352975974899028,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+98,2,6:52,1612,2212,Mercedes Russell Defensive Rebound.,18,10,8,13,0.7352975974899028,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+99,2,6:39,1599,2199,Foul on Shanea Armbrister.,18,10,8,0,0.7363998661491526,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+100,2,6:39,1599,2199,Diamond DeShields made Free Throw.,18,11,7,0,0.7107280180221273,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Tennessee
+101,2,6:39,1599,2199,Diamond DeShields made Free Throw.,18,12,6,17,0.6836301183070832,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Tennessee
+102,2,6:22,1582,2182,Pachis Roberts Turnover.,18,12,6,16,0.68483377150806235,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+103,2,6:06,1566,2166,Foul on Halle Washington.,18,12,6,9,0.6859721784160182,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+104,2,5:57,1557,2157,Foul on Pachis Roberts.,18,12,6,9,0.6866171220735683,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+105,2,5:48,1548,2148,Diamond DeShields missed Jumper.,18,12,6,0,0.6872666569318119,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+106,2,5:48,1548,2148,Halle Washington Defensive Rebound.,18,12,6,26,0.6872666569318119,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+107,2,5:22,1522,2122,Mackenzie Engram missed Three Point Jumper.,18,12,6,0,0.6891781586189366,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+108,2,5:22,1522,2122,Mercedes Russell Defensive Rebound.,18,12,6,16,0.6891781586189366,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+109,2,5:06,1506,2106,Mercedes Russell made Layup. Assisted by Meme Jackson.,18,14,4,26,0.6305607788785816,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Tennessee
+110,2,4:40,1480,2080,Halle Washington missed Jumper.,18,14,4,0,0.6320430445036809,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+111,2,4:40,1480,2080,Mercedes Russell Defensive Rebound.,18,14,4,9,0.6320430445036809,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+112,2,4:31,1471,2071,Diamond DeShields made Jumper.,18,16,2,21,0.5674951740796679,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Tennessee
+113,2,4:10,1450,2050,Pachis Roberts missed Three Point Jumper.,18,16,2,0,0.5681728541516072,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+114,2,4:10,1450,2050,Mackenzie Engram Offensive Rebound.,18,16,2,5,0.5681728541516072,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+115,2,4:05,1445,2045,Foul on Diamond DeShields.,18,16,2,0,0.5683373723637162,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+116,2,4:05,1445,2045,Official TV Timeout,18,16,2,13,0.5683373723637162,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+117,2,3:52,1432,2032,Mackenzie Engram made Jumper. Assisted by Haley Clark.,20,16,4,19,0.6349615939671319,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Georgia
+118,2,3:33,1413,2013,Mercedes Russell made Jumper. Assisted by Diamond DeShields.,20,18,2,35,0.5693521295351166,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Tennessee
+119,2,2:58,1378,1978,Mackenzie Engram made Jumper. Assisted by Pachis Roberts.,22,18,4,22,0.638088715639786,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Georgia
+120,2,2:36,1356,1956,Foul on Stephanie Paul.,22,18,4,0,0.6393308172122488,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+121,2,2:36,1356,1956,Schaquilla Nunn made Free Throw.,22,19,3,0,0.6057174080157803,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Tennessee
+122,2,2:36,1356,1956,Schaquilla Nunn made Free Throw.,22,20,2,8,0.5710730333164341,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Tennessee
+123,2,2:28,1348,1948,Shanea Armbrister missed Three Point Jumper.,22,20,2,0,0.5713137995173716,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+124,2,2:28,1348,1948,Mackenzie Engram Offensive Rebound.,22,20,2,7,0.5713137995173716,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+125,2,2:21,1341,1941,Mackenzie Engram made Two Point Tip Shot.,24,20,4,14,0.6401824219523585,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Georgia
+126,2,2:07,1327,1927,Diamond DeShields made Jumper.,24,22,2,15,0.571953325734305,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Tennessee
+127,2,1:52,1312,1912,Pachis Roberts missed Layup.,24,22,2,0,0.5724206019598574,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+128,2,1:52,1312,1912,Mercedes Russell Defensive Rebound.,24,22,2,5,0.5724206019598574,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+129,2,1:47,1307,1907,Foul on Pachis Roberts.,24,22,2,0,0.5725789564572262,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+130,2,1:47,1307,1907,Mercedes Russell made Free Throw.,24,23,1,0,0.5364826813844428,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Tennessee
+131,2,1:47,1307,1907,Mercedes Russell made Free Throw.,24,24,0,8,0.5,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Tennessee
+132,2,1:39,1299,1899,Shanea Armbrister missed Jumper.,24,24,0,0,0.5,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+133,2,1:39,1299,1899,Mercedes Russell Defensive Rebound.,24,24,0,11,0.5,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+134,2,1:28,1288,1888,Schaquilla Nunn missed Jumper.,24,24,0,0,0.5,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+135,2,1:28,1288,1888,Haley Clark Defensive Rebound.,24,24,0,20,0.5,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+136,2,1:08,1268,1868,Foul on Schaquilla Nunn.,24,24,0,0,0.5,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+137,2,1:08,1268,1868,Mackenzie Engram missed Free Throw.,24,24,0,0,0.5,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+138,2,1:08,1268,1868,Georgia Deadball Team Rebound.,24,24,0,0,0.5,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+139,2,1:08,1268,1868,Mackenzie Engram made Free Throw.,25,24,1,11,0.5371412415068411,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Georgia
+140,2,0:57,1257,1857,Jordan Reynolds Turnover.,25,24,1,21,0.5373394095365264,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,
+141,2,0:36,1236,1836,Mackenzie Engram made Jumper. Assisted by Simone Costa.,27,24,3,13,0.6115195923097898,Georgia,Tennessee,4,4,0,0,NA,400910974,2017-02-05,Georgia
+142,2,0:23,1223,1823,Tennessee  Timeout,27,24,3,13,0.6122652364083959,Georgia,Tennessee,3,4,1,0,NA,400910974,2017-02-05,
+143,2,0:10,1210,1810,Meme Jackson missed Three Point Jumper.,27,24,3,0,0.6130451055313546,Georgia,Tennessee,3,4,1,0,NA,400910974,2017-02-05,
+144,2,0:10,1210,1810,Schaquilla Nunn Offensive Rebound.,27,24,3,5,0.6130451055313546,Georgia,Tennessee,3,4,1,0,NA,400910974,2017-02-05,
+145,2,0:05,1205,1805,Schaquilla Nunn missed Two Point Tip Shot.,27,24,3,0,0.6133502802168322,Georgia,Tennessee,3,4,1,0,NA,400910974,2017-02-05,
+146,2,0:05,1205,1805,Schaquilla Nunn Offensive Rebound.,27,24,3,0,0.6133502802168322,Georgia,Tennessee,3,4,1,0,NA,400910974,2017-02-05,
+147,2,0:05,1205,1805,Schaquilla Nunn missed Layup.,27,24,3,0,0.6133502802168322,Georgia,Tennessee,3,4,1,0,NA,400910974,2017-02-05,
+148,2,0:05,1205,1805,Mackenzie Engram Defensive Rebound.,27,24,3,5,0.6133502802168322,Georgia,Tennessee,3,4,1,0,NA,400910974,2017-02-05,
+149,2,0:00,1200,1800,End of 2nd Quarter,27,24,3,0,0.6136521367497382,Georgia,Tennessee,3,4,1,0,NA,400910974,2017-02-05,
+150,3,10:00,1200,1800,Jump Ball won by Georgia,27,24,3,7,0.6136521367497382,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+151,3,9:53,1193,1793,Mackenzie Engram Turnover.,27,24,3,6,0.6140696285496201,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+152,3,9:47,1187,1787,Diamond DeShields missed Layup.,27,24,3,0,0.6144231947982343,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+153,3,9:47,1187,1787,Pachis Roberts Block.,27,24,3,0,0.6144231947982343,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+154,3,9:47,1187,1787,Mackenzie Engram Defensive Rebound.,27,24,3,27,0.6144231947982343,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+155,3,9:20,1160,1760,Mackenzie Engram made Jumper.,29,24,5,17,0.6872967316960976,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,Georgia
+156,3,9:03,1143,1743,Meme Jackson Turnover.,29,24,5,16,0.6887478917648818,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+157,3,8:47,1127,1727,Stephanie Paul missed Jumper.,29,24,5,0,0.6901065974524085,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+158,3,8:47,1127,1727,Mercedes Russell Defensive Rebound.,29,24,5,12,0.6901065974524085,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+159,3,8:35,1115,1715,Diamond DeShields made Layup.,29,26,3,23,0.6185127012299976,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,Tennessee
+160,3,8:12,1092,1692,Haley Clark missed Jumper.,29,26,3,0,0.6198307260005002,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+161,3,8:12,1092,1692,Diamond DeShields Defensive Rebound.,29,26,3,7,0.6198307260005002,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+162,3,8:05,1085,1685,Jaime Nared made Layup. Assisted by Diamond DeShields.,29,28,1,17,0.5407896856894234,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,Tennessee
+163,3,7:48,1068,1668,Mackenzie Engram missed Layup.,29,28,1,0,0.541146654075565,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+164,3,7:48,1068,1668,Mercedes Russell Defensive Rebound.,29,28,1,10,0.541146654075565,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+165,3,7:38,1058,1658,Foul on Shanea Armbrister.,29,28,1,0,0.5413628588167636,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+166,3,7:38,1058,1658,Meme Jackson missed Free Throw.,29,28,1,0,0.5413628588167636,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+167,3,7:38,1058,1658,Tennessee Deadball Team Rebound.,29,28,1,0,0.5413628588167636,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+168,3,7:38,1058,1658,Meme Jackson made Free Throw.,29,29,0,10,0.5,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,Tennessee
+169,3,7:28,1048,1648,Pachis Roberts missed Three Point Jumper.,29,29,0,0,0.5,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+170,3,7:28,1048,1648,Tennessee Defensive Rebound.,29,29,0,17,0.5,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+171,3,7:11,1031,1631,Diamond DeShields made Jumper.,29,31,-2,7,0.4166360861414005,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,Tennessee
+172,3,7:04,1024,1624,Pachis Roberts made Layup.,31,31,0,20,0.5,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,Georgia
+173,3,6:44,1004,1604,Mercedes Russell missed Jumper.,31,31,0,0,0.5,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+174,3,6:44,1004,1604,Caliya Robinson Block.,31,31,0,0,0.5,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+175,3,6:44,1004,1604,Tennessee Offensive Rebound.,31,31,0,7,0.5,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+176,3,6:37,997,1597,Mercedes Russell Turnover.,31,31,0,0,0.5,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+177,3,6:37,997,1597,Haley Clark Steal.,31,31,0,6,0.5,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+178,3,6:31,991,1591,Caliya Robinson made Layup. Assisted by Haley Clark.,33,31,2,34,0.5853393492708255,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,Georgia
+179,3,5:57,957,1557,Tennessee  Turnover.,33,31,2,15,0.5872119604963634,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+180,3,5:42,942,1542,Foul on Diamond DeShields.,33,31,2,0,0.5879780134404895,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+181,3,5:42,942,1542,Mackenzie Engram missed Free Throw.,33,31,2,0,0.5879780134404895,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+182,3,5:42,942,1542,Georgia Deadball Team Rebound.,33,31,2,0,0.5879780134404895,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+183,3,5:42,942,1542,Mackenzie Engram missed Free Throw.,33,31,2,0,0.5879780134404895,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+184,3,5:42,942,1542,Mercedes Russell Defensive Rebound.,33,31,2,15,0.5879780134404895,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+185,3,5:27,927,1527,Diamond DeShields missed Three Point Jumper.,33,31,2,0,0.5886913509969809,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+186,3,5:27,927,1527,Mercedes Russell Offensive Rebound.,33,31,2,6,0.5886913509969809,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+187,3,5:21,921,1521,Mercedes Russell made Layup.,33,33,0,12,0.5,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,Tennessee
+188,3,5:09,909,1509,Foul on Mercedes Russell.,33,33,0,0,0.5,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+189,3,5:09,909,1509,Caliya Robinson made Free Throw.,34,33,1,0,0.5451124543628754,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,Georgia
+190,3,5:09,909,1509,Caliya Robinson missed Free Throw.,34,33,1,0,0.5451124543628754,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+191,3,5:09,909,1509,Mercedes Russell Defensive Rebound.,34,33,1,9,0.5451124543628754,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+192,3,5:00,900,1500,Official TV Timeout,34,33,1,3,0.5453114103420743,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+193,3,4:57,897,1497,Meme Jackson missed Jumper.,34,33,1,0,0.5453770182838606,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+194,3,4:57,897,1497,Meme Jackson Offensive Rebound.,34,33,1,23,0.5453770182838606,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+195,3,4:34,874,1474,Foul on Caliya Robinson.,34,33,1,0,0.5458751573338769,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+196,3,4:34,874,1474,Diamond DeShields made Free Throw.,34,34,0,0,0.5,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,Tennessee
+197,3,4:34,874,1474,Diamond DeShields made Free Throw.,34,35,-1,15,0.4541248426661231,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,Tennessee
+198,3,4:19,859,1459,Caliya Robinson Turnover.,34,35,-1,9,0.4537968393665149,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+199,3,4:10,850,1450,Diamond DeShields missed Jumper.,34,35,-1,0,0.4535954826160876,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+200,3,4:10,850,1450,Tennessee Offensive Rebound.,34,35,-1,6,0.4535954826160876,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+201,3,4:04,844,1444,Diamond DeShields Turnover.,34,35,-1,0,0.4534584514426452,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+202,3,4:04,844,1444,Pachis Roberts Steal.,34,35,-1,6,0.4534584514426452,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+203,3,3:58,838,1438,Caliya Robinson made Layup. Assisted by Mackenzie Engram.,36,35,1,10,0.546681315729199,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,Georgia
+204,3,3:48,828,1428,Mercedes Russell made Jumper. Assisted by Jordan Reynolds.,36,37,-1,10,0.4530784922319024,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,Tennessee
+205,3,3:38,818,1418,Caliya Robinson missed Jumper.,36,37,-1,0,0.4528275187167615,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+206,3,3:38,818,1418,Mercedes Russell Block.,36,37,-1,0,0.4528275187167615,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+207,3,3:38,818,1418,Mercedes Russell Defensive Rebound.,36,37,-1,4,0.4528275187167615,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+208,3,3:34,814,1414,Foul on Mackenzie Engram.,36,37,-1,7,0.4527236653103354,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+209,3,3:27,807,1407,Mercedes Russell missed Jumper.,36,37,-1,0,0.45253662343665685,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+210,3,3:27,807,1407,Pachis Roberts Defensive Rebound.,36,37,-1,18,0.45253662343665685,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+211,3,3:09,789,1389,Caliya Robinson Turnover.,36,37,-1,13,0.45202037513937826,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+212,3,2:56,776,1376,Jaime Nared missed Three Point Jumper.,36,37,-1,0,0.4516108661594655,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+213,3,2:56,776,1376,Haley Clark Defensive Rebound.,36,37,-1,5,0.4516108661594655,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+214,3,2:51,771,1371,Haley Clark Turnover.,36,37,-1,0,0.4514441042036844,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+215,3,2:51,771,1371,Diamond DeShields Steal.,36,37,-1,5,0.4514441042036844,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+216,3,2:46,766,1366,Diamond DeShields missed Jumper.,36,37,-1,0,0.45127181889342527,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+217,3,2:46,766,1366,Shanea Armbrister Defensive Rebound.,36,37,-1,5,0.45127181889342527,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+218,3,2:41,761,1361,Caliya Robinson made Layup. Assisted by Shanea Armbrister.,38,37,1,10,0.5489062372784966,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,Georgia
+219,3,2:31,751,1351,Jordan Reynolds missed Jumper.,38,37,1,0,0.5492806516462598,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+220,3,2:31,751,1351,Haley Clark Defensive Rebound.,38,37,1,10,0.5492806516462598,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+221,3,2:21,741,1341,Foul on Jaime Nared.,38,37,1,0,0.5496811164949055,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+222,3,2:21,741,1341,Caliya Robinson missed Free Throw.,38,37,1,0,0.5496811164949055,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+223,3,2:21,741,1341,Georgia Deadball Team Rebound.,38,37,1,0,0.5496811164949055,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+224,3,2:21,741,1341,Simone Costa Turnover.,38,37,1,10,0.5496811164949055,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+225,3,2:11,731,1331,Mercedes Russell made Layup. Assisted by Jordan Reynolds.,38,39,-1,13,0.4498903928108823,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,Tennessee
+226,3,1:58,718,1318,Pachis Roberts made Layup.,40,39,1,14,0.5506653371500158,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,Georgia
+227,3,1:44,704,1304,Diamond DeShields missed Jumper.,40,39,1,0,0.5512094108799098,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+228,3,1:44,704,1304,Caliya Robinson Defensive Rebound.,40,39,1,27,0.5512094108799098,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+229,3,1:17,677,1277,Mackenzie Engram missed Three Point Jumper.,40,39,1,0,0.5521527523682312,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+230,3,1:17,677,1277,Caliya Robinson Offensive Rebound.,40,39,1,11,0.5521527523682312,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+231,3,1:06,666,1266,Haley Clark missed Jumper.,40,39,1,0,0.5525168410165231,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+232,3,1:06,666,1266,Pachis Roberts Offensive Rebound.,40,39,1,5,0.5525168410165231,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+233,3,1:01,661,1261,Pachis Roberts made Layup.,42,39,3,16,0.6535168505868009,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,Georgia
+234,3,0:45,645,1245,Alexa Middleton made Three Point Jumper. Assisted by Jordan Reynolds.,42,42,0,31,0.5,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,Tennessee
+235,3,0:14,614,1214,Haley Clark Turnover.,42,42,0,6,0.5,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+236,3,0:08,608,1208,Diamond DeShields made Layup.,42,44,-2,8,0.39210286667099004,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,Tennessee
+237,3,0:00,600,1200,End of 3rd Quarter,42,44,-2,0,0.39144009480292735,Georgia,Tennessee,4,5,0,0,NA,400910974,2017-02-05,
+238,4,10:00,600,1200,Jump Ball won by Tennessee,42,44,-2,8,0.39144009480292735,Georgia,Tennessee,5,6,0,0,NA,400910974,2017-02-05,
+239,4,9:52,592,1192,Diamond DeShields missed Jumper.,42,44,-2,0,0.3907343014424225,Georgia,Tennessee,5,6,0,0,NA,400910974,2017-02-05,
+240,4,9:52,592,1192,Meme Jackson Offensive Rebound.,42,44,-2,10,0.3907343014424225,Georgia,Tennessee,5,6,0,0,NA,400910974,2017-02-05,
+241,4,9:42,582,1182,Meme Jackson missed Two Point Tip Shot.,42,44,-2,0,0.38978351627922236,Georgia,Tennessee,5,6,0,0,NA,400910974,2017-02-05,
+242,4,9:42,582,1182,Mackenzie Engram Defensive Rebound.,42,44,-2,8,0.38978351627922236,Georgia,Tennessee,5,6,0,0,NA,400910974,2017-02-05,
+243,4,9:34,574,1174,Foul on Mercedes Russell.,42,44,-2,0,0.3889616468707398,Georgia,Tennessee,5,6,0,1,NA,400910974,2017-02-05,
+244,4,9:34,574,1174,Georgia  Timeout,42,44,-2,4,0.3889616468707398,Georgia,Tennessee,5,5,0,1,NA,400910974,2017-02-05,
+245,4,9:30,570,1170,Halle Washington made Jumper.,44,44,0,14,0.5,Georgia,Tennessee,5,5,0,1,NA,400910974,2017-02-05,Georgia
+246,4,9:16,556,1156,Diamond DeShields made Layup. Assisted by Mercedes Russell.,44,46,-2,15,0.38688477730795817,Georgia,Tennessee,5,5,0,1,NA,400910974,2017-02-05,Tennessee
+247,4,9:01,541,1141,Pachis Roberts missed Layup.,44,46,-2,0,0.384991838866865,Georgia,Tennessee,5,5,0,1,NA,400910974,2017-02-05,
+248,4,9:01,541,1141,Mackenzie Engram Offensive Rebound.,44,46,-2,14,0.384991838866865,Georgia,Tennessee,5,5,0,1,NA,400910974,2017-02-05,
+249,4,8:47,527,1127,Mackenzie Engram missed Layup.,44,46,-2,0,0.38345204698489327,Georgia,Tennessee,5,5,0,1,NA,400910974,2017-02-05,
+250,4,8:47,527,1127,Tennessee Defensive Rebound.,44,46,-2,22,0.38345204698489327,Georgia,Tennessee,5,5,0,1,NA,400910974,2017-02-05,
+251,4,8:25,505,1105,Foul on Pachis Roberts.,44,46,-2,0,0.38131935902138114,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+252,4,8:25,505,1105,Jordan Reynolds Turnover.,44,46,-2,0,0.38131935902138114,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+253,4,8:25,505,1105,Shanea Armbrister Steal.,44,46,-2,6,0.38131935902138114,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+254,4,8:19,499,1099,Caliya Robinson made Jumper.,46,46,0,22,0.5,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,Georgia
+255,4,7:57,477,1077,Meme Jackson missed Jumper.,46,46,0,0,0.5,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+256,4,7:57,477,1077,Shanea Armbrister Defensive Rebound.,46,46,0,19,0.5,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+257,4,7:38,458,1058,Foul on Haley Clark.,46,46,0,0,0.5,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+258,4,7:38,458,1058,Haley Clark Turnover.,46,46,0,13,0.5,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+259,4,7:25,445,1045,Jordan Reynolds Turnover.,46,46,0,0,0.5,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+260,4,7:25,445,1045,Shanea Armbrister Steal.,46,46,0,5,0.5,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+261,4,7:20,440,1040,Shanea Armbrister Turnover.,46,46,0,0,0.5,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+262,4,7:20,440,1040,Alexa Middleton Steal.,46,46,0,7,0.5,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+263,4,7:13,433,1033,Alexa Middleton Turnover.,46,46,0,8,0.5,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+264,4,7:05,425,1025,Haley Clark missed Jumper.,46,46,0,0,0.5,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+265,4,7:05,425,1025,Mercedes Russell Defensive Rebound.,46,46,0,22,0.5,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+266,4,6:43,403,1003,Mercedes Russell made Layup. Assisted by Jordan Reynolds.,46,48,-2,23,0.36686866465772916,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,Tennessee
+267,4,6:20,380,980,Mackenzie Engram made Jumper. Assisted by Haley Clark.,48,48,0,24,0.5,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,Georgia
+268,4,5:56,356,956,Alexa Middleton missed Three Point Jumper.,48,48,0,0,0.5,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+269,4,5:56,356,956,Tennessee Offensive Rebound.,48,48,0,7,0.5,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+270,4,5:49,349,949,Diamond DeShields Turnover.,48,48,0,0,0.5,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+271,4,5:49,349,949,Caliya Robinson Steal.,48,48,0,6,0.5,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+272,4,5:43,343,943,Shanea Armbrister missed Jumper.,48,48,0,0,0.5,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+273,4,5:43,343,943,Diamond DeShields Defensive Rebound.,48,48,0,15,0.5,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+274,4,5:28,328,928,Diamond DeShields made Jumper.,48,50,-2,0,0.3518247498724451,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,Tennessee
+275,4,5:28,328,928,Foul on Haley Clark.,48,50,-2,0,0.3518247498724451,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+276,4,5:28,328,928,Diamond DeShields made Free Throw.,48,51,-3,10,0.2856630320463963,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,Tennessee
+277,4,5:18,318,918,Caliya Robinson made Layup. Assisted by Mackenzie Engram.,50,51,-1,14,0.4226552510795707,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,Georgia
+278,4,5:04,304,904,Diamond DeShields Turnover.,50,51,-1,0,0.42037479835860536,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+279,4,5:04,304,904,Pachis Roberts Steal.,50,51,-1,24,0.42037479835860536,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+280,4,4:40,280,880,Official TV Timeout,50,51,-1,8,0.41966223084105103,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+281,4,4:32,272,872,Haley Clark Turnover.,50,51,-1,0,0.420087608139778,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+282,4,4:32,272,872,Mercedes Russell Steal.,50,51,-1,20,0.420087608139778,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+283,4,4:12,252,852,Foul on Caliya Robinson.,50,51,-1,2,0.42151656045265656,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+284,4,4:10,250,850,Jordan Reynolds made Jumper.,50,53,-3,0,0.27925767000058027,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,Tennessee
+285,4,4:10,250,850,Foul on Haley Clark.,50,53,-3,0,0.27925767000058027,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+286,4,4:10,250,850,Jordan Reynolds made Free Throw.,50,54,-4,18,0.22025246785269972,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,Tennessee
+287,4,3:52,232,832,Mackenzie Engram Turnover.,50,54,-4,0,0.22136978062252705,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+288,4,3:52,232,832,Diamond DeShields Steal.,50,54,-4,29,0.22136978062252705,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+289,4,3:23,203,803,Foul on Mercedes Russell.,50,54,-4,0,0.20883795556315396,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+290,4,3:23,203,803,Mercedes Russell Turnover.,50,54,-4,11,0.20883795556315396,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+291,4,3:12,192,792,Shanea Armbrister missed Three Point Jumper.,50,54,-4,0,0.19732940664358808,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+292,4,3:12,192,792,Mackenzie Engram Offensive Rebound.,50,54,-4,4,0.19732940664358808,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+293,4,3:08,188,788,Foul on Jaime Nared.,50,54,-4,5,0.19218378375470166,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+294,4,3:03,183,783,Haley Clark Turnover.,50,54,-4,0,0.1857712919140517,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+295,4,3:03,183,783,Diamond DeShields Steal.,50,54,-4,8,0.1857712919140517,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,
+296,4,2:55,175,775,Diamond DeShields made Layup.,50,56,-6,11,0.08960225713055708,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,Tennessee
+297,4,2:44,164,764,Caliya Robinson made Layup. Assisted by Haley Clark.,52,56,-4,3,0.16208963062679066,Georgia,Tennessee,5,5,0,0,NA,400910974,2017-02-05,Georgia
+298,4,2:41,161,761,Georgia  Timeout,52,56,-4,20,0.15838568305107115,Georgia,Tennessee,5,4,0,1,NA,400910974,2017-02-05,
+299,4,2:21,141,741,Diamond DeShields Turnover.,52,56,-4,0,0.13348487547702922,Georgia,Tennessee,5,4,0,1,NA,400910974,2017-02-05,
+300,4,2:21,141,741,Mackenzie Engram Steal.,52,56,-4,8,0.13348487547702922,Georgia,Tennessee,5,4,0,1,NA,400910974,2017-02-05,
+301,4,2:13,133,733,Foul on Pachis Roberts.,52,56,-4,0,0.12335688394650697,Georgia,Tennessee,5,4,0,1,NA,400910974,2017-02-05,
+302,4,2:13,133,733,Pachis Roberts Turnover.,52,56,-4,23,0.12335688394650697,Georgia,Tennessee,5,4,0,1,NA,400910974,2017-02-05,
+303,4,1:50,110,710,Jaime Nared missed Jumper.,52,56,-4,0,0.09392056016255101,Georgia,Tennessee,5,4,0,1,NA,400910974,2017-02-05,
+304,4,1:50,110,710,Mercedes Russell Offensive Rebound.,52,56,-4,5,0.09392056016255101,Georgia,Tennessee,5,4,0,1,NA,400910974,2017-02-05,
+305,4,1:45,105,705,Mercedes Russell made Two Point Tip Shot.,52,58,-6,11,0.028872085189977085,Georgia,Tennessee,5,4,0,1,NA,400910974,2017-02-05,Tennessee
+306,4,1:34,94,694,Caliya Robinson missed Three Point Jumper.,52,58,-6,0,0.022028926991169085,Georgia,Tennessee,5,4,0,0,NA,400910974,2017-02-05,
+307,4,1:34,94,694,Diamond DeShields Defensive Rebound.,52,58,-6,21,0.022028926991169085,Georgia,Tennessee,5,4,0,0,NA,400910974,2017-02-05,
+308,4,1:13,73,673,Diamond DeShields Turnover.,52,58,-6,0,0.012406270644301963,Georgia,Tennessee,5,4,0,0,NA,400910974,2017-02-05,
+309,4,1:13,73,673,Shanea Armbrister Steal.,52,58,-6,7,0.012406270644301963,Georgia,Tennessee,5,4,0,0,NA,400910974,2017-02-05,
+310,4,1:06,66,666,Pachis Roberts made Three Point Jumper. Assisted by Caliya Robinson.,55,58,-3,14,0.09149095596244212,Georgia,Tennessee,5,4,0,0,NA,400910974,2017-02-05,Georgia
+311,4,0:52,52,652,Tennessee  Timeout,55,58,-3,17,0.07438630717877999,Georgia,Tennessee,4,4,1,0,NA,400910974,2017-02-05,
+312,4,0:35,35,635,Jaime Nared missed Jumper.,55,58,-3,0,0.05621560241883562,Georgia,Tennessee,4,4,1,0,NA,400910974,2017-02-05,
+313,4,0:35,35,635,Mackenzie Engram Block.,55,58,-3,0,0.05621560241883562,Georgia,Tennessee,4,4,1,0,NA,400910974,2017-02-05,
+314,4,0:35,35,635,Tennessee Offensive Rebound.,55,58,-3,8,0.05621560241883562,Georgia,Tennessee,4,4,1,0,NA,400910974,2017-02-05,
+315,4,0:27,27,627,Diamond DeShields Turnover.,55,58,-3,0,0.04875167572884788,Georgia,Tennessee,4,4,1,1,NA,400910974,2017-02-05,
+316,4,0:27,27,627,Pachis Roberts Steal.,55,58,-3,0,0.04875167572884788,Georgia,Tennessee,4,4,1,1,NA,400910974,2017-02-05,
+317,4,0:27,27,627,Jump Ball won by Georgia,55,58,-3,0,0.04875167572884788,Georgia,Tennessee,4,4,1,1,NA,400910974,2017-02-05,
+318,4,0:27,27,627,Georgia  Timeout,55,58,-3,2,0.04875167572884788,Georgia,Tennessee,4,3,1,1,NA,400910974,2017-02-05,
+319,4,0:25,25,625,Shanea Armbrister missed Jumper.,55,58,-3,0,0.047005273609936685,Georgia,Tennessee,4,3,1,1,NA,400910974,2017-02-05,
+320,4,0:25,25,625,Georgia Offensive Rebound.,55,58,-3,8,0.047005273609936685,Georgia,Tennessee,4,3,1,1,NA,400910974,2017-02-05,
+321,4,0:17,17,617,Pachis Roberts missed Three Point Jumper.,55,58,-3,0,0.04043274873834274,Georgia,Tennessee,4,3,1,1,NA,400910974,2017-02-05,
+322,4,0:17,17,617,Caliya Robinson Offensive Rebound.,55,58,-3,3,0.04043274873834274,Georgia,Tennessee,4,3,1,1,NA,400910974,2017-02-05,
+323,4,0:14,14,614,Caliya Robinson made Layup.,57,58,-1,0,0.25424668313989673,Georgia,Tennessee,4,3,1,1,NA,400910974,2017-02-05,Georgia
+324,4,0:14,14,614,Foul on Mackenzie Engram.,57,58,-1,0,0.25424668313989673,Georgia,Tennessee,4,3,1,1,NA,400910974,2017-02-05,
+325,4,0:14,14,614,Jaime Nared missed Free Throw.,57,58,-1,0,0.25424668313989673,Georgia,Tennessee,4,3,1,1,NA,400910974,2017-02-05,
+326,4,0:14,14,614,Tennessee Deadball Team Rebound.,57,58,-1,0,0.25424668313989673,Georgia,Tennessee,4,3,1,1,NA,400910974,2017-02-05,
+327,4,0:14,14,614,Jaime Nared made Free Throw.,57,59,-2,4,0.10412770804069946,Georgia,Tennessee,4,3,1,1,NA,400910974,2017-02-05,Tennessee
+328,4,0:10,10,610,Foul on Meme Jackson.,57,59,-2,5,0.09903802686638556,Georgia,Tennessee,4,3,1,1,NA,400910974,2017-02-05,
+329,4,0:05,5,605,Haley Clark made Layup.,59,59,0,2,0.5,Georgia,Tennessee,4,3,1,1,NA,400910974,2017-02-05,Georgia
+330,4,0:03,3,603,Tennessee  Timeout,59,59,0,1,0.5,Georgia,Tennessee,3,3,1,1,NA,400910974,2017-02-05,
+331,4,0:02,2,602,Tennessee  Timeout,59,59,0,1,0.5,Georgia,Tennessee,2,3,1,1,NA,400910974,2017-02-05,
+332,4,0:01,1,601,Diamond DeShields Turnover.,59,59,0,0,0.5,Georgia,Tennessee,2,3,1,1,NA,400910974,2017-02-05,
+333,4,0:01,1,601,Caliya Robinson missed Jumper.,59,59,0,0,0.5,Georgia,Tennessee,2,3,1,1,NA,400910974,2017-02-05,
+334,4,0:01,1,601,Georgia Offensive Rebound.,59,59,0,1,0.5,Georgia,Tennessee,2,3,1,1,NA,400910974,2017-02-05,
+335,4,0:00,600,600,End of 4th Quarter,59,59,0,0,0.5,Georgia,Tennessee,2,3,0,0,NA,400910974,2017-02-05,
+336,5,5:00,600,600,Jump Ball won by Tennessee,59,59,0,26,0.5,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+337,5,4:34,274,574,Diamond DeShields missed Jumper.,59,59,0,0,0.5,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+338,5,4:34,274,574,Mackenzie Engram Defensive Rebound.,59,59,0,12,0.5,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+339,5,4:22,262,562,Caliya Robinson made Jumper. Assisted by Shanea Armbrister.,61,59,2,0,0.6545157026265247,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,Georgia
+340,5,4:22,262,562,Foul on Jaime Nared.,61,59,2,0,0.6545157026265247,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+341,5,4:22,262,562,Caliya Robinson missed Free Throw.,61,59,2,0,0.6545157026265247,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+342,5,4:22,262,562,Shanea Armbrister Offensive Rebound.,61,59,2,17,0.6545157026265247,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+343,5,4:05,245,545,Caliya Robinson Turnover.,61,59,2,22,0.6524921101664152,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+344,5,3:43,223,523,Mercedes Russell missed Layup.,61,59,2,0,0.6532352482125773,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+345,5,3:43,223,523,Caliya Robinson Block.,61,59,2,0,0.6532352482125773,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+346,5,3:43,223,523,Mackenzie Engram Defensive Rebound.,61,59,2,3,0.6532352482125773,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+347,5,3:40,220,520,Foul on Mercedes Russell.,61,59,2,0,0.653848578058123,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+348,5,3:40,220,520,Mackenzie Engram missed Free Throw.,61,59,2,0,0.653848578058123,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+349,5,3:40,220,520,Georgia Deadball Team Rebound.,61,59,2,0,0.653848578058123,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+350,5,3:40,220,520,Mackenzie Engram made Free Throw.,62,59,3,21,0.7219187411055621,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,Georgia
+351,5,3:19,199,499,Jordan Reynolds made Jumper.,62,61,1,12,0.5838569909956246,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,Tennessee
+352,5,3:07,187,487,Pachis Roberts missed Three Point Jumper.,62,61,1,0,0.5892963252820602,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+353,5,3:07,187,487,Tennessee Defensive Rebound.,62,61,1,27,0.5892963252820602,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+354,5,2:40,160,460,Diamond DeShields Turnover.,62,61,1,8,0.6034583749082761,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+355,5,2:32,152,452,Pachis Roberts made Three Point Jumper. Assisted by Haley Clark.,65,61,4,20,0.8527571399607713,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,Georgia
+356,5,2:12,132,432,Mercedes Russell made Layup. Assisted by Diamond DeShields.,65,63,2,17,0.7283803306563982,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,Tennessee
+357,5,1:55,115,415,Shanea Armbrister made Three Point Jumper. Assisted by Pachis Roberts.,68,63,5,21,0.9394683667375423,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,Georgia
+358,5,1:34,94,394,Alexa Middleton made Three Point Jumper. Assisted by Jordan Reynolds.,68,66,2,6,0.7797782423044805,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,Tennessee
+359,5,1:28,88,388,Tennessee  Timeout,68,66,2,3,0.7888254716774797,Georgia,Tennessee,2,4,1,0,NA,400910974,2017-02-05,
+360,5,1:25,85,385,Pachis Roberts missed Layup.,68,66,2,0,0.7933188845175988,Georgia,Tennessee,2,4,1,0,NA,400910974,2017-02-05,
+361,5,1:25,85,385,Mercedes Russell Defensive Rebound.,68,66,2,20,0.7933188845175988,Georgia,Tennessee,2,4,1,0,NA,400910974,2017-02-05,
+362,5,1:05,65,365,Alexa Middleton missed Three Point Jumper.,68,66,2,0,0.8235764790268921,Georgia,Tennessee,2,4,1,0,NA,400910974,2017-02-05,
+363,5,1:05,65,365,Caliya Robinson Defensive Rebound.,68,66,2,28,0.8235764790268921,Georgia,Tennessee,2,4,1,0,NA,400910974,2017-02-05,
+364,5,0:37,37,337,Mackenzie Engram missed Jumper.,68,66,2,0,0.8648259991000952,Georgia,Tennessee,2,4,1,0,NA,400910974,2017-02-05,
+365,5,0:37,37,337,Mercedes Russell Defensive Rebound.,68,66,2,13,0.8648259991000952,Georgia,Tennessee,2,4,1,0,NA,400910974,2017-02-05,
+366,5,0:24,24,324,Diamond DeShields made Jumper.,68,68,0,5,0.5,Georgia,Tennessee,2,4,0,0,NA,400910974,2017-02-05,Tennessee
+367,5,0:19,19,319,Georgia  Timeout,68,68,0,14,0.5,Georgia,Tennessee,2,3,0,1,NA,400910974,2017-02-05,
+368,5,0:05,5,305,Caliya Robinson Turnover.,68,68,0,3,0.5,Georgia,Tennessee,2,3,0,1,NA,400910974,2017-02-05,
+369,5,0:02,2,302,Diamond DeShields missed Jumper.,68,68,0,0,0.5,Georgia,Tennessee,2,3,0,1,NA,400910974,2017-02-05,
+370,5,0:02,2,302,Georgia Defensive Rebound.,68,68,0,2,0.5,Georgia,Tennessee,2,3,0,1,NA,400910974,2017-02-05,
+371,5,0:00,300,300,End of 1st Overtime,68,68,0,0,0.5,Georgia,Tennessee,2,3,0,0,NA,400910974,2017-02-05,
+372,6,5:00,300,300,Jump Ball won by Tennessee,68,68,0,22,0.5,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+373,6,4:38,278,278,Diamond DeShields made Jumper.,68,70,-2,11,0.34352906339574923,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,Tennessee
+374,6,4:27,267,267,Mackenzie Engram made Layup. Assisted by Shanea Armbrister.,70,70,0,19,0.5,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,Georgia
+375,6,4:08,248,248,Mercedes Russell made Layup. Assisted by Jordan Reynolds.,70,72,-2,5,0.34724224173894624,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,Tennessee
+376,6,4:03,243,243,Haley Clark Turnover.,70,72,-2,0,0.3476499683116708,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+377,6,4:03,243,243,Alexa Middleton Steal.,70,72,-2,3,0.3476499683116708,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+378,6,4:00,240,240,Foul on Haley Clark.,70,72,-2,0,0.3478021846912398,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+379,6,4:00,240,240,Alexa Middleton missed Free Throw.,70,72,-2,0,0.3478021846912398,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+380,6,4:00,240,240,Tennessee Deadball Team Rebound.,70,72,-2,0,0.3478021846912398,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+381,6,4:00,240,240,Alexa Middleton made Free Throw.,70,73,-3,9,0.2802804233332634,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,Tennessee
+382,6,3:51,231,231,Foul on Meme Jackson.,70,73,-3,0,0.28016424070727675,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+383,6,3:51,231,231,Simone Costa made Free Throw.,71,73,-2,0,0.3477150812966067,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,Georgia
+384,6,3:51,231,231,Simone Costa made Free Throw.,72,73,-1,25,0.4220047641071278,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,Georgia
+385,6,3:26,206,206,Diamond DeShields Turnover.,72,73,-1,15,0.41840390624365126,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+386,6,3:11,191,191,Pachis Roberts made Jumper.,74,73,1,20,0.5872848243964089,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,Georgia
+387,6,2:51,171,171,Mercedes Russell made Layup. Assisted by Alexa Middleton.,74,75,-1,27,0.40249198633972455,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,Tennessee
+388,6,2:24,144,144,Shanea Armbrister made Jumper. Assisted by Pachis Roberts.,76,75,1,23,0.6129115732288086,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,Georgia
+389,6,2:01,121,121,Meme Jackson missed Three Point Jumper.,76,75,1,0,0.628970260777508,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+390,6,2:01,121,121,Shanea Armbrister Defensive Rebound.,76,75,1,29,0.628970260777508,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+391,6,1:32,92,92,Caliya Robinson made Jumper.,78,75,3,20,0.8724900514849765,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,Georgia
+392,6,1:12,72,72,Diamond DeShields missed Three Point Jumper.,78,75,3,0,0.9005663705991794,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+393,6,1:12,72,72,Mackenzie Engram Defensive Rebound.,78,75,3,32,0.9005663705991794,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+394,6,0:40,40,40,Shanea Armbrister missed Three Point Jumper.,78,75,3,0,0.9387459605508862,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+395,6,0:40,40,40,Caliya Robinson Offensive Rebound.,78,75,3,4,0.9387459605508862,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,
+396,6,0:36,36,36,Caliya Robinson made Layup.,80,75,5,7,0.9907190582980734,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,Georgia
+397,6,0:29,29,29,Diamond DeShields made Three Point Jumper. Assisted by Jordan Reynolds.,80,78,2,1,0.8760266316386648,Georgia,Tennessee,3,4,0,0,NA,400910974,2017-02-05,Tennessee
+398,6,0:28,28,28,Tennessee  Timeout,80,78,2,14,0.877394678444368,Georgia,Tennessee,2,4,1,0,NA,400910974,2017-02-05,
+399,6,0:14,14,14,Foul on Meme Jackson.,80,78,2,0,0.8958722919593005,Georgia,Tennessee,2,4,1,0,NA,400910974,2017-02-05,
+400,6,0:14,14,14,Simone Costa made Free Throw.,81,78,3,0,0.9618843639125265,Georgia,Tennessee,2,4,1,0,NA,400910974,2017-02-05,Georgia
+401,6,0:14,14,14,Simone Costa missed Free Throw.,81,78,3,0,0.9618843639125265,Georgia,Tennessee,2,4,1,0,NA,400910974,2017-02-05,
+402,6,0:14,14,14,Diamond DeShields Defensive Rebound.,81,78,3,7,0.9618843639125265,Georgia,Tennessee,2,4,1,0,NA,400910974,2017-02-05,
+403,6,0:07,7,7,Jordan Reynolds missed Three Point Jumper.,81,78,3,0,0.9669414740491673,Georgia,Tennessee,2,4,1,0,NA,400910974,2017-02-05,
+404,6,0:07,7,7,Jordan Reynolds Offensive Rebound.,81,78,3,4,0.9669414740491673,Georgia,Tennessee,2,4,1,0,NA,400910974,2017-02-05,
+405,6,0:03,3,3,Jordan Reynolds missed Three Point Jumper.,81,78,3,0,0.9695991517630681,Georgia,Tennessee,2,4,1,0,NA,400910974,2017-02-05,
+406,6,0:03,3,3,Caliya Robinson Defensive Rebound.,81,78,3,3,0.9695991517630681,Georgia,Tennessee,2,4,1,0,NA,400910974,2017-02-05,
+407,6,0:00,0,0,End of Game,81,78,3,0,1,Georgia,Tennessee,2,4,1,0,NA,400910974,2017-02-05,

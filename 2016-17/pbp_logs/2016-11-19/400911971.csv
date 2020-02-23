@@ -1,0 +1,353 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:44,2384,2384,Taylor Johnson missed Layup.,0,0,0,0,0.5,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,NA
+2,1,9:44,2384,2384,Abby Siefker Defensive Rebound.,0,0,0,12,0.5,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+3,1,9:32,2372,2372,Sydney Lambert Turnover.,0,0,0,1,0.5,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+4,1,9:31,2371,2371,Taylor Johnson Steal.,0,0,0,3,0.5,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+5,1,9:28,2368,2368,Asia Durr made Layup. Assisted by Taylor Johnson.,2,0,2,12,0.5447034963388572,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Louisville
+6,1,9:16,2356,2356,Sydney Lambert made Jumper.,2,2,0,15,0.5,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Bowling Green
+7,1,9:01,2341,2341,Ciera Johnson missed Jumper.,2,2,0,0,0.5,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+8,1,9:01,2341,2341,Carly Santoro Defensive Rebound.,2,2,0,19,0.5,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+9,1,8:42,2322,2322,Rachel Myers missed Jumper.,2,2,0,0,0.5,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+10,1,8:42,2322,2322,Asia Durr Defensive Rebound.,2,2,0,15,0.5,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+11,1,8:27,2307,2307,Ciera Johnson made Layup. Assisted by Myisha Hines-Allen.,4,2,2,0,0.5460321953134282,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Louisville
+12,1,8:27,2307,2307,Foul on Abby Siefker.,4,2,2,0,0.5460321953134282,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+13,1,8:27,2307,2307,Ciera Johnson missed Free Throw.,4,2,2,0,0.5460321953134282,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+14,1,8:27,2307,2307,Ashley Tunstall Defensive Rebound.,4,2,2,14,0.5460321953134282,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+15,1,8:13,2293,2293,Abby Siefker Turnover.,4,2,2,12,0.5463431431926905,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+16,1,8:01,2281,2281,Myisha Hines-Allen made Jumper. Assisted by Mariya Moore.,6,2,4,12,0.5924192673498265,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Louisville
+17,1,7:49,2269,2269,Rachel Myers missed Three Point Jumper.,6,2,4,0,0.592944145667179,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+18,1,7:49,2269,2269,Rachel Myers Offensive Rebound.,6,2,4,5,0.592944145667179,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+19,1,7:44,2264,2264,Carly Santoro made Three Point Jumper. Assisted by Rachel Myers.,6,5,1,11,0.5235487387520344,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Bowling Green
+20,1,7:33,2253,2253,Asia Durr missed Three Point Jumper.,6,5,1,0,0.5236738188039088,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+21,1,7:33,2253,2253,Myisha Hines-Allen Offensive Rebound.,6,5,1,6,0.5236738188039088,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+22,1,7:27,2247,2247,Asia Durr made Three Point Jumper. Assisted by Myisha Hines-Allen.,9,5,4,15,0.5939121489487891,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Louisville
+23,1,7:12,2232,2232,Rachel Myers missed Three Point Jumper.,9,5,4,0,0.5945759284567792,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+24,1,7:12,2232,2232,Asia Durr Defensive Rebound.,9,5,4,14,0.5945759284567792,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+25,1,6:58,2218,2218,Asia Durr made Three Point Jumper. Assisted by Ciera Johnson.,12,5,7,16,0.6625362334214253,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Louisville
+26,1,6:42,2202,2202,Sydney Lambert Turnover.,12,5,7,10,0.6636938599520162,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+27,1,6:32,2192,2192,Mariya Moore missed Jumper.,12,5,7,0,0.6644185918808589,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+28,1,6:32,2192,2192,Haley Puk Defensive Rebound.,12,5,7,24,0.6644185918808589,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+29,1,6:08,2168,2168,Carly Santoro missed Three Point Jumper.,12,5,7,0,0.6661606162565918,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+30,1,6:08,2168,2168,Mariya Moore Defensive Rebound.,12,5,7,3,0.6661606162565918,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+31,1,6:05,2165,2165,Foul on Abby Siefker.,12,5,7,20,0.6663786738491306,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+32,1,5:45,2145,2145,Asia Durr missed Three Point Jumper.,12,5,7,0,0.6678361846344678,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+33,1,5:45,2145,2145,Carly Santoro Defensive Rebound.,12,5,7,16,0.6678361846344678,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+34,1,5:29,2129,2129,Haley Puk made Three Point Jumper. Assisted by Carly Santoro.,12,8,4,15,0.599195349539166,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Bowling Green
+35,1,5:14,2114,2114,Myisha Hines-Allen made Jumper. Assisted by Taylor Johnson.,14,8,6,12,0.6473568756391959,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Louisville
+36,1,5:02,2102,2102,Bowling Green  Timeout,14,8,6,11,0.6481406274433213,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+37,1,4:51,2091,2091,Haley Puk Turnover.,14,8,6,8,0.6488617609998623,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+38,1,4:43,2083,2083,Mariya Moore missed Three Point Jumper.,14,8,6,0,0.6493879071369723,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+39,1,4:43,2083,2083,Clare Glowniak Defensive Rebound.,14,8,6,18,0.6493879071369723,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+40,1,4:25,2065,2065,Clare Glowniak Turnover.,14,8,6,17,0.6505771684455451,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+41,1,4:08,2048,2048,Mariya Moore missed Jumper.,14,8,6,0,0.6517076236015316,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+42,1,4:08,2048,2048,Caterrion Thompson Defensive Rebound.,14,8,6,29,0.6517076236015316,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+43,1,3:39,2019,2019,Clare Glowniak missed Jumper.,14,8,6,0,0.6536535143115614,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+44,1,3:39,2019,2019,Bionca Dunham Defensive Rebound.,14,8,6,19,0.6536535143115614,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+45,1,3:20,2000,2000,Foul on Maddie Cole.,14,8,6,1,0.6549411613245076,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+46,1,3:19,1999,1999,Myisha Hines-Allen made Jumper. Assisted by Briahanna Jackson.,16,8,8,15,0.7015819149026303,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Louisville
+47,1,3:04,1984,1984,Rachel Konieczki Turnover.,16,8,8,1,0.7028469759416058,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+48,1,3:03,1983,1983,Myisha Hines-Allen Steal.,16,8,8,3,0.7029315697151935,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+49,1,3:00,1980,1980,Briahanna Jackson made Layup. Assisted by Myisha Hines-Allen.,18,8,10,13,0.7461422095824963,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Louisville
+50,1,2:47,1967,1967,Rachel Myers made Jumper.,18,10,8,10,0.7042895562463658,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Bowling Green
+51,1,2:37,1957,1957,Mariya Moore missed Three Point Jumper.,18,10,8,0,0.7051426879860255,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+52,1,2:37,1957,1957,Jazmine Jones Offensive Rebound.,18,10,8,6,0.7051426879860255,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+53,1,2:31,1951,1951,Foul on Rachel Konieczki.,18,10,8,15,0.7056562321980129,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+54,1,2:16,1936,1936,Briahanna Jackson missed Three Point Jumper.,18,10,8,0,0.7069456951111333,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+55,1,2:16,1936,1936,Ashley Tunstall Defensive Rebound.,18,10,8,16,0.7069456951111333,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+56,1,2:00,1920,1920,Sydney Lambert made Three Point Jumper. Assisted by Ashley Tunstall.,18,13,5,18,0.6351893613636804,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Bowling Green
+57,1,1:42,1902,1902,Bionca Dunham Turnover.,18,13,5,12,0.636274801668064,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+58,1,1:30,1890,1890,Clare Glowniak Turnover.,18,13,5,1,0.6369971648359438,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+59,1,1:29,1889,1889,Briahanna Jackson Steal.,18,13,5,8,0.6370573402665893,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+60,1,1:21,1881,1881,Mariya Moore Turnover.,18,13,5,9,0.6375387149302355,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+61,1,1:12,1872,1872,Sydney Lambert Turnover.,18,13,5,13,0.6380803643782997,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+62,1,0:59,1859,1859,Kylee Shook made Jumper. Assisted by Jazmine Jones.,20,13,7,18,0.6896767326124639,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Louisville
+63,1,0:41,1841,1841,Ashley Tunstall missed Three Point Jumper.,20,13,7,0,0.6910875280761307,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+64,1,0:41,1841,1841,Jazmine Jones Defensive Rebound.,20,13,7,11,0.6910875280761307,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+65,1,0:30,1830,1830,Kylee Shook missed Jumper.,20,13,7,0,0.6919518667519139,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+66,1,0:30,1830,1830,Jazmine Jones Offensive Rebound.,20,13,7,4,0.6919518667519139,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+67,1,0:26,1826,1826,Jazmine Jones made Two Point Tip Shot.,22,13,9,12,0.7393084562541333,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Louisville
+68,1,0:14,1814,1814,Caterrion Thompson made Three Point Jumper. Assisted by Ashley Tunstall.,22,16,6,12,0.6679063263790403,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Bowling Green
+69,1,0:02,1802,1802,Mariya Moore missed Three Point Jumper.,22,16,6,0,0.6687563666720667,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+70,1,0:02,1802,1802,Ashley Tunstall Defensive Rebound.,22,16,6,2,0.6687563666720667,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+71,1,0:00,1800,1800,End of 1st Quarter,22,16,6,10,0.6688984611571205,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+72,2,9:50,1790,1790,Foul on Sydney Lambert.,22,16,6,0,0.6696109298538268,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+73,2,9:50,1790,1790,Sydney Lambert Turnover.,22,16,6,18,0.6696109298538268,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+74,2,9:32,1772,1772,Jazmine Jones missed Jumper.,22,16,6,0,0.6709027582851192,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+75,2,9:32,1772,1772,Ashley Tunstall Defensive Rebound.,22,16,6,27,0.6709027582851192,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+76,2,9:05,1745,1745,Sydney Lambert Turnover.,22,16,6,16,0.6728675145441483,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+77,2,8:49,1729,1729,Kylee Shook Turnover.,22,16,6,1,0.6740498420550047,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+78,2,8:48,1728,1728,Sydney Lambert Steal.,22,16,6,9,0.6741242312276159,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+79,2,8:39,1719,1719,Andrea Cecil missed Three Point Jumper.,22,16,6,0,0.6747964973088836,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+80,2,8:39,1719,1719,Jazmine Jones Defensive Rebound.,22,16,6,4,0.6747964973088836,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+81,2,8:35,1715,1715,Foul on Abby Siefker.,22,16,6,14,0.6750969253349562,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+82,2,8:21,1701,1701,Sam Fuehring missed Jumper.,22,16,6,0,0.6761568178968506,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+83,2,8:21,1701,1701,Carly Santoro Defensive Rebound.,22,16,6,30,0.6761568178968506,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+84,2,7:51,1671,1671,Carly Santoro missed Three Point Jumper.,22,16,6,0,0.6784393191307959,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+85,2,7:51,1671,1671,Asia Durr Block.,22,16,6,1,0.6784393191307959,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+86,2,7:50,1670,1670,Sam Fuehring Defensive Rebound.,22,16,6,21,0.6785139519314121,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+87,2,7:29,1649,1649,Jazmine Jones Turnover.,22,16,6,18,0.680059102721806,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+88,2,7:11,1631,1631,Andrea Cecil missed Three Point Jumper.,22,16,6,0,0.681356737972413,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+89,2,7:11,1631,1631,Sam Fuehring Defensive Rebound.,22,16,6,21,0.681356737972413,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+90,2,6:50,1610,1610,Foul on Sam Fuehring.,22,16,6,0,0.6828513181021848,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+91,2,6:50,1610,1610,Sam Fuehring Turnover.,22,16,6,0,0.6828513181021848,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+92,2,6:50,1610,1610,Technical Foul on Louisville.,22,16,6,0,0.6828513181021848,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+93,2,6:50,1610,1610,Foul on Louisville.,22,16,6,0,0.6828513181021848,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+94,2,6:50,1610,1610,Carly Santoro missed Free Throw.,22,16,6,0,0.6828513181021848,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+95,2,6:50,1610,1610,Bowling Green Deadball Team Rebound.,22,16,6,0,0.6828513181021848,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+96,2,6:50,1610,1610,Carly Santoro made Free Throw.,22,17,5,15,0.6545474336738849,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Bowling Green
+97,2,6:35,1595,1595,Foul on Clare Glowniak.,22,17,5,0,0.6554715491223534,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+98,2,6:35,1595,1595,Clare Glowniak Turnover.,22,17,5,24,0.6554715491223534,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+99,2,6:11,1571,1571,Kylee Shook missed Layup.,22,17,5,0,0.6569541507530707,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+100,2,6:11,1571,1571,Kylee Shook Offensive Rebound.,22,17,5,2,0.6569541507530707,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+101,2,6:09,1569,1569,Kylee Shook made Two Point Tip Shot.,24,17,7,13,0.7130864812886503,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Louisville
+102,2,5:56,1556,1556,Foul on Asia Durr.,24,17,7,11,0.7141174353266362,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+103,2,5:45,1545,1545,Caterrion Thompson missed Jumper.,24,17,7,0,0.7149976879415763,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+104,2,5:45,1545,1545,Briahanna Jackson Defensive Rebound.,24,17,7,13,0.7149976879415763,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+105,2,5:32,1532,1532,Briahanna Jackson missed Three Point Jumper.,24,17,7,0,0.716050274568683,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+106,2,5:32,1532,1532,Kylee Shook Offensive Rebound.,24,17,7,5,0.716050274568683,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+107,2,5:27,1527,1527,Asia Durr missed Jumper.,24,17,7,0,0.7164593205519106,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+108,2,5:27,1527,1527,Carly Santoro Defensive Rebound.,24,17,7,12,0.7164593205519106,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+109,2,5:15,1515,1515,Carly Santoro Turnover.,24,17,7,0,0.7174520982534881,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+110,2,5:15,1515,1515,Briahanna Jackson Steal.,24,17,7,16,0.7174520982534881,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+111,2,4:59,1499,1499,Asia Durr missed Three Point Jumper.,24,17,7,0,0.7188037824889052,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+112,2,4:59,1499,1499,Kylee Shook Offensive Rebound.,24,17,7,4,0.7188037824889052,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+113,2,4:55,1495,1495,Foul on Clare Glowniak.,24,17,7,0,0.7191473315621315,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+114,2,4:55,1495,1495,Official TV Timeout,24,17,7,3,0.7191473315621315,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+115,2,4:52,1492,1492,Kylee Shook missed Jumper.,24,17,7,0,0.7194065889304916,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+116,2,4:52,1492,1492,Rachel Konieczki Defensive Rebound.,24,17,7,20,0.7194065889304916,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+117,2,4:32,1472,1472,Taylor Johnson Defensive Rebound.,24,17,7,0,0.7211729305739936,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+118,2,4:32,1472,1472,Jane Uecker missed Jumper.,24,17,7,7,0.7211729305739936,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+119,2,4:25,1465,1465,Foul on Rachel Myers.,24,17,7,0,0.7218081082803176,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+120,2,4:25,1465,1465,Asia Durr made Free Throw.,25,17,8,0,0.7483167647133098,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Louisville
+121,2,4:25,1465,1465,Asia Durr made Free Throw.,26,17,9,9,0.7730935001622736,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Louisville
+122,2,4:16,1456,1456,Jane Uecker made Jumper. Assisted by Caterrion Thompson.,26,19,7,16,0.7226389181343587,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Bowling Green
+123,2,4:00,1440,1440,Briahanna Jackson missed Three Point Jumper.,26,19,7,0,0.7241355910363203,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+124,2,4:00,1440,1440,Ciera Johnson Offensive Rebound.,26,19,7,4,0.7241355910363203,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+125,2,3:56,1436,1436,Ciera Johnson missed Layup.,26,19,7,0,0.7245028845508952,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+126,2,3:56,1436,1436,Rachel Myers Defensive Rebound.,26,19,7,2,0.7245028845508952,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+127,2,3:54,1434,1434,Rachel Myers Turnover.,26,19,7,4,0.7246853154853432,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+128,2,3:50,1430,1430,Briahanna Jackson made Jumper. Assisted by Asia Durr.,28,19,9,0,0.7767247624563923,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Louisville
+129,2,3:50,1430,1430,Foul on Jane Uecker.,28,19,9,0,0.7767247624563923,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+130,2,3:50,1430,1430,Briahanna Jackson made Free Throw.,29,19,10,0,0.7998249865267786,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Louisville
+131,2,3:50,1430,1430,Bowling Green  Turnover.,29,19,10,14,0.7998249865267786,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+132,2,3:36,1416,1416,Myisha Hines-Allen made Jumper.,31,19,12,20,0.8419726081670811,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Louisville
+133,2,3:16,1396,1396,Caterrion Thompson made Three Point Jumper.,31,22,9,18,0.780052678579749,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Bowling Green
+134,2,2:58,1378,1378,Myisha Hines-Allen missed Jumper.,31,22,9,0,0.7817554909366219,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+135,2,2:58,1378,1378,Myisha Hines-Allen Offensive Rebound.,31,22,9,3,0.7817554909366219,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+136,2,2:55,1375,1375,Myisha Hines-Allen missed Jumper.,31,22,9,0,0.7820371147482509,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+137,2,2:55,1375,1375,Bionca Dunham Offensive Rebound.,31,22,9,7,0.7820371147482509,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+138,2,2:48,1368,1368,Briahanna Jackson missed Jumper.,31,22,9,0,0.7826928125884156,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+139,2,2:48,1368,1368,Sydney Lambert Defensive Rebound.,31,22,9,9,0.7826928125884156,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+140,2,2:39,1359,1359,Ashley Tunstall made Layup. Assisted by Sydney Lambert.,31,24,7,13,0.7311607828278865,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Bowling Green
+141,2,2:26,1346,1346,Asia Durr made Three Point Jumper. Assisted by Myisha Hines-Allen.,34,24,10,34,0.8080361656220811,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Louisville
+142,2,1:52,1312,1312,Sydney Lambert made Jumper.,34,26,8,7,0.762590767080205,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Bowling Green
+143,2,1:45,1305,1305,Asia Durr made Jumper.,36,26,10,19,0.812022820826896,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Louisville
+144,2,1:26,1286,1286,Carly Santoro missed Three Point Jumper.,36,26,10,0,0.8139462835293458,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+145,2,1:26,1286,1286,Myisha Hines-Allen Defensive Rebound.,36,26,10,7,0.8139462835293458,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+146,2,1:19,1279,1279,Myisha Hines-Allen missed Jumper.,36,26,10,0,0.8146726736237693,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+147,2,1:19,1279,1279,Jane Uecker Defensive Rebound.,36,26,10,20,0.8146726736237693,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+148,2,0:59,1259,1259,Ashley Tunstall Turnover.,36,26,10,1,0.8168116624654147,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+149,2,0:58,1258,1258,Briahanna Jackson Steal.,36,26,10,8,0.8169213366880511,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+150,2,0:50,1250,1250,Briahanna Jackson missed Jumper.,36,26,10,0,0.8178089469325381,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+151,2,0:50,1250,1250,Ciera Johnson Offensive Rebound.,36,26,10,4,0.8178089469325381,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+152,2,0:46,1246,1246,Ciera Johnson missed Layup.,36,26,10,0,0.8182598185732238,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+153,2,0:46,1246,1246,Caterrion Thompson Defensive Rebound.,36,26,10,17,0.8182598185732238,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+154,2,0:29,1229,1229,Foul on Ciera Johnson.,36,26,10,0,0.8202327281074044,Louisville,Bowling Green,4,4,0,1,NA,400911971,2016-11-19,
+155,2,0:29,1229,1229,Jane Uecker made Free Throw.,36,27,9,0,0.7967545870661402,Louisville,Bowling Green,4,4,0,1,NA,400911971,2016-11-19,Bowling Green
+156,2,0:29,1229,1229,Louisville  Timeout,36,27,9,0,0.7967545870661402,Louisville,Bowling Green,4,3,0,1,NA,400911971,2016-11-19,
+157,2,0:29,1229,1229,Jane Uecker missed Free Throw.,36,27,9,0,0.7967545870661402,Louisville,Bowling Green,4,3,0,1,NA,400911971,2016-11-19,
+158,2,0:29,1229,1229,Taylor Johnson Defensive Rebound.,36,27,9,18,0.7967545870661402,Louisville,Bowling Green,4,3,0,1,NA,400911971,2016-11-19,
+159,2,0:11,1211,1211,Asia Durr missed Three Point Jumper.,36,27,9,0,0.7989293652779765,Louisville,Bowling Green,4,3,0,1,NA,400911971,2016-11-19,
+160,2,0:11,1211,1211,Haley Puk Defensive Rebound.,36,27,9,11,0.7989293652779765,Louisville,Bowling Green,4,3,0,1,NA,400911971,2016-11-19,
+161,2,0:00,1200,1200,Sydney Lambert missed Three Point Jumper.,36,27,9,0,0.8002839754918194,Louisville,Bowling Green,4,3,0,1,NA,400911971,2016-11-19,
+162,2,0:00,1200,1200,Myisha Hines-Allen Defensive Rebound.,36,27,9,0,0.8002839754918194,Louisville,Bowling Green,4,3,0,1,NA,400911971,2016-11-19,
+163,2,0:00,1200,1200,End of 2nd Quarter,36,27,9,6,0.8002839754918194,Louisville,Bowling Green,4,3,0,1,NA,400911971,2016-11-19,
+164,3,9:54,1194,1194,Asia Durr made Three Point Jumper. Assisted by Mariya Moore.,39,27,12,11,0.8649240609384916,Louisville,Bowling Green,5,4,0,0,NA,400911971,2016-11-19,Louisville
+165,3,9:43,1183,1183,Bowling Green  Turnover.,39,27,12,21,0.8661943574363167,Louisville,Bowling Green,5,4,0,0,NA,400911971,2016-11-19,
+166,3,9:22,1162,1162,Asia Durr made Three Point Jumper. Assisted by Mariya Moore.,42,27,15,12,0.9137364682472507,Louisville,Bowling Green,5,4,0,0,NA,400911971,2016-11-19,Louisville
+167,3,9:10,1150,1150,Sydney Lambert Turnover.,42,27,15,1,0.9148606722136299,Louisville,Bowling Green,5,4,0,0,NA,400911971,2016-11-19,
+168,3,9:09,1149,1149,Mariya Moore Steal.,42,27,15,6,0.9149534397260788,Louisville,Bowling Green,5,4,0,0,NA,400911971,2016-11-19,
+169,3,9:03,1143,1143,Asia Durr made Three Point Jumper. Assisted by Mariya Moore.,45,27,18,3,0.9458014999233707,Louisville,Bowling Green,5,4,0,0,NA,400911971,2016-11-19,Louisville
+170,3,9:00,1140,1140,Bowling Green  Timeout,45,27,18,3,0.9460205565370954,Louisville,Bowling Green,4,4,1,0,NA,400911971,2016-11-19,
+171,3,8:57,1137,1137,Abby Siefker Turnover.,45,27,18,0,0.9462387447340392,Louisville,Bowling Green,4,4,1,0,NA,400911971,2016-11-19,
+172,3,8:57,1137,1137,Myisha Hines-Allen Steal.,45,27,18,3,0.9462387447340392,Louisville,Bowling Green,4,4,1,0,NA,400911971,2016-11-19,
+173,3,8:54,1134,1134,Asia Durr made Jumper.,47,27,20,11,0.9605078157064276,Louisville,Bowling Green,4,4,1,0,NA,400911971,2016-11-19,Louisville
+174,3,8:43,1123,1123,Ashley Tunstall Turnover.,47,27,20,1,0.9611653231348402,Louisville,Bowling Green,4,4,1,0,NA,400911971,2016-11-19,
+175,3,8:42,1122,1122,Mariya Moore Steal.,47,27,20,13,0.9612247218378057,Louisville,Bowling Green,4,4,1,0,NA,400911971,2016-11-19,
+176,3,8:29,1109,1109,Asia Durr made Layup. Assisted by Mariya Moore.,49,27,22,23,0.9721953302586385,Louisville,Bowling Green,4,4,1,0,NA,400911971,2016-11-19,Louisville
+177,3,8:06,1086,1086,Abby Siefker missed Jumper.,49,27,22,0,0.9732903810622467,Louisville,Bowling Green,4,4,1,0,NA,400911971,2016-11-19,
+178,3,8:06,1086,1086,Ciera Johnson Block.,49,27,22,0,0.9732903810622467,Louisville,Bowling Green,4,4,1,0,NA,400911971,2016-11-19,
+179,3,8:06,1086,1086,Bowling Green Offensive Rebound.,49,27,22,5,0.9732903810622467,Louisville,Bowling Green,4,4,1,0,NA,400911971,2016-11-19,
+180,3,8:01,1081,1081,Foul on Ciera Johnson.,49,27,22,0,0.9735278696347974,Louisville,Bowling Green,4,4,1,0,NA,400911971,2016-11-19,
+181,3,8:01,1081,1081,Rachel Myers made Free Throw.,49,28,21,0,0.9689609393482859,Louisville,Bowling Green,4,4,1,0,NA,400911971,2016-11-19,Bowling Green
+182,3,8:01,1081,1081,Rachel Myers made Free Throw.,49,29,20,20,0.9636355593065962,Louisville,Bowling Green,4,4,1,0,NA,400911971,2016-11-19,Bowling Green
+183,3,7:41,1061,1061,Ciera Johnson Turnover.,49,29,20,0,0.9648158027165791,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+184,3,7:41,1061,1061,Maddie Cole Turnover.,49,29,20,2,0.9648158027165791,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+185,3,7:39,1059,1059,Asia Durr made Three Point Jumper. Assisted by Taylor Johnson.,52,29,23,11,0.9783756807319494,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,Louisville
+186,3,7:28,1048,1048,Sydney Lambert Turnover.,52,29,23,1,0.9788478082977728,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+187,3,7:27,1047,1047,Taylor Johnson Steal.,52,29,23,1,0.9788909046484351,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+188,3,7:26,1046,1046,Bionca Dunham missed Layup.,52,29,23,0,0.9789340336562563,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+189,3,7:26,1046,1046,Maddie Cole Defensive Rebound.,52,29,23,9,0.9789340336562563,Louisville,Bowling Green,4,4,0,0,NA,400911971,2016-11-19,
+190,3,7:17,1037,1037,Bowling Green  Timeout,52,29,23,0,0.979323784015071,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+191,3,7:17,1037,1037,Maddie Cole Turnover.,52,29,23,3,0.979323784015071,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+192,3,7:14,1034,1034,Myisha Hines-Allen made Layup.,54,29,25,6,0.9852314794715866,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,Louisville
+193,3,7:08,1028,1028,Foul on Mariya Moore.,54,29,25,1,0.9854375400122126,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+194,3,7:07,1027,1027,Ashley Tunstall Turnover.,54,29,25,1,0.9854719794512186,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+195,3,7:06,1026,1026,Myisha Hines-Allen Steal.,54,29,25,2,0.9855064474182972,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+196,3,7:04,1024,1024,Myisha Hines-Allen missed Jumper.,54,29,25,0,0.9855754704944942,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+197,3,7:04,1024,1024,Myisha Hines-Allen Offensive Rebound.,54,29,25,5,0.9855754704944942,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+198,3,6:59,1019,1019,Mariya Moore missed Jumper.,54,29,25,0,0.9857485537967235,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+199,3,6:59,1019,1019,Sydney Lambert Block.,54,29,25,2,0.9857485537967235,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+200,3,6:57,1017,1017,Louisville Offensive Rebound.,54,29,25,4,0.9858180046935225,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+201,3,6:53,1013,1013,Asia Durr missed Three Point Jumper.,54,29,25,0,0.9859572936179625,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+202,3,6:53,1013,1013,Sydney Lambert Defensive Rebound.,54,29,25,4,0.9859572936179625,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+203,3,6:49,1009,1009,Foul on Briahanna Jackson.,54,29,25,11,0.9860971141558363,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+204,3,6:38,998,998,Rachel Myers made Three Point Jumper. Assisted by Abby Siefker.,54,32,22,18,0.9775875774735567,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,Bowling Green
+205,3,6:20,980,980,Foul on Rachel Myers.,54,32,22,0,0.9785210919037842,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+206,3,6:20,980,980,Myisha Hines-Allen missed Free Throw.,54,32,22,0,0.9785210919037842,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+207,3,6:20,980,980,Louisville Deadball Team Rebound.,54,32,22,0,0.9785210919037842,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,
+208,3,6:20,980,980,Myisha Hines-Allen made Free Throw.,55,32,23,17,0.9818819159404625,Louisville,Bowling Green,3,4,1,0,NA,400911971,2016-11-19,Louisville
+209,3,6:03,963,963,Rachel Myers made Jumper.,55,34,21,20,0.9755578940762409,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Bowling Green
+210,3,5:43,943,943,Mariya Moore missed Three Point Jumper.,55,34,21,0,0.9766104570228549,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+211,3,5:43,943,943,Sam Fuehring Offensive Rebound.,55,34,21,6,0.9766104570228549,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+212,3,5:37,937,937,Asia Durr made Three Point Jumper. Assisted by Sam Fuehring.,58,34,24,8,0.986338137216643,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Louisville
+213,3,5:29,929,929,Foul on Carly Santoro.,58,34,24,0,0.9865881143168428,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+214,3,5:29,929,929,Carly Santoro Turnover.,58,34,24,17,0.9865881143168428,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+215,3,5:12,912,912,Foul on Sam Fuehring.,58,34,24,0,0.9870816005354454,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+216,3,5:12,912,912,Sam Fuehring Turnover.,58,34,24,16,0.9870816005354454,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+217,3,4:56,896,896,Foul on Sam Fuehring.,58,34,24,0,0.9875108074338791,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+218,3,4:56,896,896,Clare Glowniak made Free Throw.,58,35,23,0,0.9850536199350043,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Bowling Green
+219,3,4:56,896,896,Clare Glowniak made Free Throw.,58,36,22,7,0.9821217451909823,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Bowling Green
+220,3,4:49,889,889,Asia Durr Turnover.,58,36,22,25,0.9823570256980443,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+221,3,4:24,864,864,Caterrion Thompson missed Jumper.,58,36,22,0,0.9831718934513609,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+222,3,4:24,864,864,Briahanna Jackson Defensive Rebound.,58,36,22,15,0.9831718934513609,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+223,3,4:09,849,849,Foul on Ashley Tunstall.,58,36,22,4,0.9836556759049961,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+224,3,4:05,845,845,Mariya Moore made Three Point Jumper. Assisted by Sam Fuehring.,61,36,25,22,0.9906718375229163,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Louisville
+225,3,3:43,823,823,Ashley Tunstall missed Three Point Jumper.,61,36,25,0,0.991150538395222,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+226,3,3:43,823,823,Briahanna Jackson Defensive Rebound.,61,36,25,10,0.991150538395222,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+227,3,3:33,813,813,Mariya Moore Turnover.,61,36,25,1,0.991375203334827,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+228,3,3:32,812,812,Ashley Tunstall Steal.,61,36,25,8,0.9913979807985579,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+229,3,3:24,804,804,Haley Puk missed Three Point Jumper.,61,36,25,0,0.991582449520748,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+230,3,3:24,804,804,Louisville Defensive Rebound.,61,36,25,21,0.991582449520748,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+231,3,3:03,783,783,Jazmine Jones Turnover.,61,36,25,2,0.9920879800974243,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+232,3,3:01,781,781,Foul on Ciera Johnson.,61,36,25,0,0.9921378753787539,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+233,3,3:01,781,781,Clare Glowniak made Free Throw.,61,37,24,0,0.990475266926219,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Bowling Green
+234,3,3:01,781,781,Clare Glowniak made Free Throw.,61,38,23,4,0.9884651533233482,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Bowling Green
+235,3,2:57,777,777,Jazmine Jones Turnover.,61,38,23,8,0.9886007121119591,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+236,3,2:49,769,769,Rachel Konieczki Turnover.,61,38,23,1,0.9888775274287438,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+237,3,2:48,768,768,Briahanna Jackson Steal.,61,38,23,2,0.9889126701497639,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+238,3,2:46,766,766,Sam Fuehring missed Layup.,61,38,23,0,0.9889833187594338,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+239,3,2:46,766,766,Jazmine Jones Offensive Rebound.,61,38,23,5,0.9889833187594338,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+240,3,2:41,761,761,Jazmine Jones missed Two Point Tip Shot.,61,38,23,0,0.9891620648086531,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+241,3,2:41,761,761,Caterrion Thompson Defensive Rebound.,61,38,23,5,0.9891620648086531,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+242,3,2:36,756,756,Foul on Rachel Konieczki.,61,38,23,0,0.9893438498717043,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+243,3,2:36,756,756,Rachel Konieczki Turnover.,61,38,23,16,0.9893438498717043,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+244,3,2:20,740,740,Sam Fuehring Turnover.,61,38,23,1,0.9899457580909252,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+245,3,2:19,739,739,Jane Uecker Steal.,61,38,23,6,0.9899843777085022,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+246,3,2:13,733,733,Caterrion Thompson missed Jumper.,61,38,23,0,0.9902184798408521,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+247,3,2:13,733,733,Clare Glowniak Offensive Rebound.,61,38,23,7,0.9902184798408521,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+248,3,2:06,726,726,Rachel Konieczki missed Jumper.,61,38,23,0,0.9904920243433366,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+249,3,2:06,726,726,Ciera Johnson Block.,61,38,23,0,0.9904920243433366,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+250,3,2:06,726,726,Bowling Green Offensive Rebound.,61,38,23,1,0.9904920243433366,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+251,3,2:05,725,725,Rachel Konieczki Turnover.,61,38,23,1,0.9905296452822707,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+252,3,2:04,724,724,Jazmine Jones Steal.,61,38,23,2,0.9905668329833153,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+253,3,2:02,722,722,Jazmine Jones made Layup.,63,38,25,13,0.9937399187190249,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Louisville
+254,3,1:49,709,709,Clare Glowniak missed Jumper.,63,38,25,0,0.9940588366147931,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+255,3,1:49,709,709,Jane Uecker Offensive Rebound.,63,38,25,4,0.9940588366147931,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+256,3,1:45,705,705,Jane Uecker Turnover.,63,38,25,1,0.9941485200521418,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+257,3,1:44,704,704,Briahanna Jackson Steal.,63,38,25,5,0.9941703998061295,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+258,3,1:39,699,699,Ciera Johnson made Jumper. Assisted by Briahanna Jackson.,65,38,27,19,0.9962043095937007,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Louisville
+259,3,1:20,680,680,Caterrion Thompson missed Three Point Jumper.,65,38,27,0,0.9964670906157922,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+260,3,1:20,680,680,Mariya Moore Defensive Rebound.,65,38,27,7,0.9964670906157922,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+261,3,1:13,673,673,Jazmine Jones Turnover.,65,38,27,18,0.9965556729319859,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+262,3,0:55,655,655,Jane Uecker missed Layup.,65,38,27,0,0.9967714095559345,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+263,3,0:55,655,655,Myisha Hines-Allen Block.,65,38,27,1,0.9967714095559345,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+264,3,0:54,654,654,Jane Uecker Offensive Rebound.,65,38,27,3,0.9967830643112225,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+265,3,0:51,651,651,Jane Uecker missed Jumper.,65,38,27,0,0.9968179058052795,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+266,3,0:51,651,651,Ciera Johnson Block.,65,38,27,1,0.9968179058052795,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+267,3,0:50,650,650,Haley Puk Offensive Rebound.,65,38,27,2,0.9968294847072415,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+268,3,0:48,648,648,Haley Puk missed Jumper.,65,38,27,0,0.9968526006278905,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+269,3,0:48,648,648,Clare Glowniak Offensive Rebound.,65,38,27,3,0.9968526006278905,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+270,3,0:45,645,645,Clare Glowniak made Layup.,65,40,25,19,0.9952354284065609,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Bowling Green
+271,3,0:26,626,626,Myisha Hines-Allen made Layup.,67,40,27,18,0.997106639952065,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Louisville
+272,3,0:08,608,608,Clare Glowniak made Three Point Jumper. Assisted by Sydney Lambert.,67,43,24,7,0.994840678401672,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Bowling Green
+273,3,0:01,601,601,Briahanna Jackson missed Three Point Jumper.,67,43,24,0,0.9949878628415194,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+274,3,0:01,601,601,Andrea Cecil Defensive Rebound.,67,43,24,1,0.9949878628415194,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+275,3,0:00,600,600,End of 3rd Quarter,67,43,24,11,0.995009193162137,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+276,4,9:49,589,589,Foul on Haley Puk.,67,43,24,2,0.9952491835171846,Louisville,Bowling Green,4,5,0,0,NA,400911971,2016-11-19,
+277,4,9:47,587,587,Brianna Jones made Layup. Assisted by Mariya Moore.,69,43,26,18,0.9969826727751738,Louisville,Bowling Green,4,5,0,0,NA,400911971,2016-11-19,Louisville
+278,4,9:29,569,569,Andrea Cecil missed Jumper.,69,43,26,0,0.9972723462402331,Louisville,Bowling Green,4,5,0,0,NA,400911971,2016-11-19,
+279,4,9:29,569,569,Ciera Johnson Defensive Rebound.,69,43,26,8,0.9972723462402331,Louisville,Bowling Green,4,5,0,0,NA,400911971,2016-11-19,
+280,4,9:21,561,561,Mariya Moore Turnover.,69,43,26,2,0.997406294248942,Louisville,Bowling Green,4,5,0,0,NA,400911971,2016-11-19,
+281,4,9:19,559,559,Haley Puk Steal.,69,43,26,4,0.9974402309050184,Louisville,Bowling Green,4,5,0,0,NA,400911971,2016-11-19,
+282,4,9:15,555,555,Haley Puk Turnover.,69,43,26,8,0.997508598775795,Louisville,Bowling Green,4,5,0,0,NA,400911971,2016-11-19,
+283,4,9:07,547,547,Ciera Johnson made Layup. Assisted by Briahanna Jackson.,71,43,28,27,0.9985201878138613,Louisville,Bowling Green,4,5,0,0,NA,400911971,2016-11-19,Louisville
+284,4,8:40,520,520,Haley Puk missed Jumper.,71,43,28,0,0.9987589347068244,Louisville,Bowling Green,4,5,0,0,NA,400911971,2016-11-19,
+285,4,8:40,520,520,Jane Uecker Offensive Rebound.,71,43,28,3,0.9987589347068244,Louisville,Bowling Green,4,5,0,0,NA,400911971,2016-11-19,
+286,4,8:37,517,517,Jane Uecker missed Jumper.,71,43,28,0,0.998780207446384,Louisville,Bowling Green,4,5,0,0,NA,400911971,2016-11-19,
+287,4,8:37,517,517,Myisha Hines-Allen Block.,71,43,28,2,0.998780207446384,Louisville,Bowling Green,4,5,0,0,NA,400911971,2016-11-19,
+288,4,8:35,515,515,Jane Uecker Offensive Rebound.,71,43,28,1,0.9987940242016579,Louisville,Bowling Green,4,5,0,0,NA,400911971,2016-11-19,
+289,4,8:34,514,514,Foul on Ciera Johnson.,71,43,28,0,0.9988008332915729,Louisville,Bowling Green,4,5,0,0,NA,400911971,2016-11-19,
+290,4,8:34,514,514,Clare Glowniak made Free Throw.,71,44,27,0,0.99847578818322,Louisville,Bowling Green,4,5,0,0,NA,400911971,2016-11-19,Bowling Green
+291,4,8:34,514,514,Clare Glowniak made Free Throw.,71,45,26,9,0.9980628075082513,Louisville,Bowling Green,4,5,0,0,NA,400911971,2016-11-19,Bowling Green
+292,4,8:25,505,505,Kylee Shook made Jumper.,73,45,28,28,0.9988597053701638,Louisville,Bowling Green,4,5,0,0,NA,400911971,2016-11-19,Louisville
+293,4,7:57,477,477,Bowling Green  Timeout,73,45,28,1,0.9990320449404547,Louisville,Bowling Green,3,5,1,0,NA,400911971,2016-11-19,
+294,4,7:56,476,476,Jane Uecker Turnover.,73,45,28,1,0.9990382748728354,Louisville,Bowling Green,3,5,1,0,NA,400911971,2016-11-19,
+295,4,7:55,475,475,Briahanna Jackson Steal.,73,45,28,3,0.9990445255049901,Louisville,Bowling Green,3,5,1,0,NA,400911971,2016-11-19,
+296,4,7:52,472,472,Briahanna Jackson made Jumper.,75,45,30,16,0.9994305981700168,Louisville,Bowling Green,3,5,1,0,NA,400911971,2016-11-19,Louisville
+297,4,7:36,456,456,Rachel Konieczki made Three Point Jumper.,75,48,27,14,0.9989290126035725,Louisville,Bowling Green,3,5,1,0,NA,400911971,2016-11-19,Bowling Green
+298,4,7:22,442,442,Mariya Moore missed Jumper.,75,48,27,0,0.9990518121906906,Louisville,Bowling Green,3,5,1,0,NA,400911971,2016-11-19,
+299,4,7:22,442,442,Jane Uecker Defensive Rebound.,75,48,27,13,0.9990518121906906,Louisville,Bowling Green,3,5,1,0,NA,400911971,2016-11-19,
+300,4,7:09,429,429,Andrea Cecil made Three Point Jumper. Assisted by Rachel Konieczki.,75,51,24,16,0.9981813890047736,Louisville,Bowling Green,3,5,1,0,NA,400911971,2016-11-19,Bowling Green
+301,4,6:53,413,413,Ciera Johnson made Layup. Assisted by Brianna Jones.,77,51,26,16,0.999086687616879,Louisville,Bowling Green,3,5,0,0,NA,400911971,2016-11-19,Louisville
+302,4,6:37,397,397,Rachel Konieczki missed Three Point Jumper.,77,51,26,0,0.9992161729530223,Louisville,Bowling Green,3,5,0,0,NA,400911971,2016-11-19,
+303,4,6:37,397,397,Ciera Johnson Block.,77,51,26,1,0.9992161729530223,Louisville,Bowling Green,3,5,0,0,NA,400911971,2016-11-19,
+304,4,6:36,396,396,Jane Uecker Offensive Rebound.,77,51,26,6,0.9992235349124422,Louisville,Bowling Green,3,5,0,0,NA,400911971,2016-11-19,
+305,4,6:30,390,390,Rachel Konieczki missed Layup.,77,51,26,0,0.9992663708450022,Louisville,Bowling Green,3,5,0,0,NA,400911971,2016-11-19,
+306,4,6:30,390,390,Ciera Johnson Defensive Rebound.,77,51,26,23,0.9992663708450022,Louisville,Bowling Green,3,5,0,0,NA,400911971,2016-11-19,
+307,4,6:07,367,367,Briahanna Jackson Turnover.,77,51,26,0,0.9994161129121634,Louisville,Bowling Green,3,5,0,0,NA,400911971,2016-11-19,
+308,4,6:07,367,367,Haley Puk Steal.,77,51,26,16,0.9994161129121634,Louisville,Bowling Green,3,5,0,0,NA,400911971,2016-11-19,
+309,4,5:51,351,351,Carly Santoro Turnover.,77,51,26,1,0.9995128529494955,Louisville,Bowling Green,3,5,0,0,NA,400911971,2016-11-19,
+310,4,5:50,350,350,Brianna Jones Steal.,77,51,26,13,0.9995187728151349,Louisville,Bowling Green,3,5,0,0,NA,400911971,2016-11-19,
+311,4,5:37,337,337,Louisville  Timeout,77,51,26,12,0.9995944198581826,Louisville,Bowling Green,3,4,0,1,NA,400911971,2016-11-19,
+312,4,5:25,325,325,Taylor Johnson made Layup.,79,51,28,14,0.9998169789676234,Louisville,Bowling Green,3,4,0,1,NA,400911971,2016-11-19,Louisville
+313,4,5:11,311,311,Rachel Konieczki missed Jumper.,79,51,28,0,0.9998595587309728,Louisville,Bowling Green,3,4,0,1,NA,400911971,2016-11-19,
+314,4,5:11,311,311,Jessica Laemmle Defensive Rebound.,79,51,28,11,0.9998595587309728,Louisville,Bowling Green,3,4,0,1,NA,400911971,2016-11-19,
+315,4,5:00,300,300,Brianna Jones missed Jumper.,79,51,28,0,0.9998816375169474,Louisville,Bowling Green,3,4,0,1,NA,400911971,2016-11-19,
+316,4,5:00,300,300,Carly Santoro Defensive Rebound.,79,51,28,24,0.9998816375169474,Louisville,Bowling Green,3,4,0,1,NA,400911971,2016-11-19,
+317,4,4:36,276,276,Abby Siefker made Jumper.,79,53,26,14,0.9997769965588162,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Bowling Green
+318,4,4:22,262,262,Kylee Shook missed Three Point Jumper.,79,53,26,0,0.9997531120347302,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+319,4,4:22,262,262,Abby Siefker Defensive Rebound.,79,53,26,4,0.9997531120347302,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+320,4,4:18,258,258,Foul on Jessica Laemmle.,79,53,26,13,0.999745139368725,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+321,4,4:05,245,245,Maddie Cole missed Three Point Jumper.,79,53,26,0,0.999722705142075,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+322,4,4:05,245,245,Brianna Jones Defensive Rebound.,79,53,26,26,0.999722705142075,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+323,4,3:39,219,219,Brianna Jones missed Jumper.,79,53,26,0,0.999746960778259,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+324,4,3:39,219,219,Rachel Myers Defensive Rebound.,79,53,26,9,0.999746960778259,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+325,4,3:30,210,210,Carly Santoro missed Jumper.,79,53,26,0,0.9997870919042863,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+326,4,3:30,210,210,Carly Santoro Offensive Rebound.,79,53,26,27,0.9997870919042863,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+327,4,3:03,183,183,Carly Santoro Turnover.,79,53,26,1,0.9999326279163845,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+328,4,3:02,182,182,Brianna Jones Steal.,79,53,26,4,0.9999362124943729,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+329,4,2:58,178,178,Kylee Shook missed Jumper.,79,53,26,0,0.9999488128363482,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+330,4,2:58,178,178,Carly Santoro Defensive Rebound.,79,53,26,22,0.9999488128363482,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+331,4,2:36,156,156,Abby Siefker made Layup.,79,55,24,12,0.9999665193101307,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Bowling Green
+332,4,2:24,144,144,Brianna Jones made Jumper. Assisted by Kylee Shook.,81,55,26,25,0.9999935327644301,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Louisville
+333,4,1:59,119,119,Foul on Jessica Laemmle.,81,55,26,10,0.9999990790011096,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+334,4,1:49,109,109,Foul on Sydney Zambrotta.,81,55,26,11,0.9999996379148527,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+335,4,1:38,98,98,Clare Glowniak missed Jumper.,81,55,26,0,0.9999998855360264,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+336,4,1:38,98,98,Jessica Laemmle Defensive Rebound.,81,55,26,10,0.9999998855360264,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+337,4,1:28,88,88,Brianna Jones missed Jumper.,81,55,26,0,0.9999999637266326,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+338,4,1:28,88,88,Caterrion Thompson Defensive Rebound.,81,55,26,17,0.9999999637266326,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+339,4,1:11,71,71,Andrea Cecil missed Three Point Jumper.,81,55,26,0,0.9999999955417055,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+340,4,1:11,71,71,Jessica Laemmle Defensive Rebound.,81,55,26,17,0.9999999955417055,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+341,4,0:54,54,54,Jessica Laemmle Turnover.,81,55,26,1,0.9999999995676728,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+342,4,0:53,53,53,Clare Glowniak Steal.,81,55,26,5,0.9999999996255801,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+343,4,0:48,48,48,Caterrion Thompson made Jumper.,81,57,24,0,0.9999999989880249,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Bowling Green
+344,4,0:48,48,48,Foul on Sydney Zambrotta.,81,57,24,0,0.9999999989880249,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+345,4,0:48,48,48,Caterrion Thompson made Free Throw.,81,58,23,6,0.9999999976014189,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Bowling Green
+346,4,0:42,42,42,Foul on Rachel Konieczki.,81,58,23,9,0.9999999989259845,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+347,4,0:33,33,33,Sam Fuehring made Jumper. Assisted by Brianna Jones.,83,58,25,21,0.9999999999545803,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,Louisville
+348,4,0:12,12,12,Caterrion Thompson missed Jumper.,83,58,25,0,0.9999999999985346,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+349,4,0:12,12,12,Bionca Dunham Defensive Rebound.,83,58,25,10,0.9999999999985346,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+350,4,0:02,2,2,Sydney Zambrotta missed Three Point Jumper.,83,58,25,0,0.9999999999997545,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+351,4,0:02,2,2,Bionca Dunham Offensive Rebound.,83,58,25,2,0.9999999999997545,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,
+352,4,0:00,0,0,End of Game,83,58,25,0,1,Louisville,Bowling Green,3,4,0,0,NA,400911971,2016-11-19,

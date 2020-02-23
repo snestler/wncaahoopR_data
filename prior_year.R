@@ -13,14 +13,14 @@ library(dplyr)
 #}
 
 ### Pull Games
-date <- as.Date("2018-02-09")
-while(date <= as.Date("2018-05-01")) {
+date <- as.Date("2017-03-17")
+while(date <= as.Date("2017-05-01")) {
   schedule <- w_get_master_schedule(date)
   if(!is.null(schedule)) {
-    if(!dir.exists(paste("2017-18/pbp_logs", date, sep = "/"))) {
-      dir.create(paste("2017-18/pbp_logs", date, sep = "/")) 
+    if(!dir.exists(paste("2016-17/pbp_logs", date, sep = "/"))) {
+      dir.create(paste("2016-17/pbp_logs", date, sep = "/")) 
     }
-    write_csv(schedule, paste("2017-18/pbp_logs", date, "schedule.csv", sep = "/"))
+    write_csv(schedule, paste("2016-17/pbp_logs", date, "schedule.csv", sep = "/"))
     
     n <- nrow(schedule)
     for(i in 1:n) {
@@ -28,7 +28,7 @@ while(date <= as.Date("2018-05-01")) {
       x <- try(w_get_pbp_game(schedule$game_id[i]))
       
       if(is.data.frame(x)) {
-        write_csv(x, paste("2017-18/pbp_logs", date, paste0(schedule$game_id[i], ".csv"), sep = "/"))
+        write_csv(x, paste("2016-17/pbp_logs", date, paste0(schedule$game_id[i], ".csv"), sep = "/"))
       }
     }
   }
@@ -36,16 +36,16 @@ while(date <= as.Date("2018-05-01")) {
 }
 
 ### Update Master Schedule
-date <- as.Date("2018-02-09")
+date <- as.Date("2017-03-17")
 master_schedule <- NULL
-while(date <= as.Date("2018-05-01")) {
-  schedule <- try(read_csv(paste("2017-18/pbp_logs", date, "schedule.csv", sep = "/")) %>%
+while(date <= as.Date("2017-05-01")) {
+  schedule <- try(read_csv(paste("2016-17/pbp_logs", date, "schedule.csv", sep = "/")) %>%
                     mutate("date" = date))
   if(class(schedule)[1] != "try-error") {
-    write_csv(schedule, paste("2017-18/pbp_logs", date, "schedule.csv", sep = "/"))
+    write_csv(schedule, paste("2016-17/pbp_logs", date, "schedule.csv", sep = "/"))
     master_schedule <- bind_rows(master_schedule, schedule)
   }
   
   date <- date + 1
 }
-write_csv(master_schedule, "2017-18/pbp_logs/master_schedule.csv")
+write_csv(master_schedule, "2016-17/pbp_logs/master_schedule.csv")

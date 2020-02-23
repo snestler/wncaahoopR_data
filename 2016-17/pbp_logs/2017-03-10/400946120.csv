@@ -1,0 +1,291 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:42,2382,2382,Alexis Montgomery missed Jumper.,0,0,0,0,0.5,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,NA
+2,1,9:42,2382,2382,Sam Lubcke Defensive Rebound.,0,0,0,26,0.5,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+3,1,9:16,2356,2356,Sam Lubcke missed Layup.,0,0,0,0,0.5,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+4,1,9:16,2356,2356,Alexis Montgomery Defensive Rebound.,0,0,0,8,0.5,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+5,1,9:08,2348,2348,Foul on Jordan Holland.,0,0,0,0,0.5,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+6,1,9:08,2348,2348,Kaylee Best made Free Throw.,1,0,1,0,0.5226131858542415,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Seattle U
+7,1,9:08,2348,2348,Kaylee Best made Free Throw.,2,0,2,14,0.5451340534009399,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Seattle U
+8,1,8:54,2334,2334,Jordan Holland Turnover.,2,0,2,13,0.5454385061647294,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+9,1,8:41,2321,2321,Alexis Montgomery missed Three Point Jumper.,2,0,2,0,0.5457233259911143,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+10,1,8:41,2321,2321,Wilma Afunugo Offensive Rebound.,2,0,2,3,0.5457233259911143,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+11,1,8:38,2318,2318,Wilma Afunugo missed Layup.,2,0,2,0,0.5457893300573414,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+12,1,8:38,2318,2318,Gabrielle Leos Defensive Rebound.,2,0,2,22,0.5457893300573414,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+13,1,8:16,2296,2296,Jordan Holland made Layup.,2,2,0,17,0.5,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Utah Valley
+14,1,7:59,2279,2279,Kaylee Best Turnover.,2,2,0,0,0.5,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+15,1,7:59,2279,2279,Foul on Kaylee Best.,2,2,0,21,0.5,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+16,1,7:38,2258,2258,Taylor Gordon made Layup.,2,4,-2,15,0.4528713407795984,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Utah Valley
+17,1,7:23,2243,2243,Kaylee Best missed Jumper.,2,4,-2,0,0.45253154916842514,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+18,1,7:23,2243,2243,Wilma Afunugo Offensive Rebound.,2,4,-2,4,0.45253154916842514,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+19,1,7:19,2239,2239,Wilma Afunugo made Layup. Assisted by Claire Metoyer.,4,4,0,17,0.5,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Seattle U
+20,1,7:02,2222,2222,Taylor Gordon Turnover.,4,4,0,1,0.5,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+21,1,7:01,2221,2221,Claire Metoyer Steal.,4,4,0,22,0.5,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+22,1,6:39,2199,2199,Wilma Afunugo Turnover.,4,4,0,0,0.5,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+23,1,6:39,2199,2199,Sariah Wi Neera Steal.,4,4,0,13,0.5,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+24,1,6:26,2186,2186,Taylor Gordon missed Jumper.,4,4,0,0,0.5,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+25,1,6:26,2186,2186,Alexis Montgomery Defensive Rebound.,4,4,0,10,0.5,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+26,1,6:16,2176,2176,Alexis Montgomery missed Jumper.,4,4,0,0,0.5,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+27,1,6:16,2176,2176,Taylor Gordon Defensive Rebound.,4,4,0,29,0.5,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+28,1,5:47,2147,2147,Britta Hall made Three Point Jumper. Assisted by Taylor Gordon.,4,7,-3,31,0.42579256894767775,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Utah Valley
+29,1,5:16,2116,2116,Claire Metoyer Turnover.,4,7,-3,25,0.42471795119452266,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+30,1,4:51,2091,2091,Britta Hall missed Three Point Jumper.,4,7,-3,0,0.4238423256438061,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+31,1,4:51,2091,2091,Claire Metoyer Defensive Rebound.,4,7,-3,10,0.4238423256438061,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+32,1,4:41,2081,2081,Alexis Montgomery made Jumper.,6,7,-1,15,0.4743172671380922,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Seattle U
+33,1,4:26,2066,2066,Mariah Seals missed Three Point Jumper.,6,7,-1,0,0.4741362029562442,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+34,1,4:26,2066,2066,Claire Metoyer Defensive Rebound.,6,7,-1,3,0.4741362029562442,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+35,1,4:23,2063,2063,Official TV Timeout,6,7,-1,29,0.4740998438623287,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+36,1,3:54,2034,2034,Claire Metoyer missed Three Point Jumper.,6,7,-1,0,0.4737457352982908,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+37,1,3:54,2034,2034,Kamira Sanders Offensive Rebound.,6,7,-1,5,0.4737457352982908,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+38,1,3:49,2029,2029,Kamira Sanders missed Layup.,6,7,-1,0,0.4736841811083096,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+39,1,3:49,2029,2029,Sam Lubcke Defensive Rebound.,6,7,-1,16,0.4736841811083096,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+40,1,3:33,2013,2013,Britta Hall made Three Point Jumper. Assisted by Gabrielle Leos.,6,10,-4,18,0.39541185481233876,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Utah Valley
+41,1,3:15,1995,1995,Ashlyn Lewey made Three Point Jumper. Assisted by Claire Metoyer.,9,10,-1,24,0.47326144895321626,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Seattle U
+42,1,2:51,1971,1971,Sam Lubcke made Jumper. Assisted by Britta Hall.,9,12,-3,21,0.4195025555913115,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Utah Valley
+43,1,2:30,1950,1950,Kaylee Best missed Three Point Jumper.,9,12,-3,0,0.41871584476614715,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+44,1,2:30,1950,1950,Taylor Gordon Defensive Rebound.,9,12,-3,26,0.41871584476614715,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+45,1,2:04,1924,1924,Mariah Seals made Jumper.,9,14,-5,19,0.36505233611556004,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Utah Valley
+46,1,1:45,1905,1905,Claire Metoyer missed Jumper.,9,14,-5,0,0.36390590661852107,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+47,1,1:45,1905,1905,Wilma Afunugo Offensive Rebound.,9,14,-5,2,0.36390590661852107,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+48,1,1:43,1903,1903,Foul on Jordan Holland.,9,14,-5,0,0.36378542764857663,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+49,1,1:43,1903,1903,Wilma Afunugo made Free Throw.,10,14,-4,0,0.3900320879604235,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Seattle U
+50,1,1:43,1903,1903,Wilma Afunugo made Free Throw.,11,14,-3,15,0.4169314344684211,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Seattle U
+51,1,1:28,1888,1888,Sam Lubcke missed Jumper.,11,14,-3,0,0.4163621975679721,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+52,1,1:28,1888,1888,Alexis Montgomery Defensive Rebound.,11,14,-3,12,0.4163621975679721,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+53,1,1:16,1876,1876,Kamira Sanders missed Layup.,11,14,-3,0,0.41590669705694366,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+54,1,1:16,1876,1876,Taylor Gordon Block.,11,14,-3,1,0.41590669705694366,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+55,1,1:15,1875,1875,Sariah Wi Neera Defensive Rebound.,11,14,-3,18,0.41586872048210777,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+56,1,0:57,1857,1857,Britta Hall missed Three Point Jumper.,11,14,-3,0,0.4151842634937579,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+57,1,0:57,1857,1857,Alexis Montgomery Defensive Rebound.,11,14,-3,20,0.4151842634937579,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+58,1,0:37,1837,1837,Alexis Montgomery missed Three Point Jumper.,11,14,-3,0,0.4144206868220977,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+59,1,0:37,1837,1837,Sam Lubcke Defensive Rebound.,11,14,-3,7,0.4144206868220977,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+60,1,0:30,1830,1830,Taylor Gordon missed Jumper.,11,14,-3,0,0.4141523518704077,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+61,1,0:30,1830,1830,Wilma Afunugo Block.,11,14,-3,1,0.4141523518704077,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+62,1,0:29,1829,1829,Sam Lubcke Offensive Rebound.,11,14,-3,2,0.41411396404448386,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+63,1,0:27,1827,1827,Foul on Ashlyn Lewey.,11,14,-3,0,0.41403714544445563,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+64,1,0:27,1827,1827,Sariah Wi Neera made Free Throw.,11,15,-4,0,0.38625835463978697,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Utah Valley
+65,1,0:27,1827,1827,Sariah Wi Neera missed Free Throw.,11,15,-4,0,0.38625835463978697,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+66,1,0:27,1827,1827,Alexis Montgomery Defensive Rebound.,11,15,-4,25,0.38625835463978697,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+67,1,0:02,1802,1802,Ashlyn Lewey missed Three Point Jumper.,11,15,-4,0,0.3850004323243336,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+68,1,0:02,1802,1802,Alexis Montgomery Offensive Rebound.,11,15,-4,1,0.3850004323243336,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+69,1,0:01,1801,1801,Alexis Montgomery missed Two Point Tip Shot.,11,15,-4,1,0.3849498158236416,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+70,1,0:00,1800,1800,Utah Valley Defensive Rebound.,11,15,-4,0,0.38489917366219123,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+71,1,0:00,1800,1800,End of 1st Quarter,11,15,-4,15,0.38489917366219123,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+72,2,9:45,1785,1785,Alexis Montgomery made Jumper. Assisted by Ashlyn Lewey.,13,15,-2,14,0.4412688230344889,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Seattle U
+73,2,9:31,1771,1771,Mariah Seals Turnover.,13,15,-2,1,0.4408944948338006,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+74,2,9:30,1770,1770,Alexis Montgomery Steal.,13,15,-2,25,0.44086762018007736,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+75,2,9:05,1745,1745,Kaylee Best missed Three Point Jumper.,13,15,-2,0,0.4401891585963383,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+76,2,9:05,1745,1745,Mariah Seals Defensive Rebound.,13,15,-2,7,0.4401891585963383,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+77,2,8:58,1738,1738,Mariah Seals made Layup.,13,17,-4,0,0.3816972030662436,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Utah Valley
+78,2,8:58,1738,1738,Foul on Claire Metoyer.,13,17,-4,0,0.3816972030662436,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+79,2,8:58,1738,1738,Mariah Seals made Free Throw.,13,18,-5,13,0.35367173710877065,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Utah Valley
+80,2,8:45,1725,1725,Kamira Sanders made Jumper. Assisted by Kaylee Best.,15,18,-3,17,0.41000179777182627,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Seattle U
+81,2,8:28,1708,1708,Taylor Gordon missed Jumper.,15,18,-3,0,0.40929769234037844,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+82,2,8:28,1708,1708,Gabrielle Leos Offensive Rebound.,15,18,-3,7,0.40929769234037844,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+83,2,8:21,1701,1701,Sam Lubcke missed Layup.,15,18,-3,0,0.40900436149034386,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+84,2,8:21,1701,1701,Gabrielle Leos Offensive Rebound.,15,18,-3,14,0.40900436149034386,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+85,2,8:07,1687,1687,Sam Lubcke made Layup.,15,20,-5,26,0.35033712364989256,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Utah Valley
+86,2,7:41,1661,1661,Claire Metoyer missed Three Point Jumper.,15,20,-5,0,0.34864307644249865,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+87,2,7:41,1661,1661,Utah Valley Deadball Team Rebound.,15,20,-5,13,0.34864307644249865,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+88,2,7:28,1648,1648,Mariah Seals made Layup.,15,22,-7,26,0.2931556273794955,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Utah Valley
+89,2,7:02,1622,1622,Kaylee Best missed Three Point Jumper.,15,22,-7,0,0.2910816437175587,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+90,2,7:02,1622,1622,Alexis Montgomery Offensive Rebound.,15,22,-7,5,0.2910816437175587,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+91,2,6:57,1617,1617,Foul on Gabrielle Leos.,15,22,-7,0,0.2906869872067939,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+92,2,6:57,1617,1617,Alexis Montgomery made Free Throw.,16,22,-6,0,0.3176453181969819,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Seattle U
+93,2,6:57,1617,1617,Alexis Montgomery made Free Throw.,17,22,-5,12,0.34588462618254295,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Seattle U
+94,2,6:45,1605,1605,Taylor Gordon made Jumper.,17,24,-7,25,0.2897429739879817,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Utah Valley
+95,2,6:20,1580,1580,Delanie Parry Turnover.,17,24,-7,15,0.2877803339658388,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+96,2,6:05,1565,1565,Jordan Holland missed Layup.,17,24,-7,0,0.28659719560756736,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+97,2,6:05,1565,1565,Joana Alves Block.,17,24,-7,1,0.28659719560756736,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+98,2,6:04,1564,1564,Seattle Defensive Rebound.,17,24,-7,21,0.28651800102617336,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+99,2,5:43,1543,1543,Claire Metoyer made Jumper. Assisted by Kamira Sanders.,19,24,-5,23,0.3412898279886176,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Seattle U
+100,2,5:20,1520,1520,Sariah Wi Neera made Layup. Assisted by Mariah Seals.,19,26,-7,18,0.2829635628192411,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Utah Valley
+101,2,5:02,1502,1502,Joana Alves Turnover.,19,26,-7,0,0.281452334994337,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+102,2,5:02,1502,1502,Foul on Joana Alves.,19,26,-7,20,0.281452334994337,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+103,2,4:42,1482,1482,Taylor Gordon missed Three Point Jumper.,19,26,-7,0,0.27971880585102227,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+104,2,4:42,1482,1482,Sam Lubcke Offensive Rebound.,19,26,-7,3,0.27971880585102227,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+105,2,4:39,1479,1479,Official TV Timeout,19,26,-7,20,0.2794531492915913,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+106,2,4:19,1459,1459,Britta Hall Turnover.,19,26,-7,17,0.27763984270284287,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+107,2,4:02,1442,1442,Foul on Sariah Wi Neera.,19,26,-7,0,0.2760493173476919,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+108,2,4:02,1442,1442,Wilma Afunugo made Free Throw.,20,26,-6,0,0.3044049207882803,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Seattle U
+109,2,4:02,1442,1442,Wilma Afunugo made Free Throw.,21,26,-5,21,0.33432809175691386,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Seattle U
+110,2,3:41,1421,1421,Sariah Wi Neera Turnover.,21,26,-5,14,0.33281328204365856,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+111,2,3:27,1407,1407,Kamira Sanders missed Three Point Jumper.,21,26,-5,0,0.3318339187460984,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+112,2,3:27,1407,1407,Gabrielle Leos Defensive Rebound.,21,26,-5,15,0.3318339187460984,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+113,2,3:12,1392,1392,Foul on Kamira Sanders.,21,26,-5,0,0.3308036644257961,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+114,2,3:12,1392,1392,Mariah Seals made Free Throw.,21,27,-6,0,0.3003854739520774,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Utah Valley
+115,2,3:12,1392,1392,Mariah Seals made Free Throw.,21,28,-7,13,0.2716289872033483,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Utah Valley
+116,2,2:59,1379,1379,Wilma Afunugo Turnover.,21,28,-7,18,0.27052540597369534,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+117,2,2:41,1361,1361,Mariah Seals missed Jumper.,21,28,-7,0,0.26900770710109767,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+118,2,2:41,1361,1361,Wilma Afunugo Defensive Rebound.,21,28,-7,12,0.26900770710109767,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+119,2,2:29,1349,1349,Ashlyn Lewey Turnover.,21,28,-7,1,0.26799558106974414,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+120,2,2:28,1348,1348,Sam Lubcke Steal.,21,28,-7,23,0.26791104489617457,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+121,2,2:05,1325,1325,Mariah Seals missed Layup.,21,28,-7,0,0.26594974112425246,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+122,2,2:05,1325,1325,Wilma Afunugo Defensive Rebound.,21,28,-7,2,0.26594974112425246,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+123,2,2:03,1323,1323,Foul on Mariah Seals.,21,28,-7,22,0.2657770842682689,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+124,2,1:41,1301,1301,Ashlyn Lewey missed Three Point Jumper.,21,28,-7,0,0.26384479834714936,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+125,2,1:41,1301,1301,Sam Lubcke Defensive Rebound.,21,28,-7,28,0.26384479834714936,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+126,2,1:13,1273,1273,Gabrielle Leos missed Jumper.,21,28,-7,0,0.2612667643497587,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+127,2,1:13,1273,1273,Kamira Sanders Defensive Rebound.,21,28,-7,18,0.2612667643497587,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+128,2,0:55,1255,1255,Kaylee Best missed Layup.,21,28,-7,0,0.25951560736848217,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+129,2,0:55,1255,1255,Wilma Afunugo Offensive Rebound.,21,28,-7,1,0.25951560736848217,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+130,2,0:54,1254,1254,Wilma Afunugo made Layup.,23,28,-5,0,0.32097584649714567,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Seattle U
+131,2,0:54,1254,1254,Foul on Sam Lubcke.,23,28,-5,0,0.32097584649714567,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+132,2,0:54,1254,1254,Wilma Afunugo made Free Throw.,24,28,-4,23,0.3544735032501303,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Seattle U
+133,2,0:31,1231,1231,Sam Lubcke made Layup.,24,30,-6,0,0.28704266043560267,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,Utah Valley
+134,2,0:31,1231,1231,Foul on Ashlyn Lewey.,24,30,-6,0,0.28704266043560267,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+135,2,0:31,1231,1231,Sam Lubcke missed Free Throw.,24,30,-6,0,0.28704266043560267,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+136,2,0:31,1231,1231,Wilma Afunugo Defensive Rebound.,24,30,-6,1,0.28704266043560267,Seattle U,Utah Valley,4,4,0,0,NA,400946120,2017-03-10,
+137,2,0:30,1230,1230,Seattle  Timeout,24,30,-6,25,0.28694416974424253,Seattle U,Utah Valley,4,3,0,1,NA,400946120,2017-03-10,
+138,2,0:05,1205,1205,Kaylee Best missed Layup.,24,30,-6,0,0.2843807887604978,Seattle U,Utah Valley,4,3,0,1,NA,400946120,2017-03-10,
+139,2,0:05,1205,1205,Wilma Afunugo Offensive Rebound.,24,30,-6,3,0.2843807887604978,Seattle U,Utah Valley,4,3,0,1,NA,400946120,2017-03-10,
+140,2,0:02,1202,1202,Wilma Afunugo made Layup.,26,30,-4,2,0.35063635532794507,Seattle U,Utah Valley,4,3,0,1,NA,400946120,2017-03-10,Seattle U
+141,2,0:00,1200,1200,End of 2nd Quarter,26,30,-4,26,0.3504822574627354,Seattle U,Utah Valley,4,3,0,1,NA,400946120,2017-03-10,
+142,3,9:34,1174,1174,Gabrielle Leos missed Three Point Jumper.,26,30,-4,0,0.34853012882509166,Seattle U,Utah Valley,5,4,0,0,NA,400946120,2017-03-10,
+143,3,9:34,1174,1174,Kamira Sanders Defensive Rebound.,26,30,-4,21,0.34853012882509166,Seattle U,Utah Valley,5,4,0,0,NA,400946120,2017-03-10,
+144,3,9:13,1153,1153,Wilma Afunugo made Layup. Assisted by Alexis Montgomery.,28,30,-2,28,0.4216214618290522,Seattle U,Utah Valley,5,4,0,0,NA,400946120,2017-03-10,Seattle U
+145,3,8:45,1125,1125,Jordan Holland missed Layup.,28,30,-2,0,0.42053805081396345,Seattle U,Utah Valley,5,4,0,0,NA,400946120,2017-03-10,
+146,3,8:45,1125,1125,Claire Metoyer Defensive Rebound.,28,30,-2,30,0.42053805081396345,Seattle U,Utah Valley,5,4,0,0,NA,400946120,2017-03-10,
+147,3,8:15,1095,1095,Kaylee Best missed Three Point Jumper.,28,30,-2,0,0.41936168624128667,Seattle U,Utah Valley,5,4,0,0,NA,400946120,2017-03-10,
+148,3,8:15,1095,1095,Wilma Afunugo Offensive Rebound.,28,30,-2,4,0.41936168624128667,Seattle U,Utah Valley,5,4,0,0,NA,400946120,2017-03-10,
+149,3,8:11,1091,1091,Claire Metoyer missed Three Point Jumper.,28,30,-2,0,0.4192017542930188,Seattle U,Utah Valley,5,4,0,0,NA,400946120,2017-03-10,
+150,3,8:11,1091,1091,Sam Lubcke Defensive Rebound.,28,30,-2,17,0.4192017542930188,Seattle U,Utah Valley,5,4,0,0,NA,400946120,2017-03-10,
+151,3,7:54,1074,1074,Taylor Gordon Turnover.,28,30,-2,1,0.4185099279052396,Seattle U,Utah Valley,5,4,0,0,NA,400946120,2017-03-10,
+152,3,7:53,1073,1073,Kaylee Best Steal.,28,30,-2,7,0.41846853402210266,Seattle U,Utah Valley,5,4,0,0,NA,400946120,2017-03-10,
+153,3,7:46,1066,1066,Kaylee Best made Layup.,30,30,0,3,0.5,Seattle U,Utah Valley,5,4,0,0,NA,400946120,2017-03-10,Seattle U
+154,3,7:43,1063,1063,Utah Valley  Timeout,30,30,0,26,0.5,Seattle U,Utah Valley,5,3,0,1,NA,400946120,2017-03-10,
+155,3,7:17,1037,1037,Foul on Kaylee Best.,30,30,0,22,0.5,Seattle U,Utah Valley,5,3,0,1,NA,400946120,2017-03-10,
+156,3,6:55,1015,1015,Britta Hall Turnover.,30,30,0,2,0.5,Seattle U,Utah Valley,5,3,0,1,NA,400946120,2017-03-10,
+157,3,6:53,1013,1013,Kamira Sanders Steal.,30,30,0,4,0.5,Seattle U,Utah Valley,5,3,0,1,NA,400946120,2017-03-10,
+158,3,6:49,1009,1009,Claire Metoyer missed Layup.,30,30,0,0,0.5,Seattle U,Utah Valley,5,3,0,1,NA,400946120,2017-03-10,
+159,3,6:49,1009,1009,Britta Hall Defensive Rebound.,30,30,0,21,0.5,Seattle U,Utah Valley,5,3,0,1,NA,400946120,2017-03-10,
+160,3,6:28,988,988,Britta Hall made Three Point Jumper. Assisted by Mariah Seals.,30,33,-3,23,0.37330051437651496,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,Utah Valley
+161,3,6:05,965,965,Kaylee Best made Three Point Jumper. Assisted by Alexis Montgomery.,33,33,0,16,0.5,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,Seattle U
+162,3,5:49,949,949,Foul on Wilma Afunugo.,33,33,0,0,0.5,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+163,3,5:49,949,949,Sam Lubcke made Free Throw.,33,34,-1,0,0.45584435681848845,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,Utah Valley
+164,3,5:49,949,949,Sam Lubcke made Free Throw.,33,35,-2,24,0.4123721132991033,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,Utah Valley
+165,3,5:25,925,925,Kaylee Best missed Layup.,33,35,-2,0,0.41121681049819137,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+166,3,5:25,925,925,Kamira Sanders Offensive Rebound.,33,35,-2,17,0.41121681049819137,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+167,3,5:08,908,908,Kaylee Best missed Jumper.,33,35,-2,0,0.41046012747324,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+168,3,5:08,908,908,Sam Lubcke Block.,33,35,-2,1,0.41046012747324,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+169,3,5:07,907,907,Wilma Afunugo Offensive Rebound.,33,35,-2,8,0.41041671694314114,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+170,3,4:59,899,899,Kaylee Best made Three Point Jumper. Assisted by Claire Metoyer.,36,35,1,10,0.5453333124972009,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,Seattle U
+171,3,4:49,889,889,Taylor Gordon missed Layup.,36,35,1,0,0.5455508200333111,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+172,3,4:49,889,889,Seattle Defensive Rebound.,36,35,1,1,0.5455508200333111,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+173,3,4:48,888,888,Official TV Timeout,36,35,1,7,0.5455724632198637,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+174,3,4:41,881,881,Kaylee Best made Three Point Jumper. Assisted by Claire Metoyer.,39,35,4,28,0.6756012684887301,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,Seattle U
+175,3,4:13,853,853,Britta Hall made Three Point Jumper.,39,38,1,29,0.5463368935202376,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,Utah Valley
+176,3,3:44,824,824,Ashlyn Lewey missed Layup.,39,38,1,0,0.5470204920870995,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+177,3,3:44,824,824,Kaylee Best Offensive Rebound.,39,38,1,3,0.5470204920870995,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+178,3,3:41,821,821,Kaylee Best missed Layup.,39,38,1,0,0.5470959389110441,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+179,3,3:41,821,821,Britta Hall Block.,39,38,1,2,0.5470959389110441,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+180,3,3:39,819,819,Taylor Gordon Defensive Rebound.,39,38,1,12,0.547146842119812,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+181,3,3:27,807,807,Mariah Seals Turnover.,39,38,1,2,0.5474633765633432,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+182,3,3:25,805,805,Kamira Sanders Steal.,39,38,1,3,0.5475181331458329,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+183,3,3:22,802,802,Foul on Mariah Seals.,39,38,1,0,0.5476014242946581,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+184,3,3:22,802,802,Kamira Sanders missed Free Throw.,39,38,1,0,0.5476014242946581,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+185,3,3:22,802,802,Seattle Deadball Team Rebound.,39,38,1,0,0.5476014242946581,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+186,3,3:22,802,802,Kamira Sanders made Free Throw.,40,38,2,30,0.5943477202544699,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,Seattle U
+187,3,2:52,772,772,Taylor Gordon made Jumper.,40,40,0,19,0.5,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,Utah Valley
+188,3,2:33,753,753,Ashlyn Lewey missed Three Point Jumper.,40,40,0,0,0.5,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+189,3,2:33,753,753,Taylor Gordon Defensive Rebound.,40,40,0,17,0.5,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+190,3,2:16,736,736,Sam Lubcke Turnover.,40,40,0,0,0.5,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+191,3,2:16,736,736,Foul on Sam Lubcke.,40,40,0,0,0.5,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+192,3,2:16,736,736,Wilma Afunugo made Free Throw.,41,40,1,0,0.5498917352455038,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,Seattle U
+193,3,2:16,736,736,Wilma Afunugo made Free Throw.,42,40,2,15,0.598799747000911,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,Seattle U
+194,3,2:01,721,721,Kaylee Best missed Layup.,42,40,2,0,0.6000612365142074,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+195,3,2:01,721,721,Wilma Afunugo Offensive Rebound.,42,40,2,4,0.6000612365142074,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+196,3,1:57,717,717,Kaylee Best made Three Point Jumper. Assisted by Wilma Afunugo.,45,40,5,8,0.7345080569457826,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,Seattle U
+197,3,1:49,709,709,Foul on Ashlyn Lewey.,45,40,5,17,0.7357467964802344,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+198,3,1:32,692,692,Mariah Seals missed Layup.,45,40,5,0,0.7381797371346426,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+199,3,1:32,692,692,Kamira Sanders Block.,45,40,5,0,0.7381797371346426,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+200,3,1:32,692,692,Utah Valley Offensive Rebound.,45,40,5,4,0.7381797371346426,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+201,3,1:28,688,688,Foul on Wilma Afunugo.,45,40,5,2,0.7387217949637036,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+202,3,1:26,686,686,Taylor Gordon made Jumper. Assisted by Mariah Seals.,45,42,3,15,0.6512262776559739,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,Utah Valley
+203,3,1:11,671,671,Joana Alves missed Jumper.,45,42,3,0,0.6526104709016654,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+204,3,1:11,671,671,Jordan Holland Defensive Rebound.,45,42,3,22,0.6526104709016654,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+205,3,0:49,649,649,Britta Hall made Three Point Jumper. Assisted by Sam Lubcke.,45,45,0,33,0.5,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,Utah Valley
+206,3,0:16,616,616,Alexis Montgomery missed Jumper.,45,45,0,0,0.5,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+207,3,0:16,616,616,Taylor Gordon Defensive Rebound.,45,45,0,4,0.5,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+208,3,0:12,612,612,Taylor Gordon Turnover.,45,45,0,1,0.5,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+209,3,0:11,611,611,Alexis Montgomery Steal.,45,45,0,5,0.5,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+210,3,0:06,606,606,Kaylee Best missed Layup.,45,45,0,0,0.5,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+211,3,0:06,606,606,Taylor Gordon Defensive Rebound.,45,45,0,5,0.5,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+212,3,0:01,601,601,Foul on Claire Metoyer.,45,45,0,0,0.5,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+213,3,0:01,601,601,Taylor Gordon made Free Throw.,45,46,-1,0,0.44510891677980624,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,Utah Valley
+214,3,0:01,601,601,Taylor Gordon missed Free Throw.,45,46,-1,0,0.44510891677980624,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+215,3,0:01,601,601,Sam Lubcke Offensive Rebound.,45,46,-1,1,0.44510891677980624,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+216,3,0:00,600,600,End of 3rd Quarter,45,46,-1,12,0.44506480685690686,Seattle U,Utah Valley,5,3,0,0,NA,400946120,2017-03-10,
+217,4,9:48,588,588,Sam Lubcke Turnover.,45,46,-1,0,0.4445065547584587,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+218,4,9:48,588,588,Alexis Montgomery Steal.,45,46,-1,1,0.4445065547584587,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+219,4,9:47,587,587,Alexis Montgomery made Layup.,47,46,1,0,0.5555425416679692,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,Seattle U
+220,4,9:47,587,587,Foul on Jordan Holland.,47,46,1,0,0.5555425416679692,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+221,4,9:47,587,587,Alexis Montgomery made Free Throw.,48,46,2,29,0.6097310140629838,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,Seattle U
+222,4,9:18,558,558,Foul on Kaylee Best.,48,46,2,31,0.6128675956758848,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+223,4,8:47,527,527,Utah Valley  Turnover.,48,46,2,16,0.6165479530151068,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+224,4,8:31,511,511,Kamira Sanders missed Layup.,48,46,2,0,0.6181159450714656,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+225,4,8:31,511,511,Sam Lubcke Defensive Rebound.,48,46,2,15,0.6181159450714656,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+226,4,8:16,496,496,Sam Lubcke made Layup.,48,48,0,28,0.5,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,Utah Valley
+227,4,7:48,468,468,Kaylee Best missed Three Point Jumper.,48,48,0,0,0.5,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+228,4,7:48,468,468,Alexis Montgomery Offensive Rebound.,48,48,0,2,0.5,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+229,4,7:46,466,466,Alexis Montgomery made Two Point Tip Shot.,50,48,2,0,0.6226995794836612,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,Seattle U
+230,4,7:46,466,466,Foul on Sam Lubcke.,50,48,2,0,0.6226995794836612,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+231,4,7:46,466,466,Alexis Montgomery missed Free Throw.,50,48,2,0,0.6226995794836612,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+232,4,7:46,466,466,Taylor Gordon Defensive Rebound.,50,48,2,6,0.6226995794836612,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+233,4,7:40,460,460,Foul on Wilma Afunugo.,50,48,2,8,0.6234555303822467,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+234,4,7:32,452,452,Sam Lubcke Turnover.,50,48,2,0,0.6245565017600803,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+235,4,7:32,452,452,Wilma Afunugo Steal.,50,48,2,18,0.6245565017600803,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+236,4,7:14,434,434,Ashlyn Lewey made Three Point Jumper. Assisted by Kaylee Best.,53,48,5,29,0.7864894914346908,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,Seattle U
+237,4,6:45,405,405,Britta Hall missed Three Point Jumper.,53,48,5,0,0.7958450219342581,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+238,4,6:45,405,405,Ashlyn Lewey Defensive Rebound.,53,48,5,18,0.7958450219342581,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+239,4,6:27,387,387,Kaylee Best missed Three Point Jumper.,53,48,5,0,0.8011249085717479,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+240,4,6:27,387,387,Mariah Seals Defensive Rebound.,53,48,5,7,0.8011249085717479,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+241,4,6:20,380,380,Mariah Seals made Layup.,53,50,3,11,0.6992688360598689,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,Utah Valley
+242,4,6:09,369,369,Ashlyn Lewey missed Three Point Jumper.,53,50,3,0,0.7019574188591464,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+243,4,6:09,369,369,Claire Metoyer Offensive Rebound.,53,50,3,17,0.7019574188591464,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+244,4,5:52,352,352,Ashlyn Lewey made Layup. Assisted by Alexis Montgomery.,55,50,5,14,0.8121890092491483,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,Seattle U
+245,4,5:38,338,338,Sam Lubcke made Layup. Assisted by Mariah Seals.,55,52,3,26,0.7108489756780952,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,Utah Valley
+246,4,5:12,312,312,Alexis Montgomery missed Jumper.,55,52,3,0,0.7207598696323805,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+247,4,5:12,312,312,Britta Hall Defensive Rebound.,55,52,3,14,0.7207598696323805,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+248,4,4:58,298,298,Foul on Ashlyn Lewey.,55,52,3,1,0.7252454853230069,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+249,4,4:57,297,297,Sam Lubcke made Free Throw.,55,53,2,7,0.6564732255884719,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,Utah Valley
+250,4,4:50,290,290,Sam Lubcke made Free Throw.,55,54,1,14,0.5804973032264151,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,Utah Valley
+251,4,4:36,276,276,Alexis Montgomery Turnover.,55,54,1,0,0.5801498265620182,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+252,4,4:36,276,276,Foul on Alexis Montgomery.,55,54,1,29,0.5801498265620182,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+253,4,4:07,247,247,Utah Valley  Turnover.,55,54,1,23,0.5781984461849169,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+254,4,3:44,224,224,Kaylee Best missed Three Point Jumper.,55,54,1,0,0.5784142387600146,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+255,4,3:44,224,224,Kaylee Best Offensive Rebound.,55,54,1,18,0.5784142387600146,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+256,4,3:26,206,206,Wilma Afunugo missed Layup.,55,54,1,0,0.5815960937563488,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+257,4,3:26,206,206,Wilma Afunugo Offensive Rebound.,55,54,1,3,0.5815960937563488,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+258,4,3:23,203,203,Wilma Afunugo made Layup.,57,54,3,8,0.7308536874135091,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,Seattle U
+259,4,3:15,195,195,Sam Lubcke Turnover.,57,54,3,27,0.7379979486819737,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+260,4,2:48,168,168,Kaylee Best missed Jumper.,57,54,3,0,0.7694337619446294,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+261,4,2:48,168,168,Wilma Afunugo Offensive Rebound.,57,54,3,3,0.7694337619446294,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+262,4,2:45,165,165,Wilma Afunugo missed Layup.,57,54,3,0,0.7729903928098447,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+263,4,2:45,165,165,Sam Lubcke Block.,57,54,3,1,0.7729903928098447,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+264,4,2:44,164,164,Taylor Gordon Defensive Rebound.,57,54,3,21,0.7741808875014576,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+265,4,2:23,143,143,Sam Lubcke made Layup.,57,56,1,20,0.6135426192371547,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,Utah Valley
+266,4,2:03,123,123,Alexis Montgomery Turnover.,57,56,1,1,0.627431565993633,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+267,4,2:02,122,122,Sam Lubcke Steal.,57,56,1,22,0.6281971696563706,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,
+268,4,1:40,100,100,Taylor Gordon made Jumper. Assisted by Mariah Seals.,57,58,-1,8,0.3529092800341017,Seattle U,Utah Valley,6,4,0,0,NA,400946120,2017-03-10,Utah Valley
+269,4,1:32,92,92,Seattle  Timeout,57,58,-1,4,0.34500870711226755,Seattle U,Utah Valley,6,3,0,1,NA,400946120,2017-03-10,
+270,4,1:28,88,88,Kaylee Best missed Jumper.,57,58,-1,0,0.3409799957995536,Seattle U,Utah Valley,6,3,0,1,NA,400946120,2017-03-10,
+271,4,1:28,88,88,Wilma Afunugo Offensive Rebound.,57,58,-1,3,0.3409799957995536,Seattle U,Utah Valley,6,3,0,1,NA,400946120,2017-03-10,
+272,4,1:25,85,85,Wilma Afunugo made Layup.,59,58,1,14,0.6620681128423219,Seattle U,Utah Valley,6,3,0,1,NA,400946120,2017-03-10,Seattle U
+273,4,1:11,71,71,Britta Hall Turnover.,59,58,1,7,0.67689912432634,Seattle U,Utah Valley,6,3,0,1,NA,400946120,2017-03-10,
+274,4,1:04,64,64,Kaylee Best Steal.,59,58,1,25,0.6847322100309075,Seattle U,Utah Valley,6,3,0,1,NA,400946120,2017-03-10,
+275,4,0:39,39,39,Alexis Montgomery missed Three Point Jumper.,59,58,1,0,0.7141966424364399,Seattle U,Utah Valley,6,3,0,1,NA,400946120,2017-03-10,
+276,4,0:39,39,39,Taylor Gordon Defensive Rebound.,59,58,1,9,0.7141966424364399,Seattle U,Utah Valley,6,3,0,1,NA,400946120,2017-03-10,
+277,4,0:30,30,30,Utah Valley  Timeout,59,58,1,9,0.725390658569219,Seattle U,Utah Valley,6,2,0,1,NA,400946120,2017-03-10,
+278,4,0:21,21,21,Foul on Alexis Montgomery.,59,58,1,0,0.7367177756567828,Seattle U,Utah Valley,6,2,0,1,NA,400946120,2017-03-10,
+279,4,0:21,21,21,Britta Hall made Free Throw.,59,59,0,0,0.5,Seattle U,Utah Valley,6,2,0,1,NA,400946120,2017-03-10,Utah Valley
+280,4,0:21,21,21,Britta Hall made Free Throw.,59,60,-1,0,0.26328222434321724,Seattle U,Utah Valley,6,2,0,1,NA,400946120,2017-03-10,Utah Valley
+281,4,0:21,21,21,Britta Hall missed Free Throw.,59,60,-1,0,0.26328222434321724,Seattle U,Utah Valley,6,2,0,1,NA,400946120,2017-03-10,
+282,4,0:21,21,21,Wilma Afunugo Defensive Rebound.,59,60,-1,1,0.26328222434321724,Seattle U,Utah Valley,6,2,0,1,NA,400946120,2017-03-10,
+283,4,0:20,20,20,Seattle  Timeout,59,60,-1,11,0.26200730844051134,Seattle U,Utah Valley,6,1,0,1,NA,400946120,2017-03-10,
+284,4,0:09,9,9,Foul on Mariah Seals.,59,60,-1,0,0.24767571268535712,Seattle U,Utah Valley,6,1,0,1,NA,400946120,2017-03-10,
+285,4,0:09,9,9,Kaylee Best made Free Throw.,60,60,0,0,0.5,Seattle U,Utah Valley,6,1,0,1,NA,400946120,2017-03-10,Seattle U
+286,4,0:09,9,9,Kaylee Best made Free Throw.,61,60,1,0,0.752324287314643,Seattle U,Utah Valley,6,1,0,1,NA,400946120,2017-03-10,Seattle U
+287,4,0:09,9,9,Utah Valley  Timeout,61,60,1,9,0.752324287314643,Seattle U,Utah Valley,6,0,0,1,NA,400946120,2017-03-10,
+288,4,0:00,0,0,Mariah Seals missed Three Point Jumper.,61,60,1,0,0.9999999979388464,Seattle U,Utah Valley,6,0,0,1,NA,400946120,2017-03-10,
+289,4,0:00,0,0,Seattle Defensive Rebound.,61,60,1,0,0.9999999979388464,Seattle U,Utah Valley,6,0,0,1,NA,400946120,2017-03-10,
+290,4,0:00,0,0,End of Game,61,60,1,0,0.9999999979388464,Seattle U,Utah Valley,6,0,0,1,NA,400946120,2017-03-10,

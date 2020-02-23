@@ -1,0 +1,333 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,2400,Jump Ball won by Syracuse,0,0,0,14,0.5,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,NA
+2,1,9:46,2386,2386,Brittney Sykes made Three Point Jumper. Assisted by Alexis Peterson.,3,0,3,27,0.5662639236131425,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,Syracuse
+3,1,9:19,2359,2359,Brianna Turner made Jumper. Assisted by Marina Mabrey.,3,2,1,13,0.5224937265852554,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,Notre Dame
+4,1,9:06,2346,2346,Alexis Peterson made Layup.,5,2,3,15,0.5675361407990583,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,Syracuse
+5,1,8:51,2331,2331,Arike Ogunbowale missed Jumper.,5,2,3,0,0.5680211159857175,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+6,1,8:51,2331,2331,Kathryn Westbeld Offensive Rebound.,5,2,3,8,0.5680211159857175,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+7,1,8:43,2323,2323,Kathryn Westbeld Turnover.,5,2,3,15,0.5682813775007283,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+8,1,8:28,2308,2308,Brittney Sykes made Three Point Jumper. Assisted by Gabrielle Cooper.,8,2,6,30,0.6349906060408036,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,Syracuse
+9,1,7:58,2278,2278,Brianna Turner missed Layup.,8,2,6,0,0.6368636499266205,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+10,1,7:58,2278,2278,Brittney Sykes Defensive Rebound.,8,2,6,6,0.6368636499266205,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+11,1,7:52,2272,2272,Gabrielle Cooper made Three Point Jumper. Assisted by Brittney Sykes.,11,2,9,6,0.6995407308099254,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,Syracuse
+12,1,7:46,2266,2266,Notre Dame  Timeout,11,2,9,12,0.7000558223499709,Syracuse,Notre Dame,3,4,1,0,NA,400912203,2017-02-19,
+13,1,7:34,2254,2254,Marina Mabrey made Three Point Jumper. Assisted by Kathryn Westbeld.,11,5,6,22,0.6383760782397434,Syracuse,Notre Dame,3,4,1,0,NA,400912203,2017-02-19,Notre Dame
+14,1,7:12,2232,2232,Briana Day made Jumper.,13,5,8,0,0.6826180699972916,Syracuse,Notre Dame,3,4,1,0,NA,400912203,2017-02-19,Syracuse
+15,1,7:12,2232,2232,Foul on Brianna Turner.,13,5,8,0,0.6826180699972916,Syracuse,Notre Dame,3,4,1,0,NA,400912203,2017-02-19,
+16,1,7:12,2232,2232,Briana Day made Free Throw.,14,5,9,13,0.7029861328370819,Syracuse,Notre Dame,3,4,1,0,NA,400912203,2017-02-19,Syracuse
+17,1,6:59,2219,2219,Kathryn Westbeld missed Jumper.,14,5,9,0,0.7041105229085929,Syracuse,Notre Dame,3,4,1,0,NA,400912203,2017-02-19,
+18,1,6:59,2219,2219,Brittney Sykes Defensive Rebound.,14,5,9,16,0.7041105229085929,Syracuse,Notre Dame,3,4,1,0,NA,400912203,2017-02-19,
+19,1,6:43,2203,2203,Briana Day made Layup. Assisted by Alexis Peterson.,16,5,11,16,0.7441680063330691,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,Syracuse
+20,1,6:27,2187,2187,Marina Mabrey made Three Point Jumper. Assisted by Kathryn Westbeld.,16,8,8,24,0.686215520435786,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,Notre Dame
+21,1,6:03,2163,2163,Briana Day made Layup. Assisted by Alexis Peterson.,18,8,10,23,0.7289484550610299,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,Syracuse
+22,1,5:40,2140,2140,Kathryn Westbeld Turnover.,18,8,10,11,0.7310761581842423,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+23,1,5:29,2129,2129,Foul on Lindsay Allen.,18,8,10,0,0.7320961668093973,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+24,1,5:29,2129,2129,Alexis Peterson made Free Throw.,19,8,11,0,0.751347547434899,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,Syracuse
+25,1,5:29,2129,2129,Alexis Peterson made Free Throw.,20,8,12,9,0.7696508120790829,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,Syracuse
+26,1,5:20,2120,2120,Foul on Marina Mabrey.,20,8,12,0,0.7705571189498738,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+27,1,5:20,2120,2120,Marina Mabrey Turnover.,20,8,12,10,0.7705571189498738,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+28,1,5:10,2110,2110,Brittney Sykes missed Jumper.,20,8,12,0,0.7715648916589817,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+29,1,5:10,2110,2110,Jackie Young Defensive Rebound.,20,8,12,11,0.7715648916589817,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+30,1,4:59,2099,2099,Erin Boley missed Three Point Jumper.,20,8,12,0,0.7726744945907883,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+31,1,4:59,2099,2099,Kathryn Westbeld Offensive Rebound.,20,8,12,0,0.7726744945907883,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+32,1,4:59,2099,2099,Kathryn Westbeld missed Two Point Tip Shot.,20,8,12,0,0.7726744945907883,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+33,1,4:59,2099,2099,Bria Day Block.,20,8,12,0,0.7726744945907883,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+34,1,4:59,2099,2099,Jackie Young Offensive Rebound.,20,8,12,0,0.7726744945907883,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+35,1,4:59,2099,2099,Jackie Young made Two Point Tip Shot.,20,10,10,22,0.7348873598610655,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,Notre Dame
+36,1,4:37,2077,2077,Alexis Peterson made Three Point Jumper.,23,10,13,17,0.79235667196337,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,Syracuse
+37,1,4:20,2060,2060,Erin Boley missed Three Point Jumper.,23,10,13,0,0.7941154117193865,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+38,1,4:20,2060,2060,Jackie Young Offensive Rebound.,23,10,13,6,0.7941154117193865,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+39,1,4:14,2054,2054,Kathryn Westbeld made Layup. Assisted by Jackie Young.,23,12,11,15,0.7586794905227267,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,Notre Dame
+40,1,3:59,2039,2039,Foul on Erin Boley.,23,12,11,2,0.7601572604655997,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+41,1,3:57,2037,2037,Brittney Sykes missed Three Point Jumper.,23,12,11,0,0.7603546344741351,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+42,1,3:57,2037,2037,Jackie Young Defensive Rebound.,23,12,11,7,0.7603546344741351,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+43,1,3:50,2030,2030,Foul on Abby Grant.,23,12,11,13,0.7610460936051172,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+44,1,3:37,2017,2017,Marina Mabrey made Three Point Jumper. Assisted by Erin Boley.,23,15,8,24,0.7000730587849326,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,Notre Dame
+45,1,3:13,1993,1993,Alexis Peterson Turnover.,23,15,8,0,0.7020870820538239,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+46,1,3:13,1993,1993,Lindsay Allen Steal.,23,15,8,3,0.7020870820538239,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+47,1,3:10,1990,1990,Foul on Abby Grant.,23,15,8,0,0.7023400918608192,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+48,1,3:10,1990,1990,Marina Mabrey made Free Throw.,23,16,7,0,0.6794309454619605,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,Notre Dame
+49,1,3:10,1990,1990,Marina Mabrey made Free Throw.,23,17,6,12,0.6556231534709471,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,Notre Dame
+50,1,2:58,1978,1978,Gabrielle Cooper missed Three Point Jumper.,23,17,6,0,0.6564455884686835,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+51,1,2:58,1978,1978,Jackie Young Defensive Rebound.,23,17,6,8,0.6564455884686835,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+52,1,2:50,1970,1970,Marina Mabrey missed Three Point Jumper.,23,17,6,0,0.6569963935816021,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+53,1,2:50,1970,1970,Syracuse Defensive Rebound.,23,17,6,14,0.6569963935816021,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+54,1,2:36,1956,1956,Isabella Slim made Three Point Jumper. Assisted by Alexis Peterson.,26,17,9,21,0.7273779640073724,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,Syracuse
+55,1,2:15,1935,1935,Jackie Young made Jumper.,26,19,7,17,0.683712469173118,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,Notre Dame
+56,1,1:58,1918,1918,Briana Day missed Layup.,26,19,7,0,0.6850531095927159,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+57,1,1:58,1918,1918,Brianna Turner Defensive Rebound.,26,19,7,11,0.6850531095927159,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+58,1,1:47,1907,1907,Marina Mabrey made Jumper.,26,21,5,19,0.6359735848978677,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,Notre Dame
+59,1,1:28,1888,1888,Foul on Jackie Young.,26,21,5,0,0.6371175140625175,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+60,1,1:28,1888,1888,Brittney Sykes made Free Throw.,27,21,6,0,0.6627224472421261,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,Syracuse
+61,1,1:28,1888,1888,Brittney Sykes missed Free Throw.,27,21,6,0,0.6627224472421261,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+62,1,1:28,1888,1888,Marina Mabrey Defensive Rebound.,27,21,6,13,0.6627224472421261,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+63,1,1:15,1875,1875,Brianna Turner made Jumper. Assisted by Lindsay Allen.,27,23,4,20,0.6113542113562502,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,Notre Dame
+64,1,0:55,1855,1855,Gabrielle Cooper made Three Point Jumper. Assisted by Alexis Peterson.,30,23,7,22,0.6899899647557876,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,Syracuse
+65,1,0:33,1833,1833,Foul on Bria Day.,30,23,7,0,0.6917159265760751,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+66,1,0:33,1833,1833,Brianna Turner missed Free Throw.,30,23,7,0,0.6917159265760751,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+67,1,0:33,1833,1833,Notre Dame Deadball Team Rebound.,30,23,7,0,0.6917159265760751,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+68,1,0:33,1833,1833,Brianna Turner made Free Throw.,30,24,6,31,0.666567988078285,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,Notre Dame
+69,1,0:02,1802,1802,Syracuse  Turnover.,30,24,6,2,0.6687563666720667,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+70,1,0:00,1800,1800,Lindsay Allen missed Jumper.,30,24,6,0,0.6688984611571205,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+71,1,0:00,1800,1800,Alexis Peterson Defensive Rebound.,30,24,6,0,0.6688984611571205,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+72,1,0:00,1800,1800,End of 1st Quarter,30,24,6,0,0.6688984611571205,Syracuse,Notre Dame,3,4,0,0,NA,400912203,2017-02-19,
+73,2,10:00,1800,1800,Jump Ball won by Notre Dame,30,24,6,14,0.6688984611571205,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+74,2,9:46,1786,1786,Brianna Turner Turnover.,30,24,6,21,0.6698969083144077,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+75,2,9:25,1765,1765,Brittney Sykes missed Jumper.,30,24,6,0,0.6714087979959481,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+76,2,9:25,1765,1765,Briana Day Offensive Rebound.,30,24,6,5,0.6714087979959481,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+77,2,9:20,1760,1760,Briana Day missed Jumper.,30,24,6,0,0.6717716284060897,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+78,2,9:20,1760,1760,Marina Mabrey Defensive Rebound.,30,24,6,28,0.6717716284060897,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+79,2,8:52,1732,1732,Lindsay Allen missed Jumper.,30,24,6,0,0.6738270330398481,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+80,2,8:52,1732,1732,Jackie Young Offensive Rebound.,30,24,6,8,0.6738270330398481,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+81,2,8:44,1724,1724,Kathryn Westbeld missed Layup.,30,24,6,0,0.6744223956535,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+82,2,8:44,1724,1724,Briana Day Defensive Rebound.,30,24,6,22,0.6744223956535,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+83,2,8:22,1702,1702,Isabella Slim missed Three Point Jumper.,30,24,6,0,0.6760806642709845,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+84,2,8:22,1702,1702,Lindsay Allen Defensive Rebound.,30,24,6,11,0.6760806642709845,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+85,2,8:11,1691,1691,Marina Mabrey Turnover.,30,24,6,23,0.6769223026662567,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+86,2,7:48,1668,1668,Alexis Peterson missed Three Point Jumper.,30,24,6,0,0.6786629020563473,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+87,2,7:48,1668,1668,Arike Ogunbowale Defensive Rebound.,30,24,6,11,0.6786629020563473,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+88,2,7:37,1657,1657,Brianna Turner made Jumper. Assisted by Arike Ogunbowale.,30,26,4,20,0.6226724756843586,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,Notre Dame
+89,2,7:17,1637,1637,Brittney Sykes missed Layup.,30,26,4,0,0.623716909221895,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+90,2,7:17,1637,1637,Brianna Turner Block.,30,26,4,0,0.623716909221895,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+91,2,7:17,1637,1637,Jackie Young Defensive Rebound.,30,26,4,7,0.623716909221895,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+92,2,7:10,1630,1630,Marina Mabrey missed Jumper.,30,26,4,0,0.6240784518393223,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+93,2,7:10,1630,1630,Brittney Sykes Defensive Rebound.,30,26,4,8,0.6240784518393223,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+94,2,7:02,1622,1622,Gabrielle Cooper missed Three Point Jumper.,30,26,4,0,0.6244898258725878,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+95,2,7:02,1622,1622,Arike Ogunbowale Defensive Rebound.,30,26,4,18,0.6244898258725878,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+96,2,6:44,1604,1604,Jump Ball won by Syracuse,30,26,4,0,0.625410998167702,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+97,2,6:44,1604,1604,Jackie Young Turnover.,30,26,4,0,0.625410998167702,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+98,2,6:44,1604,1604,Brittney Sykes Steal.,30,26,4,11,0.625410998167702,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+99,2,6:33,1593,1593,Briana Day made Jumper. Assisted by Abby Grant.,32,26,6,22,0.6840546633369663,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,Syracuse
+100,2,6:11,1571,1571,Arike Ogunbowale made Jumper.,32,28,4,19,0.6271010210298308,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,Notre Dame
+101,2,5:52,1552,1552,Abby Grant missed Three Point Jumper.,32,28,4,0,0.6280866313511098,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+102,2,5:52,1552,1552,Erin Boley Defensive Rebound.,32,28,4,9,0.6280866313511098,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+103,2,5:43,1543,1543,Marina Mabrey Turnover.,32,28,4,13,0.6285593285136819,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+104,2,5:30,1530,1530,Briana Day made Layup. Assisted by Alexis Peterson.,34,28,6,13,0.6885835587192296,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,Syracuse
+105,2,5:17,1517,1517,Brianna Turner made Layup. Assisted by Arike Ogunbowale.,34,30,4,18,0.6299542910338278,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,Notre Dame
+106,2,4:59,1499,1499,Brittney Sykes missed Jumper.,34,30,4,0,0.6309527092928936,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+107,2,4:59,1499,1499,Briana Day Offensive Rebound.,34,30,4,13,0.6309527092928936,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+108,2,4:46,1486,1486,Foul on Mychal Johnson.,34,30,4,0,0.6316942791886947,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+109,2,4:46,1486,1486,Official TV Timeout,34,30,4,20,0.6316942791886947,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+110,2,4:26,1466,1466,Abby Grant missed Three Point Jumper.,34,30,4,0,0.6328743410874906,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+111,2,4:26,1466,1466,Brianna Turner Defensive Rebound.,34,30,4,0,0.6328743410874906,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+112,2,4:26,1466,1466,Foul on Briana Day.,34,30,4,13,0.6328743410874906,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+113,2,4:13,1453,1453,Kathryn Westbeld made Layup.,34,32,2,17,0.5680739378803993,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,Notre Dame
+114,2,3:56,1436,1436,Abby Grant missed Three Point Jumper.,34,32,2,0,0.5686289764534042,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+115,2,3:56,1436,1436,Brianna Turner Defensive Rebound.,34,32,2,10,0.5686289764534042,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+116,2,3:46,1426,1426,Arike Ogunbowale missed Three Point Jumper.,34,32,2,0,0.5689468882977077,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+117,2,3:46,1426,1426,Bria Day Defensive Rebound.,34,32,2,8,0.5689468882977077,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+118,2,3:38,1418,1418,Brittney Sykes made Layup. Assisted by Alexis Peterson.,36,32,4,11,0.6357935969085231,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,Syracuse
+119,2,3:27,1407,1407,Marina Mabrey missed Three Point Jumper.,36,32,4,0,0.6364344309856538,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+120,2,3:27,1407,1407,Brittney Sykes Defensive Rebound.,36,32,4,8,0.6364344309856538,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+121,2,3:19,1399,1399,Brittney Sykes made Layup.,38,32,6,0,0.6990690190802672,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,Syracuse
+122,2,3:19,1399,1399,Foul on Kathryn Westbeld.,38,32,6,0,0.6990690190802672,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+123,2,3:19,1399,1399,Brittney Sykes missed Free Throw.,38,32,6,0,0.6990690190802672,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+124,2,3:19,1399,1399,Kathryn Westbeld Defensive Rebound.,38,32,6,18,0.6990690190802672,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+125,2,3:01,1381,1381,Kathryn Westbeld Turnover.,38,32,6,13,0.7004654995518147,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+126,2,2:48,1368,1368,Brittney Sykes made Layup.,40,32,8,11,0.7575046992377154,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,Syracuse
+127,2,2:37,1357,1357,Foul on Lindsay Allen.,40,32,8,0,0.7584923230530107,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+128,2,2:37,1357,1357,Lindsay Allen Turnover.,40,32,8,25,0.7584923230530107,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+129,2,2:12,1332,1332,Isabella Slim missed Three Point Jumper.,40,32,8,0,0.7607492678186498,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+130,2,2:12,1332,1332,Mychal Johnson Defensive Rebound.,40,32,8,31,0.7607492678186498,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+131,2,1:41,1301,1301,Foul on Jackie Young.,40,32,8,0,0.7636259864859253,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+132,2,1:41,1301,1301,Jackie Young Turnover.,40,32,8,11,0.7636259864859253,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+133,2,1:30,1290,1290,Brittney Sykes Turnover.,40,32,8,0,0.7646816776749923,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+134,2,1:30,1290,1290,Erin Boley Steal.,40,32,8,10,0.7646816776749923,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+135,2,1:20,1280,1280,Brianna Turner made Jumper. Assisted by Arike Ogunbowale.,40,34,6,17,0.7084737187999415,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,Notre Dame
+136,2,1:03,1263,1263,Alexis Peterson missed Jumper.,40,34,6,0,0.7099599800344327,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+137,2,1:03,1263,1263,Marina Mabrey Defensive Rebound.,40,34,6,10,0.7099599800344327,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+138,2,0:53,1253,1253,Erin Boley missed Jumper.,40,34,6,0,0.7108663892737404,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+139,2,0:53,1253,1253,Brittney Sykes Defensive Rebound.,40,34,6,17,0.7108663892737404,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+140,2,0:36,1236,1236,Alexis Peterson made Jumper.,42,34,8,25,0.7702773649019546,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,Syracuse
+141,2,0:11,1211,1211,Marina Mabrey missed Three Point Jumper.,42,34,8,0,0.773174817481301,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+142,2,0:11,1211,1211,Brianna Turner made Free Throw.,42,35,7,0,0.7451736376490605,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,Notre Dame
+143,2,0:11,1211,1211,Notre Dame Offensive Rebound.,42,34,8,0,0.773174817481301,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+144,2,0:11,1211,1211,Foul on Brittney Sykes.,42,34,8,0,0.773174817481301,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+145,2,0:11,1211,1211,Brianna Turner missed Free Throw.,42,35,7,0,0.7451736376490605,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,Notre Dame
+146,2,0:11,1211,1211,Brittney Sykes Defensive Rebound.,42,35,7,10,0.7451736376490605,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+147,2,0:01,1201,1201,Foul on Mychal Johnson.,42,35,7,0,0.7463081927719248,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+148,2,0:01,1201,1201,Brittney Sykes made Free Throw.,43,35,8,0,0.7743718622647385,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,Syracuse
+149,2,0:01,1201,1201,Brittney Sykes missed Free Throw.,43,35,8,0,0.7743718622647385,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+150,2,0:01,1201,1201,Ali Patberg Defensive Rebound.,43,35,8,1,0.7743718622647385,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+151,2,0:00,1200,1200,End of 2nd Quarter,43,35,8,0,0.774489981219977,Syracuse,Notre Dame,4,4,0,0,NA,400912203,2017-02-19,
+152,3,10:00,1200,1200,Jump Ball won by Notre Dame,43,35,8,8,0.774489981219977,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+153,3,9:52,1192,1192,Brianna Turner made Layup. Assisted by Marina Mabrey.,43,37,6,22,0.7169539965043947,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Notre Dame
+154,3,9:30,1170,1170,Foul on Briana Day.,43,37,6,0,0.7191398687858451,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+155,3,9:30,1170,1170,Briana Day Turnover.,43,37,6,24,0.7191398687858451,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+156,3,9:06,1146,1146,Arike Ogunbowale missed Layup.,43,37,6,0,0.721456663853357,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+157,3,9:06,1146,1146,Brianna Turner Offensive Rebound.,43,37,6,0,0.721456663853357,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+158,3,9:06,1146,1146,Brianna Turner made Two Point Tip Shot.,43,39,4,25,0.6535013719071114,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Notre Dame
+159,3,8:41,1121,1121,Gabrielle Cooper made Three Point Jumper. Assisted by Alexis Peterson.,46,39,7,22,0.7547681559011926,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Syracuse
+160,3,8:19,1099,1099,Kathryn Westbeld made Jumper. Assisted by Marina Mabrey.,46,41,5,20,0.6925042461080666,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Notre Dame
+161,3,7:59,1079,1079,Alexis Peterson Turnover.,46,41,5,18,0.6942618039410059,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+162,3,7:41,1061,1061,Foul on Isabella Slim.,46,41,5,0,0.6958969661322005,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+163,3,7:41,1061,1061,Kathryn Westbeld missed Free Throw.,46,41,5,0,0.6958969661322005,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+164,3,7:41,1061,1061,Notre Dame Deadball Team Rebound.,46,41,5,0,0.6958969661322005,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+165,3,7:41,1061,1061,Kathryn Westbeld missed Free Throw.,46,41,5,0,0.6958969661322005,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+166,3,7:41,1061,1061,Brianna Turner Offensive Rebound.,46,41,5,5,0.6958969661322005,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+167,3,7:36,1056,1056,Arike Ogunbowale made Three Point Jumper. Assisted by Marina Mabrey.,46,44,2,29,0.5822493909492018,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Notre Dame
+168,3,7:07,1027,1027,Gabrielle Cooper missed Three Point Jumper.,46,44,2,0,0.5835498991686662,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+169,3,7:07,1027,1027,Arike Ogunbowale Defensive Rebound.,46,44,2,12,0.5835498991686662,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+170,3,6:55,1015,1015,Foul on Gabrielle Cooper.,46,44,2,11,0.5841222600738807,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+171,3,6:44,1004,1004,Brianna Turner made Layup. Assisted by Lindsay Allen.,46,46,0,12,0.5,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Notre Dame
+172,3,6:32,992,992,Alexis Peterson made Jumper.,48,46,2,8,0.5852865353705452,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Syracuse
+173,3,6:24,984,984,Arike Ogunbowale Turnover.,48,46,2,0,0.5857145415140341,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+174,3,6:24,984,984,Alexis Peterson Steal.,48,46,2,5,0.5857145415140341,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+175,3,6:19,979,979,Brittney Sykes made Layup. Assisted by Alexis Peterson.,50,46,4,25,0.6670368771396497,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Syracuse
+176,3,5:54,954,954,Lindsay Allen missed Jumper.,50,46,4,0,0.6695626074727787,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+177,3,5:54,954,954,Gabrielle Cooper Defensive Rebound.,50,46,4,9,0.6695626074727787,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+178,3,5:45,945,945,Alexis Peterson Turnover.,50,46,4,13,0.6704009859344976,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+179,3,5:32,932,932,Jackie Young missed Jumper.,50,46,4,0,0.6715478302888682,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+180,3,5:32,932,932,Brittney Sykes Defensive Rebound.,50,46,4,3,0.6715478302888682,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+181,3,5:29,929,929,Foul on Jackie Young.,50,46,4,11,0.6718031729657888,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+182,3,5:18,918,918,Isabella Slim made Three Point Jumper. Assisted by Brittney Sykes.,53,46,7,23,0.779173198200986,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Syracuse
+183,3,4:55,895,895,Marina Mabrey made Jumper. Assisted by Brianna Turner.,53,48,5,0,0.7131890699943814,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Notre Dame
+184,3,4:55,895,895,Foul on Gabrielle Cooper.,53,48,5,0,0.7131890699943814,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+185,3,4:55,895,895,Official TV Timeout,53,48,5,0,0.7131890699943814,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+186,3,4:55,895,895,Marina Mabrey made Free Throw.,53,49,4,23,0.6745284222456912,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Notre Dame
+187,3,4:32,872,872,Briana Day made Layup. Assisted by Brittney Sykes.,55,49,6,16,0.7512254587172592,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Syracuse
+188,3,4:16,856,856,Brianna Turner made Layup. Assisted by Erin Boley.,55,51,4,22,0.677529373852734,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Notre Dame
+189,3,3:54,834,834,Gabrielle Cooper made Three Point Jumper. Assisted by Alexis Peterson.,58,51,7,19,0.7881108475351131,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Syracuse
+190,3,3:35,815,815,Erin Boley made Jumper.,58,53,5,34,0.720678903639424,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Notre Dame
+191,3,3:01,781,781,Foul on Lindsay Allen.,58,53,5,2,0.724633094782146,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+192,3,2:59,779,779,Briana Day missed Jumper.,58,53,5,0,0.7248907412963657,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+193,3,2:59,779,779,Briana Day Offensive Rebound.,58,53,5,5,0.7248907412963657,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+194,3,2:54,774,774,Briana Day made Layup.,60,53,7,16,0.7959249060864287,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Syracuse
+195,3,2:38,758,758,Foul on Isabella Slim.,60,53,7,0,0.7984875925516004,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+196,3,2:38,758,758,Brianna Turner made Free Throw.,60,54,6,0,0.7649789042182152,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Notre Dame
+197,3,2:38,758,758,Brianna Turner missed Free Throw.,60,54,6,0,0.7649789042182152,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+198,3,2:38,758,758,Brittney Sykes Defensive Rebound.,60,54,6,17,0.7649789042182152,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+199,3,2:21,741,741,Brittney Sykes made Three Point Jumper. Assisted by Alexis Peterson.,63,54,9,15,0.8574709229125607,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Syracuse
+200,3,2:06,726,726,Foul on Brittney Sykes.,63,54,9,0,0.8603293000265579,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+201,3,2:06,726,726,Marina Mabrey made Free Throw.,63,55,8,0,0.8342461484167937,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Notre Dame
+202,3,2:06,726,726,Marina Mabrey made Free Throw.,63,56,7,0,0.8043994737050797,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Notre Dame
+203,3,2:06,726,726,Marina Mabrey made Free Throw.,63,57,6,17,0.7706559002516183,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Notre Dame
+204,3,1:49,709,709,Alexis Peterson missed Three Point Jumper.,63,57,6,0,0.7736039134633304,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+205,3,1:49,709,709,Erin Boley Defensive Rebound.,63,57,6,12,0.7736039134633304,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+206,3,1:37,697,697,Marina Mabrey Turnover.,63,57,6,0,0.7754844162521001,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+207,3,1:37,697,697,Isabella Slim Steal.,63,57,6,23,0.7754844162521001,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+208,3,1:14,674,674,Alexis Peterson Turnover.,63,57,6,0,0.778794804910226,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+209,3,1:14,674,674,Marina Mabrey Steal.,63,57,6,23,0.778794804910226,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+210,3,0:51,651,651,Jackie Young missed Layup.,63,57,6,0,0.7819587052183863,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+211,3,0:51,651,651,Jackie Young Offensive Rebound.,63,57,6,0,0.7819587052183863,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+212,3,0:51,651,651,Jackie Young made Two Point Tip Shot.,63,59,4,28,0.7008631826024498,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,Notre Dame
+213,3,0:23,623,623,Gabrielle Cooper missed Jumper.,63,59,4,0,0.7041958060972962,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+214,3,0:23,623,623,Jackie Young Defensive Rebound.,63,59,4,22,0.7041958060972962,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+215,3,0:01,601,601,Erin Boley missed Three Point Jumper.,63,59,4,0,0.7071974378990634,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+216,3,0:01,601,601,Brianna Turner Offensive Rebound.,63,59,4,1,0.7071974378990634,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+217,3,0:00,600,600,End of 3rd Quarter,63,59,4,0,0.7073453411645628,Syracuse,Notre Dame,5,5,0,0,NA,400912203,2017-02-19,
+218,4,10:00,600,600,Jump Ball won by Syracuse,63,59,4,14,0.7073453411645628,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,
+219,4,9:46,586,586,Briana Day missed Layup.,63,59,4,0,0.7095430039577351,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,
+220,4,9:46,586,586,Brianna Turner Block.,63,59,4,0,0.7095430039577351,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,
+221,4,9:46,586,586,Brianna Turner Defensive Rebound.,63,59,4,11,0.7095430039577351,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,
+222,4,9:35,575,575,Jackie Young missed Jumper.,63,59,4,0,0.7114561561193303,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,
+223,4,9:35,575,575,Brianna Turner Offensive Rebound.,63,59,4,17,0.7114561561193303,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,
+224,4,9:18,558,558,Brianna Turner made Jumper. Assisted by Kathryn Westbeld.,63,61,2,25,0.6128675956758848,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,Notre Dame
+225,4,8:53,533,533,Gabrielle Cooper missed Three Point Jumper.,63,61,2,0,0.6159137801060506,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,
+226,4,8:53,533,533,Lindsay Allen Defensive Rebound.,63,61,2,11,0.6159137801060506,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,
+227,4,8:42,522,522,Jackie Young missed Three Point Jumper.,63,61,2,0,0.6170534396200823,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,
+228,4,8:42,522,522,Lindsay Allen Offensive Rebound.,63,61,2,13,0.6170534396200823,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,
+229,4,8:29,509,509,Brianna Turner made Jumper. Assisted by Kathryn Westbeld.,63,63,0,22,0.5,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,Notre Dame
+230,4,8:07,487,487,Alexis Peterson missed Jumper.,63,63,0,0,0.5,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,
+231,4,8:07,487,487,Arike Ogunbowale Defensive Rebound.,63,63,0,0,0.5,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,
+232,4,8:07,487,487,Foul on Gabrielle Cooper.,63,63,0,16,0.5,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,
+233,4,7:51,471,471,Brianna Turner made Layup. Assisted by Kathryn Westbeld.,63,65,-2,0,0.37789098311365443,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,Notre Dame
+234,4,7:51,471,471,Foul on Isabella Slim.,63,65,-2,0,0.37789098311365443,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,
+235,4,7:51,471,471,Brianna Turner missed Free Throw.,63,65,-2,0,0.37789098311365443,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,
+236,4,7:51,471,471,Arike Ogunbowale Offensive Rebound.,63,65,-2,1,0.37789098311365443,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,
+237,4,7:50,470,470,Arike Ogunbowale made Layup.,63,67,-4,3,0.2693344801032179,Syracuse,Notre Dame,6,6,0,0,NA,400912203,2017-02-19,Notre Dame
+238,4,7:47,467,467,Syracuse  Timeout,63,67,-4,15,0.2687416015457417,Syracuse,Notre Dame,6,5,0,1,NA,400912203,2017-02-19,
+239,4,7:32,452,452,Briana Day Turnover.,63,67,-4,13,0.2654429697793046,Syracuse,Notre Dame,6,5,0,1,NA,400912203,2017-02-19,
+240,4,7:19,439,439,Kathryn Westbeld made Jumper. Assisted by Arike Ogunbowale.,63,69,-6,20,0.1746267374032489,Syracuse,Notre Dame,6,5,0,1,NA,400912203,2017-02-19,Notre Dame
+241,4,6:59,419,419,Foul on Marina Mabrey.,63,69,-6,18,0.16783496383594562,Syracuse,Notre Dame,6,5,0,1,NA,400912203,2017-02-19,
+242,4,6:41,401,401,Foul on Marina Mabrey.,63,69,-6,2,0.1622748903344723,Syracuse,Notre Dame,6,5,0,0,NA,400912203,2017-02-19,
+243,4,6:39,399,399,Briana Day made Jumper. Assisted by Alexis Peterson.,65,69,-4,24,0.25026939093150935,Syracuse,Notre Dame,6,5,0,0,NA,400912203,2017-02-19,Syracuse
+244,4,6:15,375,375,Arike Ogunbowale Turnover.,65,69,-4,0,0.24365820336384045,Syracuse,Notre Dame,6,5,0,0,NA,400912203,2017-02-19,
+245,4,6:15,375,375,Brittney Sykes Steal.,65,69,-4,4,0.24365820336384045,Syracuse,Notre Dame,6,5,0,0,NA,400912203,2017-02-19,
+246,4,6:11,371,371,Syracuse  Timeout,65,69,-4,23,0.2425058557957146,Syracuse,Notre Dame,6,4,0,1,NA,400912203,2017-02-19,
+247,4,5:48,348,348,Foul on Brianna Turner.,65,69,-4,0,0.2352313844578284,Syracuse,Notre Dame,6,4,0,1,NA,400912203,2017-02-19,
+248,4,5:48,348,348,Alexis Peterson made Free Throw.,66,69,-3,0,0.29229727828898083,Syracuse,Notre Dame,6,4,0,1,NA,400912203,2017-02-19,Syracuse
+249,4,5:48,348,348,Alexis Peterson made Free Throw.,67,69,-2,14,0.35674916347001473,Syracuse,Notre Dame,6,4,0,1,NA,400912203,2017-02-19,Syracuse
+250,4,5:34,334,334,Brianna Turner made Layup. Assisted by Kathryn Westbeld.,67,71,-4,21,0.23003301564338713,Syracuse,Notre Dame,6,4,0,1,NA,400912203,2017-02-19,Notre Dame
+251,4,5:13,313,313,Brittney Sykes missed Jumper.,67,71,-4,0,0.220727456858615,Syracuse,Notre Dame,6,4,0,1,NA,400912203,2017-02-19,
+252,4,5:13,313,313,Notre Dame Defensive Rebound.,67,71,-4,13,0.220727456858615,Syracuse,Notre Dame,6,4,0,1,NA,400912203,2017-02-19,
+253,4,5:00,300,300,Lindsay Allen made Jumper. Assisted by Marina Mabrey.,67,73,-6,16,0.12592338476836124,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,Notre Dame
+254,4,4:44,284,284,Alexis Peterson missed Three Point Jumper.,67,73,-6,0,0.1247694583988842,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+255,4,4:44,284,284,Bria Day Offensive Rebound.,67,73,-6,11,0.1247694583988842,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+256,4,4:33,273,273,Bria Day missed Jumper.,67,73,-6,0,0.1260835945353569,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+257,4,4:33,273,273,Brianna Turner Block.,67,73,-6,0,0.1260835945353569,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+258,4,4:33,273,273,Briana Day Offensive Rebound.,67,73,-6,0,0.1260835945353569,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+259,4,4:33,273,273,Foul on Arike Ogunbowale.,67,73,-6,0,0.1260835945353569,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+260,4,4:33,273,273,Briana Day missed Free Throw.,67,73,-6,0,0.1260835945353569,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+261,4,4:33,273,273,Syracuse Deadball Team Rebound.,67,73,-6,0,0.1260835945353569,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+262,4,4:33,273,273,Briana Day made Free Throw.,68,73,-5,19,0.166121768097673,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,Syracuse
+263,4,4:14,254,254,Foul on Bria Day.,68,73,-5,0,0.17002490613260499,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+264,4,4:14,254,254,Lindsay Allen made Free Throw.,68,74,-6,0,0.12982116347523923,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,Notre Dame
+265,4,4:14,254,254,Lindsay Allen made Free Throw.,68,75,-7,14,0.09800141235031437,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,Notre Dame
+266,4,4:00,240,240,Brittney Sykes Turnover.,68,75,-7,0,0.09970567819589665,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+267,4,4:00,240,240,Lindsay Allen Steal.,68,75,-7,4,0.09970567819589665,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+268,4,3:56,236,236,Lindsay Allen missed Jumper.,68,75,-7,0,0.09980504130595884,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+269,4,3:56,236,236,Jackie Young Offensive Rebound.,68,75,-7,29,0.09980504130595884,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+270,4,3:27,207,207,Foul on Bria Day.,68,75,-7,0,0.0913302060227295,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+271,4,3:27,207,207,Brianna Turner missed Free Throw.,68,75,-7,0,0.0913302060227295,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+272,4,3:27,207,207,Notre Dame Deadball Team Rebound.,68,75,-7,0,0.0913302060227295,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+273,4,3:27,207,207,Brianna Turner missed Free Throw.,68,75,-7,0,0.0913302060227295,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+274,4,3:27,207,207,Jackie Young Offensive Rebound.,68,75,-7,1,0.0913302060227295,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+275,4,3:26,206,206,Foul on Briana Day.,68,75,-7,0,0.0906847426350427,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+276,4,3:26,206,206,Jackie Young made Free Throw.,68,76,-8,0,0.06694256860688606,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,Notre Dame
+277,4,3:26,206,206,Jackie Young made Free Throw.,68,77,-9,12,0.04908082461456572,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,Notre Dame
+278,4,3:14,194,194,Gabrielle Cooper made Three Point Jumper. Assisted by Alexis Peterson.,71,77,-6,30,0.11086434108974566,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,Syracuse
+279,4,2:44,164,164,Jackie Young missed Layup.,71,77,-6,0,0.07841046609356996,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+280,4,2:44,164,164,Bria Day Block.,71,77,-6,0,0.07841046609356996,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+281,4,2:44,164,164,Marina Mabrey Offensive Rebound.,71,77,-6,6,0.07841046609356996,Syracuse,Notre Dame,6,4,0,0,NA,400912203,2017-02-19,
+282,4,2:38,158,158,Lindsay Allen missed Three Point Jumper.,71,77,-6,0,0.07259124931629668,Syracuse,Notre Dame,6,4,1,0,NA,400912203,2017-02-19,
+283,4,2:38,158,158,Marina Mabrey Offensive Rebound.,71,77,-6,0,0.07259124931629668,Syracuse,Notre Dame,6,4,1,0,NA,400912203,2017-02-19,
+284,4,2:38,158,158,Notre Dame  Timeout,71,77,-6,17,0.07259124931629668,Syracuse,Notre Dame,5,4,1,0,NA,400912203,2017-02-19,
+285,4,2:21,141,141,Marina Mabrey missed Jumper.,71,77,-6,0,0.05701494127817873,Syracuse,Notre Dame,5,4,1,0,NA,400912203,2017-02-19,
+286,4,2:21,141,141,Bria Day Block.,71,77,-6,0,0.05701494127817873,Syracuse,Notre Dame,5,4,1,0,NA,400912203,2017-02-19,
+287,4,2:21,141,141,Gabrielle Cooper Defensive Rebound.,71,77,-6,7,0.05701494127817873,Syracuse,Notre Dame,5,4,1,0,NA,400912203,2017-02-19,
+288,4,2:14,134,134,Alexis Peterson made Layup. Assisted by Gabrielle Cooper.,73,77,-4,30,0.1246282990059954,Syracuse,Notre Dame,5,4,1,0,NA,400912203,2017-02-19,Syracuse
+289,4,1:44,104,104,Arike Ogunbowale missed Three Point Jumper.,73,77,-4,0,0.08630233310658485,Syracuse,Notre Dame,5,4,1,0,NA,400912203,2017-02-19,
+290,4,1:44,104,104,Jackie Young Offensive Rebound.,73,77,-4,37,0.08630233310658485,Syracuse,Notre Dame,5,4,1,0,NA,400912203,2017-02-19,
+291,4,1:07,67,67,Foul on Bria Day.,73,77,-4,0,0.04564835652421991,Syracuse,Notre Dame,5,4,0,0,NA,400912203,2017-02-19,
+292,4,1:07,67,67,Lindsay Allen made Free Throw.,73,78,-5,0,0.021879542810550417,Syracuse,Notre Dame,5,4,0,0,NA,400912203,2017-02-19,Notre Dame
+293,4,1:07,67,67,Lindsay Allen made Free Throw.,73,79,-6,11,0.010352744722040041,Syracuse,Notre Dame,5,4,0,0,NA,400912203,2017-02-19,Notre Dame
+294,4,0:56,56,56,Bria Day missed Jumper.,73,79,-6,0,0.007318582279851831,Syracuse,Notre Dame,5,4,0,0,NA,400912203,2017-02-19,
+295,4,0:56,56,56,Lindsay Allen Defensive Rebound.,73,79,-6,10,0.007318582279851831,Syracuse,Notre Dame,5,4,0,0,NA,400912203,2017-02-19,
+296,4,0:46,46,46,Foul on Gabrielle Cooper.,73,79,-6,0,0.005236691904669991,Syracuse,Notre Dame,5,4,0,0,NA,400912203,2017-02-19,
+297,4,0:46,46,46,Marina Mabrey missed Free Throw.,73,79,-6,0,0.005236691904669991,Syracuse,Notre Dame,5,4,0,0,NA,400912203,2017-02-19,
+298,4,0:46,46,46,Notre Dame Deadball Team Rebound.,73,79,-6,0,0.005236691904669991,Syracuse,Notre Dame,5,4,0,0,NA,400912203,2017-02-19,
+299,4,0:46,46,46,Marina Mabrey made Free Throw.,73,80,-7,9,0.002190824738038808,Syracuse,Notre Dame,5,4,0,0,NA,400912203,2017-02-19,Notre Dame
+300,4,0:37,37,37,Gabrielle Cooper made Three Point Jumper. Assisted by Alexis Peterson.,76,80,-4,1,0.023847697012888667,Syracuse,Notre Dame,5,4,0,0,NA,400912203,2017-02-19,Syracuse
+301,4,0:36,36,36,Syracuse  Timeout,76,80,-4,0,0.023285253298483865,Syracuse,Notre Dame,5,3,0,1,NA,400912203,2017-02-19,
+302,4,0:36,36,36,Foul on Lindsay Allen.,76,80,-4,0,0.023285253298483865,Syracuse,Notre Dame,5,3,0,1,NA,400912203,2017-02-19,
+303,4,0:36,36,36,Lindsay Allen Turnover.,76,80,-4,1,0.023285253298483865,Syracuse,Notre Dame,5,3,0,1,NA,400912203,2017-02-19,
+304,4,0:35,35,35,Alexis Peterson Turnover.,76,80,-4,0,0.02273309801906819,Syracuse,Notre Dame,5,3,1,1,NA,400912203,2017-02-19,
+305,4,0:35,35,35,Notre Dame  Timeout,76,80,-4,2,0.02273309801906819,Syracuse,Notre Dame,4,3,1,1,NA,400912203,2017-02-19,
+306,4,0:33,33,33,Foul on Alexis Peterson.,76,80,-4,0,0.02165953096422114,Syracuse,Notre Dame,4,3,1,1,NA,400912203,2017-02-19,
+307,4,0:33,33,33,Lindsay Allen missed Free Throw.,76,80,-4,0,0.02165953096422114,Syracuse,Notre Dame,4,3,1,1,NA,400912203,2017-02-19,
+308,4,0:33,33,33,Notre Dame Deadball Team Rebound.,76,80,-4,0,0.02165953096422114,Syracuse,Notre Dame,4,3,1,1,NA,400912203,2017-02-19,
+309,4,0:33,33,33,Lindsay Allen made Free Throw.,76,81,-5,6,0.008467510346093162,Syracuse,Notre Dame,4,3,1,1,NA,400912203,2017-02-19,Notre Dame
+310,4,0:27,27,27,Foul on Jackie Young.,76,81,-5,0,0.007021543091865667,Syracuse,Notre Dame,4,3,1,1,NA,400912203,2017-02-19,
+311,4,0:27,27,27,Alexis Peterson made Free Throw.,77,81,-4,0,0.018681180598484944,Syracuse,Notre Dame,4,3,1,1,NA,400912203,2017-02-19,Syracuse
+312,4,0:27,27,27,Alexis Peterson made Free Throw.,78,81,-3,0,0.04875167572884788,Syracuse,Notre Dame,4,3,1,1,NA,400912203,2017-02-19,Syracuse
+313,4,0:27,27,27,Foul on Brittney Sykes.,78,81,-3,0,0.04875167572884788,Syracuse,Notre Dame,4,3,1,1,NA,400912203,2017-02-19,
+314,4,0:27,27,27,Foul on Arike Ogunbowale.,78,81,-3,2,0.04875167572884788,Syracuse,Notre Dame,4,3,1,1,NA,400912203,2017-02-19,
+315,4,0:25,25,25,Foul on Alexis Peterson.,78,81,-3,0,0.047005273609936685,Syracuse,Notre Dame,4,3,1,1,NA,400912203,2017-02-19,
+316,4,0:25,25,25,Arike Ogunbowale missed Free Throw.,78,81,-3,0,0.047005273609936685,Syracuse,Notre Dame,4,3,1,1,NA,400912203,2017-02-19,
+317,4,0:25,25,25,Notre Dame Deadball Team Rebound.,78,81,-3,0,0.047005273609936685,Syracuse,Notre Dame,4,3,1,1,NA,400912203,2017-02-19,
+318,4,0:25,25,25,Arike Ogunbowale missed Free Throw.,78,81,-3,0,0.047005273609936685,Syracuse,Notre Dame,4,3,1,1,NA,400912203,2017-02-19,
+319,4,0:25,25,25,Bria Day Defensive Rebound.,78,81,-3,14,0.047005273609936685,Syracuse,Notre Dame,4,3,1,1,NA,400912203,2017-02-19,
+320,4,0:11,11,11,Foul on Arike Ogunbowale.,78,81,-3,0,0.03588657491023283,Syracuse,Notre Dame,4,3,1,1,NA,400912203,2017-02-19,
+321,4,0:11,11,11,Alexis Peterson made Free Throw.,79,81,-2,0,0.10029986994839347,Syracuse,Notre Dame,4,3,1,1,NA,400912203,2017-02-19,Syracuse
+322,4,0:11,11,11,Alexis Peterson made Free Throw.,80,81,-1,0,0.25031207879760475,Syracuse,Notre Dame,4,3,1,1,NA,400912203,2017-02-19,Syracuse
+323,4,0:11,11,11,Notre Dame  Timeout,80,81,-1,1,0.25031207879760475,Syracuse,Notre Dame,3,3,1,1,NA,400912203,2017-02-19,
+324,4,0:10,10,10,Foul on Brittney Sykes.,80,81,-1,0,0.24899498333728412,Syracuse,Notre Dame,3,3,1,1,NA,400912203,2017-02-19,
+325,4,0:10,10,10,Marina Mabrey made Free Throw.,80,82,-2,0,0.09903802686638556,Syracuse,Notre Dame,3,3,1,1,NA,400912203,2017-02-19,Notre Dame
+326,4,0:10,10,10,Marina Mabrey made Free Throw.,80,83,-3,6,0.035163883243131466,Syracuse,Notre Dame,3,3,1,1,NA,400912203,2017-02-19,Notre Dame
+327,4,0:04,4,4,Alexis Peterson missed Three Point Jumper.,80,83,-3,0,0.03104907390872038,Syracuse,Notre Dame,3,3,1,1,NA,400912203,2017-02-19,
+328,4,0:04,4,4,Brianna Turner Defensive Rebound.,80,83,-3,3,0.03104907390872038,Syracuse,Notre Dame,3,3,1,1,NA,400912203,2017-02-19,
+329,4,0:01,1,1,Foul on Gabrielle Cooper.,80,83,-3,0,0.029136972928700006,Syracuse,Notre Dame,3,3,1,1,NA,400912203,2017-02-19,
+330,4,0:01,1,1,Brianna Turner made Free Throw.,80,84,-4,0,0.00924024840272953,Syracuse,Notre Dame,3,3,1,1,NA,400912203,2017-02-19,Notre Dame
+331,4,0:01,1,1,Brianna Turner made Free Throw.,80,85,-5,1,0.002889929286074279,Syracuse,Notre Dame,3,3,1,1,NA,400912203,2017-02-19,Notre Dame
+332,4,0:00,0,0,End of Game,80,85,-5,0,3.720075976020836e-44,Syracuse,Notre Dame,3,3,1,1,NA,400912203,2017-02-19,

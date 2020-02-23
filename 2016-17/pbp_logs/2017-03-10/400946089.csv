@@ -1,0 +1,357 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:47,2387,2387,Courtney Woods made Jumper.,0,0,0,22,0.5,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,NA
+2,1,9:25,2365,2365,Meredith Shipman missed Three Point Jumper.,2,0,2,0,0.5447677378565356,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+3,1,9:25,2365,2365,Courtney Woods Defensive Rebound.,2,0,2,9,0.5447677378565356,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+4,1,9:16,2356,2356,Ally Lehman missed Layup.,2,0,2,0,0.5449611943204852,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+5,1,9:16,2356,2356,Marley Hill Defensive Rebound.,2,0,2,23,0.5449611943204852,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+6,1,8:53,2333,2333,Latondra Brooks made Jumper. Assisted by Deja Wimby.,2,2,0,9,0.5,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Western Michigan
+7,1,8:44,2324,2324,Mikayla Voigt missed Layup.,2,2,0,0,0.5,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+8,1,8:44,2324,2324,Meredith Shipman Block.,2,2,0,2,0.5,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+9,1,8:42,2322,2322,Latondra Brooks Defensive Rebound.,2,2,0,15,0.5,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+10,1,8:27,2307,2307,Breanna Mobley made Jumper. Assisted by Meredith Shipman.,2,4,-2,15,0.4539678046865719,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Western Michigan
+11,1,8:12,2292,2292,Kelly Smith Turnover.,2,4,-2,1,0.45363457052289796,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+12,1,8:11,2291,2291,Latondra Brooks Steal.,2,4,-2,7,0.45361227442286206,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+13,1,8:04,2284,2284,Marley Hill made Jumper.,2,6,-4,18,0.40771157881454945,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Western Michigan
+14,1,7:46,2266,2266,Cassidy Glenn missed Three Point Jumper.,2,6,-4,0,0.40692427541239734,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+15,1,7:46,2266,2266,Latondra Brooks Defensive Rebound.,2,6,-4,28,0.40692427541239734,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+16,1,7:18,2238,2238,Deja Wimby missed Jumper.,2,6,-4,0,0.4056899218730533,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+17,1,7:18,2238,2238,Ally Lehman Defensive Rebound.,2,6,-4,8,0.4056899218730533,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+18,1,7:10,2230,2230,Foul on Latondra Brooks.,2,6,-4,6,0.40533535916766966,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+19,1,7:04,2224,2224,Courtney Woods Turnover.,2,6,-4,18,0.4050689468608364,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+20,1,6:46,2206,2206,Latondra Brooks missed Jumper.,2,6,-4,0,0.40426742729131543,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+21,1,6:46,2206,2206,Courtney Woods Block.,2,6,-4,3,0.40426742729131543,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+22,1,6:43,2203,2203,Latondra Brooks Offensive Rebound.,2,6,-4,3,0.40413353715913203,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+23,1,6:40,2200,2200,Breanna Mobley Turnover.,2,6,-4,10,0.4039995677486693,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+24,1,6:30,2190,2190,Cassidy Glenn missed Layup.,2,6,-4,0,0.40355246629686053,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+25,1,6:30,2190,2190,Latondra Brooks Defensive Rebound.,2,6,-4,17,0.40355246629686053,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+26,1,6:13,2173,2173,Meredith Shipman missed Three Point Jumper.,2,6,-4,0,0.40279073553399275,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+27,1,6:13,2173,2173,Ally Lehman Defensive Rebound.,2,6,-4,8,0.40279073553399275,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+28,1,6:05,2165,2165,Ally Lehman made Layup.,4,6,-2,24,0.45074232375925694,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+29,1,5:41,2141,2141,Marley Hill missed Jumper.,4,6,-2,0,0.450184901425108,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+30,1,5:41,2141,2141,Breanna Mobley Offensive Rebound.,4,6,-2,4,0.450184901425108,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+31,1,5:37,2137,2137,Breanna Mobley made Layup.,4,8,-4,7,0.40116780955305614,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Western Michigan
+32,1,5:30,2130,2130,Cassidy Glenn made Three Point Jumper. Assisted by Ally Lehman.,7,8,-1,34,0.47490084655538,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+33,1,4:56,2096,2096,Meredith Shipman missed Layup.,7,8,-1,0,0.4744971546865564,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+34,1,4:56,2096,2096,Deja Wimby Offensive Rebound.,7,8,-1,5,0.4744971546865564,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+35,1,4:51,2091,2091,Deja Wimby missed Layup.,7,8,-1,0,0.4744373193566554,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+36,1,4:51,2091,2091,Marley Hill Offensive Rebound.,7,8,-1,1,0.4744373193566554,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+37,1,4:50,2090,2090,Foul on Courtney Woods.,7,8,-1,0,0.47442533718173074,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+38,1,4:50,2090,2090,Official TV Timeout,7,8,-1,0,0.47442533718173074,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+39,1,4:50,2090,2090,Marley Hill missed Free Throw.,7,8,-1,0,0.47442533718173074,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+40,1,4:50,2090,2090,Western Michigan Deadball Team Rebound.,7,8,-1,0,0.47442533718173074,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+41,1,4:50,2090,2090,Marley Hill missed Free Throw.,7,8,-1,0,0.47442533718173074,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+42,1,4:50,2090,2090,Cassidy Glenn Defensive Rebound.,7,8,-1,11,0.47442533718173074,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+43,1,4:39,2079,2079,Cassidy Glenn missed Three Point Jumper.,7,8,-1,0,0.47429319448595114,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+44,1,4:39,2079,2079,Marley Hill Defensive Rebound.,7,8,-1,18,0.47429319448595114,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+45,1,4:21,2061,2061,Meredith Shipman missed Three Point Jumper.,7,8,-1,0,0.47407557681364615,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+46,1,4:21,2061,2061,Northern Illinois Defensive Rebound.,7,8,-1,14,0.47407557681364615,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+47,1,4:07,2047,2047,Renee Sladek made Jumper. Assisted by Ally Lehman.,9,8,1,23,0.5260949240343042,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+48,1,3:44,2024,2024,Marley Hill missed Layup.,9,8,1,0,0.5263775259672235,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+49,1,3:44,2024,2024,Cassidy Glenn Defensive Rebound.,9,8,1,8,0.5263775259672235,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+50,1,3:36,2016,2016,Ally Lehman Turnover.,9,8,1,0,0.5264765806034609,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+51,1,3:36,2016,2016,Foul on Ally Lehman.,9,8,1,22,0.5264765806034609,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+52,1,3:14,1994,1994,Marley Hill missed Layup.,9,8,1,0,0.5267510982190485,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+53,1,3:14,1994,1994,Janae Poisson Defensive Rebound.,9,8,1,12,0.5267510982190485,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+54,1,3:02,1982,1982,Janae Poisson missed Three Point Jumper.,9,8,1,0,0.52690219264,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+55,1,3:02,1982,1982,Renee Sladek Offensive Rebound.,9,8,1,5,0.52690219264,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+56,1,2:57,1977,1977,Ally Lehman made Jumper. Assisted by Cassidy Glenn.,11,8,3,19,0.5802743095629743,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+57,1,2:38,1958,1958,Deja Wimby Turnover.,11,8,3,2,0.580983387401631,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+58,1,2:36,1956,1956,Renee Sladek Steal.,11,8,3,3,0.581058454632982,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+59,1,2:33,1953,1953,Cassidy Glenn missed Three Point Jumper.,11,8,3,0,0.5811712110282169,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+60,1,2:33,1953,1953,Ally Lehman Offensive Rebound.,11,8,3,12,0.5811712110282169,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+61,1,2:21,1941,1941,Cassidy Glenn made Jumper. Assisted by Ally Lehman.,13,8,5,22,0.6339206346694195,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+62,1,1:59,1919,1919,Marley Hill missed Layup.,13,8,5,0,0.6352497528633857,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+63,1,1:59,1919,1919,Renee Sladek Defensive Rebound.,13,8,5,11,0.6352497528633857,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+64,1,1:48,1908,1908,Ally Lehman made Three Point Jumper. Assisted by Courtney Woods.,16,8,8,2,0.7093589059703672,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+65,1,1:46,1906,1906,Western Michigan  Timeout,16,8,8,16,0.7095306058491521,Northern Illinois,Western Michigan,3,4,1,0,NA,400946089,2017-03-10,
+66,1,1:30,1890,1890,Meredith Shipman missed Three Point Jumper.,16,8,8,0,0.7109016795839772,Northern Illinois,Western Michigan,3,4,1,0,NA,400946089,2017-03-10,
+67,1,1:30,1890,1890,Ally Lehman Defensive Rebound.,16,8,8,13,0.7109016795839772,Northern Illinois,Western Michigan,3,4,1,0,NA,400946089,2017-03-10,
+68,1,1:17,1877,1877,Renee Sladek made Jumper. Assisted by Kelly Smith.,18,8,10,17,0.7561116016357281,Northern Illinois,Western Michigan,3,4,1,0,NA,400946089,2017-03-10,Northern Illinois
+69,1,1:00,1860,1860,Najee Smith missed Three Point Jumper.,18,8,10,0,0.7577432782317111,Northern Illinois,Western Michigan,3,4,1,0,NA,400946089,2017-03-10,
+70,1,1:00,1860,1860,Najee Smith Offensive Rebound.,18,8,10,4,0.7577432782317111,Northern Illinois,Western Michigan,3,4,1,0,NA,400946089,2017-03-10,
+71,1,0:56,1856,1856,Najee Smith made Layup.,18,10,8,12,0.713807778316042,Northern Illinois,Western Michigan,3,4,1,0,NA,400946089,2017-03-10,Western Michigan
+72,1,0:44,1844,1844,Ally Lehman missed Jumper.,18,10,8,0,0.7148339071495966,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+73,1,0:44,1844,1844,Breanna Mobley Defensive Rebound.,18,10,8,9,0.7148339071495966,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+74,1,0:35,1835,1835,Deja Wimby missed Jumper.,18,10,8,0,0.7156045144069828,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+75,1,0:35,1835,1835,Meredith Miller Offensive Rebound.,18,10,8,4,0.7156045144069828,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+76,1,0:31,1831,1831,Meredith Miller missed Layup.,18,10,8,0,0.7159473906477681,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+77,1,0:31,1831,1831,Deja Wimby Offensive Rebound.,18,10,8,3,0.7159473906477681,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+78,1,0:28,1828,1828,Deja Wimby missed Layup.,18,10,8,0,0.7162047302236102,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+79,1,0:28,1828,1828,Kelly Smith Defensive Rebound.,18,10,8,21,0.7162047302236102,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+80,1,0:07,1807,1807,Foul on Najee Smith.,18,10,8,5,0.7180116216702624,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+81,1,0:02,1802,1802,Kelly Smith missed Three Point Jumper.,18,10,8,0,0.7184435580155359,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+82,1,0:02,1802,1802,Deja Wimby Defensive Rebound.,18,10,8,2,0.7184435580155359,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+83,1,0:00,1800,1800,End of 1st Quarter,18,10,8,9,0.7186165494009514,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+84,2,9:51,1791,1791,Breanna Mobley made Layup.,18,12,6,10,0.6695395266978458,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Western Michigan
+85,2,9:41,1781,1781,Ally Lehman Turnover.,18,12,6,1,0.6702552342384621,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+86,2,9:40,1780,1780,Deja Wimby Steal.,18,12,6,5,0.670327017093005,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+87,2,9:35,1775,1775,Meredith Shipman missed Three Point Jumper.,18,12,6,0,0.6706865414343159,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+88,2,9:35,1775,1775,Courtney Woods Defensive Rebound.,18,12,6,9,0.6706865414343159,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+89,2,9:26,1766,1766,Foul on Najee Smith.,18,12,6,2,0.671336371612569,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+90,2,9:24,1764,1764,Ally Lehman Turnover.,18,12,6,0,0.671481270423598,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+91,2,9:24,1764,1764,Foul on Ally Lehman.,18,12,6,11,0.671481270423598,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+92,2,9:13,1753,1753,Deja Wimby Turnover.,18,12,6,10,0.6722816179013044,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+93,2,9:03,1743,1743,Cassidy Glenn made Jumper.,20,12,8,27,0.723615703654647,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+94,2,8:36,1716,1716,Meredith Miller missed Three Point Jumper.,20,12,8,0,0.7260451118341087,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+95,2,8:36,1716,1716,Ally Lehman Defensive Rebound.,20,12,8,8,0.7260451118341087,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+96,2,8:28,1708,1708,Ally Lehman made Jumper.,22,12,10,28,0.7725731622720176,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+97,2,8:00,1680,1680,Meredith Miller missed Layup.,22,12,10,0,0.7754214396232141,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+98,2,8:00,1680,1680,Mikayla Voigt Defensive Rebound.,22,12,10,10,0.7754214396232141,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+99,2,7:50,1670,1670,Mikayla Voigt missed Three Point Jumper.,22,12,10,0,0.7764189307222358,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+100,2,7:50,1670,1670,Breanna Mobley Defensive Rebound.,22,12,10,6,0.7764189307222358,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+101,2,7:44,1664,1664,Deja Wimby made Layup.,22,14,8,14,0.7307949244547294,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Western Michigan
+102,2,7:30,1650,1650,Foul on Deja Wimby.,22,14,8,0,0.7320298332538037,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+103,2,7:30,1650,1650,Kelly Smith made Free Throw.,23,14,9,0,0.7559429340230546,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+104,2,7:30,1650,1650,Kelly Smith made Free Throw.,24,14,10,23,0.77836816296198,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+105,2,7:07,1627,1627,Marley Hill missed Layup.,24,14,10,0,0.7805518517438387,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+106,2,7:07,1627,1627,Marley Hill Offensive Rebound.,24,14,10,5,0.7805518517438387,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+107,2,7:02,1622,1622,Marley Hill missed Layup.,24,14,10,0,0.7810205684847273,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+108,2,7:02,1622,1622,Kelly Smith Defensive Rebound.,24,14,10,10,0.7810205684847273,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+109,2,6:52,1612,1612,Courtney Woods made Three Point Jumper. Assisted by Cassidy Glenn.,27,14,13,22,0.8402665037978526,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+110,2,6:30,1590,1590,Breanna Mobley missed Jumper.,27,14,13,0,0.8423490489732951,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+111,2,6:30,1590,1590,Breanna Mobley Offensive Rebound.,27,14,13,4,0.8423490489732951,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+112,2,6:26,1586,1586,Breanna Mobley missed Layup.,27,14,13,0,0.8427260162134509,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+113,2,6:26,1586,1586,Cassidy Glenn Defensive Rebound.,27,14,13,9,0.8427260162134509,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+114,2,6:17,1577,1577,Mikayla Voigt missed Three Point Jumper.,27,14,13,0,0.8435735897905208,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+115,2,6:17,1577,1577,Deja Wimby Defensive Rebound.,27,14,13,9,0.8435735897905208,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+116,2,6:08,1568,1568,Breanna Mobley made Jumper. Assisted by Deja Wimby.,27,16,11,9,0.8070990997376277,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Western Michigan
+117,2,5:59,1559,1559,Janae Poisson made Three Point Jumper. Assisted by Mikayla Voigt.,30,16,14,2,0.8615942351804977,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+118,2,5:57,1557,1557,Western Michigan  Timeout,30,16,14,0,0.8617799072630268,Northern Illinois,Western Michigan,3,4,1,0,NA,400946089,2017-03-10,
+119,2,5:57,1557,1557,Official TV Timeout,30,16,14,16,0.8617799072630268,Northern Illinois,Western Michigan,3,4,1,0,NA,400946089,2017-03-10,
+120,2,5:41,1541,1541,Breanna Mobley missed Jumper.,30,16,14,0,0.8632710903176509,Northern Illinois,Western Michigan,3,4,1,0,NA,400946089,2017-03-10,
+121,2,5:41,1541,1541,Emma Vanzanten Offensive Rebound.,30,16,14,9,0.8632710903176509,Northern Illinois,Western Michigan,3,4,1,0,NA,400946089,2017-03-10,
+122,2,5:32,1532,1532,Emma Vanzanten Turnover.,30,16,14,17,0.8641161084452549,Northern Illinois,Western Michigan,3,4,1,0,NA,400946089,2017-03-10,
+123,2,5:15,1515,1515,Foul on Emma Vanzanten.,30,16,14,0,0.8657295098516701,Northern Illinois,Western Michigan,3,4,1,0,NA,400946089,2017-03-10,
+124,2,5:15,1515,1515,Kelly Smith made Free Throw.,31,16,15,0,0.8804647672802166,Northern Illinois,Western Michigan,3,4,1,0,NA,400946089,2017-03-10,Northern Illinois
+125,2,5:15,1515,1515,Kelly Smith missed Free Throw.,31,16,15,0,0.8804647672802166,Northern Illinois,Western Michigan,3,4,1,0,NA,400946089,2017-03-10,
+126,2,5:15,1515,1515,Cassidy Glenn Offensive Rebound.,31,16,15,10,0.8804647672802166,Northern Illinois,Western Michigan,3,4,1,0,NA,400946089,2017-03-10,
+127,2,5:05,1505,1505,Kelly Smith made Jumper.,33,16,17,16,0.9066300704166311,Northern Illinois,Western Michigan,3,4,1,0,NA,400946089,2017-03-10,Northern Illinois
+128,2,4:49,1489,1489,Latondra Brooks missed Jumper.,33,16,17,0,0.9080191911010221,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+129,2,4:49,1489,1489,Kelly Smith Defensive Rebound.,33,16,17,6,0.9080191911010221,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+130,2,4:43,1483,1483,Janae Poisson made Three Point Jumper. Assisted by Mikayla Voigt.,36,16,20,24,0.9370972619776741,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+131,2,4:19,1459,1459,Najee Smith missed Three Point Jumper.,36,16,20,0,0.9388885444114365,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+132,2,4:19,1459,1459,Courtney Woods Defensive Rebound.,36,16,20,10,0.9388885444114365,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+133,2,4:09,1449,1449,Janae Poisson Turnover.,36,16,20,0,0.9396502197920399,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+134,2,4:09,1449,1449,Najee Smith Steal.,36,16,20,14,0.9396502197920399,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+135,2,3:55,1435,1435,Meredith Shipman missed Three Point Jumper.,36,16,20,0,0.9406937649906645,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+136,2,3:55,1435,1435,Breanna Mobley Offensive Rebound.,36,16,20,7,0.9406937649906645,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+137,2,3:48,1428,1428,Meredith Shipman Turnover.,36,16,20,1,0.9411983697420541,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+138,2,3:47,1427,1427,Cassidy Glenn Steal.,36,16,20,14,0.9412696030846537,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+139,2,3:33,1413,1413,Cassidy Glenn missed Layup.,36,16,20,0,0.9422465287602833,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+140,2,3:33,1413,1413,Cassidy Glenn Offensive Rebound.,36,16,20,3,0.9422465287602833,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+141,2,3:30,1410,1410,Cassidy Glenn Turnover.,36,16,20,14,0.9424513269096413,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+142,2,3:16,1396,1396,Emma Vanzanten missed Jumper.,36,16,20,0,0.9433889353497248,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+143,2,3:16,1396,1396,Emma Vanzanten Offensive Rebound.,36,16,20,13,0.9433889353497248,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+144,2,3:03,1383,1383,Breanna Mobley missed Jumper.,36,16,20,0,0.9442370593771132,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+145,2,3:03,1383,1383,Courtney Woods Defensive Rebound.,36,16,20,12,0.9442370593771132,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+146,2,2:51,1371,1371,Foul on Najee Smith.,36,16,20,0,0.9450051755345953,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+147,2,2:51,1371,1371,Kelly Smith missed Free Throw.,36,16,20,0,0.9450051755345953,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+148,2,2:51,1371,1371,Northern Illinois Deadball Team Rebound.,36,16,20,0,0.9450051755345953,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+149,2,2:51,1371,1371,Kelly Smith made Free Throw.,37,16,21,12,0.951944442746589,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+150,2,2:39,1359,1359,Meredith Shipman Turnover.,37,16,21,9,0.9526445377191236,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+151,2,2:30,1350,1350,Mikayla Voigt missed Jumper.,37,16,21,0,0.9531649506711367,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+152,2,2:30,1350,1350,Latondra Brooks Defensive Rebound.,37,16,21,20,0.9531649506711367,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+153,2,2:10,1330,1330,Foul on Mikayla Voigt.,37,16,21,16,0.9543142953338642,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+154,2,1:54,1314,1314,Deja Wimby missed Jumper.,37,16,21,0,0.9552339808028262,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+155,2,1:54,1314,1314,Cassidy Glenn Block.,37,16,21,2,0.9552339808028262,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+156,2,1:52,1312,1312,Cassidy Glenn Defensive Rebound.,37,16,21,0,0.9553493166426379,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+157,2,1:52,1312,1312,Foul on Deja Wimby.,37,16,21,0,0.9553493166426379,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+158,2,1:52,1312,1312,Courtney Woods made Free Throw.,38,16,22,0,0.961174340732695,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+159,2,1:52,1312,1312,Courtney Woods made Free Throw.,39,16,23,11,0.966266278765704,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+160,2,1:41,1301,1301,Kamrin Reed made Three Point Jumper. Assisted by Latondra Brooks.,39,19,20,9,0.9493893482274217,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,Western Michigan
+161,2,1:32,1292,1292,Cassidy Glenn missed Three Point Jumper.,39,19,20,0,0.9499606972731441,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+162,2,1:32,1292,1292,Renee Sladek Offensive Rebound.,39,19,20,5,0.9499606972731441,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+163,2,1:27,1287,1287,Kelly Smith made Layup. Assisted by Mikayla Voigt.,41,19,22,26,0.9625072764123204,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+164,2,1:01,1261,1261,Kamrin Reed made Three Point Jumper. Assisted by Deja Wimby.,41,22,19,15,0.9446702195216221,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,Western Michigan
+165,2,0:46,1246,1246,Mikayla Voigt made Three Point Jumper. Assisted by Kelly Smith.,44,22,22,19,0.9647744952900881,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+166,2,0:27,1227,1227,Latondra Brooks missed Jumper.,44,22,22,0,0.9658747029939785,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+167,2,0:27,1227,1227,Breanna Mobley Offensive Rebound.,44,22,22,3,0.9658747029939785,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+168,2,0:24,1224,1224,Breanna Mobley made Layup.,44,24,20,24,0.9545220621615146,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,Western Michigan
+169,2,0:00,1200,1200,End of 2nd Quarter,44,24,20,8,0.9562530359229152,Northern Illinois,Western Michigan,3,4,0,0,NA,400946089,2017-03-10,
+170,3,9:52,1192,1192,Cassidy Glenn made Three Point Jumper. Assisted by Ally Lehman.,47,24,23,30,0.9724203120611485,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Northern Illinois
+171,3,9:22,1162,1162,Deja Wimby missed Jumper.,47,24,23,0,0.9738873070125753,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+172,3,9:22,1162,1162,Marley Hill Offensive Rebound.,47,24,23,2,0.9738873070125753,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+173,3,9:20,1160,1160,Marley Hill missed Layup.,47,24,23,0,0.9739806886514716,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+174,3,9:20,1160,1160,Courtney Woods Block.,47,24,23,1,0.9739806886514716,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+175,3,9:19,1159,1159,Courtney Woods Defensive Rebound.,47,24,23,5,0.9740272054980781,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+176,3,9:14,1154,1154,Courtney Woods Turnover.,47,24,23,12,0.9742581255805375,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+177,3,9:02,1142,1142,Meredith Shipman Turnover.,47,24,23,0,0.9748021380684039,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+178,3,9:02,1142,1142,Foul on Meredith Shipman.,47,24,23,13,0.9748021380684039,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+179,3,8:49,1129,1129,Kelly Smith made Layup. Assisted by Mikayla Voigt.,49,24,25,10,0.9819981908956109,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Northern Illinois
+180,3,8:39,1119,1119,Latondra Brooks Turnover.,49,24,25,1,0.982346509361085,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+181,3,8:38,1118,1118,Kelly Smith Steal.,49,24,25,7,0.9823810824261631,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+182,3,8:31,1111,1111,Cassidy Glenn missed Three Point Jumper.,49,24,25,0,0.9826219741047597,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+183,3,8:31,1111,1111,Western Michigan Defensive Rebound.,49,24,25,18,0.9826219741047597,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+184,3,8:13,1093,1093,Deja Wimby made Jumper. Assisted by Breanna Mobley.,49,26,23,9,0.9769282740831755,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Western Michigan
+185,3,8:04,1084,1084,Ally Lehman made Jumper.,51,26,25,18,0.9835385433714087,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Northern Illinois
+186,3,7:46,1066,1066,Marley Hill missed Jumper.,51,26,25,0,0.9841452566864365,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+187,3,7:46,1066,1066,Breanna Mobley Offensive Rebound.,51,26,25,6,0.9841452566864365,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+188,3,7:40,1060,1060,Latondra Brooks made Jumper. Assisted by Meredith Shipman.,51,28,23,11,0.9783329145302778,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Western Michigan
+189,3,7:29,1049,1049,Janae Poisson missed Jumper.,51,28,23,0,0.9788047438489527,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+190,3,7:29,1049,1049,Meredith Shipman Defensive Rebound.,51,28,23,7,0.9788047438489527,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+191,3,7:22,1042,1042,Breanna Mobley made Layup. Assisted by Deja Wimby.,51,30,21,7,0.9710464205650639,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Western Michigan
+192,3,7:15,1035,1035,Janae Poisson missed Three Point Jumper.,51,30,21,0,0.9714280853714174,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+193,3,7:15,1035,1035,Meredith Shipman Defensive Rebound.,51,30,21,29,0.9714280853714174,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+194,3,6:46,1006,1006,Breanna Mobley missed Layup.,51,30,21,0,0.9730450764681019,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+195,3,6:46,1006,1006,Kelly Smith Defensive Rebound.,51,30,21,5,0.9730450764681019,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+196,3,6:41,1001,1001,Foul on Meredith Shipman.,51,30,21,6,0.973330493547,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+197,3,6:35,995,995,Cassidy Glenn Turnover.,51,30,21,0,0.9736758048348274,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+198,3,6:35,995,995,Foul on Cassidy Glenn.,51,30,21,19,0.9736758048348274,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+199,3,6:16,976,976,Foul on Courtney Woods.,51,30,21,4,0.9747903748975723,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+200,3,6:12,972,972,Marley Hill made Layup.,51,32,19,13,0.9649647251821557,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Western Michigan
+201,3,5:59,959,959,Foul on Breanna Mobley.,51,32,19,0,0.9659112104193263,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+202,3,5:59,959,959,Courtney Woods made Free Throw.,52,32,20,0,0.9712545411389975,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Northern Illinois
+203,3,5:59,959,959,Courtney Woods made Free Throw.,53,32,21,15,0.975781318728054,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Northern Illinois
+204,3,5:44,944,944,Meredith Shipman made Three Point Jumper. Assisted by Latondra Brooks.,53,35,18,16,0.9607153778502331,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Western Michigan
+205,3,5:28,928,928,Mikayla Voigt made Three Point Jumper. Assisted by Courtney Woods.,56,35,21,19,0.9773095143782067,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Northern Illinois
+206,3,5:09,909,909,Meredith Shipman missed Three Point Jumper.,56,35,21,0,0.9781140069585524,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+207,3,5:09,909,909,Cassidy Glenn Defensive Rebound.,56,35,21,9,0.9781140069585524,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+208,3,5:00,900,900,Courtney Woods made Three Point Jumper. Assisted by Ally Lehman.,59,35,24,15,0.9874060180941849,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Northern Illinois
+209,3,4:45,885,885,Marley Hill missed Jumper.,59,35,24,0,0.9877923731447253,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+210,3,4:45,885,885,Mikayla Voigt Defensive Rebound.,59,35,24,11,0.9877923731447253,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+211,3,4:34,874,874,Official TV Timeout,59,35,24,4,0.9880669163429877,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+212,3,4:30,870,870,Kelly Smith missed Jumper.,59,35,24,0,0.9881656319805566,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+213,3,4:30,870,870,Breanna Mobley Defensive Rebound.,59,35,24,22,0.9881656319805566,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+214,3,4:08,848,848,Breanna Mobley made Layup. Assisted by Marley Hill.,59,37,22,9,0.9836880863312895,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Western Michigan
+215,3,3:59,839,839,Courtney Woods missed Three Point Jumper.,59,37,22,0,0.9839815813835361,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+216,3,3:59,839,839,Latondra Brooks Defensive Rebound.,59,37,22,12,0.9839815813835361,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+217,3,3:47,827,827,Meredith Shipman missed Layup.,59,37,22,0,0.9843800070681424,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+218,3,3:47,827,827,Kelly Smith Block.,59,37,22,2,0.9843800070681424,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+219,3,3:45,825,825,Kelly Smith Defensive Rebound.,59,37,22,22,0.9844474242966653,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+220,3,3:23,803,803,Northern Illinois  Timeout,59,37,22,0,0.9852138923489899,Northern Illinois,Western Michigan,4,4,0,1,NA,400946089,2017-03-10,
+221,3,3:23,803,803,Official TV Timeout,59,37,22,7,0.9852138923489899,Northern Illinois,Western Michigan,4,4,0,1,NA,400946089,2017-03-10,
+222,3,3:16,796,796,Renee Sladek missed Jumper.,59,37,22,0,0.9854689674539441,Northern Illinois,Western Michigan,4,4,0,1,NA,400946089,2017-03-10,
+223,3,3:16,796,796,Breanna Mobley Defensive Rebound.,59,37,22,19,0.9854689674539441,Northern Illinois,Western Michigan,4,4,0,1,NA,400946089,2017-03-10,
+224,3,2:57,777,777,Breanna Mobley missed Layup.,59,37,22,0,0.9861934235966084,Northern Illinois,Western Michigan,4,4,0,1,NA,400946089,2017-03-10,
+225,3,2:57,777,777,Courtney Woods Defensive Rebound.,59,37,22,7,0.9861934235966084,Northern Illinois,Western Michigan,4,4,0,1,NA,400946089,2017-03-10,
+226,3,2:50,770,770,Foul on Deja Wimby.,59,37,22,10,0.9864730058735858,Northern Illinois,Western Michigan,4,4,0,1,NA,400946089,2017-03-10,
+227,3,2:40,760,760,Mikayla Voigt missed Three Point Jumper.,59,37,22,0,0.9868847917327684,Northern Illinois,Western Michigan,4,4,0,1,NA,400946089,2017-03-10,
+228,3,2:40,760,760,Breanna Mobley Defensive Rebound.,59,37,22,11,0.9868847917327684,Northern Illinois,Western Michigan,4,4,0,1,NA,400946089,2017-03-10,
+229,3,2:29,749,749,Deja Wimby missed Layup.,59,37,22,0,0.9873547667013357,Northern Illinois,Western Michigan,4,4,0,1,NA,400946089,2017-03-10,
+230,3,2:29,749,749,Breanna Mobley Offensive Rebound.,59,37,22,3,0.9873547667013357,Northern Illinois,Western Michigan,4,4,0,1,NA,400946089,2017-03-10,
+231,3,2:26,746,746,Breanna Mobley missed Layup.,59,37,22,0,0.9874860224383489,Northern Illinois,Western Michigan,4,4,0,1,NA,400946089,2017-03-10,
+232,3,2:26,746,746,Western Michigan Offensive Rebound.,59,37,22,7,0.9874860224383489,Northern Illinois,Western Michigan,4,4,0,1,NA,400946089,2017-03-10,
+233,3,2:19,739,739,Meredith Miller made Layup. Assisted by Meredith Shipman.,59,39,20,22,0.981914349838882,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Western Michigan
+234,3,1:57,717,717,Kelly Smith missed Jumper.,59,39,20,0,0.9832170413274041,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+235,3,1:57,717,717,Breanna Mobley Defensive Rebound.,59,39,20,9,0.9832170413274041,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+236,3,1:48,708,708,Breanna Mobley missed Layup.,59,39,20,0,0.9836814797467159,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+237,3,1:48,708,708,Mikayla Voigt Defensive Rebound.,59,39,20,5,0.9836814797467159,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+238,3,1:43,703,703,Cassidy Glenn Turnover.,59,39,20,9,0.9839231173097628,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+239,3,1:34,694,694,Foul on Kelly Smith.,59,39,20,0,0.9843333868593428,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+240,3,1:34,694,694,Breanna Mobley missed Free Throw.,59,39,20,0,0.9843333868593428,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+241,3,1:34,694,694,Western Michigan Deadball Team Rebound.,59,39,20,0,0.9843333868593428,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+242,3,1:34,694,694,Breanna Mobley made Free Throw.,59,40,19,8,0.9807991116532786,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Western Michigan
+243,3,1:26,686,686,Courtney Woods missed Three Point Jumper.,59,40,19,0,0.9811968278570008,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+244,3,1:26,686,686,Meredith Shipman Defensive Rebound.,59,40,19,20,0.9811968278570008,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+245,3,1:06,666,666,Foul on Kelly Smith.,59,40,19,0,0.9821204298256941,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+246,3,1:06,666,666,Kamrin Reed missed Jumper.,59,40,19,0,0.9821204298256941,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+247,3,1:06,666,666,Kelly Smith Defensive Rebound.,59,40,19,0,0.9821204298256941,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+248,3,1:06,666,666,Foul on Breanna Mobley.,59,40,19,0,0.9821204298256941,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+249,3,1:06,666,666,Kelly Smith missed Free Throw.,59,40,19,0,0.9821204298256941,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+250,3,1:06,666,666,Northern Illinois Deadball Team Rebound.,59,40,19,0,0.9821204298256941,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+251,3,1:06,666,666,Kelly Smith made Free Throw.,60,40,20,21,0.9854699572144416,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+252,3,0:45,645,645,Meredith Shipman missed Three Point Jumper.,60,40,20,0,0.9862574064750107,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+253,3,0:45,645,645,Meredith Miller Offensive Rebound.,60,40,20,3,0.9862574064750107,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+254,3,0:42,642,642,Foul on Courtney Woods.,60,40,20,0,0.9863693231892837,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+255,3,0:42,642,642,Meredith Miller missed Free Throw.,60,40,20,0,0.9863693231892837,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+256,3,0:42,642,642,Western Michigan Deadball Team Rebound.,60,40,20,0,0.9863693231892837,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+257,3,0:42,642,642,Meredith Miller missed Free Throw.,60,40,20,0,0.9863693231892837,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+258,3,0:42,642,642,Kamrin Reed Offensive Rebound.,60,40,20,8,0.9863693231892837,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+259,3,0:34,634,634,Meredith Shipman Turnover.,60,40,20,1,0.9866695981562631,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+260,3,0:33,633,633,Ally Lehman Steal.,60,40,20,6,0.9867074075840383,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+261,3,0:27,627,627,Foul on Meredith Miller.,60,40,20,0,0.9869360300172265,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+262,3,0:27,627,627,Courtney Woods made Free Throw.,61,40,21,0,0.9894495944686814,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+263,3,0:27,627,627,Courtney Woods made Free Throw.,62,40,22,15,0.9914837113960485,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Northern Illinois
+264,3,0:12,612,612,Breanna Mobley made Jumper. Assisted by Aneisha Carlisle.,62,42,20,12,0.9875255646273178,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,Western Michigan
+265,3,0:00,600,600,Ally Lehman missed Jumper.,62,42,20,0,0.9880219446911156,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+266,3,0:00,600,600,Meredith Miller Defensive Rebound.,62,42,20,0,0.9880219446911156,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+267,3,0:00,600,600,End of 3rd Quarter,62,42,20,7,0.9880219446911156,Northern Illinois,Western Michigan,4,4,0,0,NA,400946089,2017-03-10,
+268,4,9:53,593,593,Deja Wimby Turnover.,62,42,20,10,0.9883237614149873,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+269,4,9:43,583,583,Kelly Smith Turnover.,62,42,20,1,0.9887721938817383,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+270,4,9:42,582,582,Meredith Miller Steal.,62,42,20,8,0.9888181981644193,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+271,4,9:34,574,574,Deja Wimby Turnover.,62,42,20,1,0.9891940096433393,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+272,4,9:33,573,573,Ally Lehman Steal.,62,42,20,4,0.9892419634441162,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+273,4,9:29,569,569,Courtney Woods missed Three Point Jumper.,62,42,20,0,0.9894359523303173,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+274,4,9:29,569,569,Ally Lehman Offensive Rebound.,62,42,20,4,0.9894359523303173,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+275,4,9:25,565,565,Ally Lehman made Layup.,64,42,22,21,0.9934036482383216,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,Northern Illinois
+276,4,9:04,544,544,Deja Wimby Turnover.,64,42,22,0,0.9941519875952319,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+277,4,9:04,544,544,Ally Lehman Steal.,64,42,22,8,0.9941519875952319,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+278,4,8:56,536,536,Foul on Breanna Mobley.,64,42,22,0,0.9943993899745138,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+279,4,8:56,536,536,Kelly Smith made Free Throw.,65,42,23,0,0.9955689793756437,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,Northern Illinois
+280,4,8:56,536,536,Kelly Smith made Free Throw.,66,42,24,8,0.9964951813638018,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,Northern Illinois
+281,4,8:48,528,528,Meredith Miller missed Three Point Jumper.,66,42,24,0,0.9966445533293405,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+282,4,8:48,528,528,Cassidy Glenn Defensive Rebound.,66,42,24,10,0.9966445533293405,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+283,4,8:38,518,518,Cassidy Glenn missed Three Point Jumper.,66,42,24,0,0.9968104099253096,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+284,4,8:38,518,518,Breanna Mobley Defensive Rebound.,66,42,24,20,0.9968104099253096,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+285,4,8:18,498,498,Aneisha Carlisle Turnover.,66,42,24,1,0.9971023596185059,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+286,4,8:17,497,497,Mikayla Voigt Steal.,66,42,24,12,0.9971162762354128,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+287,4,8:05,485,485,Foul on Breanna Mobley.,66,42,24,0,0.9972828182297419,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+288,4,8:05,485,485,Kelly Smith made Free Throw.,67,42,25,0,0.9978742426817314,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,Northern Illinois
+289,4,8:05,485,485,Kelly Smith made Free Throw.,68,42,26,25,0.9983371517485294,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,Northern Illinois
+290,4,7:40,460,460,Aneisha Carlisle missed Layup.,68,42,26,0,0.9985792331278355,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+291,4,7:40,460,460,Courtney Woods Defensive Rebound.,68,42,26,15,0.9985792331278355,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+292,4,7:25,445,445,Mikayla Voigt missed Three Point Jumper.,68,42,26,0,0.9987397058701165,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+293,4,7:25,445,445,Meredith Shipman Defensive Rebound.,68,42,26,8,0.9987397058701165,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,
+294,4,7:17,437,437,Kamrin Reed made Three Point Jumper. Assisted by Meredith Shipman.,68,45,23,5,0.9974551101088924,Northern Illinois,Western Michigan,5,5,0,0,NA,400946089,2017-03-10,Western Michigan
+295,4,7:12,432,432,Western Michigan  Timeout,68,45,23,0,0.9975675124697778,Northern Illinois,Western Michigan,4,5,1,0,NA,400946089,2017-03-10,
+296,4,7:12,432,432,Official TV Timeout,68,45,23,12,0.9975675124697778,Northern Illinois,Western Michigan,4,5,1,0,NA,400946089,2017-03-10,
+297,4,7:00,420,420,Ally Lehman made Layup.,70,45,25,14,0.9987221534839219,Northern Illinois,Western Michigan,4,5,1,0,NA,400946089,2017-03-10,Northern Illinois
+298,4,6:46,406,406,Aneisha Carlisle Turnover.,70,45,25,0,0.9988801559742365,Northern Illinois,Western Michigan,4,5,1,0,NA,400946089,2017-03-10,
+299,4,6:46,406,406,Ally Lehman Steal.,70,45,25,3,0.9988801559742365,Northern Illinois,Western Michigan,4,5,1,0,NA,400946089,2017-03-10,
+300,4,6:43,403,403,Ally Lehman made Layup.,72,45,27,19,0.9993683848355663,Northern Illinois,Western Michigan,4,5,1,0,NA,400946089,2017-03-10,Northern Illinois
+301,4,6:24,384,384,Meredith Miller missed Three Point Jumper.,72,45,27,0,0.9994762467147579,Northern Illinois,Western Michigan,4,5,1,0,NA,400946089,2017-03-10,
+302,4,6:24,384,384,Western Michigan Offensive Rebound.,72,45,27,9,0.9994762467147579,Northern Illinois,Western Michigan,4,5,1,0,NA,400946089,2017-03-10,
+303,4,6:15,375,375,Meredith Miller made Jumper. Assisted by Meredith Shipman.,72,47,25,23,0.9991585510670312,Northern Illinois,Western Michigan,4,5,1,0,NA,400946089,2017-03-10,Western Michigan
+304,4,5:52,352,352,Mikayla Voigt missed Layup.,72,47,25,0,0.9993392572208405,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+305,4,5:52,352,352,Mikayla Voigt Offensive Rebound.,72,47,25,5,0.9993392572208405,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+306,4,5:47,347,347,Courtney Woods missed Jumper.,72,47,25,0,0.9993773449704958,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+307,4,5:47,347,347,Cassidy Glenn Offensive Rebound.,72,47,25,4,0.9993773449704958,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+308,4,5:43,343,343,Mikayla Voigt missed Jumper.,72,47,25,0,0.9994075545686721,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+309,4,5:43,343,343,Emma Vanzanten Defensive Rebound.,72,47,25,2,0.9994075545686721,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+310,4,5:41,341,341,Foul on Kelly Smith.,72,47,25,12,0.9994225678398747,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+311,4,5:29,329,329,Kamrin Reed made Three Point Jumper. Assisted by Meredith Shipman.,72,50,22,16,0.998780591848393,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Western Michigan
+312,4,5:13,313,313,Courtney Woods made Jumper.,74,50,24,10,0.9994838479105385,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Northern Illinois
+313,4,5:03,303,303,Meredith Miller missed Three Point Jumper.,74,50,24,0,0.9995568024544191,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+314,4,5:03,303,303,Emma Vanzanten Offensive Rebound.,74,50,24,7,0.9995568024544191,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+315,4,4:56,296,296,Kamrin Reed missed Three Point Jumper.,74,50,24,0,0.99958089915259285,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+316,4,4:56,296,296,Ally Lehman Defensive Rebound.,74,50,24,19,0.99958089915259285,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+317,4,4:37,277,277,Janae Poisson made Layup.,76,50,26,19,0.9997782350368375,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Northern Illinois
+318,4,4:18,258,258,Foul on Kelly Smith.,76,50,26,0,0.999745139368725,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+319,4,4:18,258,258,Najee Smith made Free Throw.,76,51,25,0,0.9996496709529619,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Western Michigan
+320,4,4:18,258,258,Najee Smith missed Free Throw.,76,51,25,0,0.9996496709529619,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+321,4,4:18,258,258,Janae Poisson Defensive Rebound.,76,51,25,9,0.9996496709529619,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+322,4,4:09,249,249,Ally Lehman missed Layup.,76,51,25,0,0.9996276697714209,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+323,4,4:09,249,249,Meredith Shipman Defensive Rebound.,76,51,25,7,0.9996276697714209,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+324,4,4:02,242,242,Aneisha Carlisle made Layup. Assisted by Meredith Shipman.,76,53,23,11,0.999279556897963,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Western Michigan
+325,4,3:51,231,231,Courtney Woods missed Three Point Jumper.,76,53,23,0,0.9992793438510328,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+326,4,3:51,231,231,Najee Smith Defensive Rebound.,76,53,23,8,0.9992793438510328,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+327,4,3:43,223,223,Najee Smith made Layup.,76,55,21,25,0.9987070726026711,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Western Michigan
+328,4,3:18,198,198,Foul on Najee Smith.,76,55,21,0,0.9992108634474333,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+329,4,3:18,198,198,Abby Woollacott made Free Throw.,77,55,22,0,0.9994382893423063,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Northern Illinois
+330,4,3:18,198,198,Abby Woollacott Turnover.,77,55,22,11,0.9994382893423063,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+331,4,3:07,187,187,Najee Smith missed Three Point Jumper.,77,55,22,0,0.9996450782142421,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+332,4,3:07,187,187,Renee Sladek Defensive Rebound.,77,55,22,22,0.9996450782142421,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+333,4,2:45,165,165,Courtney Woods made Three Point Jumper. Assisted by Ally Lehman.,80,55,25,18,0.999963223657479,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Northern Illinois
+334,4,2:27,147,147,Najee Smith Turnover.,80,55,25,2,0.999987542353468,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+335,4,2:25,145,145,Renee Sladek Steal.,80,55,25,16,0.999989062120137,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+336,4,2:09,129,129,Janae Poisson missed Jumper.,80,55,25,0,0.9999964779277073,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+337,4,2:09,129,129,Emma Vanzanten Defensive Rebound.,80,55,25,10,0.9999964779277073,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+338,4,1:59,119,119,Kamrin Reed missed Three Point Jumper.,80,55,25,0,0.9999984281804382,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+339,4,1:59,119,119,Renee Sladek Defensive Rebound.,80,55,25,20,0.9999984281804382,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+340,4,1:39,99,99,Foul on Alexis Parks.,80,55,25,3,0.9999997646051318,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+341,4,1:36,96,96,Janae Poisson made Layup.,82,55,27,11,0.9999999509828977,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Northern Illinois
+342,4,1:25,85,85,Aneisha Carlisle missed Layup.,82,55,27,0,0.9999999869978387,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+343,4,1:25,85,85,Abby Woollacott Defensive Rebound.,82,55,27,20,0.9999999869978387,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+344,4,1:05,65,65,Myia Starks missed Layup.,82,55,27,0,0.9999999990742166,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+345,4,1:05,65,65,Abby Woollacott Offensive Rebound.,82,55,27,3,0.9999999990742166,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+346,4,1:02,62,62,Abby Woollacott missed Layup.,82,55,27,0,0.9999999993947275,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+347,4,1:02,62,62,Emma Vanzanten Defensive Rebound.,82,55,27,9,0.9999999993947275,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+348,4,0:53,53,53,Alexis Parks missed Layup.,82,55,27,0,0.9999999998375215,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+349,4,0:53,53,53,Myia Starks Defensive Rebound.,82,55,27,7,0.9999999998375215,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+350,4,0:46,46,46,Foul on Alexis Parks.,82,55,27,0,0.9999999999442791,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+351,4,0:46,46,46,Myia Starks missed Free Throw.,82,55,27,0,0.9999999999442791,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+352,4,0:46,46,46,Northern Illinois Deadball Team Rebound.,82,55,27,0,0.9999999999442791,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+353,4,0:46,46,46,Myia Starks made Free Throw.,83,55,28,21,0.9999999999767598,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,Northern Illinois
+354,4,0:25,25,25,Alexis Parks missed Three Point Jumper.,83,55,28,0,0.9999999999993663,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+355,4,0:25,25,25,Northern Illinois Defensive Rebound.,83,55,28,25,0.9999999999993663,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,
+356,4,0:00,0,0,End of Game,83,55,28,0,1,Northern Illinois,Western Michigan,4,5,0,0,NA,400946089,2017-03-10,

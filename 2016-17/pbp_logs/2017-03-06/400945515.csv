@@ -1,0 +1,329 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:50,2390,2390,Lauren Dickerson missed Jumper.,0,0,0,0,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,NA
+2,1,9:50,2390,2390,Marley Hill Block.,0,0,0,3,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+3,1,9:47,2387,2387,Deja Wimby Defensive Rebound.,0,0,0,14,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+4,1,9:33,2373,2373,Breanna Mobley missed Jumper.,0,0,0,0,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+5,1,9:33,2373,2373,Kendall McCoy Defensive Rebound.,0,0,0,10,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+6,1,9:23,2363,2363,Lauren Dickerson made Layup.,0,2,-2,22,0.45518936608070915,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+7,1,9:01,2341,2341,Foul on Kayla Brown.,0,2,-2,0,0.45471402389215027,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+8,1,9:01,2341,2341,Meredith Shipman made Free Throw.,1,2,-1,0,0.47731038381294444,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+9,1,9:01,2341,2341,Meredith Shipman made Free Throw.,2,2,0,13,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+10,1,8:48,2328,2328,Lauren Dickerson missed Layup.,2,2,0,0,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+11,1,8:48,2328,2328,Kendall McCoy Offensive Rebound.,2,2,0,17,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+12,1,8:31,2311,2311,Kendall McCoy missed Three Point Jumper.,2,2,0,0,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+13,1,8:31,2311,2311,Kayla Brown Offensive Rebound.,2,2,0,20,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+14,1,8:11,2291,2291,Kendall McCoy missed Three Point Jumper.,2,2,0,0,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+15,1,8:11,2291,2291,Deja Wimby Defensive Rebound.,2,2,0,15,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+16,1,7:56,2276,2276,Marley Hill missed Jumper.,2,2,0,0,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+17,1,7:56,2276,2276,Breanna Mobley Offensive Rebound.,2,2,0,8,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+18,1,7:48,2268,2268,Breanna Mobley missed Layup.,2,2,0,0,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+19,1,7:48,2268,2268,Kendall McCoy Defensive Rebound.,2,2,0,11,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+20,1,7:37,2257,2257,Lauren Dickerson Turnover.,2,2,0,1,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+21,1,7:36,2256,2256,Meredith Shipman Steal.,2,2,0,5,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+22,1,7:31,2251,2251,Deja Wimby Turnover.,2,2,0,1,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+23,1,7:30,2250,2250,Kendall McCoy Steal.,2,2,0,5,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+24,1,7:25,2245,2245,Leah Purvis missed Jumper.,2,2,0,0,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+25,1,7:25,2245,2245,Marley Hill Defensive Rebound.,2,2,0,26,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+26,1,6:59,2219,2219,Meredith Shipman missed Three Point Jumper.,2,2,0,0,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+27,1,6:59,2219,2219,Molly McDonagh Defensive Rebound.,2,2,0,11,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+28,1,6:48,2208,2208,Lauren Dickerson missed Layup.,2,2,0,0,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+29,1,6:48,2208,2208,Meredith Shipman Defensive Rebound.,2,2,0,5,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+30,1,6:43,2203,2203,Deja Wimby made Layup.,4,2,2,18,0.5483820441078167,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+31,1,6:25,2185,2185,Jazz Smith Turnover.,4,2,2,20,0.5487960449405197,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+32,1,6:05,2165,2165,Latondra Brooks missed Jumper.,4,2,2,0,0.549257676240743,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+33,1,6:05,2165,2165,Deja Wimby Offensive Rebound.,4,2,2,4,0.549257676240743,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+34,1,6:01,2161,2161,Deja Wimby missed Layup.,4,2,2,0,0.5493502722348179,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+35,1,6:01,2161,2161,Lauren Dickerson Defensive Rebound.,4,2,2,6,0.5493502722348179,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+36,1,5:55,2155,2155,Lauren Dickerson made Jumper.,4,4,0,19,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+37,1,5:36,2136,2136,Meredith Shipman made Three Point Jumper. Assisted by Latondra Brooks.,7,4,3,12,0.5745874139872303,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+38,1,5:24,2124,2124,Savannah Kluesner missed Jumper.,7,4,3,0,0.5750035951095774,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+39,1,5:24,2124,2124,Breanna Mobley Block.,7,4,3,5,0.5750035951095774,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+40,1,5:19,2119,2119,Breanna Mobley Defensive Rebound.,7,4,3,3,0.5751775328694879,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+41,1,5:16,2116,2116,Deja Wimby made Layup. Assisted by Breanna Mobley.,9,4,5,23,0.6238038343402142,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+42,1,4:53,2093,2093,Lauren Dickerson missed Layup.,9,4,5,0,0.6250923133715076,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+43,1,4:53,2093,2093,Breanna Mobley Defensive Rebound.,9,4,5,9,0.6250923133715076,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+44,1,4:44,2084,2084,Official TV Timeout,9,4,5,4,0.6255993843299188,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+45,1,4:40,2080,2080,Marley Hill missed Layup.,9,4,5,0,0.625825293157319,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+46,1,4:40,2080,2080,Savannah Kluesner Block.,9,4,5,2,0.625825293157319,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+47,1,4:38,2078,2078,Savannah Kluesner Defensive Rebound.,9,4,5,9,0.6259383753352543,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+48,1,4:29,2069,2069,Leah Purvis missed Jumper.,9,4,5,0,0.6264483175988854,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+49,1,4:29,2069,2069,Leah Purvis Offensive Rebound.,9,4,5,5,0.6264483175988854,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+50,1,4:24,2064,2064,Lauren Dickerson made Three Point Jumper. Assisted by Abbey Hoff.,9,7,2,21,0.5516376337194139,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+51,1,4:03,2043,2043,Meredith Shipman made Three Point Jumper. Assisted by Latondra Brooks.,12,7,5,29,0.6279317580628231,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+52,1,3:34,2014,2014,Leah Purvis Turnover.,12,7,5,0,0.6296056261409299,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+53,1,3:34,2014,2014,Foul on Leah Purvis.,12,7,5,17,0.6296056261409299,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+54,1,3:17,1997,1997,Meredith Shipman missed Layup.,12,7,5,0,0.6305969892190879,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+55,1,3:17,1997,1997,Breanna Mobley Offensive Rebound.,12,7,5,3,0.6305969892190879,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+56,1,3:14,1994,1994,Breanna Mobley made Jumper.,14,7,7,13,0.679123498762556,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+57,1,3:01,1981,1981,Kayla Brown Turnover.,14,7,7,13,0.6801245763077797,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+58,1,2:48,1968,1968,Meredith Miller made Layup. Assisted by Breanna Mobley.,16,7,9,19,0.7262790490110342,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+59,1,2:29,1949,1949,Foul on Meredith Shipman.,16,7,9,0,0.7280212242642323,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+60,1,2:29,1949,1949,Kayla Brown made Free Throw.,16,8,8,0,0.7058276952320329,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+61,1,2:29,1949,1949,Kayla Brown made Free Throw.,16,9,7,0,0.6826126894394777,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+62,1,2:29,1949,1949,Kayla Brown made Free Throw.,16,10,6,12,0.6584521602713852,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+63,1,2:17,1937,1937,Meredith Miller Turnover.,16,10,6,15,0.659290679413047,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+64,1,2:02,1922,1922,Kendall McCoy Turnover.,16,10,6,1,0.6603441070886137,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+65,1,2:01,1921,1921,Meredith Shipman Steal.,16,10,6,3,0.6604142711286558,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+66,1,1:58,1918,1918,Meredith Shipman made Layup.,18,10,8,15,0.7084990672270731,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+67,1,1:43,1903,1903,Kayla Brown missed Layup.,18,10,8,0,0.7097880075201256,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+68,1,1:43,1903,1903,Breanna Mobley Defensive Rebound.,18,10,8,21,0.7097880075201256,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+69,1,1:22,1882,1882,Breanna Mobley Turnover.,18,10,8,0,0.7115859568767073,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+70,1,1:22,1882,1882,Foul on Breanna Mobley.,18,10,8,19,0.7115859568767073,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+71,1,1:03,1863,1863,Kayla Brown Turnover.,18,10,8,1,0.713209608651688,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+72,1,1:02,1862,1862,Deja Wimby Steal.,18,10,8,6,0.7132950520786507,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+73,1,0:56,1856,1856,Breanna Mobley Turnover.,18,10,8,7,0.713807778316042,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+74,1,0:49,1849,1849,Lauren Dickerson missed Three Point Jumper.,18,10,8,0,0.7144062064320809,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+75,1,0:49,1849,1849,Marley Hill Defensive Rebound.,18,10,8,24,0.7144062064320809,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+76,1,0:25,1825,1825,Marley Hill missed Jumper.,18,10,8,0,0.7164622406916638,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+77,1,0:25,1825,1825,Kendall McCoy Defensive Rebound.,18,10,8,19,0.7164622406916638,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+78,1,0:06,1806,1806,Lauren Dickerson made Jumper.,18,12,6,6,0.6684725514416132,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+79,1,0:00,1800,1800,End of 1st Quarter,18,12,6,8,0.6688984611571205,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+80,2,9:52,1792,1792,Meredith Miller made Three Point Jumper.,21,12,9,6,0.742436473394186,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+81,2,9:46,1786,1786,Kendall McCoy missed Three Point Jumper.,21,12,9,0,0.7429920337554196,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+82,2,9:46,1786,1786,Aneisha Carlisle Defensive Rebound.,21,12,9,5,0.7429920337554196,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+83,2,9:41,1781,1781,Meredith Miller missed Jumper.,21,12,9,0,0.7434560205593025,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+84,2,9:41,1781,1781,Kendall McCoy Defensive Rebound.,21,12,9,13,0.7434560205593025,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+85,2,9:28,1768,1768,Foul on Deja Wimby.,21,12,9,5,0.7446671822337125,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+86,2,9:23,1763,1763,Leah Purvis made Three Point Jumper. Assisted by Lauren Dickerson.,21,15,6,23,0.6715537892871353,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+87,2,9:00,1740,1740,Aneisha Carlisle missed Jumper.,21,15,6,0,0.673235437000404,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+88,2,9:00,1740,1740,Meredith Shipman Offensive Rebound.,21,15,6,6,0.673235437000404,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+89,2,8:54,1734,1734,Meredith Shipman missed Three Point Jumper.,21,15,6,0,0.6736787886062936,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+90,2,8:54,1734,1734,Kayla Brown Defensive Rebound.,21,15,6,17,0.6736787886062936,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+91,2,8:37,1717,1717,Leah Purvis missed Three Point Jumper.,21,15,6,0,0.6749465821305198,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+92,2,8:37,1717,1717,Najee Smith Defensive Rebound.,21,15,6,11,0.6749465821305198,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+93,2,8:26,1706,1706,Meredith Shipman Turnover.,21,15,6,1,0.6757767488333568,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+94,2,8:25,1705,1705,Kendall McCoy Steal.,21,15,6,6,0.675852623588433,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+95,2,8:19,1699,1699,Molly McDonagh missed Jumper.,21,15,6,0,0.676309337510148,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+96,2,8:19,1699,1699,Marley Hill Defensive Rebound.,21,15,6,23,0.676309337510148,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+97,2,7:56,1676,1676,Najee Smith made Layup.,23,15,8,26,0.729717227370393,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+98,2,7:30,1650,1650,Kendall McCoy made Layup. Assisted by Lauren Dickerson.,23,17,6,13,0.6799863796484026,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+99,2,7:17,1637,1637,Meredith Shipman missed Layup.,23,17,6,0,0.6809263615505109,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+100,2,7:17,1637,1637,Lauren Dickerson Defensive Rebound.,23,17,6,8,0.6809263615505109,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+101,2,7:09,1629,1629,Foul on Najee Smith.,23,17,6,14,0.6814997923170781,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+102,2,6:55,1615,1615,Lauren Dickerson made Free Throw.,23,18,5,0,0.6542389133956332,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+103,2,6:55,1615,1615,Lauren Dickerson made Free Throw.,23,19,4,12,0.624848587272994,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+104,2,6:43,1603,1603,Breanna Mobley Turnover.,23,19,4,15,0.6254620834865046,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+105,2,6:28,1588,1588,Kayla Brown missed Layup.,23,19,4,0,0.6262286192391288,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+106,2,6:28,1588,1588,Meredith Shipman Defensive Rebound.,23,19,4,7,0.6262286192391288,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+107,2,6:21,1581,1581,Marley Hill made Layup. Assisted by Alexis Parks.,25,19,6,17,0.6849047004034233,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+108,2,6:04,1564,1564,Lauren Dickerson made Jumper.,25,21,4,18,0.6274624979661697,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+109,2,5:46,1546,1546,Marley Hill missed Layup.,25,21,4,0,0.6284012698832265,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+110,2,5:46,1546,1546,Kristen Levering Defensive Rebound.,25,21,4,14,0.6284012698832265,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+111,2,5:32,1532,1532,Kristen Levering missed Three Point Jumper.,25,21,4,0,0.6291436165699875,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+112,2,5:32,1532,1532,Breanna Mobley Defensive Rebound.,25,21,4,18,0.6291436165699875,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+113,2,5:14,1514,1514,Marley Hill missed Layup.,25,21,4,0,0.6301186175913214,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+114,2,5:14,1514,1514,Abbey Hoff Block.,25,21,4,2,0.6301186175913214,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+115,2,5:12,1512,1512,Marley Hill Offensive Rebound.,25,21,4,5,0.6302286082083165,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+116,2,5:07,1507,1507,Alexis Parks missed Layup.,25,21,4,0,0.6305051821717169,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+117,2,5:07,1507,1507,Lauren Dickerson Defensive Rebound.,25,21,4,10,0.6305051821717169,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+118,2,4:57,1497,1497,Molly McDonagh Turnover.,25,21,4,1,0.6310656046504992,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+119,2,4:56,1496,1496,Meredith Shipman Steal.,25,21,4,0,0.631122209897655,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+120,2,4:56,1496,1496,Foul on Molly McDonagh.,25,21,4,0,0.631122209897655,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+121,2,4:56,1496,1496,Official TV Timeout,25,21,4,13,0.631122209897655,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+122,2,4:43,1483,1483,Meredith Shipman made Three Point Jumper. Assisted by Latondra Brooks.,28,21,7,23,0.7201929865331055,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+123,2,4:20,1460,1460,Foul on Emma Vanzanten.,28,21,7,0,0.7222676470948731,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+124,2,4:20,1460,1460,Abbey Hoff missed Free Throw.,28,21,7,0,0.7222676470948731,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+125,2,4:20,1460,1460,Miami (OH) Deadball Team Rebound.,28,21,7,0,0.7222676470948731,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+126,2,4:20,1460,1460,Abbey Hoff made Free Throw.,28,22,6,30,0.6940673237947461,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+127,2,3:50,1430,1430,Latondra Brooks made Layup.,30,22,8,11,0.7517860516562428,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+128,2,3:39,1419,1419,Foul on Deja Wimby.,30,22,8,0,0.7528366575407276,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+129,2,3:39,1419,1419,Leah Purvis missed Free Throw.,30,22,8,0,0.7528366575407276,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+130,2,3:39,1419,1419,Miami (OH) Deadball Team Rebound.,30,22,8,0,0.7528366575407276,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+131,2,3:39,1419,1419,Leah Purvis made Free Throw.,30,23,7,8,0.7260302538491947,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+132,2,3:31,1411,1411,Meredith Miller missed Three Point Jumper.,30,23,7,0,0.726732917327301,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+133,2,3:31,1411,1411,Meredith Miller Offensive Rebound.,30,23,7,15,0.726732917327301,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+134,2,3:16,1396,1396,Meredith Miller missed Three Point Jumper.,30,23,7,0,0.7280291041658467,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+135,2,3:16,1396,1396,Kayla Brown Defensive Rebound.,30,23,7,13,0.7280291041658467,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+136,2,3:03,1383,1383,Kendall McCoy Turnover.,30,23,7,1,0.7291360577643338,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+137,2,3:02,1382,1382,Deja Wimby Steal.,30,23,7,4,0.7292207637250895,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+138,2,2:58,1378,1378,Deja Wimby missed Layup.,30,23,7,0,0.7295591173775471,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+139,2,2:58,1378,1378,Molly McDonagh Defensive Rebound.,30,23,7,16,0.7295591173775471,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+140,2,2:42,1362,1362,Kayla Brown missed Jumper.,30,23,7,0,0.7309080601453206,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+141,2,2:42,1362,1362,Breanna Mobley Defensive Rebound.,30,23,7,22,0.7309080601453206,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+142,2,2:20,1340,1340,Latondra Brooks missed Jumper.,30,23,7,0,0.7327669817712784,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+143,2,2:20,1340,1340,Kendall McCoy Defensive Rebound.,30,23,7,11,0.7327669817712784,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+144,2,2:09,1329,1329,Foul on Latondra Brooks.,30,23,7,0,0.7337061569075024,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+145,2,2:09,1329,1329,Leah Purvis made Free Throw.,30,24,6,0,0.7044795684732467,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+146,2,2:09,1329,1329,Lauren Dickerson made Free Throw.,30,25,5,0,0.6734728230279747,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+147,2,2:09,1329,1329,Lauren Dickerson missed Free Throw.,30,25,5,0,0.6734728230279747,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+148,2,2:09,1329,1329,Breanna Mobley Defensive Rebound.,30,25,5,12,0.6734728230279747,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+149,2,1:57,1317,1317,Meredith Shipman made Layup.,32,25,7,18,0.7347435601446837,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+150,2,1:39,1299,1299,Kendall McCoy missed Three Point Jumper.,32,25,7,0,0.7363344061409873,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+151,2,1:39,1299,1299,Najee Smith Defensive Rebound.,32,25,7,16,0.7363344061409873,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+152,2,1:23,1283,1283,Latondra Brooks made Layup.,34,25,9,3,0.7908599389073854,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+153,2,1:20,1280,1280,Miami (OH)  Timeout,34,25,9,16,0.7911670041272171,Western Michigan,Miami (OH),3,4,1,0,NA,400945515,2017-03-06,
+154,2,1:04,1264,1264,Abbey Hoff made Three Point Jumper.,34,28,6,12,0.7098707155940871,Western Michigan,Miami (OH),3,4,1,0,NA,400945515,2017-03-06,Miami (OH)
+155,2,0:52,1252,1252,Najee Smith missed Three Point Jumper.,34,28,6,0,0.7109584567037899,Western Michigan,Miami (OH),3,4,1,0,NA,400945515,2017-03-06,
+156,2,0:52,1252,1252,Kendall McCoy Defensive Rebound.,34,28,6,12,0.7109584567037899,Western Michigan,Miami (OH),3,4,1,0,NA,400945515,2017-03-06,
+157,2,0:40,1240,1240,Lauren Dickerson Turnover.,34,28,6,1,0.71208484748175,Western Michigan,Miami (OH),3,4,1,0,NA,400945515,2017-03-06,
+158,2,0:39,1239,1239,Meredith Shipman Steal.,34,28,6,2,0.712180579938033,Western Michigan,Miami (OH),3,4,1,0,NA,400945515,2017-03-06,
+159,2,0:37,1237,1237,Western Michigan  Timeout,34,28,6,19,0.712372939857186,Western Michigan,Miami (OH),3,3,1,1,NA,400945515,2017-03-06,
+160,2,0:18,1218,1218,Meredith Shipman missed Three Point Jumper.,34,28,6,0,0.7142631130038221,Western Michigan,Miami (OH),3,3,0,1,NA,400945515,2017-03-06,
+161,2,0:18,1218,1218,Latondra Brooks Offensive Rebound.,34,28,6,13,0.7142631130038221,Western Michigan,Miami (OH),3,3,0,1,NA,400945515,2017-03-06,
+162,2,0:05,1205,1205,Meredith Miller missed Three Point Jumper.,34,28,6,0,0.7156192112395022,Western Michigan,Miami (OH),3,3,0,1,NA,400945515,2017-03-06,
+163,2,0:05,1205,1205,Breanna Mobley Offensive Rebound.,34,28,6,5,0.7156192112395022,Western Michigan,Miami (OH),3,3,0,1,NA,400945515,2017-03-06,
+164,2,0:00,1200,1200,End of 2nd Quarter,34,28,6,13,0.7161370692370593,Western Michigan,Miami (OH),3,3,0,1,NA,400945515,2017-03-06,
+165,3,9:47,1187,1187,Molly McDonagh missed Layup.,34,28,6,0,0.7174579700037191,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+166,3,9:47,1187,1187,Kendall McCoy Offensive Rebound.,34,28,6,13,0.7174579700037191,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+167,3,9:34,1174,1174,Molly McDonagh missed Jumper.,34,28,6,0,0.7187479921911064,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+168,3,9:34,1174,1174,Breanna Mobley Defensive Rebound.,34,28,6,29,0.7187479921911064,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+169,3,9:05,1145,1145,Deja Wimby missed Layup.,34,28,6,0,0.7215523184287339,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+170,3,9:05,1145,1145,Marley Hill Offensive Rebound.,34,28,6,4,0.7215523184287339,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+171,3,9:01,1141,1141,Marley Hill Turnover.,34,28,6,0,0.7219345545549948,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+172,3,9:01,1141,1141,Lauren Dickerson Steal.,34,28,6,16,0.7219345545549948,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+173,3,8:45,1125,1125,Leah Purvis made Layup.,34,30,4,16,0.6550088695081946,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+174,3,8:29,1109,1109,Latondra Brooks missed Jumper.,34,30,4,0,0.6561639995233887,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+175,3,8:29,1109,1109,Kendall McCoy Defensive Rebound.,34,30,4,12,0.6561639995233887,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+176,3,8:17,1097,1097,Lauren Dickerson missed Jumper.,34,30,4,0,0.6570407956130198,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+177,3,8:17,1097,1097,Savannah Kluesner Offensive Rebound.,34,30,4,4,0.6570407956130198,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+178,3,8:13,1093,1093,Foul on Latondra Brooks.,34,30,4,0,0.65733588314504,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+179,3,8:13,1093,1093,Molly McDonagh Turnover.,34,30,4,1,0.65733588314504,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+180,3,8:12,1092,1092,Deja Wimby Steal.,34,30,4,12,0.6574099099169513,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+181,3,8:00,1080,1080,Marley Hill missed Jumper.,34,30,4,0,0.6583072537216603,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+182,3,8:00,1080,1080,Kendall McCoy Defensive Rebound.,34,30,4,8,0.6583072537216603,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+183,3,7:52,1072,1072,Kendall McCoy missed Three Point Jumper.,34,30,4,0,0.6589160885367052,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+184,3,7:52,1072,1072,Breanna Mobley Defensive Rebound.,34,30,4,10,0.6589160885367052,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+185,3,7:42,1062,1062,Meredith Shipman made Layup.,36,30,6,15,0.7296559656071265,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+186,3,7:27,1047,1047,Foul on Deja Wimby.,36,30,6,11,0.7312320504008439,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+187,3,7:16,1036,1036,Kayla Brown made Jumper.,36,32,4,20,0.6617962728515572,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+188,3,6:56,1016,1016,Breanna Mobley Turnover.,36,32,4,0,0.6635240000594783,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+189,3,6:56,1016,1016,Foul on Breanna Mobley.,36,32,4,12,0.6635240000594783,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+190,3,6:44,1004,1004,Lauren Dickerson made Three Point Jumper.,36,35,1,22,0.5426416015337099,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+191,3,6:22,982,982,Meredith Shipman Turnover.,36,35,1,1,0.5432325904653514,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+192,3,6:21,981,981,Lauren Dickerson Steal.,36,35,1,0,0.5432606161520097,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+193,3,6:21,981,981,Foul on Breanna Mobley.,36,35,1,15,0.5432606161520097,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+194,3,6:06,966,966,Leah Purvis missed Layup.,36,35,1,0,0.5436918592353146,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+195,3,6:06,966,966,Najee Smith Defensive Rebound.,36,35,1,8,0.5436918592353146,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+196,3,5:58,958,958,Meredith Shipman made Layup.,38,35,3,10,0.629097674438671,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+197,3,5:48,948,948,Lauren Dickerson made Jumper.,38,37,1,19,0.5441816296492589,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+198,3,5:29,929,929,Marley Hill made Jumper. Assisted by Meredith Miller.,40,37,3,18,0.631175705879414,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+199,3,5:11,911,911,Lauren Dickerson made Three Point Jumper.,40,40,0,29,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+200,3,4:42,882,882,Deja Wimby made Layup.,42,40,2,17,0.5906469650673569,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+201,3,4:25,865,865,Official TV Timeout,42,40,2,7,0.5913664608539815,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+202,3,4:18,858,858,Abbey Hoff missed Three Point Jumper.,42,40,2,0,0.5916671545722123,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+203,3,4:18,858,858,Meredith Miller Defensive Rebound.,42,40,2,22,0.5916671545722123,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+204,3,3:56,836,836,Meredith Miller made Three Point Jumper. Assisted by Najee Smith.,45,40,5,18,0.7185553662138346,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+205,3,3:38,818,818,Lauren Dickerson missed Jumper.,45,40,5,0,0.7203631931546027,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+206,3,3:38,818,818,Savannah Kluesner Offensive Rebound.,45,40,5,6,0.7203631931546027,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+207,3,3:32,812,812,Lauren Dickerson made Three Point Jumper. Assisted by Abbey Hoff.,45,43,2,17,0.593817514346235,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+208,3,3:15,795,795,Meredith Miller missed Three Point Jumper.,45,43,2,0,0.5947370004683806,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+209,3,3:15,795,795,Miami (OH) Defensive Rebound.,45,43,2,23,0.5947370004683806,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+210,3,2:52,772,772,Lauren Dickerson made Jumper.,45,45,0,19,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+211,3,2:33,753,753,Meredith Shipman missed Three Point Jumper.,45,45,0,0,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+212,3,2:33,753,753,Alexis Parks Offensive Rebound.,45,45,0,6,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+213,3,2:27,747,747,Foul on Abbey Hoff.,45,45,0,0,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+214,3,2:27,747,747,Alexis Parks made Free Throw.,46,45,1,0,0.5494376008547901,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+215,3,2:27,747,747,Alexis Parks made Free Throw.,47,45,2,14,0.5979179261483436,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+216,3,2:13,733,733,Foul on Breanna Mobley.,47,45,2,0,0.5990517718830187,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+217,3,2:13,733,733,Molly McDonagh made Free Throw.,47,46,1,0,0.5500215722469715,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+218,3,2:13,733,733,Molly McDonagh made Free Throw.,47,47,0,9,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+219,3,2:04,724,724,Alexis Parks missed Layup.,47,47,0,0,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+220,3,2:04,724,724,Savannah Kluesner Defensive Rebound.,47,47,0,15,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+221,3,1:49,709,709,Abbey Hoff missed Three Point Jumper.,47,47,0,0,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+222,3,1:49,709,709,Western Michigan Defensive Rebound.,47,47,0,16,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+223,3,1:33,693,693,Foul on Savannah Kluesner.,47,47,0,15,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+224,3,1:18,678,678,Alexis Parks Turnover.,47,47,0,1,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+225,3,1:17,677,677,Abbey Hoff Steal.,47,47,0,7,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+226,3,1:10,670,670,Kendall McCoy made Three Point Jumper. Assisted by Leah Purvis.,47,50,-3,17,0.3472986607838269,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Miami (OH)
+227,3,0:53,653,653,Meredith Miller missed Three Point Jumper.,47,50,-3,0,0.34575562535333076,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+228,3,0:53,653,653,Savannah Kluesner Defensive Rebound.,47,50,-3,6,0.34575562535333076,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+229,3,0:47,647,647,Leah Purvis Turnover.,47,50,-3,1,0.34520355645002304,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+230,3,0:46,646,646,Marley Hill Steal.,47,50,-3,4,0.3451107491583768,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+231,3,0:42,642,642,Meredith Shipman missed Three Point Jumper.,47,50,-3,0,0.3447367021844159,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+232,3,0:42,642,642,Kayla Brown Defensive Rebound.,47,50,-3,25,0.3447367021844159,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+233,3,0:17,617,617,Foul on Alexis Parks.,47,50,-3,0,0.3422432498555541,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+234,3,0:17,617,617,Leah Purvis missed Free Throw.,47,50,-3,0,0.3422432498555541,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+235,3,0:17,617,617,Miami (OH) Deadball Team Rebound.,47,50,-3,0,0.3422432498555541,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+236,3,0:17,617,617,Leah Purvis missed Free Throw.,47,50,-3,0,0.3422432498555541,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+237,3,0:17,617,617,Meredith Shipman Defensive Rebound.,47,50,-3,3,0.3422432498555541,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+238,3,0:14,614,614,Foul on Savannah Kluesner.,47,50,-3,13,0.34191942118228413,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+239,3,0:01,601,601,Meredith Shipman made Three Point Jumper.,50,50,0,1,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,Western Michigan
+240,3,0:00,600,600,End of 3rd Quarter,50,50,0,6,0.5,Western Michigan,Miami (OH),4,4,0,0,NA,400945515,2017-03-06,
+241,4,9:54,594,594,Meredith Miller missed Three Point Jumper.,50,50,0,0,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+242,4,9:54,594,594,Abbey Hoff Defensive Rebound.,50,50,0,18,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+243,4,9:36,576,576,Kayla Brown Turnover.,50,50,0,0,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+244,4,9:36,576,576,Foul on Kayla Brown.,50,50,0,3,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+245,4,9:33,573,573,Najee Smith missed Jumper.,50,50,0,0,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+246,4,9:33,573,573,Western Michigan Offensive Rebound.,50,50,0,23,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+247,4,9:10,550,550,Foul on Abbey Hoff.,50,50,0,19,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+248,4,8:51,531,531,Latondra Brooks Turnover.,50,50,0,1,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+249,4,8:50,530,530,Molly McDonagh Steal.,50,50,0,16,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+250,4,8:34,514,514,Molly McDonagh missed Layup.,50,50,0,0,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+251,4,8:34,514,514,Molly McDonagh Offensive Rebound.,50,50,0,12,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+252,4,8:22,502,502,Lauren Dickerson missed Three Point Jumper.,50,50,0,0,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+253,4,8:22,502,502,Najee Smith Defensive Rebound.,50,50,0,3,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+254,4,8:19,499,499,Foul on Molly McDonagh.,50,50,0,17,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+255,4,8:02,482,482,Meredith Shipman missed Layup.,50,50,0,0,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+256,4,8:02,482,482,Kristen Levering Block.,50,50,0,2,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+257,4,8:00,480,480,Kendall McCoy Defensive Rebound.,50,50,0,6,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+258,4,7:54,474,474,Kendall McCoy made Jumper. Assisted by Lauren Dickerson.,50,52,-2,18,0.3782301606430503,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,Miami (OH)
+259,4,7:36,456,456,Deja Wimby made Layup.,52,52,0,20,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,Western Michigan
+260,4,7:16,436,436,Lauren Dickerson missed Jumper.,52,52,0,0,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+261,4,7:16,436,436,Marley Hill Defensive Rebound.,52,52,0,21,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+262,4,6:55,415,415,Meredith Shipman made Layup.,54,52,2,20,0.6310576624810864,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,Western Michigan
+263,4,6:35,395,395,Lauren Dickerson made Jumper.,54,54,0,18,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,Miami (OH)
+264,4,6:17,377,377,Deja Wimby missed Layup.,54,54,0,0,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+265,4,6:17,377,377,Breanna Mobley Offensive Rebound.,54,54,0,2,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+266,4,6:15,375,375,Breanna Mobley made Layup.,56,54,2,0,0.6379236431056533,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,Western Michigan
+267,4,6:15,375,375,Foul on Kendall McCoy.,56,54,2,0,0.6379236431056533,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+268,4,6:15,375,375,Breanna Mobley made Free Throw.,57,54,3,17,0.700471731495197,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,Western Michigan
+269,4,5:58,358,358,Foul on Latondra Brooks.,57,54,3,15,0.7048424816599355,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+270,4,5:43,343,343,Foul on Meredith Shipman.,57,54,3,0,0.7092365583011709,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+271,4,5:43,343,343,Lauren Dickerson missed Jumper.,57,54,3,0,0.7092365583011709,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+272,4,5:43,343,343,Latondra Brooks Defensive Rebound.,57,54,3,4,0.7092365583011709,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+273,4,5:39,339,339,Meredith Shipman made Layup.,59,54,5,8,0.8170544409669148,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,Western Michigan
+274,4,5:31,331,331,Kayla Brown Turnover.,59,54,5,1,0.8203490410365745,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+275,4,5:30,330,330,Meredith Shipman Steal.,59,54,5,5,0.820778708764803,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+276,4,5:25,325,325,Deja Wimby missed Layup.,59,54,5,0,0.8229898605904286,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+277,4,5:25,325,325,Molly McDonagh Defensive Rebound.,59,54,5,22,0.8229898605904286,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+278,4,5:03,303,303,Kendall McCoy made Three Point Jumper. Assisted by Lauren Dickerson.,59,57,2,29,0.6555263660792452,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,Miami (OH)
+279,4,4:34,274,274,Marley Hill missed Layup.,59,57,2,0,0.6560736816689156,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+280,4,4:34,274,274,Breanna Mobley Offensive Rebound.,59,57,2,2,0.6560736816689156,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+281,4,4:32,272,272,Foul on Molly McDonagh.,59,57,2,7,0.6558439128128998,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+282,4,4:25,265,265,Official TV Timeout,59,57,2,7,0.6549325319428858,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+283,4,4:18,258,258,Breanna Mobley missed Free Throw.,59,57,2,0,0.65396252850165415,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+284,4,4:18,258,258,Western Michigan Deadball Team Rebound.,59,57,2,0,0.65396252850165415,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+285,4,4:18,258,258,Breanna Mobley missed Free Throw.,59,57,2,0,0.65396252850165415,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+286,4,4:18,258,258,Kristen Levering Defensive Rebound.,59,57,2,13,0.65396252850165415,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+287,4,4:05,245,245,Foul on Aneisha Carlisle.,59,57,2,10,0.6524921101664152,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+288,4,3:55,235,235,Kendall McCoy made Three Point Jumper. Assisted by Kristen Levering.,59,60,-1,22,0.4220856970700343,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,Miami (OH)
+289,4,3:33,213,213,Meredith Shipman made Layup.,61,60,1,5,0.5799475654092762,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,Western Michigan
+290,4,3:28,208,208,Foul on Aneisha Carlisle.,61,60,1,16,0.5810658457421368,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+291,4,3:12,192,192,Lauren Dickerson made Layup.,61,62,-1,12,0.41319631898313597,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,Miami (OH)
+292,4,3:00,180,180,Foul on Kristen Levering.,61,62,-1,0,0.4071511523738202,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,
+293,4,3:00,180,180,Marley Hill made Free Throw.,62,62,0,0,0.5,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,Western Michigan
+294,4,3:00,180,180,Marley Hill made Free Throw.,63,62,1,13,0.5928488476261798,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,Western Michigan
+295,4,2:47,167,167,Lauren Dickerson made Layup.,63,64,-1,16,0.4003678026005018,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,Miami (OH)
+296,4,2:31,151,151,Deja Wimby made Layup.,65,64,1,13,0.6086359194653368,Western Michigan,Miami (OH),5,5,0,0,NA,400945515,2017-03-06,Western Michigan
+297,4,2:18,138,138,Foul on Latondra Brooks.,65,64,1,0,0.6167806867201858,Western Michigan,Miami (OH),5,5,1,0,NA,400945515,2017-03-06,
+298,4,2:18,138,138,Leah Purvis made Free Throw.,65,65,0,0,0.5,Western Michigan,Miami (OH),5,5,1,0,NA,400945515,2017-03-06,Miami (OH)
+299,4,2:18,138,138,Leah Purvis made Free Throw.,65,66,-1,0,0.3832193132798142,Western Michigan,Miami (OH),5,5,1,0,NA,400945515,2017-03-06,Miami (OH)
+300,4,2:18,138,138,Miami (OH)  Timeout,65,66,-1,27,0.3832193132798142,Western Michigan,Miami (OH),4,5,1,0,NA,400945515,2017-03-06,
+301,4,1:51,111,111,Deja Wimby made Layup.,67,66,1,0,0.6371329324542535,Western Michigan,Miami (OH),4,5,1,0,NA,400945515,2017-03-06,Western Michigan
+302,4,1:51,111,111,Foul on Kendall McCoy.,67,66,1,0,0.6371329324542535,Western Michigan,Miami (OH),4,5,1,0,NA,400945515,2017-03-06,
+303,4,1:51,111,111,Deja Wimby made Free Throw.,68,66,2,19,0.7550784163086218,Western Michigan,Miami (OH),4,5,1,0,NA,400945515,2017-03-06,Western Michigan
+304,4,1:32,92,92,Kendall McCoy missed Three Point Jumper.,68,66,2,0,0.7828078086985532,Western Michigan,Miami (OH),4,5,1,0,NA,400945515,2017-03-06,
+305,4,1:32,92,92,Meredith Shipman Defensive Rebound.,68,66,2,8,0.7828078086985532,Western Michigan,Miami (OH),4,5,1,0,NA,400945515,2017-03-06,
+306,4,1:24,84,84,Miami (OH)  Timeout,68,66,2,20,0.7948155349361523,Western Michigan,Miami (OH),3,5,1,0,NA,400945515,2017-03-06,
+307,4,1:04,64,64,Deja Wimby made Layup.,70,66,4,23,0.9569925270278545,Western Michigan,Miami (OH),3,5,1,0,NA,400945515,2017-03-06,Western Michigan
+308,4,0:41,41,41,Kendall McCoy missed Layup.,70,66,4,0,0.9737993907320708,Western Michigan,Miami (OH),3,5,1,0,NA,400945515,2017-03-06,
+309,4,0:41,41,41,Breanna Mobley Block.,70,66,4,3,0.9737993907320708,Western Michigan,Miami (OH),3,5,1,0,NA,400945515,2017-03-06,
+310,4,0:38,38,38,Kristen Levering Defensive Rebound.,70,66,4,5,0.9755795512141152,Western Michigan,Miami (OH),3,5,1,0,NA,400945515,2017-03-06,
+311,4,0:33,33,33,Kendall McCoy missed Three Point Jumper.,70,66,4,0,0.9783404690357789,Western Michigan,Miami (OH),3,5,1,0,NA,400945515,2017-03-06,
+312,4,0:33,33,33,Molly McDonagh Offensive Rebound.,70,66,4,2,0.9783404690357789,Western Michigan,Miami (OH),3,5,1,0,NA,400945515,2017-03-06,
+313,4,0:31,31,31,Kendall McCoy missed Three Point Jumper.,70,66,4,0,0.9793733288788021,Western Michigan,Miami (OH),3,5,1,0,NA,400945515,2017-03-06,
+314,4,0:31,31,31,Emma Vanzanten Defensive Rebound.,70,66,4,4,0.9793733288788021,Western Michigan,Miami (OH),3,5,1,0,NA,400945515,2017-03-06,
+315,4,0:27,27,27,Foul on Molly McDonagh.,70,66,4,0,0.9813188194015151,Western Michigan,Miami (OH),3,5,1,0,NA,400945515,2017-03-06,
+316,4,0:27,27,27,Emma Vanzanten missed Free Throw.,70,66,4,0,0.9813188194015151,Western Michigan,Miami (OH),3,5,1,0,NA,400945515,2017-03-06,
+317,4,0:27,27,27,Western Michigan Deadball Team Rebound.,70,66,4,0,0.9813188194015151,Western Michigan,Miami (OH),3,5,1,0,NA,400945515,2017-03-06,
+318,4,0:27,27,27,Emma Vanzanten made Free Throw.,71,66,5,0,0.9929784569081344,Western Michigan,Miami (OH),3,5,1,0,NA,400945515,2017-03-06,Western Michigan
+319,4,0:27,27,27,Miami (OH)  Timeout,71,66,5,4,0.9929784569081344,Western Michigan,Miami (OH),2,5,1,0,NA,400945515,2017-03-06,
+320,4,0:23,23,23,Kendall McCoy missed Three Point Jumper.,71,66,5,0,0.9938176910562189,Western Michigan,Miami (OH),2,5,1,0,NA,400945515,2017-03-06,
+321,4,0:23,23,23,Deja Wimby Defensive Rebound.,71,66,5,3,0.9938176910562189,Western Michigan,Miami (OH),2,5,1,0,NA,400945515,2017-03-06,
+322,4,0:20,20,20,Western Michigan  Timeout,71,66,5,4,0.9943912765148744,Western Michigan,Miami (OH),2,4,1,1,NA,400945515,2017-03-06,
+323,4,0:16,16,16,Foul on Lauren Dickerson.,71,66,5,0,0.9950920147273049,Western Michigan,Miami (OH),2,4,1,1,NA,400945515,2017-03-06,
+324,4,0:16,16,16,Meredith Shipman made Free Throw.,72,66,6,0,0.9982982008592165,Western Michigan,Miami (OH),2,4,1,1,NA,400945515,2017-03-06,Western Michigan
+325,4,0:16,16,16,Meredith Shipman made Free Throw.,73,66,7,3,0.9994111560645645,Western Michigan,Miami (OH),2,4,1,1,NA,400945515,2017-03-06,Western Michigan
+326,4,0:13,13,13,Lauren Dickerson missed Three Point Jumper.,73,66,7,0,0.9994902170141574,Western Michigan,Miami (OH),2,4,1,1,NA,400945515,2017-03-06,
+327,4,0:13,13,13,Latondra Brooks Defensive Rebound.,73,66,7,13,0.9994902170141574,Western Michigan,Miami (OH),2,4,1,1,NA,400945515,2017-03-06,
+328,4,0:00,0,0,End of Game,73,66,7,0,1,Western Michigan,Miami (OH),2,4,1,1,NA,400945515,2017-03-06,

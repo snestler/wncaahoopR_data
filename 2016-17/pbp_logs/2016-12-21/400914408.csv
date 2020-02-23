@@ -1,0 +1,350 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:43,2383,2383,Shatori Walker-Kimbrough missed Layup.,0,0,0,0,0.5,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,NA
+2,1,9:43,2383,2383,Conor Richardson Defensive Rebound.,0,0,0,14,0.5,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+3,1,9:29,2369,2369,Conor Richardson missed Layup.,0,0,0,0,0.5,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+4,1,9:29,2369,2369,Brionna Jones Defensive Rebound.,0,0,0,9,0.5,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+5,1,9:20,2360,2360,Shatori Walker-Kimbrough made Three Point Jumper. Assisted by Destiny Slocum.,0,3,-3,19,0.4329127569306653,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Maryland
+6,1,9:01,2341,2341,Brianna Thomas Turnover.,0,3,-3,1,0.43230264961455184,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+7,1,9:00,2340,2340,Destiny Slocum Steal.,0,3,-3,6,0.4322703531301972,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+8,1,8:54,2334,2334,Destiny Slocum made Layup.,0,5,-5,7,0.3880201316952241,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Maryland
+9,1,8:47,2327,2327,Kadri-Ann Lass missed Layup.,0,5,-5,0,0.38765355904856574,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+10,1,8:47,2327,2327,Kristen Confroy Defensive Rebound.,0,5,-5,12,0.38765355904856574,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+11,1,8:35,2315,2315,Destiny Slocum missed Three Point Jumper.,0,5,-5,0,0.38702224117469486,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+12,1,8:35,2315,2315,Brianna Thomas Defensive Rebound.,0,5,-5,15,0.38702224117469486,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+13,1,8:20,2300,2300,Amadea Szamosi missed Layup.,0,5,-5,0,0.38622822800872986,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+14,1,8:20,2300,2300,Shatori Walker-Kimbrough Defensive Rebound.,0,5,-5,22,0.38622822800872986,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+15,1,7:58,2278,2278,Foul on Conor Richardson.,0,5,-5,10,0.38505475995404803,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+16,1,7:48,2268,2268,Shatori Walker-Kimbrough missed Layup.,0,5,-5,0,0.3845181856840818,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+17,1,7:48,2268,2268,Kadri-Ann Lass Block.,0,5,-5,1,0.3845181856840818,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+18,1,7:47,2267,2267,Conor Richardson Defensive Rebound.,0,5,-5,8,0.38446442678649795,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+19,1,7:39,2259,2259,Chassidy Omogrosso made Jumper.,2,5,-3,20,0.42960152217747094,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Duquesne
+20,1,7:19,2239,2239,Kaila Charles missed Jumper.,2,5,-3,0,0.42892919113244343,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+21,1,7:19,2239,2239,Brianna Thomas Defensive Rebound.,2,5,-3,7,0.42892919113244343,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+22,1,7:12,2232,2232,Kadri-Ann Lass missed Three Point Jumper.,2,5,-3,0,0.42869289245802544,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+23,1,7:12,2232,2232,Maryland Defensive Rebound.,2,5,-3,14,0.42869289245802544,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+24,1,6:58,2218,2218,Destiny Slocum Turnover.,2,5,-3,0,0.4282189238051186,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+25,1,6:58,2218,2218,Foul on Destiny Slocum.,2,5,-3,16,0.4282189238051186,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+26,1,6:42,2202,2202,Foul on Kristen Confroy.,2,5,-3,0,0.4276752383219673,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+27,1,6:42,2202,2202,Amadea Szamosi made Free Throw.,3,5,-2,0,0.45159499670939535,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Duquesne
+28,1,6:42,2202,2202,Amadea Szamosi made Free Throw.,4,5,-1,20,0.47574052351671575,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Duquesne
+29,1,6:22,2182,2182,Kristen Confroy missed Jumper.,4,5,-1,0,0.4755087866646665,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+30,1,6:22,2182,2182,Duquesne Defensive Rebound.,4,5,-1,12,0.4755087866646665,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+31,1,6:10,2170,2170,Kadri-Ann Lass missed Jumper.,4,5,-1,0,0.4753693254001025,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+32,1,6:10,2170,2170,Destiny Slocum Defensive Rebound.,4,5,-1,24,0.4753693254001025,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+33,1,5:46,2146,2146,Foul on Chassidy Omogrosso.,4,5,-1,11,0.47508902063357916,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+34,1,5:35,2135,2135,Shatori Walker-Kimbrough missed Layup.,4,5,-1,6,0.47495976850978017,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+35,1,5:29,2129,2129,Brianna Fraser Offensive Rebound.,4,5,-1,0,0.4748890490503926,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+36,1,5:29,2129,2129,Brianna Fraser Turnover.,4,5,-1,8,0.4748890490503926,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+37,1,5:21,2121,2121,Chassidy Omogrosso missed Layup.,4,5,-1,0,0.4747945087762299,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+38,1,5:21,2121,2121,Kristen Confroy Defensive Rebound.,4,5,-1,17,0.4747945087762299,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+39,1,5:04,2104,2104,Brianna Fraser missed Jumper.,4,5,-1,0,0.4745926334626138,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+40,1,5:04,2104,2104,Brionna Jones Offensive Rebound.,4,5,-1,4,0.4745926334626138,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+41,1,5:00,2100,2100,Brionna Jones missed Layup.,4,5,-1,0,0.4745449333195799,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+42,1,5:00,2100,2100,Chassidy Omogrosso Defensive Rebound.,4,5,-1,17,0.4745449333195799,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+43,1,4:43,2083,2083,Nina Aho missed Jumper.,4,5,-1,0,0.47434131887229,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+44,1,4:43,2083,2083,Sarah Myers Defensive Rebound.,4,5,-1,7,0.47434131887229,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+45,1,4:36,2076,2076,Official TV Timeout,4,5,-1,17,0.47425704598834423,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+46,1,4:19,2059,2059,Brionna Jones made Layup. Assisted by Destiny Slocum.,4,7,-3,11,0.4227084912435888,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Maryland
+47,1,4:08,2048,2048,Chassidy Omogrosso missed Three Point Jumper.,4,7,-3,0,0.4223150939847099,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+48,1,4:08,2048,2048,Brianna Fraser Defensive Rebound.,4,7,-3,25,0.4223150939847099,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+49,1,3:43,2023,2023,Kristen Confroy made Three Point Jumper. Assisted by Shatori Walker-Kimbrough.,4,10,-6,17,0.346616251463806,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Maryland
+50,1,3:26,2006,2006,Amadea Szamosi made Three Point Jumper. Assisted by Chassidy Omogrosso.,7,10,-3,19,0.42079435866312537,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Duquesne
+51,1,3:07,1987,1987,Brionna Jones Turnover.,7,10,-3,21,0.42009600991741897,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+52,1,2:46,1966,1966,Julijana Vojinovic missed Layup.,7,10,-3,0,0.41931606026238355,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+53,1,2:46,1966,1966,Brianna Fraser Block.,7,10,-3,1,0.41931606026238355,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+54,1,2:45,1965,1965,Brionna Jones Defensive Rebound.,7,10,-3,11,0.41927870065997547,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+55,1,2:34,1954,1954,Brianna Fraser Turnover.,7,10,-3,21,0.41886639524066294,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+56,1,2:13,1933,1933,Paige Cannon Turnover.,7,10,-3,0,0.4180722175415657,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+57,1,2:13,1933,1933,Foul on Paige Cannon.,7,10,-3,12,0.4180722175415657,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+58,1,2:01,1921,1921,Brionna Jones made Layup. Assisted by Destiny Slocum.,7,12,-5,25,0.3648710429226631,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Maryland
+59,1,1:36,1896,1896,Nina Aho missed Jumper.,7,12,-5,0,0.36336394214411877,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+60,1,1:36,1896,1896,Paige Cannon Offensive Rebound.,7,12,-5,4,0.36336394214411877,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+61,1,1:32,1892,1892,Foul on Brionna Jones.,7,12,-5,0,0.36312319236245555,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+62,1,1:32,1892,1892,Paige Cannon made Free Throw.,8,12,-4,0,0.38948743385997436,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Duquesne
+63,1,1:32,1892,1892,Paige Cannon missed Free Throw.,8,12,-4,0,0.38948743385997436,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+64,1,1:32,1892,1892,Shatori Walker-Kimbrough Defensive Rebound.,8,12,-4,6,0.38948743385997436,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+65,1,1:26,1886,1886,Foul on Nina Aho.,8,12,-4,0,0.38919042491954087,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+66,1,1:26,1886,1886,Shatori Walker-Kimbrough missed Free Throw.,8,12,-4,0,0.38919042491954087,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+67,1,1:26,1886,1886,Maryland Deadball Team Rebound.,8,12,-4,0,0.38919042491954087,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+68,1,1:26,1886,1886,Shatori Walker-Kimbrough made Free Throw.,8,13,-5,22,0.36276214181743954,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Maryland
+69,1,1:04,1864,1864,Amadea Szamosi Turnover.,8,13,-5,10,0.3614378757081586,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+70,1,0:54,1854,1854,Foul on Conor Richardson.,8,13,-5,0,0.3608349987257521,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+71,1,0:54,1854,1854,Kiah Gillespie missed Free Throw.,8,13,-5,0,0.3608349987257521,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+72,1,0:54,1854,1854,Maryland Deadball Team Rebound.,8,13,-5,0,0.3608349987257521,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+73,1,0:54,1854,1854,Kiah Gillespie missed Free Throw.,8,13,-5,0,0.3608349987257521,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+74,1,0:54,1854,1854,Amadea Szamosi Defensive Rebound.,8,13,-5,13,0.3608349987257521,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+75,1,0:41,1841,1841,Foul on Brianna Fraser.,8,13,-5,12,0.36004958568059786,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+76,1,0:29,1829,1829,Amadea Szamosi made Layup.,10,13,-3,15,0.41411396404448386,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Duquesne
+77,1,0:14,1814,1814,Shatori Walker-Kimbrough Turnover.,10,13,-3,0,0.4135363116959603,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+78,1,0:14,1814,1814,Foul on Shatori Walker-Kimbrough.,10,13,-3,12,0.4135363116959603,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+79,1,0:02,1802,1802,Foul on Kiah Gillespie.,10,13,-3,0,0.4130713725788033,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+80,1,0:02,1802,1802,Chassidy Omogrosso made Free Throw.,11,13,-2,0,0.4417189834133943,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Duquesne
+81,1,0:02,1802,1802,Chassidy Omogrosso made Free Throw.,12,13,-1,2,0.4707598326384926,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Duquesne
+82,1,0:00,1800,1800,End of 1st Quarter,12,13,-1,20,0.47073319422403154,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+83,2,9:40,1780,1780,Amadea Szamosi missed Three Point Jumper.,12,13,-1,0,0.4704650704851915,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+84,2,9:40,1780,1780,Kristen Confroy Defensive Rebound.,12,13,-1,14,0.4704650704851915,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+85,2,9:26,1766,1766,Brionna Jones missed Layup.,12,13,-1,0,0.470275280471876,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+86,2,9:26,1766,1766,Brionna Jones Offensive Rebound.,12,13,-1,4,0.470275280471876,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+87,2,9:22,1762,1762,Brionna Jones made Layup.,12,15,-3,0,0.41149827677675943,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Maryland
+88,2,9:22,1762,1762,Foul on Kadri-Ann Lass.,12,15,-3,0,0.41149827677675943,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+89,2,9:22,1762,1762,Brionna Jones made Free Throw.,12,16,-4,17,0.3829528975834532,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Maryland
+90,2,9:05,1745,1745,Kadri-Ann Lass made Jumper. Assisted by Amadea Szamosi.,14,16,-2,25,0.4401891585963383,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Duquesne
+91,2,8:40,1720,1720,Kristen Confroy Turnover.,14,16,-2,0,0.4394963927548581,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+92,2,8:40,1720,1720,Conor Richardson Steal.,14,16,-2,0,0.4394963927548581,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+93,2,8:40,1720,1720,Foul on Destiny Slocum.,14,16,-2,22,0.4394963927548581,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+94,2,8:18,1698,1698,Brianna Thomas Turnover.,14,16,-2,0,0.43887303543364314,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+95,2,8:18,1698,1698,Foul on Brianna Thomas.,14,16,-2,16,0.43887303543364314,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+96,2,8:02,1682,1682,Stephanie Jones made Layup. Assisted by Brionna Jones.,14,18,-4,15,0.37866710257567116,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Maryland
+97,2,7:47,1667,1667,Conor Richardson Turnover.,14,18,-4,17,0.3778580333413283,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+98,2,7:30,1650,1650,Kristen Confroy made Jumper.,14,20,-6,28,0.3200136203515974,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Maryland
+99,2,7:02,1622,1622,Amadea Szamosi missed Three Point Jumper.,14,20,-6,0,0.31800088202346866,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+100,2,7:02,1622,1622,Stephanie Jones Defensive Rebound.,14,20,-6,7,0.31800088202346866,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+101,2,6:55,1615,1615,Foul on Chassidy Omogrosso.,14,20,-6,4,0.3175033016238018,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+102,2,6:51,1611,1611,Shatori Walker-Kimbrough missed Jumper.,14,20,-6,0,0.317219563393942,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+103,2,6:51,1611,1611,Brionna Jones Offensive Rebound.,14,20,-6,2,0.317219563393942,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+104,2,6:49,1609,1609,Brionna Jones Turnover.,14,20,-6,23,0.31707781875594915,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+105,2,6:26,1586,1586,Kadri-Ann Lass missed Jumper.,14,20,-6,0,0.31544974286785,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+106,2,6:26,1586,1586,Stephanie Jones Defensive Rebound.,14,20,-6,20,0.31544974286785,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+107,2,6:06,1566,1566,Stephanie Jones missed Jumper.,14,20,-6,0,0.3140278215839818,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+108,2,6:06,1566,1566,Amadea Szamosi Block.,14,20,-6,2,0.3140278215839818,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+109,2,6:04,1564,1564,Maryland Offensive Rebound.,14,20,-6,8,0.31388484534235467,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+110,2,5:56,1556,1556,Kristen Confroy made Jumper.,14,22,-8,18,0.25994638999259967,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Maryland
+111,2,5:38,1538,1538,Julijana Vojinovic missed Jumper.,14,22,-8,0,0.258390714054888,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+112,2,5:38,1538,1538,Sarah Myers Defensive Rebound.,14,22,-8,22,0.258390714054888,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+113,2,5:16,1516,1516,Stephanie Jones Turnover.,14,22,-8,13,0.25644840266300184,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+114,2,5:03,1503,1503,Halle Bovell Turnover.,14,22,-8,16,0.25527308275173266,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+115,2,4:47,1487,1487,Brianna Fraser missed Jumper.,14,22,-8,1,0.25379220710300254,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+116,2,4:46,1486,1486,Angela Staffileno Defensive Rebound.,14,22,-8,16,0.2536982632099692,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+117,2,4:30,1470,1470,Julijana Vojinovic missed Three Point Jumper.,14,22,-8,1,0.2521706535258434,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+118,2,4:29,1469,1469,Sarah Myers Defensive Rebound.,14,22,-8,11,0.2520735693198135,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+119,2,4:18,1458,1458,Kristen Confroy missed Jumper.,14,22,-8,1,0.25099223334322934,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+120,2,4:17,1457,1457,Stephanie Jones Offensive Rebound.,14,22,-8,0,0.2508926726061891,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+121,2,4:17,1457,1457,Stephanie Jones Turnover.,14,22,-8,1,0.2508926726061891,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+122,2,4:16,1456,1456,Nina Aho Steal.,14,22,-8,2,0.2507928959245632,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+123,2,4:14,1454,1454,Nina Aho Turnover.,14,22,-8,1,0.25059268888409675,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+124,2,4:13,1453,1453,Sarah Myers Steal.,14,22,-8,3,0.25049225560922245,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+125,2,4:10,1450,1450,Sarah Myers missed Jumper.,14,22,-8,2,0.2501896193180577,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+126,2,4:08,1448,1448,Amadea Szamosi Defensive Rebound.,14,22,-8,16,0.24998771166210698,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+127,2,3:52,1432,1432,Angela Staffileno missed Three Point Jumper.,14,22,-8,0,0.24840747307822592,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+128,2,3:52,1432,1432,Duquesne Offensive Rebound.,14,22,-8,0,0.24840747307822592,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+129,2,3:52,1432,1432,Official TV Timeout,14,22,-8,24,0.24840747307822592,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+130,2,3:28,1408,1408,Amadea Szamosi Turnover.,14,22,-8,14,0.2461331065776352,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+131,2,3:14,1394,1394,Brionna Jones made Layup. Assisted by Blair Watson.,14,24,-10,19,0.19656992255736053,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Maryland
+132,2,2:55,1375,1375,Julijana Vojinovic Turnover.,14,24,-10,1,0.19473520501956557,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+133,2,2:54,1374,1374,Shatori Walker-Kimbrough Steal.,14,24,-10,0,0.1946393461241967,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+134,2,2:54,1374,1374,Foul on Nina Aho.,14,24,-10,12,0.1946393461241967,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+135,2,2:42,1362,1362,Brionna Jones missed Layup.,14,24,-10,0,0.19349195100191283,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+136,2,2:42,1362,1362,Blair Watson Offensive Rebound.,14,24,-10,3,0.19349195100191283,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+137,2,2:39,1359,1359,Brionna Jones Turnover.,14,24,-10,0,0.19320557355509427,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+138,2,2:39,1359,1359,Brianna Thomas Steal.,14,24,-10,21,0.19320557355509427,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+139,2,2:18,1338,1338,Chassidy Omogrosso missed Three Point Jumper.,14,24,-10,0,0.19119705152490257,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+140,2,2:18,1338,1338,Shatori Walker-Kimbrough Defensive Rebound.,14,24,-10,7,0.19119705152490257,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+141,2,2:11,1331,1331,Shatori Walker-Kimbrough made Layup.,14,26,-12,32,0.14982957097990518,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Maryland
+142,2,1:39,1299,1299,Chassidy Omogrosso missed Three Point Jumper.,14,26,-12,0,0.14671819421024426,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+143,2,1:39,1299,1299,Brionna Jones Defensive Rebound.,14,26,-12,4,0.14671819421024426,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+144,2,1:35,1295,1295,Foul on Nina Aho.,14,26,-12,0,0.1463199966782339,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+145,2,1:35,1295,1295,Brionna Jones missed Free Throw.,14,26,-12,0,0.1463199966782339,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+146,2,1:35,1295,1295,Maryland Deadball Team Rebound.,14,26,-12,0,0.1463199966782339,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+147,2,1:35,1295,1295,Brionna Jones made Free Throw.,14,27,-13,26,0.12889768644490235,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Maryland
+148,2,1:09,1269,1269,Julijana Vojinovic missed Three Point Jumper.,14,27,-13,0,0.12631039929108098,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+149,2,1:09,1269,1269,Brianna Fraser Defensive Rebound.,14,27,-13,9,0.12631039929108098,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+150,2,1:00,1260,1260,Foul on Brianna Thomas.,14,27,-13,0,0.12538315206935483,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+151,2,1:00,1260,1260,Shatori Walker-Kimbrough made Free Throw.,14,28,-14,0,0.10989364545762942,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Maryland
+152,2,1:00,1260,1260,Shatori Walker-Kimbrough made Free Throw.,14,29,-15,15,0.09610740309930851,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Maryland
+153,2,0:45,1245,1245,Kadri-Ann Lass missed Jumper.,14,29,-15,0,0.09465754803904994,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+154,2,0:45,1245,1245,Chassidy Omogrosso Offensive Rebound.,14,29,-15,13,0.09465754803904994,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+155,2,0:32,1232,1232,Julijana Vojinovic missed Three Point Jumper.,14,29,-15,0,0.09336040744170845,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+156,2,0:32,1232,1232,Duquesne Offensive Rebound.,14,29,-15,16,0.09336040744170845,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+157,2,0:16,1216,1216,Paige Cannon made Layup. Assisted by Amadea Szamosi.,16,29,-13,9,0.12054881933905803,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Duquesne
+158,2,0:07,1207,1207,Kristen Confroy made Three Point Jumper. Assisted by Sarah Myers.,16,32,-16,7,0.07884423255491434,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,Maryland
+159,2,0:00,1200,1200,End of 2nd Quarter,16,32,-16,11,0.07815520091067873,Duquesne,Maryland,4,4,0,0,NA,400914408,2016-12-21,
+160,3,9:49,1189,1189,Kadri-Ann Lass missed Jumper.,16,32,-16,0,0.07710208335023873,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+161,3,9:49,1189,1189,Maryland Defensive Rebound.,16,32,-16,10,0.07710208335023873,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+162,3,9:39,1179,1179,Foul on Amadea Szamosi.,16,32,-16,0,0.07617241381675789,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+163,3,9:39,1179,1179,Kaila Charles missed Free Throw.,16,32,-16,0,0.07617241381675789,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+164,3,9:39,1179,1179,Maryland Deadball Team Rebound.,16,32,-16,0,0.07617241381675789,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+165,3,9:39,1179,1179,Kaila Charles missed Free Throw.,16,32,-16,0,0.07617241381675789,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+166,3,9:39,1179,1179,Kadri-Ann Lass Defensive Rebound.,16,32,-16,23,0.07617241381675789,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+167,3,9:16,1156,1156,Amadea Szamosi missed Jumper.,16,32,-16,0,0.0741142279832092,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+168,3,9:16,1156,1156,Brianna Thomas Offensive Rebound.,16,32,-16,8,0.0741142279832092,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+169,3,9:08,1148,1148,Foul on Kristen Confroy.,16,32,-16,5,0.07341869741290044,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+170,3,9:03,1143,1143,Brianna Thomas Turnover.,16,32,-16,1,0.07298805519939386,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+171,3,9:02,1142,1142,Shatori Walker-Kimbrough Steal.,16,32,-16,4,0.07290225800293328,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+172,3,8:58,1138,1138,Destiny Slocum made Jumper. Assisted by Shatori Walker-Kimbrough.,16,34,-18,17,0.053833892543470784,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,Maryland
+173,3,8:41,1121,1121,Amadea Szamosi made Layup. Assisted by Kadri-Ann Lass.,18,34,-16,9,0.07111973428227453,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,Duquesne
+174,3,8:32,1112,1112,Brionna Jones missed Layup.,18,34,-16,0,0.07036296603939926,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+175,3,8:32,1112,1112,Brionna Jones Offensive Rebound.,18,34,-16,6,0.07036296603939926,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+176,3,8:26,1106,1106,Foul on Amadea Szamosi.,18,34,-16,0,0.06985933482936622,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+177,3,8:26,1106,1106,Maryland  Turnover.,18,34,-16,16,0.06985933482936622,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+178,3,8:10,1090,1090,Kadri-Ann Lass Turnover.,18,34,-16,3,0.06851497514830843,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+179,3,8:07,1087,1087,Brionna Jones Steal.,18,34,-16,6,0.0682620900199826,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+180,3,8:01,1081,1081,Kaila Charles missed Jumper.,18,34,-16,1,0.06775499837749116,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+181,3,8:00,1080,1080,Shatori Walker-Kimbrough Offensive Rebound.,18,34,-16,0,0.06767028442276615,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+182,3,8:00,1080,1080,Foul on Brianna Thomas.,18,34,-16,0,0.06767028442276615,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+183,3,8:00,1080,1080,Shatori Walker-Kimbrough missed Free Throw.,18,34,-16,0,0.06767028442276615,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+184,3,8:00,1080,1080,Maryland Deadball Team Rebound.,18,34,-16,0,0.06767028442276615,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+185,3,8:00,1080,1080,Shatori Walker-Kimbrough made Free Throw.,18,35,-17,10,0.05803185730568579,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,Maryland
+186,3,7:50,1070,1070,Amadea Szamosi missed Layup.,18,35,-17,2,0.05724885861963778,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+187,3,7:48,1068,1068,Brionna Jones Block.,18,35,-17,0,0.057091478707593325,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+188,3,7:48,1068,1068,Duquesne Offensive Rebound.,18,35,-17,3,0.057091478707593325,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+189,3,7:45,1065,1065,Kadri-Ann Lass made Jumper. Assisted by Brianna Thomas.,20,35,-15,5,0.07739484262494258,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,Duquesne
+190,3,7:40,1060,1060,Kaila Charles made Layup. Assisted by Brionna Jones.,20,37,-17,0,0.056458839025348054,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,Maryland
+191,3,7:40,1060,1060,Foul on Kadri-Ann Lass.,20,37,-17,0,0.056458839025348054,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+192,3,7:40,1060,1060,Kaila Charles made Free Throw.,20,38,-18,22,0.048255687371026965,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,Maryland
+193,3,7:18,1038,1038,Chassidy Omogrosso missed Jumper.,20,38,-18,0,0.04664012367272605,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+194,3,7:18,1038,1038,Destiny Slocum Defensive Rebound.,20,38,-18,9,0.04664012367272605,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+195,3,7:09,1029,1029,Destiny Slocum made Jumper.,20,40,-20,25,0.03325290187047428,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,Maryland
+196,3,6:44,1004,1004,Amadea Szamosi Turnover.,20,40,-20,9,0.03168743033062255,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+197,3,6:35,995,995,Kaila Charles missed Jumper.,20,40,-20,0,0.031108936422705423,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+198,3,6:35,995,995,Paige Cannon Defensive Rebound.,20,40,-20,3,0.031108936422705423,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+199,3,6:32,992,992,Foul on Kaila Charles.,20,40,-20,13,0.030914216919568065,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+200,3,6:19,979,979,Amadea Szamosi made Jumper. Assisted by Nina Aho.,22,40,-18,6,0.04202080698830617,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,Duquesne
+201,3,6:13,973,973,Shatori Walker-Kimbrough made Jumper. Assisted by Destiny Slocum.,22,42,-20,18,0.0296581866359107,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,Maryland
+202,3,5:55,955,955,Amadea Szamosi made Layup. Assisted by Paige Cannon.,24,42,-18,10,0.04007941169270936,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,Duquesne
+203,3,5:45,945,945,Destiny Slocum Turnover.,24,42,-18,1,0.039354449669433335,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+204,3,5:44,944,944,Chassidy Omogrosso Steal.,24,42,-18,3,0.03928462214976686,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+205,3,5:41,941,941,Amadea Szamosi made Layup. Assisted by Chassidy Omogrosso.,26,42,-16,2,0.05486135226470759,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,Duquesne
+206,3,5:39,939,939,Maryland  Timeout,26,42,-16,12,0.054694783881566386,Duquesne,Maryland,4,5,1,0,NA,400914408,2016-12-21,
+207,3,5:27,927,927,Kaila Charles Turnover.,26,42,-16,7,0.05373465079595049,Duquesne,Maryland,4,5,1,0,NA,400914408,2016-12-21,
+208,3,5:20,920,920,Foul on Brianna Fraser.,26,42,-16,15,0.053201912504855266,Duquesne,Maryland,4,5,1,0,NA,400914408,2016-12-21,
+209,3,5:05,905,905,Paige Cannon missed Three Point Jumper.,26,42,-16,0,0.05211380068877054,Duquesne,Maryland,4,5,1,0,NA,400914408,2016-12-21,
+210,3,5:05,905,905,Maryland Defensive Rebound.,26,42,-16,12,0.05211380068877054,Duquesne,Maryland,4,5,1,0,NA,400914408,2016-12-21,
+211,3,4:53,893,893,Brianna Fraser made Jumper. Assisted by Shatori Walker-Kimbrough.,26,44,-18,19,0.03617710597847451,Duquesne,Maryland,4,5,1,0,NA,400914408,2016-12-21,Maryland
+212,3,4:34,874,874,Foul on Kristen Confroy.,26,44,-18,0,0.03515071979501827,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+213,3,4:34,874,874,Official TV Timeout,26,44,-18,0,0.03515071979501827,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+214,3,4:34,874,874,Nina Aho missed Free Throw.,26,44,-18,0,0.03515071979501827,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+215,3,4:34,874,874,Duquesne Deadball Team Rebound.,26,44,-18,0,0.03515071979501827,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+216,3,4:34,874,874,Nina Aho made Free Throw.,27,44,-17,20,0.04195453709448899,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,Duquesne
+217,3,4:14,854,854,Blair Watson made Three Point Jumper. Assisted by Shatori Walker-Kimbrough.,27,47,-20,15,0.02375757588755149,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,Maryland
+218,3,3:59,839,839,Paige Cannon Turnover.,27,47,-20,1,0.023123375704323077,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+219,3,3:58,838,838,Brionna Jones Steal.,27,47,-20,7,0.023080569444377995,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+220,3,3:51,831,831,Stephanie Jones made Layup. Assisted by Blair Watson.,27,49,-22,29,0.01575389543787896,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,Maryland
+221,3,3:22,802,802,Foul on Brionna Jones.,27,49,-22,0,0.014750031494755006,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+222,3,3:22,802,802,Amadea Szamosi made Free Throw.,28,49,-21,0,0.017798783714248888,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,Duquesne
+223,3,3:22,802,802,Amadea Szamosi missed Free Throw.,28,49,-21,0,0.017798783714248888,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+224,3,3:22,802,802,Shatori Walker-Kimbrough Defensive Rebound.,28,49,-21,13,0.017798783714248888,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+225,3,3:09,789,789,Blair Watson missed Three Point Jumper.,28,49,-21,0,0.017246860626406704,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+226,3,3:09,789,789,Stephanie Jones Offensive Rebound.,28,49,-21,4,0.017246860626406704,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+227,3,3:05,785,785,Stephanie Jones missed Jumper.,28,49,-21,0,0.01707175448411876,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+228,3,3:05,785,785,Amadea Szamosi Defensive Rebound.,28,49,-21,10,0.01707175448411876,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+229,3,2:55,775,775,Nina Aho Turnover.,28,49,-21,1,0.016622421447225706,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+230,3,2:54,774,774,Stephanie Jones Steal.,28,49,-21,3,0.016576555349783764,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+231,3,2:51,771,771,Shatori Walker-Kimbrough made Layup. Assisted by Destiny Slocum.,28,51,-23,22,0.011192395836809296,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,Maryland
+232,3,2:29,749,749,Conor Richardson missed Three Point Jumper.,28,51,-23,0,0.010396567477126554,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+233,3,2:29,749,749,Nina Aho Offensive Rebound.,28,51,-23,9,0.010396567477126554,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+234,3,2:20,740,740,Paige Cannon made Three Point Jumper. Assisted by Nina Aho.,31,51,-20,19,0.0181457802371225,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,Duquesne
+235,3,2:01,721,721,Foul on Conor Richardson.,31,51,-20,0,0.017003227336581463,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+236,3,2:01,721,721,Brionna Jones made Free Throw.,31,52,-21,0,0.013924777967187763,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,Maryland
+237,3,2:01,721,721,Brionna Jones made Free Throw.,31,53,-22,10,0.011397222394600027,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,Maryland
+238,3,1:51,711,711,Chassidy Omogrosso Turnover.,31,53,-22,11,0.011001674509199111,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+239,3,1:40,700,700,Brionna Jones made Layup. Assisted by Kaila Charles.,31,55,-24,11,0.007049886689621892,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,Maryland
+240,3,1:29,689,689,Amadea Szamosi missed Jumper.,31,55,-24,0,0.006790189930146093,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+241,3,1:29,689,689,Blair Watson Defensive Rebound.,31,55,-24,11,0.006790189930146093,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+242,3,1:18,678,678,Kaila Charles missed Jumper.,31,55,-24,0,0.006550126188375177,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+243,3,1:18,678,678,Kadri-Ann Lass Defensive Rebound.,31,55,-24,2,0.006550126188375177,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+244,3,1:16,676,676,Foul on Julijana Vojinovic.,31,55,-24,0,0.00650811949523499,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+245,3,1:16,676,676,Brionna Jones made Free Throw.,31,56,-25,0,0.005284479575631234,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,Maryland
+246,3,1:16,676,676,Brionna Jones made Free Throw.,31,57,-26,4,0.004289911865694337,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,Maryland
+247,3,1:12,672,672,Foul on Ieshia Small.,31,57,-26,0,0.004230700661566335,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+248,3,1:12,672,672,Nina Aho made Free Throw.,32,57,-25,0,0.0052143967706575435,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,Duquesne
+249,3,1:12,672,672,Nina Aho made Free Throw.,33,57,-24,13,0.006425339892454038,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,Duquesne
+250,3,0:59,659,659,Ieshia Small Turnover.,33,57,-24,0,0.006165018713160299,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+251,3,0:59,659,659,Foul on Ieshia Small.,33,57,-24,18,0.006165018713160299,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+252,3,0:41,641,641,Julijana Vojinovic Turnover.,33,57,-24,19,0.0058155404341818095,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+253,3,0:22,622,622,Destiny Slocum missed Jumper.,33,57,-24,0,0.005443795821796285,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+254,3,0:22,622,622,Amadea Szamosi Defensive Rebound.,33,57,-24,9,0.005443795821796285,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+255,3,0:13,613,613,Chassidy Omogrosso missed Layup.,33,57,-24,0,0.0052623146992418594,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+256,3,0:13,613,613,Blair Watson Block.,33,57,-24,0,0.0052623146992418594,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+257,3,0:13,613,613,Duquesne Offensive Rebound.,33,57,-24,11,0.0052623146992418594,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+258,3,0:02,602,602,Foul on Kaila Charles.,33,57,-24,0,0.0050333895588325,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+259,3,0:02,602,602,Amadea Szamosi made Free Throw.,34,57,-23,0,0.006265946868802162,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,Duquesne
+260,3,0:02,602,602,Amadea Szamosi made Free Throw.,35,57,-22,0,0.007797962611072499,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,Duquesne
+261,3,0:02,602,602,Amadea Szamosi made Free Throw.,36,57,-21,2,0.009700897547017964,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,Duquesne
+262,3,0:00,600,600,End of 3rd Quarter,36,57,-21,20,0.009629382907594113,Duquesne,Maryland,4,5,0,0,NA,400914408,2016-12-21,
+263,4,9:40,580,580,Foul on Nina Aho.,36,57,-21,0,0.008878811921235071,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+264,4,9:40,580,580,Kiah Gillespie made Free Throw.,36,58,-22,0,0.007105883538416721,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Maryland
+265,4,9:40,580,580,Kiah Gillespie made Free Throw.,36,59,-23,19,0.005684944324285377,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Maryland
+266,4,9:21,561,561,Angela Staffileno made Jumper. Assisted by Halle Bovell.,38,59,-21,16,0.008102544316685797,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Duquesne
+267,4,9:05,545,545,Kiah Gillespie missed Layup.,38,59,-21,0,0.0074144313328828836,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+268,4,9:05,545,545,Julijana Vojinovic Defensive Rebound.,38,59,-21,17,0.0074144313328828836,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+269,4,8:48,528,528,Halle Bovell missed Jumper.,38,59,-21,0,0.006813022204935365,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+270,4,8:48,528,528,Kristen Confroy Defensive Rebound.,38,59,-21,8,0.006813022204935365,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+271,4,8:40,520,520,Kiah Gillespie Turnover.,38,59,-21,1,0.00657484648454705,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+272,4,8:39,519,519,Julijana Vojinovic Steal.,38,59,-21,4,0.0065464944257675375,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+273,4,8:35,515,515,Julijana Vojinovic Turnover.,38,59,-21,12,0.006435658479372356,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+274,4,8:23,503,503,Jenna Staiti made Layup. Assisted by Blair Watson.,38,61,-23,19,0.0037786523556999725,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Maryland
+275,4,8:04,484,484,Foul on Jenna Staiti.,38,61,-23,0,0.003455471737348143,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+276,4,8:04,484,484,Amadea Szamosi made Free Throw.,39,61,-22,0,0.004416157312065558,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Duquesne
+277,4,8:04,484,484,Amadea Szamosi made Free Throw.,40,61,-21,15,0.005642419138956984,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Duquesne
+278,4,7:49,469,469,Foul on Halle Bovell.,40,61,-21,1,0.005247587927677742,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+279,4,7:48,468,468,Shatori Walker-Kimbrough Turnover.,40,61,-21,1,0.005220122141210044,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+280,4,7:47,467,467,Halle Bovell Steal.,40,61,-21,2,0.0051924848257388755,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+281,4,7:45,465,465,Foul on Brianna Fraser.,40,61,-21,0,0.005136678941504023,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+282,4,7:45,465,465,Halle Bovell made Free Throw.,41,61,-20,0,0.006591066334788946,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Duquesne
+283,4,7:45,465,465,Halle Bovell made Free Throw.,42,61,-19,11,0.008453746452090651,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Duquesne
+284,4,7:34,454,454,Brianna Fraser made Layup. Assisted by Shatori Walker-Kimbrough.,42,63,-21,29,0.004815938079586522,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Maryland
+285,4,7:05,425,425,Foul on Brianna Fraser.,42,63,-21,0,0.003857770102892239,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+286,4,7:05,425,425,Angela Staffileno made Free Throw.,43,63,-20,0,0.005019793611458585,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Duquesne
+287,4,7:05,425,425,Angela Staffileno made Free Throw.,44,63,-19,10,0.006529543298683235,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Duquesne
+288,4,6:55,415,415,Jenna Staiti Turnover.,44,63,-19,0,0.00606468019127951,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+289,4,6:55,415,415,Foul on Jenna Staiti.,44,63,-19,18,0.00606468019127951,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+290,4,6:37,397,397,Chassidy Omogrosso made Three Point Jumper. Assisted by Julijana Vojinovic.,47,63,-16,13,0.012124468653332965,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Duquesne
+291,4,6:24,384,384,Foul on Chassidy Omogrosso.,47,63,-16,0,0.011246097892560931,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+292,4,6:24,384,384,Jenna Staiti missed Free Throw.,47,63,-16,0,0.011246097892560931,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+293,4,6:24,384,384,Maryland Deadball Team Rebound.,47,63,-16,0,0.011246097892560931,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+294,4,6:24,384,384,Jenna Staiti made Free Throw.,47,64,-17,16,0.008524914998485789,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Maryland
+295,4,6:08,368,368,Julijana Vojinovic made Jumper.,49,64,-15,21,0.013529931606802976,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Duquesne
+296,4,5:47,347,347,Shatori Walker-Kimbrough missed Jumper.,49,64,-15,0,0.011791240548873188,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+297,4,5:47,347,347,Anie-Pier Samson Block.,49,64,-15,1,0.011791240548873188,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+298,4,5:46,346,346,Amadea Szamosi Defensive Rebound.,49,64,-15,18,0.0117059233507454,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+299,4,5:28,328,328,Amadea Szamosi missed Three Point Jumper.,49,64,-15,0,0.010123613159733744,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+300,4,5:28,328,328,Halle Bovell Offensive Rebound.,49,64,-15,0,0.010123613159733744,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+301,4,5:28,328,328,Foul on Brionna Jones.,49,64,-15,0,0.010123613159733744,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+302,4,5:28,328,328,Halle Bovell made Free Throw.,50,64,-14,0,0.013691479806468716,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Duquesne
+303,4,5:28,328,328,Halle Bovell made Free Throw.,51,64,-13,24,0.01849327857073443,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Duquesne
+304,4,5:04,304,304,Foul on Julijana Vojinovic.,51,64,-13,4,0.015126649444259479,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+305,4,5:00,300,300,Shatori Walker-Kimbrough Turnover.,51,64,-13,0,0.014804564858073839,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+306,4,5:00,300,300,Official TV Timeout,51,64,-13,20,0.014804564858073839,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+307,4,4:40,280,280,Anie-Pier Samson Turnover.,51,64,-13,11,0.014570458365435076,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+308,4,4:29,269,269,Brionna Jones Turnover.,51,64,-13,18,0.015059049034909539,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+309,4,4:11,251,251,Julijana Vojinovic made Three Point Jumper. Assisted by Amadea Szamosi.,54,64,-10,18,0.04058412675335854,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Duquesne
+310,4,3:53,233,233,Foul on Anie-Pier Samson.,54,64,-10,0,0.04135626942155107,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+311,4,3:53,233,233,Shatori Walker-Kimbrough made Free Throw.,54,65,-11,0,0.030542276632682767,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Maryland
+312,4,3:53,233,233,Shatori Walker-Kimbrough made Free Throw.,54,66,-12,12,0.022489630321259512,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Maryland
+313,4,3:41,221,221,Chassidy Omogrosso missed Jumper.,54,66,-12,0,0.021665524379874332,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+314,4,3:41,221,221,Brionna Jones Defensive Rebound.,54,66,-12,6,0.021665524379874332,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+315,4,3:35,215,215,Foul on Julijana Vojinovic.,54,66,-12,0,0.020784888513496184,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+316,4,3:35,215,215,Shatori Walker-Kimbrough made Free Throw.,54,67,-13,0,0.015163731722493867,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Maryland
+317,4,3:35,215,215,Shatori Walker-Kimbrough made Free Throw.,54,68,-14,13,0.011045637216705862,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Maryland
+318,4,3:22,202,202,Julijana Vojinovic Turnover.,54,68,-14,1,0.009190287946340258,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+319,4,3:21,201,201,Stephanie Jones Steal.,54,68,-14,7,0.009015806103679375,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+320,4,3:14,194,194,Shatori Walker-Kimbrough missed Three Point Jumper.,54,68,-14,0,0.007707180033157502,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+321,4,3:14,194,194,Paige Cannon Defensive Rebound.,54,68,-14,9,0.007707180033157502,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,
+322,4,3:05,185,185,Julijana Vojinovic made Three Point Jumper. Assisted by Chassidy Omogrosso.,57,68,-11,1,0.017677721089011566,Duquesne,Maryland,5,6,0,0,NA,400914408,2016-12-21,Duquesne
+323,4,3:04,184,184,Duquesne  Timeout,57,68,-11,9,0.017281974169744502,Duquesne,Maryland,5,5,0,1,NA,400914408,2016-12-21,
+324,4,2:55,175,175,Brionna Jones missed Jumper.,57,68,-11,0,0.014055513660981638,Duquesne,Maryland,5,5,0,1,NA,400914408,2016-12-21,
+325,4,2:55,175,175,Stephanie Jones Offensive Rebound.,57,68,-11,8,0.014055513660981638,Duquesne,Maryland,5,5,0,1,NA,400914408,2016-12-21,
+326,4,2:47,167,167,Brionna Jones missed Layup.,57,68,-11,0,0.0116208997445362,Duquesne,Maryland,5,5,0,1,NA,400914408,2016-12-21,
+327,4,2:47,167,167,Brionna Jones Offensive Rebound.,57,68,-11,2,0.0116208997445362,Duquesne,Maryland,5,5,0,1,NA,400914408,2016-12-21,
+328,4,2:45,165,165,Brionna Jones made Layup.,57,70,-13,7,0.004919964363008165,Duquesne,Maryland,5,5,0,1,NA,400914408,2016-12-21,Maryland
+329,4,2:38,158,158,Paige Cannon Turnover.,57,70,-13,25,0.003991090413415412,Duquesne,Maryland,5,5,0,1,NA,400914408,2016-12-21,
+330,4,2:13,133,133,Stephanie Jones made Layup.,57,72,-15,15,6.397336447208199e-4,Duquesne,Maryland,5,5,0,1,NA,400914408,2016-12-21,Maryland
+331,4,1:58,118,118,Paige Cannon missed Three Point Jumper.,57,72,-15,0,3.129205255227357e-4,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+332,4,1:58,118,118,Kristen Confroy Defensive Rebound.,57,72,-15,22,3.129205255227357e-4,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,
+333,4,1:36,96,96,Brionna Jones made Layup. Assisted by Kristen Confroy.,57,74,-17,2,2.4981323983922837e-5,Duquesne,Maryland,5,5,0,0,NA,400914408,2016-12-21,Maryland
+334,4,1:34,94,94,Duquesne  Timeout,57,74,-17,20,2.150542886331005e-5,Duquesne,Maryland,5,4,0,1,NA,400914408,2016-12-21,
+335,4,1:14,74,74,Angela Staffileno Turnover.,57,74,-17,5,4.472894240551224e-6,Duquesne,Maryland,5,4,0,1,NA,400914408,2016-12-21,
+336,4,1:09,69,69,Destiny Slocum made Layup. Assisted by Brionna Jones.,57,76,-19,26,6.507759924577965e-7,Duquesne,Maryland,5,4,0,1,NA,400914408,2016-12-21,Maryland
+337,4,0:43,43,43,Paige Cannon missed Jumper.,57,76,-19,0,4.361470621680778e-8,Duquesne,Maryland,5,4,0,1,NA,400914408,2016-12-21,
+338,4,0:43,43,43,Brionna Jones Block.,57,76,-19,0,4.361470621680778e-8,Duquesne,Maryland,5,4,0,1,NA,400914408,2016-12-21,
+339,4,0:43,43,43,Brionna Jones Defensive Rebound.,57,76,-19,5,4.361470621680778e-8,Duquesne,Maryland,5,4,0,1,NA,400914408,2016-12-21,
+340,4,0:38,38,38,Maryland  Timeout,57,76,-19,15,2.4707682537316816e-8,Duquesne,Maryland,4,4,1,1,NA,400914408,2016-12-21,
+341,4,0:23,23,23,Foul on Halle Bovell.,57,76,-19,0,4.13625327686645e-9,Duquesne,Maryland,4,4,1,0,NA,400914408,2016-12-21,
+342,4,0:23,23,23,Ieshia Small missed Free Throw.,57,76,-19,0,4.13625327686645e-9,Duquesne,Maryland,4,4,1,0,NA,400914408,2016-12-21,
+343,4,0:23,23,23,Maryland Deadball Team Rebound.,57,76,-19,0,4.13625327686645e-9,Duquesne,Maryland,4,4,1,0,NA,400914408,2016-12-21,
+344,4,0:23,23,23,Ieshia Small made Free Throw.,57,77,-20,9,1.4975313452001043e-9,Duquesne,Maryland,4,4,1,0,NA,400914408,2016-12-21,Maryland
+345,4,0:14,14,14,Julijana Vojinovic missed Three Point Jumper.,57,77,-20,0,4.499891528493724e-10,Duquesne,Maryland,4,4,1,0,NA,400914408,2016-12-21,
+346,4,0:14,14,14,Duquesne Offensive Rebound.,57,77,-20,10,4.499891528493724e-10,Duquesne,Maryland,4,4,1,0,NA,400914408,2016-12-21,
+347,4,0:04,4,4,Halle Bovell missed Jumper.,57,77,-20,0,1.0922258727274572e-10,Duquesne,Maryland,4,4,1,0,NA,400914408,2016-12-21,
+348,4,0:04,4,4,Anie-Pier Samson Offensive Rebound.,57,77,-20,4,1.0922258727274572e-10,Duquesne,Maryland,4,4,1,0,NA,400914408,2016-12-21,
+349,4,0:00,0,0,End of Game,57,77,-20,0,1.9151695967140057e-174,Duquesne,Maryland,4,4,1,0,NA,400914408,2016-12-21,

@@ -1,0 +1,316 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:31,2371,2371,Karlie Samuelson Turnover.,0,0,0,20,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,NA
+2,1,9:11,2351,2351,Destiny Graham missed Jumper.,0,0,0,0,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+3,1,9:11,2351,2351,Nadia Fingall Defensive Rebound.,0,0,0,17,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+4,1,8:54,2334,2334,Erica McCall made Jumper. Assisted by Karlie Samuelson.,0,2,-2,24,0.4545614938352706,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Stanford
+5,1,8:30,2310,2310,Breanna Workman missed Three Point Jumper.,0,2,-2,0,0.4540341708711008,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+6,1,8:30,2310,2310,Erica McCall Defensive Rebound.,0,2,-2,10,0.4540341708711008,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+7,1,8:20,2300,2300,Brittany McPhee made Three Point Jumper. Assisted by Briana Roberson.,0,5,-5,15,0.38622822800872986,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Stanford
+8,1,8:05,2285,2285,LaBrittney Jones made Layup.,2,5,-3,22,0.43046850406611475,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Arizona
+9,1,7:43,2263,2263,Briana Roberson missed Three Point Jumper.,2,5,-3,0,0.42973545026528054,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+10,1,7:43,2263,2263,Breanna Workman Defensive Rebound.,2,5,-3,10,0.42973545026528054,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+11,1,7:33,2253,2253,Malena Washington made Jumper.,4,5,-1,14,0.4763261811960912,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Arizona
+12,1,7:19,2239,2239,Erica McCall missed Layup.,4,5,-1,0,0.4761662960837432,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+13,1,7:19,2239,2239,Stanford Offensive Rebound.,4,5,-1,20,0.4761662960837432,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+14,1,6:59,2219,2219,Brittany McPhee missed Three Point Jumper.,4,5,-1,0,0.47593667802322864,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+15,1,6:59,2219,2219,Malena Washington Defensive Rebound.,4,5,-1,9,0.47593667802322864,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+16,1,6:50,2210,2210,Malena Washington made Jumper.,6,5,1,14,0.5241670655623734,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Arizona
+17,1,6:36,2196,2196,Foul on LaBrittney Jones.,6,5,1,0,0.5243288962666488,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+18,1,6:36,2196,2196,Brittany McPhee missed Free Throw.,6,5,1,0,0.5243288962666488,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+19,1,6:36,2196,2196,Stanford Deadball Team Rebound.,6,5,1,0,0.5243288962666488,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+20,1,6:36,2196,2196,Brittany McPhee made Free Throw.,6,6,0,6,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Stanford
+21,1,6:30,2190,2190,Lucia Alonso made Three Point Jumper. Assisted by Breanna Workman.,9,6,3,13,0.572733746647031,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Arizona
+22,1,6:17,2177,2177,Brittany McPhee missed Layup.,9,6,3,0,0.5731778209643592,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+23,1,6:17,2177,2177,Breanna Workman Defensive Rebound.,9,6,3,7,0.5731778209643592,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+24,1,6:10,2170,2170,Breanna Workman made Layup. Assisted by Lucia Alonso.,11,6,5,10,0.6208158537449067,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Arizona
+25,1,6:00,2160,2160,Karlie Samuelson made Three Point Jumper.,11,9,2,12,0.5493734399338808,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Stanford
+26,1,5:48,2148,2148,Foul on Brittany McPhee.,11,9,2,6,0.5496520506452194,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+27,1,5:42,2142,2142,LaBrittney Jones made Layup.,13,9,4,19,0.5986057019313599,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Arizona
+28,1,5:23,2123,2123,Karlie Samuelson made Jumper. Assisted by Alanna Smith.,13,11,2,18,0.5502362343092052,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Stanford
+29,1,5:05,2105,2105,Breanna Workman missed Three Point Jumper.,13,11,2,0,0.5506602182867172,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+30,1,5:05,2105,2105,Stanford Defensive Rebound.,13,11,2,24,0.5506602182867172,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+31,1,4:41,2081,2081,Foul on LaBrittney Jones.,13,11,2,0,0.551230299135507,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+32,1,4:41,2081,2081,Official TV Timeout,13,11,2,11,0.551230299135507,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+33,1,4:30,2070,2070,Marta Sniezek missed Three Point Jumper.,13,11,2,0,0.5514935216661594,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+34,1,4:30,2070,2070,Arizona Defensive Rebound.,13,11,2,20,0.5514935216661594,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+35,1,4:10,2050,2050,Lucia Alonso made Jumper.,15,11,4,22,0.60283956939799,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Arizona
+36,1,3:48,2028,2028,Erica McCall made Layup. Assisted by Marta Sniezek.,15,13,2,19,0.5525107003576515,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Stanford
+37,1,3:29,2009,2009,Breanna Workman Turnover.,15,13,2,15,0.5529776423859365,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+38,1,3:14,1994,1994,Foul on Dejza James.,15,13,2,0,0.553349484338157,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+39,1,3:14,1994,1994,Briana Roberson made Free Throw.,15,14,1,0,0.5267510982190485,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Stanford
+40,1,3:14,1994,1994,Briana Roberson missed Free Throw.,15,14,1,0,0.5267510982190485,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+41,1,3:14,1994,1994,Erica McCall Offensive Rebound.,15,14,1,5,0.5267510982190485,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+42,1,3:09,1989,1989,Briana Roberson Turnover.,15,14,1,2,0.5268139350911306,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+43,1,3:07,1987,1987,Dejza James Steal.,15,14,1,4,0.5268391172960498,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+44,1,3:03,1983,1983,Malena Washington missed Jumper.,15,14,1,0,0.5268895638080849,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+45,1,3:03,1983,1983,Stanford Deadball Team Rebound.,15,14,1,4,0.5268895638080849,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+46,1,2:59,1979,1979,Foul on Dejza James.,15,14,1,16,0.5269401206974268,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+47,1,2:43,1963,1963,Karlie Samuelson made Three Point Jumper. Assisted by Briana Roberson.,15,17,-2,13,0.4458725698494025,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Stanford
+48,1,2:30,1950,1950,Foul on Briana Roberson.,15,17,-2,4,0.4455423475571626,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+49,1,2:26,1946,1946,Malena Washington made Free Throw.,16,17,-1,0,0.47263843140301287,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Arizona
+50,1,2:26,1946,1946,Malena Washington made Free Throw.,17,17,0,26,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Arizona
+51,1,2:00,1920,1920,Erica McCall made Three Point Jumper. Assisted by Nadia Fingall.,17,20,-3,24,0.41757728821762613,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Stanford
+52,1,1:36,1896,1896,Malena Washington Turnover.,17,20,-3,25,0.41666576744763445,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+53,1,1:11,1871,1871,Erica McCall missed Three Point Jumper.,17,20,-3,0,0.4157167733560208,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+54,1,1:11,1871,1871,Malena Washington Defensive Rebound.,17,20,-3,8,0.4157167733560208,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+55,1,1:03,1863,1863,Breanna Workman missed Layup.,17,20,-3,0,0.41541263607918966,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+56,1,1:03,1863,1863,Marta Sniezek Defensive Rebound.,17,20,-3,20,0.41541263607918966,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+57,1,0:43,1843,1843,Foul on Brittany McPhee.,17,20,-3,0,0.41465020016835274,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+58,1,0:43,1843,1843,Brittany McPhee Turnover.,17,20,-3,8,0.41465020016835274,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+59,1,0:35,1835,1835,Lucia Alonso made Jumper.,19,20,-1,11,0.4711956212589743,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Arizona
+60,1,0:24,1824,1824,Marta Sniezek missed Layup.,19,20,-1,0,0.4710510680039387,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+61,1,0:24,1824,1824,Breanna Workman Defensive Rebound.,19,20,-1,19,0.4710510680039387,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+62,1,0:05,1805,1805,Lucia Alonso made Layup.,21,20,1,1,0.529200264196867,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Arizona
+63,1,0:04,1804,1804,Stanford  Timeout,21,20,1,4,0.5292135580942247,Arizona,Stanford,3,4,1,0,NA,400913916,2017-01-01,
+64,1,0:00,1800,1800,Marta Sniezek missed Jumper.,21,20,1,0,0.5292668057759684,Arizona,Stanford,3,4,1,0,NA,400913916,2017-01-01,
+65,1,0:00,1800,1800,Breanna Workman Defensive Rebound.,21,20,1,0,0.5292668057759684,Arizona,Stanford,3,4,1,0,NA,400913916,2017-01-01,
+66,1,0:00,1800,1800,End of 1st Quarter,21,20,1,16,0.5292668057759684,Arizona,Stanford,3,4,1,0,NA,400913916,2017-01-01,
+67,2,9:44,1784,1784,Lauren Evans Turnover.,21,20,1,9,0.5294810368453541,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+68,2,9:35,1775,1775,Anna Wilson made Three Point Jumper. Assisted by Karlie Samuelson.,21,23,-2,15,0.4410018057886836,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Stanford
+69,2,9:20,1760,1760,Breanna Workman missed Layup.,21,23,-2,0,0.44059779950943273,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+70,2,9:20,1760,1760,Erica McCall Defensive Rebound.,21,23,-2,14,0.44059779950943273,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+71,2,9:06,1746,1746,Shannon Coffee Turnover.,21,23,-2,9,0.44021655583996494,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+72,2,8:57,1737,1737,Breanna Workman missed Jumper.,21,23,-2,0,0.43996914389435965,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+73,2,8:57,1737,1737,Stanford Defensive Rebound.,21,23,-2,14,0.43996914389435965,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+74,2,8:43,1723,1723,Erica McCall missed Jumper.,21,23,-2,0,0.43958035874101997,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+75,2,8:43,1723,1723,Destiny Graham Defensive Rebound.,21,23,-2,21,0.43958035874101997,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+76,2,8:22,1702,1702,Foul on Marta Sniezek.,21,23,-2,2,0.4389874072661592,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+77,2,8:20,1700,1700,Breanna Workman made Layup. Assisted by Lauren Evans.,23,23,0,12,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Arizona
+78,2,8:08,1688,1688,Karlie Samuelson missed Three Point Jumper.,23,23,0,16,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+79,2,7:52,1672,1672,Stanford Offensive Rebound.,23,23,0,14,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+80,2,7:38,1658,1658,Shannon Coffee Turnover.,23,23,0,10,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+81,2,7:28,1648,1648,Breanna Workman Turnover.,23,23,0,1,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+82,2,7:27,1647,1647,Anna Wilson Steal.,23,23,0,5,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+83,2,7:22,1642,1642,Anna Wilson missed Layup.,23,23,0,0,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+84,2,7:22,1642,1642,Arizona Defensive Rebound.,23,23,0,13,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+85,2,7:09,1629,1629,LaBrittney Jones Turnover.,23,23,0,9,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+86,2,7:00,1620,1620,Erica McCall missed Jumper.,23,23,0,0,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+87,2,7:00,1620,1620,Karlie Samuelson Offensive Rebound.,23,23,0,10,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+88,2,6:50,1610,1610,Erica McCall missed Jumper.,23,23,0,0,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+89,2,6:50,1610,1610,LaBrittney Jones Defensive Rebound.,23,23,0,19,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+90,2,6:31,1591,1591,Breanna Workman Turnover.,23,23,0,2,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+91,2,6:29,1589,1589,Briana Roberson Steal.,23,23,0,2,0.5,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,
+92,2,6:27,1587,1587,Briana Roberson made Layup.,23,25,-2,4,0.43581978930614085,Arizona,Stanford,4,4,0,0,NA,400913916,2017-01-01,Stanford
+93,2,6:23,1583,1583,Arizona  Timeout,23,25,-2,16,0.4357121989662213,Arizona,Stanford,4,3,0,1,NA,400913916,2017-01-01,
+94,2,6:07,1567,1567,LaBrittney Jones missed Jumper.,23,25,-2,0,0.43527980666719035,Arizona,Stanford,4,3,0,1,NA,400913916,2017-01-01,
+95,2,6:07,1567,1567,Anna Wilson Defensive Rebound.,23,25,-2,16,0.43527980666719035,Arizona,Stanford,4,3,0,1,NA,400913916,2017-01-01,
+96,2,5:51,1551,1551,Anna Wilson missed Three Point Jumper.,23,25,-2,0,0.4348425018729785,Arizona,Stanford,4,3,0,1,NA,400913916,2017-01-01,
+97,2,5:51,1551,1551,Malena Washington Defensive Rebound.,23,25,-2,15,0.4348425018729785,Arizona,Stanford,4,3,0,1,NA,400913916,2017-01-01,
+98,2,5:36,1536,1536,Lucia Alonso missed Three Point Jumper.,23,25,-2,0,0.43442609677021293,Arizona,Stanford,4,3,0,1,NA,400913916,2017-01-01,
+99,2,5:36,1536,1536,Dijonai Carrington Defensive Rebound.,23,25,-2,17,0.43442609677021293,Arizona,Stanford,4,3,0,1,NA,400913916,2017-01-01,
+100,2,5:19,1519,1519,Nadia Fingall missed Jumper.,23,25,-2,0,0.4339442946700814,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+101,2,5:19,1519,1519,Nadia Fingall Offensive Rebound.,23,25,-2,3,0.4339442946700814,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+102,2,5:16,1516,1516,Foul on LaBrittney Jones.,23,25,-2,0,0.4338579924964784,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+103,2,5:16,1516,1516,Nadia Fingall made Free Throw.,23,26,-3,0,0.4015066053290615,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,Stanford
+104,2,5:16,1516,1516,Nadia Fingall made Free Throw.,23,27,-4,9,0.3699910200156768,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,Stanford
+105,2,5:07,1507,1507,Lucia Alonso missed Jumper.,23,27,-4,0,0.3694948178282831,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+106,2,5:07,1507,1507,Erica McCall Defensive Rebound.,23,27,-4,21,0.3694948178282831,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+107,2,4:46,1486,1486,Karlie Samuelson made Three Point Jumper. Assisted by Nadia Fingall.,23,30,-7,19,0.28007062281094347,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,Stanford
+108,2,4:27,1467,1467,Malena Washington Turnover.,23,30,-7,0,0.2783743279281192,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+109,2,4:27,1467,1467,Briana Roberson Steal.,23,30,-7,21,0.2783743279281192,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+110,2,4:06,1446,1446,Nadia Fingall made Layup. Assisted by Marta Sniezek.,23,32,-9,15,0.22492057328457274,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,Stanford
+111,2,3:51,1431,1431,Foul on Marta Sniezek.,23,32,-9,0,0.22337630221855864,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+112,2,3:51,1431,1431,Malena Washington made Free Throw.,24,32,-8,0,0.24831060821387718,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,Arizona
+113,2,3:51,1431,1431,Malena Washington missed Free Throw.,24,32,-8,0,0.24831060821387718,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+114,2,3:51,1431,1431,Stanford Deadball Team Rebound.,24,32,-8,0,0.24831060821387718,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+115,2,3:51,1431,1431,Foul on Destiny Graham.,24,32,-8,18,0.24831060821387718,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+116,2,3:33,1413,1413,Erica McCall made Layup. Assisted by Karlie Samuelson.,24,34,-10,19,0.19844497791038426,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,Stanford
+117,2,3:14,1394,1394,Malena Washington missed Three Point Jumper.,24,34,-10,0,0.19656992255736053,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+118,2,3:14,1394,1394,Anna Wilson Defensive Rebound.,24,34,-10,19,0.19656992255736053,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+119,2,2:55,1375,1375,Erica McCall made Layup. Assisted by Anna Wilson.,24,36,-12,14,0.1540169662281408,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,Stanford
+120,2,2:41,1361,1361,Malena Washington missed Three Point Jumper.,24,36,-12,0,0.1526834146288732,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+121,2,2:41,1361,1361,Breanna Workman Offensive Rebound.,24,36,-12,16,0.1526834146288732,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+122,2,2:25,1345,1345,Foul on Nadia Fingall.,24,36,-12,0,0.15116405771708208,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+123,2,2:25,1345,1345,Breanna Workman made Free Throw.,25,36,-11,0,0.1705536492777889,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,Arizona
+124,2,2:25,1345,1345,Breanna Workman made Free Throw.,26,36,-10,7,0.19186814495822052,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,Arizona
+125,2,2:18,1338,1338,Foul on JaLea Bennett.,26,36,-10,14,0.19119705152490257,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+126,2,2:04,1324,1324,Karlie Samuelson missed Three Point Jumper.,26,36,-10,0,0.18984504601554247,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+127,2,2:04,1324,1324,Briana Roberson Offensive Rebound.,26,36,-10,3,0.18984504601554247,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+128,2,2:01,1321,1321,Foul on JaLea Bennett.,26,36,-10,22,0.18955303461817727,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+129,2,1:39,1299,1299,Anna Wilson made Layup.,26,38,-12,4,0.14671819421024426,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,Stanford
+130,2,1:35,1295,1295,Foul on Lucia Alonso.,26,38,-12,0,0.1463199966782339,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+131,2,1:35,1295,1295,Anna Wilson missed Free Throw.,26,38,-12,0,0.1463199966782339,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+132,2,1:35,1295,1295,Erica McCall Offensive Rebound.,26,38,-12,18,0.1463199966782339,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+133,2,1:17,1277,1277,Briana Roberson missed Jumper.,26,38,-12,0,0.14449322848957333,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+134,2,1:17,1277,1277,Nadia Fingall Offensive Rebound.,26,38,-12,12,0.14449322848957333,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+135,2,1:05,1265,1265,Foul on Breanna Workman.,26,38,-12,0,0.1432385571904988,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+136,2,1:05,1265,1265,Erica McCall made Free Throw.,26,39,-13,0,0.12590052785395334,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,Stanford
+137,2,1:05,1265,1265,Erica McCall made Free Throw.,26,40,-14,31,0.11039074268984951,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,Stanford
+138,2,0:34,1234,1234,Breanna Workman missed Jumper.,26,40,-14,0,0.10721604703550673,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+139,2,0:34,1234,1234,Arizona Deadball Team Rebound.,26,40,-14,9,0.10721604703550673,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+140,2,0:25,1225,1225,Arizona  Turnover.,26,40,-14,6,0.10624900101058406,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+141,2,0:19,1219,1219,Erica McCall missed Jumper.,26,40,-14,0,0.10559173969901128,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+142,2,0:19,1219,1219,Arizona Deadball Team Rebound.,26,40,-14,2,0.10559173969901128,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+143,2,0:17,1217,1217,Foul on Nadia Fingall.,26,40,-14,8,0.10537034475128788,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+144,2,0:09,1209,1209,Foul on Karlie Samuelson.,26,40,-14,0,0.10447322593762481,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+145,2,0:09,1209,1209,JaLea Bennett missed Free Throw.,26,40,-14,0,0.10447322593762481,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+146,2,0:09,1209,1209,Arizona Deadball Team Rebound.,26,40,-14,0,0.10447322593762481,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+147,2,0:09,1209,1209,JaLea Bennett missed Free Throw.,26,40,-14,0,0.10447322593762481,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+148,2,0:09,1209,1209,Dijonai Carrington Defensive Rebound.,26,40,-14,9,0.10447322593762481,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+149,2,0:00,1200,1200,End of 2nd Quarter,26,40,-14,16,0.10347276448009536,Arizona,Stanford,4,3,0,0,NA,400913916,2017-01-01,
+150,3,9:44,1184,1184,LaBrittney Jones missed Three Point Jumper.,26,40,-14,0,0.10175642574947977,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+151,3,9:44,1184,1184,Destiny Graham Offensive Rebound.,26,40,-14,21,0.10175642574947977,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+152,3,9:23,1163,1163,Destiny Graham missed Jumper.,26,40,-14,0,0.09960043635836933,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+153,3,9:23,1163,1163,Erica McCall Defensive Rebound.,26,40,-14,5,0.09960043635836933,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+154,3,9:18,1158,1158,Erica McCall Turnover.,26,40,-14,1,0.099099745470541,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+155,3,9:17,1157,1157,Lucia Alonso missed Jumper.,26,40,-14,0,0.09900008950694675,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+156,3,9:17,1157,1157,Arizona Offensive Rebound.,26,40,-14,12,0.09900008950694675,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+157,3,9:05,1145,1145,Breanna Workman missed Three Point Jumper.,26,40,-14,0,0.09781506005353276,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+158,3,9:05,1145,1145,Erica McCall Defensive Rebound.,26,40,-14,17,0.09781506005353276,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+159,3,8:48,1128,1128,Erica McCall missed Jumper.,26,40,-14,0,0.09616186752483594,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+160,3,8:48,1128,1128,Erica McCall Offensive Rebound.,26,40,-14,11,0.09616186752483594,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+161,3,8:37,1117,1117,Briana Roberson missed Three Point Jumper.,26,40,-14,0,0.09510118411472217,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+162,3,8:37,1117,1117,Breanna Workman Defensive Rebound.,26,40,-14,23,0.09510118411472217,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+163,3,8:14,1094,1094,Foul on Nadia Fingall.,26,40,-14,0,0.0928850188790335,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+164,3,8:14,1094,1094,Breanna Workman missed Free Throw.,26,40,-14,0,0.0928850188790335,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+165,3,8:14,1094,1094,Arizona Deadball Team Rebound.,26,40,-14,0,0.0928850188790335,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+166,3,8:14,1094,1094,Breanna Workman made Free Throw.,27,40,-13,24,0.10753914031580215,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,Arizona
+167,3,7:50,1070,1070,Foul on Briana Roberson.,27,40,-13,0,0.1050583170437586,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+168,3,7:50,1070,1070,Briana Roberson Turnover.,27,40,-13,11,0.1050583170437586,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+169,3,7:39,1059,1059,LaBrittney Jones missed Jumper.,27,40,-13,0,0.1038973876477416,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+170,3,7:39,1059,1059,Breanna Workman Offensive Rebound.,27,40,-13,3,0.1038973876477416,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+171,3,7:36,1056,1056,Foul on Shannon Coffee.,27,40,-13,0,0.1035774233629898,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+172,3,7:36,1056,1056,Foul on Shannon Coffee.,27,40,-13,6,0.1035774233629898,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+173,3,7:30,1050,1050,Destiny Graham missed Jumper.,27,40,-13,0,0.10293271428118132,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+174,3,7:30,1050,1050,Erica McCall Defensive Rebound.,27,40,-13,9,0.10293271428118132,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+175,3,7:21,1041,1041,Foul on Erica McCall.,27,40,-13,0,0.10195266432646334,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+176,3,7:21,1041,1041,Erica McCall Turnover.,27,40,-13,11,0.10195266432646334,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+177,3,7:10,1030,1030,Malena Washington missed Layup.,27,40,-13,0,0.10073131905298022,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+178,3,7:10,1030,1030,Dijonai Carrington Block.,27,40,-13,3,0.10073131905298022,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+179,3,7:07,1027,1027,Dijonai Carrington Defensive Rebound.,27,40,-13,6,0.10039335763576746,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+180,3,7:01,1021,1021,Brittany McPhee missed Three Point Jumper.,27,40,-13,0,0.09971077102272434,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+181,3,7:01,1021,1021,Dijonai Carrington Offensive Rebound.,27,40,-13,10,0.09971077102272434,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+182,3,6:51,1011,1011,Karlie Samuelson Turnover.,27,40,-13,15,0.09855229566907789,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+183,3,6:36,996,996,Malena Washington made Three Point Jumper. Assisted by Destiny Graham.,30,40,-10,9,0.15209588356629355,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,Arizona
+184,3,6:27,987,987,Foul on Destiny Graham.,30,40,-10,10,0.1508373285840838,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+185,3,6:17,977,977,Karlie Samuelson missed Three Point Jumper.,30,40,-10,0,0.14939890884128465,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+186,3,6:17,977,977,Breanna Workman Defensive Rebound.,30,40,-10,10,0.14939890884128465,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+187,3,6:07,967,967,LaBrittney Jones missed Layup.,30,40,-10,0,0.14792277780120494,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+188,3,6:07,967,967,Erica McCall Block.,30,40,-10,7,0.14792277780120494,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+189,3,6:00,960,960,Erica McCall Defensive Rebound.,30,40,-10,11,0.1469227260274606,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+190,3,5:49,949,949,Marta Sniezek made Three Point Jumper. Assisted by Erica McCall.,30,43,-13,17,0.09094997288815558,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,Stanford
+191,3,5:32,932,932,Destiny Graham missed Three Point Jumper.,30,43,-13,0,0.08912380186891262,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+192,3,5:32,932,932,Breanna Workman Offensive Rebound.,30,43,-13,17,0.08912380186891262,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+193,3,5:15,915,915,LaBrittney Jones missed Layup.,30,43,-13,0,0.08745049741489405,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+194,3,5:15,915,915,Stanford Defensive Rebound.,30,43,-13,12,0.08745049741489405,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+195,3,5:03,903,903,Karlie Samuelson missed Three Point Jumper.,30,43,-13,0,0.08633579620060414,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+196,3,5:03,903,903,Malena Washington Defensive Rebound.,30,43,-13,16,0.08633579620060414,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+197,3,4:47,887,887,Official TV Timeout,30,43,-13,17,0.08490480083572835,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+198,3,4:30,870,870,Destiny Graham missed Jumper.,30,43,-13,0,0.08341782729506667,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+199,3,4:30,870,870,Karlie Samuelson Block.,30,43,-13,2,0.08341782729506667,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+200,3,4:28,868,868,Erica McCall Defensive Rebound.,30,43,-13,7,0.08324335296009734,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+201,3,4:21,861,861,Karlie Samuelson missed Three Point Jumper.,30,43,-13,0,0.08263132858391452,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+202,3,4:21,861,861,Malena Washington Defensive Rebound.,30,43,-13,9,0.08263132858391452,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+203,3,4:12,852,852,Destiny Graham made Layup. Assisted by Malena Washington.,32,43,-11,20,0.114488804548686,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,Arizona
+204,3,3:52,832,832,Foul on Breanna Workman.,32,43,-11,0,0.11241352424736105,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+205,3,3:52,832,832,Marta Sniezek missed Free Throw.,32,43,-11,0,0.11241352424736105,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+206,3,3:52,832,832,Stanford Deadball Team Rebound.,32,43,-11,0,0.11241352424736105,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+207,3,3:52,832,832,Marta Sniezek made Free Throw.,32,44,-12,16,0.09499045061366154,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,Stanford
+208,3,3:36,816,816,Lucia Alonso made Three Point Jumper. Assisted by Malena Washington.,35,44,-9,16,0.1537936358706675,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,Arizona
+209,3,3:20,800,800,Brittany McPhee missed Layup.,35,44,-9,0,0.15175488484628272,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+210,3,3:20,800,800,Erica McCall Offensive Rebound.,35,44,-9,4,0.15175488484628272,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+211,3,3:16,796,796,Foul on Lucia Alonso.,35,44,-9,0,0.15121961834443515,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+212,3,3:16,796,796,Erica McCall made Free Throw.,35,45,-10,0,0.12822538243874654,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,Stanford
+213,3,3:16,796,796,Erica McCall made Free Throw.,35,46,-11,15,0.10828156109737687,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,Stanford
+214,3,3:01,781,781,Breanna Workman made Layup. Assisted by Bria Rice.,37,46,-9,22,0.14910856597743405,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,Arizona
+215,3,2:39,759,759,Marta Sniezek made Three Point Jumper. Assisted by Brittany McPhee.,37,49,-12,32,0.08638763642996108,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,Stanford
+216,3,2:07,727,727,Breanna Workman missed Jumper.,37,49,-12,0,0.08151545732831837,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+217,3,2:07,727,727,Arizona Deadball Team Rebound.,37,49,-12,2,0.08151545732831837,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+218,3,2:05,725,725,Arizona  Turnover.,37,49,-12,20,0.08120208564145122,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+219,3,1:45,705,705,Marta Sniezek made Jumper.,37,51,-14,17,0.05336757495515176,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,Stanford
+220,3,1:28,688,688,Breanna Workman missed Three Point Jumper.,37,51,-14,0,0.05165458860276757,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+221,3,1:28,688,688,Brittany McPhee Defensive Rebound.,37,51,-14,9,0.05165458860276757,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+222,3,1:19,679,679,Brittany McPhee missed Three Point Jumper.,37,51,-14,0,0.05081415186889307,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+223,3,1:19,679,679,Arizona Defensive Rebound.,37,51,-14,14,0.05081415186889307,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+224,3,1:05,665,665,Foul on Nadia Fingall.,37,51,-14,0,0.049562138839369024,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+225,3,1:05,665,665,Breanna Workman made Free Throw.,38,51,-13,0,0.060499268845751825,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,Arizona
+226,3,1:05,665,665,Breanna Workman made Free Throw.,39,51,-12,8,0.07366289077533096,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,Arizona
+227,3,0:57,657,657,Marta Sniezek Turnover.,39,51,-12,29,0.07279351151355776,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+228,3,0:28,628,628,Malena Washington Turnover.,39,51,-12,1,0.06958595850262142,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+229,3,0:27,627,627,Marta Sniezek Steal.,39,51,-12,4,0.06947071182938558,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+230,3,0:23,623,623,Marta Sniezek missed Layup.,39,51,-12,0,0.06900492114466655,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+231,3,0:23,623,623,Erica McCall Offensive Rebound.,39,51,-12,22,0.06900492114466655,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+232,3,0:01,601,601,Marta Sniezek Turnover.,39,51,-12,1,0.06627098653106427,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+233,3,0:00,600,600,End of 3rd Quarter,39,51,-12,20,0.06613849491992857,Arizona,Stanford,5,4,0,0,NA,400913916,2017-01-01,
+234,4,9:40,580,580,LaBrittney Jones made Layup.,41,51,-10,1,0.09575403849227375,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,Arizona
+235,4,9:39,579,579,Foul on Erica McCall.,41,51,-10,0,0.09556964471856626,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+236,4,9:39,579,579,LaBrittney Jones missed Free Throw.,41,51,-10,0,0.09556964471856626,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+237,4,9:39,579,579,Arizona Offensive Rebound.,41,51,-10,17,0.09556964471856626,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+238,4,9:22,562,562,Lucia Alonso missed Jumper.,41,51,-10,0,0.09222603574734027,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+239,4,9:22,562,562,Brittany McPhee Defensive Rebound.,41,51,-10,6,0.09222603574734027,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+240,4,9:16,556,556,Foul on Bria Rice.,41,51,-10,9,0.09094672218553213,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+241,4,9:07,547,547,Erica McCall Turnover.,41,51,-10,0,0.08894728623875403,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+242,4,9:07,547,547,Foul on Erica McCall.,41,51,-10,14,0.08894728623875403,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+243,4,8:53,533,533,Malena Washington missed Jumper.,41,51,-10,0,0.08617967264290742,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+244,4,8:53,533,533,Erica McCall Defensive Rebound.,41,51,-10,20,0.08617967264290742,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+245,4,8:33,513,513,Erica McCall made Layup.,41,53,-12,21,0.05292345309134838,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,Stanford
+246,4,8:12,492,492,Foul on LaBrittney Jones.,41,53,-12,0,0.050445701722485296,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+247,4,8:12,492,492,LaBrittney Jones Turnover.,41,53,-12,9,0.050445701722485296,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+248,4,8:03,483,483,Brittany McPhee missed Layup.,41,53,-12,0,0.04936397080651009,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+249,4,8:03,483,483,Dejza James Defensive Rebound.,41,53,-12,10,0.04936397080651009,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+250,4,7:53,473,473,Malena Washington made Layup.,43,53,-10,0,0.07672395478837521,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,Arizona
+251,4,7:53,473,473,Foul on Marta Sniezek.,43,53,-10,0,0.07672395478837521,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+252,4,7:53,473,473,Malena Washington missed Free Throw.,43,53,-10,0,0.07672395478837521,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+253,4,7:53,473,473,Erica McCall Defensive Rebound.,43,53,-10,5,0.07672395478837521,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+254,4,7:48,468,468,Karlie Samuelson made Three Point Jumper. Assisted by Marta Sniezek.,43,56,-13,16,0.03732687212701407,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,Stanford
+255,4,7:32,452,452,Malena Washington missed Layup.,43,56,-13,0,0.035295383716677745,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+256,4,7:32,452,452,Karlie Samuelson Block.,43,56,-13,3,0.035295383716677745,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+257,4,7:29,449,449,Karlie Samuelson Defensive Rebound.,43,56,-13,20,0.034878936213448626,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+258,4,7:09,429,429,Karlie Samuelson made Three Point Jumper. Assisted by Brittany McPhee.,43,59,-16,13,0.01469793389050484,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,Stanford
+259,4,6:56,416,416,Bria Rice missed Layup.,43,59,-16,0,0.013546925222684525,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+260,4,6:56,416,416,Erica McCall Defensive Rebound.,43,59,-16,13,0.013546925222684525,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,
+261,4,6:43,403,403,Erica McCall made Jumper. Assisted by Karlie Samuelson.,43,61,-18,6,0.0073107947951599524,Arizona,Stanford,6,5,0,0,NA,400913916,2017-01-01,Stanford
+262,4,6:37,397,397,Arizona  Timeout,43,61,-18,13,0.007030986168720961,Arizona,Stanford,6,4,0,1,NA,400913916,2017-01-01,
+263,4,6:24,384,384,Destiny Graham missed Jumper.,43,61,-18,0,0.0064578677042263334,Arizona,Stanford,6,4,0,1,NA,400913916,2017-01-01,
+264,4,6:24,384,384,Dijonai Carrington Defensive Rebound.,43,61,-18,28,0.0064578677042263334,Arizona,Stanford,6,4,0,1,NA,400913916,2017-01-01,
+265,4,5:56,356,356,Marta Sniezek Turnover.,43,61,-18,24,0.005279043209217694,Arizona,Stanford,6,4,0,1,NA,400913916,2017-01-01,
+266,4,5:32,332,332,Destiny Graham made Layup.,45,61,-16,9,0.007762541296779038,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,Arizona
+267,4,5:23,323,323,Erica McCall missed Layup.,45,61,-16,0,0.007120090674556025,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+268,4,5:23,323,323,LaBrittney Jones Defensive Rebound.,45,61,-16,28,0.007120090674556025,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+269,4,4:55,295,295,LaBrittney Jones missed Jumper.,45,61,-16,0,0.005552855323768178,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+270,4,4:55,295,295,Dijonai Carrington Defensive Rebound.,45,61,-16,21,0.005552855323768178,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+271,4,4:34,274,274,Briana Roberson missed Three Point Jumper.,45,61,-16,0,0.005670647013975766,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+272,4,4:34,274,274,Malena Washington Defensive Rebound.,45,61,-16,9,0.005670647013975766,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+273,4,4:25,265,265,Malena Washington Turnover.,45,61,-16,0,0.005903210939450224,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+274,4,4:25,265,265,Official TV Timeout,45,61,-16,17,0.005903210939450224,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+275,4,4:08,248,248,Nadia Fingall made Layup. Assisted by Karlie Samuelson.,45,63,-18,15,0.0033997390037313843,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,Stanford
+276,4,3:53,233,233,LaBrittney Jones missed Layup.,45,63,-18,0,0.0034775908499465203,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+277,4,3:53,233,233,Brittany McPhee Defensive Rebound.,45,63,-18,11,0.0034775908499465203,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+278,4,3:42,222,222,Nadia Fingall made Layup. Assisted by Brittany McPhee.,45,65,-20,29,0.001759099643638077,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,Stanford
+279,4,3:13,193,193,Malena Washington Turnover.,45,65,-20,1,9.32280631293679e-4,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+280,4,3:12,192,192,Briana Roberson Steal.,45,65,-20,7,8.971859624157244e-4,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+281,4,3:05,185,185,Foul on Breanna Workman.,45,65,-20,0,6.718836561166443e-4,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+282,4,3:05,185,185,Nadia Fingall made Free Throw.,45,66,-21,0,4.6640442768463913e-4,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,Stanford
+283,4,3:05,185,185,Nadia Fingall made Free Throw.,45,67,-22,9,3.237456513449957e-4,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,Stanford
+284,4,2:56,176,176,Taryn Griffey made Three Point Jumper. Assisted by Destiny Graham.,48,67,-19,27,6.743221062291751e-4,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,Arizona
+285,4,2:29,149,149,Brittany McPhee Turnover.,48,67,-19,24,2.0637257428685258e-4,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+286,4,2:05,125,125,LaBrittney Jones Turnover.,48,67,-19,1,5.6540127114849365e-5,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+287,4,2:04,124,124,Nadia Fingall Steal.,48,67,-19,5,5.319664533584783e-5,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+288,4,1:59,119,119,Nadia Fingall made Layup. Assisted by Alexa Romano.,48,69,-21,8,1.3334386571762729e-5,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,Stanford
+289,4,1:51,111,111,Destiny Graham made Layup.,50,69,-19,6,2.263719929653552e-5,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,Arizona
+290,4,1:45,105,105,Anna Wilson Turnover.,50,69,-19,13,1.4626230189436712e-5,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+291,4,1:32,92,92,Foul on Brittany McPhee.,50,69,-19,0,5.13208476139666e-6,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+292,4,1:32,92,92,Destiny Graham missed Free Throw.,50,69,-19,0,5.13208476139666e-6,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+293,4,1:32,92,92,Arizona Deadball Team Rebound.,50,69,-19,0,5.13208476139666e-6,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+294,4,1:32,92,92,Destiny Graham made Free Throw.,51,69,-18,2,9.743102895372086e-6,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,Arizona
+295,4,1:30,90,90,Dijonai Carrington made Layup. Assisted by Alexa Romano.,51,71,-20,14,2.2620525964276245e-6,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,Stanford
+296,4,1:16,76,76,Breanna Workman made Layup. Assisted by Lucia Alonso.,53,71,-18,11,2.5845048560188853e-6,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,Arizona
+297,4,1:05,65,65,Dijonai Carrington missed Three Point Jumper.,53,71,-18,0,9.498883057161197e-7,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+298,4,1:05,65,65,Alexa Romano Offensive Rebound.,53,71,-18,16,9.498883057161197e-7,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+299,4,0:49,49,49,Anna Wilson missed Jumper.,53,71,-18,0,1.987908541202126e-7,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+300,4,0:49,49,49,Dijonai Carrington Offensive Rebound.,53,71,-18,5,1.987908541202126e-7,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+301,4,0:44,44,44,Dijonai Carrington made Jumper.,53,73,-20,8,2.0104897183265452e-8,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,Stanford
+302,4,0:36,36,36,Destiny Graham missed Jumper.,53,73,-20,0,7.701336597254588e-9,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+303,4,0:36,36,36,Brittany McPhee Block.,53,73,-20,3,7.701336597254588e-9,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+304,4,0:33,33,33,Alexa Romano Defensive Rebound.,53,73,-20,5,5.318573240321147e-9,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+305,4,0:28,28,28,Shannon Coffee made Layup. Assisted by Anna Wilson.,53,75,-22,0,3.9669577163401766e-10,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,Stanford
+306,4,0:28,28,28,Foul on Lucia Alonso.,53,75,-22,0,3.9669577163401766e-10,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+307,4,0:28,28,28,Shannon Coffee made Free Throw.,53,76,-23,10,1.4829097950127558e-10,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,Stanford
+308,4,0:18,18,18,LaBrittney Jones made Jumper.,55,76,-21,8,2.7165206814768174e-10,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,Arizona
+309,4,0:10,10,10,Foul on Destiny Graham.,55,76,-21,0,8.540886313645563e-11,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+310,4,0:10,10,10,Anna Wilson missed Free Throw.,55,76,-21,0,8.540886313645563e-11,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+311,4,0:10,10,10,Stanford Deadball Team Rebound.,55,76,-21,0,8.540886313645563e-11,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+312,4,0:10,10,10,Anna Wilson made Free Throw.,55,77,-22,6,2.8317225561601397e-11,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,Stanford
+313,4,0:04,4,4,Taryn Griffey missed Three Point Jumper.,55,77,-22,0,1.1019038639262556e-11,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+314,4,0:04,4,4,Stanford Defensive Rebound.,55,77,-22,4,1.1019038639262556e-11,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,
+315,4,0:00,0,0,End of Game,55,77,-22,0,8.136318905805023e-192,Arizona,Stanford,6,4,0,0,NA,400913916,2017-01-01,

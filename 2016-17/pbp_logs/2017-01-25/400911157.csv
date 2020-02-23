@@ -1,0 +1,326 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:47,2387,2387,Lanay Montgomery Turnover.,0,0,0,1,0.5,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,NA
+2,1,9:46,2386,2386,Ivonne Cook-Taylor Steal.,0,0,0,17,0.5,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+3,1,9:29,2369,2369,Ivonne Cook-Taylor missed Jumper.,0,0,0,0,0.5,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+4,1,9:29,2369,2369,Chania Ray Defensive Rebound.,0,0,0,12,0.5,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+5,1,9:17,2357,2357,Lanay Montgomery made Layup. Assisted by Katrina Pardee.,2,0,2,23,0.5449396457150346,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+6,1,8:54,2334,2334,Jada Terry missed Jumper.,2,0,2,0,0.5454385061647294,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+7,1,8:54,2334,2334,Lanay Montgomery Defensive Rebound.,2,0,2,18,0.5454385061647294,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+8,1,8:36,2316,2316,Chania Ray Turnover.,2,0,2,18,0.5458333887750282,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+9,1,8:18,2298,2298,Recee' Caldwell missed Jumper.,2,0,2,0,0.546231860846261,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+10,1,8:18,2298,2298,Tynice Martin Defensive Rebound.,2,0,2,8,0.546231860846261,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+11,1,8:10,2290,2290,Katrina Pardee made Three Point Jumper. Assisted by Tynice Martin.,5,0,5,4,0.6143039171620343,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+12,1,8:06,2286,2286,Brittany Brewer Turnover.,5,0,5,0,0.6145173679655145,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+13,1,8:06,2286,2286,Chania Ray Steal.,5,0,5,7,0.6145173679655145,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+14,1,7:59,2279,2279,Teana Muldrow Turnover.,5,0,5,4,0.6148916869348612,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+15,1,7:55,2275,2275,Ivonne Cook-Taylor Steal.,5,0,5,0,0.6151060149896727,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+16,1,7:55,2275,2275,Foul on Katrina Pardee.,5,0,5,8,0.6151060149896727,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+17,1,7:47,2267,2267,Jada Terry missed Jumper.,5,0,5,0,0.615535573213502,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+18,1,7:47,2267,2267,Lanay Montgomery Defensive Rebound.,5,0,5,7,0.615535573213502,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+19,1,7:40,2260,2260,Tynice Martin made Layup.,7,0,7,14,0.6595136461181544,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+20,1,7:26,2246,2246,Larryn Brooks missed Jumper.,7,0,7,0,0.6605180693441508,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+21,1,7:26,2246,2246,Lanay Montgomery Defensive Rebound.,7,0,7,8,0.6605180693441508,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+22,1,7:18,2238,2238,Tynice Martin missed Three Point Jumper.,7,0,7,0,0.6610935226942992,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+23,1,7:18,2238,2238,Teana Muldrow Offensive Rebound.,7,0,7,4,0.6610935226942992,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+24,1,7:14,2234,2234,Teana Muldrow missed Jumper.,7,0,7,0,0.6613816212220218,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+25,1,7:14,2234,2234,Brittany Brewer Block.,7,0,7,1,0.6613816212220218,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+26,1,7:13,2233,2233,Jada Terry Defensive Rebound.,7,0,7,8,0.6614536826931355,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+27,1,7:05,2225,2225,Larryn Brooks made Layup.,7,2,5,22,0.6178080481794679,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,Texas Tech
+28,1,6:43,2203,2203,Foul on Ivonne Cook-Taylor.,7,2,5,6,0.6190078143206482,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+29,1,6:37,2197,2197,Tynice Martin missed Jumper.,7,2,5,0,0.6193358963094133,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+30,1,6:37,2197,2197,Lanay Montgomery Offensive Rebound.,7,2,5,6,0.6193358963094133,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+31,1,6:31,2191,2191,Teana Muldrow made Jumper. Assisted by Lanay Montgomery.,9,2,7,29,0.6644911079500918,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+32,1,6:02,2162,2162,Arella Guirantes Turnover.,9,2,7,1,0.6665968749844235,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+33,1,6:01,2161,2161,Tynice Martin Steal.,9,2,7,5,0.666669641043808,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+34,1,5:56,2156,2156,Teana Muldrow made Jumper. Assisted by Chania Ray.,11,2,9,2,0.7095734835233857,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+35,1,5:54,2154,2154,Texas Tech  Timeout,11,2,9,18,0.7097473449461476,West Virginia,Texas Tech,3,4,1,0,NA,400911157,2017-01-25,
+36,1,5:36,2136,2136,Zuri Sanders Turnover.,11,2,9,1,0.7113147987123748,West Virginia,Texas Tech,3,4,1,0,NA,400911157,2017-01-25,
+37,1,5:35,2135,2135,Chania Ray Steal.,11,2,9,4,0.711402029127105,West Virginia,Texas Tech,3,4,1,0,NA,400911157,2017-01-25,
+38,1,5:31,2131,2131,Chania Ray made Jumper.,13,2,11,21,0.7511530853712637,West Virginia,Texas Tech,3,4,1,0,NA,400911157,2017-01-25,West Virginia
+39,1,5:10,2110,2110,Arella Guirantes missed Jumper.,13,2,11,0,0.7531972818558442,West Virginia,Texas Tech,3,4,1,0,NA,400911157,2017-01-25,
+40,1,5:10,2110,2110,Teana Muldrow Block.,13,2,11,1,0.7531972818558442,West Virginia,Texas Tech,3,4,1,0,NA,400911157,2017-01-25,
+41,1,5:09,2109,2109,Chania Ray Defensive Rebound.,13,2,11,6,0.7532947617202931,West Virginia,Texas Tech,3,4,1,0,NA,400911157,2017-01-25,
+42,1,5:03,2103,2103,Katrina Pardee missed Three Point Jumper.,13,2,11,0,0.7538799236621061,West Virginia,Texas Tech,3,4,1,0,NA,400911157,2017-01-25,
+43,1,5:03,2103,2103,West Virginia Offensive Rebound.,13,2,11,9,0.7538799236621061,West Virginia,Texas Tech,3,4,1,0,NA,400911157,2017-01-25,
+44,1,4:54,2094,2094,Chania Ray made Three Point Jumper. Assisted by Tynice Martin.,16,2,14,26,0.8070170154923747,West Virginia,Texas Tech,3,4,1,0,NA,400911157,2017-01-25,West Virginia
+45,1,4:28,2068,2068,Arella Guirantes missed Jumper.,16,2,14,0,0.8097377481448723,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+46,1,4:28,2068,2068,Lanay Montgomery Defensive Rebound.,16,2,14,1,0.8097377481448723,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+47,1,4:27,2067,2067,Foul on Arella Guirantes.,16,2,14,10,0.8098424265601665,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+48,1,4:17,2057,2057,Lanay Montgomery Turnover.,16,2,14,6,0.8108894154720531,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+49,1,4:11,2051,2051,Arella Guirantes Steal.,16,2,14,5,0.8115178119596452,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+50,1,4:06,2046,2046,Recee' Caldwell missed Jumper.,16,2,14,0,0.8120416091145336,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+51,1,4:06,2046,2046,Lanay Montgomery Defensive Rebound.,16,2,14,11,0.8120416091145336,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+52,1,3:55,2035,2035,Chania Ray missed Three Point Jumper.,16,2,14,0,0.8131944455851199,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+53,1,3:55,2035,2035,Kristina King Offensive Rebound.,16,2,14,16,0.8131944455851199,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+54,1,3:39,2019,2019,Tynice Martin missed Three Point Jumper.,16,2,14,0,0.8148726771983072,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+55,1,3:39,2019,2019,Brittany Brewer Defensive Rebound.,16,2,14,19,0.8148726771983072,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+56,1,3:20,2000,2000,Recee' Caldwell missed Jumper.,16,2,14,0,0.8168681113430122,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+57,1,3:20,2000,2000,Grayson Bright Offensive Rebound.,16,2,14,5,0.8168681113430122,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+58,1,3:15,1995,1995,Recee' Caldwell made Three Point Jumper.,16,5,11,9,0.7645195476687947,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,Texas Tech
+59,1,3:06,1986,1986,Tynice Martin missed Three Point Jumper.,16,5,11,0,0.7654173754752835,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+60,1,3:06,1986,1986,Jada Terry Defensive Rebound.,16,5,11,10,0.7654173754752835,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+61,1,2:56,1976,1976,Recee' Caldwell missed Three Point Jumper.,16,5,11,0,0.766417343101864,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+62,1,2:56,1976,1976,Teana Muldrow Defensive Rebound.,16,5,11,3,0.766417343101864,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+63,1,2:53,1973,1973,Foul on Dayo Olabode.,16,5,11,20,0.7667178341824757,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+64,1,2:33,1953,1953,Kristina King Turnover.,16,5,11,13,0.7687272226609473,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+65,1,2:20,1940,1940,Arella Guirantes Turnover.,16,5,11,2,0.7700392335826999,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+66,1,2:18,1938,1938,Kristina King Steal.,16,5,11,2,0.7702415082734364,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+67,1,2:16,1936,1936,Kristina King made Layup.,18,5,13,20,0.8070521541573058,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,West Virginia
+68,1,1:56,1916,1916,Foul on Chania Ray.,18,5,13,0,0.809154599407972,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+69,1,1:56,1916,1916,Dayo Olabode missed Free Throw.,18,5,13,0,0.809154599407972,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+70,1,1:56,1916,1916,Texas Tech Deadball Team Rebound.,18,5,13,0,0.809154599407972,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+71,1,1:56,1916,1916,Dayo Olabode missed Free Throw.,18,5,13,0,0.809154599407972,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+72,1,1:56,1916,1916,Teana Muldrow Defensive Rebound.,18,5,13,9,0.809154599407972,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+73,1,1:47,1907,1907,Alexis Brewer missed Jumper.,18,5,13,0,0.8100937646904125,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+74,1,1:47,1907,1907,Jada Terry Defensive Rebound.,18,5,13,4,0.8100937646904125,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+75,1,1:43,1903,1903,Recee' Caldwell Turnover.,18,5,13,19,0.8105098354426955,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+76,1,1:24,1884,1884,Lanay Montgomery Turnover.,18,5,13,13,0.8124764135621778,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+77,1,1:11,1871,1871,Dayo Olabode made Three Point Jumper. Assisted by Larryn Brooks.,18,8,10,18,0.7566878243770566,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,Texas Tech
+78,1,0:53,1853,1853,Lanay Montgomery made Layup. Assisted by Teana Muldrow.,20,8,12,7,0.7978335123143263,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,West Virginia
+79,1,0:46,1846,1846,Recee' Caldwell Turnover.,20,8,12,0,0.7985423395103786,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+80,1,0:46,1846,1846,Foul on Recee' Caldwell.,20,8,12,17,0.7985423395103786,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+81,1,0:29,1829,1829,Chania Ray made Jumper.,22,8,14,22,0.8346929178935176,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,West Virginia
+82,1,0:07,1807,1807,Larryn Brooks missed Jumper.,22,8,14,0,0.83693326733512,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+83,1,0:07,1807,1807,Teana Muldrow Defensive Rebound.,22,8,14,7,0.83693326733512,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+84,1,0:00,1800,1800,Chania Ray made Jumper.,24,8,16,0,0.8670610218404036,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,West Virginia
+85,1,0:00,1800,1800,End of 1st Quarter,24,8,16,5,0.8670610218404036,West Virginia,Texas Tech,3,4,0,0,NA,400911157,2017-01-25,
+86,2,9:55,1795,1795,Lanay Montgomery Turnover.,24,8,16,26,0.8675541937516708,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+87,2,9:29,1769,1769,Recee' Caldwell missed Three Point Jumper.,24,8,16,0,0.8701183631016745,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+88,2,9:29,1769,1769,Katrina Pardee Defensive Rebound.,24,8,16,8,0.8701183631016745,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+89,2,9:21,1761,1761,Teana Muldrow made Layup. Assisted by Alexis Brewer.,26,8,18,18,0.895447843257251,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+90,2,9:03,1743,1743,Jada Terry Turnover.,26,8,18,2,0.8971132652924684,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+91,2,9:01,1741,1741,Tynice Martin Steal.,26,8,18,6,0.8972983861665859,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+92,2,8:55,1735,1735,Katrina Pardee Turnover.,26,8,18,0,0.8978539150990865,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+93,2,8:55,1735,1735,Ivonne Cook-Taylor Steal.,26,8,18,13,0.8978539150990865,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+94,2,8:42,1722,1722,Recee' Caldwell made Three Point Jumper. Assisted by Larryn Brooks.,26,11,15,23,0.8608468164940748,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,Texas Tech
+95,2,8:19,1699,1699,Teana Muldrow made Layup.,28,11,17,11,0.8897094198742569,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+96,2,8:08,1688,1688,Larryn Brooks made Three Point Jumper.,28,14,14,17,0.8492003855133446,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,Texas Tech
+97,2,7:51,1671,1671,Lanay Montgomery made Layup. Assisted by Katrina Pardee.,30,14,16,22,0.8798443178254527,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+98,2,7:29,1649,1649,Dayo Olabode missed Three Point Jumper.,30,14,16,0,0.8819245283329974,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+99,2,7:29,1649,1649,Tynice Martin Defensive Rebound.,30,14,16,11,0.8819245283329974,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+100,2,7:18,1638,1638,Tynice Martin made Jumper.,32,14,18,17,0.9066248685074595,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+101,2,7:01,1621,1621,Larryn Brooks missed Three Point Jumper.,32,14,18,0,0.9080377073523287,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+102,2,7:01,1621,1621,Tynice Martin Defensive Rebound.,32,14,18,15,0.9080377073523287,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+103,2,6:46,1606,1606,Foul on Recee' Caldwell.,32,14,18,5,0.9092610504428664,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+104,2,6:41,1601,1601,Teana Muldrow missed Jumper.,32,14,18,0,0.9096650575447301,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+105,2,6:41,1601,1601,Brittany Brewer Defensive Rebound.,32,14,18,13,0.9096650575447301,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+106,2,6:28,1588,1588,Larryn Brooks missed Three Point Jumper.,32,14,18,0,0.9107088048224158,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+107,2,6:28,1588,1588,Zuri Sanders Offensive Rebound.,32,14,18,12,0.9107088048224158,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+108,2,6:16,1576,1576,Larryn Brooks missed Three Point Jumper.,32,14,18,0,0.9116661401376773,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+109,2,6:16,1576,1576,Tynice Martin Defensive Rebound.,32,14,18,8,0.9116661401376773,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+110,2,6:08,1568,1568,Teana Muldrow missed Jumper.,32,14,18,0,0.9123024795726568,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+111,2,6:08,1568,1568,Recee' Caldwell Defensive Rebound.,32,14,18,12,0.9123024795726568,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+112,2,5:56,1556,1556,Foul on Alexis Brewer.,32,14,18,0,0.9132560985350312,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+113,2,5:56,1556,1556,Recee' Caldwell missed Free Throw.,32,14,18,0,0.9132560985350312,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+114,2,5:56,1556,1556,Texas Tech Deadball Team Rebound.,32,14,18,0,0.9132560985350312,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+115,2,5:56,1556,1556,Recee' Caldwell missed Free Throw.,32,14,18,0,0.9132560985350312,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+116,2,5:56,1556,1556,Kristina King Defensive Rebound.,32,14,18,17,0.9132560985350312,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+117,2,5:39,1539,1539,Teana Muldrow missed Layup.,32,14,18,0,0.9146096369094083,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+118,2,5:39,1539,1539,Brittany Brewer Defensive Rebound.,32,14,18,9,0.9146096369094083,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+119,2,5:30,1530,1530,Ivonne Cook-Taylor made Jumper.,32,16,16,10,0.8924500334129172,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,Texas Tech
+120,2,5:20,1520,1520,West Virginia  Timeout,32,16,16,18,0.8933357674087503,West Virginia,Texas Tech,4,3,0,1,NA,400911157,2017-01-25,
+121,2,5:02,1502,1502,Katrina Pardee made Three Point Jumper. Assisted by Tynice Martin.,35,16,19,27,0.9271704525719748,West Virginia,Texas Tech,4,3,0,1,NA,400911157,2017-01-25,West Virginia
+122,2,4:35,1475,1475,Foul on Chania Ray.,35,16,19,0,0.9292822221673074,West Virginia,Texas Tech,4,3,0,1,NA,400911157,2017-01-25,
+123,2,4:35,1475,1475,Larryn Brooks missed Free Throw.,35,16,19,0,0.9292822221673074,West Virginia,Texas Tech,4,3,0,1,NA,400911157,2017-01-25,
+124,2,4:35,1475,1475,Texas Tech Deadball Team Rebound.,35,16,19,0,0.9292822221673074,West Virginia,Texas Tech,4,3,0,1,NA,400911157,2017-01-25,
+125,2,4:35,1475,1475,Larryn Brooks made Free Throw.,35,17,18,14,0.9198382606361708,West Virginia,Texas Tech,4,3,0,1,NA,400911157,2017-01-25,Texas Tech
+126,2,4:21,1461,1461,Kristina King missed Jumper.,35,17,18,0,0.9210302882955902,West Virginia,Texas Tech,4,3,0,1,NA,400911157,2017-01-25,
+127,2,4:21,1461,1461,Zuri Sanders Defensive Rebound.,35,17,18,21,0.9210302882955902,West Virginia,Texas Tech,4,3,0,1,NA,400911157,2017-01-25,
+128,2,4:00,1440,1440,Zuri Sanders Turnover.,35,17,18,11,0.9228422632443086,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+129,2,3:49,1429,1429,Lanay Montgomery missed Layup.,35,17,18,0,0.9237570956504435,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+130,2,3:49,1429,1429,Ivonne Cook-Taylor Defensive Rebound.,35,17,18,8,0.9237570956504435,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+131,2,3:41,1421,1421,Ivonne Cook-Taylor missed Jumper.,35,17,18,0,0.92440484823229,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+132,2,3:41,1421,1421,Brittany Brewer Offensive Rebound.,35,17,18,1,0.92440484823229,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+133,2,3:40,1420,1420,Foul on Alexis Brewer.,35,17,18,3,0.924484865724773,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+134,2,3:37,1417,1417,Arella Guirantes missed Jumper.,35,17,18,0,0.9247237193740547,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+135,2,3:37,1417,1417,Lanay Montgomery Block.,35,17,18,1,0.9247237193740547,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+136,2,3:36,1416,1416,Lanay Montgomery Defensive Rebound.,35,17,18,20,0.9248029472454725,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+137,2,3:16,1396,1396,Alexis Brewer missed Layup.,35,17,18,0,0.9263512811874365,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+138,2,3:16,1396,1396,Brittany Brewer Defensive Rebound.,35,17,18,9,0.9263512811874365,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+139,2,3:07,1387,1387,Foul on Kristina King.,35,17,18,5,0.927029084897901,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+140,2,3:02,1382,1382,Brittany Brewer Turnover.,35,17,18,0,0.9274016103975826,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+141,2,3:02,1382,1382,Foul on Brittany Brewer.,35,17,18,10,0.9274016103975826,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+142,2,2:52,1372,1372,Lanay Montgomery made Layup. Assisted by Teana Muldrow.,37,17,20,14,0.9449416103133145,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,West Virginia
+143,2,2:38,1358,1358,Larryn Brooks Turnover.,37,17,20,17,0.9458257763021,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+144,2,2:21,1341,1341,Lanay Montgomery made Jumper. Assisted by Teana Muldrow.,39,17,22,21,0.959645381416383,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,West Virginia
+145,2,2:00,1320,1320,Jada Terry made Layup.,39,19,20,15,0.9481965161622865,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,Texas Tech
+146,2,1:45,1305,1305,Lanay Montgomery made Layup. Assisted by Teana Muldrow.,41,19,22,2,0.9615451733526215,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,West Virginia
+147,2,1:43,1303,1303,Texas Tech  Timeout,41,19,22,15,0.9616514070640828,West Virginia,Texas Tech,3,3,1,0,NA,400911157,2017-01-25,
+148,2,1:28,1288,1288,Recee' Caldwell made Three Point Jumper.,41,22,19,9,0.942759684686581,West Virginia,Texas Tech,3,3,1,0,NA,400911157,2017-01-25,Texas Tech
+149,2,1:19,1279,1279,Tynice Martin missed Jumper.,41,22,19,0,0.9433881425042759,West Virginia,Texas Tech,3,3,1,0,NA,400911157,2017-01-25,
+150,2,1:19,1279,1279,Jada Terry Defensive Rebound.,41,22,19,15,0.9433881425042759,West Virginia,Texas Tech,3,3,1,0,NA,400911157,2017-01-25,
+151,2,1:04,1264,1264,Brielle Blaire made Jumper. Assisted by Larryn Brooks.,41,24,17,24,0.9265690222461079,West Virginia,Texas Tech,3,3,1,0,NA,400911157,2017-01-25,Texas Tech
+152,2,0:40,1240,1240,Lanay Montgomery missed Jumper.,41,24,17,0,0.9286193348220404,West Virginia,Texas Tech,3,3,0,0,NA,400911157,2017-01-25,
+153,2,0:40,1240,1240,Teana Muldrow Offensive Rebound.,41,24,17,3,0.9286193348220404,West Virginia,Texas Tech,3,3,0,0,NA,400911157,2017-01-25,
+154,2,0:37,1237,1237,Teana Muldrow made Layup.,43,24,19,15,0.9464431251370797,West Virginia,Texas Tech,3,3,0,0,NA,400911157,2017-01-25,West Virginia
+155,2,0:22,1222,1222,Jada Terry Turnover.,43,24,19,1,0.9475943868270199,West Virginia,Texas Tech,3,3,0,0,NA,400911157,2017-01-25,
+156,2,0:21,1221,1221,Tynice Martin Steal.,43,24,19,3,0.9476724242003647,West Virginia,Texas Tech,3,3,0,0,NA,400911157,2017-01-25,
+157,2,0:18,1218,1218,Teana Muldrow Turnover.,43,24,19,0,0.9479075340799815,West Virginia,Texas Tech,3,3,0,0,NA,400911157,2017-01-25,
+158,2,0:18,1218,1218,Recee' Caldwell missed Jumper.,43,24,19,17,0.9479075340799815,West Virginia,Texas Tech,3,3,0,0,NA,400911157,2017-01-25,
+159,2,0:01,1201,1201,Alexis Brewer Defensive Rebound.,43,24,19,1,0.9492501847320496,West Virginia,Texas Tech,3,3,0,0,NA,400911157,2017-01-25,
+160,2,0:00,1200,1200,End of 2nd Quarter,43,24,19,13,0.9493274924441191,West Virginia,Texas Tech,3,3,0,0,NA,400911157,2017-01-25,
+161,3,9:47,1187,1187,Jada Terry missed Jumper.,43,24,19,1,0.9503095804143049,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+162,3,9:46,1186,1186,Lanay Montgomery Block.,43,24,19,1,0.9503834748502217,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+163,3,9:45,1185,1185,Brittany Brewer Offensive Rebound.,43,24,19,1,0.9504571490836217,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+164,3,9:44,1184,1184,Foul on Teana Muldrow.,43,24,19,0,0.9505306061748434,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+165,3,9:44,1184,1184,Brittany Brewer made Free Throw.,43,25,18,0,0.9426814876434831,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,Texas Tech
+166,3,9:44,1184,1184,Brittany Brewer made Free Throw.,43,26,17,4,0.9336738804301528,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,Texas Tech
+167,3,9:40,1180,1180,Lanay Montgomery Turnover.,43,26,17,0,0.9340177579437612,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+168,3,9:40,1180,1180,Foul on Lanay Montgomery.,43,26,17,8,0.9340177579437612,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+169,3,9:32,1172,1172,Ivonne Cook-Taylor made Three Point Jumper.,43,29,14,15,0.8994870255394323,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,Texas Tech
+170,3,9:17,1157,1157,Chania Ray missed Layup.,43,29,14,0,0.9009999104930533,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+171,3,9:17,1157,1157,Lanay Montgomery Offensive Rebound.,43,29,14,2,0.9009999104930533,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+172,3,9:15,1155,1155,Lanay Montgomery made Layup.,45,29,16,10,0.9259731955684788,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+173,3,9:05,1145,1145,Foul on Katrina Pardee.,45,29,16,19,0.9268400284669017,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+174,3,8:46,1126,1126,Larryn Brooks made Three Point Jumper. Assisted by Recee' Caldwell.,45,32,13,14,0.8892043093998356,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,Texas Tech
+175,3,8:32,1112,1112,Foul on Jada Terry.,45,32,13,5,0.89062740511828,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+176,3,8:27,1107,1107,Katrina Pardee made Three Point Jumper. Assisted by Teana Muldrow.,48,32,16,22,0.9300567442421258,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+177,3,8:05,1085,1085,Recee' Caldwell missed Jumper.,48,32,16,0,0.9319067290090275,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+178,3,8:05,1085,1085,Teana Muldrow Defensive Rebound.,48,32,16,12,0.9319067290090275,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+179,3,7:53,1073,1073,Teana Muldrow missed Jumper.,48,32,16,0,0.9329246023783879,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+180,3,7:53,1073,1073,Recee' Caldwell Defensive Rebound.,48,32,16,7,0.9329246023783879,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+181,3,7:46,1066,1066,Recee' Caldwell made Three Point Jumper.,48,35,13,21,0.8953617336969937,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,Texas Tech
+182,3,7:25,1045,1045,Foul on Brittany Brewer.,48,35,13,0,0.897609742009581,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+183,3,7:25,1045,1045,Teana Muldrow made Free Throw.,49,35,14,0,0.9119708080810551,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+184,3,7:25,1045,1045,Teana Muldrow made Free Throw.,50,35,15,14,0.9244870705833153,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+185,3,7:11,1031,1031,Ivonne Cook-Taylor made Jumper.,50,37,13,20,0.8991565059630752,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,Texas Tech
+186,3,6:51,1011,1011,Katrina Pardee missed Three Point Jumper.,50,37,13,0,0.9014477043309221,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+187,3,6:51,1011,1011,Tynice Martin Offensive Rebound.,50,37,13,2,0.9014477043309221,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+188,3,6:49,1009,1009,Tynice Martin missed Jumper.,50,37,13,0,0.9016826727086658,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+189,3,6:49,1009,1009,Jada Terry Defensive Rebound.,50,37,13,7,0.9016826727086658,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+190,3,6:42,1002,1002,Larryn Brooks missed Three Point Jumper.,50,37,13,0,0.9025140469568422,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+191,3,6:42,1002,1002,Chania Ray Defensive Rebound.,50,37,13,33,0.9025140469568422,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+192,3,6:09,969,969,Tynice Martin missed Jumper.,50,37,13,0,0.9066372052103009,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+193,3,6:09,969,969,Jada Terry Defensive Rebound.,50,37,13,14,0.9066372052103009,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+194,3,5:55,955,955,Ivonne Cook-Taylor missed Jumper.,50,37,13,0,0.908359669993467,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+195,3,5:55,955,955,Teana Muldrow Defensive Rebound.,50,37,13,3,0.908359669993467,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+196,3,5:52,952,952,Foul on Larryn Brooks.,50,37,13,13,0.9087081544679949,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+197,3,5:39,939,939,Lanay Montgomery missed Layup.,50,37,13,0,0.9101455465973736,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+198,3,5:39,939,939,Brittany Brewer Defensive Rebound.,50,37,13,24,0.9101455465973736,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+199,3,5:15,915,915,Brittany Brewer missed Jumper.,50,37,13,0,0.9125495025851059,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+200,3,5:15,915,915,Lanay Montgomery Block.,50,37,13,0,0.9125495025851059,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+201,3,5:15,915,915,West Virginia Defensive Rebound.,50,37,13,12,0.9125495025851059,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+202,3,5:03,903,903,Lanay Montgomery missed Jumper.,50,37,13,0,0.9136642037993958,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+203,3,5:03,903,903,Ivonne Cook-Taylor Defensive Rebound.,50,37,13,9,0.9136642037993958,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+204,3,4:54,894,894,Arella Guirantes made Three Point Jumper. Assisted by Brittany Brewer.,50,40,10,24,0.8608926778073787,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,Texas Tech
+205,3,4:30,870,870,Chania Ray Turnover.,50,40,10,1,0.8633838688177553,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+206,3,4:29,869,869,Recee' Caldwell Steal.,50,40,10,5,0.8634873937413242,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+207,3,4:24,864,864,Dayo Olabode made Three Point Jumper. Assisted by Recee' Caldwell.,50,43,7,4,0.78487054540409,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,Texas Tech
+208,3,4:20,860,860,West Virginia  Timeout,50,43,7,21,0.7852900592975735,West Virginia,Texas Tech,4,3,0,1,NA,400911157,2017-01-25,
+209,3,3:59,839,839,Teana Muldrow made Layup.,52,43,9,20,0.8435103561586265,West Virginia,Texas Tech,4,3,0,1,NA,400911157,2017-01-25,West Virginia
+210,3,3:39,819,819,Ivonne Cook-Taylor missed Jumper.,52,43,9,0,0.8458405856608685,West Virginia,Texas Tech,4,3,0,1,NA,400911157,2017-01-25,
+211,3,3:39,819,819,Kristina King Defensive Rebound.,52,43,9,13,0.8458405856608685,West Virginia,Texas Tech,4,3,0,1,NA,400911157,2017-01-25,
+212,3,3:26,806,806,Teana Muldrow missed Jumper.,52,43,9,0,0.8474621840569897,West Virginia,Texas Tech,4,3,0,1,NA,400911157,2017-01-25,
+213,3,3:26,806,806,Teana Muldrow Offensive Rebound.,52,43,9,2,0.8474621840569897,West Virginia,Texas Tech,4,3,0,1,NA,400911157,2017-01-25,
+214,3,3:24,804,804,Teana Muldrow made Layup.,54,43,11,15,0.8907429592488583,West Virginia,Texas Tech,4,3,0,1,NA,400911157,2017-01-25,West Virginia
+215,3,3:09,789,789,Recee' Caldwell missed Jumper.,54,43,11,0,0.89260392720398,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+216,3,3:09,789,789,Jada Terry Offensive Rebound.,54,43,11,3,0.89260392720398,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+217,3,3:06,786,786,Jada Terry made Layup.,54,45,9,13,0.8501686811074001,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,Texas Tech
+218,3,2:53,773,773,Teana Muldrow missed Jumper.,54,45,9,0,0.8520903258032857,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+219,3,2:53,773,773,Jada Terry Defensive Rebound.,54,45,9,1,0.8520903258032857,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+220,3,2:52,772,772,Foul on Teana Muldrow.,54,45,9,0,0.8522440075125125,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+221,3,2:52,772,772,Official TV Timeout,54,45,9,17,0.8522440075125125,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+222,3,2:35,755,755,Jada Terry made Layup. Assisted by Recee' Caldwell.,54,47,7,15,0.7989962840960367,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,Texas Tech
+223,3,2:20,740,740,Teana Muldrow made Layup. Assisted by Tynice Martin.,56,47,9,17,0.8576554797833256,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,West Virginia
+224,3,2:03,723,723,Dayo Olabode made Layup. Assisted by Arella Guirantes.,56,49,7,12,0.804969485170292,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,Texas Tech
+225,3,1:51,711,711,Kristina King missed Layup.,56,49,7,0,0.8071173489089081,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+226,3,1:51,711,711,Jada Terry Block.,56,49,7,1,0.8071173489089081,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+227,3,1:50,710,710,Jada Terry Defensive Rebound.,56,49,7,7,0.8072877212216693,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+228,3,1:43,703,703,Foul on Chania Ray.,56,49,7,0,0.8084481292287017,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+229,3,1:43,703,703,Larryn Brooks made Free Throw.,56,50,6,0,0.7745614904542245,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,Texas Tech
+230,3,1:43,703,703,Larryn Brooks made Free Throw.,56,51,5,14,0.7366330073671733,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,Texas Tech
+231,3,1:29,689,689,Alexis Brewer made Three Point Jumper.,59,51,8,14,0.840482299998477,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,West Virginia
+232,3,1:15,675,675,Larryn Brooks made Layup.,59,53,6,14,0.7786559518698289,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,Texas Tech
+233,3,1:01,661,661,Kristina King made Layup. Assisted by Lanay Montgomery.,61,53,8,22,0.844498951024574,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,West Virginia
+234,3,0:39,639,639,Jada Terry missed Layup.,61,53,8,0,0.847617462014113,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+235,3,0:39,639,639,Chania Ray Defensive Rebound.,61,53,8,23,0.847617462014113,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+236,3,0:16,616,616,Foul on Arella Guirantes.,61,53,8,0,0.8511234206036097,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+237,3,0:16,616,616,Alexis Brewer made Free Throw.,62,53,9,0,0.8766810819944386,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,West Virginia
+238,3,0:16,616,616,Alexis Brewer missed Free Throw.,62,53,9,0,0.8766810819944386,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+239,3,0:16,616,616,Larryn Brooks Defensive Rebound.,62,53,9,11,0.8766810819944386,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+240,3,0:05,605,605,Jada Terry made Layup. Assisted by Recee' Caldwell.,62,55,7,5,0.8232124975848009,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,Texas Tech
+241,3,0:00,600,600,End of 3rd Quarter,62,55,7,9,0.8241063491294731,West Virginia,Texas Tech,4,3,0,0,NA,400911157,2017-01-25,
+242,4,9:51,591,591,Lanay Montgomery missed Layup.,62,55,7,0,0.8257985995552156,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+243,4,9:51,591,591,Brittany Brewer Defensive Rebound.,62,55,7,7,0.8257985995552156,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+244,4,9:44,584,584,Brielle Blaire Turnover.,62,55,7,0,0.8271960473075757,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+245,4,9:44,584,584,Foul on Brielle Blaire.,62,55,7,14,0.8271960473075757,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+246,4,9:30,570,570,Teana Muldrow Turnover.,62,55,7,2,0.8302297447169658,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+247,4,9:28,568,568,Brittany Brewer Steal.,62,55,7,7,0.8306911280524656,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+248,4,9:21,561,561,Foul on Teana Muldrow.,62,55,7,22,0.8323647886477832,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+249,4,8:59,539,539,Ivonne Cook-Taylor Turnover.,62,55,7,0,0.8379294827686078,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+250,4,8:59,539,539,Foul on Ivonne Cook-Taylor.,62,55,7,17,0.8379294827686078,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+251,4,8:42,522,522,Lanay Montgomery made Layup. Assisted by Teana Muldrow.,64,55,9,0,0.895366636250669,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,West Virginia
+252,4,8:42,522,522,Foul on Brittany Brewer.,64,55,9,0,0.895366636250669,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+253,4,8:42,522,522,Lanay Montgomery made Free Throw.,65,55,10,14,0.9156995348107755,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,West Virginia
+254,4,8:28,508,508,Recee' Caldwell Turnover.,65,55,10,1,0.9178726763944509,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+255,4,8:27,507,507,Teana Muldrow Steal.,65,55,10,13,0.9180227081208712,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+256,4,8:14,494,494,Teana Muldrow missed Three Point Jumper.,65,55,10,0,0.9199611973979311,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+257,4,8:14,494,494,Arella Guirantes Defensive Rebound.,65,55,10,11,0.9199611973979311,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+258,4,8:03,483,483,Arella Guirantes made Jumper.,65,57,8,18,0.8778193673389842,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,Texas Tech
+259,4,7:45,465,465,Tynice Martin made Layup. Assisted by Teana Muldrow.,67,57,10,17,0.9246808076678776,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,West Virginia
+260,4,7:28,448,448,Foul on Teana Muldrow.,67,57,10,0,0.9280672023205772,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+261,4,7:28,448,448,Jada Terry made Free Throw.,67,58,9,0,0.9090123292031299,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,Texas Tech
+262,4,7:28,448,448,Jada Terry missed Free Throw.,67,58,9,0,0.9090123292031299,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+263,4,7:28,448,448,Lanay Montgomery Defensive Rebound.,67,58,9,17,0.9090123292031299,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+264,4,7:11,431,431,Kristina King Turnover.,67,58,9,16,0.9135633747520234,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+265,4,6:55,415,415,Larryn Brooks missed Jumper.,67,58,9,0,0.9179945648469049,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+266,4,6:55,415,415,Chania Ray Defensive Rebound.,67,58,9,18,0.9179945648469049,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+267,4,6:37,397,397,Katrina Pardee Turnover.,67,58,9,1,0.92238387186612,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+268,4,6:36,396,396,Arella Guirantes Steal.,67,58,9,8,0.9226175902334682,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+269,4,6:28,388,388,Ivonne Cook-Taylor made Jumper.,67,60,7,21,0.8752397400135673,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,Texas Tech
+270,4,6:07,367,367,Kristina King made Layup.,69,60,9,14,0.9293791365133478,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,West Virginia
+271,4,5:53,353,353,Recee' Caldwell missed Three Point Jumper.,69,60,9,0,0.9328667018387994,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+272,4,5:53,353,353,Alexis Brewer Defensive Rebound.,69,60,9,10,0.9328667018387994,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,
+273,4,5:43,343,343,Lanay Montgomery made Layup. Assisted by Alexis Brewer.,71,60,11,6,0.9633671788253101,West Virginia,Texas Tech,5,4,0,0,NA,400911157,2017-01-25,West Virginia
+274,4,5:37,337,337,Texas Tech  Timeout,71,60,11,19,0.9645705780471101,West Virginia,Texas Tech,4,4,1,0,NA,400911157,2017-01-25,
+275,4,5:18,318,318,Recee' Caldwell made Jumper.,71,62,9,29,0.943049946725045,West Virginia,Texas Tech,4,4,1,0,NA,400911157,2017-01-25,Texas Tech
+276,4,4:49,289,289,Kristina King missed Jumper.,71,62,9,0,0.9490030162116133,West Virginia,Texas Tech,4,4,1,0,NA,400911157,2017-01-25,
+277,4,4:49,289,289,Ivonne Cook-Taylor Defensive Rebound.,71,62,9,10,0.9490030162116133,West Virginia,Texas Tech,4,4,1,0,NA,400911157,2017-01-25,
+278,4,4:39,279,279,Ivonne Cook-Taylor Turnover.,71,62,9,0,0.9486271070243454,West Virginia,Texas Tech,4,4,1,0,NA,400911157,2017-01-25,
+279,4,4:39,279,279,Foul on Ivonne Cook-Taylor.,71,62,9,22,0.9486271070243454,West Virginia,Texas Tech,4,4,1,0,NA,400911157,2017-01-25,
+280,4,4:17,257,257,Tynice Martin made Three Point Jumper. Assisted by Alexis Brewer.,74,62,12,18,0.9784466987770039,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+281,4,3:59,239,239,Ivonne Cook-Taylor made Three Point Jumper. Assisted by Larryn Brooks.,74,65,9,26,0.9441998850791085,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,Texas Tech
+282,4,3:33,213,213,Alexis Brewer made Three Point Jumper.,77,65,12,14,0.979581773617149,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+283,4,3:19,199,199,Ivonne Cook-Taylor made Jumper. Assisted by Arella Guirantes.,77,67,10,29,0.96727270461747,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,Texas Tech
+284,4,2:50,170,170,Alexis Brewer Turnover.,77,67,10,7,0.9815280821873323,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+285,4,2:43,163,163,Recee' Caldwell missed Three Point Jumper.,77,67,10,0,0.9841669929136841,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+286,4,2:43,163,163,Ivonne Cook-Taylor Offensive Rebound.,77,67,10,10,0.9841669929136841,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+287,4,2:33,153,153,Jada Terry made Layup. Assisted by Ivonne Cook-Taylor.,77,69,8,10,0.9704899027040351,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,Texas Tech
+288,4,2:23,143,143,Foul on Jada Terry.,77,69,8,0,0.9758217179156347,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+289,4,2:23,143,143,Lanay Montgomery made Free Throw.,78,69,9,0,0.9846331001147669,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+290,4,2:23,143,143,Lanay Montgomery made Free Throw.,79,69,10,17,0.9902653512807841,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+291,4,2:06,126,126,Larryn Brooks missed Jumper.,79,69,10,0,0.9940351179974579,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+292,4,2:06,126,126,Teana Muldrow Defensive Rebound.,79,69,10,6,0.9940351179974579,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+293,4,2:00,120,120,Foul on Larryn Brooks.,79,69,10,0,0.9950896352480191,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+294,4,2:00,120,120,Chania Ray made Free Throw.,80,69,11,0,0.9971071990072935,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+295,4,2:00,120,120,Chania Ray made Free Throw.,81,69,12,11,0.9982972075441261,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+296,4,1:49,109,109,Recee' Caldwell made Jumper.,81,71,10,17,0.996679716368174,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,Texas Tech
+297,4,1:32,92,92,Foul on Recee' Caldwell.,81,71,10,0,0.9983585342555569,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+298,4,1:32,92,92,Teana Muldrow made Free Throw.,82,71,11,0,0.9991347056602206,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+299,4,1:32,92,92,Teana Muldrow made Free Throw.,83,71,12,12,0.999544029992805,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+300,4,1:20,80,80,Ivonne Cook-Taylor made Three Point Jumper. Assisted by Recee' Caldwell.,83,74,9,5,0.9980944897058731,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,Texas Tech
+301,4,1:15,75,75,Foul on Arella Guirantes.,83,74,9,0,0.998463657915368,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+302,4,1:15,75,75,Alexis Brewer missed Free Throw.,83,74,9,0,0.998463657915368,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+303,4,1:15,75,75,West Virginia Deadball Team Rebound.,83,74,9,0,0.998463657915368,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+304,4,1:15,75,75,Alexis Brewer made Free Throw.,84,74,10,8,0.9992513270545244,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+305,4,1:07,67,67,Arella Guirantes made Three Point Jumper.,84,77,7,7,0.9951316164598487,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,Texas Tech
+306,4,1:00,60,60,Foul on Ivonne Cook-Taylor.,84,77,7,0,0.9962312490461801,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+307,4,1:00,60,60,Teana Muldrow made Free Throw.,85,77,8,0,0.998297551280387,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+308,4,1:00,60,60,Teana Muldrow made Free Throw.,86,77,9,4,0.9992318305213681,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+309,4,0:56,56,56,Foul on Chania Ray.,86,77,9,2,0.9993673685677763,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+310,4,0:54,54,54,Recee' Caldwell missed Three Point Jumper.,86,77,9,0,0.9994268061781281,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+311,4,0:54,54,54,Ivonne Cook-Taylor Offensive Rebound.,86,77,9,6,0.9994268061781281,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+312,4,0:48,48,48,Ivonne Cook-Taylor made Layup.,86,79,7,0,0.9976260277602333,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,Texas Tech
+313,4,0:48,48,48,Foul on Larryn Brooks.,86,79,7,0,0.9976260277602333,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+314,4,0:48,48,48,Chania Ray missed Free Throw.,86,79,7,0,0.9976260277602333,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+315,4,0:48,48,48,West Virginia Deadball Team Rebound.,86,79,7,0,0.9976260277602333,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+316,4,0:48,48,48,Chania Ray made Free Throw.,87,79,8,9,0.9989970310881261,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+317,4,0:39,39,39,Recee' Caldwell missed Three Point Jumper.,87,79,8,0,0.9993427801713602,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+318,4,0:39,39,39,Teana Muldrow Block.,87,79,8,1,0.9993427801713602,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+319,4,0:38,38,38,Chania Ray Defensive Rebound.,87,79,8,6,0.9993738046098459,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+320,4,0:32,32,32,Foul on Arella Guirantes.,87,79,8,0,0.999533894785256,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+321,4,0:32,32,32,Tynice Martin made Free Throw.,88,79,9,0,0.9998212711699395,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+322,4,0:32,32,32,Tynice Martin made Free Throw.,89,79,10,14,0.999931478275363,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,West Virginia
+323,4,0:18,18,18,Larryn Brooks Turnover.,89,79,10,4,0.9999721544365967,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+324,4,0:14,14,14,Alexis Brewer Steal.,89,79,10,14,0.9999787875022106,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,
+325,4,0:00,0,0,End of Game,89,79,10,0,1,West Virginia,Texas Tech,4,4,0,0,NA,400911157,2017-01-25,

@@ -1,0 +1,462 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,10:00,2400,3000,Jump Ball won by Texas,0,0,0,13,0.5,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,NA
+2,1,9:47,2387,2987,Joyner Holmes Turnover.,0,0,0,11,0.5,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+3,1,9:36,2376,2976,Shakayla Thomas missed Jumper.,0,0,0,0,0.5,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+4,1,9:36,2376,2976,Brianna Taylor Defensive Rebound.,0,0,0,21,0.5,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+5,1,9:15,2355,2955,Foul on Leticia Romero.,0,0,0,0,0.5,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+6,1,9:15,2355,2955,Ariel Atkins missed Jumper.,0,0,0,0,0.5,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+7,1,9:15,2355,2955,Brianna Taylor Offensive Rebound.,0,0,0,6,0.5,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+8,1,9:09,2349,2949,Brooke McCarty made Three Point Jumper. Assisted by Brianna Taylor.,0,3,-3,20,0.4325603638439034,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Texas
+9,1,8:49,2329,2929,Imani Wright missed Jumper.,0,3,-3,0,0.4319139208293343,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+10,1,8:49,2329,2929,Ivey Slaughter Offensive Rebound.,0,3,-3,5,0.4319139208293343,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+11,1,8:44,2324,2924,Ivey Slaughter made Layup.,2,3,-1,19,0.47712349981117463,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+12,1,8:25,2305,2905,Foul on Ivey Slaughter.,2,3,-1,7,0.47691263374444354,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+13,1,8:18,2298,2898,Brianna Taylor Turnover.,2,3,-1,8,0.47683444959323684,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+14,1,8:10,2290,2890,Shakayla Thomas missed Jumper.,2,3,-1,0,0.4767447867309777,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+15,1,8:10,2290,2890,Kelsey Lang Defensive Rebound.,2,3,-1,6,0.4767447867309777,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+16,1,8:04,2284,2884,Brooke McCarty Turnover.,2,3,-1,0,0.476677330647579,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+17,1,8:04,2284,2884,Leticia Romero Steal.,2,3,-1,8,0.476677330647579,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+18,1,7:56,2276,2876,Brittany Brown missed Jumper.,2,3,-1,0,0.476587121439937,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+19,1,7:56,2276,2876,Shakayla Thomas Offensive Rebound.,2,3,-1,7,0.476587121439937,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+20,1,7:49,2269,2869,Foul on Joyner Holmes.,2,3,-1,1,0.47650794703677646,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+21,1,7:48,2268,2868,Shakayla Thomas missed Jumper.,2,3,-1,0,0.476496618581436,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+22,1,7:48,2268,2868,Leticia Romero Offensive Rebound.,2,3,-1,6,0.476496618581436,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+23,1,7:42,2262,2862,Foul on Ariel Atkins.,2,3,-1,4,0.47642855684274604,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+24,1,7:38,2258,2858,Brittany Brown made Layup.,4,3,1,16,0.5236169023910233,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+25,1,7:22,2242,2842,Kelsey Lang missed Jumper.,4,3,1,0,0.5237993807318992,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+26,1,7:22,2242,2842,Joyner Holmes Offensive Rebound.,4,3,1,5,0.5237993807318992,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+27,1,7:17,2237,2837,Joyner Holmes missed Jumper.,4,3,1,0,0.523856604151645,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+28,1,7:17,2237,2837,Kelsey Lang Offensive Rebound.,4,3,1,6,0.523856604151645,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+29,1,7:11,2231,2831,Kelsey Lang made Layup.,4,5,-1,15,0.4760746105198335,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Texas
+30,1,6:56,2216,2816,Leticia Romero missed Jumper.,4,5,-1,0,0.4759021236633784,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+31,1,6:56,2216,2816,Chatrice White Offensive Rebound.,4,5,-1,4,0.4759021236633784,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+32,1,6:52,2212,2812,Chatrice White missed Layup.,4,5,-1,0,0.4758560091939416,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+33,1,6:52,2212,2812,Kelsey Lang Defensive Rebound.,4,5,-1,7,0.4758560091939416,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+34,1,6:45,2205,2805,Foul on Brianna Taylor.,4,5,-1,0,0.47577519813172153,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+35,1,6:45,2205,2805,Brianna Taylor Turnover.,4,5,-1,10,0.47577519813172153,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+36,1,6:35,2195,2795,Leticia Romero missed Three Point Jumper.,4,5,-1,0,0.4756595249308129,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+37,1,6:35,2195,2795,Texas Deadball Team Rebound.,4,5,-1,7,0.4756595249308129,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+38,1,6:28,2188,2788,Foul on Ivey Slaughter.,4,5,-1,24,0.47557840604397134,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+39,1,6:04,2164,2764,Foul on Leticia Romero.,4,5,-1,0,0.47529945885834446,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+40,1,6:04,2164,2764,Audrey-Ann Caron-Goudreau missed Jumper.,4,5,-1,0,0.47529945885834446,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+41,1,6:04,2164,2764,Ama Degbeon Defensive Rebound.,4,5,-1,21,0.47529945885834446,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+42,1,5:43,2143,2743,Ama Degbeon missed Layup.,4,5,-1,0,0.4750538204641922,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+43,1,5:43,2143,2743,Chatrice White Offensive Rebound.,4,5,-1,5,0.4750538204641922,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+44,1,5:38,2138,2738,Chatrice White missed Layup.,4,5,-1,0,0.4749950698399447,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+45,1,5:38,2138,2738,Audrey-Ann Caron-Goudreau Block.,4,5,-1,0,0.4749950698399447,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+46,1,5:38,2138,2738,Audrey-Ann Caron-Goudreau Defensive Rebound.,4,5,-1,7,0.4749950698399447,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+47,1,5:31,2131,2731,Lashann Higgs missed Jumper.,4,5,-1,0,0.47491263966625974,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+48,1,5:31,2131,2731,Florida St Deadball Team Rebound.,4,5,-1,0,0.47491263966625974,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+49,1,5:31,2131,2731,Foul on Brianna Taylor.,4,5,-1,7,0.47491263966625974,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+50,1,5:24,2124,2724,Shakayla Thomas made Jumper.,6,5,1,25,0.5251700049830281,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+51,1,4:59,2099,2699,Ariel Atkins missed Jumper.,6,5,1,0,0.5254670039376211,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+52,1,4:59,2099,2699,Shakayla Thomas Defensive Rebound.,6,5,1,8,0.5254670039376211,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+53,1,4:51,2091,2691,Imani Wright made Three Point Jumper. Assisted by Brittany Brown.,9,5,4,22,0.6009343612397228,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+54,1,4:29,2069,2669,Lashann Higgs made Jumper.,9,7,2,23,0.5515175137260641,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Texas
+55,1,4:06,2046,2646,Foul on Kelsey Lang.,9,7,2,0,0.5520723249003605,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+56,1,4:06,2046,2646,Official TV Timeout,9,7,2,0,0.5520723249003605,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+57,1,4:06,2046,2646,Ama Degbeon made Free Throw.,10,7,3,0,0.5777566424693911,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+58,1,4:06,2046,2646,Ama Degbeon made Free Throw.,11,7,4,8,0.603027205593456,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+59,1,3:58,2038,2638,Lashann Higgs missed Layup.,11,7,4,0,0.6034034706540315,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+60,1,3:58,2038,2638,Chatrice White Defensive Rebound.,11,7,4,11,0.6034034706540315,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+61,1,3:47,2027,2627,Shakayla Thomas missed Jumper.,11,7,4,0,0.6039230459556416,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+62,1,3:47,2027,2627,Audrey-Ann Caron-Goudreau Defensive Rebound.,11,7,4,5,0.6039230459556416,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+63,1,3:42,2022,2622,Foul on Chatrice White.,11,7,4,0,0.6041600826296327,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+64,1,3:42,2022,2622,Audrey-Ann Caron-Goudreau missed Free Throw.,11,7,4,0,0.6041600826296327,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+65,1,3:42,2022,2622,Texas Deadball Team Rebound.,11,7,4,0,0.6041600826296327,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+66,1,3:42,2022,2622,Audrey-Ann Caron-Goudreau made Free Throw.,11,8,3,11,0.5786226993482018,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Texas
+67,1,3:31,2011,2611,Shakayla Thomas missed Jumper.,11,8,3,0,0.5790229776748573,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+68,1,3:31,2011,2611,Nicole Ekhomu Offensive Rebound.,11,8,3,10,0.5790229776748573,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+69,1,3:21,2001,2601,Nicole Ekhomu made Layup.,13,8,5,15,0.6303630272451317,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+70,1,3:06,1986,2586,Foul on Nicole Ekhomu.,13,8,5,0,0.6312426617053879,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+71,1,3:06,1986,2586,Brooke McCarty missed Free Throw.,13,8,5,0,0.6312426617053879,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+72,1,3:06,1986,2586,Texas Deadball Team Rebound.,13,8,5,0,0.6312426617053879,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+73,1,3:06,1986,2586,Brooke McCarty made Free Throw.,13,9,4,19,0.6058835156585967,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Texas
+74,1,2:47,1967,2567,Nicole Ekhomu missed Jumper.,13,9,4,0,0.6068056200258655,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+75,1,2:47,1967,2567,Ariel Atkins Defensive Rebound.,13,9,4,8,0.6068056200258655,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+76,1,2:39,1959,2559,Ariel Atkins missed Jumper.,13,9,4,0,0.6071966000861357,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+77,1,2:39,1959,2559,Ariel Atkins Offensive Rebound.,13,9,4,3,0.6071966000861357,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+78,1,2:36,1956,2556,Ariel Atkins missed Jumper.,13,9,4,0,0.6073436440739437,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+79,1,2:36,1956,2556,Florida St Defensive Rebound.,13,9,4,24,0.6073436440739437,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+80,1,2:12,1932,2532,Shakayla Thomas missed Jumper.,13,9,4,0,0.6085285997252844,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+81,1,2:12,1932,2532,Brittany Brown Offensive Rebound.,13,9,4,5,0.6085285997252844,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+82,1,2:07,1927,2527,Brittany Brown missed Layup.,13,9,4,0,0.6087772588415313,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+83,1,2:07,1927,2527,Florida St Offensive Rebound.,13,9,4,10,0.6087772588415313,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+84,1,1:57,1917,2517,Nicole Ekhomu Turnover.,13,9,4,0,0.609273923347929,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+85,1,1:57,1917,2517,Lashann Higgs Steal.,13,9,4,5,0.609273923347929,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+86,1,1:52,1912,2512,Lashann Higgs made Layup.,13,11,2,15,0.5554340691067196,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Texas
+87,1,1:37,1897,2497,Chatrice White missed Three Point Jumper.,13,11,2,0,0.555819652211619,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+88,1,1:37,1897,2497,Audrey-Ann Caron-Goudreau Block.,13,11,2,0,0.555819652211619,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+89,1,1:37,1897,2497,Joyner Holmes Defensive Rebound.,13,11,2,8,0.555819652211619,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+90,1,1:29,1889,2489,Joyner Holmes made Jumper.,13,13,0,22,0.5,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Texas
+91,1,1:07,1867,2467,Chatrice White missed Jumper.,13,13,0,0,0.5,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+92,1,1:07,1867,2467,Joyner Holmes Defensive Rebound.,13,13,0,10,0.5,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+93,1,0:57,1857,2457,Joyner Holmes missed Layup.,13,13,0,0,0.5,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+94,1,0:57,1857,2457,Lashann Higgs Offensive Rebound.,13,13,0,0,0.5,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+95,1,0:57,1857,2457,Lashann Higgs missed Layup.,13,13,0,0,0.5,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+96,1,0:57,1857,2457,Shakayla Thomas Defensive Rebound.,13,13,0,10,0.5,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+97,1,0:47,1847,2447,Shakayla Thomas missed Layup.,13,13,0,0,0.5,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+98,1,0:47,1847,2447,Ariel Atkins Defensive Rebound.,13,13,0,0,0.5,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+99,1,0:47,1847,2447,Foul on Leticia Romero.,13,13,0,0,0.5,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+100,1,0:47,1847,2447,Ariel Atkins missed Free Throw.,13,13,0,0,0.5,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+101,1,0:47,1847,2447,Texas Deadball Team Rebound.,13,13,0,0,0.5,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+102,1,0:47,1847,2447,Ariel Atkins made Free Throw.,13,14,-1,6,0.47135266701007056,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Texas
+103,1,0:41,1841,2441,Shakayla Thomas made Layup.,15,14,1,34,0.5287257791662856,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+104,1,0:07,1807,2407,Lashann Higgs Turnover.,15,14,1,3,0.529173697486894,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+105,1,0:04,1804,2404,Brittany Brown missed Jumper.,15,14,1,0,0.5292135580942247,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+106,1,0:04,1804,2404,Maria Conde Offensive Rebound.,15,14,1,4,0.5292135580942247,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+107,1,0:00,1800,2400,End of 1st Quarter,15,14,1,0,0.5292668057759684,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+108,2,10:00,1800,2400,Jump Ball won by Florida St,15,14,1,11,0.5292668057759684,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+109,2,9:49,1789,2389,Shakayla Thomas missed Jumper.,15,14,1,0,0.5294138657886375,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+110,2,9:49,1789,2389,Joyner Holmes Defensive Rebound.,15,14,1,20,0.5294138657886375,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+111,2,9:29,1769,2369,Joyner Holmes Turnover.,15,14,1,5,0.5296838911958535,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+112,2,9:24,1764,2364,Imani Wright made Jumper.,17,14,3,19,0.5884220752841453,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+113,2,9:05,1745,2345,Jada Underwood Turnover.,17,14,3,0,0.5891836372887017,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+114,2,9:05,1745,2345,Imani Wright Steal.,17,14,3,5,0.5891836372887017,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+115,2,9:00,1740,2340,Imani Wright missed Layup.,17,14,3,0,0.5893859693375367,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+116,2,9:00,1740,2340,Ama Degbeon Offensive Rebound.,17,14,3,0,0.5893859693375367,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+117,2,9:00,1740,2340,Ama Degbeon made Two Point Tip Shot.,19,14,5,11,0.6462004675035664,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+118,2,8:49,1729,2329,Texas  Timeout,19,14,5,0,0.6469059148735038,Florida State,Texas,3,4,1,0,NA,400912190,2017-02-13,
+119,2,8:49,1729,2329,Official TV Timeout,19,14,5,16,0.6469059148735038,Florida State,Texas,3,4,1,0,NA,400912190,2017-02-13,
+120,2,8:33,1713,2313,Ariel Atkins Turnover.,19,14,5,24,0.6479438575118139,Florida State,Texas,3,4,1,0,NA,400912190,2017-02-13,
+121,2,8:09,1689,2289,Shakayla Thomas missed Layup.,19,14,5,0,0.6495297406413132,Florida State,Texas,3,4,1,0,NA,400912190,2017-02-13,
+122,2,8:09,1689,2289,Maria Conde Offensive Rebound.,19,14,5,5,0.6495297406413132,Florida State,Texas,3,4,1,0,NA,400912190,2017-02-13,
+123,2,8:04,1684,2284,Maria Conde missed Layup.,19,14,5,0,0.649861749926133,Florida State,Texas,3,4,1,0,NA,400912190,2017-02-13,
+124,2,8:04,1684,2284,Ariel Atkins Defensive Rebound.,19,14,5,5,0.649861749926133,Florida State,Texas,3,4,1,0,NA,400912190,2017-02-13,
+125,2,7:59,1679,2279,Ariel Atkins Turnover.,19,14,5,3,0.6501910778888925,Florida State,Texas,3,4,1,0,NA,400912190,2017-02-13,
+126,2,7:56,1676,2276,Brittany Brown made Three Point Jumper. Assisted by Imani Wright.,22,14,8,21,0.729717227370393,Florida State,Texas,3,4,1,0,NA,400912190,2017-02-13,Florida State
+127,2,7:35,1655,2255,Brooke McCarty made Jumper.,22,16,6,19,0.6796215909290247,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,Texas
+128,2,7:16,1636,2236,Shakayla Thomas made Jumper. Assisted by Chatrice White.,24,16,8,12,0.7332452856560684,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,Florida State
+129,2,7:04,1624,2224,Joyner Holmes missed Jumper.,24,16,8,0,0.7342752949735284,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+130,2,7:04,1624,2224,Brittany Brown Defensive Rebound.,24,16,8,17,0.7342752949735284,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+131,2,6:47,1607,2207,Chatrice White Turnover.,24,16,8,16,0.7357219950063071,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+132,2,6:31,1591,2191,Lashann Higgs Turnover.,24,16,8,9,0.7370770697484298,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+133,2,6:22,1582,2182,Brittany Brown Turnover.,24,16,8,14,0.7378392093634688,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+134,2,6:08,1568,2168,Joyner Holmes missed Jumper.,24,16,8,0,0.7390281653512704,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+135,2,6:08,1568,2168,Shakayla Thomas Defensive Rebound.,24,16,8,10,0.7390281653512704,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+136,2,5:58,1558,2158,Brittany Brown made Three Point Jumper. Assisted by Maria Conde.,27,16,11,11,0.8080462377777434,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,Florida State
+137,2,5:47,1547,2147,Brooke McCarty made Three Point Jumper.,27,19,8,5,0.7408283573965101,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,Texas
+138,2,5:42,1542,2142,Foul on Ariel Atkins.,27,19,8,7,0.7412613675323606,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+139,2,5:35,1535,2135,Imani Wright missed Three Point Jumper.,27,19,8,0,0.7418711737767166,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+140,2,5:35,1535,2135,Joyner Holmes Defensive Rebound.,27,19,8,22,0.7418711737767166,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+141,2,5:13,1513,2113,Brooke McCarty made Layup.,27,21,6,8,0.6898551585838372,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,Texas
+142,2,5:05,1505,2105,Shakayla Thomas made Jumper. Assisted by Nicole Ekhomu.,29,21,8,15,0.7445445738283262,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,Florida State
+143,2,4:50,1490,2090,Kelsey Lang missed Jumper.,29,21,8,0,0.745926981697943,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+144,2,4:50,1490,2090,Joyner Holmes Offensive Rebound.,29,21,8,5,0.745926981697943,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+145,2,4:45,1485,2085,Joyner Holmes missed Jumper.,29,21,8,0,0.7463958533058541,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+146,2,4:45,1485,2085,Shakayla Thomas Defensive Rebound.,29,21,8,0,0.7463958533058541,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+147,2,4:45,1485,2085,Foul on Kelsey Lang.,29,21,8,13,0.7463958533058541,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+148,2,4:32,1472,2072,Shakayla Thomas missed Layup.,29,21,8,0,0.7476357668024214,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+149,2,4:32,1472,2072,Audrey-Ann Caron-Goudreau Block.,29,21,8,0,0.7476357668024214,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+150,2,4:32,1472,2072,Florida St Offensive Rebound.,29,21,8,5,0.7476357668024214,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+151,2,4:27,1467,2067,Imani Wright made Three Point Jumper.,32,21,11,23,0.8171039421916679,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,Florida State
+152,2,4:04,1444,2044,Joyner Holmes Turnover.,32,21,11,0,0.8195974398360031,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+153,2,4:04,1444,2044,Brittany Brown Steal.,32,21,11,10,0.8195974398360031,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+154,2,3:54,1434,2034,Ama Degbeon Turnover.,32,21,11,13,0.8206657238893993,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+155,2,3:41,1421,2021,Brooke McCarty missed Three Point Jumper.,32,21,11,0,0.8220171873080465,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+156,2,3:41,1421,2021,Imani Wright Defensive Rebound.,32,21,11,2,0.8220171873080465,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+157,2,3:39,1419,2019,Foul on Alecia Sutton.,32,21,11,10,0.8222217923860405,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+158,2,3:29,1409,2009,Imani Wright missed Three Point Jumper.,32,21,11,0,0.8232332638363681,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+159,2,3:29,1409,2009,Texas Deadball Team Rebound.,32,21,11,6,0.8232332638363681,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+160,2,3:23,1403,2003,Foul on Brittany Brown.,32,21,11,13,0.8238318667546387,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+161,2,3:10,1390,1990,Audrey-Ann Caron-Goudreau Turnover.,32,21,11,0,0.8251114748265856,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+162,2,3:10,1390,1990,Chatrice White Steal.,32,21,11,18,0.8251114748265856,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+163,2,2:52,1372,1972,Jump Ball won by Texas,32,21,11,0,0.8268551336086851,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+164,2,2:52,1372,1972,Maria Conde Turnover.,32,21,11,24,0.8268551336086851,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+165,2,2:28,1348,1948,Joyner Holmes Turnover.,32,21,11,14,0.8291583291489081,Florida State,Texas,3,4,0,0,NA,400912190,2017-02-13,
+166,2,2:14,1334,1934,Imani Wright Turnover.,32,21,11,0,0.8305055809789261,Florida State,Texas,3,4,0,1,NA,400912190,2017-02-13,
+167,2,2:14,1334,1934,Florida St  Timeout,32,21,11,9,0.8305055809789261,Florida State,Texas,3,3,0,1,NA,400912190,2017-02-13,
+168,2,2:05,1325,1925,Alecia Sutton missed Three Point Jumper.,32,21,11,0,0.8313779273035079,Florida State,Texas,3,3,0,1,NA,400912190,2017-02-13,
+169,2,2:05,1325,1925,Joyner Holmes Offensive Rebound.,32,21,11,8,0.8313779273035079,Florida State,Texas,3,3,0,1,NA,400912190,2017-02-13,
+170,2,1:57,1317,1917,Joyner Holmes made Layup.,32,23,9,0,0.7874992992608865,Florida State,Texas,3,3,0,1,NA,400912190,2017-02-13,Texas
+171,2,1:57,1317,1917,Foul on Shakayla Thomas.,32,23,9,0,0.7874992992608865,Florida State,Texas,3,3,0,1,NA,400912190,2017-02-13,
+172,2,1:57,1317,1917,Joyner Holmes made Free Throw.,32,24,8,15,0.7621260118377525,Florida State,Texas,3,3,0,1,NA,400912190,2017-02-13,Texas
+173,2,1:42,1302,1902,Imani Wright made Three Point Jumper.,35,24,11,20,0.8336456757777192,Florida State,Texas,3,3,0,1,NA,400912190,2017-02-13,Florida State
+174,2,1:22,1282,1882,Brooke McCarty made Jumper.,35,26,9,32,0.7909620727077105,Florida State,Texas,3,3,0,1,NA,400912190,2017-02-13,Texas
+175,2,0:50,1250,1850,Brittany Brown missed Three Point Jumper.,35,26,9,0,0.7943609622644483,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+176,2,0:50,1250,1850,Maria Conde Offensive Rebound.,35,26,9,10,0.7943609622644483,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+177,2,0:40,1240,1840,Shakayla Thomas missed Jumper.,35,26,9,0,0.7954827545542869,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+178,2,0:40,1240,1840,Texas Deadball Team Rebound.,35,26,9,5,0.7954827545542869,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+179,2,0:35,1235,1835,Foul on Chatrice White.,35,26,9,25,0.7960557625403594,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+180,2,0:10,1210,1810,Joyner Holmes missed Three Point Jumper.,35,26,9,0,0.7990538118791252,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+181,2,0:10,1210,1810,Ama Degbeon Defensive Rebound.,35,26,9,10,0.7990538118791252,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+182,2,0:00,1200,1800,End of 2nd Quarter,35,26,9,0,0.8002839754918194,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+183,3,10:00,1200,1800,Jump Ball won by Texas,35,26,9,28,0.8002839754918194,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+184,3,9:32,1172,1772,Brooke McCarty made Jumper.,35,28,7,13,0.7494664867631448,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Texas
+185,3,9:19,1159,1759,Shakayla Thomas made Jumper. Assisted by Brittany Brown.,37,28,9,0,0.8050622634731789,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+186,3,9:19,1159,1759,Foul on Joyner Holmes.,37,28,9,0,0.8050622634731789,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+187,3,9:19,1159,1759,Shakayla Thomas missed Free Throw.,37,28,9,0,0.8050622634731789,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+188,3,9:19,1159,1759,Joyner Holmes Defensive Rebound.,37,28,9,2,0.8050622634731789,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+189,3,9:17,1157,1757,Brooke McCarty made Three Point Jumper.,37,31,6,10,0.7204007766744268,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Texas
+190,3,9:07,1147,1747,Ivey Slaughter missed Jumper.,37,31,6,0,0.7213609644578662,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+191,3,9:07,1147,1747,Maria Conde Offensive Rebound.,37,31,6,15,0.7213609644578662,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+192,3,8:52,1132,1732,Shakayla Thomas missed Jumper.,37,31,6,0,0.7227932485313521,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+193,3,8:52,1132,1732,Florida St Offensive Rebound.,37,31,6,12,0.7227932485313521,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+194,3,8:40,1120,1720,Foul on Brooke McCarty.,37,31,6,13,0.7239387299670307,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+195,3,8:27,1107,1707,Shakayla Thomas missed Jumper.,37,31,6,0,0.7251863638834635,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+196,3,8:27,1107,1707,Kelsey Lang Defensive Rebound.,37,31,6,12,0.7251863638834635,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+197,3,8:15,1095,1695,Kelsey Lang made Jumper. Assisted by Brooke McCarty.,37,33,4,22,0.657188140317836,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Texas
+198,3,7:53,1073,1673,Shakayla Thomas made Layup.,39,33,6,15,0.7285325668428716,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+199,3,7:38,1058,1658,Ariel Atkins made Layup. Assisted by Kelsey Lang.,39,35,4,26,0.6600061602285403,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Texas
+200,3,7:12,1032,1632,Brittany Brown missed Jumper.,39,35,4,0,0.6621335208524443,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+201,3,7:12,1032,1632,Florida St Offensive Rebound.,39,35,4,20,0.6621335208524443,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+202,3,6:52,1012,1612,Maria Conde missed Jumper.,39,35,4,0,0.6638827376310495,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+203,3,6:52,1012,1612,Maria Conde Offensive Rebound.,39,35,4,3,0.6638827376310495,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+204,3,6:49,1009,1609,Foul on Brianna Taylor.,39,35,4,0,0.6641548959588939,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+205,3,6:49,1009,1609,Maria Conde made Free Throw.,40,35,5,0,0.7010560371087696,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+206,3,6:49,1009,1609,Maria Conde missed Free Throw.,40,35,5,0,0.7010560371087696,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+207,3,6:49,1009,1609,Ivey Slaughter Offensive Rebound.,40,35,5,21,0.7010560371087696,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+208,3,6:28,988,1588,Foul on Ariel Atkins.,40,35,5,0,0.7033856038868596,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+209,3,6:28,988,1588,Leticia Romero made Free Throw.,41,35,6,0,0.7381097000961511,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+210,3,6:28,988,1588,Leticia Romero made Free Throw.,42,35,7,25,0.7700973899797688,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+211,3,6:03,963,1563,Brooke McCarty missed Three Point Jumper.,42,35,7,0,0.77362611949231,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+212,3,6:03,963,1563,Kelsey Lang Offensive Rebound.,42,35,7,8,0.77362611949231,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+213,3,5:55,955,1555,Joyner Holmes made Jumper. Assisted by Brooke McCarty.,42,37,5,20,0.7072818057555647,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Texas
+214,3,5:35,935,1535,Shakayla Thomas missed Jumper.,42,37,5,0,0.7094114227049872,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+215,3,5:35,935,1535,Ivey Slaughter Offensive Rebound.,42,37,5,7,0.7094114227049872,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+216,3,5:28,928,1528,Foul on Kelsey Lang.,42,37,5,0,0.7101100315901073,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+217,3,5:28,928,1528,Ivey Slaughter made Free Throw.,43,37,6,0,0.7455660017702387,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+218,3,5:28,928,1528,Ivey Slaughter made Free Throw.,44,37,7,9,0.7780408892451994,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+219,3,5:19,919,1519,Foul on Shakayla Thomas.,44,37,7,4,0.7790618700678408,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+220,3,5:15,915,1515,Brooke McCarty made Jumper.,44,39,5,17,0.7113579167016278,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Texas
+221,3,4:58,898,1498,Official TV Timeout,44,39,5,14,0.7129191166608061,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+222,3,4:44,884,1484,Leticia Romero made Jumper.,46,39,7,21,0.7827937440703843,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+223,3,4:23,863,1463,Brooke McCarty Turnover.,46,39,7,13,0.7849751957694034,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+224,3,4:10,850,1450,Imani Wright Turnover.,46,39,7,0,0.7863522936877657,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+225,3,4:10,850,1450,Brooke McCarty Steal.,46,39,7,16,0.7863522936877657,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+226,3,3:54,834,1434,Lashann Higgs made Jumper.,46,41,5,0,0.7187497087902357,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Texas
+227,3,3:54,834,1434,Foul on Ivey Slaughter.,46,41,5,0,0.7187497087902357,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+228,3,3:54,834,1434,Lashann Higgs made Free Throw.,46,42,4,24,0.6793125936294164,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Texas
+229,3,3:30,810,1410,Ama Degbeon made Layup. Assisted by Maria Conde.,48,42,6,20,0.7577896249093372,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+230,3,3:10,790,1390,Kelsey Lang Turnover.,48,42,6,0,0.7603017971029588,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+231,3,3:10,790,1390,Ama Degbeon Steal.,48,42,6,0,0.7603017971029588,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+232,3,3:10,790,1390,Foul on Kelsey Lang.,48,42,6,0,0.7603017971029588,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+233,3,3:10,790,1390,Ama Degbeon made Free Throw.,49,42,7,0,0.793593517533807,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+234,3,3:10,790,1390,Ama Degbeon made Free Throw.,50,42,8,11,0.8233357565107752,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+235,3,2:59,779,1379,Ariel Atkins missed Three Point Jumper.,50,42,8,0,0.824937444695947,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+236,3,2:59,779,1379,Florida St Defensive Rebound.,50,42,8,13,0.824937444695947,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+237,3,2:46,766,1366,Shakayla Thomas missed Jumper.,50,42,8,0,0.8269647494507417,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+238,3,2:46,766,1366,Joyner Holmes Block.,50,42,8,0,0.8269647494507417,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+239,3,2:46,766,1366,Brooke McCarty Defensive Rebound.,50,42,8,8,0.8269647494507417,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+240,3,2:38,758,1358,Brooke McCarty Turnover.,50,42,8,0,0.8282910870561309,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+241,3,2:38,758,1358,Leticia Romero Steal.,50,42,8,7,0.8282910870561309,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+242,3,2:31,751,1351,Foul on Audrey-Ann Caron-Goudreau.,50,42,8,0,0.8295041649212066,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+243,3,2:31,751,1351,Shakayla Thomas made Free Throw.,51,42,9,0,0.8556822847625972,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+244,3,2:31,751,1351,Shakayla Thomas made Free Throw.,52,42,10,13,0.8784300622319189,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+245,3,2:18,738,1338,Joyner Holmes Turnover.,52,42,10,9,0.8806809458287709,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+246,3,2:09,729,1329,Leticia Romero made Layup.,54,42,12,17,0.9181651143153841,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+247,3,1:52,712,1312,Ariel Atkins made Jumper.,54,44,10,15,0.8852652689554592,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Texas
+248,3,1:37,697,1297,Shakayla Thomas made Jumper.,56,44,12,30,0.9226625701480405,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+249,3,1:07,667,1267,Audrey-Ann Caron-Goudreau made Layup. Assisted by Brooke McCarty.,56,46,10,15,0.8915930274213232,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Texas
+250,3,0:52,652,1252,Imani Wright missed Three Point Jumper.,56,46,10,0,0.8935167763006862,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+251,3,0:52,652,1252,Alecia Sutton Defensive Rebound.,56,46,10,10,0.8935167763006862,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+252,3,0:42,642,1242,Alecia Sutton missed Layup.,56,46,10,0,0.8948110174027256,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+253,3,0:42,642,1242,Florida St Deadball Team Rebound.,56,46,10,2,0.8948110174027256,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+254,3,0:40,640,1240,Foul on Audrey-Ann Caron-Goudreau.,56,46,10,0,0.8950731595032435,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+255,3,0:40,640,1240,Ama Degbeon made Free Throw.,57,46,11,0,0.9135685119517144,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+256,3,0:40,640,1240,Ama Degbeon missed Free Throw.,57,46,11,0,0.9135685119517144,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+257,3,0:40,640,1240,Joyner Holmes Defensive Rebound.,57,46,11,23,0.9135685119517144,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+258,3,0:17,617,1217,Ariel Atkins Turnover.,57,46,11,0,0.9164821812633732,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+259,3,0:17,617,1217,Maria Conde Steal.,57,46,11,3,0.9164821812633732,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+260,3,0:14,614,1214,Foul on Joyner Holmes.,57,46,11,0,0.9168851154547917,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+261,3,0:14,614,1214,Maria Conde made Free Throw.,58,46,12,0,0.9320750008239059,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+262,3,0:14,614,1214,Maria Conde made Free Throw.,59,46,13,9,0.9446563824429383,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Florida State
+263,3,0:05,605,1205,Brooke McCarty made Three Point Jumper.,59,49,10,5,0.9000268299108503,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,Texas
+264,3,0:00,600,1200,End of 3rd Quarter,59,49,10,0,0.9008151083556064,Florida State,Texas,4,4,0,0,NA,400912190,2017-02-13,
+265,4,10:00,600,1200,Jump Ball won by Florida St,59,49,10,13,0.9008151083556064,Florida State,Texas,5,5,0,0,NA,400912190,2017-02-13,
+266,4,9:47,587,1187,Chatrice White made Layup. Assisted by Imani Wright.,61,49,12,24,0.9356611740098656,Florida State,Texas,5,5,0,0,NA,400912190,2017-02-13,Florida State
+267,4,9:23,563,1163,Ariel Atkins missed Three Point Jumper.,61,49,12,0,0.9394101451238415,Florida State,Texas,5,5,0,0,NA,400912190,2017-02-13,
+268,4,9:23,563,1163,Audrey-Ann Caron-Goudreau Offensive Rebound.,61,49,12,18,0.9394101451238415,Florida State,Texas,5,5,0,0,NA,400912190,2017-02-13,
+269,4,9:05,545,1145,Jordan Hosey made Layup. Assisted by Audrey-Ann Caron-Goudreau.,61,51,10,27,0.9114807129216874,Florida State,Texas,5,5,0,0,NA,400912190,2017-02-13,Texas
+270,4,8:38,518,1118,Brittany Brown missed Three Point Jumper.,61,51,10,0,0.9163388681196398,Florida State,Texas,5,5,0,0,NA,400912190,2017-02-13,
+271,4,8:38,518,1118,Brooke McCarty Defensive Rebound.,61,51,10,18,0.9163388681196398,Florida State,Texas,5,5,0,0,NA,400912190,2017-02-13,
+272,4,8:20,500,1100,Jordan Hosey missed Jumper.,61,51,10,0,0.9190660154267376,Florida State,Texas,5,5,0,0,NA,400912190,2017-02-13,
+273,4,8:20,500,1100,Florida St Deadball Team Rebound.,61,51,10,3,0.9190660154267376,Florida State,Texas,5,5,0,0,NA,400912190,2017-02-13,
+274,4,8:17,497,1097,Foul on Brianna Taylor.,61,51,10,20,0.9195126470145111,Florida State,Texas,5,5,0,0,NA,400912190,2017-02-13,
+275,4,7:57,477,1077,Shakayla Thomas Turnover.,61,51,10,14,0.9226094688585643,Florida State,Texas,5,5,0,0,NA,400912190,2017-02-13,
+276,4,7:43,463,1063,Brooke McCarty made Three Point Jumper.,61,54,7,18,0.8530978914772263,Florida State,Texas,5,5,0,0,NA,400912190,2017-02-13,Texas
+277,4,7:25,445,1045,Imani Wright missed Jumper.,61,54,7,0,0.8578023250785641,Florida State,Texas,5,5,0,0,NA,400912190,2017-02-13,
+278,4,7:25,445,1045,Brooke McCarty Defensive Rebound.,61,54,7,10,0.8578023250785641,Florida State,Texas,5,5,0,0,NA,400912190,2017-02-13,
+279,4,7:15,435,1035,Ariel Atkins made Layup. Assisted by Brooke McCarty.,61,56,5,3,0.7861587386312251,Florida State,Texas,5,5,0,0,NA,400912190,2017-02-13,Texas
+280,4,7:12,432,1032,Florida St  Timeout,61,56,5,0,0.7871639203724771,Florida State,Texas,5,4,0,1,NA,400912190,2017-02-13,
+281,4,7:12,432,1032,Official TV Timeout,61,56,5,8,0.7871639203724771,Florida State,Texas,5,4,0,1,NA,400912190,2017-02-13,
+282,4,7:04,424,1024,Shakayla Thomas missed Jumper.,61,56,5,0,0.7899037592376021,Florida State,Texas,5,4,0,1,NA,400912190,2017-02-13,
+283,4,7:04,424,1024,Brittany Brown Offensive Rebound.,61,56,5,6,0.7899037592376021,Florida State,Texas,5,4,0,1,NA,400912190,2017-02-13,
+284,4,6:58,418,1018,Brittany Brown missed Layup.,61,56,5,0,0.7918552280671555,Florida State,Texas,5,4,0,1,NA,400912190,2017-02-13,
+285,4,6:58,418,1018,Lashann Higgs Block.,61,56,5,0,0.7918552280671555,Florida State,Texas,5,4,0,1,NA,400912190,2017-02-13,
+286,4,6:58,418,1018,Lashann Higgs Defensive Rebound.,61,56,5,6,0.7918552280671555,Florida State,Texas,5,4,0,1,NA,400912190,2017-02-13,
+287,4,6:52,412,1012,Jordan Hosey made Layup. Assisted by Lashann Higgs.,61,58,3,12,0.691796977868209,Florida State,Texas,5,4,0,1,NA,400912190,2017-02-13,Texas
+288,4,6:40,400,1000,Shakayla Thomas missed Jumper.,61,58,3,0,0.6946164075973256,Florida State,Texas,5,4,0,1,NA,400912190,2017-02-13,
+289,4,6:40,400,1000,Ariel Atkins Defensive Rebound.,61,58,3,32,0.6946164075973256,Florida State,Texas,5,4,0,1,NA,400912190,2017-02-13,
+290,4,6:08,368,968,Ariel Atkins missed Jumper.,61,58,3,0,0.7022103669527259,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+291,4,6:08,368,968,Shakayla Thomas Defensive Rebound.,61,58,3,12,0.7022103669527259,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+292,4,5:56,356,956,Ivey Slaughter missed Jumper.,61,58,3,0,0.7053943994262446,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+293,4,5:56,356,956,Lashann Higgs Defensive Rebound.,61,58,3,31,0.7053943994262446,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+294,4,5:25,325,925,Ariel Atkins made Layup. Assisted by Brooke McCarty.,61,60,1,22,0.576237653263185,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,Texas
+295,4,5:03,303,903,Foul on Audrey-Ann Caron-Goudreau.,61,60,1,0,0.5797410540470757,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+296,4,5:03,303,903,Maria Conde made Free Throw.,62,60,2,0,0.6555263660792452,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,Florida State
+297,4,5:03,303,903,Maria Conde made Free Throw.,63,60,3,12,0.7241480313047577,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,Florida State
+298,4,4:51,291,891,Ariel Atkins made Layup. Assisted by Kelsey Lang.,63,62,1,16,0.5804827301655872,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,Texas
+299,4,4:35,275,875,Foul on Ama Degbeon.,63,62,1,0,0.5800945494795842,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+300,4,4:35,275,875,Ama Degbeon Turnover.,63,62,1,0,0.5800945494795842,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+301,4,4:35,275,875,Official TV Timeout,63,62,1,7,0.5800945494795842,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+302,4,4:28,268,868,Ariel Atkins made Jumper. Assisted by Joyner Holmes.,63,64,-1,27,0.4203602403919705,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,Texas
+303,4,4:01,241,841,Leticia Romero Turnover.,63,64,-1,5,0.4220289835706846,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+304,4,3:56,236,836,Ariel Atkins made Layup. Assisted by Brooke McCarty.,63,66,-3,16,0.28037608830847877,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,Texas
+305,4,3:40,220,820,Imani Wright missed Three Point Jumper.,63,66,-3,0,0.27808125889443785,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+306,4,3:40,220,820,Brooke McCarty Defensive Rebound.,63,66,-3,24,0.27808125889443785,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+307,4,3:16,196,796,Foul on Brooke McCarty.,63,66,-3,0,0.2630082695378082,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+308,4,3:16,196,796,Brooke McCarty Turnover.,63,66,-3,8,0.2630082695378082,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+309,4,3:08,188,788,Shakayla Thomas missed Jumper.,63,66,-3,0,0.2540908665880078,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+310,4,3:08,188,788,Joyner Holmes Defensive Rebound.,63,66,-3,20,0.2540908665880078,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+311,4,2:48,168,768,Brooke McCarty missed Jumper.,63,66,-3,0,0.23056623805537052,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+312,4,2:48,168,768,Shakayla Thomas Defensive Rebound.,63,66,-3,8,0.23056623805537052,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+313,4,2:40,160,760,Shakayla Thomas missed Layup.,63,66,-3,0,0.22102758092416083,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+314,4,2:40,160,760,Joyner Holmes Block.,63,66,-3,0,0.22102758092416083,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+315,4,2:40,160,760,Joyner Holmes Defensive Rebound.,63,66,-3,2,0.22102758092416083,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+316,4,2:38,158,758,Jump Ball won by Texas,63,66,-3,29,0.2186117170324802,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+317,4,2:09,129,729,Ariel Atkins Turnover.,63,66,-3,12,0.18141724471305756,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+318,4,1:57,117,717,Brittany Brown missed Three Point Jumper.,63,66,-3,0,0.16462413485469854,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+319,4,1:57,117,717,Brooke McCarty Defensive Rebound.,63,66,-3,8,0.16462413485469854,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+320,4,1:49,109,709,Lashann Higgs missed Layup.,63,66,-3,0,0.1529933903451639,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+321,4,1:49,109,709,Lashann Higgs Offensive Rebound.,63,66,-3,8,0.1529933903451639,Florida State,Texas,5,4,0,0,NA,400912190,2017-02-13,
+322,4,1:41,101,701,Texas  Timeout,63,66,-3,11,0.14107980589617802,Florida State,Texas,4,4,1,0,NA,400912190,2017-02-13,
+323,4,1:30,90,690,Joyner Holmes missed Layup.,63,66,-3,0,0.12456586014669642,Florida State,Texas,4,4,1,0,NA,400912190,2017-02-13,
+324,4,1:30,90,690,Joyner Holmes Offensive Rebound.,63,66,-3,4,0.12456586014669642,Florida State,Texas,4,4,1,0,NA,400912190,2017-02-13,
+325,4,1:26,86,686,Joyner Holmes made Layup.,63,68,-5,16,0.034228870369769675,Florida State,Texas,4,4,1,0,NA,400912190,2017-02-13,Texas
+326,4,1:10,70,670,Leticia Romero made Layup.,65,68,-3,0,0.09674581788288925,Florida State,Texas,4,4,1,0,NA,400912190,2017-02-13,Florida State
+327,4,1:10,70,670,Foul on Joyner Holmes.,65,68,-3,0,0.09674581788288925,Florida State,Texas,4,4,1,0,NA,400912190,2017-02-13,
+328,4,1:10,70,670,Leticia Romero made Free Throw.,66,68,-2,19,0.18403013089636655,Florida State,Texas,4,4,1,0,NA,400912190,2017-02-13,Florida State
+329,4,0:51,51,651,Kelsey Lang made Layup. Assisted by Ariel Atkins.,66,70,-4,9,0.03280055152575269,Florida State,Texas,4,4,1,0,NA,400912190,2017-02-13,Texas
+330,4,0:42,42,642,Ama Degbeon made Layup. Assisted by Brittany Brown.,68,70,-2,0,0.14236138448711494,Florida State,Texas,4,4,1,1,NA,400912190,2017-02-13,Florida State
+331,4,0:42,42,642,Florida St  Timeout,68,70,-2,22,0.14236138448711494,Florida State,Texas,4,3,1,1,NA,400912190,2017-02-13,
+332,4,0:20,20,620,Foul on Ivey Slaughter.,68,70,-2,2,0.11193535250918163,Florida State,Texas,4,3,0,1,NA,400912190,2017-02-13,
+333,4,0:18,18,618,Foul on Leticia Romero.,68,70,-2,2,0.10931455159064239,Florida State,Texas,4,3,0,1,NA,400912190,2017-02-13,
+334,4,0:16,16,616,Foul on Ivey Slaughter.,68,70,-2,0,0.10671073666192735,Florida State,Texas,4,3,0,1,NA,400912190,2017-02-13,
+335,4,0:16,16,616,Joyner Holmes missed Free Throw.,68,70,-2,0,0.10671073666192735,Florida State,Texas,4,3,0,1,NA,400912190,2017-02-13,
+336,4,0:16,16,616,Texas Deadball Team Rebound.,68,70,-2,0,0.10671073666192735,Florida State,Texas,4,3,0,1,NA,400912190,2017-02-13,
+337,4,0:16,16,616,Joyner Holmes made Free Throw.,68,71,-3,0,0.039650907899848264,Florida State,Texas,4,3,0,1,NA,400912190,2017-02-13,Texas
+338,4,0:16,16,616,Florida St  Timeout,68,71,-3,6,0.039650907899848264,Florida State,Texas,4,2,0,1,NA,400912190,2017-02-13,
+339,4,0:10,10,610,Leticia Romero missed Three Point Jumper.,68,71,-3,0,0.035163883243131466,Florida State,Texas,4,2,0,1,NA,400912190,2017-02-13,
+340,4,0:10,10,610,Florida St Offensive Rebound.,68,71,-3,5,0.035163883243131466,Florida State,Texas,4,2,0,1,NA,400912190,2017-02-13,
+341,4,0:05,5,605,Texas  Timeout,68,71,-3,3,0.031708124473284936,Florida State,Texas,3,2,1,1,NA,400912190,2017-02-13,
+342,4,0:02,2,602,Leticia Romero made Three Point Jumper. Assisted by Shakayla Thomas.,71,71,0,2,0.5,Florida State,Texas,3,2,1,1,NA,400912190,2017-02-13,Florida State
+343,4,0:00,600,600,End of 4th Quarter,71,71,0,0,0.5,Florida State,Texas,3,2,0,0,NA,400912190,2017-02-13,
+344,5,5:00,600,600,Jump Ball won by Florida St,71,71,0,19,0.5,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+345,5,4:41,281,581,Brittany Brown made Jumper.,73,71,2,22,0.6567014063507581,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,Florida State
+346,5,4:19,259,559,Ariel Atkins missed Three Point Jumper.,73,71,2,0,0.6540992968368612,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+347,5,4:19,259,559,Joyner Holmes Offensive Rebound.,73,71,2,5,0.6540992968368612,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+348,5,4:14,254,554,Joyner Holmes missed Jumper.,73,71,2,0,0.6534367282139381,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+349,5,4:14,254,554,Ariel Atkins Offensive Rebound.,73,71,2,0,0.6534367282139381,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+350,5,4:14,254,554,Ariel Atkins made Two Point Tip Shot.,73,73,0,17,0.5,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,Texas
+351,5,3:57,237,537,Shakayla Thomas missed Jumper.,73,73,0,0,0.5,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+352,5,3:57,237,537,Shakayla Thomas Offensive Rebound.,73,73,0,4,0.5,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+353,5,3:53,233,533,Shakayla Thomas made Layup.,75,73,2,26,0.6521853539867312,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,Florida State
+354,5,3:27,207,507,Kelsey Lang missed Jumper.,75,73,2,0,0.6584576729617606,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+355,5,3:27,207,507,Chatrice White Defensive Rebound.,75,73,2,16,0.6584576729617606,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+356,5,3:11,191,491,Chatrice White made Layup. Assisted by Brittany Brown.,77,73,4,20,0.8039250185693275,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,Florida State
+357,5,2:51,171,471,Brooke McCarty missed Three Point Jumper.,77,73,4,0,0.8292569175755539,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+358,5,2:51,171,471,Ariel Atkins Offensive Rebound.,77,73,4,16,0.8292569175755539,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+359,5,2:35,155,455,Kelsey Lang made Jumper. Assisted by Brianna Taylor.,77,75,2,24,0.7033965542293161,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,Texas
+360,5,2:11,131,431,Jump Ball won by Texas,77,75,2,0,0.729560041127217,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+361,5,2:11,131,431,Shakayla Thomas Turnover.,77,75,2,0,0.729560041127217,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+362,5,2:11,131,431,Ariel Atkins Steal.,77,75,2,17,0.729560041127217,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+363,5,1:54,114,414,Audrey-Ann Caron-Goudreau made Layup. Assisted by Brooke McCarty.,77,77,0,21,0.5,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,Texas
+364,5,1:33,93,393,Shakayla Thomas missed Jumper.,77,77,0,0,0.5,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+365,5,1:33,93,393,Brianna Taylor Defensive Rebound.,77,77,0,6,0.5,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+366,5,1:27,87,387,Foul on Brittany Brown.,77,77,0,0,0.5,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+367,5,1:27,87,387,Brianna Taylor missed Free Throw.,77,77,0,0,0.5,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+368,5,1:27,87,387,Texas Deadball Team Rebound.,77,77,0,0,0.5,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+369,5,1:27,87,387,Brianna Taylor made Free Throw.,77,78,-1,13,0.3399671194386317,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,Texas
+370,5,1:14,74,374,Foul on Brianna Taylor.,77,78,-1,0,0.32639027271816046,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+371,5,1:14,74,374,Chatrice White missed Free Throw.,77,78,-1,0,0.32639027271816046,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+372,5,1:14,74,374,Florida St Deadball Team Rebound.,77,78,-1,0,0.32639027271816046,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+373,5,1:14,74,374,Chatrice White missed Free Throw.,77,78,-1,0,0.32639027271816046,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+374,5,1:14,74,374,Audrey-Ann Caron-Goudreau Defensive Rebound.,77,78,-1,19,0.32639027271816046,Florida State,Texas,4,3,0,0,NA,400912190,2017-02-13,
+375,5,0:55,55,355,Texas  Timeout,77,78,-1,0,0.30495728451128856,Florida State,Texas,3,3,1,0,NA,400912190,2017-02-13,
+376,5,0:55,55,355,Official TV Timeout,77,78,-1,2,0.30495728451128856,Florida State,Texas,3,3,1,0,NA,400912190,2017-02-13,
+377,5,0:53,53,353,Joyner Holmes missed Jumper.,77,78,-1,0,0.3026242488262776,Florida State,Texas,3,3,1,0,NA,400912190,2017-02-13,
+378,5,0:53,53,353,Florida St Deadball Team Rebound.,77,78,-1,4,0.3026242488262776,Florida State,Texas,3,3,1,0,NA,400912190,2017-02-13,
+379,5,0:49,49,349,Foul on Audrey-Ann Caron-Goudreau.,77,78,-1,0,0.29790826597683884,Florida State,Texas,3,3,1,0,NA,400912190,2017-02-13,
+380,5,0:49,49,349,Ama Degbeon made Free Throw.,78,78,0,0,0.5,Florida State,Texas,3,3,1,0,NA,400912190,2017-02-13,Florida State
+381,5,0:49,49,349,Ama Degbeon made Free Throw.,79,78,1,12,0.7020917340231612,Florida State,Texas,3,3,1,0,NA,400912190,2017-02-13,Florida State
+382,5,0:37,37,337,Lashann Higgs missed Layup.,79,78,1,0,0.7166658485786963,Florida State,Texas,3,3,1,0,NA,400912190,2017-02-13,
+383,5,0:37,37,337,Shakayla Thomas Defensive Rebound.,79,78,1,6,0.7166658485786963,Florida State,Texas,3,3,1,0,NA,400912190,2017-02-13,
+384,5,0:31,31,331,Shakayla Thomas Turnover.,79,78,1,3,0.7241381492558424,Florida State,Texas,3,3,1,0,NA,400912190,2017-02-13,
+385,5,0:28,28,328,Foul on Leticia Romero.,79,78,1,0,0.7278998449677002,Florida State,Texas,3,3,1,1,NA,400912190,2017-02-13,
+386,5,0:28,28,328,Ariel Atkins made Free Throw.,79,79,0,0,0.5,Florida State,Texas,3,3,1,1,NA,400912190,2017-02-13,Texas
+387,5,0:28,28,328,Ariel Atkins made Free Throw.,79,80,-1,0,0.2721001550322998,Florida State,Texas,3,3,1,1,NA,400912190,2017-02-13,Texas
+388,5,0:28,28,328,Florida St  Timeout,79,80,-1,9,0.2721001550322998,Florida State,Texas,3,2,1,1,NA,400912190,2017-02-13,
+389,5,0:19,19,319,Shakayla Thomas missed Layup.,79,80,-1,0,0.2607264554898535,Florida State,Texas,3,2,1,1,NA,400912190,2017-02-13,
+390,5,0:19,19,319,Joyner Holmes Block.,79,80,-1,0,0.2607264554898535,Florida State,Texas,3,2,1,1,NA,400912190,2017-02-13,
+391,5,0:19,19,319,Chatrice White Offensive Rebound.,79,80,-1,2,0.2607264554898535,Florida State,Texas,3,2,1,1,NA,400912190,2017-02-13,
+392,5,0:17,17,317,Foul on Kelsey Lang.,79,80,-1,0,0.2581484954637708,Florida State,Texas,3,2,1,1,NA,400912190,2017-02-13,
+393,5,0:17,17,317,Chatrice White missed Free Throw.,79,80,-1,0,0.2581484954637708,Florida State,Texas,3,2,1,1,NA,400912190,2017-02-13,
+394,5,0:17,17,317,Florida St Deadball Team Rebound.,79,80,-1,0,0.2581484954637708,Florida State,Texas,3,2,1,1,NA,400912190,2017-02-13,
+395,5,0:17,17,317,Chatrice White made Free Throw.,80,80,0,1,0.5,Florida State,Texas,3,2,1,1,NA,400912190,2017-02-13,Florida State
+396,5,0:16,16,316,Texas  Timeout,80,80,0,10,0.5,Florida State,Texas,2,2,1,1,NA,400912190,2017-02-13,
+397,5,0:06,6,306,Brooke McCarty missed Jumper.,80,80,0,0,0.5,Florida State,Texas,2,2,1,1,NA,400912190,2017-02-13,
+398,5,0:06,6,306,Ama Degbeon Defensive Rebound.,80,80,0,6,0.5,Florida State,Texas,2,2,1,1,NA,400912190,2017-02-13,
+399,5,0:00,300,300,End of 1st Overtime,80,80,0,0,0.5,Florida State,Texas,2,2,0,0,NA,400912190,2017-02-13,
+400,6,5:00,300,300,Jump Ball won by Florida St,80,80,0,15,0.5,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+401,6,4:45,285,285,Shakayla Thomas made Jumper.,82,80,2,25,0.6568975978012273,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,Florida State
+402,6,4:20,260,260,Joyner Holmes made Layup. Assisted by Brooke McCarty.,82,82,0,16,0.5,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,Texas
+403,6,4:04,244,244,Shakayla Thomas missed Jumper.,82,82,0,0,0.5,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+404,6,4:04,244,244,Lashann Higgs Defensive Rebound.,82,82,0,8,0.5,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+405,6,3:56,236,236,Lashann Higgs missed Layup.,82,82,0,0,0.5,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+406,6,3:56,236,236,Joyner Holmes Offensive Rebound.,82,82,0,0,0.5,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+407,6,3:56,236,236,Joyner Holmes made Two Point Tip Shot.,82,84,-2,15,0.34787389687019926,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,Texas
+408,6,3:41,221,221,Brittany Brown made Layup.,84,84,0,22,0.5,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,Florida State
+409,6,3:19,199,199,Joyner Holmes missed Jumper.,84,84,0,0,0.5,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+410,6,3:19,199,199,Brittany Brown Defensive Rebound.,84,84,0,14,0.5,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+411,6,3:05,185,185,Brittany Brown missed Jumper.,84,84,0,0,0.5,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+412,6,3:05,185,185,Shakayla Thomas Offensive Rebound.,84,84,0,5,0.5,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+413,6,3:00,180,180,Foul on Joyner Holmes.,84,84,0,0,0.5,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+414,6,3:00,180,180,Shakayla Thomas made Free Throw.,85,84,1,0,0.5928488476261798,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,Florida State
+415,6,3:00,180,180,Shakayla Thomas missed Free Throw.,85,84,1,0,0.5928488476261798,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+416,6,3:00,180,180,Jordan Hosey Defensive Rebound.,85,84,1,15,0.5928488476261798,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+417,6,2:45,165,165,Foul on Shakayla Thomas.,85,84,1,0,0.6007101058532888,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+418,6,2:45,165,165,Ariel Atkins made Free Throw.,85,85,0,0,0.5,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,Texas
+419,6,2:45,165,165,Ariel Atkins made Free Throw.,85,86,-1,14,0.39928989414671123,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,Texas
+420,6,2:31,151,151,Maria Conde missed Jumper.,85,86,-1,0,0.3913640805346631,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+421,6,2:31,151,151,Lashann Higgs Defensive Rebound.,85,86,-1,12,0.3913640805346631,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+422,6,2:19,139,139,Brooke McCarty made Layup.,85,88,-3,16,0.19476248248722422,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,Texas
+423,6,2:03,123,123,Foul on Audrey-Ann Caron-Goudreau.,85,88,-3,0,0.1731247203487427,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+424,6,2:03,123,123,Brittany Brown missed Free Throw.,85,88,-3,0,0.1731247203487427,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+425,6,2:03,123,123,Florida St Deadball Team Rebound.,85,88,-3,0,0.1731247203487427,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+426,6,2:03,123,123,Brittany Brown made Free Throw.,86,88,-2,2,0.26068183136052975,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,Florida State
+427,6,2:01,121,121,Foul on Brittany Brown.,86,88,-2,0,0.2581505251704904,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+428,6,2:01,121,121,Brooke McCarty missed Free Throw.,86,88,-2,0,0.2581505251704904,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+429,6,2:01,121,121,Texas Deadball Team Rebound.,86,88,-2,0,0.2581505251704904,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+430,6,2:01,121,121,Brooke McCarty made Free Throw.,86,89,-3,12,0.1703137533646605,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,Texas
+431,6,1:49,109,109,Maria Conde missed Three Point Jumper.,86,89,-3,0,0.1529933903451639,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+432,6,1:49,109,109,Ama Degbeon Offensive Rebound.,86,89,-3,15,0.1529933903451639,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+433,6,1:34,94,94,Shakayla Thomas missed Layup.,86,89,-3,0,0.13049810365327807,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+434,6,1:34,94,94,Shakayla Thomas Offensive Rebound.,86,89,-3,0,0.13049810365327807,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+435,6,1:34,94,94,Foul on Olamide Aborowa.,86,89,-3,0,0.13049810365327807,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+436,6,1:34,94,94,Shakayla Thomas made Free Throw.,87,89,-2,0,0.22022175769551947,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,Florida State
+437,6,1:34,94,94,Shakayla Thomas made Free Throw.,88,89,-1,21,0.34701474582042813,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,Florida State
+438,6,1:13,73,73,Olamide Aborowa made Layup. Assisted by Ariel Atkins.,88,91,-3,6,0.10078481352278258,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,Texas
+439,6,1:07,67,67,Brittany Brown Turnover.,88,91,-3,0,0.09278887469628637,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+440,6,1:07,67,67,Ariel Atkins Steal.,88,91,-3,7,0.09278887469628637,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+441,6,1:00,60,60,Foul on Imani Wright.,88,91,-3,0,0.083919679418152,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+442,6,1:00,60,60,Jordan Hosey missed Free Throw.,88,91,-3,0,0.083919679418152,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+443,6,1:00,60,60,Texas Deadball Team Rebound.,88,91,-3,0,0.083919679418152,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+444,6,1:00,60,60,Jordan Hosey missed Free Throw.,88,91,-3,0,0.083919679418152,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+445,6,1:00,60,60,Brittany Brown Defensive Rebound.,88,91,-3,9,0.083919679418152,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+446,6,0:51,51,51,Maria Conde Turnover.,88,91,-3,0,0.07323887077720914,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+447,6,0:51,51,51,Jordan Hosey Steal.,88,91,-3,35,0.07323887077720914,Florida State,Texas,3,3,0,0,NA,400912190,2017-02-13,
+448,6,0:16,16,16,Lashann Higgs Turnover.,88,91,-3,0,0.039650907899848264,Florida State,Texas,3,3,0,1,NA,400912190,2017-02-13,
+449,6,0:16,16,16,Florida St  Timeout,88,91,-3,0,0.039650907899848264,Florida State,Texas,3,2,0,1,NA,400912190,2017-02-13,
+450,6,0:16,16,16,Official TV Timeout,88,91,-3,4,0.039650907899848264,Florida State,Texas,3,2,0,1,NA,400912190,2017-02-13,
+451,6,0:12,12,12,Imani Wright missed Three Point Jumper.,88,91,-3,0,0.036619526208933564,Florida State,Texas,3,2,0,1,NA,400912190,2017-02-13,
+452,6,0:12,12,12,Florida St Offensive Rebound.,88,91,-3,6,0.036619526208933564,Florida State,Texas,3,2,0,1,NA,400912190,2017-02-13,
+453,6,0:06,6,6,Shakayla Thomas missed Layup.,88,91,-3,0,0.032377959509609616,Florida State,Texas,3,2,0,1,NA,400912190,2017-02-13,
+454,6,0:06,6,6,Jada Underwood Defensive Rebound.,88,91,-3,3,0.032377959509609616,Florida State,Texas,3,2,0,1,NA,400912190,2017-02-13,
+455,6,0:03,3,3,Jump Ball won by Texas,88,91,-3,1,0.030400848236932055,Florida State,Texas,3,2,0,1,NA,400912190,2017-02-13,
+456,6,0:02,2,2,Texas  Timeout,88,91,-3,1,0.029763475716734225,Florida State,Texas,2,2,1,1,NA,400912190,2017-02-13,
+457,6,0:01,1,1,Foul on Imani Wright.,88,91,-3,0,0.029136972928700006,Florida State,Texas,2,2,1,1,NA,400912190,2017-02-13,
+458,6,0:01,1,1,Lashann Higgs missed Free Throw.,88,91,-3,0,0.029136972928700006,Florida State,Texas,2,2,1,1,NA,400912190,2017-02-13,
+459,6,0:01,1,1,Texas Deadball Team Rebound.,88,91,-3,0,0.029136972928700006,Florida State,Texas,2,2,1,1,NA,400912190,2017-02-13,
+460,6,0:01,1,1,Lashann Higgs made Free Throw.,88,92,-4,1,0.00924024840272953,Florida State,Texas,2,2,1,1,NA,400912190,2017-02-13,Texas
+461,6,0:00,0,0,End of Game,88,92,-4,0,1.8048513878454153e-35,Florida State,Texas,2,2,1,1,NA,400912190,2017-02-13,

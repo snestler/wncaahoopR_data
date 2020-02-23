@@ -1,0 +1,331 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:50,2390,2390,Taryn McCutcheon missed Three Point Jumper.,0,0,0,0,0.5,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,NA
+2,1,9:50,2390,2390,Briana Day Defensive Rebound.,0,0,0,12,0.5,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+3,1,9:38,2378,2378,Briana Day Turnover.,0,0,0,1,0.5,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+4,1,9:37,2377,2377,Tori Jankoska Steal.,0,0,0,20,0.5,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+5,1,9:17,2357,2357,Nia Hollie made Jumper. Assisted by Lexi Gussert.,0,2,-2,12,0.4550603542849654,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,Michigan State
+6,1,9:05,2345,2345,Brittney Sykes made Jumper.,2,2,0,11,0.5,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,Syracuse
+7,1,8:54,2334,2334,Nia Hollie Turnover.,2,2,0,1,0.5,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+8,1,8:53,2333,2333,Brittney Sykes Steal.,2,2,0,3,0.5,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+9,1,8:50,2330,2330,Gabrielle Cooper Turnover.,2,2,0,4,0.5,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+10,1,8:46,2326,2326,Taryn McCutcheon made Layup.,2,4,-2,7,0.4543864532488971,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,Michigan State
+11,1,8:39,2319,2319,Briana Day Turnover.,2,4,-2,1,0.45423268255208255,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+12,1,8:38,2318,2318,Foul on Isabella Slim.,2,4,-2,22,0.4542106699426587,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+13,1,8:16,2296,2296,Nia Hollie missed Jumper.,2,4,-2,0,0.4537236562407298,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+14,1,8:16,2296,2296,Briana Day Defensive Rebound.,2,4,-2,13,0.4537236562407298,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+15,1,8:03,2283,2283,Briana Day made Layup. Assisted by Brittney Sykes.,4,4,0,0,0.5,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,Syracuse
+16,1,8:03,2283,2283,Foul on Taya Reimer.,4,4,0,0,0.5,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+17,1,8:03,2283,2283,Briana Day missed Free Throw.,4,4,0,0,0.5,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+18,1,8:03,2283,2283,Tori Jankoska Defensive Rebound.,4,4,0,2,0.5,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+19,1,8:01,2281,2281,Foul on Brittney Sykes.,4,4,0,13,0.5,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+20,1,7:48,2268,2268,Nia Hollie missed Jumper.,4,4,0,0,0.5,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+21,1,7:48,2268,2268,Briana Day Defensive Rebound.,4,4,0,11,0.5,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+22,1,7:37,2257,2257,Gabrielle Cooper missed Three Point Jumper.,4,4,0,0,0.5,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+23,1,7:37,2257,2257,Tori Jankoska Defensive Rebound.,4,4,0,2,0.5,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+24,1,7:35,2255,2255,Tori Jankoska Turnover.,4,4,0,6,0.5,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+25,1,7:29,2249,2249,Brittney Sykes made Three Point Jumper. Assisted by Alexis Peterson.,7,4,3,12,0.5707341011149291,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,Syracuse
+26,1,7:17,2237,2237,Tori Jankoska made Layup. Assisted by Nia Hollie.,7,6,1,13,0.523856604151645,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,Michigan State
+27,1,7:04,2224,2224,Briana Day Turnover.,7,6,1,2,0.5240057934687719,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+28,1,7:02,2222,2222,Taya Reimer Steal.,7,6,1,8,0.5240287954002141,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+29,1,6:54,2214,2214,Foul on Jenna Allen.,7,6,1,0,0.5241209276605919,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+30,1,6:54,2214,2214,Jenna Allen Turnover.,7,6,1,15,0.5241209276605919,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+31,1,6:39,2199,2199,Foul on Lexi Gussert.,7,6,1,4,0.5242941748530289,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+32,1,6:35,2195,2195,Briana Day missed Jumper.,7,6,1,0,0.524340475069187,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+33,1,6:35,2195,2195,Taryn McCutcheon Defensive Rebound.,7,6,1,15,0.524340475069187,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+34,1,6:20,2180,2180,Tori Jankoska made Layup.,7,8,-1,7,0.47548556302100853,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,Michigan State
+35,1,6:13,2173,2173,Briana Day Turnover.,7,8,-1,9,0.47540421675266,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+36,1,6:04,2164,2164,Tori Jankoska missed Three Point Jumper.,7,8,-1,0,0.47529945885834446,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+37,1,6:04,2164,2164,Brittney Sykes Defensive Rebound.,7,8,-1,14,0.47529945885834446,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+38,1,5:50,2150,2150,Alexis Peterson made Layup.,9,8,1,8,0.5248641034247604,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,Syracuse
+39,1,5:42,2142,2142,Brittney Sykes Steal.,9,8,1,1,0.5249579212476474,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+40,1,5:41,2141,2141,Nia Hollie Turnover.,9,8,1,5,0.524969667148936,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+41,1,5:36,2136,2136,Alexis Peterson made Layup.,11,8,3,18,0.5745874139872303,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,Syracuse
+42,1,5:18,2118,2118,Foul on Lexi Gussert.,11,8,3,0,0.5752123586433557,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+43,1,5:18,2118,2118,Lexi Gussert Turnover.,11,8,3,7,0.5752123586433557,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+44,1,5:11,2111,2111,Julia Chandler missed Three Point Jumper.,11,8,3,0,0.5754565017501353,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+45,1,5:11,2111,2111,Bria Day Offensive Rebound.,11,8,3,17,0.5754565017501353,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+46,1,4:54,2094,2094,Official TV Timeout,11,8,3,2,0.5760521465028082,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+47,1,4:52,2092,2092,Abby Grant missed Three Point Jumper.,11,8,3,0,0.5761224842926601,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+48,1,4:52,2092,2092,Julia Chandler Offensive Rebound.,11,8,3,15,0.5761224842926601,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+49,1,4:37,2077,2077,Julia Chandler missed Three Point Jumper.,11,8,3,0,0.5766518461391447,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+50,1,4:37,2077,2077,Syracuse Offensive Rebound.,11,8,3,0,0.5766518461391447,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+51,1,4:37,2077,2077,Foul on Tori Jankoska.,11,8,3,0,0.5766518461391447,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+52,1,4:37,2077,2077,Bria Day made Free Throw.,12,8,4,0,0.6015813413379331,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,Syracuse
+53,1,4:37,2077,2077,Bria Day made Free Throw.,13,8,5,19,0.6259949486257689,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,Syracuse
+54,1,4:18,2058,2058,Branndais Agee made Jumper. Assisted by Taryn McCutcheon.,13,10,3,26,0.5773271924711609,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,Michigan State
+55,1,3:52,2032,2032,Foul on Brittney Sykes.,13,10,3,0,0.5782606531511949,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+56,1,3:52,2032,2032,Brittney Sykes Turnover.,13,10,3,4,0.5782606531511949,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+57,1,3:48,2028,2028,Briana Day Steal.,13,10,3,3,0.5784052642774453,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+58,1,3:45,2025,2025,Victoria Gaines Turnover.,13,10,3,7,0.5785139035461563,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+59,1,3:38,2018,2018,Alexis Peterson Turnover.,13,10,3,0,0.5787680061771149,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+60,1,3:38,2018,2018,Jenna Allen made Layup. Assisted by Tori Jankoska.,13,12,1,28,0.5264517792641368,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,Michigan State
+61,1,3:10,1990,1990,Briana Day missed Jumper.,13,12,1,0,0.5268013541918746,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+62,1,3:10,1990,1990,Branndais Agee Defensive Rebound.,13,12,1,7,0.5268013541918746,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+63,1,3:03,1983,1983,Foul on Gabrielle Cooper.,13,12,1,8,0.5268895638080849,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+64,1,2:55,1975,1975,Branndais Agee made Jumper.,13,14,-1,23,0.47300921094673154,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,Michigan State
+65,1,2:32,1952,1952,Briana Day made Layup.,15,14,1,23,0.5272843498427181,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,Syracuse
+66,1,2:09,1929,1929,Branndais Agee missed Jumper.,15,14,1,0,0.5275818337881809,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+67,1,2:09,1929,1929,Alexis Peterson Defensive Rebound.,15,14,1,11,0.5275818337881809,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+68,1,1:58,1918,1918,Alexis Peterson made Three Point Jumper. Assisted by Isabella Slim.,18,14,4,13,0.6092242995081416,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,Syracuse
+69,1,1:45,1905,1905,Hana Vesela Turnover.,18,14,4,13,0.6098688405376097,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+70,1,1:32,1892,1892,Abby Grant missed Three Point Jumper.,18,14,4,0,0.6105125661400257,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+71,1,1:32,1892,1892,Branndais Agee Defensive Rebound.,18,14,4,15,0.6105125661400257,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+72,1,1:17,1877,1877,Tori Jankoska missed Three Point Jumper.,18,14,4,0,0.6112551617720012,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+73,1,1:17,1877,1877,Taryn McCutcheon Offensive Rebound.,18,14,4,3,0.6112551617720012,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+74,1,1:14,1874,1874,Taryn McCutcheon missed Jumper.,18,14,4,0,0.6114037420503021,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+75,1,1:14,1874,1874,Briana Day Block.,18,14,4,2,0.6114037420503021,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+76,1,1:12,1872,1872,Michigan St Offensive Rebound.,18,14,4,17,0.6115028167141688,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+77,1,0:55,1855,1855,Branndais Agee missed Jumper.,18,14,4,0,0.6123459826550677,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+78,1,0:55,1855,1855,Syracuse Defensive Rebound.,18,14,4,22,0.6123459826550677,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+79,1,0:33,1833,1833,Briana Day made Layup.,20,14,6,14,0.666567988078285,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,Syracuse
+80,1,0:19,1819,1819,Mardrekia Cook Turnover.,20,14,6,0,0.6675533134860241,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+81,1,0:19,1819,1819,Briana Day Steal.,20,14,6,18,0.6675533134860241,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+82,1,0:01,1801,1801,Alexis Peterson missed Layup.,20,14,6,0,0.6688273980094421,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+83,1,0:01,1801,1801,Taya Reimer Block.,20,14,6,0,0.6688273980094421,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+84,1,0:01,1801,1801,Nia Hollie Defensive Rebound.,20,14,6,1,0.6688273980094421,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+85,1,0:00,1800,1800,End of 1st Quarter,20,14,6,7,0.6688984611571205,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+86,2,9:53,1793,1793,Taya Reimer missed Layup.,20,14,6,0,0.6693968273592321,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+87,2,9:53,1793,1793,Tori Jankoska Offensive Rebound.,20,14,6,4,0.6693968273592321,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+88,2,9:49,1789,1789,Tori Jankoska Turnover.,20,14,6,18,0.6696823691968643,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+89,2,9:31,1771,1771,Briana Day missed Jumper.,20,14,6,0,0.6709749166385175,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+90,2,9:31,1771,1771,Nia Hollie Defensive Rebound.,20,14,6,13,0.6709749166385175,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+91,2,9:18,1758,1758,Foul on Tori Jankoska.,20,14,6,0,0.6719170938350044,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+92,2,9:18,1758,1758,Tori Jankoska Turnover.,20,14,6,15,0.6719170938350044,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+93,2,9:03,1743,1743,Julia Chandler missed Three Point Jumper.,20,14,6,0,0.6730145193083277,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+94,2,9:03,1743,1743,Mardrekia Cook Defensive Rebound.,20,14,6,10,0.6730145193083277,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+95,2,8:53,1733,1733,Lexi Gussert missed Jumper.,20,14,6,0,0.6737528815884292,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+96,2,8:53,1733,1733,Alexis Peterson Defensive Rebound.,20,14,6,12,0.6737528815884292,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,
+97,2,8:41,1721,1721,Alexis Peterson made Layup.,22,14,8,4,0.7255915920781181,Syracuse,Michigan State,6,6,0,0,NA,400912010,2016-11-30,Syracuse
+98,2,8:37,1717,1717,Michigan St  Timeout,22,14,8,11,0.725954268266988,Syracuse,Michigan State,6,5,0,1,NA,400912010,2016-11-30,
+99,2,8:26,1706,1706,Lexi Gussert made Three Point Jumper. Assisted by Taryn McCutcheon.,22,17,5,16,0.6484026776117341,Syracuse,Michigan State,6,5,0,1,NA,400912010,2016-11-30,Michigan State
+100,2,8:10,1690,1690,Alexis Peterson missed Three Point Jumper.,22,17,5,0,0.649463002947102,Syracuse,Michigan State,6,5,0,1,NA,400912010,2016-11-30,
+101,2,8:10,1690,1690,Lexi Gussert Defensive Rebound.,22,17,5,7,0.649463002947102,Syracuse,Michigan State,6,5,0,1,NA,400912010,2016-11-30,
+102,2,8:03,1683,1683,Alexis Peterson Steal.,22,17,5,2,0.6499278249081752,Syracuse,Michigan State,6,5,0,1,NA,400912010,2016-11-30,
+103,2,8:01,1681,1681,Lexi Gussert Turnover.,22,17,5,4,0.650059658231716,Syracuse,Michigan State,6,5,0,1,NA,400912010,2016-11-30,
+104,2,7:57,1677,1677,Alexis Peterson made Layup.,24,17,7,12,0.7044620965859179,Syracuse,Michigan State,6,5,0,1,NA,400912010,2016-11-30,Syracuse
+105,2,7:45,1665,1665,Foul on Lexi Gussert.,24,17,7,0,0.705459082202899,Syracuse,Michigan State,6,5,0,1,NA,400912010,2016-11-30,
+106,2,7:45,1665,1665,Lexi Gussert Turnover.,24,17,7,13,0.705459082202899,Syracuse,Michigan State,6,5,0,1,NA,400912010,2016-11-30,
+107,2,7:32,1652,1652,Alexis Peterson missed Layup.,24,17,7,0,0.7065209246414736,Syracuse,Michigan State,6,5,0,0,NA,400912010,2016-11-30,
+108,2,7:32,1652,1652,Julia Chandler Offensive Rebound.,24,17,7,6,0.7065209246414736,Syracuse,Michigan State,6,5,0,0,NA,400912010,2016-11-30,
+109,2,7:26,1646,1646,Julia Chandler missed Three Point Jumper.,24,17,7,0,0.7070055812443901,Syracuse,Michigan State,6,5,0,0,NA,400912010,2016-11-30,
+110,2,7:26,1646,1646,Mardrekia Cook Defensive Rebound.,24,17,7,5,0.7070055812443901,Syracuse,Michigan State,6,5,0,0,NA,400912010,2016-11-30,
+111,2,7:21,1641,1641,Alexis Peterson Steal.,24,17,7,2,0.7074072042519296,Syracuse,Michigan State,6,5,0,0,NA,400912010,2016-11-30,
+112,2,7:19,1639,1639,Mardrekia Cook Turnover.,24,17,7,1,0.7075673281951343,Syracuse,Michigan State,6,5,0,0,NA,400912010,2016-11-30,
+113,2,7:18,1638,1638,Foul on Mardrekia Cook.,24,17,7,7,0.7076472841075874,Syracuse,Michigan State,6,5,0,0,NA,400912010,2016-11-30,
+114,2,7:11,1631,1631,Alexis Peterson missed Jumper.,24,17,7,0,0.7082051469490281,Syracuse,Michigan State,6,5,0,0,NA,400912010,2016-11-30,
+115,2,7:11,1631,1631,Jenna Allen Defensive Rebound.,24,17,7,7,0.7082051469490281,Syracuse,Michigan State,6,5,0,0,NA,400912010,2016-11-30,
+116,2,7:04,1624,1624,Foul on Isabella Slim.,24,17,7,8,0.7087602057337477,Syracuse,Michigan State,6,5,0,0,NA,400912010,2016-11-30,
+117,2,6:56,1616,1616,Foul on Isabella Slim.,24,17,7,8,0.7093918335099042,Syracuse,Michigan State,6,5,0,0,NA,400912010,2016-11-30,
+118,2,6:48,1608,1608,Jenna Allen made Free Throw.,24,18,6,0,0.6829930274655981,Syracuse,Michigan State,6,5,0,0,NA,400912010,2016-11-30,Michigan State
+119,2,6:48,1608,1608,Jenna Allen missed Free Throw.,24,18,6,0,0.6829930274655981,Syracuse,Michigan State,6,5,0,0,NA,400912010,2016-11-30,
+120,2,6:48,1608,1608,Briana Day Defensive Rebound.,24,18,6,28,0.6829930274655981,Syracuse,Michigan State,6,5,0,0,NA,400912010,2016-11-30,
+121,2,6:20,1580,1580,Briana Day missed Jumper.,24,18,6,0,0.684975652249574,Syracuse,Michigan State,6,5,0,0,NA,400912010,2016-11-30,
+122,2,6:20,1580,1580,Nia Hollie Defensive Rebound.,24,18,6,13,0.684975652249574,Syracuse,Michigan State,6,5,0,0,NA,400912010,2016-11-30,
+123,2,6:07,1567,1567,Michigan St  Timeout,24,18,6,6,0.685900757123402,Syracuse,Michigan State,6,4,0,1,NA,400912010,2016-11-30,
+124,2,6:01,1561,1561,Branndais Agee missed Layup.,24,18,6,0,0.6863299741974932,Syracuse,Michigan State,6,4,0,1,NA,400912010,2016-11-30,
+125,2,6:01,1561,1561,Briana Day Block.,24,18,6,3,0.6863299741974932,Syracuse,Michigan State,6,4,0,1,NA,400912010,2016-11-30,
+126,2,5:58,1558,1558,Jade Phillips Defensive Rebound.,24,18,6,4,0.6865452535689954,Syracuse,Michigan State,6,4,0,1,NA,400912010,2016-11-30,
+127,2,5:54,1554,1554,Briana Day Turnover.,24,18,6,23,0.686833073291376,Syracuse,Michigan State,6,4,0,1,NA,400912010,2016-11-30,
+128,2,5:31,1531,1531,Taya Reimer missed Layup.,24,18,6,0,0.6885096717200853,Syracuse,Michigan State,6,4,0,1,NA,400912010,2016-11-30,
+129,2,5:31,1531,1531,Jenna Allen Offensive Rebound.,24,18,6,4,0.6885096717200853,Syracuse,Michigan State,6,4,0,1,NA,400912010,2016-11-30,
+130,2,5:27,1527,1527,Taya Reimer missed Jumper.,24,18,6,0,0.6888057899622507,Syracuse,Michigan State,6,4,0,1,NA,400912010,2016-11-30,
+131,2,5:27,1527,1527,Briana Day Defensive Rebound.,24,18,6,7,0.6888057899622507,Syracuse,Michigan State,6,4,0,1,NA,400912010,2016-11-30,
+132,2,5:20,1520,1520,Jade Phillips missed Three Point Jumper.,24,18,6,0,0.6893278322239026,Syracuse,Michigan State,6,4,0,1,NA,400912010,2016-11-30,
+133,2,5:20,1520,1520,Taryn McCutcheon Defensive Rebound.,24,18,6,6,0.6893278322239026,Syracuse,Michigan State,6,4,0,1,NA,400912010,2016-11-30,
+134,2,5:14,1514,1514,Taryn McCutcheon Turnover.,24,18,6,2,0.6897794849680392,Syracuse,Michigan State,6,4,0,1,NA,400912010,2016-11-30,
+135,2,5:12,1512,1512,Alexis Peterson Steal.,24,18,6,4,0.689930949594193,Syracuse,Michigan State,6,4,0,1,NA,400912010,2016-11-30,
+136,2,5:08,1508,1508,Jade Phillips made Layup. Assisted by Alexis Peterson.,26,18,8,0,0.744272129749334,Syracuse,Michigan State,6,4,0,1,NA,400912010,2016-11-30,Syracuse
+137,2,5:08,1508,1508,Foul on Jenna Allen.,26,18,8,0,0.744272129749334,Syracuse,Michigan State,6,4,0,1,NA,400912010,2016-11-30,
+138,2,5:08,1508,1508,Jade Phillips made Free Throw.,27,18,9,0,0.768850076002686,Syracuse,Michigan State,6,4,0,1,NA,400912010,2016-11-30,Syracuse
+139,2,5:08,1508,1508,Taya Reimer made Layup.,27,20,7,30,0.7180392292216764,Syracuse,Michigan State,6,4,0,1,NA,400912010,2016-11-30,Michigan State
+140,2,4:38,1478,1478,Bria Day missed Layup.,27,20,7,0,0.7206357522671273,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+141,2,4:38,1478,1478,Tori Jankoska Defensive Rebound.,27,20,7,6,0.7206357522671273,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+142,2,4:32,1472,1472,Alexis Peterson Steal.,27,20,7,2,0.7211729305739936,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+143,2,4:30,1470,1470,Tori Jankoska Turnover.,27,20,7,1,0.7213534601655,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+144,2,4:29,1469,1469,Alexis Peterson made Layup.,29,20,9,29,0.7726844457083583,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,Syracuse
+145,2,4:00,1440,1440,Nia Hollie made Layup. Assisted by Branndais Agee.,29,22,7,21,0.7241355910363203,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,Michigan State
+146,2,3:39,1419,1419,Alexis Peterson made Layup.,31,22,9,29,0.7778228419407993,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,Syracuse
+147,2,3:10,1390,1390,Hana Vesela Turnover.,31,22,9,16,0.780623324600082,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+148,2,2:54,1374,1374,Briana Day made Layup. Assisted by Julia Chandler.,33,22,11,8,0.8266625131424961,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,Syracuse
+149,2,2:46,1366,1366,Gabrielle Cooper Steal.,33,22,11,1,0.8274319174538539,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+150,2,2:45,1365,1365,Taryn McCutcheon Turnover.,33,22,11,2,0.8275279234911289,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+151,2,2:43,1363,1363,Julia Chandler missed Three Point Jumper.,33,22,11,0,0.8277198565193068,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+152,2,2:43,1363,1363,Branndais Agee Defensive Rebound.,33,22,11,28,0.8277198565193068,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+153,2,2:15,1335,1335,Taryn McCutcheon missed Three Point Jumper.,33,22,11,0,0.8304090189589292,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+154,2,2:15,1335,1335,Julia Chandler Defensive Rebound.,33,22,11,20,0.8304090189589292,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+155,2,1:55,1315,1315,Briana Day Turnover.,33,22,11,21,0.8323559584413055,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+156,2,1:34,1294,1294,Tori Jankoska missed Three Point Jumper.,33,22,11,0,0.8344520122220275,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+157,2,1:34,1294,1294,Gabrielle Cooper Defensive Rebound.,33,22,11,4,0.8344520122220275,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+158,2,1:30,1290,1290,Foul on Branndais Agee.,33,22,11,1,0.8348593398091166,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+159,2,1:29,1289,1289,Gabrielle Cooper made Free Throw.,34,22,12,0,0.8542822778650606,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,Syracuse
+160,2,1:29,1289,1289,Gabrielle Cooper made Free Throw.,35,22,13,1,0.8716886821967176,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,Syracuse
+161,2,1:28,1288,1288,Taya Reimer Turnover.,35,22,13,19,0.8717869810871067,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+162,2,1:09,1269,1269,Alexis Peterson missed Three Point Jumper.,35,22,13,0,0.873689600708919,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+163,2,1:09,1269,1269,Jade Phillips Offensive Rebound.,35,22,13,4,0.873689600708919,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+164,2,1:05,1265,1265,Julia Chandler made Layup. Assisted by Jade Phillips.,37,22,15,18,0.9034194916919295,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,Syracuse
+165,2,0:47,1247,1247,Michigan St  Turnover.,37,22,15,12,0.9051463499277418,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+166,2,0:35,1235,1235,Jade Phillips missed Three Point Jumper.,37,22,15,0,0.9063366951869211,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+167,2,0:35,1235,1235,Taryn McCutcheon Defensive Rebound.,37,22,15,3,0.9063366951869211,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+168,2,0:32,1232,1232,Taryn McCutcheon Turnover.,37,22,15,7,0.9066395925582915,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+169,2,0:25,1225,1225,Gabrielle Cooper made Three Point Jumper. Assisted by Briana Day.,40,22,18,19,0.9392383754684841,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,Syracuse
+170,2,0:06,1206,1206,Taya Reimer missed Jumper.,40,22,18,0,0.9408643443899586,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+171,2,0:06,1206,1206,Michigan St Offensive Rebound.,40,22,18,3,0.9408643443899586,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+172,2,0:03,1203,1203,Taya Reimer missed Jumper.,40,22,18,0,0.9411198724573197,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+173,2,0:03,1203,1203,Jade Phillips Defensive Rebound.,40,22,18,3,0.9411198724573197,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+174,2,0:00,1200,1200,End of 2nd Quarter,40,22,18,4,0.9413727903516481,Syracuse,Michigan State,6,4,0,0,NA,400912010,2016-11-30,
+175,3,9:56,1196,1196,Nia Hollie Steal.,40,22,18,2,0.9417061190001599,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+176,3,9:54,1194,1194,Isabella Slim Turnover.,40,22,18,21,0.9418711766682772,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+177,3,9:33,1173,1173,Tori Jankoska missed Jumper.,40,22,18,0,0.9435469146784554,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+178,3,9:33,1173,1173,Syracuse Defensive Rebound.,40,22,18,2,0.9435469146784554,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+179,3,9:31,1171,1171,Foul on Nia Hollie.,40,22,18,26,0.943701666646711,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+180,3,9:05,1145,1145,Briana Day missed Layup.,40,22,18,0,0.945654944471552,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+181,3,9:05,1145,1145,Taya Reimer Defensive Rebound.,40,22,18,27,0.945654944471552,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+182,3,8:38,1118,1118,Taryn McCutcheon missed Jumper.,40,22,18,0,0.9476048917677339,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+183,3,8:38,1118,1118,Gabrielle Cooper Block.,40,22,18,0,0.9476048917677339,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+184,3,8:38,1118,1118,Taya Reimer Offensive Rebound.,40,22,18,0,0.9476048917677339,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+185,3,8:38,1118,1118,Michigan St  Turnover.,40,22,18,26,0.9476048917677339,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+186,3,8:12,1092,1092,Brittney Sykes missed Three Point Jumper.,40,22,18,0,0.9494528276010965,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+187,3,8:12,1092,1092,Lexi Gussert Defensive Rebound.,40,22,18,8,0.9494528276010965,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+188,3,8:04,1084,1084,Nia Hollie missed Layup.,40,22,18,0,0.9500217658113838,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+189,3,8:04,1084,1084,Taryn McCutcheon Offensive Rebound.,40,22,18,5,0.9500217658113838,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+190,3,7:59,1079,1079,Taya Reimer made Jumper. Assisted by Tori Jankoska.,40,24,16,25,0.9324144924650302,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,Michigan State
+191,3,7:34,1054,1054,Gabrielle Cooper missed Three Point Jumper.,40,24,16,0,0.9345608199451297,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+192,3,7:34,1054,1054,Tori Jankoska Defensive Rebound.,40,24,16,5,0.9345608199451297,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+193,3,7:29,1049,1049,Foul on Briana Day.,40,24,16,0,0.9349979221023964,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+194,3,7:29,1049,1049,Nia Hollie made Free Throw.,40,25,15,0,0.9241062173624031,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,Michigan State
+195,3,7:29,1049,1049,Nia Hollie missed Free Throw.,40,25,15,0,0.9241062173624031,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+196,3,7:29,1049,1049,Brittney Sykes Defensive Rebound.,40,25,15,9,0.9241062173624031,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+197,3,7:20,1040,1040,Alexis Peterson Turnover.,40,25,15,10,0.9249666739663183,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+198,3,7:10,1030,1030,Foul on Taryn McCutcheon.,40,25,15,0,0.9259386082450141,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+199,3,7:10,1030,1030,Taryn McCutcheon Turnover.,40,25,15,10,0.9259386082450141,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+200,3,7:00,1020,1020,Alexis Peterson missed Jumper.,40,25,15,0,0.9269290697772217,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+201,3,7:00,1020,1020,Michigan St Defensive Rebound.,40,25,15,7,0.9269290697772217,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+202,3,6:53,1013,1013,Tori Jankoska Turnover.,40,25,15,16,0.9276343528681404,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+203,3,6:37,997,997,Briana Day Turnover.,40,25,15,5,0.9292866137634653,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,
+204,3,6:32,992,992,Tori Jankoska made Three Point Jumper.,40,28,12,11,0.8876623312274923,Syracuse,Michigan State,7,5,0,0,NA,400912010,2016-11-30,Michigan State
+205,3,6:21,981,981,Syracuse  Timeout,40,28,12,11,0.8891131806694949,Syracuse,Michigan State,7,4,0,1,NA,400912010,2016-11-30,
+206,3,6:10,970,970,Isabella Slim made Layup.,42,28,14,14,0.9203026949332765,Syracuse,Michigan State,7,4,0,1,NA,400912010,2016-11-30,Syracuse
+207,3,5:56,956,956,Tori Jankoska Turnover.,42,28,14,9,0.9219175970138471,Syracuse,Michigan State,7,4,0,1,NA,400912010,2016-11-30,
+208,3,5:47,947,947,Gabrielle Cooper missed Three Point Jumper.,42,28,14,0,0.9228774252108636,Syracuse,Michigan State,7,4,0,1,NA,400912010,2016-11-30,
+209,3,5:47,947,947,Tori Jankoska Defensive Rebound.,42,28,14,5,0.9228774252108636,Syracuse,Michigan State,7,4,0,1,NA,400912010,2016-11-30,
+210,3,5:42,942,942,Lexi Gussert made Layup. Assisted by Tori Jankoska.,42,30,12,23,0.8941335779887027,Syracuse,Michigan State,7,4,0,1,NA,400912010,2016-11-30,Michigan State
+211,3,5:19,919,919,Foul on Taya Reimer.,42,30,12,13,0.89663256270598,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+212,3,5:06,906,906,Brittney Sykes made Layup.,44,30,14,27,0.9266921508589182,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,Syracuse
+213,3,4:39,879,879,Tori Jankoska made Jumper.,44,32,12,9,0.9005168748844212,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,Michigan State
+214,3,4:30,870,870,Foul on Briana Day.,44,32,12,2,0.9013594103084827,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+215,3,4:28,868,868,Briana Day Turnover.,44,32,12,0,0.9015467106354991,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+216,3,4:28,868,868,Official TV Timeout,44,32,12,13,0.9015467106354991,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+217,3,4:15,855,855,Tori Jankoska missed Jumper.,44,32,12,0,0.9027712557527732,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+218,3,4:15,855,855,Julia Chandler Defensive Rebound.,44,32,12,17,0.9027712557527732,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+219,3,3:58,838,838,Abby Grant missed Three Point Jumper.,44,32,12,0,0.9044128750086295,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+220,3,3:58,838,838,Tori Jankoska Defensive Rebound.,44,32,12,18,0.9044128750086295,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+221,3,3:40,820,820,Tori Jankoska missed Three Point Jumper.,44,32,12,0,0.90623915931459,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+222,3,3:40,820,820,Alexis Peterson Defensive Rebound.,44,32,12,8,0.90623915931459,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+223,3,3:32,812,812,Bria Day made Layup. Assisted by Alexis Peterson.,46,32,14,20,0.9345260216900781,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,Syracuse
+224,3,3:12,792,792,Nia Hollie made Jumper. Assisted by Taya Reimer.,46,34,12,13,0.9093542014647361,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,Michigan State
+225,3,2:59,779,779,Foul on Taryn McCutcheon.,46,34,12,6,0.9109464536577706,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+226,3,2:53,773,773,Alexis Peterson made Layup.,48,34,14,11,0.9384233800228723,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,Syracuse
+227,3,2:42,762,762,Jenna Allen made Layup. Assisted by Tori Jankoska.,48,36,12,15,0.913194607674534,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,Michigan State
+228,3,2:27,747,747,Brittney Sykes missed Jumper.,48,36,12,0,0.915350170230371,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+229,3,2:27,747,747,Abby Grant Offensive Rebound.,48,36,12,18,0.915350170230371,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+230,3,2:09,729,729,Alexis Peterson missed Three Point Jumper.,48,36,12,0,0.9181651143153841,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+231,3,2:09,729,729,Alexis Peterson Offensive Rebound.,48,36,12,17,0.9181651143153841,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+232,3,1:52,712,712,Foul on Jenna Allen.,48,36,12,0,0.920701558958954,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+233,3,1:52,712,712,Alexis Peterson made Free Throw.,49,36,13,0,0.9343947904593823,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,Syracuse
+234,3,1:52,712,712,Alexis Peterson made Free Throw.,50,36,14,16,0.9458625145077194,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,Syracuse
+235,3,1:36,696,696,Taya Reimer missed Jumper.,50,36,14,0,0.9475633579388305,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+236,3,1:36,696,696,Alexis Peterson Defensive Rebound.,50,36,14,8,0.9475633579388305,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+237,3,1:28,688,688,Briana Day made Layup. Assisted by Alexis Peterson.,52,36,16,18,0.9653058534959728,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,Syracuse
+238,3,1:10,670,670,Tori Jankoska Turnover.,52,36,16,12,0.9665921032102474,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+239,3,0:58,658,658,Brittney Sykes made Jumper.,54,36,18,0,0.9784251452837245,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,Syracuse
+240,3,0:58,658,658,Foul on Nia Hollie.,54,36,18,0,0.9784251452837245,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+241,3,0:58,658,658,Brittney Sykes missed Free Throw.,54,36,18,0,0.9784251452837245,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+242,3,0:58,658,658,Jenna Allen Defensive Rebound.,54,36,18,9,0.9784251452837245,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+243,3,0:49,649,649,Nia Hollie made Layup. Assisted by Jenna Allen.,54,38,16,36,0.9680151684313734,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,Michigan State
+244,3,0:13,613,613,Syracuse  Turnover.,54,38,16,11,0.9705338858737247,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+245,3,0:02,602,602,Foul on Briana Day.,54,38,16,0,0.971374394870476,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+246,3,0:02,602,602,Tori Jankoska made Free Throw.,54,39,15,0,0.9645703839050339,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,Michigan State
+247,3,0:02,602,602,Tori Jankoska made Free Throw.,54,40,14,2,0.95622201579507,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,Michigan State
+248,3,0:00,600,600,End of 3rd Quarter,54,40,14,4,0.9564300540713527,Syracuse,Michigan State,7,4,0,0,NA,400912010,2016-11-30,
+249,4,9:56,596,596,Gabrielle Cooper missed Three Point Jumper.,54,40,14,0,0.9568532894020024,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+250,4,9:56,596,596,Michigan St Defensive Rebound.,54,40,14,14,0.9568532894020024,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+251,4,9:42,582,582,Nia Hollie missed Layup.,54,40,14,0,0.9584155841240388,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+252,4,9:42,582,582,Julia Chandler Block.,54,40,14,2,0.9584155841240388,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+253,4,9:40,580,580,Jenna Allen Offensive Rebound.,54,40,14,10,0.9586496993992647,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+254,4,9:30,570,570,Jenna Allen missed Jumper.,54,40,14,0,0.9598638011747642,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+255,4,9:30,570,570,Nia Hollie Offensive Rebound.,54,40,14,4,0.9598638011747642,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+256,4,9:26,566,566,Foul on Gabrielle Cooper.,54,40,14,15,0.9603702930263666,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+257,4,9:11,551,551,Nia Hollie missed Free Throw.,54,40,14,0,0.9623788067306513,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+258,4,9:11,551,551,Michigan St Deadball Team Rebound.,54,40,14,0,0.9623788067306513,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+259,4,9:11,551,551,Nia Hollie made Free Throw.,54,41,13,20,0.9530364131285974,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,Michigan State
+260,4,8:51,531,531,Alexis Peterson missed Three Point Jumper.,54,41,13,0,0.9558696019623595,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+261,4,8:51,531,531,Alexis Peterson Offensive Rebound.,54,41,13,6,0.9558696019623595,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+262,4,8:45,525,525,Julia Chandler missed Three Point Jumper.,54,41,13,0,0.9565868992707252,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+263,4,8:45,525,525,Branndais Agee Defensive Rebound.,54,41,13,7,0.9565868992707252,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+264,4,8:38,518,518,Brittney Sykes Steal.,54,41,13,2,0.9573725938399615,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+265,4,8:36,516,516,Tori Jankoska Turnover.,54,41,13,2,0.9575891284140595,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+266,4,8:34,514,514,Brittney Sykes made Layup. Assisted by Gabrielle Cooper.,56,41,15,10,0.9734712763303898,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,Syracuse
+267,4,8:24,504,504,Branndais Agee made Layup.,56,43,13,22,0.9588406747196484,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,Michigan State
+268,4,8:02,482,482,Julia Chandler made Three Point Jumper. Assisted by Brittney Sykes.,59,43,16,11,0.9810604535101927,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,Syracuse
+269,4,7:51,471,471,Branndais Agee missed Three Point Jumper.,59,43,16,0,0.9818019787070751,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+270,4,7:51,471,471,Bria Day Defensive Rebound.,59,43,16,9,0.9818019787070751,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+271,4,7:42,462,462,Gabrielle Cooper missed Three Point Jumper.,59,43,16,0,0.9824523951484317,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+272,4,7:42,462,462,Tori Jankoska Defensive Rebound.,59,43,16,18,0.9824523951484317,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,
+273,4,7:24,444,444,Tori Jankoska made Three Point Jumper. Assisted by Taryn McCutcheon.,59,46,13,22,0.9658427363824321,Syracuse,Michigan State,8,5,0,0,NA,400912010,2016-11-30,Michigan State
+274,4,7:02,422,422,Syracuse  Timeout,59,46,13,16,0.9693399122132679,Syracuse,Michigan State,8,4,0,1,NA,400912010,2016-11-30,
+275,4,6:46,406,406,Briana Day made Jumper.,61,46,15,24,0.983309221141648,Syracuse,Michigan State,8,4,0,1,NA,400912010,2016-11-30,Syracuse
+276,4,6:22,382,382,Tori Jankoska made Three Point Jumper.,61,49,12,22,0.9666332994397189,Syracuse,Michigan State,8,4,0,1,NA,400912010,2016-11-30,Michigan State
+277,4,6:00,360,360,Alexis Peterson missed Jumper.,61,49,12,0,0.9698638435732789,Syracuse,Michigan State,8,4,0,0,NA,400912010,2016-11-30,
+278,4,6:00,360,360,Tori Jankoska Defensive Rebound.,61,49,12,9,0.9698638435732789,Syracuse,Michigan State,8,4,0,0,NA,400912010,2016-11-30,
+279,4,5:51,351,351,Taryn McCutcheon made Three Point Jumper. Assisted by Tori Jankoska.,61,52,9,32,0.9333874577331753,Syracuse,Michigan State,8,4,0,0,NA,400912010,2016-11-30,Michigan State
+280,4,5:19,319,319,Alexis Peterson missed Layup.,61,52,9,0,0.9427248011395258,Syracuse,Michigan State,8,4,0,0,NA,400912010,2016-11-30,
+281,4,5:19,319,319,Taya Reimer Block.,61,52,9,3,0.9427248011395258,Syracuse,Michigan State,8,4,0,0,NA,400912010,2016-11-30,
+282,4,5:16,316,316,Syracuse Offensive Rebound.,61,52,9,0,0.9437064585719817,Syracuse,Michigan State,8,4,0,0,NA,400912010,2016-11-30,
+283,4,5:16,316,316,Syracuse  Turnover.,61,52,9,4,0.9437064585719817,Syracuse,Michigan State,8,4,0,0,NA,400912010,2016-11-30,
+284,4,5:12,312,312,Tori Jankoska missed Three Point Jumper.,61,52,9,0,0.9450441654596407,Syracuse,Michigan State,8,4,0,0,NA,400912010,2016-11-30,
+285,4,5:12,312,312,Brittney Sykes Defensive Rebound.,61,52,9,7,0.9450441654596407,Syracuse,Michigan State,8,4,0,0,NA,400912010,2016-11-30,
+286,4,5:05,305,305,Alexis Peterson made Layup. Assisted by Brittney Sykes.,63,52,11,7,0.9714721629000286,Syracuse,Michigan State,8,4,0,0,NA,400912010,2016-11-30,Syracuse
+287,4,4:58,298,298,Tori Jankoska made Layup.,63,54,9,29,0.9484314008203744,Syracuse,Michigan State,8,4,0,0,NA,400912010,2016-11-30,Michigan State
+288,4,4:29,269,269,Foul on Taya Reimer.,63,54,9,14,0.9475621241505456,Syracuse,Michigan State,8,4,0,0,NA,400912010,2016-11-30,
+289,4,4:15,255,255,Foul on Taya Reimer.,63,54,9,0,0.9456456714792233,Syracuse,Michigan State,8,4,0,1,NA,400912010,2016-11-30,
+290,4,4:15,255,255,Brittney Sykes made Free Throw.,64,54,10,0,0.9598330642226899,Syracuse,Michigan State,8,4,0,1,NA,400912010,2016-11-30,Syracuse
+291,4,4:15,255,255,Michigan St  Timeout,64,54,10,0,0.9598330642226899,Syracuse,Michigan State,8,3,0,1,NA,400912010,2016-11-30,
+292,4,4:15,255,255,Brittney Sykes made Free Throw.,65,54,11,3,0.9704330931392995,Syracuse,Michigan State,8,3,0,1,NA,400912010,2016-11-30,Syracuse
+293,4,4:12,252,252,Tori Jankoska made Layup. Assisted by Lexi Gussert.,65,56,9,14,0.9452647790870905,Syracuse,Michigan State,8,3,0,1,NA,400912010,2016-11-30,Michigan State
+294,4,3:58,238,238,Brittney Sykes made Layup.,67,56,11,11,0.9694264535328913,Syracuse,Michigan State,8,3,0,1,NA,400912010,2016-11-30,Syracuse
+295,4,3:47,227,227,Michigan St  Timeout,67,56,11,2,0.9697847376827027,Syracuse,Michigan State,8,2,0,1,NA,400912010,2016-11-30,
+296,4,3:45,225,225,Taryn McCutcheon Turnover.,67,56,11,3,0.9699727310056846,Syracuse,Michigan State,8,2,0,1,NA,400912010,2016-11-30,
+297,4,3:42,222,222,Foul on Taryn McCutcheon.,67,56,11,15,0.9703344937271041,Syracuse,Michigan State,8,2,0,1,NA,400912010,2016-11-30,
+298,4,3:27,207,207,Alexis Peterson made Jumper.,69,56,13,7,0.9861672372972891,Syracuse,Michigan State,8,2,0,1,NA,400912010,2016-11-30,Syracuse
+299,4,3:20,200,200,Taya Reimer missed Layup.,69,56,13,0,0.9876627436830433,Syracuse,Michigan State,8,2,0,1,NA,400912010,2016-11-30,
+300,4,3:20,200,200,Briana Day Defensive Rebound.,69,56,13,29,0.9876627436830433,Syracuse,Michigan State,8,2,0,1,NA,400912010,2016-11-30,
+301,4,2:51,171,171,Alexis Peterson made Jumper.,71,56,15,18,0.9973389970570072,Syracuse,Michigan State,8,2,0,1,NA,400912010,2016-11-30,Syracuse
+302,4,2:33,153,153,Lexi Gussert made Three Point Jumper. Assisted by Tori Jankoska.,71,59,12,35,0.9947256040770556,Syracuse,Michigan State,8,2,0,0,NA,400912010,2016-11-30,Michigan State
+303,4,1:58,118,118,Briana Day missed Layup.,71,59,12,0,0.9984304549079724,Syracuse,Michigan State,8,2,0,0,NA,400912010,2016-11-30,
+304,4,1:58,118,118,Lexi Gussert Block.,71,59,12,4,0.9984304549079724,Syracuse,Michigan State,8,2,0,0,NA,400912010,2016-11-30,
+305,4,1:54,114,114,Isabella Slim Offensive Rebound.,71,59,12,1,0.9986736357891554,Syracuse,Michigan State,8,2,0,0,NA,400912010,2016-11-30,
+306,4,1:53,113,113,Isabella Slim made Layup.,73,59,14,13,0.9995815346148199,Syracuse,Michigan State,8,2,0,0,NA,400912010,2016-11-30,Syracuse
+307,4,1:40,100,100,Nia Hollie missed Jumper.,73,59,14,0,0.9997940881866527,Syracuse,Michigan State,8,2,0,0,NA,400912010,2016-11-30,
+308,4,1:40,100,100,Briana Day Defensive Rebound.,73,59,14,26,0.9997940881866527,Syracuse,Michigan State,8,2,0,0,NA,400912010,2016-11-30,
+309,4,1:14,74,74,Alexis Peterson missed Jumper.,73,59,14,0,0.9999606824068065,Syracuse,Michigan State,8,2,0,0,NA,400912010,2016-11-30,
+310,4,1:14,74,74,Michigan St Defensive Rebound.,73,59,14,8,0.9999606824068065,Syracuse,Michigan State,8,2,0,0,NA,400912010,2016-11-30,
+311,4,1:06,66,66,Taryn McCutcheon made Three Point Jumper. Assisted by Tori Jankoska.,73,62,11,6,0.999778987581725,Syracuse,Michigan State,8,2,0,0,NA,400912010,2016-11-30,Michigan State
+312,4,1:00,60,60,Michigan St  Timeout,73,62,11,0,0.9998438016454895,Syracuse,Michigan State,8,1,0,1,NA,400912010,2016-11-30,
+313,4,1:00,60,60,Brittney Sykes Turnover.,73,62,11,0,0.9998438016454895,Syracuse,Michigan State,8,1,0,1,NA,400912010,2016-11-30,
+314,4,1:00,60,60,Foul on Brittney Sykes.,73,62,11,2,0.9998438016454895,Syracuse,Michigan State,8,1,0,1,NA,400912010,2016-11-30,
+315,4,0:58,58,58,Alexis Peterson Steal.,73,62,11,0,0.9998611959028314,Syracuse,Michigan State,8,1,0,1,NA,400912010,2016-11-30,
+316,4,0:58,58,58,Tori Jankoska Turnover.,73,62,11,2,0.9998611959028314,Syracuse,Michigan State,8,1,0,1,NA,400912010,2016-11-30,
+317,4,0:56,56,56,Foul on Taryn McCutcheon.,73,62,11,16,0.9998768093388247,Syracuse,Michigan State,8,1,0,1,NA,400912010,2016-11-30,
+318,4,0:40,40,40,Foul on Taryn McCutcheon.,73,62,11,0,0.9999549738474897,Syracuse,Michigan State,8,1,0,1,NA,400912010,2016-11-30,
+319,4,0:40,40,40,Alexis Peterson made Free Throw.,74,62,12,0,0.9999818724656027,Syracuse,Michigan State,8,1,0,1,NA,400912010,2016-11-30,Syracuse
+320,4,0:40,40,40,Alexis Peterson made Free Throw.,75,62,13,1,0.999992701969758,Syracuse,Michigan State,8,1,0,1,NA,400912010,2016-11-30,Syracuse
+321,4,0:39,39,39,Nia Hollie Turnover.,75,62,13,24,0.9999932509777615,Syracuse,Michigan State,8,1,0,1,NA,400912010,2016-11-30,
+322,4,0:15,15,15,Alexis Peterson missed Layup.,75,62,13,0,0.9999990808919058,Syracuse,Michigan State,8,1,0,1,NA,400912010,2016-11-30,
+323,4,0:15,15,15,Michigan St Defensive Rebound.,75,62,13,11,0.9999990808919058,Syracuse,Michigan State,8,1,0,1,NA,400912010,2016-11-30,
+324,4,0:04,4,4,Branndais Agee missed Three Point Jumper.,75,62,13,0,0.9999996651094031,Syracuse,Michigan State,8,1,0,1,NA,400912010,2016-11-30,
+325,4,0:04,4,4,Jenna Allen Offensive Rebound.,75,62,13,2,0.9999996651094031,Syracuse,Michigan State,8,1,0,1,NA,400912010,2016-11-30,
+326,4,0:02,2,2,Foul on Isabella Slim.,75,62,13,2,0.9999997227790842,Syracuse,Michigan State,8,1,0,1,NA,400912010,2016-11-30,
+327,4,0:00,0,0,Tori Jankoska missed Jumper.,75,62,13,0,1,Syracuse,Michigan State,8,1,0,1,NA,400912010,2016-11-30,
+328,4,0:00,0,0,Jenna Allen Offensive Rebound.,75,62,13,0,1,Syracuse,Michigan State,8,1,0,1,NA,400912010,2016-11-30,
+329,4,0:00,0,0,Jenna Allen made Layup.,75,64,11,0,1,Syracuse,Michigan State,8,1,0,1,NA,400912010,2016-11-30,Michigan State
+330,4,0:00,0,0,End of Game,75,62,13,0,1,Syracuse,Michigan State,8,1,0,1,NA,400912010,2016-11-30,

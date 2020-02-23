@@ -1,0 +1,390 @@
+play_id,period,time_remaining_period,secs_remaining,secs_remaining_absolute,description,home_score,away_score,score_diff,play_length,win_prob,home,away,home_time_out_remaining,away_time_out_remaining,home_timeout_ind,away_timeout_ind,home_favored_by,game_id,date,whichScored
+1,1,9:41,2381,2381,Bridget Carleton made Three Point Jumper. Assisted by TeeTee Starks.,0,0,0,28,0.5,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,NA
+2,1,9:13,2353,2353,Lorna Caesar Turnover.,3,0,3,3,0.5673112256785492,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+3,1,9:10,2350,2350,TeeTee Starks Steal.,3,0,3,3,0.5674075052667423,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+4,1,9:07,2347,2347,Bridget Carleton made Three Point Jumper. Assisted by Jadda Buckley.,6,0,6,29,0.6325911511607476,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+5,1,8:38,2318,2318,Foul on TeeTee Starks.,6,0,6,0,0.6343712353411483,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+6,1,8:38,2318,2318,NaJai Pollard missed Free Throw.,6,0,6,0,0.6343712353411483,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+7,1,8:38,2318,2318,Delaware St Deadball Team Rebound.,6,0,6,0,0.6343712353411483,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+8,1,8:38,2318,2318,NaJai Pollard made Free Throw.,6,1,5,12,0.6128195944209217,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Delaware State
+9,1,8:26,2306,2306,Bridget Carleton made Three Point Jumper. Assisted by Jadda Buckley.,9,1,8,16,0.6767692612211974,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+10,1,8:10,2290,2290,Ivana Negron missed Three Point Jumper.,9,1,8,0,0.6780236603165365,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+11,1,8:10,2290,2290,Jadda Buckley Defensive Rebound.,9,1,8,8,0.6780236603165365,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+12,1,8:02,2282,2282,Bridget Carleton made Three Point Jumper. Assisted by Jadda Buckley.,12,1,11,22,0.7365155328745453,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+13,1,7:40,2260,2260,Ivana Negron Turnover.,12,1,11,16,0.7386405664390885,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+14,1,7:24,2244,2244,Foul on Mikah Aldridge.,12,1,11,0,0.7401900130852703,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+15,1,7:24,2244,2244,Seanna Johnson made Free Throw.,13,1,12,0,0.7580712718551919,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+16,1,7:24,2244,2244,Seanna Johnson made Free Throw.,14,1,13,29,0.7750957980147816,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+17,1,6:55,2215,2215,Mikah Aldridge missed Jumper.,14,1,13,0,0.7781058003547747,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+18,1,6:55,2215,2215,Iowa State Defensive Rebound.,14,1,13,15,0.7781058003547747,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+19,1,6:40,2200,2200,Bridget Carleton missed Three Point Jumper.,14,1,13,0,0.7796606063554253,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+20,1,6:40,2200,2200,Delaware St Defensive Rebound.,14,1,13,19,0.7796606063554253,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+21,1,6:21,2181,2181,NaJai Pollard made Jumper.,14,3,11,8,0.7463025308391327,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Delaware State
+22,1,6:13,2173,2173,Jadda Buckley Turnover.,14,3,11,2,0.7470780366135068,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+23,1,6:11,2171,2171,Mikah Aldridge Steal.,14,3,11,2,0.7472718307362993,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+24,1,6:09,2169,2169,NaJai Pollard made Layup. Assisted by Mikah Aldridge.,14,5,9,11,0.7084447318949123,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Delaware State
+25,1,5:58,2158,2158,Foul on Alycea Sharpe.,14,5,9,0,0.70939967897369,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+26,1,5:58,2158,2158,Seanna Johnson made Free Throw.,15,5,10,0,0.7294104668335407,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+27,1,5:58,2158,2158,Seanna Johnson made Free Throw.,16,5,11,6,0.7485317632752625,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+28,1,5:52,2152,2152,NaJai Pollard made Layup. Assisted by Mikah Aldridge.,16,7,9,22,0.70992126410378,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Delaware State
+29,1,5:30,2130,2130,Seanna Johnson made Three Point Jumper. Assisted by Jadda Buckley.,19,7,12,18,0.7695501479909287,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+30,1,5:12,2112,2112,Mikah Aldridge missed Three Point Jumper.,19,7,12,0,0.771363267842996,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+31,1,5:12,2112,2112,Emily Durr Defensive Rebound.,19,7,12,10,0.771363267842996,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+32,1,5:02,2102,2102,Seanna Johnson missed Three Point Jumper.,19,7,12,0,0.7723717586492889,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+33,1,5:02,2102,2102,Emily Durr Offensive Rebound.,19,7,12,7,0.7723717586492889,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+34,1,4:55,2095,2095,Bridget Carleton missed Three Point Jumper.,19,7,12,0,0.7730782862358634,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+35,1,4:55,2095,2095,Emily Durr Offensive Rebound.,19,7,12,2,0.7730782862358634,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+36,1,4:53,2093,2093,TeeTee Starks missed Jumper.,19,7,12,0,0.7732802455087854,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+37,1,4:53,2093,2093,NaJai Pollard Block.,19,7,12,1,0.7732802455087854,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+38,1,4:52,2092,2092,Emily Durr Offensive Rebound.,19,7,12,0,0.7733812413668243,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+39,1,4:52,2092,2092,Official TV Timeout,19,7,12,0,0.7733812413668243,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+40,1,4:52,2092,2092,Foul on Mikah Aldridge.,19,7,12,0,0.7733812413668243,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+41,1,4:52,2092,2092,Emily Durr made Free Throw.,20,7,13,0,0.7908067088453308,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+42,1,4:52,2092,2092,Emily Durr made Free Throw.,21,7,14,15,0.8072262596015933,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+43,1,4:37,2077,2077,Mikah Aldridge missed Three Point Jumper.,21,7,14,0,0.8087957824928493,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+44,1,4:37,2077,2077,Iowa State Defensive Rebound.,21,7,14,10,0.8087957824928493,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+45,1,4:27,2067,2067,Heather Bowe missed Jumper.,21,7,14,0,0.8098424265601665,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+46,1,4:27,2067,2067,NaJai Pollard Block.,21,7,14,0,0.8098424265601665,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+47,1,4:27,2067,2067,Iowa State Offensive Rebound.,21,7,14,3,0.8098424265601665,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+48,1,4:24,2064,2064,Emily Durr missed Three Point Jumper.,21,7,14,0,0.8101564828739843,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+49,1,4:24,2064,2064,Delaware St Defensive Rebound.,21,7,14,22,0.8101564828739843,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+50,1,4:02,2042,2042,Foul on Taylor Sparks-Faulkner.,21,7,14,0,0.8124607419867076,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+51,1,4:02,2042,2042,Taylor Sparks-Faulkner Turnover.,21,7,14,11,0.8124607419867076,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+52,1,3:51,2031,2031,Bridget Carleton missed Three Point Jumper.,21,7,14,0,0.813613840379279,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+53,1,3:51,2031,2031,Lanayjha Ashe Defensive Rebound.,21,7,14,9,0.813613840379279,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+54,1,3:42,2022,2022,Lanayjha Ashe missed Three Point Jumper.,21,7,14,0,0.8145578714907182,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+55,1,3:42,2022,2022,Heather Bowe Defensive Rebound.,21,7,14,13,0.8145578714907182,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+56,1,3:29,2009,2009,Emily Durr missed Three Point Jumper.,21,7,14,0,0.815922532142314,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+57,1,3:29,2009,2009,Bridget Carleton Offensive Rebound.,21,7,14,13,0.815922532142314,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+58,1,3:16,1996,1996,Seanna Johnson missed Jumper.,21,7,14,0,0.8172885997305204,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+59,1,3:16,1996,1996,Taylor Sparks-Faulkner Defensive Rebound.,21,7,14,6,0.8172885997305204,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+60,1,3:10,1990,1990,Mikah Aldridge missed Jumper.,21,7,14,0,0.817919612877884,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+61,1,3:10,1990,1990,Jadda Buckley Defensive Rebound.,21,7,14,11,0.817919612877884,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+62,1,2:59,1979,1979,Jadda Buckley missed Three Point Jumper.,21,7,14,0,0.8190773919257426,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+63,1,2:59,1979,1979,Seanna Johnson Offensive Rebound.,21,7,14,4,0.8190773919257426,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+64,1,2:55,1975,1975,Seanna Johnson missed Jumper.,21,7,14,0,0.8194987129867038,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+65,1,2:55,1975,1975,NaJai Pollard Defensive Rebound.,21,7,14,7,0.8194987129867038,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+66,1,2:48,1968,1968,Genell Addison made Layup.,21,9,12,4,0.7860200856879117,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Delaware State
+67,1,2:44,1964,1964,Foul on NaJai Pollard.,21,9,12,0,0.7864325868876402,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+68,1,2:44,1964,1964,Jadda Buckley made Free Throw.,22,9,13,0,0.8041101908502446,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+69,1,2:44,1964,1964,Jadda Buckley made Free Throw.,23,9,14,4,0.8206582486384456,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+70,1,2:40,1960,1960,Kia Abrams Turnover.,23,9,14,2,0.8210802388413502,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+71,1,2:38,1958,1958,TeeTee Starks Steal.,23,9,14,8,0.8212913043265804,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+72,1,2:30,1950,1950,Bridget Carleton missed Three Point Jumper.,23,9,14,0,0.8221360473083736,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+73,1,2:30,1950,1950,Emily Durr Offensive Rebound.,23,9,14,3,0.8221360473083736,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+74,1,2:27,1947,1947,Emily Durr missed Jumper.,23,9,14,0,0.822453028800462,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+75,1,2:27,1947,1947,Lanayjha Ashe Defensive Rebound.,23,9,14,29,0.822453028800462,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+76,1,1:58,1918,1918,Lorna Caesar missed Three Point Jumper.,23,9,14,0,0.8255173094705079,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+77,1,1:58,1918,1918,Iowa State Defensive Rebound.,23,9,14,23,0.8255173094705079,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+78,1,1:35,1895,1895,Adriana Camber Turnover.,23,9,14,2,0.8279189431701395,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+79,1,1:33,1893,1893,Mikah Aldridge Steal.,23,9,14,12,0.828126451104473,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+80,1,1:21,1881,1881,NaJai Pollard missed Jumper.,23,9,14,0,0.8293676838172646,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+81,1,1:21,1881,1881,Adriana Camber Defensive Rebound.,23,9,14,8,0.8293676838172646,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+82,1,1:13,1873,1873,Meredith Burkhall made Layup. Assisted by Nia Washington.,25,9,16,16,0.8598085151291883,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+83,1,0:57,1857,1857,Kia Abrams made Three Point Jumper. Assisted by Lorna Caesar.,25,12,13,18,0.8152496620533392,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Delaware State
+84,1,0:39,1839,1839,TeeTee Starks Turnover.,25,12,13,1,0.8170897294429612,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+85,1,0:38,1838,1838,Mikah Aldridge Steal.,25,12,13,4,0.8171918344909818,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+86,1,0:34,1834,1834,Mikah Aldridge made Layup.,25,14,11,0,0.780636005156229,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Delaware State
+87,1,0:34,1834,1834,Foul on Adriana Camber.,25,14,11,0,0.780636005156229,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+88,1,0:34,1834,1834,Mikah Aldridge made Free Throw.,25,15,10,11,0.7602368891737407,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Delaware State
+89,1,0:23,1823,1823,Jadda Buckley made Three Point Jumper. Assisted by TeeTee Starks.,28,15,13,16,0.8187226519709173,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+90,1,0:07,1807,1807,NaJai Pollard missed Jumper.,28,15,13,0,0.8203554185147917,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+91,1,0:07,1807,1807,Meredith Burkhall Block.,28,15,13,1,0.8203554185147917,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+92,1,0:06,1806,1806,TeeTee Starks Defensive Rebound.,28,15,13,6,0.8204575121201051,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+93,1,0:00,1800,1800,Jadda Buckley missed Three Point Jumper.,28,15,13,0,0.8210702725954647,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+94,1,0:00,1800,1800,Meredith Burkhall Offensive Rebound.,28,15,13,0,0.8210702725954647,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+95,1,0:00,1800,1800,End of 1st Quarter,28,15,13,11,0.8210702725954647,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+96,2,9:49,1789,1789,Foul on Meredith Burkhall.,28,15,13,13,0.8221948465285511,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+97,2,9:36,1776,1776,Kia Abrams Turnover.,28,15,13,9,0.8235266624299801,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+98,2,9:27,1767,1767,Bridget Carleton missed Layup.,28,15,13,0,0.824451000140608,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+99,2,9:27,1767,1767,Kia Abrams Defensive Rebound.,28,15,13,6,0.824451000140608,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+100,2,9:21,1761,1761,Lorna Caesar Turnover.,28,15,13,11,0.8250684838659322,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+101,2,9:10,1750,1750,Bridget Carleton missed Three Point Jumper.,28,15,13,0,0.8262035449429639,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+102,2,9:10,1750,1750,Seanna Johnson Offensive Rebound.,28,15,13,10,0.8262035449429639,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+103,2,9:00,1740,1740,Meredith Burkhall missed Jumper.,28,15,13,0,0.8272392443455601,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+104,2,9:00,1740,1740,Lanayjha Ashe Defensive Rebound.,28,15,13,5,0.8272392443455601,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+105,2,8:55,1735,1735,Lanayjha Ashe Turnover.,28,15,13,0,0.8277586115554189,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+106,2,8:55,1735,1735,Emily Durr Steal.,28,15,13,13,0.8277586115554189,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+107,2,8:42,1722,1722,Seanna Johnson made Layup. Assisted by Emily Durr.,30,15,15,18,0.8608468164940748,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+108,2,8:24,1704,1704,Foul on Emily Durr.,30,15,15,8,0.8626893278846566,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+109,2,8:16,1696,1696,Mikah Aldridge missed Three Point Jumper.,30,15,15,0,0.863512448924702,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+110,2,8:16,1696,1696,Iowa State Defensive Rebound.,30,15,15,10,0.863512448924702,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+111,2,8:06,1686,1686,Bridget Carleton made Layup. Assisted by Seanna Johnson.,32,15,17,19,0.8909700365079793,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+112,2,7:47,1667,1667,Kia Abrams missed Three Point Jumper.,32,15,17,0,0.8927612439285438,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+113,2,7:47,1667,1667,NaJai Pollard Offensive Rebound.,32,15,17,3,0.8927612439285438,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+114,2,7:44,1664,1664,NaJai Pollard made Jumper.,32,17,15,10,0.8667457156840821,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Delaware State
+115,2,7:34,1654,1654,Foul on Alycea Sharpe.,32,17,15,8,0.8677170993383851,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+116,2,7:26,1646,1646,Emily Durr made Three Point Jumper. Assisted by Bridget Carleton.,35,17,18,23,0.9059478950652551,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+117,2,7:03,1623,1623,Alycea Sharpe made Three Point Jumper. Assisted by Mikah Aldridge.,35,20,15,10,0.8706383452188391,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Delaware State
+118,2,6:53,1613,1613,Emily Durr Turnover.,35,20,15,2,0.8715586899342295,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+119,2,6:51,1611,1611,Alycea Sharpe Steal.,35,20,15,2,0.871741808905659,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+120,2,6:49,1609,1609,Foul on Kia Abrams.,35,20,15,0,0.8719246468724088,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+121,2,6:49,1609,1609,Kia Abrams Turnover.,35,20,15,9,0.8719246468724088,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+122,2,6:40,1600,1600,TeeTee Starks Turnover.,35,20,15,3,0.8727443444084161,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+123,2,6:37,1597,1597,NaJai Pollard Steal.,35,20,15,4,0.8730166161004366,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+124,2,6:33,1593,1593,NaJai Pollard Turnover.,35,20,15,18,0.8733790355493712,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+125,2,6:15,1575,1575,Jadda Buckley missed Three Point Jumper.,35,20,15,0,0.8750042867853035,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+126,2,6:15,1575,1575,Heather Bowe Offensive Rebound.,35,20,15,13,0.8750042867853035,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+127,2,6:02,1562,1562,Seanna Johnson missed Jumper.,35,20,15,0,0.8761764949103475,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+128,2,6:02,1562,1562,Delaware St Defensive Rebound.,35,20,15,14,0.8761764949103475,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+129,2,5:48,1548,1548,Alyn Sankar Turnover.,35,20,15,6,0.8774422387029605,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+130,2,5:42,1542,1542,Jadda Buckley Steal.,35,20,15,2,0.877986860666069,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+131,2,5:40,1540,1540,Jadda Buckley Turnover.,35,20,15,1,0.8781687840881437,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+132,2,5:39,1539,1539,Alyn Sankar Steal.,35,20,15,3,0.8782598247151677,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+133,2,5:36,1536,1536,Foul on Lorna Caesar.,35,20,15,0,0.87853328115245,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+134,2,5:36,1536,1536,Lorna Caesar Turnover.,35,20,15,13,0.87853328115245,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+135,2,5:23,1523,1523,Seanna Johnson made Jumper. Assisted by Emily Durr.,37,20,17,14,0.905092872815211,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+136,2,5:09,1509,1509,Lorna Caesar missed Jumper.,37,20,17,0,0.9062863656414025,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+137,2,5:09,1509,1509,Seanna Johnson Defensive Rebound.,37,20,17,7,0.9062863656414025,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+138,2,5:02,1502,1502,Bridget Carleton missed Three Point Jumper.,37,20,17,0,0.9068887318551718,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+139,2,5:02,1502,1502,TeeTee Starks Offensive Rebound.,37,20,17,2,0.9068887318551718,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+140,2,5:00,1500,1500,TeeTee Starks missed Jumper.,37,20,17,0,0.9070616118078695,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+141,2,5:00,1500,1500,Kia Abrams Defensive Rebound.,37,20,17,9,0.9070616118078695,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+142,2,4:51,1491,1491,Mikah Aldridge missed Jumper.,37,20,17,0,0.9078441981082489,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+143,2,4:51,1491,1491,Bridget Carleton Defensive Rebound.,37,20,17,10,0.9078441981082489,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+144,2,4:41,1481,1481,Foul on Alyn Sankar.,37,20,17,0,0.9087234026773174,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+145,2,4:41,1481,1481,Official TV Timeout,37,20,17,0,0.9087234026773174,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+146,2,4:41,1481,1481,TeeTee Starks made Free Throw.,38,20,18,0,0.9193339324735819,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+147,2,4:41,1481,1481,TeeTee Starks made Free Throw.,39,20,19,12,0.9288076626786541,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+148,2,4:29,1469,1469,NaJai Pollard made Jumper. Assisted by Lorna Caesar.,39,22,17,10,0.9097934223139652,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Delaware State
+149,2,4:19,1459,1459,Emily Durr Turnover.,39,22,17,21,0.9106988432107077,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+150,2,3:58,1438,1438,Alyn Sankar made Jumper.,39,24,15,16,0.8879509918156145,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Delaware State
+151,2,3:42,1422,1422,Emily Durr Turnover.,39,24,15,2,0.8894867103527825,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+152,2,3:40,1420,1420,Lorna Caesar Steal.,39,24,15,2,0.8896744097297317,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+153,2,3:38,1418,1418,Lorna Caesar missed Jumper.,39,24,15,0,0.8898612492223095,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+154,2,3:38,1418,1418,Emily Durr Defensive Rebound.,39,24,15,7,0.8898612492223095,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+155,2,3:31,1411,1411,Heather Bowe missed Jumper.,39,24,15,0,0.8905087895454404,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+156,2,3:31,1411,1411,NaJai Pollard Block.,39,24,15,2,0.8905087895454404,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+157,2,3:29,1409,1409,Kia Abrams Defensive Rebound.,39,24,15,14,0.8906920788696207,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+158,2,3:15,1395,1395,Mikah Aldridge missed Three Point Jumper.,39,24,15,0,0.8919563760960423,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+159,2,3:15,1395,1395,Emily Durr Defensive Rebound.,39,24,15,9,0.8919563760960423,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+160,2,3:06,1386,1386,Bridget Carleton missed Jumper.,39,24,15,0,0.8927544869269404,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+161,2,3:06,1386,1386,Heather Bowe Offensive Rebound.,39,24,15,5,0.8927544869269404,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+162,2,3:01,1381,1381,Foul on Lorna Caesar.,39,24,15,0,0.8931939117241492,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+163,2,3:01,1381,1381,Bridget Carleton made Free Throw.,40,24,16,0,0.9059684988002445,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+164,2,3:01,1381,1381,Bridget Carleton made Free Throw.,41,24,17,13,0.9173565470536373,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+165,2,2:48,1368,1368,Alyn Sankar missed Jumper.,41,24,17,0,0.9183754143886579,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+166,2,2:48,1368,1368,TeeTee Starks Defensive Rebound.,41,24,17,8,0.9183754143886579,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+167,2,2:40,1360,1360,TeeTee Starks missed Jumper.,41,24,17,0,0.9189967423828931,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+168,2,2:40,1360,1360,Alyn Sankar Block.,41,24,17,0,0.9189967423828931,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+169,2,2:40,1360,1360,Iowa State Offensive Rebound.,41,24,17,5,0.9189967423828931,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+170,2,2:35,1355,1355,Foul on Alyn Sankar.,41,24,17,0,0.9193835908060334,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+171,2,2:35,1355,1355,Jadda Buckley made Free Throw.,42,24,18,0,0.9293782577113147,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+172,2,2:35,1355,1355,Jadda Buckley made Free Throw.,43,24,19,15,0.9382170743944992,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+173,2,2:20,1340,1340,Lanayjha Ashe Turnover.,43,24,19,1,0.9392273844225123,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+174,2,2:19,1339,1339,Bridget Carleton Steal.,43,24,19,6,0.9392946153264501,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+175,2,2:13,1333,1333,Bridget Carleton missed Three Point Jumper.,43,24,19,0,0.9396979876292715,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+176,2,2:13,1333,1333,NaJai Pollard Defensive Rebound.,43,24,19,0,0.9396979876292715,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+177,2,2:13,1333,1333,Foul on Meredith Burkhall.,43,24,19,11,0.9396979876292715,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+178,2,2:02,1322,1322,Mikah Aldridge made Layup.,43,26,17,0,0.9219312565237829,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Delaware State
+179,2,2:02,1322,1322,Foul on Bridget Carleton.,43,26,17,0,0.9219312565237829,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+180,2,2:02,1322,1322,Mikah Aldridge made Free Throw.,43,27,16,12,0.9108170851309222,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Delaware State
+181,2,1:50,1310,1310,Foul on Genell Addison.,43,27,16,0,0.9118099246608612,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+182,2,1:50,1310,1310,Jadda Buckley made Free Throw.,44,27,17,0,0.9228655240701619,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+183,2,1:50,1310,1310,Jadda Buckley made Free Throw.,45,27,18,13,0.9326375722350397,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+184,2,1:37,1297,1297,Alycea Sharpe missed Three Point Jumper.,45,27,18,0,0.9335935692060681,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+185,2,1:37,1297,1297,TeeTee Starks Defensive Rebound.,45,27,18,14,0.9335935692060681,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+186,2,1:23,1283,1283,Seanna Johnson missed Three Point Jumper.,45,27,18,0,0.9346389271010077,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+187,2,1:23,1283,1283,TeeTee Starks Offensive Rebound.,45,27,18,8,0.9346389271010077,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+188,2,1:15,1275,1275,Seanna Johnson missed Jumper.,45,27,18,0,0.9352453980756821,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+189,2,1:15,1275,1275,Seanna Johnson Offensive Rebound.,45,27,18,0,0.9352453980756821,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+190,2,1:15,1275,1275,Foul on Genell Addison.,45,27,18,0,0.9352453980756821,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+191,2,1:15,1275,1275,Seanna Johnson missed Free Throw.,45,27,18,0,0.9352453980756821,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+192,2,1:15,1275,1275,Iowa State Deadball Team Rebound.,45,27,18,0,0.9352453980756821,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+193,2,1:15,1275,1275,Seanna Johnson missed Free Throw.,45,27,18,0,0.9352453980756821,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+194,2,1:15,1275,1275,NaJai Pollard Defensive Rebound.,45,27,18,14,0.9352453980756821,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+195,2,1:01,1261,1261,Mikah Aldridge missed Jumper.,45,27,18,0,0.9363256311039004,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+196,2,1:01,1261,1261,Jadda Buckley Defensive Rebound.,45,27,18,16,0.9363256311039004,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+197,2,0:45,1245,1245,TeeTee Starks made Three Point Jumper. Assisted by Jadda Buckley.,48,27,21,14,0.9593503734100041,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+198,2,0:31,1231,1231,Mikah Aldridge made Three Point Jumper.,48,30,18,24,0.9387377438242193,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Delaware State
+199,2,0:07,1207,1207,Jadda Buckley made Free Throw.,50,30,20,0,0.9557522299708612,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+200,2,0:07,1207,1207,Jadda Buckley made Free Throw.,49,30,19,0,0.948780591703705,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+201,2,0:07,1207,1207,Foul on Alycea Sharpe.,49,30,19,7,0.948780591703705,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,
+202,2,0:00,1200,1200,End of 2nd Quarter,50,30,20,11,0.9562530359229152,Iowa State,Delaware State,4,4,0,0,NA,400905218,2016-12-18,Iowa State
+203,3,9:49,1189,1189,Meredith Burkhall made Layup. Assisted by Seanna Johnson.,52,30,22,16,0.9681171220652348,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,Iowa State
+204,3,9:33,1173,1173,NaJai Pollard Turnover.,52,30,22,15,0.9689936608212174,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+205,3,9:18,1158,1158,Meredith Burkhall missed Jumper.,52,30,22,0,0.9697799472991165,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+206,3,9:18,1158,1158,Jadda Buckley Offensive Rebound.,52,30,22,13,0.9697799472991165,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+207,3,9:05,1145,1145,Meredith Burkhall Turnover.,52,30,22,0,0.9704394197172046,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+208,3,9:05,1145,1145,NaJai Pollard Steal.,52,30,22,13,0.9704394197172046,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+209,3,8:52,1132,1132,NaJai Pollard missed Jumper.,52,30,22,0,0.9710830813102537,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+210,3,8:52,1132,1132,Bridget Carleton Defensive Rebound.,52,30,22,6,0.9710830813102537,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+211,3,8:46,1126,1126,Seanna Johnson made Layup. Assisted by Bridget Carleton.,54,30,24,26,0.9790587811856527,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,Iowa State
+212,3,8:20,1100,1100,Alycea Sharpe missed Jumper.,54,30,24,0,0.9800611006018464,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+213,3,8:20,1100,1100,Seanna Johnson Defensive Rebound.,54,30,24,11,0.9800611006018464,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+214,3,8:09,1089,1089,Jadda Buckley missed Three Point Jumper.,54,30,24,0,0.9804794323792312,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+215,3,8:09,1089,1089,TeeTee Starks missed Free Throw.,54,30,24,0,0.9804794323792312,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+216,3,8:09,1089,1089,Meredith Burkhall Offensive Rebound.,54,30,24,0,0.9804794323792312,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+217,3,8:09,1089,1089,Iowa State Deadball Team Rebound.,54,30,24,0,0.9804794323792312,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+218,3,8:09,1089,1089,TeeTee Starks missed Free Throw.,54,30,24,0,0.9804794323792312,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+219,3,8:09,1089,1089,Alycea Sharpe Defensive Rebound.,54,30,24,14,0.9804794323792312,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+220,3,7:55,1075,1075,Alycea Sharpe missed Jumper.,54,30,24,0,0.9810102307981687,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+221,3,7:55,1075,1075,Jadda Buckley Defensive Rebound.,54,30,24,17,0.9810102307981687,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+222,3,7:38,1058,1058,Seanna Johnson made Jumper. Assisted by Jadda Buckley.,56,30,26,8,0.9867653104518721,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,Iowa State
+223,3,7:30,1050,1050,Mikah Aldridge made Three Point Jumper.,56,33,23,11,0.9787617105367651,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,Delaware State
+224,3,7:19,1039,1039,Meredith Burkhall Turnover.,56,33,23,15,0.9792369124755377,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+225,3,7:04,1024,1024,Alyn Sankar missed Jumper.,56,33,23,0,0.9798925369749547,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+226,3,7:04,1024,1024,Meredith Burkhall Defensive Rebound.,56,33,23,6,0.9798925369749547,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+227,3,6:58,1018,1018,Seanna Johnson made Layup. Assisted by Jadda Buckley.,58,33,25,22,0.9857832633718954,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,Iowa State
+228,3,6:36,996,996,Alycea Sharpe made Jumper.,58,35,23,14,0.9811458814709807,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,Delaware State
+229,3,6:22,982,982,Bridget Carleton made Layup.,60,35,25,12,0.9870558353011857,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,Iowa State
+230,3,6:10,970,970,Alyn Sankar made Jumper.,60,37,23,9,0.9823497170238212,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,Delaware State
+231,3,6:01,961,961,TeeTee Starks Turnover.,60,37,23,17,0.9827577519069488,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+232,3,5:44,944,944,Mikah Aldridge missed Three Point Jumper.,60,37,23,2,0.9834528783462065,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+233,3,5:42,942,942,Bridget Carleton Defensive Rebound.,60,37,23,8,0.9835290293988016,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+234,3,5:34,934,934,Meredith Burkhall made Jumper.,62,37,25,10,0.9886271522748971,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,Iowa State
+235,3,5:24,924,924,Mikah Aldridge missed Layup.,62,37,25,1,0.9888937120657645,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+236,3,5:23,923,923,Meredith Burkhall Defensive Rebound.,62,37,25,6,0.988919484383033,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+237,3,5:17,917,917,Emily Durr missed Three Point Jumper.,62,37,25,3,0.9890711000483408,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+238,3,5:14,914,914,Seanna Johnson Offensive Rebound.,62,37,25,1,0.9891450964347218,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+239,3,5:13,913,913,Foul on NaJai Pollard.,62,37,25,1,0.9891695121846155,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+240,3,5:12,912,912,Seanna Johnson missed Free Throw.,62,37,25,0,0.9891938076343697,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+241,3,5:12,912,912,Iowa State Deadball Team Rebound.,62,37,25,0,0.9891938076343697,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+242,3,5:12,912,912,Seanna Johnson made Free Throw.,63,37,26,9,0.9909638224162356,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,Iowa State
+243,3,5:03,903,903,NaJai Pollard missed Jumper.,63,37,26,0,0.9911499052468191,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+244,3,5:03,903,903,Heather Bowe Defensive Rebound.,63,37,26,4,0.9911499052468191,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+245,3,4:59,899,899,Foul on Mikah Aldridge.,63,37,26,15,0.9912303274886618,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+246,3,4:44,884,884,Foul on Bridget Carleton.,63,37,26,0,0.9915222428698588,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+247,3,4:44,884,884,Bridget Carleton Turnover.,63,37,26,12,0.9915222428698588,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+248,3,4:32,872,872,Mikah Aldridge Turnover.,63,37,26,31,0.9917480652180548,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+249,3,4:01,841,841,Jadda Buckley missed Jumper.,63,37,26,0,0.9923218326278259,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+250,3,4:01,841,841,Seanna Johnson Offensive Rebound.,63,37,26,9,0.9923218326278259,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+251,3,3:52,832,832,Iowa State  Turnover.,63,37,26,4,0.9924903849026557,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+252,3,3:48,828,828,Foul on Heather Bowe.,63,37,26,0,0.9925660613955389,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+253,3,3:48,828,828,NaJai Pollard made Free Throw.,63,38,25,0,0.9910401169832516,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,Delaware State
+254,3,3:48,828,828,NaJai Pollard made Free Throw.,63,39,24,14,0.9892043529091167,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,Delaware State
+255,3,3:34,814,814,Emily Durr missed Three Point Jumper.,63,39,24,0,0.9895652722189744,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+256,3,3:34,814,814,NaJai Pollard Defensive Rebound.,63,39,24,9,0.9895652722189744,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+257,3,3:25,805,805,Mikah Aldridge missed Three Point Jumper.,63,39,24,0,0.989804382983282,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+258,3,3:25,805,805,Seanna Johnson Defensive Rebound.,63,39,24,9,0.989804382983282,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+259,3,3:16,796,796,Seanna Johnson missed Jumper.,63,39,24,0,0.9900499653720692,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+260,3,3:16,796,796,Iowa State Offensive Rebound.,63,39,24,3,0.9900499653720692,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+261,3,3:13,793,793,Seanna Johnson made Jumper. Assisted by Nia Washington.,65,39,26,15,0.9932587020537241,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,Iowa State
+262,3,2:58,778,778,Foul on Adriana Camber.,65,39,26,12,0.9935769853696119,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+263,3,2:46,766,766,Kia Abrams Turnover.,65,39,26,2,0.9938422490769864,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+264,3,2:44,764,764,Heather Bowe Steal.,65,39,26,3,0.9938873956460458,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+265,3,2:41,761,761,Seanna Johnson made Layup. Assisted by Emily Durr.,67,39,28,21,0.9959098202519792,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,Iowa State
+266,3,2:20,740,740,Foul on Nia Washington.,67,39,28,3,0.9962692442782607,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+267,3,2:17,737,737,Lanayjha Ashe Turnover.,67,39,28,2,0.996322000804926,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+268,3,2:15,735,735,Adriana Camber Steal.,67,39,28,3,0.9963573499521521,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+269,3,2:12,732,732,Emily Durr made Layup. Assisted by Adriana Camber.,69,39,30,22,0.9975956133947309,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,Iowa State
+270,3,1:50,710,710,Kia Abrams missed Three Point Jumper.,69,39,30,0,0.9978480098416498,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+271,3,1:50,710,710,Mikah Aldridge Offensive Rebound.,69,39,30,7,0.9978480098416498,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+272,3,1:43,703,703,Mikah Aldridge missed Three Point Jumper.,69,39,30,0,0.9979157256494856,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+273,3,1:43,703,703,Seanna Johnson Defensive Rebound.,69,39,30,9,0.9979157256494856,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+274,3,1:34,694,694,Adriana Camber made Layup.,71,39,32,15,0.9986745704855544,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,Iowa State
+275,3,1:19,679,679,Kia Abrams made Jumper.,71,41,30,13,0.9981171116926532,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,Delaware State
+276,3,1:06,666,666,Seanna Johnson Turnover.,71,41,30,11,0.9982128606515105,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+277,3,0:55,655,655,Foul on Heather Bowe.,71,41,30,0,0.9982897731680087,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+278,3,0:55,655,655,Kia Abrams missed Free Throw.,71,41,30,0,0.9982897731680087,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+279,3,0:55,655,655,Delaware St Deadball Team Rebound.,71,41,30,0,0.9982897731680087,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+280,3,0:55,655,655,Kia Abrams made Free Throw.,71,42,29,8,0.9978860980971538,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,Delaware State
+281,3,0:47,647,647,Nia Washington missed Jumper.,71,42,29,0,0.99795131180617,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+282,3,0:47,647,647,Taylor Sparks-Faulkner Defensive Rebound.,71,42,29,21,0.99795131180617,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+283,3,0:26,626,626,Mikah Aldridge missed Jumper.,71,42,29,0,0.9981211457912131,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+284,3,0:26,626,626,Seanna Johnson Defensive Rebound.,71,42,29,9,0.9981211457912131,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+285,3,0:17,617,617,Nia Washington missed Three Point Jumper.,71,42,29,0,0.9981949553322594,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+286,3,0:17,617,617,NaJai Pollard Defensive Rebound.,71,42,29,11,0.9981949553322594,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+287,3,0:06,606,606,NaJai Pollard missed Jumper.,71,42,29,0,0.9982870668878718,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+288,3,0:06,606,606,Taylor Sparks-Faulkner Offensive Rebound.,71,42,29,4,0.9982870668878718,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+289,3,0:02,602,602,Taylor Sparks-Faulkner Turnover.,71,42,29,1,0.9983211966113437,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+290,3,0:01,601,601,Seanna Johnson made Three Point Jumper.,74,42,32,1,0.9991372227384171,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,Iowa State
+291,3,0:00,600,600,End of 3rd Quarter,74,42,32,13,0.9991421352326534,Iowa State,Delaware State,5,5,0,0,NA,400905218,2016-12-18,
+292,4,9:47,587,587,Foul on Alycea Sharpe.,74,42,32,1,0.9992070103209024,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+293,4,9:46,586,586,Meredith Burkhall made Free Throw.,75,42,33,0,0.9993696570605161,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,Iowa State
+294,4,9:46,586,586,Meredith Burkhall made Free Throw.,76,42,34,33,0.999495736586726,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,Iowa State
+295,4,9:13,553,553,Delaware St  Turnover.,76,42,34,4,0.9996121373004594,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+296,4,9:09,549,549,Jadda Buckley made Three Point Jumper. Assisted by Nia Washington.,79,42,37,20,0.9998137416465764,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,Iowa State
+297,4,8:49,529,529,Foul on Meredith Burkhall.,79,42,37,0,0.9998446690421838,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+298,4,8:49,529,529,Alyn Sankar missed Free Throw.,79,42,37,0,0.9998446690421838,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+299,4,8:49,529,529,Delaware St Deadball Team Rebound.,79,42,37,0,0.9998446690421838,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+300,4,8:49,529,529,Alyn Sankar missed Free Throw.,79,42,37,0,0.9998446690421838,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+301,4,8:49,529,529,Meredith Burkhall Defensive Rebound.,79,42,37,12,0.9998446690421838,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+302,4,8:37,517,517,Foul on Bridget Carleton.,79,42,37,8,0.9998586245200918,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+303,4,8:29,509,509,Jadda Buckley missed Jumper.,79,42,37,0,0.9998668147764488,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+304,4,8:29,509,509,NaJai Pollard Defensive Rebound.,79,42,37,26,0.9998668147764488,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+305,4,8:03,483,483,NaJai Pollard missed Jumper.,79,42,37,0,0.9998905817966767,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+306,4,8:03,483,483,Delaware St Offensive Rebound.,79,42,37,1,0.9998905817966767,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+307,4,8:02,482,482,Kia Abrams Turnover.,79,42,37,15,0.9998914640687362,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+308,4,7:47,467,467,Adriana Camber missed Jumper.,79,42,37,0,0.9999047969270841,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+309,4,7:47,467,467,Nia Washington Offensive Rebound.,79,42,37,9,0.9999047969270841,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+310,4,7:38,458,458,Adriana Camber missed Jumper.,79,42,37,0,0.9999129835246112,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+311,4,7:38,458,458,Genell Addison Block.,79,42,37,0,0.9999129835246112,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+312,4,7:38,458,458,Iowa State Offensive Rebound.,79,42,37,4,0.9999129835246112,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+313,4,7:34,454,454,Nia Washington missed Three Point Jumper.,79,42,37,0,0.9999166775112814,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+314,4,7:34,454,454,Claire Ricketts Offensive Rebound.,79,42,37,21,0.9999166775112814,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+315,4,7:13,433,433,Claire Ricketts made Layup. Assisted by Adriana Camber.,81,42,39,26,0.9999623047736451,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,Iowa State
+316,4,6:47,407,407,NaJai Pollard Turnover.,81,42,39,13,0.999974668011462,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+317,4,6:34,394,394,Foul on NaJai Pollard.,81,42,39,24,0.99997894426999,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+318,4,6:10,370,370,Foul on Ivana Negron.,81,42,39,0,0.9999851969146388,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+319,4,6:10,370,370,Claire Ricketts made Free Throw.,82,42,40,0,0.9999888694434275,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,Iowa State
+320,4,6:10,370,370,Claire Ricketts made Free Throw.,83,42,41,20,0.9999916308543989,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,Iowa State
+321,4,5:50,350,350,Alyn Sankar missed Jumper.,83,42,41,0,0.9999941298595422,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+322,4,5:50,350,350,NaJai Pollard Offensive Rebound.,83,42,41,0,0.9999941298595422,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+323,4,5:50,350,350,Foul on Claire Ricketts.,83,42,41,0,0.9999941298595422,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+324,4,5:50,350,350,NaJai Pollard made Free Throw.,83,43,40,0,0.9999921251643386,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,Delaware State
+325,4,5:50,350,350,NaJai Pollard missed Free Throw.,83,43,40,0,0.9999921251643386,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+326,4,5:50,350,350,Jordan Jensen Defensive Rebound.,83,43,40,19,0.9999921251643386,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+327,4,5:31,331,331,Sofija Zivaljevic Turnover.,83,43,40,2,0.999994710134585,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+328,4,5:29,329,329,Ivana Negron Steal.,83,43,40,20,0.9999949527997721,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+329,4,5:09,309,309,Lanayjha Ashe made Jumper.,83,45,38,17,0.999994407073021,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,Delaware State
+330,4,4:52,292,292,Official TV Timeout,83,45,38,11,0.9999956154709322,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+331,4,4:41,281,281,Lexi Albrecht made Three Point Jumper. Assisted by Nia Washington.,86,45,41,17,0.9999983202955658,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,Iowa State
+332,4,4:24,264,264,Alyn Sankar missed Three Point Jumper.,86,45,41,0,0.9999980026708625,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+333,4,4:24,264,264,NaJai Pollard Offensive Rebound.,86,45,41,1,0.9999980026708625,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+334,4,4:23,263,263,NaJai Pollard made Jumper.,86,47,39,0,0.9999961657011815,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,Delaware State
+335,4,4:23,263,263,Foul on Claire Ricketts.,86,47,39,0,0.9999961657011815,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+336,4,4:23,263,263,NaJai Pollard missed Free Throw.,86,47,39,0,0.9999961657011815,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+337,4,4:23,263,263,Nia Washington Defensive Rebound.,86,47,39,12,0.9999961657011815,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+338,4,4:11,251,251,Sofija Zivaljevic missed Three Point Jumper.,86,47,39,0,0.9999956070082616,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+339,4,4:11,251,251,Lanayjha Ashe Defensive Rebound.,86,47,39,8,0.9999956070082616,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+340,4,4:03,243,243,Lanayjha Ashe Turnover.,86,47,39,2,0.9999953237540794,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+341,4,4:01,241,241,Lexi Albrecht Steal.,86,47,39,12,0.9999952792561678,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+342,4,3:49,229,229,Lexi Albrecht missed Three Point Jumper.,86,47,39,0,0.9999953583539994,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+343,4,3:49,229,229,NaJai Pollard Defensive Rebound.,86,47,39,8,0.9999953583539994,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+344,4,3:41,221,221,Mikah Aldridge missed Jumper.,86,47,39,0,0.9999958104808183,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+345,4,3:41,221,221,Alyn Sankar Offensive Rebound.,86,47,39,29,0.9999958104808183,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+346,4,3:12,192,192,Ivana Negron missed Three Point Jumper.,86,47,39,0,0.9999988548023091,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+347,4,3:12,192,192,Claire Ricketts Defensive Rebound.,86,47,39,15,0.9999988548023091,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+348,4,2:57,177,177,Sofija Zivaljevic missed Three Point Jumper.,86,47,39,0,0.999999662971812,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+349,4,2:57,177,177,Lanayjha Ashe Defensive Rebound.,86,47,39,5,0.999999662971812,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+350,4,2:52,172,172,Foul on Sofija Zivaljevic.,86,47,39,0,0.9999997786381523,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+351,4,2:52,172,172,Lanayjha Ashe made Free Throw.,86,48,38,0,0.9999996721002293,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,Delaware State
+352,4,2:52,172,172,Lanayjha Ashe made Free Throw.,86,49,37,15,0.9999995142873299,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,Delaware State
+353,4,2:37,157,157,Jordan Jensen missed Jumper.,86,49,37,0,0.9999998622305682,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+354,4,2:37,157,157,Mikah Aldridge Defensive Rebound.,86,49,37,17,0.9999998622305682,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+355,4,2:20,140,140,Kia Abrams made Three Point Jumper. Assisted by Taylor Sparks-Faulkner.,86,52,34,16,0.9999998865801877,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,Delaware State
+356,4,2:04,124,124,Lexi Albrecht missed Three Point Jumper.,86,52,34,0,0.9999999775289343,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+357,4,2:04,124,124,Jordan Jensen Offensive Rebound.,86,52,34,7,0.9999999775289343,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+358,4,1:57,117,117,Nia Washington missed Jumper.,86,52,34,0,0.9999999898702688,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+359,4,1:57,117,117,Delaware St Defensive Rebound.,86,52,34,11,0.9999999898702688,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+360,4,1:46,106,106,Foul on Claire Ricketts.,86,52,34,0,0.9999999974515524,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+361,4,1:46,106,106,Mikah Aldridge made Free Throw.,86,53,33,0,0.9999999954392916,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,Delaware State
+362,4,1:46,106,106,Mikah Aldridge made Free Throw.,86,54,32,16,0.9999999918381446,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,Delaware State
+363,4,1:30,90,90,Lexi Albrecht missed Three Point Jumper.,86,54,32,0,0.9999999990727306,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+364,4,1:30,90,90,NaJai Pollard Block.,86,54,32,0,0.9999999990727306,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+365,4,1:30,90,90,Iowa State Offensive Rebound.,86,54,32,6,0.9999999990727306,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+366,4,1:24,84,84,Nia Washington Turnover.,86,54,32,14,0.99999999961091,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+367,4,1:10,70,70,NaJai Pollard missed Jumper.,86,54,32,0,0.9999999999551836,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+368,4,1:10,70,70,Claire Ricketts Block.,86,54,32,2,0.9999999999551836,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+369,4,1:08,68,68,Nia Washington Defensive Rebound.,86,54,32,5,0.9999999999676938,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+370,4,1:03,63,63,Nia Washington made Jumper. Assisted by Sofija Zivaljevic.,88,54,34,14,0.9999999999970492,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,Iowa State
+371,4,0:49,49,49,Taylor Sparks-Faulkner missed Jumper.,88,54,34,0,0.9999999999997805,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+372,4,0:49,49,49,Lexi Albrecht Defensive Rebound.,88,54,34,10,0.9999999999997805,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+373,4,0:39,39,39,Claire Ricketts Turnover.,88,54,34,2,0.99999999999997,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+374,4,0:37,37,37,Mikah Aldridge Steal.,88,54,34,3,0.9999999999999801,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+375,4,0:34,34,34,Foul on Nia Washington.,88,54,34,0,0.9999999999999895,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+376,4,0:34,34,34,Mikah Aldridge made Free Throw.,88,55,33,0,0.9999999999999727,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,Delaware State
+377,4,0:34,34,34,Mikah Aldridge made Free Throw.,88,56,32,9,0.9999999999999296,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,Delaware State
+378,4,0:25,25,25,Foul on Alyn Sankar.,88,56,32,0,0.9999999999999886,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+379,4,0:25,25,25,Claire Ricketts missed Free Throw.,88,56,32,0,0.9999999999999886,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+380,4,0:25,25,25,Iowa State Deadball Team Rebound.,88,56,32,0,0.9999999999999886,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+381,4,0:25,25,25,Claire Ricketts missed Free Throw.,88,56,32,0,0.9999999999999886,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+382,4,0:25,25,25,Taylor Sparks-Faulkner Defensive Rebound.,88,56,32,16,0.9999999999999886,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+383,4,0:09,9,9,Kia Abrams missed Three Point Jumper.,88,56,32,0,0.9999999999999997,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+384,4,0:09,9,9,Delaware St Deadball Team Rebound.,88,56,32,2,0.9999999999999997,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+385,4,0:07,7,7,Foul on Claire Ricketts.,88,56,32,0,0.9999999999999998,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+386,4,0:07,7,7,Alyn Sankar made Free Throw.,88,57,31,0,0.9999999999999993,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,Delaware State
+387,4,0:07,7,7,Alyn Sankar missed Free Throw.,88,57,31,0,0.9999999999999993,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+388,4,0:07,7,7,Lexi Albrecht Defensive Rebound.,88,57,31,7,0.9999999999999993,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
+389,4,0:00,0,0,End of Game,88,57,31,0,1,Iowa State,Delaware State,6,6,0,0,NA,400905218,2016-12-18,
